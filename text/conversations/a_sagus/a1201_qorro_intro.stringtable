@@ -15,7 +15,7 @@ Als er dich ansprechen will, bemerkt er Callistege.</DefaultText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Mein Name ist Qorro“, sagt er und hebt eine behandschuhte Hand. „Nein nein, nicht nötig, dass ihr euch vorstellt. Wir werden uns nicht lange kennen, und ich bin wirklich schlecht mit Namen, Gesichtern und Leuten im Allgemeinen.“
+      <DefaultText>„Mein Name ist Qorro“, sagt er und hebt eine behandschuhte Hand. „Nein, nein, nicht nötig, dass ihr euch vorstellt. Wir werden uns nicht lange kennen, und ich bin wirklich schlecht mit Namen, Gesichtern und Leuten im Allgemeinen.“
 
 Er senkt die Hand und ballt sie beiläufig zur Faust. „Wie auch immer. Habt Ihr zufällig eine Sternschnuppe gesehen, die hier vor Kurzem niedergegangen ist?“</DefaultText>
       <FemaleText />
@@ -67,7 +67,7 @@ Er senkt die Hand und ballt sie beiläufig zur Faust. „Wie auch immer. Habt Ih
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Das gefällt mir nicht“, flüstert Aligern dir ins Ohr - laut genug, dass Callistege es ebenfalls hört. „Wenn nicht mal *sie* dem Typen traut, kann das nur Ärger bedeuten.“</DefaultText>
+      <DefaultText>„Das gefällt mir nicht“, flüstert Aligern dir ins Ohr – laut genug, dass Callistege es ebenfalls hört. „Wenn nicht mal *sie* dem Typen traut, kann das nur Ärger bedeuten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,7 +87,7 @@ Er senkt die Hand und ballt sie beiläufig zur Faust. „Wie auch immer. Habt Ih
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Ich bin auch wegen der 'Sternschnuppe' hier. Und im Gegensatz zu euch will ich sie - und alle ihre Geheimnisse - für mich selbst.“
+      <DefaultText>„Ich bin auch wegen der 'Sternschnuppe' hier. Und im Gegensatz zu euch will ich sie – und alle ihre Geheimnisse – für mich selbst.“
 
 {SCRIPT: This check maxes out at Very Hard, but the following modifiers can apply: 1. PC being Dominant Silver OR Blue (but not both) makes the DT slightly easier. 2. PC being Dominant Silver AND Blue makes the DT moderately easier. 3. a1201_QorroPreCrisis=1 makes the DT slightly easier. 4. a1201_QorroPreCrisis=2 negates the above Tidal bonuses, making the DT Very Hard again. 5.Each increment of the a1201_PCirritatedQorro variable makes the DT slightly harder.}</DefaultText>
       <FemaleText />
@@ -101,7 +101,7 @@ Er senkt die Hand und ballt sie beiläufig zur Faust. „Wie auch immer. Habt Ih
       <ID>21</ID>
       <DefaultText>Qorro mustert dich lange und sorgfältig. Dann seufzt er.
 
-„Ein nobles Ziel. Wäre ich nicht so verliebt in-“ Er hüstelt, errötet und fährt dann fort. „Gewisse Dinge, und nicht in so großer Geldnot, würde ich wohl dasselbe tun. Viel Glück bei der Jagd. Vielleicht sehen wir uns ja wieder.“</DefaultText>
+„Ein nobles Ziel. Wäre ich nicht so verliebt in–“ Er hüstelt, errötet und fährt dann fort. „Gewisse Dinge, und nicht in so großer Geldnot, würde ich wohl dasselbe tun. Viel Glück bei der Jagd. Vielleicht sehen wir uns ja wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,9 +286,9 @@ Dann … Dunkelheit.</DefaultText>
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Er hält einen Finger hoch. „Erste Option - ihr ergebt euch und wir bringen euch zu meinem Auftraggeber, wo euch, offen gesagt, Experimente und Aufgeschlitztwerden erwarten. Das ist nicht schön, aber so ist es eben.“
+      <DefaultText>Er hält einen Finger hoch. „Erste Option – ihr ergebt euch und wir bringen euch zu meinem Auftraggeber, wo euch, offen gesagt, Experimente und aufgeschlitzt werden erwarten. Das ist nicht schön, aber so ist es eben.“
 
-Er hält einen zweiten Finger hoch. „Zweite Option - wir töten dich und den Alten, *versuchen*, Callistege nicht umzubringen und bringen dich als Leiche zu unseren Auftraggebern.“
+Er hält einen zweiten Finger hoch. „Zweite Option – wir töten dich und den Alten, *versuchen*, Callistege nicht umzubringen und bringen dich als Leiche zu unseren Auftraggebern.“
 
 Er zwinkert Callistege zu. „Nichts für ungut, Süße.“</DefaultText>
       <FemaleText />
@@ -413,7 +413,7 @@ Er zwinkert Callistege zu. „Nichts für ungut, Süße.“</DefaultText>
       <ID>99</ID>
       <DefaultText>„Nun, wenn ich das wüsste, müsste ich hier keine hochgeborenen Reisenden belästigen. Ich habe sie nicht mit eigenen Augen gesehen. Mein Auftraggeber hat sie beobachtet und sich sofort gedacht: 'Wer sind die vertrauenswürdigsten Leute, die ich auf der Stelle danach losschicken kann?“
 
-Er zwinkert dir zu. „Glücklicherweise hatten die keine Zeit. Wir waren ebenfalls interessiert und noch nicht zu betrunken, daher ….“</DefaultText>
+Er zwinkert dir zu. „Glücklicherweise hatten die keine Zeit. Wir waren ebenfalls interessiert und noch nicht zu betrunken, daher …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -440,7 +440,7 @@ Er zwinkert dir zu. „Glücklicherweise hatten die keine Zeit. Wir waren ebenfa
       <ID>105</ID>
       <DefaultText>Qorro blinzelt. Du bemerkst, dass er ein wenig eifersüchtig wirkt.
 
-„Ein nobles Ziel. Wäre ich nicht so verliebt in-“ Er hüstelt, errötet und fährt dann fort. „Gewisse Dinge, und nicht in so großer Geldnot, würde ich wohl dasselbe tun. Viel Glück bei der Jagd. Vielleicht sehen wir uns ja wieder.“</DefaultText>
+„Ein nobles Ziel. Wäre ich nicht so verliebt in–“ Er hüstelt, errötet und fährt dann fort. „Gewisse Dinge, und nicht in so großer Geldnot, würde ich wohl dasselbe tun. Viel Glück bei der Jagd. Vielleicht sehen wir uns ja wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@ Er zwinkert dir zu. „Glücklicherweise hatten die keine Zeit. Wir waren ebenfa
       <ID>128</ID>
       <DefaultText>„Ah, Drohungen. Wie schön. Wäre eine Schande gewesen, wenn ich meine wunderbare Falle umsonst vorbereitet hätte.“
 
-Qorra ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein Signal.</DefaultText>
+Qorro ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein Signal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -549,7 +549,7 @@ Qorra ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein S
       <ID>133</ID>
       <DefaultText>Qorro seufzt enttäuscht.
 
-„Na schön“, sagt er. „Lasst uns wissen, wenn Euch etwas Interessantes unterkommt. Ich würde ja gerne sagen, dass eine Belohnung für Euch dabei drin ist, aber wenn wir Geld  hätten, wären wir nicht hier unten, was?“</DefaultText>
+„Na schön“, sagt er. „Lasst uns wissen, wenn Euch etwas Interessantes unterkommt. Ich würde ja gerne sagen, dass eine Belohnung für Euch dabei drin ist, aber wenn wir Geld hätten, wären wir nicht hier unten, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -596,12 +596,12 @@ Qorra ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein S
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>„Ich traue denen nicht“, flüstert Aligern dir ins Ohr - laut genug, dass Callistege es ebenfalls hört. „Ihre Freunde sind alle Betrüger, Mörder oder beides.“</DefaultText>
+      <DefaultText>„Ich traue denen nicht“, flüstert Aligern dir ins Ohr – laut genug, dass Callistege es ebenfalls hört. „Ihre Freunde sind alle Betrüger, Mörder oder beides.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>„Natürlich! Aber zuerst eine Frage, so zwischen zwei Reisenden. Vor nicht allzulanger Zeit ist hier eine Sternschnuppe niedergegangen. Ich frage mich, ob du zufällig etwas darüber weißt.“</DefaultText>
+      <DefaultText>„Natürlich! Aber zuerst eine Frage, so zwischen zwei Reisenden. Vor nicht allzu langer Zeit ist hier eine Sternschnuppe niedergegangen. Ich frage mich, ob du zufällig etwas darüber weißt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -644,7 +644,7 @@ Ihr Anführer ist ein drahtiger Mann mit zwei parallel von der Wange bis zur Sch
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Sie beugt sich zu dir und flüstert: „Sei auf der Hut, Kind. Ich kenne Qorro. Ich wette, er weiß *genau*, wo - und wer - die 'Sternschnuppe' ist, und er wird sie nicht kampflos gehen lassen.“</DefaultText>
+      <DefaultText>Sie beugt sich zu dir und flüstert: „Sei auf der Hut, Kind. Ich kenne Qorro. Ich wette, er weiß *genau*, wo – und wer – die 'Sternschnuppe' ist, und er wird sie nicht kampflos gehen lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -654,7 +654,7 @@ Ihr Anführer ist ein drahtiger Mann mit zwei parallel von der Wange bis zur Sch
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>(Lüge): „Ich bin auch wegen der 'Sternschnuppe' hier. Und im Gegensatz zu dir will ich sie - und alle ihre Geheimnisse - für mich selbst.“</DefaultText>
+      <DefaultText>(Lüge): „Ich bin auch wegen der 'Sternschnuppe' hier. Und im Gegensatz zu dir will ich sie – und alle ihre Geheimnisse – für mich selbst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -708,7 +708,7 @@ Ihr Anführer ist ein drahtiger Mann mit zwei parallel von der Wange bis zur Sch
       <ID>164</ID>
       <DefaultText>„Ah, Drohungen. Wie schön. Wäre eine Schande gewesen, wenn ich meine wunderbare Falle umsonst vorbereitet hätte.“
 
-Qorra ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein Signal.</DefaultText>
+Qorro ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein Signal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -747,7 +747,7 @@ Qorra ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein S
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>[Okkulte Aktionen befinden sich in der unteren Reihe der Aktionsleiste. Der Angriff auf einen Feind ist ebenfalls eine okkulte Aktion. Okkulte Aktionen sind komplexere Aktionen, die deinen Aufmerksamkeit verlangen, wie Waffenangriffe, das Zaubern von Esoterien, der Versuch, sich zu verstecken, oder die Flucht, um zu rasten und einige Werte-Pool-Punkte zu regenerieren.]</DefaultText>
+      <DefaultText>[Okkulte Aktionen befinden sich in der unteren Reihe der Aktionsleiste. Der Angriff auf einen Feind ist ebenfalls eine okkulte Aktion. Okkulte Aktionen sind komplexere Aktionen, die deine Aufmerksamkeit verlangen, wie Waffenangriffe, das Zaubern von Esoterien, der Versuch, sich zu verstecken, oder die Flucht, um zu rasten und einige Werte-Pool-Punkte zu regenerieren.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
