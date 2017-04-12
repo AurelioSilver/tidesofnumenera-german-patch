@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Das in Qorros Unterarm eingebettete Panel aus Hartglas ist blutverschmiert. Darunter blinken Lichter und Anzeigen im Takt mit den Krämpfen der Energie an den deaktivierten Brückenenden.</DefaultText>
-      <FemaleText>Das in Qorros Unterarm eingebettete Panel aus Hartglas ist blutverschmiert. Darunter blinken Lichter und Anzeigen im Takt mit den Krämpfen der Energie an den deaktivierten Brückenenden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -32,12 +32,12 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>Stampfe auf das Panel.</DefaultText>
-      <FemaleText>Stampfe auf das Panel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Versuche erneut, auf das Panel zu stampfen.</DefaultText>
-      <FemaleText>Versuche erneut, auf das Panel zu stampfen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
@@ -47,12 +47,12 @@
     <Entry>
       <ID>15</ID>
       <DefaultText>Finde heraus, wie man den Apparat ausschaltet.</DefaultText>
-      <FemaleText>Finde heraus, wie man den Apparat ausschaltet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Versuche erneut herauszufinden, wie der Apparat ausgeschaltet werden kann.</DefaultText>
-      <FemaleText>Versuche erneut herauszufinden, wie der Apparat ausgeschaltet werden kann.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -62,27 +62,27 @@
     <Entry>
       <ID>18</ID>
       <DefaultText>Öffne das Panel aus Hartglas.</DefaultText>
-      <FemaleText>Öffne das Panel aus Hartglas.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Versuche erneut, das Panel aus Hartglas zu öffnen.</DefaultText>
-      <FemaleText>Versuche erneut, das Panel aus Hartglas zu öffnen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Geh weiter.</DefaultText>
-      <FemaleText>Geh weiter.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Deine Ferse landet mit einem befriedigenden Knacken auf dem Apparat. Nachdem du den äußeren Rahmen herausgerissen hast, erblickst du eine beunruhigende Menge Blut und Verkabelung.</DefaultText>
-      <FemaleText>Deine Ferse landet mit einem befriedigenden Knacken auf dem Apparat. Nachdem du den äußeren Rahmen herausgerissen hast, erblickst du eine beunruhigende Menge Blut und Verkabelung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Du stampfst fest mit dem Fuß auf, doch Qorros Fleisch gibt nach und dreht sich. Der Apparat ist unversehrt.</DefaultText>
-      <FemaleText>Du stampfst fest mit dem Fuß auf, doch Qorros Fleisch gibt nach und dreht sich. Der Apparat ist unversehrt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -102,7 +102,7 @@
     <Entry>
       <ID>26</ID>
       <DefaultText>Du studierst die Fluktuationen des Lichts in Qorros Handfläche, während du seine sich versteifenden Finger bewegst, doch du kannst die Beziehung zwischen den beiden nicht ausmachen.</DefaultText>
-      <FemaleText>Du studierst die Fluktuationen des Lichts in Qorros Handfläche, während du seine sich versteifenden Finger bewegst, doch du kannst die Beziehung zwischen den beiden nicht ausmachen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -117,12 +117,12 @@
     <Entry>
       <ID>29</ID>
       <DefaultText>Du schiebst einen Fingernagel unter den Rand des Panels, rutschst an die Verriegelung und hebelst sie auf.</DefaultText>
-      <FemaleText>Du schiebst einen Fingernagel unter den Rand des Panels, rutschst an die Verriegelung und hebelst sie auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Du ergreifst die Ränder des Panels und ziehst ruckartig daran, doch es rührt sich nicht. Qorro muss es verriegelt haben, so dass nur er es öffnen konnte.</DefaultText>
-      <FemaleText>Du ergreifst die Ränder des Panels und ziehst ruckartig daran, doch es rührt sich nicht. Qorro muss es verriegelt haben, so dass nur er es öffnen konnte.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -137,7 +137,7 @@
     <Entry>
       <ID>33</ID>
       <DefaultText>Befreit von Qorros Einschränkung summen die leichten Brückengeneratoren wieder vor Leben.</DefaultText>
-      <FemaleText>Befreit von Qorros Einschränkung summen die leichten Brückengeneratoren wieder vor Leben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -147,47 +147,47 @@
     <Entry>
       <ID>39</ID>
       <DefaultText>Der Apparat, der in Qorros Arm eingebettet ist, blinkt noch immer und macht ein eindringliches zwitscherndes Geräusch.</DefaultText>
-      <FemaleText>Der Apparat, der in Qorros Arm eingebettet ist, blinkt noch immer und macht ein eindringliches zwitscherndes Geräusch.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Das Panel aus Hartglas wurde entfernt.</DefaultText>
-      <FemaleText>Das Panel aus Hartglas wurde entfernt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Die Steuerung wurde aufgeschlagen, wodurch eine beunruhigende Menge Blut und Verkabelung freigelegt wurde.</DefaultText>
-      <FemaleText>Die Steuerung wurde aufgeschlagen, wodurch eine beunruhigende Menge Blut und Verkabelung freigelegt wurde.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>Die Stromverbindung, die du zertrümmern muss, sollte sich ungefähr vier Zentimeter unter Qorros Faust befinden.</DefaultText>
-      <FemaleText>Die Stromverbindung, die du zertrümmern muss, sollte sich ungefähr vier Zentimeter unter Qorros Faust befinden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>Du musst allerdings zuerst das Panel aus Hartglas öffnen.</DefaultText>
-      <FemaleText>Du musst allerdings zuerst das Panel aus Hartglas öffnen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>Diese Stromverbindung sollte sich ungefähr vier Zentimeter von Qorros Faust entfernt befinden.</DefaultText>
-      <FemaleText>Diese Stromverbindung sollte sich ungefähr vier Zentimeter von Qorros Faust entfernt befinden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>Die Stromverbindung sollte sich ungefähr vier Zentimeter von Qorros Faust entfernt befinden. An dieser Stelle muss dein nächster Schlag landen.</DefaultText>
-      <FemaleText>Die Stromverbindung sollte sich ungefähr vier Zentimeter von Qorros Faust entfernt befinden. An dieser Stelle muss dein nächster Schlag landen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>Hier ist eine Reihe von Steuerungen und Anzeigen freigelegt. Nun musst du einfach herausfinden, welche von ihnen den Apparat ausschalten wird.</DefaultText>
-      <FemaleText>Hier ist eine Reihe von Steuerungen und Anzeigen freigelegt. Nun musst du einfach herausfinden, welche von ihnen den Apparat ausschalten wird.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>Du musst dieses Chaos durchschauen, um den Apparat zu deaktivieren.</DefaultText>
-      <FemaleText>Du musst dieses Chaos durchschauen, um den Apparat zu deaktivieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -197,22 +197,22 @@
     <Entry>
       <ID>49</ID>
       <DefaultText>Zertrümmere die Stromverbindung.</DefaultText>
-      <FemaleText>Zertrümmere die Stromverbindung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>Versuche erneut, die Stromverbindung zu zertrümmern.</DefaultText>
-      <FemaleText>Versuche erneut, die Stromverbindung zu zertrümmern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>Deine Faust landet präzise genau dort, wo sich die Stromverbindung befinden müsste. Der Apparat platzt auf und zischt und der Geruch von verbranntem Fleisch steigt dir in die Nase. Kurz darauf wird der Apparat dunkel.</DefaultText>
-      <FemaleText>Deine Faust landet präzise genau dort, wo sich die Stromverbindung befinden müsste. Der Apparat platzt auf und zischt und der Geruch von verbranntem Fleisch steigt dir in die Nase. Kurz darauf wird der Apparat dunkel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>Du schlägst mit der Faust auf den Apparat. Er zerbricht, doch ansonsten geschieht nichts. Entweder hast du die Stromverbindung verfehlt oder du hast nicht fest genug zugeschlagen.</DefaultText>
-      <FemaleText>Du schlägst mit der Faust auf den Apparat. Er zerbricht, doch ansonsten geschieht nichts. Entweder hast du die Stromverbindung verfehlt oder du hast nicht fest genug zugeschlagen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
@@ -222,22 +222,22 @@
     <Entry>
       <ID>55</ID>
       <DefaultText>Finde heraus, welches der blutigen Kabel den Apparat deaktivieren wird.</DefaultText>
-      <FemaleText>Finde heraus, welches der blutigen Kabel den Apparat deaktivieren wird.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>Versuche erneut, herauszufinden, wie die blutigen Kabel verwendet werden können, um den Apparat zu deaktivieren.</DefaultText>
-      <FemaleText>Versuche erneut, herauszufinden, wie die blutigen Kabel verwendet werden können, um den Apparat zu deaktivieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
       <DefaultText>Du wühlst dich durch die blutige Verkabelung und findest etwas, das wie eine organische Stromverbindung aussieht. Es ist einfach, sie zu durchtrennen, wonach der Apparat sofort dunkel wird.</DefaultText>
-      <FemaleText>Du wühlst dich durch die blutige Verkabelung und findest etwas, das wie eine organische Stromverbindung aussieht. Es ist einfach, sie zu durchtrennen, wonach der Apparat sofort dunkel wird.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
       <DefaultText>Du versuchst, ein paar Kabel herauszureißen, doch der Apparat zwitschert unaufhörlich. Es ist sowohl ekelhaft als auch vergeblich, sich durch die Kabel und Sehnen zu arbeiten. Du wirst mehr Zeit brauchen, um das hier herauszufinden.</DefaultText>
-      <FemaleText>Du versuchst, ein paar Kabel herauszureißen, doch der Apparat zwitschert unaufhörlich. Es ist sowohl ekelhaft als auch vergeblich, sich durch die Kabel und Sehnen zu arbeiten. Du wirst mehr Zeit brauchen, um das hier herauszufinden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
@@ -247,7 +247,7 @@
     <Entry>
       <ID>60</ID>
       <DefaultText>Du musst zuerst das Panel aus Hartglas öffnen.</DefaultText>
-      <FemaleText>Du musst zuerst das Panel aus Hartglas öffnen.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
