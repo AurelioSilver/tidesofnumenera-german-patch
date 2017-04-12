@@ -15,24 +15,24 @@ Als er dich ansprechen will, bemerkt er Callistege.</DefaultText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Mein Name ist Qorro", sagt er und hebt eine behandschuhte Hand. "Nein nein, nicht nötig, dass ihr euch vorstellt. Wir werden uns nicht lange kennen, und ich bin wirklich schlecht mit Namen, Gesichtern und Leuten im Allgemeinen." 
+      <DefaultText>„Mein Name ist Qorro“, sagt er und hebt eine behandschuhte Hand. „Nein nein, nicht nötig, dass ihr euch vorstellt. Wir werden uns nicht lange kennen, und ich bin wirklich schlecht mit Namen, Gesichtern und Leuten im Allgemeinen.“
 
-Er senkt die Hand und ballt sie beiläufig zur Faust. "Wie auch immer. Habt Ihr zufällig eine Sternschnuppe gesehen, die hier vor Kurzem niedergegangen ist?"</DefaultText>
+Er senkt die Hand und ballt sie beiläufig zur Faust. „Wie auch immer. Habt Ihr zufällig eine Sternschnuppe gesehen, die hier vor Kurzem niedergegangen ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wo soll diese Sternschnuppe gelandet sein?"</DefaultText>
+      <DefaultText>„Wo soll diese Sternschnuppe gelandet sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Das war keine 'Sternschnuppe'."</DefaultText>
+      <DefaultText>„Das war keine 'Sternschnuppe'.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>(Wahrheit) "*Ich* bin vom Himmel gefallen. Keine Sternschnuppe."</DefaultText>
+      <DefaultText>(Wahrheit) „*Ich* bin vom Himmel gefallen. Keine Sternschnuppe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,11 +43,11 @@ Er senkt die Hand und ballt sie beiläufig zur Faust. "Wie auch immer. Habt Ihr 
     <Entry>
       <ID>7</ID>
       <DefaultText>[DEBUG: Start der Krise!]</DefaultText>
-      <FemaleText>[DEBUG: Start der Krise!]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Interessant", sagt Qorro. Obwohl er kein sichtbares Signal gibt, spannen seine drei Begleiter ihre Muskeln an. "Warum sagst du das?"</DefaultText>
+      <DefaultText>„Interessant“, sagt Qorro. Obwohl er kein sichtbares Signal gibt, spannen seine drei Begleiter ihre Muskeln an. „Warum sagst du das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,17 +57,17 @@ Er senkt die Hand und ballt sie beiläufig zur Faust. "Wie auch immer. Habt Ihr 
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Kleinkram, Qorro. Nichts, was dich interessieren würde, glaub mir." Sie spricht ruhig, aber auch sie ist angespannt.</DefaultText>
+      <DefaultText>„Kleinkram, Qorro. Nichts, was dich interessieren würde, glaub mir.“ Sie spricht ruhig, aber auch sie ist angespannt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Stimmt etwas nicht, Callistege?"</DefaultText>
+      <DefaultText>„Stimmt etwas nicht, Callistege?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Das gefällt mir nicht", flüstert Aligern dir ins Ohr - laut genug, dass Callistege es ebenfalls hört. "Wenn nicht mal *sie* dem Typen traut, kann das nur Ärger bedeuten."</DefaultText>
+      <DefaultText>„Das gefällt mir nicht“, flüstert Aligern dir ins Ohr - laut genug, dass Callistege es ebenfalls hört. „Wenn nicht mal *sie* dem Typen traut, kann das nur Ärger bedeuten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,7 +77,7 @@ Er senkt die Hand und ballt sie beiläufig zur Faust. "Wie auch immer. Habt Ihr 
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Alles in Ordnung, Liebes. Ich habe Qorro vor langer Zeit einmal auf einer Expedition begleitet. Seine Methoden waren etwas zu ... krass für meinen Geschmack. Zu seiner Verteidigung sei jedoch gesagt, dass er *mich* nie hinterrücks zu meucheln versucht hat." Sie strahlt Qorro an. "Oder falls doch, hat er versagt, denn ich habe nichts davon bemerkt."</DefaultText>
+      <DefaultText>„Alles in Ordnung, Liebes. Ich habe Qorro vor langer Zeit einmal auf einer Expedition begleitet. Seine Methoden waren etwas zu … krass für meinen Geschmack. Zu seiner Verteidigung sei jedoch gesagt, dass er *mich* nie hinterrücks zu meucheln versucht hat.“ Sie strahlt Qorro an. „Oder falls doch, hat er versagt, denn ich habe nichts davon bemerkt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,28 +87,28 @@ Er senkt die Hand und ballt sie beiläufig zur Faust. "Wie auch immer. Habt Ihr 
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ich bin auch wegen der 'Sternschnuppe' hier. Und im Gegensatz zu euch will ich sie - und alle ihre Geheimnisse - für mich selbst."
+      <DefaultText>„Ich bin auch wegen der 'Sternschnuppe' hier. Und im Gegensatz zu euch will ich sie - und alle ihre Geheimnisse - für mich selbst.“
 
 {SCRIPT: This check maxes out at Very Hard, but the following modifiers can apply: 1. PC being Dominant Silver OR Blue (but not both) makes the DT slightly easier. 2. PC being Dominant Silver AND Blue makes the DT moderately easier. 3. a1201_QorroPreCrisis=1 makes the DT slightly easier. 4. a1201_QorroPreCrisis=2 negates the above Tidal bonuses, making the DT Very Hard again. 5.Each increment of the a1201_PCirritatedQorro variable makes the DT slightly harder.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Was für ein Interesse habt ihr an dieser 'Sternschnuppe'?"</DefaultText>
+      <DefaultText>„Was für ein Interesse habt ihr an dieser 'Sternschnuppe'?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Qorro mustert dich lange und sorgfältig. Dann seufzt er. 
+      <DefaultText>Qorro mustert dich lange und sorgfältig. Dann seufzt er.
 
-"Ein nobles Ziel. Wäre ich nicht so verliebt in-" Er hüstelt, errötet und fährt dann fort. "Gewisse Dinge, und nicht in so großer Geldnot, würde ich wohl dasselbe tun. Viel Glück bei der Jagd. Vielleicht sehen wir uns ja wieder."</DefaultText>
+„Ein nobles Ziel. Wäre ich nicht so verliebt in-“ Er hüstelt, errötet und fährt dann fort. „Gewisse Dinge, und nicht in so großer Geldnot, würde ich wohl dasselbe tun. Viel Glück bei der Jagd. Vielleicht sehen wir uns ja wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Qorro mustert dich lange und sorgfältig und seufzt schließlich. 
+      <DefaultText>Qorro mustert dich lange und sorgfältig und seufzt schließlich.
 
-"Es ist mehr als offensichtlich, dass du von dem großen rauchenden Krater da drüben kommst. Außerdem kenne ich alle Jäger in der Stadt, und dich habe ich hier noch nie gesehen. Seien wir ehrlich miteinander, Sternschnuppe. Du hast zwei Möglichkeiten, und beide sind nicht schön für dich."</DefaultText>
+„Es ist mehr als offensichtlich, dass du von dem großen rauchenden Krater da drüben kommst. Außerdem kenne ich alle Jäger in der Stadt, und dich habe ich hier noch nie gesehen. Seien wir ehrlich miteinander, Sternschnuppe. Du hast zwei Möglichkeiten, und beide sind nicht schön für dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,11 +138,11 @@ Er senkt die Hand und ballt sie beiläufig zur Faust. "Wie auch immer. Habt Ihr 
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Wie nett, dass du fragst!" Qorro klatscht erfreut in die Hände. "Viel zu wenige Leute interessieren sich für die undurchsichtigen Motive bezahlter Entdecker." Er breitet die Arme aus, als würde er den Himmel umarmen, und fährt fort.
+      <DefaultText>„Wie nett, dass du fragst!“ Qorro klatscht erfreut in die Hände. „Viel zu wenige Leute interessieren sich für die undurchsichtigen Motive bezahlter Entdecker.“ Er breitet die Arme aus, als würde er den Himmel umarmen, und fährt fort.
 
-"Die Welt ist voller Ruinen und faszinierender Geheimnissen. Das Problem ist nur, dass *jeder* so etwas finden kann. Aber etwas, das vom Himmel fällt? Das ist ein viel seltenerer Fund und kann einen Mann berühmt machen." 
+„Die Welt ist voller Ruinen und faszinierender Geheimnissen. Das Problem ist nur, dass *jeder* so etwas finden kann. Aber etwas, das vom Himmel fällt? Das ist ein viel seltenerer Fund und kann einen Mann berühmt machen.“
 
-Nach einer kurzen Pause fügt er hinzu: "Außerdem werden wir ganz gut bezahlt. Das hilft."</DefaultText>
+Nach einer kurzen Pause fügt er hinzu: „Außerdem werden wir ganz gut bezahlt. Das hilft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -182,12 +182,12 @@ Nach einer kurzen Pause fügt er hinzu: "Außerdem werden wir ganz gut bezahlt. 
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Er wirbelt zu Callistege herum, sein Gesicht weiß vor Wut. "*Du* hast ihm *gesagt*, dass wir hier sind, nicht wahr? Du konntest nicht widerstehen, mich wieder mal zu verraten."</DefaultText>
+      <DefaultText>Er wirbelt zu Callistege herum, sein Gesicht weiß vor Wut. „*Du* hast ihm *gesagt*, dass wir hier sind, nicht wahr? Du konntest nicht widerstehen, mich wieder mal zu verraten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Qorro ballt seine behandschuhte Faust und ein leiser Pfiff durchbricht die Stille. "Was sagt *Ihr*, Sternschnuppe?"</DefaultText>
+      <DefaultText>Qorro ballt seine behandschuhte Faust und ein leiser Pfiff durchbricht die Stille. „Was sagt *Ihr*, Sternschnuppe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -202,7 +202,7 @@ Nach einer kurzen Pause fügt er hinzu: "Außerdem werden wir ganz gut bezahlt. 
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ich komme nicht mit Euch."</DefaultText>
+      <DefaultText>„Ich komme nicht mit Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,7 +212,7 @@ Nach einer kurzen Pause fügt er hinzu: "Außerdem werden wir ganz gut bezahlt. 
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Wie schade", sagt Qorro. Er blickt auf seine Kameraden. "Jetzt!"</DefaultText>
+      <DefaultText>„Wie schade“, sagt Qorro. Er blickt auf seine Kameraden. „Jetzt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -232,21 +232,21 @@ Nach einer kurzen Pause fügt er hinzu: "Außerdem werden wir ganz gut bezahlt. 
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Gut. Ich ergebe mich."</DefaultText>
+      <DefaultText>„Gut. Ich ergebe mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Eine weise Wahl." Qorro schlendert breit lächelnd auf dich zu. "Wir könnten Euch auch einfach fesseln, aber ... so ist es vermutlich sicherer." 
+      <DefaultText>„Eine weise Wahl.“ Qorro schlendert breit lächelnd auf dich zu. „Wir könnten Euch auch einfach fesseln, aber … so ist es vermutlich sicherer.“
 
-Bevor du reagieren kannst, schlägt er dir den Ellbogen ins Gesicht. Du siehst ein grelles Licht.  
+Bevor du reagieren kannst, schlägt er dir den Ellbogen ins Gesicht. Du siehst ein grelles Licht.
 
-Dann ... Dunkelheit.</DefaultText>
+Dann … Dunkelheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Was zur Hölle tust du da?" zischt sie. "Wir sind stärker als die!"</DefaultText>
+      <DefaultText>„Was zur Hölle tust du da?“ zischt sie. „Wir sind stärker als die!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,31 +266,31 @@ Dann ... Dunkelheit.</DefaultText>
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Da hat sie recht, Kumpel. Warum tust du das?"</DefaultText>
-      <FemaleText>"Da hat sie recht, Mädchen. Warum tust du das?"</FemaleText>
+      <DefaultText>„Da hat sie recht, Kumpel. Warum tust du das?“</DefaultText>
+      <FemaleText>„Da hat sie recht, Mädchen. Warum tust du das?“</FemaleText>
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Ich möchte nicht, dass jemand sein Leben für mich aufs Spiel setzt."</DefaultText>
+      <DefaultText>„Ich möchte nicht, dass jemand sein Leben für mich aufs Spiel setzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Ich möchte wissen, wer ihn engagiert hat."</DefaultText>
+      <DefaultText>„Ich möchte wissen, wer ihn engagiert hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>[Angriff] "Mir nach ..."</DefaultText>
+      <DefaultText>[Angriff] „Mir nach …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Er hält einen Finger hoch. "Erste Option - ihr ergebt euch und wir bringen euch zu meinem Auftraggeber, wo euch, offen gesagt, Experimente und Aufgeschlitztwerden erwarten. Das ist nicht schön, aber so ist es eben."
+      <DefaultText>Er hält einen Finger hoch. „Erste Option - ihr ergebt euch und wir bringen euch zu meinem Auftraggeber, wo euch, offen gesagt, Experimente und Aufgeschlitztwerden erwarten. Das ist nicht schön, aber so ist es eben.“
 
-Er hält einen zweiten Finger hoch. "Zweite Option - wir töten dich und den Alten, *versuchen*, Callistege nicht umzubringen und bringen dich als Leiche zu unseren Auftraggebern."
+Er hält einen zweiten Finger hoch. „Zweite Option - wir töten dich und den Alten, *versuchen*, Callistege nicht umzubringen und bringen dich als Leiche zu unseren Auftraggebern.“
 
-Er zwinkert Callistege zu. "Nichts für ungut, Süße."</DefaultText>
+Er zwinkert Callistege zu. „Nichts für ungut, Süße.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,12 +320,12 @@ Er zwinkert Callistege zu. "Nichts für ungut, Süße."</DefaultText>
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ich bin Euch keinerlei Antworten schuldig."</DefaultText>
-      <FemaleText>"Ich bin dir keinerlei Antworten schuldig."</FemaleText>
+      <DefaultText>„Ich bin Euch keinerlei Antworten schuldig.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>(Lügen) "Eure 'Sternschnuppe' war eine Fluchtkapsel. Ich konnte Metallplatten und Luftrohre erkennen, bevor sie abgestürzt ist."</DefaultText>
+      <DefaultText>(Lügen) „Eure 'Sternschnuppe' war eine Fluchtkapsel. Ich konnte Metallplatten und Luftrohre erkennen, bevor sie abgestürzt ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -340,18 +340,18 @@ Er zwinkert Callistege zu. "Nichts für ungut, Süße."</DefaultText>
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Was für ein scharfes Auge du hast", bemerkt Qorro. Seine Partner entspannen sich ein wenig.</DefaultText>
+      <DefaultText>„Was für ein scharfes Auge du hast“, bemerkt Qorro. Seine Partner entspannen sich ein wenig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Wie wahr, wie wahr", sagt Qorro. Die in seinen Handschuhen eingewebten Lichter pulsieren schneller. "Das bist du tatsächlich nicht. Allerdings weise ich dich darauf hin, dass die Wahrheit, im Gegensatz zu ihrer hässlichen Cousine, der Lüge, verhindern kann, dass dieses Gespräch sich in eine sehr unangenehme Richtung entwickelt. Denke daran."</DefaultText>
+      <DefaultText>„Wie wahr, wie wahr“, sagt Qorro. Die in seinen Handschuhen eingewebten Lichter pulsieren schneller. „Das bist du tatsächlich nicht. Allerdings weise ich dich darauf hin, dass die Wahrheit, im Gegensatz zu ihrer hässlichen Cousine, der Lüge, verhindern kann, dass dieses Gespräch sich in eine sehr unangenehme Richtung entwickelt. Denke daran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
       <DefaultText>[DEBUG: Start der Krise!]</DefaultText>
-      <FemaleText>[DEBUG: Start der Krise!]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
@@ -360,17 +360,17 @@ Er zwinkert Callistege zu. "Nichts für ungut, Süße."</DefaultText>
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Qorro zuwenden. "Was wollt ihr?"</DefaultText>
+      <DefaultText>Qorro zuwenden. „Was wollt ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Der kommt gleich zur Sache, was? Ich kenne das meiste Gesindel, das dieser Tage das Riff ausplündert, da ist es eine schöne Abwechslung, mal ein *neues* Gesicht zu sehen." Er lächelt entwaffnend.
+      <DefaultText>„Der kommt gleich zur Sache, was? Ich kenne das meiste Gesindel, das dieser Tage das Riff ausplündert, da ist es eine schöne Abwechslung, mal ein *neues* Gesicht zu sehen.“ Er lächelt entwaffnend.
 
-"Ich suche Informationen, nichts weiter. Vor Kurzem ist hier eine Sternschnuppe niedergegangen. Ihr habt sie nicht zufällig gesehen?"</DefaultText>
-      <FemaleText>"Die kommt gleich zur Sache, was? Ich kenne das meiste Gesindel, das dieser Tage das Riff ausplündert, da ist es eine schöne Abwechslung, mal ein *neues* Gesicht zu sehen." Er lächelt entwaffnend.
+„Ich suche Informationen, nichts weiter. Vor Kurzem ist hier eine Sternschnuppe niedergegangen. Ihr habt sie nicht zufällig gesehen?“</DefaultText>
+      <FemaleText>„Die kommt gleich zur Sache, was? Ich kenne das meiste Gesindel, das dieser Tage das Riff ausplündert, da ist es eine schöne Abwechslung, mal ein *neues* Gesicht zu sehen.“ Er lächelt entwaffnend.
 
-"Ich suche Informationen, nichts weiter. Vor Kurzem ist hier eine Sternschnuppe niedergegangen. Ihr habt sie nicht zufällig gesehen?"</FemaleText>
+„Ich suche Informationen, nichts weiter. Vor Kurzem ist hier eine Sternschnuppe niedergegangen. Ihr habt sie nicht zufällig gesehen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>84</ID>
@@ -379,41 +379,41 @@ Er zwinkert Callistege zu. "Nichts für ungut, Süße."</DefaultText>
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Und was sagt das über *dich*, Liebes?" Sie schenkt Aligern ein giftiges Lächeln.
+      <DefaultText>„Und was sagt das über *dich*, Liebes?“ Sie schenkt Aligern ein giftiges Lächeln.
 
-"Ob Mörder oder nicht", flüstert sie, "Qorro ist niemand, dem man die ungeschminkte Wahrheit anvertrauen sollte. Sei vorsichtig."</DefaultText>
+„Ob Mörder oder nicht“, flüstert sie, „Qorro ist niemand, dem man die ungeschminkte Wahrheit anvertrauen sollte. Sei vorsichtig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Nette Narben. Wie hast du sie bekommen?"</DefaultText>
+      <DefaultText>„Nette Narben. Wie hast du sie bekommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Zwei Dinge sind auf dieser Welt noch tödlicher als der Tod", sagt er. Sein Lächeln wird noch breiter. "Nämlich Fremden allzu neugierige Fragen zu stellen und mit Numenera zu spielen, die man nicht wirklich versteht. Ich beging letzteren Fehler und habe daraus gelernt."</DefaultText>
+      <DefaultText>„Zwei Dinge sind auf dieser Welt noch tödlicher als der Tod“, sagt er. Sein Lächeln wird noch breiter. „Nämlich Fremden allzu neugierige Fragen zu stellen und mit Numenera zu spielen, die man nicht wirklich versteht. Ich beging letzteren Fehler und habe daraus gelernt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Wofür sind die Handschuhe?"</DefaultText>
+      <DefaultText>„Wofür sind die Handschuhe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Für unangenehme, aber absehbare Komplikationen." Er führt es nicht weiter aus.</DefaultText>
+      <DefaultText>„Für unangenehme, aber absehbare Komplikationen.“ Er führt es nicht weiter aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Er liebt Hinterhalte", flüstert Callistege in dein Ohr, obwohl ihr Mund geschlossen ist und sie dich nicht mal ansieht. "Als ich ihn zuletzt sah, hatte er die Handschuhe noch nicht. Ich würde wetten, dass sie mit Apparaten um uns herum verbunden sind."</DefaultText>
+      <DefaultText>„Er liebt Hinterhalte“, flüstert Callistege in dein Ohr, obwohl ihr Mund geschlossen ist und sie dich nicht mal ansieht. „Als ich ihn zuletzt sah, hatte er die Handschuhe noch nicht. Ich würde wetten, dass sie mit Apparaten um uns herum verbunden sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Nun, wenn ich das wüsste, müsste ich hier keine hochgeborenen Reisenden belästigen. Ich habe sie nicht mit eigenen Augen gesehen. Mein Auftraggeber hat sie beobachtet und sich sofort gedacht: 'Wer sind die vertrauenswürdigsten Leute, die ich auf der Stelle danach losschicken kann?"
+      <DefaultText>„Nun, wenn ich das wüsste, müsste ich hier keine hochgeborenen Reisenden belästigen. Ich habe sie nicht mit eigenen Augen gesehen. Mein Auftraggeber hat sie beobachtet und sich sofort gedacht: 'Wer sind die vertrauenswürdigsten Leute, die ich auf der Stelle danach losschicken kann?“
 
-Er zwinkert dir zu. "Glücklicherweise hatten die keine Zeit. Wir waren ebenfalls interessiert und noch nicht zu betrunken, daher ...."</DefaultText>
+Er zwinkert dir zu. „Glücklicherweise hatten die keine Zeit. Wir waren ebenfalls interessiert und noch nicht zu betrunken, daher ….“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,29 +428,29 @@ Er zwinkert dir zu. "Glücklicherweise hatten die keine Zeit. Wir waren ebenfall
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Gute Tarnung, Liebes", flüstert sie.</DefaultText>
+      <DefaultText>„Gute Tarnung, Liebes“, flüstert sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Genug geredet, würde ich meinen", sagt er und in seinem Lächeln ist keine Spur von Freundlichkeit mehr. "Wo ist die Sternschnuppe?"</DefaultText>
+      <DefaultText>„Genug geredet, würde ich meinen“, sagt er und in seinem Lächeln ist keine Spur von Freundlichkeit mehr. „Wo ist die Sternschnuppe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Qorro blinzelt. Du bemerkst, dass er ein wenig eifersüchtig wirkt. 
+      <DefaultText>Qorro blinzelt. Du bemerkst, dass er ein wenig eifersüchtig wirkt.
 
-"Ein nobles Ziel. Wäre ich nicht so verliebt in-" Er hüstelt, errötet und fährt dann fort. "Gewisse Dinge, und nicht in so großer Geldnot, würde ich wohl dasselbe tun. Viel Glück bei der Jagd. Vielleicht sehen wir uns ja wieder."</DefaultText>
+„Ein nobles Ziel. Wäre ich nicht so verliebt in-“ Er hüstelt, errötet und fährt dann fort. „Gewisse Dinge, und nicht in so großer Geldnot, würde ich wohl dasselbe tun. Viel Glück bei der Jagd. Vielleicht sehen wir uns ja wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Das dachte ich mir. Du warst ehrlich zu mir, daher werde ich auch ehrlich zu dir sein. Du hast hier nur zwei Möglichkeiten, und beide sind nicht schön für dich."</DefaultText>
+      <DefaultText>„Das dachte ich mir. Du warst ehrlich zu mir, daher werde ich auch ehrlich zu dir sein. Du hast hier nur zwei Möglichkeiten, und beide sind nicht schön für dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Qorro reagiert überrascht und das Lächeln fällt ihm aus dem Gesicht. 
+      <DefaultText>Qorro reagiert überrascht und das Lächeln fällt ihm aus dem Gesicht.
 
 {SCRIPT: Perhaps give the PC initiative in the coming fight.}</DefaultText>
       <FemaleText />
@@ -472,29 +472,29 @@ Er zwinkert dir zu. "Glücklicherweise hatten die keine Zeit. Wir waren ebenfall
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Also", sagt Qorro, den Callisteges Einwand offensichtlich nicht erreicht hat. "Die Sternschnuppe. Habt Ihr sie gesehen?"</DefaultText>
+      <DefaultText>„Also“, sagt Qorro, den Callisteges Einwand offensichtlich nicht erreicht hat. „Die Sternschnuppe. Habt Ihr sie gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Qorro verdreht die Augen und seufzt. 
+      <DefaultText>Qorro verdreht die Augen und seufzt.
 
-"Es ist wirklich mehr als offensichtlich, dass Ihr von dem großen rauchenden Krater da drüben kommt. Außerdem kenne ich alle Jäger in der Stadt, und Euch habe ich hier noch nie gesehen. Seien wir ehrlich miteinander, Sternschnuppe. Ihr habt zwei Möglichkeiten, und beide sind nicht schön für Euch."</DefaultText>
+„Es ist wirklich mehr als offensichtlich, dass Ihr von dem großen rauchenden Krater da drüben kommt. Außerdem kenne ich alle Jäger in der Stadt, und Euch habe ich hier noch nie gesehen. Seien wir ehrlich miteinander, Sternschnuppe. Ihr habt zwei Möglichkeiten, und beide sind nicht schön für Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Außerdem muss ich leider feststellen, dass du meine Frage nicht beantwortet hast. Warum glaubst du nicht, dass es eine Sternschnuppe war?"</DefaultText>
+      <DefaultText>„Außerdem muss ich leider feststellen, dass du meine Frage nicht beantwortet hast. Warum glaubst du nicht, dass es eine Sternschnuppe war?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Und nun", sagt Qorro, Callisteges Einwand überhörend. "Beantworte *meine* Frage. Warum glaubst du nicht, dass es eine Sternschnuppe war?"</DefaultText>
+      <DefaultText>„Und nun“, sagt Qorro, Callisteges Einwand überhörend. „Beantworte *meine* Frage. Warum glaubst du nicht, dass es eine Sternschnuppe war?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Nachdem ich nun so freundlich war, deine Frage zu beantworten, möchtest du mir sicher sagen, warum du nicht glaubst, dass es eine Sternschnuppe war."</DefaultText>
+      <DefaultText>„Nachdem ich nun so freundlich war, deine Frage zu beantworten, möchtest du mir sicher sagen, warum du nicht glaubst, dass es eine Sternschnuppe war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -504,17 +504,17 @@ Er zwinkert dir zu. "Glücklicherweise hatten die keine Zeit. Wir waren ebenfall
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Cal! Ich dachte, du hättest dich vom Durchkämmen des Riffs losgesagt. Hast du was Leckeres gefunden?" Er mustert dich und Aligern.</DefaultText>
+      <DefaultText>„Cal! Ich dachte, du hättest dich vom Durchkämmen des Riffs losgesagt. Hast du was Leckeres gefunden?“ Er mustert dich und Aligern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Ihr steht mir im Weg. Geht zur Seite oder ich räume euch zur Seite!"</DefaultText>
+      <DefaultText>„Ihr steht mir im Weg. Geht zur Seite oder ich räume euch zur Seite!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Ah, Drohungen. Wie schön. Wäre eine Schande gewesen, wenn ich meine wunderbare Falle umsonst vorbereitet hätte."
+      <DefaultText>„Ah, Drohungen. Wie schön. Wäre eine Schande gewesen, wenn ich meine wunderbare Falle umsonst vorbereitet hätte.“
 
 Qorra ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein Signal.</DefaultText>
       <FemaleText />
@@ -526,42 +526,42 @@ Qorra ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein S
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Ich sage es euch ehrlich: Ich habe die Sternschnuppe gesehen, aber ich weiß nicht, wo sie gelandet ist."
+      <DefaultText>„Ich sage es euch ehrlich: Ich habe die Sternschnuppe gesehen, aber ich weiß nicht, wo sie gelandet ist.“
 
 {SCRIPT: This check maxes out at Very Hard, but the following modifiers can apply: 1. a1201_QorroPreCrisis=1 makes the DT slightly easier. 2. a1201_QorroPreCrisis=2 negates the above bonus, making the DT Very Hard again. 3. Each increment of the a1201_PCirritatedQorro variable makes the DT slightly harder.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Qorro mustert dich für einen langen Moment, bevor er resignierend seufzt. 
+      <DefaultText>Qorro mustert dich für einen langen Moment, bevor er resignierend seufzt.
 
-"Na schön", sagt er. "Lasst uns wissen, wenn euch etwas Interessantes unterkommt. Ich würde ja gerne sagen, dass eine Belohnung für euch dabei drin ist, aber wenn wir Geld  hätten, wären wir nicht hier unten, was?"</DefaultText>
+„Na schön“, sagt er. „Lasst uns wissen, wenn euch etwas Interessantes unterkommt. Ich würde ja gerne sagen, dass eine Belohnung für euch dabei drin ist, aber wenn wir Geld  hätten, wären wir nicht hier unten, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Qorro sieht dich skeptisch an. 
+      <DefaultText>Qorro sieht dich skeptisch an.
 
-"Du hast so ein ehrliches Gesicht. Lügen stehen ihm nicht! Seien wir doch ehrlich miteinander, Sternschnuppe. Du hast zwei Möglichkeiten, und beide sind nicht schön für dich."</DefaultText>
+„Du hast so ein ehrliches Gesicht. Lügen stehen ihm nicht! Seien wir doch ehrlich miteinander, Sternschnuppe. Du hast zwei Möglichkeiten, und beide sind nicht schön für dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Qorro seufzt enttäuscht. 
+      <DefaultText>Qorro seufzt enttäuscht.
 
-"Na schön", sagt er. "Lasst uns wissen, wenn Euch etwas Interessantes unterkommt. Ich würde ja gerne sagen, dass eine Belohnung für Euch dabei drin ist, aber wenn wir Geld  hätten, wären wir nicht hier unten, was?"</DefaultText>
+„Na schön“, sagt er. „Lasst uns wissen, wenn Euch etwas Interessantes unterkommt. Ich würde ja gerne sagen, dass eine Belohnung für Euch dabei drin ist, aber wenn wir Geld  hätten, wären wir nicht hier unten, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Qorro stöhnt und verdreht die Augen. 
+      <DefaultText>Qorro stöhnt und verdreht die Augen.
 
-"Bitte! Ihr habt so ein ehrliches Gesicht. Lügen stehen ihm nicht. Seien wir doch ehrlich miteinander, Sternschnuppe. Ihr habt zwei Möglichkeiten, und beide sind nicht schön für Euch."</DefaultText>
+„Bitte! Ihr habt so ein ehrliches Gesicht. Lügen stehen ihm nicht. Seien wir doch ehrlich miteinander, Sternschnuppe. Ihr habt zwei Möglichkeiten, und beide sind nicht schön für Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Bist du wirklich *so* paranoid?" Sie seufzt genervt. "Liebling", sagt sie zu Qorro, "nimm deine Schläger und geht nach Hause. Ansonsten müssten wir euch weh tun, und es gibt wirklich schon genug Schmerz auf der Welt."</DefaultText>
+      <DefaultText>„Bist du wirklich *so* paranoid?“ Sie seufzt genervt. „Liebling“, sagt sie zu Qorro, „nimm deine Schläger und geht nach Hause. Ansonsten müssten wir euch weh tun, und es gibt wirklich schon genug Schmerz auf der Welt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -571,37 +571,37 @@ Qorra ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein S
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Du solltest hören, was ich den Leuten über *dich* erzähle, Liebes." Sie schenkt Aligern ein giftiges Lächeln. "Ob Mörder oder nicht", flüstert sie, "Qorro ist niemand, dem man die ungeschminkte Wahrheit anvertrauen sollte. Sei vorsichtig."</DefaultText>
+      <DefaultText>„Du solltest hören, was ich den Leuten über *dich* erzähle, Liebes.“ Sie schenkt Aligern ein giftiges Lächeln. „Ob Mörder oder nicht“, flüstert sie, „Qorro ist niemand, dem man die ungeschminkte Wahrheit anvertrauen sollte. Sei vorsichtig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Dürfen wir vorbei?"</DefaultText>
+      <DefaultText>„Dürfen wir vorbei?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Seine Hand ballt sich zur Faust. Insbesondere frage ich mich, ob du zufällig eine Sternschnuppe gesehen hast, die hier vor Kurzem niedergegangen ist."</DefaultText>
+      <DefaultText>Seine Hand ballt sich zur Faust. „Insbesondere frage ich mich, ob du zufällig eine Sternschnuppe gesehen hast, die hier vor Kurzem niedergegangen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Ich habe nichts dergleichen gesehen, liebster Qorro", sagt sie schmallippig.</DefaultText>
+      <DefaultText>„Ich habe nichts dergleichen gesehen, liebster Qorro“, sagt sie schmallippig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Deine Freunde vielleicht?" Er wendet sich an dich. "Ich kenne das meiste Gesindel, das dieser Tage das Riff ausplündert. Was für eine nette Abwechslung, mal ein *neues* Gesicht zu sehen."</DefaultText>
+      <DefaultText>„Deine Freunde vielleicht?“ Er wendet sich an dich. „Ich kenne das meiste Gesindel, das dieser Tage das Riff ausplündert. Was für eine nette Abwechslung, mal ein *neues* Gesicht zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Ich traue denen nicht", flüstert Aligern dir ins Ohr - laut genug, dass Callistege es ebenfalls hört. "Ihre Freunde sind alle Betrüger, Mörder oder beides."</DefaultText>
+      <DefaultText>„Ich traue denen nicht“, flüstert Aligern dir ins Ohr - laut genug, dass Callistege es ebenfalls hört. „Ihre Freunde sind alle Betrüger, Mörder oder beides.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Natürlich! Aber zuerst eine Frage, so zwischen zwei Reisenden. Vor nicht allzulanger Zeit ist hier eine Sternschnuppe niedergegangen. Ich frage mich, ob du zufällig etwas darüber weißt."</DefaultText>
+      <DefaultText>„Natürlich! Aber zuerst eine Frage, so zwischen zwei Reisenden. Vor nicht allzulanger Zeit ist hier eine Sternschnuppe niedergegangen. Ich frage mich, ob du zufällig etwas darüber weißt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -610,7 +610,7 @@ Qorra ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein S
 
 Ihr Anführer ist ein drahtiger Mann mit zwei parallel von der Wange bis zur Schulter verlaufenden Narben links im Gesicht. Er begrüßt euch mit einem freundlichen Lächeln, während er von pulsierendem Licht durchzogene Handschuhe überstreift.
 
-"Hallo. Freunde. Ich suche Informationen. Vor Kurzem ist hier eine Sternschnuppe niedergegangen. Ihr habt sie nicht zufällig gesehen?"</DefaultText>
+„Hallo. Freunde. Ich suche Informationen. Vor Kurzem ist hier eine Sternschnuppe niedergegangen. Ihr habt sie nicht zufällig gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -620,18 +620,18 @@ Ihr Anführer ist ein drahtiger Mann mit zwei parallel von der Wange bis zur Sch
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Sie beugt sich zu dir und flüstert: "Sei auf der Hut, Kind. Ich kenne Qorro. Ich wette, er weiß *genau*, wo die 'Sternschnuppe' ist, und er wird sie nicht kampflos gehen lassen."</DefaultText>
+      <DefaultText>Sie beugt sich zu dir und flüstert: „Sei auf der Hut, Kind. Ich kenne Qorro. Ich wette, er weiß *genau*, wo die 'Sternschnuppe' ist, und er wird sie nicht kampflos gehen lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
       <DefaultText>[Damit ist der zweite Alpha-Systemtest abgeschlossen. Danke fürs Spielen. Bitte schicke uns deine Meinung über die Feedback-Schaltfläche im Spiel und halte Ausschau nach dem Krisen-Alpha-Systemtest in naher Zukunft!]</DefaultText>
-      <FemaleText>[Damit ist der zweite Alpha-Systemtest abgeschlossen. Danke fürs Spielen. Bitte schicke uns deine Meinung über die Feedback-Schaltfläche im Spiel und halte Ausschau nach dem Krisen-Alpha-Systemtest in naher Zukunft!]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
       <DefaultText>[Danke, dass du an dem zweiten Alpha-Systemtest für Torment: Tides of Numenera teilnimmst. Dieser Systemtest konzentriert sich auf unser Krisen-System. Er setzt direkt dort an, wo der vorherige Alpha-Systemtest beendet wurde. Wir wissen jedes Feedback zu schätzen, das du gibst, während du spielst.]</DefaultText>
-      <FemaleText>[Danke, dass du an dem zweiten Alpha-Systemtest für Torment: Tides of Numenera teilnimmst. Dieser Systemtest konzentriert sich auf unser Krisen-System. Er setzt direkt dort an, wo der vorherige Alpha-Systemtest beendet wurde. Wir wissen jedes Feedback zu schätzen, das du gibst, während du spielst.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
@@ -639,92 +639,92 @@ Ihr Anführer ist ein drahtiger Mann mit zwei parallel von der Wange bis zur Sch
 
 Ihr Anführer ist ein drahtiger Mann mit zwei parallel von der Wange bis zur Schulter verlaufenden Narben links im Gesicht. Er begrüßt euch mit einem freundlichen Lächeln, während er von pulsierendem Licht durchzogene graue Handschuhe überstreift.
 
-"Hallo. Freunde. Ich suche Informationen. Vor Kurzem ist hier eine Sternschnuppe niedergegangen. Ihr habt sie nicht zufällig gesehen?"</DefaultText>
+„Hallo. Freunde. Ich suche Informationen. Vor Kurzem ist hier eine Sternschnuppe niedergegangen. Ihr habt sie nicht zufällig gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Sie beugt sich zu dir und flüstert: "Sei auf der Hut, Kind. Ich kenne Qorro. Ich wette, er weiß *genau*, wo - und wer - die 'Sternschnuppe' ist, und er wird sie nicht kampflos gehen lassen."</DefaultText>
+      <DefaultText>Sie beugt sich zu dir und flüstert: „Sei auf der Hut, Kind. Ich kenne Qorro. Ich wette, er weiß *genau*, wo - und wer - die 'Sternschnuppe' ist, und er wird sie nicht kampflos gehen lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>(Lüge) "Ich sage es dir ehrlich: Ich habe die Sternschnuppe gesehen, aber ich weiß nicht, wo sie gelandet ist."</DefaultText>
+      <DefaultText>(Lüge) „Ich sage es dir ehrlich: Ich habe die Sternschnuppe gesehen, aber ich weiß nicht, wo sie gelandet ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>(Lüge): "Ich bin auch wegen der 'Sternschnuppe' hier. Und im Gegensatz zu dir will ich sie - und alle ihre Geheimnisse - für mich selbst."</DefaultText>
+      <DefaultText>(Lüge): „Ich bin auch wegen der 'Sternschnuppe' hier. Und im Gegensatz zu dir will ich sie - und alle ihre Geheimnisse - für mich selbst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
       <DefaultText>[Alpha-Systemtest-Notiz: Dies wäre normalerweise eine schwierige Aufgabe, für die du Anstrengung einsetzen könntest, um die Krise vielleicht zu umgehen. Da der Zweck dieses AST darin besteht, Feedback zur Krise zu erhalten, kommen wir stattdessen gleich zum Kern der Sache.]</DefaultText>
-      <FemaleText>[Alpha-Systemtest-Notiz: Dies wäre normalerweise eine schwierige Aufgabe, für die du Anstrengung einsetzen könntest, um die Krise vielleicht zu umgehen. Da der Zweck dieses AST darin besteht, Feedback zur Krise zu erhalten, kommen wir stattdessen gleich zum Kern der Sache.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
       <DefaultText>[Alpha-Systemtest-Notiz: Dies wäre normalerweise eine schwierige Aufgabe, für die du Anstrengung einsetzen könntest, um die Krise vielleicht zu umgehen. Da der Zweck dieses AST darin besteht, Feedback zur Krise zu erhalten, kommen wir stattdessen gleich zum Kern der Sache.]</DefaultText>
-      <FemaleText>[Alpha-Systemtest-Notiz: Dies wäre normalerweise eine schwierige Aufgabe, für die du Anstrengung einsetzen könntest, um die Krise vielleicht zu umgehen. Da der Zweck dieses AST darin besteht, Feedback zur Krise zu erhalten, kommen wir stattdessen gleich zum Kern der Sache.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Einen Dreck wirst du! Diesem Draff zeigen wir's." Er greift zu seiner Waffe und wendet sich an Qorro. "Aus dem Weg, oder hier fließt dein Blut."
+      <DefaultText>„Einen Dreck wirst du! Diesem Draff zeigen wir's.“ Er greift zu seiner Waffe und wendet sich an Qorro. „Aus dem Weg, oder hier fließt dein Blut.“
 
 [Alpha Systems Test note: In the real game, you will of course be allowed to surrender, but that has been temporarily cut for the purpose of this Alpha (namely, to get feedback on Crises).]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>(Wahrheit) "*Ich* bin vom Himmel gefallen. Keine Sternschnuppe."</DefaultText>
+      <DefaultText>(Wahrheit) „*Ich* bin vom Himmel gefallen. Keine Sternschnuppe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Ich komme nicht mit euch."</DefaultText>
+      <DefaultText>„Ich komme nicht mit euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Da hat sie recht, Kumpel. Warum tust du das?"</DefaultText>
-      <FemaleText>"Da hat sie recht, Mädchen. Warum tust du das?"</FemaleText>
+      <DefaultText>„Da hat sie recht, Kumpel. Warum tust du das?“</DefaultText>
+      <FemaleText>„Da hat sie recht, Mädchen. Warum tust du das?“</FemaleText>
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Ich möchte nicht, dass jemand sein Leben für mich aufs Spiel setzt."</DefaultText>
+      <DefaultText>„Ich möchte nicht, dass jemand sein Leben für mich aufs Spiel setzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Es soll wenigstens irgendjemand das hier überleben."</DefaultText>
+      <DefaultText>„Es soll wenigstens irgendjemand das hier überleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>[Angriff] "Mir nach ..."</DefaultText>
+      <DefaultText>[Angriff] „Mir nach …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Ah, Drohungen. Wie schön. Wäre eine Schande gewesen, wenn ich meine wunderbare Falle umsonst vorbereitet hätte."
+      <DefaultText>„Ah, Drohungen. Wie schön. Wäre eine Schande gewesen, wenn ich meine wunderbare Falle umsonst vorbereitet hätte.“
 
 Qorra ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein Signal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Eine Falle? Wartet! So hab ich das nicht gemeint!"</DefaultText>
+      <DefaultText>„Eine Falle? Wartet! So hab ich das nicht gemeint!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>[Angriff] "Das wirst du bereuen."</DefaultText>
+      <DefaultText>[Angriff] „Das wirst du bereuen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
       <DefaultText>[Lerne die Grundlagen des Krisen-Systems.]</DefaultText>
-      <FemaleText>[Lerne die Grundlagen des Krisen-Systems.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
@@ -736,50 +736,37 @@ Qorra ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein S
  - eine "Standard"-Aktion (okkulte Aktionen) verwenden.]
 
 [Der Spieler kann diese Aktionen in seiner Runde in beliebiger Reihenfolge ausführen. Der Spieler kann auch seine okkulte Aktion als Doppelzug verwenden.]</DefaultText>
-      <FemaleText>[Wenn eine Krise beginnt, wird die Rundenreihenfolge mit einem Initiativwurf bestimmt.]
-
-[Jedes Gruppenmitglied kann, wenn es an der Reihe ist, Folgendes tun:
- - einmal bewegen.
- - eine "schnelle" Aktion (anoetische Aktionen) verwenden.
- - eine "Standard"-Aktion (okkulte Aktionen) verwenden.]
-
-[Der Spieler kann diese Aktionen in seiner Runde in beliebiger Reihenfolge ausführen. Der Spieler kann auch seine okkulte Aktion als Doppelzug verwenden.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
       <DefaultText>[Deine verfügbaren Aktionen werden in der Aktionsleiste in der unteren linken Ecke angezeigt.]
 
 [Anoetische Aktionen befinden sich in der mittleren Reihe der Aktionsleiste. Dies sind einfache, schnelle Aktionen wie das Aktivieren von Buffs, Teleportierungen, leicht zu manipulierenden Cyphern oder (in zukünftigen Versionen) das Wechseln von Waffensets.]</DefaultText>
-      <FemaleText>[Deine verfügbaren Aktionen werden in der Aktionsleiste in der unteren linken Ecke angezeigt.]
-
-[Anoetische Aktionen befinden sich in der mittleren Reihe der Aktionsleiste. Dies sind einfache, schnelle Aktionen wie das Aktivieren von Buffs, Teleportierungen, leicht zu manipulierenden Cyphern oder (in zukünftigen Versionen) das Wechseln von Waffensets.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
       <DefaultText>[Okkulte Aktionen befinden sich in der unteren Reihe der Aktionsleiste. Der Angriff auf einen Feind ist ebenfalls eine okkulte Aktion. Okkulte Aktionen sind komplexere Aktionen, die deinen Aufmerksamkeit verlangen, wie Waffenangriffe, das Zaubern von Esoterien, der Versuch, sich zu verstecken, oder die Flucht, um zu rasten und einige Werte-Pool-Punkte zu regenerieren.]</DefaultText>
-      <FemaleText>[Okkulte Aktionen befinden sich in der unteren Reihe der Aktionsleiste. Der Angriff auf einen Feind ist ebenfalls eine okkulte Aktion. Okkulte Aktionen sind komplexere Aktionen, die deinen Aufmerksamkeit verlangen, wie Waffenangriffe, das Zaubern von Esoterien, der Versuch, sich zu verstecken, oder die Flucht, um zu rasten und einige Werte-Pool-Punkte zu regenerieren.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
       <DefaultText>[Die Distanz, die das Gruppenmitglied hinter sich bringen kann, wird durch die gepunktete Linie angezeigt, die dem Mauszeiger folgt. Wenn die Linie grün ist, kann sich der Charakter mit Leichtigkeit zu diesem Punkt bewegen. Wenn die Linie gelb ist, muss er seine okkulte Aktion opfern, um das Ziel zu erreichen.]
 
 {JEREMY: I feel like this is self-explanatory (or if it isn't, then it really should be). I'm inclined to skip this node, but I left it in here in case you feel strongly about keeping it.}</DefaultText>
-      <FemaleText>[Die Distanz, die das Gruppenmitglied hinter sich bringen kann, wird durch die gepunktete Linie angezeigt, die dem Mauszeiger folgt. Wenn die Linie grün ist, kann sich der Charakter mit Leichtigkeit zu diesem Punkt bewegen. Wenn die Linie gelb ist, muss er seine okkulte Aktion opfern, um das Ziel zu erreichen.]
-
-{JEREMY: I feel like this is self-explanatory (or if it isn't, then it really should be). I'm inclined to skip this node, but I left it in here in case you feel strongly about keeping it.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
       <DefaultText>[Gruppenmitglieder können auch mit einigen der Objekte in der Szene interagieren und während einer Krise sogar mit manchen NPC sprechen. Solche Interaktionen erfordern oft eine okkulte Aktion (durch das Zeichen auf der Interaktionsschaltfläche angegeben).]
 
 [Wir hoffen, dass sich der Rest von selbst erklärt. Drücke "Fortsetzen", um die Krise zu starten. Wenn du Ideen hast, wie die Krise intuitiver gestaltet werden könnte, zögere bitte nicht, die obige Feedback-Schaltfläche zu nutzen!]</DefaultText>
-      <FemaleText>[Gruppenmitglieder können auch mit einigen der Objekte in der Szene interagieren und während einer Krise sogar mit manchen NPC sprechen. Solche Interaktionen erfordern oft eine okkulte Aktion (durch das Zeichen auf der Interaktionsschaltfläche angegeben).]
-
-[Wir hoffen, dass sich der Rest von selbst erklärt. Drücke "Fortsetzen", um die Krise zu starten. Wenn du Ideen hast, wie die Krise intuitiver gestaltet werden könnte, zögere bitte nicht, die obige Feedback-Schaltfläche zu nutzen!]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Wie schade", sagt Qorro. Er blickt auf seine Kameraden. "Jetzt!"
+      <DefaultText>„Wie schade“, sagt Qorro. Er blickt auf seine Kameraden. „Jetzt!“
 
 [Alpha Systems Test note: For C0 only, we have included optional basic tutorial information on Crises.]</DefaultText>
       <FemaleText />
@@ -787,11 +774,11 @@ Qorra ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein S
     <Entry>
       <ID>176</ID>
       <DefaultText>[Begib dich in den Kampf.]</DefaultText>
-      <FemaleText>[Begib dich in den Kampf.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Qorro reagiert überrascht und das Lächeln fällt ihm aus dem Gesicht. 
+      <DefaultText>Qorro reagiert überrascht und das Lächeln fällt ihm aus dem Gesicht.
 
 [Alpha Systems Test note: For C0 only, we have included optional basic tutorial information on Crises.]
 
