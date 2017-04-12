@@ -21,9 +21,9 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Du greifst dir die nächste Hand und reißt sie von ihrer Wurzel ab. 
+      <DefaultText>Du greifst dir die nächste Hand und reißt sie von ihrer Wurzel ab.
 
-Du trittst zurück und schwingst die Hand probeweise. Sie liegt gut in der Hand und könnte eine ganz ordentliche Waffe abgeben. 
+Du trittst zurück und schwingst die Hand probeweise. Sie liegt gut in der Hand und könnte eine ganz ordentliche Waffe abgeben.
 
 {LOOT}
 {SOUND: One of the metal hands is snapped off the steel "vine." The hand is about the size of a mace.}</DefaultText>
@@ -31,9 +31,9 @@ Du trittst zurück und schwingst die Hand probeweise. Sie liegt gut in der Hand 
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Du greifst eines der Handgelenke und ziehst mit aller Kraft daran, doch der Stamm ist stärker, als er aussieht. Verborgene dünne, aber unglaublich scharfe Dornen - eine Art Verteidigungsmechanismus - treten aus Metalloberfläche und bohren sich in deine Haut und das darunterliegende Fleisch. 
+      <DefaultText>Du greifst eines der Handgelenke und ziehst mit aller Kraft daran, doch der Stamm ist stärker, als er aussieht. Verborgene dünne, aber unglaublich scharfe Dornen – eine Art Verteidigungsmechanismus – treten aus Metalloberfläche und bohren sich in deine Haut und das darunterliegende Fleisch.
 
-Der Schmerz vergeht rasch und eine seltsam angenehme Taubheit breitet sich in deinem Arm aus. Du spürst eine eisige Flüssigkeit über die Knochen und Sehnen in deinem Arm fließen und sie härten. Wenn du die Faust ballst, siehst du stählerne Adern durch die blutige Haut schimmern. 
+Der Schmerz vergeht rasch und eine seltsam angenehme Taubheit breitet sich in deinem Arm aus. Du spürst eine eisige Flüssigkeit über die Knochen und Sehnen in deinem Arm fließen und sie härten. Wenn du die Faust ballst, siehst du stählerne Adern durch die blutige Haut schimmern.
 
 {DAMAGE}</DefaultText>
       <FemaleText />
@@ -42,7 +42,7 @@ Der Schmerz vergeht rasch und eine seltsam angenehme Taubheit breitet sich in de
       <ID>6</ID>
       <DefaultText>Du greifst dir die nächste Hand und ziehst an ihr. Du löst sie leicht von ihren Wurzeln.
 
-Du schwingst die Hand probeweise. Sie liegt gut in der Hand und könnte eine ganz ordentliche Waffe abgeben. 
+Du schwingst die Hand probeweise. Sie liegt gut in der Hand und könnte eine ganz ordentliche Waffe abgeben.
 
 {LOOT}
 {SOUND: One of the metal hands is snapped off the steel "vine." The hand is about the size of a mace.}</DefaultText>
@@ -50,9 +50,9 @@ Du schwingst die Hand probeweise. Sie liegt gut in der Hand und könnte eine gan
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Du greifst eines der Handgelenke und ziehst mit aller Kraft daran, doch der Stamm ist stärker, als er aussieht. Verborgene dünne, aber unglaublich scharfe Dornen - eine Art Verteidigungsmechanismus - treten aus Metalloberfläche, reißen deine Haut auf und bohren sich in dein Fleisch.
+      <DefaultText>Du greifst eines der Handgelenke und ziehst mit aller Kraft daran, doch der Stamm ist stärker, als er aussieht. Verborgene dünne, aber unglaublich scharfe Dornen – eine Art Verteidigungsmechanismus – treten aus Metalloberfläche, reißen deine Haut auf und bohren sich in dein Fleisch.
 
-Der pochende Schmerz vergeht langsam und eine seltsam angenehme Taubheit breitet sich in deinem Arm aus. Du spürst eine eisige Flüssigkeit über die Knochen und Sehnen in deinem Arm fließen und sie härten. Wenn du die Faust ballst, siehst du stählerne Adern durch die blutige Haut schimmern. 
+Der pochende Schmerz vergeht langsam und eine seltsam angenehme Taubheit breitet sich in deinem Arm aus. Du spürst eine eisige Flüssigkeit über die Knochen und Sehnen in deinem Arm fließen und sie härten. Wenn du die Faust ballst, siehst du stählerne Adern durch die blutige Haut schimmern.
 
 {DAMAGE - More?}</DefaultText>
       <FemaleText />
@@ -60,7 +60,7 @@ Der pochende Schmerz vergeht langsam und eine seltsam angenehme Taubheit breitet
     <Entry>
       <ID>8</ID>
       <DefaultText>Follow-up PQ. 11</DefaultText>
-      <FemaleText>Follow-up PQ. 11</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -69,9 +69,9 @@ Der pochende Schmerz vergeht langsam und eine seltsam angenehme Taubheit breitet
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Du versuchst, an der nächsten Hand vorbei zu sehen und bemerkst, dass sie sich mit dir mitbewegt wie im Wind. Es geht jedoch kein Wind. Du deutest rechts an und beugst dich dann nach links und siehst gerade noch, was die Hand vor dir verbergen wollte. 
+      <DefaultText>Du versuchst, an der nächsten Hand vorbei zu sehen und bemerkst, dass sie sich mit dir mitbewegt wie im Wind. Es geht jedoch kein Wind. Du deutest rechts an und beugst dich dann nach links und siehst gerade noch, was die Hand vor dir verbergen wollte.
 
-Einige der unteren Hände gibt ein kleines, silbernes Objekt - eine Samenhülse - an eine andere weiter.</DefaultText>
+Einige der unteren Hände gibt ein kleines, silbernes Objekt – eine Samenhülse – an eine andere weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@ Einige der unteren Hände gibt ein kleines, silbernes Objekt - eine Samenhülse 
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Die 'Hände' wiegen sanft hin und her, doch es fällt dir schwer, ihren Bewegungen zu folgen. Dir wird übel, wenn du ihre Bewegungen zu lange beobachtest. 
+      <DefaultText>Die 'Hände' wiegen sanft hin und her, doch es fällt dir schwer, ihren Bewegungen zu folgen. Dir wird übel, wenn du ihre Bewegungen zu lange beobachtest.
 
 Außer den 'Händen' selbst siehst du nichts Interessantes in diesem Haufen.</DefaultText>
       <FemaleText />
@@ -103,12 +103,12 @@ Außer den 'Händen' selbst siehst du nichts Interessantes in diesem Haufen.</De
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Scheint, als hättest du einen Feind gewonnen. Gratuliere, Liebes."</DefaultText>
+      <DefaultText>„Scheint, als hättest du einen Feind gewonnen. Gratuliere, Liebes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Du bist erst glücklich, wenn du etwas kaputt machen kannst, nicht wahr?"</DefaultText>
+      <DefaultText>„Du bist erst glücklich, wenn du etwas kaputt machen kannst, nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@ Außer den 'Händen' selbst siehst du nichts Interessantes in diesem Haufen.</De
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Du greifst eines der Handgelenke mit beiden Händen und ziehst mit aller Kraft daran. 
+      <DefaultText>Du greifst eines der Handgelenke mit beiden Händen und ziehst mit aller Kraft daran.
 
 Schließlich geht dir die Kraft aus und du musst aufgeben. Die Ranken wirken nun dicker und stärker, als hätten sie ihre Kräfte gegen dich gesammelt.</DefaultText>
       <FemaleText />
