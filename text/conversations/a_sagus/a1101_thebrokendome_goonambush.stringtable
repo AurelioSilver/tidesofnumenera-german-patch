@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Ein paar gut bewaffnete Schurken stehen vor der Kuppel und untersuchen die Resonanzkammer. Einer von ihnen untersucht die Verbindungen zwischen dem Sarkophag und den anderen Maschinen. Er blickt auf und du siehst, wie sich seine Augen hinter seinem Helm verengen.
 
-"Ich dachte, Fenik sollte die Trester fernhalten."</DefaultText>
+„Ich dachte, Fenik sollte die Trester fernhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,17 +23,17 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Der Mann beäugt dich von Kopf bis Fuß. "Schlechtes Timing, mein Freund. Die Memovira haben die Bergungsrechte für diese Kuppel beansprucht. Wenn es nach mir ginge, würde ich dir nur sagen, dass du dich verpissen sollst, doch die Chefin möchte keine Zeugen. Es tut mir leid."
+      <DefaultText>Der Mann beäugt dich von Kopf bis Fuß. „Schlechtes Timing, mein Freund. Die Memovira haben die Bergungsrechte für diese Kuppel beansprucht. Wenn es nach mir ginge, würde ich dir nur sagen, dass du dich verpissen sollst, doch die Chefin möchte keine Zeugen. Es tut mir leid.“
 
 Er zieht seine Waffe und seine Kameraden tun es ihm nach …</DefaultText>
-      <FemaleText>Der Mann beäugt dich von Kopf bis Fuß. "Schlechtes Timing, Liebes. Die Memovira haben die Bergungsrechte für diese Kuppel beansprucht. Wenn es nach mir ginge, würde ich dir nur sagen, dass du dich verpissen sollst, doch die Chefin möchte keine Zeugen. Es tut mir leid."
+      <FemaleText>Der Mann beäugt dich von Kopf bis Fuß. „Schlechtes Timing, Liebes. Die Memovira haben die Bergungsrechte für diese Kuppel beansprucht. Wenn es nach mir ginge, würde ich dir nur sagen, dass du dich verpissen sollst, doch die Chefin möchte keine Zeugen. Es tut mir leid.“
 
 Er zieht seine Waffe und seine Kameraden tun es ihm nach …</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Er ist zurück. Tötet ihn!"</DefaultText>
-      <FemaleText>"Sie ist zurück. Tötet sie!"</FemaleText>
+      <DefaultText>„Er ist zurück. Tötet ihn!“</DefaultText>
+      <FemaleText>„Sie ist zurück. Tötet sie!“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
