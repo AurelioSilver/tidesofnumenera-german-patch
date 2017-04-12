@@ -6,28 +6,28 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Verdammt! Sprühfleisch ist hier normalerweise effektiver!"</DefaultText>
-      <FemaleText>"Verdammt! Sprühfleisch ist hier normalerweise effektiver!"</FemaleText>
+      <DefaultText>„Verdammt! Sprühfleisch ist hier normalerweise effektiver!“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Tut mir leid, Kumpel. Ich brauche das mehr als du."</DefaultText>
-      <FemaleText>"Tut mir leid, Süße. Ich brauche das mehr als du."</FemaleText>
+      <DefaultText>„Tut mir leid, Kumpel. Ich brauche das mehr als du.“</DefaultText>
+      <FemaleText>„Tut mir leid, Süße. Ich brauche das mehr als du.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Schauen wir jetzt mal, wie hart du bist."</DefaultText>
-      <FemaleText>"Schauen wir jetzt mal, wie hart du bist."</FemaleText>
+      <DefaultText>„Schauen wir jetzt mal, wie hart du bist.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Du musst schon mehr liefern, Kumpel!"</DefaultText>
-      <FemaleText>"Du musst schon mehr liefern, Süße!"</FemaleText>
+      <DefaultText>„Du musst schon mehr liefern, Kumpel!“</DefaultText>
+      <FemaleText>„Du musst schon mehr liefern, Süße!“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Lass mich in Ruhe, du Carker!"</DefaultText>
-      <FemaleText>"Lass mich in Ruhe, du Carker!"</FemaleText>
+      <DefaultText>„Lass mich in Ruhe, du Carker!“</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
