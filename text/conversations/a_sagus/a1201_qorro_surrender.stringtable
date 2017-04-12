@@ -6,12 +6,10 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Qorro schaut sich um. Die Armbrust senkt sich, während er die Dringlichkeit seiner Situation begreift. "Nun, Gefallener Stern, wie es scheint, hast du mich in eine nachteilige Situation gebracht. Was sagst du dazu, wenn wir die Vergangenheit ruhen lassen, hm?"
+      <DefaultText>Qorro schaut sich um. Die Armbrust senkt sich, während er die Dringlichkeit seiner Situation begreift. „Nun, Gefallener Stern, wie es scheint, hast du mich in eine nachteilige Situation gebracht. Was sagst du dazu, wenn wir die Vergangenheit ruhen lassen, hm?“
 
-Ein hübsches Lächeln blitzt auf. "Denk daran, dass ich hier nur der Beauftragte bin. Wir müssen alle was essen. Ich würde lieber in Freundschaft auseinandergehen, und nicht als verwundete Feinde, du etwa nicht?"</DefaultText>
-      <FemaleText>Qorro schaut sich um. Die Armbrust senkt sich, während er die Dringlichkeit seiner Situation begreift. "Nun, Gefallener Stern, wie es scheint, hast du mich in eine nachteilige Situation gebracht. Was sagst du dazu, wenn wir die Vergangenheit ruhen lassen, hm?"
-
-Ein hübsches Lächeln blitzt auf. "Denk daran, dass ich hier nur der Beauftragte bin. Wir müssen alle was essen. Ich würde lieber in Freundschaft auseinandergehen, und nicht als verwundete Feinde, du etwa nicht?"</FemaleText>
+Ein hübsches Lächeln blitzt auf. „Denk daran, dass ich hier nur der Beauftragte bin. Wir müssen alle was essen. Ich würde lieber in Freundschaft auseinandergehen, und nicht als verwundete Feinde, du etwa nicht?“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -20,28 +18,28 @@ Ein hübsches Lächeln blitzt auf. "Denk daran, dass ich hier nur der Beauftragt
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Geh. Es gibt keinen Grund, warum noch mehr Leute verletzt werden sollten."</DefaultText>
-      <FemaleText>"Geh. Es gibt keinen Grund, warum noch mehr Leute verletzt werden sollten."</FemaleText>
+      <DefaultText>„Geh. Es gibt keinen Grund, warum noch mehr Leute verletzt werden sollten.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"So leicht kommst du mir nicht davon. Du hast uns verletzt. Wir verdienen eine Entschädigung."</DefaultText>
-      <FemaleText>"So leicht kommst du mir nicht davon. Du hast uns verletzt. Wir verdienen eine Entschädigung."</FemaleText>
+      <DefaultText>„So leicht kommst du mir nicht davon. Du hast uns verletzt. Wir verdienen eine Entschädigung.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Vergiss es, Qorro. Wir werden zu Ende bringen, was du angefangen hast."</DefaultText>
-      <FemaleText>"Vergiss es, Qorro. Wir werden zu Ende bringen, was du angefangen hast."</FemaleText>
+      <DefaultText>„Vergiss es, Qorro. Wir werden zu Ende bringen, was du angefangen hast.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ein guter Vorschlag. Er ist ein ehrlicher Junge ... meistens. Wenn man auf der gleichen Seite steht."</DefaultText>
-      <FemaleText>"Ein guter Vorschlag. Er ist ein ehrlicher Junge ... meistens. Wenn man auf der gleichen Seite steht."</FemaleText>
+      <DefaultText>„Ein guter Vorschlag. Er ist ein ehrlicher Junge … meistens. Wenn man auf der gleichen Seite steht.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Natürlich würdest *du* das sagen. Ich würde mich sicherer fühlen, wenn ihr *beide* in das Riff springen würdet."</DefaultText>
-      <FemaleText>"Natürlich würdest *du* das sagen. Ich würde mich sicherer fühlen, wenn ihr *beide* in das Riff springen würdet."</FemaleText>
+      <DefaultText>„Natürlich würdest *du* das sagen. Ich würde mich sicherer fühlen, wenn ihr *beide* in das Riff springen würdet.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -95,131 +93,127 @@ Ein hübsches Lächeln blitzt auf. "Denk daran, dass ich hier nur der Beauftragt
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Geh, aber es wäre *besser*, wenn ich dich nicht wiedersehe."</DefaultText>
-      <FemaleText>"Geh, aber es wäre *besser*, wenn ich dich nicht wiedersehe."</FemaleText>
+      <DefaultText>„Geh, aber es wäre *besser*, wenn ich dich nicht wiedersehe.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Er strahlt. "Wie recht du hast! Du bist so stark, wie du auch klug bist."</DefaultText>
-      <FemaleText>Er strahlt. "Wie recht du hast! Du bist so stark, wie du auch klug bist."</FemaleText>
+      <DefaultText>Er strahlt. „Wie recht du hast! Du bist so stark, wie du auch klug bist.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Nun, dann gehe ich einfach mal, was?"</DefaultText>
+      <DefaultText>„Nun, dann gehe ich einfach mal, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Er strahlt. "Ich werde mich darum bemühen, dass das nicht geschehen wird ... Und wenn doch, dann in freundschaftlicher Beziehung. Ich möchte jetzt keine verbrannte Erde hinterlassen."</DefaultText>
-      <FemaleText>Er strahlt. "Ich werde mich darum bemühen, dass das nicht geschehen wird ... Und wenn doch, dann in freundschaftlicher Beziehung. Ich möchte jetzt keine verbrannte Erde hinterlassen."</FemaleText>
+      <DefaultText>Er strahlt. „Ich werde mich darum bemühen, dass das nicht geschehen wird … Und wenn doch, dann in freundschaftlicher Beziehung. Ich möchte jetzt keine verbrannte Erde hinterlassen.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Sein Lächeln erstarrt. "Richtig, nun ... Da gibt es nichts dran auszusetzen. Hier."
+      <DefaultText>Sein Lächeln erstarrt. „Richtig, nun … Da gibt es nichts dran auszusetzen. Hier.“
 {LOOT}</DefaultText>
-      <FemaleText>Sein Lächeln erstarrt. "Richtig, nun ... Da gibt es nichts dran auszusetzen. Hier."
-{LOOT}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Also gut. Nun verschwinde von hier."</DefaultText>
-      <FemaleText>"Also gut. Nun verschwinde von hier."</FemaleText>
+      <DefaultText>„Also gut. Nun verschwinde von hier.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ist das alles, was du hast?"</DefaultText>
-      <FemaleText>"Ist das alles, was du hast?"</FemaleText>
+      <DefaultText>„Ist das alles, was du hast?“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[Angriff] "Gut. Jetzt wird das ganze Zeug nicht blutig, wenn ich dich töte."</DefaultText>
-      <FemaleText>[Angriff] "Gut. Jetzt wird das ganze Zeug nicht blutig, wenn ich dich töte."</FemaleText>
+      <DefaultText>[Angriff] „Gut. Jetzt wird das ganze Zeug nicht blutig, wenn ich dich töte.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Richtig. Sehr zu Dank verpflichtet."</DefaultText>
-      <FemaleText>"Richtig. Sehr zu Dank verpflichtet."</FemaleText>
+      <DefaultText>„Richtig. Sehr zu Dank verpflichtet.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Das ist alles, ich schwöre! Wir haben Leute wegen Informationen aufgerieben, nicht wegen Handelsgüter."</DefaultText>
-      <FemaleText>"Das ist alles, ich schwöre! Wir haben Leute wegen Informationen aufgerieben, nicht wegen Handelsgüter."</FemaleText>
+      <DefaultText>„Das ist alles, ich schwöre! Wir haben Leute wegen Informationen aufgerieben, nicht wegen Handelsgüter.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Er wirft dir einen finsteren Blick zu. "Du diebischer Bastard."</DefaultText>
-      <FemaleText>Er wirft dir einen finsteren Blick zu. "Du diebischer Bastard."</FemaleText>
+      <DefaultText>Er wirft dir einen finsteren Blick zu. „Du diebischer Bastard.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Nun, man kann es einem nicht verübeln, es versucht zu haben."</DefaultText>
-      <FemaleText>"Nun, man kann es einem nicht verübeln, es versucht zu haben."</FemaleText>
+      <DefaultText>„Nun, man kann es einem nicht verübeln, es versucht zu haben.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Qorro schaut sich um. Die Armbrust senkt sich, während er die Dringlichkeit seiner Situation begreift. "Nun, Gefallener Stern, wie es scheint, hast du mich in eine nachteilige Situation gebracht. Was sagst du dazu, wenn wir die Vergangenheit ruhen lassen, hm?"
+      <DefaultText>Qorro schaut sich um. Die Armbrust senkt sich, während er die Dringlichkeit seiner Situation begreift. „Nun, Gefallener Stern, wie es scheint, hast du mich in eine nachteilige Situation gebracht. Was sagst du dazu, wenn wir die Vergangenheit ruhen lassen, hm?“
 
-Ein hübsches Lächeln blitzt auf. "Denk daran, dass ich hier nur der Beauftragte bin. Wir müssen alle was essen. Ich würde lieber in Freundschaft auseinandergehen, und nicht als verwundete Feinde, du etwa nicht?"</DefaultText>
-      <FemaleText>Qorro schaut sich um. Die Armbrust senkt sich, während er die Dringlichkeit seiner Situation begreift. "Nun, Gefallener Stern, wie es scheint, hast du mich in eine nachteilige Situation gebracht. Was sagst du dazu, wenn wir die Vergangenheit ruhen lassen, hm?"
-
-Ein hübsches Lächeln blitzt auf. "Denk daran, dass ich hier nur der Beauftragte bin. Wir müssen alle was essen. Ich würde lieber in Freundschaft auseinandergehen, und nicht als verwundete Feinde, du etwa nicht?"</FemaleText>
+Ein hübsches Lächeln blitzt auf. „Denk daran, dass ich hier nur der Beauftragte bin. Wir müssen alle was essen. Ich würde lieber in Freundschaft auseinandergehen, und nicht als verwundete Feinde, du etwa nicht?“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ein guter Vorschlag. Er ist ein ehrlicher Junge ... meistens. Wenn man auf der gleichen Seite steht."</DefaultText>
-      <FemaleText>"Ein guter Vorschlag. Er ist ein ehrlicher Junge ... meistens. Wenn man auf der gleichen Seite steht."</FemaleText>
+      <DefaultText>„Ein guter Vorschlag. Er ist ein ehrlicher Junge … meistens. Wenn man auf der gleichen Seite steht.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Natürlich würdest *du* das sagen. Ich würde mich sicherer fühlen, wenn ihr *beide* in das Riff springen würdet."</DefaultText>
-      <FemaleText>"Natürlich würdest *du* das sagen. Ich würde mich sicherer fühlen, wenn ihr *beide* in das Riff springen würdet."</FemaleText>
+      <DefaultText>„Natürlich würdest *du* das sagen. Ich würde mich sicherer fühlen, wenn ihr *beide* in das Riff springen würdet.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Geh. Es gibt keinen Grund, warum noch mehr Leute verletzt werden sollten."</DefaultText>
-      <FemaleText>"Geh. Es gibt keinen Grund, warum noch mehr Leute verletzt werden sollten."</FemaleText>
+      <DefaultText>„Geh. Es gibt keinen Grund, warum noch mehr Leute verletzt werden sollten.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Geh, aber es wäre *besser*, wenn ich dich nicht wiedersehe."</DefaultText>
-      <FemaleText>"Geh, aber es wäre *besser*, wenn ich dich nicht wiedersehe."</FemaleText>
+      <DefaultText>„Geh, aber es wäre *besser*, wenn ich dich nicht wiedersehe.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"So leicht kommst du mir nicht davon. Du hast uns verletzt. Wir verdienen eine Entschädigung."</DefaultText>
-      <FemaleText>"So leicht kommst du mir nicht davon. Du hast uns verletzt. Wir verdienen eine Entschädigung."</FemaleText>
+      <DefaultText>„So leicht kommst du mir nicht davon. Du hast uns verletzt. Wir verdienen eine Entschädigung.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Sein Lächeln erstarrt. "Richtig, nun ... Da gibt es nichts dran auszusetzen. Hier."
+      <DefaultText>Sein Lächeln erstarrt. „Richtig, nun … Da gibt es nichts dran auszusetzen. Hier.“
 {LOOT}</DefaultText>
-      <FemaleText>Sein Lächeln erstarrt. "Richtig, nun ... Da gibt es nichts dran auszusetzen. Hier."
-{LOOT}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Also gut. Nun verschwinde von hier."</DefaultText>
-      <FemaleText>"Also gut. Nun verschwinde von hier."</FemaleText>
+      <DefaultText>„Also gut. Nun verschwinde von hier.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ist das alles, was du hast?"</DefaultText>
-      <FemaleText>"Ist das alles, was du hast?"</FemaleText>
+      <DefaultText>„Ist das alles, was du hast?“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Das ist alles, ich schwöre! Wir haben Leute wegen Informationen aufgerieben, nicht wegen Handelsgüter."</DefaultText>
-      <FemaleText>"Das ist alles, ich schwöre! Wir haben Leute wegen Informationen aufgerieben, nicht wegen Handelsgüter."</FemaleText>
+      <DefaultText>„Das ist alles, ich schwöre! Wir haben Leute wegen Informationen aufgerieben, nicht wegen Handelsgüter.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[Angriff] "Gut. Jetzt wird das ganze Zeug nicht blutig, wenn ich dich töte."</DefaultText>
-      <FemaleText>[Angriff] "Gut. Jetzt wird das ganze Zeug nicht blutig, wenn ich dich töte."</FemaleText>
+      <DefaultText>[Angriff] „Gut. Jetzt wird das ganze Zeug nicht blutig, wenn ich dich töte.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Vergiss es, Qorro. Wir werden zu Ende bringen, was du angefangen hast."</DefaultText>
-      <FemaleText>"Vergiss es, Qorro. Wir werden zu Ende bringen, was du angefangen hast."</FemaleText>
+      <DefaultText>„Vergiss es, Qorro. Wir werden zu Ende bringen, was du angefangen hast.“</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
