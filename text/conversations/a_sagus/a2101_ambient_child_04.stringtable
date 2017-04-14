@@ -6,28 +6,28 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Keni, wir müssen nach Hause. Es ist schon spät."
+      <DefaultText>„Keni, wir müssen nach Hause. Es ist schon spät.“
 {SCRIPT: These barks are triggered by a2101_ambient_performer_02's actions, not the player}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Macht das noch mal, aber langsamer! Ich sehe Euch genau auf die Hände."</DefaultText>
+      <DefaultText>„Macht das noch mal, aber langsamer! Ich sehe Euch genau auf die Hände.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Das ist bloß ein Trick. Es ist nicht echt!"</DefaultText>
+      <DefaultText>„Das ist bloß ein Trick. Es ist nicht echt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wie? Wie habt Ihr das gemacht?"</DefaultText>
+      <DefaultText>„Wie? Wie habt Ihr das gemacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich wette, Ihr macht eine Menge Geld damit."</DefaultText>
+      <DefaultText>„Ich wette, Ihr macht eine Menge Geld damit.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
