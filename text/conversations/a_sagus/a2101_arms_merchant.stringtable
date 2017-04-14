@@ -6,38 +6,38 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Das Schild über diesem Stand besagt: 'Die Waffenkammer - Kauf - Verkauf - Tausch.' Unter der Markise steht ein dünner Mann mit gebeugten Schultern und eingefallener Brust und putzt eine verschmutzte Waffe. 
+      <DefaultText>Das Schild über diesem Stand besagt: 'Die Waffenkammer - Kauf - Verkauf - Tausch.' Unter der Markise steht ein dünner Mann mit gebeugten Schultern und eingefallener Brust und putzt eine verschmutzte Waffe.
 
-Er hebt eine schmierige Hand zum Gruß. "Bin gleich fertig. Seht Euch schon mal um. Lasst mich wissen, wenn Ihr Hilfe braucht."</DefaultText>
+Er hebt eine schmierige Hand zum Gruß. "Bin gleich fertig. Seht Euch schon mal um. Lasst mich wissen, wenn Ihr Hilfe braucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Das Schild über diesem Stand besagt: 'Die Waffenkammer - Kauf - Verkauf - Tausch.' Unter der Markise steht ein dünner Mann mit gebeugten Schultern und eingefallener Brust und starrt in den dunklen Himmel. 
+      <DefaultText>Das Schild über diesem Stand besagt: 'Die Waffenkammer - Kauf - Verkauf - Tausch.' Unter der Markise steht ein dünner Mann mit gebeugten Schultern und eingefallener Brust und starrt in den dunklen Himmel.
 
-Er schüttelt den Kopf. "Das Unglaublichste, was ich je gesehen habe. Egal. Ein bisschen Dunkelheit kann uns nicht am Handeln hindern, was? Was kann ich für Euch tun?"</DefaultText>
+Er schüttelt den Kopf. „Das Unglaublichste, was ich je gesehen habe. Egal. Ein bisschen Dunkelheit kann uns nicht am Handeln hindern, was? Was kann ich für Euch tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Der Händler repariert gerade eine Waffe, als du eintrittst. "Willkommen zurück. Wie kann ich helfen?"</DefaultText>
+      <DefaultText>Der Händler repariert gerade eine Waffe, als du eintrittst. „Willkommen zurück. Wie kann ich helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Der Händler sieht unter seiner Markise in den dunklen Himmel hoch. Er schüttelt den Kopf. "Das Unglaublichste, was ich je gesehen habe. Egal. Ein bisschen Dunkelheit kann uns nicht am Handeln hindern, was? Willkommen zurück. Wie kann ich helfen?"</DefaultText>
+      <DefaultText>Der Händler sieht unter seiner Markise in den dunklen Himmel hoch. Er schüttelt den Kopf. „Das Unglaublichste, was ich je gesehen habe. Egal. Ein bisschen Dunkelheit kann uns nicht am Handeln hindern, was? Willkommen zurück. Wie kann ich helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Zeigt mir, was Ihr im Angebot habt."
+      <DefaultText>„Zeigt mir, was Ihr im Angebot habt.“
 
 {STORE}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -47,12 +47,12 @@ Er schüttelt den Kopf. "Das Unglaublichste, was ich je gesehen habe. Egal. Ein 
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Was könnt Ihr mir über Sagusklippen sagen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir über Sagusklippen sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Wiederholt bitte, was Ihr über Sagusklippen wisst."</DefaultText>
+      <DefaultText>„Wiederholt bitte, was Ihr über Sagusklippen wisst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -62,7 +62,7 @@ Er schüttelt den Kopf. "Das Unglaublichste, was ich je gesehen habe. Egal. Ein 
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Beunruhigt es Euch nicht, dass die Nacht so plötzlich hereinbrach?"</DefaultText>
+      <DefaultText>„Beunruhigt es Euch nicht, dass die Nacht so plötzlich hereinbrach?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,14 +77,14 @@ Er schüttelt den Kopf. "Das Unglaublichste, was ich je gesehen habe. Egal. Ein 
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Guter Ort für einen Waffenhändler. Im Stadtgebiet gibt es zwar keinen großen Bedarf an Waffen ... die Wache sorgt dafür." Er zuckt mit den Schultern. "Das meiste Geschäft mache ich mit Söldnern. Die Endlose Schlacht zieht sie an wie Motten das Licht." 
+      <DefaultText>„Guter Ort für einen Waffenhändler. Im Stadtgebiet gibt es zwar keinen großen Bedarf an Waffen … die Wache sorgt dafür.“ Er zuckt mit den Schultern. „Das meiste Geschäft mache ich mit Söldnern. Die Endlose Schlacht zieht sie an wie Motten das Licht.“
 
-"Entdecker ebenso. Jede Menge Carker kratzen ihr Erspartes zusammen und rüsten sich mächtig aus. Dann gehen sie in das Riff oder den Flor hinab und kommen nie zurück."</DefaultText>
+„Entdecker ebenso. Jede Menge Carker kratzen ihr Erspartes zusammen und rüsten sich mächtig aus. Dann gehen sie in das Riff oder den Flor hinab und kommen nie zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Wie gesagt, ein guter Ort für mein Geschäft. Jede Menge Söldner und Entdecker, die dort die letzte Gelegenheit nutzen, um sich auszurüsten.</DefaultText>
+      <DefaultText>„Wie gesagt, ein guter Ort für mein Geschäft. Jede Menge Söldner und Entdecker, die dort die letzte Gelegenheit nutzen, um sich auszurüsten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,7 +94,7 @@ Er schüttelt den Kopf. "Das Unglaublichste, was ich je gesehen habe. Egal. Ein 
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Darum sollen die Nanos sich kümmern. Ich bin nicht neugierig. Neugier kann lebensgefährlich sein."</DefaultText>
+      <DefaultText>„Darum sollen die Nanos sich kümmern. Ich bin nicht neugierig. Neugier kann lebensgefährlich sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -104,7 +104,7 @@ Er schüttelt den Kopf. "Das Unglaublichste, was ich je gesehen habe. Egal. Ein 
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Seid vorsichtig da draußen."</DefaultText>
+      <DefaultText>„Seid vorsichtig da draußen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,12 +114,12 @@ Er schüttelt den Kopf. "Das Unglaublichste, was ich je gesehen habe. Egal. Ein 
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich denke nicht. Sie treiben sich hier nicht oft herum." Er überlegt für einen Moment. "Vielleicht fragt Ihr bei der Grastreppe. Dort ist ein bisschen mehr los als hier bei uns."</DefaultText>
+      <DefaultText>„Ich denke nicht. Sie treiben sich hier nicht oft herum.“ Er überlegt für einen Moment. „Vielleicht fragt Ihr bei der Grastreppe. Dort ist ein bisschen mehr los als hier bei uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Habt Ihr in letzter Zeit Dendra O'hur auf dem Markt gesehen?"</DefaultText>
+      <DefaultText>„Habt Ihr in letzter Zeit Dendra O'hur auf dem Markt gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
