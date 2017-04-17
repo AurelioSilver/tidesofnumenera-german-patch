@@ -6,10 +6,10 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Als du näherkommst, bemerkst du, dass die beiden hitzig, aber leise diskutieren. Die zierliche Frau wendet sich dir zu. Sie hat ungewöhnlich helles, fast gelbes Haar und ein hübsches Gesicht mit großen, strahlenden Augen. "Entschuldigt, mein Herr, aber mein Freund und ich diskutierten gerade, ob- "
+      <DefaultText>Als du näherkommst, bemerkst du, dass die beiden hitzig, aber leise diskutieren. Die zierliche Frau wendet sich dir zu. Sie hat ungewöhnlich helles, fast gelbes Haar und ein hübsches Gesicht mit großen, strahlenden Augen. „Entschuldigt, mein Herr, aber mein Freund und ich diskutierten gerade, ob– “
 
 Sie bemerkt deine Tätowierung und es verschlägt ihr die Sprache.</DefaultText>
-      <FemaleText>Als du näherkommst, bemerkst du, dass die beiden hitzig, aber leise diskutieren. Die zierliche Frau wendet sich dir zu. Sie hat ungewöhnlich helles, fast gelbes Haar und ein hübsches Gesicht mit großen, strahlenden Augen. "Entschuldigt, meine Dame, aber mein Freund und ich diskutierten gerade, ob- "
+      <FemaleText>Als du näherkommst, bemerkst du, dass die beiden hitzig, aber leise diskutieren. Die zierliche Frau wendet sich dir zu. Sie hat ungewöhnlich helles, fast gelbes Haar und ein hübsches Gesicht mit großen, strahlenden Augen. „Entschuldigt, meine Dame, aber mein Freund und ich diskutierten gerade, ob– “
 
 Sie bemerkt deine Tätowierung und es verschlägt ihr die Sprache.</FemaleText>
     </Entry>
@@ -20,7 +20,7 @@ Sie bemerkt deine Tätowierung und es verschlägt ihr die Sprache.</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ihr seid zurück, verehrtes Wesen. Wie können wir Euch heute dienen?"</DefaultText>
+      <DefaultText>„Ihr seid zurück, verehrtes Wesen. Wie können wir Euch heute dienen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,42 +40,42 @@ Sie bemerkt deine Tätowierung und es verschlägt ihr die Sprache.</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Es wäre uns eine Ehre, wenn Ihr bei uns verweilen wolltet. Wir bitten lediglich um eine kleine Spende in Höhe von [Global: a2101_CultTCGRestCost] Shin für unsere Ausgaben." Er zuckt mit den Schultern. "Wir sind auf Spenden angewiesen ... selbst von hochverehrten Besuchern."</DefaultText>
+      <DefaultText>„Es wäre uns eine Ehre, wenn Ihr bei uns verweilen wolltet. Wir bitten lediglich um eine kleine Spende in Höhe von [Global: a2101_CultTCGRestCost] Shin für unsere Ausgaben.“ Er zuckt mit den Schultern. „Wir sind auf Spenden angewiesen … selbst von hochverehrten Besuchern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Lebt wohl, geliebtes Gefäß."</DefaultText>
+      <DefaultText>„Lebt wohl, geliebtes Gefäß.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Sie flüstert: "So gerne ich Euch auch helfen würde, erst müsst Ihr den Test bestehen, den mein Partner vorbereitet hat, und die Figuren in der Uhr untersuchen."</DefaultText>
+      <DefaultText>Sie flüstert: „So gerne ich Euch auch helfen würde, erst müsst Ihr den Test bestehen, den mein Partner vorbereitet hat, und die Figuren in der Uhr untersuchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich bin der Wandelnde Gott."</DefaultText>
+      <DefaultText>„Ich bin der Wandelnde Gott.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich bin der Wandelnde Gott."</DefaultText>
+      <DefaultText>„Ich bin der Wandelnde Gott.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Wir haben eine Vereinbarung, verehrtes Wesen. Wir wären wahrlich arm im Geiste, würden wir uns nicht daran halten. Und doch ist die Uhr noch nicht repariert und Ihr bringt uns keine neue Kunde über ihre Funktion." Er verbeugt sich mit Bedauern.</DefaultText>
+      <DefaultText>„Wir haben eine Vereinbarung, verehrtes Wesen. Wir wären wahrlich arm im Geiste, würden wir uns nicht daran halten. Und doch ist die Uhr noch nicht repariert und Ihr bringt uns keine neue Kunde über ihre Funktion.“ Er verbeugt sich mit Bedauern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Mimeons tief liegende Augen durchbohren Aligern. Er bläfft: "Sollen wir alles entweihen, das dir lieb und teuer ist? Soll ich den Schmerz besudeln, den du mit dir herumträgst, Aligern? Ich kenne dich, und ich kenne Worte, die dich verletzen können. Aber das werde ich aus Respekt nicht tun - nicht dir gegenüber, sondern gegenüber Anstand und Verstand. Erweise uns doch bitte dieselbe Höflichkeit."</DefaultText>
+      <DefaultText>Mimeons tief liegende Augen durchbohren Aligern. Er bläfft: „Sollen wir alles entweihen, das dir lieb und teuer ist? Soll ich den Schmerz besudeln, den du mit dir herumträgst, Aligern? Ich kenne dich, und ich kenne Worte, die dich verletzen können. Aber das werde ich aus Respekt nicht tun – nicht dir gegenüber, sondern gegenüber Anstand und Verstand. Erweise uns doch bitte dieselbe Höflichkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -95,7 +95,7 @@ Sie bemerkt deine Tätowierung und es verschlägt ihr die Sprache.</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Er verbeugt sich tief. "Ihr seid zurück, verehrtes Wesen. Wie können wir Euch helfen?"</DefaultText>
+      <DefaultText>Er verbeugt sich tief. „Ihr seid zurück, verehrtes Wesen. Wie können wir Euch helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,12 +105,12 @@ Sie bemerkt deine Tätowierung und es verschlägt ihr die Sprache.</FemaleText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Nein. Ich bin nicht der Wandelnde Gott."</DefaultText>
+      <DefaultText>„Nein. Ich bin nicht der Wandelnde Gott.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Und das Unglück folgt ihm auf dem Fuße so sicher wie der Regen auf den Donner." Sein Mund verbiegt sich zu etwas, das aussieht wie der Versuch eines Lächelns.</DefaultText>
+      <DefaultText>„Und das Unglück folgt ihm auf dem Fuße so sicher wie der Regen auf den Donner.“ Sein Mund verbiegt sich zu etwas, das aussieht wie der Versuch eines Lächelns.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -120,46 +120,46 @@ Sie bemerkt deine Tätowierung und es verschlägt ihr die Sprache.</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Cas, ich möchte die Gelegenheit nutzen, unsere Inspiration direkt zu befragen ... bitte vergiss nicht, dass wir bereits getäuscht wurden." Er wendet sich an dich. "Wenn Ihr es wirklich seid, könnt Ihr vielleicht diese Frage für uns lösen."</DefaultText>
+      <DefaultText>„Cas, ich möchte die Gelegenheit nutzen, unsere Inspiration direkt zu befragen … bitte vergiss nicht, dass wir bereits getäuscht wurden.“ Er wendet sich an dich. „Wenn Ihr es wirklich seid, könnt Ihr vielleicht diese Frage für uns lösen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Seine Finger zucken vielsagend. "Aber die Uhr ist aus der Zeit gefallen. Wir wissen nicht genug, um sie zu untersuchen. Ihr jedoch vielleicht schon. Ihr habt die Uhr schließlich gebaut. Wenn Ihr seid, wer Ihr vorgebt zu sein, solltet Ihr in der Lage sein, sie auf die aktuelle Zeit einzustellen ... und herauszufinden, wer diese Figuren sind."</DefaultText>
+      <DefaultText>Seine Finger zucken vielsagend. „Aber die Uhr ist aus der Zeit gefallen. Wir wissen nicht genug, um sie zu untersuchen. Ihr jedoch vielleicht schon. Ihr habt die Uhr schließlich gebaut. Wenn Ihr seid, wer Ihr vorgebt zu sein, solltet Ihr in der Lage sein, sie auf die aktuelle Zeit einzustellen … und herauszufinden, wer diese Figuren sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Eure Uhr interessiert mich nicht."</DefaultText>
+      <DefaultText>„Eure Uhr interessiert mich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich werde es tun."</DefaultText>
+      <DefaultText>„Ich werde es tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Wir haben unseren Preis genannt, Eure Heiligkeit." Sie kann dir nicht in die Augen sehen. "Wir brauchen Gewissheit."</DefaultText>
+      <DefaultText>„Wir haben unseren Preis genannt, Eure Heiligkeit.“ Sie kann dir nicht in die Augen sehen. „Wir brauchen Gewissheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Er nickt kurz und beobachtet dich aufmerksam. "Seid bitte ehrlich. Glaubt mir, Ihr könnt uns nicht täuschen. Seid Ihr der Wandelnde Gott, der leibhaftig hier vor uns steht?"</DefaultText>
+      <DefaultText>Er nickt kurz und beobachtet dich aufmerksam. „Seid bitte ehrlich. Glaubt mir, Ihr könnt uns nicht täuschen. Seid Ihr der Wandelnde Gott, der leibhaftig hier vor uns steht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Sie schnippt mit den Fingern, als wäre ihr eine Eingebung gekommen. "Ihr ... wartet, ich erinnere mich an Euer Gesicht." Sie studiert dich genau. "Ihr ... meine Güte ... Ihr seid *neu*. Seid Ihr ... seid *Ihr* der Wandelnde Gott? Kann es sein?" 
+      <DefaultText>Sie schnippt mit den Fingern, als wäre ihr eine Eingebung gekommen. „Ihr … wartet, ich erinnere mich an Euer Gesicht.“ Sie studiert dich genau. „Ihr … meine Güte … Ihr seid *neu*. Seid Ihr … seid *Ihr* der Wandelnde Gott? Kann es sein?“
 
 Sie streckt die Hand aus und berührt deinen Ärmel. Dann zieht sie die Hand sofort wieder zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Gerüchte und Mutmaßungen, nichts weiter. Müßige Spekulationen jener, die vorgeben, die Motive Eures Erzeugers zu kennen, weitergegeben als wären es Tatsachen."
+      <DefaultText>„Gerüchte und Mutmaßungen, nichts weiter. Müßige Spekulationen jener, die vorgeben, die Motive Eures Erzeugers zu kennen, weitergegeben als wären es Tatsachen.“
 
-Er beugt sich vor, um dich zu berühren. "Habt Ihr sie gesehen? Wisst Ihr, wo sie ist? Was sie tut?"</DefaultText>
+Er beugt sich vor, um dich zu berühren. „Habt Ihr sie gesehen? Wisst Ihr, wo sie ist? Was sie tut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -169,12 +169,12 @@ Er beugt sich vor, um dich zu berühren. "Habt Ihr sie gesehen? Wisst Ihr, wo si
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich bin es."</DefaultText>
+      <DefaultText>„Ich bin es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich bin es nicht."</DefaultText>
+      <DefaultText>„Ich bin es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -189,17 +189,17 @@ Er beugt sich vor, um dich zu berühren. "Habt Ihr sie gesehen? Wisst Ihr, wo si
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Er nickt zufrieden. "Wie ich dachte. Ihr seid eines seiner Kinder, ein Verstoßener." Er berührt dich mit seinen langen Fingern als wollte er dich trösten. "Das ist beileibe keine Schande. Wir sind bereits zahlreichen Verstoßenen begegnet. Manche haben versucht, uns hinters Licht zu führen, um sich wichtiger zu machen als sie sind." Er lächelt sanft. "Wenn Ihr so neu seid, wie wir denken, ist es besser für Euch - für *uns* -, die Wahrheit Eurer Existenz zu kennen. Lügen bringen nichts."</DefaultText>
+      <DefaultText>Er nickt zufrieden. „Wie ich dachte. Ihr seid eines seiner Kinder, ein Verstoßener.“ Er berührt dich mit seinen langen Fingern als wollte er dich trösten. „Das ist beileibe keine Schande. Wir sind bereits zahlreichen Verstoßenen begegnet. Manche haben versucht, uns hinters Licht zu führen, um sich wichtiger zu machen als sie sind.“ Er lächelt sanft. „Wenn Ihr so neu seid, wie wir denken, ist es besser für Euch – für *uns* –, die Wahrheit Eurer Existenz zu kennen. Lügen bringen nichts.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ihr gehört nicht zu seinen Kindern, den Verstoßenen", haucht sie. "Ich *wusste* es." Ihre hungrigen Augen sind voller Bewunderung. Sie wagt kaum zu blinzeln.</DefaultText>
+      <DefaultText>„Ihr gehört nicht zu seinen Kindern, den Verstoßenen“, haucht sie. „Ich *wusste* es.“ Ihre hungrigen Augen sind voller Bewunderung. Sie wagt kaum zu blinzeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Er macht ein Gesicht, als hätte er auf eine Zitrone gebissen, aber er ringt sich zu einer Entschuldigung durch. "Verzeiht, Mimeon."</DefaultText>
+      <DefaultText>Er macht ein Gesicht, als hätte er auf eine Zitrone gebissen, aber er ringt sich zu einer Entschuldigung durch. „Verzeiht, Mimeon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -209,12 +209,12 @@ Er beugt sich vor, um dich zu berühren. "Habt Ihr sie gesehen? Wisst Ihr, wo si
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Er deutet auf die Uhr hinter sich. "Dunkle Figuren kreisen um die Ziffernblätter. Ich vermute, dass durch die Zeitschilde, die Ihr zum Schutz dieser Stadt erschaffen habt, eine Verbindung mit Euren zukünftigen Ichs hergestellt wurde. Oder Eure Weisheit brachte sie hierher. Wie auch immer. Wir glauben, dass diese Figuren Verstoßene sind - oder Geister von Verstoßenen. Die lebenden Hüllen der Körper, die Ihr einst getragen habt."</DefaultText>
+      <DefaultText>Er deutet auf die Uhr hinter sich. „Dunkle Figuren kreisen um die Ziffernblätter. Ich vermute, dass durch die Zeitschilde, die Ihr zum Schutz dieser Stadt erschaffen habt, eine Verbindung mit Euren zukünftigen Ichs hergestellt wurde. Oder Eure Weisheit brachte sie hierher. Wie auch immer. Wir glauben, dass diese Figuren Verstoßene sind – oder Geister von Verstoßenen. Die lebenden Hüllen der Körper, die Ihr einst getragen habt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Der elegante Tanz seiner Finger verrät sein Missfallen. Er verbeugt sich leicht und sagt: "Ihr seid zurück, Täuscher."</DefaultText>
+      <DefaultText>Der elegante Tanz seiner Finger verrät sein Missfallen. Er verbeugt sich leicht und sagt: „Ihr seid zurück, Täuscher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,12 +224,12 @@ Er beugt sich vor, um dich zu berühren. "Habt Ihr sie gesehen? Wisst Ihr, wo si
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Er verbeugt sich tief. "Eure Heiligkeit. Was können Eure demütigen Diener für Euch tun? Oder seid Ihr gekommen, um mich zu erleuchten und mit Eurer Weisheit zu segnen?"</DefaultText>
+      <DefaultText>Er verbeugt sich tief. „Eure Heiligkeit. Was können Eure demütigen Diener für Euch tun? Oder seid Ihr gekommen, um mich zu erleuchten und mit Eurer Weisheit zu segnen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"War ... die plötzliche Nacht Euer Werk? Ich denke nicht, dass dies zur vorgesehenen Funktionsweise der Uhr gehörte, doch Mimeon weiß mehr darüber als ich." Sie wirkt seltsam enttäuscht.</DefaultText>
+      <DefaultText>„War … die plötzliche Nacht Euer Werk? Ich denke nicht, dass dies zur vorgesehenen Funktionsweise der Uhr gehörte, doch Mimeon weiß mehr darüber als ich.“ Sie wirkt seltsam enttäuscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -244,7 +244,7 @@ Er beugt sich vor, um dich zu berühren. "Habt Ihr sie gesehen? Wisst Ihr, wo si
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Sie lässt den Kopf hängen und flüstert: "Im Namen unserer Gemeinde entschuldige ich mich dafür, dass wir Euch nicht dienlich sein konnten."</DefaultText>
+      <DefaultText>Sie lässt den Kopf hängen und flüstert: „Im Namen unserer Gemeinde entschuldige ich mich dafür, dass wir Euch nicht dienlich sein konnten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -259,12 +259,12 @@ Er beugt sich vor, um dich zu berühren. "Habt Ihr sie gesehen? Wisst Ihr, wo si
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Ich möchte Eurer Gruppe beitreten."</DefaultText>
+      <DefaultText>„Ich möchte Eurer Gruppe beitreten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Was muss ich noch mal tun, um Eurer Gruppe beizutreten?"</DefaultText>
+      <DefaultText>„Was muss ich noch mal tun, um Eurer Gruppe beizutreten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -274,12 +274,12 @@ Er beugt sich vor, um dich zu berühren. "Habt Ihr sie gesehen? Wisst Ihr, wo si
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Wer sagtet Ihr kann mir bei der Reparatur der Resonanzkammer helfen?"</DefaultText>
+      <DefaultText>„Wer sagtet Ihr kann mir bei der Reparatur der Resonanzkammer helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Sagt mir noch mal, wer mich zu der Person führen kann, die die Resonanzkammer reparieren kann."</DefaultText>
+      <DefaultText>„Sagt mir noch mal, wer mich zu der Person führen kann, die die Resonanzkammer reparieren kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -289,12 +289,12 @@ Er beugt sich vor, um dich zu berühren. "Habt Ihr sie gesehen? Wisst Ihr, wo si
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Er wirkt kurz geschockt. "Eigenverehrung, mein Herr? Macht Ihr Witze? Was wollt Ihr lernen, indem Ihr Euch selbst studiert ..." Er hält inne. Lächelt. "Ah. Ich sehe die Lehre in Eurer Frage. Wir sollten tatsächlich danach streben, uns selbst zu studieren, doch nicht innerhalb der von anderen auferlegten Grenzen." Er nickt. "Ich danke Euch für die Lektion."</DefaultText>
+      <DefaultText>Er wirkt kurz geschockt. „Eigenverehrung, mein Herr? Macht Ihr Witze? Was wollt Ihr lernen, indem Ihr Euch selbst studiert …“ Er hält inne. Lächelt. „Ah. Ich sehe die Lehre in Eurer Frage. Wir sollten tatsächlich danach streben, uns selbst zu studieren, doch nicht innerhalb der von anderen auferlegten Grenzen.“ Er nickt. „Ich danke Euch für die Lektion.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Ihr könnt Euch nicht selbst anbeten, o Heiliger, egal wie viele Aspekte Ihr auch haben mögt. Es wäre unziemlich."</DefaultText>
+      <DefaultText>„Ihr könnt Euch nicht selbst anbeten, o Heiliger, egal wie viele Aspekte Ihr auch haben mögt. Es wäre unziemlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,12 +304,12 @@ Er beugt sich vor, um dich zu berühren. "Habt Ihr sie gesehen? Wisst Ihr, wo si
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Das ist unmöglich. Wir dienen dem Wandelnden Gott, doch Ihr habt versucht, uns hinters Licht zu führen. Wir erweisen Euch die Ehre und Unterstützung, die allen gebührt, welche von seiner schöpfenden Hand berührt wurden, doch ... nein. Fragt, was Ihr wollt,  und sucht Euch dann andere, die Ihr täuschen könnt."</DefaultText>
+      <DefaultText>„Das ist unmöglich. Wir dienen dem Wandelnden Gott, doch Ihr habt versucht, uns hinters Licht zu führen. Wir erweisen Euch die Ehre und Unterstützung, die allen gebührt, welche von seiner schöpfenden Hand berührt wurden, doch … nein. Fragt, was Ihr wollt, und sucht Euch dann andere, die Ihr täuschen könnt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Ihre hungrigen Augen sind kalt und hartherzig. "Ihr könnt uns nicht beitreten, Betrüger. Der Wandelnde Gott erhebt unseren Geist, doch Eure Hinterlist würde uns verderben."</DefaultText>
+      <DefaultText>Ihre hungrigen Augen sind kalt und hartherzig. „Ihr könnt uns nicht beitreten, Betrüger. Der Wandelnde Gott erhebt unseren Geist, doch Eure Hinterlist würde uns verderben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,19 +319,19 @@ Er beugt sich vor, um dich zu berühren. "Habt Ihr sie gesehen? Wisst Ihr, wo si
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Er wirft einen Blick auf seine Kameradin. "Verstoßene treten gewöhnlich nicht unserer Gruppe bei. Wir sind *entzückt* über die Gelegenheit, Euch besser kennenzulernen." 
+      <DefaultText>Er wirft einen Blick auf seine Kameradin. „Verstoßene treten gewöhnlich nicht unserer Gruppe bei. Wir sind *entzückt* über die Gelegenheit, Euch besser kennenzulernen.“
 
 Seine Finger halten für einen Moment inne und du hörst das Licht zwischen ihnen knistern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Bringt uns Kunde von einem Eurer Geschwister, auf dass wir ihre Namen und Daten in unseren Aufzeichnungen festhalten können. Oh, und Ihr müsst Euch von allen anderen Gruppen lossagen, denen Ihr vielleicht beigetreten seid."</DefaultText>
+      <DefaultText>„Bringt uns Kunde von einem Eurer Geschwister, auf dass wir ihre Namen und Daten in unseren Aufzeichnungen festhalten können. Oh, und Ihr müsst Euch von allen anderen Gruppen lossagen, denen Ihr vielleicht beigetreten seid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Ich habe Kunde von einer Verstoßenen hier in der Stadt. Ihr Name ist Tol Maguur."</DefaultText>
+      <DefaultText>„Ich habe Kunde von einer Verstoßenen hier in der Stadt. Ihr Name ist Tol Maguur.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,7 +341,7 @@ Seine Finger halten für einen Moment inne und du hörst das Licht zwischen ihne
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Ich kenne den Namen des Verstoßenen, der kürzlich vom Kummer getötet wurde. Er hieß Orseolo."</DefaultText>
+      <DefaultText>„Ich kenne den Namen des Verstoßenen, der kürzlich vom Kummer getötet wurde. Er hieß Orseolo.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,12 +351,12 @@ Seine Finger halten für einen Moment inne und du hörst das Licht zwischen ihne
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Sie spricht tonlos, beinahe wütend. "Was verschafft uns die Ehre?"</DefaultText>
+      <DefaultText>Sie spricht tonlos, beinahe wütend. „Was verschafft uns die Ehre?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Kann ich Eurer Gruppe beitreten?"</DefaultText>
+      <DefaultText>„Kann ich Eurer Gruppe beitreten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,12 +366,12 @@ Seine Finger halten für einen Moment inne und du hörst das Licht zwischen ihne
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Was könnt Ihr mir über die Stadt sagen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir über die Stadt sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Gibt es noch weitere Häuser Eurer Gruppe?"</DefaultText>
+      <DefaultText>„Gibt es noch weitere Häuser Eurer Gruppe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,26 +381,26 @@ Seine Finger halten für einen Moment inne und du hörst das Licht zwischen ihne
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Niedergeschlagen berührt sie deine Schulter. "Seid Ihr ... seid Ihr *sicher* nicht ...?" Sie nimmt sich zusammen. "Natürlich nicht. Warum solltet Ihr lügen?"
+      <DefaultText>Niedergeschlagen berührt sie deine Schulter. „Seid Ihr … seid Ihr *sicher* nicht …?“ Sie nimmt sich zusammen. „Natürlich nicht. Warum solltet Ihr lügen?“
 
-Mit sichtbarer Anstrengung ringt sie sich einen fröhlichen, optimistischen Ton ab. "Doch Ihr seid neu, nicht wahr? Ihr seid *neu*. Habt Ihr schon entschieden, was Ihr tun wollt? Was Ihr *sein* wollt? Die anderen Kinder Eures Erzeugers haben Beeindruckendes geleistet ... und bestimmt werdet Ihr das auch!"</DefaultText>
+Mit sichtbarer Anstrengung ringt sie sich einen fröhlichen, optimistischen Ton ab. „Doch Ihr seid neu, nicht wahr? Ihr seid *neu*. Habt Ihr schon entschieden, was Ihr tun wollt? Was Ihr *sein* wollt? Die anderen Kinder Eures Erzeugers haben Beeindruckendes geleistet … und bestimmt werdet Ihr das auch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Er legt seine Hand auf ihre Schulter und spricht leise, ermahnend. "Cas."
+      <DefaultText>Er legt seine Hand auf ihre Schulter und spricht leise, ermahnend. „Cas.“
 
-Sie wendet den Blick von dir ab, schluckt ihre Tränen herunter, während er sagt: "Wir haben eine Aufgabe für Euch."</DefaultText>
+Sie wendet den Blick von dir ab, schluckt ihre Tränen herunter, während er sagt: „Wir haben eine Aufgabe für Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Nun, Ihr könnt es, Herr. Habt Ihr sie etwa nicht alleine gebaut?"</DefaultText>
+      <DefaultText>„Nun, Ihr könnt es, Herr. Habt Ihr sie etwa nicht alleine gebaut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Es ist alles beim Alten, Herr. In Karawanserei ist wesentlich weniger los als zu Eurer Zeit, doch wenn Ihr zum Regierungsplatz hinabsteigt, wird Euch alles sehr vertraut vorkommen."</DefaultText>
+      <DefaultText>„Es ist alles beim Alten, Herr. In Karawanserei ist wesentlich weniger los als zu Eurer Zeit, doch wenn Ihr zum Regierungsplatz hinabsteigt, wird Euch alles sehr vertraut vorkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -410,37 +410,37 @@ Sie wendet den Blick von dir ab, schluckt ihre Tränen herunter, während er sag
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Ja, natürlich. Wer hat jetzt das Sagen?"</DefaultText>
+      <DefaultText>„Ja, natürlich. Wer hat jetzt das Sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Was redet Ihr da, Mimeon? Ihr meint wohl *hinauf* zum Regierungsplatz."</DefaultText>
+      <DefaultText>„Was redet Ihr da, Mimeon? Ihr meint wohl *hinauf* zum Regierungsplatz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Habt Ihr eine Idee, wie man die Uhr reparieren kann?"</DefaultText>
+      <DefaultText>„Habt Ihr eine Idee, wie man die Uhr reparieren kann?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Er wendet sich seiner Partnerin zu und sagt: "Ein neuer Täuscher wandelt unter uns. Zweifelst du immer noch an meiner Wahrnehmung?" Er baut sich vor dir auf. "Fragt, Lügner, aber erwartet keine Ehrerbietung von uns."</DefaultText>
+      <DefaultText>Er wendet sich seiner Partnerin zu und sagt: „Ein neuer Täuscher wandelt unter uns. Zweifelst du immer noch an meiner Wahrnehmung?“ Er baut sich vor dir auf. „Fragt, Lügner, aber erwartet keine Ehrerbietung von uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Sie wirft ihm einen scharfen Blick zu. "Um Eure Frage zu beantworten, Eure Heiligkeit, die Wogen des Schicksals gehen in der Stadt auf und ab wie eh und je. Ihr habt bereits einen Eurer Schildgeneratoren in der Uhr gefunden. Der Rest scheint jedoch verfallen zu sein. Wir danken jeden Tag dafür, dass Ihr die Tabaht vernichtet habt. Schiffe lassen noch den Klang ertönen. Die Häuser stehen noch auf den Klippen und ab und zu will es das Schicksal, dass einige Unselige hinabrutschen." Sie wischt sich Tränen aus den Augen. "Natürlich haben immer noch die Sklavenfamilien das Sagen. Eure Führung wird bitter vermisst."</DefaultText>
+      <DefaultText>Sie wirft ihm einen scharfen Blick zu. „Um Eure Frage zu beantworten, Eure Heiligkeit, die Wogen des Schicksals gehen in der Stadt auf und ab wie eh und je. Ihr habt bereits einen Eurer Schildgeneratoren in der Uhr gefunden. Der Rest scheint jedoch verfallen zu sein. Wir danken jeden Tag dafür, dass Ihr die Tabaht vernichtet habt. Schiffe lassen noch den Klang ertönen. Die Häuser stehen noch auf den Klippen und ab und zu will es das Schicksal, dass einige Unselige hinabrutschen.“ Sie wischt sich Tränen aus den Augen. „Natürlich haben immer noch die Sklavenfamilien das Sagen. Eure Führung wird bitter vermisst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ich habe sie nicht ganz allein gebaut."</DefaultText>
+      <DefaultText>„Ich habe sie nicht ganz allein gebaut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Das ist wahr, aber der Kummer hat mir die Erinnerung daran geraubt. Wer kann sie reparieren?"</DefaultText>
+      <DefaultText>„Das ist wahr, aber der Kummer hat mir die Erinnerung daran geraubt. Wer kann sie reparieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -455,17 +455,17 @@ Sie wendet den Blick von dir ab, schluckt ihre Tränen herunter, während er sag
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Ich habe noch weitere Fragen."</DefaultText>
+      <DefaultText>„Ich habe noch weitere Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Das werde ich nicht tun."</DefaultText>
+      <DefaultText>„Das werde ich nicht tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ich werde es tun."</DefaultText>
+      <DefaultText>„Ich werde es tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -480,7 +480,7 @@ Sie wendet den Blick von dir ab, schluckt ihre Tränen herunter, während er sag
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Ah, natürlich, Herr. Wie töricht von mir." Er nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultText>
+      <DefaultText>„Ah, natürlich, Herr. Wie töricht von mir.“ Er nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -490,14 +490,14 @@ Sie wendet den Blick von dir ab, schluckt ihre Tränen herunter, während er sag
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Ihr habt die Uhr zerstört." Seine Augen glänzen und seine Finger sind für einmal still. "Ich wusste es. Ich *wusste* es", flüstert er. 
+      <DefaultText>„Ihr habt die Uhr zerstört.“ Seine Augen glänzen und seine Finger sind für einmal still. „Ich wusste es. Ich *wusste* es“, flüstert er.
 
-Er wendet sich seiner Partnerin zu und sagt: "Ein neuer Täuscher wandelt unter uns. Zweifelst du immer noch an meiner Wahrnehmung?" Er sieht dich an. "Doch wir schulden Euch noch die vereinbarte Antwort, nicht wahr? Wir geben sie Euch, sobald Ihr uns sagt, was Ihr gesehen habt."</DefaultText>
+Er wendet sich seiner Partnerin zu und sagt: „Ein neuer Täuscher wandelt unter uns. Zweifelst du immer noch an meiner Wahrnehmung?“ Er sieht dich an. „Doch wir schulden Euch noch die vereinbarte Antwort, nicht wahr? Wir geben sie Euch, sobald Ihr uns sagt, was Ihr gesehen habt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Es ist nicht recht, dass ich mich in Euren Test einmische, Eure Heiligkeit."</DefaultText>
+      <DefaultText>„Es ist nicht recht, dass ich mich in Euren Test einmische, Eure Heiligkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -507,12 +507,12 @@ Er wendet sich seiner Partnerin zu und sagt: "Ein neuer Täuscher wandelt unter 
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Ihr habt die Uhr repariert! Ich wusste, dass Ihr es schafft. Ich *wusste* es." Sie lächelt Mimeon triumphierend an. "Ihr müsst uns sagen, was Ihr gesehen habt. Wer waren diese Figuren? Waren es Verstoßene? Was haben sie gesagt? Konntet Ihr sie zurückholen?"</DefaultText>
+      <DefaultText>„Ihr habt die Uhr repariert! Ich wusste, dass Ihr es schafft. Ich *wusste* es.“ Sie lächelt Mimeon triumphierend an. „Ihr müsst uns sagen, was Ihr gesehen habt. Wer waren diese Figuren? Waren es Verstoßene? Was haben sie gesagt? Konntet Ihr sie zurückholen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Nicht so schnell, Cas. Erst müssen wir unserem Gast gratulieren." Er wendet sich an dich. "Meisterhaft, verehrtes Wesen. Eine Vorstellung, die Eurem Erzeuger alle Ehre macht." Er verbeugt sich ernst. "Ihr seid hier höchst willkommen."</DefaultText>
+      <DefaultText>„Nicht so schnell, Cas. Erst müssen wir unserem Gast gratulieren.“ Er wendet sich an dich. „Meisterhaft, verehrtes Wesen. Eine Vorstellung, die Eurem Erzeuger alle Ehre macht.“ Er verbeugt sich ernst. „Ihr seid hier höchst willkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,7 +522,7 @@ Er wendet sich seiner Partnerin zu und sagt: "Ein neuer Täuscher wandelt unter 
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Das macht nichts", sagt er und macht ein Dach mit seinen Fingern. "Ihr habt es versucht und bewiesen, dass Ihr nicht der Wandelnde Gott seid. Gut, dass Ihr Euch nicht als er ausgegeben habt, nicht wahr?" Er lächelt. "Das meine ich nicht böse, verehrtes Wesen. Unter den Verstoßenen gibt es solche, die sich mit List wichtiger machen wollen, als sie sind, doch die Wahrheit kommt immer ans Licht und es freut uns, dass Ihr nicht zu jenen Täuschern gehört." Er verbeugt sich.</DefaultText>
+      <DefaultText>„Das macht nichts“, sagt er und macht ein Dach mit seinen Fingern. „Ihr habt es versucht und bewiesen, dass Ihr nicht der Wandelnde Gott seid. Gut, dass Ihr Euch nicht als er ausgegeben habt, nicht wahr?“ Er lächelt. „Das meine ich nicht böse, verehrtes Wesen. Unter den Verstoßenen gibt es solche, die sich mit List wichtiger machen wollen, als sie sind, doch die Wahrheit kommt immer ans Licht und es freut uns, dass Ihr nicht zu jenen Täuschern gehört.“ Er verbeugt sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -532,19 +532,19 @@ Er wendet sich seiner Partnerin zu und sagt: "Ein neuer Täuscher wandelt unter 
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Er deutet auf die Uhr hinter sich. "Dunkle Figuren kreisen um die Ziffernblätter. Ich vermute, dass durch die Zeitschilde, die Euer Erzeuger zum Schutz dieser Stadt erschaffen habt, eine Verbindung mit seinen zukünftigen Ichs hergestellt wurde. Daher glauben wir, dass diese Figuren Verstoßene sind - oder Geister von Verstoßenen. Die lebenden Hüllen der Körper, die Euer Schöpfer einst getragen hat."</DefaultText>
+      <DefaultText>Er deutet auf die Uhr hinter sich. „Dunkle Figuren kreisen um die Ziffernblätter. Ich vermute, dass durch die Zeitschilde, die Euer Erzeuger zum Schutz dieser Stadt erschaffen habt, eine Verbindung mit seinen zukünftigen Ichs hergestellt wurde. Daher glauben wir, dass diese Figuren Verstoßene sind – oder Geister von Verstoßenen. Die lebenden Hüllen der Körper, die Euer Schöpfer einst getragen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Seine Finger zucken vielsagend. "Die Uhr ist aus der Zeit gefallen, wie Ihr seht. Wir wissen nicht genug, um sie zu untersuchen. Ihr jedoch vielleicht schon. Ihr habt eine Verbindung mit dem, der diese Uhr schuf. Ihr solltet in der Lage sein, sie auf die aktuelle Zeit einzustellen ... und herauszufinden, wer diese Figuren sind." 
+      <DefaultText>Seine Finger zucken vielsagend. „Die Uhr ist aus der Zeit gefallen, wie Ihr seht. Wir wissen nicht genug, um sie zu untersuchen. Ihr jedoch vielleicht schon. Ihr habt eine Verbindung mit dem, der diese Uhr schuf. Ihr solltet in der Lage sein, sie auf die aktuelle Zeit einzustellen … und herauszufinden, wer diese Figuren sind.“
 
-Er lächelt milde. Ein seltener Anblick. "Und wenn nicht, so erweitert Ihr wenigstens unser Wissen."</DefaultText>
+Er lächelt milde. Ein seltener Anblick. „Und wenn nicht, so erweitert Ihr wenigstens unser Wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Sie lächelt tapfer, sieht Mimeon und dich an und sagt: "Und dann können wir Eure Fragen beantworten ... nicht wahr, Mim?"</DefaultText>
+      <DefaultText>Sie lächelt tapfer, sieht Mimeon und dich an und sagt: „Und dann können wir Eure Fragen beantworten … nicht wahr, Mim?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -554,17 +554,17 @@ Er lächelt milde. Ein seltener Anblick. "Und wenn nicht, so erweitert Ihr wenig
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Sie legt eine Hand auf seinen Arm. "Wir heißen alle Verstoßenen willkommen, Mimeon. Auch die Täuscher. Auch sie haben das Göttliche berührt."</DefaultText>
+      <DefaultText>Sie legt eine Hand auf seinen Arm. „Wir heißen alle Verstoßenen willkommen, Mimeon. Auch die Täuscher. Auch sie haben das Göttliche berührt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Seine Finger sind tödlich still. "Doch Ihr seid hier nicht willkommen."</DefaultText>
+      <DefaultText>Seine Finger sind tödlich still. „Doch Ihr seid hier nicht willkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Ihre Hände ringen miteinander und sie ringt bei ihren Worten nach Luft. "Wir sind hier, um Euch zu dienen, Herr!"</DefaultText>
+      <DefaultText>Ihre Hände ringen miteinander und sie ringt bei ihren Worten nach Luft. „Wir sind hier, um Euch zu dienen, Herr!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -584,7 +584,7 @@ Er lächelt milde. Ein seltener Anblick. "Und wenn nicht, so erweitert Ihr wenig
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Ich habe keine weiteren Fragen. Lebt wohl."</DefaultText>
+      <DefaultText>„Ich habe keine weiteren Fragen. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -594,12 +594,12 @@ Er lächelt milde. Ein seltener Anblick. "Und wenn nicht, so erweitert Ihr wenig
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Wer kann die Resonanzkammer reparieren?"</DefaultText>
+      <DefaultText>„Wer kann die Resonanzkammer reparieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Wisst Ihr, wer die Resonanzkammer reparieren kann?"</DefaultText>
+      <DefaultText>„Wisst Ihr, wer die Resonanzkammer reparieren kann?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -609,12 +609,12 @@ Er lächelt milde. Ein seltener Anblick. "Und wenn nicht, so erweitert Ihr wenig
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Was könnt Ihr mir über meine Geschöpfe, die Verstoßenen, sagen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir über meine Geschöpfe, die Verstoßenen, sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Könnt Ihr mir mehr über die Verstoßenen sagen, die Ihr kennt?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir mehr über die Verstoßenen sagen, die Ihr kennt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -634,8 +634,8 @@ Er lächelt milde. Ein seltener Anblick. "Und wenn nicht, so erweitert Ihr wenig
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Lebt wohl, Herr!"</DefaultText>
-      <FemaleText>"Lebt wohl, Herrin!"</FemaleText>
+      <DefaultText>„Lebt wohl, Herr!“</DefaultText>
+      <FemaleText>„Lebt wohl, Herrin!“</FemaleText>
     </Entry>
     <Entry>
       <ID>129</ID>
@@ -644,12 +644,12 @@ Er lächelt milde. Ein seltener Anblick. "Und wenn nicht, so erweitert Ihr wenig
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Wer kann die Resonanzkammer reparieren?"</DefaultText>
+      <DefaultText>„Wer kann die Resonanzkammer reparieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Könnt Ihr wiederholen, wer die Resonanzkammer reparieren kann?"</DefaultText>
+      <DefaultText>„Könnt Ihr wiederholen, wer die Resonanzkammer reparieren kann?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -679,12 +679,12 @@ Er lächelt milde. Ein seltener Anblick. "Und wenn nicht, so erweitert Ihr wenig
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Was könnt Ihr mir über die Stadt sagen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir über die Stadt sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Wie war das noch mal mit der Stadt?"</DefaultText>
+      <DefaultText>„Wie war das noch mal mit der Stadt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -759,63 +759,63 @@ Er lächelt milde. Ein seltener Anblick. "Und wenn nicht, so erweitert Ihr wenig
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Seine Finger halten inne und sein Gesicht erstarrt. Er spricht langsam und mit Bedacht. "Dann können wir Euch nicht helfen. Gar nicht." 
+      <DefaultText>Seine Finger halten inne und sein Gesicht erstarrt. Er spricht langsam und mit Bedacht. „Dann können wir Euch nicht helfen. Gar nicht.“
 
-Er sieht dir aufmerksam in die Augen. "Ihr seid neu. Ihr habt Fragen. Wir wissen eine Menge über Euch. Ohne unsere Hilfe werdet Ihr zweifellos dem Kummer zum Opfer fallen."</DefaultText>
+Er sieht dir aufmerksam in die Augen. „Ihr seid neu. Ihr habt Fragen. Wir wissen eine Menge über Euch. Ohne unsere Hilfe werdet Ihr zweifellos dem Kummer zum Opfer fallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Sie zuckt ein wenig zusammen, als fürchte sie deinen Zorn. "Doch wir können sie nicht beantworten. Ihr müsst erst ... Wir *müssen* wissen, ob Verstoßene in der Uhr gefangen sind."
+      <DefaultText>Sie zuckt ein wenig zusammen, als fürchte sie deinen Zorn. „Doch wir können sie nicht beantworten. Ihr müsst erst … Wir *müssen* wissen, ob Verstoßene in der Uhr gefangen sind.“
 
-Sie legt eine Hand auf ihr Herz und die andere über die Augen. Es wirkt beinahe wie ein Ritual. Dann zieht sie die Hände wieder weg und sagt: "Nur Ihr könnt das herausfinden. Nur *Ihr*."</DefaultText>
+Sie legt eine Hand auf ihr Herz und die andere über die Augen. Es wirkt beinahe wie ein Ritual. Dann zieht sie die Hände wieder weg und sagt: „Nur Ihr könnt das herausfinden. Nur *Ihr*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Als ihr Partner sich von dir abwendet, sieht sie dich flehend an. "Ich bitte Euch ... wir müssen das wissen. Mimeon wird nicht nachgeben, bis Ihr dieses Rätsel gelöst habt. Untersucht die Uhr, sagt uns - sagt *mir* -, was wir wissen müssen, und wir können Euch helfen."</DefaultText>
+      <DefaultText>Als ihr Partner sich von dir abwendet, sieht sie dich flehend an. „Ich bitte Euch … wir müssen das wissen. Mimeon wird nicht nachgeben, bis Ihr dieses Rätsel gelöst habt. Untersucht die Uhr, sagt uns – sagt *mir* –, was wir wissen müssen, und wir können Euch helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Lebt wohl, verehrtes Wesen!"</DefaultText>
+      <DefaultText>„Lebt wohl, verehrtes Wesen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Wir haben alles versucht. Wir haben uns an den Orden der Wahrheit gewandt. Ich habe mit bedeutenden Erkenntnissuchenden gesprochen. Bis in die Standhaften Königreiche haben wir unsere Suche nach Wissen ausgedehnt - eine große Leistung, wie Ihr zugeben müsst. Doch niemand konnte uns eine Antwort geben. Wir glauben, Euer Erzeuger hat diesen Apparat erschaffen, oder war zumindest daran beteiligt. Vielleicht ..." Verzweiflung tanzt über seine Finger.</DefaultText>
+      <DefaultText>„Wir haben alles versucht. Wir haben uns an den Orden der Wahrheit gewandt. Ich habe mit bedeutenden Erkenntnissuchenden gesprochen. Bis in die Standhaften Königreiche haben wir unsere Suche nach Wissen ausgedehnt – eine große Leistung, wie Ihr zugeben müsst. Doch niemand konnte uns eine Antwort geben. Wir glauben, Euer Erzeuger hat diesen Apparat erschaffen, oder war zumindest daran beteiligt. Vielleicht …“ Verzweiflung tanzt über seine Finger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Seine Kameradin mit den hungrigen Augen spricht für ihn weiter. "Vielleicht findet Ihr eine Antwort, wo andere uns nicht helfen konnten. Und dann können wir *Euch* helfen."
+      <DefaultText>Seine Kameradin mit den hungrigen Augen spricht für ihn weiter. „Vielleicht findet Ihr eine Antwort, wo andere uns nicht helfen konnten. Und dann können wir *Euch* helfen.“
 
-Sie wendet sich ab. "Wir werden Euch ewig dafür dankbar sein, verehrtes Wesen."</DefaultText>
+Sie wendet sich ab. „Wir werden Euch ewig dafür dankbar sein, verehrtes Wesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Und nun ... viel Glück."</DefaultText>
+      <DefaultText>„Und nun … viel Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Für einen Moment verliert er die Fassung und die große Erleichterung erhellt sein Gesicht. "Dies ist ein wahres Geschenk für unser Wissen, verehrtes Wesen."</DefaultText>
+      <DefaultText>Für einen Moment verliert er die Fassung und die große Erleichterung erhellt sein Gesicht. „Dies ist ein wahres Geschenk für unser Wissen, verehrtes Wesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Vielleicht findet Ihr eine Antwort, wo andere uns nicht helfen konnten. Unser Dank und unsere grenzenlose Ehrerbietung wären Euch gewiss. Dann sagen wir Euch alles, was wir wissen. Kehrt wohlbehalten zurück, verehrtes Wesen. Wir warten hier auf Euch."</DefaultText>
+      <DefaultText>„Vielleicht findet Ihr eine Antwort, wo andere uns nicht helfen konnten. Unser Dank und unsere grenzenlose Ehrerbietung wären Euch gewiss. Dann sagen wir Euch alles, was wir wissen. Kehrt wohlbehalten zurück, verehrtes Wesen. Wir warten hier auf Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Einverstanden. Ich werde meine Geschwister suchen."</DefaultText>
+      <DefaultText>„Einverstanden. Ich werde meine Geschwister suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Ich werde meine Geschwister in Ruhe lassen."</DefaultText>
+      <DefaultText>„Ich werde meine Geschwister in Ruhe lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -825,22 +825,22 @@ Sie wendet sich ab. "Wir werden Euch ewig dafür dankbar sein, verehrtes Wesen."
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Er verbeugt sich. "Wie Ihr wollt." Sein Gesichtsausdruck ist neutral, aber seine Finger blitzen vor Enttäuschung.</DefaultText>
+      <DefaultText>Er verbeugt sich. „Wie Ihr wollt.“ Sein Gesichtsausdruck ist neutral, aber seine Finger blitzen vor Enttäuschung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Bitte sagt doch, dass Ihr uns Kunde von weiteren Verstoßenen bringen werdet!" Sie sieht Mimeon aus dem Augenwinkel an und räuspert sich. "Ja, natürlich. Lasst uns bitte wissen, wenn wir Euch behilflich sein können."</DefaultText>
+      <DefaultText>„Bitte sagt doch, dass Ihr uns Kunde von weiteren Verstoßenen bringen werdet!“ Sie sieht Mimeon aus dem Augenwinkel an und räuspert sich. „Ja, natürlich. Lasst uns bitte wissen, wenn wir Euch behilflich sein können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Natürlich, verehrtes Wesen. Als Mitglied unserer Kirche könnt Ihr jederzeit in unseren Zelten und Pavillons schlafen."</DefaultText>
+      <DefaultText>„Natürlich, verehrtes Wesen. Als Mitglied unserer Kirche könnt Ihr jederzeit in unseren Zelten und Pavillons schlafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Es ist nicht recht, dass wir uns in Eure Aufgabe einmischen, verehrtes Wesen."</DefaultText>
+      <DefaultText>„Es ist nicht recht, dass wir uns in Eure Aufgabe einmischen, verehrtes Wesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -850,12 +850,12 @@ Sie wendet sich ab. "Wir werden Euch ewig dafür dankbar sein, verehrtes Wesen."
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Ein anderer Verstoßener. Vielleicht, der, der half, sie zu bauen. Sucht Matkina auf und fragt sie, was sie weiß." Sie sieht dich vorwurfsvoll an.</DefaultText>
+      <DefaultText>„Ein anderer Verstoßener. Vielleicht, der, der half, sie zu bauen. Sucht Matkina auf und fragt sie, was sie weiß.“ Sie sieht dich vorwurfsvoll an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Er starrt dich an, entschlossen, sich jede Facette deiner Erscheinung einzuprägen. Zwischen seinen Fingern spannen sich Lichtbögen, während er sagt: "Matkina. Eure *Schwester*. Der Weiße Tod. Sie ist irgendwo hier in der Stadt. Vermutlich versteckt sie sich."</DefaultText>
+      <DefaultText>Er starrt dich an, entschlossen, sich jede Facette deiner Erscheinung einzuprägen. Zwischen seinen Fingern spannen sich Lichtbögen, während er sagt: „Matkina. Eure *Schwester*. Der Weiße Tod. Sie ist irgendwo hier in der Stadt. Vermutlich versteckt sie sich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -870,27 +870,27 @@ Sie wendet sich ab. "Wir werden Euch ewig dafür dankbar sein, verehrtes Wesen."
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Leider wissen wir das nicht. Wie gesagt, wir wissen, dass es eines Eurer Kinder war ... aber wir wissen nicht, welches. Vielleicht solltet Ihr Matkina aufsuchen. Zuletzt hieß es, sie sei in der Schattenseite. Dort solltet Ihr nach Ihr suchen, Eure Heiligkeit."</DefaultText>
+      <DefaultText>„Leider wissen wir das nicht. Wie gesagt, wir wissen, dass es eines Eurer Kinder war … aber wir wissen nicht, welches. Vielleicht solltet Ihr Matkina aufsuchen. Zuletzt hieß es, sie sei in der Schattenseite. Dort solltet Ihr nach Ihr suchen, Eure Heiligkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Bei uns?" Ihr stockt der Atem. "Natürlich, Eure Heiligkeit. Ihr könnt bei uns bleiben, so lange Ihr wollt."</DefaultText>
+      <DefaultText>„Bei uns?“ Ihr stockt der Atem. „Natürlich, Eure Heiligkeit. Ihr könnt bei uns bleiben, so lange Ihr wollt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Ich zahle."</DefaultText>
+      <DefaultText>„Ich zahle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Nicht jetzt. Ich habe jedoch noch weitere Fragen."</DefaultText>
+      <DefaultText>„Nicht jetzt. Ich habe jedoch noch weitere Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Nicht jetzt. Lebt wohl."</DefaultText>
+      <DefaultText>„Nicht jetzt. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -900,12 +900,12 @@ Sie wendet sich ab. "Wir werden Euch ewig dafür dankbar sein, verehrtes Wesen."
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Eure Schwester Matkina weiß vielleicht, welches Eurer Geschwister Eurem Vater beim Bau geholfen hat. Wir wissen es nicht." Sie seufzt. "Es tut mir leid."</DefaultText>
+      <DefaultText>„Eure Schwester Matkina weiß vielleicht, welches Eurer Geschwister Eurem Vater beim Bau geholfen hat. Wir wissen es nicht.“ Sie seufzt. „Es tut mir leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Ich habe meine Aufzeichnungen studiert und mich für Euch umgehört, verehrtes Wesen, doch ich konnte nichts in Erfahrung bringen. Wie die Uhr übersteigt dies unsere Möglichkeiten. Vielleicht der Verstoßene, der bei ihrem Bau half? Eure Schwester, die Weiße Matkina könnte Euch vielleicht weiterhelfen. Sucht sie in der Schattenseite."</DefaultText>
+      <DefaultText>„Ich habe meine Aufzeichnungen studiert und mich für Euch umgehört, verehrtes Wesen, doch ich konnte nichts in Erfahrung bringen. Wie die Uhr übersteigt dies unsere Möglichkeiten. Vielleicht der Verstoßene, der bei ihrem Bau half? Eure Schwester, die Weiße Matkina könnte Euch vielleicht weiterhelfen. Sucht sie in der Schattenseite.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -920,12 +920,12 @@ Sie wendet sich ab. "Wir werden Euch ewig dafür dankbar sein, verehrtes Wesen."
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Welche Vorteile genießen Mitglieder Eurer Kirche?"</DefaultText>
+      <DefaultText>„Welche Vorteile genießen Mitglieder Eurer Kirche?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Könnt Ihr wiederholen, welche Vorteile Mitglieder Eurer Kirche genießen?"</DefaultText>
+      <DefaultText>„Könnt Ihr wiederholen, welche Vorteile Mitglieder Eurer Kirche genießen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -935,14 +935,14 @@ Sie wendet sich ab. "Wir werden Euch ewig dafür dankbar sein, verehrtes Wesen."
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>Seine Finger bilden ein Dach. 
+      <DefaultText>Seine Finger bilden ein Dach.
 
-"Wir haben nützliche Gegenstände für unsere Anhänger. Wir bieten Schutz vor jenen, die sie im Schlaf überfallen würden. In gewissen Situationen können sich unsere Mitglieder auch direkt helfen."</DefaultText>
+„Wir haben nützliche Gegenstände für unsere Anhänger. Wir bieten Schutz vor jenen, die sie im Schlaf überfallen würden. In gewissen Situationen können sich unsere Mitglieder auch direkt helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Abgesehen von der Chance, mehr von jenen zu treffen, die die Göttlichkeit Eures Erzeugers in sich getragen haben? Wir haben auch Zubehör und Artefakte, wie Ihr und sie tragt. Und wir bieten unseren Mitgliedern sichere Schlafplätze an."</DefaultText>
+      <DefaultText>„Abgesehen von der Chance, mehr von jenen zu treffen, die die Göttlichkeit Eures Erzeugers in sich getragen haben? Wir haben auch Zubehör und Artefakte, wie Ihr und sie tragt. Und wir bieten unseren Mitgliedern sichere Schlafplätze an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -952,54 +952,54 @@ Sie wendet sich ab. "Wir werden Euch ewig dafür dankbar sein, verehrtes Wesen."
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Kürzlich wurde ein Verstoßener vom Kummer getötet."</DefaultText>
+      <DefaultText>„Kürzlich wurde ein Verstoßener vom Kummer getötet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>Er streckt die Hand zu Casmeen aus, um sie zu beruhigen, hebt dann die Augenbraue. "Kennt Ihr den Namen der armen Seele?"</DefaultText>
+      <DefaultText>Er streckt die Hand zu Casmeen aus, um sie zu beruhigen, hebt dann die Augenbraue. „Kennt Ihr den Namen der armen Seele?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>"Ja. Sein Name war Orseolo."</DefaultText>
+      <DefaultText>„Ja. Sein Name war Orseolo.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Nein."</DefaultText>
+      <DefaultText>„Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Es tut mir Leid, Verehrter, doch wir brauchen einen Namen. Ansonsten sind unsere Aufzeichnungen lückenhaft." Er verbeugt sich. "Ihr versteht das sicherlich."</DefaultText>
+      <DefaultText>„Es tut mir Leid, Verehrter, doch wir brauchen einen Namen. Ansonsten sind unsere Aufzeichnungen lückenhaft.“ Er verbeugt sich. „Ihr versteht das sicherlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>Sie reißt entsetzt den Mund auf, bedeckt ihn mit ihrer Hand. "Oh nein! Was für ein schrecklicher Verlust für die Welt! Wisst Ihr ... wisst Ihr, wer es war?"</DefaultText>
+      <DefaultText>Sie reißt entsetzt den Mund auf, bedeckt ihn mit ihrer Hand. „Oh nein! Was für ein schrecklicher Verlust für die Welt! Wisst Ihr … wisst Ihr, wer es war?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>Sie ist entsetzt. "Er war die ganze Zeit hier mitten unter uns? Und nun ist er tot? Was er uns hätte erzählen können ... die Leute, die er gekannt haben muss ... der Einfluss, den er gehabt hat!" Sie schüttelt den Kopf. "Wäre ich doch nur sorgfältiger gewesen, hätte ich ihn vielleicht gefunden."</DefaultText>
+      <DefaultText>Sie ist entsetzt. „Er war die ganze Zeit hier mitten unter uns? Und nun ist er tot? Was er uns hätte erzählen können … die Leute, die er gekannt haben muss … der Einfluss, den er gehabt hat!“ Sie schüttelt den Kopf. „Wäre ich doch nur sorgfältiger gewesen, hätte ich ihn vielleicht gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Es ist keine Schande, jemanden nicht zu finden, der nicht gefunden werden will, Cas." Seine Finger bilden eine erleuchtete Pyramide. "Ich trauere um sein Wissen, sein Potenzial, das nun für immer verloren ist. Er muss der Überzeugung gewesen sein, dass unsere heilige Gemeinschaft nichts für ihn war. Daher entzog er sich der Gesellschaft seiner Brüder. Ein Verlust für alle Beteiligten." 
+      <DefaultText>„Es ist keine Schande, jemanden nicht zu finden, der nicht gefunden werden will, Cas.“ Seine Finger bilden eine erleuchtete Pyramide. „Ich trauere um sein Wissen, sein Potenzial, das nun für immer verloren ist. Er muss der Überzeugung gewesen sein, dass unsere heilige Gemeinschaft nichts für ihn war. Daher entzog er sich der Gesellschaft seiner Brüder. Ein Verlust für alle Beteiligten.“
 
-Er senkt den Kopf. "Ich wünschte, wir wüssten, welchen Platz er in unserer Ahnenreihe hatte, doch diese Chance ist für immer verloren, wie so viele andere Geheimnisse auch."</DefaultText>
+Er senkt den Kopf. „Ich wünschte, wir wüssten, welchen Platz er in unserer Ahnenreihe hatte, doch diese Chance ist für immer verloren, wie so viele andere Geheimnisse auch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>Er hält die Hände hoch und legt sie dir auf Herz und Augen. "O Licht, unser Glanz und Beschützer der Menschheit, wir bitten dich, nimm dich dieses Gefäßes an, gib ihm Wissen und Kraft und die Weisheit, beides wohlüberlegt einzusetzen."
+      <DefaultText>Er hält die Hände hoch und legt sie dir auf Herz und Augen. „O Licht, unser Glanz und Beschützer der Menschheit, wir bitten dich, nimm dich dieses Gefäßes an, gib ihm Wissen und Kraft und die Weisheit, beides wohlüberlegt einzusetzen.“
 
-Er tritt zurück und zum ersten Mal kommt ihm ein echtes Lächeln über die Lippen. "Willkommen in unserer Kirche, Bruder."</DefaultText>
-      <FemaleText>Er hält die Hände hoch und legt sie dir auf Herz und Augen. "O Licht, unser Glanz und Beschützer der Menschheit, wir bitten dich, nimm dich dieses Gefäßes an, gib ihm Wissen und Kraft und die Weisheit, beides wohlüberlegt einzusetzen."
+Er tritt zurück und zum ersten Mal kommt ihm ein echtes Lächeln über die Lippen. „Willkommen in unserer Kirche, Bruder.“</DefaultText>
+      <FemaleText>Er hält die Hände hoch und legt sie dir auf Herz und Augen. „O Licht, unser Glanz und Beschützer der Menschheit, wir bitten dich, nimm dich dieses Gefäßes an, gib ihm Wissen und Kraft und die Weisheit, beides wohlüberlegt einzusetzen.“
 
-Er tritt zurück und zum ersten Mal kommt ihm ein echtes Lächeln über die Lippen. "Willkommen in unserer Kirche, Schwester."</FemaleText>
+Er tritt zurück und zum ersten Mal kommt ihm ein echtes Lächeln über die Lippen. „Willkommen in unserer Kirche, Schwester.“</FemaleText>
     </Entry>
     <Entry>
       <ID>200</ID>
@@ -1008,74 +1008,74 @@ Er tritt zurück und zum ersten Mal kommt ihm ein echtes Lächeln über die Lipp
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Habt Ihr Vorräte zu verkaufen?"</DefaultText>
+      <DefaultText>„Habt Ihr Vorräte zu verkaufen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Ich habe keine weiteren Fragen. Lebt wohl."</DefaultText>
+      <DefaultText>„Ich habe keine weiteren Fragen. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Ja."</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Wir haben nichts. Nicht für Euch."</DefaultText>
+      <DefaultText>„Wir haben nichts. Nicht für Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Ja. Wir haben ihnen gesagt, dass ein neuer Täuscher unter uns wandelt."</DefaultText>
+      <DefaultText>„Ja. Wir haben ihnen gesagt, dass ein neuer Täuscher unter uns wandelt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>Er wirft seiner Kameradin einen warnenden Blick zu. "Nichts, das Ihr nicht selbst herausfinden könnt."</DefaultText>
+      <DefaultText>Er wirft seiner Kameradin einen warnenden Blick zu. „Nichts, das Ihr nicht selbst herausfinden könnt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Seid Ihr gekommen, um uns endlich beizutreten?"</DefaultText>
+      <DefaultText>„Seid Ihr gekommen, um uns endlich beizutreten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Ich danke Euch für diese Information. Wir werden sie aufzeichnen. Ihr habt die Bedingungen erfüllt. Möchtet Ihr unserer Kirche beitreten? Ihr müsst allen anderen Gruppen abschwören."</DefaultText>
+      <DefaultText>„Ich danke Euch für diese Information. Wir werden sie aufzeichnen. Ihr habt die Bedingungen erfüllt. Möchtet Ihr unserer Kirche beitreten? Ihr müsst allen anderen Gruppen abschwören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Ich möchte der Kirche des Wandelnden Gottes beitreten."</DefaultText>
+      <DefaultText>„Ich möchte der Kirche des Wandelnden Gottes beitreten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Vielleicht später."</DefaultText>
+      <DefaultText>„Vielleicht später.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Natürlich. Der Beitritt ist jederzeit möglich."</DefaultText>
+      <DefaultText>„Natürlich. Der Beitritt ist jederzeit möglich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Die Sklavenhändlerin?" Entsetzen in ihrer Stimme. "Bei allen Göttern, sie ist so schlimm wie Melmoth ... nein, Inifere! Handelt mit Leid, zieht eine Spur der Tränen hinter sich her ..." Sie verstummt. "Wie kann jemand das anderen antun?"</DefaultText>
+      <DefaultText>„Die Sklavenhändlerin?“ Entsetzen in ihrer Stimme. „Bei allen Göttern, sie ist so schlimm wie Melmoth … nein, Inifere! Handelt mit Leid, zieht eine Spur der Tränen hinter sich her …“ Sie verstummt. „Wie kann jemand das anderen antun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Nicht alle Eure Geschwister tun noble Dinge, verehrtes Wesen." Sein Stimme ist ernst, seine Finger würdevoll. "Nehmt Euch Tols Taten nicht zum Vorbild."
+      <DefaultText>„Nicht alle Eure Geschwister tun noble Dinge, verehrtes Wesen.“ Sein Stimme ist ernst, seine Finger würdevoll. „Nehmt Euch Tols Taten nicht zum Vorbild.“
 
-Er verbeugt sich vor dir. "Wir werden mit ihr sprechen, wie es unsere Lehre befiehlt, damit wir ihren Namen an der richtigen Stelle in unserer Ahnenreihe eintragen können."</DefaultText>
+Er verbeugt sich vor dir. „Wir werden mit ihr sprechen, wie es unsere Lehre befiehlt, damit wir ihren Namen an der richtigen Stelle in unserer Ahnenreihe eintragen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Ich möchte der Kirche des Wandelnden Gottes beitreten und schwöre den Dendra O'hur ab."</DefaultText>
+      <DefaultText>„Ich möchte der Kirche des Wandelnden Gottes beitreten und schwöre den Dendra O'hur ab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1085,7 +1085,7 @@ Er verbeugt sich vor dir. "Wir werden mit ihr sprechen, wie es unsere Lehre befi
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Ich möchte der Kirche des Wandelnden Gottes beitreten und schwöre dem Orden der Wahrheit ab."</DefaultText>
+      <DefaultText>„Ich möchte der Kirche des Wandelnden Gottes beitreten und schwöre dem Orden der Wahrheit ab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1105,7 +1105,7 @@ Er verbeugt sich vor dir. "Wir werden mit ihr sprechen, wie es unsere Lehre befi
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Ihr wolltet wissen, wer in der Lage sein könnte, die Resonanzkammer zu reparieren. Ich wünschte, ich könnte es Euch sagen, wirklich. Wir wissen, dass Ihr sie mithilfe eines Eurer Gefäße gebaut habt ... doch wir kennen seinen - oder ihren - Namen nicht. Vielleicht weiß eines Eurer Kinder, wo Ihr Euren Helfer finden könnt. Oder Eure Helferin."</DefaultText>
+      <DefaultText>„Ihr wolltet wissen, wer in der Lage sein könnte, die Resonanzkammer zu reparieren. Ich wünschte, ich könnte es Euch sagen, wirklich. Wir wissen, dass Ihr sie mithilfe eines Eurer Gefäße gebaut habt … doch wir kennen seinen – oder ihren – Namen nicht. Vielleicht weiß eines Eurer Kinder, wo Ihr Euren Helfer finden könnt. Oder Eure Helferin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1115,12 +1115,12 @@ Er verbeugt sich vor dir. "Wir werden mit ihr sprechen, wie es unsere Lehre befi
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Was wisst Ihr über andere Verstoßene?"</DefaultText>
+      <DefaultText>„Was wisst Ihr über andere Verstoßene?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"Wisst Ihr noch mehr über andere Verstoßene?"</DefaultText>
+      <DefaultText>„Wisst Ihr noch mehr über andere Verstoßene?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1130,26 +1130,26 @@ Er verbeugt sich vor dir. "Wir werden mit ihr sprechen, wie es unsere Lehre befi
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Eure Geschwister waren viele Dinge: Königinnen und Anführer, Generäle, Diebe, Meuchelmörder, Schöpfer und Künstler, Retter ihrer Gemeinden ... es war das Vorbild Eures Erzeugers, das sie zu solchen Leistungen antrieb. Euer heiliger Erzeuger wird auch Euch den Weg weisen. Mithilfe seiner göttlichen Gabe könnt Ihr die Welt erhellen. Daher eifern wir Euch allen ebenfalls nach."
+      <DefaultText>„Eure Geschwister waren viele Dinge: Königinnen und Anführer, Generäle, Diebe, Meuchelmörder, Schöpfer und Künstler, Retter ihrer Gemeinden … es war das Vorbild Eures Erzeugers, das sie zu solchen Leistungen antrieb. Euer heiliger Erzeuger wird auch Euch den Weg weisen. Mithilfe seiner göttlichen Gabe könnt Ihr die Welt erhellen. Daher eifern wir Euch allen ebenfalls nach.“
 
 {COLIN: Come back after 1E to add more stories about castoffs, which can provide the PC some advantage in Miel Avest}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>"Durch ihre guten Taten erfuhren wir erst von Eurem Erzeuger. Wir sahen die Stärke von Kamose, den schöpferischen Geist von Melmoth Leviarm und die unermüdliche Kraft der Ersten. Wir nennen sie die Erste Täuscherin, doch wir müssen die Kraft und List anerkennen, mit der sie gelebt hat."
+      <DefaultText>„Durch ihre guten Taten erfuhren wir erst von Eurem Erzeuger. Wir sahen die Stärke von Kamose, den schöpferischen Geist von Melmoth Leviarm und die unermüdliche Kraft der Ersten. Wir nennen sie die Erste Täuscherin, doch wir müssen die Kraft und List anerkennen, mit der sie gelebt hat.“
 
-Sie lächelt. "Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingeschlossen war und die sich dort bekriegenden Fraktionen vereinte. Legenden erzählen von Tuck, der die Welt vor einer alles verschlingenden Krankheit rettete. Große Taten folgen Euch auf dem Fuße."</DefaultText>
+Sie lächelt. „Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingeschlossen war und die sich dort bekriegenden Fraktionen vereinte. Legenden erzählen von Tuck, der die Welt vor einer alles verschlingenden Krankheit rettete. Große Taten folgen Euch auf dem Fuße.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Natürlich."</DefaultText>
+      <DefaultText>„Natürlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"Erholt Euch gut."</DefaultText>
+      <DefaultText>„Erholt Euch gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1164,7 +1164,7 @@ Sie lächelt. "Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingesc
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>"Man sagt, dass Ihr Endira Thirdloss für seine Taten am Turm der Vögel ein ganzes Königreich angeboten habt. Ist das wahr?"</DefaultText>
+      <DefaultText>„Man sagt, dass Ihr Endira Thirdloss für seine Taten am Turm der Vögel ein ganzes Königreich angeboten habt. Ist das wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1179,14 +1179,14 @@ Sie lächelt. "Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingesc
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>"Ich *bin* der Wandelnde Gott. Glaubt mir."</DefaultText>
+      <DefaultText>„Ich *bin* der Wandelnde Gott. Glaubt mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
       <DefaultText>Die beiden taumeln unter der Kraft deines Willens, ein Schlag psychischer Energie, der sie in die Knie zwingt. Mimeons Finger umklammern seinen Kopf, Licht blitzt über seinem Schädel, während er die neue Information zu verarbeiten versucht, die die Wahrheit in seinem Bewusstsein verdrängt.
 
-"... ja ... Ihr seid es ...", krächzt er heiser.
+„… ja … Ihr seid es …“, krächzt er heiser.
 
 {VFX: Light a blue-tinged halo around Mimeon's head for a moment, general Tidal Surge VFX}</DefaultText>
       <FemaleText />
@@ -1195,19 +1195,19 @@ Sie lächelt. "Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingesc
       <ID>243</ID>
       <DefaultText>Sie ist auf die Knie gesunken und starrt dich ehrfürchtig an. Aus ihren Augen strahlt der wahre Glaube. Ihre hungrigen Augen verlangen nach mehr, immer mehr, und sie greift nach dem Saum deiner Kleidung.
 
-"Führe uns, o Herr", flüstert sie ekstatisch.</DefaultText>
+„Führe uns, o Herr“, flüstert sie ekstatisch.</DefaultText>
       <FemaleText>Sie ist auf die Knie gesunken und starrt dich ehrfürchtig an. Aus ihren Augen strahlt der wahre Glaube. Ihre hungrigen Augen verlangen nach mehr, immer mehr, und sie greift nach dem Saum deiner Kleidung.
 
-"Führe uns, o Herrin", flüstert sie ekstatisch.</FemaleText>
+„Führe uns, o Herrin“, flüstert sie ekstatisch.</FemaleText>
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>Er lächelt, auch wenn noch ein wenig Reserviertheit in seinem Blick liegt. "Ruhig, Cas. Unsere Inspiration wollte uns eine Frage stellen, nachdem er die Aufgabe erledigt hatte."</DefaultText>
+      <DefaultText>Er lächelt, auch wenn noch ein wenig Reserviertheit in seinem Blick liegt. „Ruhig, Cas. Unsere Inspiration wollte uns eine Frage stellen, nachdem er die Aufgabe erledigt hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>"Ich muss wissen, wer sie reparieren kann."</DefaultText>
+      <DefaultText>„Ich muss wissen, wer sie reparieren kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1217,12 +1217,12 @@ Sie lächelt. "Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingesc
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>"Meine Tätowierung ist mir rätselhaft. Was bedeutet sie für Euch?"</DefaultText>
+      <DefaultText>„Meine Tätowierung ist mir rätselhaft. Was bedeutet sie für Euch?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>"Könnt Ihr die Bedeutung der Tätowierung wiederholen?"</DefaultText>
+      <DefaultText>„Könnt Ihr die Bedeutung der Tätowierung wiederholen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1232,12 +1232,12 @@ Sie lächelt. "Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingesc
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>"Wer seid Ihr?"</DefaultText>
+      <DefaultText>„Wer seid Ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>"Wer seid Ihr noch mal?"</DefaultText>
+      <DefaultText>„Wer seid Ihr noch mal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1247,7 +1247,7 @@ Sie lächelt. "Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingesc
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>"Wisst Ihr etwas über einen Apparat, der 'Resonanzkammer' genannt wird"?</DefaultText>
+      <DefaultText>„Wisst Ihr etwas über einen Apparat, der 'Resonanzkammer' genannt wird“?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1262,12 +1262,12 @@ Sie lächelt. "Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingesc
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>Er denkt über deine Worte nach und lässt sich Zeit, bevor er antwortet. "Ich bin Mimeon. Ich bin einer der Anführer des Kultes des Wandelnden Gottes in Sagus Klippen. Meine Hauptaufgabe ist die des obersten Archivars. Meine Kollegin ist Casmeen. Sie ist für die täglichen Verwaltungsaufgaben hier zuständig."</DefaultText>
+      <DefaultText>Er denkt über deine Worte nach und lässt sich Zeit, bevor er antwortet. „Ich bin Mimeon. Ich bin einer der Anführer des Kultes des Wandelnden Gottes in Sagus Klippen. Meine Hauptaufgabe ist die des obersten Archivars. Meine Kollegin ist Casmeen. Sie ist für die täglichen Verwaltungsaufgaben hier zuständig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Sie nickt hastig, ohne je die Augen von deinem Gesicht zu lassen. "Ich bin Casmeen. Das ist Mimeon. Gemeinsam führen wir den Kult des Wandelnden Gottes an." Sie klingt plötzlich verwirrt, als wüsste sie nicht genau, wo sie dein Gesicht einordnen soll.</DefaultText>
+      <DefaultText>Sie nickt hastig, ohne je die Augen von deinem Gesicht zu lassen. „Ich bin Casmeen. Das ist Mimeon. Gemeinsam führen wir den Kult des Wandelnden Gottes an.“ Sie klingt plötzlich verwirrt, als wüsste sie nicht genau, wo sie dein Gesicht einordnen soll.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1277,17 +1277,17 @@ Sie lächelt. "Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingesc
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>"Ihr wurdet vom Wandelnden Gott berührt?", flüstert sie. "Sein Geist war in Euch. Er hat seine Träume, seine Kräfte, mit Eurem Geist geteilt. Und als er Euren Körper verließ, schuf er *Euch*." Sie schluckt.
+      <DefaultText>„Ihr wurdet vom Wandelnden Gott berührt?“, flüstert sie. „Sein Geist war in Euch. Er hat seine Träume, seine Kräfte, mit Eurem Geist geteilt. Und als er Euren Körper verließ, schuf er *Euch*.“ Sie schluckt.
 
-"Diese Tätowierung ... Ihr alle habt sie ... es ist sein Zeichen. Es wächst und verändert sich, so wie Ihr wächst und Euch verändert, bis es schließlich zu Eurem Zeichen wird. Es gibt noch mehr von Euch. Man nennt sie 'Verstoßene'."
+„Diese Tätowierung … Ihr alle habt sie … es ist sein Zeichen. Es wächst und verändert sich, so wie Ihr wächst und Euch verändert, bis es schließlich zu Eurem Zeichen wird. Es gibt noch mehr von Euch. Man nennt sie 'Verstoßene'.“
 
 Sie legt den Kopf zur Seite, mustert dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>Er verbeugt sich. "Ihr seid ein Verstoßener unserer Inspiration, des Wandelnden Gottes. Der Mann, der seit Jahrhunderten dem Tod von der Schippe springt, um Weisheit zu sammeln. Er trägt Körper wie andere Kleidung und wirft sie ab, wenn er seine Studien in ihnen beendet hat. Doch ein Funken seines Geistes bleibt stets zurück ... das ist *Euer* Geist, verehrtes Wesen."</DefaultText>
-      <FemaleText>Er verbeugt sich. "Ihr seid eine Verstoßene unserer Inspiration, des Wandelnden Gottes. Der Mann, der seit Jahrhunderten dem Tod von der Schippe springt, um Weisheit zu sammeln. Er trägt Körper wie andere Kleidung und wirft sie ab, wenn er seine Studien in ihnen beendet hat. Doch ein Funken seines Geistes bleibt stets zurück ... das ist *Euer* Geist, verehrtes Wesen."</FemaleText>
+      <DefaultText>Er verbeugt sich. „Ihr seid ein Verstoßener unserer Inspiration, des Wandelnden Gottes. Der Mann, der seit Jahrhunderten dem Tod von der Schippe springt, um Weisheit zu sammeln. Er trägt Körper wie andere Kleidung und wirft sie ab, wenn er seine Studien in ihnen beendet hat. Doch ein Funken seines Geistes bleibt stets zurück … das ist *Euer* Geist, verehrtes Wesen.“</DefaultText>
+      <FemaleText>Er verbeugt sich. „Ihr seid eine Verstoßene unserer Inspiration, des Wandelnden Gottes. Der Mann, der seit Jahrhunderten dem Tod von der Schippe springt, um Weisheit zu sammeln. Er trägt Körper wie andere Kleidung und wirft sie ab, wenn er seine Studien in ihnen beendet hat. Doch ein Funken seines Geistes bleibt stets zurück … das ist *Euer* Geist, verehrtes Wesen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>265</ID>
@@ -1296,7 +1296,7 @@ Sie legt den Kopf zur Seite, mustert dich.</DefaultText>
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>Er sieht dich aufmerksam und konzentriert an. "Ihr seid mir nicht bekannt", sagt er. "Euer Gesicht passt zu keiner der Beschreibungen in unseren Aufzeichnungen."</DefaultText>
+      <DefaultText>Er sieht dich aufmerksam und konzentriert an. „Ihr seid mir nicht bekannt“, sagt er. „Euer Gesicht passt zu keiner der Beschreibungen in unseren Aufzeichnungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1306,27 +1306,27 @@ Sie legt den Kopf zur Seite, mustert dich.</DefaultText>
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>"Ihr seid hier willkommen, verehrtes Wesen. Wir helfen Euch so gut wir können. Habt Ihr Fragen an uns?"</DefaultText>
+      <DefaultText>„Ihr seid hier willkommen, verehrtes Wesen. Wir helfen Euch so gut wir können. Habt Ihr Fragen an uns?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>"Die Resonanzkammer befindet sich im Riff der gefallenen Welten, unter einer zerbrochenen Kuppel."</DefaultText>
+      <DefaultText>„Die Resonanzkammer befindet sich im Riff der gefallenen Welten, unter einer zerbrochenen Kuppel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>"Ich weiß nichts über die Resonanzkammer, aber ich hörte, Ihr vielleicht schon."</DefaultText>
+      <DefaultText>„Ich weiß nichts über die Resonanzkammer, aber ich hörte, Ihr vielleicht schon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>"Wirklich? Oh, Mim, wir sollten eine Expedition organisieren! Denk doch nur mal! Wir könnten zu den Ersten gehören, die sie berühren!"</DefaultText>
+      <DefaultText>„Wirklich? Oh, Mim, wir sollten eine Expedition organisieren! Denk doch nur mal! Wir könnten zu den Ersten gehören, die sie berühren!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>Er lächelt leise und breitet die Hände in einer Geste der Entschuldigung aus. "Nicht so viel, wie ich gerne würde, doch beim Kult des Wandelnden Gottes haben wir Mittel und Wege, Antworten zu finden. Jene, die Eurem Erzeuger gegenüber loyal sind, sagen, die Kammer sei das Mittel, sich des Kummers zu entledigen, der Kreatur, die Euch alle jagt."
+      <DefaultText>Er lächelt leise und breitet die Hände in einer Geste der Entschuldigung aus. „Nicht so viel, wie ich gerne würde, doch beim Kult des Wandelnden Gottes haben wir Mittel und Wege, Antworten zu finden. Jene, die Eurem Erzeuger gegenüber loyal sind, sagen, die Kammer sei das Mittel, sich des Kummers zu entledigen, der Kreatur, die Euch alle jagt.“
 
 Seine Augen wandern über dein Gesicht und er wirkt, als wäre er kurz davor, etwas zu verstehen.</DefaultText>
       <FemaleText />
@@ -1338,16 +1338,16 @@ Seine Augen wandern über dein Gesicht und er wirkt, als wäre er kurz davor, et
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>"Und vielleicht auch etwas von ihr lernen?" Er spricht leise tadelnd. "Wir sollten uns darauf konzentrieren, seine verborgenen Taten aufzudecken und zu preisen, Cas. Und nicht einen Tanz um seine bekannten Schöpfungen vollführen wie abergläubische Wilde!" Er bewegt den Finger hin und her. 
+      <DefaultText>„Und vielleicht auch etwas von ihr lernen?“ Er spricht leise tadelnd. „Wir sollten uns darauf konzentrieren, seine verborgenen Taten aufzudecken und zu preisen, Cas. Und nicht einen Tanz um seine bekannten Schöpfungen vollführen wie abergläubische Wilde!“ Er bewegt den Finger hin und her.
 
 Und da scheint ihn die Erleuchtung zu überkommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>Ihr Partner ist ein unnatürlich großer Mann, dünn, mit säuerlichem Gesicht und sonorer Stimme. Seine Finger zucken immerfort und vollziehen in der Luft die seltsamsten Figuren. Gelegentlich blitzt dabei Licht von ihnen auf. 
+      <DefaultText>Ihr Partner ist ein unnatürlich großer Mann, dünn, mit säuerlichem Gesicht und sonorer Stimme. Seine Finger zucken immerfort und vollziehen in der Luft die seltsamsten Figuren. Gelegentlich blitzt dabei Licht von ihnen auf.
 
-Er wendet sich dir zu, öffnet den Mund, sieht deine Tätowierung und schließt den Mund wieder, ohne etwas zu sagen. Er schluckt, dann sagt er: "Es ist mir eine Ehre."</DefaultText>
+Er wendet sich dir zu, öffnet den Mund, sieht deine Tätowierung und schließt den Mund wieder, ohne etwas zu sagen. Er schluckt, dann sagt er: „Es ist mir eine Ehre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1357,12 +1357,12 @@ Er wendet sich dir zu, öffnet den Mund, sieht deine Tätowierung und schließt 
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>"Was könnt Ihr mir über die Stadt sagen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir über die Stadt sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>"Was könnt Ihr mir noch über die Stadt erzählen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir noch über die Stadt erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1372,33 +1372,33 @@ Er wendet sich dir zu, öffnet den Mund, sieht deine Tätowierung und schließt 
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>"Die Stadt, die Euer Erzeuger aufgebaut und verteidigt hat? Die Wiege der Zivilisation? Das Zentrum des Wissens?" Er hebt die Augenbrauen und spricht langsam und schwärmerisch. "Sie gehört zu den großen Wundern der Menschheit in der Neunten Welt. Aufbauend auf dem von Unbekannten gelegten Fundament erhob sie sich zu einer der führenden Städte im Garravia-Sund."
+      <DefaultText>„Die Stadt, die Euer Erzeuger aufgebaut und verteidigt hat? Die Wiege der Zivilisation? Das Zentrum des Wissens?“ Er hebt die Augenbrauen und spricht langsam und schwärmerisch. „Sie gehört zu den großen Wundern der Menschheit in der Neunten Welt. Aufbauend auf dem von Unbekannten gelegten Fundament erhob sie sich zu einer der führenden Städte im Garravia-Sund.“
 
-Er hält kurz inne. "Zugegeben, in letzter Zeit ist ihr Ruhm ein wenig verblasst. Vielleicht, wenn der Wandelnde Gott zurückkehren und uns wieder zu alter Größe führen würde ..."</DefaultText>
+Er hält kurz inne. „Zugegeben, in letzter Zeit ist ihr Ruhm ein wenig verblasst. Vielleicht, wenn der Wandelnde Gott zurückkehren und uns wieder zu alter Größe führen würde …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>"Sagusklippen ist die Heimat vieler Tausender Seelen. Sie kamen, um Schutz und Hilfe zu suchen, und der Wandelnde Gott gewährte sie ihnen! Heute könnt Ihr die Türme am Regierungsplatz besuchen, wo er einst residierte, oder die Orte, an denen seine Maschinen die Stadt einst den Fesseln der Zeit entrissen."
+      <DefaultText>„Sagusklippen ist die Heimat vieler Tausender Seelen. Sie kamen, um Schutz und Hilfe zu suchen, und der Wandelnde Gott gewährte sie ihnen! Heute könnt Ihr die Türme am Regierungsplatz besuchen, wo er einst residierte, oder die Orte, an denen seine Maschinen die Stadt einst den Fesseln der Zeit entrissen.“
 
-"Euer Erzeuger wagte sich sogar in die Flor, als er hier war." Sie unterdrückt Zittern. "Doch das solltet Ihr ihm unter keinen Umständen nachtun. Es gibt auch sonst genug zu tun in der Stadt, wenn Ihr in die Fußstapfen Eures Erzeugers treten wollt."</DefaultText>
+„Euer Erzeuger wagte sich sogar in die Flor, als er hier war.“ Sie unterdrückt Zittern. „Doch das solltet Ihr ihm unter keinen Umständen nachtun. Es gibt auch sonst genug zu tun in der Stadt, wenn Ihr in die Fußstapfen Eures Erzeugers treten wollt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>"Wir haben es selbst versucht. Wir haben uns an den Orden der Wahrheit gewandt. Ich habe mit bedeutenden Erkenntnissuchenden gesprochen. Bis in die Standhaften Königreiche haben wir unsere Suche nach Wissen ausgedehnt - eine große Leistung, wie Ihr zugeben müsst. Doch niemand konnte uns eine Antwort geben. Vielleicht ..." Verzweiflung tanzt über seine Finger. "Vielleicht kommt Euch die Erinnerung Eurer Erschaffung noch."</DefaultText>
+      <DefaultText>„Wir haben es selbst versucht. Wir haben uns an den Orden der Wahrheit gewandt. Ich habe mit bedeutenden Erkenntnissuchenden gesprochen. Bis in die Standhaften Königreiche haben wir unsere Suche nach Wissen ausgedehnt – eine große Leistung, wie Ihr zugeben müsst. Doch niemand konnte uns eine Antwort geben. Vielleicht …“ Verzweiflung tanzt über seine Finger. „Vielleicht kommt Euch die Erinnerung Eurer Erschaffung noch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Seine Kameradin mit den hungrigen Augen spricht für ihn weiter. "Vielleicht findet Ihr eine Antwort, wo andere uns nicht helfen konnten."
+      <DefaultText>Seine Kameradin mit den hungrigen Augen spricht für ihn weiter. „Vielleicht findet Ihr eine Antwort, wo andere uns nicht helfen konnten.“
 
-Sie wendet sich ab. "Wir werden Euch dafür dankbar sein, verehrtes Wesen. Ihr habt gesagt, Ihr hättet Fragen zur Resonanzkammer. *Wir* können *Euch* helfen. Doch zunächst müsst Ihr die Uhr und die Figuren in ihr untersuchen, sonst ..." Sie verstummt. "Sonst müssen wir uns von Euren Worten abwenden."</DefaultText>
+Sie wendet sich ab. „Wir werden Euch dafür dankbar sein, verehrtes Wesen. Ihr habt gesagt, Ihr hättet Fragen zur Resonanzkammer. *Wir* können *Euch* helfen. Doch zunächst müsst Ihr die Uhr und die Figuren in ihr untersuchen, sonst …“ Sie verstummt. „Sonst müssen wir uns von Euren Worten abwenden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>"Viel Glück, verehrtes Wesen. Wir erwarten die Kunde, die Ihr bringt."</DefaultText>
+      <DefaultText>„Viel Glück, verehrtes Wesen. Wir erwarten die Kunde, die Ihr bringt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1408,12 +1408,12 @@ Sie wendet sich ab. "Wir werden Euch dafür dankbar sein, verehrtes Wesen. Ihr h
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>"Was wisst Ihr über andere Verstoßene?"</DefaultText>
+      <DefaultText>„Was wisst Ihr über andere Verstoßene?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>"Warum könnt Ihr mir nicht mehr über andere Verstoßene sagen?"</DefaultText>
+      <DefaultText>„Warum könnt Ihr mir nicht mehr über andere Verstoßene sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1423,17 +1423,17 @@ Sie wendet sich ab. "Wir werden Euch dafür dankbar sein, verehrtes Wesen. Ihr h
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Sie lächelt. Lacht. "Wir haben Jahre damit zugebracht, unsere Aufzeichnungen zusammenzutragen. Für Euch mag dies keine Zeit sein, doch wir müssen unser mühsam erworbenes Wissen schützen. Vielleicht, wenn Ihr Euch unserer Gruppe anschließt, unser Wissen mit Eurer Erfahrung bereichert ...?"</DefaultText>
+      <DefaultText>Sie lächelt. Lacht. „Wir haben Jahre damit zugebracht, unsere Aufzeichnungen zusammenzutragen. Für Euch mag dies keine Zeit sein, doch wir müssen unser mühsam erworbenes Wissen schützen. Vielleicht, wenn Ihr Euch unserer Gruppe anschließt, unser Wissen mit Eurer Erfahrung bereichert …?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>"Unsere Geheimnisse gehören uns. Wir verraten sie keinen Außenstehenden. Wenn Ihr uns beitreten würdet, sähe die Sache natürlich ganz anders aus." Er senkt den Kopf.</DefaultText>
+      <DefaultText>„Unsere Geheimnisse gehören uns. Wir verraten sie keinen Außenstehenden. Wenn Ihr uns beitreten würdet, sähe die Sache natürlich ganz anders aus.“ Er senkt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>"Ich habe Kamose, Divitiacu und Vallon getroffen."</DefaultText>
+      <DefaultText>„Ich habe Kamose, Divitiacu und Vallon getroffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1443,48 +1443,48 @@ Sie wendet sich ab. "Wir werden Euch dafür dankbar sein, verehrtes Wesen. Ihr h
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>(Lüge) "Dunkle Figuren haben mich hineingezogen. Es war ein Labyrinth. Ich habe weder ihre Gesichter gesehen noch ihre Namen erfahren."</DefaultText>
+      <DefaultText>(Lüge) „Dunkle Figuren haben mich hineingezogen. Es war ein Labyrinth. Ich habe weder ihre Gesichter gesehen noch ihre Namen erfahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>"Ihr wolltet wissen, wer in der Lage sein könnte, die Resonanzkammer zu reparieren. Wir wissen, dass Euer Erzeuger sie gebaut hat, mit Hilfe eines weiteren Verstoßenen ... der uns nicht bekannt ist. Vielleicht weiß eines Eurer Geschwister, wo Ihr ihn finden könnt. Oder sie."</DefaultText>
+      <DefaultText>„Ihr wolltet wissen, wer in der Lage sein könnte, die Resonanzkammer zu reparieren. Wir wissen, dass Euer Erzeuger sie gebaut hat, mit Hilfe eines weiteren Verstoßenen … der uns nicht bekannt ist. Vielleicht weiß eines Eurer Geschwister, wo Ihr ihn finden könnt. Oder sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText>"Ihr wolltet wissen, wer in der Lage sein könnte, die Resonanzkammer zu reparieren. Wir wissen, dass Euer Erzeuger sie gebaut hat, mit Hilfe eines weiteren Verstoßenen ... von dem uns nichts bekannt ist. Vielleicht weiß eines Eurer Geschwister, wo Ihr ihn finden könnt. Oder sie."</DefaultText>
+      <DefaultText>„Ihr wolltet wissen, wer in der Lage sein könnte, die Resonanzkammer zu reparieren. Wir wissen, dass Euer Erzeuger sie gebaut hat, mit Hilfe eines weiteren Verstoßenen … von dem uns nichts bekannt ist. Vielleicht weiß eines Eurer Geschwister, wo Ihr ihn finden könnt. Oder sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText>Sie sieht enttäuscht aus. "Ich kenne diese Namen. Sie sind uns nicht neu. Es waren Günstlinge Eures Erzeugers. Verstoßene, die ihm treu gedient haben - Divitiacu zum Beispiel brachte den Orden der Wahrheit nach Sagus Klippen! - doch dann verrieten sie sein heiliges Vertrauen und verschwanden."</DefaultText>
+      <DefaultText>Sie sieht enttäuscht aus. „Ich kenne diese Namen. Sie sind uns nicht neu. Es waren Günstlinge Eures Erzeugers. Verstoßene, die ihm treu gedient haben – Divitiacu zum Beispiel brachte den Orden der Wahrheit nach Sagus Klippen! – doch dann verrieten sie sein heiliges Vertrauen und verschwanden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>309</ID>
-      <DefaultText>Er seufzt. "Nichtsdestotrotz werden wir uns an unsere Vereinbarung halten."</DefaultText>
+      <DefaultText>Er seufzt. „Nichtsdestotrotz werden wir uns an unsere Vereinbarung halten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>Sie sieht enttäuscht aus. "Ihr konntet ihre Namen nicht erfahren, konntet sie nicht retten? Das ist ein Desaster!"</DefaultText>
+      <DefaultText>Sie sieht enttäuscht aus. „Ihr konntet ihre Namen nicht erfahren, konntet sie nicht retten? Das ist ein Desaster!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>"Alles Gute für Eure Reisen, Eure Heiligkeit."</DefaultText>
+      <DefaultText>„Alles Gute für Eure Reisen, Eure Heiligkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>"Sucht sie auf. Und nun geht."</DefaultText>
+      <DefaultText>„Sucht sie auf. Und nun geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>"Lebt wohl, Verstoßener. Ich muss mich mit meiner Kollegin besprechen."</DefaultText>
-      <FemaleText>"Lebt wohl, Verstoßene. Ich muss mich mit meiner Kollegin besprechen."</FemaleText>
+      <DefaultText>„Lebt wohl, Verstoßener. Ich muss mich mit meiner Kollegin besprechen.“</DefaultText>
+      <FemaleText>„Lebt wohl, Verstoßene. Ich muss mich mit meiner Kollegin besprechen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>315</ID>
@@ -1508,17 +1508,17 @@ Sie wendet sich ab. "Wir werden Euch dafür dankbar sein, verehrtes Wesen. Ihr h
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>"Sie steht immer noch auf dem Fundament Eurer Werke und feiert Euch!" Sie runzelt die Stirn. "Wenn auch leise. Doch die Zeitgeneratoren stehen still. Die Häuser stehen noch in Klippenrand. Die Veteranen versammeln sich noch im Fünften Auge und die Mächtigen wachen am Regierungsplatz über die Stadt. Die Zeit ändert alles und ändert nichts."</DefaultText>
+      <DefaultText>„Sie steht immer noch auf dem Fundament Eurer Werke und feiert Euch!“ Sie runzelt die Stirn. „Wenn auch leise. Doch die Zeitgeneratoren stehen still. Die Häuser stehen noch in Klippenrand. Die Veteranen versammeln sich noch im Fünften Auge und die Mächtigen wachen am Regierungsplatz über die Stadt. Die Zeit ändert alles und ändert nichts.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>"Natürlich, natürlich. Die Sklavenfamilien regieren immer noch gemäß Eures Erlasses. Die Zeitschilde sind verfallen, doch da die Tabaht keine Bedrohung mehr darstellen, brauchen wir sie nicht mehr. Sagusklippen ist immer noch das pulsierende Herz des Sagus-Protektorats und Ihr werdet diesseits der Uhr von Kala keine größere Stadt finden."</DefaultText>
+      <DefaultText>„Natürlich, natürlich. Die Sklavenfamilien regieren immer noch gemäß Eures Erlasses. Die Zeitschilde sind verfallen, doch da die Tabaht keine Bedrohung mehr darstellen, brauchen wir sie nicht mehr. Sagusklippen ist immer noch das pulsierende Herz des Sagus-Protektorats und Ihr werdet diesseits der Uhr von Kala keine größere Stadt finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>"Ich *bin* der Wandelnde Gott, Mimeon. Vertraut mir."</DefaultText>
+      <DefaultText>„Ich *bin* der Wandelnde Gott, Mimeon. Vertraut mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1528,7 +1528,7 @@ Sie wendet sich ab. "Wir werden Euch dafür dankbar sein, verehrtes Wesen. Ihr h
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>Sie boxt Mimeon verspielt in den Arm. "Wir wissen es nicht, Herr. Ihr habt sie mit einem Eurer Kinder gebaut. Wenn Ihr sie nicht selbst reparieren könnt, solltet Ihr vielleicht Euren Helfer aufsuchen." Sie schaut verlegen zur Seite. "Doch wir wissen nicht, wer es ist. Vielleicht weiß es Matkina? Zuletzt hieß es, sie sei in der Schattenseite untergetaucht."</DefaultText>
+      <DefaultText>Sie boxt Mimeon verspielt in den Arm. „Wir wissen es nicht, Herr. Ihr habt sie mit einem Eurer Kinder gebaut. Wenn Ihr sie nicht selbst reparieren könnt, solltet Ihr vielleicht Euren Helfer aufsuchen.“ Sie schaut verlegen zur Seite. „Doch wir wissen nicht, wer es ist. Vielleicht weiß es Matkina? Zuletzt hieß es, sie sei in der Schattenseite untergetaucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1538,14 +1538,14 @@ Sie wendet sich ab. "Wir werden Euch dafür dankbar sein, verehrtes Wesen. Ihr h
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>"Ah, natürlich nicht! Ich dachte wohl an den Kalkedon.  Man sagt, er sei der unbarmherzigste Kämpfer weit und breit." 
+      <DefaultText>„Ah, natürlich nicht! Ich dachte wohl an den Kalkedon.  Man sagt, er sei der unbarmherzigste Kämpfer weit und breit.“
 
 Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>"Eure Kinder waren viele Dinge. Königinnen und Anführer, Generäle, Schöpfer, Diebe, Meuchelmörder, Schöpfer und Künstler, Retter ihrer Gemeinden ... es war Euer Vorbild, das sie zu solchen Leistungen antrieb. Ihr Erzeuger weist ihnen stets den Weg. Mithilfe Eurer göttlichen Gabe haben sie eine bessere Welt geschaffen. Daher eifern wir ihnen ebenfalls nach."</DefaultText>
+      <DefaultText>„Eure Kinder waren viele Dinge. Königinnen und Anführer, Generäle, Schöpfer, Diebe, Meuchelmörder, Schöpfer und Künstler, Retter ihrer Gemeinden … es war Euer Vorbild, das sie zu solchen Leistungen antrieb. Ihr Erzeuger weist ihnen stets den Weg. Mithilfe Eurer göttlichen Gabe haben sie eine bessere Welt geschaffen. Daher eifern wir ihnen ebenfalls nach.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1555,7 +1555,7 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>"Das stimmt. Er hat mir gut gedient."</DefaultText>
+      <DefaultText>„Das stimmt. Er hat mir gut gedient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1565,12 +1565,12 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>"Ihre guten Taten haben uns dazu inspiriert, Euch zu verehren, Überwinder des Todes. Wir sahen die Stärke von Kamose, den schöpferischen Geist von Melmoth Leviarm und die unermüdliche Energie der Ersten." Hastig fügt sie hinzu: "Wir nennen sie die Erste Täuscherin, doch selbst Ihr müsst die Gewandtheit und List anerkennen, mit der sie gelebt hat."</DefaultText>
+      <DefaultText>„Ihre guten Taten haben uns dazu inspiriert, Euch zu verehren, Überwinder des Todes. Wir sahen die Stärke von Kamose, den schöpferischen Geist von Melmoth Leviarm und die unermüdliche Energie der Ersten.“ Hastig fügt sie hinzu: „Wir nennen sie die Erste Täuscherin, doch selbst Ihr müsst die Gewandtheit und List anerkennen, mit der sie gelebt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>"Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingeschlossen war und die sich dort bekriegenden Faktionen vereinte. Legenden berichten uns von Tuck, der die Welt vor einer alles verschlingenden Krankheit rettete. Große Taten folgen Euren Kindern auf Schritt und Tritt. Wir trachten, in ihre Fußstapfen zu treten und der Welt neues Wissen zu bringen."</DefaultText>
+      <DefaultText>„Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingeschlossen war und die sich dort bekriegenden Faktionen vereinte. Legenden berichten uns von Tuck, der die Welt vor einer alles verschlingenden Krankheit rettete. Große Taten folgen Euren Kindern auf Schritt und Tritt. Wir trachten, in ihre Fußstapfen zu treten und der Welt neues Wissen zu bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1580,39 +1580,39 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>Er trifft eine Entscheidung und wirft sich dir vor die Füße. "Vergebt mir meine Zweifel, Herr. Schon viele kamen zu uns und gaben vor, Ihr zu sein, doch keiner von Ihnen besaß Euer Wissen. Ich musste Euch prüfen, und es ist ein Zeugnis Eurer Wahrheit, dass Ihr nicht einmal bemerkt habt, dass Ihr geprüft wurdet. Verzeiht mir."</DefaultText>
+      <DefaultText>Er trifft eine Entscheidung und wirft sich dir vor die Füße. „Vergebt mir meine Zweifel, Herr. Schon viele kamen zu uns und gaben vor, Ihr zu sein, doch keiner von Ihnen besaß Euer Wissen. Ich musste Euch prüfen, und es ist ein Zeugnis Eurer Wahrheit, dass Ihr nicht einmal bemerkt habt, dass Ihr geprüft wurdet. Verzeiht mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>Er trifft eine Entscheidung und wirft sich dir vor die Füße. "Vergebt mir meine Zweifel, Eure Heiligkeit. Schon viele kamen zu uns und gaben vor, Ihr zu sein, doch keiner von Ihnen besaß Euer Wissen. Ich musste Euch prüfen, und es ist ein Zeugnis Eurer Wahrheit, dass Ihr nicht einmal bemerkt habt, dass Ihr geprüft wurdet. Verzeiht mir."</DefaultText>
+      <DefaultText>Er trifft eine Entscheidung und wirft sich dir vor die Füße. „Vergebt mir meine Zweifel, Eure Heiligkeit. Schon viele kamen zu uns und gaben vor, Ihr zu sein, doch keiner von Ihnen besaß Euer Wissen. Ich musste Euch prüfen, und es ist ein Zeugnis Eurer Wahrheit, dass Ihr nicht einmal bemerkt habt, dass Ihr geprüft wurdet. Verzeiht mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>Er trifft eine Entscheidung und wirft sich dir vor die Füße. "Vergebt mir meine Zweifel, Eure Heiligkeit. Schon viele kamen zu uns und gaben vor, Ihr zu sein, doch keiner von Ihnen besaß Euer Wissen. Ich musste Euch prüfen, und es ist ein Zeugnis Eurer Wahrheit, dass Ihr nicht einmal bemerkt habt, dass Ihr geprüft wurdet. Verzeiht mir."</DefaultText>
+      <DefaultText>Er trifft eine Entscheidung und wirft sich dir vor die Füße. „Vergebt mir meine Zweifel, Eure Heiligkeit. Schon viele kamen zu uns und gaben vor, Ihr zu sein, doch keiner von Ihnen besaß Euer Wissen. Ich musste Euch prüfen, und es ist ein Zeugnis Eurer Wahrheit, dass Ihr nicht einmal bemerkt habt, dass Ihr geprüft wurdet. Verzeiht mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>341</ID>
-      <DefaultText>"Ich denke nicht, nein."</DefaultText>
+      <DefaultText>„Ich denke nicht, nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>"Soweit ich mich erinnere, waren seine Taten schändlich."</DefaultText>
+      <DefaultText>„Soweit ich mich erinnere, waren seine Taten schändlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>Sie tätschelt seinen Kopf. "Und andere wussten es *sofort*, Mimeon. Wir hatten den wahren Glauben."
+      <DefaultText>Sie tätschelt seinen Kopf. „Und andere wussten es *sofort*, Mimeon. Wir hatten den wahren Glauben.“
 
 Sie wendet sich wieder zu dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>"Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingeschlossen war und die sich dort bekriegenden Fraktionen vereinte. Legenden berichten uns von Tuck, der die Welt vor einer alles verschlingenden Krankheit rettete. Große Taten folgen den Kindern Eures Erzeugers auf Schritt und Tritt. Wir trachten in ihre Fußstapfen zu treten und der Welt neues Wissen zu bringen."</DefaultText>
+      <DefaultText>„Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus eingeschlossen war und die sich dort bekriegenden Fraktionen vereinte. Legenden berichten uns von Tuck, der die Welt vor einer alles verschlingenden Krankheit rettete. Große Taten folgen den Kindern Eures Erzeugers auf Schritt und Tritt. Wir trachten in ihre Fußstapfen zu treten und der Welt neues Wissen zu bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1622,92 +1622,92 @@ Sie wendet sich wieder zu dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>"Wir verkünden der Welt, dass Ihr und Ihre Geschwister Aspekte der göttlichen Wahrheit des Wandelnden Gottes seid, und dass jede und jeder von Euch eine bestimmte Facette seiner Wahrheit verkörpert. Wir wollen Euch studieren ... damit wir mehr wie Ihr werden können." Sie lächelt dich strahlend an.</DefaultText>
+      <DefaultText>„Wir verkünden der Welt, dass Ihr und Ihre Geschwister Aspekte der göttlichen Wahrheit des Wandelnden Gottes seid, und dass jede und jeder von Euch eine bestimmte Facette seiner Wahrheit verkörpert. Wir wollen Euch studieren … damit wir mehr wie Ihr werden können.“ Sie lächelt dich strahlend an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>"Wir streben danach, von Euch und Euren Geschwistern zu lernen, verehrtes Wesen. Eure Wege durch diese Welt weisen uns die Wahrheit Eures Erzeugers. Wir widerstehen den Ideen der Ersten, der Täuscherin, die sich auflehnte und ihre Jünger gegen ihn anführte. Wir streben danach, zu lernen und bessere Menschen zu werden, damit wir das Licht in die Welt zurückbringen können, wie es Euer Erzeuger einst tat."</DefaultText>
+      <DefaultText>„Wir streben danach, von Euch und Euren Geschwistern zu lernen, verehrtes Wesen. Eure Wege durch diese Welt weisen uns die Wahrheit Eures Erzeugers. Wir widerstehen den Ideen der Ersten, der Täuscherin, die sich auflehnte und ihre Jünger gegen ihn anführte. Wir streben danach, zu lernen und bessere Menschen zu werden, damit wir das Licht in die Welt zurückbringen können, wie es Euer Erzeuger einst tat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>"Denkt nicht mal daran, uns noch einmal anzulügen."</DefaultText>
+      <DefaultText>„Denkt nicht mal daran, uns noch einmal anzulügen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>"Ah ja, Ihr habt jedoch Eure Aufgabe noch nicht erledigt." Er grinst wölfisch. "Unsere Vereinbarung ist noch nicht erfüllt, Täuscher."</DefaultText>
+      <DefaultText>„Ah ja, Ihr habt jedoch Eure Aufgabe noch nicht erledigt.“ Er grinst wölfisch. „Unsere Vereinbarung ist noch nicht erfüllt, Täuscher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>"Ah, Ihr seid zurück. Und Ihr habt Eure Aufgabe erledigt. Was habt Ihr im Inneren der Uhr gesehen?"</DefaultText>
+      <DefaultText>„Ah, Ihr seid zurück. Und Ihr habt Eure Aufgabe erledigt. Was habt Ihr im Inneren der Uhr gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>Er verzieht angewidert das Gesicht. "Ihr habt unsere Vereinbarung noch nicht erfüllt. Wir haben Euch nichts zu sagen, bis Ihr Euren Teil der Abmachung erfüllt habt."</DefaultText>
+      <DefaultText>Er verzieht angewidert das Gesicht. „Ihr habt unsere Vereinbarung noch nicht erfüllt. Wir haben Euch nichts zu sagen, bis Ihr Euren Teil der Abmachung erfüllt habt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>"Euer Vorbild ist uns heilig, Herr, daher müssen wir darauf bestehen, dass Ihr Euren Teil der Abmachung einhält. Kommt zurück, wenn Ihr die Figuren in der Uhr untersucht habt, Eure Heiligkeit."</DefaultText>
+      <DefaultText>„Euer Vorbild ist uns heilig, Herr, daher müssen wir darauf bestehen, dass Ihr Euren Teil der Abmachung einhält. Kommt zurück, wenn Ihr die Figuren in der Uhr untersucht habt, Eure Heiligkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>"Habt Ihr die Figuren in der Uhr untersucht, verehrtes Wesen? Erst wenn Ihr dies erfolgreich erledigt, können wir Euch sagen, was Ihr wissen müsst."</DefaultText>
+      <DefaultText>„Habt Ihr die Figuren in der Uhr untersucht, verehrtes Wesen? Erst wenn Ihr dies erfolgreich erledigt, können wir Euch sagen, was Ihr wissen müsst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>Er lächelt. "Wir stehen Euch wie immer zu Diensten."</DefaultText>
+      <DefaultText>Er lächelt. „Wir stehen Euch wie immer zu Diensten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>"Sagt es uns!" Sie kann vor Aufregung kaum atmen.</DefaultText>
+      <DefaultText>„Sagt es uns!“ Sie kann vor Aufregung kaum atmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>358</ID>
-      <DefaultText>"Kommt wieder, wenn Ihr das versprochene Wissen besitzt."</DefaultText>
+      <DefaultText>„Kommt wieder, wenn Ihr das versprochene Wissen besitzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>"Wir werden unsere Vereinbarung einhalten."</DefaultText>
+      <DefaultText>„Wir werden unsere Vereinbarung einhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>"Entschuldigt, verehrtes Gefäß."</DefaultText>
+      <DefaultText>„Entschuldigt, verehrtes Gefäß.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>"Doch wir haben Antworten auf Eure Fragen, verehrtes Wesen. Wir verraten sie Euch, sobald Ihr uns sagt, was sich in der Uhr befand."</DefaultText>
+      <DefaultText>„Doch wir haben Antworten auf Eure Fragen, verehrtes Wesen. Wir verraten sie Euch, sobald Ihr uns sagt, was sich in der Uhr befand.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>364</ID>
-      <DefaultText>Er runzelt die Stirn. "Ihr habt diese Aufgabe noch nicht erfüllt." Ihr müsst unsere Vereinbarung einhalten, genau wie wir."</DefaultText>
+      <DefaultText>Er runzelt die Stirn. „Ihr habt diese Aufgabe noch nicht erfüllt.“ Ihr müsst unsere Vereinbarung einhalten, genau wie wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>"Kommt wieder, wenn Ihr das versprochen Wissen besitzt."</DefaultText>
+      <DefaultText>„Kommt wieder, wenn Ihr das versprochen Wissen besitzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>366</ID>
-      <DefaultText>"Und wir haben Antworten auf Eure Fragen, verehrtes Wesen. Wir verraten sie Euch, sobald Ihr uns sagt, was Ihr gefunden habt."</DefaultText>
+      <DefaultText>„Und wir haben Antworten auf Eure Fragen, verehrtes Wesen. Wir verraten sie Euch, sobald Ihr uns sagt, was Ihr gefunden habt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>Er runzelt die Stirn. "Leider habt Ihr Eure Aufgabe noch nicht abgeschlossen. Wir haben Euch unseren Preis genannt. Dabei bleibt es."</DefaultText>
+      <DefaultText>Er runzelt die Stirn. „Leider habt Ihr Eure Aufgabe noch nicht abgeschlossen. Wir haben Euch unseren Preis genannt. Dabei bleibt es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1717,7 +1717,7 @@ Sie wendet sich wieder zu dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>369</ID>
-      <DefaultText>Er wählt seine nächsten Worte sorgfältig. Er klingt beinahe flehend. "Und ... bitte ... führt uns nicht hinters Licht, ob durch Lüge oder durch Verschweigen."</DefaultText>
+      <DefaultText>Er wählt seine nächsten Worte sorgfältig. Er klingt beinahe flehend. „Und … bitte … führt uns nicht hinters Licht, ob durch Lüge oder durch Verschweigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1727,12 +1727,12 @@ Sie wendet sich wieder zu dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>"Wisst Ihr etwas über den Kummer?"</DefaultText>
+      <DefaultText>„Wisst Ihr etwas über den Kummer?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>"Könnt Ihr mir noch mehr über den Kummer erzählen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir noch mehr über den Kummer erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1742,12 +1742,12 @@ Sie wendet sich wieder zu dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>374</ID>
-      <DefaultText>Sie erzittert und berührt rituell ihre Stirn und ihre Lippen. "Ein Monster wie aus den schlimmsten Albträumen. Man sagt, es wolle Euch und alle Geschöpfe Seiner Heiligkeit töten. Es hasst Euch. Ich weiß nicht, warum."</DefaultText>
+      <DefaultText>Sie erzittert und berührt rituell ihre Stirn und ihre Lippen. „Ein Monster wie aus den schlimmsten Albträumen. Man sagt, es wolle Euch und alle Geschöpfe Seiner Heiligkeit töten. Es hasst Euch. Ich weiß nicht, warum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>375</ID>
-      <DefaultText>Er nickt ernst, hebt den Finger zur Stirn. "Nur, dass es weder Erbarmen noch Gnade kennt und Euch und alle, die wie Ihr von Eurem Erzeuger geschaffen wurden, vernichten will."</DefaultText>
+      <DefaultText>Er nickt ernst, hebt den Finger zur Stirn. „Nur, dass es weder Erbarmen noch Gnade kennt und Euch und alle, die wie Ihr von Eurem Erzeuger geschaffen wurden, vernichten will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1757,12 +1757,12 @@ Sie wendet sich wieder zu dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText>"Was wisst Ihr über meinen ... äh ... Erzeuger?"</DefaultText>
+      <DefaultText>„Was wisst Ihr über meinen … äh … Erzeuger?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>"Könnt Ihr das mit dem Wandelnden Gott wiederholen?"</DefaultText>
+      <DefaultText>„Könnt Ihr das mit dem Wandelnden Gott wiederholen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1772,34 +1772,34 @@ Sie wendet sich wieder zu dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>380</ID>
-      <DefaultText>"Ihr meint den vollkommenen Erfinder unserer Zeit? Den Helden von Sagusklippen? Den Mann, der selbst den Tod überwand? Den Zeitweber? Den Mann, der die Tabaht vernichtet hat? Oh, wir können eine ganze Menge über ihn erzählen!" Sie nimmt sich zusammen. "Doch vielleicht besser zu einer anderen Zeit."</DefaultText>
+      <DefaultText>„Ihr meint den vollkommenen Erfinder unserer Zeit? Den Helden von Sagusklippen? Den Mann, der selbst den Tod überwand? Den Zeitweber? Den Mann, der die Tabaht vernichtet hat? Oh, wir können eine ganze Menge über ihn erzählen!“ Sie nimmt sich zusammen. „Doch vielleicht besser zu einer anderen Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>"Eine Inspiration für alle Erfinder und Wissenssuchenden. Anstatt seinen bevorstehenden Tod - und den damit einhergehenden unvorstellbaren Verlust für die Nachwelt - einfach zu akzeptieren, hat er einen Weg gefunden, seine Arbeit fortzusetzen. Er ist ein Vorbild für alle, die Wissen und Erkenntnis hochhalten."</DefaultText>
+      <DefaultText>„Eine Inspiration für alle Erfinder und Wissenssuchenden. Anstatt seinen bevorstehenden Tod – und den damit einhergehenden unvorstellbaren Verlust für die Nachwelt – einfach zu akzeptieren, hat er einen Weg gefunden, seine Arbeit fortzusetzen. Er ist ein Vorbild für alle, die Wissen und Erkenntnis hochhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>"Ich weiß nur von einer weiteren Verstoßenen hier in der Stadt - die Meuchelmörderin Matkina, die man den Weißen Tod nennt. Sie trug einen Tarnmantel und hatte Tod und Verderben im Schlepptau. Zuletzt hieß es, sie sei in der Schattenseite untergetaucht." Er hält ein Schaudern zurück. "Sucht sie auf. Doch seht Euch vor."</DefaultText>
+      <DefaultText>„Ich weiß nur von einer weiteren Verstoßenen hier in der Stadt – die Meuchelmörderin Matkina, die man den Weißen Tod nennt. Sie trug einen Tarnmantel und hatte Tod und Verderben im Schlepptau. Zuletzt hieß es, sie sei in der Schattenseite untergetaucht.“ Er hält ein Schaudern zurück. „Sucht sie auf. Doch seht Euch vor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>384</ID>
-      <DefaultText>"Ich weiß nur von einer weiteren Verstoßenen hier in der Stadt - die Meuchelmörderin Matkina, die man den Weißen Tod nennt. Sie trug einen Tarnmantel und hatte Tod und Verderben im Schlepptau. Zuletzt hieß es, sie sei in der Schattenseite untergetaucht." Er hält ein Schaudern zurück.
+      <DefaultText>„Ich weiß nur von einer weiteren Verstoßenen hier in der Stadt – die Meuchelmörderin Matkina, die man den Weißen Tod nennt. Sie trug einen Tarnmantel und hatte Tod und Verderben im Schlepptau. Zuletzt hieß es, sie sei in der Schattenseite untergetaucht.“ Er hält ein Schaudern zurück.
 
-"Sucht sie auf. Doch seht Euch vor."</DefaultText>
+„Sucht sie auf. Doch seht Euch vor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>"Ich weiß nur von einer weiteren Verstoßenen hier in der Stadt - die Meuchelmörderin Matkina, die man den Weißen Tod nennt. Sie trug einen Tarnmantel und hatte Tod und Verderben im Schlepptau. Zuletzt hieß es, sie sei in der Schattenseite untergetaucht." Er hält ein Schaudern zurück und wendet sich von dir ab.</DefaultText>
+      <DefaultText>„Ich weiß nur von einer weiteren Verstoßenen hier in der Stadt – die Meuchelmörderin Matkina, die man den Weißen Tod nennt. Sie trug einen Tarnmantel und hatte Tod und Verderben im Schlepptau. Zuletzt hieß es, sie sei in der Schattenseite untergetaucht.“ Er hält ein Schaudern zurück und wendet sich von dir ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>387</ID>
-      <DefaultText>"Wir wissen jedoch nicht wie." Sie neigt den Kopf leicht. "Es ist ein Grundsatz unseres Glaubens. Die Resonanzkammer wird Euch retten."</DefaultText>
+      <DefaultText>„Wir wissen jedoch nicht wie.“ Sie neigt den Kopf leicht. „Es ist ein Grundsatz unseres Glaubens. Die Resonanzkammer wird Euch retten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1834,7 +1834,7 @@ Sie wendet sich wieder zu dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>"Ah, natürlich! Ich dachte wohl an den Kalkedon. Man sagt, er sei der unbarmherzigste Kämpfer weit und breit." 
+      <DefaultText>„Ah, natürlich! Ich dachte wohl an den Kalkedon. Man sagt, er sei der unbarmherzigste Kämpfer weit und breit.“
 
 Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultText>
       <FemaleText />
@@ -1846,12 +1846,12 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>396</ID>
-      <DefaultText>"Habt Ihr Vorräte, die Ihr mir geben könnt?"</DefaultText>
+      <DefaultText>„Habt Ihr Vorräte, die Ihr mir geben könnt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>"Ich möchte weitere Vorräte kaufen."</DefaultText>
+      <DefaultText>„Ich möchte weitere Vorräte kaufen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1861,14 +1861,14 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>"Geben? Gute Güte. Wir sind nur eine kleine Gruppe und alles andere als wohlhabend. Wir leben von Spenden, Kuriositäten und der gelegentlichen großzügigen Gabe eines Eurer Geschwister. Zum Beispiel hatten wir eine Waffe, die einst Kalkedon geschwungen hat. Der Kalkedon! Der Kommandant von -" Sie nimmt sich zusammen. "Ich will damit sagen, dass wir Euch unsere Waren nicht einfach geben können."
+      <DefaultText>„Geben? Gute Güte. Wir sind nur eine kleine Gruppe und alles andere als wohlhabend. Wir leben von Spenden, Kuriositäten und der gelegentlichen großzügigen Gabe eines Eurer Geschwister. Zum Beispiel hatten wir eine Waffe, die einst Kalkedon geschwungen hat. Der Kalkedon! Der Kommandant von –“ Sie nimmt sich zusammen. „Ich will damit sagen, dass wir Euch unsere Waren nicht einfach geben können.“
 
 {STORE}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>"Gegen eine kleine Gebühr natürlich."
+      <DefaultText>„Gegen eine kleine Gebühr natürlich.“
 
 {STORE}</DefaultText>
       <FemaleText />
@@ -1880,12 +1880,12 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>"Habt Ihr Vorräte, die Ihr mir geben könnt?"</DefaultText>
+      <DefaultText>„Habt Ihr Vorräte, die Ihr mir geben könnt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>"Ich möchte weitere Vorräte kaufen."</DefaultText>
+      <DefaultText>„Ich möchte weitere Vorräte kaufen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1895,7 +1895,7 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>"Wir teilen natürlich gerne mit einem unserer Geschwister. Aber wir haben selbst nicht viel. Wir leben von kleinen Spenden, Kuriositäten und der gelegentlichen großzügigen Gabe eines Eurer Geschwister. Zum Beispiel hatten wir eine Waffe, die einst Kalkedon geschwungen hat. Der Kalkedon! Der Kommandant von -" Sie nimmt sich zusammen. "Ich will damit sagen, dass wir Euch unsere Waren nicht einfach geben können." "Natürlich machen wir Euch einen guten Preis!" fügt sie hastig hinzu.
+      <DefaultText>„Wir teilen natürlich gerne mit einem unserer Geschwister. Aber wir haben selbst nicht viel. Wir leben von kleinen Spenden, Kuriositäten und der gelegentlichen großzügigen Gabe eines Eurer Geschwister. Zum Beispiel hatten wir eine Waffe, die einst Kalkedon geschwungen hat. Der Kalkedon! Der Kommandant von –“ Sie nimmt sich zusammen. „Ich will damit sagen, dass wir Euch unsere Waren nicht einfach geben können.“ „Natürlich machen wir Euch einen guten Preis!“ fügt sie hastig hinzu.
 
 
 
@@ -1904,7 +1904,7 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>"Natürlich machen wir unseren geliebten Geschwistern einen besonders guten Preis."
+      <DefaultText>„Natürlich machen wir unseren geliebten Geschwistern einen besonders guten Preis.“
 
 {STORE}</DefaultText>
       <FemaleText />
@@ -1916,12 +1916,12 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>"Habt Ihr Vorräte, die Ihr mir geben könnt?"</DefaultText>
+      <DefaultText>„Habt Ihr Vorräte, die Ihr mir geben könnt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>"Ich möchte noch weitere Vorräte kaufen."</DefaultText>
+      <DefaultText>„Ich möchte noch weitere Vorräte kaufen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1931,7 +1931,7 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>"Es ist uns eine Ehre, Euch unsere Waren anzubieten, Eure Heiligkeit. Doch wir sind nur eine kleine Gruppe und alles andere als wohlhabend. Wir leben von kleinen Spenden, Kuriositäten und der gelegentlichen großzügigen Gabe eines Eurer Kinder, wie etwa die Waffe des Kalkedon. So gerne wir Euch diese auch schenken würden, wir können es uns einfach nicht leisten ... doch da Ihr es seid, verlangen wir nur einen kleinen Betrag dafür."
+      <DefaultText>„Es ist uns eine Ehre, Euch unsere Waren anzubieten, Eure Heiligkeit. Doch wir sind nur eine kleine Gruppe und alles andere als wohlhabend. Wir leben von kleinen Spenden, Kuriositäten und der gelegentlichen großzügigen Gabe eines Eurer Kinder, wie etwa die Waffe des Kalkedon. So gerne wir Euch diese auch schenken würden, wir können es uns einfach nicht leisten … doch da Ihr es seid, verlangen wir nur einen kleinen Betrag dafür.“
 
 
 {STORE}</DefaultText>
@@ -1939,14 +1939,14 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>"Natürlich, Eure Heiligkeit."
+      <DefaultText>„Natürlich, Eure Heiligkeit.“
 
 {STORE}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>Seine Augen glänzen und seine Finger sind ausnahmsweise still. "Ich wusste es. Ich *wusste* es", flüstert er. "Der Regierungsplatz befindet sich *oberhalb* von hier. Euer Erzeuger, der die Straßen dieser Stadt selbst geformt hat, der hunderte Jahre lang auf ihnen gewandelt ist, würde ihre Wahrheit nie vergessen. Er hätte mich sofort korrigiert."</DefaultText>
+      <DefaultText>Seine Augen glänzen und seine Finger sind ausnahmsweise still. „Ich wusste es. Ich *wusste* es“, flüstert er. „Der Regierungsplatz befindet sich *oberhalb* von hier. Euer Erzeuger, der die Straßen dieser Stadt selbst geformt hat, der hunderte Jahre lang auf ihnen gewandelt ist, würde ihre Wahrheit nie vergessen. Er hätte mich sofort korrigiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1956,12 +1956,12 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>"Ich muss mich ausruhen."</DefaultText>
+      <DefaultText>„Ich muss mich ausruhen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>416</ID>
-      <DefaultText>"Ich muss mich ausruhen."</DefaultText>
+      <DefaultText>„Ich muss mich ausruhen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1971,7 +1971,7 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>Seine Finger sind tödlich still. "Doch Ihr seid hier nicht willkommen."</DefaultText>
+      <DefaultText>Seine Finger sind tödlich still. „Doch Ihr seid hier nicht willkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1981,32 +1981,32 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>420</ID>
-      <DefaultText>Er sieht dich unfreundlich an. "Na gut. Das kostet [Global: a2101_CultTCGRestCost_Deceiver] Shin. Zahlt, oder sucht Euch einen anderen Schlafplatz."</DefaultText>
+      <DefaultText>Er sieht dich unfreundlich an. „Na gut. Das kostet [Global: a2101_CultTCGRestCost_Deceiver] Shin. Zahlt, oder sucht Euch einen anderen Schlafplatz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>"Ich zahle."</DefaultText>
+      <DefaultText>„Ich zahle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>Er deutet auf ein kleines leeres Zelt. "Dort drüben könnt Ihr schlafen."</DefaultText>
+      <DefaultText>Er deutet auf ein kleines leeres Zelt. „Dort drüben könnt Ihr schlafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>"Nicht jetzt. Ich habe jedoch noch weitere Fragen."</DefaultText>
+      <DefaultText>„Nicht jetzt. Ich habe jedoch noch weitere Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>"Nicht jetzt. Lebt wohl."</DefaultText>
+      <DefaultText>„Nicht jetzt. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>"Wenn es sein muss."</DefaultText>
+      <DefaultText>„Wenn es sein muss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2016,27 +2016,27 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>428</ID>
-      <DefaultText>(Lüge) "Ich gehöre keiner anderen Faktion an."</DefaultText>
+      <DefaultText>(Lüge) „Ich gehöre keiner anderen Faktion an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>429</ID>
-      <DefaultText>"Habt Ihr sie gesehen? Habt Ihr sie berührt?" Sie nimmt sich zusammen. Sie wirkt überwältigt. "Eure Tätowierung ... wie die der anderen und doch ... anders."</DefaultText>
+      <DefaultText>„Habt Ihr sie gesehen? Habt Ihr sie berührt?“ Sie nimmt sich zusammen. Sie wirkt überwältigt. „Eure Tätowierung … wie die der anderen und doch … anders.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>"Ihr seid zurück." Seine Finger lächeln für ihn. "Ich hoffe, dass wir Euch diesmal eine größere Hilfe sein können."</DefaultText>
+      <DefaultText>„Ihr seid zurück.“ Seine Finger lächeln für ihn. „Ich hoffe, dass wir Euch diesmal eine größere Hilfe sein können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>"Ich habe nichts mehr zu sagen. Lebt wohl."</DefaultText>
+      <DefaultText>„Ich habe nichts mehr zu sagen. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>432</ID>
-      <DefaultText>"Wartet ... verehrtes Wesen." Er sieht dich aufmerksam an. "Ich erkenne Euch nicht. "Euer Gesicht passt zu keiner der Beschreibungen in unseren Aufzeichnungen."</DefaultText>
+      <DefaultText>„Wartet … verehrtes Wesen.“ Er sieht dich aufmerksam an. „Ich erkenne Euch nicht. „Euer Gesicht passt zu keiner der Beschreibungen in unseren Aufzeichnungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2051,7 +2051,7 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>436</ID>
-      <DefaultText>Seine Worte sind ausdruckslos und freundlich, doch der Tanz seiner Finger erzählt eine andere Geschichte - Vorsicht, Sorge ... eine beinahe *hungrige* Erwartung.</DefaultText>
+      <DefaultText>Seine Worte sind ausdruckslos und freundlich, doch der Tanz seiner Finger erzählt eine andere Geschichte – Vorsicht, Sorge … eine beinahe *hungrige* Erwartung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2066,7 +2066,7 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText>Seine hochgezogene Augenbraue drückt nicht nur Neugierde aus ... sondern *Hunger*. Er ist angespannt, lauert auf den kleinsten Fehler deinerseits.</DefaultText>
+      <DefaultText>Seine hochgezogene Augenbraue drückt nicht nur Neugierde aus … sondern *Hunger*. Er ist angespannt, lauert auf den kleinsten Fehler deinerseits.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2081,56 +2081,56 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>Er lächelt dünn. "Ihr habt sie *nicht* alleine gebaut. Man sagt, Euer Erzeuger hat den Bau seit Jahrhunderten geplant, doch er benötigte einen ebenso geschickten Gehilfen an seiner Seite. Er erschuf einen Körper speziell für diesen Zweck und er und Euer älterer Bruder - oder Eure ältere Schwester - haben die Kammer zusammen gebaut." Er beugt sich zu dir vor. "Ihr seid nicht der Wandelnde Gott. Ich weiß es und Ihr wisst, dass ich es weiß."</DefaultText>
+      <DefaultText>Er lächelt dünn. „Ihr habt sie *nicht* alleine gebaut. Man sagt, Euer Erzeuger hat den Bau seit Jahrhunderten geplant, doch er benötigte einen ebenso geschickten Gehilfen an seiner Seite. Er erschuf einen Körper speziell für diesen Zweck und er und Euer älterer Bruder – oder Eure ältere Schwester – haben die Kammer zusammen gebaut.“ Er beugt sich zu dir vor. „Ihr seid nicht der Wandelnde Gott. Ich weiß es und Ihr wisst, dass ich es weiß.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>Dein Begleiter murmelt zu sich selbst: "Mimeon würde es wissen, nicht wahr? Er würde es *wissen*"." Er schüttelt den Kopf und starrt dich an.</DefaultText>
+      <DefaultText>Dein Begleiter murmelt zu sich selbst: „Mimeon würde es wissen, nicht wahr? Er würde es *wissen*.“ Er schüttelt den Kopf und starrt dich an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>Er lehnt sich zufrieden zurück. "Das dachte ich mir. Das *dachte* ich mir. Euer Bruder Thirdloss war eine Schande für Euch und stand in den Diensten Eures Todfeindes. Ihr seid nicht der Wandelnde Gott."</DefaultText>
+      <DefaultText>Er lehnt sich zufrieden zurück. „Das dachte ich mir. Das *dachte* ich mir. Euer Bruder Thirdloss war eine Schande für Euch und stand in den Diensten Eures Todfeindes. Ihr seid nicht der Wandelnde Gott.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>447</ID>
-      <DefaultText>Er sammelt sich. "Schenkt mir bitte einen Moment Eurer Zeit und erzählt mir mehr über Eure Tätowierung? Wie habt Ihr sie geformt? Wisst Ihr, warum sie sich von den anderen unterscheidet?"</DefaultText>
+      <DefaultText>Er sammelt sich. „Schenkt mir bitte einen Moment Eurer Zeit und erzählt mir mehr über Eure Tätowierung? Wie habt Ihr sie geformt? Wisst Ihr, warum sie sich von den anderen unterscheidet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>"Andere? Ihr meint andere Verstoßene?"</DefaultText>
+      <DefaultText>„Andere? Ihr meint andere Verstoßene?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>449</ID>
-      <DefaultText>"Was meint Ihr mit 'geformt'? Wollt Ihr sagen, Tätowierung ließen sich formen?"</DefaultText>
+      <DefaultText>„Was meint Ihr mit 'geformt'? Wollt Ihr sagen, Tätowierung ließen sich formen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>450</ID>
-      <DefaultText>"Ja, verehrtes Wesen. Eure Geschwister." Er verbeugt sich tief und seine Finger funkeln vor zurückgehaltener Freude. "Ihr seid ein Kind des Wandelnden Gottes ... Sein Geist sah die Welt durch Eure Augen. Er erwarb Wissen in Eurem Körper ... wie er es im Laufe der Jahrhunderte bereits unzählige Male getan hat. Die Tätowierung auf Eurem Kopf ist sein Zeichen. Wir denken, es spielt eine Rolle bei der Erschaffung seiner verstoßenen Hüllen."</DefaultText>
+      <DefaultText>„Ja, verehrtes Wesen. Eure Geschwister.“ Er verbeugt sich tief und seine Finger funkeln vor zurückgehaltener Freude. „Ihr seid ein Kind des Wandelnden Gottes … Sein Geist sah die Welt durch Eure Augen. Er erwarb Wissen in Eurem Körper … wie er es im Laufe der Jahrhunderte bereits unzählige Male getan hat. Die Tätowierung auf Eurem Kopf ist sein Zeichen. Wir denken, es spielt eine Rolle bei der Erschaffung seiner verstoßenen Hüllen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>"Nicht Eures, verehrtes Wesen." Sie macht einen Knicks und flüstert kaum hörbar. "Ihr seid ein Verstoßener des Wandelnden Gottes, o strahlendes Licht. Ihr tragt sein Zeichen auf dem Kopf. Eure Tätowierung kennzeichnet Euch als sein Kind."
+      <DefaultText>„Nicht Eures, verehrtes Wesen.“ Sie macht einen Knicks und flüstert kaum hörbar. „Ihr seid ein Verstoßener des Wandelnden Gottes, o strahlendes Licht. Ihr tragt sein Zeichen auf dem Kopf. Eure Tätowierung kennzeichnet Euch als sein Kind.“
 
-Sie starrt dich hingerissen an. "Ihr seid nicht allein. Es gibt noch andere Verstoßene. Und wir halten jeden von Euch in Ehren."</DefaultText>
-      <FemaleText>"Nicht Eures, verehrtes Wesen." Sie macht einen Knicks und flüstert kaum hörbar. "Ihr seid eine Verstoßene des Wandelnden Gottes, o strahlendes Licht. Ihr tragt sein Zeichen auf dem Kopf. Eure Tätowierung kennzeichnet Euch als sein Kind."
+Sie starrt dich hingerissen an. „Ihr seid nicht allein. Es gibt noch andere Verstoßene. Und wir halten jeden von Euch in Ehren.“</DefaultText>
+      <FemaleText>„Nicht Eures, verehrtes Wesen.“ Sie macht einen Knicks und flüstert kaum hörbar. „Ihr seid eine Verstoßene des Wandelnden Gottes, o strahlendes Licht. Ihr tragt sein Zeichen auf dem Kopf. Eure Tätowierung kennzeichnet Euch als sein Kind.“
 
-Sie starrt dich hingerissen an. "Ihr seid nicht allein. Es gibt noch andere Verstoßene. Und wir halten jeden von Euch in Ehren."</FemaleText>
+Sie starrt dich hingerissen an. „Ihr seid nicht allein. Es gibt noch andere Verstoßene. Und wir halten jeden von Euch in Ehren.“</FemaleText>
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>Sie boxt Mimeon verspielt in den Arm. "Wir wissen es nicht, Herr. Ihr habt sie mit einem Eurer Kinder gebaut. Wenn Ihr sie nicht selbst reparieren könnt, solltet Ihr vielleicht Euren Helfer aufsuchen." Sie schaut verlegen zur Seite. "Vielleicht kann Euch Eure Begleiterin Matkina mehr darüber sagen? Vielleicht hat sie eine Antwort für euch."</DefaultText>
+      <DefaultText>Sie boxt Mimeon verspielt in den Arm. „Wir wissen es nicht, Herr. Ihr habt sie mit einem Eurer Kinder gebaut. Wenn Ihr sie nicht selbst reparieren könnt, solltet Ihr vielleicht Euren Helfer aufsuchen.“ Sie schaut verlegen zur Seite. „Vielleicht kann Euch Eure Begleiterin Matkina mehr darüber sagen? Vielleicht hat sie eine Antwort für euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>(Lüge) "Sein Name war Buken."</DefaultText>
+      <DefaultText>(Lüge) „Sein Name war Buken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2140,7 +2140,7 @@ Sie starrt dich hingerissen an. "Ihr seid nicht allein. Es gibt noch andere Vers
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>"Also." Er verschränkt die Arme vor der Brust. "Wollt Ihr uns nun verraten, was Ihr in der Uhr gesehen habt?"</DefaultText>
+      <DefaultText>„Also.“ Er verschränkt die Arme vor der Brust. „Wollt Ihr uns nun verraten, was Ihr in der Uhr gesehen habt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2150,32 +2150,32 @@ Sie starrt dich hingerissen an. "Ihr seid nicht allein. Es gibt noch andere Vers
     </Entry>
     <Entry>
       <ID>458</ID>
-      <DefaultText>"Ich muss Euch gar nichts sagen. Findet es selbst heraus."</DefaultText>
+      <DefaultText>„Ich muss Euch gar nichts sagen. Findet es selbst heraus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>459</ID>
-      <DefaultText>"Ich werde es Euch nicht sagen."</DefaultText>
+      <DefaultText>„Ich werde es Euch nicht sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>"So lautete aber unsere Vereinbarung. Wenn Ihr uns nicht helfen wollt, helfen wir Euch auch nicht."</DefaultText>
+      <DefaultText>„So lautete aber unsere Vereinbarung. Wenn Ihr uns nicht helfen wollt, helfen wir Euch auch nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>Als ihr Partner sich von dir abwendet, fleht sie dich an: "Mimeon kann bei solchen Dingen furchtbar stur sein. *Bitte* sagt ihm, was Ihr gesehen habt, damit wir Euch helfen können."</DefaultText>
+      <DefaultText>Als ihr Partner sich von dir abwendet, fleht sie dich an: „Mimeon kann bei solchen Dingen furchtbar stur sein. *Bitte* sagt ihm, was Ihr gesehen habt, damit wir Euch helfen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText>"Lebt wohl, verehrtes Wesen!"</DefaultText>
+      <DefaultText>„Lebt wohl, verehrtes Wesen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>"Dann haben wir uns nichts mehr zu sagen. Lebt wohl."</DefaultText>
+      <DefaultText>„Dann haben wir uns nichts mehr zu sagen. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2185,12 +2185,12 @@ Sie starrt dich hingerissen an. "Ihr seid nicht allein. Es gibt noch andere Vers
     </Entry>
     <Entry>
       <ID>467</ID>
-      <DefaultText>"Ich würde gerne hier schlafen."</DefaultText>
+      <DefaultText>„Ich würde gerne hier schlafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>468</ID>
-      <DefaultText>"Ich würde gerne hier schlafen."</DefaultText>
+      <DefaultText>„Ich würde gerne hier schlafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2200,12 +2200,12 @@ Sie starrt dich hingerissen an. "Ihr seid nicht allein. Es gibt noch andere Vers
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>"Ich würde gerne hier schlafen."</DefaultText>
+      <DefaultText>„Ich würde gerne hier schlafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>471</ID>
-      <DefaultText>"Ich würde gerne hier schlafen."</DefaultText>
+      <DefaultText>„Ich würde gerne hier schlafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2220,22 +2220,22 @@ Sie starrt dich hingerissen an. "Ihr seid nicht allein. Es gibt noch andere Vers
     </Entry>
     <Entry>
       <ID>474</ID>
-      <DefaultText>"Was könnt Ihr mir über die Glaubensgrundsätze Eurer Kirche sagen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir über die Glaubensgrundsätze Eurer Kirche sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>475</ID>
-      <DefaultText>"Könnt Ihr Eure Glaubensgrundsätze wiederholen?"</DefaultText>
+      <DefaultText>„Könnt Ihr Eure Glaubensgrundsätze wiederholen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>476</ID>
-      <DefaultText>"Es gibt eine Bedingung für die Aufnahme. Ihr müsst uns Kunde von einem Verstoßenen bringen, der uns noch nicht bekannt ist." Er schneidet dir mit einer Geste seiner unnatürlich langen Finger das Wort ab. "Ich ahne, was Ihr sagen wollt. Doch *Euch* kennen wir nun bereits. Das ist alles. Wenn Ihr bereits Mitglied einer anderen Gruppe seid, müsst Ihr Euch von dieser lossagen."</DefaultText>
+      <DefaultText>„Es gibt eine Bedingung für die Aufnahme. Ihr müsst uns Kunde von einem Verstoßenen bringen, der uns noch nicht bekannt ist.“ Er schneidet dir mit einer Geste seiner unnatürlich langen Finger das Wort ab. „Ich ahne, was Ihr sagen wollt. Doch *Euch* kennen wir nun bereits. Das ist alles. Wenn Ihr bereits Mitglied einer anderen Gruppe seid, müsst Ihr Euch von dieser lossagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>477</ID>
-      <DefaultText>"Erzählt mir noch mal von den Verstoßenen, die Ihr kennt."</DefaultText>
+      <DefaultText>„Erzählt mir noch mal von den Verstoßenen, die Ihr kennt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2245,12 +2245,12 @@ Sie starrt dich hingerissen an. "Ihr seid nicht allein. Es gibt noch andere Vers
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>"Ich möchte Eurer Gruppe beitreten."</DefaultText>
+      <DefaultText>„Ich möchte Eurer Gruppe beitreten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>"Warum kann ich Eurer Gruppe noch mal nicht beitreten?"</DefaultText>
+      <DefaultText>„Warum kann ich Eurer Gruppe noch mal nicht beitreten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2260,87 +2260,87 @@ Sie starrt dich hingerissen an. "Ihr seid nicht allein. Es gibt noch andere Vers
     </Entry>
     <Entry>
       <ID>482</ID>
-      <DefaultText>Tybir tritt plötzlich vor. "Hast du vergessen, dass Ris morgen stirbt, wenn wir heute untätig sind? Wenn du dich jetzt schlafen legst, ist er tot, bevor du morgen aufwachst. Du hast mir versprochen, dass wir ihn retten werden."</DefaultText>
+      <DefaultText>Tybir tritt plötzlich vor. „Hast du vergessen, dass Ris morgen stirbt, wenn wir heute untätig sind? Wenn du dich jetzt schlafen legst, ist er tot, bevor du morgen aufwachst. Du hast mir versprochen, dass wir ihn retten werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>"Nun gut. Wir werden nicht rasten."</DefaultText>
+      <DefaultText>„Nun gut. Wir werden nicht rasten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>484</ID>
-      <DefaultText>Tybir tritt plötzlich vor. "Hast du vergessen, dass Ris morgen stirbt, wenn wir heute untätig sind? Wenn du dich jetzt schlafen legst, ist er tot, bevor du morgen aufwachst. Du hast mir versprochen, dass wir ihn retten werden."</DefaultText>
+      <DefaultText>Tybir tritt plötzlich vor. „Hast du vergessen, dass Ris morgen stirbt, wenn wir heute untätig sind? Wenn du dich jetzt schlafen legst, ist er tot, bevor du morgen aufwachst. Du hast mir versprochen, dass wir ihn retten werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>"Nun gut. Wir werden nicht rasten."</DefaultText>
+      <DefaultText>„Nun gut. Wir werden nicht rasten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>486</ID>
-      <DefaultText>"Ihr seid hier ohnehin nicht willkommen, Täuscher. Besser für uns alle, wenn Ihr geht."</DefaultText>
+      <DefaultText>„Ihr seid hier ohnehin nicht willkommen, Täuscher. Besser für uns alle, wenn Ihr geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>487</ID>
-      <DefaultText>Tybir tritt plötzlich vor. "Habt Ihr vergessen, dass Ris morgen stirbt, wenn wir heute untätig sind? Wenn Ihr Euch jetzt schlafen legt, ist er tot, bevor Ihr morgen aufwacht. Ihr habt mir versprochen, dass Ihr ihn retten werdet."</DefaultText>
+      <DefaultText>Tybir tritt plötzlich vor. „Habt Ihr vergessen, dass Ris morgen stirbt, wenn wir heute untätig sind? Wenn Ihr Euch jetzt schlafen legt, ist er tot, bevor Ihr morgen aufwacht. Ihr habt mir versprochen, dass Ihr ihn retten werdet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>488</ID>
-      <DefaultText>"Nun gut. Wir werden nicht rasten."</DefaultText>
+      <DefaultText>„Nun gut. Wir werden nicht rasten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>489</ID>
-      <DefaultText>"Ich habe wichtigere Sorgen, als einen hingerichteten Kriminellen. Wir rasten jetzt."</DefaultText>
+      <DefaultText>„Ich habe wichtigere Sorgen, als einen hingerichteten Kriminellen. Wir rasten jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>490</ID>
-      <DefaultText>"Was ist das Schicksal eines zum Tode verurteilten Kriminellen im Vergleich zu den Bedürfnissen des Wandelnden Gottes? Was Ihr verlangt, ist eine Zumutung."</DefaultText>
+      <DefaultText>„Was ist das Schicksal eines zum Tode verurteilten Kriminellen im Vergleich zu den Bedürfnissen des Wandelnden Gottes? Was Ihr verlangt, ist eine Zumutung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>491</ID>
-      <DefaultText>Er stößt einen Seufzer der Erleichterung aus. "Ihr wisst ja gar nicht, wie wichtig das ist."</DefaultText>
+      <DefaultText>Er stößt einen Seufzer der Erleichterung aus. „Ihr wisst ja gar nicht, wie wichtig das ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>492</ID>
-      <DefaultText>"Hier geht es um Wichtigeres als um einen hingerichteten Kriminellen. Wir rasten jetzt."</DefaultText>
+      <DefaultText>„Hier geht es um Wichtigeres als um einen hingerichteten Kriminellen. Wir rasten jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>493</ID>
-      <DefaultText>Er atmet tief durch. "Ich weiß das zu schätzen. Wirklich."</DefaultText>
+      <DefaultText>Er atmet tief durch. „Ich weiß das zu schätzen. Wirklich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>494</ID>
-      <DefaultText>"Ich habe wichtigere Sorgen, als einen hingerichteten Kriminellen. Wir rasten jetzt."</DefaultText>
+      <DefaultText>„Ich habe wichtigere Sorgen, als einen hingerichteten Kriminellen. Wir rasten jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>495</ID>
-      <DefaultText>"Das ist eine große Erleichterung. Habt Dank."</DefaultText>
+      <DefaultText>„Das ist eine große Erleichterung. Habt Dank.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText>Sie mischt sich mit zornigem Blick und scharfer Stimme ein. "Ich hoffe, Ihr wisst die große Ehre zu würdigen, die Euch dieses Kind des Wandelnden Gottes erweist ... Euch und Eurem kriminellen Freund."</DefaultText>
+      <DefaultText>Sie mischt sich mit zornigem Blick und scharfer Stimme ein. „Ich hoffe, Ihr wisst die große Ehre zu würdigen, die Euch dieses Kind des Wandelnden Gottes erweist … Euch und Eurem kriminellen Freund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>497</ID>
-      <DefaultText>Er blickt sie säuerlich an. "Wenn ich Ratschläge von Gottesanbetern hören will, geb ich Bescheid."</DefaultText>
+      <DefaultText>Er blickt sie säuerlich an. „Wenn ich Ratschläge von Gottesanbetern hören will, geb ich Bescheid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>498</ID>
-      <DefaultText>"Ihr könnt ja in Euren Chroniken ein Loblied auf seine Großzügigkeit singen", antwortet er säuerlich.</DefaultText>
+      <DefaultText>„Ihr könnt ja in Euren Chroniken ein Loblied auf seine Großzügigkeit singen“, antwortet er säuerlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2350,28 +2350,28 @@ Sie starrt dich hingerissen an. "Ihr seid nicht allein. Es gibt noch andere Vers
     </Entry>
     <Entry>
       <ID>500</ID>
-      <DefaultText>"Danke für die Information. Wir werden sie notieren. Du hast die Bedingungen der Vereinbarung erfüllt. Willst du noch immer unserer Organisation beitreten?"</DefaultText>
-      <FemaleText>"Danke für die Information. Wir werden sie notieren. Du hast die Bedingungen der Vereinbarung erfüllt. Willst du noch immer unserer Organisation beitreten?"</FemaleText>
+      <DefaultText>„Danke für die Information. Wir werden sie notieren. Du hast die Bedingungen der Vereinbarung erfüllt. Willst du noch immer unserer Organisation beitreten?“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>501</ID>
-      <DefaultText>"Ja. Ich möchte der Kirche des Wandelnden Gottes beitreten."</DefaultText>
-      <FemaleText>"Ja. Ich möchte der Kirche des Wandelnden Gottes beitreten."</FemaleText>
+      <DefaultText>„Ja. Ich möchte der Kirche des Wandelnden Gottes beitreten.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>507</ID>
-      <DefaultText>"Du hast getan, wie wir wünschten. Willst du dich uns nun wahrhaftig anschließen?"</DefaultText>
-      <FemaleText>"Du hast getan, wie wir wünschten. Willst du dich uns nun wahrhaftig anschließen?"</FemaleText>
+      <DefaultText>„Du hast getan, wie wir wünschten. Willst du dich uns nun wahrhaftig anschließen?“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>508</ID>
-      <DefaultText>"Bringt uns Namen und Wissen eines anderen Verstoßenen, Verehrter."</DefaultText>
-      <FemaleText>"Bringt uns Namen und Wissen eines anderen Verstoßenen, Verehrte."</FemaleText>
+      <DefaultText>„Bringt uns Namen und Wissen eines anderen Verstoßenen, Verehrter.“</DefaultText>
+      <FemaleText>„Bringt uns Namen und Wissen eines anderen Verstoßenen, Verehrte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>509</ID>
-      <DefaultText>"Ich möchte mich jetzt eurer Gruppe anschließen."</DefaultText>
-      <FemaleText>"Ich möchte mich jetzt eurer Gruppe anschließen."</FemaleText>
+      <DefaultText>„Ich möchte mich jetzt eurer Gruppe anschließen.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>510</ID>
@@ -2385,34 +2385,34 @@ Sie starrt dich hingerissen an. "Ihr seid nicht allein. Es gibt noch andere Vers
     </Entry>
     <Entry>
       <ID>512</ID>
-      <DefaultText>Er nickt den beiden zu. "Ich habe jemand mitgebracht, den ihr kennenlernen sollt." Er wendet sich zu dir. "Das hier sind Casmeen und Mimeon. Das sind die Leiter der örtlichen Niederlassung ... deiner Kirche."</DefaultText>
+      <DefaultText>Er nickt den beiden zu. „Ich habe jemand mitgebracht, den ihr kennenlernen sollt.“ Er wendet sich zu dir. „Das hier sind Casmeen und Mimeon. Das sind die Leiter der örtlichen Niederlassung … deiner Kirche.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>513</ID>
-      <DefaultText>"Unseren Dank für die Vorstellung, Aligern, unseren tiefsten Dank." Er blickt kurz zum Aeon-Priester, als ob er etwas hinzufügen würde, aber überdenkt es nochmal.</DefaultText>
+      <DefaultText>„Unseren Dank für die Vorstellung, Aligern, unseren tiefsten Dank.“ Er blickt kurz zum Aeon-Priester, als ob er etwas hinzufügen würde, aber überdenkt es nochmal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>515</ID>
-      <DefaultText>Sie seufzt. "Müssen wir diesem religiösen Schwachsinn nachgeben?"</DefaultText>
+      <DefaultText>Sie seufzt. „Müssen wir diesem religiösen Schwachsinn nachgeben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>516</ID>
-      <DefaultText>"Deine Meinung zu unserem Glauben ist vermerkt. Wir haben unsere Meinungsverschiedenheiten mit dir besprochen, und du hast dich *durchaus* klar ausgedrückt, vielen Dank!"
+      <DefaultText>„Deine Meinung zu unserem Glauben ist vermerkt. Wir haben unsere Meinungsverschiedenheiten mit dir besprochen, und du hast dich *durchaus* klar ausgedrückt, vielen Dank!“
 
 Er wendet sich wieder zu dir, sein Gesicht mit Wut bedeckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>517</ID>
-      <DefaultText>"Salimeri vom Orden der Wahrheit erzählte mit, dass du etwas vom Architekt weißt, der beim Bau geholfen hat."</DefaultText>
+      <DefaultText>„Salimeri vom Orden der Wahrheit erzählte mit, dass du etwas vom Architekt weißt, der beim Bau geholfen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>518</ID>
-      <DefaultText>Sie tippt gedankvoll ihre Finger auf ihre Lippen. "Diesen Teil der Legende habe ich nicht gehört. Ich dachte, der Wandelnde Gott hatte es selber errichtet. Weißt du mehr über die Resonanzkammer, als uns beigebracht wurde, Mimeon?"</DefaultText>
+      <DefaultText>Sie tippt gedankvoll ihre Finger auf ihre Lippen. „Diesen Teil der Legende habe ich nicht gehört. Ich dachte, der Wandelnde Gott hatte es selber errichtet. Weißt du mehr über die Resonanzkammer, als uns beigebracht wurde, Mimeon?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
