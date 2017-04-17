@@ -151,12 +151,12 @@ Eine Reihe vertrauter Bilder huscht über die Oberfläche des Apparats.</Default
     <Entry>
       <ID>29</ID>
       <DefaultText>Betrachte die Veränderungen um dich genauer.</DefaultText>
-      <FemaleText>Betrachte die Veränderungen um dich genauer.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Betrachte die Veränderungen um dich erneut genau.</DefaultText>
-      <FemaleText>Betrachte die Veränderungen um dich erneut genau.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -168,9 +168,7 @@ Eine Reihe vertrauter Bilder huscht über die Oberfläche des Apparats.</Default
       <DefaultText>Circus Minor hat sich fast vollständig verändert. Alle Leute sind merkwürdig gekleidet, und obwohl sie die Wahrheit sprechen, verwenden sie Ausdrücke und Sätze, die du nicht verstehst.
 
 Der Platz hat sich ebenfalls verändert. Alle Zelte sind verschwunden. Die Gebäude sind farbenfroher und nicht so stark verwittert. Besonders ein Gebäude ragt am Rande des Platzes hervor – ein Turm aus purpurnem Stein, der etwa fünfzig Stockwerke hoch ist. Auf einer Seite befindet sich ein Wandgemälde, obwohl du von hier aus keine Details erkennen kannst.</DefaultText>
-      <FemaleText>Circus Minor hat sich fast vollständig verändert. Alle Leute sind merkwürdig gekleidet, und obwohl sie die Wahrheit sprechen, verwenden sie Ausdrücke und Sätze, die du nicht verstehst.
-
-Der Platz hat sich ebenfalls verändert. Alle Zelte sind verschwunden. Die Gebäude sind farbenfroher und nicht so stark verwittert. Besonders ein Gebäude ragt am Rande des Platzes hervor – ein Turm aus purpurnem Stein, der etwa fünfzig Stockwerke hoch ist. Auf einer Seite befindet sich ein Wandgemälde, obwohl du von hier aus keine Details erkennen kannst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
@@ -179,25 +177,19 @@ Der Platz hat sich ebenfalls verändert. Alle Zelte sind verschwunden. Die Gebä
 Die Zelte sind verschwunden. Die Gebäude sind farbenfroher und nicht so stark verwittert. Ein fünfzigstöckiges Gebäude aus purpurnem Stein ragt am Rande des Platzes auf.
 
 Müsstest du raten, so würdest du sagen, dass Sagus Klippen vor Jahrhunderten so ausgesehen haben.</DefaultText>
-      <FemaleText>Alle sind merkwürdig gekleidet, und sie verwenden Begriffe und Sätze, die du nicht verstehst.
-
-Die Zelte sind verschwunden. Die Gebäude sind farbenfroher und nicht so stark verwittert. Ein fünfzigstöckiges Gebäude aus purpurnem Stein ragt am Rande des Platzes auf.
-
-Müsstest du raten, so würdest du sagen, dass Sagus Klippen vor Jahrhunderten so ausgesehen haben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Untersuche die Bilder auf der Oberfläche des Apparats.</DefaultText>
-      <FemaleText>Untersuche die Bilder auf der Oberfläche des Apparats.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>Als du dich auf die Bilder konzentrierst, spürst du eine Wärme auf deinem Kopf, an der Stelle, an der sich deine Tätowierung befindet. Die Bilder reagieren auf deine Gedanken, verlangsamen und verändern sich deiner Laune entsprechend. Es ist dein Körper, der dir dies ermöglicht. Vielleicht bedeutet dies, dass ausschließlich du die Bilder überhaupt sehen kannst.
 
 Du erkennst die Bilder sofort als Erinnerungsstücke – besonders die drei Erinnerungen, die du in den Untiefen deines Geistes erblicktest.</DefaultText>
-      <FemaleText>Als du dich auf die Bilder konzentrierst, spürst du eine Wärme auf deinem Kopf, an der Stelle, an der sich deine Tätowierung befindet. Die Bilder reagieren auf deine Gedanken, verlangsamen und verändern sich deiner Laune entsprechend. Es ist dein Körper, der dir dies ermöglicht. Vielleicht bedeutet dies, dass ausschließlich du die Bilder überhaupt sehen kannst.
-
-Du erkennst die Bilder sofort als Erinnerungsstücke – besonders die drei Erinnerungen, die du in den Untiefen deines Geistes erblicktest.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -207,12 +199,12 @@ Du erkennst die Bilder sofort als Erinnerungsstücke – besonders die drei Erin
     <Entry>
       <ID>37</ID>
       <DefaultText>Betrachte die Erinnerung an die Unterwasserstadt.</DefaultText>
-      <FemaleText>Betrachte die Erinnerung an die Unterwasserstadt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>Verbinde die jüngste Erinnerung an die Unterwasserstadt mit diesem Apparat.</DefaultText>
-      <FemaleText>Verbindet die jüngste Erinnerung an die Unterwasserstadt mit diesem Apparat.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
@@ -272,12 +264,12 @@ Du erkennst die Bilder sofort als Erinnerungsstücke – besonders die drei Erin
     <Entry>
       <ID>51</ID>
       <DefaultText>Betrachte die Erinnerung an das üppige Tal.</DefaultText>
-      <FemaleText>Betrachte die Erinnerung an das üppige Tal.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>Verbinde die Jahrhunderte alte Erinnerung an das üppige Tal mit diesem Apparat.</DefaultText>
-      <FemaleText>Verbinde die Jahrhunderte alte Erinnerung an das üppige Tal mit diesem Apparat.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
@@ -312,17 +304,17 @@ Du erkennst die Bilder sofort als Erinnerungsstücke – besonders die drei Erin
     <Entry>
       <ID>59</ID>
       <DefaultText>Betrachte die Erinnerung an die belagerte Stadt.</DefaultText>
-      <FemaleText>Betrachte die Erinnerung an die belagerte Stadt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
       <DefaultText>Verbinde die alte Erinnerung an die belagerte Stadt mit diesem Apparat.</DefaultText>
-      <FemaleText>Verbinde die alte Erinnerung an die belagerte Stadt mit diesem Apparat.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
       <DefaultText>Löse die Erinnerung aus diesem Apparat.</DefaultText>
-      <FemaleText>Löse die Erinnerung aus diesem Apparat.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
@@ -351,7 +343,7 @@ Genauso plötzlich erlischt das Glühen auf allen drei Apparaten. Das Bild, das 
     <Entry>
       <ID>66</ID>
       <DefaultText>Den Apparat aufschlagen.</DefaultText>
-      <FemaleText>Den Apparat aufschlagen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
@@ -465,11 +457,7 @@ Das Gitter ist zu stark beschädigt, um repariert werden zu können, doch vielle
 Doch die Uhr wird massiv. Sie scheint nicht mehr in mehreren Zeitebenen gleichzeitig zu existieren.
 
 Als die Uhr wieder massiv wird, geschieht etwas Merkwürdiges am Himmel. Die Sonne rast über den Horizont und verschwindet, und Circus Minor wird von Dunkelheit umhüllt. Merkwürdigerweise erscheinen die Gebäude in der Ferne – jenseits des Stadtteils – noch immer von der Sonne beschienen.</DefaultText>
-      <FemaleText>Der Apparat verdunkelt sich. Die Bilder sind verschwunden, genauso wie das seltsame Echo aus der Vergangenheit von Circus Minor. Du hast ihn definitiv zerstört. Im Lager der Kultisten verdunkeln sich auch die anderen beiden Apparate.
-
-Doch die Uhr wird massiv. Sie scheint nicht mehr in mehreren Zeitebenen gleichzeitig zu existieren.
-
-Als die Uhr wieder massiv wird, geschieht etwas Merkwürdiges am Himmel. Die Sonne rast über den Horizont und verschwindet, und Circus Minor wird von Dunkelheit umhüllt. Merkwürdigerweise erscheinen die Gebäude in der Ferne – jenseits des Stadtteils – noch immer von der Sonne beschienen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
@@ -563,12 +551,10 @@ Eine Reihe von Erinnerungen huscht über die Oberfläche des Apparats.</DefaultT
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Als du die Erinnerung wieder betrachtest, entsteht in deinem Geist das merkwürdige Gefühl, das du nur als Frage beschreiben kannstt. Der Apparat möchte etwas von dir.
+      <DefaultText>Als du die Erinnerung wieder betrachtest, entsteht in deinem Geist das merkwürdige Gefühl, das du nur als Frage beschreiben kannst. Der Apparat möchte etwas von dir.
 
 Plötzlich erinnerst du dich – die Erinnerungen im Apparat sind Möglichkeiten, doch du kannst eine der Erinnerungen hier sperren, so dass sie als einzige angezeigt wird. Du kannst dich jedoch nicht an den Zweck erinnern.</DefaultText>
-      <FemaleText>Als du die Erinnerung wieder betrachtest, entsteht in deinem Geist das merkwürdige Gefühl, das du nur als Frage beschreiben kannstt. Der Apparat möchte etwas von dir.
-
-Plötzlich erinnerst du dich – die Erinnerungen im Apparat sind Möglichkeiten, doch du kannst eine der Erinnerungen hier sperren, so dass sie als einzige angezeigt wird. Du kannst dich jedoch nicht an den Zweck erinnern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
