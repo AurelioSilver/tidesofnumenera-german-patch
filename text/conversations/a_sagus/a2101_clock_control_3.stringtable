@@ -288,7 +288,7 @@ Eine Reihe vertrauter Bilder huscht über die Oberfläche des Apparats.</Default
     <Entry>
       <ID>54</ID>
       <DefaultText>Du schlägst mehrfach auf die Maschine ein. Nach einem besonders heftigen Schlag stürzt ein Teil am Sockel des Apparats ein und zersplitterte Synth-Stücke fallen aus dem Loch.</DefaultText>
-      <FemaleText>Du schlägst mehrfach auf die Maschine ein. Nach einem besonders heftigen Schlag stürzt ein Teil am Sockel des Apparats ein und zersplitterte Synth-Stücke fallen aus dem Loch.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -297,11 +297,7 @@ Eine Reihe vertrauter Bilder huscht über die Oberfläche des Apparats.</Default
 Doch die Uhr wird massiv. Sie scheint nicht mehr in mehreren Zeitebenen gleichzeitig zu existieren.
 
 Als die Uhr wieder massiv wird, geschieht etwas Merkwürdiges am Himmel. Die Sonne rast über den Horizont und verschwindet, und Circus Minor wird von Dunkelheit umhüllt. Merkwürdigerweise erscheinen die Gebäude in der Ferne – jenseits des Stadtteils – noch immer von der Sonne beschienen.</DefaultText>
-      <FemaleText>Der Apparat verdunkelt sich. Die Bilder sind verschwunden, genauso wie das seltsame Echo aus der Vergangenheit von Circus Minor. Du hast ihn definitiv zerstört. Im Lager der Kultisten verdunkeln sich auch die anderen beiden Apparate.
-
-Doch die Uhr wird massiv. Sie scheint nicht mehr in mehreren Zeitebenen gleichzeitig zu existieren.
-
-Als die Uhr wieder massiv wird, geschieht etwas Merkwürdiges am Himmel. Die Sonne rast über den Horizont und verschwindet, und Circus Minor wird von Dunkelheit umhüllt. Merkwürdigerweise erscheinen die Gebäude in der Ferne – jenseits des Stadtteils – noch immer von der Sonne beschienen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
@@ -316,7 +312,7 @@ Als die Uhr wieder massiv wird, geschieht etwas Merkwürdiges am Himmel. Die Son
     <Entry>
       <ID>58</ID>
       <DefaultText>Den Apparat aufschlagen.</DefaultText>
-      <FemaleText>Den Apparat aufschlagen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
@@ -384,11 +380,7 @@ Die Flüssigkeit trübt sich sofort, doch an der Uhr ändert sich nichts. Sie is
 Die Soldaten sind vollständig in gezackte Metallrüstungen gekleidet. Man kann nicht einmal erkennen, ob es Menschen sind.
 
 Abgesehen vom Gemetzel sieht der Platz in dieser Vision völlig anders aus. Viele der brennenden Gebäude existieren überhaupt nicht, sobald du vom Apparat zurücktrittst, und wurden durch andere Strukturen ersetzt.</DefaultText>
-      <FemaleText>Circus Minor wird angegriffen. Aufgebote bewaffneter Soldaten durchstreifen die Straßen und jagen und töten jeden, den sie finden. Menschenmengen fliehen vor Entsetzen und nur wenige unglückliche Seelen versuchen vergeblich, sich zu wehren.
-
-Die Soldaten sind vollständig in gezackte Metallrüstungen gekleidet. Man kann nicht einmal erkennen, ob es Menschen sind.
-
-Abgesehen vom Gemetzel sieht der Platz in dieser Vision völlig anders aus. Viele der brennenden Gebäude existieren überhaupt nicht, sobald du vom Apparat zurücktrittst, und wurden durch andere Strukturen ersetzt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
@@ -400,26 +392,24 @@ Du hast das Gefühl, dass Sagusklippen in dieser Vision uralt ist. Diese Ereigni
     <Entry>
       <ID>72</ID>
       <DefaultText>Betrachte die Veränderungen um dich genauer.</DefaultText>
-      <FemaleText>Betrachte die Veränderungen um dich genauer.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
       <DefaultText>Betrachte die Veränderungen um dich erneut genau.</DefaultText>
-      <FemaleText>Betrachte die Veränderungen um dich erneut genau.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
       <DefaultText>Untersuche die Bilder auf der Oberfläche des Apparats.</DefaultText>
-      <FemaleText>Untersuche die Bilder auf der Oberfläche des Apparats.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
       <DefaultText>Als du dich auf die Bilder konzentrierst, spürst du eine Wärme auf deinem Kopf, an der Stelle, an der sich deine Tätowierung befindet. Die Bilder reagieren auf deine Gedanken, verlangsamen und verändern sich deiner Laune entsprechend. Es ist dein Körper, der dir dies ermöglicht. Vielleicht bedeutet dies, dass ausschließlich du die Bilder überhaupt sehen kannst.
 
 Du erkennst die Bilder sofort als Erinnerungsstücke – besonders die drei Erinnerungen, die du in den Untiefen deines Geistes erblicktest.</DefaultText>
-      <FemaleText>Als du dich auf die Bilder konzentrierst, spürst du eine Wärme auf deinem Kopf, an der Stelle, an der sich deine Tätowierung befindet. Die Bilder reagieren auf deine Gedanken, verlangsamen und verändern sich deiner Laune entsprechend. Es ist dein Körper, der dir dies ermöglicht. Vielleicht bedeutet dies, dass ausschließlich du die Bilder überhaupt sehen kannst.
-
-Du erkennst die Bilder sofort als Erinnerungsstücke – besonders die drei Erinnerungen, die du in den Untiefen deines Geistes erblicktest.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
@@ -448,14 +438,12 @@ Zur gleichen Zeit verdunkelt sich der Apparat vor dir. Die Bilder verschwinden g
       <DefaultText>Als du die dritte Erinnerung verbindest, vibriert die Luft, die den Apparat umgibt. Die anderen Apparate auf dem Platz beginnen zu glühen, als würde gleich etwas von ihnen ausgehen.
 
 Genauso plötzlich erlischt das Glühen auf allen drei Apparaten. Das Bild, das du mit diesem Apparat verbunden hattest, flackert, woraufhin erneut die drei Erinnerungen über seine Oberfläche huschen. Der Apparat scheint sich zurückgesetzt zu haben.</DefaultText>
-      <FemaleText>Als du die dritte Erinnerung verbindest, vibriert die Luft, die den Apparat umgibt. Die anderen Apparate auf dem Platz beginnen zu glühen, als würde gleich etwas von ihnen ausgehen.
-
-Genauso plötzlich erlischt das Glühen auf allen drei Apparaten. Das Bild, das du mit diesem Apparat verbunden hattest, flackert, woraufhin erneut die drei Erinnerungen über seine Oberfläche huschen. Der Apparat scheint sich zurückgesetzt zu haben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
       <DefaultText>Betrachte die Erinnerung an die Unterwasserstadt.</DefaultText>
-      <FemaleText>Betrachte die Erinnerung an die Unterwasserstadt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
@@ -470,7 +458,7 @@ Genauso plötzlich erlischt das Glühen auf allen drei Apparaten. Das Bild, das 
     <Entry>
       <ID>84</ID>
       <DefaultText>Irgendwie weißt du, dass die Erinnerung sich vor langer Zeit abspielte – vermutlich vor Jahrhunderten. Ein Mann und eine Frau, beide mit Tätowierungen wie die deine, untersuchen ein üppiges, abgeschiedenes Tal, auf der Suche nach einem idealen Ort für ein verborgenes Refugium.</DefaultText>
-      <FemaleText>Irgendwie weißt du, dass die Erinnerung sich vor langer Zeit abspielte – vermutlich vor Jahrhunderten. Ein Mann und eine Frau, beide mit Tätowierungen wie die deine, untersuchen ein üppiges, abgeschiedenes Tal, auf der Suche nach einem idealen Ort für ein verborgenes Refugium.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
@@ -480,12 +468,12 @@ Genauso plötzlich erlischt das Glühen auf allen drei Apparaten. Das Bild, das 
     <Entry>
       <ID>86</ID>
       <DefaultText>Betrachte die Erinnerung an das üppige Tal.</DefaultText>
-      <FemaleText>Betrachte die Erinnerung an das üppige Tal.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>Verbinde die Jahrhunderte alte Erinnerung an das üppige Tal mit diesem Apparat.</DefaultText>
-      <FemaleText>Verbinde die Jahrhunderte alte Erinnerung an das üppige Tal mit diesem Apparat.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
@@ -505,17 +493,17 @@ Genauso plötzlich erlischt das Glühen auf allen drei Apparaten. Das Bild, das 
     <Entry>
       <ID>91</ID>
       <DefaultText>Betrachte die Erinnerung an die belagerte Stadt.</DefaultText>
-      <FemaleText>Betrachte die Erinnerung an die belagerte Stadt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
       <DefaultText>Verbinde die alte Erinnerung an die belagerte Stadt mit diesem Apparat.</DefaultText>
-      <FemaleText>Verbinde die alte Erinnerung an die belagerte Stadt mit diesem Apparat.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
       <DefaultText>Löse die Erinnerung aus diesem Apparat.</DefaultText>
-      <FemaleText>Löse die Erinnerung aus diesem Apparat.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
