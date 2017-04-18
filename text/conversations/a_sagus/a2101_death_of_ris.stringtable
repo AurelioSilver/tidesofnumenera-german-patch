@@ -46,12 +46,12 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Während sich dein Kopf erholt, stellst du fest, dass Aufseher Yeen auf dich herabblickt und den Kopf schüttelt. "Ihr seid ein harter Bursche, so viel ist klar. Ich habe Männer gesehen, die doppelt so groß waren wie Ihr und die nach einer Umarmung des Todes starben. Doch ich würde es nicht wieder tun, wenn ich Ihr wäre. Beeilung jetzt. Ich riskiere meinen Hals, Euch hier hoch zu lassen." 
+      <DefaultText>Während sich dein Kopf erholt, stellst du fest, dass Aufseher Yeen auf dich herabblickt und den Kopf schüttelt. „Ihr seid ein harter Bursche, so viel ist klar. Ich habe Männer gesehen, die doppelt so groß waren wie Ihr und die nach einer Umarmung des Todes starben. Doch ich würde es nicht wieder tun, wenn ich Ihr wäre. Beeilung jetzt. Ich riskiere meinen Hals, Euch hier hoch zu lassen.“
 
 Er stapft zurück zu seinem Posten.
 
 {SCRIPT: Animation. Yeen fängt über dem SC an, dann geht er zurück zu seinem Posten.}</DefaultText>
-      <FemaleText>Während sich dein Kopf erholt, stellst du fest, dass Aufseher Yeen auf dich herabblickt und den Kopf schüttelt. "Ihr seid eine ausdauernde Frau, so viel ist klar. Ich habe Männer gesehen, die doppelt so groß waren wie Ihr und die nach einer Umarmung des Todes starben. Doch ich würde es nicht wieder tun, wenn ich Ihr wäre. Beeilung jetzt. Ich riskiere meinen Hals, Euch hier hoch zu lassen." 
+      <FemaleText>Während sich dein Kopf erholt, stellst du fest, dass Aufseher Yeen auf dich herabblickt und den Kopf schüttelt. „Ihr seid eine ausdauernde Frau, so viel ist klar. Ich habe Männer gesehen, die doppelt so groß waren wie Ihr und die nach einer Umarmung des Todes starben. Doch ich würde es nicht wieder tun, wenn ich Ihr wäre. Beeilung jetzt. Ich riskiere meinen Hals, Euch hier hoch zu lassen.“
 
 Er stapft zurück zu seinem Posten.
 
@@ -59,9 +59,9 @@ Er stapft zurück zu seinem Posten.
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Dieses Mal berührt dich Ris-Tod nur mit einem Finger, doch der Schmerz ist der gleiche und lässt dich wie einen Stein zu Boden sacken. Dein Herz ist zu stark von der Qual betäubt, um sich an seinen Zweck zu erinnern. Es vergisst, zu schlagen. 
+      <DefaultText>Dieses Mal berührt dich Ris-Tod nur mit einem Finger, doch der Schmerz ist der gleiche und lässt dich wie einen Stein zu Boden sacken. Dein Herz ist zu stark von der Qual betäubt, um sich an seinen Zweck zu erinnern. Es vergisst, zu schlagen.
 
-Die Welt wird dunkel ...</DefaultText>
+Die Welt wird dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@ Die Welt wird dunkel ...</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Aufseher Yeen kichert. "Kluge Wahl, mein Freund."</DefaultText>
-      <FemaleText>Aufseher Yeen kichert. "Kluge Wahl, meine Gute."</FemaleText>
+      <DefaultText>Aufseher Yeen kichert. „Kluge Wahl, mein Freund.“</DefaultText>
+      <FemaleText>Aufseher Yeen kichert. „Kluge Wahl, meine Gute.“</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"In der Tat sehr klug."</DefaultText>
+      <DefaultText>„In der Tat sehr klug.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@ Die Welt wird dunkel ...</DefaultText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Was tut Ihr?"</DefaultText>
+      <DefaultText>„Was tut Ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Könnt Ihr mich hören? Ich rede mit Euch."</DefaultText>
+      <DefaultText>„Könnt Ihr mich hören? Ich rede mit Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,17 +141,17 @@ Die Welt wird dunkel ...</DefaultText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Er erschauert und wendet sich ab. "Man sagt, dies seien seine Albträume, die aus ihm kommen. Ich bekomme schon Alpträume, wenn ich nur so nah daneben stehe."</DefaultText>
+      <DefaultText>Er erschauert und wendet sich ab. „Man sagt, dies seien seine Albträume, die aus ihm kommen. Ich bekomme schon Alpträume, wenn ich nur so nah daneben stehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Er schüttelt angewidert den Kopf. "Die Behörden sagen, er formuliert seine Alpträume. Sie haben wirklich keine Ahnung, was das ist oder worüber er redet. Sie wissen einfach nur, dass Leute Angst davor haben, es zu sehen."</DefaultText>
+      <DefaultText>Er schüttelt angewidert den Kopf. „Die Behörden sagen, er formuliert seine Alpträume. Sie haben wirklich keine Ahnung, was das ist oder worüber er redet. Sie wissen einfach nur, dass Leute Angst davor haben, es zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Sie kräuselt die Lippe. "Fleischgewordene Träume? Das frage ich mich. Oder stammen seine Worte von woanders?"</DefaultText>
+      <DefaultText>Sie kräuselt die Lippe. „Fleischgewordene Träume? Das frage ich mich. Oder stammen seine Worte von woanders?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,7 +163,7 @@ Die Ranken holen auf. Das Flüstern erfüllt deinen Kopf. Du prallst gegen eine 
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Da vorne, ein Licht. Ja! Das Lager! Du beginnst, auf das Lager zuzulaufen, als die Ranken deinen Rücken und deine Beine mit schreiender Qual streicheln. 
+      <DefaultText>Da vorne, ein Licht. Ja! Das Lager! Du beginnst, auf das Lager zuzulaufen, als die Ranken deinen Rücken und deine Beine mit schreiender Qual streicheln.
 
 Das Paket! Die Kiste! Das Schloss! Du reißt alles im Wahn auf und schlägst auf den Apparat, gerade als die Ranken dich durchdringen, weich wie Nebel, messerscharf, und dich Faser für Faser auseinanderreißen.
 

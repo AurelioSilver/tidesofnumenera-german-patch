@@ -6,89 +6,89 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ein Stern fällt in das Riff! Hunderte sind Zeuge des Spektakels!"</DefaultText>
+      <DefaultText>„Ein Stern fällt in das Riff! Hunderte sind Zeuge des Spektakels!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Garstiger Mord in Schattenseite! Der Mörder bleibt unbekannt ... und auf der Flucht!"</DefaultText>
+      <DefaultText>„Garstiger Mord in Schattenseite! Der Mörder bleibt unbekannt … und auf der Flucht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Weiteres Haus in Klippenrand eingestürzt! Der Rat beschuldigt die Sticha!"</DefaultText>
+      <DefaultText>„Weiteres Haus in Klippenrand eingestürzt! Der Rat beschuldigt die Sticha!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wieder ein Mord in Schattenseite! Vom Opfer bleiben nur Blut und eine gehäutete Hand übrig!"</DefaultText>
+      <DefaultText>„Wieder ein Mord in Schattenseite! Vom Opfer bleiben nur Blut und eine gehäutete Hand übrig!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Noch mehr Zerstörung in Klippenrand! Das Haus von Madelia Gleißen stürzt ins Meer!"</DefaultText>
+      <DefaultText>„Noch mehr Zerstörung in Klippenrand! Das Haus von Madelia Gleißen stürzt ins Meer!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Gerechtigkeit! Der Verräter Ris ist tot!"</DefaultText>
+      <DefaultText>„Gerechtigkeit! Der Verräter Ris ist tot!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Mörder der gehäuteten Hand schlägt wieder zu! Dritter Mord in Schattenseite!"</DefaultText>
+      <DefaultText>„Mörder der gehäuteten Hand schlägt wieder zu! Dritter Mord in Schattenseite!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Auf Befehl des Rates wird der Söldner, der sich selbst Tybir nennt, wegen Verrats für ein Verhör gesucht!"</DefaultText>
+      <DefaultText>„Auf Befehl des Rates wird der Söldner, der sich selbst Tybir nennt, wegen Verrats für ein Verhör gesucht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Weiterer Einsturz in Klippenrand! Beliebte Hebamme getötet!"</DefaultText>
+      <DefaultText>„Weiterer Einsturz in Klippenrand! Beliebte Hebamme getötet!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Mörder der gehäuteten Hand flüchtet und hinterlässt letztes Opfer!"</DefaultText>
+      <DefaultText>„Mörder der gehäuteten Hand flüchtet und hinterlässt letztes Opfer!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Tragödie in Klippenrand! Kind stirbt, als sein Haus ins Meer stürzt!"</DefaultText>
+      <DefaultText>„Tragödie in Klippenrand! Kind stirbt, als sein Haus ins Meer stürzt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Sticha graben weiter! Klippenrand lebt in Angst, dass weitere Häuser einstürzen!"
+      <DefaultText>„Sticha graben weiter! Klippenrand lebt in Angst, dass weitere Häuser einstürzen!“
 
 {GEORGE: Sollte global eingestellt werden, dass verfolgt wird, ob der SC weiß, dass die Sticha für die Beben, einstürzenden Häuser usw. verantwortlich sind? Dies wird von G_ZoneA_KnowStichaUndermineCity verfolgt. Ich bin mir nicht über die Auswirkungen sicher, die das hier hätte, daher belasse ich es zunächst dabei. -JF}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Klippenrand ist gerettet! Sticha stellen endlich das Graben ein!"</DefaultText>
+      <DefaultText>„Klippenrand ist gerettet! Sticha stellen endlich das Graben ein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Abtrünniger Stichus dank des tapferen Eingreifens von Lord Vuntgen in Klippenrand erschlagen!"</DefaultText>
+      <DefaultText>„Abtrünniger Stichus dank des tapferen Eingreifens von Lord Vuntgen in Klippenrand erschlagen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Abtrünniger Stichus entzieht sich Festnahme in Klippenrand! Lord Vuntgen verlässt Bezirk in Schande!"</DefaultText>
+      <DefaultText>„Abtrünniger Stichus entzieht sich Festnahme in Klippenrand! Lord Vuntgen verlässt Bezirk in Schande!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Abtrünniger Stichus in Klippenrand gesichtet! Lord Vuntgen verspricht, die Bestie aufzuspüren!"</DefaultText>
+      <DefaultText>„Abtrünniger Stichus in Klippenrand gesichtet! Lord Vuntgen verspricht, die Bestie aufzuspüren!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Alles ruhig und friedlich! Lang lebe der Rat und die Sklavenfamilien!"</DefaultText>
+      <DefaultText>„Alles ruhig und friedlich! Lang lebe der Rat und die Sklavenfamilien!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,7 +98,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Verzeihung, wir dürfen nicht plaudern. Ich muss die neuesten Nachrichten verkünden."</DefaultText>
+      <DefaultText>„Verzeihung, wir dürfen nicht plaudern. Ich muss die neuesten Nachrichten verkünden.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
