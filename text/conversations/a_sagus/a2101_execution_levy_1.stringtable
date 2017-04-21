@@ -6,33 +6,31 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Dieser Mann ist groß und breitschultrig, und seine Stahlrüstung ist in den silbernen und indigoblauen Farben von Sagus Klippen lackiert. Er scheint ein gewöhnlicher Soldat oder Wachtmeister der Stadt zu sein ... zu gewöhnlich, vielleicht. Als du sein Gesicht betrachtest, siehst du, dass seine Züge einfach, leicht zu vergessen und beinahe gewöhnlich sind.
+      <DefaultText>Dieser Mann ist groß und breitschultrig, und seine Stahlrüstung ist in den silbernen und indigoblauen Farben von Sagus Klippen lackiert. Er scheint ein gewöhnlicher Soldat oder Wachtmeister der Stadt zu sein … zu gewöhnlich, vielleicht. Als du sein Gesicht betrachtest, siehst du, dass seine Züge einfach, leicht zu vergessen und beinahe gewöhnlich sind.
 
-Nicht nur das ... seine Augen sind ein wenig zu groß, sein Lächeln zu stark auf seinem Gesicht fixiert.</DefaultText>
-      <FemaleText>Dieser Mann ist groß und breitschultrig, und seine Stahlrüstung ist in den silbernen und indigoblauen Farben von Sagus Klippen lackiert. Er scheint ein gewöhnlicher Soldat oder Wachtmeister der Stadt zu sein ... zu gewöhnlich, vielleicht. Als du sein Gesicht betrachtest, siehst du, dass seine Züge einfach, leicht zu vergessen und beinahe gewöhnlich sind.
-
-Nicht nur das ... seine Augen sind ein wenig zu groß, sein Lächeln zu stark auf seinem Gesicht fixiert.</FemaleText>
+Nicht nur das … seine Augen sind ein wenig zu groß, sein Lächeln zu stark auf seinem Gesicht fixiert.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Dieser bewaffnete Wehrpflichtige ist beinahe ein Spiegelbild seines Kameraden auf der anderen Seite der Hinrichtungsplattform. Du spürst, dass etwas an ihnen fast unmerklich anders ist, doch auf den ersten Blick kannst du nicht ganz ausmachen, was es ist.
 
-Er nickt und grüßt dich mit einer bemerkenswert ähnlichen Stimme. "Hallo, Besucher."</DefaultText>
+Er nickt und grüßt dich mit einer bemerkenswert ähnlichen Stimme. „Hallo, Besucher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Wie immer lächelt der Wehrpflichtige breit. Er nickt dir zu. "Hallo mal wieder, Besucher. Wie kann ich behilflich sein?"</DefaultText>
+      <DefaultText>Wie immer lächelt der Wehrpflichtige breit. Er nickt dir zu. „Hallo mal wieder, Besucher. Wie kann ich behilflich sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Gehört Ihr zur Stadtwache?"</DefaultText>
+      <DefaultText>„Gehört Ihr zur Stadtwache?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Werdet Ihr mich vorbeilassen?"</DefaultText>
+      <DefaultText>„Werdet Ihr mich vorbeilassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -47,7 +45,7 @@ Er nickt und grüßt dich mit einer bemerkenswert ähnlichen Stimme. "Hallo, Bes
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Haben wir uns schon mal gesehen?"</DefaultText>
+      <DefaultText>„Haben wir uns schon mal gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,24 +55,24 @@ Er nickt und grüßt dich mit einer bemerkenswert ähnlichen Stimme. "Hallo, Bes
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Der Soldat beäugt dich, wobei er niemals das Lächeln in seinem Gesicht verliert. "Ihr müsst ein Fremder in dieser Stadt sein ... vielleicht aus einem der eingeborenen Stämmen entlang der Grenze?"</DefaultText>
+      <DefaultText>Der Soldat beäugt dich, wobei er niemals das Lächeln in seinem Gesicht verliert. „Ihr müsst ein Fremder in dieser Stadt sein … vielleicht aus einem der eingeborenen Stämmen entlang der Grenze?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Leider kann ich das nicht." Das Grinsen des Soldaten bleibt bestehen. "Auf Befehl der Sklavenfamilien muss ich jeden davon abhalten, der sich dem verurteilten Mann nähert." 
+      <DefaultText>„Leider kann ich das nicht.“ Das Grinsen des Soldaten bleibt bestehen. „Auf Befehl der Sklavenfamilien muss ich jeden davon abhalten, der sich dem verurteilten Mann nähert.“
 
-Er macht eine Geste zu der erbärmlichen Gestalt auf dem Podium, die anscheinend Unsinn von sich gibt, während sie langsam in fauligen Eingeweiden eingewickelt wird. "Ihr müsst neu in der Stadt sein, um so etwas zu fragen."</DefaultText>
+Er macht eine Geste zu der erbärmlichen Gestalt auf dem Podium, die anscheinend Unsinn von sich gibt, während sie langsam in fauligen Eingeweiden eingewickelt wird. „Ihr müsst neu in der Stadt sein, um so etwas zu fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Erlaubt mir, Euch in Sagusklippen willkommen zu heißen, Besucher." Das letzte Wort spricht er wie einen Titel aus, beinahe wie einen Ehrentitel. "Ich bin ein Wehrpflichtiger. Ihr könnt Euch auf Schutz und Hilfe durch mich und andere wie mich verlassen ... im Ermessen des Rates und der Sklavenfamilien."</DefaultText>
+      <DefaultText>„Erlaubt mir, Euch in Sagusklippen willkommen zu heißen, Besucher.“ Das letzte Wort spricht er wie einen Titel aus, beinahe wie einen Ehrentitel. „Ich bin ein Wehrpflichtiger. Ihr könnt Euch auf Schutz und Hilfe durch mich und andere wie mich verlassen … im Ermessen des Rates und der Sklavenfamilien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Der Soldat blinzelt verwirrt, doch das Lächeln bleibt auf seinem Gesicht. "Vielleicht. Ihr seid kein Stadtbewohner, doch Ihr kommt mir trotzdem bekannt vor. Das ist ein merkwürdiger Umstand, da ich erst vor vierzehn Tagen erhoben wurde."
+      <DefaultText>Der Soldat blinzelt verwirrt, doch das Lächeln bleibt auf seinem Gesicht. „Vielleicht. Ihr seid kein Stadtbewohner, doch Ihr kommt mir trotzdem bekannt vor. Das ist ein merkwürdiger Umstand, da ich erst vor vierzehn Tagen erhoben wurde.“
 
 Er macht eine Pause, also würde er versuchen, sich daran zu erinnern, was er als Nächstes sagen soll.</DefaultText>
       <FemaleText />
@@ -86,22 +84,22 @@ Er macht eine Pause, also würde er versuchen, sich daran zu erinnern, was er al
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Was geschieht hier?"</DefaultText>
+      <DefaultText>„Was geschieht hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Warum sehen alle Levis gleich aus?"</DefaultText>
+      <DefaultText>„Warum sehen alle Levis gleich aus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ihr nennt Euch selbst einen 'Levi'? Was bedeutet das?"</DefaultText>
+      <DefaultText>„Ihr nennt Euch selbst einen 'Levi'? Was bedeutet das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,17 +109,17 @@ Er macht eine Pause, also würde er versuchen, sich daran zu erinnern, was er al
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Was geschieht hier nochmal?"</DefaultText>
+      <DefaultText>„Was geschieht hier nochmal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Eine Hinrichtung wegen Verrats, angeordnet durch Zustimmung des Rates. Der verurteilte Mann ist schuldig, Staatsgeheimnisse an eine ausländische Macht verkauft zu haben."</DefaultText>
+      <DefaultText>„Eine Hinrichtung wegen Verrats, angeordnet durch Zustimmung des Rates. Der verurteilte Mann ist schuldig, Staatsgeheimnisse an eine ausländische Macht verkauft zu haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Eine Hinrichtung. Der verurteilte Mann verkaufte Staatsgeheimnisse an eine ausländische Macht, und dies ist die durch den Rat angeordnete Strafe."</DefaultText>
+      <DefaultText>„Eine Hinrichtung. Der verurteilte Mann verkaufte Staatsgeheimnisse an eine ausländische Macht, und dies ist die durch den Rat angeordnete Strafe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,66 +129,66 @@ Er macht eine Pause, also würde er versuchen, sich daran zu erinnern, was er al
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Wehrpflichtige werden von Stadtbewohnern 'erhoben'?"</DefaultText>
+      <DefaultText>„Wehrpflichtige werden von Stadtbewohnern 'erhoben'?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Wie werden Wehrpflichtige nochmal 'erhoben'?"</DefaultText>
+      <DefaultText>„Wie werden Wehrpflichtige nochmal 'erhoben'?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Aligern schnaubt. "In jeder anderen Situation hätte diese Frage dir einen Schlag ins Gesicht eingebracht."</DefaultText>
+      <DefaultText>Aligern schnaubt. „In jeder anderen Situation hätte diese Frage dir einen Schlag ins Gesicht eingebracht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"So tauchen wir aus der Maschine aus ... doch wir sind nicht ganz dieselben. Stadtbewohner können immer die Wehrpflichtigen erkennen, die sie erhoben haben, und manche können uns bei näherer Betrachtung auseinanderhalten."</DefaultText>
+      <DefaultText>„So tauchen wir aus der Maschine aus … doch wir sind nicht ganz dieselben. Stadtbewohner können immer die Wehrpflichtigen erkennen, die sie erhoben haben, und manche können uns bei näherer Betrachtung auseinanderhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Jeder Bewohner muss einen Wehrpflichtigen für den Schutz der Stadt erheben. In Zeiten von Krieg und Streit werden die Stadtbewohner manchmal aufgerufen, zusätzliche Wehrpflichtige zu erheben, doch dies wurde seit der Übertretung der Nordgrenze durch einen Grauenzerstörer vor 34 Jahren nicht mehr verlangt."</DefaultText>
+      <DefaultText>„Jeder Bewohner muss einen Wehrpflichtigen für den Schutz der Stadt erheben. In Zeiten von Krieg und Streit werden die Stadtbewohner manchmal aufgerufen, zusätzliche Wehrpflichtige zu erheben, doch dies wurde seit der Übertretung der Nordgrenze durch einen Grauenzerstörer vor 34 Jahren nicht mehr verlangt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ja. Ein Lebensjahr wird dem Bewohner entzogen. Dieses verlorene Jahr wird verwendet, um einen Wehrpflichtigen zu erschaffen." Er pausiert immer wieder kurz, doch sein Lächeln bleibt fest in seinem Gesicht verwurzelt. "Deshalb beträgt unsere Lebensspanne exakt ein Jahr. Wenn unsere Zeit abläuft, zerfallen wir in unsere Bestandsmaterie."
+      <DefaultText>„Ja. Ein Lebensjahr wird dem Bewohner entzogen. Dieses verlorene Jahr wird verwendet, um einen Wehrpflichtigen zu erschaffen.“ Er pausiert immer wieder kurz, doch sein Lächeln bleibt fest in seinem Gesicht verwurzelt. „Deshalb beträgt unsere Lebensspanne exakt ein Jahr. Wenn unsere Zeit abläuft, zerfallen wir in unsere Bestandsmaterie.“
 
-"Wenn Euch der Prozess interessiert: Ich wurde instruiert, Euch zum Orden der Wahrheit zu führen, wo Ihr die Maschine beobachten dürft, die unser ... Elternteil ist."</DefaultText>
+„Wenn Euch der Prozess interessiert: Ich wurde instruiert, Euch zum Orden der Wahrheit zu führen, wo Ihr die Maschine beobachten dürft, die unser … Elternteil ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ein Jahr wird der Lebensspanne eines Stadtbewohners entzogen und verwendet, um einen von uns zu erschaffen. Jeder, der Einwohner von Sagus Klippen werden möchte, muss dieses Opfer bringen."
+      <DefaultText>„Ein Jahr wird der Lebensspanne eines Stadtbewohners entzogen und verwendet, um einen von uns zu erschaffen. Jeder, der Einwohner von Sagus Klippen werden möchte, muss dieses Opfer bringen.“
 
-Er betrachtet dich ruhig und lächelt wie immer. "Unsere eigene Lebensspanne beträgt nur ein einziges Jahr – dann verfallen wir wieder in unsere Bestandsmaterie. Wenn Ihr mehr wissen wollt, dürft Ihr im Orden der Wahrheit nachfragen."</DefaultText>
+Er betrachtet dich ruhig und lächelt wie immer. „Unsere eigene Lebensspanne beträgt nur ein einziges Jahr – dann verfallen wir wieder in unsere Bestandsmaterie. Wenn Ihr mehr wissen wollt, dürft Ihr im Orden der Wahrheit nachfragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Wie viel Zeit habt Ihr noch, ehe Ihr 'in Eure Bestandsmaterie verfallt'?"</DefaultText>
+      <DefaultText>„Wie viel Zeit habt Ihr noch, ehe Ihr 'in Eure Bestandsmaterie verfallt'?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich existiere erst seit 14 Tagen. Nach dem Standardkalender verbleiben mir also noch 299 Tage. Wenn ich nicht im Dienst getötet werde."</DefaultText>
+      <DefaultText>„Ich existiere erst seit 14 Tagen. Nach dem Standardkalender verbleiben mir also noch 299 Tage. Wenn ich nicht im Dienst getötet werde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Wer sind der Rat und die Sklavenfamilien? Regieren sie die Stadt?"</DefaultText>
+      <DefaultText>„Wer sind der Rat und die Sklavenfamilien? Regieren sie die Stadt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"In der Tat. Jede Sklavenfamilie schickt einen Repräsentanten – gewöhnlich das Familienoberhaupt – um im Rat zu sitzen. Wir müssen ihren Befehlen Folge leisten."</DefaultText>
+      <DefaultText>„In der Tat. Jede Sklavenfamilie schickt einen Repräsentanten – gewöhnlich das Familienoberhaupt – um im Rat zu sitzen. Wir müssen ihren Befehlen Folge leisten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Lebt wohl, Besucher."</DefaultText>
+      <DefaultText>„Lebt wohl, Besucher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,24 +205,24 @@ Die Ausnahme sind natürlich die Augen, die für das Gesicht ein wenig zu groß 
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Das Gesicht dieses Wehrpflichtigen ähnelt nahezu identisch dem seines Kameraden auf der anderen Seite der Hinrichtungsplattform. Wenn sie sich unterscheiden, so sind die Abweichungen äußerst subtil und willkürlich – vielleicht ein leichter Unterschied in der Form der Ohren oder eine kaum erkennbare Marotte der Lippen, wenn er lächelt ... wie er es ständig tut. Ansonsten könnten die zwei Männer Zwillinge sein.
+      <DefaultText>Das Gesicht dieses Wehrpflichtigen ähnelt nahezu identisch dem seines Kameraden auf der anderen Seite der Hinrichtungsplattform. Wenn sie sich unterscheiden, so sind die Abweichungen äußerst subtil und willkürlich – vielleicht ein leichter Unterschied in der Form der Ohren oder eine kaum erkennbare Marotte der Lippen, wenn er lächelt … wie er es ständig tut. Ansonsten könnten die zwei Männer Zwillinge sein.
 
 Sie sind tatsächlich sogar schwerer auseinanderzuhalten als Zwillinge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Ein weiteres Detail erweckt deine Aufmerksamkeit. Beinahe versteckt in der Rüstung des Wehrpflichtigen ist ein kleiner Fetisch oder Talisman ... eine grob gestaltete Darstellung eines Torbogens oder eines Fensters, hergestellt aus Metall-, Holz- und Glasstücken.</DefaultText>
+      <DefaultText>Ein weiteres Detail erweckt deine Aufmerksamkeit. Beinahe versteckt in der Rüstung des Wehrpflichtigen ist ein kleiner Fetisch oder Talisman … eine grob gestaltete Darstellung eines Torbogens oder eines Fensters, hergestellt aus Metall-, Holz- und Glasstücken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Was ist das für ein kleiner Gegenstand, der an Eurer Rüstung befestigt ist? Habt Ihr das selbst gemacht?"</DefaultText>
+      <DefaultText>„Was ist das für ein kleiner Gegenstand, der an Eurer Rüstung befestigt ist? Habt Ihr das selbst gemacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Für einen winzigen Augenblick gerät das Lächeln des Wehrpflichtigen beinahe ins Stocken. "Das ... das ist mein Jahr ... das Jahr, das einem Bewohner genommen wurde, um mich zu schaffen. Es erinnert mich an das Vorderfenster, durch das er das schöne Mädchen sah ... hätte sehen können ..., das die falschen Vögel verkauft. Es ist ... es wäre ... ein gutes Jahr gewesen."</DefaultText>
+      <DefaultText>Für einen winzigen Augenblick gerät das Lächeln des Wehrpflichtigen beinahe ins Stocken. „Das … das ist mein Jahr … das Jahr, das einem Bewohner genommen wurde, um mich zu schaffen. Es erinnert mich an das Vorderfenster, durch das er das schöne Mädchen sah … hätte sehen können …, das die falschen Vögel verkauft. Es ist … es wäre … ein gutes Jahr gewesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,22 +247,22 @@ Sie sind tatsächlich sogar schwerer auseinanderzuhalten als Zwillinge.</Default
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Ihr dient also in Wirklichkeit dem Rat ... nicht den Einwohnern der Stadt?"</DefaultText>
+      <DefaultText>„Ihr dient also in Wirklichkeit dem Rat … nicht den Einwohnern der Stadt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Eine kurze Pause. "Ja. Das ist richtig."</DefaultText>
+      <DefaultText>Eine kurze Pause. „Ja. Das ist richtig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ich würde gerne auf die Plattform hochgehen."</DefaultText>
+      <DefaultText>„Ich würde gerne auf die Plattform hochgehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ich befürchte, das ist während einer Hinrichtung nicht erlaubt." Das Lächeln des Wehrpflichtigen gerät ins Stocken. "Wenn Ihr das wünscht, könnt Ihr den verantwortlichen Beamten darum bitten." 
+      <DefaultText>„Ich befürchte, das ist während einer Hinrichtung nicht erlaubt.“ Das Lächeln des Wehrpflichtigen gerät ins Stocken. „Wenn Ihr das wünscht, könnt Ihr den verantwortlichen Beamten darum bitten.“
 
 Er zeigt auf den untersetzten, in indigoblauer Aufmachung gekleideten Mann, der am vorspringenden Rand der Hinrichtungsplattform steht.</DefaultText>
       <FemaleText />
