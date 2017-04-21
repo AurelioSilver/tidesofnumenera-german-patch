@@ -102,7 +102,7 @@
       <ID>19</ID>
       <DefaultText>„Canadu und ich wurden im grauen Außenbezirk der Stadt geboren. Ich würde gerne behaupten, wir seien Kindheitsfreunde gewesen sind, doch das waren wir nicht. Wir haben uns einfach durch das kennengelernt, was wir verloren haben.“
 
-El Jinto holt Luft. „Die Priester der Millionen Götter von Lhauric zogen durch die Straßen und suchten nach Opfern, wisst Ihr, und sich ihnen zu widersetzen ist – eine Sünde. In unseren ersten zehn Jahren forderten sie unsere Eltern, dann unsere Freunde. Und dann, eines Tages, kam ein pockennarbiger Priester zu mir.“</DefaultText>
+El-Jinto holt Luft. „Die Priester der Millionen Götter von Lhauric zogen durch die Straßen und suchten nach Opfern, wisst Ihr, und sich ihnen zu widersetzen ist – eine Sünde. In unseren ersten zehn Jahren forderten sie unsere Eltern, dann unsere Freunde. Und dann, eines Tages, kam ein pockennarbiger Priester zu mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,7 +204,7 @@ Er lächelt. „Canadu stürmte vorwärts, in der Hand den Vorschlaghammer seine
       <ID>38</ID>
       <DefaultText>„Die Salve geschmolzener Energie der Kreatur riss die persönliche Barriere ein, die ich aktiviert gelassen hatte, während ich an der Falle baute, doch ich wusste, dass sie nicht halten würde. Dann sprang Canadu vom Talrand herab auf den Rücken des Nychthemerons und schlug mit seinem Hammer zu. Es kreischte und dann … brach die Nacht herein, und die Kreatur wurde ruhig.“
 
-El Jinto zuckt mit den Schultern. „Ich habe – ein wenig hektisch, wie ich zugeben muss – daran gearbeitet, die Falle fertigzustellen. Sie wurde nicht für unseren Gast entworfen, doch wie Ihr sehen könnt …“ Er zeigt auf die Kreatur. „Hat es funktioniert.“</DefaultText>
+El-Jinto zuckt mit den Schultern. „Ich habe – ein wenig hektisch, wie ich zugeben muss – daran gearbeitet, die Falle fertigzustellen. Sie wurde nicht für unseren Gast entworfen, doch wie Ihr sehen könnt …“ Er zeigt auf die Kreatur. „Hat es funktioniert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,7 +308,7 @@ Er wischt sich mit dem Handrücken über den Mund. „Ich nehme an, das bedeutet
       <ID>60</ID>
       <DefaultText>Er seufzt und steckt das Gerät ein. „Ich verstehe ihn besser als ich es möchte. Wir haben unser Leben auf dem Brennholz unserer Ambitionen aufgebaut und hoffen auf ein Lagerfeuer, ehe etwas es auspustet …“
 
-El Jinto schüttelt den Kopf. „Ich habe auf der Reise hierher Studien über das Nychthemeron angestellt. Wenn dieser kleine Narr nur *gefragt* hätte, dann hätte ich vielleicht meine Erkenntnisse mit ihm teilen können.“</DefaultText>
+El-Jinto schüttelt den Kopf. „Ich habe auf der Reise hierher Studien über das Nychthemeron angestellt. Wenn dieser kleine Narr nur *gefragt* hätte, dann hätte ich vielleicht meine Erkenntnisse mit ihm teilen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@ Beleazar stampft auf dich zu und sieht *wütend* aus.</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Ihr habt recht“, sagt El Jinto etwas traurig. „Außerdem habe ich ihm versprochen, beim Orden Beschwerde einzureichen, falls ich ihn wieder beim Herumpfuschen in unserer Arbeit erwische. Ich schätze, das tue ich besser.“
+      <DefaultText>„Ihr habt recht“, sagt El-Jinto etwas traurig. „Außerdem habe ich ihm versprochen, beim Orden Beschwerde einzureichen, falls ich ihn wieder beim Herumpfuschen in unserer Arbeit erwische. Ich schätze, das tue ich besser.“
 
 Plötzlich blickt er über deine Schulter. „Ärger ist im Anmarsch, mein Freund.“
 
@@ -375,7 +375,7 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>El Jintos runzelt erneut die Stirn.
+      <DefaultText>El-Jintos runzelt erneut die Stirn.
 
 „Ich habe den Mann getroffen“, sagt er, und jede Spur von leichtem Humor ist verflogen. „Doch die Priester sind hier eine Macht, und mein Partner und ich sind Außenseiter. Ich kann den jungen Mann nicht ohne Beweis beschuldigen. Wenn Ihr uns helfen wollt, dann sagt ihm, dass Ihr es Euch anders überlegt habt, und überbringt uns seine Pläne.“</DefaultText>
       <FemaleText />
@@ -424,7 +424,7 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>„Das dachte ich mir“, sagt El Jinto und verschränkt seine Arme mit einem schiefen Grinsen. „Das wären [Global: a2101_NychthemeronPrice] Shin, wie ich schon sagte.“
+      <DefaultText>„Das dachte ich mir“, sagt El-Jinto und verschränkt seine Arme mit einem schiefen Grinsen. „Das wären [Global: a2101_NychthemeronPrice] Shin, wie ich schon sagte.“
 
 {GELD: Gleicher Betrag wie in Knotenpunkt 80.}</DefaultText>
       <FemaleText />
@@ -448,7 +448,7 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>El Jinto mustert dich mit dem regungslosen Blick eines Glücksspielers und streicht sich mit einem gebrochenen Daumen über das Kinn. Schließlich lächelt er.
+      <DefaultText>El-Jinto mustert dich mit dem regungslosen Blick eines Glücksspielers und streicht sich mit einem gebrochenen Daumen über das Kinn. Schließlich lächelt er.
 
 „Immer schön, einen anderen Feilscher zu treffen“, sagt er und nimmt dein Geld. „Besucht unseren Gast, wann immer Ihr bereit seid.“</DefaultText>
       <FemaleText />
@@ -460,7 +460,7 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>El Jinto seufzt schwer.
+      <DefaultText>El-Jinto seufzt schwer.
 
 „Immer schön, einen anderen Feilscher zu treffen“, sagt er mit einem müden Grinsen und nimmt Euer Geld. „Besucht unseren Gast, wann immer Ihr bereit seid.“</DefaultText>
       <FemaleText />
@@ -521,7 +521,7 @@ Er reibt sich mit einer Hand über das Kinn. „Seid Ihr hier, um das Nychthemer
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>„Er ist alles andere als 'meiner', mein Freund“, sagt El Jinto mit einem rauen Glucksen. „Wie Ihr wahrscheinlich sehen werdet, wenn Ihr Euch seinem Käfig nähert.“
+      <DefaultText>„Er ist alles andere als 'meiner', mein Freund“, sagt El-Jinto mit einem rauen Glucksen. „Wie Ihr wahrscheinlich sehen werdet, wenn Ihr Euch seinem Käfig nähert.“
 
 Er tippt sich an den Hut. „Fahrt fort. Stellt Eure Fragen.“</DefaultText>
       <FemaleText />
@@ -599,7 +599,7 @@ Er reibt sich den Nacken. „Nicht, dass unsere Motive für unseren Gast einen g
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>El Jinto nimmt das Gerät, das Beleazar Euch gab, und untersucht es grimmig.
+      <DefaultText>El-Jinto nimmt das Gerät, das Beleazar Euch gab, und untersucht es grimmig.
 
 „Der junge Idiot. Wir haben ihn schon mal erwischt, wie er am Käfig herumpfuschte, und ich dachte, ich hätte ihn verscheucht. Offensichtlich nicht.“</DefaultText>
       <FemaleText />
