@@ -330,7 +330,7 @@ Er reicht in seine Taschen und überreicht dir ein Päckchen abgenutzter Notizen
 Beleazar stampft auf dich zu und sieht *wütend* aus.</DefaultText>
       <FemaleText>„Das scheint kaum gerecht“, sagt er, nachdem er deine Worte abgewogen hat. „Doch Ihr habt recht. Ich bin kein junger Mann, und es wäre gut zu wissen, jemandem auf dem Pfad geholfen zu haben, ehe ich …“ Er hält inne, dann fährt er fort. „Ehe ich die Stadt verlassen habe.“
 
-Er reicht in seine Taschen und überreicht dir ein Päckchen abgenutzter Notizen. Dann blickt er über deine Schulter. „Ärger ist im Anmarsch, mein Freund.“
+Er reicht in seine Taschen und überreicht dir ein Päckchen abgenutzter Notizen. Dann blickt er über deine Schulter. „Ärger ist im Anmarsch, meine Freundin.“
 
 Beleazar stampft auf dich zu und sieht *wütend* aus.</FemaleText>
     </Entry>
@@ -341,7 +341,11 @@ Beleazar stampft auf dich zu und sieht *wütend* aus.</FemaleText>
 Plötzlich blickt er über deine Schulter. „Ärger ist im Anmarsch, mein Freund.“
 
 Beleazar stampft auf euch zu und sieht *wütend* aus.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ihr habt recht“, sagt El-Jinto etwas traurig. „Außerdem habe ich ihm versprochen, beim Orden Beschwerde einzureichen, falls ich ihn wieder beim Herumpfuschen in unserer Arbeit erwische. Ich schätze, das tue ich besser.“
+
+Plötzlich blickt er über deine Schulter. „Ärger ist im Anmarsch, meine Freundin.“
+
+Beleazar stampft auf euch zu und sieht *wütend* aus.</FemaleText>
     </Entry>
     <Entry>
       <ID>65</ID>
