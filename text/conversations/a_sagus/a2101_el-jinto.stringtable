@@ -7,23 +7,23 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Vor dir steht ein müder Reisender, dessen grimmige Züge zum größten Teil von einem spitzen Hut bedeckt sind. Bei näherer Betrachtung deuten die Falten in seinem Gesicht darauf, dass er vieles gesehen und viele Geschichten zu erzählen hat.</DefaultText>
-      <FemaleText>Vor dir steht ein müder Reisender, dessen grimmige Züge zum größten Teil von einem spitzen Hut bedeckt sind. Bei näherer Betrachtung deuten die Falten in seinem Gesicht darauf, dass er vieles gesehen und viele Geschichten zu erzählen hat.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Willkommen zurück. Zum Reden hier, oder nur zum Zuhören?"</DefaultText>
+      <DefaultText>„Willkommen zurück. Zum Reden hier, oder nur zum Zuhören?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Als du dich ihm näherst, wirft er seinen Kopf zurück und betrachtet den dunklen Himmel. 
+      <DefaultText>Als du dich ihm näherst, wirft er seinen Kopf zurück und betrachtet den dunklen Himmel.
 
-"Die Nacht scheint nicht voranzuschreiten", beobachtet er. "Vielleicht sollten wir daraus Nutzen schlagen. Packt unseren Gast zusammen, solange er noch biegbar ist."</DefaultText>
+„Die Nacht scheint nicht voranzuschreiten“, beobachtet er. „Vielleicht sollten wir daraus Nutzen schlagen. Packt unseren Gast zusammen, solange er noch biegbar ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Weitergehen, Freund. Mein Partner und ich haben keine Geduld mit Schurken und Verrätern."</DefaultText>
+      <DefaultText>„Weitergehen, Freund. Mein Partner und ich haben keine Geduld mit Schurken und Verrätern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,12 +33,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Canadu hat mir ein wenig über Eure Vergangenheit erzählt. Kennt Ihr interessante Geschichten?"</DefaultText>
+      <DefaultText>„Canadu hat mir ein wenig über Eure Vergangenheit erzählt. Kennt Ihr interessante Geschichten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich möchte mehr Geschichten über Eure Vergangenheit hören."</DefaultText>
+      <DefaultText>„Ich möchte mehr Geschichten über Eure Vergangenheit hören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,12 +48,12 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Jahre der Anstrengung", sagt er, als sich seine Mine verfinstert. "Unermessliche Jahre."</DefaultText>
+      <DefaultText>„Jahre der Anstrengung“, sagt er, als sich seine Mine verfinstert. „Unermessliche Jahre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Gerne", sagt er. "Und ungern."</DefaultText>
+      <DefaultText>„Gerne“, sagt er. „Und ungern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,24 +63,24 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ah", sagt er mit leichtem Seufzen. "Meine frühere und zukünftige Heimat."</DefaultText>
+      <DefaultText>„Ah“, sagt er mit leichtem Seufzen. „Meine frühere und zukünftige Heimat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Aber sicher. Es tut mir gut, mich an meine Kindheit zu erinnern." Er grinst humorlos. "Es hält meine Erinnerungen frisch."</DefaultText>
+      <DefaultText>„Aber sicher. Es tut mir gut, mich an meine Kindheit zu erinnern.“ Er grinst humorlos. „Es hält meine Erinnerungen frisch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Aber sicher. Welcher Teil unserer blutbefleckten Vergangenheit würde Euch am meisten unterhalten?"</DefaultText>
+      <DefaultText>„Aber sicher. Welcher Teil unserer blutbefleckten Vergangenheit würde Euch am meisten unterhalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Nach Lhauric lebten wir von Mahlzeit zu Mahlzeit und aßen nur, was wir stehlen konnten. Canadu wurde stärker und ich ... auch, doch nicht so offensichtlich. Ich begann mit meinen Studien, versteht Ihr? Ich las alte Texte über meine verlorene Heimat und die Krankheit, die sie bis zu diesem Tage heimsucht. Ich dachte darüber nach, wie ich sie *heilen* könnte", sagt er mit geballter Faust.
+      <DefaultText>„Nach Lhauric lebten wir von Mahlzeit zu Mahlzeit und aßen nur, was wir stehlen konnten. Canadu wurde stärker und ich … auch, doch nicht so offensichtlich. Ich begann mit meinen Studien, versteht Ihr? Ich las alte Texte über meine verlorene Heimat und die Krankheit, die sie bis zu diesem Tage heimsucht. Ich dachte darüber nach, wie ich sie *heilen* könnte“, sagt er mit geballter Faust.
 
-"Also fingen wir an, Ruinen zu erkunden. Wir verkauften Reliktstücke, die wir finden konnten, für Nahrung und Ausrüstung. Die interessanten Stücke behielten wir für zukünftige Studien."</DefaultText>
+„Also fingen wir an, Ruinen zu erkunden. Wir verkauften Reliktstücke, die wir finden konnten, für Nahrung und Ausrüstung. Die interessanten Stücke behielten wir für zukünftige Studien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,19 +90,19 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Canadu meinte, Ihr kämt aus einem Ort namens Lhauric."</DefaultText>
+      <DefaultText>„Canadu meinte, Ihr kämt aus einem Ort namens Lhauric.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Könnt Ihr mir nochmals von Lhauric erzählen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir nochmals von Lhauric erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Canadu und ich wurden im grauen Außenbezirk der Stadt geboren. Ich würde gerne behaupten, wir seien Kindheitsfreunde gewesen sind, doch das waren wir nicht. Wir haben uns einfach durch das kennengelernt, was wir verloren haben."
+      <DefaultText>„Canadu und ich wurden im grauen Außenbezirk der Stadt geboren. Ich würde gerne behaupten, wir seien Kindheitsfreunde gewesen sind, doch das waren wir nicht. Wir haben uns einfach durch das kennengelernt, was wir verloren haben.“
 
-El Jinto holt Luft. "Die Priester der Millionen Götter von Lhauric zogen durch die Straßen und suchten nach Opfern, wisst Ihr, und sich ihnen zu widersetzen ist – eine Sünde. In unseren ersten zehn Jahren forderten sie unsere Eltern, dann unsere Freunde. Und dann, eines Tages, kam ein pockennarbiger Priester zu mir."</DefaultText>
+El Jinto holt Luft. „Die Priester der Millionen Götter von Lhauric zogen durch die Straßen und suchten nach Opfern, wisst Ihr, und sich ihnen zu widersetzen ist – eine Sünde. In unseren ersten zehn Jahren forderten sie unsere Eltern, dann unsere Freunde. Und dann, eines Tages, kam ein pockennarbiger Priester zu mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,12 +112,12 @@ El Jinto holt Luft. "Die Priester der Millionen Götter von Lhauric zogen durch
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Was geschah, nachdem Ihr aus Lhauric entkommen seid?"</DefaultText>
+      <DefaultText>„Was geschah, nachdem Ihr aus Lhauric entkommen seid?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Sagt mir nochmals, was geschah, nachdem Ihr aus Lhauric entkommen seid."</DefaultText>
+      <DefaultText>„Sagt mir nochmals, was geschah, nachdem Ihr aus Lhauric entkommen seid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,12 +127,12 @@ El Jinto holt Luft. "Die Priester der Millionen Götter von Lhauric zogen durch
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Was ist die Uhr von Kala?"</DefaultText>
+      <DefaultText>„Was ist die Uhr von Kala?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ich möchte nochmal von der Uhr von Kala hören."</DefaultText>
+      <DefaultText>„Ich möchte nochmal von der Uhr von Kala hören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -142,12 +142,12 @@ El Jinto holt Luft. "Die Priester der Millionen Götter von Lhauric zogen durch
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Ein Bergring zwischen hier und dem Jenseits", sagt er. "Ein Land glorreicher und tödlicher Wunder." Er seufzt glücklich. "Ich freue mich darauf, es wieder zu durchschreiten."</DefaultText>
+      <DefaultText>„Ein Bergring zwischen hier und dem Jenseits“, sagt er. „Ein Land glorreicher und tödlicher Wunder.“ Er seufzt glücklich. „Ich freue mich darauf, es wieder zu durchschreiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Das ist schon in Ordnung", sagt er. "Es ist ein Land unzähliger Schätze und tödlicher Schönheit."</DefaultText>
+      <DefaultText>„Das ist schon in Ordnung“, sagt er. „Es ist ein Land unzähliger Schätze und tödlicher Schönheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,55 +157,54 @@ El Jinto holt Luft. "Die Priester der Millionen Götter von Lhauric zogen durch
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Wie habt Ihr die Kreatur eingefangen?"</DefaultText>
+      <DefaultText>„Wie habt Ihr die Kreatur eingefangen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Wie habt Ihr die Kreatur nochmal eingefangen?"</DefaultText>
+      <DefaultText>„Wie habt Ihr die Kreatur nochmal eingefangen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Er hievte mich von den gläsernen Straßen. Ich weinte und schrie, doch die Gläubigen – und die Ängstlichen – wandten sich ab. Ich hatte beinahe die Hoffnung aufgegeben, als ich den Hammer hörte, der über das Glas schliff."
+      <DefaultText>„Er hievte mich von den gläsernen Straßen. Ich weinte und schrie, doch die Gläubigen – und die Ängstlichen – wandten sich ab. Ich hatte beinahe die Hoffnung aufgegeben, als ich den Hammer hörte, der über das Glas schliff.“
 
-Er lächelt. "Canadu stürmte vorwärts, in der Hand den Vorschlaghammer seines Vaters. Ohne zu schreien schlug er dem Priester das Hirn aus dem Schädel, und wir rannten los." Er schließt die Augen und lächelt. "Und seitdem rennen wir, doch eines Tages werden wir zurückkehren, glaube ich. Bewaffnet für den Anlass."</DefaultText>
+Er lächelt. „Canadu stürmte vorwärts, in der Hand den Vorschlaghammer seines Vaters. Ohne zu schreien schlug er dem Priester das Hirn aus dem Schädel, und wir rannten los.“ Er schließt die Augen und lächelt. „Und seitdem rennen wir, doch eines Tages werden wir zurückkehren, glaube ich. Bewaffnet für den Anlass.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Eigentlich bin ich gerade nicht in der Stimmung für Geschichten."</DefaultText>
+      <DefaultText>„Eigentlich bin ich gerade nicht in der Stimmung für Geschichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Passt auf Euch auf, mein Freund."</DefaultText>
+      <DefaultText>„Passt auf Euch auf, mein Freund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Man könnte sagen, es war Glück", sagt er. "Doch etwas früh, um es 'gut' oder 'schlecht' zu nennen." Seine Augen suchen den Himmel ab, als er seine Geschichte zu erzählen beginnt. 
+      <DefaultText>„Man könnte sagen, es war Glück“, sagt er. „Doch etwas früh, um es 'gut' oder 'schlecht' zu nennen.“ Seine Augen suchen den Himmel ab, als er seine Geschichte zu erzählen beginnt.
 
-"Ich hatte an einer ... sagen wir mal, Falle, gearbeitet, in einem Tal, das sich durch eine namenlosen Ruine zog. Canadu war dabei, das Abendessen zu jagen, und ich arbeitete wie benommen. Das tue ich immer, wenn ich mich konzentriere." Ein Lächeln huscht über sein Gesicht. 
-
-"Als sich der Sonnenuntergang näherte, war die Falle noch immer zerlegt, und ich hörte, wie Canadu meinen Namen brüllte. Ich drehte mich gerade noch rechtzeitig um, um zu sehen, wie unser Gast auf mich zustürzte."</DefaultText>
+„Ich hatte an einer … sagen wir mal, Falle, gearbeitet, in einem Tal, das sich durch eine namenlosen Ruine zog. Canadu war dabei, das Abendessen zu jagen, und ich arbeitete wie benommen. Das tue ich immer, wenn ich mich konzentriere.“ Ein Lächeln huscht über sein Gesicht.
+„Als sich der Sonnenuntergang näherte, war die Falle noch immer zerlegt, und ich hörte, wie Canadu meinen Namen brüllte. Ich drehte mich gerade noch rechtzeitig um, um zu sehen, wie unser Gast auf mich zustürzte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Mit einer eigens von mir entworfenen, höchst experimentellen Falle, etwas Glück, und dem unerwarteten Einbruch der Nacht."</DefaultText>
+      <DefaultText>„Mit einer eigens von mir entworfenen, höchst experimentellen Falle, etwas Glück, und dem unerwarteten Einbruch der Nacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Die Salve geschmolzener Energie der Kreatur riss die persönliche Barriere ein, die ich aktiviert gelassen hatte, während ich an der Falle baute, doch ich wusste, dass sie nicht halten würde. Dann sprang Canadu vom Talrand herab auf den Rücken des Nychthemerons und schlug mit seinem Hammer zu. Es kreischte und dann ... brach die Nacht herein, und die Kreatur wurde ruhig."
+      <DefaultText>„Die Salve geschmolzener Energie der Kreatur riss die persönliche Barriere ein, die ich aktiviert gelassen hatte, während ich an der Falle baute, doch ich wusste, dass sie nicht halten würde. Dann sprang Canadu vom Talrand herab auf den Rücken des Nychthemerons und schlug mit seinem Hammer zu. Es kreischte und dann … brach die Nacht herein, und die Kreatur wurde ruhig.“
 
-El Jinto zuckt mit den Schultern. "Ich habe – ein wenig hektisch, wie ich zugeben muss – daran gearbeitet, die Falle fertigzustellen. Sie wurde nicht für unseren Gast entworfen, doch wie Ihr sehen könnt ..." Er zeigt auf die Kreatur. "Hat es funktioniert."</DefaultText>
+El Jinto zuckt mit den Schultern. „Ich habe – ein wenig hektisch, wie ich zugeben muss – daran gearbeitet, die Falle fertigzustellen. Sie wurde nicht für unseren Gast entworfen, doch wie Ihr sehen könnt …“ Er zeigt auf die Kreatur. „Hat es funktioniert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,12 +214,12 @@ El Jinto zuckt mit den Schultern. "Ich habe – ein wenig hektisch, wie ich zug
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ich suche nach jemandem, der eine komplizierte Apparatur reparieren kann."</DefaultText>
+      <DefaultText>„Ich suche nach jemandem, der eine komplizierte Apparatur reparieren kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ich möchte nochmal mit Euch über diese beschädigte Apparatur reden."</DefaultText>
+      <DefaultText>„Ich möchte nochmal mit Euch über diese beschädigte Apparatur reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,118 +239,118 @@ El Jinto zuckt mit den Schultern. "Ich habe – ein wenig hektisch, wie ich zug
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Natürlich", antwortet er. "Habt Ihr das Teil dabei, um das ich gebeten hatte?"</DefaultText>
+      <DefaultText>„Natürlich“, antwortet er. „Habt Ihr das Teil dabei, um das ich gebeten hatte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Ich kann Euch nicht helfen, etwas zu reparieren, das ich noch nie gesehen habe", sagt er. "Verzeiht, mein Freund."</DefaultText>
+      <DefaultText>„Ich kann Euch nicht helfen, etwas zu reparieren, das ich noch nie gesehen habe“, sagt er. „Verzeiht, mein Freund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ja, ich habe diese Kristallscherbe."</DefaultText>
+      <DefaultText>„Ja, ich habe diese Kristallscherbe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Nein."</DefaultText>
+      <DefaultText>„Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Sie muss sich in hoffnungslosem Zustand befinden, wenn Ihr durch den Circus zieht und mit Fremden redet", sagt er. "Habt Ihr einen Teil der Apparatur dabei? Vielleicht kann ich meine Einschätzung geben."</DefaultText>
+      <DefaultText>„Sie muss sich in hoffnungslosem Zustand befinden, wenn Ihr durch den Circus zieht und mit Fremden redet“, sagt er. „Habt Ihr einen Teil der Apparatur dabei? Vielleicht kann ich meine Einschätzung geben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Da gibt es nicht mehr viel zu sagen", sagt er. "Die gute Nachricht ist, dass Eure Apparatur ganz sein möchte, doch sie wird Hilfe brauchen. Fragt in der Stadt herum. Vielleicht findet Ihr die geschickte Hand, nach der Ihr sucht."</DefaultText>
+      <DefaultText>„Da gibt es nicht mehr viel zu sagen“, sagt er. „Die gute Nachricht ist, dass Eure Apparatur ganz sein möchte, doch sie wird Hilfe brauchen. Fragt in der Stadt herum. Vielleicht findet Ihr die geschickte Hand, nach der Ihr sucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>Follow-up PQ. 53</DefaultText>
-      <FemaleText>Follow-up PQ. 53</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Könnt Ihr mitkommen und Euch die Apparatur ansehen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mitkommen und Euch die Apparatur ansehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Seid Ihr sicher, dass ich Euch nicht dazu überreden kann, mitzukommen, um einen Blick auf die Apparatur zu werfen?"</DefaultText>
+      <DefaultText>„Seid Ihr sicher, dass ich Euch nicht dazu überreden kann, mitzukommen, um einen Blick auf die Apparatur zu werfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>Follow-up T. 56</DefaultText>
-      <FemaleText>Follow-up T. 56</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Canadu würde mir nie verzeihen, wenn ich ihn alleine ließe", antwortet er. "Er könnte ja jemanden zum Reden brauchen. Wenn das passiert, hat er *tagelang* eine Laune."
+      <DefaultText>„Canadu würde mir nie verzeihen, wenn ich ihn alleine ließe“, antwortet er. „Er könnte ja jemanden zum Reden brauchen. Wenn das passiert, hat er *tagelang* eine Laune.“
 
-Er wischt sich mit dem Handrücken über den Mund. "Ich nehme an, das bedeutet, Ihr habt sie nicht dabei?"</DefaultText>
+Er wischt sich mit dem Handrücken über den Mund. „Ich nehme an, das bedeutet, Ihr habt sie nicht dabei?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Keine Chance", sagt er. "Ich werde hier gebraucht, so sicher, wie Wasser fällt und Staub emporsteigt. Ihr habt sie nicht dabei, was?"</DefaultText>
+      <DefaultText>„Keine Chance“, sagt er. „Ich werde hier gebraucht, so sicher, wie Wasser fällt und Staub emporsteigt. Ihr habt sie nicht dabei, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Ich habe Beweise, dass der Aeon-Priester Beleazar möchte, dass ich das Nychthemeron stehle. Hier, seht mal."</DefaultText>
+      <DefaultText>„Ich habe Beweise, dass der Aeon-Priester Beleazar möchte, dass ich das Nychthemeron stehle. Hier, seht mal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Er seufzt und steckt das Gerät ein. "Ich verstehe ihn besser als ich es möchte. Wir haben unser Leben auf dem Brennholz unserer Ambitionen aufgebaut und hoffen auf ein Lagerfeuer, ehe etwas es auspustet ..." 
+      <DefaultText>Er seufzt und steckt das Gerät ein. „Ich verstehe ihn besser als ich es möchte. Wir haben unser Leben auf dem Brennholz unserer Ambitionen aufgebaut und hoffen auf ein Lagerfeuer, ehe etwas es auspustet …“
 
-El Jinto schüttelt den Kopf. "Ich habe auf der Reise hierher Studien über das Nychthemeron angestellt. Wenn dieser kleine Narr nur *gefragt* hätte, dann hätte ich vielleicht meine Erkenntnisse mit ihm teilen können."</DefaultText>
+El Jinto schüttelt den Kopf. „Ich habe auf der Reise hierher Studien über das Nychthemeron angestellt. Wenn dieser kleine Narr nur *gefragt* hätte, dann hätte ich vielleicht meine Erkenntnisse mit ihm teilen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Das könnt Ihr noch immer. Lasst ihn aus Eurer Erfahrung lernen."</DefaultText>
+      <DefaultText>„Das könnt Ihr noch immer. Lasst ihn aus Eurer Erfahrung lernen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Er muss es auf die harte Tour lernen, so wie alle anderen auch."</DefaultText>
+      <DefaultText>„Er muss es auf die harte Tour lernen, so wie alle anderen auch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Das scheint kaum gerecht", sagt er, nachdem er deine Worte abgewogen hat. "Doch Ihr habt recht. Ich bin kein junger Mann, und es wäre gut zu wissen, jemandem auf dem Pfad geholfen zu haben, ehe ich ..." Er hält inne, dann fährt er fort. "Ehe ich die Stadt verlassen habe."
+      <DefaultText>„Das scheint kaum gerecht“, sagt er, nachdem er deine Worte abgewogen hat. „Doch Ihr habt recht. Ich bin kein junger Mann, und es wäre gut zu wissen, jemandem auf dem Pfad geholfen zu haben, ehe ich …“ Er hält inne, dann fährt er fort. „Ehe ich die Stadt verlassen habe.“
 
-Er reicht in seine Taschen und überreicht dir ein Päckchen abgenutzter Notizen. Dann blickt er über deine Schulter. "Ärger ist im Anmarsch, mein Freund." 
+Er reicht in seine Taschen und überreicht dir ein Päckchen abgenutzter Notizen. Dann blickt er über deine Schulter. „Ärger ist im Anmarsch, mein Freund.“
 
 Beleazar stampft auf dich zu und sieht *wütend* aus.</DefaultText>
-      <FemaleText>"Das scheint kaum gerecht", sagt er, nachdem er deine Worte abgewogen hat. "Doch Ihr habt recht. Ich bin kein junger Mann, und es wäre gut zu wissen, jemandem auf dem Pfad geholfen zu haben, ehe ich ..." Er hält inne, dann fährt er fort. "Ehe ich die Stadt verlassen habe."
+      <FemaleText>„Das scheint kaum gerecht“, sagt er, nachdem er deine Worte abgewogen hat. „Doch Ihr habt recht. Ich bin kein junger Mann, und es wäre gut zu wissen, jemandem auf dem Pfad geholfen zu haben, ehe ich …“ Er hält inne, dann fährt er fort. „Ehe ich die Stadt verlassen habe.“
 
-Er reicht in seine Taschen und überreicht dir ein Päckchen abgenutzter Notizen. Dann blickt er über deine Schulter. "Ärger ist im Anmarsch, mein Freund." 
+Er reicht in seine Taschen und überreicht dir ein Päckchen abgenutzter Notizen. Dann blickt er über deine Schulter. „Ärger ist im Anmarsch, mein Freund.“
 
 Beleazar stampft auf dich zu und sieht *wütend* aus.</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Ihr habt recht", sagt El Jinto etwas traurig. "Außerdem habe ich ihm versprochen, beim Orden Beschwerde einzureichen, falls ich ihn wieder beim Herumpfuschen in unserer Arbeit erwische. Ich schätze, das tue ich besser."
+      <DefaultText>„Ihr habt recht“, sagt El Jinto etwas traurig. „Außerdem habe ich ihm versprochen, beim Orden Beschwerde einzureichen, falls ich ihn wieder beim Herumpfuschen in unserer Arbeit erwische. Ich schätze, das tue ich besser.“
 
-Plötzlich blickt er über deine Schulter. "Ärger ist im Anmarsch, mein Freund." 
+Plötzlich blickt er über deine Schulter. „Ärger ist im Anmarsch, mein Freund.“
 
 Beleazar stampft auf euch zu und sieht *wütend* aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Viel Glück."</DefaultText>
+      <DefaultText>„Viel Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Das würde er sagen", sagt er flott, doch die eisernen Augen hinter seiner beschatteten Hutkrempe wenden sich dem Nychthemeron zu, und sein Mund wird zu einem dünnen Strich. "Ein Rat gefällig? Hört nicht auf ihn. Unser Gast ist so wechselhaft wie die Tageszeit – im wahrsten Sinne des Wortes! Man kann ihm weder trauen noch mit ihm handeln."</DefaultText>
+      <DefaultText>„Das würde er sagen“, sagt er flott, doch die eisernen Augen hinter seiner beschatteten Hutkrempe wenden sich dem Nychthemeron zu, und sein Mund wird zu einem dünnen Strich. „Ein Rat gefällig? Hört nicht auf ihn. Unser Gast ist so wechselhaft wie die Tageszeit – im wahrsten Sinne des Wortes! Man kann ihm weder trauen noch mit ihm handeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,24 +365,24 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Die Kreatur bat mich, ihr bei der Flucht zu helfen."</DefaultText>
+      <DefaultText>„Die Kreatur bat mich, ihr bei der Flucht zu helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Das Nychthemeron sagte auch, dass ein Aeon-Priester namens Beleazar vorhätte, es zu stehlen."</DefaultText>
+      <DefaultText>„Das Nychthemeron sagte auch, dass ein Aeon-Priester namens Beleazar vorhätte, es zu stehlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>El Jintos runzelt erneut die Stirn. 
+      <DefaultText>El Jintos runzelt erneut die Stirn.
 
-"Ich habe den Mann getroffen", sagt er, und jede Spur von leichtem Humor ist verflogen. "Doch die Priester sind hier eine Macht, und mein Partner und ich sind Außenseiter. Ich kann den jungen Mann nicht ohne Beweis beschuldigen. Wenn Ihr uns helfen wollt, dann sagt ihm, dass Ihr es Euch anders überlegt habt, und überbringt uns seine Pläne."</DefaultText>
+„Ich habe den Mann getroffen“, sagt er, und jede Spur von leichtem Humor ist verflogen. „Doch die Priester sind hier eine Macht, und mein Partner und ich sind Außenseiter. Ich kann den jungen Mann nicht ohne Beweis beschuldigen. Wenn Ihr uns helfen wollt, dann sagt ihm, dass Ihr es Euch anders überlegt habt, und überbringt uns seine Pläne.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Hallo, mein Freund", sagt er. "Seid Ihr hier, um das Nychthemeron zu sehen – meinen Freund im Käfig dort drüben – oder seid Ihr nur hier, um zu plaudern?"</DefaultText>
+      <DefaultText>„Hallo, mein Freund“, sagt er. „Seid Ihr hier, um das Nychthemeron zu sehen – meinen Freund im Käfig dort drüben – oder seid Ihr nur hier, um zu plaudern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -393,12 +392,12 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Was ist ein Nychthemeron überhaupt?"</DefaultText>
+      <DefaultText>„Was ist ein Nychthemeron überhaupt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Hier ist Euer Geld."</DefaultText>
+      <DefaultText>„Hier ist Euer Geld.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -408,96 +407,96 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Ich möchte die Kreatur aus der Nähe sehen."</DefaultText>
+      <DefaultText>„Ich möchte die Kreatur aus der Nähe sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Ich habe es mir anders überlegt. Ich möchte die Kreatur aus der Nähe sehen."</DefaultText>
+      <DefaultText>„Ich habe es mir anders überlegt. Ich möchte die Kreatur aus der Nähe sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Eure Neugier spricht für Euch, mein Freund. Das kostet Euch lediglich [Global: a2101_NychthemeronPrice] Shin."
+      <DefaultText>„Eure Neugier spricht für Euch, mein Freund. Das kostet Euch lediglich [Global: a2101_NychthemeronPrice] Shin.“
 
 {GELD: Der Betrag sollte moderat sein: früh im Spiel erschwinglich, doch später ein Batzen Geld.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Das dachte ich mir", sagt El Jinto und verschränkt seine Arme mit einem schiefen Grinsen. "Das wären [Global: a2101_NychthemeronPrice] Shin, wie ich schon sagte."
+      <DefaultText>„Das dachte ich mir“, sagt El Jinto und verschränkt seine Arme mit einem schiefen Grinsen. „Das wären [Global: a2101_NychthemeronPrice] Shin, wie ich schon sagte.“
 
 {GELD: Gleicher Betrag wie in Knotenpunkt 80.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Es ist jeden Shin wert, versprochen", sagt er und steckt dein Eintrittsgeld ein. "Besucht unseren Gast, wann immer Ihr bereit seid."</DefaultText>
+      <DefaultText>„Es ist jeden Shin wert, versprochen“, sagt er und steckt dein Eintrittsgeld ein. „Besucht unseren Gast, wann immer Ihr bereit seid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Vergesst es."</DefaultText>
+      <DefaultText>„Vergesst es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Das ist zu viel. Ich bin der Einzige in der Warteschlange! Wie wäre es mit [Global: a2101_NychthemeronPriceDiscount] Shin?"
+      <DefaultText>„Das ist zu viel. Ich bin der Einzige in der Warteschlange! Wie wäre es mit [Global: a2101_NychthemeronPriceDiscount] Shin?“
 
 {GELD: Ein wesentlich attraktiverer Betrag als in Knotenpunkt 80.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>El Jinto mustert dich mit dem regungslosen Blick eines Glücksspielers und streicht sich mit einem gebrochenen Daumen über das Kinn. Schließlich lächelt er. 
+      <DefaultText>El Jinto mustert dich mit dem regungslosen Blick eines Glücksspielers und streicht sich mit einem gebrochenen Daumen über das Kinn. Schließlich lächelt er.
 
-"Immer schön, einen anderen Feilscher zu treffen", sagt er und nimmt dein Geld. "Besucht unseren Gast, wann immer Ihr bereit seid."</DefaultText>
+„Immer schön, einen anderen Feilscher zu treffen“, sagt er und nimmt dein Geld. „Besucht unseren Gast, wann immer Ihr bereit seid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Wir müssen unsere Ausgaben kompensieren, mein Freund", sagt er und schüttelt den Kopf in beinahe ehrlichem Bedauern. "Vorräte für unterwegs, Hammerreparaturen, Artefakt-Wiederherstellung, Käfiginstandhaltung und so weiter. Ich kann den Verkaufspreis nicht um einen einzigen Shin senken."</DefaultText>
+      <DefaultText>„Wir müssen unsere Ausgaben kompensieren, mein Freund“, sagt er und schüttelt den Kopf in beinahe ehrlichem Bedauern. „Vorräte für unterwegs, Hammerreparaturen, Artefakt-Wiederherstellung, Käfiginstandhaltung und so weiter. Ich kann den Verkaufspreis nicht um einen einzigen Shin senken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>El Jinto seufzt schwer. 
+      <DefaultText>El Jinto seufzt schwer.
 
-"Immer schön, einen anderen Feilscher zu treffen", sagt er mit einem müden Grinsen und nimmt Euer Geld. "Besucht unseren Gast, wann immer Ihr bereit seid."</DefaultText>
+„Immer schön, einen anderen Feilscher zu treffen“, sagt er mit einem müden Grinsen und nimmt Euer Geld. „Besucht unseren Gast, wann immer Ihr bereit seid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Nun, wenn Ihr der Einzige seid, der unseren Gast zu sehen wünscht, seid Ihr bereit, den höchsten Preis zu zahlen", sagt er und zwinkert. "Leuchtet ein."</DefaultText>
+      <DefaultText>„Nun, wenn Ihr der Einzige seid, der unseren Gast zu sehen wünscht, seid Ihr bereit, den höchsten Preis zu zahlen“, sagt er und zwinkert. „Leuchtet ein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Wir werden hier sein", sagt er und sein wissendes Lächeln lässt die Fältchen um seine Augen tanzen. "Wenn Ihr, nun ja, es Euch anders überlegt."</DefaultText>
+      <DefaultText>„Wir werden hier sein“, sagt er und sein wissendes Lächeln lässt die Fältchen um seine Augen tanzen. „Wenn Ihr, nun ja, es Euch anders überlegt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Eine biomechanische Einheit aus sturer Neugier und schäumender Bosheit", sagt er. "Wer auch immer sie geschaffen hat, kann keiner sagen, doch man kann ihnen weder trauen noch sich mit ihnen anfreunden. Kreuzt ihre Wege oder vereitelt ihre schleierhaften Launen, und sie werden Euch töten, wenn sie können."</DefaultText>
+      <DefaultText>„Eine biomechanische Einheit aus sturer Neugier und schäumender Bosheit“, sagt er. „Wer auch immer sie geschaffen hat, kann keiner sagen, doch man kann ihnen weder trauen noch sich mit ihnen anfreunden. Kreuzt ihre Wege oder vereitelt ihre schleierhaften Launen, und sie werden Euch töten, wenn sie können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ihr seht aus wie ein Geschichtenerzähler."</DefaultText>
+      <DefaultText>„Ihr seht aus wie ein Geschichtenerzähler.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Tu ich das?" Er streicht sich sichtlich geschmeichelt über das Kinn. "Nun, ich gestehe eine gewisse Leichtigkeit mit gesprochenen Worten, doch ich habe kein Talent für das Ausdenken von Fiktion, mein Freund. Für mich heißt es Wahrheit oder Stille."
+      <DefaultText>„Tu ich das?“ Er streicht sich sichtlich geschmeichelt über das Kinn. „Nun, ich gestehe eine gewisse Leichtigkeit mit gesprochenen Worten, doch ich habe kein Talent für das Ausdenken von Fiktion, mein Freund. Für mich heißt es Wahrheit oder Stille.“
 
-Der Ansatz eines Lächelns ist auf seinem gut verlebten Gesicht zu erkennen. "Glücklicherweise hatte ich ein seltsameres Leben als die meisten."</DefaultText>
+Der Ansatz eines Lächelns ist auf seinem gut verlebten Gesicht zu erkennen. „Glücklicherweise hatte ich ein seltsameres Leben als die meisten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Guten Abend, mein Freund", sagt er. "Und auch ein merkwürdiger Abend. Die Dunkelheit bricht normalerweise nicht so schnell herein."
+      <DefaultText>„Guten Abend, mein Freund“, sagt er. „Und auch ein merkwürdiger Abend. Die Dunkelheit bricht normalerweise nicht so schnell herein.“
 
-Er reibt sich mit einer Hand über das Kinn. "Seid Ihr hier, um das Nychthemeron zu sehen – meinen Freund im Käfig dort drüben – oder seid Ihr nur hier, um zu plaudern?"</DefaultText>
+Er reibt sich mit einer Hand über das Kinn. „Seid Ihr hier, um das Nychthemeron zu sehen – meinen Freund im Käfig dort drüben – oder seid Ihr nur hier, um zu plaudern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -507,12 +506,12 @@ Er reibt sich mit einer Hand über das Kinn. "Seid Ihr hier, um das Nychthemeron
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Ich habe einige Fragen zu Eurem Nychthemeron."</DefaultText>
+      <DefaultText>„Ich habe einige Fragen zu Eurem Nychthemeron.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Ich möchte Euch nochmal ein paar Fragen zum Nychthemeron stellen."</DefaultText>
+      <DefaultText>„Ich möchte Euch nochmal ein paar Fragen zum Nychthemeron stellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,34 +521,34 @@ Er reibt sich mit einer Hand über das Kinn. "Seid Ihr hier, um das Nychthemeron
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Er ist alles andere als 'meiner', mein Freund", sagt El Jinto mit einem rauen Glucksen. "Wie Ihr wahrscheinlich sehen werdet, wenn Ihr Euch seinem Käfig nähert."
+      <DefaultText>„Er ist alles andere als 'meiner', mein Freund“, sagt El Jinto mit einem rauen Glucksen. „Wie Ihr wahrscheinlich sehen werdet, wenn Ihr Euch seinem Käfig nähert.“
 
-Er tippt sich an den Hut. "Fahrt fort. Stellt Eure Fragen."</DefaultText>
+Er tippt sich an den Hut. „Fahrt fort. Stellt Eure Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Fragt, und meine Antworten werden die Euren sein."</DefaultText>
+      <DefaultText>„Fragt, und meine Antworten werden die Euren sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Interessant? Nun, das überlasse ich Euch, mein Freund. Was möchtet Ihr hören?"</DefaultText>
+      <DefaultText>„Interessant? Nun, das überlasse ich Euch, mein Freund. Was möchtet Ihr hören?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Schön, Euch wiederzusehen, mein Freund. Seid Ihr hier, um unseren Tentakel-Gast zu besuchen?"</DefaultText>
+      <DefaultText>„Schön, Euch wiederzusehen, mein Freund. Seid Ihr hier, um unseren Tentakel-Gast zu besuchen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Nur zu", sagt er. "Ich bin nicht in Eile."</DefaultText>
+      <DefaultText>„Nur zu“, sagt er. „Ich bin nicht in Eile.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Ich möchte etwas anderes wissen."</DefaultText>
+      <DefaultText>„Ich möchte etwas anderes wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -564,11 +563,11 @@ Er tippt sich an den Hut. "Fahrt fort. Stellt Eure Fragen."</DefaultText>
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Er nimmt die Kristallscherbe sehr vorsichtig in die Hand und wendet sie in seinen aufgesprungenen Händen hin und her. In der Stille nimmst du einen Hauch von Holzrauch wahr und bemerkst, dass seine Augen schiefergrau geworden sind.  
+      <DefaultText>Er nimmt die Kristallscherbe sehr vorsichtig in die Hand und wendet sie in seinen aufgesprungenen Händen hin und her. In der Stille nimmst du einen Hauch von Holzrauch wahr und bemerkst, dass seine Augen schiefergrau geworden sind.
 
-"Lebender Kristall", murmelt er schließlich. "Auf der Suche nach einem größeren Ganzen. Immer noch warm ... vielleicht am Leben, vielleicht denkend."
+„Lebender Kristall“, murmelt er schließlich. „Auf der Suche nach einem größeren Ganzen. Immer noch warm … vielleicht am Leben, vielleicht denkend.“
 
-Er gibt dir die Scherbe mit einem Anflug von Bedauern zurück. "Interessantes Stück Technologie, doch keine, über die ich viel weiß. Verzeiht, mein Freund. Versucht, jemand anderes zu fragen."</DefaultText>
+Er gibt dir die Scherbe mit einem Anflug von Bedauern zurück. „Interessantes Stück Technologie, doch keine, über die ich viel weiß. Verzeiht, mein Freund. Versucht, jemand anderes zu fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -578,150 +577,150 @@ Er gibt dir die Scherbe mit einem Anflug von Bedauern zurück. "Interessantes St
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Was habt Ihr mit dem Nychthemeron vor, wenn Ihr ihn nicht mehr zur Schau stellt?"</DefaultText>
+      <DefaultText>„Was habt Ihr mit dem Nychthemeron vor, wenn Ihr ihn nicht mehr zur Schau stellt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Was sagtet Ihr nochmal, beabsichtigt Ihr zu tun, nachdem Ihr die Kreatur nicht mehr zur Schau stellt?"</DefaultText>
+      <DefaultText>„Was sagtet Ihr nochmal, beabsichtigt Ihr zu tun, nachdem Ihr die Kreatur nicht mehr zur Schau stellt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Wir werden ihn wahrscheinlich freilassen und dann rennen, als wäre jede Dämonenart der Welt hinter uns her. Wir sind keine Fallensteller, wisst Ihr? Wir sind Forscher, und wir machen das nur, um ein paar Münzen für eine Reise durch ein weites Stück Land zu sparen."
+      <DefaultText>„Wir werden ihn wahrscheinlich freilassen und dann rennen, als wäre jede Dämonenart der Welt hinter uns her. Wir sind keine Fallensteller, wisst Ihr? Wir sind Forscher, und wir machen das nur, um ein paar Münzen für eine Reise durch ein weites Stück Land zu sparen.“
 
-Er reibt sich den Nacken. "Nicht, dass unsere Motive für unseren Gast einen großen Unterschied machen würden. Er wird unsere Haut kochen wollen, sobald wir ihn freilassen, und ich kann nicht sagen, dass ich es ihm verüble."</DefaultText>
+Er reibt sich den Nacken. „Nicht, dass unsere Motive für unseren Gast einen großen Unterschied machen würden. Er wird unsere Haut kochen wollen, sobald wir ihn freilassen, und ich kann nicht sagen, dass ich es ihm verüble.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Wir werden ihn freilassen. Natürlich weit weg von der Zivilisation. Wir können nicht zulassen, dass er die freundlichen Leute des Sagus-Protektorats in ihren Betten verbrennt."</DefaultText>
+      <DefaultText>„Wir werden ihn freilassen. Natürlich weit weg von der Zivilisation. Wir können nicht zulassen, dass er die freundlichen Leute des Sagus-Protektorats in ihren Betten verbrennt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>El Jinto nimmt das Gerät, das Beleazar Euch gab, und untersucht es grimmig. 
+      <DefaultText>El Jinto nimmt das Gerät, das Beleazar Euch gab, und untersucht es grimmig.
 
-"Der junge Idiot. Wir haben ihn schon mal erwischt, wie er am Käfig herumpfuschte, und ich dachte, ich hätte ihn verscheucht. Offensichtlich nicht."</DefaultText>
+„Der junge Idiot. Wir haben ihn schon mal erwischt, wie er am Käfig herumpfuschte, und ich dachte, ich hätte ihn verscheucht. Offensichtlich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Um Euch alle Abenteuer zu erzählen, die wir damals erlebt haben, würde ich beinahe genauso viele Jahre brauchen, wie ich schon am Leben bin. Wenn nicht mehr. Wenn das für Euch keinen Sinn ergibt, dann seit Ihr noch nicht weit in die Tiefen des Jenseits gereist. Einige der Ruinen dort liegen außerhalb der Zeit, und wir sahen ..."
+      <DefaultText>„Um Euch alle Abenteuer zu erzählen, die wir damals erlebt haben, würde ich beinahe genauso viele Jahre brauchen, wie ich schon am Leben bin. Wenn nicht mehr. Wenn das für Euch keinen Sinn ergibt, dann seit Ihr noch nicht weit in die Tiefen des Jenseits gereist. Einige der Ruinen dort liegen außerhalb der Zeit, und wir sahen …“
 
-Er schluckt und sammelt seine Gedanken. "Wir haben zahllose Orte nach Komponenten abgesucht, die ich für meine Falle brauchte – ja, diese, in der unser Gast gehalten wird – und wir reisten nach Osten, in die Uhr von Kala."</DefaultText>
+Er schluckt und sammelt seine Gedanken. „Wir haben zahllose Orte nach Komponenten abgesucht, die ich für meine Falle brauchte – ja, diese, in der unser Gast gehalten wird – und wir reisten nach Osten, in die Uhr von Kala.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Wir haben bestimmt ein Jahrzehnt damit verbracht, an den Berggipfeln nach den letzten Teilen für die Falle zu suchen", sagt er. "Endlich hörten wir von einem Gerücht – eine Horde Geister rannte gelegentlich durch die Lande von Augur-Kala. Sie führten Relikte mit sich und hinterließen eine verschmierte Realität. Dieses letzte Detail interessierte mich", sagt er mit erhobenem Finger.
+      <DefaultText>„Wir haben bestimmt ein Jahrzehnt damit verbracht, an den Berggipfeln nach den letzten Teilen für die Falle zu suchen“, sagt er. „Endlich hörten wir von einem Gerücht – eine Horde Geister rannte gelegentlich durch die Lande von Augur-Kala. Sie führten Relikte mit sich und hinterließen eine verschmierte Realität. Dieses letzte Detail interessierte mich“, sagt er mit erhobenem Finger.
 
-"Ich erschuf einen Apparat – eine Art Glocke – die die Aufmerksamkeit der Geister erregen würde. Und als sie kamen, stand Canadu dort, den Hammer in den Händen."</DefaultText>
+„Ich erschuf einen Apparat – eine Art Glocke – die die Aufmerksamkeit der Geister erregen würde. Und als sie kamen, stand Canadu dort, den Hammer in den Händen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Die Glocke zog sie an, wisst Ihr. Doch sie machte sie auch *realer*. Canadu watete durch die Geister und schlug sie nieder. Der Rest floh, doch wir hatten das Material gefunden, das ich für die Falle benötigte. Die Falle, die ich einsetzen würde, um einen Gott einzufangen."
+      <DefaultText>„Die Glocke zog sie an, wisst Ihr. Doch sie machte sie auch *realer*. Canadu watete durch die Geister und schlug sie nieder. Der Rest floh, doch wir hatten das Material gefunden, das ich für die Falle benötigte. Die Falle, die ich einsetzen würde, um einen Gott einzufangen.“
 
-Ein breites Lächeln zieht sich über sein Gesicht. "Unter Lhauric haust ein wahnsinniges Wesen, das die Opferung von Müttern, Vätern und Kindern fordert. Sobald wir unseren Gast hier freigelassen haben, werden wir mit dieser Falle heimkehren. Wir werden sie einsetzen, um einen Gott einzufangen, oder bei dem Versuch sterben."</DefaultText>
+Ein breites Lächeln zieht sich über sein Gesicht. „Unter Lhauric haust ein wahnsinniges Wesen, das die Opferung von Müttern, Vätern und Kindern fordert. Sobald wir unseren Gast hier freigelassen haben, werden wir mit dieser Falle heimkehren. Wir werden sie einsetzen, um einen Gott einzufangen, oder bei dem Versuch sterben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Eine weise Entscheidung", sagt er unbeirrt. "Eine übereilte Geschichte ist eine ruinierte Geschichte."</DefaultText>
+      <DefaultText>„Eine weise Entscheidung“, sagt er unbeirrt. „Eine übereilte Geschichte ist eine ruinierte Geschichte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Er holt tief Luft. 
+      <DefaultText>Er holt tief Luft.
 
-"Danke, dass Ihr Interesse an den Geschichten eines alten Mannes zeigt", sagt er. "Ich möchte mich revanchieren. Normalerweise verlangen wir ganz schön was für Besuche des Käfigs des Nychthemerons. Ihr, mein Freund, könnt ihn kostenlos sehen."
+„Danke, dass Ihr Interesse an den Geschichten eines alten Mannes zeigt“, sagt er. „Ich möchte mich revanchieren. Normalerweise verlangen wir ganz schön was für Besuche des Käfigs des Nychthemerons. Ihr, mein Freund, könnt ihn kostenlos sehen.“
 
 Er gibt Canadu ein kompliziertes Pfeifsignal. Der große Mann hebt seine Brauen, verdreht die Augen und nickt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Man könnte sagen, es war Glück", sagt er. "Doch etwas früh, um es 'gut' oder 'schlecht' zu nennen." Seine Augen suchen den Himmel ab.
+      <DefaultText>„Man könnte sagen, es war Glück“, sagt er. „Doch etwas früh, um es 'gut' oder 'schlecht' zu nennen.“ Seine Augen suchen den Himmel ab.
 
-"Ich hatte an der Falle gearbeitet, über die wir so viel gesprochen haben, in einem Tal zwischen einer namenlosen Ruine. Canadu war dabei, das Abendessen zu jagen, und ich arbeitete wie benommen. Das tue ich immer, wenn ich mich konzentriere." Ein Lächeln huscht über sein Gesicht. 
+„Ich hatte an der Falle gearbeitet, über die wir so viel gesprochen haben, in einem Tal zwischen einer namenlosen Ruine. Canadu war dabei, das Abendessen zu jagen, und ich arbeitete wie benommen. Das tue ich immer, wenn ich mich konzentriere.“ Ein Lächeln huscht über sein Gesicht.
 
-"Als sich der Sonnenuntergang näherte, war die Falle noch immer zerlegt, und ich hörte, wie Canadu meinen Namen brüllte. Ich drehte mich gerade noch rechtzeitig um, um zu sehen, wie unser Gast auf mich zustürzte."</DefaultText>
+„Als sich der Sonnenuntergang näherte, war die Falle noch immer zerlegt, und ich hörte, wie Canadu meinen Namen brüllte. Ich drehte mich gerade noch rechtzeitig um, um zu sehen, wie unser Gast auf mich zustürzte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Könnt Ihr mir Geschichten über Eure früheren Zeiten erzählen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir Geschichten über Eure früheren Zeiten erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Zu viele", sagt er glucksend. "Aber ich glaube, ich habe zu viele Worte für mich selbst verschwendet. Wenn Ihr noch immer Hunger auf neue Geschichten habt, verdient Canadu eine Runde. Fragt ihn nach seinem Hammer. Er allein verdient mehrere Epen."</DefaultText>
+      <DefaultText>„Zu viele“, sagt er glucksend. „Aber ich glaube, ich habe zu viele Worte für mich selbst verschwendet. Wenn Ihr noch immer Hunger auf neue Geschichten habt, verdient Canadu eine Runde. Fragt ihn nach seinem Hammer. Er allein verdient mehrere Epen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Passt auf Euch auf, mein Freund."</DefaultText>
+      <DefaultText>„Passt auf Euch auf, mein Freund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Passt auf Euch auf, mein Freund."</DefaultText>
+      <DefaultText>„Passt auf Euch auf, mein Freund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Ich möchte Euch etwas anderes fragen."</DefaultText>
+      <DefaultText>„Ich möchte Euch etwas anderes fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Fahrt fort. Fragt, und ich werde antworten."</DefaultText>
+      <DefaultText>„Fahrt fort. Fragt, und ich werde antworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Wartet. Ihr bezeichnet die Kreatur als 'er'. Ist sie männlich?"</DefaultText>
+      <DefaultText>„Wartet. Ihr bezeichnet die Kreatur als 'er'. Ist sie männlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Könnte sein. Könnte weiblich sein, oder ohne Geschlecht, oder mit vielen Geschlechtern. Wer kann das schon sagen? Ich habe unseren Freund eingefangen, und ich fühle mich besser damit, wenn ich ihn nicht 'es' nenne."</DefaultText>
+      <DefaultText>„Könnte sein. Könnte weiblich sein, oder ohne Geschlecht, oder mit vielen Geschlechtern. Wer kann das schon sagen? Ich habe unseren Freund eingefangen, und ich fühle mich besser damit, wenn ich ihn nicht 'es' nenne.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Er holt tief Luft und fügt hinzu: "Danke, dass Ihr Interesse an den Geschichten eines alten Mannes zeigt. Die meisten Leute wollen einfach nur die Bestie anstarren."</DefaultText>
+      <DefaultText>Er holt tief Luft und fügt hinzu: „Danke, dass Ihr Interesse an den Geschichten eines alten Mannes zeigt. Die meisten Leute wollen einfach nur die Bestie anstarren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Wie habt Ihr die Kreatur in die Stadt gebracht?"</DefaultText>
+      <DefaultText>„Wie habt Ihr die Kreatur in die Stadt gebracht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Ich möchte Euch etwas anderes fragen."</DefaultText>
+      <DefaultText>„Ich möchte Euch etwas anderes fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Eine gute Frage", sagt er und wirft einen müden Blick zurück auf den Käfig. "Doch eine lange Antwort, und nicht so interessant, wie ich es gerne hätte. Also sagen wir einfach, dass die Falle, äh, zusammenklappbarer ist als sie erscheint."</DefaultText>
+      <DefaultText>„Eine gute Frage“, sagt er und wirft einen müden Blick zurück auf den Käfig. „Doch eine lange Antwort, und nicht so interessant, wie ich es gerne hätte. Also sagen wir einfach, dass die Falle, äh, zusammenklappbarer ist als sie erscheint.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Unbedingt!"</DefaultText>
+      <DefaultText>„Unbedingt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,12 +745,12 @@ Er gibt Canadu ein kompliziertes Pfeifsignal. Der große Mann hebt seine Brauen,
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Ein Aeon-Priester namens Beleazar bat mich, ihm dabei zu helfen, den Nychthemeron zu stehlen."</DefaultText>
+      <DefaultText>„Ein Aeon-Priester namens Beleazar bat mich, ihm dabei zu helfen, den Nychthemeron zu stehlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Ein Aeon-Priester namens Beleazar bat mich, den Nychthemeron zu stehlen. Seht, er gab mir dieses Gerät."</DefaultText>
+      <DefaultText>„Ein Aeon-Priester namens Beleazar bat mich, den Nychthemeron zu stehlen. Seht, er gab mir dieses Gerät.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
