@@ -6,9 +6,9 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Beinahe jeder Zoll des Körpers dieses Kaufmanns ist mit stramm gewickelten Roben und Fellen bedeckt. Eine Haube verdeckt seinen Kopf und eine Maske verbirgt sein Gesicht. 
+      <DefaultText>Beinahe jeder Zoll des Körpers dieses Kaufmanns ist mit stramm gewickelten Roben und Fellen bedeckt. Eine Haube verdeckt seinen Kopf und eine Maske verbirgt sein Gesicht.
 
-Dies hält dich nicht davon ab, zu bemerken, dass er offensichtlich *wütend* auf dich ist. Bebend schlägt er auf seinen ähnlich gekleideten Begleiter ein. Beide wenden dir wieder ihre regungslosen Masken zu.  
+Dies hält dich nicht davon ab, zu bemerken, dass er offensichtlich *wütend* auf dich ist. Bebend schlägt er auf seinen ähnlich gekleideten Begleiter ein. Beide wenden dir wieder ihre regungslosen Masken zu.
 {GEORGE: Ich denke, das Volk dieser Charaktere könnte für die Worte von Qra verantwortlich sein. Du wirst sehen, was ich meine. Entweder das, oder (wie Colin vorgeschlagen hat) sie können irgendwie auf diese Inhalte reagieren. Colin hat eine [B]-Prioriät-Verbindung.}</DefaultText>
       <FemaleText />
     </Entry>
@@ -19,12 +19,12 @@ Dies hält dich nicht davon ab, zu bemerken, dass er offensichtlich *wütend* au
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Weder Falinda noch Steristi konnten es glauben, doch der Dieb war zurückgekehrt. War er in Schande gekommen, bereit, zurückzugeben, was er genommen hatte? Nein. Seine Hände waren leer, sein Ausdruck *verwirrt*." 
+      <DefaultText>„Weder Falinda noch Steristi konnten es glauben, doch der Dieb war zurückgekehrt. War er in Schande gekommen, bereit, zurückzugeben, was er genommen hatte? Nein. Seine Hände waren leer, sein Ausdruck *verwirrt*.“
 
-Falinda verschränkt ihre gewickelten Arme. "Vielleicht hatte der Dieb einfach vergessen, das zurückzubringen, was er ausgeliehen hatte. Doch das machte ihn nicht weniger zu einem Dieb."</DefaultText>
-      <FemaleText>"Weder Falinda noch Steristi konnten es glauben, doch die Diebin war zurückgekehrt. War sie in Schande gekommen, bereit, zurückzugeben, was sie genommen hatte? Nein. Ihre Hände waren leer, ihr Ausdruck *verwirrt*." 
+Falinda verschränkt ihre gewickelten Arme. „Vielleicht hatte der Dieb einfach vergessen, das zurückzubringen, was er ausgeliehen hatte. Doch das machte ihn nicht weniger zu einem Dieb.“</DefaultText>
+      <FemaleText>„Weder Falinda noch Steristi konnten es glauben, doch die Diebin war zurückgekehrt. War sie in Schande gekommen, bereit, zurückzugeben, was sie genommen hatte? Nein. Ihre Hände waren leer, ihr Ausdruck *verwirrt*.“
 
-Falinda verschränkt ihre gewickelten Arme. "Vielleicht hatte die Diebin einfach vergessen, das zurückzubringen, was sie ausgeliehen hatte. Doch das machte sie nicht weniger zu einer Diebin."</FemaleText>
+Falinda verschränkt ihre gewickelten Arme. „Vielleicht hatte die Diebin einfach vergessen, das zurückzubringen, was sie ausgeliehen hatte. Doch das machte sie nicht weniger zu einer Diebin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -33,28 +33,28 @@ Falinda verschränkt ihre gewickelten Arme. "Vielleicht hatte die Diebin einfach
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Wie sah das Buch aus?"</DefaultText>
+      <DefaultText>„Wie sah das Buch aus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Könnt Ihr mir nochmal beschreiben, wie das Buch aussieht?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir nochmal beschreiben, wie das Buch aussieht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Der Dieb kam zurück", sagt der Kaufmann. "Falinda wunderte sich warum, doch fragte nicht."</DefaultText>
+      <DefaultText>„Der Dieb kam zurück“, sagt der Kaufmann. „Falinda wunderte sich warum, doch fragte nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Sagte der Dieb, sich zierend und genau wissend, dass es ein großes Buch namens 'Der Band der singenden Dornen' war, gebunden im Fell unbekannter Tiere, und gebrandmarkt mit einem gezackten Symbol, das in fünf verschiedenen Farben aufgeteilt ist – Rot, Blau, Silber, Gold und Purpur."</DefaultText>
+      <DefaultText>„Sagte der Dieb, sich zierend und genau wissend, dass es ein großes Buch namens 'Der Band der singenden Dornen' war, gebunden im Fell unbekannter Tiere, und gebrandmarkt mit einem gezackten Symbol, das in fünf verschiedenen Farben aufgeteilt ist – Rot, Blau, Silber, Gold und Purpur.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Sagte der Dieb. Falinda erinnerte ihn daran, dass es ein großes, in Haut gebundenes Buch war, das man den Band der Singenden Dornen nannte."</DefaultText>
-      <FemaleText>"Sagte die Diebin. Falinda erinnerte sie daran, dass es ein großes, in Haut gebundenes Buch war, das man den Band der Singenden Dornen nannte."</FemaleText>
+      <DefaultText>„Sagte der Dieb. Falinda erinnerte ihn daran, dass es ein großes, in Haut gebundenes Buch war, das man den Band der Singenden Dornen nannte.“</DefaultText>
+      <FemaleText>„Sagte die Diebin. Falinda erinnerte sie daran, dass es ein großes, in Haut gebundenes Buch war, das man den Band der Singenden Dornen nannte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -63,14 +63,14 @@ Falinda verschränkt ihre gewickelten Arme. "Vielleicht hatte die Diebin einfach
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Hier ist der Band der singenden Dornen."</DefaultText>
+      <DefaultText>„Hier ist der Band der singenden Dornen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Falinda riss dem Dieb das Buch aus den Händen", sagt der Kaufmann, während er die Bewegung nachahmt. "Und ja, es war das gleiche Buch. Noch immer versiegelt. Noch immer wertlos. Noch immer unschätzbar."
+      <DefaultText>„Falinda riss dem Dieb das Buch aus den Händen“, sagt der Kaufmann, während er die Bewegung nachahmt. „Und ja, es war das gleiche Buch. Noch immer versiegelt. Noch immer wertlos. Noch immer unschätzbar.“
 
-Der Kaufmann fährt einen langen, ruhigen Moment lang über das Siegel auf dem Buchdeckel. "Als Belohnung lud Falinda den Dieb ... den *Kunden* ein, als Zahlung eines der *schäbigeren* Bücher des Kaufmanns zu nehmen – ja, zu nehmen. Der Lagerplatz war immerhin begrenzt, und der Kunde würde Falinda und Steristi damit einen Gefallen tun."
+Der Kaufmann fährt einen langen, ruhigen Moment lang über das Siegel auf dem Buchdeckel. „Als Belohnung lud Falinda den Dieb … den *Kunden* ein, als Zahlung eines der *schäbigeren* Bücher des Kaufmanns zu nehmen – ja, zu nehmen. Der Lagerplatz war immerhin begrenzt, und der Kunde würde Falinda und Steristi damit einen Gefallen tun.“
 
 Du lehnst dich vor, um Falindas Bücherregal zu untersuchen.</DefaultText>
       <FemaleText />
@@ -82,83 +82,83 @@ Du lehnst dich vor, um Falindas Bücherregal zu untersuchen.</DefaultText>
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Falinda kehrte zur anstehenden Arbeit zurück."</DefaultText>
+      <DefaultText>„Falinda kehrte zur anstehenden Arbeit zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Erzählt Ihr über mich?"</DefaultText>
+      <DefaultText>„Erzählt Ihr über mich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ich habe nichts von Euch ausgeliehen."</DefaultText>
+      <DefaultText>„Ich habe nichts von Euch ausgeliehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ihr müsst den, äh, vorherigen Bewohner dieses Körpers getroffen haben. Was nahm er mit?"</DefaultText>
-      <FemaleText>"Ihr müsst den, äh, vorherigen Bewohner dieses Körpers getroffen haben. Was nahm sie mit?"</FemaleText>
+      <DefaultText>„Ihr müsst den, äh, vorherigen Bewohner dieses Körpers getroffen haben. Was nahm er mit?“</DefaultText>
+      <FemaleText>„Ihr müsst den, äh, vorherigen Bewohner dieses Körpers getroffen haben. Was nahm sie mit?“</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Sagte der Dieb und versuchte, Falinda von dieser Angelegenheit abzulenken. Doch der Kaufmann würde sich nicht ablenken lassen."</DefaultText>
+      <DefaultText>„Sagte der Dieb und versuchte, Falinda von dieser Angelegenheit abzulenken. Doch der Kaufmann würde sich nicht ablenken lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Der Dieb protestierte, doch Falinda war nicht überzeugt. Die Erinnerungen des Kaufmanns waren selbst wie ein Bücherregal organisiert, und er erinnerte sich an dieses Gesicht, verzerrt vor Verlangen nach dem fraglichen Buch. Er erinnerte sich an die gleiche Stimme, die Versprechungen machte, die sie offensichtlich nicht einzuhalten gedachte."</DefaultText>
+      <DefaultText>„Der Dieb protestierte, doch Falinda war nicht überzeugt. Die Erinnerungen des Kaufmanns waren selbst wie ein Bücherregal organisiert, und er erinnerte sich an dieses Gesicht, verzerrt vor Verlangen nach dem fraglichen Buch. Er erinnerte sich an die gleiche Stimme, die Versprechungen machte, die sie offensichtlich nicht einzuhalten gedachte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Fragte der Dieb. Falinda zögerte, doch nur für einen Moment. Die Erinnerungen des Kaufmanns waren selbst wie ein Bücherregal organisiert, und er erinnerte sich an dieses Gesicht, verzerrt vor Verlangen nach dem fraglichen Buch. Er erinnerte sich an die gleiche Stimme, die Versprechungen machte, die sie offensichtlich nicht einzuhalten gedachte."</DefaultText>
+      <DefaultText>„Fragte der Dieb. Falinda zögerte, doch nur für einen Moment. Die Erinnerungen des Kaufmanns waren selbst wie ein Bücherregal organisiert, und er erinnerte sich an dieses Gesicht, verzerrt vor Verlangen nach dem fraglichen Buch. Er erinnerte sich an die gleiche Stimme, die Versprechungen machte, die sie offensichtlich nicht einzuhalten gedachte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Vor zehn Jahren hatte dieser Dieb ein Buch *ausgeliehen*. Falinda fragte sich, ob der Schuft möglicherweise die Definition des Wortes nicht kannte. Immerhin bedeutete es nicht, eine Sache zu nehmen und zu behalten."
+      <DefaultText>„Vor zehn Jahren hatte dieser Dieb ein Buch *ausgeliehen*. Falinda fragte sich, ob der Schuft möglicherweise die Definition des Wortes nicht kannte. Immerhin bedeutete es nicht, eine Sache zu nehmen und zu behalten.“
 
-Steristi widmet sich bewusst wieder der Arbeit zu und ignoriert euch beide. Falinda seufzt, reibt sich mit behandschuhten Händen die Schläfen. "Doch am Ende nahm Falinda einen tiefen, *tiefen* Atemzug und bat den Dieb, das versiegelte und lange überfällige Buch mit dem fünffarbigen Siegel auf seinem Deckel einfach zurückzugeben."</DefaultText>
+Steristi widmet sich bewusst wieder der Arbeit zu und ignoriert euch beide. Falinda seufzt, reibt sich mit behandschuhten Händen die Schläfen. „Doch am Ende nahm Falinda einen tiefen, *tiefen* Atemzug und bat den Dieb, das versiegelte und lange überfällige Buch mit dem fünffarbigen Siegel auf seinem Deckel einfach zurückzugeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich werde das Buch finden. Ihr habt mein Wort."</DefaultText>
+      <DefaultText>„Ich werde das Buch finden. Ihr habt mein Wort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ich kann nichts versprechen, doch ich werde danach suchen."</DefaultText>
+      <DefaultText>„Ich kann nichts versprechen, doch ich werde danach suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Dafür habe ich keine Zeit."</DefaultText>
+      <DefaultText>„Dafür habe ich keine Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Erklärte der Dieb, und Falinda war zufrieden. Vorerst."
+      <DefaultText>„Erklärte der Dieb, und Falinda war zufrieden. Vorerst.“
 
 Und damit kehrt auch der Kaufmann wieder an die Arbeit zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Murmelte der Dieb beschämt. Doch Falinda war zufrieden. Vorerst."
+      <DefaultText>„Murmelte der Dieb beschämt. Doch Falinda war zufrieden. Vorerst.“
 
 Und damit kehrt auch der Kaufmann wieder an die Arbeit zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Schnappte der Dieb, doch Falinda wusste, er würde die Bitte in Betracht ziehen, denn sie war vernünftig."</DefaultText>
+      <DefaultText>„Schnappte der Dieb, doch Falinda wusste, er würde die Bitte in Betracht ziehen, denn sie war vernünftig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,40 +168,40 @@ Und damit kehrt auch der Kaufmann wieder an die Arbeit zurück.</DefaultText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Warum erzählt Ihr alles nach, was ich sage?"</DefaultText>
+      <DefaultText>„Warum erzählt Ihr alles nach, was ich sage?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Warum sagt Ihr mir nicht, warum Ihr alles nacherzählt, was ich sage?"</DefaultText>
+      <DefaultText>„Warum sagt Ihr mir nicht, warum Ihr alles nacherzählt, was ich sage?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Sagte der Dieb, doch Falinda wusste aus langer Erfahrung, dass es nicht erklärt werden konnte." Der Kaufmann kniet vor einem Bücherregal und schiebt Buch um Buch in die verbleibenden Zwischenräume. 
+      <DefaultText>„Sagte der Dieb, doch Falinda wusste aus langer Erfahrung, dass es nicht erklärt werden konnte.“ Der Kaufmann kniet vor einem Bücherregal und schiebt Buch um Buch in die verbleibenden Zwischenräume.
 
-"Dies frustrierte Falinda. Immerhin waren die beiden Kaufleute Kreaturen des Wortes, gebunden in Metall und Stoff, doch wann immer Falinda versuchte, dieselben Worte in Erklärungen und Antworten zu biegen, zerbröckelten sie und fielen sie auseinander. Sie konnten sich nicht um die Wahrheit wickeln."
+„Dies frustrierte Falinda. Immerhin waren die beiden Kaufleute Kreaturen des Wortes, gebunden in Metall und Stoff, doch wann immer Falinda versuchte, dieselben Worte in Erklärungen und Antworten zu biegen, zerbröckelten sie und fielen sie auseinander. Sie konnten sich nicht um die Wahrheit wickeln.“
 
-Der Kaufmann rammt ein letztes Buch an seinen Platz. "Und daher sagte Falinda nichts."</DefaultText>
+Der Kaufmann rammt ein letztes Buch an seinen Platz. „Und daher sagte Falinda nichts.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Bat der Dieb inständig. Er verstand noch immer nicht, dass Falinda *nicht* sprach. Dass das, was der Dieb hörte, der Lauf der Zeit war."</DefaultText>
+      <DefaultText>„Bat der Dieb inständig. Er verstand noch immer nicht, dass Falinda *nicht* sprach. Dass das, was der Dieb hörte, der Lauf der Zeit war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Die Erinnerung wickelt Ranken mit Widerhaken um den Dieb", fährt Falinda fort, und es ist wahr. Eine Erinnerung umschließt dich. Der Kaufmann lehnt sich interessiert nach vorne. "Und *jetzt* erinnert er sich an den Tag vor zehn Jahren, als er für das Buch kam ..."</DefaultText>
+      <DefaultText>„Die Erinnerung wickelt Ranken mit Widerhaken um den Dieb“, fährt Falinda fort, und es ist wahr. Eine Erinnerung umschließt dich. Der Kaufmann lehnt sich interessiert nach vorne. „Und *jetzt* erinnert er sich an den Tag vor zehn Jahren, als er für das Buch kam …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Frost brennt in deinen Nasenlöchern, als du auf das Buch in den Händen der Kreatur schaust. Du dachtest, es sei im Feuer verloren, doch hier ist es.
 
-"Ich habe dieses Buch geschrieben", murrst du. "I-ich kann mich nicht erinnern, was *darin* steht, doch es ist meins. Ich möchte es nicht ausleihen. Ich möchte es *zurückhaben*."
+„Ich habe dieses Buch geschrieben“, murrst du. „I-ich kann mich nicht erinnern, was *darin* steht, doch es ist meins. Ich möchte es nicht ausleihen. Ich möchte es *zurückhaben*.“
 
-"Und trotzdem wusste der Kunde, dass ein Buch, sobald es verloren ist, jedem gehört", sagt Falinda sanft. "Und daher würde der Kunde sich damit begnügen, das Buch auszuleihen. Für eine kleine Weile."</DefaultText>
+„Und trotzdem wusste der Kunde, dass ein Buch, sobald es verloren ist, jedem gehört“, sagt Falinda sanft. „Und daher würde der Kunde sich damit begnügen, das Buch auszuleihen. Für eine kleine Weile.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,72 +211,72 @@ Der Kaufmann rammt ein letztes Buch an seinen Platz. "Und daher sagte Falinda ni
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Zwei Wochen und ein Tag in den Lustwagen von Ossams reisender Menagerie und schwebendem Zirkus."</DefaultText>
+      <DefaultText>„Zwei Wochen und ein Tag in den Lustwagen von Ossams reisender Menagerie und schwebendem Zirkus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Angule und das große Ganze: Aufstieg der angulischen Ritter."</DefaultText>
+      <DefaultText>„Angule und das große Ganze: Aufstieg der angulischen Ritter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Summen und Verstecken – Die Geheimnisse des Labyrinths des Klangs."</DefaultText>
+      <DefaultText>„Summen und Verstecken – Die Geheimnisse des Labyrinths des Klangs.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Bekannte Mächte – Eine historische Untersuchung der Herrscher der Neunten Welt."</DefaultText>
+      <DefaultText>„Bekannte Mächte – Eine historische Untersuchung der Herrscher der Neunten Welt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ehrlich, es würde mich beschämen, ein weiteres Buch von Euch zu nehmen."</DefaultText>
+      <DefaultText>„Ehrlich, es würde mich beschämen, ein weiteres Buch von Euch zu nehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Die Überraschung verbergend übergab Falinda das Buch. Geschichten lustvoller Hingabe schienen kaum dem Geschmack des Kunden zu entsprechen."{BEUTE}</DefaultText>
+      <DefaultText>„Die Überraschung verbergend übergab Falinda das Buch. Geschichten lustvoller Hingabe schienen kaum dem Geschmack des Kunden zu entsprechen.“{BEUTE}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Falinda übergab das Buch. Der Kaufmann selbst hielt es für Müll, doch alles war es wert, gelesen zu werden, zumindest einmal." 
+      <DefaultText>„Falinda übergab das Buch. Der Kaufmann selbst hielt es für Müll, doch alles war es wert, gelesen zu werden, zumindest einmal.“
 {BEUTE}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Falinda übergab freudig das Buch. Das Labyrinth des Klangs war in der Tat ein faszinierendes Thema."
+      <DefaultText>„Falinda übergab freudig das Buch. Das Labyrinth des Klangs war in der Tat ein faszinierendes Thema.“
 {BEUTE}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Falinda übergab das Buch und fügte hinzu, dass die Kapitel über die Vermächtnisse der einzelnen Herrscher besonders faszinierend waren."
+      <DefaultText>„Falinda übergab das Buch und fügte hinzu, dass die Kapitel über die Vermächtnisse der einzelnen Herrscher besonders faszinierend waren.“
 {BEUTE}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Gab der Kunde zu, und Falinda respektierte ihn dafür", sagt der Kaufmann herzlich. "Der Kaufmann dankte ihm erneut."</DefaultText>
+      <DefaultText>„Gab der Kunde zu, und Falinda respektierte ihn dafür“, sagt der Kaufmann herzlich. „Der Kaufmann dankte ihm erneut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Und damit kehrte der Dieb in die Gegenwart zurück, schwankend und verwirrt", sagt Falinda, die maskierte Wange auf eine behandschuhte Hand gestützt. "Der Kaufmann fragte sich kurz, welche Erinnerungen den Dieb entführt hatten, doch das Schnüffeln in den Geheimnissen anderer brachte nichts Gutes."</DefaultText>
+      <DefaultText>„Und damit kehrte der Dieb in die Gegenwart zurück, schwankend und verwirrt“, sagt Falinda, die maskierte Wange auf eine behandschuhte Hand gestützt. „Der Kaufmann fragte sich kurz, welche Erinnerungen den Dieb entführt hatten, doch das Schnüffeln in den Geheimnissen anderer brachte nichts Gutes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Wie könnt Ihr Euch nur daran erinnern, wer vor zehn Jahren ein Buch von Euch ausgeliehen hat?"</DefaultText>
+      <DefaultText>„Wie könnt Ihr Euch nur daran erinnern, wer vor zehn Jahren ein Buch von Euch ausgeliehen hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Sagte der schlaue Dieb, in der Hoffnung, Zweifel in Falindas Geist zu säen. Doch die Hoffnung war töricht. Falinda *war* Erinnerung, auf die gleiche Weise, wie der Dieb Fettgewebe, Flüssigkeit und Kalziumstücke war."
+      <DefaultText>„Sagte der schlaue Dieb, in der Hoffnung, Zweifel in Falindas Geist zu säen. Doch die Hoffnung war töricht. Falinda *war* Erinnerung, auf die gleiche Weise, wie der Dieb Fettgewebe, Flüssigkeit und Kalziumstücke war.“
 
-Der Kaufmann verschränkt die Arme. "Falinda verlor die Geduld. Hatte der Dieb vor, das Buch zurückzugeben, oder nicht?"</DefaultText>
+Der Kaufmann verschränkt die Arme. „Falinda verlor die Geduld. Hatte der Dieb vor, das Buch zurückzugeben, oder nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,39 +291,39 @@ Der Kaufmann verschränkt die Arme. "Falinda verlor die Geduld. Hatte der Dieb v
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Ein Leser nach meinem Herzen."</DefaultText>
+      <DefaultText>„Ein Leser nach meinem Herzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Sagte der Begleiter des Diebes und fragte sich, ob Falinda unter diesen schweren Roben nackt war", sagt Falinda seufzend.</DefaultText>
+      <DefaultText>„Sagte der Begleiter des Diebes und fragte sich, ob Falinda unter diesen schweren Roben nackt war“, sagt Falinda seufzend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
       <DefaultText>Tybir zwinkert, dann wendet er sich zu dir.
 
-"Schuldig", sagt er schulterzuckend.</DefaultText>
+„Schuldig“, sagt er schulterzuckend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Griesgrämiger Haufen, die Angulaner", sagt Tybir, und sein Gesicht ist eine Maske ernster Missbilligung. "Und auch mörderisch, wenn dein Körper die falsche Form hat. Sie sind der Grund, weshalb ich mich schäme, ein Mensch zu sein."</DefaultText>
+      <DefaultText>„Griesgrämiger Haufen, die Angulaner“, sagt Tybir, und sein Gesicht ist eine Maske ernster Missbilligung. „Und auch mörderisch, wenn dein Körper die falsche Form hat. Sie sind der Grund, weshalb ich mich schäme, ein Mensch zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Ich würde das gerne ausleihen, wenn Ihr damit durch seid", sagt Tybir und streicht sich über das Kinn. "Es klingt *faszinierend*."</DefaultText>
+      <DefaultText>„Ich würde das gerne ausleihen, wenn Ihr damit durch seid“, sagt Tybir und streicht sich über das Kinn. „Es klingt *faszinierend*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Das klingt *wirklich* faszinierend", stimmt Tybir zu und betrachtet den Kaufmann mit Interesse. "Ihr habt einen feinen Geschmack für Bücher."</DefaultText>
+      <DefaultText>„Das klingt *wirklich* faszinierend“, stimmt Tybir zu und betrachtet den Kaufmann mit Interesse. „Ihr habt einen feinen Geschmack für Bücher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Falinda hieß den Kunden erneut willkommen", sagt Falinda nickend.</DefaultText>
+      <DefaultText>„Falinda hieß den Kunden erneut willkommen“, sagt Falinda nickend.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
