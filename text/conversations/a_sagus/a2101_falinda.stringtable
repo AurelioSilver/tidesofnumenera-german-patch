@@ -260,7 +260,7 @@ Der Kaufmann rammt ein letztes Buch an seinen Platz. "Und daher sagte Falinda ni
     <Entry>
       <ID>47</ID>
       <DefaultText>"Gab der Kunde zu, und Falinda respektierte ihn dafür", sagt der Kaufmann herzlich. "Der Kaufmann dankte ihm erneut."</DefaultText>
-      <FemaleText>"Gab der Kunde zu, und Falinda respektierte ihn dafür", sagt der Kaufmann herzlich. "Der Kaufmann dankte ihm erneut."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -324,7 +324,7 @@ Der Kaufmann verschränkt die Arme. "Falinda verlor die Geduld. Hatte der Dieb v
     <Entry>
       <ID>62</ID>
       <DefaultText>"Falinda hieß den Kunden erneut willkommen", sagt Falinda nickend.</DefaultText>
-      <FemaleText>"Falinda hieß den Kunden erneut willkommen", sagt Falinda nickend.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
