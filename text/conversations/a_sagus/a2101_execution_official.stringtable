@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Ein untersetzter Mann mittleren Alters steht oben auf der Hinrichtungsplattform. Er trägt das Abzeichen eines städtischen Beamten, und seinen ansonsten kahlen Schädel ziert ein Zopf aus verfilztem Haar, der bis zu seinen Schultern reicht. Er wirft dir einen uninteressierten Blick zu, als du dich näherst. "Bitte bleibt bei den anderen zurück."</DefaultText>
-      <FemaleText>Ein untersetzter Mann mittleren Alters steht oben auf der Hinrichtungsplattform. Er trägt das Abzeichen eines städtischen Beamten, und seinen ansonsten kahlen Schädel ziert ein Zopf aus verfilztem Haar, der bis zu seinen Schultern reicht. Er wirft dir einen uninteressierten Blick zu, als du dich näherst. "Bitte bleibt bei den anderen zurück."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -168,12 +168,12 @@
     <Entry>
       <ID>33</ID>
       <DefaultText>"Guten Tag. Äh, gute Nacht. Äh..."</DefaultText>
-      <FemaleText>"Guten Tag. Äh, gute Nacht. Äh..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>"Einen guten Tag."</DefaultText>
-      <FemaleText>"Einen guten Tag."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -588,7 +588,7 @@ Er greift in seine Robe und holt ein kleines Bündel hervor. "Und hier sind sein
     <Entry>
       <ID>123</ID>
       <DefaultText>"Wer seid Ihr noch mal?"</DefaultText>
-      <FemaleText>"Wer seid Ihr noch mal?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
