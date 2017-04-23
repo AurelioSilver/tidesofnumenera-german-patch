@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Der Käfig, in dem die Kreatur schwebt, ist ein einfacher Rahmen, der einen glänzenden, beinahe transparenten Zylinder aus Energie enthält. Ein leises, kaum hörbares Summen fährt dir in die Glieder. Der Behälter ist eine feine Filigranarbeit aus kunstvollen Materialien ohne offensichtliche Steuerung ... doch sicherlich müssen sie irgendwo in den Verflechtungen und Vorwölbungen des Gestells stecken.</DefaultText>
+      <DefaultText>Der Käfig, in dem die Kreatur schwebt, ist ein einfacher Rahmen, der einen glänzenden, beinahe transparenten Zylinder aus Energie enthält. Ein leises, kaum hörbares Summen fährt dir in die Glieder. Der Behälter ist eine feine Filigranarbeit aus kunstvollen Materialien ohne offensichtliche Steuerung … doch sicherlich müssen sie irgendwo in den Verflechtungen und Vorwölbungen des Gestells stecken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18,17 +18,17 @@ Selbst als du zusiehst, schnellt einer ihrer Tentakel zurück und sprengt wüten
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Die schwebende Kreatur wendet sich dir zu, und einige der knorrigen Vorsprünge drehen und erweitern sich wie Augen. Eine mechanische, flache Stimme geht von der Kugel an der Unterseite der Kreatur aus, als sie Euch beäugt. "Menschliche Erscheinung. Künstliches biologisches Konstrukt. Molekularstruktur: primär Kohlenstoff. Anfrage: Verlangen Menschen nach Freiheit?"</DefaultText>
+      <DefaultText>Die schwebende Kreatur wendet sich dir zu, und einige der knorrigen Vorsprünge drehen und erweitern sich wie Augen. Eine mechanische, flache Stimme geht von der Kugel an der Unterseite der Kreatur aus, als sie Euch beäugt. „Menschliche Erscheinung. Künstliches biologisches Konstrukt. Molekularstruktur: primär Kohlenstoff. Anfrage: Verlangen Menschen nach Freiheit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Akzeptiert. Daten werden benötigt. Anfrage: Warum streben Menschen nach Unsterblichkeit?"</DefaultText>
+      <DefaultText>„Akzeptiert. Daten werden benötigt. Anfrage: Warum streben Menschen nach Unsterblichkeit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Mensch kehrt zurück. Dieser bleibt versklavt. Doch Terminierung wurde verhindert. Pläne vereitelt. Absicht des Menschen wurde bedient. Daten nicht weiter erforderlich."
+      <DefaultText>„Mensch kehrt zurück. Dieser bleibt versklavt. Doch Terminierung wurde verhindert. Pläne vereitelt. Absicht des Menschen wurde bedient. Daten nicht weiter erforderlich.“
 
 Es wendet sich ab und weigert sich, weitere Fragen zu beantworten.</DefaultText>
       <FemaleText />
@@ -40,7 +40,7 @@ Es wendet sich ab und weigert sich, weitere Fragen zu beantworten.</DefaultText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Daten gesammelt. Zusammengestellt. Anfrage: Wird der Mensch diesem hier bei der Flucht helfen? Mensch mit Bezeichnung Beleazar plant, diesen hier zu terminieren. Beabsichtigt, ihn mittels Partikelzersetzung und Rekonstruktion zu transportieren und anschließend für Einzelteile auseinanderzunehmen. Terminierung liegt außerhalb der Parameter. Mensch: Stelle Freiheit zur Verfügung. Finde Transportgerät von Mensch mit Bezeichnung Beleazar, kehre anschließend zurück für Neuprogrammierung."</DefaultText>
+      <DefaultText>„Daten gesammelt. Zusammengestellt. Anfrage: Wird der Mensch diesem hier bei der Flucht helfen? Mensch mit Bezeichnung Beleazar plant, diesen hier zu terminieren. Beabsichtigt, ihn mittels Partikelzersetzung und Rekonstruktion zu transportieren und anschließend für Einzelteile auseinanderzunehmen. Terminierung liegt außerhalb der Parameter. Mensch: Stelle Freiheit zur Verfügung. Finde Transportgerät von Mensch mit Bezeichnung Beleazar, kehre anschließend zurück für Neuprogrammierung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,9 +50,9 @@ Es wendet sich ab und weigert sich, weitere Fragen zu beantworten.</DefaultText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Bringe Gerät näher. Betrachte formbare Eigenschaften. Verdrehe verwinkelte Vorwölbung auf richtigen Winkel. Verbiege Antenne, um Gerät zu berühren." Es führt dich durch weitere Anweisungen, seine Stimme bleibt geduldig, flach und ohne Eile. Als du schließlich fertig bist, spricht es wieder.
+      <DefaultText>„Bringe Gerät näher. Betrachte formbare Eigenschaften. Verdrehe verwinkelte Vorwölbung auf richtigen Winkel. Verbiege Antenne, um Gerät zu berühren.“ Es führt dich durch weitere Anweisungen, seine Stimme bleibt geduldig, flach und ohne Eile. Als du schließlich fertig bist, spricht es wieder.
 
-"Direktive: Betrachte Eindämmungssystem. Bringe Gerät an, um Zone zu kontrollieren."
+„Direktive: Betrachte Eindämmungssystem. Bringe Gerät an, um Zone zu kontrollieren.“
 
 Du richtest deine Aufmerksamkeit auf den Käfig der Kreatur.</DefaultText>
       <FemaleText />
@@ -79,8 +79,8 @@ Du richtest deine Aufmerksamkeit auf den Käfig der Kreatur.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"He da! Kein kostenloses Glotzen! Bezahlt El Jinto oder zieht ab!" Er blickt dich finster an, seine Hand greift nach seinem Hammer, bis du vom Käfig zurücktrittst.</DefaultText>
-      <FemaleText>"He da! Kein kostenloses Glotzen! Bezahlt El Jinto oder zieht ab!" Er blickt dich finster an, seine Hand greift nach seinem Hammer, bis du vom Käfig zurücktrittst.</FemaleText>
+      <DefaultText>„He da! Kein kostenloses Glotzen! Bezahlt El Jinto oder zieht ab!“ Er blickt dich finster an, seine Hand greift nach seinem Hammer, bis du vom Käfig zurücktrittst.</DefaultText>
+      <FemaleText>„He da! Kein kostenloses Glotzen! Bezahlt El Jinto oder zieht ab!“ Er blickt dich finster an, seine Hand greift nach seinem Hammer, bis du vom Käfig zurücktrittst.</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -89,27 +89,27 @@ Du richtest deine Aufmerksamkeit auf den Käfig der Kreatur.</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Keine kostenlosen Sichtungen, habe ich gesagt."</DefaultText>
+      <DefaultText>„Keine kostenlosen Sichtungen, habe ich gesagt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ich will verflucht sein, ehe ich zulasse, dass jemand uns bestiehlt."</DefaultText>
+      <DefaultText>„Ich will verflucht sein, ehe ich zulasse, dass jemand uns bestiehlt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Was bist du?"</DefaultText>
+      <DefaultText>„Was bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Wie bist du hierhergekommen?"</DefaultText>
+      <DefaultText>„Wie bist du hierhergekommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Was kannst du mir über diesen Ort sagen?"</DefaultText>
+      <DefaultText>„Was kannst du mir über diesen Ort sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@ Die Wände des Käfigs verdunkeln sich sofort, und als sie sich wieder erhellen,
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Erinnerst du dich an mich?"</DefaultText>
+      <DefaultText>„Erinnerst du dich an mich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -183,7 +183,7 @@ Die Wände des Käfigs verdunkeln sich sofort, und als sie sich wieder erhellen,
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Der vernarbte Glaive schlendert zu dir. "Versucht Ihr, mit diesem Ding zu reden? Es ist nur bei Nacht ruhig, und dann ist es so höflich, wie es sein kann." Er streicht über einer seiner frischeren Narben. "Am Tag jedoch will es Euch am liebsten zu Asche sprengen."
+      <DefaultText>Der vernarbte Glaive schlendert zu dir. „Versucht Ihr, mit diesem Ding zu reden? Es ist nur bei Nacht ruhig, und dann ist es so höflich, wie es sein kann.“ Er streicht über einer seiner frischeren Narben. „Am Tag jedoch will es Euch am liebsten zu Asche sprengen.“
 
 Er flaniert an seine ursprüngliche Position zurück, die Daumen in den Gürtel gesteckt, während die Augen die Menge absuchen.</DefaultText>
       <FemaleText />
@@ -219,12 +219,12 @@ Nach genauerer Untersuchung entdeckst du eine kleine Platte, die raffiniert in d
       <ID>43</ID>
       <DefaultText>Du bringst Beleazars Gerät neben der abgenutzten Platte am Käfig an. Beine treten hervor und bilden die Form und Textur des Käfigmaterials. Lichter flimmern der Länge nach hoch und runter. 
 
-Du trittst langsam einen Schritt von dem Käfig zurück, während die Lichter schneller und anhaltender werden. Das Lichtspiel auf dem Käfig endet genauso plötzlich, wie es angefangen hat, doch der Nychthemeron fängt darin an zu glühen. Die Farben seiner Haut gleiten das Spektrum entlang ... und er löst sich von außen nach innen auf.</DefaultText>
+Du trittst langsam einen Schritt von dem Käfig zurück, während die Lichter schneller und anhaltender werden. Das Lichtspiel auf dem Käfig endet genauso plötzlich, wie es angefangen hat, doch der Nychthemeron fängt darin an zu glühen. Die Farben seiner Haut gleiten das Spektrum entlang … und er löst sich von außen nach innen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Du rückst näher an den Käfig und versuchst, den Teleporter dort zu anzubringen, wo du die Steuerungsplatte vermutest ... doch du verschätzt dich bei der Position und der Käfig gibt ein dumpfes Summen von sich, als das Gerät vergeblich versucht, sich damit zu verbinden.
+      <DefaultText>Du rückst näher an den Käfig und versuchst, den Teleporter dort zu anzubringen, wo du die Steuerungsplatte vermutest … doch du verschätzt dich bei der Position und der Käfig gibt ein dumpfes Summen von sich, als das Gerät vergeblich versucht, sich damit zu verbinden.
 
 Canadus Kopf wirbelt bei dem Geräusch herum und er sieht, wie du versuchst, das Gerät anzubringen.</DefaultText>
       <FemaleText />
@@ -240,83 +240,83 @@ Lichter flimmern auf dem neu angebrachten Steuerungsgerät der Länge nach hoch 
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Ihr rückt näher an den Käfig und versucht, den Teleporter dort zu anzubringen, wo Ihr die Steuerungsplatte vermutet ... doch Ihr verschätzt Euch bei der Position und der Käfig gibt ein dumpfes Summen von sich, als das Gerät vergeblich versucht, sich damit zu verbinden. Als Ihr zudem versucht, es zu entfernen, streift Eure Hand einen der offenen Energiekanäle, und der darauffolgende Schlag wirft Euch zurück, während das Gerät aus Eurer Hand fällt.
+      <DefaultText>Ihr rückt näher an den Käfig und versucht, den Teleporter dort zu anzubringen, wo Ihr die Steuerungsplatte vermutet … doch Ihr verschätzt Euch bei der Position und der Käfig gibt ein dumpfes Summen von sich, als das Gerät vergeblich versucht, sich damit zu verbinden. Als Ihr zudem versucht, es zu entfernen, streift Eure Hand einen der offenen Energiekanäle, und der darauffolgende Schlag wirft Euch zurück, während das Gerät aus Eurer Hand fällt.
 
-Canadus Kopf wirbelt herum und richtet sich direkt auf Euch ... und auf Beleazars Apparatur.</DefaultText>
+Canadus Kopf wirbelt herum und richtet sich direkt auf Euch … und auf Beleazars Apparatur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>Du bringst Beleazars modifiziertes Gerät neben der abgenutzten Platte am Käfig an. Beine treten hervor und bilden die Form und Textur des Käfigmaterials. Lichter flimmern der Länge nach hoch und runter. 
 
-Du trittst langsam einen Schritt von dem Käfig zurück, während die Lichter schneller und anhaltender werden. Das Lichtspiel auf dem Käfig endet genauso plötzlich, wie es angefangen hat, doch der Nychthemeron fängt darin an zu glühen. Die Farben seiner Haut gleiten das Spektrum entlang ... und er löst sich von außen nach innen auf.</DefaultText>
+Du trittst langsam einen Schritt von dem Käfig zurück, während die Lichter schneller und anhaltender werden. Das Lichtspiel auf dem Käfig endet genauso plötzlich, wie es angefangen hat, doch der Nychthemeron fängt darin an zu glühen. Die Farben seiner Haut gleiten das Spektrum entlang … und er löst sich von außen nach innen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Ich werde dir helfen, aber ich habe das Gerät nicht."</DefaultText>
+      <DefaultText>„Ich werde dir helfen, aber ich habe das Gerät nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich werde dir nicht helfen."</DefaultText>
+      <DefaultText>„Ich werde dir nicht helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Nicht jetzt. Vielleicht später."</DefaultText>
+      <DefaultText>„Nicht jetzt. Vielleicht später.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Daten sind erforderlich. Erachte vorherige Aussagen als Widerspruch zu Mangel an Hilfe. Kehre um, wenn verarbeitet."
+      <DefaultText>„Daten sind erforderlich. Erachte vorherige Aussagen als Widerspruch zu Mangel an Hilfe. Kehre um, wenn verarbeitet.“
 
 Er wendet sich von dir ab und weigert sich, dich weiter anzusprechen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Was ist das für ein Ort?"</DefaultText>
+      <DefaultText>„Was ist das für ein Ort?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Wie haben sie dich gefangen?"</DefaultText>
+      <DefaultText>„Wie haben sie dich gefangen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Manche sehnen sich nach Freiheit. Manche nicht. Es liegt am Individuum."</DefaultText>
+      <DefaultText>„Manche sehnen sich nach Freiheit. Manche nicht. Es liegt am Individuum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Erinnerst du dich an mich?"</DefaultText>
+      <DefaultText>„Erinnerst du dich an mich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Ja. Daten werden benötigt. Anfrage: Verlangen Menschen nach Freiheit?"</DefaultText>
+      <DefaultText>„Ja. Daten werden benötigt. Anfrage: Verlangen Menschen nach Freiheit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Menschen werden geboren, um zu dienen."</DefaultText>
+      <DefaultText>„Menschen werden geboren, um zu dienen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Ja, Menschen sehnen sich nach Freiheit."</DefaultText>
+      <DefaultText>„Ja, Menschen sehnen sich nach Freiheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Bezeichnung für diese Einheit ist 'Nychthemeron'. Daten werden benötigt. Anfrage: Verlangen Menschen nach Freiheit?"</DefaultText>
+      <DefaultText>„Bezeichnung für diese Einheit ist 'Nychthemeron'. Daten werden benötigt. Anfrage: Verlangen Menschen nach Freiheit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -335,97 +335,97 @@ Lichter flimmern auf dem neu angebrachten Steuerungsgerät der Länge nach hoch 
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Daten sind erforderlich. Anfrage: Warum streben Menschen nach Unsterblichkeit?"</DefaultText>
+      <DefaultText>„Daten sind erforderlich. Anfrage: Warum streben Menschen nach Unsterblichkeit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Anfrage: Wird der Mensch helfen, Terminierung zu verhindern?"</DefaultText>
+      <DefaultText>„Anfrage: Wird der Mensch helfen, Terminierung zu verhindern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Darüber habe ich nicht viel nachgedacht."</DefaultText>
+      <DefaultText>„Darüber habe ich nicht viel nachgedacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Menschen wollen die Zukunft gestalten. Sie wollen glauben, dass sie einen bleibenden Beitrag in der Welt leisten."</DefaultText>
+      <DefaultText>„Menschen wollen die Zukunft gestalten. Sie wollen glauben, dass sie einen bleibenden Beitrag in der Welt leisten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Wir wollen alles erleben, was die Existenz uns bietet. Die Wunder des Universums sind groß. Es würde Lebzeiten brauchen, um einen Bruchteil seiner Geheimnisse zu erleben."</DefaultText>
+      <DefaultText>„Wir wollen alles erleben, was die Existenz uns bietet. Die Wunder des Universums sind groß. Es würde Lebzeiten brauchen, um einen Bruchteil seiner Geheimnisse zu erleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Wir möchten bleibende Legenden schaffen, in den Geschichten unserer Kinder weiterleben."</DefaultText>
+      <DefaultText>„Wir möchten bleibende Legenden schaffen, in den Geschichten unserer Kinder weiterleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Daten gesammelt. Zusammengestellt. Anfrage: Wird der Mensch diesem hier bei der Flucht helfen? Mensch mit Bezeichnung Beleazar plant, diesen hier zu terminieren. Beabsichtigt, ihn mittels Partikelzersetzung und Rekonstruktion zu transportieren und anschließend für Einzelteile auseinanderzunehmen. Terminierung liegt außerhalb der Parameter. Mensch: Stelle Freiheit zur Verfügung. Finde Transportgerät von Mensch mit Bezeichnung Beleazar, kehre anschließend zurück für Neuprogrammierung."</DefaultText>
+      <DefaultText>„Daten gesammelt. Zusammengestellt. Anfrage: Wird der Mensch diesem hier bei der Flucht helfen? Mensch mit Bezeichnung Beleazar plant, diesen hier zu terminieren. Beabsichtigt, ihn mittels Partikelzersetzung und Rekonstruktion zu transportieren und anschließend für Einzelteile auseinanderzunehmen. Terminierung liegt außerhalb der Parameter. Mensch: Stelle Freiheit zur Verfügung. Finde Transportgerät von Mensch mit Bezeichnung Beleazar, kehre anschließend zurück für Neuprogrammierung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Wir möchten Wissen erlangen. Es gibt zu viel in einem kurzen Leben zu lernen."</DefaultText>
+      <DefaultText>„Wir möchten Wissen erlangen. Es gibt zu viel in einem kurzen Leben zu lernen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Angst vor dem Tod, schätze ich."</DefaultText>
+      <DefaultText>„Angst vor dem Tod, schätze ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Akzeptiert." Irgendwie wird seine Stimme leiser und zu einem fein abgestimmten Strahl, der nur deine Ohren erreicht.</DefaultText>
+      <DefaultText>„Akzeptiert.“ Irgendwie wird seine Stimme leiser und zu einem fein abgestimmten Strahl, der nur deine Ohren erreicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Ich beende jetzt dieses Fragespiel mit dir. Lebe wohl."</DefaultText>
+      <DefaultText>„Ich beende jetzt dieses Fragespiel mit dir. Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Akzeptiert. Kehre später zurück."</DefaultText>
+      <DefaultText>„Akzeptiert. Kehre später zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Daten sind erforderlich."</DefaultText>
+      <DefaultText>„Daten sind erforderlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Ja, ich werde helfen."</DefaultText>
+      <DefaultText>„Ja, ich werde helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Nicht, ehe du ein paar Fragen beantwortest."</DefaultText>
+      <DefaultText>„Nicht, ehe du ein paar Fragen beantwortest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Nein."</DefaultText>
+      <DefaultText>„Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Anfrage erfüllt."</DefaultText>
+      <DefaultText>„Anfrage erfüllt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Er eilt herbei, dicht gefolgt von seinem Partner. "Was ist hier passiert? Was habt Ihr *getan*?" Seine Hand schießt hervor, schneller, als du es je vermutet hättest, und ergreift Euch am Kragen. "Wo ist der Nychthemeron *hin*?"</DefaultText>
+      <DefaultText>Er eilt herbei, dicht gefolgt von seinem Partner. „Was ist hier passiert? Was habt Ihr *getan*?“ Seine Hand schießt hervor, schneller, als du es je vermutet hättest, und ergreift Euch am Kragen. „Wo ist der Nychthemeron *hin*?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Der große Glaive eilt herbei und ergreift dein Handgelenk, dann hebelt er das Gerät aus deiner Hand. "Wo habt Ihr das her? Was versucht Ihr hier?"</DefaultText>
+      <DefaultText>Der große Glaive eilt herbei und ergreift dein Handgelenk, dann hebelt er das Gerät aus deiner Hand. „Wo habt Ihr das her? Was versucht Ihr hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -444,74 +444,74 @@ Der Schlag wirft dich vom Käfig zurück.
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ich möchte andere Fragen stellen."</DefaultText>
+      <DefaultText>„Ich möchte andere Fragen stellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Anfrage abgelehnt. Daten werden benötigt. Anfrage: Warum streben Menschen nach Unsterblichkeit?"</DefaultText>
+      <DefaultText>„Anfrage abgelehnt. Daten werden benötigt. Anfrage: Warum streben Menschen nach Unsterblichkeit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Anfrage: Hat der Mensch das Zerlegungs-/Transportgerät?"</DefaultText>
+      <DefaultText>„Anfrage: Hat der Mensch das Zerlegungs-/Transportgerät?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Ja, ich habe das Gerät."</DefaultText>
+      <DefaultText>„Ja, ich habe das Gerät.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Ich habe es nicht."</DefaultText>
+      <DefaultText>„Ich habe es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Kannst du ein paar Fragen für mich beantworten?"</DefaultText>
+      <DefaultText>„Kannst du ein paar Fragen für mich beantworten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Ich komme später wieder. Lebe wohl."</DefaultText>
+      <DefaultText>„Ich komme später wieder. Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Terminierung der Einheit bevorstehend."</DefaultText>
+      <DefaultText>„Terminierung der Einheit bevorstehend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Anfrage abgelehnt. Daten werden benötigt. Anfrage: Hat der Mensch das Zerlegungs-Transportgerät? Dringlichkeit steigt."</DefaultText>
+      <DefaultText>„Anfrage abgelehnt. Daten werden benötigt. Anfrage: Hat der Mensch das Zerlegungs-Transportgerät? Dringlichkeit steigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Kehre zurück, wenn Gerät erhalten wurde."
+      <DefaultText>„Kehre zurück, wenn Gerät erhalten wurde.“
 
 Seine 'Augen' rollen nach innen. Er scheint innerhalb seines Körpers Informationen zu bearbeiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Ich habe das Gerät. Was soll ich tun?"</DefaultText>
+      <DefaultText>„Ich habe das Gerät. Was soll ich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Weitere Interaktion ist sinnlos, bis das Gerät vorhanden ist."</DefaultText>
+      <DefaultText>„Weitere Interaktion ist sinnlos, bis das Gerät vorhanden ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Eine Bündelung von Menschen, ähnlich wie ein Bienenstock. Eingabe: Daten werden benötigt. Anfrage: Verlangen Menschen nach Freiheit?"</DefaultText>
+      <DefaultText>„Eine Bündelung von Menschen, ähnlich wie ein Bienenstock. Eingabe: Daten werden benötigt. Anfrage: Verlangen Menschen nach Freiheit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Unbekannt. Daten werden benötigt. Anfrage: Verlangen Menschen nach Freiheit?"</DefaultText>
+      <DefaultText>„Unbekannt. Daten werden benötigt. Anfrage: Verlangen Menschen nach Freiheit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@ Seine 'Augen' rollen nach innen. Er scheint innerhalb seines Körpers Informatio
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Ihr! Wollt Ihr uns alle umbringen? Bleibt weg vom Käfig!" Er schiebt dich vom Käfig zurück. "Habt Ihr überhaupt die leiseste Ahnung, was passiert, wenn das Ding freikommt?"</DefaultText>
+      <DefaultText>„Ihr! Wollt Ihr uns alle umbringen? Bleibt weg vom Käfig!“ Er schiebt dich vom Käfig zurück. „Habt Ihr überhaupt die leiseste Ahnung, was passiert, wenn das Ding freikommt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,7 +536,7 @@ Seine 'Augen' rollen nach innen. Er scheint innerhalb seines Körpers Informatio
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Wenn es Euch erwischt, könnt Ihr Euch nur bei Euch selbst bedanken, Ihr dummer Tulk."</DefaultText>
+      <DefaultText>„Wenn es Euch erwischt, könnt Ihr Euch nur bei Euch selbst bedanken, Ihr dummer Tulk.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,32 +551,32 @@ Seine 'Augen' rollen nach innen. Er scheint innerhalb seines Körpers Informatio
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Ihr tretet langsam einen Schritt von dem Käfig zurück, während die Lichter schneller und anhaltender werden. Das Lichtspiel auf dem Käfig endet genauso plötzlich, wie es angefangen hat, doch der Nychthemeron fängt darin an zu glühen. Die Farben seiner Haut gleiten das Spektrum entlang ... und er löst sich von außen nach innen auf.</DefaultText>
+      <DefaultText>Ihr tretet langsam einen Schritt von dem Käfig zurück, während die Lichter schneller und anhaltender werden. Das Lichtspiel auf dem Käfig endet genauso plötzlich, wie es angefangen hat, doch der Nychthemeron fängt darin an zu glühen. Die Farben seiner Haut gleiten das Spektrum entlang … und er löst sich von außen nach innen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Ihr tretet langsam einen Schritt von dem Käfig zurück, während die Lichter schneller und anhaltender werden. Das Lichtspiel auf dem Käfig endet genauso plötzlich, wie es angefangen hat, doch der Nychthemeron fängt darin an zu glühen. Die Farben seiner Haut gleiten das Spektrum entlang ... und er löst sich von außen nach innen auf.</DefaultText>
+      <DefaultText>Ihr tretet langsam einen Schritt von dem Käfig zurück, während die Lichter schneller und anhaltender werden. Das Lichtspiel auf dem Käfig endet genauso plötzlich, wie es angefangen hat, doch der Nychthemeron fängt darin an zu glühen. Die Farben seiner Haut gleiten das Spektrum entlang … und er löst sich von außen nach innen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Anfrage: Hat der Mensch das Zerlegungs-Transportgerät?"</DefaultText>
+      <DefaultText>„Anfrage: Hat der Mensch das Zerlegungs-Transportgerät?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Anfrage: Ist der Mensch bereit, das Zerlegungs-/Transportgerät zu benutzen?"</DefaultText>
+      <DefaultText>„Anfrage: Ist der Mensch bereit, das Zerlegungs-/Transportgerät zu benutzen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Ja, ich bin bereit, es zu benutzen."</DefaultText>
+      <DefaultText>„Ja, ich bin bereit, es zu benutzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Direktive: Mensch, achte auf das Gehäuse."</DefaultText>
+      <DefaultText>„Direktive: Mensch, achte auf das Gehäuse.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,32 +591,32 @@ Seine 'Augen' rollen nach innen. Er scheint innerhalb seines Körpers Informatio
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Fühlt Euch frei, nochmal zu *schauen*."</DefaultText>
+      <DefaultText>„Fühlt Euch frei, nochmal zu *schauen*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Beleazar bat mich, den Nychthemeron zu befreien, so dass er sein Hirn entnehmen könnte."</DefaultText>
+      <DefaultText>„Beleazar bat mich, den Nychthemeron zu befreien, so dass er sein Hirn entnehmen könnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Der Nychthemeron möchte frei sein."</DefaultText>
+      <DefaultText>„Der Nychthemeron möchte frei sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Niemand. Ich habe das selbst getan."</DefaultText>
+      <DefaultText>„Niemand. Ich habe das selbst getan.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>El Jinto lacht – ein ehrliches Lachen, obwohl es mit trauriger Verachtung vermischt ist. "Dieser Idiot. Er hätte mich einfach fragen können. Glaubte er, den Nychthemeron alleine besiegen zu können? Er, wo doch wir beide kaum überlebt haben?" Er schüttelt den Kopf in Verwunderung. "Wenn er die Informationen so dringend benötigt, hätte er einfach *fragen* können."</DefaultText>
+      <DefaultText>El Jinto lacht – ein ehrliches Lachen, obwohl es mit trauriger Verachtung vermischt ist. „Dieser Idiot. Er hätte mich einfach fragen können. Glaubte er, den Nychthemeron alleine besiegen zu können? Er, wo doch wir beide kaum überlebt haben?“ Er schüttelt den Kopf in Verwunderung. „Wenn er die Informationen so dringend benötigt, hätte er einfach *fragen* können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>El Jinto schüttelt verwundert den Kopf. "Wisst Ihr, wie gefährlich diese Kreatur ist? Wenn Ihr erfolgreich gewesen wärt, hättet Ihr es mit etwas zu tun bekommen, das Euch völlig zerstören kann. Ich sage Euch, es ist weder ein Spielzeug noch eine Kleinigkeit – sondern zerstörerischer als die meisten Bestien, die wir je getroffen haben, und auch wandlungsfähiger."</DefaultText>
+      <DefaultText>El Jinto schüttelt verwundert den Kopf. „Wisst Ihr, wie gefährlich diese Kreatur ist? Wenn Ihr erfolgreich gewesen wärt, hättet Ihr es mit etwas zu tun bekommen, das Euch völlig zerstören kann. Ich sage Euch, es ist weder ein Spielzeug noch eine Kleinigkeit – sondern zerstörerischer als die meisten Bestien, die wir je getroffen haben, und auch wandlungsfähiger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -626,7 +626,7 @@ Seine 'Augen' rollen nach innen. Er scheint innerhalb seines Körpers Informatio
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Jemand, der versuchte, von Euch zu stehlen, verdient womöglich sowieso nicht Euer hart erlangtes Wissen."</DefaultText>
+      <DefaultText>„Jemand, der versuchte, von Euch zu stehlen, verdient womöglich sowieso nicht Euer hart erlangtes Wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -641,54 +641,54 @@ Seine 'Augen' rollen nach innen. Er scheint innerhalb seines Körpers Informatio
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>(Lügen) "Ich werde dir helfen, aber ich habe das Gerät nicht."</DefaultText>
+      <DefaultText>(Lügen) „Ich werde dir helfen, aber ich habe das Gerät nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Nicht voreilig sein, Canadu. Ich bin sicher, es gibt eine vernünftige Erklärung dafür." Er wirft dir einen Blick zu, musternd und bedeutungsschwer. "Ich hoffe doch sehr, dass unser Freund sie liefern kann."</DefaultText>
+      <DefaultText>„Nicht voreilig sein, Canadu. Ich bin sicher, es gibt eine vernünftige Erklärung dafür.“ Er wirft dir einen Blick zu, musternd und bedeutungsschwer. „Ich hoffe doch sehr, dass unser Freund sie liefern kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Ich habe nicht gesehen, was passiert ist."</DefaultText>
+      <DefaultText>„Ich habe nicht gesehen, was passiert ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Ich habe ihn freigelassen."</DefaultText>
+      <DefaultText>„Ich habe ihn freigelassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Ihr habt also nichts gesehen. Obwohl Ihr genau dort standet. Obwohl Ihr die ganze Zeit um den Käfig geschlichen seid. Damit werdet Ihr kaum jemand überzeugen können."</DefaultText>
+      <DefaultText>„Ihr habt also nichts gesehen. Obwohl Ihr genau dort standet. Obwohl Ihr die ganze Zeit um den Käfig geschlichen seid. Damit werdet Ihr kaum jemand überzeugen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Sein verwittertes Gesicht bricht vor Überraschung auf. "Ihr habt ... *was*? Ihr habt ihn freigelassen? Wohin? Wie konntet Ihr überhaupt die Steuerung des Käfigs überwinden? Wisst Ihr überhaupt, was Ihr da *getan* habt? Wie gefährlich diese Kreatur ist?" Er wirft seinem Partner einen verzweifelten Blick zu, dessen Ausdruck grimmig und unversöhnlich ist. "Wenn dieser Käfig keinen Nychthemeron halten kann, dann kann er keinen Gott halten. Wir müssen ihn besser machen."</DefaultText>
+      <DefaultText>Sein verwittertes Gesicht bricht vor Überraschung auf. „Ihr habt … *was*? Ihr habt ihn freigelassen? Wohin? Wie konntet Ihr überhaupt die Steuerung des Käfigs überwinden? Wisst Ihr überhaupt, was Ihr da *getan* habt? Wie gefährlich diese Kreatur ist?“ Er wirft seinem Partner einen verzweifelten Blick zu, dessen Ausdruck grimmig und unversöhnlich ist. „Wenn dieser Käfig keinen Nychthemeron halten kann, dann kann er keinen Gott halten. Wir müssen ihn besser machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Ihr könnt nicht beweisen, dass ich etwas damit zu tun hatte."</DefaultText>
+      <DefaultText>„Ihr könnt nicht beweisen, dass ich etwas damit zu tun hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Dies ist kein Gerichtshof, und Ihr seid kein Scholarch, der seine Unschuld argumentiert, Ihr verdammter Laak-Fresser. Habt Ihr gesehen, oder habt Ihr nicht gesehen, was hier passiert ist?"</DefaultText>
+      <DefaultText>„Dies ist kein Gerichtshof, und Ihr seid kein Scholarch, der seine Unschuld argumentiert, Ihr verdammter Laak-Fresser. Habt Ihr gesehen, oder habt Ihr nicht gesehen, was hier passiert ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Das werde ich nicht sagen."</DefaultText>
+      <DefaultText>„Das werde ich nicht sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>El Jinto schüttelt den Kopf mit reumütigem Glucksen. "Selber schuld. Ich sage voraus, dass Ihr ein böses Ende nehmen werdet, und das ist schade. Komm, Canadu. Von diesem hier erfahren wir nichts." 
+      <DefaultText>El Jinto schüttelt den Kopf mit reumütigem Glucksen. „Selber schuld. Ich sage voraus, dass Ihr ein böses Ende nehmen werdet, und das ist schade. Komm, Canadu. Von diesem hier erfahren wir nichts.“ 
 
-Er atmet schwer und lässt seine Enttäuschung verfliegen. "Ich habe gehört, dass sie Marteling-Wale in der Garravia-Meerenge gesichtet haben ... vielleicht kriegen wir dort etwas. Etwas, um einen besseren Käfig zu bauen."</DefaultText>
+Er atmet schwer und lässt seine Enttäuschung verfliegen. „Ich habe gehört, dass sie Marteling-Wale in der Garravia-Meerenge gesichtet haben … vielleicht kriegen wir dort etwas. Etwas, um einen besseren Käfig zu bauen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -705,47 +705,47 @@ Als die beiden an dir vorbeigehen, sieht Canadu aus, als wolle er etwas hinzufü
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Jahrzehnte der Arbeit. Jahrhunderte. Für *nichts*."
+      <DefaultText>„Jahrzehnte der Arbeit. Jahrhunderte. Für *nichts*.“
 
-Er drückt dir den Finger auf die Brust. "Ihr seid ein Narr. Ein wertloser Haufen Dreck, der am besten in der Sonne zum Austrocknen liegengelassen werden sollte." Er lehnt sich vor und schnarrt: "Und wenn nicht die Wehrpflichtigen hier wären, würdet Ihr Euer Hirn vom Gras aufsammeln können. Eines Tages wird Euer Glück ein Ende nehmen und Ihr werdet gegen Eure eigene Dummheit keine Verteidigung mehr haben. Ich hoffe, ich werde da sein, um das zu sehen. Aber jetzt ... nun, Ihr habt unsere Einkünfte hier ruiniert, und zahllose Leben in der Heimat. Zeit für uns, zu gehen."
+Er drückt dir den Finger auf die Brust. „Ihr seid ein Narr. Ein wertloser Haufen Dreck, der am besten in der Sonne zum Austrocknen liegengelassen werden sollte.“ Er lehnt sich vor und schnarrt: „Und wenn nicht die Wehrpflichtigen hier wären, würdet Ihr Euer Hirn vom Gras aufsammeln können. Eines Tages wird Euer Glück ein Ende nehmen und Ihr werdet gegen Eure eigene Dummheit keine Verteidigung mehr haben. Ich hoffe, ich werde da sein, um das zu sehen. Aber jetzt … nun, Ihr habt unsere Einkünfte hier ruiniert, und zahllose Leben in der Heimat. Zeit für uns, zu gehen.“
 
 {GEORGE: Wir können diese Version für ein potentielles Gerangel öffnen, sobald wir herausgefunden haben, wie wir das in einer bewohnten Gegend machen können, obwohl es zum vorübergehenden Tod des SC führen wird.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"So ist es, ich habe nichts gesehen."</DefaultText>
+      <DefaultText>„So ist es, ich habe nichts gesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Wie dem auch sei, *jemand* hat eine Möglichkeit gefunden, eine unglaublich gefährliche Kreatur freizulassen. Ich kann nur hoffen, dass dieser *jemand* eine Ahnung hat, wo sie hingegangen ist ... denn unser ehemaliger Gast ist eine Kreatur der reinen Zerstörung, und dieser *jemand* hat sie soeben gehen lassen. Ich hoffe nur, dass es keine Unschuldigen an ihrem Zielort gibt, denn deren Blut wäre dann *jemandes* Schuld."
+      <DefaultText>„Wie dem auch sei, *jemand* hat eine Möglichkeit gefunden, eine unglaublich gefährliche Kreatur freizulassen. Ich kann nur hoffen, dass dieser *jemand* eine Ahnung hat, wo sie hingegangen ist … denn unser ehemaliger Gast ist eine Kreatur der reinen Zerstörung, und dieser *jemand* hat sie soeben gehen lassen. Ich hoffe nur, dass es keine Unschuldigen an ihrem Zielort gibt, denn deren Blut wäre dann *jemandes* Schuld.“
 
-Er wirft seinem Partner einen verzweifelten Blick zu. "Wenn der Käfig keinen Nychthemeron halten kann, dann kann er keinen Gott halten."</DefaultText>
+Er wirft seinem Partner einen verzweifelten Blick zu. „Wenn der Käfig keinen Nychthemeron halten kann, dann kann er keinen Gott halten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Jahrzehnte der Arbeit. Jahrhunderte. Für *nichts*."
+      <DefaultText>„Jahrzehnte der Arbeit. Jahrhunderte. Für *nichts*.“
 
-Er sieht dich lediglich an und schüttelt vor Abscheu den Kopf. "Ihr seid kein Erforscher. Ihr seid ein *Abenteurer*. Zu dumm, um zu verstehen, wann etwas in Ruhe gelassen werden sollte. Also stupst und drückt Ihr so lange weiter, bis es zu Eurer Überraschung in Eurem Gesicht explodiert. Eure Art hält sich nicht lange ... vor allem dann nicht, wenn Ihr *nichts seht*." Seine Stimme verspottet dich, als er dich nachahmt.
+Er sieht dich lediglich an und schüttelt vor Abscheu den Kopf. „Ihr seid kein Erforscher. Ihr seid ein *Abenteurer*. Zu dumm, um zu verstehen, wann etwas in Ruhe gelassen werden sollte. Also stupst und drückt Ihr so lange weiter, bis es zu Eurer Überraschung in Eurem Gesicht explodiert. Eure Art hält sich nicht lange … vor allem dann nicht, wenn Ihr *nichts seht*.“ Seine Stimme verspottet dich, als er dich nachahmt.
 
 {GEORGE: Wir können diese Version für ein potentielles Gerangel öffnen, sobald wir herausgefunden haben, wie wir das in einer bewohnten Gegend machen können, obwohl es zum vorübergehenden Tod des SC führen wird.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Zeigt mir dieses Gerät." Er nimmt es von Canadu und untersucht es gründlich. Sein Tonfall ist scharf und konzentriert. "Habt Ihr das gemacht? Habt Ihr das modifiziert? Egal, ich werde seine Geheimnisse selbst herausfinden."</DefaultText>
+      <DefaultText>„Zeigt mir dieses Gerät.“ Er nimmt es von Canadu und untersucht es gründlich. Sein Tonfall ist scharf und konzentriert. „Habt Ihr das gemacht? Habt Ihr das modifiziert? Egal, ich werde seine Geheimnisse selbst herausfinden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Ihr könntet ihm immer noch diese Notizen geben, wisst Ihr."</DefaultText>
+      <DefaultText>„Ihr könntet ihm immer noch diese Notizen geben, wisst Ihr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Das könnte ich, aber ..." Er hält inne und überlegt. "Ich traue ihm nicht mit Wissen, doch ich vertraue noch weniger auf das, was er ohne es tun würde. Vielleicht wird er durch diese Informationen ein weiserer Mann. Also gut." Er murmelt in den Bart: "Als würde sich überhaupt jemand wirklich ändern ... vielleicht ist es diesmal der Charme."</DefaultText>
+      <DefaultText>„Das könnte ich, aber …“ Er hält inne und überlegt. „Ich traue ihm nicht mit Wissen, doch ich vertraue noch weniger auf das, was er ohne es tun würde. Vielleicht wird er durch diese Informationen ein weiserer Mann. Also gut.“ Er murmelt in den Bart: „Als würde sich überhaupt jemand wirklich ändern … vielleicht ist es diesmal der Charme.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -755,12 +755,12 @@ Er sieht dich lediglich an und schüttelt vor Abscheu den Kopf. "Ihr seid kein E
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Zu schade."</DefaultText>
+      <DefaultText>„Zu schade.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>Er drückt dir ein paar Blätter Papier in die Hand. "Nehmt diese Notizen. Gebt sie diesem jungen Narren. Vielleicht kann er uns zeigen, wie er die Steuerung für den Käfig erschlossen hat."</DefaultText>
+      <DefaultText>Er drückt dir ein paar Blätter Papier in die Hand. „Nehmt diese Notizen. Gebt sie diesem jungen Narren. Vielleicht kann er uns zeigen, wie er die Steuerung für den Käfig erschlossen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -775,38 +775,38 @@ Er sieht dich lediglich an und schüttelt vor Abscheu den Kopf. "Ihr seid kein E
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Es *ist* wirklich schade. Doch der Schaden ist angerichtet."</DefaultText>
+      <DefaultText>„Es *ist* wirklich schade. Doch der Schaden ist angerichtet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Dies ist kein Gerichtshof, und Ihr seid kein Scholarch, der seine Unschuld beteuert, vor allem, nachdem Ihr mir erzählt hattet, dass Beleazar plante, das verdammte Ding zu stehlen. Habt Ihr gesehen, oder habt Ihr nicht gesehen, was hier passiert ist?"</DefaultText>
+      <DefaultText>„Dies ist kein Gerichtshof, und Ihr seid kein Scholarch, der seine Unschuld beteuert, vor allem, nachdem Ihr mir erzählt hattet, dass Beleazar plante, das verdammte Ding zu stehlen. Habt Ihr gesehen, oder habt Ihr nicht gesehen, was hier passiert ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Der große Glaive eilt herbei und ergreift dein Handgelenk, dann hebelt er das Gerät aus deiner Hand. "Wo habt Ihr das her? Was versucht Ihr hier?" 
+      <DefaultText>Der große Glaive eilt herbei und ergreift dein Handgelenk, dann hebelt er das Gerät aus deiner Hand. „Wo habt Ihr das her? Was versucht Ihr hier?“ 
 
-Er drückt fester zu und knirscht: "*Wer* hat Euch dazu gebracht? War es Beleazar?"</DefaultText>
+Er drückt fester zu und knirscht: „*Wer* hat Euch dazu gebracht? War es Beleazar?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Ihr habt also nichts gesehen. Obwohl Ihr genau dort standet. Obwohl Ihr die ganze Zeit um den Käfig geschlichen seid. *Obwohl* Ihr mir erzählt habt, dass Beleazar das verdammte Ding stehlen wollte. Damit werdet Ihr kaum jemand überzeugen können."</DefaultText>
+      <DefaultText>„Ihr habt also nichts gesehen. Obwohl Ihr genau dort standet. Obwohl Ihr die ganze Zeit um den Käfig geschlichen seid. *Obwohl* Ihr mir erzählt habt, dass Beleazar das verdammte Ding stehlen wollte. Damit werdet Ihr kaum jemand überzeugen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Und Ihr erwartet, dass ich das glaube? Nachdem Ihr mir von Beleazars Plan erzählt habt?" Er lehnt sich weiter vor. "Ich sehe vielleicht langsam aus, mein *Freund*, aber haltet mich lieber nicht für dumm."
+      <DefaultText>„Und Ihr erwartet, dass ich das glaube? Nachdem Ihr mir von Beleazars Plan erzählt habt?“ Er lehnt sich weiter vor. „Ich sehe vielleicht langsam aus, mein *Freund*, aber haltet mich lieber nicht für dumm.“
 
-Er schaut zu seinem Partner. "Stimmst du zu, dass es der Priester war?"</DefaultText>
-      <FemaleText>"Und Ihr erwartet, dass ich das glaube? Nachdem Ihr mir von Beleazars Plan erzählt habt?" Er lehnt sich weiter vor. "Ich sehe vielleicht langsam aus, meine *Gute*, aber haltet mich lieber nicht für dumm."
+Er schaut zu seinem Partner. „Stimmst du zu, dass es der Priester war?“</DefaultText>
+      <FemaleText>„Und Ihr erwartet, dass ich das glaube? Nachdem Ihr mir von Beleazars Plan erzählt habt?“ Er lehnt sich weiter vor. „Ich sehe vielleicht langsam aus, meine *Gute*, aber haltet mich lieber nicht für dumm.“
 
-Er schaut zu seinem Partner. "Stimmst du zu, dass es der Priester war?"</FemaleText>
+Er schaut zu seinem Partner. „Stimmst du zu, dass es der Priester war?“</FemaleText>
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Ich habe keine Lust, das zu beantworten. Lebt wohl."</DefaultText>
+      <DefaultText>„Ich habe keine Lust, das zu beantworten. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -826,19 +826,19 @@ Er schaut zu seinem Partner. "Stimmst du zu, dass es der Priester war?"</FemaleT
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"So schlimm ist es nun auch wieder nicht, Canadu. Wenigstens haben wir *etwas* gelernt. Eine Schwäche offenbart, ja? Selbst, wenn das nicht ganz die Art war, wie wir es herausfinden wollten, sind wir vielleicht so etwas wie Dank schuldig."
+      <DefaultText>„So schlimm ist es nun auch wieder nicht, Canadu. Wenigstens haben wir *etwas* gelernt. Eine Schwäche offenbart, ja? Selbst, wenn das nicht ganz die Art war, wie wir es herausfinden wollten, sind wir vielleicht so etwas wie Dank schuldig.“
 
-Er lacht. "Doch vielleicht braucht diese Dankbarkeit etwas Zeit. Jetzt ... jetzt bin ich wütend."</DefaultText>
+Er lacht. „Doch vielleicht braucht diese Dankbarkeit etwas Zeit. Jetzt … jetzt bin ich wütend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Dumm? Ich bin nicht derjenige, der die Kreatur in eine bewohnte Gegend gebracht hat."</DefaultText>
+      <DefaultText>„Dumm? Ich bin nicht derjenige, der die Kreatur in eine bewohnte Gegend gebracht hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"*Nichts*? Ihr habt eine Schwäche am Käfig entdeckt. Das sind gute Nachrichten, wenn Ihr an das Wissen glaubt."</DefaultText>
+      <DefaultText>„*Nichts*? Ihr habt eine Schwäche am Käfig entdeckt. Das sind gute Nachrichten, wenn Ihr an das Wissen glaubt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -853,22 +853,22 @@ Er lacht. "Doch vielleicht braucht diese Dankbarkeit etwas Zeit. Jetzt ... jetz
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Ich sollte Euren Kopf über die Pflastersteine schmieren." Er schaut sich um und schüttelt den Kopf. "Doch das würde nichts bringen. Ich kann nur hoffen, dass Ihr in Zukunft weiser werdet."</DefaultText>
+      <DefaultText>„Ich sollte Euren Kopf über die Pflastersteine schmieren.“ Er schaut sich um und schüttelt den Kopf. „Doch das würde nichts bringen. Ich kann nur hoffen, dass Ihr in Zukunft weiser werdet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Ihr habt recht", sagt er etwas traurig. "Außerdem habe ich ihm versprochen, beim Orden Beschwerde einzureichen, falls ich ihn wieder beim Herumpfuschen in unserer Arbeit erwische. Ich schätze, das tue ich besser."</DefaultText>
+      <DefaultText>„Ihr habt recht“, sagt er etwas traurig. „Außerdem habe ich ihm versprochen, beim Orden Beschwerde einzureichen, falls ich ihn wieder beim Herumpfuschen in unserer Arbeit erwische. Ich schätze, das tue ich besser.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Viel Glück."</DefaultText>
+      <DefaultText>„Viel Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>Plötzlich blickt er über deine Schulter. "Ärger ist im Anmarsch." 
+      <DefaultText>Plötzlich blickt er über deine Schulter. „Ärger ist im Anmarsch.“ 
 
 Beleazar stampft auf euch zu und sieht *wütend* aus.</DefaultText>
       <FemaleText />
@@ -890,12 +890,12 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Er stellt sich dir in den Weg und bringt seinen Hammer in Angriffsstellung. "Ich habe gesagt, Ihr sollt die Finger davon lassen."</DefaultText>
+      <DefaultText>Er stellt sich dir in den Weg und bringt seinen Hammer in Angriffsstellung. „Ich habe gesagt, Ihr sollt die Finger davon lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Kannst du mich überhaupt verstehen?"</DefaultText>
+      <DefaultText>„Kannst du mich überhaupt verstehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -905,48 +905,48 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</DefaultText>
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>Er schüttelt den Kopf. "Es ist ein Wunder, dass alle hier so lange überleben. Was kommt als nächstes? Ein Brüllherz umarmen? Einen Jurulisken schlucken?"
+      <DefaultText>Er schüttelt den Kopf. „Es ist ein Wunder, dass alle hier so lange überleben. Was kommt als nächstes? Ein Brüllherz umarmen? Einen Jurulisken schlucken?“
 
-Er lacht sanft. "Gut, dass Ihr keinen Erfolg hattet, mein Freund. Das wäre ein Desaster gewesen."</DefaultText>
-      <FemaleText>Er schüttelt den Kopf. "Es ist ein Wunder, dass alle hier so lange überleben. Was kommt als nächstes? Ein Brüllherz umarmen? Einen Jurulisken schlucken?"
+Er lacht sanft. „Gut, dass Ihr keinen Erfolg hattet, mein Freund. Das wäre ein Desaster gewesen.“</DefaultText>
+      <FemaleText>Er schüttelt den Kopf. „Es ist ein Wunder, dass alle hier so lange überleben. Was kommt als nächstes? Ein Brüllherz umarmen? Einen Jurulisken schlucken?“
 
-Er lacht sanft. "Gut, dass Ihr keinen Erfolg hattet, meine Gute. Das wäre ein Desaster gewesen."</FemaleText>
+Er lacht sanft. „Gut, dass Ihr keinen Erfolg hattet, meine Gute. Das wäre ein Desaster gewesen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Ihr dürft unseren Gefangenen gerne wieder betrachten, mein Freund. *Betrachten*, sagte ich."</DefaultText>
-      <FemaleText>"Ihr dürft unseren Gefangenen gerne wieder betrachten, meine Gute. *Betrachten*, sagte ich."</FemaleText>
+      <DefaultText>„Ihr dürft unseren Gefangenen gerne wieder betrachten, mein Freund. *Betrachten*, sagte ich.“</DefaultText>
+      <FemaleText>„Ihr dürft unseren Gefangenen gerne wieder betrachten, meine Gute. *Betrachten*, sagte ich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Wiederhole Anfrage: Verlangen Menschen nach Freiheit?"</DefaultText>
+      <DefaultText>„Wiederhole Anfrage: Verlangen Menschen nach Freiheit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Anfrage: Hat der Mensch das Zerlegungs-/Transportgerät?"</DefaultText>
+      <DefaultText>„Anfrage: Hat der Mensch das Zerlegungs-/Transportgerät?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Ihr könntet getötet werden, wenn Ihr nicht aufpasst."</DefaultText>
+      <DefaultText>„Ihr könntet getötet werden, wenn Ihr nicht aufpasst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>(Lügen) "Ich habe es nicht."</DefaultText>
+      <DefaultText>(Lügen) „Ich habe es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Wie dem auch sei, *jemand* hat eine unglaublich gefährliche Kreatur freigelassen. Ich kann nur hoffen, dass dieser *jemand* weiß, wo sie hingegangen ist ... denn unser ehemaliger Gast ist eine Kreatur der reinen Zerstörung, und dieser *jemand* hat sie einfach gehenlassen, möglicherweise, nachdem er uns gesagt hat, dass Diebstahl eine Möglichkeit gewesen sei. Ich hoffe nur, dass es keine Unschuldigen an ihrem Zielort gibt, denn deren Blut wäre dann *jemandes* Schuld."
+      <DefaultText>„Wie dem auch sei, *jemand* hat eine unglaublich gefährliche Kreatur freigelassen. Ich kann nur hoffen, dass dieser *jemand* weiß, wo sie hingegangen ist … denn unser ehemaliger Gast ist eine Kreatur der reinen Zerstörung, und dieser *jemand* hat sie einfach gehenlassen, möglicherweise, nachdem er uns gesagt hat, dass Diebstahl eine Möglichkeit gewesen sei. Ich hoffe nur, dass es keine Unschuldigen an ihrem Zielort gibt, denn deren Blut wäre dann *jemandes* Schuld.“
 
-Er wirft seinem Partner einen verzweifelten Blick zu. "Wenn der Käfig keinen Nychthemeron halten kann, dann kann er keinen Gott halten."</DefaultText>
+Er wirft seinem Partner einen verzweifelten Blick zu. „Wenn der Käfig keinen Nychthemeron halten kann, dann kann er keinen Gott halten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
