@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Die Sonne ist kräftig heute, nicht wahr?"</DefaultText>
+      <DefaultText>„Die Sonne ist kräftig heute, nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Diese Dunkelheit ist ... ermüdend. Es ist Zeit, zu schlafen ..."
+      <DefaultText>„Diese Dunkelheit ist … ermüdend. Es ist Zeit, zu schlafen …“
 
 {SCRIPT: Wenn der Spieler zum ersten Mal mit ihm in der Nacht redet, sollte er diesen Knotenpunkt spielen und dann ohnmächtig werden (bis der Tag hereinbricht). Wenn danach die Nacht hereinbricht, sollte er immer einfach automatisch ohnmächtig werden, sobald der Übergang passiert.}</DefaultText>
       <FemaleText />
