@@ -182,7 +182,7 @@ Heftig blinzelnd konzentrierst du dich erneut auf Jherem. Er scheint deine plöt
     <Entry>
       <ID>35</ID>
       <DefaultText>Follow-up PQ. 35</DefaultText>
-      <FemaleText>Follow-up PQ. 35</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -207,7 +207,7 @@ Heftig blinzelnd konzentrierst du dich erneut auf Jherem. Er scheint deine plöt
     <Entry>
       <ID>42</ID>
       <DefaultText>Follow-up PQ. 42</DefaultText>
-      <FemaleText>Follow-up PQ. 42</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
@@ -932,56 +932,54 @@ Er macht eine Pause und reibt sich die plötzlich feuchten Augen. „Ich versuch
     <Entry>
       <ID>195</ID>
       <DefaultText>Du wendest dich wieder Jherem zu.</DefaultText>
-      <FemaleText>Du wendest dich wieder Jherem zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
       <DefaultText>„Oh, ich hasse es, das zu sehen“, sagt Tybir und sieht zum Himmel. „So ein kluger und vielversprechender Junge und schon verbirgt er schreckliche Geheimnisse vor seinen Älteren.“</DefaultText>
-      <FemaleText>„Oh, ich hasse es, das zu sehen“, sagt Tybir und sieht zum Himmel. „So ein kluger und vielversprechender Junge und schon verbirgt er schreckliche Geheimnisse vor seinen Älteren.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
       <DefaultText>„Lass den Jungen seine Geheimnisse für sich behalten, wenn er das will, Tybir.“</DefaultText>
-      <FemaleText>„Lass den Jungen seine Geheimnisse für sich behalten, wenn er das will, Tybir.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
       <DefaultText>„Er hat recht, Jherem. Du solltest nicht wegen der Wahrheit beschämt sein.“</DefaultText>
-      <FemaleText>„Er hat recht, Jherem. Du solltest nicht wegen der Wahrheit beschämt sein.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
       <DefaultText>„Was?“, sagt Jherem und schielt zu ihm hinauf. „Nein, so ist das nicht. Es ist nichts *Widerliches*. Ich habe nur versprochen, zu schweigen, ja?“</DefaultText>
-      <FemaleText>„Was?“, sagt Jherem und schielt zu ihm hinauf. „Nein, so ist das nicht. Es ist nichts *Widerliches*. Ich habe nur versprochen, zu schweigen, ja?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
       <DefaultText>Tybir macht eine kaum wahrzunehmende Geste mit dem Kinn, die dich weiterdrängt.</DefaultText>
-      <FemaleText>Tybir macht eine kaum wahrzunehmende Geste mit dem Kinn, die dich weiterdrängt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
       <DefaultText>„Wenn du es sagst“, sagt Tybir mit dem leisesten Anflug von Verwirrung in seinen heiteren Augen. „Doch wenn du mich fragst: Geheimnisse graben Löcher in die Seele. Sie mich an, zum Beispiel.“</DefaultText>
-      <FemaleText>„Wenn du es sagst“, sagt Tybir mit dem leisesten Anflug von Verwirrung in seinen heiteren Augen. „Doch wenn du mich fragst: Geheimnisse graben Löcher in die Seele. Sie mich an, zum Beispiel.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
       <DefaultText>Tybir nickt in feierlicher Zustimmung. Du kommst nicht umhin, festzustellen, dass *er* irgendwie beschämt aussieht.</DefaultText>
-      <FemaleText>Tybir nickt in feierlicher Zustimmung. Du kommst nicht umhin, festzustellen, dass *er* irgendwie beschämt aussieht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
       <DefaultText>Jherem starrt lange auf Tybirs Gesicht, dann blickt er verstohlen nach unten, als würde er den Schaden prüfen.</DefaultText>
-      <FemaleText>Jherem starrt lange auf Tybirs Gesicht, dann blickt er verstohlen nach unten, als würde er den Schaden prüfen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
       <DefaultText>Jherem zögert und schaut abwechselnd zu seinen Adoptiveltern und euch beiden. Schließlich gibt er auf.
 
 „Also gut. Ich schätze mal, ich kann es dir sagen. Aber du sagst es nicht weiter, ja?“</DefaultText>
-      <FemaleText>Jherem zögert und schaut abwechselnd zu seinen Adoptiveltern und euch beiden. Schließlich gibt er auf.
-
-„Also gut. Ich schätze mal, ich kann es dir sagen. Aber du sagst es nicht weiter, ja?“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
