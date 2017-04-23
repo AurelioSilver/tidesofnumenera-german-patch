@@ -73,7 +73,11 @@ Falinda verschränkt ihre gewickelten Arme. „Vielleicht hatte die Diebin einfa
 Der Kaufmann fährt einen langen, ruhigen Moment lang über das Siegel auf dem Buchdeckel. „Als Belohnung lud Falinda den Dieb … den *Kunden* ein, als Zahlung eines der *schäbigeren* Bücher des Kaufmanns zu nehmen – ja, zu nehmen. Der Lagerplatz war immerhin begrenzt, und der Kunde würde Falinda und Steristi damit einen Gefallen tun.“
 
 Du lehnst dich vor, um Falindas Bücherregal zu untersuchen.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Falinda riss der Diebin das Buch aus den Händen“, sagt der Kaufmann, während er die Bewegung nachahmt. „Und ja, es war das gleiche Buch. Noch immer versiegelt. Noch immer wertlos. Noch immer unschätzbar.“
+
+Der Kaufmann fährt einen langen, ruhigen Moment lang über das Siegel auf dem Buchdeckel. „Als Belohnung lud Falinda die Diebin … die *Kundin* ein, als Zahlung eines der *schäbigeren* Bücher des Kaufmanns zu nehmen – ja, zu nehmen. Der Lagerplatz war immerhin begrenzt, und die Kundin würde Falinda und Steristi damit einen Gefallen tun.“
+
+Du lehnst dich vor, um Falindas Bücherregal zu untersuchen.</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
@@ -113,19 +117,21 @@ Du lehnst dich vor, um Falindas Bücherregal zu untersuchen.</DefaultText>
     <Entry>
       <ID>20</ID>
       <DefaultText>„Der Dieb protestierte, doch Falinda war nicht überzeugt. Die Erinnerungen des Kaufmanns waren selbst wie ein Bücherregal organisiert, und er erinnerte sich an dieses Gesicht, verzerrt vor Verlangen nach dem fraglichen Buch. Er erinnerte sich an die gleiche Stimme, die Versprechungen machte, die sie offensichtlich nicht einzuhalten gedachte.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Die Diebin protestierte, doch Falinda war nicht überzeugt. Die Erinnerungen des Kaufmanns waren selbst wie ein Bücherregal organisiert, und er erinnerte sich an dieses Gesicht, verzerrt vor Verlangen nach dem fraglichen Buch. Er erinnerte sich an die gleiche Stimme, die Versprechungen machte, die sie offensichtlich nicht einzuhalten gedachte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>„Fragte der Dieb. Falinda zögerte, doch nur für einen Moment. Die Erinnerungen des Kaufmanns waren selbst wie ein Bücherregal organisiert, und er erinnerte sich an dieses Gesicht, verzerrt vor Verlangen nach dem fraglichen Buch. Er erinnerte sich an die gleiche Stimme, die Versprechungen machte, die sie offensichtlich nicht einzuhalten gedachte.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Fragte die Diebin. Falinda zögerte, doch nur für einen Moment. Die Erinnerungen des Kaufmanns waren selbst wie ein Bücherregal organisiert, und er erinnerte sich an dieses Gesicht, verzerrt vor Verlangen nach dem fraglichen Buch. Er erinnerte sich an die gleiche Stimme, die Versprechungen machte, die sie offensichtlich nicht einzuhalten gedachte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>„Vor zehn Jahren hatte dieser Dieb ein Buch *ausgeliehen*. Falinda fragte sich, ob der Schuft möglicherweise die Definition des Wortes nicht kannte. Immerhin bedeutete es nicht, eine Sache zu nehmen und zu behalten.“
 
 Steristi widmet sich bewusst wieder der Arbeit zu und ignoriert euch beide. Falinda seufzt, reibt sich mit behandschuhten Händen die Schläfen. „Doch am Ende nahm Falinda einen tiefen, *tiefen* Atemzug und bat den Dieb, das versiegelte und lange überfällige Buch mit dem fünffarbigen Siegel auf seinem Deckel einfach zurückzugeben.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Vor zehn Jahren hatte diese Diebin ein Buch *ausgeliehen*. Falinda fragte sich, ob die Schurkin möglicherweise die Definition des Wortes nicht kannte. Immerhin bedeutete es nicht, eine Sache zu nehmen und zu behalten.“
+
+Steristi widmet sich bewusst wieder der Arbeit zu und ignoriert euch beide. Falinda seufzt, reibt sich mit behandschuhten Händen die Schläfen. „Doch am Ende nahm Falinda einen tiefen, *tiefen* Atemzug und bat die Diebin, das versiegelte und lange überfällige Buch mit dem fünffarbigen Siegel auf seinem Deckel einfach zurückzugeben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -147,19 +153,23 @@ Steristi widmet sich bewusst wieder der Arbeit zu und ignoriert euch beide. Fali
       <DefaultText>„Erklärte der Dieb, und Falinda war zufrieden. Vorerst.“
 
 Und damit kehrt auch der Kaufmann wieder an die Arbeit zurück.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Erklärte die Diebin, und Falinda war zufrieden. Vorerst.“
+
+Und damit kehrt auch der Kaufmann wieder an die Arbeit zurück.</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>„Murmelte der Dieb beschämt. Doch Falinda war zufrieden. Vorerst.“
 
 Und damit kehrt auch der Kaufmann wieder an die Arbeit zurück.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Murmelte die Diebin beschämt. Doch Falinda war zufrieden. Vorerst.“
+
+Und damit kehrt auch der Kaufmann wieder an die Arbeit zurück.</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>„Schnappte der Dieb, doch Falinda wusste, er würde die Bitte in Betracht ziehen, denn sie war vernünftig.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Schnappte die Diebin, doch Falinda wusste, sie würde die Bitte in Betracht ziehen, denn sie war vernünftig.“</FemaleText>
     </Entry>
     <Entry>
       <ID>30</ID>
@@ -183,17 +193,21 @@ Und damit kehrt auch der Kaufmann wieder an die Arbeit zurück.</DefaultText>
 „Dies frustrierte Falinda. Immerhin waren die beiden Kaufleute Kreaturen des Wortes, gebunden in Metall und Stoff, doch wann immer Falinda versuchte, dieselben Worte in Erklärungen und Antworten zu biegen, zerbröckelten sie und fielen sie auseinander. Sie konnten sich nicht um die Wahrheit wickeln.“
 
 Der Kaufmann rammt ein letztes Buch an seinen Platz. „Und daher sagte Falinda nichts.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sagte die Diebin, doch Falinda wusste aus langer Erfahrung, dass es nicht erklärt werden konnte.“ Der Kaufmann kniet vor einem Bücherregal und schiebt Buch um Buch in die verbleibenden Zwischenräume.
+
+„Dies frustrierte Falinda. Immerhin waren die beiden Kaufleute Kreaturen des Wortes, gebunden in Metall und Stoff, doch wann immer Falinda versuchte, dieselben Worte in Erklärungen und Antworten zu biegen, zerbröckelten sie und fielen sie auseinander. Sie konnten sich nicht um die Wahrheit wickeln.“
+
+Der Kaufmann rammt ein letztes Buch an seinen Platz. „Und daher sagte Falinda nichts.“</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>„Bat der Dieb inständig. Er verstand noch immer nicht, dass Falinda *nicht* sprach. Dass das, was der Dieb hörte, der Lauf der Zeit war.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Bat die Diebin inständig. Sie verstand noch immer nicht, dass Falinda *nicht* sprach. Dass das, was die Diebin hörte, der Lauf der Zeit war.“</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>„Die Erinnerung wickelt Ranken mit Widerhaken um den Dieb“, fährt Falinda fort, und es ist wahr. Eine Erinnerung umschließt dich. Der Kaufmann lehnt sich interessiert nach vorne. „Und *jetzt* erinnert er sich an den Tag vor zehn Jahren, als er für das Buch kam …“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Die Erinnerung wickelt Ranken mit Widerhaken um die Diebin“, fährt Falinda fort, und es ist wahr. Eine Erinnerung umschließt dich. Der Kaufmann lehnt sich interessiert nach vorne. „Und *jetzt* erinnert sie sich an den Tag vor zehn Jahren, als sie für das Buch kam …“</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -202,7 +216,11 @@ Der Kaufmann rammt ein letztes Buch an seinen Platz. „Und daher sagte Falinda 
 „Ich habe dieses Buch geschrieben“, murrst du. „I-ich kann mich nicht erinnern, was *darin* steht, doch es ist meins. Ich möchte es nicht ausleihen. Ich möchte es *zurückhaben*.“
 
 „Und trotzdem wusste der Kunde, dass ein Buch, sobald es verloren ist, jedem gehört“, sagt Falinda sanft. „Und daher würde der Kunde sich damit begnügen, das Buch auszuleihen. Für eine kleine Weile.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Frost brennt in deinen Nasenlöchern, als du auf das Buch in den Händen der Kreatur schaust. Du dachtest, es sei im Feuer verloren, doch hier ist es.
+
+„Ich habe dieses Buch geschrieben“, murrst du. „I-ich kann mich nicht erinnern, was *darin* steht, doch es ist meins. Ich möchte es nicht ausleihen. Ich möchte es *zurückhaben*.“
+
+„Und trotzdem wusste die Kundin, dass ein Buch, sobald es verloren ist, jedem gehört“, sagt Falinda sanft. „Und daher würde die Kundin sich damit begnügen, das Buch auszuleihen. Für eine kleine Weile.“</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -237,7 +255,7 @@ Der Kaufmann rammt ein letztes Buch an seinen Platz. „Und daher sagte Falinda 
     <Entry>
       <ID>43</ID>
       <DefaultText>„Die Überraschung verbergend übergab Falinda das Buch. Geschichten lustvoller Hingabe schienen kaum dem Geschmack des Kunden zu entsprechen.“{BEUTE}</DefaultText>
-      <FemaleText />
+      <FemaleText>„Die Überraschung verbergend übergab Falinda das Buch. Geschichten lustvoller Hingabe schienen kaum dem Geschmack der Kundin zu entsprechen.“{BEUTE}</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
@@ -260,12 +278,12 @@ Der Kaufmann rammt ein letztes Buch an seinen Platz. „Und daher sagte Falinda 
     <Entry>
       <ID>47</ID>
       <DefaultText>„Gab der Kunde zu, und Falinda respektierte ihn dafür“, sagt der Kaufmann herzlich. „Der Kaufmann dankte ihm erneut.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Gab die Kundin zu, und Falinda respektierte sie dafür“, sagt der Kaufmann herzlich. „Der Kaufmann dankte ihr erneut.“</FemaleText>
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>„Und damit kehrte der Dieb in die Gegenwart zurück, schwankend und verwirrt“, sagt Falinda, die maskierte Wange auf eine behandschuhte Hand gestützt. „Der Kaufmann fragte sich kurz, welche Erinnerungen den Dieb entführt hatten, doch das Schnüffeln in den Geheimnissen anderer brachte nichts Gutes.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Und damit kehrte die Diebin in die Gegenwart zurück, schwankend und verwirrt“, sagt Falinda, die maskierte Wange auf eine behandschuhte Hand gestützt. „Der Kaufmann fragte sich kurz, welche Erinnerungen die Diebin entführt hatten, doch das Schnüffeln in den Geheimnissen anderer brachte nichts Gutes.“</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
@@ -277,7 +295,9 @@ Der Kaufmann rammt ein letztes Buch an seinen Platz. „Und daher sagte Falinda 
       <DefaultText>„Sagte der schlaue Dieb, in der Hoffnung, Zweifel in Falindas Geist zu säen. Doch die Hoffnung war töricht. Falinda *war* Erinnerung, auf die gleiche Weise, wie der Dieb Fettgewebe, Flüssigkeit und Kalziumstücke war.“
 
 Der Kaufmann verschränkt die Arme. „Falinda verlor die Geduld. Hatte der Dieb vor, das Buch zurückzugeben, oder nicht?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sagte die schlaue Diebin, in der Hoffnung, Zweifel in Falindas Geist zu säen. Doch die Hoffnung war töricht. Falinda *war* Erinnerung, auf die gleiche Weise, wie die Diebin Fettgewebe, Flüssigkeit und Kalziumstücke war.“
+
+Der Kaufmann verschränkt die Arme. „Falinda verlor die Geduld. Hatte die Diebin vor, das Buch zurückzugeben, oder nicht?“</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -297,7 +317,7 @@ Der Kaufmann verschränkt die Arme. „Falinda verlor die Geduld. Hatte der Dieb
     <Entry>
       <ID>57</ID>
       <DefaultText>„Sagte der Begleiter des Diebes und fragte sich, ob Falinda unter diesen schweren Roben nackt war“, sagt Falinda seufzend.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sagte der Begleiter der Diebin und fragte sich, ob Falinda unter diesen schweren Roben nackt war“, sagt Falinda seufzend.</FemaleText>
     </Entry>
     <Entry>
       <ID>58</ID>
@@ -324,7 +344,7 @@ Der Kaufmann verschränkt die Arme. „Falinda verlor die Geduld. Hatte der Dieb
     <Entry>
       <ID>62</ID>
       <DefaultText>„Falinda hieß den Kunden erneut willkommen“, sagt Falinda nickend.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Falinda hieß die Kundin erneut willkommen“, sagt Falinda nickend.</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
