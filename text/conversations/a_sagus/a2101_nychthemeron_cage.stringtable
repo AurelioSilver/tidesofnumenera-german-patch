@@ -36,7 +36,7 @@ Es wendet sich ab und weigert sich, weitere Fragen zu beantworten.</DefaultText>
     <Entry>
       <ID>6</ID>
       <DefaultText>Du rückst ein wenig näher an das Energiegitter, das die Kreatur umschließt, und als du dich weiterlehnst, schreit dich der hässliche Glaive mit seinem über der Schulter geworfenen Vorschlaghammer an.</DefaultText>
-      <FemaleText>Du rückst ein wenig näher an das Energiegitter, das die Kreatur umschließt, und als du dich weiterlehnst, schreit dich der hässliche Glaive mit seinem über der Schulter geworfenen Vorschlaghammer an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -60,7 +60,7 @@ Du richtest deine Aufmerksamkeit auf den Käfig der Kreatur.</DefaultText>
     <Entry>
       <ID>10</ID>
       <DefaultText>Der Nychthemeron scheint deine Annäherung zu spüren und reagiert vorhersehbar, indem er in einem verzweifelten Versuch, dich zu verletzen, wild um sich schlägt. Seine Anstrengungen tragen keine Früchte. Der Käfig hält ihn fest.</DefaultText>
-      <FemaleText>Der Nychthemeron scheint deine Annäherung zu spüren und reagiert vorhersehbar, indem er in einem verzweifelten Versuch, dich zu verletzen, wild um sich schlägt. Seine Anstrengungen tragen keine Früchte. Der Käfig hält ihn fest.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -80,7 +80,7 @@ Du richtest deine Aufmerksamkeit auf den Käfig der Kreatur.</DefaultText>
     <Entry>
       <ID>15</ID>
       <DefaultText>„He da! Kein kostenloses Glotzen! Bezahlt El Jinto oder zieht ab!“ Er blickt dich finster an, seine Hand greift nach seinem Hammer, bis du vom Käfig zurücktrittst.</DefaultText>
-      <FemaleText>„He da! Kein kostenloses Glotzen! Bezahlt El Jinto oder zieht ab!“ Er blickt dich finster an, seine Hand greift nach seinem Hammer, bis du vom Käfig zurücktrittst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -125,7 +125,7 @@ Du richtest deine Aufmerksamkeit auf den Käfig der Kreatur.</DefaultText>
     <Entry>
       <ID>24</ID>
       <DefaultText>Lass ihn in Ruhe.</DefaultText>
-      <FemaleText>Lass ihn in Ruhe.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
