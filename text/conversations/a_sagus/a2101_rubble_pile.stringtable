@@ -101,26 +101,24 @@ Abgesehen von dem gelegentlichen Piepton, der irgendwo aus dem Haufen ertönt.</
     <Entry>
       <ID>19</ID>
       <DefaultText>Untersuche den Behälter.</DefaultText>
-      <FemaleText>Untersuche den Behälter.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Untersuche die Steine.</DefaultText>
-      <FemaleText>Untersuche die Steine.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Als du dich vorlehnst, stellst du fest, dass der Behälter leer ist und auf der Oberseite eine Öffnung hat, durch die man Zugang nach innen hat. Ein kurzer Blick zeigt, dass er leer ist. Obwohl der Behälter größtenteils relativ intakt ist, ist ein kleiner Teil seiner Außenwand aufgebrochen worden, wodurch ein delikater Mechanismus zutage kommt.</DefaultText>
-      <FemaleText>Als du dich vorlehnst, stellst du fest, dass der Behälter leer ist und auf der Oberseite eine Öffnung hat, durch die man Zugang nach innen hat. Ein kurzer Blick zeigt, dass er leer ist. Obwohl der Behälter größtenteils relativ intakt ist, ist ein kleiner Teil seiner Außenwand aufgebrochen worden, wodurch ein delikater Mechanismus zutage kommt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Du bemerkst einen leichten Glanz, als das Licht genau im richtigen Winkel auf ein paar Steine trifft. 
+      <DefaultText>Du bemerkst einen leichten Glanz, als das Licht genau im richtigen Winkel auf ein paar Steine trifft.
 
 Du lehnst dich weiter vor. Kleine mechanische Apparate sind im Stein eingebettet. Eine schnelle Suche durch den restlichen Haufen offenbart, dass nur ein kleiner Teil der Steine mehr ist, als er zu sein scheint.</DefaultText>
-      <FemaleText>Du bemerkst einen leichten Glanz, als das Licht genau im richtigen Winkel auf ein paar Steine trifft. 
-
-Du lehnst dich weiter vor. Kleine mechanische Apparate sind im Stein eingebettet. Eine schnelle Suche durch den restlichen Haufen offenbart, dass nur ein kleiner Teil der Steine mehr ist, als er zu sein scheint.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -130,7 +128,7 @@ Du lehnst dich weiter vor. Kleine mechanische Apparate sind im Stein eingebettet
     <Entry>
       <ID>24</ID>
       <DefaultText>Zerschlage die Steine, um zu entnehmen, was du kannst.</DefaultText>
-      <FemaleText>Zerschlage die Steine, um zu entnehmen, was du kannst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -145,148 +143,140 @@ Du lehnst dich weiter vor. Kleine mechanische Apparate sind im Stein eingebettet
     <Entry>
       <ID>27</ID>
       <DefaultText>Du sammelst alle Steine, die du mit eingebetteter Maschine finden konntest, und machst dich an die Arbeit. Bald hast du einen ordentlichen Haufen aus Bauteilen, die als Shin dienen sollten.</DefaultText>
-      <FemaleText>Du sammelst alle Steine, die du mit eingebetteter Maschine finden konntest, und machst dich an die Arbeit. Bald hast du einen ordentlichen Haufen aus Bauteilen, die als Shin dienen sollten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Du versuchst, ein paar der Steine mit anderen, größeren Steinen aus dem Haufen aufzuschlagen, doch du kannst nur nutzlose Steinstücke abschlagen. Du hebst einen großen Stein hoch und wirfst ihn mit aller Kraft auf einen Stein, den du noch nicht ausprobiert hast. Beim Aufschlag wirst du von einem Lichtblitz geblendet, der mit einem ohrenbetäubenden Lärm einhergeht. Als du wieder sehen kannst, sind alle Steine zu feinem Staub pulverisiert worden.</DefaultText>
-      <FemaleText>Du versuchst, ein paar der Steine mit anderen, größeren Steinen aus dem Haufen aufzuschlagen, doch du kannst nur nutzlose Steinstücke abschlagen. Du hebst einen großen Stein hoch und wirfst ihn mit aller Kraft auf einen Stein, den du noch nicht ausprobiert hast. Beim Aufschlag wirst du von einem Lichtblitz geblendet, der mit einem ohrenbetäubenden Lärm einhergeht. Als du wieder sehen kannst, sind alle Steine zu feinem Staub pulverisiert worden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Du sammelst alle Steine, die du finden konntest und die dicht unter ihrer Oberfläche Maschinerien aufweisen, und machst dich an die Arbeit. Bald hast du einen ordentlichen Haufen aus Bauteilen, die als Shin dienen sollten.</DefaultText>
-      <FemaleText>Du sammelst alle Steine, die du finden konntest und die dicht unter ihrer Oberfläche Maschinerien aufweisen, und machst dich an die Arbeit. Bald hast du einen ordentlichen Haufen aus Bauteilen, die als Shin dienen sollten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Versuche, die Steine in den Behälter zu legen.</DefaultText>
-      <FemaleText>Versuche, die Steine in den Behälter zu legen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Du schaufelst eine Handvoll kleinerer Steine hoch und beginnst, sie in den Behälter zu legen. Als du einige Steine hineinlegst, piept der Behälter. Durch Ausprobieren findest du heraus, dass er nur bei den Steinen piept, die Apparate enthalten.</DefaultText>
-      <FemaleText>Du schaufelst eine Handvoll kleinerer Steine hoch und beginnst, sie in den Behälter zu legen. Als du einige Steine hineinlegst, piept der Behälter. Durch Ausprobieren findest du heraus, dass er nur bei den Steinen piept, die Apparate enthalten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Drücke den aquamarinen Knopf.</DefaultText>
-      <FemaleText>Drücke den aquamarinen Knopf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Drücke den goldenen Knopf.</DefaultText>
-      <FemaleText>Drücke den goldenen Knopf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Ein durchsichtiger, rauchig-grauer Film breitet sich auf der Oberseite des Behälters aus und die Knöpfe ziehen sich vollständig zurück. 
+      <DefaultText>Ein durchsichtiger, rauchig-grauer Film breitet sich auf der Oberseite des Behälters aus und die Knöpfe ziehen sich vollständig zurück.
 
 Trübes Licht blitzt einmal in den dunklen Aussparungen des Behälters auf. Dann zieht sich der Film zurück.</DefaultText>
-      <FemaleText>Ein durchsichtiger, rauchig-grauer Film breitet sich auf der Oberseite des Behälters aus und die Knöpfe ziehen sich vollständig zurück. 
-
-Trübes Licht blitzt einmal in den dunklen Aussparungen des Behälters auf. Dann zieht sich der Film zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>Als du in den erneut geöffneten Behälter schaust, siehst du einen Haufen glänzender Komponenten, die als Shin verwendet werden können. Dies müssen all die Komponenten sein, die in den Steinen eingebettet waren, welche du in den Behälter gelegt hast.</DefaultText>
-      <FemaleText>Als du in den erneut geöffneten Behälter schaust, siehst du einen Haufen glänzender Komponenten, die als Shin verwendet werden können. Dies müssen all die Komponenten sein, die in den Steinen eingebettet waren, welche du in den Behälter gelegt hast.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Als du in den neu geöffneten Behälter schaust, siehst du darin nur einen kleinen Apparat. Von den Steinen fehlt jede Spur. Du steckst den Apparat schnell ein.</DefaultText>
-      <FemaleText>Als du in den neu geöffneten Behälter schaust, siehst du darin nur einen kleinen Apparat. Von den Steinen fehlt jede Spur. Du steckst den Apparat schnell ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Versuche, weitere Steine in den Behälter zu legen.</DefaultText>
-      <FemaleText>Versuche, weitere Steine in den Behälter zu legen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>Nachdem du schnell eine weitere Handvoll Steine und Kiesel aufgesammelt hast, wirfst du sie in den offenen Behälter, doch es passiert nichts. Du leerst und füllst ihn einige Male, um sicherzugehen, doch der Apparat bleibt durchweg ruhig.</DefaultText>
-      <FemaleText>Nachdem du schnell eine weitere Handvoll Steine und Kiesel aufgesammelt hast, wirfst du sie in den offenen Behälter, doch es passiert nichts. Du leerst und füllst ihn einige Male, um sicherzugehen, doch der Apparat bleibt durchweg ruhig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>Nimm so viel aus dem Behälter, wie dir möglich ist.</DefaultText>
-      <FemaleText>Nimm so viel aus dem Behälter, wie dir möglich ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>Du nutzt das aufgebrochene Panel als Ausgangspunkt, um sorgfältig die Außenseite des Behälters zu zerlegen, und kannst eine kleine Anzahl intakter Bauteile bergen.</DefaultText>
-      <FemaleText>Du nutzt das aufgebrochene Panel als Ausgangspunkt, um sorgfältig die Außenseite des Behälters zu zerlegen, und kannst eine kleine Anzahl intakter Bauteile bergen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Du versuchst, über das Panel weiter ins Innere des Apparats vorzudringen, doch als das Panel sich löst, fallen einige der Komponenten heraus und lösen sich vor deinen Augen auf. 
+      <DefaultText>Du versuchst, über das Panel weiter ins Innere des Apparats vorzudringen, doch als das Panel sich löst, fallen einige der Komponenten heraus und lösen sich vor deinen Augen auf.
 
 Bis auf wenige interessante Bauteile bleibt nichts von Wert übrig.</DefaultText>
-      <FemaleText>Du versuchst, über das Panel weiter ins Innere des Apparats vorzudringen, doch als das Panel sich löst, fallen einige der Komponenten heraus und lösen sich vor deinen Augen auf. 
-
-Bis auf wenige interessante Bauteile bleibt nichts von Wert übrig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>Du schaufelst eine Handvoll der verbleibenden kleineren Steine hoch und legst sie in den Behälter, doch es passiert nichts.</DefaultText>
-      <FemaleText>Du schaufelst eine Handvoll der verbleibenden kleineren Steine hoch und legst sie in den Behälter, doch es passiert nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>Du nutzt das aufgebrochene Panel als Ausgangspunkt, um sorgfältig die Außenseite des Behälters zu zerlegen, und kannst eine ordentliche Anzahl intakter Bauteile bergen.</DefaultText>
-      <FemaleText>Du nutzt das aufgebrochene Panel als Ausgangspunkt, um sorgfältig die Außenseite des Behälters zu zerlegen, und kannst eine ordentliche Anzahl intakter Bauteile bergen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Du entdeckst einen abgetrennten Finger, der auf dem Boden liegt. Dein Blick schnellt auf deine Hände, doch alle zehn deiner Finger scheinen unversehrt zu sein. 
+      <DefaultText>Du entdeckst einen abgetrennten Finger, der auf dem Boden liegt. Dein Blick schnellt auf deine Hände, doch alle zehn deiner Finger scheinen unversehrt zu sein.
 
 Du steckst die grauenvolle Trophäe ein.</DefaultText>
-      <FemaleText>Du entdeckst einen abgetrennten Finger, der auf dem Boden liegt. Dein Blick schnellt auf deine Hände, doch alle zehn deiner Finger scheinen unversehrt zu sein. 
-
-Du steckst die grauenvolle Trophäe ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>Als Antwort verdunkeln sich die zwei beleuchteten Knöpfe und ziehen sich zurück, bis sie nur noch leicht aus dem Rahmen des Behälters herausragen.</DefaultText>
-      <FemaleText>Als Antwort verdunkeln sich die zwei beleuchteten Knöpfe und ziehen sich zurück, bis sie nur noch leicht aus dem Rahmen des Behälters herausragen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>Du leerst den Behälter und stellst sicher, dass du nur Steine hineinlegst, die Apparate enthalten. Gerade, als dir die Steine ausgehen, erklingt ein tiefer Ton und zwei kleine, etwa halbfingerbreite Knöpfe treten aus der Außenwand des Behälters hervor. Als sie voll ausgefahren sind, leuchten die Knöpfe auf, der eine in einem aquamarin gefärbten Licht, der andere golden.</DefaultText>
-      <FemaleText>Du leerst den Behälter und stellst sicher, dass du nur Steine hineinlegst, die Apparate enthalten. Gerade, als dir die Steine ausgehen, erklingt ein tiefer Ton und zwei kleine, etwa halbfingerbreite Knöpfe treten aus der Außenwand des Behälters hervor. Als sie voll ausgefahren sind, leuchten die Knöpfe auf, der eine in einem aquamarin gefärbten Licht, der andere golden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>Du nimmst die Steine aus dem Behälter und machst dich an die Arbeit. Bald hast du einen ordentlichen Haufen aus Bauteilen, die als Shin dienen sollten.</DefaultText>
-      <FemaleText>Du nimmst die Steine aus dem Behälter und machst dich an die Arbeit. Bald hast du einen ordentlichen Haufen aus Bauteilen, die als Shin dienen sollten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>Du nimmst die Steine aus dem Behälter und machst dich an die Arbeit. Bald hast du einen ordentlichen Haufen aus Bauteilen, die als Shin dienen sollten.</DefaultText>
-      <FemaleText>Du nimmst die Steine aus dem Behälter und machst dich an die Arbeit. Bald hast du einen ordentlichen Haufen aus Bauteilen, die als Shin dienen sollten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
       <DefaultText>Du nimmst die Steine aus dem Behälter und versuchst, ein paar von ihnen mit anderen, größeren Steinen des Haufens aufzuschlagen, doch du kannst nur nutzlose Steinstücke abschlagen. Du hebst einen großen Stein hoch und wirfst ihn mit aller Kraft auf einen Stein, den du noch nicht ausprobiert hast. Beim Aufschlag wirst du von einem Lichtblitz geblendet, der mit einem ohrenbetäubenden Lärm einhergeht. Als du wieder sehen kannst, sind alle Steine zu feinem Staub pulverisiert worden.</DefaultText>
-      <FemaleText>Du nimmst die Steine aus dem Behälter und versuchst, ein paar von ihnen mit anderen, größeren Steinen des Haufens aufzuschlagen, doch du kannst nur nutzlose Steinstücke abschlagen. Du hebst einen großen Stein hoch und wirfst ihn mit aller Kraft auf einen Stein, den du noch nicht ausprobiert hast. Beim Aufschlag wirst du von einem Lichtblitz geblendet, der mit einem ohrenbetäubenden Lärm einhergeht. Als du wieder sehen kannst, sind alle Steine zu feinem Staub pulverisiert worden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>Als du wieder zurück zum Behälter blickst, stellst du fest, dass die Knöpfe nicht mehr leuchten und sich in den Apparat zurückgezogen haben.</DefaultText>
-      <FemaleText>Als du wieder zurück zum Behälter blickst, stellst du fest, dass die Knöpfe nicht mehr leuchten und sich in den Apparat zurückgezogen haben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
       <DefaultText>Als du wieder zurück zum Behälter blickst, stellst du fest, dass die Knöpfe nicht mehr leuchten und sich in den Apparat zurückgezogen haben.</DefaultText>
-      <FemaleText>Als du wieder zurück zum Behälter blickst, stellst du fest, dass die Knöpfe nicht mehr leuchten und sich in den Apparat zurückgezogen haben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Du versuchst, über das Panel weiter ins Innere des Apparats vorzudringen, doch als das Panel sich löst, fallen einige der Komponenten heraus und lösen sich vor deinen Augen auf. 
+      <DefaultText>Du versuchst, über das Panel weiter ins Innere des Apparats vorzudringen, doch als das Panel sich löst, fallen einige der Komponenten heraus und lösen sich vor deinen Augen auf.
 
 Danach bleibt nichts von Wert übrig. Du entnimmst ein paar interessante Bauteile und eine ordentliche Menge Shin.</DefaultText>
-      <FemaleText>Du versuchst, über das Panel weiter ins Innere des Apparats vorzudringen, doch als das Panel sich löst, fallen einige der Komponenten heraus und lösen sich vor deinen Augen auf. 
-
-Danach bleibt nichts von Wert übrig. Du entnimmst ein paar interessante Bauteile und eine ordentliche Menge Shin.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
