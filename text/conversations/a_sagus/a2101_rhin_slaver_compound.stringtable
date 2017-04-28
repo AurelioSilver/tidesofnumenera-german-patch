@@ -11,47 +11,47 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>{Flüstert, ängstlich} "Das ist sie. Du hast es versprochen, ja? Du wirst einen friedlichen Weg aus dieser Sache finden?" Sie schaut dich mit weiten und flehenden Augen an.</DefaultText>
+      <DefaultText>{Flüstert, ängstlich} „Das ist sie. Du hast es versprochen, ja? Du wirst einen friedlichen Weg aus dieser Sache finden?“ Sie schaut dich mit weiten und flehenden Augen an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>{Flüstert, ängstlich} "Das ist sie. Du hast es versprochen, ja? Du wirst eine Vereinbarung mit Ihr treffen?" Sie schaut dich mit weiten und flehenden Augen an.</DefaultText>
+      <DefaultText>{Flüstert, ängstlich} „Das ist sie. Du hast es versprochen, ja? Du wirst eine Vereinbarung mit Ihr treffen?“ Sie schaut dich mit weiten und flehenden Augen an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>{Flüstert, ängstlich} "Das ist sie. Du hast es versprochen, ja? Du{Pause, um zu schlucken} wirst dich um sie kümmern? Ich werde mich nicht mehr um sie sorgen müssen?" Sie schaut dich mit weiten und flehenden Augen an.</DefaultText>
+      <DefaultText>{Flüstert, ängstlich} „Das ist sie. Du hast es versprochen, ja? Du{Pause, um zu schlucken} wirst dich um sie kümmern? Ich werde mich nicht mehr um sie sorgen müssen?“ Sie schaut dich mit weiten und flehenden Augen an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ja. Keine Sorge, Rhin. Ich kümmere mich darum."</DefaultText>
+      <DefaultText>„Ja. Keine Sorge, Rhin. Ich kümmere mich darum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wir werden sehen. Ich kriege das schon irgendwie hin, Rhin."</DefaultText>
+      <DefaultText>„Wir werden sehen. Ich kriege das schon irgendwie hin, Rhin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich weiß nicht."</DefaultText>
+      <DefaultText>„Ich weiß nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Was? Was meinst du mit: du weißt es nicht? Du musst es wissen! Du *darfst* mich nicht zurück zu ihr bringen."</DefaultText>
+      <DefaultText>„Was? Was meinst du mit: du weißt es nicht? Du musst es wissen! Du *darfst* mich nicht zurück zu ihr bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Keine Sorge. Ich werde nicht zulassen, dass sie dich bekommt."</DefaultText>
+      <DefaultText>„Keine Sorge. Ich werde nicht zulassen, dass sie dich bekommt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ich kann keine Versprechungen machen."</DefaultText>
+      <DefaultText>„Ich kann keine Versprechungen machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,84 +61,84 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Also gut." Sie hält inne und starrt noch immer auf Tol. "Also gut. Ich glaube dir."</DefaultText>
+      <DefaultText>„Also gut.“ Sie hält inne und starrt noch immer auf Tol. „Also gut. Ich glaube dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Wer ist sie?"</DefaultText>
+      <DefaultText>„Wer ist sie?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Was hat sie mit dir gemacht?"</DefaultText>
+      <DefaultText>„Was hat sie mit dir gemacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Sie sagte mir, dass sie nach dir sucht."</DefaultText>
+      <DefaultText>„Sie sagte mir, dass sie nach dir sucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Sie ist eine ... wie sagt man? Sie *stiehlt* Menschen." Ihr Ton ist leise und sie hält sich teilweise hinter dir versteckt. Es ist deutlich, dass sie keine Aufmerksamkeit erregen will. "Sie fand mich und sagte, ich sei ihr Besitz. Diese Schurken, die nach mir gesucht haben? Die wurden von *ihr* geschickt. Aber ich werde nicht zurückgehen. Ich werde *nie wieder* zurückgehen."
+      <DefaultText>„Sie ist eine … wie sagt man? Sie *stiehlt* Menschen.“ Ihr Ton ist leise und sie hält sich teilweise hinter dir versteckt. Es ist deutlich, dass sie keine Aufmerksamkeit erregen will. „Sie fand mich und sagte, ich sei ihr Besitz. Diese Schurken, die nach mir gesucht haben? Die wurden von *ihr* geschickt. Aber ich werde nicht zurückgehen. Ich werde *nie wieder* zurückgehen.“
 
-Sie stellt sich deinem Blick. "Du wirst nicht zulassen, dass sie mich bekommt, ja?"</DefaultText>
+Sie stellt sich deinem Blick. „Du wirst nicht zulassen, dass sie mich bekommt, ja?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Keine Sorge. Ich denke mir etwas aus, um das im Guten zu lösen."</DefaultText>
+      <DefaultText>„Keine Sorge. Ich denke mir etwas aus, um das im Guten zu lösen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Also gut." Sie scheint vorsichtig, doch vertrauensselig.</DefaultText>
+      <DefaultText>„Also gut.“ Sie scheint vorsichtig, doch vertrauensselig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Wenn du ein Sklave bist, dann muss sie eine Vereinbarung treffen. Ich werde deine Freiheit arrangieren."</DefaultText>
+      <DefaultText>„Wenn du ein Sklave bist, dann muss sie eine Vereinbarung treffen. Ich werde deine Freiheit arrangieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Sie runzelt die Braue. "Das erscheint mir gerecht ... vermutlich."</DefaultText>
+      <DefaultText>Sie runzelt die Braue. „Das erscheint mir gerecht … vermutlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich kümmere mich um sie und sorge dafür, dass du *nie wieder* ein Sklave sein musst."</DefaultText>
+      <DefaultText>„Ich kümmere mich um sie und sorge dafür, dass du *nie wieder* ein Sklave sein musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Nur ... töte sie nicht. Ja? Niemand soll wegen mir verletzt werden."</DefaultText>
+      <DefaultText>„Nur … töte sie nicht. Ja? Niemand soll wegen mir verletzt werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ich nehme dich mit zurück, Rhin. Du hast nicht wirklich eine Wahl."</DefaultText>
+      <DefaultText>„Ich nehme dich mit zurück, Rhin. Du hast nicht wirklich eine Wahl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Sehen wir mal, was sie dazu zu sagen hat."</DefaultText>
+      <DefaultText>„Sehen wir mal, was sie dazu zu sagen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Ihr Körper bebt heftig. "Nein. Ich werde nicht zurückgehen, ganz gleich, was passiert. Du musst es mir versprechen. *Versprich*, dass du nicht zulassen wirst, dass sie mich wieder bekommt."</DefaultText>
+      <DefaultText>Ihr Körper bebt heftig. „Nein. Ich werde nicht zurückgehen, ganz gleich, was passiert. Du musst es mir versprechen. *Versprich*, dass du nicht zulassen wirst, dass sie mich wieder bekommt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Also gut. Versprochen."</DefaultText>
+      <DefaultText>„Also gut. Versprochen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Das kann ich nicht tun."</DefaultText>
+      <DefaultText>„Das kann ich nicht tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,7 +148,7 @@ Sie stellt sich deinem Blick. "Du wirst nicht zulassen, dass sie mich bekommt, j
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>{Flüstert, ängstlich} "Das ist sie. Ihr habt es versprochen, ja?</DefaultText>
+      <DefaultText>{Flüstert, ängstlich} „Das ist sie. Ihr habt es versprochen, ja?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,7 +158,7 @@ Sie stellt sich deinem Blick. "Du wirst nicht zulassen, dass sie mich bekommt, j
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>{Flüstert, ängstlich} "Das ist sie. Bringt mich nicht dort hinauf. Zwingt mich nicht, zu ihr zurückzukehren." Sie schaut dich mit weiten und flehenden Augen an.</DefaultText>
+      <DefaultText>{Flüstert, ängstlich} „Das ist sie. Bringt mich nicht dort hinauf. Zwingt mich nicht, zu ihr zurückzukehren.“ Sie schaut dich mit weiten und flehenden Augen an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
