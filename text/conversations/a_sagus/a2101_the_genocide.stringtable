@@ -6,18 +6,18 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Diese stämmige, geharnischte Gestalt steht beinahe regungslos da, als du dich näherst. Er betrachtet dich schweigend mit seinem einzigen Auge. Die Nieten auf seinen Armen und die Klingen auf seinen Schultern sind fleckig und von der Zeit angefressen. 
+      <DefaultText>Diese stämmige, geharnischte Gestalt steht beinahe regungslos da, als du dich näherst. Er betrachtet dich schweigend mit seinem einzigen Auge. Die Nieten auf seinen Armen und die Klingen auf seinen Schultern sind fleckig und von der Zeit angefressen.
 
 Wenn er spricht klingt seine Stimme gedämpft und künstlich. Ein hohles Grollen, das in seinem ganzen Helm erzeugt wird.
 
-"Ich bin der Genozid. Wenn Ihr fragt, muss ich antworten. Passiert also und tauscht keine Worte aus."</DefaultText>
+„Ich bin der Genozid. Wenn Ihr fragt, muss ich antworten. Passiert also und tauscht keine Worte aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wir trieben sie zur Schmiede des Nachthimmels, ins Tal von M'ra Jolios, in die Gefahren des Schwarzen Grats. Doch diejenigen, die auf diesen Ruinen bauten ... sie durchkreuzten unsere Pläne. Immer wieder. Also brachten wir unsere Konstrukte und unsere tödlichsten Krieger in die Bucht außerhalb der Stadt. Wir führten eine mächtige Belagerung an."
+      <DefaultText>„Wir trieben sie zur Schmiede des Nachthimmels, ins Tal von M'ra Jolios, in die Gefahren des Schwarzen Grats. Doch diejenigen, die auf diesen Ruinen bauten … sie durchkreuzten unsere Pläne. Immer wieder. Also brachten wir unsere Konstrukte und unsere tödlichsten Krieger in die Bucht außerhalb der Stadt. Wir führten eine mächtige Belagerung an.“
 
-"Wir betraten die Menschensiedlung. Wir kämpften uns durch Barrikaden und Fallen. Einige unserer Konstrukte sind noch immer dort, still und tot. Doch als wir glaubten, unseren größten Sieg errungen zu haben ..."</DefaultText>
+„Wir betraten die Menschensiedlung. Wir kämpften uns durch Barrikaden und Fallen. Einige unserer Konstrukte sind noch immer dort, still und tot. Doch als wir glaubten, unseren größten Sieg errungen zu haben …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -27,7 +27,7 @@ Wenn er spricht klingt seine Stimme gedämpft und künstlich. Ein hohles Grollen
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Die Schalttafel in der Nähe surrt und knistert voller unsichtbarer Energie. "Die Schilde", murmelst du. "Wir brauchen die Schilde *jetzt*."
+      <DefaultText>Die Schalttafel in der Nähe surrt und knistert voller unsichtbarer Energie. „Die Schilde“, murmelst du. „Wir brauchen die Schilde *jetzt*.“
 
 Du drückst mehrere Knöpfe. Ein Generator wird zum Leben erweckt und die Lichter flackern einen Augenblick. Ein matter Energieschleier umkreist die Stadt, dann folgt eine merkwürdige und schreckliche Stille, als hielte die Welt den Atem an.
 
@@ -36,18 +36,18 @@ Der Rest der Erinnerung ist Blutvergießen. Die Menschen von Sagus Klippen sorg
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>... und dann verblasst die Erinnerung. 
+      <DefaultText>… und dann verblasst die Erinnerung.
 
 Du weißt, dass der Nano, der die Stadt rettete, zum Wandelnden Gott wurde. Du wisst, dass er es war, der die Tabaht besiegte. Du *erinnerst* dich an den Hass.
 
-... doch du erinnerst dich nicht an das Mädchen, das mit dir war. Wie lautete ihr Name?
+… doch du erinnerst dich nicht an das Mädchen, das mit dir war. Wie lautete ihr Name?
 
 Der Genozid beobachtet dich schweigend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Dieser hier, neben mir, funktioniert nicht mehr. Doch einer der anderen ist nicht weit von hier entfernt im Boden vergraben und hat bisher noch nicht versagt. Er versorgt die Uhr, um welche diese lächerlichen Narren tänzeln."</DefaultText>
+      <DefaultText>„Dieser hier, neben mir, funktioniert nicht mehr. Doch einer der anderen ist nicht weit von hier entfernt im Boden vergraben und hat bisher noch nicht versagt. Er versorgt die Uhr, um welche diese lächerlichen Narren tänzeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,8 +57,8 @@ Der Genozid beobachtet dich schweigend.</DefaultText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[B] (Nicht implementieren, ehe die Quest "Zerklüfteter Traum" entwickelt ist.) Der Genozid ist der heimliche Anführer der Zelle des Zerklüfteten Traums in Sagus Klippen. Er wird keine Quests des Zerklüfteten Traums ausgeben, doch ein angesehener Anführer der Zelle wird von anderen Mitgliedern erwähnt, und der Spieler hat ein paar Möglichkeiten, um herauszufinden, wer es ist.</DefaultText>
-      <FemaleText>[B] (Nicht implementieren, ehe die Quest "Zerklüfteter Traum" entwickelt ist.) Der Genozid ist der heimliche Anführer der Zelle des Zerklüfteten Traums in Sagus Klippen. Er wird keine Quests des Zerklüfteten Traums ausgeben, doch ein angesehener Anführer der Zelle wird von anderen Mitgliedern erwähnt, und der Spieler hat ein paar Möglichkeiten, um herauszufinden, wer es ist.</FemaleText>
+      <DefaultText>[B] (Nicht implementieren, ehe die Quest „Zerklüfteter Traum“ entwickelt ist.) Der Genozid ist der heimliche Anführer der Zelle des Zerklüfteten Traums in Sagus Klippen. Er wird keine Quests des Zerklüfteten Traums ausgeben, doch ein angesehener Anführer der Zelle wird von anderen Mitgliedern erwähnt, und der Spieler hat ein paar Möglichkeiten, um herauszufinden, wer es ist.</DefaultText>
+      <FemaleText>[B] (Nicht implementieren, ehe die Quest „Zerklüfteter Traum“ entwickelt ist.) Der Genozid ist der heimliche Anführer der Zelle des Zerklüfteten Traums in Sagus Klippen. Er wird keine Quests des Zerklüfteten Traums ausgeben, doch ein angesehener Anführer der Zelle wird von anderen Mitgliedern erwähnt, und der Spieler hat ein paar Möglichkeiten, um herauszufinden, wer es ist.</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -72,8 +72,8 @@ Der Genozid beobachtet dich schweigend.</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"..."</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <DefaultText>„…“</DefaultText>
+      <FemaleText>„…“</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
@@ -97,12 +97,12 @@ Der Genozid beobachtet dich schweigend.</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Was seid Ihr?"</DefaultText>
+      <DefaultText>„Was seid Ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Könnt Ihr mir nochmal sagen, wer Ihr seid?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir nochmal sagen, wer Ihr seid?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,12 +112,12 @@ Der Genozid beobachtet dich schweigend.</DefaultText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Könnt Ihr mir etwas über den Nano sagen, der Euch hier gefangen hält? Wie hat er Euch aufgehalten?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir etwas über den Nano sagen, der Euch hier gefangen hält? Wie hat er Euch aufgehalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Könnt Ihr mir nochmal etwas über den Nano sagen, der Euch hier gefangen hält?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir nochmal etwas über den Nano sagen, der Euch hier gefangen hält?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,12 +127,12 @@ Der Genozid beobachtet dich schweigend.</DefaultText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ihr habt die Tabaht erwähnt. Wer oder was waren sie?"</DefaultText>
+      <DefaultText>„Ihr habt die Tabaht erwähnt. Wer oder was waren sie?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ich möchte nochmal mit Euch über die Tabaht reden."</DefaultText>
+      <DefaultText>„Ich möchte nochmal mit Euch über die Tabaht reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -142,12 +142,12 @@ Der Genozid beobachtet dich schweigend.</DefaultText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ihr habt die Schildgeneratoren erwähnt. Könnt Ihr mir etwas darüber erzählen?"</DefaultText>
+      <DefaultText>„Ihr habt die Schildgeneratoren erwähnt. Könnt Ihr mir etwas darüber erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Könnt Ihr mir nochmal von den Schildgeneratoren erzählen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir nochmal von den Schildgeneratoren erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,12 +157,12 @@ Der Genozid beobachtet dich schweigend.</DefaultText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ihr sagt, Ihr seid der letzte Eurer Art. Warum?"</DefaultText>
+      <DefaultText>„Ihr sagt, Ihr seid der letzte Eurer Art. Warum?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Also, könnt Ihr mir sagen, wo die anderen Tabaht sind?"</DefaultText>
+      <DefaultText>„Also, könnt Ihr mir sagen, wo die anderen Tabaht sind?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,22 +172,22 @@ Der Genozid beobachtet dich schweigend.</DefaultText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ihr habt gesagt, Ihr müsstet antworten, wenn Ihr gefragt werdet. Warum?"</DefaultText>
+      <DefaultText>„Ihr habt gesagt, Ihr müsstet antworten, wenn Ihr gefragt werdet. Warum?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Könnt Ihr mir nochmal sagen, warum Ihr jede Frage beantworten müsst?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir nochmal sagen, warum Ihr jede Frage beantworten müsst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ich habe keine weiteren Fragen. Lebt wohl."</DefaultText>
+      <DefaultText>„Ich habe keine weiteren Fragen. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Nein. Ich wünsche Euch keine guten Gezeiten."</DefaultText>
+      <DefaultText>„Nein. Ich wünsche Euch keine guten Gezeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -197,14 +197,14 @@ Der Genozid beobachtet dich schweigend.</DefaultText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich bin eine Klinge, die nicht schneiden kann. Eine Waffe, die nicht zuschlagen kann. Ein lebendes Denkmal des Versagens."
+      <DefaultText>„Ich bin eine Klinge, die nicht schneiden kann. Eine Waffe, die nicht zuschlagen kann. Ein lebendes Denkmal des Versagens.“
 
-Er verlagert das Gewicht. Du hörst den Missmut in seiner Stimme. "Ich war Ogesti tel Kotu, die Starke Hand der Tradition. Sie nannten mich einen der Schwarzen Drei. Feinde verstanden uns nicht. Sie gaben meinem Namen in dutzenden ausgestorbenen Sprachen die Bedeutung 'Tod'. Sie nannten mich Waisenmacher, Hoffnungstöter, Kind des Todes. Meine Armeen schwärzten die Erde und den Himmel. Meine Dragolithen streiften durch das Land. Vorherrschaft war meine Pflicht."</DefaultText>
+Er verlagert das Gewicht. Du hörst den Missmut in seiner Stimme. „Ich war Ogesti tel Kotu, die Starke Hand der Tradition. Sie nannten mich einen der Schwarzen Drei. Feinde verstanden uns nicht. Sie gaben meinem Namen in dutzenden ausgestorbenen Sprachen die Bedeutung 'Tod'. Sie nannten mich Waisenmacher, Hoffnungstöter, Kind des Todes. Meine Armeen schwärzten die Erde und den Himmel. Meine Dragolithen streiften durch das Land. Vorherrschaft war meine Pflicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ogesti tel Kotu. Ein Gespött, das sie den Genozid nennen. Ein lebendes Relikt der Tabaht."
+      <DefaultText>„Ogesti tel Kotu. Ein Gespött, das sie den Genozid nennen. Ein lebendes Relikt der Tabaht.“
 
 Er scheint nicht darauf erpicht zu sein, dies weiter zu erörtern.</DefaultText>
       <FemaleText />
@@ -216,14 +216,14 @@ Er scheint nicht darauf erpicht zu sein, dies weiter zu erörtern.</DefaultText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ich weiß von keinen anderen. Kalaghat Anvor - Er, Der Wahrheit und Verständnis Teilt - ist tot. Vostuleh Lo, das Blendende Licht der Vernunft, wurde zerstört. Der Untergrat ist gefallen. Mein Volk ist vollkommen vernichtet und unser dienender Gott spricht nicht mehr zu uns. Die sauberen Linien der Ordnung und des Schlachtenruhms haben uns verlassen."
+      <DefaultText>„Ich weiß von keinen anderen. Kalaghat Anvor - Er, Der Wahrheit und Verständnis Teilt - ist tot. Vostuleh Lo, das Blendende Licht der Vernunft, wurde zerstört. Der Untergrat ist gefallen. Mein Volk ist vollkommen vernichtet und unser dienender Gott spricht nicht mehr zu uns. Die sauberen Linien der Ordnung und des Schlachtenruhms haben uns verlassen.“
 
-Er hält inne. "Der Rest ist Staub. Wir erhoben uns gegen einen übermächtigen Feind, und wir wurden überwältigt. Nur ich bin noch hier, um die Geschichte der Tabaht zu erzählen."</DefaultText>
+Er hält inne. „Der Rest ist Staub. Wir erhoben uns gegen einen übermächtigen Feind, und wir wurden überwältigt. Nur ich bin noch hier, um die Geschichte der Tabaht zu erzählen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Der Rest der Tabaht ist zu Staub zerfallen. Nur ich bin noch hier."</DefaultText>
+      <DefaultText>„Der Rest der Tabaht ist zu Staub zerfallen. Nur ich bin noch hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,12 +233,12 @@ Er hält inne. "Der Rest ist Staub. Wir erhoben uns gegen einen übermächtigen 
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Aus dem Inneren des Helms hörst du ein schleifendes Geräusch, das verstärkte Geräusch knirschender Zähne. Dann ertönt wieder die Stimme, trostlos: "Wir saßen am Flussufer und weinten um die Zeit, die gewesen war. Wir sahen nichts mehr, das erobert werden konnte, und trotzdem wurden wir von unseren Ängsten angetrieben. Wir hatten das Land erobert, seine Unreinheiten gesäubert, zu dem unsrigen gemacht. Wir wollten jedoch immer mehr. Als wir hörten, dass Menschen gekommen waren, um eine Heimat zu errichten, erfreuten wir uns an dem neuen Gegner, an einer neuen Prüfung unserer Wahrheit. Wir ritten gegen sie aus."</DefaultText>
+      <DefaultText>Aus dem Inneren des Helms hörst du ein schleifendes Geräusch, das verstärkte Geräusch knirschender Zähne. Dann ertönt wieder die Stimme, trostlos: „Wir saßen am Flussufer und weinten um die Zeit, die gewesen war. Wir sahen nichts mehr, das erobert werden konnte, und trotzdem wurden wir von unseren Ängsten angetrieben. Wir hatten das Land erobert, seine Unreinheiten gesäubert, zu dem unsrigen gemacht. Wir wollten jedoch immer mehr. Als wir hörten, dass Menschen gekommen waren, um eine Heimat zu errichten, erfreuten wir uns an dem neuen Gegner, an einer neuen Prüfung unserer Wahrheit. Wir ritten gegen sie aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Das Gift der Zeit fließt durch meine Adern. Ich bin gezwungen."</DefaultText>
+      <DefaultText>„Das Gift der Zeit fließt durch meine Adern. Ich bin gezwungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,12 +248,12 @@ Er hält inne. "Der Rest ist Staub. Wir erhoben uns gegen einen übermächtigen 
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Ihr habt die Namen einiger Tabaht erwähnt. Könnt Ihr mir etwas darüber erzählen?"</DefaultText>
+      <DefaultText>„Ihr habt die Namen einiger Tabaht erwähnt. Könnt Ihr mir etwas darüber erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Könnt Ihr mir nochmal von den Tabaht erzählen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir nochmal von den Tabaht erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,14 +263,14 @@ Er hält inne. "Der Rest ist Staub. Wir erhoben uns gegen einen übermächtigen 
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Kalaghat Anvor. Der stärkste Geist der Schwarzen Drei. Niemand konnte vor ihm stehen, wenn er seinen Geist bis zu ihrem Zusammenbruch verbog. Komplex, vorsichtig, überwältigend. Vostuleh Lo. Ein methodischer Planer, Sammler von Kuriositäten, Schmied und Erwecker der Konstrukte. Er war es, der die uralten Maschinen zum Leben erweckte. Und ich, das Messer, der Stratege, die Klinge in ihrer Hand. Wir Drei waren nicht aufzuhalten."
+      <DefaultText>„Kalaghat Anvor. Der stärkste Geist der Schwarzen Drei. Niemand konnte vor ihm stehen, wenn er seinen Geist bis zu ihrem Zusammenbruch verbog. Komplex, vorsichtig, überwältigend. Vostuleh Lo. Ein methodischer Planer, Sammler von Kuriositäten, Schmied und Erwecker der Konstrukte. Er war es, der die uralten Maschinen zum Leben erweckte. Und ich, das Messer, der Stratege, die Klinge in ihrer Hand. Wir Drei waren nicht aufzuhalten.“
 
-Er hält inne. "Bis Sagus Klippen. Bis dann. Bis zum Verfall durch Niederlage."</DefaultText>
+Er hält inne. „Bis Sagus Klippen. Bis dann. Bis zum Verfall durch Niederlage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Er überlegt. "Nein. Über sie zu reden bedeutet, ihren Ruhm zu schänden."</DefaultText>
+      <DefaultText>Er überlegt. „Nein. Über sie zu reden bedeutet, ihren Ruhm zu schänden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -280,12 +280,12 @@ Er hält inne. "Bis Sagus Klippen. Bis dann. Bis zum Verfall durch Niederlage."
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Der Genozid hebt niedergeschlagen die Hände. "Er fand altes Wissen und schuf sein eigenes. Er errichtete Verteidigungen, die wir nicht durchdringen konnten. Am offenkundigsten, am effektivsten – die Schildgeneratoren. Er schuf drei Barrieren um das Herz der Stadt, wobei die letzte die Stadt von der Zeit loslöste. Wenn unsere Konstrukte sie berührten, verfielen sie in Stasis. Wir konnten die Stadt nicht erreichen ... doch die Stadt konnte uns erreichen."</DefaultText>
+      <DefaultText>Der Genozid hebt niedergeschlagen die Hände. „Er fand altes Wissen und schuf sein eigenes. Er errichtete Verteidigungen, die wir nicht durchdringen konnten. Am offenkundigsten, am effektivsten – die Schildgeneratoren. Er schuf drei Barrieren um das Herz der Stadt, wobei die letzte die Stadt von der Zeit loslöste. Wenn unsere Konstrukte sie berührten, verfielen sie in Stasis. Wir konnten die Stadt nicht erreichen … doch die Stadt konnte uns erreichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Ich bin nicht genötigt, nochmal mit Euch über ihn zu reden. Die Verbindlichkeit wurde bedient."</DefaultText>
+      <DefaultText>„Ich bin nicht genötigt, nochmal mit Euch über ihn zu reden. Die Verbindlichkeit wurde bedient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,12 +295,12 @@ Er hält inne. "Bis Sagus Klippen. Bis dann. Bis zum Verfall durch Niederlage."
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Mein Volk." Seine Stimme klingt trist. "Große Krieger. Wir herrschten über dieses Land. Wir dienten dem Untergrat, und er diente uns. Wir suchten die Wahrheit im Sieg. Wir stiegen zur Epiphanie auf. Wir waren rein, unbestechlich, selbst in Uneinigkeit unteilbar. Wir fanden gegenseitig die Stärke in uns und stellten sie mit blutigen Klingen unter Beweis. Doch wir fielen. Und der Untergrat fiel. Und so lernten wir, zu spät, eine neue Wahrheit. Doch ich trage die alten Traditionen als Samen in meinem Herzen."</DefaultText>
+      <DefaultText>„Mein Volk.“ Seine Stimme klingt trist. „Große Krieger. Wir herrschten über dieses Land. Wir dienten dem Untergrat, und er diente uns. Wir suchten die Wahrheit im Sieg. Wir stiegen zur Epiphanie auf. Wir waren rein, unbestechlich, selbst in Uneinigkeit unteilbar. Wir fanden gegenseitig die Stärke in uns und stellten sie mit blutigen Klingen unter Beweis. Doch wir fielen. Und der Untergrat fiel. Und so lernten wir, zu spät, eine neue Wahrheit. Doch ich trage die alten Traditionen als Samen in meinem Herzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Er krächzt: "Dann redet."</DefaultText>
+      <DefaultText>Er krächzt: „Dann redet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -310,14 +310,14 @@ Er hält inne. "Bis Sagus Klippen. Bis dann. Bis zum Verfall durch Niederlage."
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Ich sagte Euch schon, was sie taten. Sie lösten die Stadt von der Zeit los. Sie trennten unsere Versorgungslinien. Sie ließen uns angreifbar zurück und besiegten uns. Die Strategie des Untergrats hatte versagt. Ich begann, zu zweifeln." 
+      <DefaultText>„Ich sagte Euch schon, was sie taten. Sie lösten die Stadt von der Zeit los. Sie trennten unsere Versorgungslinien. Sie ließen uns angreifbar zurück und besiegten uns. Die Strategie des Untergrats hatte versagt. Ich begann, zu zweifeln.“
 
-Er verlagert sich leicht. "Die Generatoren sind ungenutzt, verlassen. Ihr Zweck ist vergessen. Obwohl die Leute dieser Stadt noch immer auf unseren Namen fluchen, und unser Schrecken trotz der vergangenen Jahrhunderte noch frisch in ihren Albträumen haust, haben sie die Mittel für ihre Rettung vergessen."</DefaultText>
+Er verlagert sich leicht. „Die Generatoren sind ungenutzt, verlassen. Ihr Zweck ist vergessen. Obwohl die Leute dieser Stadt noch immer auf unseren Namen fluchen, und unser Schrecken trotz der vergangenen Jahrhunderte noch frisch in ihren Albträumen haust, haben sie die Mittel für ihre Rettung vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Sie machten die Stadt los. Die meisten sind zerstört. Einer versorgt die Uhr in der Nähe."</DefaultText>
+      <DefaultText>„Sie machten die Stadt los. Die meisten sind zerstört. Einer versorgt die Uhr in der Nähe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -327,17 +327,17 @@ Er verlagert sich leicht. "Die Generatoren sind ungenutzt, verlassen. Ihr Zweck 
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Warum kämpften die Tabaht so viel?"</DefaultText>
+      <DefaultText>„Warum kämpften die Tabaht so viel?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Könnt Ihr mir nochmal sagen, warum Ihr so sehr kämpftet?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir nochmal sagen, warum Ihr so sehr kämpftet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Er senkt den Kopf. "Ein mächtiger Nano rettete sie. Mit seiner Magie beschwor er die Stärke der Alten herauf und er fing uns ein. Ich dachte, mein Leben sei zu Ende. Doch er kerkerte mich in langsamer Zeit ein, schloss mich in meinem Körper ein und setzte Maschinen ein, um meinen Willen zu lähmen. Ich erinnere mich noch immer an unsere Herrlichkeit und ich sehe die verblasste Zukunft vor mir, doch ich bin machtlos und kann nicht handeln. Die Erinnerungen an unsere Siegeszüge bleiben stets Mittelpunkt meines Geistes, und ich muss die spöttischen Fragen dieser ... Leute ... beantworten ... oder leiden."</DefaultText>
+      <DefaultText>Er senkt den Kopf. „Ein mächtiger Nano rettete sie. Mit seiner Magie beschwor er die Stärke der Alten herauf und er fing uns ein. Ich dachte, mein Leben sei zu Ende. Doch er kerkerte mich in langsamer Zeit ein, schloss mich in meinem Körper ein und setzte Maschinen ein, um meinen Willen zu lähmen. Ich erinnere mich noch immer an unsere Herrlichkeit und ich sehe die verblasste Zukunft vor mir, doch ich bin machtlos und kann nicht handeln. Die Erinnerungen an unsere Siegeszüge bleiben stets Mittelpunkt meines Geistes, und ich muss die spöttischen Fragen dieser … Leute … beantworten … oder leiden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,38 +357,38 @@ Er verlagert sich leicht. "Die Generatoren sind ungenutzt, verlassen. Ihr Zweck 
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Wartet. Ich hatte weitere Fragen."</DefaultText>
+      <DefaultText>„Wartet. Ich hatte weitere Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Das ist alles, was ich wollte. Lebt wohl."</DefaultText>
+      <DefaultText>„Das ist alles, was ich wollte. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Die Erinnerung aus der Kugel im Labyrinth ereilt dich wieder, stärker als zuvor, doch nun erinnerst du dich so, wie es sich zutrug, und nicht, wie du es dir gewünscht hättest. Du hast gegen die Frau mit der unsichtbaren Klinge gekämpft, und du bist an den Wachen vor der Treppe vorbei geschlichen, und du bist in den Keller deines Turms hinabgestiegen. 
+      <DefaultText>Die Erinnerung aus der Kugel im Labyrinth ereilt dich wieder, stärker als zuvor, doch nun erinnerst du dich so, wie es sich zutrug, und nicht, wie du es dir gewünscht hättest. Du hast gegen die Frau mit der unsichtbaren Klinge gekämpft, und du bist an den Wachen vor der Treppe vorbei geschlichen, und du bist in den Keller deines Turms hinabgestiegen.
 
 Du hast Generatoren aktiviert und bist auf die Kommandoplattform auf den Höhen geklettert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Es ist eine lückenhafte Erinnerung, die sich in Einzelbildern und Momenten ausdrückt – der unerbittliche Schlag der Kriegsmaschinen, als sie sich der Stadt näherten, die Plünderer im Himmel auf ihren Luftschiffen ...</DefaultText>
+      <DefaultText>Es ist eine lückenhafte Erinnerung, die sich in Einzelbildern und Momenten ausdrückt – der unerbittliche Schlag der Kriegsmaschinen, als sie sich der Stadt näherten, die Plünderer im Himmel auf ihren Luftschiffen …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Du erinnerst dich, dass du auf der Brüstung gegen sie kämpftest. Du erinnerst dich an die Flucht in die Sicherheit der Stadt. Du erinnerst dich, wie du dich den Weg zu den Schildgeneratoren bahntest und die Versorgungslinien der Tabaht abschnittst ... 
+      <DefaultText>Du erinnerst dich, dass du auf der Brüstung gegen sie kämpftest. Du erinnerst dich an die Flucht in die Sicherheit der Stadt. Du erinnerst dich, wie du dich den Weg zu den Schildgeneratoren bahntest und die Versorgungslinien der Tabaht abschnittst …
 
-... und dann verblasst die Erinnerung. Der Genozid beobachtet dich schweigend.</DefaultText>
+… und dann verblasst die Erinnerung. Der Genozid beobachtet dich schweigend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Wir kämpften. Wir drängten an den offensichtlichen Verteidigungen vorbei. Wir spürten den vertrauten Rausch des Sieges. Und dann hielt die Welt draußen an. Dieser *Nano* hatte die Stadt vor uns abgeschirmt. Von unseren Versorgungslinien und unserer Kommunikation abgetrennt, waren wir ... umzingelt. Sie mähten uns nieder und brachten mich – *mich* – in Ketten an ihren Hof. Die Menge verurteilte mich. Sie verspotteten mich, quälten mich. Ihr Nano verfluchte mich, und nun bin ich schwach. Untauglich." 
+      <DefaultText>„Wir kämpften. Wir drängten an den offensichtlichen Verteidigungen vorbei. Wir spürten den vertrauten Rausch des Sieges. Und dann hielt die Welt draußen an. Dieser *Nano* hatte die Stadt vor uns abgeschirmt. Von unseren Versorgungslinien und unserer Kommunikation abgetrennt, waren wir … umzingelt. Sie mähten uns nieder und brachten mich – *mich* – in Ketten an ihren Hof. Die Menge verurteilte mich. Sie verspotteten mich, quälten mich. Ihr Nano verfluchte mich, und nun bin ich schwach. Untauglich.“
 
-Er knurrt: "Ich kann mir nicht einmal das eigene Leben nehmen."</DefaultText>
+Er knurrt: „Ich kann mir nicht einmal das eigene Leben nehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -403,12 +403,12 @@ Er knurrt: "Ich kann mir nicht einmal das eigene Leben nehmen."</DefaultText>
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Könnt Ihr mir mehr von dem Untergrat erzählen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir mehr von dem Untergrat erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Könnt Ihr mir nochmal von dem Untergrat erzählen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir nochmal von dem Untergrat erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -418,22 +418,22 @@ Er knurrt: "Ich kann mir nicht einmal das eigene Leben nehmen."</DefaultText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Unser Sklave, unser Gott, unser Preis. Er hielt uns heilig, hielt uns rein und unverändert, auf einen festen Punkt verankert. Die Welt drehte sich um uns, doch wir blieben konstant. Wenn die Welt Unbeständigkeit brachte, fütterten wir sie mit Blut."</DefaultText>
+      <DefaultText>„Unser Sklave, unser Gott, unser Preis. Er hielt uns heilig, hielt uns rein und unverändert, auf einen festen Punkt verankert. Die Welt drehte sich um uns, doch wir blieben konstant. Wenn die Welt Unbeständigkeit brachte, fütterten wir sie mit Blut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Ich habe einmal davon gesprochen und muss mit Euch nicht mehr darüber reden."</DefaultText>
+      <DefaultText>„Ich habe einmal davon gesprochen und muss mit Euch nicht mehr darüber reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Lasst mich Euch eine andere Frage stellen."</DefaultText>
+      <DefaultText>„Lasst mich Euch eine andere Frage stellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -458,12 +458,12 @@ Er knurrt: "Ich kann mir nicht einmal das eigene Leben nehmen."</DefaultText>
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Ihr seid sehr ruhig für jemand, der seit Jahrhunderten eingesperrt ist."</DefaultText>
+      <DefaultText>„Ihr seid sehr ruhig für jemand, der seit Jahrhunderten eingesperrt ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Sagt mir nochmal, warum Ihr so ruhig seid."</DefaultText>
+      <DefaultText>„Sagt mir nochmal, warum Ihr so ruhig seid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,19 +473,19 @@ Er knurrt: "Ich kann mir nicht einmal das eigene Leben nehmen."</DefaultText>
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Ich wurde besiegt. Ich habe nichts, wofür ich kämpfen kann. Mein Fänger kastrierte mich mit einem Werkzeug, das sie geschaffen hatten, um meine natürlichen Triebe zu dämpfen. Ich kann mich an die Handlungen erinnern. Ich erinnere mich an die Herrlichkeit. Doch ich verspüre ... Schande. Reue. Ich bin geschwächt, doch nicht aus eigenem Willen heraus."
+      <DefaultText>„Ich wurde besiegt. Ich habe nichts, wofür ich kämpfen kann. Mein Fänger kastrierte mich mit einem Werkzeug, das sie geschaffen hatten, um meine natürlichen Triebe zu dämpfen. Ich kann mich an die Handlungen erinnern. Ich erinnere mich an die Herrlichkeit. Doch ich verspüre … Schande. Reue. Ich bin geschwächt, doch nicht aus eigenem Willen heraus.“
 
-Der Genozid ballt die Faust. "Was bedeutet das schon? Diejenigen, die gegen mich standen, sind alle tot. Ich bin siegreich. Ich kämpfe nicht mehr mit der Klinge. Meine Waffe ist die Zeit."</DefaultText>
+Der Genozid ballt die Faust. „Was bedeutet das schon? Diejenigen, die gegen mich standen, sind alle tot. Ich bin siegreich. Ich kämpfe nicht mehr mit der Klinge. Meine Waffe ist die Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Der Nano von damals nahm mir die Ambition, die mein Geburtsrecht gewesen war. Ich habe sie durch Augen ersetzt, die Jahrhunderte gesehen haben."</DefaultText>
+      <DefaultText>„Der Nano von damals nahm mir die Ambition, die mein Geburtsrecht gewesen war. Ich habe sie durch Augen ersetzt, die Jahrhunderte gesehen haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Der Nano, der Euch besiegt hat, war der Wandelnde Gott. Er und seine Kinder sind noch immer am Leben."</DefaultText>
+      <DefaultText>„Der Nano, der Euch besiegt hat, war der Wandelnde Gott. Er und seine Kinder sind noch immer am Leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -495,17 +495,17 @@ Der Genozid ballt die Faust. "Was bedeutet das schon? Diejenigen, die gegen mich
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Seine Stimme ist flach und leblos. "Andere haben das behauptet. Ich weiß nicht, ob sie das sagen, um mich zu quälen. Doch wenn unser Feind ein Gott gewesen ist, selbst wenn er einst nur ein Mensch war, dann ist das Auflehnen gegen ihn wie ein Schlag in das Gesicht der Göttlichkeit. Die Tabaht waren ein heiliges Volk. Menschen glauben das nicht, doch unsere Rituale waren für uns ebenso heilig wie sie für Eure Art profan waren. Wir akzeptierten den Willen des Unbeschreiblichen."</DefaultText>
+      <DefaultText>Seine Stimme ist flach und leblos. „Andere haben das behauptet. Ich weiß nicht, ob sie das sagen, um mich zu quälen. Doch wenn unser Feind ein Gott gewesen ist, selbst wenn er einst nur ein Mensch war, dann ist das Auflehnen gegen ihn wie ein Schlag in das Gesicht der Göttlichkeit. Die Tabaht waren ein heiliges Volk. Menschen glauben das nicht, doch unsere Rituale waren für uns ebenso heilig wie sie für Eure Art profan waren. Wir akzeptierten den Willen des Unbeschreiblichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Jeder, der noch lebt, kann den Mantel der Gottheit noch immer finden. Göttlich zu sein heißt, jenseits der Regeln einer moralischen Ethik zu sein. Diejenigen, die zu Göttern werden, müssen diese Sorgen beiseitelegen, wenn sie sich gegen die alten Lehren wenden wollen."</DefaultText>
+      <DefaultText>„Jeder, der noch lebt, kann den Mantel der Gottheit noch immer finden. Göttlich zu sein heißt, jenseits der Regeln einer moralischen Ethik zu sein. Diejenigen, die zu Göttern werden, müssen diese Sorgen beiseitelegen, wenn sie sich gegen die alten Lehren wenden wollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Ich war bereit, Krieg bis an den Rand des Universums zu führen ... doch das Universum dreht sich weiter, und wie es scheint, muss auch ich das. Eines Tages werde ich frei sein. Eines Tages. Bis dahin bin ich unzerstörbar."</DefaultText>
+      <DefaultText>„Ich war bereit, Krieg bis an den Rand des Universums zu führen … doch das Universum dreht sich weiter, und wie es scheint, muss auch ich das. Eines Tages werde ich frei sein. Eines Tages. Bis dahin bin ich unzerstörbar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -515,17 +515,17 @@ Der Genozid ballt die Faust. "Was bedeutet das schon? Diejenigen, die gegen mich
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Für Ehre. Für Wahrheit. Für den Einen Weg. Weil es unsere *Pflicht* war. Wir wurden mit der Klinge geboren. So stand es geschrieben. So wählten wir. Freier Wille ist ein Fluch, es sei denn, er dient einem höheren Zweck. Unser Zweck wurde uns von dem Untergrat vorgegeben, er wurde dem Untergrat von unseren Ahnen gegeben, die ihn fanden und unser Sein für immer kristallisierten."</DefaultText>
+      <DefaultText>„Für Ehre. Für Wahrheit. Für den Einen Weg. Weil es unsere *Pflicht* war. Wir wurden mit der Klinge geboren. So stand es geschrieben. So wählten wir. Freier Wille ist ein Fluch, es sei denn, er dient einem höheren Zweck. Unser Zweck wurde uns von dem Untergrat vorgegeben, er wurde dem Untergrat von unseren Ahnen gegeben, die ihn fanden und unser Sein für immer kristallisierten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Es war unsere *Pflicht*."</DefaultText>
+      <DefaultText>„Es war unsere *Pflicht*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Ein Verstoßener des Wandelnden Gottes reiste zu Vanders Grab, und Vanders beherrschte seinen Geist."</DefaultText>
+      <DefaultText>„Ein Verstoßener des Wandelnden Gottes reiste zu Vanders Grab, und Vanders beherrschte seinen Geist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -535,42 +535,42 @@ Der Genozid ballt die Faust. "Was bedeutet das schon? Diejenigen, die gegen mich
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Ich war Zeuge eines Reisenden, der Anvors Grab betrat und seinen Geist völlig zerstörte."</DefaultText>
+      <DefaultText>„Ich war Zeuge eines Reisenden, der Anvors Grab betrat und seinen Geist völlig zerstörte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Ich war Zeuge eines Reisenden, der Anvors Grab betrat. Beide verschmolzen zu einem Geist, gemeinsam."</DefaultText>
+      <DefaultText>„Ich war Zeuge eines Reisenden, der Anvors Grab betrat. Beide verschmolzen zu einem Geist, gemeinsam.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Ich war Zeuge eines Reisenden, der Anvors Grab betrat. Anvor zerstörte seinen Geist."</DefaultText>
+      <DefaultText>„Ich war Zeuge eines Reisenden, der Anvors Grab betrat. Anvor zerstörte seinen Geist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Er hält inne. "Der Untergrat war unsere Seele, unser Beichtvater. Durch ihn erfuhren wir reine, harte Verzückung. Wir kannten unseren Pfad. Er brachte uns die Worte der alten Tabaht und unser Pfad war fest und unbeugsam. Absolut."</DefaultText>
+      <DefaultText>Er hält inne. „Der Untergrat war unsere Seele, unser Beichtvater. Durch ihn erfuhren wir reine, harte Verzückung. Wir kannten unseren Pfad. Er brachte uns die Worte der alten Tabaht und unser Pfad war fest und unbeugsam. Absolut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Wenn Euer Pfad unbeugsam war, dann ist es kein Wunder, dass Ihr gebrochen seid."</DefaultText>
+      <DefaultText>„Wenn Euer Pfad unbeugsam war, dann ist es kein Wunder, dass Ihr gebrochen seid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Was *war* der Untergrat?"</DefaultText>
+      <DefaultText>„Was *war* der Untergrat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Was ist der Vorteil eines absoluten Pfads?"</DefaultText>
+      <DefaultText>„Was ist der Vorteil eines absoluten Pfads?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Was geschah mit dem Untergrat?"</DefaultText>
+      <DefaultText>„Was geschah mit dem Untergrat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -580,39 +580,39 @@ Der Genozid ballt die Faust. "Was bedeutet das schon? Diejenigen, die gegen mich
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>Er überlegt. "Das würdet Ihr nicht begreifen. Er war eine Maschine. Er war ein Stein. Er war ein Gewölbe. Er war eine Stadt. Er war die direkte Stimme unserer Ahnen. Er sprach in unseren Köpfen, in unsere Ohren und in unseren Herzen. Wir hörten seine Stimme in unseren Horten, in unseren täglichen Anweisungen. Unser Gott war wahr und stark und einzigartig, kein wankelmütiges, unbeständiges Ding der heutigen Zeit."</DefaultText>
+      <DefaultText>Er überlegt. „Das würdet Ihr nicht begreifen. Er war eine Maschine. Er war ein Stein. Er war ein Gewölbe. Er war eine Stadt. Er war die direkte Stimme unserer Ahnen. Er sprach in unseren Köpfen, in unsere Ohren und in unseren Herzen. Wir hörten seine Stimme in unseren Horten, in unseren täglichen Anweisungen. Unser Gott war wahr und stark und einzigartig, kein wankelmütiges, unbeständiges Ding der heutigen Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Wir hatten keine Fragen zu unseren Pflichten, unseren Zielen – nur zu den Einzelheiten. Wir löschten Zweifel an der Reinheit der vollständigen Gewissheit. Gestellte Fragen sind beantwortete Fragen, oder sie sind Häresie. Selbst herbeigeführte Qual ist nicht nötig. Die Notwendigkeit der Selbstbeobachtung wurde zur Optimierung unserer Pfade. Wir gestalteten uns selbst zum Gipfel unserer Errungenschaft. Eine klare Definition im Leben schafft Wahrheit. Nicht diesen bemitleidenswerten Schatten."</DefaultText>
+      <DefaultText>„Wir hatten keine Fragen zu unseren Pflichten, unseren Zielen – nur zu den Einzelheiten. Wir löschten Zweifel an der Reinheit der vollständigen Gewissheit. Gestellte Fragen sind beantwortete Fragen, oder sie sind Häresie. Selbst herbeigeführte Qual ist nicht nötig. Die Notwendigkeit der Selbstbeobachtung wurde zur Optimierung unserer Pfade. Wir gestalteten uns selbst zum Gipfel unserer Errungenschaft. Eine klare Definition im Leben schafft Wahrheit. Nicht diesen bemitleidenswerten Schatten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Du kannst den Missmut in seiner Stimme hören. "Sabotage. Oder Versagen. Einer meiner Untergebenen sagte mir, dass er *Niederlage* in unsere Ohren geflüstert hätte, als wäre er erkrankt und hätte den Blick auf den wahren Pfad verloren. Als er gefragt wurde, verneinte der Untergrat dies. Mein Soldat wurde verstoßen und ich erntete für seinen Zweifel Gehässigkeit. Es war später, Jahre später, als der Untergrat brach. Nach unserem Versagen. Und ich habe nie erfahren, ob der Samen unserer Niederlage damals schon gesät worden war."</DefaultText>
+      <DefaultText>Du kannst den Missmut in seiner Stimme hören. „Sabotage. Oder Versagen. Einer meiner Untergebenen sagte mir, dass er *Niederlage* in unsere Ohren geflüstert hätte, als wäre er erkrankt und hätte den Blick auf den wahren Pfad verloren. Als er gefragt wurde, verneinte der Untergrat dies. Mein Soldat wurde verstoßen und ich erntete für seinen Zweifel Gehässigkeit. Es war später, Jahre später, als der Untergrat brach. Nach unserem Versagen. Und ich habe nie erfahren, ob der Samen unserer Niederlage damals schon gesät worden war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Ich beuge mich jetzt nicht. Ich wurde unterdrückt, doch ich beuge mich nicht. Ich lebe, und jene, die gegen mich standen, sind tot." Er wendet sich leicht von dir ab. "Habt Ihr weitere Fragen, oder entlasst Ihr mich?"</DefaultText>
+      <DefaultText>„Ich beuge mich jetzt nicht. Ich wurde unterdrückt, doch ich beuge mich nicht. Ich lebe, und jene, die gegen mich standen, sind tot.“ Er wendet sich leicht von dir ab. „Habt Ihr weitere Fragen, oder entlasst Ihr mich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Dann bin ich wahrlich der letzte. Er sprach davon, mit dem Tode einen Schatten zu werfen, eine Struktur zu schaffen, die ihn überleben würde. Ich verstand seine Erklärung nicht. Es war nicht meine Pflicht. Ich hatte gehofft, dass Kalaghat Anvor sich wieder erheben würde." Er zuckt mit den Schultern. "Ich hatte mich mit seinem Ableben abgefunden. Ich werde trotzdem überleben."</DefaultText>
+      <DefaultText>„Dann bin ich wahrlich der letzte. Er sprach davon, mit dem Tode einen Schatten zu werfen, eine Struktur zu schaffen, die ihn überleben würde. Ich verstand seine Erklärung nicht. Es war nicht meine Pflicht. Ich hatte gehofft, dass Kalaghat Anvor sich wieder erheben würde.“ Er zuckt mit den Schultern. „Ich hatte mich mit seinem Ableben abgefunden. Ich werde trotzdem überleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Er neigt den Kopf, seine Stimme ist selbstgefällig: "Wenn irgendeiner mich um Rat ersucht hätte, hätte ich ihm gesagt, dass dies das Ergebnis sein würde. Kalaghat Anvor ist einzigartig. Selbst im Tode. Stellt Euch die Macht vor, die er zu Lebzeiten ausübte."</DefaultText>
+      <DefaultText>Er neigt den Kopf, seine Stimme ist selbstgefällig: „Wenn irgendeiner mich um Rat ersucht hätte, hätte ich ihm gesagt, dass dies das Ergebnis sein würde. Kalaghat Anvor ist einzigartig. Selbst im Tode. Stellt Euch die Macht vor, die er zu Lebzeiten ausübte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Kalaghat Anvor würde nie erlauben, so entwürdigt zu werden. Das wäre Verfall. Unvollkommenheit. Ich glaube Euch nicht."
+      <DefaultText>„Kalaghat Anvor würde nie erlauben, so entwürdigt zu werden. Das wäre Verfall. Unvollkommenheit. Ich glaube Euch nicht.“
 
-Er schaut nach unten, dann spannt er die Hände. Er spricht, leiser: "Nein. Ich glaube Euch. Die Welt ist im Niedergang. Nichts nähert sich der Perfektion, die wir geschaffen hatten. Wenigstens hat Er, Der Teilt, seine Einblicke wieder mit der Welt geteilt. Vielleicht kann er den Untergrat wieder aufleben lassen."</DefaultText>
+Er schaut nach unten, dann spannt er die Hände. Er spricht, leiser: „Nein. Ich glaube Euch. Die Welt ist im Niedergang. Nichts nähert sich der Perfektion, die wir geschaffen hatten. Wenigstens hat Er, Der Teilt, seine Einblicke wieder mit der Welt geteilt. Vielleicht kann er den Untergrat wieder aufleben lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -622,11 +622,11 @@ Er schaut nach unten, dann spannt er die Hände. Er spricht, leiser: "Nein. Ich 
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Hätten sie es gewusst, hätten sie uns willkommen geheißen, dann hätten sie unsere Leibeigenen sein können. Stattdessen wurden sie zu Staub."
+      <DefaultText>„Hätten sie es gewusst, hätten sie uns willkommen geheißen, dann hätten sie unsere Leibeigenen sein können. Stattdessen wurden sie zu Staub.“
 
-Er gestikuliert. "All das. Es hätte mir für die Zukunft meines Volkes zur Verwaltung überlassen werden sollen. Es war versprochen. Doch jetzt." Seine Arme fallen zurück an die Seite.
+Er gestikuliert. „All das. Es hätte mir für die Zukunft meines Volkes zur Verwaltung überlassen werden sollen. Es war versprochen. Doch jetzt.“ Seine Arme fallen zurück an die Seite.
 
-"Jetzt bin ich der Genozid. Ein Relikt. Der letzte meiner Art."</DefaultText>
+„Jetzt bin ich der Genozid. Ein Relikt. Der letzte meiner Art.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,14 +636,14 @@ Er gestikuliert. "All das. Es hätte mir für die Zukunft meines Volkes zur Verw
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Er lehnt sich weiter vor. "Ich sterbe nicht. Ich kann nicht verletzt werden. Ich bin wie ein Käfer, der im Harz festsitzt. Warum sollte ich nicht ... gelassen sein?"
+      <DefaultText>Er lehnt sich weiter vor. „Ich sterbe nicht. Ich kann nicht verletzt werden. Ich bin wie ein Käfer, der im Harz festsitzt. Warum sollte ich nicht … gelassen sein?“
 
-Er lehnt sich zurück. "Der Untergrat sprach von meinem Schicksal."</DefaultText>
+Er lehnt sich zurück. „Der Untergrat sprach von meinem Schicksal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Er scharrt mit den Füßen. "Der Nano, der mich gefangen nahm, der mich in der Zeit festnagelte ... er verwendete den Geistseher, um den Standort des Untergrats aufzuspüren. Ich weiß nicht, ob er ihn jemals auf der Welt gefunden hat. Er raubte mir einen Genozid und verspottete mich mit seinem Spitznamen. Ich trug keine Schuld. Ich werde vor dem Untergrat stehen und meine Unschuld beschwören."</DefaultText>
+      <DefaultText>Er scharrt mit den Füßen. „Der Nano, der mich gefangen nahm, der mich in der Zeit festnagelte … er verwendete den Geistseher, um den Standort des Untergrats aufzuspüren. Ich weiß nicht, ob er ihn jemals auf der Welt gefunden hat. Er raubte mir einen Genozid und verspottete mich mit seinem Spitznamen. Ich trug keine Schuld. Ich werde vor dem Untergrat stehen und meine Unschuld beschwören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -653,12 +653,12 @@ Er lehnt sich zurück. "Der Untergrat sprach von meinem Schicksal."</DefaultText
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Wie konnten sie Euch davon abhalten, die Flucht zu unternehmen?"</DefaultText>
+      <DefaultText>„Wie konnten sie Euch davon abhalten, die Flucht zu unternehmen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Sagt mir nochmal, wie sie Euch davon abhalten konnten, die Flucht zu unternehmen."</DefaultText>
+      <DefaultText>„Sagt mir nochmal, wie sie Euch davon abhalten konnten, die Flucht zu unternehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -668,24 +668,24 @@ Er lehnt sich zurück. "Der Untergrat sprach von meinem Schicksal."</DefaultText
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Der Nano, der die Schilde der Stadt errichtete, erschuf einen Apparat. Er nannte ihn Geistseher. Damit vergewaltigte er meinen Geist, meine Erinnerungen und alles, was sich im Kern meines Seins befand. In einem Anfall von Rache riss er Wahrheiten aus mir. Er brachte mich dazu, mein Volk zu verraten. Er überschrieb meinen Geist. Er gab mir perfekte Klarheit über die Vergangenheit und kastrierte meine Fähigkeit, die Zukunft zu formen."</DefaultText>
+      <DefaultText>„Der Nano, der die Schilde der Stadt errichtete, erschuf einen Apparat. Er nannte ihn Geistseher. Damit vergewaltigte er meinen Geist, meine Erinnerungen und alles, was sich im Kern meines Seins befand. In einem Anfall von Rache riss er Wahrheiten aus mir. Er brachte mich dazu, mein Volk zu verraten. Er überschrieb meinen Geist. Er gab mir perfekte Klarheit über die Vergangenheit und kastrierte meine Fähigkeit, die Zukunft zu formen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Sie stießen mit dem Geistseher in meinen Verstand vor. Sie schrieben meine Sehnsüchte um und kritzelten ihre eigenen in mich."</DefaultText>
+      <DefaultText>„Sie stießen mit dem Geistseher in meinen Verstand vor. Sie schrieben meine Sehnsüchte um und kritzelten ihre eigenen in mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Die Tabaht trachteten niemals nach Rache gegen Feinde, die mächtiger waren als wir. Wir entwickelten Stratageme, um sie zu besiegen. Wir prüften uns. Weder bestraften, noch hassten wir. Strafe war Reinigung. Dies, allerdings, ist Folter. Der schlimmste Abschaum der Stadt kann nun über mich spotten. Sie können mich verhöhnen und sich lustig machen, und mir fehlt die Macht, sie für ihre Unverschämtheit zu bestrafen."
+      <DefaultText>„Die Tabaht trachteten niemals nach Rache gegen Feinde, die mächtiger waren als wir. Wir entwickelten Stratageme, um sie zu besiegen. Wir prüften uns. Weder bestraften, noch hassten wir. Strafe war Reinigung. Dies, allerdings, ist Folter. Der schlimmste Abschaum der Stadt kann nun über mich spotten. Sie können mich verhöhnen und sich lustig machen, und mir fehlt die Macht, sie für ihre Unverschämtheit zu bestrafen.“
 
-Er spricht, leiser: "Und nun tun sie nicht einmal mehr das. Ich bin zu einer Einrichtung geworden. Eine Belanglosigkeit. Eine Nicht-Entität."</DefaultText>
+Er spricht, leiser: „Und nun tun sie nicht einmal mehr das. Ich bin zu einer Einrichtung geworden. Eine Belanglosigkeit. Eine Nicht-Entität.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Ich bin der Sklave von ..." Ihr hört das Knirschen seiner Zähne, als er sich die perfekte Beleidigung ausdenkt. "... von *Friedensstiftern*. Ich muss ihre Präsenz aushalten und täglich spüren, wie ihre Korruptheit in mich hineindringt. Ein fremder Teil von mir sehnt sich danach." Er schlägt mit der Faust in die Hand. "Doch ich erinnere mich, dass ich über sie triumphieren werde. Am Ende werden sie sterben. Ich aber nicht."</DefaultText>
+      <DefaultText>„Ich bin der Sklave von …“ Ihr hört das Knirschen seiner Zähne, als er sich die perfekte Beleidigung ausdenkt. „… von *Friedensstiftern*. Ich muss ihre Präsenz aushalten und täglich spüren, wie ihre Korruptheit in mich hineindringt. Ein fremder Teil von mir sehnt sich danach.“ Er schlägt mit der Faust in die Hand. „Doch ich erinnere mich, dass ich über sie triumphieren werde. Am Ende werden sie sterben. Ich aber nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
