@@ -58,7 +58,7 @@ Der Genozid beobachtet dich schweigend.</DefaultText>
     <Entry>
       <ID>9</ID>
       <DefaultText>[B] (Nicht implementieren, ehe die Quest „Zerklüfteter Traum“ entwickelt ist.) Der Genozid ist der heimliche Anführer der Zelle des Zerklüfteten Traums in Sagus Klippen. Er wird keine Quests des Zerklüfteten Traums ausgeben, doch ein angesehener Anführer der Zelle wird von anderen Mitgliedern erwähnt, und der Spieler hat ein paar Möglichkeiten, um herauszufinden, wer es ist.</DefaultText>
-      <FemaleText>[B] (Nicht implementieren, ehe die Quest „Zerklüfteter Traum“ entwickelt ist.) Der Genozid ist der heimliche Anführer der Zelle des Zerklüfteten Traums in Sagus Klippen. Er wird keine Quests des Zerklüfteten Traums ausgeben, doch ein angesehener Anführer der Zelle wird von anderen Mitgliedern erwähnt, und der Spieler hat ein paar Möglichkeiten, um herauszufinden, wer es ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -68,12 +68,12 @@ Der Genozid beobachtet dich schweigend.</DefaultText>
     <Entry>
       <ID>11</ID>
       <DefaultText>2) überzeuge den Genozid über Dialog und/oder Gezeitenwellen, dass seine Philosophie Makel hat.</DefaultText>
-      <FemaleText>2) überzeuge den Genozid über Dialog und/oder Gezeitenwellen, dass seine Philosophie Makel hat.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>„…“</DefaultText>
-      <FemaleText>„…“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
