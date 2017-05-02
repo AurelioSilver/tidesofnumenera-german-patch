@@ -243,7 +243,7 @@ Er fährt sich vorsichtig durchs schüttere Haar und starrt dich an. „Das will
     <Entry>
       <ID>43</ID>
       <DefaultText>Follow-up PQ. 43</DefaultText>
-      <FemaleText>Follow-up PQ. 43</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
@@ -732,12 +732,12 @@ Zaofi schluckt voller Bitterkeit. „Als er hinfiel, rannte ich auf die Straße.
     <Entry>
       <ID>133</ID>
       <DefaultText>::murmelt::</DefaultText>
-      <FemaleText>::murmelt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
       <DefaultText>„“</DefaultText>
-      <FemaleText>„…“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
@@ -752,7 +752,7 @@ Zaofi schluckt voller Bitterkeit. „Als er hinfiel, rannte ich auf die Straße.
     <Entry>
       <ID>137</ID>
       <DefaultText>::chk chk::</DefaultText>
-      <FemaleText>::chk chk::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
@@ -819,17 +819,17 @@ Zaofi schluckt voller Bitterkeit. „Als er hinfiel, rannte ich auf die Straße.
     <Entry>
       <ID>151</ID>
       <DefaultText>„Wilde! Ich bin von Wilden umgeben!“</DefaultText>
-      <FemaleText>„Wilde! Ich bin von Wilden umgeben!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
       <DefaultText>„Nicht schon wieder!“</DefaultText>
-      <FemaleText>„Nicht schon wieder!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
       <DefaultText>Du wendest deine Aufmerksamkeit wieder Zaofi zu.</DefaultText>
-      <FemaleText>Du wendest deine Aufmerksamkeit wieder Zaofi zu.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
