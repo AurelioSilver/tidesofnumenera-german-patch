@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Diese Frau steht hinten in der Menge, die Arme verschränkt und mit kühlem Blick, während sie die langsame Hinrichtung verfolgt. Im Gegensatz zu den anderen beobachtet sie jedoch auch die Menschen in der Menge.
 
-Sie schüttelt den Kopf. "Deprimierend."</DefaultText>
+Sie schüttelt den Kopf. „Deprimierend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,27 +23,27 @@ Sie schüttelt den Kopf. "Deprimierend."</DefaultText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Es ist traurig, doch was soll man denn unternehmen?"</DefaultText>
+      <DefaultText>„Es ist traurig, doch was soll man denn unternehmen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Man kann das System nicht verändern."</DefaultText>
+      <DefaultText>„Man kann das System nicht verändern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wirklich schade."</DefaultText>
+      <DefaultText>„Wirklich schade.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich würde zwar etwas sagen, doch wer würde mir schon zuhören?"</DefaultText>
+      <DefaultText>„Ich würde zwar etwas sagen, doch wer würde mir schon zuhören?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Warum schau ich mir das überhaupt an?"</DefaultText>
+      <DefaultText>„Warum schau ich mir das überhaupt an?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -53,12 +53,12 @@ Sie schüttelt den Kopf. "Deprimierend."</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ich bin nur vorbeigekommen. Ich weiß wirklich nicht, wieso ich stehengeblieben bin." Etwas an ihrer Art vermittelt jedoch den Eindruck, dass mehr dahinter steckt.</DefaultText>
+      <DefaultText>„Ich bin nur vorbeigekommen. Ich weiß wirklich nicht, wieso ich stehengeblieben bin.“ Etwas an ihrer Art vermittelt jedoch den Eindruck, dass mehr dahinter steckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ja. Sicher."</DefaultText>
+      <DefaultText>„Ja. Sicher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,32 +68,32 @@ Sie schüttelt den Kopf. "Deprimierend."</DefaultText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Wenn Ihr es deprimierend findet, warum schaut Ihr dann zu?"</DefaultText>
+      <DefaultText>„Wenn Ihr es deprimierend findet, warum schaut Ihr dann zu?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Vermutlich nur morbide Neugier. Deswegen bin ich stehen geblieben. Ich geh jetzt aber."</DefaultText>
+      <DefaultText>„Vermutlich nur morbide Neugier. Deswegen bin ich stehen geblieben. Ich geh jetzt aber.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ihr seid stehen geblieben, weil Ihr im Herzen ein guter Mensch seid. Es hat Euch bewegt."</DefaultText>
+      <DefaultText>„Ihr seid stehen geblieben, weil Ihr im Herzen ein guter Mensch seid. Es hat Euch bewegt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ihr seid stehen geblieben, weil Ihr etwas unternehmen wollt. Ihr wollt etwas bewegen."</DefaultText>
+      <DefaultText>„Ihr seid stehen geblieben, weil Ihr etwas unternehmen wollt. Ihr wollt etwas bewegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ich habe gesehen, wie Ihr die Menge beobachtet. Ihr seid den Levis vier zu eins überlegen. Sie brauchen nur einen Anführer."
+      <DefaultText>„Ich habe gesehen, wie Ihr die Menge beobachtet. Ihr seid den Levis vier zu eins überlegen. Sie brauchen nur einen Anführer.“
 
 {GEORGE: Wurde auf Sehr schwer geändert, wobei man beim Misslingen zwei weitere Personen überzeugen und zu ihr zurückzukehren muss. -JF}</DefaultText>
       <FemaleText />
@@ -120,14 +120,14 @@ Sie schüttelt den Kopf. "Deprimierend."</DefaultText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Sie denkt darüber nach und schüttelt dann den Kopf. "Ich werde nicht alleine den Kopf riskieren. Vielleicht wenn ein paar andere zuerst beginnen. Vielleicht dann."</DefaultText>
+      <DefaultText>Sie denkt darüber nach und schüttelt dann den Kopf. „Ich werde nicht alleine den Kopf riskieren. Vielleicht wenn ein paar andere zuerst beginnen. Vielleicht dann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Sie zuckt zusammen und erschaudert. "Einen Anführer? Ich würde niemals ... nein. Ihr habt recht. Deswegen bin ich hier, und irgendjemand muss etwas unternehmen. Warum sollte dieser jemand nicht ich sein? Warum sollte ich nicht einmal ein Held sein?"
+      <DefaultText>Sie zuckt zusammen und erschaudert. „Einen Anführer? Ich würde niemals … nein. Ihr habt recht. Deswegen bin ich hier, und irgendjemand muss etwas unternehmen. Warum sollte dieser jemand nicht ich sein? Warum sollte ich nicht einmal ein Held sein?“
 
-Sie macht einen Schritt nach vorne. "Ich bin bereit!"</DefaultText>
+Sie macht einen Schritt nach vorne. „Ich bin bereit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -137,24 +137,24 @@ Sie macht einen Schritt nach vorne. "Ich bin bereit!"</DefaultText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ich habe gesehen, wie Ihr die Menge beobachtet. Ihr seid den Levis vier zu eins überlegen. Sie brauchen nur einen Anführer."</DefaultText>
+      <DefaultText>„Ich habe gesehen, wie Ihr die Menge beobachtet. Ihr seid den Levis vier zu eins überlegen. Sie brauchen nur einen Anführer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Sie zuckt zusammen und erschaudert. "Einen Anführer? Ich würde niemals ... nein. Ihr habt recht. Deswegen bin ich hier, und irgendjemand muss etwas unternehmen. Warum sollte dieser jemand nicht ich sein? Warum sollte ich nicht einmal ein Held sein?"
+      <DefaultText>Sie zuckt zusammen und erschaudert. „Einen Anführer? Ich würde niemals … nein. Ihr habt recht. Deswegen bin ich hier, und irgendjemand muss etwas unternehmen. Warum sollte dieser jemand nicht ich sein? Warum sollte ich nicht einmal ein Held sein?“
 
-Sie macht einen Schritt nach vorne. "Ich bin bereit!"</DefaultText>
+Sie macht einen Schritt nach vorne. „Ich bin bereit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Lasst uns dem ein Ende setzen!"</DefaultText>
+      <DefaultText>„Lasst uns dem ein Ende setzen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Viel Glück."</DefaultText>
+      <DefaultText>„Viel Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@ Sie macht einen Schritt nach vorne. "Ich bin bereit!"</DefaultText>
       <ID>44</ID>
       <DefaultText>Die Menschen in der Menge schwanken, als die unsichtbare Kraft sie trifft. Ihre Fäuste ballen sich und ihre Augen leuchten auf.
 
-Die Frau vor dir verwandelt sich ebenfalls. Sie lächelt dich an, aufgeregt, jedoch nicht wirklich konzentriert. "Was habe ich mir nur gedacht? Natürlich können wir ihn retten!"</DefaultText>
+Die Frau vor dir verwandelt sich ebenfalls. Sie lächelt dich an, aufgeregt, jedoch nicht wirklich konzentriert. „Was habe ich mir nur gedacht? Natürlich können wir ihn retten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,34 +206,34 @@ Die Frau vor dir verwandelt sich ebenfalls. Sie lächelt dich an, aufgeregt, jed
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Worauf warten wir noch? Lasst uns loslegen."</DefaultText>
+      <DefaultText>„Worauf warten wir noch? Lasst uns loslegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Ich sagte Euch doch, ich würde nicht helfen. Lasst mich in Ruhe."</DefaultText>
+      <DefaultText>„Ich sagte Euch doch, ich würde nicht helfen. Lasst mich in Ruhe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Die Frau beobachtet weiterhin sowohl die Hinrichtung als auch die Menge. "Soooo deprimierend."</DefaultText>
+      <DefaultText>Die Frau beobachtet weiterhin sowohl die Hinrichtung als auch die Menge. „Soooo deprimierend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Ich habe Euch gesagt, dass ich nicht helfen würde, wenn nicht ein paar andere zuerst loslegen. Ich warte noch."</DefaultText>
+      <DefaultText>„Ich habe Euch gesagt, dass ich nicht helfen würde, wenn nicht ein paar andere zuerst loslegen. Ich warte noch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Viele in der Menge sind bereit zu handeln. Sie sind den Levis vier zu eins überlegen. Alles, was Ihr tun müsst, ist sie anzuführen."</DefaultText>
+      <DefaultText>„Viele in der Menge sind bereit zu handeln. Sie sind den Levis vier zu eins überlegen. Alles, was Ihr tun müsst, ist sie anzuführen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Sie schaut sich die anderen an, die du überzeugen konntest, und scheint an Mut zu gewinnen. "Ihr habt recht. Es muss etwas unternommen werden. Mit dem Vorteil der Überzahl auf unserer Seite können wir es schaffen."
+      <DefaultText>Sie schaut sich die anderen an, die du überzeugen konntest, und scheint an Mut zu gewinnen. „Ihr habt recht. Es muss etwas unternommen werden. Mit dem Vorteil der Überzahl auf unserer Seite können wir es schaffen.“
 
-Sie macht einen Schritt nach vorne. "Ich bin bereit!"</DefaultText>
+Sie macht einen Schritt nach vorne. „Ich bin bereit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,17 +243,17 @@ Sie macht einen Schritt nach vorne. "Ich bin bereit!"</DefaultText>
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Sie nickt. "Ich sollte auch gehen. Vielleicht in ein paar Minuten."</DefaultText>
+      <DefaultText>Sie nickt. „Ich sollte auch gehen. Vielleicht in ein paar Minuten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Vielleicht tat es das, doch was macht das schon? Es kann nicht aufgehalten werden, zumindest nicht durch einen Niemand wie mich."</DefaultText>
+      <DefaultText>„Vielleicht tat es das, doch was macht das schon? Es kann nicht aufgehalten werden, zumindest nicht durch einen Niemand wie mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Sie stellt sich gerade hin, sagt jedoch: "Ich? Was soll ich denn schon tun? Ich bin ein Niemand. Ich kann nur zuschauen."</DefaultText>
+      <DefaultText>Sie stellt sich gerade hin, sagt jedoch: „Ich? Was soll ich denn schon tun? Ich bin ein Niemand. Ich kann nur zuschauen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,17 +268,17 @@ Sie macht einen Schritt nach vorne. "Ich bin bereit!"</DefaultText>
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Befreit den Gefangenen!"</DefaultText>
+      <DefaultText>„Befreit den Gefangenen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Gerechtigkeit!"</DefaultText>
+      <DefaultText>„Gerechtigkeit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Lasst ihn gehen! Lasst ihn gehen!"</DefaultText>
+      <DefaultText>„Lasst ihn gehen! Lasst ihn gehen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,22 +288,22 @@ Sie macht einen Schritt nach vorne. "Ich bin bereit!"</DefaultText>
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Eine weitere in einer langen Reihe sinnloser Hinrichtungen." Sie zeigt auf den Mann mit dem Fleischstrang, der sich aus seinem Mund schlängelt. "Der arme Bastard, den sie dort töten, wird in einen Trancezustand versetzt, in dem er viel Unsinn redet und dieses rosafarbene Zeug ausspuckt. Schließlich wird das Leben aus ihm herausgepresst und wird er von dem großen Kerl verspeist. Ekelhaft."</DefaultText>
+      <DefaultText>„Eine weitere in einer langen Reihe sinnloser Hinrichtungen.“ Sie zeigt auf den Mann mit dem Fleischstrang, der sich aus seinem Mund schlängelt. „Der arme Bastard, den sie dort töten, wird in einen Trancezustand versetzt, in dem er viel Unsinn redet und dieses rosafarbene Zeug ausspuckt. Schließlich wird das Leben aus ihm herausgepresst und wird er von dem großen Kerl verspeist. Ekelhaft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Nur eine weitere Hinrichtung. Man sagt, der Gefangene würde Prophezeiungen machen, während er stirbt. Das glaube ich aber nicht. Das ist alles nur eine Darbietung. Eine traurige, ekelhafte Darbietung.</DefaultText>
+      <DefaultText>„Nur eine weitere Hinrichtung. Man sagt, der Gefangene würde Prophezeiungen machen, während er stirbt. Das glaube ich aber nicht. Das ist alles nur eine Darbietung. Eine traurige, ekelhafte Darbietung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Was genau geschieht hier?"</DefaultText>
+      <DefaultText>„Was genau geschieht hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Sagt mir nochmals, was hier geschieht."</DefaultText>
+      <DefaultText>„Sagt mir nochmals, was hier geschieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,13 +313,13 @@ Sie macht einen Schritt nach vorne. "Ich bin bereit!"</DefaultText>
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Warum schauen sich das alle an?"</DefaultText>
+      <DefaultText>„Warum schauen sich das alle an?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Sagt mir nochmals, warum sich das alle ansehen."</DefaultText>
-      <FemaleText>"Sagt mir nochmals, warum sich das alle ansehen."</FemaleText>
+      <DefaultText>„Sagt mir nochmals, warum sich das alle ansehen.“</DefaultText>
+      <FemaleText>„Sagt mir nochmals, warum sich das alle ansehen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>72</ID>
@@ -328,14 +328,14 @@ Sie macht einen Schritt nach vorne. "Ich bin bereit!"</DefaultText>
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Sie seufzt. "Das ist, was in dieser Stadt als Unterhaltung gilt. Die Menschen schauen gerne dabei zu, wie andere leiden. Ich nehme an, das lenkt sie von ihrem eigenen Leid ab."
+      <DefaultText>Sie seufzt. „Das ist, was in dieser Stadt als Unterhaltung gilt. Die Menschen schauen gerne dabei zu, wie andere leiden. Ich nehme an, das lenkt sie von ihrem eigenen Leid ab.“
 
-"Darum bin ich aber nicht hier. Ich ... Ich ... Ich wurde einfach nur hineingezogen."</DefaultText>
+„Darum bin ich aber nicht hier. Ich … Ich … Ich wurde einfach nur hineingezogen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Ich denke, mehr kann man nicht tun."</DefaultText>
+      <DefaultText>„Ich denke, mehr kann man nicht tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -355,20 +355,20 @@ Sie macht einen Schritt nach vorne. "Ich bin bereit!"</DefaultText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Aligern starrt dich entsetzt an. "Hast *du* das getan? Deinen Willen einer ganze Menschenmenge aufgezwungen? Du bist herzlos ... unbedacht ..."
+      <DefaultText>Aligern starrt dich entsetzt an. „Hast *du* das getan? Deinen Willen einer ganze Menschenmenge aufgezwungen? Du bist herzlos … unbedacht …“
 
-Er wendet sich bebend vor Zorn von dir ab. "Wieso hätte ich auch etwas anders erwarten sollen ..."</DefaultText>
+Er wendet sich bebend vor Zorn von dir ab. „Wieso hätte ich auch etwas anders erwarten sollen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Machst du Witze?" Tybir schüttelt den Kopf vor Verwunderung. "Ich weiß nicht, was das war, doch es war beinahe ... magisch. Gut gemacht, Junge."</DefaultText>
-      <FemaleText>"Machst du Witze?" Tybir schüttelt den Kopf vor Verwunderung. "Ich weiß nicht, was das war, doch es war beinahe ... magisch. Gut gemacht, Mädchen."</FemaleText>
+      <DefaultText>„Machst du Witze?“ Tybir schüttelt den Kopf vor Verwunderung. „Ich weiß nicht, was das war, doch es war beinahe … magisch. Gut gemacht, Junge.“</DefaultText>
+      <FemaleText>„Machst du Witze?“ Tybir schüttelt den Kopf vor Verwunderung. „Ich weiß nicht, was das war, doch es war beinahe … magisch. Gut gemacht, Mädchen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Tybir schüttelt verwundert den Kopf, dann flüstert er dir zu: "Gut gemacht, Junge. Ich dachte, du hättest sie verloren. Ich weiß nicht, was du getan hast, doch es war beinahe ... magisch."</DefaultText>
-      <FemaleText>Tybir schüttelt verwundert den Kopf, dann flüstert er dir zu: "Gut gemacht, Mädchen. Ich dachte, du hättest sie verloren. Ich weiß nicht, was du getan hast, doch es war beinahe ... magisch."</FemaleText>
+      <DefaultText>Tybir schüttelt verwundert den Kopf, dann flüstert er dir zu: „Gut gemacht, Junge. Ich dachte, du hättest sie verloren. Ich weiß nicht, was du getan hast, doch es war beinahe … magisch.“</DefaultText>
+      <FemaleText>Tybir schüttelt verwundert den Kopf, dann flüstert er dir zu: „Gut gemacht, Mädchen. Ich dachte, du hättest sie verloren. Ich weiß nicht, was du getan hast, doch es war beinahe … magisch.“</FemaleText>
     </Entry>
     <Entry>
       <ID>82</ID>
@@ -382,12 +382,12 @@ Er wendet sich bebend vor Zorn von dir ab. "Wieso hätte ich auch etwas anders e
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Irgendjemand sollte diese Hinrichtung aufhalten."</DefaultText>
+      <DefaultText>„Irgendjemand sollte diese Hinrichtung aufhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ich glaube tatsächlich, dass Ihr diese Hinrichtung aufhalten *könntet*."</DefaultText>
+      <DefaultText>„Ich glaube tatsächlich, dass Ihr diese Hinrichtung aufhalten *könntet*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -397,17 +397,17 @@ Er wendet sich bebend vor Zorn von dir ab. "Wieso hätte ich auch etwas anders e
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Sicher, aber wer? *Ich* kann das ganz sicher nicht."</DefaultText>
+      <DefaultText>„Sicher, aber wer? *Ich* kann das ganz sicher nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Ich? Was kann ich denn schon unternehmen außer zuzuschauen?"</DefaultText>
+      <DefaultText>„Ich? Was kann ich denn schon unternehmen außer zuzuschauen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Ihr habt recht. Reden wir über etwas anderes."</DefaultText>
+      <DefaultText>„Ihr habt recht. Reden wir über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
