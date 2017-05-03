@@ -783,7 +783,7 @@ Sie steckt es wieder in ihre Tasche.</DefaultText>
     <Entry>
       <ID>155</ID>
       <DefaultText>Follow-up PQ. 155</DefaultText>
-      <FemaleText>Follow-up PQ. 155</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
@@ -793,7 +793,7 @@ Sie steckt es wieder in ihre Tasche.</DefaultText>
     <Entry>
       <ID>158</ID>
       <DefaultText>Follow-up PQ. 158</DefaultText>
-      <FemaleText>Follow-up PQ. 158</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
@@ -1240,7 +1240,7 @@ Sie holt tief Luft.</DefaultText>
     <Entry>
       <ID>253</ID>
       <DefaultText>Nachdem sie ihren Blick von der Schachtel abgewendet hat, schaut sie zu dir auf. "War das ... war das alles, was du wolltest?"</DefaultText>
-      <FemaleText>Nachdem sie ihren Blick von der Schachtel abgewendet hat, schaut sie zu dir auf. "War das ... war das alles, was du wolltest?"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
