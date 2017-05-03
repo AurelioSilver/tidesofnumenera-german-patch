@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bist du Stammgast bei Jernaugh's?"</DefaultText>
+      <DefaultText>„Bist du Stammgast bei Jernaugh's?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich ließ schon einiges machen, aber nie in solch einem Laden."</DefaultText>
+      <DefaultText>„Ich ließ schon einiges machen, aber nie in solch einem Laden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Diese Drohnen sehen aus, als könnten sie einem einen Arm abreißen und ihn vertilgen."</DefaultText>
+      <DefaultText>„Diese Drohnen sehen aus, als könnten sie einem einen Arm abreißen und ihn vertilgen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Jernaugh's ist nicht billig, aber glaube mir - du willst nichts, das billig ist."</DefaultText>
+      <DefaultText>„Jernaugh's ist nicht billig, aber glaube mir – du willst nichts, das billig ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"In einer Bar ließ ich mir einmal ein Sonderangebots-Auge einsetzen. Drei Tage lang sah ich nichts außer Gurken."</DefaultText>
+      <DefaultText>„In einer Bar ließ ich mir einmal ein Sonderangebots-Auge einsetzen. Drei Tage lang sah ich nichts außer Gurken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Viel zu tun heute. Nicht viel Zeit für Klatsch und Tratsch."
+      <DefaultText>„Viel zu tun heute. Nicht viel Zeit für Klatsch und Tratsch.“
 {SCRIPT: The above lines should play when she's near the parlor. This line (6) can play anywhere.}</DefaultText>
       <FemaleText>"Viel zu tun heute. Nicht viel Zeit für Klatsch und Tratsch."
 {SCRIPT: The above lines should play when she's near the parlor. This line (6) can play anywhere.}</FemaleText>
