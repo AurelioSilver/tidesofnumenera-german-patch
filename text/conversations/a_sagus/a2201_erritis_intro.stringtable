@@ -609,7 +609,7 @@ Sein Gesicht wird eisern. „Ich weiß nicht, was dann passierte. Trotz meiner F
     <Entry>
       <ID>136</ID>
       <DefaultText>„Ja. Ich möchte, dass du dich mir anschließt.“</DefaultText>
-      <FemaleText>„Ja. Ich möchte, dass du dich mir anschließt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
@@ -624,16 +624,14 @@ Sein Gesicht wird eisern. „Ich weiß nicht, was dann passierte. Trotz meiner F
     <Entry>
       <ID>139</ID>
       <DefaultText>„Du hast es gesagt!“, stöhnt Erritis. „Aber du solltest es dir anders überlegen! Das solltest du wirklich.“</DefaultText>
-      <FemaleText>„Du hast es gesagt!“, stöhnt Erritis. „Aber du solltest es dir anders überlegen! Das solltest du wirklich.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
       <DefaultText>Der dünne, strahlend junge Mann starrt das Luftschiff an, dass er zum Absturz gebracht hat. Als er dich entdeckt, wirft er vor Freude die Arme in die Höhe.
 
 „Ich hatte gehofft, dass du zurückkommst! Nun, das ist nicht wahr. Ich bin nicht sicher, was ich gehofft habe, doch ich wette, es war *aufregend*.“</DefaultText>
-      <FemaleText>Der dünne, strahlend junge Mann starrt das Luftschiff an, dass er zum Absturz gebracht hat. Als er dich entdeckt, wirft er vor Freude die Arme in die Höhe.
-
-„Ich hatte gehofft, dass du zurückkommst! Nun, das ist nicht wahr. Ich bin nicht sicher, was ich gehofft habe, doch ich wette, es war *aufregend*.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
@@ -643,7 +641,7 @@ Sein Gesicht wird eisern. „Ich weiß nicht, was dann passierte. Trotz meiner F
     <Entry>
       <ID>144</ID>
       <DefaultText>„Ich habe immer noch zu viele Leute bei mir. Vielleicht kannst du dich mir ein anderes Mal anschließen.“</DefaultText>
-      <FemaleText>„Ich habe immer noch zu viele Leute bei mir. Vielleicht kannst du dich mir ein anderes Mal anschließen.“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
