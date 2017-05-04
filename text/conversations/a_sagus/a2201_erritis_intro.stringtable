@@ -13,12 +13,12 @@ Er sieht dich und richtet sich auf.</DefaultText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich grüße dich! Bist du bereit, gemeinsam zu reisen? Fantastische Abenteuer zu erleben?"</DefaultText>
+      <DefaultText>„Ich grüße dich! Bist du bereit, gemeinsam zu reisen? Fantastische Abenteuer zu erleben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich weiß, was du denkst. 'Wie um alles in der Welt hast du diesen Absturz überlebt, Erritis?' Die Antwort lautet wie immer: 'Kehrtwendungen'. Aber warte mal. {slightly confused} Woher kennst du meinen Namen? {urgent}Nein, vergiss es. Ist nicht wichtig. Natürlich kennst du meinen Namen. Ich bin Erritis!"
+      <DefaultText>„Ich weiß, was du denkst. 'Wie um alles in der Welt hast du diesen Absturz überlebt, Erritis?' Die Antwort lautet wie immer: 'Kehrtwendungen'. Aber warte mal. {slightly confused} Woher kennst du meinen Namen? {urgent}Nein, vergiss es. Ist nicht wichtig. Natürlich kennst du meinen Namen. Ich bin Erritis!“
 
 Er stützt seine Hände auf seine schmalen Hüften und strahlt dich an.</DefaultText>
       <FemaleText />
@@ -30,33 +30,33 @@ Er stützt seine Hände auf seine schmalen Hüften und strahlt dich an.</Default
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich weiß! Ich würde es ja Glück nennen, aber ich *hasse* Bescheidenheit."</DefaultText>
+      <DefaultText>„Ich weiß! Ich würde es ja Glück nennen, aber ich *hasse* Bescheidenheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Du kommst nie darauf, was als Nächstes geschah!"</DefaultText>
+      <DefaultText>„Du kommst nie darauf, was als Nächstes geschah!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Du hättest uns alle töten können!"
+      <DefaultText>„Du hättest uns alle töten können!“
 {SCRIPT: Node 4 should only play the first day that the player encounters Erritis. These are triggered by the player's proximity, and will play in order. }</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Du hast ein Haus ins verdammte Meer stürzen lassen!"</DefaultText>
+      <DefaultText>„Du hast ein Haus ins verdammte Meer stürzen lassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Und jetzt müsst ihr euch alle wundern, wie ich den Absturz überlebt habe."</DefaultText>
+      <DefaultText>„Und jetzt müsst ihr euch alle wundern, wie ich den Absturz überlebt habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Lass uns einfach in Ruhe!"</DefaultText>
+      <DefaultText>„Lass uns einfach in Ruhe!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,41 +66,41 @@ Er stützt seine Hände auf seine schmalen Hüften und strahlt dich an.</Default
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Wie kam es, dass du das Luftschiff zum Absturz brachtest?"</DefaultText>
+      <DefaultText>„Wie kam es, dass du das Luftschiff zum Absturz brachtest?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Wie kam es nochmal dazu, dass du das Luftschiff zum Absturz brachtest?"</DefaultText>
+      <DefaultText>„Wie kam es nochmal dazu, dass du das Luftschiff zum Absturz brachtest?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ich bin froh, dass du das gefragt hast!" Das ist eine Untertreibung. Er sieht geradezu *verzückt* aus. 
+      <DefaultText>„Ich bin froh, dass du das gefragt hast!“ Das ist eine Untertreibung. Er sieht geradezu *verzückt* aus. 
 
-"Ich kletterte die Klippe nach Karawanserei hoch, um zu sehen wie unmöglich es ist. Da sah ich einen Stern ins Riff herabfallen." Er hebt bedeutungsvoll den Finger. "Ich wusste in diesem Augenblick, dass es meine Bestimmung war, diesen Stern zu finden."
+„Ich kletterte die Klippe nach Karawanserei hoch, um zu sehen wie unmöglich es ist. Da sah ich einen Stern ins Riff herabfallen.“ Er hebt bedeutungsvoll den Finger. „Ich wusste in diesem Augenblick, dass es meine Bestimmung war, diesen Stern zu finden.“
 
-Er streift sich mit den Fingern durchs lockige Haar. "Aber was sollte ich jetzt tun? Wieder runterklettern? Langweilig. Das hatte nur andersrum schon gemacht. Gehen? *Gehen*? Schlechter. Viel schlechter. Das macht überhaupt keinen Spaß."</DefaultText>
+Er streift sich mit den Fingern durchs lockige Haar. „Aber was sollte ich jetzt tun? Wieder runterklettern? Langweilig. Das hatte nur andersrum schon gemacht. Gehen? *Gehen*? Schlechter. Viel schlechter. Das macht überhaupt keinen Spaß.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Das habe ich nicht! Es stürzte von allein ab, als ich zum herabgefallenen Stern im Riff flog."</DefaultText>
+      <DefaultText>„Das habe ich nicht! Es stürzte von allein ab, als ich zum herabgefallenen Stern im Riff flog.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Du hast Glück. Dieser 'herabfallende Stern' war ich."</DefaultText>
+      <DefaultText>„Du hast Glück. Dieser 'herabfallende Stern' war ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Dieser Stern ist ohnehin Tee von gestern."</DefaultText>
+      <DefaultText>„Dieser Stern ist ohnehin Tee von gestern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Kopf hoch. Ich wette, den Stern hat noch keiner gefunden."</DefaultText>
+      <DefaultText>„Kopf hoch. Ich wette, den Stern hat noch keiner gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,31 +145,31 @@ Er streift sich mit den Fingern durchs lockige Haar. "Aber was sollte ich jetzt 
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Warum sollte ich dich mir anschließen lassen?"</DefaultText>
+      <DefaultText>„Warum sollte ich dich mir anschließen lassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Er sieht dich konsterniert an, so als hättest du laut gefragt, ob man Luft zum Atmen braucht.
 
-"Ich bin ein Abenteurer", wiederholt er mit gerunzelter Stirn. "Ich dachte, ich hätte dir das gesagt. Wenn ich dabei bin, erlebt man Abenteuer, und du kannst auch dabei sein."
+„Ich bin ein Abenteurer“, wiederholt er mit gerunzelter Stirn. „Ich dachte, ich hätte dir das gesagt. Wenn ich dabei bin, erlebt man Abenteuer, und du kannst auch dabei sein.“
 
-Er hebt den Finger. "Aber du musst genau festhalten, wo wir hingehen ..." Er starrt zum unsichtbaren Himmel. "... wir gehen schnell. Entschlossen. Und am wichtigsten, attraktiv." Er lehnt sich verschwörerisch zu dir. "Was die Attraktivität betrifft, übernehme ich zunächst den Part."</DefaultText>
+Er hebt den Finger. „Aber du musst genau festhalten, wo wir hingehen …“ Er starrt zum unsichtbaren Himmel. „… wir gehen schnell. Entschlossen. Und am wichtigsten, attraktiv.“ Er lehnt sich verschwörerisch zu dir. „Was die Attraktivität betrifft, übernehme ich zunächst den Part.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Vielleicht kannst du dich mir ein anderes Mal anschließen. Momentan folgen mir schon zu viele."</DefaultText>
+      <DefaultText>„Vielleicht kannst du dich mir ein anderes Mal anschließen. Momentan folgen mir schon zu viele.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ist das so?" Er schaut zu deinen Gefährten und schreckt überrascht hoch. "Waren die die ganze Zeit schon da?"</DefaultText>
+      <DefaultText>„Ist das so?“ Er schaut zu deinen Gefährten und schreckt überrascht hoch. „Waren die die ganze Zeit schon da?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ich habe es mir anders überlegt. Ich will, dass du dich mir anschließt."</DefaultText>
+      <DefaultText>„Ich habe es mir anders überlegt. Ich will, dass du dich mir anschließt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,28 +179,28 @@ Er hebt den Finger. "Aber du musst genau festhalten, wo wir hingehen ..." Er sta
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Das ist merkwürdig," sagt er, und wischt sich eine blonde Locke aus den Augen. "Ich hatte schon einmal mit ihm geredet. Ich erklärte ihm, dass ich mir ein Luftschiff ausleihen muss. Er lehnt es ab. Also wartete ich, bis er gegangen war und lieh mir dann eins ..." Er verstummt langsam und sein Goldglanz verblasst. Ein sorgenvoller Gedanke zieht in ihm auf. 
+      <DefaultText>„Das ist merkwürdig,“ sagt er, und wischt sich eine blonde Locke aus den Augen. „Ich hatte schon einmal mit ihm geredet. Ich erklärte ihm, dass ich mir ein Luftschiff ausleihen muss. Er lehnt es ab. Also wartete ich, bis er gegangen war und lieh mir dann eins …“ Er verstummt langsam und sein Goldglanz verblasst. Ein sorgenvoller Gedanke zieht in ihm auf. 
 
-"Er ist deshalb doch nicht *verärgert*, oder?"</DefaultText>
+„Er ist deshalb doch nicht *verärgert*, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Er ist sogar *sehr* verärgert. Du musst mit ihm reden."</DefaultText>
+      <DefaultText>„Er ist sogar *sehr* verärgert. Du musst mit ihm reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Oh", sagt er, und starrt auf den Boden. Sein Glanz verblasst zunehmend. "Wenn du meinst, das sei ... das Richtige."
+      <DefaultText>„Oh“, sagt er, und starrt auf den Boden. Sein Glanz verblasst zunehmend. „Wenn du meinst, das sei … das Richtige.“
 
-Er blinzelt und ein breites Lächeln breitet sich in seinem Gesicht aus. Seine Aura *flackert* wie ein Stern. "Ja! Es *ist* das Richtige! Und ich werde es machen! Ich werde den Fehler wiedergutmachen!"
+Er blinzelt und ein breites Lächeln breitet sich in seinem Gesicht aus. Seine Aura *flackert* wie ein Stern. „Ja! Es *ist* das Richtige! Und ich werde es machen! Ich werde den Fehler wiedergutmachen!“
 
 Er zieht in Richtung Karawanserei los, fröhlich pfeifend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Ich soll mich entschuldigen? Warum, um alles in der Welt? Entschuldigungen sind für die, denen es *leidtut* und die immer unglücklich sind, immer mit traurigem Blick und gesenktem Kopf. Sei stolz auf deine Entschuldigungen, sage ich immer!" Er holt kurz Luft. "Wenn *jemand* Entschuldigungen austeilen muss, dann dieses verdammte Luftschiff! Nicht auszudenken, was in nicht so disziplinierten Händen damit hätte passieren können!"
+      <DefaultText>„Ich soll mich entschuldigen? Warum, um alles in der Welt? Entschuldigungen sind für die, denen es *leidtut* und die immer unglücklich sind, immer mit traurigem Blick und gesenktem Kopf. Sei stolz auf deine Entschuldigungen, sage ich immer!“ Er holt kurz Luft. „Wenn *jemand* Entschuldigungen austeilen muss, dann dieses verdammte Luftschiff! Nicht auszudenken, was in nicht so disziplinierten Händen damit hätte passieren können!“
 
 Ein gedämpftes *Bumm* ertönt aus dem zertrümmerten Luftschiff in der Nähe. 
 {SOUND: Muffle boom.}</DefaultText>
@@ -208,31 +208,31 @@ Ein gedämpftes *Bumm* ertönt aus dem zertrümmerten Luftschiff in der Nähe.
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Er wird so dankbar sein, wenn ich mich entschuldige!"</DefaultText>
+      <DefaultText>„Er wird so dankbar sein, wenn ich mich entschuldige!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Kann ich dich irgendwie überzeugen, zu ihm zu gehen?</DefaultText>
+      <DefaultText>„Kann ich dich irgendwie überzeugen, zu ihm zu gehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Nein!" sagt er fröhlich. "Du hast es selbst gesagt. Er ist ziemlich verärgert, und ich bin nicht  gut darin, andere nicht zu verärgern. Nur in Ketten ließe ich mich hier hochbringen."
+      <DefaultText>„Nein!“ sagt er fröhlich. „Du hast es selbst gesagt. Er ist ziemlich verärgert, und ich bin nicht  gut darin, andere nicht zu verärgern. Nur in Ketten ließe ich mich hier hochbringen.“
 
-Er hält inne und runzelt die Stirn. "Natürlich ist es möglich, dass ich zufällig dort lande. Mein Orientierungssinn ist nicht der beste. Manchmal folge ich anderen stundenlang, in der Hoffnung, dass sie wissen, wo es langgeht!"</DefaultText>
+Er hält inne und runzelt die Stirn. „Natürlich ist es möglich, dass ich zufällig dort lande. Mein Orientierungssinn ist nicht der beste. Manchmal folge ich anderen stundenlang, in der Hoffnung, dass sie wissen, wo es langgeht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Entschuldigung?" sagt er als wäre es ein Fremdwort. "Mit Entschuldigungen repariert man keine Luftschiffe. Ich glaube nicht, dass er es schätzen würde."
+      <DefaultText>„Entschuldigung?“ sagt er als wäre es ein Fremdwort. „Mit Entschuldigungen repariert man keine Luftschiffe. Ich glaube nicht, dass er es schätzen würde.“
 
-Er schüttelt den Kopf. "Ich respektiere ihn viel zu sehr, als dass ich seine Zeit damit verschwende."</DefaultText>
+Er schüttelt den Kopf. „Ich respektiere ihn viel zu sehr, als dass ich seine Zeit damit verschwende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ich finde, du schuldest ihm eine Entschuldigung."</DefaultText>
+      <DefaultText>„Ich finde, du schuldest ihm eine Entschuldigung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -242,37 +242,37 @@ Er schüttelt den Kopf. "Ich respektiere ihn viel zu sehr, als dass ich seine Ze
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Der Eigentümer des Luftschiffs will mit dir reden."</DefaultText>
+      <DefaultText>„Der Eigentümer des Luftschiffs will mit dir reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Bist du sicher, dass ich dich nicht dazu überreden kann, mit Meister Rennio über das von dir gestohlene Schiff zu reden?"</DefaultText>
+      <DefaultText>„Bist du sicher, dass ich dich nicht dazu überreden kann, mit Meister Rennio über das von dir gestohlene Schiff zu reden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Da bin ich mir sicher! Wenn ich wieder in Karawanserei landen sollte, dann nur, weil ich mich verirrt habe oder wenn mich jemand zwangsweise hinschleppt!"</DefaultText>
+      <DefaultText>„Da bin ich mir sicher! Wenn ich wieder in Karawanserei landen sollte, dann nur, weil ich mich verirrt habe oder wenn mich jemand zwangsweise hinschleppt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ja, sicher! Dann machen wir das!"</DefaultText>
+      <DefaultText>„Ja, sicher! Dann machen wir das!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Reden wir über etwas anderes."</DefaultText>
+      <DefaultText>„Reden wir über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Bis später."</DefaultText>
+      <DefaultText>„Bis später.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Ich werde hier sein! Wenn mich nicht alles täuscht!"</DefaultText>
+      <DefaultText>„Ich werde hier sein! Wenn mich nicht alles täuscht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -282,22 +282,22 @@ Er schüttelt den Kopf. "Ich respektiere ihn viel zu sehr, als dass ich seine Ze
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Alles wurde rot und glänzend!"</DefaultText>
+      <DefaultText>„Alles wurde rot und glänzend!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ich habe mir sicherheitshalber die Augen verbunden!"</DefaultText>
+      <DefaultText>„Ich habe mir sicherheitshalber die Augen verbunden!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Alle Schalter gingen in Flammen auf !"</DefaultText>
+      <DefaultText>„Alle Schalter gingen in Flammen auf !“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Dann drehte ich am Rad! Im Uhrzeigersinn und entgegen dem Uhrzeigersinn!"</DefaultText>
+      <DefaultText>„Dann drehte ich am Rad! Im Uhrzeigersinn und entgegen dem Uhrzeigersinn!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -307,177 +307,177 @@ Er schüttelt den Kopf. "Ich respektiere ihn viel zu sehr, als dass ich seine Ze
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Natürlich können wir das! Wir waren da, du Schwachkopf. Du hast das verfluchte Schiff auf mein Gemüse stürzen lassen!"
+      <DefaultText>„Natürlich können wir das! Wir waren da, du Schwachkopf. Du hast das verfluchte Schiff auf mein Gemüse stürzen lassen!“
 {SCRIPT: All the empties here are lines for a generic male Cliff's Edge townsperson.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ich machte mit dem Luftschiff eine Kehrtwendung - und das ist der spannende Teil - mit Absicht!"</DefaultText>
+      <DefaultText>„Ich machte mit dem Luftschiff eine Kehrtwendung - und das ist der spannende Teil - mit Absicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Wirst du für den ganzen Schaden aufkommen oder nicht?"</DefaultText>
+      <DefaultText>„Wirst du für den ganzen Schaden aufkommen oder nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"*Natürlich* nicht! Ich habe kein Geld! Aber eine gute Geschichte ist unbezahlbar!"</DefaultText>
+      <DefaultText>„*Natürlich* nicht! Ich habe kein Geld! Aber eine gute Geschichte ist unbezahlbar!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Nein, nein. Es war im Fallen als ich abstürzte.  *Deshalb* habe ich das Luftschiff draufgehalten. Damit es an Ort und Stelle bleibt!"</DefaultText>
+      <DefaultText>„Nein, nein. Es war im Fallen als ich abstürzte.  *Deshalb* habe ich das Luftschiff draufgehalten. Damit es an Ort und Stelle bleibt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Keine Sorge. Ich will keinen Orden oder Ähnliches. Es war mir eine Freude, zu helfen!"</DefaultText>
+      <DefaultText>„Keine Sorge. Ich will keinen Orden oder Ähnliches. Es war mir eine Freude, zu helfen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Ich wünschte, du hättest es nicht getan!"</DefaultText>
+      <DefaultText>„Ich wünschte, du hättest es nicht getan!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Kehrtwendungen! Die Antwort lautet immer Kehrtwendungen!"</DefaultText>
+      <DefaultText>„Kehrtwendungen! Die Antwort lautet immer Kehrtwendungen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Bevor ich meine Geschichte zu Ende erzähle? Das tue ich einem Publikum nie an."</DefaultText>
+      <DefaultText>„Bevor ich meine Geschichte zu Ende erzähle? Das tue ich einem Publikum nie an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Stimmt!" ruft Erritis. "Warte kurz. Das hört sich an wie etwas, das *ich* sagen würde, wenn du ich wärst und ich immer noch ich!"
+      <DefaultText>„Stimmt!“ ruft Erritis. „Warte kurz. Das hört sich an wie etwas, das *ich* sagen würde, wenn du ich wärst und ich immer noch ich!“
 
-Er zeigt mit dem Finger auf dich. "Ich wusste von Anfang an, dass wir seelenverwandt sind. wir sollten gemeinsam reisen, mein anderer Erritis! Abenteuer erleben! Sag ja! Sag nicht nein!"</DefaultText>
+Er zeigt mit dem Finger auf dich. „Ich wusste von Anfang an, dass wir seelenverwandt sind. wir sollten gemeinsam reisen, mein anderer Erritis! Abenteuer erleben! Sag ja! Sag nicht nein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Das ist nett, dass du das sagst," sagt er und sein Schein pulsiert mit offensichtlicher Dankbarkeit. "Du bist nett, weißt du das? Das ist heutzutage selten. Sehr selten. Menschen wie du haben Wunderbares verdient."
+      <DefaultText>„Das ist nett, dass du das sagst,“ sagt er und sein Schein pulsiert mit offensichtlicher Dankbarkeit. „Du bist nett, weißt du das? Das ist heutzutage selten. Sehr selten. Menschen wie du haben Wunderbares verdient.“
 
-Die Inspiration trifft ihn wie der Blitz. Sein Schein wird so grell, dass man ihn fast nicht mehr ansehen kann. "Und ich werde dafür sorgen, dass du das sicher bekommst. Reisen wir gemeinsam! Sag nicht nein!"</DefaultText>
+Die Inspiration trifft ihn wie der Blitz. Sein Schein wird so grell, dass man ihn fast nicht mehr ansehen kann. „Und ich werde dafür sorgen, dass du das sicher bekommst. Reisen wir gemeinsam! Sag nicht nein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Der ist wirklich gerissen", sagt Aligern grinsend. "Ein echter Aeon-Priester."</DefaultText>
+      <DefaultText>„Der ist wirklich gerissen“, sagt Aligern grinsend. „Ein echter Aeon-Priester.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Ja, Liebling", sagt Callistege trocken. "Aber nimm es nicht zu schwer. Mein Schwestern und ich bleiben gern im Hintergrund."</DefaultText>
+      <DefaultText>„Ja, Liebling“, sagt Callistege trocken. „Aber nimm es nicht zu schwer. Mein Schwestern und ich bleiben gern im Hintergrund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Was? Warum schaust du mich so an?"</DefaultText>
+      <DefaultText>„Was? Warum schaust du mich so an?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Ja", sagt Rhin mit besorgtem Gesicht. "Die ganze Zeit."</DefaultText>
+      <DefaultText>„Ja“, sagt Rhin mit besorgtem Gesicht. „Die ganze Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Nein, ich bin ein *Abenteurer*", sagt Erritis geduldig. "Versuche bitte, dranzubleiben."</DefaultText>
+      <DefaultText>„Nein, ich bin ein *Abenteurer*“, sagt Erritis geduldig. „Versuche bitte, dranzubleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Ach ihr große Götter."</DefaultText>
+      <DefaultText>„Ach ihr große Götter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Oh, hallo," sagt er und winkt ihr zu. "Und zu dir, und dir ..." Er verbringt mehrere glückliche Momente damit, jeder Variation der Callistege zuzuwinken, die durch deine Realität wandelt.</DefaultText>
+      <DefaultText>„Oh, hallo,“ sagt er und winkt ihr zu. „Und zu dir, und dir …“ Er verbringt mehrere glückliche Momente damit, jeder Variation der Callistege zuzuwinken, die durch deine Realität wandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Wirklich? Das fiel mir nicht-" Er blickt hinter dich und sieht Matkina. Ihm klappt die Kinnlade herunter. "Oh."</DefaultText>
+      <DefaultText>„Wirklich? Das fiel mir nicht-“ Er blickt hinter dich und sieht Matkina. Ihm klappt die Kinnlade herunter. „Oh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
       <DefaultText>Erritis holt Luft und versucht es noch einmal.
 
-"Oh", erklärt er und sieht dabei wie ein Ertrinkender aus. Seine goldfarbene Aura pulsiert, möglicherweise im Takt mit seinem Herzschlag.</DefaultText>
+„Oh“, erklärt er und sieht dabei wie ein Ertrinkender aus. Seine goldfarbene Aura pulsiert, möglicherweise im Takt mit seinem Herzschlag.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Sie starrt ihn ohne zu blinzeln an, und dreht sich dann zu dir. "Warum schaut er mich so an?"</DefaultText>
+      <DefaultText>Sie starrt ihn ohne zu blinzeln an, und dreht sich dann zu dir. „Warum schaut er mich so an?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Ich könnte eine Vermutung äußern, aber das halte ich für überflüssig."</DefaultText>
+      <DefaultText>„Ich könnte eine Vermutung äußern, aber das halte ich für überflüssig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ihr zwei werdet ein tolles Paar abgeben."</DefaultText>
+      <DefaultText>„Ihr zwei werdet ein tolles Paar abgeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
       <DefaultText>Sie starrt dich wütend an, und versucht, deinen verschmitzten Hinweise zu entschlüsseln.  Langsam dämmert es ihr und der Horror kommt daher. 
 
-"Lass das", sagt sie zu Erritis. "Wirklich. Wenn ich auf einen Typ *stehe*, dann ganz sicher nicht auf dich."</DefaultText>
+„Lass das“, sagt sie zu Erritis. „Wirklich. Wenn ich auf einen Typ *stehe*, dann ganz sicher nicht auf dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
       <DefaultText>Erritis schnauft tief durch, zwinkert mit jedem Muskel, den er hat und reißt seinen Blick von Matkina weg. 
 
-"Was, äh ... Über was haben wir geredet?"</DefaultText>
+„Was, äh … Über was haben wir geredet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
       <DefaultText>Ihre Augen weiten sich voller Entsetzen. Dann starrt sie wütend Erritis an. 
 
-"Lass das", sagt sie zu Erritis. "Wirklich. Wenn ich auf einen Typ *stehe*, dann ganz sicher nicht auf dich."</DefaultText>
+„Lass das“, sagt sie zu Erritis. „Wirklich. Wenn ich auf einen Typ *stehe*, dann ganz sicher nicht auf dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Nein!" ruft Erritis, außer sich vor Freude. "Ja? Wirklich? Das warst wirklich du?"
+      <DefaultText>„Nein!“ ruft Erritis, außer sich vor Freude. „Ja? Wirklich? Das warst wirklich du?“
 
-Er nimmt euch beide an den Schultern. "Das *ist* Schicksal. Es ist eure Bestimmung, mit mir zu reisen. Ihr müsst es einfach tun! Sagt nicht Nein!"</DefaultText>
+Er nimmt euch beide an den Schultern. „Das *ist* Schicksal. Es ist eure Bestimmung, mit mir zu reisen. Ihr müsst es einfach tun! Sagt nicht Nein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Mein Fehler", sagt Erritis vergnügt. "Es muss daran liegen, dass du so klein bist. Ich schaue nicht so oft nach unten. Das Abenteuer überrascht mich zumeist von oben!"</DefaultText>
+      <DefaultText>„Mein Fehler“, sagt Erritis vergnügt. „Es muss daran liegen, dass du so klein bist. Ich schaue nicht so oft nach unten. Das Abenteuer überrascht mich zumeist von oben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Ja, Kumpel", sagt Tybir in besänftigendem Ton. "Ich will dich nicht aufschrecken, aber Zerstreutheit ist ein klassisches Zeichen für eine Shin-Vergiftung."</DefaultText>
+      <DefaultText>„Ja, Kumpel“, sagt Tybir in besänftigendem Ton. „Ich will dich nicht aufschrecken, aber Zerstreutheit ist ein klassisches Zeichen für eine Shin-Vergiftung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Ach was?" sagt Erritis, und sieht dabei gleichzeitig alarmiert und erfreut aus "Ist das gefährlich?"</DefaultText>
+      <DefaultText>„Ach was?“ sagt Erritis, und sieht dabei gleichzeitig alarmiert und erfreut aus „Ist das gefährlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Oh ja, sehr", sagt Tybir trist. "Lass mich dein Geld sehen, ich werde es auf, äh, Spuren von Gift untersuchen."</DefaultText>
+      <DefaultText>„Oh ja, sehr“, sagt Tybir trist. „Lass mich dein Geld sehen, ich werde es auf, äh, Spuren von Gift untersuchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Tybir, lass den Mann in Ruhe."</DefaultText>
+      <DefaultText>„Tybir, lass den Mann in Ruhe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -492,27 +492,27 @@ Er nimmt euch beide an den Schultern. "Das *ist* Schicksal. Es ist eure Bestimmu
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Na schön", sagt Tybir seufzend. "Wenn wir dem Jungen wichtige Lektionen des Lebens vorenthalten, tun wir ihm keinen Gefallen."</DefaultText>
+      <DefaultText>„Na schön“, sagt Tybir seufzend. „Wenn wir dem Jungen wichtige Lektionen des Lebens vorenthalten, tun wir ihm keinen Gefallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Ich schaue mir das nachher im Labor genauer an", verspricht Tybir. Ohne dich anzusehen, fingert er ein paar Shin aus dem Beutel und gibt sie dir. 
+      <DefaultText>„Ich schaue mir das nachher im Labor genauer an“, verspricht Tybir. Ohne dich anzusehen, fingert er ein paar Shin aus dem Beutel und gibt sie dir. 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Suchen wir uns einen Kampf oder soll ich einen beginnen?"</DefaultText>
+      <DefaultText>„Suchen wir uns einen Kampf oder soll ich einen beginnen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Er grinst. "Dann sah ich über mir das Luftschiff. Ich rannte hoch, lieh es mir aus und flog damit direkt in Richtung Riff."
+      <DefaultText>Er grinst. „Dann sah ich über mir das Luftschiff. Ich rannte hoch, lieh es mir aus und flog damit direkt in Richtung Riff.“
 
-Sein Gesicht wird eisern. "Ich weiß nicht, was dann passierte. Trotz meiner Flugkünste steuerte das Luftschiff direkt auf die Klippen zu. Ich hatte keine andere Wahl. Ich landete es so schnell und sicher wie möglich." Er schüttelt den Kopf und seufzt. 
+Sein Gesicht wird eisern. „Ich weiß nicht, was dann passierte. Trotz meiner Flugkünste steuerte das Luftschiff direkt auf die Klippen zu. Ich hatte keine andere Wahl. Ich landete es so schnell und sicher wie möglich.“ Er schüttelt den Kopf und seufzt. 
 
-"Den herabgefallenen Stern fand ich nie. Mittlerweile hat ihn wohl jemand gefunden und es ist jetzt *dessen* Schicksal."</DefaultText>
+„Den herabgefallenen Stern fand ich nie. Mittlerweile hat ihn wohl jemand gefunden und es ist jetzt *dessen* Schicksal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,27 +522,27 @@ Sein Gesicht wird eisern. "Ich weiß nicht, was dann passierte. Trotz meiner Flu
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Warum hast du ein goldfarbenen Schein um dich herum?"</DefaultText>
+      <DefaultText>„Warum hast du ein goldfarbenen Schein um dich herum?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Ehrlich, was ist das für ein goldfarbener Schein?"</DefaultText>
+      <DefaultText>„Ehrlich, was ist das für ein goldfarbener Schein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Wo?" fragt Erritis und dreht sich um.</DefaultText>
+      <DefaultText>„Wo?“ fragt Erritis und dreht sich um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Welcher Schein?" fragt er und schaut hinter sich.</DefaultText>
+      <DefaultText>„Welcher Schein?“ fragt er und schaut hinter sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Das ist schon ok", sagt er, und wechselt ungeduldig von einem Fuß auf den anderen. "Ich kann warten."
+      <DefaultText>„Das ist schon ok“, sagt er, und wechselt ungeduldig von einem Fuß auf den anderen. „Ich kann warten.“
 {GAVIN: Add more Tybir scamming here, once ever.}</DefaultText>
       <FemaleText />
     </Entry>
@@ -553,17 +553,17 @@ Sein Gesicht wird eisern. "Ich weiß nicht, was dann passierte. Trotz meiner Flu
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Deine Gedanken sind ... merkwürdig."</DefaultText>
+      <DefaultText>„Deine Gedanken sind … merkwürdig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Ich kann deine Gedanken lesen. Warum sind sie so anders als das, was du sagst?"</DefaultText>
+      <DefaultText>„Ich kann deine Gedanken lesen. Warum sind sie so anders als das, was du sagst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Noch einmal, warum sind deine Gedanken so merkwürdig?"</DefaultText>
+      <DefaultText>„Noch einmal, warum sind deine Gedanken so merkwürdig?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -573,47 +573,47 @@ Sein Gesicht wird eisern. "Ich weiß nicht, was dann passierte. Trotz meiner Flu
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Gedanken?" Erritis' Augen weiten sich erschreckt. "Ich ... Ich versuche, sie zu vermeiden. Sie haben Pläne, weißt du. Denken. Planen. Aushecken." Er schüttelt den Kopf. "Nein, nein, Heldeninstinkte - das ist immer am besten."</DefaultText>
+      <DefaultText>„Gedanken?“ Erritis' Augen weiten sich erschreckt. „Ich … Ich versuche, sie zu vermeiden. Sie haben Pläne, weißt du. Denken. Planen. Aushecken.“ Er schüttelt den Kopf. „Nein, nein, Heldeninstinkte - das ist immer am besten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Wenn ich Gedanken haben soll, ist das neu für mich!"</DefaultText>
+      <DefaultText>„Wenn ich Gedanken haben soll, ist das neu für mich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Er hat ein breites Lächeln. "Ich kann ehrlich sagen, ich habe keine Ahnung wovon du redest."</DefaultText>
+      <DefaultText>Er hat ein breites Lächeln. „Ich kann ehrlich sagen, ich habe keine Ahnung wovon du redest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Natürlich! Und ich bin bereit! Ich bin immer bereit!"</DefaultText>
+      <DefaultText>„Natürlich! Und ich bin bereit! Ich bin immer bereit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Kämpfst du gut in einer Gruppe?"</DefaultText>
+      <DefaultText>„Kämpfst du gut in einer Gruppe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Du hast eine *Gruppe*? Wo sind-" Er blickt hinter dich und sieht Matkina. Ihm klappt die Kinnlade herunter. "Oh."</DefaultText>
+      <DefaultText>„Du hast eine *Gruppe*? Wo sind-“ Er blickt hinter dich und sieht Matkina. Ihm klappt die Kinnlade herunter. „Oh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Du hast eine *Gruppe*?" Er schaut hinter dich zu deinem Gefährten. "Waren die die ganze Zeit schon da?"</DefaultText>
+      <DefaultText>„Du hast eine *Gruppe*?“ Er schaut hinter dich zu deinem Gefährten. „Waren die die ganze Zeit schon da?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Ja. Ich möchte, dass du dich mir anschließt."</DefaultText>
-      <FemaleText>"Ja. Ich möchte, dass du dich mir anschließt."</FemaleText>
+      <DefaultText>„Ja. Ich möchte, dass du dich mir anschließt.“</DefaultText>
+      <FemaleText>„Ja. Ich möchte, dass du dich mir anschließt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Nein."</DefaultText>
+      <DefaultText>„Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -623,17 +623,17 @@ Sein Gesicht wird eisern. "Ich weiß nicht, was dann passierte. Trotz meiner Flu
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Du hast es gesagt!", stöhnt Erritis. "Aber du solltest es dir anders überlegen! Das solltest du wirklich."</DefaultText>
-      <FemaleText>"Du hast es gesagt!", stöhnt Erritis. "Aber du solltest es dir anders überlegen! Das solltest du wirklich."</FemaleText>
+      <DefaultText>„Du hast es gesagt!“, stöhnt Erritis. „Aber du solltest es dir anders überlegen! Das solltest du wirklich.“</DefaultText>
+      <FemaleText>„Du hast es gesagt!“, stöhnt Erritis. „Aber du solltest es dir anders überlegen! Das solltest du wirklich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>141</ID>
       <DefaultText>Der dünne, strahlend junge Mann starrt das Luftschiff an, dass er zum Absturz gebracht hat. Als er dich entdeckt, wirft er vor Freude die Arme in die Höhe.
 
-"Ich hatte gehofft, dass du zurückkommst! Nun, das ist nicht wahr. Ich bin nicht sicher, was ich gehofft habe, doch ich wette, es war *aufregend*."</DefaultText>
+„Ich hatte gehofft, dass du zurückkommst! Nun, das ist nicht wahr. Ich bin nicht sicher, was ich gehofft habe, doch ich wette, es war *aufregend*.“</DefaultText>
       <FemaleText>Der dünne, strahlend junge Mann starrt das Luftschiff an, dass er zum Absturz gebracht hat. Als er dich entdeckt, wirft er vor Freude die Arme in die Höhe.
 
-"Ich hatte gehofft, dass du zurückkommst! Nun, das ist nicht wahr. Ich bin nicht sicher, was ich gehofft habe, doch ich wette, es war *aufregend*."</FemaleText>
+„Ich hatte gehofft, dass du zurückkommst! Nun, das ist nicht wahr. Ich bin nicht sicher, was ich gehofft habe, doch ich wette, es war *aufregend*.“</FemaleText>
     </Entry>
     <Entry>
       <ID>142</ID>
@@ -642,8 +642,8 @@ Sein Gesicht wird eisern. "Ich weiß nicht, was dann passierte. Trotz meiner Flu
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Ich habe immer noch zu viele Leute bei mir. Vielleicht kannst du dich mir ein anderes Mal anschließen."</DefaultText>
-      <FemaleText>"Ich habe immer noch zu viele Leute bei mir. Vielleicht kannst du dich mir ein anderes Mal anschließen."</FemaleText>
+      <DefaultText>„Ich habe immer noch zu viele Leute bei mir. Vielleicht kannst du dich mir ein anderes Mal anschließen.“</DefaultText>
+      <FemaleText>„Ich habe immer noch zu viele Leute bei mir. Vielleicht kannst du dich mir ein anderes Mal anschließen.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
