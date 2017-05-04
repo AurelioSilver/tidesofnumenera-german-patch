@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Das Erste, was dir an diesem jungen Mann auffällt, ist der goldene Dunst, das *Leuchten* das ihn umgibt. In seinen Augen funkelt es und das gibt seinem leichten Grinsen eine Wärme, die du bis in den Bauch *spürst*.  
+      <DefaultText>Das Erste, was dir an diesem jungen Mann auffällt, ist der goldene Dunst, das *Leuchten* das ihn umgibt. In seinen Augen funkelt es und das gibt seinem leichten Grinsen eine Wärme, die du bis in den Bauch *spürst*.
 
 Er sieht dich und richtet sich auf.</DefaultText>
       <FemaleText />
@@ -41,7 +41,7 @@ Er stützt seine Hände auf seine schmalen Hüften und strahlt dich an.</Default
     <Entry>
       <ID>7</ID>
       <DefaultText>„Du hättest uns alle töten können!“
-{SCRIPT: Node 4 should only play the first day that the player encounters Erritis. These are triggered by the player's proximity, and will play in order. }</DefaultText>
+{SCRIPT: Node 4 should only play the first day that the player encounters Erritis. These are triggered by the player's proximity, and will play in order.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@ Er stützt seine Hände auf seine schmalen Hüften und strahlt dich an.</Default
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Ich bin froh, dass du das gefragt hast!“ Das ist eine Untertreibung. Er sieht geradezu *verzückt* aus. 
+      <DefaultText>„Ich bin froh, dass du das gefragt hast!“ Das ist eine Untertreibung. Er sieht geradezu *verzückt* aus.
 
 „Ich kletterte die Klippe nach Karawanserei hoch, um zu sehen wie unmöglich es ist. Da sah ich einen Stern ins Riff herabfallen.“ Er hebt bedeutungsvoll den Finger. „Ich wusste in diesem Augenblick, dass es meine Bestimmung war, diesen Stern zu finden.“
 
@@ -179,7 +179,7 @@ Er hebt den Finger. „Aber du musst genau festhalten, wo wir hingehen …“ Er
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Das ist merkwürdig,“ sagt er, und wischt sich eine blonde Locke aus den Augen. „Ich hatte schon einmal mit ihm geredet. Ich erklärte ihm, dass ich mir ein Luftschiff ausleihen muss. Er lehnt es ab. Also wartete ich, bis er gegangen war und lieh mir dann eins …“ Er verstummt langsam und sein Goldglanz verblasst. Ein sorgenvoller Gedanke zieht in ihm auf. 
+      <DefaultText>„Das ist merkwürdig,“ sagt er, und wischt sich eine blonde Locke aus den Augen. „Ich hatte schon einmal mit ihm geredet. Ich erklärte ihm, dass ich mir ein Luftschiff ausleihen muss. Er lehnt es ab. Also wartete ich, bis er gegangen war und lieh mir dann eins …“ Er verstummt langsam und sein Goldglanz verblasst. Ein sorgenvoller Gedanke zieht in ihm auf.
 
 „Er ist deshalb doch nicht *verärgert*, oder?“</DefaultText>
       <FemaleText />
@@ -202,7 +202,7 @@ Er zieht in Richtung Karawanserei los, fröhlich pfeifend.</DefaultText>
       <ID>39</ID>
       <DefaultText>„Ich soll mich entschuldigen? Warum, um alles in der Welt? Entschuldigungen sind für die, denen es *leidtut* und die immer unglücklich sind, immer mit traurigem Blick und gesenktem Kopf. Sei stolz auf deine Entschuldigungen, sage ich immer!“ Er holt kurz Luft. „Wenn *jemand* Entschuldigungen austeilen muss, dann dieses verdammte Luftschiff! Nicht auszudenken, was in nicht so disziplinierten Händen damit hätte passieren können!“
 
-Ein gedämpftes *Bumm* ertönt aus dem zertrümmerten Luftschiff in der Nähe. 
+Ein gedämpftes *Bumm* ertönt aus dem zertrümmerten Luftschiff in der Nähe.
 {SOUND: Muffle boom.}</DefaultText>
       <FemaleText />
     </Entry>
@@ -218,7 +218,7 @@ Ein gedämpftes *Bumm* ertönt aus dem zertrümmerten Luftschiff in der Nähe.
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>„Nein!“ sagt er fröhlich. „Du hast es selbst gesagt. Er ist ziemlich verärgert, und ich bin nicht  gut darin, andere nicht zu verärgern. Nur in Ketten ließe ich mich hier hochbringen.“
+      <DefaultText>„Nein!“ sagt er fröhlich. „Du hast es selbst gesagt. Er ist ziemlich verärgert, und ich bin nicht gut darin, andere nicht zu verärgern. Nur in Ketten ließe ich mich hier hochbringen.“
 
 Er hält inne und runzelt die Stirn. „Natürlich ist es möglich, dass ich zufällig dort lande. Mein Orientierungssinn ist nicht der beste. Manchmal folge ich anderen stundenlang, in der Hoffnung, dass sie wissen, wo es langgeht!“</DefaultText>
       <FemaleText />
@@ -328,7 +328,7 @@ Er schüttelt den Kopf. „Ich respektiere ihn viel zu sehr, als dass ich seine 
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>„Nein, nein. Es war im Fallen als ich abstürzte.  *Deshalb* habe ich das Luftschiff draufgehalten. Damit es an Ort und Stelle bleibt!“</DefaultText>
+      <DefaultText>„Nein, nein. Es war im Fallen als ich abstürzte. *Deshalb* habe ich das Luftschiff draufgehalten. Damit es an Ort und Stelle bleibt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -429,21 +429,21 @@ Die Inspiration trifft ihn wie der Blitz. Sein Schein wird so grell, dass man ih
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Sie starrt dich wütend an, und versucht, deinen verschmitzten Hinweise zu entschlüsseln.  Langsam dämmert es ihr und der Horror kommt daher. 
+      <DefaultText>Sie starrt dich wütend an, und versucht, deinen verschmitzten Hinweise zu entschlüsseln. Langsam dämmert es ihr und der Horror kommt daher.
 
 „Lass das“, sagt sie zu Erritis. „Wirklich. Wenn ich auf einen Typ *stehe*, dann ganz sicher nicht auf dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Erritis schnauft tief durch, zwinkert mit jedem Muskel, den er hat und reißt seinen Blick von Matkina weg. 
+      <DefaultText>Erritis schnauft tief durch, zwinkert mit jedem Muskel, den er hat und reißt seinen Blick von Matkina weg.
 
 „Was, äh … Über was haben wir geredet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Ihre Augen weiten sich voller Entsetzen. Dann starrt sie wütend Erritis an. 
+      <DefaultText>Ihre Augen weiten sich voller Entsetzen. Dann starrt sie wütend Erritis an.
 
 „Lass das“, sagt sie zu Erritis. „Wirklich. Wenn ich auf einen Typ *stehe*, dann ganz sicher nicht auf dich.“</DefaultText>
       <FemaleText />
@@ -497,7 +497,7 @@ Er nimmt euch beide an den Schultern. „Das *ist* Schicksal. Es ist eure Bestim
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>„Ich schaue mir das nachher im Labor genauer an“, verspricht Tybir. Ohne dich anzusehen, fingert er ein paar Shin aus dem Beutel und gibt sie dir. 
+      <DefaultText>„Ich schaue mir das nachher im Labor genauer an“, verspricht Tybir. Ohne dich anzusehen, fingert er ein paar Shin aus dem Beutel und gibt sie dir.
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
@@ -510,7 +510,7 @@ Er nimmt euch beide an den Schultern. „Das *ist* Schicksal. Es ist eure Bestim
       <ID>105</ID>
       <DefaultText>Er grinst. „Dann sah ich über mir das Luftschiff. Ich rannte hoch, lieh es mir aus und flog damit direkt in Richtung Riff.“
 
-Sein Gesicht wird eisern. „Ich weiß nicht, was dann passierte. Trotz meiner Flugkünste steuerte das Luftschiff direkt auf die Klippen zu. Ich hatte keine andere Wahl. Ich landete es so schnell und sicher wie möglich.“ Er schüttelt den Kopf und seufzt. 
+Sein Gesicht wird eisern. „Ich weiß nicht, was dann passierte. Trotz meiner Flugkünste steuerte das Luftschiff direkt auf die Klippen zu. Ich hatte keine andere Wahl. Ich landete es so schnell und sicher wie möglich.“ Er schüttelt den Kopf und seufzt.
 
 „Den herabgefallenen Stern fand ich nie. Mittlerweile hat ihn wohl jemand gefunden und es ist jetzt *dessen* Schicksal.“</DefaultText>
       <FemaleText />
