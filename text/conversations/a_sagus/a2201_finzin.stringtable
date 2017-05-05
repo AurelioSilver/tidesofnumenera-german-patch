@@ -110,7 +110,7 @@ Er wedelt mit beiden Arme durch die Luft, und hinterlässt kleine Wolken aus Meh
     <Entry>
       <ID>18</ID>
       <DefaultText>Follow-up PQ. 18</DefaultText>
-      <FemaleText>Follow-up PQ. 18</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -125,7 +125,7 @@ Er wedelt mit beiden Arme durch die Luft, und hinterlässt kleine Wolken aus Meh
     <Entry>
       <ID>21</ID>
       <DefaultText>Follow-up PQ. 21</DefaultText>
-      <FemaleText>Follow-up PQ. 21</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -157,7 +157,7 @@ Er wedelt mit beiden Arme durch die Luft, und hinterlässt kleine Wolken aus Meh
     <Entry>
       <ID>27</ID>
       <DefaultText>Follow-up PQ. 27</DefaultText>
-      <FemaleText>Follow-up PQ. 27</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -172,7 +172,7 @@ Er wedelt mit beiden Arme durch die Luft, und hinterlässt kleine Wolken aus Meh
     <Entry>
       <ID>30</ID>
       <DefaultText>Follow-up T. 30</DefaultText>
-      <FemaleText>Follow-up T. 30</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -302,7 +302,7 @@ Er sinkt in sich zusammen, verschränkt die Arme als wäre ihm kalt. "Na gut. Wa
     <Entry>
       <ID>54</ID>
       <DefaultText>Follow-up PQ. 54</DefaultText>
-      <FemaleText>Follow-up PQ. 54</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -317,7 +317,7 @@ Er sinkt in sich zusammen, verschränkt die Arme als wäre ihm kalt. "Na gut. Wa
     <Entry>
       <ID>57</ID>
       <DefaultText>Follow-up T. 57</DefaultText>
-      <FemaleText>Follow-up T. 57</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
@@ -819,7 +819,7 @@ Er grinst, aber er ist nicht mit seinem Herzen dabei. "Viel Glück."</DefaultTex
     <Entry>
       <ID>182</ID>
       <DefaultText>(DEBUG) Spielt die Szene ab, in der Finzin seinem Levy ein Jahr seines Lebens gibt.</DefaultText>
-      <FemaleText>(DEBUG) Spielt die Szene ab, in der Finzin seinem Levy ein Jahr seines Lebens gibt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
@@ -937,7 +937,7 @@ Er wirft dir ein kleines Säckchen in die Hand und stolpert davon und sich an di
     <Entry>
       <ID>205</ID>
       <DefaultText>"Hast du, äh... mit dem Hauptmann der Levys über mich gesprochen?"</DefaultText>
-      <FemaleText>"Hast du, äh... mit dem Hauptmann der Levys über mich gesprochen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
@@ -947,7 +947,7 @@ Er wirft dir ein kleines Säckchen in die Hand und stolpert davon und sich an di
     <Entry>
       <ID>207</ID>
       <DefaultText>Dieses Mal ist sein Gesicht die pure Unschuld.</DefaultText>
-      <FemaleText>Dieses Mal ist sein Gesicht die pure Unschuld.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
