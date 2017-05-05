@@ -701,9 +701,7 @@ Er zwinkert. "Oder fürchten. Ist im Grunde ja das Gleiche."</DefaultText>
       <DefaultText>"Sprich mit Clarion im Fünften Auge", flüstert er. "Sie wird dich auf den Pfad des Gottesdienstes bringen."
 
 Er macht einen Schritt zurück und lächelt übers ganze Gesicht. "Da bist du ja. Eine saubere Schulter und keine Drohne notwendig!"</DefaultText>
-      <FemaleText>"Sprich mit Clarion im Fünften Auge", flüstert er. "Sie wird dich auf den Pfad des Gottesdienstes bringen."
-
-Er macht einen Schritt zurück und lächelt übers ganze Gesicht. "Da bist du ja. Eine saubere Schulter und keine Drohne notwendig!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
@@ -770,7 +768,7 @@ Er klopft dir auf die Schulter. "Aber jetzt seid Ihr ja hier, aufrecht stehend u
     <Entry>
       <ID>126</ID>
       <DefaultText>Addend. 126</DefaultText>
-      <FemaleText>Addend. 126</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
