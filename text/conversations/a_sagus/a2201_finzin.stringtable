@@ -13,12 +13,12 @@ Offensichtlich ist er ein Bäcker.</DefaultText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Hast du etwas gefunden?“ fragt er und sein Blick geht an dir vorbei, um den hinter dir in der Ferne stehenden Levi zu beobachten.</DefaultText>
+      <DefaultText>„Hast du etwas gefunden?“, fragt er und sein Blick geht an dir vorbei, um den hinter dir in der Ferne stehenden Levi zu beobachten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Bleib stehen, du leuchtest?“ sagt er, und blickt dir über die Schulter. Du folgst seinem Blick zu einem gepanzerten Soldaten, der sich auf dem Marktplatz rumtreibt.
+      <DefaultText>„Bleib stehen, du leuchtest?“, sagt er, und blickt dir über die Schulter. Du folgst seinem Blick zu einem gepanzerten Soldaten, der sich auf dem Marktplatz rumtreibt.
 
 „Dieser Levi folgt mir schon seit Tagen. Ich kann nicht einmal zum Pinkeln anhalten, ohne mich umsehen zu müssen!“</DefaultText>
       <FemaleText />
@@ -45,14 +45,14 @@ Offensichtlich ist er ein Bäcker.</DefaultText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Pscht!“ sagt er, und fuchtelt mit seinen mehligen Händen, die Augen in Panik weit aufgerissen. „Man *kümmert* sich nicht um einen Levi. Man *redet* man nicht einmal über ihn!“
+      <DefaultText>„Pscht!“, sagt er, und fuchtelt mit seinen mehligen Händen, die Augen in Panik weit aufgerissen. „Man *kümmert* sich nicht um einen Levi. Man *redet* man nicht einmal über ihn!“
 
 Er leckt sich die Lippen. „Außerdem mache ich so etwas … Ich meine, ich habe doch nichts Unrechtes getan!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Was ist ein …?“ stottert er. „Bist du neu in der Stadt? Gleich da drüben ist einer. Nein, nicht hinsehen!“
+      <DefaultText>„Was ist ein …?“, stottert er. „Bist du neu in der Stadt? Gleich da drüben ist einer. Nein, nicht hinsehen!“
 
 Er wirft noch einen nervösen Blick über deine Schulter. „Sie sind das Gesetz, richtig? Du hast sie sicher schon einmal gesehen. Immer lächelnd, selbst wenn sie dich in Ketten legen.“ 
 
@@ -191,7 +191,7 @@ Er wedelt mit beiden Arme durch die Luft, und hinterlässt kleine Wolken aus Meh
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„Er hat *was*?“ sagt Finzin und wird ganz blass. „Sprich bitte leise. Hast du sonst noch jemanden davon erzählt? Nein? *Gut*.“
+      <DefaultText>„Er hat *was*?“, sagt Finzin und wird ganz blass. „Sprich bitte leise. Hast du sonst noch jemanden davon erzählt? Nein? *Gut*.“
 
 Er flüstert: „Ich muss mich da bedeckt halten … Bevor ich hier ein Bürger wurde, war ich … Ich war nicht gerade der Anständigste. Ich klaute Sachen. Gegen Geld. Und erst vor ein paar Wochen wollten bestimmte Leute, dass ich Gut Gillem ausraube.“
 
@@ -250,7 +250,7 @@ Er zieht eine Grimasse und reibt sich den Nacken. „Ich hatte vor, es zu machen
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Oh, und für was?“ sagt er entnervt. „Ein paar schlechte Träume? Ich habe nicht getan!“
+      <DefaultText>„Oh, und für was?“, sagt er entnervt. „Ein paar schlechte Träume? Ich habe nicht getan!“
 
 Er sinkt in sich zusammen, verschränkt die Arme als wäre ihm kalt. „Na gut. Was hat er in dieser anderen Zukunft gesehen? Wurde ich gefangen genommen? Oder vielleicht gejagt?“</DefaultText>
       <FemaleText />
@@ -338,20 +338,20 @@ Er reibt sich am Kopf. „Aber der Levi ist jetzt weg. Das ist schon mal was.“
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Du hast ihn dazu gebracht, zu gehen!“ sagt er. „Ich weiß nicht, wie du es gemacht hast und vielleicht sollte ich das auch nie erfahren.“ Er sucht etwas in seinen Taschen. „Aber gute Arbeit hat auch eine Belohnung verdient.“
+      <DefaultText>„Du hast ihn dazu gebracht, zu gehen!“, sagt er. „Ich weiß nicht, wie du es gemacht hast und vielleicht sollte ich das auch nie erfahren.“ Er sucht etwas in seinen Taschen. „Aber gute Arbeit hat auch eine Belohnung verdient.“
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Du hast ihn dazu gebracht, zu gehen!“ sagt er und *lächelt*. „Ich weiß nicht, wie du es gemacht hast und vielleicht sollte ich das auch nie erfahren.“ Er sucht etwas in seinen Taschen. „Aber gute Arbeit hat auch eine Belohnung verdient.“
+      <DefaultText>„Du hast ihn dazu gebracht, zu gehen!“, sagt er und *lächelt*. „Ich weiß nicht, wie du es gemacht hast und vielleicht sollte ich das auch nie erfahren.“ Er sucht etwas in seinen Taschen. „Aber gute Arbeit hat auch eine Belohnung verdient.“
 
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>„Ha!“ sagt er, und wirft dir ein klimperndes Säckchen in die Hand. „Das hast du dir verdient. Oh, du hättest es *sehen* sollen. Levis kamen vor nicht einmal zehn Minuten zu unserem Freund. Sie kloppten und fesselten ihn und zerrten ihn davon.“ 
+      <DefaultText>„Ha!“, sagt er, und wirft dir ein klimperndes Säckchen in die Hand. „Das hast du dir verdient. Oh, du hättest es *sehen* sollen. Levis kamen vor nicht einmal zehn Minuten zu unserem Freund. Sie kloppten und fesselten ihn und zerrten ihn davon.“ 
 
 Er schüttelt mit dem Kopf und grinst. „Levis verhaften Levis. Früher hätte ich einen Eimer voll Shin gezahlt, um das zu sehen.“
 
@@ -454,7 +454,7 @@ Er winkt. „Oder vielleicht gehe ich auch spazieren, nachdem jetzt die Straßen
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>„Hey, wenn er es tut, werde ich dich wieder finden,“ sagt er und zuckt mit der Schulter. „Ich bin mir nicht sicher, ob du ihn verjagt hast oder was auch immer, jedenfalls …“</DefaultText>
+      <DefaultText>„Hey, wenn er es tut, werde ich dich wieder finden“, sagt er und zuckt mit der Schulter. „Ich bin mir nicht sicher, ob du ihn verjagt hast oder was auch immer, jedenfalls …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -499,7 +499,7 @@ Er winkt. „Oder vielleicht gehe ich auch spazieren, nachdem jetzt die Straßen
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>„Sicher,“ sagt er. „Aber auch, nein. So wie du es beschrieben hast, war ich ihm etwas schuldig. Man muss seine Schulden bezahlen, Bürger oder nicht.“
+      <DefaultText>„Sicher“, sagt er. „Aber auch, nein. So wie du es beschrieben hast, war ich ihm etwas schuldig. Man muss seine Schulden bezahlen, Bürger oder nicht.“
 
 Er zuckt zusammen. „Ich glaube, ich muss mich hinlegen. Bis später.“ Er geht, um das zu tun, hält dann aber inne.</DefaultText>
       <FemaleText />
@@ -560,7 +560,7 @@ Er sieht wie du ihn anschaust und läuft rot an. „Sag das bitte niemandem, ja?
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>„Etwas ist anders,“ sagt er missbilligend. „Plötzlich bekam ich die Gefahren nicht mehr aus dem Kopf. Wie dick die Levi-Patrouillen waren oder wie sich der Hauptmann selbst eines meiner älteren Abenteuer ansah.“
+      <DefaultText>„Etwas ist anders“, sagt er missbilligend. „Plötzlich bekam ich die Gefahren nicht mehr aus dem Kopf. Wie dick die Levi-Patrouillen waren oder wie sich der Hauptmann selbst eines meiner älteren Abenteuer ansah.“
 
 Er spielt mit dem Schürzenband, das aus seiner Hosentasche hängt. „Da hängte ich den Job an den Nagel und fing in der Bäckerei meiner Tante an. Den Gut Gillem-Auftrag habe ich nie ausgeführt. Das ist die Wahrheit.“</DefaultText>
       <FemaleText />
@@ -634,7 +634,7 @@ Sein Blick streift dein Gesicht und geht dann wieder zurück. „Es ist so. Leut
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>„Ich war noch nie an einem Ort, an dem es 'fair' zugeht,“ sagt er und schüttelt den Kopf. „Lass es mich wissen, Wenn du den jemals findest.“</DefaultText>
+      <DefaultText>„Ich war noch nie an einem Ort, an dem es 'fair' zugeht“, sagt er und schüttelt den Kopf. „Lass es mich wissen, Wenn du den jemals findest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -659,12 +659,12 @@ Sein Blick streift dein Gesicht und geht dann wieder zurück. „Es ist so. Leut
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>„Wie viel … Wie viel ist 'viel'?“ sagt er und fährt sich mit dem Handrücken über den Mund. Er sieht etwas von der Wahrheit in deinen Augen und seufzt.</DefaultText>
+      <DefaultText>„Wie viel … Wie viel ist 'viel'?“, sagt er und fährt sich mit dem Handrücken über den Mund. Er sieht etwas von der Wahrheit in deinen Augen und seufzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>„Wehgetan?“ sagt er und runzelt die Stirn. „Sehr wehgetan?“ 
+      <DefaultText>„Wehgetan?“, sagt er und runzelt die Stirn. „Sehr wehgetan?“ 
 
 Er sieht etwas von der Wahrheit in deinen Augen und seufzt.</DefaultText>
       <FemaleText />
@@ -793,7 +793,7 @@ Er grinst, aber er ist nicht mit seinem Herzen dabei. „Viel Glück.“</Defaul
       <ID>177</ID>
       <DefaultText>Finzin bekommt einen Hustenanfall und dreht sich weg und verbirgt gleichzeitig sein Gesicht.
 
-„Kann ich nicht gerade sagen!“ sagt er mit gedämpfter Stimme. „Verrückte Levis, was?“</DefaultText>
+„Kann ich nicht gerade sagen!“, sagt er mit gedämpfter Stimme. „Verrückte Levis, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -838,7 +838,7 @@ Er grinst, aber er ist nicht mit seinem Herzen dabei. „Viel Glück.“</Defaul
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>„Er ist nur eine Kopie von mir,“ sagt er lachend. „Und das nur dürftig. Ich schulde ihm rein gar nichts. Eher schuldet er mir etwas!“</DefaultText>
+      <DefaultText>„Er ist nur eine Kopie von mir“, sagt er lachend. „Und das nur dürftig. Ich schulde ihm rein gar nichts. Eher schuldet er mir etwas!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -913,7 +913,7 @@ Er grinst, aber er ist nicht mit seinem Herzen dabei. „Viel Glück.“</Defaul
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>„Hatte ich auch nicht gedacht,“ sagt er bedrückt. „Ich kann dir auch keinen Vorwurf machen. Was dann?“</DefaultText>
+      <DefaultText>„Hatte ich auch nicht gedacht“, sagt er bedrückt. „Ich kann dir auch keinen Vorwurf machen. Was dann?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
