@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ihr seid zurück!" sagt er und breitet die Arme aus, als wollte er dich gleich umarmen. "Kann ich Euer Interesse für meine völlig überteuerten Gegenstände oder Dienste wecken?"</DefaultText>
+      <DefaultText>"Ihr seid zurück!", sagt er und breitet die Arme aus, als wollte er dich gleich umarmen. "Kann ich Euer Interesse für meine völlig überteuerten Gegenstände oder Dienste wecken?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Herzlich willkommen!" sagt er. "Das mit dem Stein tut mir leid. Das ist ein polymorphe Fleischmodifikation. Ich sah dich nicht kommen und vermutete, dass du mir die Kehle durchschneiden willst, um dir meinen cheirurgischen Salon unter den Nagel zu reißen!"</DefaultText>
+      <DefaultText>"Herzlich willkommen!", sagt er. "Das mit dem Stein tut mir leid. Das ist ein polymorphe Fleischmodifikation. Ich sah dich nicht kommen und vermutete, dass du mir die Kehle durchschneiden willst, um dir meinen cheirurgischen Salon unter den Nagel zu reißen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,7 +177,7 @@ Das Letzte, was du vor deinem Tod noch siehst, sind die nackten Klingen, die aus
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ihr seid zurück?" sagt Jernaugh, während du dich ins Leben zurückkeuchst. "Ich hatte mir schon überlegt, Eure Stiefel zu verkaufen!"
+      <DefaultText>"Ihr seid zurück?", sagt Jernaugh, während du dich ins Leben zurückkeuchst. "Ich hatte mir schon überlegt, Eure Stiefel zu verkaufen!"
 {SCRIPT: Plays the rest of the time the player dies from procedures.}</DefaultText>
       <FemaleText />
     </Entry>
@@ -213,7 +213,7 @@ Er verkündet stolz: "Gehört Euch für [Global: a2201_JernaughJaggedMemoryPrice
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Das zeitreisende-oder-vielleicht-doch-nicht-Wunden-verursachende Implantat?" sagt er. "Für [Global: a2201_JernaughJaggedMemoryPrice] Shin gehört es Euch!"
+      <DefaultText>"Das zeitreisende-oder-vielleicht-doch-nicht-Wunden-verursachende Implantat?", sagt er. "Für [Global: a2201_JernaughJaggedMemoryPrice] Shin gehört es Euch!"
 
 {MONEY}</DefaultText>
       <FemaleText />
@@ -238,7 +238,7 @@ Leider hat dein Herz aufgehört, zu schlagen. Vermutlich solltest du dich zuerst
 
 Interessant.
 
-"Alles wunschgemäß?" fragt Jernaugh. "Gut. Was könnte Euch sonst noch begeistern?"</DefaultText>
+"Alles wunschgemäß?", fragt Jernaugh. "Gut. Was könnte Euch sonst noch begeistern?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,7 +268,7 @@ Interessant.
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Das ist eigentlich ganz einfach," sagt er. "Die Drohnen füllen Euer Blut mit Millionen von winzigen Maschinen, die sofort damit beginnen, Euch bei lebendigem Leib zu vertilgen, bis sie gelernt haben, zwischen Euren Körperzellen und dem zu unterscheiden, was *nicht* reingehört. Danach geben sie ihr Bestes, um Gifte und Krankheitskeime mit jedem Pumpen Eures Herzens aus Eurem Körper zu jagen!"
+      <DefaultText>"Das ist eigentlich ganz einfach", sagt er. "Die Drohnen füllen Euer Blut mit Millionen von winzigen Maschinen, die sofort damit beginnen, Euch bei lebendigem Leib zu vertilgen, bis sie gelernt haben, zwischen Euren Körperzellen und dem zu unterscheiden, was *nicht* reingehört. Danach geben sie ihr Bestes, um Gifte und Krankheitskeime mit jedem Pumpen Eures Herzens aus Eurem Körper zu jagen!"
 
 Er hält inne. "Sofern ich mich nicht klar und deutlich ausgedrückte: das wird eine *wirklich* schmerzhafte Sache. [Global: a2201_JernaughBloodNanitesPrice] Shin, bitte im Voraus zu bezahlen."
 
@@ -426,7 +426,7 @@ Das neue Auge windet sich in deinen Sockel und verbindet sich dort mit den Nerve
 
 Dann hört der Schmerz auf. Du schaust dir deine Hand an und bemerkst eine Narbe - auf *deiner* Hand - die du noch nie zuvor gesehen hast.
 
-"Unglaublich, nicht wahr?" sagt Jernaugh. "Braucht Ihr sonst noch etwas?"</DefaultText>
+"Unglaublich, nicht wahr?", sagt Jernaugh. "Braucht Ihr sonst noch etwas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,7 +456,7 @@ Dann hört der Schmerz auf. Du schaust dir deine Hand an und bemerkst eine Narbe
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Ein verführerischer Name, nicht wahr?" sagt er lachend. "Ich bin froh, dass es Euch gefällt, aber ich weiß noch gar nicht genau, was es macht. Ihr müsst wissen, es ist ein Lebewesen, das durch Euren Körper streift, während Ihr schlaft. Irgendwann wird es sich in Eurem Nervensystem ansiedeln und dann wird es etwas machen."
+      <DefaultText>"Ein verführerischer Name, nicht wahr?", sagt er lachend. "Ich bin froh, dass es Euch gefällt, aber ich weiß noch gar nicht genau, was es macht. Ihr müsst wissen, es ist ein Lebewesen, das durch Euren Körper streift, während Ihr schlaft. Irgendwann wird es sich in Eurem Nervensystem ansiedeln und dann wird es etwas machen."
 
 Er zuckt mit den Schultern: "Das könnte etwas Gutes, etwas Schlechtes oder von *beidem* etwas sein. Langweilig wird es ganz sicher nicht sein. [Global: a2201_JernaughEncroachingDarknessPrice] Shin."
 
@@ -647,7 +647,7 @@ Dein Kopf schreit dich an und du bist dir eigentlich ziemlich sicher, dass du zu
       <ID>102</ID>
       <DefaultText>Er hält inne und schaut dich aus den Augenwinkeln an, das Quarz verschwindet langsam.
 
-"Ist uns nicht allen mehr geholfen, wenn wir ehrlich zueinander sind?" sagt er schließlich. "Wenn wir uns alle frei äußern könnten, ohne Angst haben zu müssen?"
+"Ist uns nicht allen mehr geholfen, wenn wir ehrlich zueinander sind?", sagt er schließlich. "Wenn wir uns alle frei äußern könnten, ohne Angst haben zu müssen?"
 
 Er schaut nach unten. "Ich denke schon."</DefaultText>
       <FemaleText />
@@ -691,7 +691,7 @@ Er zwinkert. "Oder fürchten. Ist im Grunde ja das Gleiche."</DefaultText>
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Wirklich" sagt er. "Nun, das ändert die Sache. Einem Freund von Lord Vuntgen kann ich natürlich nicht den vollen Preis berechnen."
+      <DefaultText>"Wirklich", sagt er. "Nun, das ändert die Sache. Einem Freund von Lord Vuntgen kann ich natürlich nicht den vollen Preis berechnen."
 
 {SCRIPT: Activate a discount on Jernaugh's services.}</DefaultText>
       <FemaleText />
