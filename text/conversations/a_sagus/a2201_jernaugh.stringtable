@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ihr seid zurück!", sagt er und breitet die Arme aus, als wollte er dich gleich umarmen. "Kann ich Euer Interesse für meine völlig überteuerten Gegenstände oder Dienste wecken?"</DefaultText>
+      <DefaultText>„Ihr seid zurück!“, sagt er und breitet die Arme aus, als wollte er dich gleich umarmen. „Kann ich Euer Interesse für meine völlig überteuerten Gegenstände oder Dienste wecken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Herzlich willkommen!", sagt er. "Das mit dem Stein tut mir leid. Das ist ein polymorphe Fleischmodifikation. Ich sah dich nicht kommen und vermutete, dass du mir die Kehle durchschneiden willst, um dir meinen cheirurgischen Salon unter den Nagel zu reißen!"</DefaultText>
+      <DefaultText>„Herzlich willkommen!“, sagt er. „Das mit dem Stein tut mir leid. Das ist ein polymorphe Fleischmodifikation. Ich sah dich nicht kommen und vermutete, dass du mir die Kehle durchschneiden willst, um dir meinen cheirurgischen Salon unter den Nagel zu reißen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,31 +26,31 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Wie seid Ihr Besitzer dieses Salons geworden?"</DefaultText>
+      <DefaultText>„Wie seid Ihr Besitzer dieses Salons geworden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Sagt Ihr mir noch einmal, wie Ihr an diesen Salon kamt?"</DefaultText>
+      <DefaultText>„Sagt Ihr mir noch einmal, wie Ihr an diesen Salon kamt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Wir waren ursprünglich eine Gesellschaft", sagt er. "Meine Kollegen und ich brauchten zwei Jahre, um es auszugraben und den Laden zum Laufen zu bringen."
+      <DefaultText>„Wir waren ursprünglich eine Gesellschaft“, sagt er. „Meine Kollegen und ich brauchten zwei Jahre, um es auszugraben und den Laden zum Laufen zu bringen.“
 
-Er seufzt. "Natürlich mussten wir die Drohnen erst testen, bevor wir sie auf andere loslassen konnten. Kunden, die am Tag der Eröffnung bei lebendigem Leib gehäutet werden, sind keine gute Werbung. Wie sich zeigte, war das eine sehr kluge Entscheidung."</DefaultText>
+Er seufzt. „Natürlich mussten wir die Drohnen erst testen, bevor wir sie auf andere loslassen konnten. Kunden, die am Tag der Eröffnung bei lebendigem Leib gehäutet werden, sind keine gute Werbung. Wie sich zeigte, war das eine sehr kluge Entscheidung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Alle meine Geschäftspartner starben in der Testphase einen schrecklichen Tod", sagt er strahlend. "Ich habe deswegen immer noch Albträume!"</DefaultText>
+      <DefaultText>„Alle meine Geschäftspartner starben in der Testphase einen schrecklichen Tod“, sagt er strahlend. „Ich habe deswegen immer noch Albträume!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>Du wachst auf, würgend. Deine neu erworbenen Sachen sind fest installiert und deine Wunden geschlossen. Jernaugh lehnt sich über dich und ist fasziniert.
 
-"Du warst tot", sagt er. "Ich wollte dich schon an die Dendra O'hur verkaufen wie all die anderen. Doch dann hast du wieder zu *atmen* begonnen. Bemerkenswert."
+„Du warst tot“, sagt er. „Ich wollte dich schon an die Dendra O'hur verkaufen wie all die anderen. Doch dann hast du wieder zu *atmen* begonnen. Bemerkenswert.“
 
 
 {SCRIPT: Plays the first time the player dies from the procedures.}</DefaultText>
@@ -63,36 +63,36 @@ Er seufzt. "Natürlich mussten wir die Drohnen erst testen, bevor wir sie auf an
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Zeigt mir Eure Liste mit käuflichen Gegenständen und Diensten."</DefaultText>
+      <DefaultText>„Zeigt mir Eure Liste mit käuflichen Gegenständen und Diensten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Zeigt mir nochmal Eure Liste mit käuflichen Gegenständen und Diensten."</DefaultText>
+      <DefaultText>„Zeigt mir nochmal Eure Liste mit käuflichen Gegenständen und Diensten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Natürlich", sagt er und tippt auf einige Schaltflächen auf dem breiten Gerät, das sein Handgelenk umschließt. Die Linse strahlt dir einen Lichtkegel direkt ins Auge, das sofort zu tränen beginnt.
+      <DefaultText>„Natürlich“, sagt er und tippt auf einige Schaltflächen auf dem breiten Gerät, das sein Handgelenk umschließt. Die Linse strahlt dir einen Lichtkegel direkt ins Auge, das sofort zu tränen beginnt.
 
 Blinzelnd erkennst du ein Menü mit Gegenständen, das in der Luft zu hängen scheint.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Aber sicher", sagt er und tippt auf das Gerät an seinem Handgelenk, das dir das Menü des Salons direkt ins stechende Auge projiziert.</DefaultText>
+      <DefaultText>„Aber sicher“, sagt er und tippt auf das Gerät an seinem Handgelenk, das dir das Menü des Salons direkt ins stechende Auge projiziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Gut erkannt", sagt er nickend. Transparente Quarzstreifen laufen an seinen markanten Wangenknochen hoch, darunter ist der Muskel zu sehen. "Das ist eine Nebenwirkung meiner Modifikationen. Ich kann es nicht verbergen, selbst wenn ich es müsste."
+      <DefaultText>„Gut erkannt“, sagt er nickend. Transparente Quarzstreifen laufen an seinen markanten Wangenknochen hoch, darunter ist der Muskel zu sehen. „Das ist eine Nebenwirkung meiner Modifikationen. Ich kann es nicht verbergen, selbst wenn ich es müsste.“
 
-Er zuckt mit den Achseln. "Ehrlichkeit ist für einen Geschäftsmann normalerweise eher hinderlich, aber den Leuten gefällt es."</DefaultText>
+Er zuckt mit den Achseln. „Ehrlichkeit ist für einen Geschäftsmann normalerweise eher hinderlich, aber den Leuten gefällt es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ich muss schon sagen, Ihr seid ein sehr ehrlicher Mann."</DefaultText>
+      <DefaultText>„Ich muss schon sagen, Ihr seid ein sehr ehrlicher Mann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,12 +107,12 @@ Er zuckt mit den Achseln. "Ehrlichkeit ist für einen Geschäftsmann normalerwei
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Wie schmerzhaft ist die Prozedur?"</DefaultText>
+      <DefaultText>„Wie schmerzhaft ist die Prozedur?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Wie schmerzhaft ist die Prozedur nochmal?"</DefaultText>
+      <DefaultText>„Wie schmerzhaft ist die Prozedur nochmal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,43 +122,43 @@ Er zuckt mit den Achseln. "Ehrlichkeit ist für einen Geschäftsmann normalerwei
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Die Krallenhandschuhe."</DefaultText>
+      <DefaultText>„Die Krallenhandschuhe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Wenn ich ehrlich bin, die Krallenhandschuhe könnten mich interessieren."</DefaultText>
+      <DefaultText>„Wenn ich ehrlich bin, die Krallenhandschuhe könnten mich interessieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ich wusste, dass sie Euer Interesse finden", sagt er und boxt dich freundschaftlich in die Rippen. "Wir pflanzen Euch lange Röhren in deine Unterarme, die innen mit Stahlklingen armiert sind. Knickt einfach Euer Handgelenk ab und schon springen sie heraus und überraschen jeden, der Euch für unbewaffnet hielt!"
+      <DefaultText>„Ich wusste, dass sie Euer Interesse finden“, sagt er und boxt dich freundschaftlich in die Rippen. „Wir pflanzen Euch lange Röhren in deine Unterarme, die innen mit Stahlklingen armiert sind. Knickt einfach Euer Handgelenk ab und schon springen sie heraus und überraschen jeden, der Euch für unbewaffnet hielt!“
 
-Er demonstriert es dir mit seiner freien Hand und macht dazu ein *Schk*-Geräusch. "[Global: a2201_JernaughClawedGauntletsPrice] Shin für Waffe und Einbau."</DefaultText>
+Er demonstriert es dir mit seiner freien Hand und macht dazu ein *Schk*-Geräusch. „[Global: a2201_JernaughClawedGauntletsPrice] Shin für Waffe und Einbau.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ah, die verborgenen Messer im Handgelenk", sagt er. "[Global: a2201_JernaughClawedGauntletsPrice] Shin, und sie gehören Euch."
+      <DefaultText>„Ah, die verborgenen Messer im Handgelenk“, sagt er. „[Global: a2201_JernaughClawedGauntletsPrice] Shin, und sie gehören Euch.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Ich nehme sie."
+      <DefaultText>„Ich nehme sie.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Nein, danke."</DefaultText>
+      <DefaultText>„Nein, danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Euer Verlust", sagt er. "Seid ihr sonst noch an etwas interessiert?"</DefaultText>
+      <DefaultText>„Euer Verlust“, sagt er. „Seid ihr sonst noch an etwas interessiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,27 +172,27 @@ Das Letzte, was du vor deinem Tod noch siehst, sind die nackten Klingen, die aus
       <ID>31</ID>
       <DefaultText>Endlich lassen sie dich wieder los. Zuckend vor Schmerz knickst du wie angewiesen dein Handgelenk ab. Lange, stilvolle Klingen springen aus deinen zerfleischten - aber schon wieder heilenden - Fingerknöcheln. Sie sehen *genial* aus.
 
-"Sie sehen *genial* aus", sagt Jernaugh. "Sucht Ihr sonst noch etwas?"</DefaultText>
+„Sie sehen *genial* aus“, sagt Jernaugh. „Sucht Ihr sonst noch etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ihr seid zurück?", sagt Jernaugh, während du dich ins Leben zurückkeuchst. "Ich hatte mir schon überlegt, Eure Stiefel zu verkaufen!"
+      <DefaultText>„Ihr seid zurück?“, sagt Jernaugh, während du dich ins Leben zurückkeuchst. „Ich hatte mir schon überlegt, Eure Stiefel zu verkaufen!“
 {SCRIPT: Plays the rest of the time the player dies from procedures.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Das ist ein beliebte Frage", sagt er. "Und es variiert, je nach Verfahren, aber wenn Ihr eine allgemeine Einschätzung hören möchtet ..."
+      <DefaultText>„Das ist ein beliebte Frage“, sagt er. „Und es variiert, je nach Verfahren, aber wenn Ihr eine allgemeine Einschätzung hören möchtet ...“
 
-Er tippt sich nachdenklich ans Kinn. "Meine Kunden schwanken zwischen 'Flehen um einen gnadenvollen Tod' und 'Stöhnen, während sie sich selbst Einkoten'. Wenn Euch das hilft. Aber fast alle sind hinterher sehr glücklich mit dem Resultat. Wenn sie es überleben."
+Er tippt sich nachdenklich ans Kinn. „Meine Kunden schwanken zwischen 'Flehen um einen gnadenvollen Tod' und 'Stöhnen, während sie sich selbst Einkoten'. Wenn Euch das hilft. Aber fast alle sind hinterher sehr glücklich mit dem Resultat. Wenn sie es überleben.“
 
-Er lächelt. "Und, wollt Ihr jetzt etwas kaufen?"</DefaultText>
+Er lächelt. „Und, wollt Ihr jetzt etwas kaufen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Unerträglich", sagt er. "Aber nur für moderate bis geraume Zeit. Wie dem auch sei, woran seid Ihr interessiert?"</DefaultText>
+      <DefaultText>„Unerträglich“, sagt er. „Aber nur für moderate bis geraume Zeit. Wie dem auch sei, woran seid Ihr interessiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -202,9 +202,9 @@ Er lächelt. "Und, wollt Ihr jetzt etwas kaufen?"</DefaultText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Das", sagt er mit erhobenem Finger, "ist eine raffinierte Sache. Es ist ein Geflecht, das durch Eure Haut wirkt und schartige Stellen wie Tätowierungen hinterlässt. Wenn Ihr angreift, trefft Ihr immer in die alten Wunden des Gegners, selbst wenn ... da vorher keine waren. Ich sagte doch, raffiniert."
+      <DefaultText>„Das“, sagt er mit erhobenem Finger, „ist eine raffinierte Sache. Es ist ein Geflecht, das durch Eure Haut wirkt und schartige Stellen wie Tätowierungen hinterlässt. Wenn Ihr angreift, trefft Ihr immer in die alten Wunden des Gegners, selbst wenn ... da vorher keine waren. Ich sagte doch, raffiniert.“
 
-Er verkündet stolz: "Gehört Euch für [Global: a2201_JernaughJaggedMemoryPrice] Shin!"
+Er verkündet stolz: „Gehört Euch für [Global: a2201_JernaughJaggedMemoryPrice] Shin!“
 
 {MONEY}
 
@@ -213,14 +213,14 @@ Er verkündet stolz: "Gehört Euch für [Global: a2201_JernaughJaggedMemoryPrice
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Das zeitreisende-oder-vielleicht-doch-nicht-Wunden-verursachende Implantat?", sagt er. "Für [Global: a2201_JernaughJaggedMemoryPrice] Shin gehört es Euch!"
+      <DefaultText>„Das zeitreisende-oder-vielleicht-doch-nicht-Wunden-verursachende Implantat?“, sagt er. „Für [Global: a2201_JernaughJaggedMemoryPrice] Shin gehört es Euch!“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Das hätte ich gern."
+      <DefaultText>„Das hätte ich gern.“
 
 {MONEY}</DefaultText>
       <FemaleText />
@@ -238,12 +238,12 @@ Leider hat dein Herz aufgehört, zu schlagen. Vermutlich solltest du dich zuerst
 
 Interessant.
 
-"Alles wunschgemäß?", fragt Jernaugh. "Gut. Was könnte Euch sonst noch begeistern?"</DefaultText>
+„Alles wunschgemäß?“, fragt Jernaugh. „Gut. Was könnte Euch sonst noch begeistern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Nein, danke."</DefaultText>
+      <DefaultText>„Nein, danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -253,12 +253,12 @@ Interessant.
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Die zerklüftete Erinnerung."</DefaultText>
+      <DefaultText>„Die zerklüftete Erinnerung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Reden wir nochmal über die zerklüftete Erinnerung."</DefaultText>
+      <DefaultText>„Reden wir nochmal über die zerklüftete Erinnerung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,23 +268,23 @@ Interessant.
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Das ist eigentlich ganz einfach", sagt er. "Die Drohnen füllen Euer Blut mit Millionen von winzigen Maschinen, die sofort damit beginnen, Euch bei lebendigem Leib zu vertilgen, bis sie gelernt haben, zwischen Euren Körperzellen und dem zu unterscheiden, was *nicht* reingehört. Danach geben sie ihr Bestes, um Gifte und Krankheitskeime mit jedem Pumpen Eures Herzens aus Eurem Körper zu jagen!"
+      <DefaultText>„Das ist eigentlich ganz einfach“, sagt er. „Die Drohnen füllen Euer Blut mit Millionen von winzigen Maschinen, die sofort damit beginnen, Euch bei lebendigem Leib zu vertilgen, bis sie gelernt haben, zwischen Euren Körperzellen und dem zu unterscheiden, was *nicht* reingehört. Danach geben sie ihr Bestes, um Gifte und Krankheitskeime mit jedem Pumpen Eures Herzens aus Eurem Körper zu jagen!“
 
-Er hält inne. "Sofern ich mich nicht klar und deutlich ausgedrückte: das wird eine *wirklich* schmerzhafte Sache. [Global: a2201_JernaughBloodNanitesPrice] Shin, bitte im Voraus zu bezahlen."
+Er hält inne. „Sofern ich mich nicht klar und deutlich ausgedrückte: das wird eine *wirklich* schmerzhafte Sache. [Global: a2201_JernaughBloodNanitesPrice] Shin, bitte im Voraus zu bezahlen.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Winzige Fressmaschinen, die Krankheitskeime und Gifte in deinem Blut bekämpfen. Bemerkenswerte kleine Monster. [Global: a2201_JernaughBloodNanitesPrice] Shin."
+      <DefaultText>„Winzige Fressmaschinen, die Krankheitskeime und Gifte in deinem Blut bekämpfen. Bemerkenswerte kleine Monster. [Global: a2201_JernaughBloodNanitesPrice] Shin.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Ich will sie haben."
+      <DefaultText>„Ich will sie haben.“
 
 {MONEY}</DefaultText>
       <FemaleText />
@@ -298,14 +298,14 @@ Er hält inne. "Sofern ich mich nicht klar und deutlich ausgedrückte: das wird 
       <ID>50</ID>
       <DefaultText>Irgendwann lernen die Maschinen, dass nicht du die Nahrung bist. Irgendwann während der OP hast du den Löffel abgegeben. Jetzt erhebst du dich wieder und keuchst.
 
-"Seht Ihr nicht gesund aus!" proklamiert Jernaugh. "Ihr seid zwar über und über mit Eurem eigenen Blut verschmiert, aber sicher habt Ihr ja mehr davon!"
+„Seht Ihr nicht gesund aus!“ proklamiert Jernaugh. „Ihr seid zwar über und über mit Eurem eigenen Blut verschmiert, aber sicher habt Ihr ja mehr davon!“
 
-Er reibt sich die Hände. "Darf es noch etwas sein?"</DefaultText>
+Er reibt sich die Hände. „Darf es noch etwas sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Nein, danke."</DefaultText>
+      <DefaultText>„Nein, danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -315,12 +315,12 @@ Er reibt sich die Hände. "Darf es noch etwas sein?"</DefaultText>
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Was sind Blut-Naniten?"</DefaultText>
+      <DefaultText>„Was sind Blut-Naniten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Was sind nochmal Blut-Naniten?"</DefaultText>
+      <DefaultText>„Was sind nochmal Blut-Naniten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,23 +330,23 @@ Er reibt sich die Hände. "Darf es noch etwas sein?"</DefaultText>
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Die Sache ist ziemlich sicher", sagt er nickend. "Meistens jedenfalls. In fast drei von fünf Fällen. Und die Prozedur könnte kaum einfacher sein. Die Drohnen sägen Euren Schädel auf, platzieren ein Implantat an der richtigen Stelle und machen dann wieder alles dicht."
+      <DefaultText>„Die Sache ist ziemlich sicher“, sagt er nickend. „Meistens jedenfalls. In fast drei von fünf Fällen. Und die Prozedur könnte kaum einfacher sein. Die Drohnen sägen Euren Schädel auf, platzieren ein Implantat an der richtigen Stelle und machen dann wieder alles dicht.“
 
-Er klatscht sich in die Hände. "Sobald sie das getan haben, wird das Implantat helfen, den Zweck der unbekannten Numenera zu verstehen. Es kostet [Global: a2201_JernaughNumeneraAnalyzerPrice] Shin, aber es macht sich bezahlt!"
+Er klatscht sich in die Hände. „Sobald sie das getan haben, wird das Implantat helfen, den Zweck der unbekannten Numenera zu verstehen. Es kostet [Global: a2201_JernaughNumeneraAnalyzerPrice] Shin, aber es macht sich bezahlt!“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Sie können es sonst nicht in Euer Gehirn bringen", sagt er. "Und sie schneiden eigentlich fast nie die falschen Teile weg. [Global: a2201_JernaughNumeneraAnalyzerPrice] Shin und der Analysator gehört Euch."
+      <DefaultText>„Sie können es sonst nicht in Euer Gehirn bringen“, sagt er. „Und sie schneiden eigentlich fast nie die falschen Teile weg. [Global: a2201_JernaughNumeneraAnalyzerPrice] Shin und der Analysator gehört Euch.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Das hätte ich gern."
+      <DefaultText>„Das hätte ich gern.“
 
 {MONEY}</DefaultText>
       <FemaleText />
@@ -362,14 +362,14 @@ Der Schock der Prozedur war schlichtweg zu viel für dein Herz. Genau als du dei
       <ID>60</ID>
       <DefaultText>Nachdem die Maschine deinen gespaltenen Schädel wieder zusammengeflickt hat, lässt sie dich frei. Du torkelst, kannst dich aber auf den Füßen halten, als das Implantat zu summen beginnt. Textstreifen schwirren vor deinen Augen vorbei, als das Ding zu Leben erwacht.
 
-"Interessantes kleines Teil", sagt Jernaugh. "Größere Numenera verblüffen es zwar, aber es sollte mit fast allen kleineren Teilen klarkommen, die hier so rumliegen."
+„Interessantes kleines Teil“, sagt Jernaugh. „Größere Numenera verblüffen es zwar, aber es sollte mit fast allen kleineren Teilen klarkommen, die hier so rumliegen.“
 
-Er kratzt sich an der Nase. "Kann ich Euch mit sonst irgendetwas behilflich sein?"</DefaultText>
+Er kratzt sich an der Nase. „Kann ich Euch mit sonst irgendetwas behilflich sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Nein, danke."</DefaultText>
+      <DefaultText>„Nein, danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -379,12 +379,12 @@ Er kratzt sich an der Nase. "Kann ich Euch mit sonst irgendetwas behilflich sein
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Der Numenera-Analysator hört sich ... am sichersten an."</DefaultText>
+      <DefaultText>„Der Numenera-Analysator hört sich ... am sichersten an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Erzählt mir noch einmal vom Numenera-Analysator. Ihr sagtet, die Drohnen sägen meinen *Schädel* auf?"</DefaultText>
+      <DefaultText>„Erzählt mir noch einmal vom Numenera-Analysator. Ihr sagtet, die Drohnen sägen meinen *Schädel* auf?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -394,21 +394,21 @@ Er kratzt sich an der Nase. "Kann ich Euch mit sonst irgendetwas behilflich sein
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Ein sehr beliebter Gegenstand", sagt er und nickt. "Die aus Fleisch lassen schnell nach. Dieser lässt nie nach und er wird Euch Dinge sehen lassen, die Eure Augen nicht sehen können. Und das bekommt Ihr für die einmalige Zahlung von [Global: a2201_JernaughArtificialEyeballPrice] Shin und eine furchtbar unangenehme Operation."
+      <DefaultText>„Ein sehr beliebter Gegenstand“, sagt er und nickt. „Die aus Fleisch lassen schnell nach. Dieser lässt nie nach und er wird Euch Dinge sehen lassen, die Eure Augen nicht sehen können. Und das bekommt Ihr für die einmalige Zahlung von [Global: a2201_JernaughArtificialEyeballPrice] Shin und eine furchtbar unangenehme Operation.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Ihr werdet es nicht bereuen! Na ja, vielleicht während der Prozedur. Aber danach? Ihr werdet es *nicht* bereuen."
+      <DefaultText>„Ihr werdet es nicht bereuen! Na ja, vielleicht während der Prozedur. Aber danach? Ihr werdet es *nicht* bereuen.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Ich nehme das Auge."
+      <DefaultText>„Ich nehme das Auge.“
 
 {MONEY}</DefaultText>
       <FemaleText />
@@ -426,12 +426,12 @@ Das neue Auge windet sich in deinen Sockel und verbindet sich dort mit den Nerve
 
 Dann hört der Schmerz auf. Du schaust dir deine Hand an und bemerkst eine Narbe - auf *deiner* Hand - die du noch nie zuvor gesehen hast.
 
-"Unglaublich, nicht wahr?", sagt Jernaugh. "Braucht Ihr sonst noch etwas?"</DefaultText>
+„Unglaublich, nicht wahr?“, sagt Jernaugh. „Braucht Ihr sonst noch etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Nein, danke."</DefaultText>
+      <DefaultText>„Nein, danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,12 +441,12 @@ Dann hört der Schmerz auf. Du schaust dir deine Hand an und bemerkst eine Narbe
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Ein künstlicher Augapfel? Echt jetzt?"</DefaultText>
+      <DefaultText>„Ein künstlicher Augapfel? Echt jetzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Vielleicht werde ich es ja bereuen, aber ich ziehe einen 'künstlichen Augapfel in Erwägung."</DefaultText>
+      <DefaultText>„Vielleicht werde ich es ja bereuen, aber ich ziehe einen 'künstlichen Augapfel in Erwägung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,23 +456,23 @@ Dann hört der Schmerz auf. Du schaust dir deine Hand an und bemerkst eine Narbe
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Ein verführerischer Name, nicht wahr?", sagt er lachend. "Ich bin froh, dass es Euch gefällt, aber ich weiß noch gar nicht genau, was es macht. Ihr müsst wissen, es ist ein Lebewesen, das durch Euren Körper streift, während Ihr schlaft. Irgendwann wird es sich in Eurem Nervensystem ansiedeln und dann wird es etwas machen."
+      <DefaultText>„Ein verführerischer Name, nicht wahr?“, sagt er lachend. „Ich bin froh, dass es Euch gefällt, aber ich weiß noch gar nicht genau, was es macht. Ihr müsst wissen, es ist ein Lebewesen, das durch Euren Körper streift, während Ihr schlaft. Irgendwann wird es sich in Eurem Nervensystem ansiedeln und dann wird es etwas machen.“
 
-Er zuckt mit den Schultern: "Das könnte etwas Gutes, etwas Schlechtes oder von *beidem* etwas sein. Langweilig wird es ganz sicher nicht sein. [Global: a2201_JernaughEncroachingDarknessPrice] Shin."
+Er zuckt mit den Schultern: „Das könnte etwas Gutes, etwas Schlechtes oder von *beidem* etwas sein. Langweilig wird es ganz sicher nicht sein. [Global: a2201_JernaughEncroachingDarknessPrice] Shin.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Ah, die lebenden Tätowierungen mit dem geheimnisvollen Zweck", sagt er. "Nur [Global: a2201_JernaughEncroachingDarknessPrice] Shin."
+      <DefaultText>„Ah, die lebenden Tätowierungen mit dem geheimnisvollen Zweck“, sagt er. „Nur [Global: a2201_JernaughEncroachingDarknessPrice] Shin.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Ich entscheide mich für die Finsternis."
+      <DefaultText>„Ich entscheide mich für die Finsternis.“
 
 {MONEY}</DefaultText>
       <FemaleText />
@@ -486,14 +486,14 @@ Er zuckt mit den Schultern: "Das könnte etwas Gutes, etwas Schlechtes oder von 
       <ID>80</ID>
       <DefaultText>Die Ranken lösen sich abrupt von deinem Gesicht und du schnappst nach Luft. Du bleibst einen Moment still liegen und spürst, wie dein neuer Mieter durch die dunklen Gassen deines Körpers zieht, und wilde Markierungen auf deiner Hautoberfläche hinterlässt.
 
-"Wisst Ihr", sagt Jernaugh, "Ihr seid der Erste, der sich zu dieser Verbesserung entschieden hat. Ich nenne es eine 'Verbesserung', obwohl ich mir dessen nicht so sicher bin."
+„Wisst Ihr“, sagt Jernaugh, „Ihr seid der Erste, der sich zu dieser Verbesserung entschieden hat. Ich nenne es eine 'Verbesserung', obwohl ich mir dessen nicht so sicher bin.“
 
-Er klatscht in die Hände. "Nun, kann ich dich für noch etwas begeistern?"</DefaultText>
+Er klatscht in die Hände. „Nun, kann ich dich für noch etwas begeistern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Nein, danke."</DefaultText>
+      <DefaultText>„Nein, danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -503,12 +503,12 @@ Er klatscht in die Hände. "Nun, kann ich dich für noch etwas begeistern?"</Def
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Der Übergriff der Finsternis?"</DefaultText>
+      <DefaultText>„Der Übergriff der Finsternis?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Ich kriege den Übergriff der Finsternis nicht mehr aus meinem Kopf."</DefaultText>
+      <DefaultText>„Ich kriege den Übergriff der Finsternis nicht mehr aus meinem Kopf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -647,122 +647,122 @@ Dein Kopf schreit dich an und du bist dir eigentlich ziemlich sicher, dass du zu
       <ID>102</ID>
       <DefaultText>Er hält inne und schaut dich aus den Augenwinkeln an, das Quarz verschwindet langsam.
 
-"Ist uns nicht allen mehr geholfen, wenn wir ehrlich zueinander sind?", sagt er schließlich. "Wenn wir uns alle frei äußern könnten, ohne Angst haben zu müssen?"
+„Ist uns nicht allen mehr geholfen, wenn wir ehrlich zueinander sind?“, sagt er schließlich. „Wenn wir uns alle frei äußern könnten, ohne Angst haben zu müssen?“
 
-Er schaut nach unten. "Ich denke schon."</DefaultText>
+Er schaut nach unten. „Ich denke schon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Kann ich Euch zu etwas Anderem befragen?"</DefaultText>
+      <DefaultText>„Kann ich Euch zu etwas Anderem befragen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Na gut", sagt er und schaltet den Strahl aus, der aus seinem Handgelenk kommt.</DefaultText>
+      <DefaultText>„Na gut“, sagt er und schaltet den Strahl aus, der aus seinem Handgelenk kommt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Dich werde ich nicht vermissen, wohl aber dein Geld!"</DefaultText>
+      <DefaultText>„Dich werde ich nicht vermissen, wohl aber dein Geld!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Piquo, der Junge da draußen kann sich nicht entscheiden, welchen Service er kaufen soll."</DefaultText>
+      <DefaultText>„Piquo, der Junge da draußen kann sich nicht entscheiden, welchen Service er kaufen soll.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Kinder", sagt er und schüttelt den Kopf. "Ich sagte ihm, er soll mehr auf Muskeln als Aussehen setzen. Die Welt ist hart, und wird immer härter. Man wird ihn respektieren, wenn er anderen einhändig den Hals *brechen* kann."
+      <DefaultText>„Kinder“, sagt er und schüttelt den Kopf. „Ich sagte ihm, er soll mehr auf Muskeln als Aussehen setzen. Die Welt ist hart, und wird immer härter. Man wird ihn respektieren, wenn er anderen einhändig den Hals *brechen* kann.“
 
-Er zwinkert. "Oder fürchten. Ist im Grunde ja das Gleiche."</DefaultText>
+Er zwinkert. „Oder fürchten. Ist im Grunde ja das Gleiche.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Lord Vuntgen hat mich geschickt."</DefaultText>
+      <DefaultText>„Lord Vuntgen hat mich geschickt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Wirklich", sagt er. "Nun, das ändert die Sache. Einem Freund von Lord Vuntgen kann ich natürlich nicht den vollen Preis berechnen."
+      <DefaultText>„Wirklich“, sagt er. „Nun, das ändert die Sache. Einem Freund von Lord Vuntgen kann ich natürlich nicht den vollen Preis berechnen.“
 
 {SCRIPT: Activate a discount on Jernaugh's services.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Sprich mit Clarion im Fünften Auge", flüstert er. "Sie wird dich auf den Pfad des Gottesdienstes bringen."
+      <DefaultText>„Sprich mit Clarion im Fünften Auge“, flüstert er. „Sie wird dich auf den Pfad des Gottesdienstes bringen.“
 
-Er macht einen Schritt zurück und lächelt übers ganze Gesicht. "Da bist du ja. Eine saubere Schulter und keine Drohne notwendig!"</DefaultText>
+Er macht einen Schritt zurück und lächelt übers ganze Gesicht. „Da bist du ja. Eine saubere Schulter und keine Drohne notwendig!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
       <DefaultText>Sein Gesicht blitzt für einen kurzen Moment wie ein Obsidian und verwandelt sich dann in Kupfer. Der alte Mann errötet.
 
-"Entschuldigung, Entschuldigung", sagt er. "*Ich* wusste, dass Ihr Scherze macht, aber die Modifikationen sind bei so etwas wesentlich heikler. Und ich bin sogar froh, dass sie so sind. Wäre ich ein junger Mann, der sich in dieser Stadt einen Namen machen muss, würde ich mich auch umbringen."</DefaultText>
+„Entschuldigung, Entschuldigung“, sagt er. „*Ich* wusste, dass Ihr Scherze macht, aber die Modifikationen sind bei so etwas wesentlich heikler. Und ich bin sogar froh, dass sie so sind. Wäre ich ein junger Mann, der sich in dieser Stadt einen Namen machen muss, würde ich mich auch umbringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Ich mache hier gute Geschäfte", sagt der alte Mann und zuckt mit den Schultern. "Wäre ich ein junger Mann, der sich in dieser Stadt einen Namen machen muss, würde ich mich auch umbringen."</DefaultText>
+      <DefaultText>„Ich mache hier gute Geschäfte“, sagt der alte Mann und zuckt mit den Schultern. „Wäre ich ein junger Mann, der sich in dieser Stadt einen Namen machen muss, würde ich mich auch umbringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Hey, der Tag ist noch jung."</DefaultText>
+      <DefaultText>„Hey, der Tag ist noch jung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Warum denkt Ihr so etwas?"</DefaultText>
+      <DefaultText>„Warum denkt Ihr so etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Mein cheirurgischer Salon ist ein Wunderwerk aus der vorherigen Welt. Wähle einfach einen Gegenstand und einen Dienst, bezahle meine horrenden Gebühren und nach einer kurzen oder auch langen Phase unglaublicher Qualen, ziehst du davon mit einigen schrecklichen Numenera, die in dir umherschwirren."
+      <DefaultText>„Mein cheirurgischer Salon ist ein Wunderwerk aus der vorherigen Welt. Wähle einfach einen Gegenstand und einen Dienst, bezahle meine horrenden Gebühren und nach einer kurzen oder auch langen Phase unglaublicher Qualen, ziehst du davon mit einigen schrecklichen Numenera, die in dir umherschwirren.“
 
 Er drückt einige Tasten auf einem Gerät an seinem Handgelenk und Lichter leuchten auf. Eine getönte Glaslinse fokussiert dich.
 
-"Und? Interessiert?"</DefaultText>
+„Und? Interessiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Gornah wählte eine Intelligenz-Modifikation und die Drohnen trennten ihm den Kopf ab, um direkt daran zu arbeiten. Mior wählte die Stärke und die Drohnen amputierten ihr die Arme. In jenen Tagen machten sie das als Standard." Er lächelt liebevoll.
+      <DefaultText>„Gornah wählte eine Intelligenz-Modifikation und die Drohnen trennten ihm den Kopf ab, um direkt daran zu arbeiten. Mior wählte die Stärke und die Drohnen amputierten ihr die Arme. In jenen Tagen machten sie das als Standard.“ Er lächelt liebevoll.
 
-"Wie auch immer, sechs Partner später war ich der alleinige Besitzer. Ich löste die Probleme, und siehe da, wir hatten keine Todesfälle mehr seit ..." Er denkt nach. "Monaten. Keine Todesfälle in Monaten."</DefaultText>
+„Wie auch immer, sechs Partner später war ich der alleinige Besitzer. Ich löste die Probleme, und siehe da, wir hatten keine Todesfälle mehr seit ...“ Er denkt nach. „Monaten. Keine Todesfälle in Monaten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Kann ich eine Ganzkörper-Modifikation, wie Ihr sie Piquo angeboten habt, kaufen?"
+      <DefaultText>„Kann ich eine Ganzkörper-Modifikation, wie Ihr sie Piquo angeboten habt, kaufen?“
 
 {SCRIPT: Maybe look into the condition on this node. Does it always make sense? Might have to create a new global. -JF}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Nein, nein", sagt er. "Ihr seid zu alt. Viel zu alt. Eigentlich uralt im Vergleich zu diesem armen, pummeligen Jungen. Diese speziellen Vergrößerungen bevorzugen junges Fleisch. Aber ich habe noch viele andere Verstärkungen im Angebot. Welche interessieren Euch denn?"</DefaultText>
+      <DefaultText>„Nein, nein“, sagt er. „Ihr seid zu alt. Viel zu alt. Eigentlich uralt im Vergleich zu diesem armen, pummeligen Jungen. Diese speziellen Vergrößerungen bevorzugen junges Fleisch. Aber ich habe noch viele andere Verstärkungen im Angebot. Welche interessieren Euch denn?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Ihr wolltet meine Leiche verkaufen, als Ihr mich für tot gehalten habt?"</DefaultText>
+      <DefaultText>„Ihr wolltet meine Leiche verkaufen, als Ihr mich für tot gehalten habt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Nur gegen Geld", sagt er und zuckt die Schultern. "Ihr habt sie nicht gebraucht, oder zumindest dachte ich das. Und die Dendra O'hur hassen es, wenn Nahrung verschwendet wird."
+      <DefaultText>„Nur gegen Geld“, sagt er und zuckt die Schultern. „Ihr habt sie nicht gebraucht, oder zumindest dachte ich das. Und die Dendra O'hur hassen es, wenn Nahrung verschwendet wird.“
 
-Er klopft dir auf die Schulter. "Aber jetzt seid Ihr ja hier, aufrecht stehend und gesund. Ist doch nichts passiert, was?"</DefaultText>
+Er klopft dir auf die Schulter. „Aber jetzt seid Ihr ja hier, aufrecht stehend und gesund. Ist doch nichts passiert, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -772,10 +772,10 @@ Er klopft dir auf die Schulter. "Aber jetzt seid Ihr ja hier, aufrecht stehend u
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Oh, warte einen Moment. Ihr habt da etwas auf der Schulter."
+      <DefaultText>„Oh, warte einen Moment. Ihr habt da etwas auf der Schulter.“
 
 Er lehnt sich vor, um es abzuklopfen.</DefaultText>
-      <FemaleText>"Oh, warte einen Moment. Du hast etwas da auf der Schulter."
+      <FemaleText>„Oh, warte einen Moment. Du hast etwas da auf der Schulter.“
 
 Er lehnt sich vor, um es abzuklopfen.</FemaleText>
     </Entry>
