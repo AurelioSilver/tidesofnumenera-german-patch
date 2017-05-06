@@ -517,7 +517,7 @@ Er klatscht in die Hände. „Nun, kann ich dich für noch etwas begeistern?“<
 
 {SCRIPT: Chiurgical drone close in on the PC.}
 
-{SOUND: See above SCRIPT note. During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing. , screams.}</DefaultText>
+{SOUND: See above SCRIPT note. During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing, screams.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,7 +536,7 @@ Dann spürst du den ersten Biss.
 Die Maschinen rauschen wie eine Welle durch deinen Körper, nippend und beißend, Fleisch, Muskeln und Organe verzehrend. Du öffnest deinen Mund, um zu schreien, doch da strömen sie in einer schimmernden Flut aus dir heraus.
 {SCRIPT: PC gets permanent +1 to Might Defense.}
 {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.}
-{Sound: See above SCRIPT note. During fade out, surgery is happening. Metallic buzzing, crunching, muffled screams.}}</DefaultText>
+{Sound: See above SCRIPT note. During fade out, surgery is happening. Metallic buzzing, crunching, muffled screams.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -594,7 +594,7 @@ Eisige, schmierige Dolche schießen dir durchs Rückenmark und wühlen sich in d
       <ID>96</ID>
       <DefaultText>Die Drohnen schießen auf dich herab und ziehen dir beide Arme zur Seite. Mit einem dreisten Tempo rammen sie dir lange Stahlrohre in die Räume zwischen deinen Fingerknöcheln. Eins nach dem anderen.
 
-{Sound: See above SCRIPT note. During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing. , screams.}</DefaultText>
+{Sound: See above SCRIPT note. During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing, screams.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
