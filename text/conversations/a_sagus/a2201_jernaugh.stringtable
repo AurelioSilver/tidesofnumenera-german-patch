@@ -48,7 +48,7 @@ Er seufzt. "Natürlich mussten wir die Drohnen erst testen, bevor wir sie auf an
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Du wachst auf, würgend. Deine neu erworbenen Sachen sind fest installiert und deine Wunden geschlossen. Jernaugh lehnt sich über dich und ist fasziniert. 
+      <DefaultText>Du wachst auf, würgend. Deine neu erworbenen Sachen sind fest installiert und deine Wunden geschlossen. Jernaugh lehnt sich über dich und ist fasziniert.
 
 "Du warst tot", sagt er. "Ich wollte dich schon an die Dendra O'hur verkaufen wie all die anderen. Doch dann hast du wieder zu *atmen* begonnen. Bemerkenswert."
 
@@ -73,7 +73,7 @@ Er seufzt. "Natürlich mussten wir die Drohnen erst testen, bevor wir sie auf an
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Natürlich", sagt er und tippt auf einige Schaltflächen auf dem breiten Gerät, das sein Handgelenk umschließt. Die Linse strahlt dir einen Lichtkegel direkt ins Auge, das sofort zu tränen beginnt. 
+      <DefaultText>"Natürlich", sagt er und tippt auf einige Schaltflächen auf dem breiten Gerät, das sein Handgelenk umschließt. Die Linse strahlt dir einen Lichtkegel direkt ins Auge, das sofort zu tränen beginnt.
 
 Blinzelnd erkennst du ein Menü mit Gegenständen, das in der Luft zu hängen scheint.</DefaultText>
       <FemaleText />
@@ -85,7 +85,7 @@ Blinzelnd erkennst du ein Menü mit Gegenständen, das in der Luft zu hängen sc
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Gut erkannt", sagt er nickend. Transparente Quarzstreifen laufen an seinen markanten Wangenknochen hoch, darunter ist der Muskel zu sehen. "Das ist eine Nebenwirkung meiner Modifikationen. Ich kann es nicht verbergen, selbst wenn ich es müsste." 
+      <DefaultText>"Gut erkannt", sagt er nickend. Transparente Quarzstreifen laufen an seinen markanten Wangenknochen hoch, darunter ist der Muskel zu sehen. "Das ist eine Nebenwirkung meiner Modifikationen. Ich kann es nicht verbergen, selbst wenn ich es müsste."
 
 Er zuckt mit den Achseln. "Ehrlichkeit ist für einen Geschäftsmann normalerweise eher hinderlich, aber den Leuten gefällt es."</DefaultText>
       <FemaleText />
@@ -163,7 +163,7 @@ Er demonstriert es dir mit seiner freien Hand und macht dazu ein *Schk*-Geräusc
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Endlich lassen sie dich wieder los und du fällst auf den Boden. Der letzte Bluttropfen, der noch in dir war, tropft nun aus dem schrecklichen Chaos, das die Maschinen aus deinen Fäusten gemacht haben. 
+      <DefaultText>Endlich lassen sie dich wieder los und du fällst auf den Boden. Der letzte Bluttropfen, der noch in dir war, tropft nun aus dem schrecklichen Chaos, das die Maschinen aus deinen Fäusten gemacht haben.
 
 Das Letzte, was du vor deinem Tod noch siehst, sind die nackten Klingen, die aus deinen zuckenden Händen ragen. Sie sehen *genial* aus.</DefaultText>
       <FemaleText />
@@ -208,7 +208,7 @@ Er verkündet stolz: "Gehört Euch für [Global: a2201_JernaughJaggedMemoryPrice
 
 {MONEY}
 
-{THOMAS/GAVIN: This item doesn't quite make sense mechanically. The text describes it as a separate weapon that strikes your opponent when they were unarmored in the past.  What about the weapon you currently have equipped? How much damage should the attack do?  This should be rethemed as somehow either causing your currently equipped weapon to travel through time, or somehow shift your opponent to an unarmored point in time at the moment of impact, so that the affect applies to your current equipment. -JF}</DefaultText>
+{THOMAS/GAVIN: This item doesn't quite make sense mechanically. The text describes it as a separate weapon that strikes your opponent when they were unarmored in the past. What about the weapon you currently have equipped? How much damage should the attack do? This should be rethemed as somehow either causing your currently equipped weapon to travel through time, or somehow shift your opponent to an unarmored point in time at the moment of impact, so that the affect applies to your current equipment. -JF}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -227,16 +227,16 @@ Er verkündet stolz: "Gehört Euch für [Global: a2201_JernaughJaggedMemoryPrice
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Du gehst in die Knie, dein Atem stockt, das Geflecht ist fest in deinem Arm implantiert. Eine himmlische Waffe, gerufen aus einer fernen Zeit, schimmert gegen deine Handinnenfläche und wartet auf deine Beschwörungen. 
+      <DefaultText>Du gehst in die Knie, dein Atem stockt, das Geflecht ist fest in deinem Arm implantiert. Eine himmlische Waffe, gerufen aus einer fernen Zeit, schimmert gegen deine Handinnenfläche und wartet auf deine Beschwörungen.
 
 Leider hat dein Herz aufgehört, zu schlagen. Vermutlich solltest du dich zuerst darum kümmern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Deine Sicht wird klarer als sich der Rauch von deinem verkohlten Fleisch lichtet. Eine himmlische Waffe, gerufen aus ferner Zeit, schimmert gegen deine Handinnenfläche. Mit nur einem Gedanken, verbannst du sie dorthin, wo sie herkam. Erneutes Herbeirufen und wieder Verbannen. 
+      <DefaultText>Deine Sicht wird klarer als sich der Rauch von deinem verkohlten Fleisch lichtet. Eine himmlische Waffe, gerufen aus ferner Zeit, schimmert gegen deine Handinnenfläche. Mit nur einem Gedanken, verbannst du sie dorthin, wo sie herkam. Erneutes Herbeirufen und wieder Verbannen.
 
-Interessant. 
+Interessant.
 
 "Alles wunschgemäß?" fragt Jernaugh. "Gut. Was könnte Euch sonst noch begeistern?"</DefaultText>
       <FemaleText />
@@ -332,7 +332,7 @@ Er reibt sich die Hände. "Darf es noch etwas sein?"</DefaultText>
       <ID>56</ID>
       <DefaultText>"Die Sache ist ziemlich sicher", sagt er nickend. "Meistens jedenfalls. In fast drei von fünf Fällen. Und die Prozedur könnte kaum einfacher sein. Die Drohnen sägen Euren Schädel auf, platzieren ein Implantat an der richtigen Stelle und machen dann wieder alles dicht."
 
-Er klatscht sich in die Hände. "Sobald sie das getan haben, wird das Implantat helfen, den Zweck der unbekannten Numenera zu verstehen. Es kostet [Global: a2201_JernaughNumeneraAnalyzerPrice] Shin, aber es macht sich bezahlt!" 
+Er klatscht sich in die Hände. "Sobald sie das getan haben, wird das Implantat helfen, den Zweck der unbekannten Numenera zu verstehen. Es kostet [Global: a2201_JernaughNumeneraAnalyzerPrice] Shin, aber es macht sich bezahlt!"
 
 {MONEY}</DefaultText>
       <FemaleText />
@@ -353,9 +353,9 @@ Er klatscht sich in die Hände. "Sobald sie das getan haben, wird das Implantat 
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Nachdem die Maschine deinen gespaltenen Schädel wieder zusammengeflickt hat, kommst du frei und fällst sofort wieder auf den Boden. Alles um dich herum wird dunkel. 
+      <DefaultText>Nachdem die Maschine deinen gespaltenen Schädel wieder zusammengeflickt hat, kommst du frei und fällst sofort wieder auf den Boden. Alles um dich herum wird dunkel.
 
-Der Schock der Prozedur war schlichtweg zu viel für dein Herz. Genau als du deinen letzten Atemzug auf dem blutverschmierten Boden des Salons nimmst, beginnt das Implantat  in deinem Kopf zu surren.</DefaultText>
+Der Schock der Prozedur war schlichtweg zu viel für dein Herz. Genau als du deinen letzten Atemzug auf dem blutverschmierten Boden des Salons nimmst, beginnt das Implantat in deinem Kopf zu surren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -415,16 +415,16 @@ Er kratzt sich an der Nase. "Kann ich Euch mit sonst irgendetwas behilflich sein
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Die Drohnen lassen dich frei und du fällst krampfend und würgend auf den Rücken. Das Trauma der Tortur war einfach zu viel. 
+      <DefaultText>Die Drohnen lassen dich frei und du fällst krampfend und würgend auf den Rücken. Das Trauma der Tortur war einfach zu viel.
 
 Das neue Auge windet sich in deinen Sockel und verbindet sich dort mit den Nerven. Im Augenblick deines Todes musst du feststellen, wie unfassbar detailreich die Wolken jetzt aussehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Die Drohnen lassen dich wieder frei. Stöhnend und deinen Kopf haltend spürst du, wie das neue Auge in deine Fassung gleitet und sich dort mit den Nerven verbindet. 
+      <DefaultText>Die Drohnen lassen dich wieder frei. Stöhnend und deinen Kopf haltend spürst du, wie das neue Auge in deine Fassung gleitet und sich dort mit den Nerven verbindet.
 
-Dann hört der Schmerz auf. Du schaust dir deine Hand an und bemerkst eine Narbe - auf *deiner* Hand - die du noch nie zuvor gesehen hast. 
+Dann hört der Schmerz auf. Du schaust dir deine Hand an und bemerkst eine Narbe - auf *deiner* Hand - die du noch nie zuvor gesehen hast.
 
 "Unglaublich, nicht wahr?" sagt Jernaugh. "Braucht Ihr sonst noch etwas?"</DefaultText>
       <FemaleText />
@@ -484,7 +484,7 @@ Er zuckt mit den Schultern: "Das könnte etwas Gutes, etwas Schlechtes oder von 
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Die Ranken lösen sich abrupt von deinem Gesicht und du schnappst nach Luft. Du bleibst einen Moment still liegen und spürst, wie dein neuer Mieter durch die dunklen Gassen deines Körpers zieht, und wilde Markierungen auf deiner Hautoberfläche hinterlässt. 
+      <DefaultText>Die Ranken lösen sich abrupt von deinem Gesicht und du schnappst nach Luft. Du bleibst einen Moment still liegen und spürst, wie dein neuer Mieter durch die dunklen Gassen deines Körpers zieht, und wilde Markierungen auf deiner Hautoberfläche hinterlässt.
 
 "Wisst Ihr", sagt Jernaugh, "Ihr seid der Erste, der sich zu dieser Verbesserung entschieden hat. Ich nenne es eine 'Verbesserung', obwohl ich mir dessen nicht so sicher bin."
 
@@ -522,7 +522,7 @@ Er klatscht in die Hände. "Nun, kann ich dich für noch etwas begeistern?"</Def
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Drohnen schwirren an dir vorbei und werfen dünne, flexible Geflechte über deine Vorderarme. Das daraus resultierende Brutzeln kommt, wie du schnell bemerkst, von deinem Fleisch. Du bist dir nicht ganz sicher, was hinter den lebhaften Empfindungen in deinem Ellenbogen steckt, aber du musst viel zu sehr schreien, um dich damit gedanklich befassen zu können.  
+      <DefaultText>Drohnen schwirren an dir vorbei und werfen dünne, flexible Geflechte über deine Vorderarme. Das daraus resultierende Brutzeln kommt, wie du schnell bemerkst, von deinem Fleisch. Du bist dir nicht ganz sicher, was hinter den lebhaften Empfindungen in deinem Ellenbogen steckt, aber du musst viel zu sehr schreien, um dich damit gedanklich befassen zu können.
 {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.}
 {Sound: See above SCRIPT note. During fade out, surgery is happening. Sizzling flesh, screams.}</DefaultText>
       <FemaleText />
@@ -531,7 +531,7 @@ Er klatscht in die Hände. "Nun, kann ich dich für noch etwas begeistern?"</Def
       <ID>87</ID>
       <DefaultText>Zunächst beginnt alles ganz ruhig. Die Drohnen geben dir mehrere Spritzen und ziehen sich in einen respektvollen Abstand zu dir zurück. Du atmest ruhig. Das Licht der Abendsonne scheint den Raum zu erfüllen.
 
-Dann spürst du den ersten Biss. 
+Dann spürst du den ersten Biss.
 
 Die Maschinen rauschen wie eine Welle durch deinen Körper, nippend und beißend, Fleisch, Muskeln und Organe verzehrend. Du öffnest deinen Mund, um zu schreien, doch da strömen sie in einer schimmernden Flut aus dir heraus.
 {SCRIPT: PC gets permanent +1 to Might Defense.}
@@ -543,7 +543,7 @@ Die Maschinen rauschen wie eine Welle durch deinen Körper, nippend und beißend
       <ID>88</ID>
       <DefaultText>Die Drohne hält dich eisern an deinem Platz fest und du hörst, wie eine Kreissäge im schneller dreht und dir näherkommt ...
 
-Du kannst jedenfalls nicht behaupten, Jernaugh habe dich nicht gewarnt. 
+Du kannst jedenfalls nicht behaupten, Jernaugh habe dich nicht gewarnt.
 
 Die Zähne des Sägeblatts fräsen sich mühelos in deinen Schädel und Zangen brechen deine Schädeldecke raus. Dir ist vage bewusst, dass du dich gegen die unerbittlichen Arme der Drohnen wehrst, bis ein Eisennagel sich in dein Gehirn bohrt. Alles um dich herum wird weiß.
 {SCRIPT: PC gets permanent +1 asset on all identification (adapted from Technology Compendium)}{SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.}
@@ -556,7 +556,7 @@ Die Zähne des Sägeblatts fräsen sich mühelos in deinen Schädel und Zangen b
 
 *PLOCK*
 
-Dein Kopf will schreien und du bist dir eigentlich ziemlich sicher, dass du auch schreist. Ein dritte Drohne nähert sich mit deinem neuen Auge, das sie sanft in ihren Klauen hält. 
+Dein Kopf will schreien und du bist dir eigentlich ziemlich sicher, dass du auch schreist. Ein dritte Drohne nähert sich mit deinem neuen Auge, das sie sanft in ihren Klauen hält.
 
 *SCHTUNK*
 {SCRIPT: PC gets permanent +1 Perception (adapted from Technology Compendium)}
@@ -566,9 +566,9 @@ Dein Kopf will schreien und du bist dir eigentlich ziemlich sicher, dass du auch
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Die Drohnen kommen zu dir und öffnen mehrere kleine Luken. Ranken wachsen aus den Hohlräumen heraus und winden sich um deinen Schädel. 
+      <DefaultText>Die Drohnen kommen zu dir und öffnen mehrere kleine Luken. Ranken wachsen aus den Hohlräumen heraus und winden sich um deinen Schädel.
 
-Eisige, schmierige Dolche schießen dir durchs Rückenmark und wühlen sich in deine Arme und Beine weiter. Deine gedämpften Schreie scheinen sehr weit weg zu sein. 
+Eisige, schmierige Dolche schießen dir durchs Rückenmark und wühlen sich in deine Arme und Beine weiter. Deine gedämpften Schreie scheinen sehr weit weg zu sein.
 {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.}
 {Sound: See above SCRIPT note. During fade out, surgery is happening. Grisly ripping, muffled screams.}</DefaultText>
       <FemaleText />
@@ -585,23 +585,23 @@ Eisige, schmierige Dolche schießen dir durchs Rückenmark und wühlen sich in d
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Eine Drohne schwirrt an dir vorbei und wirft dünne, flexible Geflechte über deine Vorderarme. Das daraus resultierende Brutzeln kommt, wie du schnell bemerkst, von deinem Fleisch. Du bist dir nicht ganz sicher, was hinter den lebhaften Empfindungen in deinem Ellenbogen steckt, aber du musst viel zu sehr schreien, um dich damit gedanklich befassen zu können.  
+      <DefaultText>Eine Drohne schwirrt an dir vorbei und wirft dünne, flexible Geflechte über deine Vorderarme. Das daraus resultierende Brutzeln kommt, wie du schnell bemerkst, von deinem Fleisch. Du bist dir nicht ganz sicher, was hinter den lebhaften Empfindungen in deinem Ellenbogen steckt, aber du musst viel zu sehr schreien, um dich damit gedanklich befassen zu können.
 {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.}
 {Sound: See above SCRIPT note. During fade out, surgery is happening. Sizzling flesh, screams.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Die Drohnen schießen auf dich herab und ziehen dir beide Arme zur Seite. Mit einem dreisten Tempo rammen sie dir lange Stahlrohre in die Räume zwischen deinen Fingerknöcheln. Eins nach dem anderen. 
+      <DefaultText>Die Drohnen schießen auf dich herab und ziehen dir beide Arme zur Seite. Mit einem dreisten Tempo rammen sie dir lange Stahlrohre in die Räume zwischen deinen Fingerknöcheln. Eins nach dem anderen.
 
 {Sound: See above SCRIPT note. During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing. , screams.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Die Drohnen kommen zu dir und öffnen mehrere kleine Luken. Ranken wachsen aus den Hohlräumen heraus und winden sich um deinen Schädel. 
+      <DefaultText>Die Drohnen kommen zu dir und öffnen mehrere kleine Luken. Ranken wachsen aus den Hohlräumen heraus und winden sich um deinen Schädel.
 
-Eisige, schmierige Dolche schießen dir durchs Rückenmark und wühlen sich in deine Arme und Beine weiter. Deine gedämpften Schreie scheinen sehr weit weg zu sein. 
+Eisige, schmierige Dolche schießen dir durchs Rückenmark und wühlen sich in deine Arme und Beine weiter. Deine gedämpften Schreie scheinen sehr weit weg zu sein.
 {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.}
 {Sound: See above SCRIPT note. During fade out, surgery is happening. Grisly ripping, muffled screams.}</DefaultText>
       <FemaleText />
@@ -610,7 +610,7 @@ Eisige, schmierige Dolche schießen dir durchs Rückenmark und wühlen sich in d
       <ID>99</ID>
       <DefaultText>Zunächst beginnt alles ganz ruhig. Die Drohnen geben dir mehrere Spritzen und ziehen sich in einen respektvollen Abstand zu dir zurück. Du atmest ruhig. Das Licht der Abendsonne scheint den Raum zu erfüllen.
 
-Dann spürst du den ersten Biss. 
+Dann spürst du den ersten Biss.
 
 Die Maschinen rauschen wie eine Welle durch deinen Körper, nippend und beißend, Fleisch, Muskeln und Organe verzehrend. Du öffnest deinen Mund, um zu schreien, doch da strömen sie in einer schimmernden Flut aus dir heraus.
 {SCRIPT: PC gets permanent +1 to Might Defense.}
@@ -622,7 +622,7 @@ Die Maschinen rauschen wie eine Welle durch deinen Körper, nippend und beißend
       <ID>100</ID>
       <DefaultText>Die Drohne hält dich eisern an deinem Platz fest und du hörst, wie eine Kreissäge immer schneller dreht und dir näherkommt ...
 
-Du kannst jedenfalls nicht behaupten, Jernaugh habe dich nicht gewarnt. 
+Du kannst jedenfalls nicht behaupten, Jernaugh habe dich nicht gewarnt.
 
 Die Zähne des Sägeblatts fräsen sich mühelos in deinen Schädel und Zangen brechen deine Schädeldecke raus. Dir ist vage bewusst, dass du dich gegen die unerbittlichen Arme der Drohnen wehrst, bis ein Eisennagel sich in dein Gehirn bohrt. Alles um dich herum wird weiß.
 {SCRIPT: PC gets permanent +1 asset on all identification (adapted from Technology Compendium)}{SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.}
@@ -635,7 +635,7 @@ Die Zähne des Sägeblatts fräsen sich mühelos in deinen Schädel und Zangen b
 
 *PLOCK*
 
-Dein Kopf schreit dich an und du bist dir eigentlich ziemlich sicher, dass du zurückschreist. Ein dritte Drohne nähert sich mit deinem neuen Auge, das sie sanft in ihren Klauen hält. 
+Dein Kopf schreit dich an und du bist dir eigentlich ziemlich sicher, dass du zurückschreist. Ein dritte Drohne nähert sich mit deinem neuen Auge, das sie sanft in ihren Klauen hält.
 
 *SCHTUNK*
 {SCRIPT: PC gets permanent +1 Perception (adapted from Technology Compendium)}
@@ -645,7 +645,7 @@ Dein Kopf schreit dich an und du bist dir eigentlich ziemlich sicher, dass du zu
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Er hält inne und schaut dich aus den Augenwinkeln an, das Quarz verschwindet langsam. 
+      <DefaultText>Er hält inne und schaut dich aus den Augenwinkeln an, das Quarz verschwindet langsam.
 
 "Ist uns nicht allen mehr geholfen, wenn wir ehrlich zueinander sind?" sagt er schließlich. "Wenn wir uns alle frei äußern könnten, ohne Angst haben zu müssen?"
 
@@ -693,7 +693,7 @@ Er zwinkert. "Oder fürchten. Ist im Grunde ja das Gleiche."</DefaultText>
       <ID>110</ID>
       <DefaultText>"Wirklich" sagt er. "Nun, das ändert die Sache. Einem Freund von Lord Vuntgen kann ich natürlich nicht den vollen Preis berechnen."
 
-{SCRIPT:  Activate a discount on Jernaugh's services.}</DefaultText>
+{SCRIPT: Activate a discount on Jernaugh's services.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -705,7 +705,7 @@ Er macht einen Schritt zurück und lächelt übers ganze Gesicht. "Da bist du ja
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Sein Gesicht blitzt für einen kurzen Moment wie ein Obsidian und verwandelt sich dann in Kupfer. Der alte Mann errötet. 
+      <DefaultText>Sein Gesicht blitzt für einen kurzen Moment wie ein Obsidian und verwandelt sich dann in Kupfer. Der alte Mann errötet.
 
 "Entschuldigung, Entschuldigung", sagt er. "*Ich* wusste, dass Ihr Scherze macht, aber die Modifikationen sind bei so etwas wesentlich heikler. Und ich bin sogar froh, dass sie so sind. Wäre ich ein junger Mann, der sich in dieser Stadt einen Namen machen muss, würde ich mich auch umbringen."</DefaultText>
       <FemaleText />
@@ -736,7 +736,7 @@ Er drückt einige Tasten auf einem Gerät an seinem Handgelenk und Lichter leuch
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Gornah wählte eine Intelligenz-Modifikation und die Drohnen trennten ihm den Kopf ab, um direkt daran zu arbeiten. Mior wählte die Stärke und die Drohnen amputierten ihr die Arme. In jenen Tagen machten sie das als Standard." Er lächelt liebevoll. 
+      <DefaultText>"Gornah wählte eine Intelligenz-Modifikation und die Drohnen trennten ihm den Kopf ab, um direkt daran zu arbeiten. Mior wählte die Stärke und die Drohnen amputierten ihr die Arme. In jenen Tagen machten sie das als Standard." Er lächelt liebevoll.
 
 "Wie auch immer, sechs Partner später war ich der alleinige Besitzer. Ich löste die Probleme, und siehe da, wir hatten keine Todesfälle mehr seit ..." Er denkt nach. "Monaten. Keine Todesfälle in Monaten."</DefaultText>
       <FemaleText />
@@ -745,7 +745,7 @@ Er drückt einige Tasten auf einem Gerät an seinem Handgelenk und Lichter leuch
       <ID>121</ID>
       <DefaultText>"Kann ich eine Ganzkörper-Modifikation, wie Ihr sie Piquo angeboten habt, kaufen?"
 
-{SCRIPT: Maybe look into the condition on this node. Does it always make sense?  Might have to create a new global. -JF}</DefaultText>
+{SCRIPT: Maybe look into the condition on this node. Does it always make sense? Might have to create a new global. -JF}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
