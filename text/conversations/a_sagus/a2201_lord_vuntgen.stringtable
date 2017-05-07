@@ -8,34 +8,34 @@
       <ID>1</ID>
       <DefaultText>Zur Menge spricht ein gut gekleideter, aber kränklich aussehender Mann - klein, pummelig und mit ungesunder gelblicher Hautfarbe. Dennoch hat er das stolze Benehmen und die Stentorstimme eines viel größeren Mannes.
 
-Er dröhnt dich förmlich an, als du näherkommst. "Ah! Noch ein möglicher Kandidat. Vorzüglich! Das Volk wünschte die Befreiung von diesem tobenden Stichus und ein Held antwortete. Äußerst mutig von Euch!"</DefaultText>
+Er dröhnt dich förmlich an, als du näherkommst. „Ah! Noch ein möglicher Kandidat. Vorzüglich! Das Volk wünschte die Befreiung von diesem tobenden Stichus und ein Held antwortete. Äußerst mutig von Euch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Er runzelt die Stirn, als er dich näher ansieht. "Moment mal. Ich kenne Euch. Ihr seid es, der mit den Sticha Frieden schloss. Lobenswert, aber ich fürchte, einer Eurer neuen Freunde hat vom Ende der Feindseligkeit noch nichts mitbekommen. Er treibt hier in Klippenrand sein Unwesen."
+      <DefaultText>Er runzelt die Stirn, als er dich näher ansieht. „Moment mal. Ich kenne Euch. Ihr seid es, der mit den Sticha Frieden schloss. Lobenswert, aber ich fürchte, einer Eurer neuen Freunde hat vom Ende der Feindseligkeit noch nichts mitbekommen. Er treibt hier in Klippenrand sein Unwesen.“
 
-Er blickt voller Unbehagen auf die Menge. "Wenn diese Menschen hier ihn zu fassen kriegen, könnte es schlimm werden und Ihre ganze Arbeit war umsonst. Am besten findet Ihr ihn vor ihnen und sagt mir dann, wo er ist. Von da an übernehme ich die Sache."</DefaultText>
+Er blickt voller Unbehagen auf die Menge. „Wenn diese Menschen hier ihn zu fassen kriegen, könnte es schlimm werden und Ihre ganze Arbeit war umsonst. Am besten findet Ihr ihn vor ihnen und sagt mir dann, wo er ist. Von da an übernehme ich die Sache.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Er lächelt, als er dich näherkommen sieht. "Der Kandidat ist zurück. Habt Ihr schon den Stichus gefunden?"</DefaultText>
+      <DefaultText>Er lächelt, als er dich näherkommen sieht. „Der Kandidat ist zurück. Habt Ihr schon den Stichus gefunden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Er lächelt. "Ah! Der Kandidat ist zurück, und er kommt als Held wieder! Wie ich hörte, habt Ihr Euch mit den Sticha arrangiert. Gute Arbeit!"
+      <DefaultText>Er lächelt. „Ah! Der Kandidat ist zurück, und er kommt als Held wieder! Wie ich hörte, habt Ihr Euch mit den Sticha arrangiert. Gute Arbeit!“
 
-Er schüttelt den Kopf. "Leider läuft der bösartige Stichus, den wir hier schon lange jagen, immer noch frei rum. Habt Ihr ihn vielleicht schon gesehen?"</DefaultText>
-      <FemaleText>Er lächelt. "Ah! Die Kandidatin ist zurück, und sie kommt als Held wieder! Wie ich hörte, habt Ihr Euch mit den Sticha arrangiert. Gute Arbeit!"
+Er schüttelt den Kopf. „Leider läuft der bösartige Stichus, den wir hier schon lange jagen, immer noch frei rum. Habt Ihr ihn vielleicht schon gesehen?“</DefaultText>
+      <FemaleText>Er lächelt. „Ah! Die Kandidatin ist zurück, und sie kommt als Held wieder! Wie ich hörte, habt Ihr Euch mit den Sticha arrangiert. Gute Arbeit!“
 
-Er schüttelt den Kopf. "Leider läuft der bösartige Stichus, den wir hier schon lange jagen, immer noch frei rum. Habt Ihr ihn vielleicht schon gesehen?"</FemaleText>
+Er schüttelt den Kopf. „Leider läuft der bösartige Stichus, den wir hier schon lange jagen, immer noch frei rum. Habt Ihr ihn vielleicht schon gesehen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Er lächelt, als er dich näherkommen sieht. "Der Held ist zurück. Habt Ihr schon meine Beute gefunden? Habt Ihr den Stichus gesehen?"</DefaultText>
-      <FemaleText>Er lächelt, als er dich näherkommen sieht. "Die Heldin ist zurück. Habt Ihr schon meine Beute gefunden? Habt Ihr den Stichus gesehen?"</FemaleText>
+      <DefaultText>Er lächelt, als er dich näherkommen sieht. „Der Held ist zurück. Habt Ihr schon meine Beute gefunden? Habt Ihr den Stichus gesehen?“</DefaultText>
+      <FemaleText>Er lächelt, als er dich näherkommen sieht. „Die Heldin ist zurück. Habt Ihr schon meine Beute gefunden? Habt Ihr den Stichus gesehen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -44,17 +44,17 @@ Er schüttelt den Kopf. "Leider läuft der bösartige Stichus, den wir hier scho
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ich weiß, wo der Stichus ist. Er ist in der Müllhalde hinter dem Fünften Auge."</DefaultText>
+      <DefaultText>„Ich weiß, wo der Stichus ist. Er ist in der Müllhalde hinter dem Fünften Auge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich habe den Stichus getötet. Seine Leiche ist auf der Müllhalde hinter dem Fünften Auge."</DefaultText>
+      <DefaultText>„Ich habe den Stichus getötet. Seine Leiche ist auf der Müllhalde hinter dem Fünften Auge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -64,12 +64,12 @@ Er schüttelt den Kopf. "Leider läuft der bösartige Stichus, den wir hier scho
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Warum hat man in Klippenrand so Angst vor dem Stichus?"</DefaultText>
+      <DefaultText>„Warum hat man in Klippenrand so Angst vor dem Stichus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Sagt mir nochmal: warum haben die Menschen in Klippenrand so Angst vor dem Stichus?"</DefaultText>
+      <DefaultText>„Sagt mir nochmal: warum haben die Menschen in Klippenrand so Angst vor dem Stichus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -79,12 +79,12 @@ Er schüttelt den Kopf. "Leider läuft der bösartige Stichus, den wir hier scho
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Was ist denn eigentlich ein Stichus?"</DefaultText>
+      <DefaultText>„Was ist denn eigentlich ein Stichus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Erinnert mich daran, was ein Stichus ist."</DefaultText>
+      <DefaultText>„Erinnert mich daran, was ein Stichus ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,12 +94,12 @@ Er schüttelt den Kopf. "Leider läuft der bösartige Stichus, den wir hier scho
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Wie kamen die Sticha überhaupt nach Sagus-Klippen?"</DefaultText>
+      <DefaultText>„Wie kamen die Sticha überhaupt nach Sagus-Klippen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Sagt mir nochmal, wo die Sticha herkamen."</DefaultText>
+      <DefaultText>„Sagt mir nochmal, wo die Sticha herkamen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -109,12 +109,12 @@ Er schüttelt den Kopf. "Leider läuft der bösartige Stichus, den wir hier scho
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Erzählt mir etwas über Euch."</DefaultText>
+      <DefaultText>„Erzählt mir etwas über Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Erzählt mir nochmal etwas über Euch."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal etwas über Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,12 +124,12 @@ Er schüttelt den Kopf. "Leider läuft der bösartige Stichus, den wir hier scho
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Was könnt Ihr mir über Klippenrand erzählen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir über Klippenrand erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Könnt Ihr mir nochmal erzählen, was Ihr über Klippenrand wisst?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir nochmal erzählen, was Ihr über Klippenrand wisst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -154,12 +154,12 @@ Er schüttelt den Kopf. "Leider läuft der bösartige Stichus, den wir hier scho
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Was könnt Ihr mir sonst noch über den bösartigen Stichus erzählen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir sonst noch über den bösartigen Stichus erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Erzählt mir nochmal von dem Stichus, der Klippenrand terrorisiert."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal von dem Stichus, der Klippenrand terrorisiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -189,31 +189,31 @@ Er schüttelt den Kopf. "Leider läuft der bösartige Stichus, den wir hier scho
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Wundervoll! Danke, mein Lieber!"
+      <DefaultText>„Wundervoll! Danke, mein Lieber!“
 
-Er wendet sich der Menge zu. "Bürger! Dieser mutige Held fand den Stichus. Er versteckt sich auf der Müllhalde hinter dem Fünften Auge. Geht hin und führt ihn seiner gerechten Strafe zu!"</DefaultText>
-      <FemaleText>"Wundervoll! Danke, meine Liebe!"
+Er wendet sich der Menge zu. „Bürger! Dieser mutige Held fand den Stichus. Er versteckt sich auf der Müllhalde hinter dem Fünften Auge. Geht hin und führt ihn seiner gerechten Strafe zu!“</DefaultText>
+      <FemaleText>„Wundervoll! Danke, meine Liebe!“
 
-Er wendet sich der Menge zu. "Bürger! Diese mutige Heldin fand den Stichus. Er versteckt sich auf der Müllhalde hinter dem Fünften Auge. Geht hin und führt ihn seiner gerechten Strafe zu!"</FemaleText>
+Er wendet sich der Menge zu. „Bürger! Diese mutige Heldin fand den Stichus. Er versteckt sich auf der Müllhalde hinter dem Fünften Auge. Geht hin und führt ihn seiner gerechten Strafe zu!“</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich fand den Stichus, aber der ist harmlos. Seine Krallen sind deformiert. Er kann damit nicht einmal graben. Wir sollten ihn in Ruhe lassen."</DefaultText>
+      <DefaultText>„Ich fand den Stichus, aber der ist harmlos. Seine Krallen sind deformiert. Er kann damit nicht einmal graben. Wir sollten ihn in Ruhe lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Ich habe mit dem Stichus geredet. Es sagt, Ihr hättet ihn gefangen und nach Klippenrand gebracht."</DefaultText>
+      <DefaultText>„Ich habe mit dem Stichus geredet. Es sagt, Ihr hättet ihn gefangen und nach Klippenrand gebracht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ich fand heraus, dass Ihr zum Teil Yovok seid. Gebt Eure Jagd nach dem Stichus auf, sonst sage ich es der Menge."</DefaultText>
+      <DefaultText>„Ich fand heraus, dass Ihr zum Teil Yovok seid. Gebt Eure Jagd nach dem Stichus auf, sonst sage ich es der Menge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,7 +223,7 @@ Er wendet sich der Menge zu. "Bürger! Diese mutige Heldin fand den Stichus. Er 
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Vuntgen starrt dich wütend an. "Das ist er - der Verräter seiner eigenen Art. Sagt Ihr uns endlich, wo der Stichus ist? Oder wollt Ihr noch mehr Menschen sterben sehen?"</DefaultText>
+      <DefaultText>Vuntgen starrt dich wütend an. „Das ist er - der Verräter seiner eigenen Art. Sagt Ihr uns endlich, wo der Stichus ist? Oder wollt Ihr noch mehr Menschen sterben sehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,12 +233,12 @@ Er wendet sich der Menge zu. "Bürger! Diese mutige Heldin fand den Stichus. Er 
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Manche werden sagen, es liegt daran, dass die Region am meisten unter den Ausgrabungen des Sticha gelitten hat … Häuser, die über ihren Bewohnern einstürzten und andere, die ins Meer stürzten. Das könnte zum Teil zutreffen. Aber der wahre Grund ist, dass die Menschen schwach und ängstlich wurden. Sie sind nicht mehr bereit, gegen Ungemach anzutreten."</DefaultText>
+      <DefaultText>„Manche werden sagen, es liegt daran, dass die Region am meisten unter den Ausgrabungen des Sticha gelitten hat … Häuser, die über ihren Bewohnern einstürzten und andere, die ins Meer stürzten. Das könnte zum Teil zutreffen. Aber der wahre Grund ist, dass die Menschen schwach und ängstlich wurden. Sie sind nicht mehr bereit, gegen Ungemach anzutreten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Weil sie vor allem Angst haben. Eigentlich sollten sie dieses Ungeziefer in ihre Löcher jagen und ausrotten. Stattdessen laufen sie aufgescheucht im Kreis herum und warten darauf, dass der Rat etwas für sie tut."</DefaultText>
+      <DefaultText>„Weil sie vor allem Angst haben. Eigentlich sollten sie dieses Ungeziefer in ihre Löcher jagen und ausrotten. Stattdessen laufen sie aufgescheucht im Kreis herum und warten darauf, dass der Rat etwas für sie tut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,12 +248,12 @@ Er wendet sich der Menge zu. "Bürger! Diese mutige Heldin fand den Stichus. Er 
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Sie sind schreckliches tunnelgrabendes Ungeziefer aus einer anderen Welt. Sie graben ihre Tunnel unter den Straßen unserer Stadt und unter den Häusern, die dadurch einstürzen. Es interessiert sie nicht, wenn wir sterben - sie glauben nicht einmal dran, dass Menschen fühlende Wesen sind."</DefaultText>
+      <DefaultText>„Sie sind schreckliches tunnelgrabendes Ungeziefer aus einer anderen Welt. Sie graben ihre Tunnel unter den Straßen unserer Stadt und unter den Häusern, die dadurch einstürzen. Es interessiert sie nicht, wenn wir sterben - sie glauben nicht einmal dran, dass Menschen fühlende Wesen sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Ich halte sie für bösartige Schädlinge, die bewusst versuchen, das Leben unschuldiger Siedler wie uns zu zerstören."</DefaultText>
+      <DefaultText>„Ich halte sie für bösartige Schädlinge, die bewusst versuchen, das Leben unschuldiger Siedler wie uns zu zerstören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,14 +263,14 @@ Er wendet sich der Menge zu. "Bürger! Diese mutige Heldin fand den Stichus. Er 
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Einige Ratsmitglieder glauben, dass sie das Werk unserer Feinde sind … dass ihre Eier aus einer anderen Welt zu uns gebracht wurden. Eine Art Rache- oder Sabotageakt, vielleicht. Andere glauben, dass die Eier schon *immer* hier waren, und dass es Jahrhunderte dauerte, bis sie schlüpfen konnten."
+      <DefaultText>„Einige Ratsmitglieder glauben, dass sie das Werk unserer Feinde sind … dass ihre Eier aus einer anderen Welt zu uns gebracht wurden. Eine Art Rache- oder Sabotageakt, vielleicht. Andere glauben, dass die Eier schon *immer* hier waren, und dass es Jahrhunderte dauerte, bis sie schlüpfen konnten.“
 
-Er zuckt mit den Schultern. "Aber das *Wie* ist mir eigentlich egal. Sie sind hier und sie sind eine Gefahr, und daher muss sich jeder wahre Bürger von Sagus-Klippen ihnen *widersetzen*!"</DefaultText>
+Er zuckt mit den Schultern. „Aber das *Wie* ist mir eigentlich egal. Sie sind hier und sie sind eine Gefahr, und daher muss sich jeder wahre Bürger von Sagus-Klippen ihnen *widersetzen*!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Wer weiß. Vielleicht brachte sie jemand aus einer anderen Welt, oder vielleicht waren sie schon immer hier, und reiften Jahrtausende lang in der Erde. Sie sind *gefährlich* - das allein interessiert mich."</DefaultText>
+      <DefaultText>„Wer weiß. Vielleicht brachte sie jemand aus einer anderen Welt, oder vielleicht waren sie schon immer hier, und reiften Jahrtausende lang in der Erde. Sie sind *gefährlich* - das allein interessiert mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -280,14 +280,14 @@ Er zuckt mit den Schultern. "Aber das *Wie* ist mir eigentlich egal. Sie sind hi
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Er fasst sich mit der Hand an die Brust und hebt sein Kinn. "Ich bin Yars Vuntgen aus dem Hause Vuntgen, einer der am meisten respektierten Sklavenfamilien. Außerdem habe ich die Ehre, Ratsmitglied zu sein."
+      <DefaultText>Er fasst sich mit der Hand an die Brust und hebt sein Kinn. „Ich bin Yars Vuntgen aus dem Hause Vuntgen, einer der am meisten respektierten Sklavenfamilien. Außerdem habe ich die Ehre, Ratsmitglied zu sein.“
 
-Er sieht sich mit Unbehagen um. "Normalerweise begebe ich mich nicht in so eine Gegend, aber in Krisenzeiten muss man seine Gefühle hinten anstellen und alles für die Stadt geben."</DefaultText>
+Er sieht sich mit Unbehagen um. „Normalerweise begebe ich mich nicht in so eine Gegend, aber in Krisenzeiten muss man seine Gefühle hinten anstellen und alles für die Stadt geben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ich bin ein Staatsdiener und Oberhaupt einer respektierten Sklavenfamilie." Er seufzt. "Normalerweise halte ich mich im Rathaus auf, aber bis dieser Stichus gefangen ist, bewege ich mich nicht weg von hier."</DefaultText>
+      <DefaultText>„Ich bin ein Staatsdiener und Oberhaupt einer respektierten Sklavenfamilie.“ Er seufzt. „Normalerweise halte ich mich im Rathaus auf, aber bis dieser Stichus gefangen ist, bewege ich mich nicht weg von hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -297,12 +297,12 @@ Er sieht sich mit Unbehagen um. "Normalerweise begebe ich mich nicht in so eine 
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Leider komme ich nur selten in dieses herabgekommene Viertel, daher kenne ich es nur wenig. Aber ich bin natürlich dort, wo mich meine Stadt braucht."</DefaultText>
+      <DefaultText>„Leider komme ich nur selten in dieses herabgekommene Viertel, daher kenne ich es nur wenig. Aber ich bin natürlich dort, wo mich meine Stadt braucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Keineswegs, wie ich schon sagte. Hier bin ich gewisse nicht Zuhause."</DefaultText>
+      <DefaultText>„Keineswegs, wie ich schon sagte. Hier bin ich gewisse nicht Zuhause.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -322,26 +322,26 @@ Er sieht sich mit Unbehagen um. "Normalerweise begebe ich mich nicht in so eine 
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Er kneift die Augen zusammen. "Wenn es wahrhaftig Ihr wart, dann muss ich Euch schelten - offiziell. Niemand sollte in einer zivilisierten Gesellschaft das Gesetz in eigene Hände nehmen. Persönlich bin ich Euch zu Dank verpflichtet, da weder ich noch einer der Bürger dieses Bezirks zu dem fähig waren, was Ihr vollbracht habt. Da schon andere vor Euch solche Taten fälschlicherweise behauptet haben, gestattet Ihr mir sicher, dass ich Eure Angaben zunächst überprüfe."</DefaultText>
+      <DefaultText>Er kneift die Augen zusammen. „Wenn es wahrhaftig Ihr wart, dann muss ich Euch schelten - offiziell. Niemand sollte in einer zivilisierten Gesellschaft das Gesetz in eigene Hände nehmen. Persönlich bin ich Euch zu Dank verpflichtet, da weder ich noch einer der Bürger dieses Bezirks zu dem fähig waren, was Ihr vollbracht habt. Da schon andere vor Euch solche Taten fälschlicherweise behauptet haben, gestattet Ihr mir sicher, dass ich Eure Angaben zunächst überprüfe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Er zieht eine Augenbraue hoch. "Harmlos? Das habe ich zu entscheiden. Wo ist er?"</DefaultText>
+      <DefaultText>Er zieht eine Augenbraue hoch. „Harmlos? Das habe ich zu entscheiden. Wo ist er?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Er lacht. "Lächerlich. Er tischt Euch eine Lüge auf. Warum sollte ich so etwas tun?"
+      <DefaultText>Er lacht. „Lächerlich. Er tischt Euch eine Lüge auf. Warum sollte ich so etwas tun?“
 
-"Wenn Ihr mit dem Stichus gesprochen haben, dann wisst Ihr sicher *wo* er ist?"</DefaultText>
+„Wenn Ihr mit dem Stichus gesprochen haben, dann wisst Ihr sicher *wo* er ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Er faucht dich erregt an. "Ihr würdet die Schande meiner Familie gegen mich verwenden? Ihr seid ein verdorbener Heuchler. Und sicherlich haltet Ihr Euch jetzt für besonders edel."
+      <DefaultText>Er faucht dich erregt an. „Ihr würdet die Schande meiner Familie gegen mich verwenden? Ihr seid ein verdorbener Heuchler. Und sicherlich haltet Ihr Euch jetzt für besonders edel.“
 
-Er schluckt. "Ihr wisst, dass sie mich töten, wenn sie das erfahren. Wollt Ihr damit Euer Gewissen belasten?"</DefaultText>
+Er schluckt. „Ihr wisst, dass sie mich töten, wenn sie das erfahren. Wollt Ihr damit Euer Gewissen belasten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,8 +351,8 @@ Er schluckt. "Ihr wisst, dass sie mich töten, wenn sie das erfahren. Wollt Ihr 
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Er lächelt. "Ihr müsst als Erster den Stichus finden, der Klippenrand terrorisiert hat. Kommt wieder und sagt mir exakt, wo ich ihn finde. Dann übernehme ich."</DefaultText>
-      <FemaleText>Er lächelt. "Ihr müsst als Erste den Stichus finden, der Klippenrand terrorisiert hat. Kommt wieder und sagt mir exakt, wo ich ihn finde. Dann übernehme ich."</FemaleText>
+      <DefaultText>Er lächelt. „Ihr müsst als Erster den Stichus finden, der Klippenrand terrorisiert hat. Kommt wieder und sagt mir exakt, wo ich ihn finde. Dann übernehme ich.“</DefaultText>
+      <FemaleText>Er lächelt. „Ihr müsst als Erste den Stichus finden, der Klippenrand terrorisiert hat. Kommt wieder und sagt mir exakt, wo ich ihn finde. Dann übernehme ich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>70</ID>
@@ -361,12 +361,12 @@ Er schluckt. "Ihr wisst, dass sie mich töten, wenn sie das erfahren. Wollt Ihr 
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Wer sind die Sklavenfamilien?"</DefaultText>
+      <DefaultText>„Wer sind die Sklavenfamilien?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Wer sind die Sklavenfamilien nochmal?"</DefaultText>
+      <DefaultText>„Wer sind die Sklavenfamilien nochmal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,12 +376,12 @@ Er schluckt. "Ihr wisst, dass sie mich töten, wenn sie das erfahren. Wollt Ihr 
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Er erhebt sich voller Stolz. "Wir sind die Nachkommen der Sklaven, die mit Chila der Großen an die Macht kamen. Sie vernichteten die Oligarchen, die die Stadt beherrschten und ersetzten deren Diktatur durch eine faire und egalitäre Führung und erschufen eine Stadt, in der jeder alles erreichen kann, wenn er will."</DefaultText>
+      <DefaultText>Er erhebt sich voller Stolz. „Wir sind die Nachkommen der Sklaven, die mit Chila der Großen an die Macht kamen. Sie vernichteten die Oligarchen, die die Stadt beherrschten und ersetzten deren Diktatur durch eine faire und egalitäre Führung und erschufen eine Stadt, in der jeder alles erreichen kann, wenn er will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Wir sind die Nachkommen der Sklaven, die Chila die Große bei ihrer Rebellion unterstützten. Das ist natürlich schon Jahrhunderte her. Sie rissen die Mauern der Privilegierten ein und machten Sagus-Klippen zur Stadt der Möglichkeiten, die sie heute ist."</DefaultText>
+      <DefaultText>„Wir sind die Nachkommen der Sklaven, die Chila die Große bei ihrer Rebellion unterstützten. Das ist natürlich schon Jahrhunderte her. Sie rissen die Mauern der Privilegierten ein und machten Sagus-Klippen zur Stadt der Möglichkeiten, die sie heute ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,64 +406,64 @@ Er schluckt. "Ihr wisst, dass sie mich töten, wenn sie das erfahren. Wollt Ihr 
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Er lehnt sich zu dir und sagt: "In der Tat, gäbe es die Sticha nicht, wäre ich geneigt, sie zu erfinden, da sie genau das sind, was unsere Stadt zur Stärkung braucht. Sagus-Klippen, unser ehemals stolzes Reich, hat seine Besitztümer aufgegeben und überließ seine Gebiete  einheimischen Stämmen und wilden Bestien. Es wird Zeit, sie zurückzuerobern, aber wie sollen wir das tun, wenn unsere Bürger sich in faule, eingeschüchterte Kinder verwandelt haben?"</DefaultText>
+      <DefaultText>Er lehnt sich zu dir und sagt: „In der Tat, gäbe es die Sticha nicht, wäre ich geneigt, sie zu erfinden, da sie genau das sind, was unsere Stadt zur Stärkung braucht. Sagus-Klippen, unser ehemals stolzes Reich, hat seine Besitztümer aufgegeben und überließ seine Gebiete  einheimischen Stämmen und wilden Bestien. Es wird Zeit, sie zurückzuerobern, aber wie sollen wir das tun, wenn unsere Bürger sich in faule, eingeschüchterte Kinder verwandelt haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Er schlägt sich mit der Faust in die Hand. "Die Bewohner von Sagus-Klippen müssen wieder lernen, zu kämpfen, damit sie dem Rat helfen können, den Ruhm zurückzuerlangen, der einst ihr Geburtsrecht war!"</DefaultText>
+      <DefaultText>Er schlägt sich mit der Faust in die Hand. „Die Bewohner von Sagus-Klippen müssen wieder lernen, zu kämpfen, damit sie dem Rat helfen können, den Ruhm zurückzuerlangen, der einst ihr Geburtsrecht war!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Sie haben recht. Ohne Konflikte werden die Menschen selbstgefällig. Aktive Bedrohungen halten sie wachsam."</DefaultText>
+      <DefaultText>„Sie haben recht. Ohne Konflikte werden die Menschen selbstgefällig. Aktive Bedrohungen halten sie wachsam.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Aber Imperien dienen immer nur den Interessen einiger Weniger. Die Meisten leiden unter ihnen und erhalten nur wenig."</DefaultText>
+      <DefaultText>„Aber Imperien dienen immer nur den Interessen einiger Weniger. Die Meisten leiden unter ihnen und erhalten nur wenig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Kann ich Euch etwas anderes fragen?"</DefaultText>
+      <DefaultText>„Kann ich Euch etwas anderes fragen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Natürlich."</DefaultText>
+      <DefaultText>„Natürlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"In der Tat." Er schaut dich mit frisch gewecktem Interesse an. "Ihr scheint ein Mann zu sein, der wie ich fühlt. Das werde ich nicht vergessen."</DefaultText>
-      <FemaleText>"In der Tat." Er schaut dich mit frisch gewecktem Interesse an. "Ihr scheint eine Frau zu sein, die wie ich fühlt. Das werde ich nicht vergessen."</FemaleText>
+      <DefaultText>„In der Tat.“ Er schaut dich mit frisch gewecktem Interesse an. „Ihr scheint ein Mann zu sein, der wie ich fühlt. Das werde ich nicht vergessen.“</DefaultText>
+      <FemaleText>„In der Tat.“ Er schaut dich mit frisch gewecktem Interesse an. „Ihr scheint eine Frau zu sein, die wie ich fühlt. Das werde ich nicht vergessen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Mit finsterem Blick: "Und wie viel mehr würden sie *ohne* das Imperium leiden? Das Imperium dient allen. Selbst der Schwächste hat es in einer starken Zivilisation besser als der Stärkste in einer schwachen."</DefaultText>
+      <DefaultText>Mit finsterem Blick: „Und wie viel mehr würden sie *ohne* das Imperium leiden? Das Imperium dient allen. Selbst der Schwächste hat es in einer starken Zivilisation besser als der Stärkste in einer schwachen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Er ist auf einer Müllhalde hinter dem Fünften Auge."</DefaultText>
+      <DefaultText>„Er ist auf einer Müllhalde hinter dem Fünften Auge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Ich werde Ihnen nicht sagen, wo er ist. Sie wollen ihn nur töten."</DefaultText>
+      <DefaultText>„Ich werde Ihnen nicht sagen, wo er ist. Sie wollen ihn nur töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Danke. Jetzt werden wir ja sehen."
+      <DefaultText>„Danke. Jetzt werden wir ja sehen.“
 
-Er wendet sich der Menge zu. "Bürger! Dieser Mann behauptet, dass er den Stichus versteckt auf einer Müllhalde hinter dem Fünften Auge fand. Er behauptet, dass er harmlos sei. Geht selbst hin und findet heraus, ob er freiwillig mitkommt!"</DefaultText>
+Er wendet sich der Menge zu. „Bürger! Dieser Mann behauptet, dass er den Stichus versteckt auf einer Müllhalde hinter dem Fünften Auge fand. Er behauptet, dass er harmlos sei. Geht selbst hin und findet heraus, ob er freiwillig mitkommt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Für was für ein Monster haltet Ihr mich? Ich will ihm nur Gerechtigkeit widerfahren lassen."</DefaultText>
+      <DefaultText>„Für was für ein Monster haltet Ihr mich? Ich will ihm nur Gerechtigkeit widerfahren lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -478,87 +478,87 @@ Er wendet sich der Menge zu. "Bürger! Dieser Mann behauptet, dass er den Stichu
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Er hält die Arme hoch. "Bürger! Während ich es nicht billigen kann, dass ihr das Gesetz in eure Hände nehmt, kann ich nicht leugnen, dass Klippenrand und ganz Sagus-Klippen durch euer Handeln ein sicherer Ort geworden ist!"
+      <DefaultText>Er hält die Arme hoch. „Bürger! Während ich es nicht billigen kann, dass ihr das Gesetz in eure Hände nehmt, kann ich nicht leugnen, dass Klippenrand und ganz Sagus-Klippen durch euer Handeln ein sicherer Ort geworden ist!“
 
-Er blickt zur Menge. "Und ich hoffe, dass ihr heute die Lektion gelernt habt, dass unsere Feinde überall sind, und wir können sie nur besiegen, wenn wir gemeinsam stark und wachsam bleiben!"</DefaultText>
+Er blickt zur Menge. „Und ich hoffe, dass ihr heute die Lektion gelernt habt, dass unsere Feinde überall sind, und wir können sie nur besiegen, wenn wir gemeinsam stark und wachsam bleiben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Während die Menge jubelt wendet sich Lord Vuntgen an dich. "Und nun, mein Freund, zu Eurer Belohnung, von der Ihr Euch jeden Shin verdient haben. Vergesst nicht, dass ich beachtlichen Einfluss in dieser Stadt habe. Wenn Ihr einmal vor den Rat treten müsst oder eine bürokratische Hürde zu meistern ist, könnt Ihr auf meine Unterstützung zählen."</DefaultText>
-      <FemaleText>Während die Menge jubelt wendet sich Lord Vuntgen an dich. "Und nun, meine Dame, zu Eurer Belohnung, von der Ihr Euch jeden Shin verdient haben. Vergesst nicht, dass ich beachtlichen Einfluss in dieser Stadt habe. Wenn Ihr einmal vor den Rat treten müsst oder eine bürokratische Hürde zu meistern ist, könnt Ihr auf meine Unterstützung zählen."</FemaleText>
+      <DefaultText>Während die Menge jubelt wendet sich Lord Vuntgen an dich. „Und nun, mein Freund, zu Eurer Belohnung, von der Ihr Euch jeden Shin verdient haben. Vergesst nicht, dass ich beachtlichen Einfluss in dieser Stadt habe. Wenn Ihr einmal vor den Rat treten müsst oder eine bürokratische Hürde zu meistern ist, könnt Ihr auf meine Unterstützung zählen.“</DefaultText>
+      <FemaleText>Während die Menge jubelt wendet sich Lord Vuntgen an dich. „Und nun, meine Dame, zu Eurer Belohnung, von der Ihr Euch jeden Shin verdient haben. Vergesst nicht, dass ich beachtlichen Einfluss in dieser Stadt habe. Wenn Ihr einmal vor den Rat treten müsst oder eine bürokratische Hürde zu meistern ist, könnt Ihr auf meine Unterstützung zählen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Ich sagte Euch, dass der Stichus harmlos ist und dennoch ließt Ihr ihn töten. Warum?"</DefaultText>
+      <DefaultText>„Ich sagte Euch, dass der Stichus harmlos ist und dennoch ließt Ihr ihn töten. Warum?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Er schnaubt: "Erstens, ich ließ niemanden töten. Ich sagte der Menge, sie sollen ihm Gerechtigkeit widerfahren lassen. Für ihre daraufhin folgenden Handlungen bin ich nicht verantwortlich. Zweitens, es gibt einfach keinen harmlosen Stichus. Selbst wenn er nicht mehr graben kann, wie Ihr behauptet, woher wollt Ihr wissen, dass er nicht für seine Freunde spionierte?"
+      <DefaultText>Er schnaubt: „Erstens, ich ließ niemanden töten. Ich sagte der Menge, sie sollen ihm Gerechtigkeit widerfahren lassen. Für ihre daraufhin folgenden Handlungen bin ich nicht verantwortlich. Zweitens, es gibt einfach keinen harmlosen Stichus. Selbst wenn er nicht mehr graben kann, wie Ihr behauptet, woher wollt Ihr wissen, dass er nicht für seine Freunde spionierte?“
 
-"Und selbst wenn er *wirklich* harmlos war. Seht nur, was sein Tod bei den Menschen von Klippenrand bewirkt hat. Sie haben wieder Feuer im Herzen! Sie fühlen sich jetzt wieder wie ein Krieger! Die Bindung untereinander war noch nie so stark wie jetzt."</DefaultText>
+„Und selbst wenn er *wirklich* harmlos war. Seht nur, was sein Tod bei den Menschen von Klippenrand bewirkt hat. Sie haben wieder Feuer im Herzen! Sie fühlen sich jetzt wieder wie ein Krieger! Die Bindung untereinander war noch nie so stark wie jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Er runzelt die Stirn, als er dich näher ansieht. "Moment mal. Ich kenne Euch. Ihr seid der Held, der die Sticha zum Einlenken brachte. Ich bin stolz, Euch kennenzulernen, aber ich fürchte, einer von ihnen ist durchgedreht. Er treibt hier in Klippenrand sein Unwesen und lehrt die Bewohner das Fürchten."
+      <DefaultText>Er runzelt die Stirn, als er dich näher ansieht. „Moment mal. Ich kenne Euch. Ihr seid der Held, der die Sticha zum Einlenken brachte. Ich bin stolz, Euch kennenzulernen, aber ich fürchte, einer von ihnen ist durchgedreht. Er treibt hier in Klippenrand sein Unwesen und lehrt die Bewohner das Fürchten.“
 
-Er lächelt. "Wenn Ihr weitere Heldentaten vollbringen wollt, findet ihn am besten als Erster und sagt mir dann genau, wo er ist. Von da an übernehme ich die Sache."</DefaultText>
-      <FemaleText>Er runzelt die Stirn, als er dich näher ansieht. "Moment mal. Ich kenne Euch. Ihr seid die Heldin, die die Sticha zum Einlenken brachte. Ich bin stolz, Euch kennenzulernen, aber ich fürchte, einer von ihnen ist durchgedreht. Er treibt hier in Klippenrand sein Unwesen und lehrt die Bewohner das Fürchten."
+Er lächelt. „Wenn Ihr weitere Heldentaten vollbringen wollt, findet ihn am besten als Erster und sagt mir dann genau, wo er ist. Von da an übernehme ich die Sache.“</DefaultText>
+      <FemaleText>Er runzelt die Stirn, als er dich näher ansieht. „Moment mal. Ich kenne Euch. Ihr seid die Heldin, die die Sticha zum Einlenken brachte. Ich bin stolz, Euch kennenzulernen, aber ich fürchte, einer von ihnen ist durchgedreht. Er treibt hier in Klippenrand sein Unwesen und lehrt die Bewohner das Fürchten.“
 
-Er lächelt. "Wenn Ihr weitere Heldentaten vollbringen wollt, findet ihn am besten als Erster und sagt mir dann genau, wo er ist. Von da an übernehme ich die Sache."</FemaleText>
+Er lächelt. „Wenn Ihr weitere Heldentaten vollbringen wollt, findet ihn am besten als Erster und sagt mir dann genau, wo er ist. Von da an übernehme ich die Sache.“</FemaleText>
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Also gut. Er ist auf der Müllhalde hinter dem Fünften Auge."</DefaultText>
+      <DefaultText>„Also gut. Er ist auf der Müllhalde hinter dem Fünften Auge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Tut mir leid. Ich traue nicht Ihrem Gerechtigkeitssinn."</DefaultText>
+      <DefaultText>„Tut mir leid. Ich traue nicht Ihrem Gerechtigkeitssinn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Dann solltet Ihr jetzt schnellstens von hier verschwinden, bevor ich der Menge sage, auf wessen Seite Ihr steht."</DefaultText>
+      <DefaultText>„Dann solltet Ihr jetzt schnellstens von hier verschwinden, bevor ich der Menge sage, auf wessen Seite Ihr steht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Ihr macht mich krank."</DefaultText>
+      <DefaultText>„Ihr macht mich krank.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Der Stichus konnte entkommen. Andere Sticha haben einen Tunnel gegraben, um ihn zu befreien."</DefaultText>
+      <DefaultText>„Der Stichus konnte entkommen. Andere Sticha haben einen Tunnel gegraben, um ihn zu befreien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Ein merkwürdiger, halbmechanischer Stichus grub einen Tunnel und verhalf dem Stichus zur Flucht."</DefaultText>
+      <DefaultText>„Ein merkwürdiger, halbmechanischer Stichus grub einen Tunnel und verhalf dem Stichus zur Flucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Einige Kultisten des Wandelnden Gottes brachten den Stichus heimlich weg. Er ist entkommen."</DefaultText>
+      <DefaultText>„Einige Kultisten des Wandelnden Gottes brachten den Stichus heimlich weg. Er ist entkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Langsam glaube ich, dass Ihr den Stichus nach Klippenrand brachtet, damit die Menschen einen Feind haben, den sie hassen können."</DefaultText>
+      <DefaultText>„Langsam glaube ich, dass Ihr den Stichus nach Klippenrand brachtet, damit die Menschen einen Feind haben, den sie hassen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Welchen Beweis habt Ihr? Das Wort eines Stichus? Denkt Ihr etwa, jemand würde ihm glauben, selbst wenn man ihn versteht?"
+      <DefaultText>„Welchen Beweis habt Ihr? Das Wort eines Stichus? Denkt Ihr etwa, jemand würde ihm glauben, selbst wenn man ihn versteht?“
 
-Er winkt ab. "Statt hier lang rumzudiskutieren, könntet Ihr mir auch gleich sagen, wo er ist."</DefaultText>
+Er winkt ab. „Statt hier lang rumzudiskutieren, könntet Ihr mir auch gleich sagen, wo er ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Er lächelt. "Um diese Stadt wachzurütteln, würde ich vielleicht ähnlich vorgehen. Nicht, dass ich das schon gemacht habe, ich bitte Euch. Aber ich muss gestehen, es ist eine reizvolle Idee."</DefaultText>
+      <DefaultText>Er lächelt. „Um diese Stadt wachzurütteln, würde ich vielleicht ähnlich vorgehen. Nicht, dass ich das schon gemacht habe, ich bitte Euch. Aber ich muss gestehen, es ist eine reizvolle Idee.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -568,62 +568,62 @@ Er winkt ab. "Statt hier lang rumzudiskutieren, könntet Ihr mir auch gleich sag
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Er schaudert. "Der wilde Stichus tauchte vor ein paar Tagen in Klippenrand auf, und seither treibt er hier sein Unwesen. Die ganze Nachbarschaft lebt schon in Angst und Schrecken."</DefaultText>
+      <DefaultText>Er schaudert. „Der wilde Stichus tauchte vor ein paar Tagen in Klippenrand auf, und seither treibt er hier sein Unwesen. Die ganze Nachbarschaft lebt schon in Angst und Schrecken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Viel mehr gibt es nicht zu berichten. Er wurde im gesamten Bezirk schon gesehen, meistens hielt er sich verborgen. Keiner konnte ihn bislang einfangen."</DefaultText>
+      <DefaultText>„Viel mehr gibt es nicht zu berichten. Er wurde im gesamten Bezirk schon gesehen, meistens hielt er sich verborgen. Keiner konnte ihn bislang einfangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Ihr habt recht, das wäre zu grausam. Ich werde es nicht erwähnen."</DefaultText>
+      <DefaultText>„Ihr habt recht, das wäre zu grausam. Ich werde es nicht erwähnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Ich werde mein Gewissen nicht damit belasten, sofern Ihr das tut, was ich sage und aufhört, den Stichus zu jagen."</DefaultText>
+      <DefaultText>„Ich werde mein Gewissen nicht damit belasten, sofern Ihr das tut, was ich sage und aufhört, den Stichus zu jagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Danke. Was für eine Erleichterung."</DefaultText>
+      <DefaultText>„Danke. Was für eine Erleichterung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Er senkt erbost den Kopf. "Na schön, ich blase es ab, aber damit ist die Sache nicht vom Tisch. Ihr werdet es noch bereuen, mir in die Quere gekommen zu sein."</DefaultText>
+      <DefaultText>Er senkt erbost den Kopf. „Na schön, ich blase es ab, aber damit ist die Sache nicht vom Tisch. Ihr werdet es noch bereuen, mir in die Quere gekommen zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Er runzelt die Stirn, unglücklich. "Das ist … sehr enttäuschend. Woher wussten sie, dass er da ist? Sehr merkwürdig." Er seufzt. "Na ja, vielen Dank, dass Ihr es versucht habt, aber leider kann ich Euch keine Belohnung dafür geben, dass Ihr den Stichus fandet, nachdem er jetzt abgetaucht ist. Ich bedauere."</DefaultText>
+      <DefaultText>Er runzelt die Stirn, unglücklich. „Das ist … sehr enttäuschend. Woher wussten sie, dass er da ist? Sehr merkwürdig.“ Er seufzt. „Na ja, vielen Dank, dass Ihr es versucht habt, aber leider kann ich Euch keine Belohnung dafür geben, dass Ihr den Stichus fandet, nachdem er jetzt abgetaucht ist. Ich bedauere.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>Er runzelt die Stirn, unglücklich. "Das ist … sehr enttäuschend.  Ein halbmechanischer Stichus, sagt Ihr? Sehr merkwürdig. Wer könnte da dahinterstecken?" Er seufzt. "Na ja, vielen Dank, dass Ihr es versucht habt, aber leider kann ich Euch keine Belohnung dafür geben, dass Ihr den Stichus fandet, nachdem er jetzt abgetaucht ist. Ich bedauere."</DefaultText>
+      <DefaultText>Er runzelt die Stirn, unglücklich. „Das ist … sehr enttäuschend.  Ein halbmechanischer Stichus, sagt Ihr? Sehr merkwürdig. Wer könnte da dahinterstecken?“ Er seufzt. „Na ja, vielen Dank, dass Ihr es versucht habt, aber leider kann ich Euch keine Belohnung dafür geben, dass Ihr den Stichus fandet, nachdem er jetzt abgetaucht ist. Ich bedauere.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Er runzelt die Stirn, unglücklich. "Das ist … sehr enttäuschend. Der Kult des Wandelnden Gottes, sagt Ihr? Sehr merkwürdig. Was für ein Interesse könnten die haben?" Er seufzt. "Na ja, vielen Dank, dass Ihr es versucht habt, aber leider kann ich Euch keine Belohnung dafür geben, dass Ihr den Stichus fandet, nachdem er jetzt abgetaucht ist. Ich bedauere."</DefaultText>
+      <DefaultText>Er runzelt die Stirn, unglücklich. „Das ist … sehr enttäuschend. Der Kult des Wandelnden Gottes, sagt Ihr? Sehr merkwürdig. Was für ein Interesse könnten die haben?“ Er seufzt. „Na ja, vielen Dank, dass Ihr es versucht habt, aber leider kann ich Euch keine Belohnung dafür geben, dass Ihr den Stichus fandet, nachdem er jetzt abgetaucht ist. Ich bedauere.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Er wendet sich an die Menge. "Bürger, scheinbar kommen wir in der Jagd nach diesem Stichus nicht vom Fleck, daher kehre ich nach Hause zurück. Ich empfehle euch, das auch zu tun."</DefaultText>
+      <DefaultText>Er wendet sich an die Menge. „Bürger, scheinbar kommen wir in der Jagd nach diesem Stichus nicht vom Fleck, daher kehre ich nach Hause zurück. Ich empfehle euch, das auch zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Warum habt Ihr die Menge dazu überredet, den Stichus zu töten?"</DefaultText>
+      <DefaultText>„Warum habt Ihr die Menge dazu überredet, den Stichus zu töten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Er lacht. "Ich sagte der Menge, sie sollen ihm Gerechtigkeit widerfahren lassen. Für ihre daraufhin folgenden Handlungen bin ich nicht verantwortlich. Andererseits müssen Sie sehen, was das bei Ihnen bewirkt hat! Es hat sie geeint! Sie aufgeweckt! Sie belebt! Sie fühlen sich nicht wie Opfer. Sie sind jetzt Helden! Angesichts der vielen Konflikte, die um uns herum aufflackern, sind Helden genau das, was Sagus-Klippen braucht."</DefaultText>
+      <DefaultText>Er lacht. „Ich sagte der Menge, sie sollen ihm Gerechtigkeit widerfahren lassen. Für ihre daraufhin folgenden Handlungen bin ich nicht verantwortlich. Andererseits müssen Sie sehen, was das bei Ihnen bewirkt hat! Es hat sie geeint! Sie aufgeweckt! Sie belebt! Sie fühlen sich nicht wie Opfer. Sie sind jetzt Helden! Angesichts der vielen Konflikte, die um uns herum aufflackern, sind Helden genau das, was Sagus-Klippen braucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -638,16 +638,16 @@ Er winkt ab. "Statt hier lang rumzudiskutieren, könntet Ihr mir auch gleich sag
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Während die Menge jubelt, wendet sich Lord Vuntgen dir zu. "Und jetzt, mein Freund, sollt Ihr Eure Belohnung erhalten, aber nur, weil ich es versprochen habe."
+      <DefaultText>Während die Menge jubelt, wendet sich Lord Vuntgen dir zu. „Und jetzt, mein Freund, sollt Ihr Eure Belohnung erhalten, aber nur, weil ich es versprochen habe.“
 
-Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde ich Euch nichts geben. Ihr habt wohl diesen einen Stichus Gerechtigkeit widerfahren lassen, aber das macht kaum den Affront Eures Friedensakts mit dessen Sippe wett. Ihr hättet sie aus der Stadt jagen sollen. Und glaubt ja nicht, dass ich Euch noch einmal einen Gefallen tue. Sollten wir uns wiedersehen, werde ich Euch nicht kennen."</DefaultText>
-      <FemaleText>Während die Menge jubelt, wendet sich Lord Vuntgen dir zu. "Und jetzt, meine Dame, sollt Ihr Eure Belohnung erhalten, aber nur, weil ich es versprochen habe."
+Er zieht seine Lippen zusammen. „Wären wir nicht in der Öffentlichkeit, würde ich Euch nichts geben. Ihr habt wohl diesen einen Stichus Gerechtigkeit widerfahren lassen, aber das macht kaum den Affront Eures Friedensakts mit dessen Sippe wett. Ihr hättet sie aus der Stadt jagen sollen. Und glaubt ja nicht, dass ich Euch noch einmal einen Gefallen tue. Sollten wir uns wiedersehen, werde ich Euch nicht kennen.“</DefaultText>
+      <FemaleText>Während die Menge jubelt, wendet sich Lord Vuntgen dir zu. „Und jetzt, meine Dame, sollt Ihr Eure Belohnung erhalten, aber nur, weil ich es versprochen habe.“
 
-Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde ich Euch nichts geben. Ihr habt wohl diesen einen Stichus Gerechtigkeit widerfahren lassen, aber das macht kaum den Affront Eures Friedensakts mit dessen Sippe wett. Ihr hättet sie aus der Stadt jagen sollen. Und glaubt ja nicht, dass ich Euch noch einmal einen Gefallen tue. Sollten wir uns wiedersehen, werde ich Euch nicht kennen."</FemaleText>
+Er zieht seine Lippen zusammen. „Wären wir nicht in der Öffentlichkeit, würde ich Euch nichts geben. Ihr habt wohl diesen einen Stichus Gerechtigkeit widerfahren lassen, aber das macht kaum den Affront Eures Friedensakts mit dessen Sippe wett. Ihr hättet sie aus der Stadt jagen sollen. Und glaubt ja nicht, dass ich Euch noch einmal einen Gefallen tue. Sollten wir uns wiedersehen, werde ich Euch nicht kennen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Das überrascht mich nicht im Geringsten." Er blinzelt mit den Augen und dreht sich ab.</DefaultText>
+      <DefaultText>„Das überrascht mich nicht im Geringsten.“ Er blinzelt mit den Augen und dreht sich ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -677,12 +677,12 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Er nähert sich dir und spricht leise. "Ich spüre, Ihr und ich funken auf einer Wellenlänge. Ich würde Euch gerne einem Freund von mir weiterempfehlen. Sein Name ist Jernaugh und ihm gehört der cheirurgische Salon hier in Klippenrand. Sagt ihm, Lord Vuntgen schickte sie - dann bietet er Euch vielleicht einen Rabatt für seine Dienste."</DefaultText>
+      <DefaultText>Er nähert sich dir und spricht leise. „Ich spüre, Ihr und ich funken auf einer Wellenlänge. Ich würde Euch gerne einem Freund von mir weiterempfehlen. Sein Name ist Jernaugh und ihm gehört der cheirurgische Salon hier in Klippenrand. Sagt ihm, Lord Vuntgen schickte sie - dann bietet er Euch vielleicht einen Rabatt für seine Dienste.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Viel Glück euch allen."</DefaultText>
+      <DefaultText>„Viel Glück euch allen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -692,12 +692,12 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Kann ich Euch noch mehr zum Stichus und dessen Art fragen?"</DefaultText>
+      <DefaultText>„Kann ich Euch noch mehr zum Stichus und dessen Art fragen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Kann ich Euch noch einmal zum Stichus und dessen Sippe fragen?"</DefaultText>
+      <DefaultText>„Kann ich Euch noch einmal zum Stichus und dessen Sippe fragen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -707,32 +707,32 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Er nickt. "Natürlich. Den Feind zu kennen, ist der erste Schritt zum Sieg."</DefaultText>
+      <DefaultText>Er nickt. „Natürlich. Den Feind zu kennen, ist der erste Schritt zum Sieg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Aber sicher."</DefaultText>
+      <DefaultText>„Aber sicher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Ich bin auf der Suche nach einer Albinofrau, eine Assassine namens Matkina. Kennt Ihr sie?"</DefaultText>
+      <DefaultText>„Ich bin auf der Suche nach einer Albinofrau, eine Assassine namens Matkina. Kennt Ihr sie?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Kennt Ihr einen Mann namens Riastrad? Er ist ein Glaive, der selten redet und eine Tätowierung hat, die meiner gleicht."</DefaultText>
+      <DefaultText>„Kennt Ihr einen Mann namens Riastrad? Er ist ein Glaive, der selten redet und eine Tätowierung hat, die meiner gleicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Ich weiß nicht, wer das ist, und so, wie es sich anhört, will ich es auch nicht. Sie scheint eine grässliche Person zu sein."</DefaultText>
+      <DefaultText>„Ich weiß nicht, wer das ist, und so, wie es sich anhört, will ich es auch nicht. Sie scheint eine grässliche Person zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Er zuckt mit den Schultern. "Weder der Name noch die Beschreibung sagen mir etwas."</DefaultText>
+      <DefaultText>Er zuckt mit den Schultern. „Weder der Name noch die Beschreibung sagen mir etwas.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -747,72 +747,72 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Seid Ihr *sicher*, dass Ihr Matkina nicht kennt?"</DefaultText>
+      <DefaultText>„Seid Ihr *sicher*, dass Ihr Matkina nicht kennt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Er weicht deinem Blick aus. "Ich habe *von* ihr gehört. Das heißt nicht, dass ich sie kenne. Und ich kenne sie auch nicht unter dem Namen … wie war der, 'Matkina'? Ich kenne sie nur als Weißer Tod. Der Rat hat … hatte mit ihr schon mehrfach zu tun."</DefaultText>
+      <DefaultText>Er weicht deinem Blick aus. „Ich habe *von* ihr gehört. Das heißt nicht, dass ich sie kenne. Und ich kenne sie auch nicht unter dem Namen … wie war der, 'Matkina'? Ich kenne sie nur als Weißer Tod. Der Rat hat … hatte mit ihr schon mehrfach zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Er lächelt milde als du dich ihm wieder näherst. "Da seid Ihr wieder und wie ich hörte, habt Ihr mit den Sticha Frieden geschlossen. Lobenswert. Leider hat einer Eurer neuen Freunde vom Ende der Feindseligkeit noch nichts mitbekommen. Es steht noch viel auf dem Spiel und wenn etwas passiert, war Eure ganze Arbeit umsonst."</DefaultText>
+      <DefaultText>Er lächelt milde als du dich ihm wieder näherst. „Da seid Ihr wieder und wie ich hörte, habt Ihr mit den Sticha Frieden geschlossen. Lobenswert. Leider hat einer Eurer neuen Freunde vom Ende der Feindseligkeit noch nichts mitbekommen. Es steht noch viel auf dem Spiel und wenn etwas passiert, war Eure ganze Arbeit umsonst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Er nickt, als du näherkommst. "Oh. Der Friedensstifter ist zurück. Habt Ihr schon meine Beute gefunden? Habt Ihr den Stichus gesehen?"</DefaultText>
+      <DefaultText>Er nickt, als du näherkommst. „Oh. Der Friedensstifter ist zurück. Habt Ihr schon meine Beute gefunden? Habt Ihr den Stichus gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Er lächelt, als er dich näherkommen sieht. "Willkommen zurück, Held. Habt Ihr den Stichus gesehen?"</DefaultText>
+      <DefaultText>Er lächelt, als er dich näherkommen sieht. „Willkommen zurück, Held. Habt Ihr den Stichus gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Willkommen zurück, mein Friedensstifter. Habt Ihr den Stichus gesehen?"</DefaultText>
+      <DefaultText>„Willkommen zurück, mein Friedensstifter. Habt Ihr den Stichus gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Wo ist der Stichus, Verräter? Wollt Ihr es mir immer noch nicht sagen?"</DefaultText>
+      <DefaultText>„Wo ist der Stichus, Verräter? Wollt Ihr es mir immer noch nicht sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Der Stichus ist entkommen. Ich ließ ihn frei."</DefaultText>
+      <DefaultText>„Der Stichus ist entkommen. Ich ließ ihn frei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Seine Augen treten hervor. "Was! Und Ihr wagt es, herzukommen? Ihr verratet Eure eigene Art! Wenn noch mehr Häuser einstürzen, ist das Eure Schuld! Das ist ein Tragödie! Ein Frevel! Ich hätte gute Lust, die Levis zu rufen!"</DefaultText>
+      <DefaultText>Seine Augen treten hervor. „Was! Und Ihr wagt es, herzukommen? Ihr verratet Eure eigene Art! Wenn noch mehr Häuser einstürzen, ist das Eure Schuld! Das ist ein Tragödie! Ein Frevel! Ich hätte gute Lust, die Levis zu rufen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Guten Tag, mein Herr!"</DefaultText>
-      <FemaleText>"Guten Tag, meine Dame!"</FemaleText>
+      <DefaultText>„Guten Tag, mein Herr!“</DefaultText>
+      <FemaleText>„Guten Tag, meine Dame!“</FemaleText>
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Sagus-Klippen hatte ein Imperium?</DefaultText>
+      <DefaultText>„Sagus-Klippen hatte ein Imperium?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"In der Tat. Wir kontrollierten alle Länder von hier bis Ornus Unagran. Das war vor dem Sklavenaufstand, der die Sklavenfamilien an die Macht brachte. Einige von uns sehnen sich danach, uns das Verlorene wieder *zurückzuholen*."</DefaultText>
+      <DefaultText>„In der Tat. Wir kontrollierten alle Länder von hier bis Ornus Unagran. Das war vor dem Sklavenaufstand, der die Sklavenfamilien an die Macht brachte. Einige von uns sehnen sich danach, uns das Verlorene wieder *zurückzuholen*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Wer sind die Ghibra?"</DefaultText>
+      <DefaultText>„Wer sind die Ghibra?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Hinterhältige Unterwasser-Atmende." Er flüstert, als würde einer von ihnen zuhören. "Zur Zeit unsere Rivalen um die Macht. Wie tief sind wir gefallen."</DefaultText>
+      <DefaultText>„Hinterhältige Unterwasser-Atmende.“ Er flüstert, als würde einer von ihnen zuhören. „Zur Zeit unsere Rivalen um die Macht. Wie tief sind wir gefallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -822,86 +822,86 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Sagt mir nochmal … wie groß war das Imperium einst?"</DefaultText>
+      <DefaultText>„Sagt mir nochmal … wie groß war das Imperium einst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Von den Küsten von Garravia-Sund bis ins entfernte Ornus Unagran. Aber das war vor Jahrhunderten, bevor Chilas Rebellion die Sklavenfamilien an die Macht brachte."</DefaultText>
+      <DefaultText>„Von den Küsten von Garravia-Sund bis ins entfernte Ornus Unagran. Aber das war vor Jahrhunderten, bevor Chilas Rebellion die Sklavenfamilien an die Macht brachte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Die Menschen sind nicht schwach. Sie brauchen nur jemanden, der sie zu einem gemeinsam Ziel inspiriert und führt."</DefaultText>
+      <DefaultText>„Die Menschen sind nicht schwach. Sie brauchen nur jemanden, der sie zu einem gemeinsam Ziel inspiriert und führt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Und wenn dieser Anführer wieder geht? Fällt die Stadt dann wieder in ihre Apathie? Nein … Diese Stadt braucht einen *Feind*. Im Konflikt entdecken wir unsere besten Qualitäten. So war es schon immer."</DefaultText>
+      <DefaultText>„Und wenn dieser Anführer wieder geht? Fällt die Stadt dann wieder in ihre Apathie? Nein … Diese Stadt braucht einen *Feind*. Im Konflikt entdecken wir unsere besten Qualitäten. So war es schon immer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Er klopft dir auf die Schulter. "Ihr werdet auch belohnt, das verspreche ich Euch. Als Oberhaupt einer Sklavenfamilie werde ich Euch einen Gefallen schuldig sein - und meine Gefallen haben hier großes Gewicht."</DefaultText>
+      <DefaultText>Er klopft dir auf die Schulter. „Ihr werdet auch belohnt, das verspreche ich Euch. Als Oberhaupt einer Sklavenfamilie werde ich Euch einen Gefallen schuldig sein - und meine Gefallen haben hier großes Gewicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Er wendet sich an die Menge. "Bürger! Dieser Mann behauptet, er habe den gefährlichen Stichus getötet! Geht und überprüft, ob er die Wahrheit sagt!"</DefaultText>
-      <FemaleText>Er wendet sich an die Menge. "Bürger! Dieser Mann behauptet, er habe den gefährlichen Stichus getötet! Geht und überprüft, ob sie die Wahrheit sagt!"</FemaleText>
+      <DefaultText>Er wendet sich an die Menge. „Bürger! Dieser Mann behauptet, er habe den gefährlichen Stichus getötet! Geht und überprüft, ob er die Wahrheit sagt!“</DefaultText>
+      <FemaleText>Er wendet sich an die Menge. „Bürger! Dieser Mann behauptet, er habe den gefährlichen Stichus getötet! Geht und überprüft, ob sie die Wahrheit sagt!“</FemaleText>
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>Vuntgen hält die Arme hoch. "Bürger! So wenig ich es billigen kann, dass dieser Mann das Gesetz in seine Hände nahm, so kann ich nicht leugnen, dass Klippenrand und ganz Sagus-Klippen durch sein Handeln wieder ein sicherer Ort geworden ist!"
+      <DefaultText>Vuntgen hält die Arme hoch. „Bürger! So wenig ich es billigen kann, dass dieser Mann das Gesetz in seine Hände nahm, so kann ich nicht leugnen, dass Klippenrand und ganz Sagus-Klippen durch sein Handeln wieder ein sicherer Ort geworden ist!“
 
-Er blickt zur Menge. "Und ich hoffe, dass ihr heute die Lektion gelernt habt, dass unsere Feinde überall sind, und wir können sie nur besiegen, wenn wir gemeinsam stark und wachsam bleiben!"</DefaultText>
+Er blickt zur Menge. „Und ich hoffe, dass ihr heute die Lektion gelernt habt, dass unsere Feinde überall sind, und wir können sie nur besiegen, wenn wir gemeinsam stark und wachsam bleiben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Danke. Ich nehme, was ich kriegen kann."</DefaultText>
+      <DefaultText>„Danke. Ich nehme, was ich kriegen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Nein, danke. Für mein Tun habe ich keine Belohnung verdient."</DefaultText>
+      <DefaultText>„Nein, danke. Für mein Tun habe ich keine Belohnung verdient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Ihr habt eine unschuldige Kreatur hinrichten lassen. Ich will Eure Belohnung nicht."</DefaultText>
+      <DefaultText>„Ihr habt eine unschuldige Kreatur hinrichten lassen. Ich will Eure Belohnung nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Dann soll sie Euch auch nicht gehören. Ich habe keine Zeit für Undankbarkeit."</DefaultText>
+      <DefaultText>„Dann soll sie Euch auch nicht gehören. Ich habe keine Zeit für Undankbarkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>Er zuckt mit den Achseln. "Wie Ihr wünscht."</DefaultText>
+      <DefaultText>Er zuckt mit den Achseln. „Wie Ihr wünscht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>Während die Menge jubelt, wendet sich Lord Vuntgen dir zu. "Und jetzt, mein Freund, sollt Ihr Eure Belohnung erhalten, aber nur, weil ich es versprochen habe."
+      <DefaultText>Während die Menge jubelt, wendet sich Lord Vuntgen dir zu. „Und jetzt, mein Freund, sollt Ihr Eure Belohnung erhalten, aber nur, weil ich es versprochen habe.“
 
-Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde ich Euch nichts geben. Ihr habt wohl diesen einen Stichus Gerechtigkeit widerfahren lassen, aber das macht kaum den Affront Eures Friedensakts mit dessen Sippe wett. Ihr hättet sie aus der Stadt jagen sollen. Und glaubt ja nicht, dass ich Euch noch einmal einen Gefallen tue. Sollten wir uns wiedersehen, werde ich Euch nicht kennen."</DefaultText>
+Er zieht seine Lippen zusammen. „Wären wir nicht in der Öffentlichkeit, würde ich Euch nichts geben. Ihr habt wohl diesen einen Stichus Gerechtigkeit widerfahren lassen, aber das macht kaum den Affront Eures Friedensakts mit dessen Sippe wett. Ihr hättet sie aus der Stadt jagen sollen. Und glaubt ja nicht, dass ich Euch noch einmal einen Gefallen tue. Sollten wir uns wiedersehen, werde ich Euch nicht kennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Danke. Ich nehme ergeben an."</DefaultText>
+      <DefaultText>„Danke. Ich nehme ergeben an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"War mir ein Vergnügen. Viel Glück."</DefaultText>
+      <DefaultText>„War mir ein Vergnügen. Viel Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Ich kenne diesen Mann. Er hat mich schon oft angeheuert. Und fast so oft auch bezahlt."</DefaultText>
+      <DefaultText>„Ich kenne diesen Mann. Er hat mich schon oft angeheuert. Und fast so oft auch bezahlt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -911,27 +911,27 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Ihr habt uns angelogen!"</DefaultText>
+      <DefaultText>„Ihr habt uns angelogen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Ha! Das war doch zu erwarten."</DefaultText>
+      <DefaultText>„Ha! Das war doch zu erwarten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>"Er ließ ihn entkommen!"</DefaultText>
+      <DefaultText>„Er ließ ihn entkommen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Ich dachte, wir bekommen Blut zu sehen?"</DefaultText>
+      <DefaultText>„Ich dachte, wir bekommen Blut zu sehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Verdammt."</DefaultText>
+      <DefaultText>„Verdammt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,17 +981,17 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Und … was machen wir heute sonst noch?"</DefaultText>
+      <DefaultText>„Und … was machen wir heute sonst noch?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Ich brauche was zu trinken."</DefaultText>
+      <DefaultText>„Ich brauche was zu trinken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Mob-Justiz? Eher ein Mob-Versagen. Pah."</DefaultText>
+      <DefaultText>„Mob-Justiz? Eher ein Mob-Versagen. Pah.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1001,22 +1001,22 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Vuntgen! Vuntgen! Vuntgen!"</DefaultText>
+      <DefaultText>„Vuntgen! Vuntgen! Vuntgen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Vuntgen hatte seinen Anteil. Wir erledigten den Rest."</DefaultText>
+      <DefaultText>„Vuntgen hatte seinen Anteil. Wir erledigten den Rest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Tod den Sticha!"</DefaultText>
+      <DefaultText>„Tod den Sticha!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Ha! Er zuckt noch!"</DefaultText>
+      <DefaultText>„Ha! Er zuckt noch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1031,12 +1031,12 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Bevor ich gehe, hole ich mir eine Trophäe."</DefaultText>
+      <DefaultText>„Bevor ich gehe, hole ich mir eine Trophäe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Nicht so befriedigend wie erhofft."</DefaultText>
+      <DefaultText>„Nicht so befriedigend wie erhofft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1046,22 +1046,22 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Der Stichus ist tot!"</DefaultText>
+      <DefaultText>„Der Stichus ist tot!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Ah, ich wollte ihn töten."</DefaultText>
+      <DefaultText>„Ah, ich wollte ihn töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"Die Bestie gehörte mir, verdammt!"</DefaultText>
+      <DefaultText>„Die Bestie gehörte mir, verdammt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Ich bekam nichts zu sehen!"</DefaultText>
+      <DefaultText>„Ich bekam nichts zu sehen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1091,22 +1091,22 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>"Uns wurde Gerechtigkeit versprochen!"</DefaultText>
+      <DefaultText>„Uns wurde Gerechtigkeit versprochen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Wer hat ihn gerettet? Wer? Wir wollen Vergeltung!"</DefaultText>
+      <DefaultText>„Wer hat ihn gerettet? Wer? Wir wollen Vergeltung!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"Findet ihn! Zerdrückt ihn! Tötet alle Käfer!"</DefaultText>
+      <DefaultText>„Findet ihn! Zerdrückt ihn! Tötet alle Käfer!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Wir wollten Blut!"</DefaultText>
+      <DefaultText>„Wir wollten Blut!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1126,7 +1126,7 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Was soll aus dieser Stadt noch werden?"</DefaultText>
+      <DefaultText>„Was soll aus dieser Stadt noch werden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1136,22 +1136,22 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Sagte er eben, dass er dem Stichus half?"</DefaultText>
+      <DefaultText>„Sagte er eben, dass er dem Stichus half?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>"Welches Arschgesicht würde dieses mordende Ungeziefer laufen lassen?"</DefaultText>
+      <DefaultText>„Welches Arschgesicht würde dieses mordende Ungeziefer laufen lassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>"Wer stoppt das Einstürzen der Häuser?"</DefaultText>
+      <DefaultText>„Wer stoppt das Einstürzen der Häuser?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>"Sagte er gerade, er ließ das Insekt *gehen*?"</DefaultText>
+      <DefaultText>„Sagte er gerade, er ließ das Insekt *gehen*?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1161,7 +1161,7 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>"Geh zurück in dein Nest, du Käfer-Günstling!"</DefaultText>
+      <DefaultText>„Geh zurück in dein Nest, du Käfer-Günstling!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1171,37 +1171,37 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>"Wer bevorzugt Insekten vor Menschen?"</DefaultText>
+      <DefaultText>„Wer bevorzugt Insekten vor Menschen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>"Endlich. Die Häuser dürften wieder sicher sein."</DefaultText>
+      <DefaultText>„Endlich. Die Häuser dürften wieder sicher sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>"Ich hatte auf eine Trophäe gehofft …"</DefaultText>
+      <DefaultText>„Ich hatte auf eine Trophäe gehofft …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>"Gut. Heute Nacht kann ich wieder beruhigt schlafen."</DefaultText>
+      <DefaultText>„Gut. Heute Nacht kann ich wieder beruhigt schlafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>"Wo ist da die Gerechtigkeit?"</DefaultText>
+      <DefaultText>„Wo ist da die Gerechtigkeit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>"Wir sollten wegziehen. Ich kann nicht mehr an den Klippen wohnen."</DefaultText>
+      <DefaultText>„Wir sollten wegziehen. Ich kann nicht mehr an den Klippen wohnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>"Ihr seid ein Ungeheuer."</DefaultText>
+      <DefaultText>„Ihr seid ein Ungeheuer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,7 +1211,7 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>"Du hast Frieden mit ihnen geschlossen. Du kennst sie sicher besser als ich." Er zuckt mit den Schultern. "Aber ich biete dir meine Sichtweise an, wenn du das wünschst."</DefaultText>
+      <DefaultText>„Du hast Frieden mit ihnen geschlossen. Du kennst sie sicher besser als ich.“ Er zuckt mit den Schultern. „Aber ich biete dir meine Sichtweise an, wenn du das wünschst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1221,22 +1221,22 @@ Er zieht seine Lippen zusammen. "Wären wir nicht in der Öffentlichkeit, würde
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>"Meine Antwort auf diese Frage wird dir wohl nicht gefallen. Ich habe sie schon immer für bösartige Schädlinge gehalten, die das menschliche Leben nicht interessiert. Ich räume ein, dass ein *paar* von ihnen vernünftig sein dürften, sonst hätten sie mit ihren Grabungen nie aufgehört … doch ich versichere dir, unsere Tode bedeuten den meisten von ihnen nichts."</DefaultText>
+      <DefaultText>„Meine Antwort auf diese Frage wird dir wohl nicht gefallen. Ich habe sie schon immer für bösartige Schädlinge gehalten, die das menschliche Leben nicht interessiert. Ich räume ein, dass ein *paar* von ihnen vernünftig sein dürften, sonst hätten sie mit ihren Grabungen nie aufgehört … doch ich versichere dir, unsere Tode bedeuten den meisten von ihnen nichts.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>"Die meisten von ihnen sind bösartige Schädlinge. Sie graben unter unseren Füßen und scheren sich nicht um die Zerstörung, die sie an der Oberfläche anrichten."</DefaultText>
+      <DefaultText>„Die meisten von ihnen sind bösartige Schädlinge. Sie graben unter unseren Füßen und scheren sich nicht um die Zerstörung, die sie an der Oberfläche anrichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>"Ich habe noch weitere Fragen über die Sticha."</DefaultText>
+      <DefaultText>„Ich habe noch weitere Fragen über die Sticha.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>"Dann fahre fort."</DefaultText>
+      <DefaultText>„Dann fahre fort.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
