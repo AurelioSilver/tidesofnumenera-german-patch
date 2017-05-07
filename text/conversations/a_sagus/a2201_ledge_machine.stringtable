@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Ein schwaches Dröhnen wird zu einem rhythmischen Summen, als du dich dieser merkwürdigen Maschine näherst.</DefaultText>
-      <FemaleText>Ein schwaches Dröhnen wird zu einem rhythmischen Summen, als du dich dieser merkwürdigen Maschine näherst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Die Maschine bleibt in der Felswand eingebettet. Du hörst in ihr das Wirbeln und Spülen von Flüssigkeiten.</DefaultText>
-      <FemaleText>Die Maschine bleibt in der Felswand eingebettet. Du hörst in ihr das Wirbeln und Spülen von Flüssigkeiten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -22,7 +22,7 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>Untersuche den Apparat.</DefaultText>
-      <FemaleText>Untersuche den Apparat.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -37,7 +37,7 @@
     <Entry>
       <ID>7</ID>
       <DefaultText>Eine ovale Öffnung, die von einem metallischen Drahtgeflecht bedeckt wird, befindet sich an der Vorderseite des Apparats, und dahinter kannst du einen flüchtigen Blick auf eine wirbelnde Flüssigkeit erhaschen. Auf der Maschine befindet sich eine Kuppel aus durchsichtigem Material sowie eine hell erleuchtete Kugel.</DefaultText>
-      <FemaleText>Eine ovale Öffnung, die von einem metallischen Drahtgeflecht bedeckt wird, befindet sich an der Vorderseite des Apparats, und dahinter kannst du einen flüchtigen Blick auf eine wirbelnde Flüssigkeit erhaschen. Auf der Maschine befindet sich eine Kuppel aus durchsichtigem Material sowie eine hell erleuchtete Kugel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -47,36 +47,34 @@
     <Entry>
       <ID>10</ID>
       <DefaultText>Untersuche das Drahtgeflecht.</DefaultText>
-      <FemaleText>Untersuche das Drahtgeflecht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Das Gitter scheint den direkten Kontakt zur Flüssigkeit zu verhindern, die sich im Inneren des Apparats drängt. Die Neugier muss jedoch jemanden überkommen haben, da auf der Unterseite das Gitter in einer sauberen Linie durchtrennt wurde. Die durch den Schnitt geschaffene Öffnung scheint ausreichend Platz zu bieten, um einen Arm hindurchzustecken.</DefaultText>
-      <FemaleText>Das Gitter scheint den direkten Kontakt zur Flüssigkeit zu verhindern, die sich im Inneren des Apparats drängt. Die Neugier muss jedoch jemanden überkommen haben, da auf der Unterseite das Gitter in einer sauberen Linie durchtrennt wurde. Die durch den Schnitt geschaffene Öffnung scheint ausreichend Platz zu bieten, um einen Arm hindurchzustecken.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Untersuche die Kuppel.</DefaultText>
-      <FemaleText>Untersuche die Kuppel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Nach genauerer Untersuchung bemerkst du, dass die Kuppel offenbar ein menschliches Gehirn enthält, doch es ist um einiges größer als ein normales Gehirn. Es schwebt friedlich im Gehäuse und pulsiert gelegentlich, doch du findest keinen Weg, um damit zu interagieren.</DefaultText>
-      <FemaleText>Nach genauerer Untersuchung bemerkst du, dass die Kuppel offenbar ein menschliches Gehirn enthält, doch es ist um einiges größer als ein normales Gehirn. Es schwebt friedlich im Gehäuse und pulsiert gelegentlich, doch du findest keinen Weg, um damit zu interagieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Untersuche die Kugel.</DefaultText>
-      <FemaleText>Untersuche die Kugel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Die leuchtende Kugel scheint fest mit dem Rest der Maschine verbunden zu sein. Das Licht wird schwächer, als du deine Hand näherst. 
 
 Du verbringst eine Zeit lang damit, deine Hand um die Kugel zu bewegen. Schließlich entdeckst du, dass ihr Licht schwächer wird, wenn sich deine Hand einem bestimmten Punkt an der Vorderseite nähert.</DefaultText>
-      <FemaleText>Die leuchtende Kugel scheint fest mit dem Rest der Maschine verbunden zu sein. Das Licht wird schwächer, als du deine Hand näherst. 
-
-Du verbringst eine Zeit lang damit, deine Hand um die Kugel zu bewegen. Schließlich entdeckst du, dass ihr Licht schwächer wird, wenn sich deine Hand einem bestimmten Punkt an der Vorderseite nähert.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -86,62 +84,62 @@ Du verbringst eine Zeit lang damit, deine Hand um die Kugel zu bewegen. Schließ
     <Entry>
       <ID>20</ID>
       <DefaultText>Tippe auf die Kuppel.</DefaultText>
-      <FemaleText>Tippe auf die Kuppel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Tippe erneut auf die Kuppel.</DefaultText>
-      <FemaleText>Tippe erneut auf die Kuppel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Bewege deine Hand vor der Kugel.</DefaultText>
-      <FemaleText>Bewege deine Hand vor der Kugel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Bewege deine Hand erneut vor der Kugel.</DefaultText>
-      <FemaleText>Bewege deine Hand erneut vor der Kugel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Das Licht der Kugel wird schwächer und wieder stärker, nachdem deine Hand ihre Bewegung abgeschlossen hat. Aus dem Inneren der Maschine hörst du das würgende Geräusch abfließender Flüssigkeit. Das ständige Summen der Maschine ist verstummt.</DefaultText>
-      <FemaleText>Das Licht der Kugel wird schwächer und wieder stärker, nachdem deine Hand ihre Bewegung abgeschlossen hat. Aus dem Inneren der Maschine hörst du das würgende Geräusch abfließender Flüssigkeit. Das ständige Summen der Maschine ist verstummt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Das Licht der Kugel wird schwächer und heller wie gewohnt, doch bis auf ein trockenes Klickgeräusch passiert nichts weiter.</DefaultText>
-      <FemaleText>Das Licht der Kugel wird schwächer und heller wie gewohnt, doch bis auf ein trockenes Klickgeräusch passiert nichts weiter.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Das Licht der Kugel wird schwächer und heller, begleitet von dem gleichen Abflussgeräusch wie zuvor.</DefaultText>
-      <FemaleText>Das Licht der Kugel wird schwächer und heller, begleitet von dem gleichen Abflussgeräusch wie zuvor.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Tippe erneut auf die Kuppel.</DefaultText>
-      <FemaleText>Tippe erneut auf die Kuppel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Du klopfst leicht auf die Kugel, wodurch eine leichte Erschütterung des Gehirns darunter ausgelöst wird. Es passiert jedoch nichts weiter.</DefaultText>
-      <FemaleText>Du klopfst leicht auf die Kugel, wodurch eine leichte Erschütterung des Gehirns darunter ausgelöst wird. Es passiert jedoch nichts weiter.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Du klopfst leicht auf die Kugel, wodurch eine leichte Erschütterung des Gehirns darunter ausgelöst wird. Ein raschelndes Geräusch ertönt aus dem Inneren des Apparats und er setzt sein vorheriges rhythmisches Summen fort.</DefaultText>
-      <FemaleText>Du klopfst leicht auf die Kugel, wodurch eine leichte Erschütterung des Gehirns darunter ausgelöst wird. Ein raschelndes Geräusch ertönt aus dem Inneren des Apparats und er setzt sein vorheriges rhythmisches Summen fort.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Du klopfst erneut auf die Kuppel und das Gehirn reagiert erneut, doch außer das eingeschlossene Organ möglicherweise zu quälen, erreichst du nichts.</DefaultText>
-      <FemaleText>Du klopfst erneut auf die Kuppel und das Gehirn reagiert erneut, doch außer das eingeschlossene Organ möglicherweise zu quälen, erreichst du nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Du klopfst nochmal auf die Kuppel. Das Gehirn zuckt und das Geräusch einer rauschenden Flüssigkeit ist wieder im Apparat zu hören.</DefaultText>
-      <FemaleText>Du klopfst nochmal auf die Kuppel. Das Gehirn zuckt und das Geräusch einer rauschenden Flüssigkeit ist wieder im Apparat zu hören.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
@@ -151,12 +149,12 @@ Du verbringst eine Zeit lang damit, deine Hand um die Kugel zu bewegen. Schließ
     <Entry>
       <ID>35</ID>
       <DefaultText>Greife durch die Öffnung.</DefaultText>
-      <FemaleText>Greife durch die Öffnung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Greife erneut durch die Öffnung.</DefaultText>
-      <FemaleText>Greife erneut durch die Öffnung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -166,12 +164,12 @@ Du verbringst eine Zeit lang damit, deine Hand um die Kugel zu bewegen. Schließ
     <Entry>
       <ID>38</ID>
       <DefaultText>Deine Hand taucht sofort in eine ölige Flüssigkeit ein. Du bewegst sie vor und zurück, doch du findest nichts.</DefaultText>
-      <FemaleText>Deine Hand taucht sofort in eine ölige Flüssigkeit ein. Du bewegst sie vor und zurück, doch du findest nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>Du schwenkst deine Hand erneut durch die ölige Flüssigkeit. Es ist recht beruhigend, doch ansonsten ereignislos.</DefaultText>
-      <FemaleText>Du schwenkst deine Hand erneut durch die ölige Flüssigkeit. Es ist recht beruhigend, doch ansonsten ereignislos.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
@@ -181,22 +179,22 @@ Du verbringst eine Zeit lang damit, deine Hand um die Kugel zu bewegen. Schließ
     <Entry>
       <ID>41</ID>
       <DefaultText>Deine Hand trifft lediglich auf Luft. Die Seiten des inneren Tanks sind noch immer glitschig von der Flüssigkeit, die ihn vorher füllte.</DefaultText>
-      <FemaleText>Deine Hand trifft lediglich auf Luft. Die Seiten des inneren Tanks sind noch immer glitschig von der Flüssigkeit, die ihn vorher füllte.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>Du brauchst nur eine Sekunde, um sicher zu sein, dass der Tank immer noch leer ist.</DefaultText>
-      <FemaleText>Du brauchst nur eine Sekunde, um sicher zu sein, dass der Tank immer noch leer ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>Deine Hand planscht in eine ölige Flüssigkeit, als du sie durch das Loch im Gitter steckst. Als du das Innere mit der Hand absuchst, fühlst du kurzzeitig etwas Festes, das gegen deine Hand drückt. Blind tastest du nach dem Objekt, doch es lässt sich nur schwer ergreifen.</DefaultText>
-      <FemaleText>Deine Hand planscht in eine ölige Flüssigkeit, als du sie durch das Loch im Gitter steckst. Als du das Innere mit der Hand absuchst, fühlst du kurzzeitig etwas Festes, das gegen deine Hand drückt. Blind tastest du nach dem Objekt, doch es lässt sich nur schwer ergreifen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>Lass die Maschine in Ruhe.</DefaultText>
-      <FemaleText>Lass die Maschine in Ruhe.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
@@ -206,32 +204,32 @@ Du verbringst eine Zeit lang damit, deine Hand um die Kugel zu bewegen. Schließ
     <Entry>
       <ID>46</ID>
       <DefaultText>Versuche, das Objekt in der Flüssigkeit zu ergreifen.</DefaultText>
-      <FemaleText>Versuche, das Objekt in der Flüssigkeit zu ergreifen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>Versuche erneut, das Objekt in der Flüssigkeit zu ergreifen.</DefaultText>
-      <FemaleText>Versuche erneut, das Objekt in der Flüssigkeit zu ergreifen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>Nach ein paar knappen Versuchen kannst du das Objekt fest umgreifen und es aus der Maschine ziehen.</DefaultText>
-      <FemaleText>Nach ein paar knappen Versuchen kannst du das Objekt fest umgreifen und es aus der Maschine ziehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>Das Objekt entgleitet dir weiterhin. Einige Male bist du nah dran, doch es gleitet jedes Mal aus deinem Griff, ehe du es aus der Flüssigkeit ziehen kannst.</DefaultText>
-      <FemaleText>Das Objekt entgleitet dir weiterhin. Einige Male bist du nah dran, doch es gleitet jedes Mal aus deinem Griff, ehe du es aus der Flüssigkeit ziehen kannst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>Die Maschine liegt im umgebenen Felsen eingebettet und ist gespenstisch ruhig. Alles, was du hören kannst, ist das leichte Pfeifen des Windes an den Felswänden.</DefaultText>
-      <FemaleText>Die Maschine liegt im umgebenen Felsen eingebettet und ist gespenstisch ruhig. Alles, was du hören kannst, ist das leichte Pfeifen des Windes an den Felswänden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>Deine Hand patscht erneut in die ölige Flüssigkeit, doch beinahe sofort spürst du etwas Festes, das gegen sie drückt. Der berührte Gegenstand weicht sofort zurück, was dich zur Vermutung kommen lässt, dass es frei in der Flüssigkeit schwebt. Blind tastest du nach dem Objekt, doch es lässt sich nur schwer ergreifen.</DefaultText>
-      <FemaleText>Deine Hand patscht erneut in die ölige Flüssigkeit, doch beinahe sofort spürst du etwas Festes, das gegen sie drückt. Der berührte Gegenstand weicht sofort zurück, was dich zur Vermutung kommen lässt, dass es frei in der Flüssigkeit schwebt. Blind tastest du nach dem Objekt, doch es lässt sich nur schwer ergreifen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
@@ -241,7 +239,7 @@ Du verbringst eine Zeit lang damit, deine Hand um die Kugel zu bewegen. Schließ
     <Entry>
       <ID>53</ID>
       <DefaultText>Du fährst nur wenige Momente mit der Hand durch die Flüssigkeit, ehe sie gegen etwas stößt. In der Flüssigkeit schwebt definitiv etwas.</DefaultText>
-      <FemaleText>Du fährst nur wenige Momente mit der Hand durch die Flüssigkeit, ehe sie gegen etwas stößt. In der Flüssigkeit schwebt definitiv etwas.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
@@ -256,7 +254,7 @@ Du verbringst eine Zeit lang damit, deine Hand um die Kugel zu bewegen. Schließ
     <Entry>
       <ID>56</ID>
       <DefaultText>Du klopfst nochmal auf die Kuppel. Das Gehirn zuckt und das Geräusch einer rauschenden Flüssigkeit ist wieder im Apparat zu hören.</DefaultText>
-      <FemaleText>Du klopfst nochmal auf die Kuppel. Das Gehirn zuckt und das Geräusch einer rauschenden Flüssigkeit ist wieder im Apparat zu hören.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
