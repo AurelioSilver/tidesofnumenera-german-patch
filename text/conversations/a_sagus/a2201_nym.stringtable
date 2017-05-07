@@ -354,41 +354,39 @@ Er blickt zu dir. "Haut ab, Mörder!"</FemaleText>
     <Entry>
       <ID>76</ID>
       <DefaultText>"Ich heiße Nym und das ist das Haus meines Vaters, aber er ist gerade nicht zuhause. Nur ich und Zebb und Avina leben hier jetzt. Wir warten, bis Papa zurückkommt."</DefaultText>
-      <FemaleText>"Ich heiße Nym und das ist das Haus meines Vaters, aber er ist gerade nicht zuhause. Nur ich und Zebb und Avina leben hier jetzt. Wir warten, bis Papa zurückkommt."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
       <DefaultText>"Hast du Sachen aus der Hausruine bei der cheirurgischen Kammer genommen?"</DefaultText>
-      <FemaleText>"Hast du Sachen aus der Hausruine bei der cheirurgischen Kammer genommen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
       <DefaultText>Ihre Augen weiten sich. "Bekommen ... bekommen wir *Ärger*?" 
 
 Sie senkt die Stimme zu einem Flüstern. "Wir haben einige Lebensmittel mitgenommen. Und ... und Avina hat eine kleine magische Schachtel gefunden. Das ist alles, versprochen."</DefaultText>
-      <FemaleText>Ihre Augen weiten sich. "Bekommen ... bekommen wir *Ärger*?" 
-
-Sie senkt die Stimme zu einem Flüstern. "Wir haben einige Lebensmittel mitgenommen. Und ... und Avina hat eine kleine magische Schachtel gefunden. Das ist alles, versprochen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
       <DefaultText>Nym öffnet den Mund, als wolle sie fortfahren. Sie sieht ihren Bruder an und schließt den Mund wieder.</DefaultText>
-      <FemaleText>Nym öffnet den Mund, als wolle sie fortfahren. Sie sieht ihren Bruder an und schließt den Mund wieder.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
       <DefaultText>Ihre Augen füllen sich mit Tränen und sie blickt die Straße entlang zu einem der eingestürzten Häuser. "Meine Freundin lebte dort, aber sie –"</DefaultText>
-      <FemaleText>Ihre Augen füllen sich mit Tränen und sie blickt die Straße entlang zu einem der eingestürzten Häuser. "Meine Freundin lebte dort, aber sie –"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
       <DefaultText>Ihr Bruder unterbricht sie. "Ist schon gut, Nym. Du musst nicht darüber reden." Er schüttelt schnell den Kopf in deine Richtung und wischt vorsichtig die Augen seiner Schwester ab.</DefaultText>
-      <FemaleText>Ihr Bruder unterbricht sie. "Ist schon gut, Nym. Du musst nicht darüber reden." Er schüttelt schnell den Kopf in deine Richtung und wischt vorsichtig die Augen seiner Schwester ab.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
       <DefaultText>"Er ist unser Freund, der auf der Straße lebt. Hat er dir nicht seinen Namen genannt?"</DefaultText>
-      <FemaleText>"Er ist unser Freund, der auf der Straße lebt. Hat er dir nicht seinen Namen genannt?"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
