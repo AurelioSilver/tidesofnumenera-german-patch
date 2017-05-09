@@ -539,7 +539,7 @@ Hinter den Tränen sind seine Augen wie Eisen. "Dort unten hat sich nichts geän
     <Entry>
       <ID>102</ID>
       <DefaultText>::seufzt::</DefaultText>
-      <FemaleText>::seufzt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
@@ -587,7 +587,7 @@ Er grinst Euch zögernd an. "Vielleicht kann ich mir ein oder zwei Getränke kau
     <Entry>
       <ID>110</ID>
       <DefaultText>::seufzt::</DefaultText>
-      <FemaleText>::seufzt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
@@ -869,7 +869,7 @@ Er verschränkt die dürren Arme und starrt dich finster an. "Lasst Euch nicht a
     <Entry>
       <ID>160</ID>
       <DefaultText>Follow-up PQ. 160</DefaultText>
-      <FemaleText>Follow-up PQ. 160</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
@@ -884,7 +884,7 @@ Er verschränkt die dürren Arme und starrt dich finster an. "Lasst Euch nicht a
     <Entry>
       <ID>163</ID>
       <DefaultText>Follow-up T. 163</DefaultText>
-      <FemaleText>Follow-up T. 163</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
@@ -901,7 +901,7 @@ Er verschränkt die dürren Arme und starrt dich finster an. "Lasst Euch nicht a
     <Entry>
       <ID>166</ID>
       <DefaultText>Follow-up PQ. 166</DefaultText>
-      <FemaleText>Follow-up PQ. 166</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
@@ -916,7 +916,7 @@ Er verschränkt die dürren Arme und starrt dich finster an. "Lasst Euch nicht a
     <Entry>
       <ID>169</ID>
       <DefaultText>Follow-up T. 169</DefaultText>
-      <FemaleText>Follow-up T. 169</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
@@ -1136,7 +1136,7 @@ Er klopft dem Jungen auf die Schulter. "Gib es für Spirituosen aus, Junge. Oder
     <Entry>
       <ID>214</ID>
       <DefaultText>Follow-up PQ. 214</DefaultText>
-      <FemaleText>Follow-up PQ. 214</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
@@ -1176,7 +1176,7 @@ Er klopft dem Jungen auf die Schulter. "Gib es für Spirituosen aus, Junge. Oder
     <Entry>
       <ID>225</ID>
       <DefaultText>[DEBUG: Zwischensequenz starten, um zu verlassen. Körper.]</DefaultText>
-      <FemaleText>[DEBUG: Zwischensequenz starten, um zu verlassen. Körper.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
@@ -1201,7 +1201,7 @@ Er klopft dem Jungen auf die Schulter. "Gib es für Spirituosen aus, Junge. Oder
     <Entry>
       <ID>230</ID>
       <DefaultText>[DEBUG: Zwischensequenz starten, um zu verlassen. Gesicht.]</DefaultText>
-      <FemaleText>[DEBUG: Zwischensequenz starten, um zu verlassen. Gesicht.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
