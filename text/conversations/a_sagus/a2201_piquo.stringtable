@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Der Mutantenjunge starrt auf den Eingang zur cheirurgischen Kammer und zuckt bei jedem Kratzen von messerscharfem Metall auf Metall, das von innen zu hören ist. 
+      <DefaultText>Der Mutantenjunge starrt auf den Eingang zur cheirurgischen Kammer und zuckt bei jedem Kratzen von messerscharfem Metall auf Metall, das von innen zu hören ist.
 
 Du schätzt, dass er noch keine zwanzig Jahre alt ist, aber die Größe eines jungen, unterernährten Kindes hat. Seine Arme sind nicht viel mehr als Knochen, die in rot gesprenkelte Haut eingewickelt sind, und eine grobe Linie verläuft im Zickzack zwischen seinen ungleichen Augen und über seine dünne Nase, als würde sie direkt auf seine schmalen Lippen zeigen.
 
@@ -15,7 +15,7 @@ Er sieht, dass du ihn beobachtest, und vogelartige Muskeln spannen sich in seine
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Er spielt mit den Händen, während er den Eingang zur cheirurgischen Kammer unter seinen gerunzelten Brauen beobachtet. 
+      <DefaultText>Er spielt mit den Händen, während er den Eingang zur cheirurgischen Kammer unter seinen gerunzelten Brauen beobachtet.
 
 "Ihr seid zurück", sagt er. Spannung sickert durch seine einstudierte ruhige Stimme. "Gut."</DefaultText>
       <FemaleText />
@@ -109,7 +109,7 @@ Er kaut auf der Lippe. "Also gut. Ich habe Angst, ja? Ich hatte dieses ... dies
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ich kann die Maschinen im Zimmer nur einmal verwenden, versteht Ihr? Es ist zu teuer. Ich habe Jahre gebraucht, um das ganze Geld zu sparen, und es ist nicht genug, um mich in Ordnung zu bringen!" 
+      <DefaultText>"Ich kann die Maschinen im Zimmer nur einmal verwenden, versteht Ihr? Es ist zu teuer. Ich habe Jahre gebraucht, um das ganze Geld zu sparen, und es ist nicht genug, um mich in Ordnung zu bringen!"
 
 Er öffnet seinen Beutel, um eine mäßig beeindruckende Sammlung Münzen zu zeigen.</DefaultText>
       <FemaleText />
@@ -183,7 +183,7 @@ Er öffnet seinen Beutel, um eine mäßig beeindruckende Sammlung Münzen zu zei
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ihr seid einfach eine reisende Quelle der Führung und des Wohlwollens, nicht wahr?", fragt Aligern verbittert. 
+      <DefaultText>"Ihr seid einfach eine reisende Quelle der Führung und des Wohlwollens, nicht wahr?", fragt Aligern verbittert.
 
 {ALIGERN}</DefaultText>
       <FemaleText />
@@ -555,14 +555,14 @@ Er holt tief und vorsichtig Luft. "Aber vielen Dank trotzdem."</DefaultText>
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Das war's", sagt er nickend. "Danke." 
+      <DefaultText>"Das war's", sagt er nickend. "Danke."
 
 {TON: Beim Abgang hören wir die Arbeiten aus der cheirurgischen Kammer.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Das war's", sagt er nickend. "Danke." 
+      <DefaultText>"Das war's", sagt er nickend. "Danke."
 
 {TON: Beim Abgang hören wir die Arbeit cheirurgischer Drohnen.}</DefaultText>
       <FemaleText />
@@ -579,7 +579,7 @@ Er holt tief und vorsichtig Luft. "Aber vielen Dank trotzdem."</DefaultText>
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Vielleicht habt Ihr recht", seufzt Piquo. "Ich habe Jahre gebraucht, um jeden Shin anzusparen, aber vielleicht muss ich nicht alle auf einmal ausgeben ... oder alle für eine Sache." 
+      <DefaultText>"Vielleicht habt Ihr recht", seufzt Piquo. "Ich habe Jahre gebraucht, um jeden Shin anzusparen, aber vielleicht muss ich nicht alle auf einmal ausgeben ... oder alle für eine Sache."
 
 Er grinst Euch zögernd an. "Vielleicht kann ich mir ein oder zwei Getränke kaufen? Die Dinge überdenken?"</DefaultText>
       <FemaleText />
@@ -591,7 +591,7 @@ Er grinst Euch zögernd an. "Vielleicht kann ich mir ein oder zwei Getränke kau
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Als 'das ganze Geld' erwähnt wird, wirft Tybir rechtzeitig einen Blick in den geöffneten Beutel. Seine Augen weiten sich. 
+      <DefaultText>Als 'das ganze Geld' erwähnt wird, wirft Tybir rechtzeitig einen Blick in den geöffneten Beutel. Seine Augen weiten sich.
 
 "Armer Junge", flüstert er. "Diese ganzen Münzen müssen ihm ganz schön schwerfallen. Wir sollen seine Last erleichtern."
 {TYBIR}</DefaultText>
@@ -646,9 +646,9 @@ Er grinst Euch zögernd an. "Vielleicht kann ich mir ein oder zwei Getränke kau
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Er wartet nicht auf deine Antwort. Er scheint von einer Lawine von Offenbarungen erschlagen zu werden. 
+      <DefaultText>Er wartet nicht auf deine Antwort. Er scheint von einer Lawine von Offenbarungen erschlagen zu werden.
 
-"*Deshalb* konnte ich mich nicht entscheiden. Ich wusste, dass keine Option die richtige war. Deshalb habt Ihr mich ausgewählt, oder?" Er sucht dein Gesicht ab, und was er dort findet, stellt ihn zufrieden. "Ja. Ich will mich Euch anschließen. Ich möchte mich *verändern*." 
+"*Deshalb* konnte ich mich nicht entscheiden. Ich wusste, dass keine Option die richtige war. Deshalb habt Ihr mich ausgewählt, oder?" Er sucht dein Gesicht ab, und was er dort findet, stellt ihn zufrieden. "Ja. Ich will mich Euch anschließen. Ich möchte mich *verändern*."
 
 Mit einem Grinsen, das tatsächlich größer ist als sein zerfurchtes Gesicht, überreicht er dir sein hartverdientes Geld.</DefaultText>
       <FemaleText />
@@ -660,7 +660,7 @@ Mit einem Grinsen, das tatsächlich größer ist als sein zerfurchtes Gesicht, �
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Riastrad beobachtet, wie der Junge geht, und murmelt in den Bart. 
+      <DefaultText>Riastrad beobachtet, wie der Junge geht, und murmelt in den Bart.
 {RIASTRAD}</DefaultText>
       <FemaleText />
     </Entry>
@@ -738,7 +738,7 @@ Tybir legt die Hand väterlich auf die Schulter des Jungen. "Ich weiß, du bist 
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Eine Zeit lang starrt Piquo auf die Füße, die kleine Hand fest seinen Beutel umklammernd. Dann übergibt er ihn dir sehr langsam. 
+      <DefaultText>Eine Zeit lang starrt Piquo auf die Füße, die kleine Hand fest seinen Beutel umklammernd. Dann übergibt er ihn dir sehr langsam.
 
 "Ich vertraue Euch", sagt er. "Aber seid vorsichtig damit. Es ist alles, was ich habe."</DefaultText>
       <FemaleText />
@@ -824,7 +824,7 @@ Er schaut zu Tybir und schüttelt den Kopf. "Danke, aber ich spare mein Geld fü
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Schaut genau hin", sagt er und hebt das Kinn. "Oder vielleicht wollt Ihr mich beschimpfen? 'Eierschale' höre ich oft. Oder vielleicht 'Blitz'? Das höre ich auch ab und zu." 
+      <DefaultText>"Schaut genau hin", sagt er und hebt das Kinn. "Oder vielleicht wollt Ihr mich beschimpfen? 'Eierschale' höre ich oft. Oder vielleicht 'Blitz'? Das höre ich auch ab und zu."
 
 Er verschränkt die dürren Arme und starrt dich finster an. "Lasst Euch nicht aufhalten. Beschimpft mich! Lacht! Tut es jetzt, denn in wenigen Minuten werde *ich* derjenige sein, der lacht."</DefaultText>
       <FemaleText />
@@ -861,7 +861,7 @@ Er verschränkt die dürren Arme und starrt dich finster an. "Lasst Euch nicht a
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Ich werde nicht mehr für jedermanns Witze herhalten", sagt er. Elektrizität blitzt kurz in der Kammer auf. Dieses Mal zuckt er nicht. Der Blitz flackert eingefangen in seinen entschlossenen Augen. 
+      <DefaultText>"Ich werde nicht mehr für jedermanns Witze herhalten", sagt er. Elektrizität blitzt kurz in der Kammer auf. Dieses Mal zuckt er nicht. Der Blitz flackert eingefangen in seinen entschlossenen Augen.
 
 "Ich habe etwas Geld, ja? Ich werde es nutzen, um mich zu verändern. So stark verändern, wie ich kann."</DefaultText>
       <FemaleText />
@@ -925,7 +925,7 @@ Er verschränkt die dürren Arme und starrt dich finster an. "Lasst Euch nicht a
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Was? Nein, ich mag Frauen.  Und sie mögen es, mich auszulachen. Wir kommen gut miteinander aus."</DefaultText>
+      <DefaultText>"Was? Nein, ich mag Frauen. Und sie mögen es, mich auszulachen. Wir kommen gut miteinander aus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -950,7 +950,7 @@ Er verschränkt die dürren Arme und starrt dich finster an. "Lasst Euch nicht a
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Neben dir bekommt Tybir einen heftigen Hustenanfall. 
+      <DefaultText>Neben dir bekommt Tybir einen heftigen Hustenanfall.
 {TYBIR}</DefaultText>
       <FemaleText />
     </Entry>
@@ -966,18 +966,18 @@ Er verschränkt die dürren Arme und starrt dich finster an. "Lasst Euch nicht a
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>Als Piquo sich dir wieder zuwendet, zuckt Tybir müde, aber fröhlich, mit den Schultern. 
+      <DefaultText>Als Piquo sich dir wieder zuwendet, zuckt Tybir müde, aber fröhlich, mit den Schultern.
 {TYBIR}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Wir sehen uns bald, Junge", sagt Tybir und klopft dir auf die Schulter. 
+      <DefaultText>"Wir sehen uns bald, Junge", sagt Tybir und klopft dir auf die Schulter.
 
 "Wir sollten gehen", zischt er. "Jetzt, würde ich sagen, ehe der Junge wieder bei Verstand ist."
 
 {TYBIR}</DefaultText>
-      <FemaleText>"Wir sehen uns bald, Mädel", sagt Tybir und klopft dir auf die Schulter. 
+      <FemaleText>"Wir sehen uns bald, Mädel", sagt Tybir und klopft dir auf die Schulter.
 
 "Wir sollten gehen", zischt er. "Jetzt, würde ich sagen, ehe der Junge wieder bei Verstand ist."
 
@@ -990,7 +990,7 @@ Er verschränkt die dürren Arme und starrt dich finster an. "Lasst Euch nicht a
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Ich werde nicht mehr für jedermanns Witze herhalten", sagt er. Elektrizität blitzt in der Kammer auf.  Dieses Mal zuckt er nicht. Der Blitz flackert eingefangen in seinen entschlossenen Augen. 
+      <DefaultText>"Ich werde nicht mehr für jedermanns Witze herhalten", sagt er. Elektrizität blitzt in der Kammer auf. Dieses Mal zuckt er nicht. Der Blitz flackert eingefangen in seinen entschlossenen Augen.
 
 "Ich habe etwas Geld, ja? Ich werde es nutzen, um mich zu verändern. So stark verändern, wie ich kann."
 
@@ -999,7 +999,7 @@ Seine Stimme verliert sich, stattdessen beobachtet er dich. Seine Augen weiten s
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Tybir verdreht die Augen, dann nickt er in Richtung des davonziehenden Piquo und applaudiert dir leise. 
+      <DefaultText>Tybir verdreht die Augen, dann nickt er in Richtung des davonziehenden Piquo und applaudiert dir leise.
 {TYBIR}</DefaultText>
       <FemaleText />
     </Entry>
@@ -1014,9 +1014,9 @@ Er nickt in deine Richtung. "Wir stimmen nicht immer überein, doch hier liegt s
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>Doch er hält inne, schaut zurück zur Kammer, und eine Welle der Frustration breitet sich auf seinem Gesicht aus. 
+      <DefaultText>Doch er hält inne, schaut zurück zur Kammer, und eine Welle der Frustration breitet sich auf seinem Gesicht aus.
 
-"Ich weiß", sagt er schließlich. "Die Kammer wird die Dinge nur für eine kurze Weile verbessern. Vielleicht ..." Er beißt sich auf die Lippe. "Vielleicht habt Ihr recht. Vielleicht sollte ich wenigstens mit dem Orden reden." 
+"Ich weiß", sagt er schließlich. "Die Kammer wird die Dinge nur für eine kurze Weile verbessern. Vielleicht ..." Er beißt sich auf die Lippe. "Vielleicht habt Ihr recht. Vielleicht sollte ich wenigstens mit dem Orden reden."
 
 Er lächelt dich zaghaft an. "Danke."</DefaultText>
       <FemaleText />
@@ -1040,7 +1040,7 @@ Er lächelt euch beide zaghaft an. "Ich werde mit dem Orden sprechen. Danke."</D
       <ID>189</ID>
       <DefaultText>"Natürlich kannst du das, Junge", sagt Tybir und zeigt ausschweifend in den Himmel. "Stell dir vor, du nutzt die Kammer, um dich in einen Ausbund der Schönheit zu verwandeln. Und dann stürzt einen Tag darauf eine Brücke über dir ein. Quetscht dich platt. So viel zum guten Aussehen, hm?"
 
-Er klopft dem Jungen auf die Schulter. "Gib es für Spirituosen aus, Junge. Oder für ein Instrument. Oder ..." Er flüstert etwas in Piquos Ohr. Das Gesicht des Jungen errötet zunehmend. 
+Er klopft dem Jungen auf die Schulter. "Gib es für Spirituosen aus, Junge. Oder für ein Instrument. Oder ..." Er flüstert etwas in Piquos Ohr. Das Gesicht des Jungen errötet zunehmend.
 {TYBIR}</DefaultText>
       <FemaleText />
     </Entry>
