@@ -118,18 +118,17 @@ Du wirbelst herum. Es ist niemand da.</DefaultText>
       <ID>21</ID>
       <DefaultText>""
 {GAVIN: Dendra O'hur faction option to eat part of the corpse.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Dendra O'hur faction option to eat part of the corpse.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
