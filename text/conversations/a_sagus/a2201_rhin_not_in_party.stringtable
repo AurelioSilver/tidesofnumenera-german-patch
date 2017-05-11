@@ -6,57 +6,57 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{Aufgeregt; der Spieler hat sie gerade vor den Sklavenhändlern gerettet} "Oh, Ihr Götter, ich *danke* Euch! Sie wollten mich zu dieser *Frau* zurückbringen. Ich habe noch nie jemanden getroffen, der so grausam ist. Als sie mich zum ersten Mal gefunden hatte, war sie sogar ... {Räuspert sich und erinnert sich plötzlich an ihre Manieren} Entschuldigt. Ich bin noch immer ... nicht ganz auf der Höhe. Ihr habt meinen Dank und meine Gunst, mein Herr."</DefaultText>
-      <FemaleText>{Aufgeregt; der Spieler hat sie gerade vor den Sklavenhändlern gerettet} "Oh, Ihr Götter, ich *danke* Euch! Sie wollten mich zu dieser *Frau* zurückbringen. Ich habe noch nie jemanden getroffen, der so grausam ist. Als sie mich zum ersten Mal gefunden hatte, war sie sogar ... {Räuspert sich und erinnert sich plötzlich an ihre Manieren} Entschuldigt. Ich bin noch immer ... nicht ganz auf der Höhe. Ihr habt meinen Dank und meine Gunst, meine Dame."</FemaleText>
+      <DefaultText>{Aufgeregt; der Spieler hat sie gerade vor den Sklavenhändlern gerettet} „Oh, Ihr Götter, ich *danke* Euch! Sie wollten mich zu dieser *Frau* zurückbringen. Ich habe noch nie jemanden getroffen, der so grausam ist. Als sie mich zum ersten Mal gefunden hatte, war sie sogar … {Räuspert sich und erinnert sich plötzlich an ihre Manieren} Entschuldigt. Ich bin noch immer … nicht ganz auf der Höhe. Ihr habt meinen Dank und meine Gunst, mein Herr.“</DefaultText>
+      <FemaleText>{Aufgeregt; der Spieler hat sie gerade vor den Sklavenhändlern gerettet} „Oh, Ihr Götter, ich *danke* Euch! Sie wollten mich zu dieser *Frau* zurückbringen. Ich habe noch nie jemanden getroffen, der so grausam ist. Als sie mich zum ersten Mal gefunden hatte, war sie sogar … {Räuspert sich und erinnert sich plötzlich an ihre Manieren} Entschuldigt. Ich bin noch immer … nicht ganz auf der Höhe. Ihr habt meinen Dank und meine Gunst, meine Dame.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Tol Maguur bat mich, dich wieder zu ihr zurückzubringen."</DefaultText>
+      <DefaultText>„Tol Maguur bat mich, dich wieder zu ihr zurückzubringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Was?", Sie macht einige Schritte zurück, wobei sie ängstlich auf die Trümmer blickt, als ob sie sich fragte, ob sie es schaffen würde. "Nein, Ihr dürft mich nicht zurück zu ihr bringen."</DefaultText>
+      <DefaultText>„Was?“, Sie macht einige Schritte zurück, wobei sie ängstlich auf die Trümmer blickt, als ob sie sich fragte, ob sie es schaffen würde. „Nein, Ihr dürft mich nicht zurück zu ihr bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Keine Sorge. Ich denke mir etwas aus, um das im Guten zu lösen."</DefaultText>
+      <DefaultText>„Keine Sorge. Ich denke mir etwas aus, um das im Guten zu lösen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Also gut." Sie scheint vorsichtig, doch vertrauensselig.</DefaultText>
+      <DefaultText>„Also gut.“ Sie scheint vorsichtig, doch vertrauensselig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wenn du ein Sklave bist, dann muss sie eine Vereinbarung treffen. Ich werde deine Freiheit arrangieren."</DefaultText>
+      <DefaultText>„Wenn du ein Sklave bist, dann muss sie eine Vereinbarung treffen. Ich werde deine Freiheit arrangieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Sie runzelt die Braue. "Das erscheint mir gerecht ... vermutlich."</DefaultText>
+      <DefaultText>Sie runzelt die Braue. „Das erscheint mir gerecht … vermutlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Mach dir keine Sorgen über Tol. Ich kümmere mich um sie und sorge dafür, dass du *nie wieder* eine Sklavin sein musst."</DefaultText>
+      <DefaultText>„Mach dir keine Sorgen über Tol. Ich kümmere mich um sie und sorge dafür, dass du *nie wieder* eine Sklavin sein musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Aber ... tötet sie nicht. Ja? Niemand sollte wegen mir verletzt werden." Sie steht einen Moment lang ruhig da und denkt nach.</DefaultText>
+      <DefaultText>„Aber … tötet sie nicht. Ja? Niemand sollte wegen mir verletzt werden.“ Sie steht einen Moment lang ruhig da und denkt nach.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ich nehme dich mit zurück, Rhin. Du hast nicht wirklich eine Wahl."</DefaultText>
+      <DefaultText>„Ich nehme dich mit zurück, Rhin. Du hast nicht wirklich eine Wahl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich ..." Und bevor du sie aufhalten kannst, reißt sie sich los und *taucht* in einen kleinen Riss in den Trümmern. Ihr sucht nach ihr, sie gräbt sich jedoch noch tiefer in die Trümmer und verschwindet dann.</DefaultText>
+      <DefaultText>„Ich …“ Und bevor du sie aufhalten kannst, reißt sie sich los und *taucht* in einen kleinen Riss in den Trümmern. Ihr sucht nach ihr, sie gräbt sich jedoch noch tiefer in die Trümmer und verschwindet dann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Oh, Ihr seid es! Was führt Euch wieder hierher?"</DefaultText>
+      <DefaultText>„Oh, Ihr seid es! Was führt Euch wieder hierher?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Sie blickt auf die kleine Ecke, in der sie sich versteckt hielt, und dann wieder zu dir. "Wo geht Ihr hin?"</DefaultText>
+      <DefaultText>Sie blickt auf die kleine Ecke, in der sie sich versteckt hielt, und dann wieder zu dir. „Wo geht Ihr hin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Gehen wir!"</DefaultText>
+      <DefaultText>„Gehen wir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,12 +131,12 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Hier ist es nicht sicher. Du solltest mit mir kommen."</DefaultText>
+      <DefaultText>„Hier ist es nicht sicher. Du solltest mit mir kommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ich habe es mir anders überlegt. Rhin, du solltest mit mir kommen."</DefaultText>
+      <DefaultText>„Ich habe es mir anders überlegt. Rhin, du solltest mit mir kommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Mach dir keine Sorgen darüber. Ich werde dafür sorgen, dass es dir gut geht."</DefaultText>
+      <DefaultText>„Mach dir keine Sorgen darüber. Ich werde dafür sorgen, dass es dir gut geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,17 +166,17 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Es ist gefährlich, egal ob du hier alleine zurückbleibst oder mit mir kommst. Bei mir kannst du wenigstens lernen, alleine auf dich aufzupassen."</DefaultText>
+      <DefaultText>„Es ist gefährlich, egal ob du hier alleine zurückbleibst oder mit mir kommst. Bei mir kannst du wenigstens lernen, alleine auf dich aufzupassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Vermutlich ..." Sie schiebt den Kiefer vor und nickt. "Also gut. Ich werde es tun."</DefaultText>
+      <DefaultText>„Vermutlich …“ Sie schiebt den Kiefer vor und nickt. „Also gut. Ich werde es tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Also gut. Das klingt gut. Ich werde es tun."</DefaultText>
+      <DefaultText>„Also gut. Das klingt gut. Ich werde es tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,8 +191,8 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>{Schnell und aufgeregt, aber auch bewundernd, dass der SC am Leben ist} "Ich dachte, Ihr seid tot! Nachdem sie ... Euch verletzt hatten, habe ich mich wieder versteckt, ich konnte Euch aber dort liegen sehen. Was Ihr getan habt, ich ... {Holt tief Luft; wird langsamer} Ihr habt meinen Dank und meine Gunst, mein Herr. Wirklich." Sie lächelt schüchtern.</DefaultText>
-      <FemaleText>{Schnell und aufgeregt, aber auch bewundernd, dass der SC am Leben ist} "Ich dachte, Ihr seid tot! Nachdem sie ... Euch verletzt hatten, habe ich mich wieder versteckt, ich konnte Euch aber dort liegen sehen. Was Ihr getan habt, ich ... {Holt tief Luft; wird langsamer} Ihr habt meinen Dank und meine Gunst, meine Dame. Wirklich." Sie lächelt schüchtern.</FemaleText>
+      <DefaultText>{Schnell und aufgeregt, aber auch bewundernd, dass der SC am Leben ist} „Ich dachte, Ihr seid tot! Nachdem sie … Euch verletzt hatten, habe ich mich wieder versteckt, ich konnte Euch aber dort liegen sehen. Was Ihr getan habt, ich … {Holt tief Luft; wird langsamer} Ihr habt meinen Dank und meine Gunst, mein Herr. Wirklich.“ Sie lächelt schüchtern.</DefaultText>
+      <FemaleText>{Schnell und aufgeregt, aber auch bewundernd, dass der SC am Leben ist} „Ich dachte, Ihr seid tot! Nachdem sie … Euch verletzt hatten, habe ich mich wieder versteckt, ich konnte Euch aber dort liegen sehen. Was Ihr getan habt, ich … {Holt tief Luft; wird langsamer} Ihr habt meinen Dank und meine Gunst, meine Dame. Wirklich.“ Sie lächelt schüchtern.</FemaleText>
     </Entry>
     <Entry>
       <ID>43</ID>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"{Angemessen, ein höfliches Kind gegenüber einem Erwachsenen}Mein Name ist Rhin. Ihr dürft mein Haus und Herd und Brot nutzen. {Peinlich berührt}Nur, dass ich solche Dinge nicht habe." Sie errötet daraufhin und blickt verlegen um sich.</DefaultText>
+      <DefaultText>„{Angemessen, ein höfliches Kind gegenüber einem Erwachsenen}Mein Name ist Rhin. Ihr dürft mein Haus und Herd und Brot nutzen. {Peinlich berührt}Nur, dass ich solche Dinge nicht habe.“ Sie errötet daraufhin und blickt verlegen um sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,12 +221,12 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Wie lange hast du dich in diesem Gebäude versteckt?"</DefaultText>
+      <DefaultText>„Wie lange hast du dich in diesem Gebäude versteckt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ist das dein Zuhause?"</DefaultText>
+      <DefaultText>„Ist das dein Zuhause?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,12 +236,12 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Sie blinzelt leicht, als wäre sie verwirrt oder von deiner Frage überrascht. Dann blickt sie sich um und verlagert das Gewicht nervös von einem Fuß auf den anderen. "Ich ... das ist mein Zuhause. Hier ... schlafe ich."</DefaultText>
+      <DefaultText>Sie blinzelt leicht, als wäre sie verwirrt oder von deiner Frage überrascht. Dann blickt sie sich um und verlagert das Gewicht nervös von einem Fuß auf den anderen. „Ich … das ist mein Zuhause. Hier … schlafe ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Sie schaut sich die Trümmer an. "Nein. Hier bin ich nur untergekommen. Ich bin weggelaufen von ... Ich bin weggelaufen. Mein Zuhause ist weit weg von hier."</DefaultText>
+      <DefaultText>Sie schaut sich die Trümmer an. „Nein. Hier bin ich nur untergekommen. Ich bin weggelaufen von … Ich bin weggelaufen. Mein Zuhause ist weit weg von hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,12 +251,12 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Was ist mit deinem Kopf passiert?"</DefaultText>
+      <DefaultText>„Was ist mit deinem Kopf passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Was ist nochmal mit deinem Kopf passiert?"</DefaultText>
+      <DefaultText>„Was ist nochmal mit deinem Kopf passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,14 +266,14 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Ihr Körper spannt sich einen Moment lang an, ihr Blick irrt umher, als würde sie sich überlegen, ob sie davonlaufen solle. Sie betrachtet die Trümmer, in denen sie sich vor den Schurken versteckt hatte ...
+      <DefaultText>Ihr Körper spannt sich einen Moment lang an, ihr Blick irrt umher, als würde sie sich überlegen, ob sie davonlaufen solle. Sie betrachtet die Trümmer, in denen sie sich vor den Schurken versteckt hatte …
 
-Dann entspannt sie sich, obwohl ihre Augen noch immer wachsam sind. "Ich bin davongelaufen. Da waren ... Leute. Böse Leute. Ich bin weggelaufen und habe mich verletzt."</DefaultText>
+Dann entspannt sie sich, obwohl ihre Augen noch immer wachsam sind. „Ich bin davongelaufen. Da waren … Leute. Böse Leute. Ich bin weggelaufen und habe mich verletzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Ich bin vor bösen Leuten weggelaufen. Ich habe mich verletzt."</DefaultText>
+      <DefaultText>„Ich bin vor bösen Leuten weggelaufen. Ich habe mich verletzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -388,22 +388,22 @@ Dann entspannt sie sich, obwohl ihre Augen noch immer wachsam sind. "Ich bin dav
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ich weiß nicht, aber bei mir bis du sicherer als hier."</DefaultText>
+      <DefaultText>„Ich weiß nicht, aber bei mir bis du sicherer als hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Vielleicht können wir einen Arzt für dich suchen."</DefaultText>
+      <DefaultText>„Vielleicht können wir einen Arzt für dich suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Vielleicht können wir dir ein neues Zuhause suchen."</DefaultText>
+      <DefaultText>„Vielleicht können wir dir ein neues Zuhause suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Aber was ist mit diesen Schurken? Was ist, wenn mich jemand jagt, oder *Euch*? Ich bin keine Kämpferin. Ich kann Euch nicht helfen."</DefaultText>
+      <DefaultText>„Aber was ist mit diesen Schurken? Was ist, wenn mich jemand jagt, oder *Euch*? Ich bin keine Kämpferin. Ich kann Euch nicht helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -413,12 +413,12 @@ Dann entspannt sie sich, obwohl ihre Augen noch immer wachsam sind. "Ich bin dav
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Vielleicht ..." Sie legt die Arme um sich.</DefaultText>
+      <DefaultText>„Vielleicht …“ Sie legt die Arme um sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Doch du hast zugegeben, dass es gefährlich wird. Bist du sicher, dass es mir gut gehen wird?"</DefaultText>
+      <DefaultText>„Doch du hast zugegeben, dass es gefährlich wird. Bist du sicher, dass es mir gut gehen wird?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,56 +428,56 @@ Dann entspannt sie sich, obwohl ihre Augen noch immer wachsam sind. "Ich bin dav
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Du hast recht. Ich kann es mir nicht leisten, jemanden mitzunehmen, der sich nicht zu verteidigen weiß. Vergiss es."</DefaultText>
+      <DefaultText>„Du hast recht. Ich kann es mir nicht leisten, jemanden mitzunehmen, der sich nicht zu verteidigen weiß. Vergiss es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Nein, bin ich nicht. Vergiss es."</DefaultText>
+      <DefaultText>„Nein, bin ich nicht. Vergiss es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Lebwohl, Rhin."</DefaultText>
+      <DefaultText>„Lebwohl, Rhin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Wo kommst du her?"</DefaultText>
+      <DefaultText>„Wo kommst du her?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Sie schaut auf den Horizont und macht eine undeutliche Geste. "Wirklich sehr weit weg. Aber ... Ich weiß nicht genau, in welche Richtung."
+      <DefaultText>Sie schaut auf den Horizont und macht eine undeutliche Geste. „Wirklich sehr weit weg. Aber … Ich weiß nicht genau, in welche Richtung.“
 
-Sie sieht sich ein wenig um, beinahe so, als suche sie nach einem vertrauten Orientierungspunkt. "Es muss weit weg von hier sein. Mein Zuhause ist ganz anders als das hier. Da gab es überall Bäume ... Die Bäume hier sind nicht wie ..."
+Sie sieht sich ein wenig um, beinahe so, als suche sie nach einem vertrauten Orientierungspunkt. „Es muss weit weg von hier sein. Mein Zuhause ist ganz anders als das hier. Da gab es überall Bäume … Die Bäume hier sind nicht wie …“
 
 Das junge Mädchen blickt in die Ferne. Nach einem Moment schweifen ihre Augen weit weg und du erkennst, dass sie ihren Satz wahrscheinlich nicht beenden wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Du hast etwas über Bäume gesagt?"</DefaultText>
+      <DefaultText>„Du hast etwas über Bäume gesagt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Sie schaut dich sonderbar an. "Was? Nein, hab ich nicht ..."</DefaultText>
+      <DefaultText>Sie schaut dich sonderbar an. „Was? Nein, hab ich nicht …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Wo kommst du nochmal her?"</DefaultText>
+      <DefaultText>„Wo kommst du nochmal her?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Vater sagte immer, man ist nie verloren, solange man den Mond sehen kann ..."</DefaultText>
+      <DefaultText>„Vater sagte immer, man ist nie verloren, solange man den Mond sehen kann …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -487,35 +487,35 @@ Das junge Mädchen blickt in die Ferne. Nach einem Moment schweifen ihre Augen w
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Was macht ein kleines Mädchen hier ganz alleine?"</DefaultText>
+      <DefaultText>„Was macht ein kleines Mädchen hier ganz alleine?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Das Mädchen schaut zu dir auf, ihre Stirn legt sich vor Gereiztheit leicht in Falten. "Mein Name ist *Rhin*."
+      <DefaultText>Das Mädchen schaut zu dir auf, ihre Stirn legt sich vor Gereiztheit leicht in Falten. „Mein Name ist *Rhin*.“
 
-Doch dann zögert sie und schaut blinzelnd zu Boden. Sie greift geistesabwesend in ihre Tasche. "Habe ich vergessen, ihm das zu sagen?" Sie bleibt dort einen Augenblick lang regungslos stehen, dann hält sie inne und schaut dich erneut an. "Nein. Ich glaube schon."
+Doch dann zögert sie und schaut blinzelnd zu Boden. Sie greift geistesabwesend in ihre Tasche. „Habe ich vergessen, ihm das zu sagen?“ Sie bleibt dort einen Augenblick lang regungslos stehen, dann hält sie inne und schaut dich erneut an. „Nein. Ich glaube schon.“
 
-Sie sieht zu dir hinauf. "Es tut mir sehr leid", sagt sie. "Mein Name ist Rhin. Ihr dürft mein Essen und meine Feuerstelle benutzen, ehe Ihr geht."</DefaultText>
-      <FemaleText>Das Mädchen schaut zu dir auf, ihre Stirn legt sich vor Gereiztheit leicht in Falten. "Mein Name ist *Rhin*."
+Sie sieht zu dir hinauf. „Es tut mir sehr leid“, sagt sie. „Mein Name ist Rhin. Ihr dürft mein Essen und meine Feuerstelle benutzen, ehe Ihr geht.“</DefaultText>
+      <FemaleText>Das Mädchen schaut zu dir auf, ihre Stirn legt sich vor Gereiztheit leicht in Falten. „Mein Name ist *Rhin*.“
 
-Doch dann zögert sie und schaut blinzelnd zu Boden. Sie greift geistesabwesend in ihre Tasche. "Habe ich vergessen, ihr das zu sagen?" Sie bleibt dort einen Augenblick lang regungslos stehen, dann hält sie inne und schaut dich erneut an. "Nein. Ich glaube schon."
+Doch dann zögert sie und schaut blinzelnd zu Boden. Sie greift geistesabwesend in ihre Tasche. „Habe ich vergessen, ihr das zu sagen?“ Sie bleibt dort einen Augenblick lang regungslos stehen, dann hält sie inne und schaut dich erneut an. „Nein. Ich glaube schon.“
 
-Sie sieht zu dir hinauf. "Es tut mir sehr leid", sagt sie. "Mein Name ist Rhin. Ihr dürft mein Essen und meine Feuerstelle benutzen, ehe Ihr geht."</FemaleText>
+Sie sieht zu dir hinauf. „Es tut mir sehr leid“, sagt sie. „Mein Name ist Rhin. Ihr dürft mein Essen und meine Feuerstelle benutzen, ehe Ihr geht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Geht es dir gut? Du scheinst ein wenig ... verwirrt zu sein."</DefaultText>
+      <DefaultText>„Geht es dir gut? Du scheinst ein wenig … verwirrt zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Sie sieht einen Augenblick aus, als sei sie gekränkt. Dann fallen ihre Schultern herab und sie schenkt Euch ein schiefes kleines Lächeln. "Ich weiß nicht warum. Abgesehen von einem üblen Schlag und einem Angriff von Schurken war es ein ziemlich guter Tag."</DefaultText>
+      <DefaultText>Sie sieht einen Augenblick aus, als sei sie gekränkt. Dann fallen ihre Schultern herab und sie schenkt Euch ein schiefes kleines Lächeln. „Ich weiß nicht warum. Abgesehen von einem üblen Schlag und einem Angriff von Schurken war es ein ziemlich guter Tag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Deine Narbe sieht ziemlich schlimm aus. Geht es dir gut?"</DefaultText>
+      <DefaultText>„Deine Narbe sieht ziemlich schlimm aus. Geht es dir gut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -525,92 +525,92 @@ Sie sieht zu dir hinauf. "Es tut mir sehr leid", sagt sie. "Mein Name ist Rhin. 
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Vor was für Leuten bist du davongelaufen?"</DefaultText>
+      <DefaultText>„Vor was für Leuten bist du davongelaufen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Vor wem bist du nochmal davongelaufen?"</DefaultText>
+      <DefaultText>„Vor wem bist du nochmal davongelaufen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Wer hat deinen Kopf genäht, nachdem du verletzt wurdest?"</DefaultText>
+      <DefaultText>„Wer hat deinen Kopf genäht, nachdem du verletzt wurdest?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Also gut. Reden wir über etwas anderes."</DefaultText>
+      <DefaultText>„Also gut. Reden wir über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Sicher ..."</DefaultText>
+      <DefaultText>„Sicher …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Sie macht eine ablehnde Geste in Richtung ihrer Schläfe. "Ist schon gut. Sieht schlimmer aus, als es ist – und jedenfalls viel besser als *deine*."
+      <DefaultText>Sie macht eine ablehnde Geste in Richtung ihrer Schläfe. „Ist schon gut. Sieht schlimmer aus, als es ist – und jedenfalls viel besser als *deine*.“
 
-Sie grinst und fasst sich an den Kopf. "Der Haarschnitt ist ziemlich schrecklich, nicht wahr? Ich glaube nicht, dass sie wirklich *so* viel abschneiden mussten, oder?"</DefaultText>
+Sie grinst und fasst sich an den Kopf. „Der Haarschnitt ist ziemlich schrecklich, nicht wahr? Ich glaube nicht, dass sie wirklich *so* viel abschneiden mussten, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Ich weiß nicht ... Ich finde, es sieht klasse aus. Sogar modisch. Du könntest einen Trend starten."</DefaultText>
+      <DefaultText>„Ich weiß nicht … Ich finde, es sieht klasse aus. Sogar modisch. Du könntest einen Trend starten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Ist schon gut, wenn du nicht darüber reden willst. Ich habe auch ein paar Probleme mit meiner Erinnerung. Ich weiß, wie das ist."</DefaultText>
+      <DefaultText>„Ist schon gut, wenn du nicht darüber reden willst. Ich habe auch ein paar Probleme mit meiner Erinnerung. Ich weiß, wie das ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Sieht ziemlich hässlich aus."</DefaultText>
+      <DefaultText>„Sieht ziemlich hässlich aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Sie grinst breit. "Ich werde der Neid aller Heimatlosen sein, in dieser ganzen ..." Sie macht eine ausschweifende Geste über die Landschaft, dann zögert sie. "Umgehung?" Ihr Lächeln schwindet, als das Wort aus ihrem Mund hervorkommt. "Entschuldigung, ich meinte Umgehung."
+      <DefaultText>Sie grinst breit. „Ich werde der Neid aller Heimatlosen sein, in dieser ganzen …“ Sie macht eine ausschweifende Geste über die Landschaft, dann zögert sie. „Umgehung?“ Ihr Lächeln schwindet, als das Wort aus ihrem Mund hervorkommt. „Entschuldigung, ich meinte Umgehung.“
 
-Sie hält inne. Dann sagt sie: "Ich weiß, dass das nicht das richtige Wort ist. Ich meine *Umgehung*."</DefaultText>
+Sie hält inne. Dann sagt sie: „Ich weiß, dass das nicht das richtige Wort ist. Ich meine *Umgehung*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>Ihr Grinsen ist vollständig verschwunden und ihre Hände ballen sich zu Fäusten, als sie konzentriert auf den Boden schaut. Ihre Lippen bewegen sich, und zuerst kannst du bis auf den Anflug eines Flüsterns nichts hören. Schließlich entspannt sich ihr Körper. "Ja. Umgebung. Das ist das Wort, das ist gesucht habe. Umgebung."
+      <DefaultText>Ihr Grinsen ist vollständig verschwunden und ihre Hände ballen sich zu Fäusten, als sie konzentriert auf den Boden schaut. Ihre Lippen bewegen sich, und zuerst kannst du bis auf den Anflug eines Flüsterns nichts hören. Schließlich entspannt sich ihr Körper. „Ja. Umgebung. Das ist das Wort, das ist gesucht habe. Umgebung.“
 
-Sie schaut auf und lächelt dich unsicher an. "Entschuldigt bitte. Es war ein langer Tag."</DefaultText>
+Sie schaut auf und lächelt dich unsicher an. „Entschuldigt bitte. Es war ein langer Tag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Sie sieht lange zu dir hinauf, und langsam vergeht ihr Lächeln. Ohne das Lächeln sieht sie sogar noch kleiner aus. Sie nickt ernst. "Zuerst war es ziemlich schlimm. Ich konnte nicht wachbleiben oder aufstehen. Sogar das Reden war schwierig. Aber es wird jeden Tag ein wenig besser. Es tut nicht mehr so sehr weh. Aber manchmal ist mir immer noch schwindlig, wenn ich mich zu schnell bewege. Und ich vergesse Dinge."</DefaultText>
+      <DefaultText>Sie sieht lange zu dir hinauf, und langsam vergeht ihr Lächeln. Ohne das Lächeln sieht sie sogar noch kleiner aus. Sie nickt ernst. „Zuerst war es ziemlich schlimm. Ich konnte nicht wachbleiben oder aufstehen. Sogar das Reden war schwierig. Aber es wird jeden Tag ein wenig besser. Es tut nicht mehr so sehr weh. Aber manchmal ist mir immer noch schwindlig, wenn ich mich zu schnell bewege. Und ich vergesse Dinge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Sie lächelt mutig und berührt erneut die Seite ihres Kopfes mit den Fingerspitzen. "Aber es wird jeden Tag ein wenig besser. Es tut nicht mehr so sehr weh. Aber manchmal ist mir immer noch schwindlig, wenn ich mich zu schnell bewege. Und ich vergesse Dinge."
+      <DefaultText>Sie lächelt mutig und berührt erneut die Seite ihres Kopfes mit den Fingerspitzen. „Aber es wird jeden Tag ein wenig besser. Es tut nicht mehr so sehr weh. Aber manchmal ist mir immer noch schwindlig, wenn ich mich zu schnell bewege. Und ich vergesse Dinge.“
 
 Es folgt eine lange Pause. Sie starrt dich einen Augenblick lang direkt an. Ihr Mund öffnet sich leicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Plötzlich verlieren ihre Augen den ausdruckslosen Blick und ein großes Grinsen breitet sich auf ihrem Gesicht aus. "Ich mache nur Spaß. Ich meine, ich vergesse schon Dinge. Ein paar. Aber das war ein Witz", sagt sie, errötet ein wenig und schaut betreten zu Boden.</DefaultText>
+      <DefaultText>Plötzlich verlieren ihre Augen den ausdruckslosen Blick und ein großes Grinsen breitet sich auf ihrem Gesicht aus. „Ich mache nur Spaß. Ich meine, ich vergesse schon Dinge. Ein paar. Aber das war ein Witz“, sagt sie, errötet ein wenig und schaut betreten zu Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Ihr Lächeln lässt nach, dann verschwindet es völlig. "Richtig. Das tut es."
+      <DefaultText>Ihr Lächeln lässt nach, dann verschwindet es völlig. „Richtig. Das tut es.“
 
-Sie wendet sich ab und greift in ihre Tasche. Sie murmelt zu sich selbst und sagt: "Nein, nein. Ich habe es zuerst gesagt. Woher sollte *er* es wissen?"</DefaultText>
+Sie wendet sich ab und greift in ihre Tasche. Sie murmelt zu sich selbst und sagt: „Nein, nein. Ich habe es zuerst gesagt. Woher sollte *er* es wissen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Sie entspannt sich, dann sieht sie mit einem müden Lächeln zu dir auf. "Entschuldige bitte. Es war ein langer Tag."</DefaultText>
+      <DefaultText>Sie entspannt sich, dann sieht sie mit einem müden Lächeln zu dir auf. „Entschuldige bitte. Es war ein langer Tag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -620,46 +620,46 @@ Sie wendet sich ab und greift in ihre Tasche. Sie murmelt zu sich selbst und sag
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Sie öffnet den Mund, um ihn dann wieder zu schließen. Sie nickt und steckt geistesabwesend die Hand in ihre Tasche. "Ich kann mich nicht wirklich erinnern. Ich glaube, sie waren ... Stehler. Nein. Wie lautet das Wort? Räuber. Sie wollten mich ausrauben."</DefaultText>
+      <DefaultText>Sie öffnet den Mund, um ihn dann wieder zu schließen. Sie nickt und steckt geistesabwesend die Hand in ihre Tasche. „Ich kann mich nicht wirklich erinnern. Ich glaube, sie waren … Stehler. Nein. Wie lautet das Wort? Räuber. Sie wollten mich ausrauben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Ich kann mich nicht wirklich erinnern. Ich glaube, sie wollten mich ausrauben."</DefaultText>
+      <DefaultText>„Ich kann mich nicht wirklich erinnern. Ich glaube, sie wollten mich ausrauben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
       <DefaultText>Einen kurzen Augenblick lang blitzt wieder Panik in ihren Augen auf, und ihr Blick irrt umher, als mache sie sich bereit, davonzulaufen.
 
-Dann fasst sie vorsichtig die Seite ihres Kopfes an. "Ich ... ich kann mich nicht erinnern, was genau gestern passiert ist. Aber ich bin davongekommen. Und ich bin gerannt. Und ich bin hier angekommen."</DefaultText>
+Dann fasst sie vorsichtig die Seite ihres Kopfes an. „Ich … ich kann mich nicht erinnern, was genau gestern passiert ist. Aber ich bin davongekommen. Und ich bin gerannt. Und ich bin hier angekommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Deine Geschichte ergibt keinen Sinn. Wer hat deine Wunde behandelt und deinen Kopf geschoren? Wenn du kaum sitzen konntest, wie bist du dann gerannt?"</DefaultText>
+      <DefaultText>„Deine Geschichte ergibt keinen Sinn. Wer hat deine Wunde behandelt und deinen Kopf geschoren? Wenn du kaum sitzen konntest, wie bist du dann gerannt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Sie schaut Euch finster an. "Ich wusste nicht, dass ich mit einem Richter spreche", sagt sie wütend. "Ich habe dir gesagt, dass ich mich nicht erinnern kann. An mehrere Tage nicht ... was auch immer passiert ist."
+      <DefaultText>Sie schaut Euch finster an. „Ich wusste nicht, dass ich mit einem Richter spreche“, sagt sie wütend. „Ich habe dir gesagt, dass ich mich nicht erinnern kann. An mehrere Tage nicht … was auch immer passiert ist.“
 
 Sie schaut weg, den Mund zu einem schmalen Strich zusammengepresst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Es tut mir leid, Rhin. Ich habe nur versucht, zu helfen. Wie es scheint, hattest du ein paar heftige Tage."</DefaultText>
+      <DefaultText>„Es tut mir leid, Rhin. Ich habe nur versucht, zu helfen. Wie es scheint, hattest du ein paar heftige Tage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Wenn du lügen willst, dann versuche wenigstens, deine Geschichte plausibel zu halten. Ansonsten ist es einfach nur eine Beleidigung."</DefaultText>
+      <DefaultText>„Wenn du lügen willst, dann versuche wenigstens, deine Geschichte plausibel zu halten. Ansonsten ist es einfach nur eine Beleidigung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Sie lächelt wankelmütig. "Oh, es ist nicht alles schlimm. Ich habe heute ein paar glänzende Beeren gefunden. Das heißt, ich werde nachher Mal-Sehen-Ob-Mich-Das-Vergiftet spielen. Das ist immer spannend ..."</DefaultText>
+      <DefaultText>Sie lächelt wankelmütig. „Oh, es ist nicht alles schlimm. Ich habe heute ein paar glänzende Beeren gefunden. Das heißt, ich werde nachher Mal-Sehen-Ob-Mich-Das-Vergiftet spielen. Das ist immer spannend …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -669,26 +669,26 @@ Sie schaut weg, den Mund zu einem schmalen Strich zusammengepresst.</DefaultText
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Kann ich dir irgendwie helfen?"</DefaultText>
+      <DefaultText>„Kann ich dir irgendwie helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Sie zuckt gleichgültig mit den Schultern. "Ich weiß nicht. Es läuft hier ganz gut. Es sei denn, du hast etwas Essen über, das du nicht brauchst. Oder Wasser. Oder ... eine Decke. Oder ein neues Bett oder ein Haus oder ... Du weißt schon ... irgendetwas ..."
+      <DefaultText>Sie zuckt gleichgültig mit den Schultern. „Ich weiß nicht. Es läuft hier ganz gut. Es sei denn, du hast etwas Essen über, das du nicht brauchst. Oder Wasser. Oder … eine Decke. Oder ein neues Bett oder ein Haus oder … Du weißt schon … irgendetwas …“
 
-Rhin fängt mit einem verspielten Lächeln auf dem Gesicht an zu reden, doch dann quellen ihre Augen auf. Ihre Stimme bleibt fröhlich, selbst, als Tränen ihre Wangen hinablaufen. Sie wischt sie weg, verlegen und wütend, doch jetzt zittern ihre Hände, die Tränen werden zahlreicher, und die Worte strömen weiter aus ihr heraus ...</DefaultText>
+Rhin fängt mit einem verspielten Lächeln auf dem Gesicht an zu reden, doch dann quellen ihre Augen auf. Ihre Stimme bleibt fröhlich, selbst, als Tränen ihre Wangen hinablaufen. Sie wischt sie weg, verlegen und wütend, doch jetzt zittern ihre Hände, die Tränen werden zahlreicher, und die Worte strömen weiter aus ihr heraus …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Sie zeigt auf die Trümmer und lacht bitter. "Gibt es hier irgendetwas, das nicht helfen würde? Du könntest mir jetzt eine zerbrochene Flasche geben und meine verfügbaren Ressourcen damit verdoppeln."</DefaultText>
+      <DefaultText>Sie zeigt auf die Trümmer und lacht bitter. „Gibt es hier irgendetwas, das nicht helfen würde? Du könntest mir jetzt eine zerbrochene Flasche geben und meine verfügbaren Ressourcen damit verdoppeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Entschuldigt bitte. Es ist nur, weil ich seit Tagen hungrig bin. Ich weiß nicht, wo ich bin. Mein Kopf tut weh und nichts macht Sinn."
+      <DefaultText>„Entschuldigt bitte. Es ist nur, weil ich seit Tagen hungrig bin. Ich weiß nicht, wo ich bin. Mein Kopf tut weh und nichts macht Sinn.“
 
-Dann lacht sie hilflos, mit einem Hauch von bebender Panik, die sich in ihre Stimme schleicht. "Götter um mich. In meinem Kopf bin ich kaputt. Der Mond ist falsch, und ich bin es so leid, die ganze Zeit Angst zu haben."</DefaultText>
+Dann lacht sie hilflos, mit einem Hauch von bebender Panik, die sich in ihre Stimme schleicht. „Götter um mich. In meinem Kopf bin ich kaputt. Der Mond ist falsch, und ich bin es so leid, die ganze Zeit Angst zu haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -700,28 +700,28 @@ Dann lacht sie hilflos, mit einem Hauch von bebender Panik, die sich in ihre Sti
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Du solltest mit mir kommen."</DefaultText>
+      <DefaultText>„Du solltest mit mir kommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Es tut mir leid, Rhin. Ich wünschte, ich könnte mehr tun."</DefaultText>
+      <DefaultText>„Es tut mir leid, Rhin. Ich wünschte, ich könnte mehr tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Sie blinzelt dich an und grinst stark. "Wirklich?"</DefaultText>
+      <DefaultText>Sie blinzelt dich an und grinst stark. „Wirklich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Sie sieht sich deine Gefährten an und scheint wieder zusammenzusacken. "Nein, es geht schon. Ich meine, danke, aber ... Ist schon in Ordnung."</DefaultText>
+      <DefaultText>Sie sieht sich deine Gefährten an und scheint wieder zusammenzusacken. „Nein, es geht schon. Ich meine, danke, aber … Ist schon in Ordnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Sie blinzelt das Geld in ihrer Hand an, dann schaut sie zu dir und macht einen kleinen, ungelenken Knicks. "Vielen höflichen Dank, mein Herr. Wirklich."</DefaultText>
-      <FemaleText>Sie blinzelt das Geld in ihrer Hand an, dann schaut sie zu dir und macht einen kleinen, ungelenken Knicks. "Vielen höflichen Dank, meine Dame. Wirklich."</FemaleText>
+      <DefaultText>Sie blinzelt das Geld in ihrer Hand an, dann schaut sie zu dir und macht einen kleinen, ungelenken Knicks. „Vielen höflichen Dank, mein Herr. Wirklich.“</DefaultText>
+      <FemaleText>Sie blinzelt das Geld in ihrer Hand an, dann schaut sie zu dir und macht einen kleinen, ungelenken Knicks. „Vielen höflichen Dank, meine Dame. Wirklich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>151</ID>
@@ -730,12 +730,12 @@ Dann lacht sie hilflos, mit einem Hauch von bebender Panik, die sich in ihre Sti
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>(Lügen) "Mach dir wegen Tol keine Sorgen. Ich kümmere mich um sie."</DefaultText>
+      <DefaultText>(Lügen) „Mach dir wegen Tol keine Sorgen. Ich kümmere mich um sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Sie schaut alle deine Gefährten der Reihe nach an. "Ich... denke, dass ich mich hier sicherer fühlen würde."</DefaultText>
+      <DefaultText>Sie schaut alle deine Gefährten der Reihe nach an. „Ich… denke, dass ich mich hier sicherer fühlen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -745,17 +745,17 @@ Dann lacht sie hilflos, mit einem Hauch von bebender Panik, die sich in ihre Sti
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Wieso kommst du nicht mit uns?"</DefaultText>
+      <DefaultText>„Wieso kommst du nicht mit uns?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Bist du sicher, dass du nicht mit uns kommen willst?"</DefaultText>
+      <DefaultText>„Bist du sicher, dass du nicht mit uns kommen willst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Sie schaut alle drei deiner Gefährten an und blickt dann wieder zu dir. "Ganz sicher. Ja."</DefaultText>
+      <DefaultText>Sie schaut alle drei deiner Gefährten an und blickt dann wieder zu dir. „Ganz sicher. Ja.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
