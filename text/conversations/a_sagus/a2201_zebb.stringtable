@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Der abgemagerte Junge salutiert, als du ihm näherkommst. "Schön, Euch wiederzusehen, werter Herr! Könntet Ihr ein paar Shin für eine hungrige Familie entbehren?"</DefaultText>
-      <FemaleText>Der abgemagerte Junge salutiert, als du ihm näherkommst. "Schön, Euch wiederzusehen, werte Dame! Könntet Ihr ein paar Shin für eine hungrige Familie entbehren?"</FemaleText>
+      <DefaultText>Der abgemagerte Junge salutiert, als du ihm näherkommst. „Schön, Euch wiederzusehen, werter Herr! Könntet Ihr ein paar Shin für eine hungrige Familie entbehren?“</DefaultText>
+      <FemaleText>Der abgemagerte Junge salutiert, als du ihm näherkommst. „Schön, Euch wiederzusehen, werte Dame! Könntet Ihr ein paar Shin für eine hungrige Familie entbehren?“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -23,7 +23,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Tut mir leid, da kann ich dir nicht weiterhelfen."</DefaultText>
+      <DefaultText>„Tut mir leid, da kann ich dir nicht weiterhelfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,8 +33,8 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Danke, werter Herr! Und alles Gute!"</DefaultText>
-      <FemaleText>"Danke, werte Dame! Und alles Gute!"</FemaleText>
+      <DefaultText>„Danke, werter Herr! Und alles Gute!“</DefaultText>
+      <FemaleText>„Danke, werte Dame! Und alles Gute!“</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -43,8 +43,8 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Danke trotzdem, werter Herr. Und alles Gute."</DefaultText>
-      <FemaleText>"Danke trotzdem, werte Dame. Und alles Gute."</FemaleText>
+      <DefaultText>„Danke trotzdem, werter Herr. Und alles Gute.“</DefaultText>
+      <FemaleText>„Danke trotzdem, werte Dame. Und alles Gute.“</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -68,12 +68,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Bist du sicher, dass ihr nur zu viert seid? Ich habe deinen hastigen Blick zur Straße eben gesehen. Ist da noch jemand?"</DefaultText>
+      <DefaultText>„Bist du sicher, dass ihr nur zu viert seid? Ich habe deinen hastigen Blick zur Straße eben gesehen. Ist da noch jemand?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ich bin Zebb, und ..." Er zeigt auf ein kleines Mädchen, das einen Stein im Kreis herumkickt und auf ein älteres, das auf einer Flöte spielt. Beide sehen aus, als wenn sie weniger mit dem Hunger zu kämpfen haben als Zebb. "Das ist Nym, meine kleine Schwester. Die mit der Flöte heißt Avina. Sie ist streng genommen nicht mit uns verwandt, gehört aber trotzdem zur Familie. Und ... das war‘s. Das sind alle."</DefaultText>
+      <DefaultText>„Ich bin Zebb, und ...“ Er zeigt auf ein kleines Mädchen, das einen Stein im Kreis herumkickt und auf ein älteres, das auf einer Flöte spielt. Beide sehen aus, als wenn sie weniger mit dem Hunger zu kämpfen haben als Zebb. „Das ist Nym, meine kleine Schwester. Die mit der Flöte heißt Avina. Sie ist streng genommen nicht mit uns verwandt, gehört aber trotzdem zur Familie. Und ... das war‘s. Das sind alle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,7 +98,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"W-Was?" Der Junge schluckt. "Nein, nein! Ich ... Ich warte nur auf einen Freund. Wir sind zu viert, wirklich. Nicht mehr, nicht weniger."</DefaultText>
+      <DefaultText>„W-Was?“ Der Junge schluckt. „Nein, nein! Ich ... Ich warte nur auf einen Freund. Wir sind zu viert, wirklich. Nicht mehr, nicht weniger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,47 +108,47 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Lass mich dich eine andere Frage stellen."</DefaultText>
+      <DefaultText>„Lass mich dich eine andere Frage stellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Sehr wohl, der Herr."</DefaultText>
-      <FemaleText>"Sehr wohl, die Dame."</FemaleText>
+      <DefaultText>„Sehr wohl, der Herr.“</DefaultText>
+      <FemaleText>„Sehr wohl, die Dame.“</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Was weißt du über den Flor?"</DefaultText>
+      <DefaultText>„Was weißt du über den Flor?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Mein Vater hat ihn immer ein Skistloch genannt. Ein Skistloch, aus dem man eine Menge Shin holen könne, hat er gesagt. Deshalb hat er sich vermutlich dazu durchgerungen, dorthin zu gehen." Er zuckt mit den Schultern. "Viel mehr weiß ich darüber eigentlich nicht. Die Leute meinen, es wäre ein Monster, und trotzdem wohnen Menschen darin. Man kann ihn schon von der Karawanserei aus sehen, aber sie lassen einen nicht näher ran. Zumindest haben sie *mich* nicht näher rangelassen."</DefaultText>
+      <DefaultText>„Mein Vater hat ihn immer ein Skistloch genannt. Ein Skistloch, aus dem man eine Menge Shin holen könne, hat er gesagt. Deshalb hat er sich vermutlich dazu durchgerungen, dorthin zu gehen.“ Er zuckt mit den Schultern. „Viel mehr weiß ich darüber eigentlich nicht. Die Leute meinen, es wäre ein Monster, und trotzdem wohnen Menschen darin. Man kann ihn schon von der Karawanserei aus sehen, aber sie lassen einen nicht näher ran. Zumindest haben sie *mich* nicht näher rangelassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Was weißt du über die Memovira?"</DefaultText>
+      <DefaultText>„Was weißt du über die Memovira?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Sie hat im Flor das Sagen. Ist sowas wie die Bürgermeisterin. Mein Vater arbeitet für sie, als Leibwächter."</DefaultText>
+      <DefaultText>„Sie hat im Flor das Sagen. Ist sowas wie die Bürgermeisterin. Mein Vater arbeitet für sie, als Leibwächter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Ein abgemagerter Junge in Lumpen streckt seine Hand nach dir aus, als du an ihm vorbeigehst. "Werter Herr! Bitte, mein Herr! Ich weiß, dass Ihr den Stichus gesehen habt, der sich im Haufen versteckt. Bitte erzählt niemandem von ihm, mein Herr! Er tut niemandem etwas."</DefaultText>
+      <DefaultText>Ein abgemagerter Junge in Lumpen streckt seine Hand nach dir aus, als du an ihm vorbeigehst. „Werter Herr! Bitte, mein Herr! Ich weiß, dass Ihr den Stichus gesehen habt, der sich im Haufen versteckt. Bitte erzählt niemandem von ihm, mein Herr! Er tut niemandem etwas.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Der abgemagerte Junge in Lumpen streckt seine Hand nach dir aus, als du an ihm vorbeigehst. "Werter Herr! Bitte, mein Herr! Ich weiß, dass Ihr den Stichus gesehen habt, der sich im Haufen versteckt. Bitte erzählt niemandem von ihm, mein Herr! Er tut niemandem etwas."</DefaultText>
-      <FemaleText>Der abgemagerte Junge in Lumpen streckt seine Hand nach dir aus, als du an ihm vorbeigehst. "Werte Dame! Bitte, werte Dame! Ich weiß, dass Ihr den Stichus gesehen habt, der sich im Haufen versteckt. Bitte erzählt niemandem von ihm, meine Dame! Er tut niemandem etwas."</FemaleText>
+      <DefaultText>Der abgemagerte Junge in Lumpen streckt seine Hand nach dir aus, als du an ihm vorbeigehst. „Werter Herr! Bitte, mein Herr! Ich weiß, dass Ihr den Stichus gesehen habt, der sich im Haufen versteckt. Bitte erzählt niemandem von ihm, mein Herr! Er tut niemandem etwas.“</DefaultText>
+      <FemaleText>Der abgemagerte Junge in Lumpen streckt seine Hand nach dir aus, als du an ihm vorbeigehst. „Werte Dame! Bitte, werte Dame! Ich weiß, dass Ihr den Stichus gesehen habt, der sich im Haufen versteckt. Bitte erzählt niemandem von ihm, meine Dame! Er tut niemandem etwas.“</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Lasst mich in Ruhe! Ich rede nicht mit Euch!"</DefaultText>
+      <DefaultText>„Lasst mich in Ruhe! Ich rede nicht mit Euch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,12 +158,12 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Ein Junge in Lumpen streckt seine Hand nach dir aus, als du an ihm vorbeigehst. Er ist viel zu mager für sein Alter. Die herausstehenden Knöchel lassen seine Hände aussehen wie knorrige Äste. "Könntet Ihr einige Shin für eine notdürftige Familie entbehren?"</DefaultText>
+      <DefaultText>Ein Junge in Lumpen streckt seine Hand nach dir aus, als du an ihm vorbeigehst. Er ist viel zu mager für sein Alter. Die herausstehenden Knöchel lassen seine Hände aussehen wie knorrige Äste. „Könntet Ihr einige Shin für eine notdürftige Familie entbehren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Sein wuterfüllter Blick trifft dich. "Ihr habt ihnen von dem Stichus erzählt. Euretwegen haben sie ihn getötet! Ich hasse Euch."</DefaultText>
+      <DefaultText>Sein wuterfüllter Blick trifft dich. „Ihr habt ihnen von dem Stichus erzählt. Euretwegen haben sie ihn getötet! Ich hasse Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,8 +173,8 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Der Junge springt vor Freude auf, als du ihm näherkommst. Er sieht aufgeregt aus. "Ihr habt dem Stichus geholfen, zu entkommen! Danke, werter Herr! Wir hatten schon befürchtet, dass die anderen sich ihn schnappen!"</DefaultText>
-      <FemaleText>Der Junge springt vor Freude auf, als du ihm näherkommst. Er sieht aufgeregt aus. "Ihr habt dem Stichus geholfen, zu entkommen! Danke, werte Herrin! Wir hatten schon befürchtet, dass die anderen sich ihn schnappen!"</FemaleText>
+      <DefaultText>Der Junge springt vor Freude auf, als du ihm näherkommst. Er sieht aufgeregt aus. „Ihr habt dem Stichus geholfen, zu entkommen! Danke, werter Herr! Wir hatten schon befürchtet, dass die anderen sich ihn schnappen!“</DefaultText>
+      <FemaleText>Der Junge springt vor Freude auf, als du ihm näherkommst. Er sieht aufgeregt aus. „Ihr habt dem Stichus geholfen, zu entkommen! Danke, werte Herrin! Wir hatten schon befürchtet, dass die anderen sich ihn schnappen!“</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
@@ -188,12 +188,12 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Erzähl mir von deiner Familie."</DefaultText>
+      <DefaultText>„Erzähl mir von deiner Familie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Erzähl mir noch einmal von deiner Familie."</DefaultText>
+      <DefaultText>„Erzähl mir noch einmal von deiner Familie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,17 +203,17 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Der Junge senkt seinen Kopf. "Natürlich, mein Herr. Wir sind zu fün... zu viert meine ich, meinen Vater eingeschlossen. Aber er hat sich auf dem Weg zum Flor gemacht und wir wissen nicht, wann er zurückkommen wird."</DefaultText>
-      <FemaleText>Der Junge senkt seinen Kopf. "Natürlich, meine Dame. Wir sind zu fün... zu viert meine ich, meinen Vater eingeschlossen. Aber er hat sich auf dem Weg zum Flor gemacht und wir wissen nicht, wann er zurückkommen wird."</FemaleText>
+      <DefaultText>Der Junge senkt seinen Kopf. „Natürlich, mein Herr. Wir sind zu fün... zu viert meine ich, meinen Vater eingeschlossen. Aber er hat sich auf dem Weg zum Flor gemacht und wir wissen nicht, wann er zurückkommen wird.“</DefaultText>
+      <FemaleText>Der Junge senkt seinen Kopf. „Natürlich, meine Dame. Wir sind zu fün... zu viert meine ich, meinen Vater eingeschlossen. Aber er hat sich auf dem Weg zum Flor gemacht und wir wissen nicht, wann er zurückkommen wird.“</FemaleText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Wie ich schon sagte, wir sind zu viert. Meine kleine Schwester Nym, Avina, die mit uns lebt ... Zebb, das bin ich. Und dann mein Vater, der gerade im Flor unterwegs ist.</DefaultText>
+      <DefaultText>„Wie ich schon sagte, wir sind zu viert. Meine kleine Schwester Nym, Avina, die mit uns lebt ... Zebb, das bin ich. Und dann mein Vater, der gerade im Flor unterwegs ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Und das sind alle."</DefaultText>
+      <DefaultText>„Und das sind alle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,12 +223,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Erzähl mir von deinem Vater. Wie heißt er? Wie lange ist er jetzt schon im Flor?"</DefaultText>
+      <DefaultText>„Erzähl mir von deinem Vater. Wie heißt er? Wie lange ist er jetzt schon im Flor?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Erzähl mir nochmal von deinem Vater.</DefaultText>
+      <DefaultText>„Erzähl mir nochmal von deinem Vater.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -238,16 +238,16 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Er heißt auch Zebb, wie ich - Zebbak Uralau. Er ist bestimmt schon ein Jahr weg, wenn nicht sogar länger ... Für die Memovira wollte er arbeiten, glaube ich. Ein Weilchen lang hat er uns Shin zugeschickt, aber das hat irgendwann aufgehört. Habe nicht wieder von ihm gehört."
+      <DefaultText>„Er heißt auch Zebb, wie ich - Zebbak Uralau. Er ist bestimmt schon ein Jahr weg, wenn nicht sogar länger ... Für die Memovira wollte er arbeiten, glaube ich. Ein Weilchen lang hat er uns Shin zugeschickt, aber das hat irgendwann aufgehört. Habe nicht wieder von ihm gehört.“
 
-Er windet sich und sieht besorgt aus. "So ist das mit dem Flor. Manchmal lässt er einfach nichts mehr heraus. Vater wartet vermutlich darauf, dass er sich wieder öffnet."
+Er windet sich und sieht besorgt aus. „So ist das mit dem Flor. Manchmal lässt er einfach nichts mehr heraus. Vater wartet vermutlich darauf, dass er sich wieder öffnet.“
 
 {JOURNAL: Add a journal note about Zebb's father.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Sein Name ist Zebbak Uralau, er arbeitet als Leibwächter für die Memovira im Flor. W-Wir haben eine Weile nichts mehr von ihm gehört ... aber es geht ihm bestimmt gut!</DefaultText>
+      <DefaultText>„Sein Name ist Zebbak Uralau, er arbeitet als Leibwächter für die Memovira im Flor. W-Wir haben eine Weile nichts mehr von ihm gehört ... aber es geht ihm bestimmt gut!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -257,12 +257,12 @@ Er windet sich und sieht besorgt aus. "So ist das mit dem Flor. Manchmal lässt 
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Geht es Nym gut? Dieses Leben muss sehr hart für sie sein."</DefaultText>
+      <DefaultText>„Geht es Nym gut? Dieses Leben muss sehr hart für sie sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Erzähl mir noch einmal etwas über deine Schwester."</DefaultText>
+      <DefaultText>„Erzähl mir noch einmal etwas über deine Schwester.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -272,12 +272,12 @@ Er windet sich und sieht besorgt aus. "So ist das mit dem Flor. Manchmal lässt 
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Erzähl mir etwas über Avina."</DefaultText>
+      <DefaultText>„Erzähl mir etwas über Avina.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Was weißt du noch gleich über Avina?"</DefaultText>
+      <DefaultText>„Was weißt du noch gleich über Avina?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,14 +287,14 @@ Er windet sich und sieht besorgt aus. "So ist das mit dem Flor. Manchmal lässt 
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Ja, sie kommt klar. Schließlich kennt sie das Leben nicht anders. Dass Vater weg ist, nagt aber an ihr. Sie vermisst ihn."
+      <DefaultText>„Ja, sie kommt klar. Schließlich kennt sie das Leben nicht anders. Dass Vater weg ist, nagt aber an ihr. Sie vermisst ihn.“
 
-Der Blick des Jungen wird trüb. "Immerhin hat sie unsere Mutter nie kennengelernt. So kann sie sie auch nicht vermissen."</DefaultText>
+Der Blick des Jungen wird trüb. „Immerhin hat sie unsere Mutter nie kennengelernt. So kann sie sie auch nicht vermissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Nym begreift nicht, wie schlecht es uns geht. Sie kennt das Leben nicht anders. Aber ich würde das Haus gerne wieder sicher für sie machen. Damit sie in Ruhe darin schlafen kann, wisst Ihr?"</DefaultText>
+      <DefaultText>„Nym begreift nicht, wie schlecht es uns geht. Sie kennt das Leben nicht anders. Aber ich würde das Haus gerne wieder sicher für sie machen. Damit sie in Ruhe darin schlafen kann, wisst Ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,34 +304,34 @@ Der Blick des Jungen wird trüb. "Immerhin hat sie unsere Mutter nie kennengeler
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Sie war schon bei uns, bevor Vater uns verlassen hat, aber wir wissen immer noch nicht, woher sie eigentlich kommt. Vielleicht weiß sie es selbst nicht?"
+      <DefaultText>„Sie war schon bei uns, bevor Vater uns verlassen hat, aber wir wissen immer noch nicht, woher sie eigentlich kommt. Vielleicht weiß sie es selbst nicht?“
 
-Er sieht zu Avina herüber. "Um ehrlich zu sein bin ich froh, dass sie da ist. Sie ist sehr aufgeweckt. Kann besser Wache schieben als ich, und ihre Flöte bringt uns den ein oder anderen Shin ein."</DefaultText>
+Er sieht zu Avina herüber. „Um ehrlich zu sein bin ich froh, dass sie da ist. Sie ist sehr aufgeweckt. Kann besser Wache schieben als ich, und ihre Flöte bringt uns den ein oder anderen Shin ein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Nicht viel. Sie ist vor ein paar Jahren aufgetaucht und lebt seitdem bei uns. Geschichten über ihre Herkunft erzählt sie nie."</DefaultText>
+      <DefaultText>„Nicht viel. Sie ist vor ein paar Jahren aufgetaucht und lebt seitdem bei uns. Geschichten über ihre Herkunft erzählt sie nie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Ihr habt seine Hände gesehen. Sie sehen aus wie die eines Menschen. Er kann nicht so gut graben wie seine Artgenossen. Wie sollte er damit so ein Unheil anrichten können?"</DefaultText>
+      <DefaultText>„Ihr habt seine Hände gesehen. Sie sehen aus wie die eines Menschen. Er kann nicht so gut graben wie seine Artgenossen. Wie sollte er damit so ein Unheil anrichten können?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Warum ist dir dieser Stichus so wichtig?"</DefaultText>
+      <DefaultText>„Warum ist dir dieser Stichus so wichtig?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Er könnte gefährlich sein und gehört einfach nicht hierher."</DefaultText>
+      <DefaultText>„Er könnte gefährlich sein und gehört einfach nicht hierher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Ich werde niemandem davon erzählen. Das bleibt unser Geheimnis."</DefaultText>
+      <DefaultText>„Ich werde niemandem davon erzählen. Das bleibt unser Geheimnis.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,17 +346,17 @@ Er sieht zu Avina herüber. "Um ehrlich zu sein bin ich froh, dass sie da ist. S
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Wir haben ihn gefunden, werter Herr. Meine Schwestern und ich. Er sah so mitgenommen aus. Ganz abgemagert. Dem Tode nahe. Seitdem füttern wir ihn mit allerlei alten Geräten und Energiezellen. Aber das kann nicht ewig so weitergehen. Die Nachbarn werden ihn irgendwann entdecken, und das wird sein Ende sein. Wir müssen ihn hier wegbringen."</DefaultText>
+      <DefaultText>„Wir haben ihn gefunden, werter Herr. Meine Schwestern und ich. Er sah so mitgenommen aus. Ganz abgemagert. Dem Tode nahe. Seitdem füttern wir ihn mit allerlei alten Geräten und Energiezellen. Aber das kann nicht ewig so weitergehen. Die Nachbarn werden ihn irgendwann entdecken, und das wird sein Ende sein. Wir müssen ihn hier wegbringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Aber das ist er nicht, mein Herr! Das versuche ich doch, zu erklären ... Er kann nicht graben. Er will einfach nur weg von hier, an einen sicheren Ort."</DefaultText>
+      <DefaultText>„Aber das ist er nicht, mein Herr! Das versuche ich doch, zu erklären ... Er kann nicht graben. Er will einfach nur weg von hier, an einen sicheren Ort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Danke, werter Herr! Damit rettet Ihr ihm das Leben! Jetzt müssen wir ihn nur noch in Sicherheit bringen."</DefaultText>
+      <DefaultText>„Danke, werter Herr! Damit rettet Ihr ihm das Leben! Jetzt müssen wir ihn nur noch in Sicherheit bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,12 +371,12 @@ Er sieht zu Avina herüber. "Um ehrlich zu sein bin ich froh, dass sie da ist. S
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Vielleicht finde ich einen Weg, ihn hier raus zu bringen."</DefaultText>
+      <DefaultText>„Vielleicht finde ich einen Weg, ihn hier raus zu bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Wirklich? Das wäre wunderbar! Vielleicht wäre es hilfreich, die anderen Sticha zu finden, damit sie ihrem Artgenossen bei der Flucht helfen können? Ich habe gehört, dass sich einige von ihnen in der Schattenseite herumtreiben, aber habe nie selbst welche gesehen.</DefaultText>
+      <DefaultText>„Wirklich? Das wäre wunderbar! Vielleicht wäre es hilfreich, die anderen Sticha zu finden, damit sie ihrem Artgenossen bei der Flucht helfen können? Ich habe gehört, dass sich einige von ihnen in der Schattenseite herumtreiben, aber habe nie selbst welche gesehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,12 +396,12 @@ Er sieht zu Avina herüber. "Um ehrlich zu sein bin ich froh, dass sie da ist. S
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Hast du zufällig einen furchteinflößenden Glaive in der Nähe gesehen? Groß und bullig, kein Mann vieler Worte?"</DefaultText>
+      <DefaultText>„Hast du zufällig einen furchteinflößenden Glaive in der Nähe gesehen? Groß und bullig, kein Mann vieler Worte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Der Junge überlegt für einen Moment und nickt dann eifrig. "Ich denke schon. Hier in der Nähe, aber ich weiß leider nicht, wohin er unterwegs war. Avina weiß vielleicht mehr. Sie hat eine gute Beobachtungsgabe."</DefaultText>
+      <DefaultText>Der Junge überlegt für einen Moment und nickt dann eifrig. „Ich denke schon. Hier in der Nähe, aber ich weiß leider nicht, wohin er unterwegs war. Avina weiß vielleicht mehr. Sie hat eine gute Beobachtungsgabe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,37 +431,37 @@ Er sieht zu Avina herüber. "Um ehrlich zu sein bin ich froh, dass sie da ist. S
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Er ist im Flor umgekommen. Sein Kommandant hat es mir erzählt."
+      <DefaultText>Er ist im Flor umgekommen. Sein Kommandant hat es mir erzählt.“
 
 {GEORGE: This node feels odd. It feels strange that you're trying to persuade him when you're just telling him the truth. -JF}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Er fällt in sich zusammen. "Ich schätze, das war irgendwie klar. Ich wollte es mir nur nie eingestehen ... oder Nym erzählen."
+      <DefaultText>Er fällt in sich zusammen. „Ich schätze, das war irgendwie klar. Ich wollte es mir nur nie eingestehen ... oder Nym erzählen.“
 
-Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber zu seiner Familie. "Dann soll es wohl so sein. Wir müssen uns an den Gedanken gewöhnen, wohl oder übel."
+Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber zu seiner Familie. „Dann soll es wohl so sein. Wir müssen uns an den Gedanken gewöhnen, wohl oder übel.“
 
 {SCRIPT: Makes the House of Empty Time Difficult Task one difficulty easier.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Das wisst ihr doch gar nicht! Ihr plappert nur das nach, was die anderen Euch erzählt haben! Ich kann das nicht glauben ... Nicht, bis ich es selbst herausgefunden habe."</DefaultText>
+      <DefaultText>„Das wisst ihr doch gar nicht! Ihr plappert nur das nach, was die anderen Euch erzählt haben! Ich kann das nicht glauben ... Nicht, bis ich es selbst herausgefunden habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Er fällt in sich zusammen. "Ich schätze, das war irgendwie klar. Ich wollte es mir nur nie eingestehen ... oder Nym erzählen."
+      <DefaultText>Er fällt in sich zusammen. „Ich schätze, das war irgendwie klar. Ich wollte es mir nur nie eingestehen ... oder Nym erzählen.“
 
-Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber zu seiner Familie. "Vielleicht sollten wir darüber nachdenken, einen neuen Ort zum Leben zu finden ... jetzt wo wir wissen, dass Vater nicht mehr zurückkommen wird."
+Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber zu seiner Familie. „Vielleicht sollten wir darüber nachdenken, einen neuen Ort zum Leben zu finden ... jetzt wo wir wissen, dass Vater nicht mehr zurückkommen wird.“
 
 {SCRIPT: Makes the attempt to get Zebb to go to the House of Empty Time automatically succeed.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Ihr lügt! Er ist noch am Leben! Ich weiß es genau!"
+      <DefaultText>„Ihr lügt! Er ist noch am Leben! Ich weiß es genau!“
 
 {ADAM: what affect could this CF have?}</DefaultText>
       <FemaleText />
@@ -473,12 +473,12 @@ Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber 
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ich kenne einen Ort, an dem ihr Zuflucht finden könnt, falls euer Vater nicht zurückkehren sollte. Er nennt sich das Haus der leeren Zeit."</DefaultText>
+      <DefaultText>„Ich kenne einen Ort, an dem ihr Zuflucht finden könnt, falls euer Vater nicht zurückkehren sollte. Er nennt sich das Haus der leeren Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Seid ihr sicher, dass das Haus der leeren Zeit nicht für euch in Frage kommt?"</DefaultText>
+      <DefaultText>„Seid ihr sicher, dass das Haus der leeren Zeit nicht für euch in Frage kommt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -488,12 +488,12 @@ Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber 
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Wir sind keine Waisen. Unser Vater arbeitet im Flor. Und er wird zurückkommen."</DefaultText>
+      <DefaultText>„Wir sind keine Waisen. Unser Vater arbeitet im Flor. Und er wird zurückkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Ich habe doch gesagt, dass wir keine Waisen sind! Wir gehen nirgendwohin."</DefaultText>
+      <DefaultText>„Ich habe doch gesagt, dass wir keine Waisen sind! Wir gehen nirgendwohin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -503,12 +503,12 @@ Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber 
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Das hört sich ... gruselig an. Außerdem fühlen wir uns hier wohl, bei unserer Familie. Wir brauchen keine zweite."</DefaultText>
+      <DefaultText>„Das hört sich ... gruselig an. Außerdem fühlen wir uns hier wohl, bei unserer Familie. Wir brauchen keine zweite.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Wir brauchen kein anderes Zuhause. Schließlich haben wir schon eins."</DefaultText>
+      <DefaultText>„Wir brauchen kein anderes Zuhause. Schließlich haben wir schon eins.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -528,43 +528,43 @@ Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber 
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Geh weg!"</DefaultText>
+      <DefaultText>„Geh weg!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Sind die Kultisten des Wandelnden Gottes hier vorbeigekommen?"</DefaultText>
+      <DefaultText>„Sind die Kultisten des Wandelnden Gottes hier vorbeigekommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Habt Ihr sie etwa geschickt? Ein etwas befremdlicher Haufen, aber recht freundlich. Bringen uns immer ein paar Rationen. Lassen Münzen für uns da. Vielen Dank, dass Ihr sie zu uns geschickt habt."</DefaultText>
+      <DefaultText>„Habt Ihr sie etwa geschickt? Ein etwas befremdlicher Haufen, aber recht freundlich. Bringen uns immer ein paar Rationen. Lassen Münzen für uns da. Vielen Dank, dass Ihr sie zu uns geschickt habt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Es war richtig, das zu tun."</DefaultText>
+      <DefaultText>„Es war richtig, das zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Ich habe nur mein Versprechen gehalten."</DefaultText>
+      <DefaultText>„Ich habe nur mein Versprechen gehalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Erinnern dich daran, wenn ich einmal deine Hilfe brauche."</DefaultText>
+      <DefaultText>„Erinnern dich daran, wenn ich einmal deine Hilfe brauche.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Und wir sind dankbar dafür." Er holt etwas aus seinem Hemd hervor. Es scheint sich um eine Art kleines Gerät zu handeln. "Hier, nehmt das. Hab ich vor einer Weile stibitzt, wusste aber nie so wirklich, was ich damit anfangen soll. Ihr wisst bestimmt alles über diese Dinger."
+      <DefaultText>„Und wir sind dankbar dafür.“ Er holt etwas aus seinem Hemd hervor. Es scheint sich um eine Art kleines Gerät zu handeln. „Hier, nehmt das. Hab ich vor einer Weile stibitzt, wusste aber nie so wirklich, was ich damit anfangen soll. Ihr wisst bestimmt alles über diese Dinger.“
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Er nickt, auf seinem Gesicht zeichnet sich ein ernster Ausdruck ab. "Das werde ich nicht vergessen. Hier, nehmt das. Habe ich in einem verlassenen Haus gefunden. Es begleicht unsere Schuld nicht, aber es ist zumindest ein Anfang." Er holt ein kleines Gerät aus seinem Hemd hervor und übergibt es dir.
+      <DefaultText>Er nickt, auf seinem Gesicht zeichnet sich ein ernster Ausdruck ab. „Das werde ich nicht vergessen. Hier, nehmt das. Habe ich in einem verlassenen Haus gefunden. Es begleicht unsere Schuld nicht, aber es ist zumindest ein Anfang.“ Er holt ein kleines Gerät aus seinem Hemd hervor und übergibt es dir.
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
@@ -575,17 +575,17 @@ Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber 
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Was ist hier passiert? Ist jemand verletzt?"</DefaultText>
+      <DefaultText>„Was ist hier passiert? Ist jemand verletzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Die Sticha haben also noch ein Haus zerstört. Diese achtlosen Biester!"</DefaultText>
+      <DefaultText>„Die Sticha haben also noch ein Haus zerstört. Diese achtlosen Biester!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Das ist alles meine Schuld. Ich hätte die Sticha rechtzeitig aufhalten müssen."</DefaultText>
+      <DefaultText>„Das ist alles meine Schuld. Ich hätte die Sticha rechtzeitig aufhalten müssen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -595,14 +595,14 @@ Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber 
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Avina legt ihre Flöte neben sich ab, als du dich ihr näherst. "Der arme Zebb hat kein Wort mehr geredet, seit das Haus zusammengefallen ist. Nym ... Nym war gerade auf dem Weg zur Waschzisterne. Es gab ein schrecklich lautes Rumpel und ..."
+      <DefaultText>Avina legt ihre Flöte neben sich ab, als du dich ihr näherst. „Der arme Zebb hat kein Wort mehr geredet, seit das Haus zusammengefallen ist. Nym ... Nym war gerade auf dem Weg zur Waschzisterne. Es gab ein schrecklich lautes Rumpel und ...“
 
-Sie lässt den Kopf hängen. "Wir glauben, es waren die Sticha."</DefaultText>
+Sie lässt den Kopf hängen. „Wir glauben, es waren die Sticha.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Kann ich euch irgendwie helfen?"</DefaultText>
+      <DefaultText>„Kann ich euch irgendwie helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -612,7 +612,7 @@ Sie lässt den Kopf hängen. "Wir glauben, es waren die Sticha."</DefaultText>
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Ich könnte meine Kräfte nutzen, um dich deine Schwester vergessen zu lassen und dich von diesem Schmerz zu befreien."</DefaultText>
+      <DefaultText>„Ich könnte meine Kräfte nutzen, um dich deine Schwester vergessen zu lassen und dich von diesem Schmerz zu befreien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -622,9 +622,9 @@ Sie lässt den Kopf hängen. "Wir glauben, es waren die Sticha."</DefaultText>
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>Zebb fährt plötzlich aus seiner Starre empor und zittert vor Wut. "Wir haben ihm Essen gegeben! Wir haben ihn versteckt! Wie konnte er das zulassen?! Wie konnten seine Artgenossen ...?!"
+      <DefaultText>Zebb fährt plötzlich aus seiner Starre empor und zittert vor Wut. „Wir haben ihm Essen gegeben! Wir haben ihn versteckt! Wie konnte er das zulassen?! Wie konnten seine Artgenossen ...?!“
 
-Seine Augen sind von Hass erfüllt, als er plötzlich verstummt und ein rostiges Messer zückt. "Ich werde ihn töten. ICH WERDE IHN TÖTEN!"</DefaultText>
+Seine Augen sind von Hass erfüllt, als er plötzlich verstummt und ein rostiges Messer zückt. „Ich werde ihn töten. ICH WERDE IHN TÖTEN!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -644,7 +644,7 @@ Seine Augen sind von Hass erfüllt, als er plötzlich verstummt und ein rostiges
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Lebt wohl ..."</DefaultText>
+      <DefaultText>„Lebt wohl ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -654,12 +654,12 @@ Seine Augen sind von Hass erfüllt, als er plötzlich verstummt und ein rostiges
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Das kleine blonde Mädchen protestiert wütend. "Nicht! Ihr dürft ihn nicht mit einem ... einem Loch hinterlassen, wo einmal Platz für Nym war! Das mag für ihn im Moment Schmerz bedeuten, aber so kann er sich irgendwann wenigstens noch an die schönen Momente erinnern!"</DefaultText>
+      <DefaultText>Das kleine blonde Mädchen protestiert wütend. „Nicht! Ihr dürft ihn nicht mit einem ... einem Loch hinterlassen, wo einmal Platz für Nym war! Das mag für ihn im Moment Schmerz bedeuten, aber so kann er sich irgendwann wenigstens noch an die schönen Momente erinnern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Du hast recht. Ich hätte besser nachdenken müssen. Tut mir leid, Zebb."</DefaultText>
+      <DefaultText>„Du hast recht. Ich hätte besser nachdenken müssen. Tut mir leid, Zebb.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -679,12 +679,12 @@ Seine Augen sind von Hass erfüllt, als er plötzlich verstummt und ein rostiges
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Der Stichus in der Gasse ist dein Freund. Er hatte damit nichts zu tun!"</DefaultText>
+      <DefaultText>„Der Stichus in der Gasse ist dein Freund. Er hatte damit nichts zu tun!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Der Stichus in der Gasse ist dein Freund. Er hatte damit nichts zu tun!"</DefaultText>
+      <DefaultText>„Der Stichus in der Gasse ist dein Freund. Er hatte damit nichts zu tun!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -694,7 +694,7 @@ Seine Augen sind von Hass erfüllt, als er plötzlich verstummt und ein rostiges
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Zebb bricht schluchzend zusammen und sucht Halt an dir. "Aber Nym, Nym ist tot! Die Sticha haben ihr gegenüber auch keine Gnade gezeigt!"</DefaultText>
+      <DefaultText>Zebb bricht schluchzend zusammen und sucht Halt an dir. „Aber Nym, Nym ist tot! Die Sticha haben ihr gegenüber auch keine Gnade gezeigt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -704,12 +704,12 @@ Seine Augen sind von Hass erfüllt, als er plötzlich verstummt und ein rostiges
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Zebb bricht schluchzend zusammen und sucht Halt an dir. "Aber Nym, Nym ist tot! Jemand muss dafür bezahlen!"</DefaultText>
+      <DefaultText>Zebb bricht schluchzend zusammen und sucht Halt an dir. „Aber Nym, Nym ist tot! Jemand muss dafür bezahlen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Er hätte die anderen aufhalten können! Ich hasse ihn!"
+      <DefaultText>„Er hätte die anderen aufhalten können! Ich hasse ihn!“
 
 Als du dich ihm in den Weg stellst, fuchtelt Zebb vor dir mit seinem Messer herum, bis er sich schließlich umdreht und in Richtung der Müllhalde rennt, in der sich der Stichus versteckt.</DefaultText>
       <FemaleText />
@@ -726,7 +726,7 @@ Als du dich ihm in den Weg stellst, fuchtelt Zebb vor dir mit seinem Messer heru
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Was ist hier passiert? Ist jemand verletzt?"</DefaultText>
+      <DefaultText>„Was ist hier passiert? Ist jemand verletzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -736,12 +736,12 @@ Als du dich ihm in den Weg stellst, fuchtelt Zebb vor dir mit seinem Messer heru
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Ich konnte meinen Augen nicht trauen, als die Kultisten vorbeigekommen sind und ihm diese Verkleidung übergezogen haben. Sehr clever!"</DefaultText>
+      <DefaultText>„Ich konnte meinen Augen nicht trauen, als die Kultisten vorbeigekommen sind und ihm diese Verkleidung übergezogen haben. Sehr clever!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Ich konnte meinen Augen nicht trauen, als die anderen Sticha ihn zu sich in den Untergrund geholt haben. Hätte nie gedacht, dass sie ihn einfach so aufnehmen würden. Ihr müsst ihnen eine sehr überzeugende Geschichte aufgetischt haben!"</DefaultText>
+      <DefaultText>„Ich konnte meinen Augen nicht trauen, als die anderen Sticha ihn zu sich in den Untergrund geholt haben. Hätte nie gedacht, dass sie ihn einfach so aufnehmen würden. Ihr müsst ihnen eine sehr überzeugende Geschichte aufgetischt haben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -751,7 +751,7 @@ Als du dich ihm in den Weg stellst, fuchtelt Zebb vor dir mit seinem Messer heru
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Das mag sein, aber möchtest du deshalb einen Unschuldigen dafür büßen lassen?"</DefaultText>
+      <DefaultText>„Das mag sein, aber möchtest du deshalb einen Unschuldigen dafür büßen lassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -761,19 +761,19 @@ Als du dich ihm in den Weg stellst, fuchtelt Zebb vor dir mit seinem Messer heru
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Denk nach. Du weißt doch, dass dein Freund ein Außenseiter ist - er hätte sie nicht aufhalten können."</DefaultText>
+      <DefaultText>„Denk nach. Du weißt doch, dass dein Freund ein Außenseiter ist - er hätte sie nicht aufhalten können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Willst du das Auslöschen eines Lebens mit dem Auslöschen eines anderen begleichen?"</DefaultText>
+      <DefaultText>„Willst du das Auslöschen eines Lebens mit dem Auslöschen eines anderen begleichen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Zebb lässt das Messer aus seinen Fingern gleiten. "Nein. Ihr habt recht. Die anderen Sticha waren es. Ich war nur so ..."
+      <DefaultText>Zebb lässt das Messer aus seinen Fingern gleiten. „Nein. Ihr habt recht. Die anderen Sticha waren es. Ich war nur so ...“
 
-Er schließt seine Augen. "Ich kann nicht glauben, dass ich beinahe ...! Ich hätte mich schrecklich gefühlt. Wie hätte ich damit leben können? Es ist nur ... Nym zu verlieren tut so weh."</DefaultText>
+Er schließt seine Augen. „Ich kann nicht glauben, dass ich beinahe ...! Ich hätte mich schrecklich gefühlt. Wie hätte ich damit leben können? Es ist nur ... Nym zu verlieren tut so weh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -833,9 +833,9 @@ Er schließt seine Augen. "Ich kann nicht glauben, dass ich beinahe ...! Ich hä
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Einige Augenblicke später wankt er aus der Gasse heraus auf dich zu und starrt dabei auf das Blut an seinen Händen. "Was ... Was ... Was habe ich getan...?!"
+      <DefaultText>Einige Augenblicke später wankt er aus der Gasse heraus auf dich zu und starrt dabei auf das Blut an seinen Händen. „Was ... Was ... Was habe ich getan...?!“
 
-Zebb beginnt unkontrolliert zu schluchzen. Er lässt das Messer fallen. "Ich habe meinen Freund getötet!"</DefaultText>
+Zebb beginnt unkontrolliert zu schluchzen. Er lässt das Messer fallen. „Ich habe meinen Freund getötet!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -875,7 +875,7 @@ Zebb beginnt unkontrolliert zu schluchzen. Er lässt das Messer fallen. "Ich hab
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Es tut mir leid. Wenn ich den Stichus von hier weggebracht hätte, wäre das nicht passiert."</DefaultText>
+      <DefaultText>„Es tut mir leid. Wenn ich den Stichus von hier weggebracht hätte, wäre das nicht passiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -885,7 +885,7 @@ Zebb beginnt unkontrolliert zu schluchzen. Er lässt das Messer fallen. "Ich hab
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Komm mir bloß nicht zunahe, Mörder!"</DefaultText>
+      <DefaultText>„Komm mir bloß nicht zunahe, Mörder!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -895,7 +895,7 @@ Zebb beginnt unkontrolliert zu schluchzen. Er lässt das Messer fallen. "Ich hab
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Kein Gesetz verbietet es dir, einen Stichus zu töten. Aber kannst du das vor dir selbst verantworten?"</DefaultText>
+      <DefaultText>„Kein Gesetz verbietet es dir, einen Stichus zu töten. Aber kannst du das vor dir selbst verantworten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -905,17 +905,17 @@ Zebb beginnt unkontrolliert zu schluchzen. Er lässt das Messer fallen. "Ich hab
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Was habe ich getan?!"</DefaultText>
+      <DefaultText>„Was habe ich getan?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Du hattest keine Kontrolle über dich. Mach dir keine Vorwürfe."</DefaultText>
+      <DefaultText>„Du hattest keine Kontrolle über dich. Mach dir keine Vorwürfe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>Zebb schluchzt weiter, unbeeindruckt von deinen Worten. "Was soll ich nur tun? So kann ich doch nicht mit mir selbst leben!"</DefaultText>
+      <DefaultText>Zebb schluchzt weiter, unbeeindruckt von deinen Worten. „Was soll ich nur tun? So kann ich doch nicht mit mir selbst leben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1040,7 +1040,7 @@ Zebb beginnt unkontrolliert zu schluchzen. Er lässt das Messer fallen. "Ich hab
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Nicht jetzt. Lebt wohl."</DefaultText>
+      <DefaultText>„Nicht jetzt. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1075,26 +1075,26 @@ Zebb beginnt unkontrolliert zu schluchzen. Er lässt das Messer fallen. "Ich hab
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Ich habe herausgefunden, was mit deinem Vater passiert ist."</DefaultText>
+      <DefaultText>„Ich habe herausgefunden, was mit deinem Vater passiert ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"H-Habt Ihr das...? Und? Erzählt es mir!"</DefaultText>
+      <DefaultText>„H-Habt Ihr das...? Und? Erzählt es mir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"Ich befürchte, er ist im Flor umgekommen. Sein Kommandant hat mir dieses Medaillon für dich gegeben. Er sagte, es habe deinem Vater gehört."</DefaultText>
+      <DefaultText>„Ich befürchte, er ist im Flor umgekommen. Sein Kommandant hat mir dieses Medaillon für dich gegeben. Er sagte, es habe deinem Vater gehört.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>Zebb starrt auf das Medaillon in deinen Händen. Er nimmt es an sich und öffnet es langsam. Im Innern befindet sich das Abbild einer Frau. "Ja, das gehört meinem Vater. Er ... hätte es mit seinem Leben beschützt und sich nie davon getrennt. Das heißt also ..."
+      <DefaultText>Zebb starrt auf das Medaillon in deinen Händen. Er nimmt es an sich und öffnet es langsam. Im Innern befindet sich das Abbild einer Frau. „Ja, das gehört meinem Vater. Er ... hätte es mit seinem Leben beschützt und sich nie davon getrennt. Das heißt also ...“
 
-Er fällt in sich zusammen. "Schätze, das war mir eigentlich schon länger klar. Ich wollte es mir nur nie eingestehen ... oder Nym erzählen."
+Er fällt in sich zusammen. „Schätze, das war mir eigentlich schon länger klar. Ich wollte es mir nur nie eingestehen ... oder Nym erzählen.“
 
-Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber zu seiner Familie. "Vielleicht ist es jetzt Zeit, einen besseren Ort zu suchen."
+Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber zu seiner Familie. „Vielleicht ist es jetzt Zeit, einen besseren Ort zu suchen.“
 
 {SCRIPT: Makes the attempt to get Zebb to go to the House of Empty Time automatically succeed.}</DefaultText>
       <FemaleText />
@@ -1156,13 +1156,13 @@ Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber 
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>"Lebwohl."</DefaultText>
+      <DefaultText>„Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>"Alles Gute, werter Herr."</DefaultText>
-      <FemaleText>"Alles Gute, werte Dame."</FemaleText>
+      <DefaultText>„Alles Gute, werter Herr.“</DefaultText>
+      <FemaleText>„Alles Gute, werte Dame.“</FemaleText>
     </Entry>
     <Entry>
       <ID>240</ID>
@@ -1186,14 +1186,14 @@ Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber 
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>"Was ist ein Stichus?"</DefaultText>
+      <DefaultText>„Was ist ein Stichus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>"Jeder kennt die Sticha. Sie graben. Buddeln Tunnel unter der Erde frei. Die Leute hier machen sie dafür verantwortlich, dass ein Haus nach dem anderen in sich zusammenfällt."
+      <DefaultText>„Jeder kennt die Sticha. Sie graben. Buddeln Tunnel unter der Erde frei. Die Leute hier machen sie dafür verantwortlich, dass ein Haus nach dem anderen in sich zusammenfällt.“
 
-Er schaut zurück zur Gasse. "Dieser hier kann allerdings nicht graben, deshalb wollten sie nichts mit ihm zu tun haben. Zumindest vermute ich das. Jedenfalls ist er ganz auf sich allein gestellt, wie meine Schwestern und ich. Darum wollen wir ihm helfen.</DefaultText>
+Er schaut zurück zur Gasse. „Dieser hier kann allerdings nicht graben, deshalb wollten sie nichts mit ihm zu tun haben. Zumindest vermute ich das. Jedenfalls ist er ganz auf sich allein gestellt, wie meine Schwestern und ich. Darum wollen wir ihm helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1208,41 +1208,41 @@ Er schaut zurück zur Gasse. "Dieser hier kann allerdings nicht graben, deshalb 
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>"Lebwohl."</DefaultText>
+      <DefaultText>„Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>Das Mädchen mit der Flöte sieht zu dir hinauf. "Der arme Zebb hat kein Wort mehr geredet, seit das Haus zusammengefallen ist. Nym ... Nym war gerade auf dem Weg zur Zisterne, um zu waschen. Es gab ein schrecklich lautes Rumpeln und ..."
+      <DefaultText>Das Mädchen mit der Flöte sieht zu dir hinauf. „Der arme Zebb hat kein Wort mehr geredet, seit das Haus zusammengefallen ist. Nym ... Nym war gerade auf dem Weg zur Zisterne, um zu waschen. Es gab ein schrecklich lautes Rumpeln und ...“
 
-Sie lässt den Kopf hängen. "Wir glauben, es waren die Sticha."</DefaultText>
+Sie lässt den Kopf hängen. „Wir glauben, es waren die Sticha.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>"Wo ist Nym?"</DefaultText>
+      <DefaultText>„Wo ist Nym?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>"Mein Name ist Avina. Ich bin eine Freundin von Zebb."</DefaultText>
+      <DefaultText>„Mein Name ist Avina. Ich bin eine Freundin von Zebb.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>"Nym war Zebbs kleine Schwester. Jetzt ist sie ...
+      <DefaultText>„Nym war Zebbs kleine Schwester. Jetzt ist sie ...“
 
 Einen Moment lang blickt sie traurig auf die Ruinen des Hauses und wendet ihren Kopf dann ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>"Lebwohl."</DefaultText>
+      <DefaultText>„Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1302,7 +1302,7 @@ Einen Moment lang blickt sie traurig auf die Ruinen des Hauses und wendet ihren 
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>"Du wirst dort sicher jemanden finden, der sich liebevoll um dich kümmert."</DefaultText>
+      <DefaultText>„Du wirst dort sicher jemanden finden, der sich liebevoll um dich kümmert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1312,27 +1312,27 @@ Einen Moment lang blickt sie traurig auf die Ruinen des Hauses und wendet ihren 
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>"Du wirst dort sicher jemanden finden, der sich liebevoll um dich kümmert."</DefaultText>
+      <DefaultText>„Du wirst dort sicher jemanden finden, der sich liebevoll um dich kümmert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Zebb schnieft kurz und wischt sich die Nase dann an seinem zerlumpten Ärmel ab. Er nickt. "Ja. Ihr habt recht. Ich muss fort von hier. Er sieht zu Avina herauf. "Avina ... Wirst du ohne mich zurechtkommen?"</DefaultText>
+      <DefaultText>Zebb schnieft kurz und wischt sich die Nase dann an seinem zerlumpten Ärmel ab. Er nickt. „Ja. Ihr habt recht. Ich muss fort von hier.“ Er sieht zu Avina herauf. „Avina ... Wirst du ohne mich zurechtkommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Zebb schnieft kurz und wischt sich die Nase dann an seinem zerlumpten Ärmel ab. Er sieht zu Avina herauf. "Avina, was soll ich tun? Außer dir habe ich niemanden mehr."</DefaultText>
+      <DefaultText>Zebb schnieft kurz und wischt sich die Nase dann an seinem zerlumpten Ärmel ab. Er sieht zu Avina herauf. „Avina, was soll ich tun? Außer dir habe ich niemanden mehr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>Er überlegt einen Moment lang und schüttelt schließlich den Kopf. "Vielleicht gehe ich irgendwann, aber noch nicht jetzt. Ich kann Nyms Geist hier nicht alleine lassen. Sie findet sich doch alleine gar nicht zurecht!"</DefaultText>
+      <DefaultText>Er überlegt einen Moment lang und schüttelt schließlich den Kopf. „Vielleicht gehe ich irgendwann, aber noch nicht jetzt. Ich kann Nyms Geist hier nicht alleine lassen. Sie findet sich doch alleine gar nicht zurecht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>Er schüttelt den Kopf. "Warum sollte ich irgendwohin gehen, wo ich niemanden kenne? Hier bin ich zuhause. Selbst ... wenn ich der Einzige bin, der darin wohnt."</DefaultText>
+      <DefaultText>Er schüttelt den Kopf. „Warum sollte ich irgendwohin gehen, wo ich niemanden kenne? Hier bin ich zuhause. Selbst ... wenn ich der Einzige bin, der darin wohnt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1362,37 +1362,37 @@ Einen Moment lang blickt sie traurig auf die Ruinen des Hauses und wendet ihren 
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>"Ich kenne einen Ort am Regierungsplatz, an dem du eine neue Familie finden kannst - das Haus der leeren Zeit."</DefaultText>
+      <DefaultText>„Ich kenne einen Ort am Regierungsplatz, an dem du eine neue Familie finden kannst - das Haus der leeren Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>"Das hört sich ... komisch an. Wie soll das funktionieren?"</DefaultText>
+      <DefaultText>„Das hört sich ... komisch an. Wie soll das funktionieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>"Das mag nicht das beste Timing sein, aber vielleicht möchtest du gleich mal beim Haus der leeren Zeit vorbeischauen?"</DefaultText>
+      <DefaultText>„Das mag nicht das beste Timing sein, aber vielleicht möchtest du gleich mal beim Haus der leeren Zeit vorbeischauen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>"Ich bin mir noch nicht sicher, ob mir das gefällt. Wie soll das funktionieren?"</DefaultText>
+      <DefaultText>„Ich bin mir noch nicht sicher, ob mir das gefällt. Wie soll das funktionieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Zebb nickt und sieht zu Avina hinüber. "Danke, Avina. Ich hätte vermutlich zugestimmt, wenn du nichts gesagt hättest. Und das wäre schrecklich gewesen."</DefaultText>
+      <DefaultText>Zebb nickt und sieht zu Avina hinüber. „Danke, Avina. Ich hätte vermutlich zugestimmt, wenn du nichts gesagt hättest. Und das wäre schrecklich gewesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>"Lass ihn für sich selbst antworten. Er hat es verdient, ohne Trauer zu leben. Was sagst du, Zebb?"</DefaultText>
+      <DefaultText>„Lass ihn für sich selbst antworten. Er hat es verdient, ohne Trauer zu leben. Was sagst du, Zebb?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>"Lass ihn für sich selbst antworten. Er hat es verdient, ohne Trauer zu leben. Was sagst du, Zebb?"</DefaultText>
+      <DefaultText>„Lass ihn für sich selbst antworten. Er hat es verdient, ohne Trauer zu leben. Was sagst du, Zebb?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1402,12 +1402,12 @@ Einen Moment lang blickt sie traurig auf die Ruinen des Hauses und wendet ihren 
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>Mit geschlossenen Augen nickt Zebb. "Ja. Helft mir, zu vergessen. Ich will mich nicht mehr so fühlen wie jetzt."</DefaultText>
+      <DefaultText>Mit geschlossenen Augen nickt Zebb. „Ja. Helft mir, zu vergessen. Ich will mich nicht mehr so fühlen wie jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>Zebb schüttelt den Kopf. "Nichts in der Welt wäre mir lieber, aber Avina hat recht. Wie kann ich Nym gedenken, wenn ich mich nicht einmal an sie erinnere?"</DefaultText>
+      <DefaultText>Zebb schüttelt den Kopf. „Nichts in der Welt wäre mir lieber, aber Avina hat recht. Wie kann ich Nym gedenken, wenn ich mich nicht einmal an sie erinnere?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1417,28 +1417,28 @@ Einen Moment lang blickt sie traurig auf die Ruinen des Hauses und wendet ihren 
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Zebb knurrt dich an. "Wollt IHR mir meine Schwester auch noch wegnehmen?! Nein! Ich werde sie bestimmt nicht noch einmal sterben lassen!"
+      <DefaultText>Zebb knurrt dich an. „Wollt IHR mir meine Schwester auch noch wegnehmen?! Nein! Ich werde sie bestimmt nicht noch einmal sterben lassen!“
 
-Er wendet sich von dir ab. "Ihr solltet von hier verschwinden. Ich möchte nicht mehr mit Euch reden."
+Er wendet sich von dir ab. „Ihr solltet von hier verschwinden. Ich möchte nicht mehr mit Euch reden.“
 
 {SCRIPT: Zebb won't talk to PC again.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>Avina lächelt. "Ich hatte nicht vor, ewig zu bleiben, Zebb. Du triffst die richtige Wahl."</DefaultText>
+      <DefaultText>Avina lächelt. „Ich hatte nicht vor, ewig zu bleiben, Zebb. Du triffst die richtige Wahl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText>Er nickt und sieht dich an. "Dann bin ich soweit. Vermutlich brauche ich meine Ausrüstung für die Straße dann nicht mehr. Ihr könnt sie haben. Und danke für alles."
+      <DefaultText>Er nickt und sieht dich an. „Dann bin ich soweit. Vermutlich brauche ich meine Ausrüstung für die Straße dann nicht mehr. Ihr könnt sie haben. Und danke für alles.“
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText>Zebb hebt langsam seinen Kopf. "Habt ... Habt Ihr etwas gesagt, werter Herr?"</DefaultText>
-      <FemaleText>Zebb hebt langsam seinen Kopf. "Habt ... Habt Ihr etwas gesagt, werte Dame?"</FemaleText>
+      <DefaultText>Zebb hebt langsam seinen Kopf. „Habt ... Habt Ihr etwas gesagt, werter Herr?“</DefaultText>
+      <FemaleText>Zebb hebt langsam seinen Kopf. „Habt ... Habt Ihr etwas gesagt, werte Dame?“</FemaleText>
     </Entry>
     <Entry>
       <ID>309</ID>
@@ -1462,12 +1462,12 @@ Er wendet sich von dir ab. "Ihr solltet von hier verschwinden. Ich möchte nicht
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>Mit geschlossenen Augen nickt Zebb. "Tut es. Ich kann diesen Schmerz nicht eine Minute länger ertragen."</DefaultText>
+      <DefaultText>Mit geschlossenen Augen nickt Zebb. „Tut es. Ich kann diesen Schmerz nicht eine Minute länger ertragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>"Trotzdem danke für das Angebot."</DefaultText>
+      <DefaultText>„Trotzdem danke für das Angebot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1482,26 +1482,26 @@ Er wendet sich von dir ab. "Ihr solltet von hier verschwinden. Ich möchte nicht
     </Entry>
     <Entry>
       <ID>317</ID>
-      <DefaultText>Zebb lässt das Messer aus seinen Fingern gleiten. "Was habe ich mir nur gedacht? Ich war so wütend, dass ich ..."
+      <DefaultText>Zebb lässt das Messer aus seinen Fingern gleiten. „Was habe ich mir nur gedacht? Ich war so wütend, dass ich ...“
 
-Er schließt seine Augen. "Ich ... Ich kann nicht glauben, dass ich beinahe ...! Ich hätte mich schrecklich gefühlt. Wie hätte ich damit leben können? Es ist nur ... Nym zu verlieren tut so weh."</DefaultText>
+Er schließt seine Augen. „Ich ... Ich kann nicht glauben, dass ich beinahe ...! Ich hätte mich schrecklich gefühlt. Wie hätte ich damit leben können? Es ist nur ... Nym zu verlieren tut so weh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>Zebb lässt das Messer aus seinen Fingern gleiten. "Ich ... Ich weiß nicht, warum ich ..."
+      <DefaultText>Zebb lässt das Messer aus seinen Fingern gleiten. „Ich ... Ich weiß nicht, warum ich ...“
 
-Er schließt seine Augen. "Danke, dass Ihr mich aufgehalten habt. Ich hätte mich schrecklich gefühlt. Wie hätte ich damit leben können? Es ist nur ... Nym zu verlieren tut so weh."</DefaultText>
+Er schließt seine Augen. „Danke, dass Ihr mich aufgehalten habt. Ich hätte mich schrecklich gefühlt. Wie hätte ich damit leben können? Es ist nur ... Nym zu verlieren tut so weh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>"Nicht so wichtig. Das werde ich Euch später erzählen."</DefaultText>
+      <DefaultText>„Nicht so wichtig. Das werde ich Euch später erzählen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>Zebb blinzelt ungläubig. "Was? Wollt Ihr Euch über mich lustig machen? Das ist nicht sehr nett."</DefaultText>
+      <DefaultText>Zebb blinzelt ungläubig. „Was? Wollt Ihr Euch über mich lustig machen? Das ist nicht sehr nett.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1516,12 +1516,12 @@ Er schließt seine Augen. "Danke, dass Ihr mich aufgehalten habt. Ich hätte mic
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>"Ist das dein Haus? Das sieht gefährlich aus."</DefaultText>
+      <DefaultText>„Ist das dein Haus? Das sieht gefährlich aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>"Wissen wir. Seit Avina die Risse in den Wänden entdeckt hat, verbringen wir die meiste Zeit draußen. Wir gehen nur rein, wenn wir uns umziehen müssen und sowas."</DefaultText>
+      <DefaultText>„Wissen wir. Seit Avina die Risse in den Wänden entdeckt hat, verbringen wir die meiste Zeit draußen. Wir gehen nur rein, wenn wir uns umziehen müssen und sowas.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1536,8 +1536,8 @@ Er schließt seine Augen. "Danke, dass Ihr mich aufgehalten habt. Ich hätte mic
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>Der Junge salutiert, als du ihm näherkommst. "Schön, Euch wiederzusehen, werter Herr! Wie kann ich Euch helfen?"</DefaultText>
-      <FemaleText>Der Junge salutiert, als du ihm näherkommst. "Schön, Euch wiederzusehen, werte Dame! Wie kann ich Euch helfen?"</FemaleText>
+      <DefaultText>Der Junge salutiert, als du ihm näherkommst. „Schön, Euch wiederzusehen, werter Herr! Wie kann ich Euch helfen?“</DefaultText>
+      <FemaleText>Der Junge salutiert, als du ihm näherkommst. „Schön, Euch wiederzusehen, werte Dame! Wie kann ich Euch helfen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>335</ID>
@@ -1546,131 +1546,131 @@ Er schließt seine Augen. "Danke, dass Ihr mich aufgehalten habt. Ich hätte mic
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>"Das ist nicht sehr höflich, wisst Ihr? Für eine Leistung erwartet man schließlich auch eine Gegenleistung."</DefaultText>
+      <DefaultText>„Das ist nicht sehr höflich, wisst Ihr? Für eine Leistung erwartet man schließlich auch eine Gegenleistung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>"Entschuldigt. Unsere Mägen sind zu leer, um kostenlos auf Eure Fragen antworten zu können. "</DefaultText>
+      <DefaultText>„Entschuldigt. Unsere Mägen sind zu leer, um kostenlos auf Eure Fragen antworten zu können. “</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>"Ich kann eurem Stichus nicht helfen."</DefaultText>
+      <DefaultText>„Ich kann eurem Stichus nicht helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>"Ich dachte nur ... Wenn Ihr vielleicht andere Sticha finden könntet, würden sie ihrem Artgenossen aus der Patsche helfen und ihn ..." Er senkt seinen Blick und seine Stimme wird leiser. "Verratet ihn bitte wenigstens nicht. In Ordnung?"</DefaultText>
+      <DefaultText>„Ich dachte nur ... Wenn Ihr vielleicht andere Sticha finden könntet, würden sie ihrem Artgenossen aus der Patsche helfen und ihn ...“ Er senkt seinen Blick und seine Stimme wird leiser. „Verratet ihn bitte wenigstens nicht. In Ordnung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>"Ich werde es versuchen."</DefaultText>
+      <DefaultText>„Ich werde es versuchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>341</ID>
-      <DefaultText>"Ich kann nichts versprechen."</DefaultText>
+      <DefaultText>„Ich kann nichts versprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>"Danke!" Er lächelt. "Ich dachte mir schon, dass ich Euch vertrauen kann."</DefaultText>
+      <DefaultText>„Danke!“ Er lächelt. „Ich dachte mir schon, dass ich Euch vertrauen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>"Ich kann Euch natürlich zu nichts zwingen. Aber ... bitte erzählt niemandem, dass er hier ist. Sie würden ihn sonst töten, ganz sicher!"</DefaultText>
+      <DefaultText>„Ich kann Euch natürlich zu nichts zwingen. Aber ... bitte erzählt niemandem, dass er hier ist. Sie würden ihn sonst töten, ganz sicher!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText>"Habt ihr einen Vorschlag, wie wir ihn hier rausbekommen können?"</DefaultText>
+      <DefaultText>„Habt ihr einen Vorschlag, wie wir ihn hier rausbekommen können?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>"Nein, mein Herr. Wir können ihn nicht einfach über die Straße führen, da würde uns der fette kleine Lord sehen. Und natürlich alle Nachbarn. Die würden ihn auf jeden Fall in den Tod jagen.</DefaultText>
+      <DefaultText>„Nein, mein Herr. Wir können ihn nicht einfach über die Straße führen, da würde uns der fette kleine Lord sehen. Und natürlich alle Nachbarn. Die würden ihn auf jeden Fall in den Tod jagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText>Er faucht dich an. "Mörder! Ihr habt unseren Stichus getötet! Schert euch weg!"</DefaultText>
+      <DefaultText>Er faucht dich an. „Mörder! Ihr habt unseren Stichus getötet! Schert euch weg!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>"Ich konnte meinen Augen nicht trauen, als dieser seltsame Stichus ihn zu sich in den Untergrund geholt hat. Ich könnte schwören, dass ich mechanische Geräusche in seinem Inneren gehört habe."
+      <DefaultText>„Ich konnte meinen Augen nicht trauen, als dieser seltsame Stichus ihn zu sich in den Untergrund geholt hat. Ich könnte schwören, dass ich mechanische Geräusche in seinem Inneren gehört habe.“
 
-Er lächelt. "Vielleicht hat er Zangi mit zu den anderen ausgestoßenen Sticha genommen! Dann kann er endlich bei seinen Freunden sein!"</DefaultText>
+Er lächelt. „Vielleicht hat er Zangi mit zu den anderen ausgestoßenen Sticha genommen! Dann kann er endlich bei seinen Freunden sein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>"Du verfütterst Energiezellen an ihn?"</DefaultText>
+      <DefaultText>„Du verfütterst Energiezellen an ihn?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>"Sticha ernähren sich von Elektrizität. Wir können einfach nicht genug davon finden. Er verhungert ..."</DefaultText>
+      <DefaultText>„Sticha ernähren sich von Elektrizität. Wir können einfach nicht genug davon finden. Er verhungert ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>"Haben du und deine Freunde in den Ruinen in der Nähe des Cheirurgischen Salons herumgeschnüffelt?"</DefaultText>
+      <DefaultText>„Haben du und deine Freunde in den Ruinen in der Nähe des Cheirurgischen Salons herumgeschnüffelt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>Er nickt. "Das waren wir. Die Nahrungsmittel, die wir gefunden haben, sind schon lange aufgebraucht ... aber ich habe für Avina eine Art Numenera-Kiste gefunden."
+      <DefaultText>Er nickt. „Das waren wir. Die Nahrungsmittel, die wir gefunden haben, sind schon lange aufgebraucht ... aber ich habe für Avina eine Art Numenera-Kiste gefunden.“
 
-Erschrocken verdeckt er seinen Mund mit seinen Händen. "Oh je. Vielleicht hätte ich das nicht sagen sollen. Ihr werdet es ihr doch nicht abnehmen, oder?"</DefaultText>
+Erschrocken verdeckt er seinen Mund mit seinen Händen. „Oh je. Vielleicht hätte ich das nicht sagen sollen. Ihr werdet es ihr doch nicht abnehmen, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>"Natürlich nicht. Ich wollte nur fragen."</DefaultText>
+      <DefaultText>„Natürlich nicht. Ich wollte nur fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>"Wenn es das ist, wonach ich suche, vielleicht schon."</DefaultText>
+      <DefaultText>„Wenn es das ist, wonach ich suche, vielleicht schon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>"Mach dir keine Sorgen. Ich hätte noch eine andere Frage."</DefaultText>
+      <DefaultText>„Mach dir keine Sorgen. Ich hätte noch eine andere Frage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>"Puh! Sie liebt dieses Ding nämlich."</DefaultText>
+      <DefaultText>„Puh! Sie liebt dieses Ding nämlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>"Ich hoffe nicht. Sie liebt dieses Ding."</DefaultText>
+      <DefaultText>„Ich hoffe nicht. Sie liebt dieses Ding.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>"Oh. Ähm, in Ordnung."</DefaultText>
+      <DefaultText>„Oh. Ähm, in Ordnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>358</ID>
-      <DefaultText>"Wenn ich darüber nachdenke, sollten wir am besten nicht darüber reden."</DefaultText>
+      <DefaultText>„Wenn ich darüber nachdenke, sollten wir am besten nicht darüber reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>Er zuckt mit den Schultern. "Na gut."</DefaultText>
+      <DefaultText>Er zuckt mit den Schultern. „Na gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>"Ich hasse Euch!"</DefaultText>
+      <DefaultText>„Ich hasse Euch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1680,17 +1680,17 @@ Erschrocken verdeckt er seinen Mund mit seinen Händen. "Oh je. Vielleicht hätt
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>"Was ist nochmal ein Stichus?"</DefaultText>
+      <DefaultText>„Was ist nochmal ein Stichus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>366</ID>
-      <DefaultText>"Sie graben. Die Leute glauben, dass sie für das Einstürzen der Häuser verantwortlich sind, weil sie Tunnel unter der Erde buddeln."</DefaultText>
+      <DefaultText>„Sie graben. Die Leute glauben, dass sie für das Einstürzen der Häuser verantwortlich sind, weil sie Tunnel unter der Erde buddeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>"Geht klar. Meine Lippen sind versiegelt."</DefaultText>
+      <DefaultText>„Geht klar. Meine Lippen sind versiegelt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1700,14 +1700,14 @@ Erschrocken verdeckt er seinen Mund mit seinen Händen. "Oh je. Vielleicht hätt
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>"Behandeln die Kultisten euch immer noch gut?"</DefaultText>
+      <DefaultText>„Behandeln die Kultisten euch immer noch gut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>Er nickt. "Sie geben uns lauter tolles Essen ... Woher sie es haben will ich gar nicht wissen. Außerdem behandeln sie uns, als wären wir etwas Besonderes! Immer verbeugen sie sich vor uns und lächeln uns an, weil wir Freunde ihres Gottes sind, sagen sie.
+      <DefaultText>Er nickt. „Sie geben uns lauter tolles Essen ... Woher sie es haben will ich gar nicht wissen. Außerdem behandeln sie uns, als wären wir etwas Besonderes! Immer verbeugen sie sich vor uns und lächeln uns an, weil wir Freunde ihres Gottes sind, sagen sie.“
 
-Der Junge hat ein beschämtes Lächeln im Gesicht. "Hätte nie gedacht, dass jemand *mich* mal so behandelt."</DefaultText>
+Der Junge hat ein beschämtes Lächeln im Gesicht. „Hätte nie gedacht, dass jemand *mich* mal so behandelt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1717,14 +1717,14 @@ Der Junge hat ein beschämtes Lächeln im Gesicht. "Hätte nie gedacht, dass jem
     </Entry>
     <Entry>
       <ID>374</ID>
-      <DefaultText>"Erzähl mir noch einmal, was du über die Flor weißt."</DefaultText>
+      <DefaultText>„Erzähl mir noch einmal, was du über die Flor weißt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>375</ID>
-      <DefaultText>"Viel weiß ich darüber eigentlich nicht. Sie ist eine Art Monster, in dem man leben kann. Mein Vater hat immer erzählt, dass dort verrückte Menschen und Wesen, die gar keine sind, leben ...
+      <DefaultText>„Viel weiß ich darüber eigentlich nicht. Sie ist eine Art Monster, in dem man leben kann. Mein Vater hat immer erzählt, dass dort verrückte Menschen und Wesen, die gar keine sind, leben ...“
 
-"Von der Karawanserei aus könnt ihr sie vielleicht sehen."</DefaultText>
+„Von der Karawanserei aus könnt ihr sie vielleicht sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1739,12 +1739,12 @@ Der Junge hat ein beschämtes Lächeln im Gesicht. "Hätte nie gedacht, dass jem
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>"Lass mich dich stattdessen etwas fragen."</DefaultText>
+      <DefaultText>„Lass mich dich stattdessen etwas fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>"Du hast doch bestimmt Zeit für eine kurze Frage."</DefaultText>
+      <DefaultText>„Du hast doch bestimmt Zeit für eine kurze Frage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1761,39 +1761,39 @@ Der Junge hat ein beschämtes Lächeln im Gesicht. "Hätte nie gedacht, dass jem
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>Avina rennt wütend davon, als sie sieht, was du getan hast. "Du hast die arme Nym einfach so in die Vergessenheit befördert, du Monster! Jetzt bin ich die Einzige, die sich an sie erinnern wird!"</DefaultText>
+      <DefaultText>Avina rennt wütend davon, als sie sieht, was du getan hast. „Du hast die arme Nym einfach so in die Vergessenheit befördert, du Monster! Jetzt bin ich die Einzige, die sich an sie erinnern wird!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>Als sich die Energieströme in seinem Körper zu legen scheinen, blinzelt Zebb verdutzt und schaut sich um. "W-Was ist passiert? Wo steckt Avina?"</DefaultText>
+      <DefaultText>Als sich die Energieströme in seinem Körper zu legen scheinen, blinzelt Zebb verdutzt und schaut sich um. „W-Was ist passiert? Wo steckt Avina?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>384</ID>
-      <DefaultText>"Avina hat sich einen anderen Ort zum Leben gesucht. Vielleicht wäre das auch für dich die beste Lösung."</DefaultText>
+      <DefaultText>„Avina hat sich einen anderen Ort zum Leben gesucht. Vielleicht wäre das auch für dich die beste Lösung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>Als Zebb die Stelle erblickt, in der einst sein Haus stand, runzelt er die Stirn, als versuche er sich an etwas Wichtiges zu erinnern. Einen Augenblick lang scheint er nachzudenken, dann schüttelt er den Kopf. "Ich sehe keinen Grund, länger hier zu bleiben. Aber wo soll ich stattdessen hingehen?"</DefaultText>
+      <DefaultText>Als Zebb die Stelle erblickt, in der einst sein Haus stand, runzelt er die Stirn, als versuche er sich an etwas Wichtiges zu erinnern. Einen Augenblick lang scheint er nachzudenken, dann schüttelt er den Kopf. „Ich sehe keinen Grund, länger hier zu bleiben. Aber wo soll ich stattdessen hingehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>386</ID>
-      <DefaultText>"Weiß ich nicht, du bist ab jetzt wohl auf dich allein gestellt."</DefaultText>
+      <DefaultText>„Weiß ich nicht, du bist ab jetzt wohl auf dich allein gestellt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>387</ID>
-      <DefaultText>Als Zebb die Stelle erblickt, in der einst sein Haus stand, runzelt er die Stirn, als versuche er sich an etwas Wichtiges zu erinnern. Einen Augenblick lang scheint er nachzudenken, dann schüttelt er den Kopf. "Schätze das bin ich."
+      <DefaultText>Als Zebb die Stelle erblickt, in der einst sein Haus stand, runzelt er die Stirn, als versuche er sich an etwas Wichtiges zu erinnern. Einen Augenblick lang scheint er nachzudenken, dann schüttelt er den Kopf. „Schätze das bin ich.“
 
-Ein unsicheres Lächeln liegt auf seinem Gesicht. "Wo soll ich nur hin?"</DefaultText>
+Ein unsicheres Lächeln liegt auf seinem Gesicht. „Wo soll ich nur hin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>388</ID>
-      <DefaultText>"Lebwohl."</DefaultText>
+      <DefaultText>„Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1815,43 +1815,43 @@ Ein unsicheres Lächeln liegt auf seinem Gesicht. "Wo soll ich nur hin?"</Defaul
       <ID>392</ID>
       <DefaultText>Der Junge sitzt regungslos da und starrt auf die Stelle, an der einst sein Zuhause stand. Trotz des Friedens in seinem Herzen trägt er einen verunsicherten Blick.
 
-Er bemerkt, dass du dich näherst. "Ich weiß immer noch nicht, wo ich hingehen soll. Ihr habt nicht zufällig irgendwelche Ideen?"</DefaultText>
+Er bemerkt, dass du dich näherst. „Ich weiß immer noch nicht, wo ich hingehen soll. Ihr habt nicht zufällig irgendwelche Ideen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>393</ID>
-      <DefaultText>"Ich kenne einen Ort am Regierungsplatz, an dem du eine neue Familie finden kannst - das Haus der leeren Zeit."</DefaultText>
+      <DefaultText>„Ich kenne einen Ort am Regierungsplatz, an dem du eine neue Familie finden kannst - das Haus der leeren Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>"Da gibt es einen Ort, von dem ich dir schon einmal erzählt habe - das Haus der leeren Zeit."</DefaultText>
+      <DefaultText>„Da gibt es einen Ort, von dem ich dir schon einmal erzählt habe - das Haus der leeren Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>"Gerade nicht. Aber wenn mir etwas einfällt, lasse ich es dich wissen. Bis später."</DefaultText>
+      <DefaultText>„Gerade nicht. Aber wenn mir etwas einfällt, lasse ich es dich wissen. Bis später.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>396</ID>
-      <DefaultText>"Keine Ahnung, Junge. Lebwohl."</DefaultText>
+      <DefaultText>„Keine Ahnung, Junge. Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>"Ist nicht so, als hätte ich eine große Wahl, oder? Vermutlich brauche ich meine Ausrüstung für die Straße dann nicht mehr. Ihr könnt sie haben. Danke für alles."
+      <DefaultText>„Ist nicht so, als hätte ich eine große Wahl, oder? Vermutlich brauche ich meine Ausrüstung für die Straße dann nicht mehr. Ihr könnt sie haben. Danke für alles.“
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>"Danke, werter Herr! Und alles Gute!"</DefaultText>
-      <FemaleText>"Danke, werte Dame! Und alles Gute!"</FemaleText>
+      <DefaultText>„Danke, werter Herr! Und alles Gute!“</DefaultText>
+      <FemaleText>„Danke, werte Dame! Und alles Gute!“</FemaleText>
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>Zebb starrt weiterhin auf das Haus. "Oh genau! Hatte ich vergessen. Wie konnte ich das vergessen?" Er schüttelt den Kopf und sieht dich an.</DefaultText>
+      <DefaultText>Zebb starrt weiterhin auf das Haus. „Oh genau! Hatte ich vergessen. Wie konnte ich das vergessen?“ Er schüttelt den Kopf und sieht dich an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1861,70 +1861,70 @@ Er bemerkt, dass du dich näherst. "Ich weiß immer noch nicht, wo ich hingehen 
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>"Lebt sonst noch jemand hier?"</DefaultText>
+      <DefaultText>„Lebt sonst noch jemand hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>"Kannst du mir mehr über die Gegend erzählen?"</DefaultText>
+      <DefaultText>„Kannst du mir mehr über die Gegend erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>404</ID>
-      <DefaultText>"Es gab mal eine Frau, die nebenan wohnte. Eine Nano-Zauberin. Doch sie verschwand vor einer Weile."
+      <DefaultText>„Es gab mal eine Frau, die nebenan wohnte. Eine Nano-Zauberin. Doch sie verschwand vor einer Weile.“
 
-"Und ... es gab zwei Türen weiter eine Familie. Wir hörten sie schreien, in der Nacht, als ihr Haus ins Meer stürzte." Er erschauert und wendet sich ab. "Meine Schwester Nym war mit dem kleinen Mädchen aus der Familie befreundet."</DefaultText>
+„Und ... es gab zwei Türen weiter eine Familie. Wir hörten sie schreien, in der Nacht, als ihr Haus ins Meer stürzte.“ Er erschauert und wendet sich ab. „Meine Schwester Nym war mit dem kleinen Mädchen aus der Familie befreundet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>"Hier kommt kaum noch jemand vorbei. Es ist schön und ruhig, schätze ich. Besser als der Rest von Klippenrand."</DefaultText>
+      <DefaultText>„Hier kommt kaum noch jemand vorbei. Es ist schön und ruhig, schätze ich. Besser als der Rest von Klippenrand.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>"Leute suchen nach ihm. Sie sagen, er sei gefährlich."</DefaultText>
+      <DefaultText>„Leute suchen nach ihm. Sie sagen, er sei gefährlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>407</ID>
-      <DefaultText>"Lass das Messer fallen. Jemanden zu töten wird nur alles schlimmer machen."</DefaultText>
+      <DefaultText>„Lass das Messer fallen. Jemanden zu töten wird nur alles schlimmer machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>"Er hätte die anderen aufhalten können! Ich hasse ihn!"
+      <DefaultText>„Er hätte die anderen aufhalten können! Ich hasse ihn!“
 
 Als du dich ihm in den Weg stellst, fuchtelt Zebb mit dem Messer in deine Richtung, dann wirbelt er umher und rennt auf den Müllhaufen in der Nähe zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>Zebb sackt vor dir zusammen und weint hemmungslos. "Aber Nym ist tot! Die Sticha haben ihr keine Gnade erwiesen!"</DefaultText>
+      <DefaultText>Zebb sackt vor dir zusammen und weint hemmungslos. „Aber Nym ist tot! Die Sticha haben ihr keine Gnade erwiesen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>Einen Moment später lässt er das Messer aus den Händen fallen. "Nein ... der Stichus in der Gasse, er ... er ist ausgestoßen. Er hätte die anderen nicht aufhalten können."
+      <DefaultText>Einen Moment später lässt er das Messer aus den Händen fallen. „Nein ... der Stichus in der Gasse, er ... er ist ausgestoßen. Er hätte die anderen nicht aufhalten können.“
 
-Er schließt die Augen. "Ich ... Ich kann nicht glauben, dass ich beinahe ... Es hätte sich schrecklich angefühlt. Ich glaube nicht, dass ich damit hätte leben können. Es ist nur ... es tut so weh, meine Schwester verloren zu haben."</DefaultText>
+Er schließt die Augen. „Ich ... Ich kann nicht glauben, dass ich beinahe ... Es hätte sich schrecklich angefühlt. Ich glaube nicht, dass ich damit hätte leben können. Es ist nur ... es tut so weh, meine Schwester verloren zu haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>"Lord Vuntgen hat die Leute aufgewiegelt ... hat eine Belohnung für denjenigen versprochen, der den 'entarteten Stichus‘ findet." Der Junge deutet in Richtung Westen, von wo aus du leise eine donnernde Stimme und die gebrüllten Antworten einer aufgebrachten Menge vernehmen kannst.
+      <DefaultText>„Lord Vuntgen hat die Leute aufgewiegelt ... hat eine Belohnung für denjenigen versprochen, der den 'entarteten Stichus‘ findet.“ Der Junge deutet in Richtung Westen, von wo aus du leise eine donnernde Stimme und die gebrüllten Antworten einer aufgebrachten Menge vernehmen kannst.
 
-"Sie denken, der Stichus ist *gefährlich*, aber das stimmt nicht. Du hast seine Hände gesehen – er kann nicht graben wie die anderen. Er hat nichts damit zu tun, dass die Häuser einstürzen."</DefaultText>
+„Sie denken, der Stichus ist *gefährlich*, aber das stimmt nicht. Du hast seine Hände gesehen – er kann nicht graben wie die anderen. Er hat nichts damit zu tun, dass die Häuser einstürzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>"Ich habe mit Lord Vuntgen gesprochen. Er wird die Jagd nach deinem Stichus abblasen."</DefaultText>
+      <DefaultText>„Ich habe mit Lord Vuntgen gesprochen. Er wird die Jagd nach deinem Stichus abblasen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>414</ID>
-      <DefaultText>Er starrt dich mit großen Augen und offener Bewunderung an. "Danke! Ich dachte, *niemand* könnte den Sklavenfamilien sagen, was sie tun sollen." Er lächelt. "Der Stichus kann also hierbleiben. Wir werden ihn füttern und verstecken."</DefaultText>
+      <DefaultText>Er starrt dich mit großen Augen und offener Bewunderung an. „Danke! Ich dachte, *niemand* könnte den Sklavenfamilien sagen, was sie tun sollen.“ Er lächelt. „Der Stichus kann also hierbleiben. Wir werden ihn füttern und verstecken.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
