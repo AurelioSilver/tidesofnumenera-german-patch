@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Mein Fluch, Skist-Lecker! Nimm ihn und *stirb*!"</DefaultText>
-      <FemaleText>"Mein Fluch, Skist-Lecker! Nimm ihn und *stirb*!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Versuch noch einmal, Rhin anzufassen, und du verlierst deine Hände!"</DefaultText>
-      <FemaleText>"Versuch noch einmal, Rhin anzufassen, und du verlierst deine Hände!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Niemand verletzt meine Leute! Niemand!"</DefaultText>
-      <FemaleText>"Niemand verletzt meine Leute! Niemand!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Du wirst so viel mehr als nur deine Freunde verlieren."</DefaultText>
-      <FemaleText>"Du wirst so viel mehr als nur deine Freunde verlieren."</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
