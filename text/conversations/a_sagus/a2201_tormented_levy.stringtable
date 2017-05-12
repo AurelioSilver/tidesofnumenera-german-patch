@@ -101,7 +101,7 @@ Er kneift die Augen zu, als ob er versuchen würde, Visionen zu zerschmettern, d
     <Entry>
       <ID>19</ID>
       <DefaultText>Follow-up PQ. 19</DefaultText>
-      <FemaleText>Follow-up PQ. 19</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
@@ -139,7 +139,7 @@ Er kneift die Augen zusammen. "Das Feuer breitete sich auf die Nachbarschaft aus
     <Entry>
       <ID>25</ID>
       <DefaultText>Follow-up PQ. 25</DefaultText>
-      <FemaleText>Follow-up PQ. 25</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -221,7 +221,7 @@ Er taumelt davon, das verkohlte Spielzeug wiegend, und hinterlässt dabei einen 
     <Entry>
       <ID>38</ID>
       <DefaultText>::murmelt::</DefaultText>
-      <FemaleText>::murmelt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
@@ -376,12 +376,12 @@ Stille Tränen laufen über sein Gesicht. Er scheint es nicht zu bemerken. "Das 
     <Entry>
       <ID>72</ID>
       <DefaultText>Er senkt den Kopf und nickt wortlos. Tränen fallen auf den Boden zwischen euch.</DefaultText>
-      <FemaleText>Er senkt den Kopf und nickt wortlos. Tränen fallen auf den Boden zwischen euch.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
       <DefaultText>"Finzin ist bereit, dir ein Jahr seines Lebens zu geben, doch ich habe noch mehr Arbeit zu erledigen, ehe es geschehen kann."</DefaultText>
-      <FemaleText>"Finzin ist bereit, dir ein Jahr seines Lebens zu geben, doch ich habe noch mehr Arbeit zu erledigen, ehe es geschehen kann."</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
