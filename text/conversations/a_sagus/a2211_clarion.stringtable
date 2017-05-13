@@ -13,12 +13,12 @@ Als sie dich sieht, begrüßt sie dich lebhaft.</DefaultText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Die Veteranen wollen immer noch nicht auf mich hören." Ihr Stimme wird kleiner. "Aber meine Verbündeten in der Endlosen Schlacht benötigen ihre Hilfe. Würdet Ihr für mich mit ihnen reden?"</DefaultText>
+      <DefaultText>„Die Veteranen wollen immer noch nicht auf mich hören.“ Ihr Stimme wird kleiner. „Aber meine Verbündeten in der Endlosen Schlacht benötigen ihre Hilfe. Würdet Ihr für mich mit ihnen reden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Willkommen im Fünften Auge, mein Freund!" Sie kommt näher, um leiser reden zu können. "Ihr kommt gerade zur rechten Zeit! Es wird aufregend. Ich habe vergeblich versucht, einige der Veteranen hier davon zu überzeugen, wie unglaublich wertvoll ihr Beitrag zur Endlosen Schlacht wäre. Leider war bisher niemand von meiner Idee begeistert, aber vielleicht könnt Ihr das Blatt wenden."</DefaultText>
+      <DefaultText>„Willkommen im Fünften Auge, mein Freund!“ Sie kommt näher, um leiser reden zu können. „Ihr kommt gerade zur rechten Zeit! Es wird aufregend. Ich habe vergeblich versucht, einige der Veteranen hier davon zu überzeugen, wie unglaublich wertvoll ihr Beitrag zur Endlosen Schlacht wäre. Leider war bisher niemand von meiner Idee begeistert, aber vielleicht könnt Ihr das Blatt wenden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,12 +28,12 @@ Als sie dich sieht, begrüßt sie dich lebhaft.</DefaultText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Könnt Ihr mir etwas über die Veteranen erzählen, die Ihr zu rekrutieren versucht?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir etwas über die Veteranen erzählen, die Ihr zu rekrutieren versucht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Könnt Ihr mir mehr über diese Veteranen erzählen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir mehr über diese Veteranen erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +43,7 @@ Als sie dich sieht, begrüßt sie dich lebhaft.</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Was könnt Ihr mir über die Endlose Schlacht erzählen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir über die Endlose Schlacht erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,12 +58,12 @@ Als sie dich sieht, begrüßt sie dich lebhaft.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Warum versucht Ihr, diese Veteranen zu rekrutieren? Vielleicht sind sie des Krieges überdrüssig."</DefaultText>
+      <DefaultText>„Warum versucht Ihr, diese Veteranen zu rekrutieren? Vielleicht sind sie des Krieges überdrüssig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Reden wir noch einmal über den Nutzen des Konflikts."</DefaultText>
+      <DefaultText>„Reden wir noch einmal über den Nutzen des Konflikts.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,22 +73,22 @@ Als sie dich sieht, begrüßt sie dich lebhaft.</DefaultText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ich habe Neuigkeiten, was meine Rekrutierungsversuche angeht."</DefaultText>
+      <DefaultText>„Ich habe Neuigkeiten, was meine Rekrutierungsversuche angeht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ich habe weitere Neuigkeiten, was meine Rekrutierungsversuche angeht."</DefaultText>
+      <DefaultText>„Ich habe weitere Neuigkeiten, was meine Rekrutierungsversuche angeht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Jernaugh schickt mich."</DefaultText>
+      <DefaultText>„Jernaugh schickt mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Sie zeigt ein breites Lächeln. "Jernaugh ist ein guter Freund von mir. Ein Verbündeter. Und ein kluger Mann."</DefaultText>
+      <DefaultText>Sie zeigt ein breites Lächeln. „Jernaugh ist ein guter Freund von mir. Ein Verbündeter. Und ein kluger Mann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,101 +98,101 @@ Als sie dich sieht, begrüßt sie dich lebhaft.</DefaultText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich habe noch einmal darüber nachgedacht. Ich werde Euch helfen, diese Veteranen zu rekrutieren."</DefaultText>
+      <DefaultText>„Ich habe noch einmal darüber nachgedacht. Ich werde Euch helfen, diese Veteranen zu rekrutieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ich werde Euch helfen, diese Veteranen zu rekrutieren."</DefaultText>
+      <DefaultText>„Ich werde Euch helfen, diese Veteranen zu rekrutieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ich kann Euch nicht helfen. Aber *Ihr* könntet mir ein paar Fragen beantworten."</DefaultText>
+      <DefaultText>„Ich kann Euch nicht helfen. Aber *Ihr* könntet mir ein paar Fragen beantworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich kann Euch nicht helfen. Lebt wohl."</DefaultText>
+      <DefaultText>„Ich kann Euch nicht helfen. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Wenn Ihr eine Meinung ändern solltet, wisst Ihr ja, wo Ihr mich findet."</DefaultText>
+      <DefaultText>„Wenn Ihr eine Meinung ändern solltet, wisst Ihr ja, wo Ihr mich findet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ich konnte Dhama für Eure Sache gewinnen."</DefaultText>
+      <DefaultText>„Ich konnte Dhama für Eure Sache gewinnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ich konnte Theboros für Eure Sache gewinnen."</DefaultText>
+      <DefaultText>„Ich konnte Theboros für Eure Sache gewinnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ich konnte Leto für Eure Sache gewinnen."</DefaultText>
+      <DefaultText>„Ich konnte Leto für Eure Sache gewinnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich habe mit Ziobe gesprochen. Sie weigert sich, die Bar zu verlassen."</DefaultText>
+      <DefaultText>„Ich habe mit Ziobe gesprochen. Sie weigert sich, die Bar zu verlassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich habe mit Feriok gesprochen. Er weigert sich, die Bar zu verlassen."</DefaultText>
+      <DefaultText>„Ich habe mit Feriok gesprochen. Er weigert sich, die Bar zu verlassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Erzählt mir davon."</DefaultText>
+      <DefaultText>„Erzählt mir davon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Reden wir über etwas anderes."</DefaultText>
+      <DefaultText>„Reden wir über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Aber natürlich", säuselt sie.</DefaultText>
+      <DefaultText>„Aber natürlich“, säuselt sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich bin erst einmal fertig mit Rekrutieren."</DefaultText>
+      <DefaultText>„Ich bin erst einmal fertig mit Rekrutieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Ich freue mich auf Eure Rückkehr."</DefaultText>
+      <DefaultText>„Ich freue mich auf Eure Rückkehr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Nicht nur meine Dankbarkeit, sondern auch eine großzügige Belohnung wartet auf Euch, mein Freund."
+      <DefaultText>„Nicht nur meine Dankbarkeit, sondern auch eine großzügige Belohnung wartet auf Euch, mein Freund.“
 
-Sie beginnt, auf einige Gestalten zu zeigen. "An der Bar dort, die Frau in der Wüstenkleidung - das ist Leto. Etwas hinter der Bar findet Ihr Feriok. Und am Tisch dort sitzt Ziobe."</DefaultText>
+Sie beginnt, auf einige Gestalten zu zeigen. „An der Bar dort, die Frau in der Wüstenkleidung - das ist Leto. Etwas hinter der Bar findet Ihr Feriok. Und am Tisch dort sitzt Ziobe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"So hört es sich an", sagt sie. "Sie ist aus einem Riss zwischen dem Wandelnden Gott und einem seiner Nachfahren entstanden und hat Jahrhunderte überdauert. Sie wütet wieder und wieder über dieselben Schlachtfelder, mit der tödlichsten Technologie alter Zivilisationen. Die Gegend ist mittlerweile bis zur Unkenntlichkeit verschandelt. Die Mauern zwischen den Dimensionen sind dort sehr dünn. Jeden Tag kommen neue Schrecken in unsere Welt."
+      <DefaultText>„So hört es sich an“, sagt sie. „Sie ist aus einem Riss zwischen dem Wandelnden Gott und einem seiner Nachfahren entstanden und hat Jahrhunderte überdauert. Sie wütet wieder und wieder über dieselben Schlachtfelder, mit der tödlichsten Technologie alter Zivilisationen. Die Gegend ist mittlerweile bis zur Unkenntlichkeit verschandelt. Die Mauern zwischen den Dimensionen sind dort sehr dünn. Jeden Tag kommen neue Schrecken in unsere Welt.“
 
-Sie steht vor dir, beide Waffen gezückt. "Schlimmer noch, denn in den letzten paar Jahren hat sich die Schlacht ausgebreitet."</DefaultText>
+Sie steht vor dir, beide Waffen gezückt. „Schlimmer noch, denn in den letzten paar Jahren hat sich die Schlacht ausgebreitet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -202,14 +202,14 @@ Sie steht vor dir, beide Waffen gezückt. "Schlimmer noch, denn in den letzten p
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Der Konflikt prägt uns alle. Er macht uns stärker und scharfsinniger, als wir sonst je sein könnten. Wenn man sich vor ihm versteckt, erfährt man nie, wie stark man hätte werden können ... oder noch schlimmer, man wird für jeden, der stärker und grausamer ist als man selbst, zur Beute."
+      <DefaultText>Sie schüttelt den Kopf. „Der Konflikt prägt uns alle. Er macht uns stärker und scharfsinniger, als wir sonst je sein könnten. Wenn man sich vor ihm versteckt, erfährt man nie, wie stark man hätte werden können ... oder noch schlimmer, man wird für jeden, der stärker und grausamer ist als man selbst, zur Beute.“
 
-Sie greift deine Schultern. "Diese Veteranen sind faul und selbstgefällig geworden. Ich will ihnen helfen, das wiederzugeben, was sie verloren haben. Nein ... Ich werde sie zu noch etwas *Größerem* machen, als sie schon waren."</DefaultText>
+Sie greift deine Schultern. „Diese Veteranen sind faul und selbstgefällig geworden. Ich will ihnen helfen, das wiederzugeben, was sie verloren haben. Nein ... Ich werde sie zu noch etwas *Größerem* machen, als sie schon waren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Was gibt es da zu reden? Herausforderung, Antwort. These, Antithese, Synthese. Wir können nur stärker werden, wenn wir unsere Schwächen überwinden. Oder glaubt Ihr, dass Eure Muskeln wachsen, wenn ihr so nie benutzt? Glaubt Ihr, dass eure Sinne schärfer werden, wenn Ihr die Wand anstarrt? Das ganze Leben ist ein Konflikt. Ohne Konflikt herrscht ... Stillstand. Oder schlimmer noch, Rückgang."
+      <DefaultText>„Was gibt es da zu reden? Herausforderung, Antwort. These, Antithese, Synthese. Wir können nur stärker werden, wenn wir unsere Schwächen überwinden. Oder glaubt Ihr, dass Eure Muskeln wachsen, wenn ihr so nie benutzt? Glaubt Ihr, dass eure Sinne schärfer werden, wenn Ihr die Wand anstarrt? Das ganze Leben ist ein Konflikt. Ohne Konflikt herrscht ... Stillstand. Oder schlimmer noch, Rückgang.“
 
 Ihre Augen leuchten vor Zuversicht.</DefaultText>
       <FemaleText />
@@ -221,12 +221,12 @@ Ihre Augen leuchten vor Zuversicht.</DefaultText>
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Ich bin an vielen Orten nicht willkommen. Und noch nie habe ich solch einen Ort verlassen, ohne aus freien Stücken zu gehen. Es ist bedauerlich, dass ich für diese Leute ein Ärgernis darstelle, aber vielleicht sollten sie darüber nachdenken, warum das so ist? Fürchten sie sich etwa vor der Herausforderung?"</DefaultText>
+      <DefaultText>„Ich bin an vielen Orten nicht willkommen. Und noch nie habe ich solch einen Ort verlassen, ohne aus freien Stücken zu gehen. Es ist bedauerlich, dass ich für diese Leute ein Ärgernis darstelle, aber vielleicht sollten sie darüber nachdenken, warum das so ist? Fürchten sie sich etwa vor der Herausforderung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ihr habt wirklich die großen Drei für die Sache gewinnen können? Ich hätte das nie für möglich gehalten. Vielleicht sollten wir über eine etwas langfristigere Anstellung für Euch nachdenken. Die Endlose Schlacht erwartet ihr kommen, und sollten diese Veteranen hier sie überleben, werden sie zu den meistgefürchtetsten Kriegern zählen, die diese Welt je gesehen hat. Dank Eurer Hilfe ist die Welt heute ein Stückchen besser geworden. Nehmt das hier als Eure Belohnung."
+      <DefaultText>„Ihr habt wirklich die großen Drei für die Sache gewinnen können? Ich hätte das nie für möglich gehalten. Vielleicht sollten wir über eine etwas langfristigere Anstellung für Euch nachdenken. Die Endlose Schlacht erwartet ihr kommen, und sollten diese Veteranen hier sie überleben, werden sie zu den meistgefürchtetsten Kriegern zählen, die diese Welt je gesehen hat. Dank Eurer Hilfe ist die Welt heute ein Stückchen besser geworden. Nehmt das hier als Eure Belohnung.“
 
 Sie überreicht dir ein seltsames Gerät.
 
@@ -235,21 +235,21 @@ Sie überreicht dir ein seltsames Gerät.
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Zwei von ihnen sind einverstanden? Ihr wirkt wahrlich Wunder. Sie werden die Schärfe der Existenz und die Wahrheit der Realität schon bald mit eigenen Augen erkennen. Sie werden stärker und besser sein, als sie je waren. Ihr habt ihnen - und der gesamten Welt - einen großen Gefallen getan. Hier. Nehmt das hier als Eure Belohnung."
+      <DefaultText>„Zwei von ihnen sind einverstanden? Ihr wirkt wahrlich Wunder. Sie werden die Schärfe der Existenz und die Wahrheit der Realität schon bald mit eigenen Augen erkennen. Sie werden stärker und besser sein, als sie je waren. Ihr habt ihnen - und der gesamten Welt - einen großen Gefallen getan. Hier. Nehmt das hier als Eure Belohnung.“
 
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Nur einer...? Was für eine Schande. Und trotzdem ist es mehr, als ich zu erreichen vermochte. Wenn wir zurückkehren, gestählter und geschickter als vorher, werdet Ihr den Nutzen erkennen. Ihr habt mir - und der gesamten Welt - einen großen Gefallen getan. Nehmt das als ein Zeichen meiner Dankbarkeit."
+      <DefaultText>„Nur einer...? Was für eine Schande. Und trotzdem ist es mehr, als ich zu erreichen vermochte. Wenn wir zurückkehren, gestählter und geschickter als vorher, werdet Ihr den Nutzen erkennen. Ihr habt mir - und der gesamten Welt - einen großen Gefallen getan. Nehmt das als ein Zeichen meiner Dankbarkeit.“
 
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Fantastisch! Er ist der Schlüssel, um den Rest von ihnen überzeugen zu können."</DefaultText>
+      <DefaultText>„Fantastisch! Er ist der Schlüssel, um den Rest von ihnen überzeugen zu können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -274,81 +274,81 @@ Sie überreicht dir ein seltsames Gerät.
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Ein Krieger der Zungen ist immer willkommen. Die Worte und Visionen, die er prägt, werden zentral für unsere Mission sein."</DefaultText>
+      <DefaultText>„Ein Krieger der Zungen ist immer willkommen. Die Worte und Visionen, die er prägt, werden zentral für unsere Mission sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Die Fähigkeiten eines Sehers werden sehr nützlich sein - für einen Strategen und Taktiker gibt es nichts wichtigeres, als Wendepunkte zu erkennen und rechtzeitig zu handeln."</DefaultText>
+      <DefaultText>„Die Fähigkeiten eines Sehers werden sehr nützlich sein - für einen Strategen und Taktiker gibt es nichts wichtigeres, als Wendepunkte zu erkennen und rechtzeitig zu handeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Was für eine Schande. Sie ist stark und weise. Vielleicht sind die anderen gewillt, sich dieser Prüfung zu stellen."</DefaultText>
+      <DefaultText>„Was für eine Schande. Sie ist stark und weise. Vielleicht sind die anderen gewillt, sich dieser Prüfung zu stellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Sie zuckt mit den Schultern. "Er ist seit der letzten Schlacht einfach nicht mehr derselbe. Seine Kräfte scheinen sich verändert zu haben, aber er ist nicht merkbar mächtiger geworden. Kein großer Verlust."</DefaultText>
+      <DefaultText>Sie zuckt mit den Schultern. „Er ist seit der letzten Schlacht einfach nicht mehr derselbe. Seine Kräfte scheinen sich verändert zu haben, aber er ist nicht merkbar mächtiger geworden. Kein großer Verlust.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Auf einen kurzen Moment der Irritation folgt ein verbindliches Lächeln. "Vielleicht überlegt Ihr es Euch später anders. Kann ich in der Zwischenzeit etwas für Euch tun?"</DefaultText>
+      <DefaultText>Auf einen kurzen Moment der Irritation folgt ein verbindliches Lächeln. „Vielleicht überlegt Ihr es Euch später anders. Kann ich in der Zwischenzeit etwas für Euch tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ihr wollt einen Konflikt? Ihr wollt Blutvergießen? Warum fangen wir nicht mit Eurem Blut an?"</DefaultText>
+      <DefaultText>„Ihr wollt einen Konflikt? Ihr wollt Blutvergießen? Warum fangen wir nicht mit Eurem Blut an?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"In Ordnung. Ich hätte da noch ein paar andere Fragen."</DefaultText>
+      <DefaultText>„In Ordnung. Ich hätte da noch ein paar andere Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Vergesst es. Lebt wohl."</DefaultText>
+      <DefaultText>„Vergesst es. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Stets zu Diensten."</DefaultText>
+      <DefaultText>„Stets zu Diensten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Sie zieht eine Augenbraue hoch. "Das war leichter, als ich dachte. Was liegt Euch auf dem Herzen?"</DefaultText>
+      <DefaultText>Sie zieht eine Augenbraue hoch. „Das war leichter, als ich dachte. Was liegt Euch auf dem Herzen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Zum ersten Mal scheint sie die Fassung zu verlieren. "Würdet Ihr ... das würdet Ihr nicht. Hier gibt es ein striktes Verbot von Gewalt. Sie werden nicht zulassen, dass Ihr mich anfasst. Oder?"
+      <DefaultText>Zum ersten Mal scheint sie die Fassung zu verlieren. „Würdet Ihr ... das würdet Ihr nicht. Hier gibt es ein striktes Verbot von Gewalt. Sie werden nicht zulassen, dass Ihr mich anfasst. Oder?“
 
 Vorsichtig beobachtet sie dein Gesicht und schaut sich dann nach den anderen Gästen um. Du kannst spüren, dass die Aufmerksamkeit des Raumes euch beiden gilt, auch wenn niemand sich zu euch umdreht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Sie lacht entzückt. "Was für ein Kampfgeist! Ihr werdet hier drin klein Blut vergießen. Gewalt ist hier nicht gerne gesehen, deshalb herrscht ein striktes Verbot. Warum glaubt Ihr, hätte ich mich sonst so lange hier niedergelassen? Kommt. Verhalten wir uns *zivilisiert*." Sie grinst verräterisch.</DefaultText>
+      <DefaultText>Sie lacht entzückt. „Was für ein Kampfgeist! Ihr werdet hier drin klein Blut vergießen. Gewalt ist hier nicht gerne gesehen, deshalb herrscht ein striktes Verbot. Warum glaubt Ihr, hätte ich mich sonst so lange hier niedergelassen? Kommt. Verhalten wir uns *zivilisiert*.“ Sie grinst verräterisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ich ... schon gut. Wenn es das ist, was sie wollen, dann werde ich gehen. Ich kann keinen Ärger gebrauchen. Bitte - bitte entschuldigt mich."
+      <DefaultText>„Ich ... schon gut. Wenn es das ist, was sie wollen, dann werde ich gehen. Ich kann keinen Ärger gebrauchen. Bitte - bitte entschuldigt mich.“
 
 Sie läuft hastig zur Tür, sichtbar bemüht, es nicht wie eine Flucht aussehen zu lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Wenn die Gastfreundschaft aufgebraucht ist, sollte man lieber gehen. Oder der Gastgeber schickt jemanden, der Euch dazu bringt, zu gehen."</DefaultText>
+      <DefaultText>„Wenn die Gastfreundschaft aufgebraucht ist, sollte man lieber gehen. Oder der Gastgeber schickt jemanden, der Euch dazu bringt, zu gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Sie taumelt zurück und hält dabei ihren Kopf fest. Aus ihrer Nase spritzt Blut wie aus einer Fontäne. Verzweifelt versucht sie, den Schwall mit ihren Händen zu stoppen. Schließlich geht sie auf die Knie. "Bei den Göttern ...! Ich gehe ... Ich gehe!"
+      <DefaultText>Sie taumelt zurück und hält dabei ihren Kopf fest. Aus ihrer Nase spritzt Blut wie aus einer Fontäne. Verzweifelt versucht sie, den Schwall mit ihren Händen zu stoppen. Schließlich geht sie auf die Knie. „Bei den Göttern ...! Ich gehe ... Ich gehe!“
 
 Für einen kurzen Augenblick lang starren dich die anderen Gäste der Bar an, bevor sie ihre desinteressierten Gesichter wieder ab- und sich ihren eigenen Angelegenheiten zuwenden.</DefaultText>
       <FemaleText />
@@ -360,19 +360,19 @@ Für einen kurzen Augenblick lang starren dich die anderen Gäste der Bar an, be
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Sie haben zahlreiche Schlachten geschlagen und sind als Sieger hervorgegangen. Manche von ihnen haben Entscheidungen mit weitreichenden Folgen getroffen. Sie sind gerissen und klug, zumindest reden die Leute so über sie. Im Zuge der Dritten Inversion bespielsweise gelangten sie in eine neue Dimension und ... Ich möchte Euch nicht mit Details langweilen, deshalb machen wir es kurz: Sie waren der Mittelpunkt einer Offensive, die den Verlauf des gesamten Konflikts zu verändern vermochte."</DefaultText>
+      <DefaultText>„Sie haben zahlreiche Schlachten geschlagen und sind als Sieger hervorgegangen. Manche von ihnen haben Entscheidungen mit weitreichenden Folgen getroffen. Sie sind gerissen und klug, zumindest reden die Leute so über sie. Im Zuge der Dritten Inversion bespielsweise gelangten sie in eine neue Dimension und ... Ich möchte Euch nicht mit Details langweilen, deshalb machen wir es kurz: Sie waren der Mittelpunkt einer Offensive, die den Verlauf des gesamten Konflikts zu verändern vermochte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Sie runzelt die Stirn. "Ihre Fähigkeiten halten sie größtenteils vor mir geheim. Ich habe sie nie in Aktion gesehen, aber die Geschichten sprechen von fünf Gefährten, die den Verlauf ganzer Kriege verändern konnten."</DefaultText>
+      <DefaultText>Sie runzelt die Stirn. „Ihre Fähigkeiten halten sie größtenteils vor mir geheim. Ich habe sie nie in Aktion gesehen, aber die Geschichten sprechen von fünf Gefährten, die den Verlauf ganzer Kriege verändern konnten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Angrenzende Siedlungen - einige davon gegründet, um die Kämpfer mit Rationen zu versorgen, andere mit einer Geschichte, die lange vor dem Konflikt begann - geraten in letzter Zeit mehr und mehr in den Sog des Chaos."
+      <DefaultText>„Angrenzende Siedlungen - einige davon gegründet, um die Kämpfer mit Rationen zu versorgen, andere mit einer Geschichte, die lange vor dem Konflikt begann - geraten in letzter Zeit mehr und mehr in den Sog des Chaos.“
 
-Sie runzelt die Stirn. "Es ist noch nicht zu spät, den Verlauf der Schlacht zu ändern ... wenn wir nur genug Krieger um uns versammeln können, die dazu beitragen. Deshalb bin ich hier. Und deshalb brauche ich Eure Hilfe."</DefaultText>
+Sie runzelt die Stirn. „Es ist noch nicht zu spät, den Verlauf der Schlacht zu ändern ... wenn wir nur genug Krieger um uns versammeln können, die dazu beitragen. Deshalb bin ich hier. Und deshalb brauche ich Eure Hilfe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -382,17 +382,17 @@ Sie runzelt die Stirn. "Es ist noch nicht zu spät, den Verlauf der Schlacht zu 
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Vor Kurzem erst wurde das Dorf Kholn in diesen Wahnsinn verwickelt. Viele unschuldige Leben wurden vernichtet."</DefaultText>
+      <DefaultText>„Vor Kurzem erst wurde das Dorf Kholn in diesen Wahnsinn verwickelt. Viele unschuldige Leben wurden vernichtet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Das Dorf Kholn droht, von der Endlosen Schlacht verschlungen zu werden. Es geht um Leben und Tod!"</DefaultText>
+      <DefaultText>„Das Dorf Kholn droht, von der Endlosen Schlacht verschlungen zu werden. Es geht um Leben und Tod!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Es ist noch nicht zu spät, den Verlauf der Schlacht zu ändern ... wenn wir nur genug Krieger um uns versammeln können, die dazu beitragen. Deshalb bin ich hier. Und deshalb brauche ich Eure Hilfe."</DefaultText>
+      <DefaultText>„Es ist noch nicht zu spät, den Verlauf der Schlacht zu ändern ... wenn wir nur genug Krieger um uns versammeln können, die dazu beitragen. Deshalb bin ich hier. Und deshalb brauche ich Eure Hilfe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,12 +402,12 @@ Sie runzelt die Stirn. "Es ist noch nicht zu spät, den Verlauf der Schlacht zu 
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Ihr Stimme wird leiser. "An der Seite von Ziobe seht Ihr Theboros. Er ist älter und erfahrener."</DefaultText>
+      <DefaultText>Ihr Stimme wird leiser. „An der Seite von Ziobe seht Ihr Theboros. Er ist älter und erfahrener.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Sie deutet mit dem Kinn auf dein letztes Ziel. "Und er dort würde dem ganzen die Krone aufsetzen. Dhama, ihr Anführer."</DefaultText>
+      <DefaultText>Sie deutet mit dem Kinn auf dein letztes Ziel. „Und er dort würde dem ganzen die Krone aufsetzen. Dhama, ihr Anführer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -417,7 +417,7 @@ Sie runzelt die Stirn. "Es ist noch nicht zu spät, den Verlauf der Schlacht zu 
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ihr wollt einen Konflikt? Ihr wollt Blutvergießen? Warum fangen wir nicht mit Eurem Blut an?"</DefaultText>
+      <DefaultText>„Ihr wollt einen Konflikt? Ihr wollt Blutvergießen? Warum fangen wir nicht mit Eurem Blut an?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -427,12 +427,12 @@ Sie runzelt die Stirn. "Es ist noch nicht zu spät, den Verlauf der Schlacht zu 
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Erzählt mir etwas über Euch."</DefaultText>
+      <DefaultText>„Erzählt mir etwas über Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Könnt Ihr mir noch einmal von Euch erzählen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir noch einmal von Euch erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -442,12 +442,12 @@ Sie runzelt die Stirn. "Es ist noch nicht zu spät, den Verlauf der Schlacht zu 
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Erzählt mir noch einmal, was Ihr über die Endlose Schlacht wisst."</DefaultText>
+      <DefaultText>„Erzählt mir noch einmal, was Ihr über die Endlose Schlacht wisst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Worum handelte es sich noch einmal bei der Endlosen Schlacht?"</DefaultText>
+      <DefaultText>„Worum handelte es sich noch einmal bei der Endlosen Schlacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -457,12 +457,12 @@ Sie runzelt die Stirn. "Es ist noch nicht zu spät, den Verlauf der Schlacht zu 
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ich bin Clarion. Ich bin auf der Suche nach fähigen Kriegern, tapfere Seelen, die uns in der Endlosen Schlacht zur Seite stehen ... um den Vormarsch unserer Feinde zu stoppen."</DefaultText>
+      <DefaultText>„Ich bin Clarion. Ich bin auf der Suche nach fähigen Kriegern, tapfere Seelen, die uns in der Endlosen Schlacht zur Seite stehen ... um den Vormarsch unserer Feinde zu stoppen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Ich bin Clarion. Ich rekrutiere Krieger für die Endlose Schlacht."</DefaultText>
+      <DefaultText>„Ich bin Clarion. Ich rekrutiere Krieger für die Endlose Schlacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -472,12 +472,12 @@ Sie runzelt die Stirn. "Es ist noch nicht zu spät, den Verlauf der Schlacht zu 
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Sie ist natürlich nicht wirklich endlos. Der Name rührt daher, dass sie schon Jahrhunderte lang anhält. Führt Euch kurz die Wunder vor Augen, die die zurückgelassenen Fragmente der uralten Zivilisationen vollbringen können. Und jetzt stellt Euch vor, jemand würde sie dazu nutzen, Chaos und Zerstörung zu verbreiten. Unser Land wäre verloren. Doch durch solch eine Zerstörung, solch eine mächtige Energie werden Helden geboren."</DefaultText>
+      <DefaultText>„Sie ist natürlich nicht wirklich endlos. Der Name rührt daher, dass sie schon Jahrhunderte lang anhält. Führt Euch kurz die Wunder vor Augen, die die zurückgelassenen Fragmente der uralten Zivilisationen vollbringen können. Und jetzt stellt Euch vor, jemand würde sie dazu nutzen, Chaos und Zerstörung zu verbreiten. Unser Land wäre verloren. Doch durch solch eine Zerstörung, solch eine mächtige Energie werden Helden geboren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Ein Schmelztiegel aus Feuer und Blut. Er dauert schon seit Hunderten von Jahren an und wird immer größer, immer grausamer."</DefaultText>
+      <DefaultText>„Ein Schmelztiegel aus Feuer und Blut. Er dauert schon seit Hunderten von Jahren an und wird immer größer, immer grausamer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -487,42 +487,42 @@ Sie runzelt die Stirn. "Es ist noch nicht zu spät, den Verlauf der Schlacht zu 
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Ihr seid hier nicht erwünscht. Die Veteranen fordern Euch auf, zu gehen."</DefaultText>
+      <DefaultText>„Ihr seid hier nicht erwünscht. Die Veteranen fordern Euch auf, zu gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Ich muss Euch noch einmal dazu auffordern, zu gehen."</DefaultText>
+      <DefaultText>„Ich muss Euch noch einmal dazu auffordern, zu gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Der Ansatz eines verschmitzten Lächelns ist auf ihrem Gesicht zu erkennen. "Fragt Ihr euch denn gar nicht, warum das so ist? Bin ich für Euch in irgendeiner Art und Weise gefährlich?"</DefaultText>
+      <DefaultText>Der Ansatz eines verschmitzten Lächelns ist auf ihrem Gesicht zu erkennen. „Fragt Ihr euch denn gar nicht, warum das so ist? Bin ich für Euch in irgendeiner Art und Weise gefährlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Ich habe mit Theboros gesprochen. Er hat darüber nachgedacht und beschlossen, nicht zu gehen."</DefaultText>
+      <DefaultText>„Ich habe mit Theboros gesprochen. Er hat darüber nachgedacht und beschlossen, nicht zu gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Was für ein Jammer. Seine einzigartigen Fähigkeiten wären von großem Nutzen für uns gewesen. Hoffen wir, dass die anderen etwas mehr Rückgrat zeigen."</DefaultText>
+      <DefaultText>„Was für ein Jammer. Seine einzigartigen Fähigkeiten wären von großem Nutzen für uns gewesen. Hoffen wir, dass die anderen etwas mehr Rückgrat zeigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Sie überlegt einen Moment lang. "Theboros wäre ein idealer Kandidat für uns gewesen, wenn er überlebt hätte."</DefaultText>
+      <DefaultText>Sie überlegt einen Moment lang. „Theboros wäre ein idealer Kandidat für uns gewesen, wenn er überlebt hätte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Sie schüttelt traurig den Kopf. "Dhama wäre eine hervorragende Ergänzung für unsere Truppen gewesen. Er war ein geborener Anführer, hatte Charisma. Aber das Leben geht weiter."</DefaultText>
+      <DefaultText>Sie schüttelt traurig den Kopf. „Dhama wäre eine hervorragende Ergänzung für unsere Truppen gewesen. Er war ein geborener Anführer, hatte Charisma. Aber das Leben geht weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Sie senkt langsam ihren Kopf. "Hätten Dhama und Theboros überlebt, wären sie eine hervorragende Ergänzung für unsere Truppen gewesen ... aber ganz offensichtlich waren sie nicht mehr auf dem Zenit ihrer Fähigkeiten. Vielleicht ist es so besser."</DefaultText>
+      <DefaultText>Sie senkt langsam ihren Kopf. „Hätten Dhama und Theboros überlebt, wären sie eine hervorragende Ergänzung für unsere Truppen gewesen ... aber ganz offensichtlich waren sie nicht mehr auf dem Zenit ihrer Fähigkeiten. Vielleicht ist es so besser.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -532,24 +532,24 @@ Sie runzelt die Stirn. "Es ist noch nicht zu spät, den Verlauf der Schlacht zu 
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Für welche Seite rekrutiert Ihr Eure Krieger?"</DefaultText>
+      <DefaultText>„Für welche Seite rekrutiert Ihr Eure Krieger?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Für die Seite des Wandelnden Gottes natürlich. Er war schon immer der Schutzpatron der Sagusklippen. Vielleicht würden wir ohne seine Leben und seine Verstoßenen jetzt nicht leben - zumindest wären wir anders."
+      <DefaultText>„Für die Seite des Wandelnden Gottes natürlich. Er war schon immer der Schutzpatron der Sagusklippen. Vielleicht würden wir ohne seine Leben und seine Verstoßenen jetzt nicht leben - zumindest wären wir anders.“
 
-Sie unterbricht sich selbst. "Aber das ist nicht der *einzige* Grund. Die Streitkräfte des Wandelnden Gottes sind mit den Städten und Dörfern der Verxulianischen Einöde verbündet. Wir bemühen uns, der Ausbreitung der Endlosen Schlacht hinter ihre Grenzen Einhalt zu gebieten und sie davor zu bewahren, noch größer zu werden."</DefaultText>
+Sie unterbricht sich selbst. „Aber das ist nicht der *einzige* Grund. Die Streitkräfte des Wandelnden Gottes sind mit den Städten und Dörfern der Verxulianischen Einöde verbündet. Wir bemühen uns, der Ausbreitung der Endlosen Schlacht hinter ihre Grenzen Einhalt zu gebieten und sie davor zu bewahren, noch größer zu werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Der Feind hat schon einmal versucht, über die Einöde hinweg zu fegen. Vor dem Dorf Kholn kam es durch einen Verrat aus den eigenen Reihen zum Stillstand. Jetzt haben sie es wieder auf das Dorf abgesehen."</DefaultText>
+      <DefaultText>„Der Feind hat schon einmal versucht, über die Einöde hinweg zu fegen. Vor dem Dorf Kholn kam es durch einen Verrat aus den eigenen Reihen zum Stillstand. Jetzt haben sie es wieder auf das Dorf abgesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Der Feind hat schon einmal versucht, über die Einöde hinweg zu fegen. Einige Jahrhunderte zuvor haben sie die Verbündeten des Wandelnden Gottes hintergangen ... dadurch konnten sie eine ganze Armee der Sandritter auslöschen und die Hälfte der Siedlungen in der Einöde einnehmen. Das werden wir nicht noch einmal zulassen."</DefaultText>
+      <DefaultText>„Der Feind hat schon einmal versucht, über die Einöde hinweg zu fegen. Einige Jahrhunderte zuvor haben sie die Verbündeten des Wandelnden Gottes hintergangen ... dadurch konnten sie eine ganze Armee der Sandritter auslöschen und die Hälfte der Siedlungen in der Einöde einnehmen. Das werden wir nicht noch einmal zulassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -579,29 +579,29 @@ Sie unterbricht sich selbst. "Aber das ist nicht der *einzige* Grund. Die Streit
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Für welche Seite rekrutiert Ihr nochmal?"</DefaultText>
+      <DefaultText>„Für welche Seite rekrutiert Ihr nochmal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Die des Wandelnden Gottes", sagt sie voller Stolz. "Wir haben uns mit den verbleibenden Dörfern und Städten in der Verxulianischen Wüste verbündet. Unsere Streitkräfte versuchen, den Feind davon abzuhalten, die gesamte Einöde zu vernichten. Wir werden die Endlose Schlacht so gut es geht in Zaum halten."</DefaultText>
+      <DefaultText>„Die des Wandelnden Gottes“, sagt sie voller Stolz. „Wir haben uns mit den verbleibenden Dörfern und Städten in der Verxulianischen Wüste verbündet. Unsere Streitkräfte versuchen, den Feind davon abzuhalten, die gesamte Einöde zu vernichten. Wir werden die Endlose Schlacht so gut es geht in Zaum halten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Matkina, weißt du etwas über die Endlose Schlacht?"</DefaultText>
+      <DefaultText>„Matkina, weißt du etwas über die Endlose Schlacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Natürlich ... und du auch. Wir waren schließlich *dort*." Clarions Blick wandert verwirrt zwischen euch hin und her.</DefaultText>
+      <DefaultText>„Natürlich ... und du auch. Wir waren schließlich *dort*.“ Clarions Blick wandert verwirrt zwischen euch hin und her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>Matkina stellt sich, dass euch niemand anders hören kann, und flüstert dann: Der 'Verrat', von dem sie geredet hat ... das ist im Dorf Kholn passiert. Paj Rekken, die Miliz ... sie waren 'der Feind'."
+      <DefaultText>Matkina stellt sich, dass euch niemand anders hören kann, und flüstert dann: „Der 'Verrat', von dem sie geredet hat ... das ist im Dorf Kholn passiert. Paj Rekken, die Miliz ... sie waren 'der Feind'.“
 
-Sie greift nach deinem Arm. "Wenn diese Frau Soldaten rekrutiert, um gegen Paj Rekken zu kämpfen, sollten wir alles tun, um ihr zu helfen."</DefaultText>
+Sie greift nach deinem Arm. „Wenn diese Frau Soldaten rekrutiert, um gegen Paj Rekken zu kämpfen, sollten wir alles tun, um ihr zu helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,32 +611,32 @@ Sie greift nach deinem Arm. "Wenn diese Frau Soldaten rekrutiert, um gegen Paj R
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Das alles interessiert mich nicht", murmelt Matkina. "Aber so können wir in Kholn für Gerechtigkeit sorgen. Und wenn es nach mir ginge, wäre das nur der Anfang."</DefaultText>
+      <DefaultText>„Das alles interessiert mich nicht“, murmelt Matkina. „Aber so können wir in Kholn für Gerechtigkeit sorgen. Und wenn es nach mir ginge, wäre das nur der Anfang.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Wenn ich Euch helfe, bekomme ich etwas dafür?"</DefaultText>
+      <DefaultText>„Wenn ich Euch helfe, bekomme ich etwas dafür?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Selbstverständlich. Ich selbst bin nicht mit Reichtümern gesegnet, aber ich habe viele Verbündete in der Stadt die es sind. Je mehr Veteranen Ihr für unsere Sache gewinnen könnt, desto größer fällt Eure Bezahlung aus."</DefaultText>
+      <DefaultText>„Selbstverständlich. Ich selbst bin nicht mit Reichtümern gesegnet, aber ich habe viele Verbündete in der Stadt die es sind. Je mehr Veteranen Ihr für unsere Sache gewinnen könnt, desto größer fällt Eure Bezahlung aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Die Armeen der ersten Verstoßenen. Sie standen den Menschen der Sagus-Klippen schon immer feindselig gegenüber." Sie runzelt die Stirn. "Die erste Verstoßene ist lange tot, aber ihre Untergeben sind noch immer nicht gut auf ihren Schöpfer und dessen Schützlinge zu sprechen."</DefaultText>
+      <DefaultText>„Die Armeen der ersten Verstoßenen. Sie standen den Menschen der Sagus-Klippen schon immer feindselig gegenüber.“ Sie runzelt die Stirn. „Die erste Verstoßene ist lange tot, aber ihre Untergeben sind noch immer nicht gut auf ihren Schöpfer und dessen Schützlinge zu sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Wer ist dieser ‚Feind‘, gegen den Ihr kämpft?"</DefaultText>
+      <DefaultText>„Wer ist dieser ‚Feind‘, gegen den Ihr kämpft?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Sie geht in einem strahlenden Lächeln auf, als sie dich sieht. "Bringt Ihr etwa Neuigkeiten?"</DefaultText>
+      <DefaultText>Sie geht in einem strahlenden Lächeln auf, als sie dich sieht. „Bringt Ihr etwa Neuigkeiten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -651,37 +651,37 @@ Sie greift nach deinem Arm. "Wenn diese Frau Soldaten rekrutiert, um gegen Paj R
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Ich werde diesen Ort vermissen. Aber ich schätze, das wisst ihr alle schon. Ich komme zurück, wenn ich kann."</DefaultText>
+      <DefaultText>„Ich werde diesen Ort vermissen. Aber ich schätze, das wisst ihr alle schon. Ich komme zurück, wenn ich kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Die Zukunft wartet und ich betrete sie mit geschlossenen Augen. Lebt wohl, meine Freunde!"</DefaultText>
+      <DefaultText>„Die Zukunft wartet und ich betrete sie mit geschlossenen Augen. Lebt wohl, meine Freunde!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Ich habe nicht viel für Abschiede übrig, also mache ich es kurz – lebt wohl, ihr Schurken."</DefaultText>
+      <DefaultText>„Ich habe nicht viel für Abschiede übrig, also mache ich es kurz – lebt wohl, ihr Schurken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Ich kann meine Zukunft nicht sehen. Mir bleibt die Hoffnung, dass ich euch alle wiedersehen werde. Lebt wohl."</DefaultText>
+      <DefaultText>„Ich kann meine Zukunft nicht sehen. Mir bleibt die Hoffnung, dass ich euch alle wiedersehen werde. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"O sagte, ich würde Imperien gebären. Ich kann nur hoffen, das bedeutet, dass ich überlebe."</DefaultText>
+      <DefaultText>„O sagte, ich würde Imperien gebären. Ich kann nur hoffen, das bedeutet, dass ich überlebe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Ich habe mit Leto gesprochen. Sie wird nicht kommen."</DefaultText>
+      <DefaultText>„Ich habe mit Leto gesprochen. Sie wird nicht kommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Sie runzelt die Stirn. "Ein Seher wäre eine lohnende Ergänzung gewesen. Aber das macht nichts. Wir werden ohne sie zurecht kommen."</DefaultText>
+      <DefaultText>Sie runzelt die Stirn. „Ein Seher wäre eine lohnende Ergänzung gewesen. Aber das macht nichts. Wir werden ohne sie zurecht kommen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
