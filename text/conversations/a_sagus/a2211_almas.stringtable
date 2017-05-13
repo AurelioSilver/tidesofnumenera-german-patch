@@ -533,7 +533,7 @@ Als er seine Hände auseinander zieht, spürst du die Energie eines schier grenz
     <Entry>
       <ID>108</ID>
       <DefaultText>"Sie werden mich wieder fürchten."</DefaultText>
-      <FemaleText>"Sie werden mich wieder fürchten."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
@@ -548,16 +548,14 @@ Als er seine Hände auseinander zieht, spürst du die Energie eines schier grenz
     <Entry>
       <ID>112</ID>
       <DefaultText>"Ich versuche nicht, Euch zu trösten. Euer Zweifel hätte keine Wurzeln schlagen können, wenn sie nicht bereits ihre eigenen Zweifel gehegt hätten."</DefaultText>
-      <FemaleText>"Ich versuche nicht, dich zu trösten. Dein Zweifel hätte keine Wurzeln schlagen können, wenn sie nicht bereits ihre eigenen Zweifel gehegt hätten."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
       <DefaultText>"Vielleicht. Vielleicht ist das wahr. Aber ... aber wo kommen wir denn hin, wenn wir die gleichen Zweifel teilen? Besser für uns, einen neuen Weg zu finden. Eine neue Welt."
 
 Er zieht die Hände auseinander, und du hast das Gefühl eines weiten Netzwerks der Kraft, das zwischen ihnen gehalten wird. Er hebt sich die Hände vor das Gesicht ...</DefaultText>
-      <FemaleText>"Vielleicht. Vielleicht ist das wahr. Aber ... aber wo kommen wir denn hin, wenn wir die gleichen Zweifel teilen? Besser für uns, einen neuen Weg zu finden. Eine neue Welt."
-
-Er zieht die Hände auseinander, und du hast das Gefühl eines weiten Netzwerks der Kraft, das zwischen ihnen gehalten wird. Er hebt sich die Hände vor das Gesicht ...</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
