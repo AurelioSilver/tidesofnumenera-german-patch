@@ -94,7 +94,7 @@ Als sie dich sieht, begrüßt sie dich lebhaft.</DefaultText>
     <Entry>
       <ID>22</ID>
       <DefaultText>{COLIN: NOT FOR 1E: If the player previously talked to Clarion about her views and expressed agreement with them, she'll recommend that the player speak to Jernaugh at the chiurgical parlor. If the player hasn't spoken to Clarion about her views, she'll briefly test the waters to see if the player agrees with the ideas of the Jagged Dream. If he does, she'll recommend that he speak to Jernaugh. }</DefaultText>
-      <FemaleText>{COLIN: NOT FOR 1E: If the player previously talked to Clarion about her views and expressed agreement with them, she'll recommend that the player speak to Jernaugh at the chiurgical parlor. If the player hasn't spoken to Clarion about her views, she'll briefly test the waters to see if the player agrees with the ideas of the Jagged Dream. If he does, she'll recommend that he speak to Jernaugh. }</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -652,32 +652,32 @@ Sie greift nach deinem Arm. "Wenn diese Frau Soldaten rekrutiert, um gegen Paj R
     <Entry>
       <ID>135</ID>
       <DefaultText>"Ich werde diesen Ort vermissen. Aber ich schätze, das wisst ihr alle schon. Ich komme zurück, wenn ich kann."</DefaultText>
-      <FemaleText>"Ich werde diesen Ort vermissen. Aber ich schätze, das wisst ihr alle schon. Ich komme zurück, wenn ich kann."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
       <DefaultText>"Die Zukunft wartet und ich betrete sie mit geschlossenen Augen. Lebt wohl, meine Freunde!"</DefaultText>
-      <FemaleText>"Die Zukunft wartet und ich betrete sie mit geschlossenen Augen. Lebt wohl, meine Freunde!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
       <DefaultText>"Ich habe nicht viel für Abschiede übrig, also mache ich es kurz – lebt wohl, ihr Schurken."</DefaultText>
-      <FemaleText>"Ich habe nicht viel für Abschiede übrig, also mache ich es kurz – lebt wohl, ihr Schurken."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
       <DefaultText>"Ich kann meine Zukunft nicht sehen. Mir bleibt die Hoffnung, dass ich euch alle wiedersehen werde. Lebt wohl."</DefaultText>
-      <FemaleText>"Ich kann meine Zukunft nicht sehen. Mir bleibt die Hoffnung, dass ich euch alle wiedersehen werde. Lebt wohl."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
       <DefaultText>"O sagte, ich würde Imperien gebären. Ich kann nur hoffen, das bedeutet, dass ich überlebe."</DefaultText>
-      <FemaleText>"O sagte, ich würde Imperien gebären. Ich kann nur hoffen, das bedeutet, dass ich überlebe."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
       <DefaultText>"Ich habe mit Leto gesprochen. Sie wird nicht kommen."</DefaultText>
-      <FemaleText>"Ich habe mit Leto gesprochen. Sie wird nicht kommen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
