@@ -1228,7 +1228,7 @@ Er lehnt sich zurück. "Viel Erfolg."</DefaultText>
     <Entry>
       <ID>242</ID>
       <DefaultText>[DEBUG: Vorgeben, ich hätte das Gerangel gewonnen.]</DefaultText>
-      <FemaleText>[DEBUG: Vorgeben, ich hätte das Gerangel gewonnen.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
@@ -1238,7 +1238,7 @@ Er lehnt sich zurück. "Viel Erfolg."</DefaultText>
     <Entry>
       <ID>244</ID>
       <DefaultText>[DEBUG: [Vorgeben, ich hätte das Gerangel angefangen, doch der Letzte Verstoßene starb dabei.]</DefaultText>
-      <FemaleText>[DEBUG: [Vorgeben, ich hätte das Gerangel angefangen, doch die Letzte Verstoßene starb dabei.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>245</ID>
@@ -1445,20 +1445,14 @@ Und die Feier beginnt.
 Er greift unter den Tisch und holt einen merkwürdig aussehenden Apparat hervor. "Hier", sagt er. "Nimm das. Du hast es verdient, und noch mehr."
 
 {LOOT}</DefaultText>
-      <FemaleText>"Ich – wir – können nicht glauben, dass wir endlich frei sind."
-
-Er greift unter den Tisch und holt einen merkwürdig aussehenden Apparat hervor. "Hier", sagt er. "Nimm das. Du hast es verdient, und noch mehr."
-
-{LOOT}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
       <DefaultText>Er lächelt ein wenig wehmütig. "Sicher. Doch denke daran, dass die meisten von ihnen uns hören können. Über wen willst du plaudern?" Die anderen brechen in Gelächter aus. 
 
 Er macht eine Geste durch die Kneipe. "Sie alle haben ihre Geschichten. Manche von ihnen sind nicht von dieser Welt. Manche sind nicht einmal real." Das sorgt für eine weitere Runde Gelächter.</DefaultText>
-      <FemaleText>Er lächelt ein wenig wehmütig. "Sicher. Doch denke daran, dass die meisten von ihnen uns hören können. Über wen willst du plaudern?" Die anderen brechen in Gelächter aus. 
-
-Er macht eine Geste durch die Kneipe. "Sie alle haben ihre Geschichten. Manche von ihnen sind nicht von dieser Welt. Manche sind nicht einmal real." Das sorgt für eine weitere Runde Gelächter.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
@@ -1468,12 +1462,12 @@ Er macht eine Geste durch die Kneipe. "Sie alle haben ihre Geschichten. Manche v
     <Entry>
       <ID>290</ID>
       <DefaultText>"Wie seid ihr alle hierhergekommen?"</DefaultText>
-      <FemaleText>"Wie seid ihr alle hierhergekommen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
       <DefaultText>"Sag mir nochmal, wie ihr hierhergekommen seid."</DefaultText>
-      <FemaleText>"Sag mir nochmal, wie ihr hierhergekommen seid."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
@@ -1483,17 +1477,17 @@ Er macht eine Geste durch die Kneipe. "Sie alle haben ihre Geschichten. Manche v
     <Entry>
       <ID>293</ID>
       <DefaultText>Er runzelt die Stirn. "Es ... es hat uns gerufen. Es war ein Leuchtfeuer. Es war warm und einladend. Als ich das erste Mal durch diese Tür schritt, verringerte sich der Lärm der Außenwelt. Er verschwand nicht – ich kann mich konzentrieren und ihn nach Belieben hören – doch ich konnte meine Wachsamkeit ablegen und entspannen." Er blickt durch den Raum. "Ich wette, den meisten hier geht es genauso."</DefaultText>
-      <FemaleText>Er runzelt die Stirn. "Es ... es hat uns gerufen. Es war ein Leuchtfeuer. Es war warm und einladend. Als ich das erste Mal durch diese Tür schritt, verringerte sich der Lärm der Außenwelt. Er verschwand nicht – ich kann mich konzentrieren und ihn nach Belieben hören – doch ich konnte meine Wachsamkeit ablegen und entspannen." Er blickt durch den Raum. "Ich wette, den meisten hier geht es genauso."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
       <DefaultText>"Ich kam aus der Flor, wie mein Name andeutet. Und als ich einen Ort brauchte, an dem mein Geist ruhen konnte, sah ich diesen hell erleuchteten Ort."</DefaultText>
-      <FemaleText>"Ich kam aus der Flor, wie mein Name andeutet. Und als ich einen Ort brauchte, an dem mein Geist ruhen konnte, sah ich diesen hell erleuchteten Ort."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
       <DefaultText>"Ich warte nur auf Clarions Aufruf. Bis dahin mache ich mir Mut."</DefaultText>
-      <FemaleText>"Ich warte nur auf Clarions Aufruf. Bis dahin mache ich mir Mut."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
@@ -1508,32 +1502,32 @@ Er macht eine Geste durch die Kneipe. "Sie alle haben ihre Geschichten. Manche v
     <Entry>
       <ID>298</ID>
       <DefaultText>Seine verengten Augen und der Schweißfilm auf seiner Stirn geben dir einen Einblick in die Angst, die sich in ihm aufbaut.</DefaultText>
-      <FemaleText>Seine verengten Augen und der Schweißfilm auf seiner Stirn geben dir einen Einblick in die Angst, die sich in ihm aufbaut.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
       <DefaultText>"Bist du gekommen, um Hilfe gegen den Feind zu suchen? Wir sind bereit."</DefaultText>
-      <FemaleText>"Bist du gekommen, um Hilfe gegen den Feind zu suchen? Wir sind bereit."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
       <DefaultText>"Ich kann den Feind alleine übernehmen."</DefaultText>
-      <FemaleText>"Ich kann den Feind alleine übernehmen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
       <DefaultText>"Ich habe nur ein paar Fragen, die ich stellen möchte."</DefaultText>
-      <FemaleText>"Ich habe nur ein paar Fragen, die ich stellen möchte."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>302</ID>
       <DefaultText>"Nicht jetzt. Lebt wohl."</DefaultText>
-      <FemaleText>"Nicht jetzt. Lebe wohl."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>304</ID>
       <DefaultText>"Ich warne vor dieser Vorgehensweise. Sie könnte dich für immer zerstören."</DefaultText>
-      <FemaleText>"Ich warne vor dieser Vorgehensweise. Sie könnte dich für immer zerstören."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>305</ID>
@@ -1548,17 +1542,17 @@ Er macht eine Geste durch die Kneipe. "Sie alle haben ihre Geschichten. Manche v
     <Entry>
       <ID>307</ID>
       <DefaultText>"Ich weiß nicht, ob ich dir helfen kann. Vielleicht später."</DefaultText>
-      <FemaleText>"Ich weiß nicht, ob ich dir helfen kann. Vielleicht später."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>308</ID>
       <DefaultText>"Ein weiser Schritt, aber wir haben kaum Zeit zur Vorbereitung. Der Gegner beginnt bereits, seinen Einfluss auszuüben. Wenn du uns helfen willst, kehre zurück, bevor der Tag vorbei ist, ansonsten müssen meine Freunde und ich ihm alleine gegenübertreten."</DefaultText>
-      <FemaleText>"Ein weiser Schritt, aber wir haben kaum Zeit zur Vorbereitung. Der Gegner beginnt bereits, seinen Einfluss auszuüben. Wenn du uns helfen willst, kehre zurück, bevor der Tag vorbei ist, ansonsten müssen meine Freunde und ich ihm alleine gegenübertreten."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>309</ID>
       <DefaultText>"Nicht heute. Tut mir leid."</DefaultText>
-      <FemaleText>"Nicht heute. Tut mir leid."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>310</ID>
@@ -1568,12 +1562,12 @@ Er macht eine Geste durch die Kneipe. "Sie alle haben ihre Geschichten. Manche v
     <Entry>
       <ID>311</ID>
       <DefaultText>"Wenn du es dir anders überlegst, lass es mich wissen."</DefaultText>
-      <FemaleText>"Wenn du es dir anders überlegst, lass es mich wissen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>312</ID>
       <DefaultText>"Bist du gekommen, um uns gegen den Feind zu helfen? Wir würden deine Hilfe willkommen heißen."</DefaultText>
-      <FemaleText>"Bist du gekommen, um uns gegen den Feind zu helfen? Wir würden deine Hilfe willkommen heißen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>315</ID>
