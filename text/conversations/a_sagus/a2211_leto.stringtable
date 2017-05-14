@@ -729,21 +729,19 @@ Sie schüttelt den Kopf. "Aber nun ja."</DefaultText>
     <Entry>
       <ID>149</ID>
       <DefaultText>"Woher wusstet Ihr, dass ich hierherkomme?"</DefaultText>
-      <FemaleText>"Woher wusstest du, dass ich hierherkomme?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
       <DefaultText>"Lebensstränge weben sich zu einer Bildwirkerei. Euer Strang leuchtet. Er taucht am Himmel auf und eine große Dunkelheit folgt Euch auf den Fersen."
 
 Sie winkt mit einer Hand, als würde sie durch Spinnennetze drücken. "Ich habe Euch gesehen. Wohin Ihr geht ... das ist jenseits meiner Kräfte."</DefaultText>
-      <FemaleText>"Lebensstränge weben sich zu einer Bildwirkerei. Dein Strang leuchtet. Er taucht am Himmel auf und eine große Dunkelheit folgt dir auf den Fersen."
-
-Sie winkt mit einer Hand, als würde sie durch Spinnennetze drücken. "Ich habe dich gesehen. Wohin du gehst ... das ist jenseits meiner Kräfte."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
       <DefaultText>"Ein Wesen namens O ist hier, um dir eine Vision zu geben."</DefaultText>
-      <FemaleText>"Ein Wesen namens O ist hier, um dir eine Vision zu geben."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
@@ -753,12 +751,12 @@ Sie winkt mit einer Hand, als würde sie durch Spinnennetze drücken. "Ich habe 
     <Entry>
       <ID>154</ID>
       <DefaultText>"Erzähl mir nochmal von Aligern."</DefaultText>
-      <FemaleText>"Erzähl mir nochmal von Aligern."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
       <DefaultText>"Ich habe bereits über ihn gesprochen."</DefaultText>
-      <FemaleText>"Ich habe bereits über ihn gesprochen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
@@ -768,17 +766,17 @@ Sie winkt mit einer Hand, als würde sie durch Spinnennetze drücken. "Ich habe 
     <Entry>
       <ID>159</ID>
       <DefaultText>"Erzähl mir von Callistege."</DefaultText>
-      <FemaleText>"Erzähl mir von Callistege."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
       <DefaultText>"Erzähl mir nochmal von Callistege."</DefaultText>
-      <FemaleText>"Erzähl mir nochmal von Callistege."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
       <DefaultText>"Ich habe bereits über sie gesprochen."</DefaultText>
-      <FemaleText>"Ich habe bereits über sie gesprochen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
@@ -788,12 +786,12 @@ Sie winkt mit einer Hand, als würde sie durch Spinnennetze drücken. "Ich habe 
     <Entry>
       <ID>163</ID>
       <DefaultText>"Erzähl mir von Erritis."</DefaultText>
-      <FemaleText>"Erzähl mir von Erritis."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
       <DefaultText>"Erzähl mir nochmal von Erritis."</DefaultText>
-      <FemaleText>"Erzähl mir nochmal von Erritis."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
@@ -803,12 +801,12 @@ Sie winkt mit einer Hand, als würde sie durch Spinnennetze drücken. "Ich habe 
     <Entry>
       <ID>166</ID>
       <DefaultText>"Erzähl mir über Matkina."</DefaultText>
-      <FemaleText>"Erzähl mir über Matkina."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
       <DefaultText>"Erzähl mir nochmal über Matkina."</DefaultText>
-      <FemaleText>"Erzähl mir nochmal über Matkina."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
@@ -818,12 +816,12 @@ Sie winkt mit einer Hand, als würde sie durch Spinnennetze drücken. "Ich habe 
     <Entry>
       <ID>169</ID>
       <DefaultText>"Erzähl mir über Rhin."</DefaultText>
-      <FemaleText>"Erzähl mir über Rhin."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
       <DefaultText>"Erzähl mir nochmal über Rhin."</DefaultText>
-      <FemaleText>"Erzähl mir nochmal über Rhin."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
@@ -833,12 +831,12 @@ Sie winkt mit einer Hand, als würde sie durch Spinnennetze drücken. "Ich habe 
     <Entry>
       <ID>172</ID>
       <DefaultText>"Erzähl mir über Tybir."</DefaultText>
-      <FemaleText>"Erzähl mir über Tybir."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
       <DefaultText>"Erzähl mir nochmal über Tybir."</DefaultText>
-      <FemaleText>"Erzähl mir nochmal über Tybir."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
@@ -848,27 +846,27 @@ Sie winkt mit einer Hand, als würde sie durch Spinnennetze drücken. "Ich habe 
     <Entry>
       <ID>175</ID>
       <DefaultText>"Erzähl mir über Oom."</DefaultText>
-      <FemaleText>"Erzähl mir über Oom."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
       <DefaultText>"Erzähl mir nochmal über Oom."</DefaultText>
-      <FemaleText>"Erzähl mir nochmal über Oom."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
       <DefaultText>"Seine Zukunft wird als Ding sein. Nicht mehr und nicht weniger."</DefaultText>
-      <FemaleText>"Seine Zukunft wird als Ding sein. Nicht mehr und nicht weniger."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
       <DefaultText>Sie schüttelt den Kopf. "Ich habe alle Geschichten erzählt, die ich zu erzählen gewillt bin."</DefaultText>
-      <FemaleText>Sie schüttelt den Kopf. "Ich habe alle Geschichten erzählt, die ich zu erzählen gewillt bin."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
       <DefaultText>Sie schüttelt den Kopf. "Ich wünschte ... Ich wünschte, ich könnte den Strang der Wahrnehmung entwirren und in der Gegenwart leben, so wie viele andere. Doch es soll nicht sein, und so klettere ich über das Netz der Zeit und kenne die Stränge meiner Freunde."</DefaultText>
-      <FemaleText>Sie schüttelt den Kopf. "Ich wünschte ... Ich wünschte, ich könnte den Strang der Wahrnehmung entwirren und in der Gegenwart leben, so wie viele andere. Doch es soll nicht sein, und so klettere ich über das Netz der Zeit und kenne die Stränge meiner Freunde."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
@@ -878,16 +876,14 @@ Sie winkt mit einer Hand, als würde sie durch Spinnennetze drücken. "Ich habe 
     <Entry>
       <ID>188</ID>
       <DefaultText>"Ein Wesen namens O ist hier, um dir eine Vision zu geben. Es sagt, du wirst die Mutter von Imperien sein."</DefaultText>
-      <FemaleText>"Ein Wesen namens O ist hier, um dir eine Vision zu geben. Es sagt, du wirst die Mutter von Imperien sein."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
       <DefaultText>Sie starrt dich an. Ihr Mund öffnet sich leicht. Ihre Augen flimmern durch die Kneipe, doch ihr Blick landet auf keinem bestimmten Gast. "Ich habe die Vision noch nicht erhalten. Weißt du mehr darüber?"
 
 Sie hält inne und hebt die Hand, um dir Einhalt zu gebieten. "Nein. Sag es mir nicht. Wenn du der Handelnde dieser Vision bist, werde ich das selbst herausfinden. Die Wahrheit kommt zu ihrer eigenen Zeit."</DefaultText>
-      <FemaleText>Sie starrt dich an. Ihr Mund öffnet sich leicht. Ihre Augen flimmern durch die Kneipe, doch ihr Blick landet auf keinem bestimmten Gast. "Ich habe die Vision noch nicht erhalten. Weißt du mehr darüber?"
-
-Sie hält inne und hebt die Hand, um dir Einhalt zu gebieten. "Nein. Sag es mir nicht. Wenn du der Handelnde dieser Vision bist, werde ich das selbst herausfinden. Die Wahrheit kommt zu ihrer eigenen Zeit."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
@@ -899,9 +895,7 @@ Sie hält inne und hebt die Hand, um dir Einhalt zu gebieten. "Nein. Sag es mir 
       <DefaultText>Sie starrt dich an. Ihr Mund öffnet sich leicht. Ihre Augen flimmern durch die Kneipe, doch ihr Blick landet auf keinem bestimmten Gast. "Ich habe die Vision noch nicht erhalten. Und ..."
 
 "Eine Mutter? Ich?" Sie schüttelt den Kopf. "Ich bin unfruchtbar. Ich werde kein Leben schenken." Sie hält inne. Ihre Hände zittern.  Sie flüstert: "... Ich sehe nur einen Fleck, wenn ich mich selbst betrachte. Nichts weiter. Ein Miasma verdeckt mir die Vision meiner selbst."</DefaultText>
-      <FemaleText>Sie starrt dich an. Ihr Mund öffnet sich leicht. Ihre Augen flimmern durch die Kneipe, doch ihr Blick landet auf keinem bestimmten Gast. "Ich habe die Vision noch nicht erhalten. Und ..."
-
-"Eine Mutter? Ich?" Sie schüttelt den Kopf. "Ich bin unfruchtbar. Ich werde kein Leben schenken." Sie hält inne. Ihre Hände zittern.  Sie flüstert: "... Ich sehe nur einen Fleck, wenn ich mich selbst betrachte. Nichts weiter. Ein Miasma verdeckt mir die Vision meiner selbst."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
@@ -911,22 +905,22 @@ Sie hält inne und hebt die Hand, um dir Einhalt zu gebieten. "Nein. Sag es mir 
     <Entry>
       <ID>194</ID>
       <DefaultText>"Da der Feind nicht mehr ist, ziehen die Wolken ab, doch ... Ich muss darüber nachdenken, Verstoßener. Lange und ausgiebig."</DefaultText>
-      <FemaleText>"Da der Feind nicht mehr ist, ziehen die Wolken ab, doch ... Ich muss darüber nachdenken, Verstoßene. Lange und ausgiebig."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
       <DefaultText>"Könnt Ihr mir Geschichten über Eure Freunde erzählen?"</DefaultText>
-      <FemaleText>"Kannst du mir Geschichten über deine Freunde erzählen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
       <DefaultText>Sie schüttelt den Kopf und bringt sich wieder zurück in die Gegenwart. "Ist er immer noch hier?" Sie wirft Dhama einen Blick zu und atmet erleichtert auf.</DefaultText>
-      <FemaleText>Sie schüttelt den Kopf und bringt sich wieder zurück in die Gegenwart. "Ist er immer noch hier?" Sie wirft Dhama einen Blick zu und atmet erleichtert auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
       <DefaultText>"Ich werde da sein, wenn Clarion ruft. Bis dahin, lass mich die Gesellschaft meiner Freunde genießen."</DefaultText>
-      <FemaleText>"Ich werde da sein, wenn Clarion ruft. Bis dahin, lass mich die Gesellschaft meiner Freunde genießen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
@@ -936,7 +930,7 @@ Sie hält inne und hebt die Hand, um dir Einhalt zu gebieten. "Nein. Sag es mir 
     <Entry>
       <ID>200</ID>
       <DefaultText>"Sprich mit Dhama, wenn du uns helfen möchtest."</DefaultText>
-      <FemaleText>"Sprich mit Dhama, wenn du uns helfen möchtest."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
@@ -948,14 +942,12 @@ Sie hält inne und hebt die Hand, um dir Einhalt zu gebieten. "Nein. Sag es mir 
       <DefaultText>Ihre Finger weben durch Stränge, die du nicht sehen kannst, sie nehmen sie auf und lassen sie wieder los. "Dieser hier, nein, nicht hier."
 
 Sie schenkt dir einen Bruchteil ihrer Aufmerksamkeit. "Unterbrich nicht. Ich kann die Zukunft nach einem Pfad zur Zerstörung des Feindes absuchen. Unser Leben hängt von meiner Vision ab."</DefaultText>
-      <FemaleText>Ihre Finger weben durch Stränge, die du nicht sehen kannst, sie nehmen sie auf und lassen sie wieder los. "Dieser hier, nein, nicht hier."
-
-Sie schenkt dir einen Bruchteil ihrer Aufmerksamkeit. "Unterbrich nicht. Ich kann die Zukunft nach einem Pfad zur Zerstörung des Feindes absuchen. Unser Leben hängt von meiner Vision ab."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
       <DefaultText>"Der Feind lauert jenseits der Zukunft. Ich muss mich auf einen Pfad konzentrieren, dem meine Freunde folgen können, um den Feind zu besiegen."</DefaultText>
-      <FemaleText>"Der Feind lauert jenseits der Zukunft. Ich muss mich auf einen Pfad konzentrieren, dem meine Freunde folgen können, um den Feind zu besiegen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
