@@ -171,12 +171,12 @@ Nur einige Fragmente des Flüsterns kannst du tatsächlich verstehen: "Du hast m
     <Entry>
       <ID>37</ID>
       <DefaultText>Wieder greift sie dich blitzartig an. Ihre Finger graben sich in deinen Hals.</DefaultText>
-      <FemaleText>Wieder greift sie dich blitzartig an. Ihre Finger graben sich in ihren Hals.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>Du reißt ihre Finger zurück und windest dich aus ihrem Griff. Wie zuvor verliert sie sofort das Interesse und wendet sich ab.</DefaultText>
-      <FemaleText>Du reißt ihre Finger zurück und windest dich aus ihrem Griff. Wie zuvor verliert sie sofort das Interesse und wendet sich ab.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
