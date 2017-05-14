@@ -10,17 +10,17 @@
 
 Selbst wenn er einen Drink zubereitet steht er starr da und berührt nichts. Seine Augenbraue bewegt sich leicht, als die Gläser und Flaschen in einem Wirrwarr durch die Lüfte sausen.
 
-Er begrüßt dich mit einem breiten Lächeln. "Willkommen im fünften Auge, mein Freund! Ich bin Feriok."</DefaultText>
+Er begrüßt dich mit einem breiten Lächeln. „Willkommen im fünften Auge, mein Freund! Ich bin Feriok.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Was kann ich heute für Euch tun?"</DefaultText>
+      <DefaultText>„Was kann ich heute für Euch tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Dhama hat gesagt, dass Ihr blind seid. Was meint sie damit?"</DefaultText>
+      <DefaultText>„Dhama hat gesagt, dass Ihr blind seid. Was meint sie damit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,14 +40,14 @@ Er begrüßt dich mit einem breiten Lächeln. "Willkommen im fünften Auge, mein
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Er lacht. "Ich war früher der Späher dieser Bande. Konnte die Präsenz der Widersacher aufspüren, einen hübschen Spielplatz für sie bauen und sie dann zu mir locken. Aber der letzte, mit dem wir es zu tun hatten ..." Seine Mimik fällt zusammen und er verschließt sich. "Er hat mich ausgebrannt. Meine Augen sind erloschen. Er hat mich ausgebrannt. Meine Augen sind -"
+      <DefaultText>Er lacht. „Ich war früher der Späher dieser Bande. Konnte die Präsenz der Widersacher aufspüren, einen hübschen Spielplatz für sie bauen und sie dann zu mir locken. Aber der letzte, mit dem wir es zu tun hatten ...“ Seine Mimik fällt zusammen und er verschließt sich. „Er hat mich ausgebrannt. Meine Augen sind erloschen. Er hat mich ausgebrannt. Meine Augen sind -“
 
 Und dann kehrt er blitzschnell in den Normalzustand zurück und lächelt, so als wäre nichts geschehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Der Wirt beginnt, vor deinen Augen zu flackern. Er spricht mit Ziobes Stimme. "Ihr kennt jetzt die Wahrheit. Das ist nicht Feriok. Feriok ist so, wie wir uns an ihn erinnern."
+      <DefaultText>Der Wirt beginnt, vor deinen Augen zu flackern. Er spricht mit Ziobes Stimme. „Ihr kennt jetzt die Wahrheit. Das ist nicht Feriok. Feriok ist so, wie wir uns an ihn erinnern.“
 
 Das Flackern versiegt und wird durch ein herzhaftes Lachen ersetzt, dass den ganzen Raum erfüllt.</DefaultText>
       <FemaleText />
@@ -64,12 +64,12 @@ Das Flackern versiegt und wird durch ein herzhaftes Lachen ersetzt, dass den gan
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich hätte gerne einen Drink."</DefaultText>
+      <DefaultText>„Ich hätte gerne einen Drink.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Für Euch gehen alle Drinks auf Haus. Womit kann ich Euch heute den Tag versüßen?"</DefaultText>
+      <DefaultText>„Für Euch gehen alle Drinks auf Haus. Womit kann ich Euch heute den Tag versüßen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -84,9 +84,9 @@ Das Flackern versiegt und wird durch ein herzhaftes Lachen ersetzt, dass den gan
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Macht Euch auf ein paar erfrischende Erfahrungen gefasst. Vorausgesetzt, Ihr bezeichnet den Konsum ätzender Flüssigkeiten als erfrischend." Er deutet auf die verschiedenen Rohre, die aus den Wänden herausragen. "Einige davon haben wir als hundertprozentig harmlos einstufen können. Andere wirken ein wenig wie Rauschmittel oder Halluzinogene. Und ein paar wenige haben sich als ... etwas risikoreich erwiesen. Soll heißen, sie könnten zum Tod führen."
+      <DefaultText>„Macht Euch auf ein paar erfrischende Erfahrungen gefasst. Vorausgesetzt, Ihr bezeichnet den Konsum ätzender Flüssigkeiten als erfrischend.“ Er deutet auf die verschiedenen Rohre, die aus den Wänden herausragen. „Einige davon haben wir als hundertprozentig harmlos einstufen können. Andere wirken ein wenig wie Rauschmittel oder Halluzinogene. Und ein paar wenige haben sich als ... etwas risikoreich erwiesen. Soll heißen, sie könnten zum Tod führen.“
 
-"Ein harmloser Drink kostet Euch [Global: a2211_FifthEye_SafeDrink] Shin. Es soll etwas experimenteller sein? Dann kostet Euch das [Global: a2211_FifthEye_WeirdDrink] Shin."</DefaultText>
+„Ein harmloser Drink kostet Euch [Global: a2211_FifthEye_SafeDrink] Shin. Es soll etwas experimenteller sein? Dann kostet Euch das [Global: a2211_FifthEye_WeirdDrink] Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,12 +101,12 @@ Das Flackern versiegt und wird durch ein herzhaftes Lachen ersetzt, dass den gan
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Könnt Ihr mir mehr über diesen Ort erzählen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir mehr über diesen Ort erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Könnt Ihr mir noch einmal von diesem Ort erzählen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir noch einmal von diesem Ort erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@ Das Flackern versiegt und wird durch ein herzhaftes Lachen ersetzt, dass den gan
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ich hätte da noch eine andere Frage."</DefaultText>
+      <DefaultText>„Ich hätte da noch eine andere Frage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,12 +166,12 @@ Das Flackern versiegt und wird durch ein herzhaftes Lachen ersetzt, dass den gan
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Harmlose Drinks kosten [Global: a2211_FifthEye_SafeDrink] Shin. [Global: a2211_FifthEye_WeirdDrink] für die Experimentellen. Was darf ich Euch bringen?"</DefaultText>
+      <DefaultText>„Harmlose Drinks kosten [Global: a2211_FifthEye_SafeDrink] Shin. [Global: a2211_FifthEye_WeirdDrink] für die Experimentellen. Was darf ich Euch bringen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Was auch immer Euch lieb ist."</DefaultText>
+      <DefaultText>„Was auch immer Euch lieb ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -193,7 +193,7 @@ Das Flackern versiegt und wird durch ein herzhaftes Lachen ersetzt, dass den gan
       <ID>36</ID>
       <DefaultText>Es riecht wie ein Lederschuh, der einen sonnigen Tag auf einer metallischen Oberfläche verbracht hat. Ein unbeschreiblich süßer Geschmack. Eine Sekunde lang beginnst du, willkürlich zu schielen und zu husten. Jedes Husten lässt rosa Seifenblasen aus deiner Kehle schießen, die dann an die Decke wandern.
 
-"Oh ja. Ich habe es gesehen", sagt er.</DefaultText>
+„Oh ja. Ich habe es gesehen“, sagt er.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@ Dann verschwindet die Klarheit. Es bleibt ein beeriger Nachgeschmack.</DefaultTe
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>(Bezahlen) "Gebt mir einen von den Harmlosen."</DefaultText>
+      <DefaultText>(Bezahlen) „Gebt mir einen von den Harmlosen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,12 +251,12 @@ Dann verschwindet die Klarheit. Es bleibt ein beeriger Nachgeschmack.</DefaultTe
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Wir haben hier dieses seltsame schwarze Sekret, so dickflüssig, dass man es fast kauen könnte. Dann haben wir einen pinken Schleim, ein bekanntes Entheogen von unberechenbarer Stärke. Hat schon das ein oder andere Todesopfer gefordert. Und hier noch etwas, dass wie eine eltabische Frucht riecht. Eignet sich sehr gut, um hartnäckige Fettflecken zu entfernen. Was bedeutet, dass es ziemlich ätzend sein muss ... aber vielleicht etwas für Liebhaber."</DefaultText>
+      <DefaultText>„Wir haben hier dieses seltsame schwarze Sekret, so dickflüssig, dass man es fast kauen könnte. Dann haben wir einen pinken Schleim, ein bekanntes Entheogen von unberechenbarer Stärke. Hat schon das ein oder andere Todesopfer gefordert. Und hier noch etwas, dass wie eine eltabische Frucht riecht. Eignet sich sehr gut, um hartnäckige Fettflecken zu entfernen. Was bedeutet, dass es ziemlich ätzend sein muss ... aber vielleicht etwas für Liebhaber.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Wir hätten hier das schwarze Sekret, den pinken Schleim und den fruchtigen Fettentferner. Allesamt kosten sie [Global: a2211_FifthEye_WeirdDrink] Shin. Also, was darf‘s sein?"</DefaultText>
+      <DefaultText>„Wir hätten hier das schwarze Sekret, den pinken Schleim und den fruchtigen Fettentferner. Allesamt kosten sie [Global: a2211_FifthEye_WeirdDrink] Shin. Also, was darf‘s sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,12 +266,12 @@ Dann verschwindet die Klarheit. Es bleibt ein beeriger Nachgeschmack.</DefaultTe
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Reden wir über die experimentellen Drinks."</DefaultText>
+      <DefaultText>„Reden wir über die experimentellen Drinks.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Reden wir noch einmal über die experimentellen Drinks."</DefaultText>
+      <DefaultText>„Reden wir noch einmal über die experimentellen Drinks.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,27 +311,27 @@ Dann verschwindet die Klarheit. Es bleibt ein beeriger Nachgeschmack.</DefaultTe
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Wie viel kosten die harmlosen Drinks doch gleich wieder?"</DefaultText>
+      <DefaultText>„Wie viel kosten die harmlosen Drinks doch gleich wieder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Ich hätte noch eine andere Frage."</DefaultText>
+      <DefaultText>„Ich hätte noch eine andere Frage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Vergesst es. Lebt wohl."</DefaultText>
+      <DefaultText>„Vergesst es. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Man sieht sich."</DefaultText>
+      <DefaultText>„Man sieht sich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Raus damit."</DefaultText>
+      <DefaultText>„Raus damit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,12 +346,12 @@ Dann verschwindet die Klarheit. Es bleibt ein beeriger Nachgeschmack.</DefaultTe
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Ziobe hat gesagt, ich soll herausfinden, wer von euch nur eine mentale Projektion ist. Bist du das?"</DefaultText>
+      <DefaultText>„Ziobe hat gesagt, ich soll herausfinden, wer von euch nur eine mentale Projektion ist. Bist du das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Reden wir noch einmal über Ziobes mentale Projektion."</DefaultText>
+      <DefaultText>„Reden wir noch einmal über Ziobes mentale Projektion.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,89 +361,89 @@ Dann verschwindet die Klarheit. Es bleibt ein beeriger Nachgeschmack.</DefaultTe
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Das wäre alles. Lebt wohl."</DefaultText>
+      <DefaultText>„Das wäre alles. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Kommt bald wieder."</DefaultText>
+      <DefaultText>„Kommt bald wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Schon wieder? Meinetwegen."</DefaultText>
+      <DefaultText>„Schon wieder? Meinetwegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Dhama hat gesagt, dass ich Euch anfassen soll."</DefaultText>
+      <DefaultText>„Dhama hat gesagt, dass ich Euch anfassen soll.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Theboros hat gesagt, dass ich Eure Geschichte kennen soll."</DefaultText>
+      <DefaultText>„Theboros hat gesagt, dass ich Eure Geschichte kennen soll.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Leto hat gesagt, dass Ihr ein Empath wart, und nicht telekinetisch begabt."</DefaultText>
+      <DefaultText>„Leto hat gesagt, dass Ihr ein Empath wart, und nicht telekinetisch begabt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Ziobe hat mir gesagt, dass ich mich auf das Physikalische konzentrieren soll."</DefaultText>
+      <DefaultText>„Ziobe hat mir gesagt, dass ich mich auf das Physikalische konzentrieren soll.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Lasst mich Euch etwas anderes fragen."</DefaultText>
+      <DefaultText>„Lasst mich Euch etwas anderes fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Und welche Geschichte wollt Ihr hören? Ich war der Späher der Gruppe, ein Empath, bis einer der Widersacher mir diese Fähigkeiten geraubt hat. Das ist auch schon alles, was Ihr wissen müsst."</DefaultText>
+      <DefaultText>„Und welche Geschichte wollt Ihr hören? Ich war der Späher der Gruppe, ein Empath, bis einer der Widersacher mir diese Fähigkeiten geraubt hat. Das ist auch schon alles, was Ihr wissen müsst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Er scheint einen Moment lang nachzudenken. "In Ordnung. Kommt schon, tut Euch keinen Zwang an."
+      <DefaultText>Er scheint einen Moment lang nachzudenken. „In Ordnung. Kommt schon, tut Euch keinen Zwang an.“
 
-Seine Haut fühlt sich hart und unnachgiebig an wie Synthstahl. "Lebendig wie eh und je", murmelt er.</DefaultText>
+Seine Haut fühlt sich hart und unnachgiebig an wie Synthstahl. „Lebendig wie eh und je“, murmelt er.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Hat sie das, ja?" Er sieht zu ihr herüber und runzelt die Stirn. Sie zuckt mit den Schultern. "Was, wenn ich meine telekinetischen Fähigkeiten erworben habe, *nachdem* der Widersacher mich erwischt hat?"</DefaultText>
+      <DefaultText>„Hat sie das, ja?“ Er sieht zu ihr herüber und runzelt die Stirn. Sie zuckt mit den Schultern. „Was, wenn ich meine telekinetischen Fähigkeiten erworben habe, *nachdem* der Widersacher mich erwischt hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Hat sie das? Und wie erklärt Ihr Euch dann das hier?" Er konzentriert sich kurz, und schon schweben Gläser und Flaschen in einer Kreisbewegung über seinem Kopf. Nach einer Weile bewegen sie sich wieder auf ihren ursprünglichen Platz zurück. "Na, ist das physikalisch genug?"</DefaultText>
+      <DefaultText>„Hat sie das? Und wie erklärt Ihr Euch dann das hier?“ Er konzentriert sich kurz, und schon schweben Gläser und Flaschen in einer Kreisbewegung über seinem Kopf. Nach einer Weile bewegen sie sich wieder auf ihren ursprünglichen Platz zurück. „Na, ist das physikalisch genug?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Er lacht. "Glaubt Ihr wirklich, ich würde es Euch einfach so erzählen? Wenn Ziobe ein kleines Spielchen spielt, warum sollte ich es ihr dann ruinieren? Kommt schon, findet es selbst heraus. Aber ich gebe Euch einen Tipp. Ihr müsst Euer Gegenüber *kennen*. Ich vermute, das hört sich nach einem wahren Empathen an, was?"</DefaultText>
+      <DefaultText>Er lacht. „Glaubt Ihr wirklich, ich würde es Euch einfach so erzählen? Wenn Ziobe ein kleines Spielchen spielt, warum sollte ich es ihr dann ruinieren? Kommt schon, findet es selbst heraus. Aber ich gebe Euch einen Tipp. Ihr müsst Euer Gegenüber *kennen*. Ich vermute, das hört sich nach einem wahren Empathen an, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Raus damit!"</DefaultText>
+      <DefaultText>„Raus damit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Das Fünfte Auge ist eine Bar für Mentale. Zumindest ist es das im Moment. Soweit wir wissen, diente das Gebäude in den vorigen Welten als Pumpstation. Diese ganzen Rohre führen zu Sammelbehältern tief unter der Stadt, und sie pumpen alles nach oben, was sich dort drin befindet."</DefaultText>
+      <DefaultText>„Das Fünfte Auge ist eine Bar für Mentale. Zumindest ist es das im Moment. Soweit wir wissen, diente das Gebäude in den vorigen Welten als Pumpstation. Diese ganzen Rohre führen zu Sammelbehältern tief unter der Stadt, und sie pumpen alles nach oben, was sich dort drin befindet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Oh, Ihr wisst schon. Eine alte Pumpstation, die praktischerweise psyionisch abgeschirmt ist, seltsame Mixturen aus alten, gefährlichen Behältern, hier und da ein paar Gesundheitsrisiken und natürlich eine Klientel aus halbgaren Spinnern." Ein grinsen wartet auf dich. "Das sollte genügen, oder?"</DefaultText>
+      <DefaultText>„Oh, Ihr wisst schon. Eine alte Pumpstation, die praktischerweise psyionisch abgeschirmt ist, seltsame Mixturen aus alten, gefährlichen Behältern, hier und da ein paar Gesundheitsrisiken und natürlich eine Klientel aus halbgaren Spinnern.“ Ein grinsen wartet auf dich. „Das sollte genügen, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -463,24 +463,24 @@ Seine Haut fühlt sich hart und unnachgiebig an wie Synthstahl. "Lebendig wie eh
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Er lacht. "Na ja. Irgendein armer Trottel hat angefangen, die Flüssigkeiten aus einigen der Rohre zu trinken, und irgendwann war er damit nicht mehr allein. Ein paar von ihnen sind dabei draufgegangen, und der Rest war einfach nur unglaublich betrunken. Und nach einer Weile - hoffentlich ist das nicht zu vage für Euch? - konnten sie ziemlich gut unterscheiden, was sie umbringt und was sie ins geistige Delirium befördert. Und ab da war es beschlossene Sache - aus diesem Laden konnte man Geld machen."
+      <DefaultText>Er lacht. „Na ja. Irgendein armer Trottel hat angefangen, die Flüssigkeiten aus einigen der Rohre zu trinken, und irgendwann war er damit nicht mehr allein. Ein paar von ihnen sind dabei draufgegangen, und der Rest war einfach nur unglaublich betrunken. Und nach einer Weile - hoffentlich ist das nicht zu vage für Euch? - konnten sie ziemlich gut unterscheiden, was sie umbringt und was sie ins geistige Delirium befördert. Und ab da war es beschlossene Sache - aus diesem Laden konnte man Geld machen.“
 
-"Der Grund dafür, dass sich hier so viele Mentale versammeln, ist, dass das Gebäude sie vor dem mentalen Wirrwarr der Stadt abschirmt." Er grinst. "Die Drinks helfen natürlich auch."</DefaultText>
+„Der Grund dafür, dass sich hier so viele Mentale versammeln, ist, dass das Gebäude sie vor dem mentalen Wirrwarr der Stadt abschirmt.“ Er grinst. „Die Drinks helfen natürlich auch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Der Wirt ist vollkommen erstarrt. Er antwortet nicht, als du versuchst, mit ihm zu reden. Als er endlich seinen Kopf zu dir dreht, steht ihm der Schrecken ins bleiche Gesicht geschrieben. "Dhama war ein guter Mann", flüstert er.</DefaultText>
+      <DefaultText>Der Wirt ist vollkommen erstarrt. Er antwortet nicht, als du versuchst, mit ihm zu reden. Als er endlich seinen Kopf zu dir dreht, steht ihm der Schrecken ins bleiche Gesicht geschrieben. „Dhama war ein guter Mann“, flüstert er.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Worauf Feriok hinaus will, ist, dass er die Drinks eigentlich nur an den Mann oder die Frau bringt, sie aber nicht selbst zusammenmischt. Bedenkt man seine Fähigkeiten, ist das wohl eine angemessene Aufgabe."</DefaultText>
+      <DefaultText>„Worauf Feriok hinaus will, ist, dass er die Drinks eigentlich nur an den Mann oder die Frau bringt, sie aber nicht selbst zusammenmischt. Bedenkt man seine Fähigkeiten, ist das wohl eine angemessene Aufgabe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Er schlägt mit einer Hand auf seine Stirn. "Dass ich mir das von diesem Störenfried aus der Wüste sagen lassen muss!"</DefaultText>
+      <DefaultText>Er schlägt mit einer Hand auf seine Stirn. „Dass ich mir das von diesem Störenfried aus der Wüste sagen lassen muss!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -490,12 +490,12 @@ Seine Haut fühlt sich hart und unnachgiebig an wie Synthstahl. "Lebendig wie eh
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>(Bezahlen) "Ich würde gern das schwarze Sekret probieren."</DefaultText>
+      <DefaultText>(Bezahlen) „Ich würde gern das schwarze Sekret probieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>(Bezahlen) "Ich nehme noch einmal das schwarze Sekret."</DefaultText>
+      <DefaultText>(Bezahlen) „Ich nehme noch einmal das schwarze Sekret.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -505,12 +505,12 @@ Seine Haut fühlt sich hart und unnachgiebig an wie Synthstahl. "Lebendig wie eh
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>(Bezahlen) "Ich würde gern den pinken Schleim probieren."</DefaultText>
+      <DefaultText>(Bezahlen) „Ich würde gern den pinken Schleim probieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>(Bezahlen) "Ich nehme noch einmal den pinken Schleim."</DefaultText>
+      <DefaultText>(Bezahlen) „Ich nehme noch einmal den pinken Schleim.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -520,12 +520,12 @@ Seine Haut fühlt sich hart und unnachgiebig an wie Synthstahl. "Lebendig wie eh
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>(Bezahlen) "Ich würde gern den Fettentferner probieren."</DefaultText>
+      <DefaultText>(Bezahlen) „Ich würde gern den Fettentferner probieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>(Bezahlen) "Ich nehme noch einmal den Fettentferner."</DefaultText>
+      <DefaultText>(Bezahlen) „Ich nehme noch einmal den Fettentferner.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -535,16 +535,16 @@ Seine Haut fühlt sich hart und unnachgiebig an wie Synthstahl. "Lebendig wie eh
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Bei dem Gedanken daran schaudert er. "Ich habe das Zeug mal probiert. An viel erinnere ich mich nicht, nur, dass ich von Löchern in der Realität geschwärmt habe. Na ja, hier kommt Euer Drink."
+      <DefaultText>Bei dem Gedanken daran schaudert er. „Ich habe das Zeug mal probiert. An viel erinnere ich mich nicht, nur, dass ich von Löchern in der Realität geschwärmt habe. Na ja, hier kommt Euer Drink.“
 
 Ein Becher aus Hartglass schwebt unter der Öffnung eines der Rohre. Der Zapfhahn wird geöffnet und das Sekret tritt aus der Öffnung aus. Du kannst es von hier aus riechen. Der Becher schwebt zu dir zurück, ohne dass Feriok ihn auch nur berührt hätte.
 
-"Ich würde empfehlen, es schnell zu trinken." Er zwinkert.</DefaultText>
+„Ich würde empfehlen, es schnell zu trinken.“ Er zwinkert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Bereit für noch eine Runde? Auf Eure Gefahr. Es sah nicht so aus, als hättet Ihr das letzte Mal besonders genossen ..."
+      <DefaultText>„Bereit für noch eine Runde? Auf Eure Gefahr. Es sah nicht so aus, als hättet Ihr das letzte Mal besonders genossen ...“
 
 Ungeachtet seiner Worte fliegt ein Becher zum Zapfhahn herüber und der dickflüssige Schleim tropft heraus. Der Becher fliegt zu dir, und du kippst ihn herunter.</DefaultText>
       <FemaleText />
@@ -577,21 +577,21 @@ Zumindest nicht sofort. Gerade als dir Zweifel an der Wirkung der Flüssigkeit k
       <ID>115</ID>
       <DefaultText>Er hebt eine Augenbraue an, als das nächste schwere Glas zum Zapfhahn schwebt. Das Ventil öffnet sich, und das Glas wird mit einer sprudelnden, pinken Schlacke gefüllt. Daraufhin gleitet das zu dir. Feriok beendet die Vorführung mit einem theatralischen Abstauben seiner Hände, obwohl er dein Glas nicht einmal angefasst hat. Er grinst.
 
-"Langsam trinken. Nicht übertr-"
+„Langsam trinken. Nicht übertr-“
 
 Doch in diesem Moment hast du die ganze Flüssigkeit schon heruntergekippt. Sie ist dickflüssig und geschmacklos, aber ihre Wirkung setzt schnell ein. Deine Muskeln verkrampfen sich. Und so auch dein Herz. Der Tod holt dich so schnell ein, dass du den Übergang kaum bemerkst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Ihr meint das Zeug, das Euch beim letzten Mal getötet hat? Nur weil Ihr wieder unter den Lebenden wandelt, heißt das nicht, dass ich es Euch wieder einschenken werde. Aber bitte, ist ja Euer Leben."
+      <DefaultText>„Ihr meint das Zeug, das Euch beim letzten Mal getötet hat? Nur weil Ihr wieder unter den Lebenden wandelt, heißt das nicht, dass ich es Euch wieder einschenken werde. Aber bitte, ist ja Euer Leben.“
 
 Das Ventil öffnet sich, und ohne eine Berührung Ferioks schwebt das Glas zu dir. Du schluckst den Inhalt mit einem Mal herunter, und wieder fällt dein Körper zuckend zu Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Er stottert einen Moment lang, und sein gesamter Körper zittert. "Ihr seid am Leben? Ich meine ... natürlich! Natürlich seid Ihr am Leben! Willkommen zurück. Was kann ich für Euch tun?"</DefaultText>
+      <DefaultText>Er stottert einen Moment lang, und sein gesamter Körper zittert. „Ihr seid am Leben? Ich meine ... natürlich! Natürlich seid Ihr am Leben! Willkommen zurück. Was kann ich für Euch tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -601,7 +601,7 @@ Das Ventil öffnet sich, und ohne eine Berührung Ferioks schwebt das Glas zu di
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>Er rümpft die Nase. "Wirklich? Auf Eure eigene Verantwortung, schätze ich."
+      <DefaultText>Er rümpft die Nase. „Wirklich? Auf Eure eigene Verantwortung, schätze ich.“
 
 Er konzentriert sich und lässt eine Flasche unter den Zapfhahn schweben. Die Flüssigkeit ergießt sich in die Flasche und du hörst ein Zischen. Schließlich schwebt die Flasche zu dir herüber, und du kannst die dünne, ölige Flüssigkeit darin erkennen.
 
@@ -612,7 +612,7 @@ Du hältst deine Nase zu und schluckst es herunter.</DefaultText>
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Bin nicht gerade scharf drauf, das noch mal zu riechen. Leto auch nicht, vermute ich." Sie schüttelt ihren Kopf, während sie sich mit einer Hand die Nase zuhält. "Aber der Kunde ist König ..."
+      <DefaultText>„Bin nicht gerade scharf drauf, das noch mal zu riechen. Leto auch nicht, vermute ich.“ Sie schüttelt ihren Kopf, während sie sich mit einer Hand die Nase zuhält. „Aber der Kunde ist König ...“
 
 Das fettige Gemisch lässt sich ein wenig schwerer schlucken als vorher, aber die Wirkung ist dafür weniger dramatisch. Diesmal ist dir einfach nur schwindelig, und es dauert nicht lange, bis du alles wieder nach oben würgst.
 
@@ -649,41 +649,41 @@ Die Achsen der Welt scheinen sich zu verlagern, und du stolperst nach Rechts. Je
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Er nickt und schließt die Augen. "Kommt sofort", murmelt er. Gläser und Becher schwirren ohne eine Berührung durch die Luft und bewegen sich präzise auf die Zapfhähne an den Wänden zu.
+      <DefaultText>Er nickt und schließt die Augen. „Kommt sofort“, murmelt er. Gläser und Becher schwirren ohne eine Berührung durch die Luft und bewegen sich präzise auf die Zapfhähne an den Wänden zu.
 
 Eines davon landet direkt vor dir. Du trinkst es aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Einen Augenblick."
+      <DefaultText>„Einen Augenblick.“
 
 Das Glas wird vor den Augen abgestellt, und du hebst es an, um davon zu kosten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Clarion ist auf Eure Hilfe angewiesen. Sie sucht Krieger, die mit ihr in der Endlosen Schlacht kämpfen."</DefaultText>
+      <DefaultText>„Clarion ist auf Eure Hilfe angewiesen. Sie sucht Krieger, die mit ihr in der Endlosen Schlacht kämpfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Ha. Nein. Keine Chance. Diese Bar hier ist mein Leben, ich habe genug gekämpft. Ich habe kein Interesse daran, für Leute oder eine Sache zu kämpfen, die mich nicht interessieren. Ihr könnt ihr gerne helfen, aber haltet mich da raus."</DefaultText>
+      <DefaultText>„Ha. Nein. Keine Chance. Diese Bar hier ist mein Leben, ich habe genug gekämpft. Ich habe kein Interesse daran, für Leute oder eine Sache zu kämpfen, die mich nicht interessieren. Ihr könnt ihr gerne helfen, aber haltet mich da raus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Er hält für einen Moment inne, um nachzudenken. "Wisst ihr was? Vielleicht könntet Ihr Clarion davon überzeugen, ihre Missionierung woanders fortzusetzen. Natürlich nur, wenn Ihr wollt. Aber mal unter uns - was sie tut und was sie denkt, das ist schon ziemlich starker Tobak."</DefaultText>
+      <DefaultText>Er hält für einen Moment inne, um nachzudenken. „Wisst ihr was? Vielleicht könntet Ihr Clarion davon überzeugen, ihre Missionierung woanders fortzusetzen. Natürlich nur, wenn Ihr wollt. Aber mal unter uns - was sie tut und was sie denkt, das ist schon ziemlich starker Tobak.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Ich komme wieder und probiere einige Drinks, wenn ich mehr Shin habe."</DefaultText>
+      <DefaultText>„Ich komme wieder und probiere einige Drinks, wenn ich mehr Shin habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Feriok nickt. "Sie werden auf Euch warten."</DefaultText>
+      <DefaultText>Feriok nickt. „Sie werden auf Euch warten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -703,36 +703,36 @@ Das Glas wird vor den Augen abgestellt, und du hebst es an, um davon zu kosten.<
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Ihr habt gesagt, das hier sei eine Bar für Mentale. Was habt Ihr damit gemeint?"</DefaultText>
+      <DefaultText>„Ihr habt gesagt, das hier sei eine Bar für Mentale. Was habt Ihr damit gemeint?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Können wir noch einmal über mentale Kräfte sprechen?"</DefaultText>
+      <DefaultText>„Können wir noch einmal über mentale Kräfte sprechen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Das soll heißen, dass hier eine Art Zuflucht für Mentale ist. Raus aus der Stadt. Raus aus dem Lärm. Könnt Ihr Euch vorstellen, wie es ist, ein Mentaler zu sein? Lasst es mich Euch verdeutlichen. Stellt Euch vor, dass jedes Mal, wenn Ihr zu Bett geht, jemand in Euer Ohr schreit. Oder dass die Objekte im Raum anfangen, Euch zuzuflüstern, wie gerne sie *brennen* würden. Es könnte auch sein, dass sie Euch von ihren geheimen Namen erzählen und Euch verraten, wie Ihr sie dazu bringen könnt, auf Euren Befehl hin zu schweben und zu tanzen."</DefaultText>
+      <DefaultText>„Das soll heißen, dass hier eine Art Zuflucht für Mentale ist. Raus aus der Stadt. Raus aus dem Lärm. Könnt Ihr Euch vorstellen, wie es ist, ein Mentaler zu sein? Lasst es mich Euch verdeutlichen. Stellt Euch vor, dass jedes Mal, wenn Ihr zu Bett geht, jemand in Euer Ohr schreit. Oder dass die Objekte im Raum anfangen, Euch zuzuflüstern, wie gerne sie *brennen* würden. Es könnte auch sein, dass sie Euch von ihren geheimen Namen erzählen und Euch verraten, wie Ihr sie dazu bringen könnt, auf Euren Befehl hin zu schweben und zu tanzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Viel mehr habe ich nicht zu sagen. Redet mit den anderen hier, die werden Euren Kopf mit Geschichten und Bildern füllen."</DefaultText>
+      <DefaultText>„Viel mehr habe ich nicht zu sagen. Redet mit den anderen hier, die werden Euren Kopf mit Geschichten und Bildern füllen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Oder wie würde es Euch gefallen, wenn jede Person, die Ihr trefft, wie ein Haus mit offenen Türen wäre, und ihr nicht anders könntet, als in jede Ecke zu sehen und ihre Geheimnisse zu stehlen? Und unter alledem hört Ihr ihre leisen Urteile, die Warhehit, die sie sogar vor sich selbst verstecken."
+      <DefaultText>„Oder wie würde es Euch gefallen, wenn jede Person, die Ihr trefft, wie ein Haus mit offenen Türen wäre, und ihr nicht anders könntet, als in jede Ecke zu sehen und ihre Geheimnisse zu stehlen? Und unter alledem hört Ihr ihre leisen Urteile, die Warhehit, die sie sogar vor sich selbst verstecken.“
 
 Er hält kurz inne, um sich auf ein schwebendes Tuch zu konzentrieren, dass einen Becher sauber wischt. Dann platziert er den Becher in einem Regal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Die Leute denken, dass es ein Segen wäre, solch eine Fähigkeit zu besitzen. Und manchmal mag das so sein. Vor allem dann, wenn man sich mit seinen Freunden zusammentun kann, um etwas Großes zu vollbringen. Aber ..." Er zuckt mit den Schultern.
+      <DefaultText>„Die Leute denken, dass es ein Segen wäre, solch eine Fähigkeit zu besitzen. Und manchmal mag das so sein. Vor allem dann, wenn man sich mit seinen Freunden zusammentun kann, um etwas Großes zu vollbringen. Aber ...“ Er zuckt mit den Schultern.
 
-"Es kann sehr hart sein. Voller Hass. Und man kann nie Wissen, wann man die Grenze zum Wahnsinn überschreitet."</DefaultText>
+„Es kann sehr hart sein. Voller Hass. Und man kann nie Wissen, wann man die Grenze zum Wahnsinn überschreitet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -752,12 +752,12 @@ Er hält kurz inne, um sich auf ein schwebendes Tuch zu konzentrieren, dass eine
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Hätte nie gedacht, dass wir das Ende dieser Clarion erleben würden. Ich weiß es zu schätzen. Genauer gesagt ... wir alle tun es. Der Lärm, den sie verursacht hat ... es hat den psychischen Raum hier verunreinigt. Also danke, mein Freund."</DefaultText>
-      <FemaleText>"Hätte nie gedacht, dass wir das Ende dieser Clarion erleben würden. Ich weiß es zu schätzen. Genauer gesagt ... wir alle tun es. Der Lärm, den sie verursacht hat ... es hat den psychischen Raum hier verunreinigt. Also danke, meine Gute."</FemaleText>
+      <DefaultText>„Hätte nie gedacht, dass wir das Ende dieser Clarion erleben würden. Ich weiß es zu schätzen. Genauer gesagt ... wir alle tun es. Der Lärm, den sie verursacht hat ... es hat den psychischen Raum hier verunreinigt. Also danke, mein Freund.“</DefaultText>
+      <FemaleText>„Hätte nie gedacht, dass wir das Ende dieser Clarion erleben würden. Ich weiß es zu schätzen. Genauer gesagt ... wir alle tun es. Der Lärm, den sie verursacht hat ... es hat den psychischen Raum hier verunreinigt. Also danke, meine Gute.“</FemaleText>
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Dachte immer, meine Freunde fühlen das Gleiche. Ich hätte wetten können, dass keiner von ihnen wieder in den Krieg ziehen würde, doch du und Clarion habt mich bereits eines Besseren gelehrt."</DefaultText>
+      <DefaultText>„Dachte immer, meine Freunde fühlen das Gleiche. Ich hätte wetten können, dass keiner von ihnen wieder in den Krieg ziehen würde, doch du und Clarion habt mich bereits eines Besseren gelehrt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -772,12 +772,12 @@ Er hält kurz inne, um sich auf ein schwebendes Tuch zu konzentrieren, dass eine
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Ich bin froh, dass wir Malaise los sind. Etwas weniger Gift in der Welt. Danke für deine Hilfe auch."</DefaultText>
+      <DefaultText>„Ich bin froh, dass wir Malaise los sind. Etwas weniger Gift in der Welt. Danke für deine Hilfe auch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Er seufzt und sieht wehmütig zur Tür. "Ich hoffe, die Endlose Schlacht wird nicht so hart wie der Gegner. Ich weiß nicht, ob ich den Verlust weiterer Freunde verkraften kann, verstehst du?"</DefaultText>
+      <DefaultText>Er seufzt und sieht wehmütig zur Tür. „Ich hoffe, die Endlose Schlacht wird nicht so hart wie der Gegner. Ich weiß nicht, ob ich den Verlust weiterer Freunde verkraften kann, verstehst du?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
