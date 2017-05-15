@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Auch wenn das Gesicht dieser Frau jung aussieht, ist der brutale Einfluss der Sonne zu erkennen. Sie trägt einen eng anliegenden Ganzkörperanzug unter ihrer luftigen Wüstenrobe. Ihre Augen lassen Tiefe vermuten und sind vollständig schwarz, kein weißer Flecken ist zu erkennen - hier und da ziert sie ein Lichtstreifen, der binnen Sekunden wieder verschwindet. Der Anblick erinnert dich an einen Nachthimmel, an dem Sternschnuppen vorüberziehen.
+      <DefaultText>Auch wenn das Gesicht dieser Frau jung aussieht, ist der brutale Einfluss der Sonne zu erkennen. Sie trägt einen eng anliegenden Ganzkörperanzug unter ihrer luftigen Wüstenrobe. Ihre Augen lassen Tiefe vermuten und sind vollständig schwarz, kein weißer Flecken ist zu erkennen – hier und da ziert sie ein Lichtstreifen, der binnen Sekunden wieder verschwindet. Der Anblick erinnert dich an einen Nachthimmel, an dem Sternschnuppen vorüberziehen.
 
 „Ich bin Leto“, sagt sie. „Ich wusste, dass Ihr kommen würdet. Habe es gesehen. Und hier seid Ihr.“</DefaultText>
       <FemaleText />
@@ -231,7 +231,7 @@ Ihr Blick fixiert sich auf ihre Hände. „Was, wenn ich Euch meine Gabe des Vor
       <ID>50</ID>
       <DefaultText>„Könnt Ihr mir sagen, welche Handlungen zu meinem Untergang führen werden? Was muss ich tun, um das zu vermeiden?“
 
-{LEANNE: Please update text and questions - are there any variables you'd like to set here in order to make Calli's global neater?}</DefaultText>
+{LEANNE: Please update text and questions – are there any variables you'd like to set here in order to make Calli's global neater?}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@ Ihr Blick fixiert sich auf ihre Hände. „Was, wenn ich Euch meine Gabe des Vor
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Ich kenne die Geschichten meiner Weggefährten - ihre Vergangenheit und ihre Zukunft. Ich fühle mich tief mit Ziobe verbunden und pflege eine Freundschaft mit Theboros. Mein Respekt für Dhamas kennt keine Grenzen und ich habe viele gute Erinnerungen an Ferioks Gerissenheit.“</DefaultText>
+      <DefaultText>„Ich kenne die Geschichten meiner Weggefährten – ihre Vergangenheit und ihre Zukunft. Ich fühle mich tief mit Ziobe verbunden und pflege eine Freundschaft mit Theboros. Mein Respekt für Dhamas kennt keine Grenzen und ich habe viele gute Erinnerungen an Ferioks Gerissenheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -458,7 +458,7 @@ Sie nickt dem Wirt zu, der ihr mit einer Flasche, die von der Theke zu ihr hinü
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Ein Seher des Schmerzes und der Liebe. Ein großes Licht. Er besticht durch seine Reden und Anziehungskraft. Ein Empath, ein Weber von Hoffnung und Versöhnung. Eine kurze Geschichte, die ich aber sehr liebe - ein wütender Bürger kommt vorbei und droht mit Gewalt. Feriok zehrt seinen Schmerz auf und macht damit einen völlig neuen Menschen aus ihm. In diesen Tagen ist Feriok ein geschätzter Freund.“</DefaultText>
+      <DefaultText>„Ein Seher des Schmerzes und der Liebe. Ein großes Licht. Er besticht durch seine Reden und Anziehungskraft. Ein Empath, ein Weber von Hoffnung und Versöhnung. Eine kurze Geschichte, die ich aber sehr liebe – ein wütender Bürger kommt vorbei und droht mit Gewalt. Feriok zehrt seinen Schmerz auf und macht damit einen völlig neuen Menschen aus ihm. In diesen Tagen ist Feriok ein geschätzter Freund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -542,7 +542,7 @@ Sie nickt dem Wirt zu, der ihr mit einer Flasche, die von der Theke zu ihr hinü
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Ihr tiefer Blick konzentriert sich auf dich, als ihre Augen aufleuchten. Ihre Prophezeiungen nehmen dich in sich auf, und für einen kurzen Moment siehst du die Welt so wie sie - ein wundervolles und zugleich furchteinflößendes Gemälde der Möglichkeiten. Du siehst keine Leben, sondern leuchtende Linien, ineinander verschlungen und in einem Schleier verschwindend. Dir ist bewusst, dass dies nur ein kleiner Teil der Wahrheit sein kann, und dass du ihn erst interpretieren musst … aber kurz darauf schon verschwimmen die Bilder, und die Details versiegen in den Tiefen deines Gedächtnisses.</DefaultText>
+      <DefaultText>Ihr tiefer Blick konzentriert sich auf dich, als ihre Augen aufleuchten. Ihre Prophezeiungen nehmen dich in sich auf, und für einen kurzen Moment siehst du die Welt so wie sie – ein wundervolles und zugleich furchteinflößendes Gemälde der Möglichkeiten. Du siehst keine Leben, sondern leuchtende Linien, ineinander verschlungen und in einem Schleier verschwindend. Dir ist bewusst, dass dies nur ein kleiner Teil der Wahrheit sein kann, und dass du ihn erst interpretieren musst … aber kurz darauf schon verschwimmen die Bilder, und die Details versiegen in den Tiefen deines Gedächtnisses.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,16 +551,16 @@ Sie nickt dem Wirt zu, der ihr mit einer Flasche, die von der Theke zu ihr hinü
 
 „Verrat lauert in Eurer Zukunft, Verstoßener. Ihr werdet gegen Euch selbst kämpfen müssen, und wenn Ihr an der Schwelle zum Wahnsinn steht, werdet Ihr Euch an dieses Wort erinnern.“ Sie fällt zusammen und ihr Körper verliert alle Anspannung. „Das war alles.“
 
-{ADAM: This word is for the PC's use in the Battle For Your Mind - the flag will be Quest_CallToWar_RecruitedLeto = 2}</DefaultText>
+{ADAM: This word is for the PC's use in the Battle For Your Mind – the flag will be Quest_CallToWar_RecruitedLeto = 2}</DefaultText>
       <FemaleText>„Wartet“, sagt sie. Sie lehnt sich nach vorne und flüstert dir ein Wort zu, das du nicht verstehen und an das du dich im nächsten Augenblick bereits nicht mehr erinnern kannst, aber du bist dir sicher, dass es sich fest mit deinem Bewusstsein verbunden hat.
 
 „Verrat lauert in Eurer Zukunft, Verstoßene. Ihr werdet gegen Euch selbst kämpfen müssen, und wenn Ihr an der Schwelle zum Wahnsinn steht, werdet Ihr Euch an dieses Wort erinnern.“ Sie fällt zusammen und ihr Körper verliert alle Anspannung. „Das war alles.“
 
-{ADAM: This word is for the PC's use in the Battle For Your Mind - the flag will be Quest_CallToWar_RecruitedLeto = 2}</FemaleText>
+{ADAM: This word is for the PC's use in the Battle For Your Mind – the flag will be Quest_CallToWar_RecruitedLeto = 2}</FemaleText>
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>„Ich wurde in den Elendsvierteln geboren. Die Ghibra - Einwohner der Stadt - haben sich manchmal unser Viertel angesehen. Einer von ihnen sah meine Augen und war sich sicher, dass ich von ihrem Gott Ny'kul gesegnet worden sei. Sie haben mir die innigsten Geheimnisse ihrer Kirche anvertraut und mir gezeigt, wie ich das Geflecht in meinem Verstand interpretieren kann.“
+      <DefaultText>„Ich wurde in den Elendsvierteln geboren. Die Ghibra – Einwohner der Stadt – haben sich manchmal unser Viertel angesehen. Einer von ihnen sah meine Augen und war sich sicher, dass ich von ihrem Gott Ny'kul gesegnet worden sei. Sie haben mir die innigsten Geheimnisse ihrer Kirche anvertraut und mir gezeigt, wie ich das Geflecht in meinem Verstand interpretieren kann.“
 
 „Aber eines Tages sah ich ein leuchtendes Licht bei den Sagus-Klippen. Und trotz der … unfreundlichen Beziehung zwischen unseren Städten … wusste ich, dass ich mich diesen Gefahren stellen musste, weil ich sehen konnte, wie sich ein dunkler Sturm am Horizont zusammenbraute.“ Sie greift nach deinem Ärmel. „Ich sehe nicht nur eine Zukunft, sondern *mehrere*.“</DefaultText>
       <FemaleText />
