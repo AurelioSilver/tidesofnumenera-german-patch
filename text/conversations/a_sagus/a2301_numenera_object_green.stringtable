@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2301_numenera_object_green</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>33</EntryCount>
+  <EntryCount>35</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -201,6 +201,16 @@ Er blendet in das Schwarze der Kugel über und neigt den Kopf.</DefaultText>
 Schwindel überkommt dich. Plötzlich *weißt* du, dass dies gestohlene Worte sind und dass Blut vergossen wurde, um sie zu nehmen. Wenn auch die Sache gerecht war, so ist der Irrgast tief beschämt. 
 
 Er blendet in das Schwarze der Kugel über und neigt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>::ssssss::, sagt Oom und rudert auf ungestüme, vielleicht sogar unhöfliche Weise mit einem Tentakel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

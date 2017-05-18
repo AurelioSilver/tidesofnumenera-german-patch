@@ -151,17 +151,17 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>{squishy noise}</DefaultText>
+      <DefaultText>::frrt::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>{slurping noise}</DefaultText>
+      <DefaultText>::sslr::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>{sploosh noise}</DefaultText>
+      <DefaultText>{watery sound}::slrp::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>{alarmed slurp}</DefaultText>
+      <DefaultText>{hostile}::sssrrrrsss::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>{indignant splort}</DefaultText>
+      <DefaultText>{indignant}::srrrk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>{sequence of noises}</DefaultText>
+      <DefaultText>::ssrrrrrrk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -901,7 +901,7 @@
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>{sploosh noise}</DefaultText>
+      <DefaultText>::mmmrm::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -916,7 +916,7 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>{hiss, splat noise}</DefaultText>
+      <DefaultText>{hairball}::ssssssrk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -931,7 +931,7 @@
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>{splort noise}</DefaultText>
+      <DefaultText>::mmmmmmm::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -946,7 +946,7 @@
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"oom."</DefaultText>
+      <DefaultText>{building}::mmmmmMM::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -961,7 +961,7 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>{squelch noise}</DefaultText>
+      <DefaultText>::mmrss::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1286,7 +1286,7 @@
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>{squelch}</DefaultText>
+      <DefaultText>::mmmm::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1296,7 +1296,7 @@
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>{squelch}</DefaultText>
+      <DefaultText>::rrrrrsk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1306,7 +1306,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>{squelch}</DefaultText>
+      <DefaultText>{extended}::rrrsrsrsrsrsrsrsrk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,17 +1656,17 @@
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>::blubber::</DefaultText>
+      <DefaultText>::brlk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>"Oom."</DefaultText>
+      <DefaultText>::mmmm::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>369</ID>
-      <DefaultText>{sizzling sound} ::zisch::</DefaultText>
+      <DefaultText>{sizzling sound} ::sssss::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1816,17 +1816,17 @@
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>"Oom."</DefaultText>
+      <DefaultText>::ssrsrs::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>{slithers into a new shape}</DefaultText>
+      <DefaultText>{crescendo and fall}::ruprupruprup::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>401</ID>
-      <DefaultText>"Oom?"</DefaultText>
+      <DefaultText>{lively}::fffipipip::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4421_bloom_heart_cnpc_intro</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>82</EntryCount>
+  <EntryCount>87</EntryCount>
   <Entries>
     <Entry>
       <ID>8</ID>
@@ -428,6 +428,33 @@ Sie holt tief Luft und sagt dann leiser: "Ich komme mit."</DefaultText>
     <Entry>
       <ID>104</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>An deiner Seite wird Oom mucksmäuschenstill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Oom, was ist los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Als du die Frage stellst, weißt du die Antwort durch den Teil von Oom in deinem Kopf auch schon: Es hat *Angst*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Komm mit mir, Oom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Die Augen des Wesens fallen zusammen, wie sich schließende Fäuste, bis das Licht in ihnen nahezu erloschen ist.
+
+ ::mm::, murmelt es gehorsam.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

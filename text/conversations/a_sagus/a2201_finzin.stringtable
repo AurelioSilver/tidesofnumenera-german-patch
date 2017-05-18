@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_finzin</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>176</EntryCount>
+  <EntryCount>177</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -947,6 +947,11 @@ Er wirft dir ein kleines Säckchen in die Hand und stolpert davon und sich an di
     <Entry>
       <ID>207</ID>
       <DefaultText>Dieses Mal ist sein Gesicht die pure Unschuld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Ooms Blick huscht zwischen der Wache und Finzin hin und her, als würde es nach Ähnlichkeiten suchen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

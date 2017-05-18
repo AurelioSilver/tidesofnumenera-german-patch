@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\party_idle_barks</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>113</EntryCount>
+  <EntryCount>122</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -56,17 +56,17 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Na kommt schon. Machen wir uns auf den Weg."</DefaultText>
+      <DefaultText>"Na, kommt schon. Machen wir uns auf den Weg."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Diese Stadt ist ein moralischer Abfluss."</DefaultText>
+      <DefaultText>"Diese Stadt ist moralisch völlig verkommen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich hasse Städte - einfach zu viele Leute unterwegs."</DefaultText>
+      <DefaultText>"Ich hasse Städte – einfach zu viele Leute unterwegs."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Wir sollten uns hier nicht häuslich niederlassen."</DefaultText>
+      <DefaultText>"Wir sollten hier nicht herumtrödeln."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>{satisfied} "Man kann die Energie der Metropole förmlich *spüren*."</DefaultText>
+      <DefaultText>{satisfied}"Man kann die Energie der Metropole förmlich *spüren*."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +171,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"So viele Monumente, so wenig sich es wert, sich an sie zu erinnern."</DefaultText>
+      <DefaultText>"So viele Monumente, aber nur wenige sind es wert, sich an sie zu erinnern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>{cheerful} "Ich erinnere mich an diese Stadt. Ich bin in sie hineingekracht!"</DefaultText>
+      <DefaultText>{cheerful}"Ich erinnere mich an diese Stadt. Ich bin in sie hineingekracht!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Was ist das für ein Surren? Hört sich an wie millionen Fliegen in meinem Kopf."</DefaultText>
+      <DefaultText>"Was ist das für ein Surren? Hört sich an wie Millionen Fliegen in meinem Kopf."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,17 +266,17 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Warum ist dieser Ort so voller Trauer?{suspicious}  Sollten wir auch trauern?"</DefaultText>
+      <DefaultText>"Warum ist dieser Ort so voller Trauer?{suspicious} Sollten wir auch trauern?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Wir sind hier schon eine halbe Ewigkeit! {Grumbles, mutters}Minus eine viertel Ewigkeit, oder ein paar mehr, aber trotzdem."</DefaultText>
+      <DefaultText>"Wir sind hier schon eine Ewigkeit! {Grumbles, mutters}Abzüglich einiger Ewigkeiten, aber trotzdem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>{ants in pants} "Überall wo ich hinsehe wartet das Abenteuer. Warum jagen wir ihm nicht nach?"</DefaultText>
+      <DefaultText>{ants in pants}"Überall, wo ich hinsehe, wartet das Abenteuer. Warum jagen wir ihm nicht nach?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,12 +286,12 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>{Phew} "Jetzt bin ich etwas angeschlagen."</DefaultText>
+      <DefaultText>{Phew}"Jetzt bin ich etwas angeschlagen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Aaah, die Sagus-Klippen. Der Abfluss der Zivilisation."</DefaultText>
+      <DefaultText>"Aaah, Sagus-Klippen. Der Abfluss der Zivilisation."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Das Stadtleben hast seine Vorteile. Man muss sich nur ... na ja, die ganzen Menschen wegdenken."</DefaultText>
+      <DefaultText>"Das Stadtleben hat seine Vorteile. Man muss sich nur ... na ja, die ganzen Menschen wegdenken."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,12 +336,12 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Das beste am Tal ist, dass hier fast jeder tot ist."</DefaultText>
+      <DefaultText>"Das Beste am Tal ist, dass hier fast jeder tot ist."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Mein Lieblingsort des Tals ist das Grab der Ersten."</DefaultText>
+      <DefaultText>"Mein Lieblingsort im Tal ist das Grab der Ersten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,12 +466,12 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Oh schau mal. Da haben wir uns getroffen."</DefaultText>
+      <DefaultText>"Oh, schau mal. Da haben wir uns getroffen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Trete behutsam voran. Der Boden ist ein kleines Bisschen zerbrechlich."</DefaultText>
+      <DefaultText>"Geh behutsam voran. Der Boden ist ein kleines bisschen zerbrechlich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -486,7 +486,7 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Riecht hier oben immer wie frisches Brot und Bestechung."</DefaultText>
+      <DefaultText>"Riecht hier oben immer nach frischem Brot und Bestechung."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,7 +496,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Ach, wie niedlich. Alles ist klebrig und komisch. Und Ich bin ein großer Liebhaber von klebrig und komisch."</DefaultText>
+      <DefaultText>"Ach, wie niedlich. Alles ist klebrig und komisch. Und ich bin ein großer Liebhaber von 'klebrig und komisch'."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,12 +511,12 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Ich mag noch einen guten Tal. Der Burstausschnitt der Natur, weißt du ja."</DefaultText>
+      <DefaultText>"Ich mag ein gutes Tal. Der Brustausschnitt der Natur, weißt du ja."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Schon eine Weile her, seitdem ich Urlaub in der Wildnis hatte."</DefaultText>
+      <DefaultText>"Schon eine Weile her, seitdem ich Urlaub in der Wildnis gemacht habe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Wie hoch ist die Wahrscheinlichkeit, dass eine Schenke in der Nähe ist? Tss. Dachte schon, nicht."</DefaultText>
+      <DefaultText>"Gibt es in der Nähe vielleicht eine Schänke? Dachte ich mir schon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,12 +536,12 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Diese Zeit verbringt mal lieber Hosenlos und betrunken."</DefaultText>
+      <DefaultText>"Diese Zeit verbringt man lieber ohne Hose und betrunken."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Dieser Ort hat schon seine Anreize, aber ich glaube, wir haben sie alle erschöpft."</DefaultText>
+      <DefaultText>"Dieser Ort hat schon seine Reize, aber ich glaube, wir haben sie alle erschöpft."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,7 +551,7 @@
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText />
+      <DefaultText>"Ich frage mich, wo der Kummer ist."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -561,13 +561,58 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Ich sollte wirklich in Bewegung setzen, bevor jemand versucht, mich umzubringen."</DefaultText>
+      <DefaultText>"Ich sollte wirklich weiter, bevor jemand versucht, mich umzubringen."</DefaultText>
       <FemaleText>"Ich sollte wirklich in Bewegung setzen, bevor jemand versucht, mich umzubringen."</FemaleText>
     </Entry>
     <Entry>
       <ID>117</ID>
       <DefaultText>"Brauche Ruhe."</DefaultText>
       <FemaleText>"Brauche Ruhe."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

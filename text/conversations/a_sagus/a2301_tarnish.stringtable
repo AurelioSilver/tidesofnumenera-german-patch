@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2301_tarnish</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>40</EntryCount>
+  <EntryCount>42</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -223,6 +223,18 @@ Tarnish spuckt auf den Boden. "Das ist schon ein Weilchen her, das vergesse ich 
       <ID>40</ID>
       <DefaultText>"Die Konstrukte, die diesen Ort betreiben." Er blinzelt dich an. "Hast du mich das nicht schon mal gefragt?"</DefaultText>
       <FemaleText>"Die Konstrukte, die diesen Ort betreiben." Er blinzelt dich an. "Hast du mich das nicht schon mal gefragt?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Ooms Augen ziehen sich zusammen und es schreibt eine Reihe von Umrissen sorgfältig auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Ooms Augen ziehen sich erneut zusammen und es löscht seine Zeichen auf dem Boden.
+
+ :srsrsr::, knurrt es.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

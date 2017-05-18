@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_prata</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>109</EntryCount>
+  <EntryCount>118</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -597,6 +597,53 @@ Sie kichert. „Ich wusste ja gar nicht, dass die Dendra O'hur sich betrinken!�
       <DefaultText>Sie lächelt. „Oh, Ich *bin* froh, dass zu hören. I fühlte mich so schlecht, als ich Euch nicht helfen konnte.“
 
 Die Händlerin dreht sich zufrieden wieder zu dir. „Gibt es etwas anderes, dass Ihr wolltet?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>::srrrl::, seufzt Oom und zieht einen kleinen Tentakel über den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Sie kratzt sich nervös an ihrem verhüllten Hals und es klingt, als würden raue Steine aneinander reiben.
+
+ "Oder vielleicht Haustiere? Wie Euer kleiner Freund dort.", sagt sie und deutet auf Oom. "Ihr würdet es nicht verkaufen, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Weiß nicht, ob ich das überhaupt könnte, selbst wenn ich wollte. Es lebt in meinem Kopf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Nein, niemals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Vielleicht, wenn der Preis stimmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Na bitte.", sagt sie, erleichtert, dass eine Übereinkunft erzielt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ach, wirklich?", sagt sie, und ihr Unbehagen scheint völlig vergessen zu sein. "Das ist ja wunderbar! Leistet es Euren einsameren Gedanken Gesellschaft? Schon gut, antwortet nicht. Ich möchte später ein exploratives Gedicht darüber schreiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Oom pocht liebevoll gegen deine Wade, hält aber ansonsten seine Zunge im Zaum. Sozusagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Oh!", sagt sie, und ihre Mundwerkzeuge arbeiten leise. Höflich räuspert sie sich. "Nun, ich würde es nicht tun. Aber wenn ich je einen neuen Begleiter kaufen möchte, gebe ich Euch Bescheid."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

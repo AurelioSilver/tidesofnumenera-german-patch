@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_execution_official</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>174</EntryCount>
+  <EntryCount>177</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -907,6 +907,23 @@ Er hebt stolz das Kinn. „Und so wird in Sagusklippen für Gerechtigkeit gesorg
     </Entry>
     <Entry>
       <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Der Mann da drüben hat mir erzählt, er sei in Ris' Verbrechen verwickelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Der Beamte blickt in Richtung deines ausgestreckten Fingers und runzelt die Stirn.
+
+ "Hauptmann Tybir? Der Kriegsheld? Unsinn. Wir haben schon gemeinsam was getrunken. Er ist nur ein leidenschaftlicher Verfechter der Gerechtigkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

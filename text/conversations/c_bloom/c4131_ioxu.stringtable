@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4131_ioxu</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>125</EntryCount>
+  <EntryCount>126</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -667,6 +667,11 @@ Er verstummt, sobald er deine Rückkehr bemerkt. Sein Blick füllt sich mit Schr
     <Entry>
       <ID>148</ID>
       <DefaultText>Er wirft einen flüchtigen Blick darauf. "Schließe es an und wir werden sehen. Es ist ganz einfach. Wenn es klappt, dann werde ich sehen, was ich mit der Klinge selbst machen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Oom sieht das Konstrukt mit einer Besorgnis an, die du förmlich schmecken kannst.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

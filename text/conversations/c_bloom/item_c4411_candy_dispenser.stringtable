@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\item_c4411_candy_dispenser</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>53</EntryCount>
+  <EntryCount>54</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -328,6 +328,11 @@ Tybir räuspert sich. "Es gibt Tausende Wege, um die Stimmung bei einer Orgie zu
     <Entry>
       <ID>65</ID>
       <DefaultText>"Nun, das war unschön."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>::rrrrrsss::, sagt Oom und beäugt die Kreatur mit etwas, das Misstrauen sein könnte.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_avina</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>236</EntryCount>
+  <EntryCount>238</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1240,6 +1240,18 @@ Sie holt tief Luft.</DefaultText>
     <Entry>
       <ID>253</ID>
       <DefaultText>Nachdem sie ihren Blick von der Schachtel abgewendet hat, schaut sie zu dir auf. „War das … war das alles, was du wolltest?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>::mmmm::, summt Oom, und das Lied ähnelt merkwürdig dem, was das Mädchen gerade gespielt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Ihre Miene hellt sich auf, sie hebt ihre Flöte und spielt mit, bis Oom von einem vorbeikommenden Insekt abgelenkt wird.
+
+ Sie lächelt dich an und meint: "Unentgeltliche Kostprobe."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

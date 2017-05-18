@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\stringparameters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1551</EntryCount>
+  <EntryCount>1583</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7711,7 +7711,7 @@
     </Entry>
     <Entry>
       <ID>1542</ID>
-      <DefaultText />
+      <DefaultText>::gleichmäßige Lagen aus Schlick, Erde und Stein, die sich um einen runden Kern gelegt haben::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7721,17 +7721,17 @@
     </Entry>
     <Entry>
       <ID>1544</ID>
-      <DefaultText />
+      <DefaultText>SIND WIR AUCH SEINE BESTEN FREUNDE *auf keinen Fall* OH</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1545</ID>
-      <DefaultText />
+      <DefaultText>IST ES GEFÄHRLICH *unserer Erfahrung nach ist alles gefährlich* GUT</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1546</ID>
-      <DefaultText />
+      <DefaultText>Es erscheint harmlos, aber nichts ist je wirklich harmlos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7741,12 +7741,12 @@
     </Entry>
     <Entry>
       <ID>1548</ID>
-      <DefaultText />
+      <DefaultText>::ein Sonnenstrahl stößt in Wasser wie ein Pfeil und wird dunkler, seltsamer::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1549</ID>
-      <DefaultText />
+      <DefaultText>::Wellen breiten sich um den Ort aus, an dem der Stein niedergegangen ist::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7756,6 +7756,166 @@
     </Entry>
     <Entry>
       <ID>1551</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1552</ID>
+      <DefaultText>::ein Kreis im Staub, der seine Form ohne Wort ausspricht::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1553</ID>
+      <DefaultText>::ein Windstoß fegt Staub von der Platte eines Bildhauertischs::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1554</ID>
+      <DefaultText>::ein dunkler Ozeangraben, der sich durch die Erde zieht::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1555</ID>
+      <DefaultText>::Schnee bedeckt ein Loch in der Erde. Verborgen existiert das Loch weiter::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1556</ID>
+      <DefaultText>::der Wind weht das bewegungslose Blatt hin, wo er möchte::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1557</ID>
+      <DefaultText>::eine Feder treibt in einer leichten Brise und findet keinen Ruheplatz::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1558</ID>
+      <DefaultText>::die Feder wirbelt herum. Wirbelt herum und fällt nie herab::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1559</ID>
+      <DefaultText>::ein Baum mit nackten Ästen im Regen::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1560</ID>
+      <DefaultText>::eine ausgeblichene und geflickte Decke auf trockenem Boden::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1561</ID>
+      <DefaultText>::die Hand, die sich schützend um die Kerzenflamme legt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1562</ID>
+      <DefaultText>::Blätter sind herabgefallen – zu viele, um sie zu zählen::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1563</ID>
+      <DefaultText>::eine alte Hand, die Blumen an den Wurzeln aus der Erde reißt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1564</ID>
+      <DefaultText>::ein mitgenommenes Instrument, das in glatten, schlanken Händen liegt. Seine Saiten fehlen, es kann nicht gespielt werden::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1565</ID>
+      <DefaultText>::der Stoff ist gerissen, aber es gibt immer noch mehr davon::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1566</ID>
+      <DefaultText>::Wellen branden an die Küste, stehlen immer wieder Sand und lassen in den Kuhlen Muscheln zurück::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1567</ID>
+      <DefaultText>::ein gefangener Mond wirbelt um die Welt darunter, gefesselt in einem ruhigen, nie endenden Orbit::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1568</ID>
+      <DefaultText>::eine Glaskugel fällt auf den Boden und zerbirst in messerscharfe Splitter und glänzenden Staub::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1569</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1570</ID>
+      <DefaultText>::eine ungeschickte Hand wählt Steine aus einem Haufen und poliert und bemalt sie/eine Mosaikbrücke überspannt eine Schlucht/Reisende von beiden Seiten treffen sich in der Mitte/einer sah eine Sonne im Mosaik/einer sah eine Perle::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1571</ID>
+      <DefaultText>::eine Fackel brennt auf der Bergspitze und zieht die Blicke von allem an, was in der Dunkelheit lebt. Sie brennt nicht, um die Dunkelheit fernzuhalten, sondern weil sie entzündet wurde::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1572</ID>
+      <DefaultText>::ein Vogel umkreist ein Feuer und erfreut sich an der Wärme. Seine Federn qualmen und verbiegen sich::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1573</ID>
+      <DefaultText>::Sandstürme begraben eine Statue, die sich gen Himmel streckt, bis nur noch die Fingerspitzen zu sehen sind, die an den Wolken kratzen::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1574</ID>
+      <DefaultText>::gierige Hände schnappen bunte Fische aus einem bodenlosen Brunnen::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1575</ID>
+      <DefaultText>::ein kräftiger Windstoß biegt einen Ast. Ächzend biegt er sich zurück, dann beginnt alles von Neuem::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1576</ID>
+      <DefaultText>::ein bunter Fisch zappelt neben einem bodenlosen Brunnen und schnappt nach Luft::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1577</ID>
+      <DefaultText>::ein Windstoß hebt eine Handvoll Blätter in den weiten Himmel::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1578</ID>
+      <DefaultText>::eine Klinge saust durch die Luft und zerschneidet alles, worauf sie trifft::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1579</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1580</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1581</ID>
+      <DefaultText>::ein sorgloser Wind treibt die Blätter in alle Richtungen, aber sie kommen *nie* auf den Boden::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1582</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1583</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

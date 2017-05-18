@@ -506,22 +506,22 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText />
+      <DefaultText>Nach der bebenden Linse greifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText />
+      <DefaultText>Erneut nach der bebenden Linse greifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText />
+      <DefaultText>Du hebst deine Hand. Die winzige Linse beugt sich zu ihr, dann zuckt sie mit einem weichen *Bwong* zurück ... vorher erhaschst du jedoch einen Blick auf etwas Kleines und Formloses, das sich darin bewegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText />
+      <DefaultText>Du hebst deine Hand zu der winzigen Linse hin. Sie neigt sich bebend zurück, vorher erhaschst du jedoch einen weiteren Blick auf die formlose Gestalt darin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,32 +536,36 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText />
+      <DefaultText>Er knurrt und sieht zu dem unwilligen Stück Glas hoch.
+
+ "Kann nicht sagen, dass mir gefiel, wie das wirkte, trotzdem sollten wir es uns lieber genau ansehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText />
+      <DefaultText>Sie reckt den Hals über das flimmernde Gedränge um sie herum.
+
+ "Seltsam. Seltsam und faszinierend. Sollen wir es uns genauer ansehen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText />
+      <DefaultText>"Bewegt sich dieser Spiegel?", fragt Erritis mit geschlossenen Augen. "Schon gut. Sag es mir nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText />
+      <DefaultText>"Alles an diesem Ort trägt das Zeichen unseres Erzeugers.", brummt sie, und ihre Hand spielt mit dem Griff ihres Dolchs. Ihr Kiefer schiebt sich vor und zurück. "Was immer das war, gehört wahrscheinlich *ihm*."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText />
+      <DefaultText>Sie seufzt leise in sich hinein und runzelt die Stirn. Vielleicht hört sie zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText />
+      <DefaultText>"Scheues kleines Ding, was auch immer es war."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -571,57 +575,64 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText />
+      <DefaultText>"Komm hier runter. Sofort."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText />
+      <DefaultText>Du wendest deine Aufmerksamkeit wieder dem Spiegel zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText />
+      <DefaultText>Die restlichen Spiegel ansehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText />
+      <DefaultText>Du wendest deinen Blick von der kleinen Linse ab und betrachtest wieder die restliche Anordnung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText />
+      <DefaultText>Die Linse schreckt zurück und wendet sich dann langsam – vielleicht *zwanghaft* – dir zu, wie ein Kind, das aus dem Augenwinkel heraus ein Monster gesehen hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText />
+      <DefaultText>"Hast du Angst vor mir?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText />
+      <DefaultText>Die Linse wird ruhig und neigt sich dann ein kleines bisschen zu dir, wie ein Kind, das über eine Klippe lugt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText />
+      <DefaultText>Nichts sagen. Die Linse zwingen, sich deinem Willen zu beugen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText />
+      <DefaultText>Du schließt deinen geistigen Griff um die Ränder des widerwilligen Glases und ziehst. Die Umgebung verblasst, während dein Verstand sich gegen den Willen in der Linse abmüht.
+
+ Langsam, aber unerbittlich beugt sich die Linse zu dir hinunter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText />
+      <DefaultText>Gedanken rinnen durch das geneigte Glas in deinen Geist. Deine Gabe ist sogleich überfordert: Das sind keine Worte oder Symbole, keine Sprache, die du erkennst. Sie haben ... sie haben ... ein Bewusstsein. Ihnen ist bewusst, dass sie Gedanken sind und dass sie in deinem Kopf sind.
+
+ Im Augenblick dieser Erkenntnis erwachen sie in deinem Geist und organisieren *deine* Gedanken zu Bildern um, die dir mitteilen, was das Wesen im Glas denkt.
+ {GAVIN: Add thoughts.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText />
+      <DefaultText>Und im Glas ... strömen Tentakel aus einer zähen Flüssigkeit von den Winkeln der Linse und wickeln sich Faden um Faden zu einer perfekten, vibrierenden Kugel auf.
+
+ Als du es siehst, sieht es dich und wirft sich gegen das Glas, wodurch dieses pechschwarz wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,42 +647,56 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText />
+      <DefaultText>Erritis schaut zwischen seinen Fingern hindurch und schnauft.
+
+ "Ich weiß nicht, was das ist, wie es da hineingekommen ist oder ob es uns alle töten wird.", sagt er und ballt beflissen die Faust. "Aber wir sollten es herausholen. Jetzt gleich. Sofort. Oder noch schneller!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText />
+      <DefaultText>Während er über seinen Schnurrbart streicht, macht Tybir einen kleinen, wohlmöglich besonnenen Schritt zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText />
+      <DefaultText>Matkina starrt auf den Spiegel, dann durch den Raum und schließlich auf dich, aber sie sagt nichts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText />
+      <DefaultText>"Sieht lebendig aus.", sagt er, die Hände auf die Hüften gestützt. "Nicht, dass der Anschein irgendetwas zu bedeuten hätte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText />
+      <DefaultText>"Was für ein merkwürdiges kleines Gerät.", murmelt sie. "So etwas habe ich noch nie gesehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText />
+      <DefaultText>Rhin berührt dich am Ärmel.
+
+ "Ich weiß nicht, ob es gefährlich ist, aber es ... es kommt mir nicht so vor. Etwas Besseres kann ich nicht bieten."
+
+ Sie beißt sich auf die Lippe und sieht wieder zu der zappelnden Linse hoch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText />
+      <DefaultText>*knack*
+ 
+ Ein gezackter weißer Strich erscheint am oberen Rand der Linse und jagt über ihre Oberfläche wie eine brechende Welle. Du blinzelst.
+
+ Als du deine Augen einen Moment später wieder öffnest, ist die Linse weg. Nur eine leere Fassung ist noch übrig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText />
+      <DefaultText>Und doch ... hat sich in deinem Geist etwas verändert.
+
+ Du hörst Geflüster, das zu weit weg ist, um es zu verstehen. Du spürst eine Präsenz in dir anschwellen, die in der Ausrichtung deiner Gezeiten schwelgt. Du hörst eine Stimme ein einzelnes Wort aussprechen, ein Wort, das im Labyrinth widerhallt und dich dorthin ruft.
+
+ "OOM."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,32 +706,36 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText />
+      <DefaultText>"Nun ja. Das war antiklimaktisch."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText />
+      <DefaultText>"Ah, es ist weg. Wie enttäuschend."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText />
+      <DefaultText>Erritis starrt dich an, dann die leere Fassung, dann wieder dich. 
+ 
+ "Es ist weg. Ich glaube, du hast es zu heftig befreit."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText />
+      <DefaultText>"Oh!", sagt sie und seufzt. "Es ist fort."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText />
+      <DefaultText>"Hehe.", meint Matkina und grinst endlich. "Man sollte meinen, dass unser Erzeuger ein besseres Gefängnis gebaut hätte. Nun ja, jetzt ist es weg, was auch immer es war."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText />
+      <DefaultText>"Fort, oder?", fragt Tybir und tritt wieder einen Schritt vor. "Wie schade."
+
+ Er blinzelt dir zu. "Es hätte etwas wert sein können."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_beleazar</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>165</EntryCount>
+  <EntryCount>167</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -923,6 +923,20 @@ Der Aeon-Priester dreht sich um und stürmt davon.</DefaultText>
     <Entry>
       <ID>178</ID>
       <DefaultText>Der junge Akolyth wendet sich demonstrativ von deinem Begleiter zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Ein neugieriger Tentakel nähert sich dem Gerät. Gleichzeitig mit Beleazar drehst du dich zu Oom um.
+
+::ssrk::, sagt es und versetzt der Knolle einen *Stoß*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Hör auf, sie anzustoßen!", zischt Beleazar mit bleichem Gesicht. Nervös wischt er sich mit dem Arm über die Stirn.
+
+"Geht!", sagt er und macht eine verscheuchende Handbewegung. "Geht, bevor sie uns sprechen hören!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

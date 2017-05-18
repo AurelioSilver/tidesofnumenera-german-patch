@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2311_first_time_pc_dies</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>84</EntryCount>
+  <EntryCount>86</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -528,6 +528,16 @@ Imbitu runzelt die Stirn. "Oh je. Das klingt ziemlich grimmig, nicht wahr? Was f
     <Entry>
       <ID>100</ID>
       <DefaultText>"Nun, wenn du fertig bist, Leute an dir knabbern zu lassen, lasst uns gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Mit offensichtlicher Sorge blickt Oom dich an. Es zieht an deinem Knöchel, erpicht darauf, zu gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Oom starrt dich an und seine Augen werden immer größer, bis sie sich fast überschneiden.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

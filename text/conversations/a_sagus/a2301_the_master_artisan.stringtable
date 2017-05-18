@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2301_the_master_artisan</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>61</EntryCount>
+  <EntryCount>62</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -349,6 +349,11 @@ Er seufzt. "Ich werde den Unter-Vorarbeiter vermissen. Und ich sorge mich um den
     <Entry>
       <ID>65</ID>
       <DefaultText>"Etwas, das ich nur über drei oder vier Ecken gehört habe," sagt Aligern mit den Schultern zuckend. "Lasst uns die Grüße an Min weiterleiten wenn wir die Gelegenheit bekommen.  Ich bin neugierig, wie er darauf reagiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Ooms Blicke springen mehrmals zwischen Meister und Arbeiter hin und her, bevor sie zu dir zurückkehren.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

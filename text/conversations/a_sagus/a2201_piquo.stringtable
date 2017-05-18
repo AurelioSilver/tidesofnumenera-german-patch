@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_piquo</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>221</EntryCount>
+  <EntryCount>223</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1226,6 +1226,16 @@ Er klopft dem Jungen auf die Schulter. „Gib es für Spirituosen aus, Junge. Od
     <Entry>
       <ID>235</ID>
       <DefaultText>„Nein … aber ich habe nicht wirklich darauf geachtet.“ Er nickt zu den Kultisten, die in der Nähe lauern. „Vielleicht haben *die* etwas gesehen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Vielleicht bildest du es dir nur ein, aber Oom scheint plötzlich viel interessierter an deinem Gespräch mit dem jungen Mann zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>::ssrl::, sagt Oom fast unhörbar leise.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

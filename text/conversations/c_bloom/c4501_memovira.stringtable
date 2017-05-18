@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4501_memovira</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>368</EntryCount>
+  <EntryCount>369</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1864,6 +1864,11 @@ Jetzt, wo sie seinen Namen ausspricht, ist es offensichtlich. Das ist der Mann, 
     <Entry>
       <ID>401</ID>
       <DefaultText>Sein spöttisches Grinsen verfliegt blitzschnell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>::sssssrrr::, seufzt Oom an deiner Seite. Dein Begleiter klingt erschöpft – und *fühlt* sich genauso an.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

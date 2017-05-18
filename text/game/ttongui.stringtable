@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\ttongui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1504</EntryCount>
+  <EntryCount>1530</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7443,87 +7443,217 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>1489</ID>
-      <DefaultText />
+      <DefaultText>Erhöht {0} Gezeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1490</ID>
-      <DefaultText />
+      <DefaultText>Erhöht {0} Gezeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1491</ID>
-      <DefaultText />
+      <DefaultText>Senkt {0} Gezeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1492</ID>
-      <DefaultText />
+      <DefaultText>Senkt {0} Gezeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1493</ID>
-      <DefaultText />
+      <DefaultText>{0} verabscheut den Letzten Verstoßenen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1494</ID>
-      <DefaultText />
+      <DefaultText>{0} mag den Letzten Verstoßenen nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1495</ID>
-      <DefaultText />
+      <DefaultText>{0} steht dem Letzten Verstoßenen neutral gegenüber.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1496</ID>
-      <DefaultText />
+      <DefaultText>{0} mag den Letzten Verstoßenen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1497</ID>
-      <DefaultText />
+      <DefaultText>{0} verehrt den Letzten Verstoßenen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1498</ID>
-      <DefaultText />
+      <DefaultText>Meinung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1499</ID>
-      <DefaultText />
+      <DefaultText>Rückmeldung zur Einstellung von Begleitern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1500</ID>
-      <DefaultText />
+      <DefaultText>Die Meinung von {0} hat sich verbessert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1501</ID>
-      <DefaultText />
+      <DefaultText>Die Meinung von {0} hat sich verschlechtert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1502</ID>
-      <DefaultText />
+      <DefaultText>Kodex</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1503</ID>
-      <DefaultText />
+      <DefaultText>Orte</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1504</ID>
-      <DefaultText />
+      <DefaultText>Charaktere</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1505</ID>
-      <DefaultText />
+      <DefaultText>Kreaturen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1506</ID>
+      <DefaultText>Begleiter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1507</ID>
+      <DefaultText>Fraktionen &amp; Kulte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1508</ID>
+      <DefaultText>Kodexeintrag freigeschaltet: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1509</ID>
+      <DefaultText>Loyal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1510</ID>
+      <DefaultText>Oom hat sich mit einer stillen, überraschenden Stärke an dich gebunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1511</ID>
+      <DefaultText>Wächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1512</ID>
+      <DefaultText>Wo auch immer Oom herkommen mag, die Kreatur scheint dich als ihren Schützling anzusehen. Sie wird alles tun, um dich zu beschützen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1513</ID>
+      <DefaultText>Treibt mit den Gezeiten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1514</ID>
+      <DefaultText>Oom ist eine Kreatur der Gezeiten und daher unendlich formbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1515</ID>
+      <DefaultText>Wächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1516</ID>
+      <DefaultText>Gelehrter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1517</ID>
+      <DefaultText>Heißsporn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1518</ID>
+      <DefaultText>Schlichter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1519</ID>
+      <DefaultText>Legende</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1520</ID>
+      <DefaultText>Lotse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1521</ID>
+      <DefaultText>Rächer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1522</ID>
+      <DefaultText>Vorbild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1523</ID>
+      <DefaultText>Altruist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1524</ID>
+      <DefaultText>Pfadfinder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1525</ID>
+      <DefaultText>Sucher</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1526</ID>
+      <DefaultText>Experte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1527</ID>
+      <DefaultText>Champion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1528</ID>
+      <DefaultText>Abtrünniger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1529</ID>
+      <DefaultText>Schiedsrichter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1530</ID>
+      <DefaultText>Vermächtnis: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1531</ID>
+      <DefaultText>Vorherrschende Gezeiten verändert. Erbe wurde angepasst.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

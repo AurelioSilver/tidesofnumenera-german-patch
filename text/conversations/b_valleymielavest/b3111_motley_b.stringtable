@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3111_motley_b</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>149</EntryCount>
+  <EntryCount>150</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -802,6 +802,13 @@ Er seufzt. "Jetzt wurde sie freigelassen und der Weg zur Pforte ist uns immer no
       <ID>171</ID>
       <DefaultText>Sie brummt dir zu. "Skist. Wir brauchen Zugang zum Anschluss wenn wir Miel Avest erreichen wollen. Wir müssen diesen Code für das Flüsterschloss beschaffen.“</DefaultText>
       <FemaleText>Sie brummt dir zu. "Skist. Wir brauchen Zugang zum Anschluss wenn wir Miel Avest erreichen wollen. Wir müssen diesen Code für das Flüsterschloss beschaffen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Oom zeichnet mit einem Tentakel etwas auf den Boden. Du beugst dich vor. Es ist nicht der Code, den Motley dir eben gegeben hat, sondern eine formlose Gestalt.
+
+ Anscheinend malt dein Begleiter sich zum Spaß selbst.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

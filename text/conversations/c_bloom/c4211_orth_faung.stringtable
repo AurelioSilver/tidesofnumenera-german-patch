@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4211_orth_faung</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>162</EntryCount>
+  <EntryCount>163</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -865,6 +865,13 @@ Langsam breitet sich der Horror in seinem Gesicht aus. "Hast du aufgehört, die 
       <ID>178</ID>
       <DefaultText>"Wir haben den Rahmen, Orth. Funktioniert er noch?" Er reicht den Rahmen seinem Kollegen.</DefaultText>
       <FemaleText>"Wir haben den Rahmen, Orth. Funktioniert er noch?" Er reicht den Rahmen seinem Kollegen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Das Kratzen von Tentakeln auf dem Boden lässt dich den Kopf wenden.
+
+ Oom starrt Aligern an. Du spürst die Wärme seiner wortlosen Trauer in dir aufsteigen.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

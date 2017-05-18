@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_the_genocide</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>129</EntryCount>
+  <EntryCount>130</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -691,6 +691,11 @@ Er spricht, leiser: „Und nun tun sie nicht einmal mehr das. Ich bin zu einer E
     <Entry>
       <ID>138</ID>
       <DefaultText>Seine oberflächlichen Gedanken sind wie ein kristalliner Pool – abwechselnd transparent oder aber perfekt seine Worte reflektierend. Sein Geist enthüllt nichts Verborgenes, ausgenommen einen niederen Hass auf alles um ihn. Letzteres ist eher ein *Gefühl*, das du hast, statt ein eigentlicher Gedanke, den du hörst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Oom neigt sich lautlos von dem Wesen weg und kleine Wellen streichen über seine Oberfläche wie bei starkem Wind über einen Teich.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\item_memorycube</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>61</EntryCount>
+  <EntryCount>62</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -324,6 +324,11 @@ Eine Zahl tritt aus der Spirale aus Scheiben und Licht. Neun. Du has neun Fragen
       <ID>64</ID>
       <DefaultText>"Du bist nichts zu Nutze, oder?"</DefaultText>
       <FemaleText>"Du bist nichts zu Nutze, oder?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>::rlk::, grummelt Oom vor sich hin und drückt verärgert an dem Würfel herum.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

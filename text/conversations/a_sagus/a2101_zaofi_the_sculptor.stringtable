@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_zaofi_the_sculptor</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>148</EntryCount>
+  <EntryCount>149</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -829,6 +829,11 @@ Zaofi schluckt voller Bitterkeit. „Als er hinfiel, rannte ich auf die Straße.
     <Entry>
       <ID>153</ID>
       <DefaultText>Du wendest deine Aufmerksamkeit wieder Zaofi zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Oom erschaudert krampfhaft, als du dich vorbeugst, um Zaofis Werk genau zu betrachten.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

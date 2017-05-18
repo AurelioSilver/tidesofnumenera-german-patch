@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4111_inkpot</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>168</EntryCount>
+  <EntryCount>169</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -894,6 +894,11 @@ Die anderen Kultisten nicken zustimmend.</DefaultText>
     <Entry>
       <ID>189</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>::rrrmm::, grollt Oom in Anbetracht des Mannes.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2211_malaise</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>89</EntryCount>
+  <EntryCount>90</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -535,6 +535,11 @@ Mit jedem Bild näherst du dich dem Widersacher … oder zumindest der Projektio
     <Entry>
       <ID>94</ID>
       <DefaultText>„Ihr kennt meinen Namen. Ihr kennt meine Absichten. Sprecht die Worte aus, und Euer Leben wird sich für immer verändern. Sagt mir, dass Ihr spielen wollt.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>::sssss::, sagt Oom schrumpfend und schaudernd.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

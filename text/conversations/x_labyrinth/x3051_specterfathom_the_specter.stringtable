@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\x_labyrinth\x3051_specterfathom_the_specter</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>102</EntryCount>
+  <EntryCount>103</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -584,6 +584,15 @@ Und damit durchdringt der Verstand des Geistes wieder deine Verteidigungen.</Def
     <Entry>
       <ID>111</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Ein geisterhafter Tentakel – Ooms Tentakel – legt sich um deine Stirn, kühl und beruhigend. Du starrst deine Hand an. Deine feste, *echte* Hand. Der Geist dir gegenüber ist immer noch durchsichtig.
+ 
+ Der Tentakel zieht sich einmal zusammen, als wolle er deine Annahme bestätigen. Oder dich warnen.
+ 
+ Das Gefühl ist verschwunden. Du bist wieder allein mit dem Geist. Er wartet darauf, dass du sprichst, schaut dich jetzt aber etwas besorgt an.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

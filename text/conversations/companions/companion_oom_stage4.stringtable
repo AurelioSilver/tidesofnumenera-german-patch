@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_oom_stage4</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>21</EntryCount>
+  <EntryCount>27</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -11,17 +11,19 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
+      <DefaultText>Oom summt vor sich hin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>Jetzt, da du angehalten hast, schaut sich Oom ein wenig um, wobei sich seine Augen immer wieder weiten und zusammenziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>Oom schaut erst an die Decke über euch, dann auf den Boden.
+ 
+ ::rlllk::, sagt es sanft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +48,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText />
+      <DefaultText>"Reden wir über unsere Begleiter."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +58,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>"Ich glaube, wir sollten uns vorerst trennen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,17 +78,19 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText />
+      <DefaultText>"Darf ich dich untersuchen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText />
+      <DefaultText>"Darf ich dich nochmal untersuchen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText />
+      <DefaultText>Unvermittelt schaut die Kreatur zu dir auf. Ihre Gedanken durchfluten deinen Geist, und deine Gabe ist sogleich überfordert: Das sind keine Worte oder Symbole, keine Sprache, die du erkennst. Sie haben ... sie haben ... ein Bewusstsein. Ihnen ist bewusst, dass sie Gedanken sind und dass sie in deinem Kopf sind.
+
+ Im Augenblick dieser Erkenntnis erwachen sie in deinem Geist und organisieren *deine* Gedanken zu Bildern um, die dir mitteilen, was das Wesen denkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,12 +105,42 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText />
+      <DefaultText>"Verändern wir deine Gestalt, Oom."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
+      <DefaultText>"Ich möchte nochmal deine Gestalt verändern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Gehen wir weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>::mmrm::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich möchte dich etwas fragen, Oom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich habe einige weitere Fragen an dich, Oom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>::plrp::, sagt es schließlich. Es hört sich an, als habe die Kreatur Interesse.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

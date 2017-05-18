@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3301_paj_rekken</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>137</EntryCount>
+  <EntryCount>138</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -717,6 +717,11 @@ Sie zuckt mit den Schultern. „Aber ihr Leute werdet tun, was ihr müsst.“ Si
     <Entry>
       <ID>181</ID>
       <DefaultText>„Ihr misstraut mir, weil ihr Narren seid. Aber es ist nicht mein Leben. Nicht mein Fehler.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Die Augen deines Begleiters flackern kurz auf, als Paj Rekken eine Pause macht, und du spürst die Gezeiten in dir wogen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

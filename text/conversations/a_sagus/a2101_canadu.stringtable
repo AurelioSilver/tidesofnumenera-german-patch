@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_canadu</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>116</EntryCount>
+  <EntryCount>117</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -614,6 +614,11 @@ Er verschränkt die Arme und starrt wütend in den Himmel.</DefaultText>
     <Entry>
       <ID>130</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>::blrf::, murmelt Oom, und Canadu sieht kurz hinüber. Als dein Begleiter nichts weiter sagt, starrt Canadu es an und blickt dann wieder zum angenehm fernen Horizont.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

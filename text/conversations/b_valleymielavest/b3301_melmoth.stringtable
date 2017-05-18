@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3301_melmoth</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>151</EntryCount>
+  <EntryCount>152</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -871,12 +871,21 @@ Er krümmt dir eine Augenbraue zu. "Dies ist ein Grund, warum die meisten uns ni
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText />
+      <DefaultText>::mmmm::, murmelt Oom an deiner Seite. Seine Augen leuchten. Weiten sich. Plötzlich verspürst du den Drang, sie erneut zu berühren.
+
+ Du schüttelst das Verlangen aus deinem Verstand und konzentrierst dich wieder auf Melmoth.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText />
+      <DefaultText>::mmmm::, murmelt Oom an deiner Seite. Seine Augen leuchten. Weiten sich. Plötzlich verspürst du den Drang, sie zu berühren.
+
+ Du schüttelst das Verlangen aus deinem Verstand und konzentrierst dich wieder auf Melmoth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>::mmm::, murmelt Oom. Melmoth hört es entweder nicht oder zieht es vor, deinen Begleiter völlig zu ignorieren.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

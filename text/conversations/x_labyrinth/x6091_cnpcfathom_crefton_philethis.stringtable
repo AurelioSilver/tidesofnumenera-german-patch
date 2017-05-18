@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\x_labyrinth\x6091_cnpcfathom_crefton_philethis</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>58</EntryCount>
+  <EntryCount>63</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -304,6 +304,35 @@ Einen Moment später scheinen sich seine Roben nach innen zu kehren und er versc
     <Entry>
       <ID>59</ID>
       <DefaultText>Du kannst von der Figur in Roben keine Gedanken spüren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Oom grummelt leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich verstehe immer noch nicht, wieso du diesen Philetis so verabscheust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Es ruhen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Du wendest dich wieder dem Philetis zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Oom starrt dich still an. Keiner seiner Gedanken dringt zu dir vor.
+ 
+ In diesem Moment erkennst du es – der Philetis ist dir zu diesem Ort gefolgt und selbst jetzt sind seine Worte – vielleicht sogar absichtlich – vage und undurchsichtig. Oom hat dagegen seit eurer ersten Begegnung Schwierigkeiten, mit dir zu kommunizieren. 
+
+ Oom ist nicht wütend auf den Philetis, zumindest nicht wirklich. Es ist wütend auf sich selbst.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

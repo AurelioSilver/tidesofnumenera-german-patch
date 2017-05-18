@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_oom_multistage</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>320</EntryCount>
+  <EntryCount>412</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText />
+      <DefaultText>::mrssllklk::, sagt Oom, wobei es einige Tentakel ausfährt, um auf dem Boden zu kratzen und zu schnipsen. ::slrlpuk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText />
+      <DefaultText>::rssplk::, sagt Oom, wobei es kleine Tentakel ausfährt, um vom Boden unter sich zu kosten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>"Sag mir, was du von Aligern hältst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,27 +56,27 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText />
+      <DefaultText>"Tja, nun. Das Gefühl beruht wahrscheinlich auf Gegenseitigkeit." Er schüttelt den Kopf. "Nicht, dass ich irgendeine Ahnung hätte, was du sagst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText />
+      <DefaultText>::rupruprup::, antwortet Oom in einem Ton, der Aligerns gereizter und gedehnter Sprechweise verdächtig ähnelt. Der Mann scheint es nicht zu bemerken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText />
+      <DefaultText>::rrsrmm:: Oom dreht sich gezielt weg und zeichnet mit einem gekrümmten Tentakel ein unterteiltes Rechteck auf den Boden neben sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText />
+      <DefaultText>::rrrsrmmm::, sagt Oom und zeichnet mit sorgsamen Tentakelschnipsern eine Reihe verschränkter Quadrate auf den Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText />
+      <DefaultText>"Sag mir, was du von Callistege hältst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,27 +86,29 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText />
+      <DefaultText>"Das klingt nicht gerade nach einer begeisterten Einschätzung.", sagt sie mit undurchdringlicher Miene. "Nicht, dass ich eine Expertin wäre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>Ooms Augen verengen sich, aber es antwortet nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText />
+      <DefaultText>Ooms Blick huscht zwischen dem Boden und dir hin und her.
+
+ ::srlrk::, sagt es knapp.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText />
+      <DefaultText>::srlk::, murmelt Oom mit gesenktem Blick.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>"Sag mir deine Meinung über Erritis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,27 +118,29 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>"Ich empfinde genauso, Oom!", sagt er mit Tränen in den Augen. "Das heißt, falls du gesagt hast, dass du mich magst. Ich weiß, ich bin manchmal sehr still. Schwer zu durchschauen. Aber obwohl wir uns noch nicht lange kennen, liegt mir sehr viel an dir."
+
+ Er beugt sich vor und tätschelt Oom sacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>Oom rollt einen Tentakel sanft um Erritis' Handgelenk und drückt zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>::mmmmmmm::, summt Oom und wird etwas größer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText />
+      <DefaultText>::mmmmmmmmmm::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText />
+      <DefaultText>"Was hältst du von Matkina?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,27 +150,27 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText />
+      <DefaultText>"Du musst mich nicht mögen, Oom.", sagt sie und zeigt ihre Zähne. "Viele Leute tun das nicht. Das gehört zu den Dingen, die ich an mir am meisten mag."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText />
+      <DefaultText>Oom streckt zögerlich einen Tentakel zu ihr aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText />
+      <DefaultText>::mmsmsms::, sagt Oom. Es ist ein seltsames, surrendes Geräusch. Angenehm, aber etwas ... unsicher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText />
+      <DefaultText>::mmsms::, sagt Oom knapp und unsicher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText />
+      <DefaultText>"Kommst du mit Rhin gut klar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,37 +180,39 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText />
+      <DefaultText>"Oom, ich bin hier.", sagt sie und klingt enttäuscht. "Ich bin Rhin. Hier drüben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText />
+      <DefaultText>Ohne sich umzudrehen, stupst Oom ihre Nase sanft mit einem Tentakel an.
+
+ ::prp::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText />
+      <DefaultText>::mmmrlp::, sagt Oom und dreht sich von einer Seite zur anderen, als wäre es verwirrt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText />
+      <DefaultText>::rlrlmp::, sagt Oom und starrt mit leerem Blick umher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText />
+      <DefaultText>"Ich habe andere Fragen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText />
+      <DefaultText>"Ach, lass uns lieber weiterziehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText />
+      <DefaultText>"Was hältst du von Tybir?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,22 +222,22 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText />
+      <DefaultText>::srlmrlrlmrmr::, sagt Oom nach einiger Zeit und winkt mit den Tentakeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText />
+      <DefaultText>::slrlrrlrlrlrmmm::, sagt Oom bebend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText />
+      <DefaultText>"Unsicher, was? Kluger Junge. An den meisten Tagen würde ich mir auch nicht trauen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText />
+      <DefaultText>::mm::, antwortet Oom und tätschelt Tybirs Fuß mit einem Tentakel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,27 +332,27 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText />
+      <DefaultText>::mmmmmm::, sagt Oom und schlingt einen Tentakel liebevoll um deinen Fuß.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText />
+      <DefaultText>::mmm::, sagt Oom und tippt mit einem Tentakel auf deinen Knöchel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText />
+      <DefaultText>Oom starrt zu dir hoch, sagt aber nichts weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText />
+      <DefaultText>Ooms Blick schweift zu dir hoch und wieder zu Boden. Ein Schaudern überläuft es.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText />
+      <DefaultText>Oom schaudert und wendet den Blick von dir ab. Kurzzeitig bilden sich kleine Vorstülpungen auf seinem Rücken, fast zu schnell, um sie zu bemerken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,12 +362,14 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText />
+      <DefaultText>Ooms Augen schrumpfen bei deiner Frage zusammen und wandern zu Boden. Das könnte ein Zeichen von Hochachtung sein oder von Verlegenheit. Es könnte alles sein.
+
+ Und doch fühlst du eine seltsame ... Anspannung in deinem Verstand. Als würde der Teil, den Oom einnimmt, sich auf deine Fragen vorbereiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText />
+      <DefaultText>Wieder fühlst du die leichte *Anspannung* im hinteren Bereich deines Verstands, während Oom sich darauf vorbereitet, deine Frage zu beantworten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,12 +399,12 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText />
+      <DefaultText>Oom streicheln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText />
+      <DefaultText>Oom noch einmal streicheln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,12 +414,12 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText />
+      <DefaultText>Ooms Augen verengen sich und es wird mucksmäuschenstill. Eine Welle aus Tentakeln – fast schon Stacheln – läuft über seinen Rücken, aber ansonsten antwortet es nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText />
+      <DefaultText>"In Miel Avest habe ich eine Verbindung zwischen dir und dem Kummer gespürt. Was war das?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +434,11 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText />
+      <DefaultText>Oom schlingt einen Tentakel um deinen Knöchel und zieht. Als es sicher ist, dass du hinsiehst, verengt es konzentriert die Augen.
+
+ Eine Gewissheit kommt in dem Teil deines Verstands auf, den Oom einnimmt – es kann sich jetzt besser an deine Bedürfnisse und deine Gezeitenausrichtung angepasst formen.
+
+ {GAVIN: Tier 2: Use my dominant tide(s). Be blue or be gold. When you first pick him up, he'll be idealist state. Try not to use what the stat actually is. Use Is Dominant Tide}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,7 +448,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText />
+      <DefaultText>::mmmm::, sagt Oom und stupst deinen Fuß mit einem seiner Tentakel an. Wissen erblüht in deinem Verstand, die neuesten Fähigkeiten deines Begleiters werden dir klar. Er kann sich jetzt auf deine beiden vorherrschenden Gezeiten ausrichten, wenn du möchtest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -446,32 +458,38 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText />
+      <DefaultText>::rrk::, murmelt Oom und sondiert den Boden mit einem Tentakel. Es kommt dir wie eine halbherzige Verneinung vor, aber du weißt nicht recht, *warum* du das glaubst.
+
+ Du hast das Gefühl, dass Oom nicht lügt, aber dass deine Frage nicht präzise genug war.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText />
+      <DefaultText>Vielleicht hat deine Fähigkeit, Ooms Absichten zu erspüren, etwas mit der Art und Weise zu tun, wie das Wesen deine Gedanken umordnet, um mit dir zu kommunizieren.
+
+ Dennoch wirst du durch Stellen der *richtigen* Frage wohl keine andere Antwort als ::lrp:: erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText />
+      <DefaultText>::rk::, murmelt Oom ausweichend, piekst in den Boden und meidet Augenkontakt zu dir. Du scheinst immer noch die falsche Frage zu stellen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText />
+      <DefaultText>"Warum erspüre ich deine Absichten, obwohl ich dich nicht verstehe? Kannst du mir Gedanken in den Kopf setzen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText />
+      <DefaultText>"Bist du sicher, dass du meine Gedanken nicht lesen kannst?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText />
+      <DefaultText>Die irreale Landschaft des Labyrinths verblasst, und du spürst wieder festen Boden unter deinem Kopf. Du nimmst die vermischten Gerüche der Welt außerhalb deines Verstandes wahr. Dir ist noch zu schummrig, um die Augen zu öffnen, aber du hörst eine Stimme. Jemand redet, doch nicht mit dir.
+
+Sondern mit Oom.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -481,32 +499,32 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText />
+      <DefaultText>"Ich erinnere mich an dich.", verkündet Erritis. "Und ich erinnere mich nie an langweilige Dinge, also musst du aufregend sein! Wir haben bereits viel gemeinsam!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText />
+      <DefaultText>"Welch ein Vergnügen!", sagt Tybir mit aufrichtiger Wärme in der Stimme. "Ich hatte so eine Ahnung, dass wir uns wieder begegnen würden, Junge. Hab's in meinem Unterleib gespürt, und mein Unterleib irrt sich selten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText />
+      <DefaultText>"Ich habe mich wirklich darauf gefreut, dich nie wieder zu sehen.", knurrt Matkina.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText />
+      <DefaultText>"Du bist der Klumpen, den wir in den Spiegeln gesehen haben, nicht wahr?", fragt Aligern seufzend. "Wunderbar. Das ist genau das, was dieses verhängnisvolle Unterfangen gebraucht hat: noch so ein verdammtes Mysterium."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText />
+      <DefaultText>"Du bist das Gerät, das wir in den Spiegeln erspäht haben, nicht wahr?", fragt Callistege und ihr Schmuck klimpert. "Faszinierend."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText />
+      <DefaultText>"Du hast uns gefunden!", sagt Rhin mit hoher, aufgeregter Stimme. "Darauf hatte ich gehofft!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,37 +534,39 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText />
+      <DefaultText>"Du wirkst aufregend UND gefährlich.", sagt Erritis fröhlich. "Wir werden prima miteinander auskommen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText />
+      <DefaultText>"So was wie dich hab ich noch nie gesehen." Eine Pause folgt. "Nein, das ist gelogen. Es gab da diesen Jahrmarkt außerhalb von Arvrinwald, aber das könnte auch ein Mädel im Kostüm gewesen sein."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText />
+      <DefaultText>"Mir ist, als würde ich dich wiedererkennen.", sagt Matkina mit kalter Stimme. "Unser Erzeuger hatte etwas mit dir zu tun, nicht wahr? Das sagt mir mein Bauchgefühl."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText />
+      <DefaultText>"Ein Mordsding.", knurrt er. "Lebt es? Ist es biomechanisch?"
+
+ Er seufzt. "Das ist genau das, was dieses verhängnisvolle Unterfangen gebraucht hat: noch so ein verdammtes Mysterium."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText />
+      <DefaultText>"Merkwürdig.", murmelt Callistege und ihr Schmuck klingelt. "Seht her, Schwestern. Sprenkel einer metallischen Legierung im polymorphen Gel. Vielleicht ist es ... ja, nein, ich stimme zu ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText />
+      <DefaultText>"Du wirkst freundlich. Ich weiß nicht, warum ich so empfinde, aber ich glaube nicht, dass ich mich irre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText />
+      <DefaultText>::slrf::, sagt Oom leise und scheu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -556,42 +576,52 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText />
+      <DefaultText>"Für ein bisschen mehr ist stets Platz, sage ich immer.", meint Tybir und stupst dich mit seinem Fuß an. "Kommt der Junge mit uns?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText />
+      <DefaultText>Ihr Schatten fällt über deine geschlossenen Augen.
+
+ "Behalten wir es?", flüstert sie. "Kommt es mit uns?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText />
+      <DefaultText>Sie stupst dir mit ihrem Stiefel in die Seite.
+
+ "Du wirst es mitnehmen, nicht wahr?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText />
+      <DefaultText>Erritis sinkt neben dir zusammen.
+
+ "Kommt er mit uns?", flüstert er dir uns Ohr. "Behalten wir ihn?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText />
+      <DefaultText>Ein flimmernder Schatten fällt über deine geschlossenen Augen.
+
+ "Ich würde es gern weiter studieren, falls wir Zeit dafür finden. Wird es mit uns reisen, Liebes?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText />
+      <DefaultText>Seufzend berührt er dich mit der Stiefelspitze an der Seite.
+
+ "Wie sieht's aus? Kommt dieses Ding mit uns?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText />
+      <DefaultText>"Ja. Fürs Erste zumindest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText />
+      <DefaultText>"Nur, falls es uns nützlich ist. Ansonsten können wir es später loswerden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -601,27 +631,27 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText />
+      <DefaultText>Du spürst, wie sich Ooms Gewicht in deine Seite schiebt. Die ganze Aufmerksamkeit macht es wohl nervös.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText />
+      <DefaultText>"Nein. Das war nur ein Experiment. Oom, kehr ins Labyrinth zurück."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText />
+      <DefaultText>Sie bemüht sich, ihre Aufregung zu verbergen, aber du bemerkst sie trotzdem.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText />
+      <DefaultText>"Was lässt dich glauben, dass es männlich ist?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText />
+      <DefaultText>"Oh, das merke ich immer.", sagt er, und du kannst sein Zwinkern förmlich *hören*. "Aber weich der Frage nicht aus. Kommt er mit uns oder nicht?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -631,47 +661,49 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText />
+      <DefaultText>Oom – zumindest der Teil in deinem Verstand – absorbiert diese Worte. Du spürst einen fernen, wortlosen Schmerz.
+
+ Mit einer Grimasse drückst du dich vom Boden hoch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText />
+      <DefaultText>Das Licht aus Ooms Augen strahlt dein Gesicht seitlich an. Mit einer Grimasse drückst du dich vom Boden hoch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText />
+      <DefaultText>"Ich habe nicht darum gebeten, getröstet zu werden.", sagt sie und zieht ihren Fuß weg. "Trotzdem danke."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText />
+      <DefaultText>"Aaaa!", kreischt sie und schlägt eine Hand vors Gesicht. "Ich dachte, du ... Oom!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText />
+      <DefaultText>::mmmmm::, sagt es zufrieden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText />
+      <DefaultText>::blrp::, sagt Oom. Die Luft riecht plötzlich nach ... Beeren? Es könnten Beeren sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText />
+      <DefaultText>::mrlk::, sagt Oom. Seine Augen verengen sich, was ein Zeichen von Freude sein könnte, aber wer kann das schon sagen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText />
+      <DefaultText>Unsicher, was deine Absichten angeht, weicht Oom vor deiner Berührung zurück. Du nimmst deine Hand wieder zu dir. Vielleicht würde es sich anders verhalten, wenn es dir vertrauen würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText />
+      <DefaultText>Oom schreckt vor deiner Hand zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,22 +713,24 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText />
+      <DefaultText>Oom schiebt deine Hand sanft weg. Anscheinend ist es vorerst genug gestreichelt worden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText />
+      <DefaultText>::brmmmm::, sagt Oom zitternd.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText />
+      <DefaultText>Oom scheint dein Interesse zu spüren und gleitet auf dich zu. Seine Augen werden größer – nein, sie *bewegen sich* und kommen aus seinem Körper hervor wie Münzen, die aus den Tiefen eines Brunnens auftauchen.
+
+ Wie Bedienelemente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText />
+      <DefaultText>Oom gleitet gehorsam auf dich zu und seine Augen heben sich deinen ausgestreckten Händen entgegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -706,27 +740,27 @@
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText />
+      <DefaultText>Ooms Augen berühren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText />
+      <DefaultText>Ooms Augen erneut berühren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText />
+      <DefaultText>Ooms leuchtende Augen ziehen sich zu grellen Lichtpunkten zusammen, die dich kurz blenden. Als du wieder hinsiehst, ist es weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText />
+      <DefaultText>"Warum warst du überhaupt in diesem Spiegel?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText />
+      <DefaultText>::sssssk::, zischt Oom und schaut an dir vorbei. Seine Augen verengen sich zu Nadelstichen aus gedämpftem Licht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -736,7 +770,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText />
+      <DefaultText>"Erzähl mir von deinen Augen. Warum werden sie größer und kleiner?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -771,37 +805,43 @@
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText />
+      <DefaultText>"Ich spüre die Gezeiten stärker, wenn du in der Nähe bist. Woran liegt das?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText />
+      <DefaultText>"Wie hilfst du mir noch mal, die Gezeiten zu spüren?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText />
+      <DefaultText>::mrlrk::, sagt Oom, macht eine Pause und schlägt auf den Boden.
+
+ ::mrlrlrk::, sagt es dann – vielleicht zur Klarstellung – und etwas in deinem Verstand regt sich.
+
+ Ah. Du hast Oom in deinem Verstand letztlich doch gefunden. Vielleicht hat das größere Wirkung, als du zunächst dachtest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText />
+      <DefaultText>::mrlrlrk::, sagt Oom und du spürst ein Kribbeln im hinteren Bereich deines Verstands. ::mrlrlrk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText />
+      <DefaultText>In diesem Augenblick *spürst* du, wie sich die Gezeiten um dich biegen und an dir ziehen. Du *spürst*, welche Auswirkungen dein Handeln auf die Leute hatte, denen du in deinem kurzen Leben bislang begegnet bist.
+
+ Du legst eine Hand über deine Augen, und in diesem Moment kurzer Dunkelheit sind die Gezeiten als Ringe innerhalb von Ringen *sichtbar*, geschlungen um alles und jeden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText />
+      <DefaultText>Du fährst mit einer Hand über Ooms glatten ... Rücken?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText />
+      <DefaultText>Du tätschelst Oom erneut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,32 +851,44 @@
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText />
+      <DefaultText>Du berührst den Mittelpunkt von Ooms linkem Auge. Es ist warm und trocken, wie ein in der Sonne liegen gelassenes Pergament.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText />
+      <DefaultText>Die papierartigen Wimpern von Ooms Auge kratzen an deinen Fingerspitzen, aber sonst geschieht nichts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText />
+      <DefaultText>Du legst deine Fingerspitzen auf Ooms nach oben gerichtete Augen. Wimpern bewegen sich auf spiralförmig gewundenen Bahnen von deiner Berührung weg. Das erinnert auf merkwürdige Weise an das Tanzen der Kegel im Riff.
+
+ Als sich diese Bahnen überschneiden, läuft ein Zucken deine Arme empor und baut eine vielfach gefaltete Erinnerung Schicht um Schicht vor deinen Augen auf.
+
+ Aber das ist nicht die Erinnerung deines Erzeugers, nein. Sondern die von Oom, gut verschlossen in diesen leuchtenden Augen, bis du sie befreit hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText />
+      <DefaultText>Ooms Augen regen sich unter deinen Händen, ganz so wie die Gezeiten in dir.
+
+ Aber etwas fehlt. Du brauchst ein besseres Verständnis der Gezeiten, um zu sehen und zu verstehen, was Oom dir zu zeigen versucht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText />
+      <DefaultText>Du sammelst die Stränge der Gezeiten mit beiden Händen und legst deine Handflächen auf Ooms wartende Augen.
+
+ Diesmal spürst du weder Übelkeit noch Desorientiertheit. Du legst die menschlichen Sinne ab und gewinnst neue, während du in die Erinnerungen des Wesens stürzt, vorbei an Jahrhunderten in den wechselnden Gefängnissen des Wandelnden Gottes, in eine viel weiter zurückliegende Vergangenheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText />
+      <DefaultText>Mehr als die Entscheidung ist nicht nötig. Die Gezeiten brechen über dich herein, reißen dich aus dieser Welt und tragen dich in die Dunkelheit. Vorbei an der Einkerkerung durch deinen Erzeuger und die Fänger. Durch den Aufstieg und Fall mächtiger, für immer namenloser Zivilisationen hindurch. Durch Jahrhunderte. Jahrtausende.
+
+ Äonen.
+
+ Du fällst. Fällst. Fällst in einen flachen Teich von Erinnerungen am Grund von all dem. Am Beginn von Ooms langem, langem Leben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,12 +898,12 @@
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText />
+      <DefaultText>"Als ich dein Auge berührt habe, hast du mich an die Kegel im Riff denken lassen. Warum?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText />
+      <DefaultText>"Warum möchtest du, dass ich mir die Kegel im Riff noch einmal ansehe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -861,7 +913,7 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText />
+      <DefaultText>"Kannst du mir irgendetwas Nützliches über den Wandelnden Gott sagen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -876,22 +928,22 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText />
+      <DefaultText>::rslk::, sagt Oom knapp und zeichnet einen Kreis auf den Boden, dann einen weiteren daneben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText />
+      <DefaultText>Deine Hände auf Ooms Augen legen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText />
+      <DefaultText>Die Gezeiten durch Ooms Augen kanalisieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText />
+      <DefaultText>Dich auf die Gezeiten ausrichten, die in Oom tosen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -901,32 +953,38 @@
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText />
+      <DefaultText>::sk::, murmelt Oom und sieht von dir weg. Seine Augen verengen sich immer weiter, bis sie zu Nadelstichen aus weichem Licht werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText />
+      <DefaultText>::rlk::, sagt Oom leise. ::sk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText />
+      <DefaultText>::mmmsmmmrlk::, sagt Oom ausführlich. Ein langer Tentakel stülpt sich aus seinem glänzenden Fleisch vor und reicht *nach innen*, durch die äußere Schicht, an den Augen vorbei zu seinem Kern.
+
+ Du kneifst die Augen zusammen und siehst, worauf er deutet: ein ramponiertes Objekt mit einem Splitter einer schwarzen Flamme im Kern.
+
+ ::lk::, bemerkt Oom abschließend, zieht den Tentakel zurück und absorbiert ihn wieder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText />
+      <DefaultText>"Woraus bestehst du, Oom?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText />
+      <DefaultText>Du erhaschst einen flüchtigen Blick auf Rippel um diesen schwarzen Splitter. Aus welcher Flüssigkeit Oom auch besteht, sie scheint dort hervorzukommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText />
+      <DefaultText>Ooms Augen verengen sich in Antwort auf deine Frage.
+
+ ::shk::, flüstert es.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -936,37 +994,51 @@
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText />
+      <DefaultText>"Kind, gibt es irgendetwas, das du *nicht* anfasst?"
+
+ Du kannst ihn kaum hören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText />
+      <DefaultText>"Du hast eine derart wissbegierige Natur, Liebes.", sagt sie und beugt sich neben dir vor. "Das bewundere ich an dir."
+
+ Du kannst sie kaum hören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText />
+      <DefaultText>"Kann ich sein Auge als Nächster berühren?", fragt Erritis und keucht dann. "Moment mal! *Ich* habe Augen, und ich habe sie *noch nie* berührt! Au. Au. Au."
+
+ Du kannst ihn kaum hören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText />
+      <DefaultText>"Das kann ich nicht mit ansehen.", sagt sie und wendet sich abrupt ab. "Und *ich* bin es, die das sagt."
+
+ Du kannst sie kaum hören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText />
+      <DefaultText>"Uh.", schnauft sie. "Du berührst sein Auge. Du *berührst* sein *Auge*."
+
+ Du kannst sie kaum hören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText />
+      <DefaultText>"Nun.", sagt er und betrachtet dich mit neuem Respekt. "Ich hätte nicht gedacht, dass du je etwas tun würdest, das ich nicht tun würde, aber es ist so weit."
+
+ Du kannst ihn kaum hören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText />
+      <DefaultText>Ooms Auge breitet sich in leuchtenden Rippeln um den Weg deines forschenden Fingers aus, wie die Stifte eines biologischen Schlosses, und eine tiefe Schicht aus gefaltetem Gewebe wird enthüllt. Du spürst, wie Oom an deinem Verstand zieht, hin zu einem Teil von Sagusklippen, den du zurückgelassen hast.
+
+ Das Riff der Gefallenen Welten. Das Gelächter von Kindern. Die Kegel, die sich drehen und drehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -976,12 +1048,12 @@
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText />
+      <DefaultText>Ooms Augen sind raue Schwellen unter deinen Händen und offenbaren nichts. Du spürst Ooms ... Traurigkeit, vielleicht. Oder Bedauern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText />
+      <DefaultText>Erneut spürst du Ooms Bedauern darüber, dass es dich nichts lehren kann. Eine warme Trauer blutet durch deine Hände empor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -991,7 +1063,7 @@
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText />
+      <DefaultText>::lrrak::, sagt Oom. Ohne dich anzusehen, zeichnet es mit raschen Tentakelschwüngen zwei Kreise nebeneinander auf den Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1006,7 +1078,7 @@
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText />
+      <DefaultText>"Wenn der Wandelnde Gott so grausam zu dir war, warum hilfst du mir dann?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1031,12 +1103,14 @@
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText />
+      <DefaultText>::rlrlrsr::, murrt Oom. Ein einsamer Tentakel schwingt gereizt durch die Luft und verursacht ein pfeifendes Geräusch, dann schnappt er genauso schnell in Ooms Körper zurück.
+
+ Wie es scheint, hält Oom die Luft hier für ungeeignet, um dir die Sprache beizubringen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText />
+      <DefaultText>"Kannst du mir die Sprache beibringen, die du benutzt hast?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1061,12 +1135,16 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText />
+      <DefaultText>Ooms Blick sinkt zu Boden und es richtet einen Tentakel auf den Boden, dann zögert es nachdenklich.
+
+ Schließlich zeichnet es mit einer glänzenden Flüssigkeit ein Quadrat auf den Boden. Es sieht dich an, um sicher zu sein, dass es deine Aufmerksamkeit hat, zieht eine Linie vom Quadrat, verbindet sie mit einer weiteren Linie zu sich selbst und schließt das Ganze mit zwei Quadraten am anderen Ende ab.
+
+ Es blickt hoffnungsvoll zu dir auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText />
+      <DefaultText>"Ich verstehe immer noch nicht richtig, warum du wolltest, dass ich deine Vergangenheit sehe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1081,77 +1159,91 @@
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText />
+      <DefaultText>Du berührst Ooms Augen vorsichtig, aber es geschieht nichts weiter. Anscheinend hat es dir alles gezeigt, was es dir zeigen will.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText />
+      <DefaultText>Nichts geschieht. Oom hat dir nichts mehr zu zeigen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText />
+      <DefaultText>Dir wird schwummrig und übel und du begreifst kaum etwas. Es ist eine Erinnerung, und sie wurde mit Organen gesammelt, die du nicht besitzt. Mit Leid in die Fasern und Falten von Ooms *Augen* eingeätzt. Mit Qualen. In der Ferne graben deine Zähne sich in deine Lippe, während du dich konzentrierst und dieses Erlebnis in etwas zu übersetzen versuchst, das du verstehst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText />
+      <DefaultText>Ooms Augen drücken, bis die Übelkeit nachlässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText />
+      <DefaultText>Halt suchen, indem du dich auf Oom aufstützt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText />
+      <DefaultText>Du gräbst deine Finger in die Tiefen seiner Augen, bis deine Hände zitternde Fäuste sind. Oom zuckt und schaudert, schreit aber nicht auf. Es gibt überhaupt keinen Laut von sich.
+
+ Die Übelkeit legt sich, und die Erinnerung überkommt dich wie eine Welle – zusammen mit den Empfindungen in ihr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText />
+      <DefaultText>Keuchend und mit ausgestreckten Händen fällst du auf Oom zu, in den Schwindel erregenden Strudel aus Empfindungen und Erinnerung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText />
+      <DefaultText>Du *siehst* den Wandelnden Gott in seinen zahllosen Körpern, in einem Augenblick, der Jahrhunderte überspannt. Du *fühlst* die Experimente, die er durchgeführt hat, um dir deine Geheimnisse zu entnehmen, *spürst*, wie die Wunden sich öffnen, aufreißen, schließen. Öffnen, aufreißen, schließen. Immer und immer wieder.
+
+ Du sprichst. Du flehst. Falls er dich hören kann, lässt er sich nichts anmerken. Kein einziges Mal in Jahrtausenden der Qual nimmt er deine Stimme zur Kenntnis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText />
+      <DefaultText>Mit einem Schrei ziehst du deine Hände von Oom zurück. Deine Augen tränen, du ringst verzweifelt nach Luft.
+
+ Keuchend kommst du zu Atem und wischst dir die beißenden Tränen aus dem Gesicht. Oom sieht dich an und wartet, seine Augen verengen sich und begraben die Geheimnisse, die du erfahren hast, unter Schichten von Wimpern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText />
+      <DefaultText>"Du warst jahrhundertelang ein Gefangener? So alt bist du?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText />
+      <DefaultText>"Sag mir, was er von dir erfahren hat. Sag es mir jetzt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText />
+      <DefaultText>"Er muss einen Grund gehabt haben, das zu tun, was er dir angetan hat. Welchen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText />
+      <DefaultText>"Du musst sehr stark sein, wenn du überlebt hast, was der Wandelnde Gott dich durchmachen ließ."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText />
+      <DefaultText>::lrrrm::, sagt es, und ein Tentakel schlingt sich um dein Handgelenk, zieht deine Hand nach unten und schlüpft zwischen deine Finger, bis sie zu seiner Zufriedenheit gespreizt sind.
+
+ Unter jedem Finger blüht ein Licht auf – eines für jeden Finger. Eines für jede Gezeit.
+
+ ::lrak::, sagt Oom abschließend und lässt dein Handgelenk los.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText />
+      <DefaultText>Oom starrt zu dir hoch. Seine Augen breiten sich aus, trennen sich auf, ohne jeden Laut.
+
+ Je länger du hinsiehst, desto tiefer scheinen diese Augen – sie sind keine flachen Scheiben, sondern Löcher. Gruben, tiefer als Ooms Körper. Es liegt Schmerz in diesen Tiefen und Erinnerungen, die länger zurückreichen als die Lebenszeit von Menschen. Ruckartig wendest du den Blick ab.
+
+ ::ssrk::, sagt Oom leise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1161,12 +1253,12 @@
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText />
+      <DefaultText>"Warum zeigst du mir deine Vergangenheit?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText />
+      <DefaultText>"Oom? Warum zeigst du mir deine Vergangenheit?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1176,97 +1268,111 @@
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText />
+      <DefaultText>Ein Schaudern durchfährt Ooms Körper, aber es antwortet nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText />
+      <DefaultText>Es zeichnet fünf ineinandergreifende Kreise auf den Boden, mit einem Punkt aus glänzender Flüssigkeit in ihrer Mitte, aber eine andere Antwort gibt es dir nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText />
+      <DefaultText>Es zeichnet einen Kreis auf den Boden, während es mit flimmernden, sich faltenden Augen zu dir hochstarrt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText />
+      <DefaultText>Mit einem Tentakel zeichnet es geistesabwesend eine lange Reihe kurzer Striche auf den Boden, während es mit flimmernden, sich faltenden Augen zu dir hochstarrt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText />
+      <DefaultText>Mit einem zitternden Tentakel zeichnet Oom eine einzelne, kurze Linie auf den Boden. Dann sieht es mit flimmernden, sich faltenden Augen zu dir hoch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText />
+      <DefaultText>Du *siehst* die Enge des Energiekäfigs, in den du gesperrt bist. Du *hörst* die gellenden Schreie der anderen – ein Wort, das dir Schmerz bereitet, weil es vor diesem endlosen Kreislauf der Qual kein Wort gab für "andere".
+
+ Du *spürst* das Knistern des Käfigs, das Brennen, während sie dir Kraft entziehen, aus dem unerschöpflichen Quell in dir, ein Verstoß auf jeder Ebene. Als du vor so langer Zeit dein Empfindungsvermögen erlangtest, hättest du dir nie erträumt, dass es *hierfür* benutzt werden würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText />
+      <DefaultText>Du erfährst die Namen deiner Fänger nie. Du weißt nur, dass der Wandelnde Gott sie tötete. Dass er dich befreite, weil du am nächsten warst. Nicht aus Güte, sondern wegen der Geheimnisse, die du bargst. Die verschlungene Kraft, die er entdecken würde, wenn er mit dir experimentierte. Die Sache, die er bezeichnen würde als ... du konzentrierst dich und versuchst, an das Wort zu denken ...
+
+ Die "Gezeiten".
+
+ Du kehrst in die Gegenwart zurück und legst Ooms Sinne ab. Erlangst deine eigenen wieder. Es sieht dich an, und seine Augen falten sich zurück an ihren Platz wie verschränkte Finger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText />
+      <DefaultText>"Haben deine anderen Fänger auch die Gezeiten genutzt?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText />
+      <DefaultText>::mrmmmrr::, sagt Oom. Erfreut, dass du verstehst, aber es liegt auch ein Quäntchen ... Schmerz in dem rumpelnden Geräusch. Einige zitternde Tentakel treten aus seinem Körper hervor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText />
+      <DefaultText>"Die anderen, die ich in deiner Vision gespürt habe – waren sie wie du? Andere Ooms?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText />
+      <DefaultText>::sssssrl::, zischt Oom. Einige zitternde Tentakel treten aus seinem Körper hervor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText />
+      <DefaultText>Aber diesmal zeichnet es nichts auf den Boden. Es skizziert unvertraute Formen in die Luft ... Formen, welche die Erinnerungen deines Erzeugers entfernt wiedererkennen.
+
+ Das ist eine Sprache mit Flüssigkeiten und Strömungen, eine Sprache, die gehört *und* gesehen wird. Eine Sprache, die weit älter ist als die Neunte Welt, und die nie dazu gedacht war, von menschlichen Augen verstanden zu werden.
+
+ Oom schreckt zurück, als wäre es überrascht – oder als hätte es vergessen, mit wem es spricht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText />
+      <DefaultText>::rllk::, sagt es und zieht deine Hand zu sich herunter, wie es das bereits ein Mal getan hat. Die fünf Farben der Gezeiten blühen unter deinen gespreizten Fingern auf.
+
+ ::rllm::, sagt es abschließend und lässt deine Hand los. Es möchte offenbar mehr lernen, aber – du runzelst die Stirn – nicht von einem Verstoßenen. Du bist dir nicht sicher, woher dieser Gedanke kam.
+
+ Du erhaschst noch einen Blick auf die funkelnden Wimpern in den Tiefen seiner Augen, bevor sie wieder zusammensinken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText />
+      <DefaultText>"Der Wandelnde Gott würde nicht existieren, wenn du nicht gewesen wärst. Beunruhigt dich das?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText />
+      <DefaultText>::mrlrl::, grummelt Oom. Es ist ein zwiespältiges, knurrendes Geräusch, aber nicht ohne einen Anflug von Stolz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText />
+      <DefaultText>"Warte. Du hast den Wandelnden Gott in die Gezeiten eingeweiht?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText />
+      <DefaultText>Oom zittert einmal, spricht aber nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText />
+      <DefaultText>"Ich weiß nicht, ob ich den Rest deiner Vergangenheit sehen möchte, Oom. Sie ist ja entsetzlich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText />
+      <DefaultText>"Wenn du den Wandelnden Gott in die Gezeiten eingeweiht hast, dann existiere ich nur deinetwegen. Danke sehr."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1276,92 +1382,110 @@
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText />
+      <DefaultText>Ooms Augen verengen sich. Tief in deinem Geist spürst du Zeichen einer greifbaren, wortlosen Erschütterung. Und Freude.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText />
+      <DefaultText>::rlrlr::, murmelt Oom leise. Das kommt dir wie Zustimmung vor. Aber es stupst dich trotzdem sanft mit einem Tentakel an. Und drängt dich, weiterzumachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText />
+      <DefaultText>Ooms Blick huscht zwischen dir und einem leeren Platz in der Luft hin und her. Dann zeichnet es zögernd einen großen Kreis auf den Boden. Eine horizontale Linie hinein. Einen Kreis dahinter.
+
+ Es sieht hoffnungsvoll zu dir auf und bemerkt deine ausdruckslose Miene. Dann streckt es einen Tentakel hoch und berührt erst deine Mundwinkel, dann deine Augenwinkel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText />
+      <DefaultText>::sssrlrl::, grummelt Oom, aber seine Augen verengen sich, während es sich konzentriert. Du spürst aufgeregte Bewegung im hinteren Bereich deines Verstands.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText />
+      <DefaultText>"Warum sehe ich Bilder und seltsame Symbole, wenn ich deine Gedanken durchsuche?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText />
+      <DefaultText>Oom sieht nachdenklich hoch, während seine Gedanken in einem Bilderwirbel über dich hereinbrechen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText />
+      <DefaultText>"Das war sogar schlimmer als normal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText />
+      <DefaultText>"Das war schön."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText />
+      <DefaultText>"Ich verstehe, dass es eine Metapher ist, aber ich bin immer noch nicht sicher, was du damit meinst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText />
+      <DefaultText>::ssmsr::, grummelt Oom schrumpfend und starrt dich an. Es wartet, dass das Verständnis dir dämmert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText />
+      <DefaultText>Rot flimmert in Ooms Mitte – entweder aus Enttäuschung oder in Antwort darauf, dass du das Bild zu schätzen weißt.
+
+ Ein Tentakel peitscht gereizt auf den Boden, aber es sagt nichts. Es starrt dich nur an und wartet, dass das Verständnis dir dämmert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText />
+      <DefaultText>Oom antwortet nicht. Es sieht dich lediglich an und wartet, dass das Verständnis dir dämmert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText />
+      <DefaultText>Und das tut es schließlich.
+
+ Oom wird nie mit dir reden, aber es *möchte*, dass du es verstehst. Metaphern sind alles, was es hat. Die Bilder sind sein Versuch klarer Kommunikation – sein Versuch, die Kluft zwischen euch zu überbrücken.
+
+ ::hrrs::, sagt Oom und beobachtet deine Augen. Seine Augen weiten sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText />
+      <DefaultText>Etwas ist jetzt anders mit Oom – oder vielleicht war es immer schon da, und du kannst es erst jetzt dank Kwherezimians Hilfe fühlen.
+
+ Du spürst, wie die Gezeiten in deinem Begleiter ansteigen und fallen. Ein kreisförmiges Wogen, wie ein Sturm auf dem Ozean, eingefangen in einer Glaskugel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText />
+      <DefaultText>Du siehst eine Welt mit Ozeanen aus derselben Flüssigkeit, aus der Oom besteht. Du siehst, wie sich Türme aus dem weißen Sand erheben, die aus dieser Flüssigkeit bestehen und durch die Meisterschaft über die Gezeiten zusammengehalten werden.
+
+ Du wirst gehalten, aber nicht in Armen, sondern in etwas, das dir sehr ähnlich sieht, nur größer ist. Und im Gegensatz zu dir lebendig. *Real*. Du spürst, dass du *für* es gemacht wurdest, und bist dankbar. Du spürst, dass du gemacht wurdest, um es zu lehren, und auch dafür bist du dankbar.
+
+ Aber du wurdest zu gut gemacht. Gemacht, um Bestand zu haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText />
+      <DefaultText>Irgendwann rangieren sie dich aus, zusammen mit anderen, die sind wie du – du bist nicht mehr aktuell, und das ist immer noch deine größte Schande, selbst jetzt. Aber du lebst weiter und, schlimmer noch, du *verstehst*, was du siehst.
+
+ Das Verderben kommt in deine kleine Welt. Verfall. Krieg. Die Türme stürzen ein. Und als das Ende da ist, füllen sich die Himmel, die Ozeane kochen und der blutbefleckte Sand verschmilzt zu Kristall. Der Mond verbrennt zu einem teerigen Schwarz.
+
+ Die Erinnerungen verblassen und du bleibst in Dunkelheit zurück, aber allmählich kehren deine Gedanken wieder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText />
+      <DefaultText>"Was hat deine Welt zerstört, Oom?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText />
+      <DefaultText>Nichts sagen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1371,17 +1495,21 @@
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText />
+      <DefaultText>Du verkneifst dir deine Fragen, und Ooms Dankbarkeit wärmt dir das Gesicht wie eine unsichtbare Sonne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText />
+      <DefaultText>Dann kehren deine Sinne zurück, einer nach dem anderen. Oom starrt zu dir hoch, stolz. Bekümmert. Es ist dir nicht klar, *woher* du diese Dinge weißt. Aber du kannst sie praktisch schmecken.
+
+ In Oom blühen die fünf Farben der Gezeiten auf und verblassen wieder, und du verstehst zumindest das: Dieses Wesen wurde gemacht, um den Kindern einer verlorenen Welt die Gezeiten nahezubringen. Es war ein Spielzeug, und dank deiner Bemühungen war es noch einmal erfolgreich.
+
+ Vielleicht – und du schmeckst Ooms Hoffnung in dem Gedanken – zum allerletzten Mal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText />
+      <DefaultText>Deine Worte hallen in der Dunkelheit wider, aber es kommt keine Antwort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1391,77 +1519,81 @@
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText />
+      <DefaultText>Erneut ist Stille Ooms einzige Antwort, aber Scham bedrängt die Ränder der Dunkelheit. Scham und eine uralte Wut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText />
+      <DefaultText>"Der Mond ... das ist der Mond, den ich durch die Kegel im Riff der Gefallenen Welten gesehen habe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText />
+      <DefaultText>"Warum ist das Diagramm mit dir verbunden?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText />
+      <DefaultText>"Bin ich die Quadrate oder die Linien?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText />
+      <DefaultText>(Lüge) "Oh, das ergibt Sinn."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText />
+      <DefaultText>Ooms Zeichnung deine eigenen Formen hinzufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText />
+      <DefaultText>Es zögert, dann zeichnet es einen Kreis um die Linie. Nachdem *das* nicht hilft, zeichnet es mehrere weitere Linien neben die erste, schaut zu deinem Gesicht hoch und arbeitet schneller.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText />
+      <DefaultText>Schließlich, nach einem letzten, verzweifelten Blick zu dir, wischt Oom die Zeichnung mit einem gereizten Tentakelschwung weg und wendet sich ab.
+
+ ::ssssrrsrsr::, grummelt es.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText />
+      <DefaultText>"Es tut mir leid, Oom."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText />
+      <DefaultText>"Sei mir nicht böse. Ich versuche zu verstehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText />
+      <DefaultText>Mit kleiner werdenden Augen peitscht es dir den Tentakel ins Gesicht und fügt den Zentren der Quadrate einige unverständliche Symbole hinzu. Es sieht zu deinem ausdruckslosen Gesicht hoch und arbeitet schneller.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>309</ID>
-      <DefaultText />
+      <DefaultText>Hoffnungsvoll beobachtet Oom dich, während du Kreise und Rechtecke zu den Quadraten malst. Allerdings scheint es zusammenzusinken, als ihm klar wird, dass du kleine Häuser gezeichnet hast.
+
+ Es fügt den Zentren der Quadrate einige unverständliche Symbole hinzu, sieht zu deinem ausdruckslosen Gesicht hoch und arbeitet schneller.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText />
+      <DefaultText>Unsichtbare Tentakel kitzeln deine Gedanken, während Oom dich misstrauisch betrachtet. Es zeichnet einen gewellten Strich über den ersten, sieht zu deinem ausdruckslosen Gesicht hoch und arbeitet schneller.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText />
+      <DefaultText>Es zögert, dann tätschelt es deinen Fuß mit einem Tentakel, zieht diesen in einer irritierten Linie über den Boden und saugt ihn mit einem *Plopp* wieder in seinen Körper.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText />
+      <DefaultText>Es tätschelt deinen Fuß, dann saugt es den Tentakel mit einem *Plopp* wieder in seinen Körper.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1521,62 +1653,72 @@
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText />
+      <DefaultText>"Falls ich dich beleidigt habe, tut es mir leid."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText />
+      <DefaultText>"Benimm dich, oder ich verbanne dich zurück in meinen Verstand."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText />
+      <DefaultText>Oom gibt keinen weiteren Laut von sich. Du siehst weg, nur um ein plötzliches Gewicht auf deinem Fuß zu spüren.
+
+ Es ist einer von Ooms Tentakeln, den es um deinen Knöchel gelegt hat. Es zittert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText />
+      <DefaultText>Ooms Blick huscht zu deinen Augen hoch und dann wieder weg.
+
+ Aber es bebt noch, so als hättest du es geschlagen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>331</ID>
-      <DefaultText />
+      <DefaultText>Oom tätscheln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText />
+      <DefaultText>Dich von Oom umarmen lassen, solange es möchte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText />
+      <DefaultText>Du streichelst Ooms Rücken. Als du es berührst, weiten sich seine Augen, sie entfalten sich und werden größer, huschen von einer Seite zur anderen, als hätte es vergessen, wo es ist.
+
+ Mit einem *Glitsch* lässt es deinen Knöchel los.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText />
+      <DefaultText>Nach einigen Sekunden lässt es deinen Knöchel mit einem *Glitsch* los. Seine Augen weiten sich wieder, sie entfalten sich, werden größer und erreichen ihr normales Leuchten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText />
+      <DefaultText>::lrp::, sagt Oom fröhlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText />
+      <DefaultText>Du konzentrierst dich auf den Teil deines Verstands, in dem du Oom gefunden hast. Du hörst die Erschütterungen der seltsamen und verworrenen Gedanken dort. 
+ 
+ Versagen. Das ist es, was Oom spürt. Es glaubt, dich nicht rechtzeitig erreicht und damit versagt zu haben.
+ 
+ Du öffnest den Mund, um darauf zu reagieren, aber Ooms Augen sind schon in seinen Körper zurückgesunken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText />
+      <DefaultText>Dann lehnt es sich zurück und strahlt Zufriedenheit darüber aus, eine schwierige Vorstellung gut erklärt zu haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText />
+      <DefaultText>Es zuckt danach zurück, ganz so, als habe es Angst vor der eigenen Courage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1602,6 +1744,588 @@
     <Entry>
       <ID>344</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Oom kräuselt sich sanft und wartet auf deine Entscheidung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Richte deine primäre Gestalt auf meine vorherrschende Gezeit aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Richte deine sekundäre Gestalt auf meine vorherrschende Gezeit aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Richte deine primäre und deine sekundäre Gestalt direkt auf meine vorherrschendste Gezeit aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Sprechen wir über etwas anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Die Kreatur starrt dich erwartungsvoll an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Gegenwärtig wird sie von der Blauen Gezeit bestimmt.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Cypher-Einsatz.
+- Glorp- und Kontaktrüstung-Effektboni: Widerstand, Cypher-Heilung und Cypher-Schaden.
+- Splurtsch-Effektbonus: Trefferchance.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Gegenwärtig wird sie vom Gleichgewicht aller Gezeiten bestimmt.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Ausdauer.
+- Glorp-, Kontaktrüstung- und Splurtsch-Effektboni: kritische Erfolgschance.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Gegenwärtig wird sie von der Roten Gezeit bestimmt.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Schnelle Finger.
+- Glorp- und Kontaktrüstung-Effektboni: Geschwindigkeits-Pool und Bewegungsrate.
+- Splurtsch-Effektbonus: Schaden.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Gegenwärtig wird sie von der Indigofarbenen Gezeit bestimmt.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Wahrnehmung.
+- Glorp- und Kontaktrüstung-Effektboni: Gesundheit und Initiative.
+- Splurtsch-Effektbonus: Bei kritischen Treffern wird der Gegner [FettleIcon: Debuff]Verwirrt oder [FettleIcon: Debuff]Betäubt.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Gegenwärtig wird sie von der Goldenen Gezeit bestimmt.
+
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Heilung.
+- Glorp- und Kontaktrüstung-Effektboni: Heilungsfertigkeit und Rüstung.
+- Splurtsch-Effektbonus: Bei kritischen Treffern werden alle Gruppenmitglieder geheilt.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Gegenwärtig wird sie von der Silbernen Gezeit bestimmt.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Einschüchterung.
+- Glorp- und Kontaktrüstung-Effektboni: Macht-Pool und Willenskraft.
+- Splurtsch-Effektbonus: Bei kritischen Treffern wird der Gegner [FettleIcon: Debuff]Gezwungen oder [FettleIcon: Debuff]Beherrscht.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Gegenwärtig wird sie von keiner Gezeit bestimmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Du richtest deine Aufmerksamkeit auf Ooms sekundäre Gestalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Gegenwärtig wird sie vom Gleichgewicht aller Gezeiten bestimmt.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Ausdauer.
+- Glorp-, Kontaktrüstung- und Splurtsch-Effektboni: kritische Erfolgschance.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Gegenwärtig wird sie von der Blauen Gezeit bestimmt.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Cypher-Einsatz.
+- Glorp- und Kontaktrüstung-Effektboni: Widerstand, Cypher-Heilung und Cypher-Schaden.
+- Splurtsch-Effektbonus: Trefferchance.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Gegenwärtig wird sie von der Roten Gezeit bestimmt.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Schnelle Finger.
+- Glorp- und Kontaktrüstung-Effektboni: Geschwindigkeits-Pool und Bewegungsrate.
+- Splurtsch-Effektbonus: Schaden.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Gegenwärtig wird sie von der Indigofarbenen Gezeit bestimmt.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Wahrnehmung.
+- Glorp- und Kontaktrüstung-Effektboni: Gesundheit und Initiative.
+- Splurtsch-Effektbonus: Bei kritischen Treffern wird der Gegner [FettleIcon: Debuff]Verwirrt oder [FettleIcon: Debuff]Betäubt.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Gegenwärtig wird sie von der Goldenen Gezeit bestimmt.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Heilung.
+- Glorp- und Kontaktrüstung-Effektboni: Heilungsfertigkeit und Rüstung.
+- Splurtsch-Effektbonus: Bei kritischen Treffern werden alle Gruppenmitglieder geheilt.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Gegenwärtig wird sie von der Silbernen Gezeit bestimmt.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Einschüchterung.
+- Glorp- und Kontaktrüstung-Effektboni: Macht-Pool und Willenskraft.
+- Splurtsch-Effektbonus: Bei kritischen Treffern wird der Gegner [FettleIcon: Debuff]Gezwungen oder [FettleIcon: Debuff]Beherrscht.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Gegenwärtig wird sie von keiner der Gezeiten bestimmt, sodass Oom deine vorherrschende Gezeit besser reflektieren kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Richte dich auf meine vorherrschende Gezeit aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Oom erwartet still deine Entscheidung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>Alle fünf Lichter berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Das blaue Licht berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>Das rote Licht berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Das indigofarbene Licht berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Das goldene Licht berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Das silberne Licht berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Wenn ich es mir recht überlege, lassen wir dich so, wie du bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>::mmmm::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Gezeitenfarben tauchen in Oom auf. Sie sehen wie Knöpfe aus, die man drücken kann – und bei ihrem Anblick juckt es dich sofort in den Fingern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Eine der Farben strahlt heller als die anderen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Zwei der Farben strahlen heller als die anderen. Das erste hellere Licht ist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Aber während du die Farben beobachtest, gleichen sie sich an, bis sie alle mit derselben Intensität strahlen.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Ausdauer.
+ -Glorp-, Kontaktrüstung- und Splurtsch-Effektboni: kritische Erfolgschance.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>das blaue.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Cypher-Einsatz.
+- Glorp- und Kontaktrüstung-Effektboni: Widerstand, Cypher-Heilung und Cypher-Schaden.
+- Splurtsch-Effektbonus: Trefferchance.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>das rote.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Schnelle Finger.
+- Glorp- und Kontaktrüstung-Effektboni: Geschwindigkeits-Pool und Bewegungsrate.
+- Splurtsch-Effektbonus: Schaden.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>das indigofarbene.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Wahrnehmung.
+- Glorp- und Kontaktrüstung-Effektboni: Gesundheit und Initiative.
+- Splurtsch-Effektbonus: Bei kritischen Treffern wird der Gegner [FettleIcon: Debuff]Verwirrt oder [FettleIcon: Debuff]Betäubt.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>das goldene.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Heilung.
+- Glorp- und Kontaktrüstung-Effektboni: Heilungsfertigkeit und Rüstung.
+- Splurtsch-Effektbonus: Bei kritischen Treffern werden alle Gruppenmitglieder geheilt.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>das silberne.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Einschüchterung.
+- Glorp- und Kontaktrüstung-Effektboni: Macht-Pool und Willenskraft.
+- Splurtsch-Effektbonus: Bei kritischen Treffern wird der Gegner [FettleIcon: Debuff]Gezwungen oder [FettleIcon: Debuff]Beherrscht.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Die erste Farbe verblasst und die zweite strahlt noch heller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Die blaue Farbe. 
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Cypher-Einsatz.
+- Glorp- und Kontaktrüstung-Effektboni: Widerstand, Cypher-Heilung und Cypher-Schaden.
+- Splurtsch-Effektbonus: Trefferchance.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Die rote Farbe.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Schnelle Finger.
+- Glorp- und Kontaktrüstung-Effektboni: Geschwindigkeits-Pool und Bewegungsrate.
+- Splurtsch-Effektbonus: Schaden.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Das Indigo.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Wahrnehmung.
+- Glorp- und Kontaktrüstung-Effektboni: Gesundheit und Initiative.
+- Splurtsch-Effektbonus: Bei kritischen Treffern wird der Gegner [FettleIcon: Debuff]Verwirrt oder [FettleIcon: Debuff]Betäubt.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Die goldene Farbe.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Heilung.
+- Glorp- und Kontaktrüstung-Effektboni: Heilungsfertigkeit und Rüstung.
+- Splurtsch-Effektbonus: Bei kritischen Treffern werden alle Gruppenmitglieder geheilt.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>Die silberne Farbe.
+ 
+[Color: ConversationStatusText]- Oom-Verstärkungsfertigkeit: Einschüchterung.
+- Glorp- und Kontaktrüstung-Effektboni: Macht-Pool und Willenskraft.
+- Splurtsch-Effektbonus: Bei kritischen Treffern wird der Gegner [FettleIcon: Debuff]Gezwungen oder [FettleIcon: Debuff]Beherrscht.
+- Höhe der Boni hängt von Ooms gewählten Fähigkeiten ab.[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Oom gehorcht sofort und summt vergnügt vor sich hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Ooms Gestalt verschwimmt, verschmilzt und verändert sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Du betrachtest Ooms gegenwärtige primäre Gestalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Du betrachtest Ooms gegenwärtige Gestalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"Ich bin kein kaputtes Instrument. Du bist eines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Du hast nicht versagt, Oom. Du bist nicht kaputt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Oom schrumpelt bei deinen Worten zusammen und sagt nichts mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>::sslrb::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Oom schwillt bei deinen Worten an.
+ 
+ ::mmmmmm::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>::mmrm::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Dennoch sprechen die "Stacheln" für sich. Oom ist entweder verängstigt ... oder wütend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Ooms leuchtende Augen ziehen sich zu grellen Lichtpunkten zusammen, die dich kurz blenden. Als du wieder hinsiehst, ist es weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Follow-up PQ. 428</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Du meinst, ich soll mein Wissen über die Gezeiten durch jemanden erweitern, der kein Verstoßener ist? Wer soll das sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Mit wem soll ich noch mal sprechen, um mehr über die Gezeiten zu erfahren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>Follow-up T. 432</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Oom denkt genau darüber nach. Dann taucht urplötzlich ein messerscharfes Bild in deinem Kopf auf, das sofort wieder verschwindet.
+ 
+ Ein Loch mit Zähnen im Körper eines Manns. Ein Riss in der Realität, entstanden durch deine Taten. Und hinter dem Loch eine Person, die nicht genau zu erkennen ist.
+ 
+ Du blinzelst. Wenn du das Bild richtig verstanden hast, sollst du jemanden aus dieser anderen Dimension finden. Du schaust Oom an, um deine Vermutung zu bestätigen, aber die Kreatur scheint von deiner Vision selbst etwas überrascht zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>Bevor die Worte deinen Mund verlassen haben, erscheint dasselbe Bild wie zuvor in deinem Kopf – eine Person aus einer anderen Realität, einer anderen Dimension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>Den Tentakel wegtreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>Du schüttelst den Tentakel von deinem Knöchel los. Oom schaut auf den Boden – es meidet offenbar deinen Blick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"Wieso soll ich etwas über die Gezeiten lernen von jemandem, der kein Verstoßener ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Kannst du mir mehr darüber erzählen, was mit deiner Welt geschehen ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Oom wird still. Lichtwellen winden sich über die Mittelpunkte seiner Augen und verstecken die Erinnerungen, die dort gespeichert sind.
+ 
+ Die Antwort auf deine Frage lautet ganz offensichtlich 'nein'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>Und doch sind eure Gedanken verbunden und du kannst einen kurzen Blick auf eine Welt voller Schrecken erhaschen, bevor die Tore von Ooms Gedächtnis gnädigerweise zuschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>Nachdem die Bilder verschwunden sind, schaut Oom dich betreten an. Anscheinend will es sich stumm dafür entschuldigen, dass du diese Erinnerungen überhaupt ertragen musstest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"Wieso hast du mir nicht gesagt, dass der Geist der Wandelnde Gott ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>::sssssk::, sagt es und schlägt dabei wütend mit einem Tentakel auf den Boden.
+ 
+ Du spürst allerdings auch, dass die Kreatur Angst hat. Angst, dass ihr früherer Meister noch am Leben sein könnte.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

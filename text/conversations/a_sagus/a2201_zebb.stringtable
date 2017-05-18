@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_zebb</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>369</EntryCount>
+  <EntryCount>370</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1925,6 +1925,11 @@ Er schließt die Augen. „Ich … Ich kann nicht glauben, dass ich beinahe �
     <Entry>
       <ID>414</ID>
       <DefaultText>Er starrt dich mit großen Augen und offener Bewunderung an. „Danke! Ich dachte, *niemand* könnte den Sklavenfamilien sagen, was sie tun sollen.“ Er lächelt. „Der Stichus kann also hierbleiben. Wir werden ihn füttern und verstecken.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>::sssssk::, sagt Oom und beäugt das Gebilde skeptisch.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

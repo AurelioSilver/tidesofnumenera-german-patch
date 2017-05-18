@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\global\item_global_hall_of_relics</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>105</EntryCount>
+  <EntryCount>114</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -556,6 +556,55 @@ Sie hört auf zu schluchzen, als sie deine Gegenwart spürt. "Wer- wer ist da? B
       <DefaultText>Die kalte Stimme von Tol Maguur unterbricht sie. "Mit wem redest du da, Kleine? Na egal..."
 
 Ein plötzlicher Energiestoß trifft dir schmerzhaft hinter den Augen und die Verbindung bricht ab. Der Knopf springt zurück in seine ursprüngliche Position und lässt sich nicht mehr drücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Follow-up PQ. 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Du streichst mit dem Daumen über den Knopf und spürst, wie sich die Aufmerksamkeit von jemandem auf dich richtet ... und zwar in deinem Kopf.
+ 
+ Es ist Oom, und die Kreatur weiß, dass du an sie denkst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Ooms freudiges Summen erfüllt deinen Geist vollständig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Script Node 164</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Einen Augenblick später erscheint die Kreatur neben dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Du spürst, wie Oom nervös herumzappelt, und Bilder von den Leuten, die dich bereits begleiten, schießen vor deinem inneren Auge vorbei. 
+ 
+ Dann springt der Knopf unter deinem Daumen zurück in seine Ausgangsposition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Den Knopf mit den einstürzenden Türmen drücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Komm zu mir, Oom. Ich brauche dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Ooms Knopf erneut drücken.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

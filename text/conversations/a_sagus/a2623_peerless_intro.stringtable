@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2623_peerless_intro</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>50</EntryCount>
+  <EntryCount>51</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -265,6 +265,11 @@
     <Entry>
       <ID>55</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Oom blickt zu dir, dann zu dem Konstrukt und wieder zu dir.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

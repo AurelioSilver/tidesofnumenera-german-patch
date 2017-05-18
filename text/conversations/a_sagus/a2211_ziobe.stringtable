@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2211_ziobe</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>103</EntryCount>
+  <EntryCount>107</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -543,6 +543,26 @@ Sie schließt die Augen. "Du willst etwas über Feriok erfahren?"</FemaleText>
     <Entry>
       <ID>110</ID>
       <DefaultText>Sie wirft dem Wirt einen bedeutungsvollen Blick zu. "Eine Schande, dass sich nicht alle meine Freunde entschlossen haben, zu bleiben. Lass uns hoffen, dass die Endlose Schlacht nicht noch weitere Opfer unter uns fordert, hm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Das ist Oom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Mit hochgezogener Augenbraue wirft sie einen Blick auf deinen Begleiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>::flrt::, sagt Oom fröhlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ich bin mir nicht sicher, *was* das ist.", meint sie mit verschränkten Armen, "Aber wenn es ein Stammkunde dieser Bar wäre, würde ich mich daran erinnern, glaube ich."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

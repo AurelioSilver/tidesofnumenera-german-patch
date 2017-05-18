@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_execution_levy_1</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>51</EntryCount>
+  <EntryCount>53</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -275,6 +275,16 @@ Er zeigt auf den untersetzten, in indigoblauer Aufmachung gekleideten Mann, der 
     <Entry>
       <ID>57</ID>
       <DefaultText>Er mag zwar menschlich erscheinen, doch sein Geist fühlt sich völlig leer an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Der Mann namens Tybir da drüben scheint in Ris' Verbrechen verwickelt zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Bitte meldet Eure Bedenken dem Hinrichtungsbeamten. Er wird entscheiden, ob weitere Ermittlungen nötig sind."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

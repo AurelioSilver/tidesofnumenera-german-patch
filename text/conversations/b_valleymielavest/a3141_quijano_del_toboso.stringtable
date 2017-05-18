@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\a3141_quijano_del_toboso</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>41</EntryCount>
+  <EntryCount>43</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -246,6 +246,16 @@ Dann schließt er die Augen.</DefaultText>
       <ID>43</ID>
       <DefaultText>"Bei den Schwarzen Drei. Seid ihr Helden oder seid ihr nicht ganz klar im Kopf?“ Er reibt sich die Stirn, als ob er ein Kopfschmerzen lindern würde.</DefaultText>
       <FemaleText>"Bei den Schwarzen Drei. Seid ihr Helden oder seid ihr nicht ganz klar im Kopf?“ Er reibt sich die Stirn, als ob er ein Kopfschmerzen lindern würde.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>::mmmm::, sagt Oom und tätschelt den Fuß des Ritters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Oh!", sagt er und sieht hinab. "Euer Reittier ist sehr anhänglich, nicht wahr?"</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4301_aen-tozon</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>240</EntryCount>
+  <EntryCount>241</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1316,6 +1316,11 @@ Und trotzdem … du spürst noch immer diese prüfende Wärme in deinem Geist, 
     <Entry>
       <ID>254</ID>
       <DefaultText>Du folgst ihrem Blick und stellst fest, dass Aen-tozon sie ebenfalls mit neugierigem Ausdruck in seinen glasigen Augen anstarrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>An Oom vorbei, ohne einen Augenblick zu zögern.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

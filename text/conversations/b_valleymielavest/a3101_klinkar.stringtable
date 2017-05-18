@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\a3101_klinkar</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>169</EntryCount>
+  <EntryCount>170</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -876,6 +876,11 @@
     <Entry>
       <ID>193</ID>
       <DefaultText>Sie murmelt zu dir, "Das ist die Anhängerschaft unseres Bruders Inifere. Ich weiß nicht viel über sie, außer dass sie an *Blut* glauben. Sei vorsichtig.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>::sssss::, zischt Oom lang und tief.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\x_labyrinth\x6132_sorrow</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>552</EntryCount>
+  <EntryCount>578</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -3349,6 +3349,162 @@ Er verlagert sich etwas und du fühlst, wie die Welt beginnt, zu kippen und zu v
     </Entry>
     <Entry>
       <ID>665</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>Der Blick des Kummers wandert zu Oom. 
+ 
+ "*Ich erinnere mich an dich. Das kleine Spielzeug, verkrochen und gefangen in den Ruinen, zu denen ich unsere Welt vor so langer Zeit gemacht habe. Damals wollte ich Gnade zeigen – es war keine Güte, oder?*" 
+ 
+ Seine Tentakel nähern sich Oom wie eine riesige, fürsorgliche Hand. "*Du lebst schon zu lange. Komm, kehre zum Rest deiner Welt zurück. Ich verspreche dir, es wird nicht wehtun.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>Oom scheint zu zögern. Du spürst, wie seine Bedürfnisse wortlos gegen die Fesseln der Loyalität dir gegenüber kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>Oom zittert an deiner Seite. Du spürst seine Bedürfnisse, durchzogen von Streifen des Schmerzes – Erinnerungen an deine Art, es zu behandeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>"Du und Oom, ihr stammt von derselben Welt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>"*Du* warst für den Untergang von Ooms Welt verantwortlich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>"Tu es nicht, Oom. Bleib bei mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>"*Ich verstehe deinen Begleiter besser, als du dir vorstellen kannst. Wir sind erschaffene Wesen, jedes mit seiner Aufgabe. Wir sind Diener der Gezeiten.*"
+ 
+ In den vielen Stimmen des Kummers schwingt Mitleid mit. "*Ich wurde mit freiem Willen geschaffen. Dein Begleiter hat so etwas nicht. Es *muss* die Gezeiten lehren, genau wie du atmen musst, auch wenn es die schrecklichen Folgen kennt.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>"*Die Herrscher unserer Zivilisation behandelten die Gezeiten, als wären sie ihr Spielzeug. Sie verunreinigten die Gezeiten, und das wurde zu ihrem Verhängnis. Ihr Leiden schwappte aus der Welt und über die Grenzen der Realität.*"
+ 
+ Die Tentakel des Kummers legen sich um seinen stöhnenden Mantel. "*Sie erschufen mich, um ihre selbst zugefügte Wunde zu kauterisieren. Und das tat ich.*" 
+ 
+ Sein Blick fällt wieder auf Oom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>Es ist wahr. Du spürst Ooms gemischten Stolz auf deine Erfolge ... und die Scham unter diesem Stolz, die heiß und bösartig brennt.
+ 
+ Oom nähert sich langsam dem Kummer, hält dann inne und dreht sich zu dir. Du spürst ein *Verlangen* in Oom, das Geschenk des Kummers anzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>Oom scheint dich nicht zu hören. Seine Augen sind wie ferne Sterne auf den Kummer gerichtet.
+ 
+ Deine Nemesis nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>"Oom, ich habe deinen Zorn gespürt, als der Kummer uns aus Miel Avest jagte. Willst du dich ihm jetzt wirklich ergeben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>"Geh nicht. Bleib bei mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>"Geh, Oom. Ich wünsche dir alles Gute, und vielen Dank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>"Was meinst du mit 'zum Rest deiner Welt zurückkehren'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>"*Ich biete Vergessen. Keine ewige Qual. Keine Strafe. Ich biete deinem unsterblichen Begleiter den Tod, von dem er immer geträumt hat.*", sagt der Kummer.
+ 
+ Sein augenloser Blick fällt auf Oom. "*Ich biete Frieden.*", sagt er sanft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>Oom schaut das riesige Wesen einen Moment lang an.
+ 
+ ::smsssr::, flüstert es schließlich und kehrt an deine Seite zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>::sssslk::, murmelt Oom und wendet sich sanft von dir ab. Es gleitet auf den Kummer zu und durchtrennt die geistige Verbindung zu dir – die aufgrund der Art, wie du die Kreatur behandelt hast, ohnehin schon geschwächt war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>Oom zögert und seine Augen ziehen sich zusammen.
+ 
+ ::sssrl::, zischt es und schüttelt sich. Es scheint nicht überzeugt zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>"Wir standen zusammen in den Ruinen deiner Welt, Oom. Der Kummer hat das angerichtet. Gib nicht auf, bleib bei *mir*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>::rrrss::, flüstert Oom sich selbst zu. ::srrrlk::
+ 
+ Seine Augen wandern zwischen dir und dem Kummer hin und her, dann kehrt es an deine Seite zurück und legt vorsichtig einen Tentakel um deinen Knöchel. 
+ 
+ Oom knurrt die riesige Kreatur lange an. Du hörst – und spürst – ein *Ratsch* in Oom und in deinem Geist. Etwas ist irgendwo in dem Spielzeug kaputtgegangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>::srrrlll::, knurrt Oom und seine Augen weiten sich – aber nicht aus Angst, sondern aus Wut, die in dir schlägt wie ein zweites Herz. Es stürmt auf den Kummer zu und durchtrennt die geistige Verbindung zu dir – die aufgrund der Art, wie du die Kreatur behandelt hast, ohnehin schon geschwächt war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>Der Kummer nickt.
+ 
+ "*Dein Begleiter hat sein Schicksal entschieden. Kommen wir zu deinem Schicksal zurück ... und zu dem Schaden, den deine Art den Gezeiten zugefügt hat.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>Oom streicht ein letztes Mal sanft über deinen Knöchel. Dann gleitet es auf das riesige Wesen vor dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>Dunkle Tentakel legen sich um deinen winzigen Begleiter und Oom ist verschwunden. Es ist nichts weiter von ihm übrig als sterbende Staubkörner in der Farbe von Ooms Augen, die durch die Luft treiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

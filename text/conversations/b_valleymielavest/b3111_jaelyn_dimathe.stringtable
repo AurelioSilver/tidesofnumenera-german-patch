@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3111_jaelyn_dimathe</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>47</EntryCount>
+  <EntryCount>49</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -263,6 +263,16 @@
     <Entry>
       <ID>53</ID>
       <DefaultText>Sie verbeugt sich leicht. "Wie ich schon sagte. Warum die Toten beleidigen, indem du sagst, dass du Angst davor hast, unter ihnen zu sein?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>::sssrr::, knurrt Oom und trommelt mit seinen Tentakeln auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Sie wirft Oom einen leeren Blick zu, die Augenbrauen höflich erhoben.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

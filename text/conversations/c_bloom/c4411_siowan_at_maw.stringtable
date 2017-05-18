@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4411_siowan_at_maw</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>25</EntryCount>
+  <EntryCount>26</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -139,6 +139,11 @@ Sein Lächeln kehrt zurück. "Ich starb in dem Moment, als ich hierher kam. Aber
 … und gibt sich völlig dem Schlund hin. Sein Körper löst sich entlang der tastenden Zungen auf.
 
 Von Siowans Verzweiflung genährt, öffnet sich der Schlund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Mit einem verletzten Blick in deine Richtung sagt Oom gleichfalls nichts.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

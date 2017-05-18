@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3301_the_chalcedon</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>51</EntryCount>
+  <EntryCount>52</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -282,6 +282,13 @@ Er kichert. "Es ist einige Jahre her, seitdem ich ihn gesehen habe. Ich bezweifl
       <FemaleText>Tybir atmet aus und reibt sich die Augen. Als er bemerkt, dass du in seine Richtung schaust, winkt er seine Hand.
 
 "Nichts. Es ist nichts. Nur weiter.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Als der Mann dich berührt, richtet Oom sich auf und seine Augen werden größer.
+
+ Der Kalkedon schenkt deinem Begleiter keine Beachtung.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

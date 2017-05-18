@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_oom_stage6</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>33</EntryCount>
+  <EntryCount>42</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
+      <DefaultText>Oom summt vor sich hin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>Oom wartet hier auf dich, wie schon die ganze Zeit, und es sieht mehr und mehr so aus, als sei die Kreatur hier geboren worden, in deinem Geist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>::rmrmr::, sagt Oom leise, offenbar zu sich selbst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>"Ich glaube, wir sollten uns vorerst trennen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,9 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText />
+      <DefaultText>Die Kreatur schaut zu dir auf und ihre Gedanken überfluten deinen Geist. Deine Gabe ist sogleich überfordert: Das sind keine Worte oder Symbole, keine Sprache, die du erkennst. Sie haben ... sie haben ... ein Bewusstsein. Ihnen ist bewusst, dass sie Gedanken sind und dass sie in deinem Kopf sind.
+
+ Im Augenblick dieser Erkenntnis erwachen sie in deinem Geist und organisieren *deine* Gedanken zu Bildern um, die dir mitteilen, was das Wesen denkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +98,12 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText />
+      <DefaultText>"Verändern wir deine Gestalt, Oom."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText />
+      <DefaultText>"Ich möchte nochmal deine Gestalt verändern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +113,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>"Können wir über dich sprechen, Oom?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +133,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText />
+      <DefaultText>::srlk::, sagt Oom, während sich seine Augen zusammenziehen. Du spürst, dass dies ein entschuldigendes, aber unumstößliches 'nicht jetzt' sein soll.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,22 +153,67 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText />
+      <DefaultText>"Reden wir später."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText />
+      <DefaultText>::rlr::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText />
+      <DefaultText>::mmm::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
+      <DefaultText>::blp::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ach, lass uns weitergehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>::mmrm::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Oom sieht das anders. Dir ist zwar nicht klar, *woher* du das weißt, aber du bist dir sicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Komm mit mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>::mmm::, stimmt Oom zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Oom schaut die anderen Begleiter in deiner Gruppe an und dann wieder zu dir. Es macht keine Anstalten, dich zu begleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>::ssss::, sagt Oom und sackt zusammen. Es folgt dir nicht, als du weitergehst.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

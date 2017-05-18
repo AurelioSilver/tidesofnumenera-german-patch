@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3121_hiro</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>36</EntryCount>
+  <EntryCount>38</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -191,6 +191,18 @@
       <ID>36</ID>
       <DefaultText>Sie lacht leise. "Aligern würde diesen Mann gern haben.“</DefaultText>
       <FemaleText>Sie lacht leise. "Aligern würde diesen Mann gern haben.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>::shrmmm::, sagt Oom und tätschelt Hiros Knöchel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Er schnaubt.
+
+ "Ich habe nicht um Trost gebeten, aber bei den Göttern, ich nehme ihn an."</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

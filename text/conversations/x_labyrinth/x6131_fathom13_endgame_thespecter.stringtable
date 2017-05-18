@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\x_labyrinth\x6131_fathom13_endgame_thespecter</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>216</EntryCount>
+  <EntryCount>217</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1181,6 +1181,11 @@ Du hörst den lauten Widerhall ihres Lachens in der Kammer. "Dank ihr bin ich nu
     <Entry>
       <ID>280</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Ooms Gefühle sind eine Mischung aus Liebe und Furcht, die ständig durch deinen Hinterkopf schießt.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

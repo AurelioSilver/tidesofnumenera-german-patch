@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2601_clothing_merchant</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>203</EntryCount>
+  <EntryCount>204</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1052,6 +1052,11 @@ Er schüttelt den Kopf. "Es tut mir leid. Ihr habt nach dem Ratsbeamten gefragt.
     <Entry>
       <ID>226</ID>
       <DefaultText>Er starrt dich an und schüttelt den Kopf. "Wirklich, Aufseher Yeen heuert heutzutage fast jeden an. Es gab eine Zeit, als von den Stadtbeamten erwartet wurde, Sagusklippen zu *kennen*." Er schüttelt abwertend den Kopf. "Vergesst es. Ihr habt nach dem Springbrunnen gefragt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>::mmmm::, sagt Oom und blickt sich interessiert um.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

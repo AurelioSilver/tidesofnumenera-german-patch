@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2501_quijano_del_toboso</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>86</EntryCount>
+  <EntryCount>88</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -466,6 +466,18 @@ Er schlägt dir erneut auf die Schulter. "Gute Jagd, mein Freund. Gute Jagd!"</D
     <Entry>
       <ID>87</ID>
       <DefaultText>"Was für eine Schande", sagt er. "Was für eine absolute Schande."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Dann sieht er Oom.
+ 
+ "Und welch furchteinflößendes Ross! Was für muskulöse Flanken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>::mmmm::, murmelt Oom und sucht an sich selbst nach den Flanken, von denen der Ritter spricht.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

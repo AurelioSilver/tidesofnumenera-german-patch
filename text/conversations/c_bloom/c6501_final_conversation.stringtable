@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c6501_final_conversation</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>178</EntryCount>
+  <EntryCount>189</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -976,6 +976,63 @@ Sie deutet auf den Ausgang. "Geh. Bevor ich es mir anders überlege."</FemaleTex
     <Entry>
       <ID>197</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Wende dich Oom zu. "Bleibst du bei mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Trigger Conv Node 200</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Wende dich Oom zu. "Bleibst du bei mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Sie wendet sich Oom zu. "Hätte nie gedacht, dass nur wir zwei übrig bleiben. Wo gehst du jetzt hin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Sie wendet sich Oom zu. "Dein Meister war rücksichtsvoll und großzügig, daher werde ich auch großzügig sein. Verlass diesen Ort. Ich brauche nicht noch mehr Diener. Dein Meister ist tot, und du bist frei."
+
+ Sie deutet zum Ausgang. "Geh jetzt. Bevor ich mich umentscheide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Wende dich Oom zu. "Bleibst du bei mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>::ssrrrrrrllll::, flüstert Oom und berührt den leeren Platz neben sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Dann sieht es auf zu dem anderen Überlebenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Dann sieht es auf zu den anderen Überlebenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Wende dich Oom zu. "Bleibst du bei mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Oom erschaudert beim Klang des Heulens draußen, aber ... es liegt so etwas wie Zufriedenheit in diesen Augen, tief verborgen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

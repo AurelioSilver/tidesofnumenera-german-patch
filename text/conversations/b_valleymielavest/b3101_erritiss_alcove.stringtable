@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3101_erritiss_alcove</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>57</EntryCount>
+  <EntryCount>58</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -337,6 +337,11 @@ Ohne dass er dich ansieht, hebt sich sein Arm und zeigt auf deine Stirn. Ihm sch
       <DefaultText>"Ja, klar", sagt er und nickt dir zu. Eine Träne kullert seine eingefallene Wange herab und um sein fröhliches Grinsen herum. "Aber wenn du schon fragst - mir ist langweilig hier. Wir sollten gehen. Wir sollten *jetzt gleich* gehen."
  
 Er pfeift leise vor sich hin und wendet den Blick ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Oom rollt einen tröstenden Tentakel um Erritis' Bein.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

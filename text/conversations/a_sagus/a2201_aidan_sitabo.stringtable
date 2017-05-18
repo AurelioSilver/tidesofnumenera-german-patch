@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_aidan_sitabo</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>162</EntryCount>
+  <EntryCount>165</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -930,6 +930,23 @@ Er springt wieder auf die Beine und setzt sein Training fort.</DefaultText>
     <Entry>
       <ID>184</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>::sssrl::, seufzt Oom und berührt die verdorrte Handfläche des toten Kämpfers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Oom sagt nichts, aber sein Stolz wärmt dein tiefstes Unterbewusstsein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Oom beobachtet den Mann mit weiten, faszinierten Augen und wendet sich dann einem eigenen, unsichtbaren Gegner zu.
+
+ ::hrsss::, sagt es, während es mit einem Tentakel durch die Luft schlägt. ::srrk::</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4101_parsim_flint</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>132</EntryCount>
+  <EntryCount>133</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -709,6 +709,11 @@ Flint erschaudert. "Das ist nicht die Art von Geschäften, die wir *hier* machen
       <ID>159</ID>
       <DefaultText>Sie beugt sich zu dir. "Diese Sklaven haben Glück, ganz ehrlich. Es ist bekannt, dass einige Verladungen von Verurteilten verloren gehen … gewöhnlich, wenn Vivisektionisten mit Shin zugeschüttet werden und fortschrittliche Untertanen nur noch als Tiere benötigen. Das ist praktisch menschlich."</DefaultText>
       <FemaleText>Sie beugt sich zu dir. "Diese Sklaven haben Glück, ganz ehrlich. Es ist bekannt, dass einige Verladungen von Verurteilten verloren gehen … gewöhnlich, wenn Vivisektionisten mit Shin zugeschüttet werden und fortschrittliche Untertanen nur noch als Tiere benötigen. Das ist praktisch menschlich."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>::mmmm::, murmelt Oom und sieht dich an.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

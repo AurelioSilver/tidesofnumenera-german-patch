@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\global\global_game_over</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>201</EntryCount>
+  <EntryCount>206</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1304,6 +1304,35 @@ Er wurde in Ormen begraben und sein Name wurde in die Wand im Tal der Toten Held
     <Entry>
       <ID>214</ID>
       <DefaultText>Die Beben unter den Sagus-Klippen setzten sich fort. In Klippenrand fiel ein Haus nach dem anderen ins Meer und die Bewohner von Sagus wurden immer verängstigter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Oom – oder wie auch immer sich die Kreatur wirklich selbst nannte – zog durch die Wege des Labyrinths, während der Letzte Verstoßene sich dem Kummer stellte, und wurde nie wieder gesehen. Ob es dort gestorben ist oder eine seltsame Tür zu einem noch seltsameren Ort gefunden hat, weiß niemand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Wie der Kummer versprochen hatte, spürte Oom keine Schmerzen, als es starb. Es stieß zu den anderen seiner Art und fand für alle Zeiten Frieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Als Oom in die Welt zurückkehrte, verschwand es. Keiner der Begleiter des Letzten Verstoßenen sah es je wieder.
+ 
+ Etwas war während der Konfrontation mit dem Kummer in dem Spielzeug kaputtgegangen, das war offensichtlich. Es fühlte sich nicht länger gebunden durch die Tragödien seiner langen, langen Vergangenheit. Die Beschränkungen seiner Schöpfer, für immer zu lehren und zu trauern, hatten keine Bedeutung mehr.
+ 
+ Oom war frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Ooms wortlose Treue den Gezeiten gegenüber blieb auch nach der Konfrontation mit dem Kummer erhalten. Nachdem die Kreatur ihren Dienst beim letzten Schüler erfüllt hatte, zog sie weiter, immer auf der Suche nach einem neuen Schüler.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

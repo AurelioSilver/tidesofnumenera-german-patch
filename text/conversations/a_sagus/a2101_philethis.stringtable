@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_philethis</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>229</EntryCount>
+  <EntryCount>237</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -540,6 +540,18 @@ Der Philetis wirbelt und grollt, senkt dann den Kopf – vielleicht in Ablehnung
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>102</ID>
+      <DefaultText>::ssrrsss::, grummelt Oom an deiner Seite und peitscht mit einem Tentakel den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Der Blick des Philetis wandert zu deinem Begleiter.
+
+ "Hinter einer strukturlosen Mauer in den Vormask-Tiefen ist eine Tür, die sich bei Befragung öffnet,", sagt er. "Niemand kennt die Antwort, die sie wieder schließt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>104</ID>
       <DefaultText />
       <FemaleText />
@@ -582,6 +594,18 @@ Der Philetis wirbelt und grollt, senkt dann den Kopf – vielleicht in Ablehnung
     <Entry>
       <ID>112</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Ooms Augen ziehen sich zu leuchtenden Punkten zusammen.
+
+::rrrrsk::, sagt es und schlägt mit solcher Wucht auf den Boden, dass sein Körper sich bei jedem Aufprall kräuselt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Wenn Ihr zwei einen Wettstreit austragt, wer von Euch verwirrender sein kann, dann gewinnt Ihr gerade beide."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -630,6 +654,11 @@ Der Philetis wirbelt und grollt, senkt dann den Kopf – vielleicht in Ablehnung
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>124</ID>
+      <DefaultText>"Beruhigt Euch, Ihr zwei. Ihr habt beide Recht. Wahrscheinlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>125</ID>
       <DefaultText />
       <FemaleText />
@@ -655,18 +684,30 @@ Der Philetis wirbelt und grollt, senkt dann den Kopf – vielleicht in Ablehnung
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>130</ID>
+      <DefaultText>Oom zuckt zusammen, als hätte es vergessen, dass du da bist.
+
+::rrss::, murmelt es und wendet seinen Blick demonstrativ von dem Philetis ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>132</ID>
       <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText />
+      <DefaultText>::sssrk::, sagt Oom und wendet seinen Blick demonstrativ von dem Philetis ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText />
+      <DefaultText>Der Philetis gibt keinerlei Antwort. Sein Blick wandert nur abwartend zurück zu dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,6 +742,11 @@ Der Philetis wirbelt und grollt, senkt dann den Kopf – vielleicht in Ablehnung
     </Entry>
     <Entry>
       <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

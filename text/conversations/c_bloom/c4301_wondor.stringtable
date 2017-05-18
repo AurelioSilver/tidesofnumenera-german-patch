@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4301_wondor</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>46</EntryCount>
+  <EntryCount>47</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -252,6 +252,11 @@ Er bewegt sich unbehaglich. "Als ich jedoch versuchte, aus den Gedanken zu lerne
     <Entry>
       <ID>49</ID>
       <DefaultText>"Ich kann mich nicht erinnern. Der Fremde hatte die Erinnerungen und den Schmerz, und der Fremde ist weg." Dankbarkeit erwärmt sein Gesicht. "Du hast es von mir genommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>::ssss::, seufzt Oom. In geistesabwesenden Spiralen ziehen seine Tentakel die Konturen des Bodens nach.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

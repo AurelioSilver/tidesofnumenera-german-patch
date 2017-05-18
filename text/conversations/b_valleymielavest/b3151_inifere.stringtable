@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3151_inifere</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>286</EntryCount>
+  <EntryCount>287</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1831,6 +1831,13 @@ Dann fasst er sich wieder, aber dir entgeht nicht, dass er alle paar Sekunden ei
     <Entry>
       <ID>319</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Und in Begleitung von einem der Spielzeuge unseres Vaters.", sagt er, während er Oom ansieht. "Mit der Zeit macht er sie alle kaputt. Dieses würde dir das bestätigen, könnte es sprechen."
+
+ Das tut Oom nicht, aber sein pupillenloser Blick wirkt dennoch abwesend.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

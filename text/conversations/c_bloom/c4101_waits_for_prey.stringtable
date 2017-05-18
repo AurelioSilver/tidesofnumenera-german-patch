@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4101_waits_for_prey</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>186</EntryCount>
+  <EntryCount>187</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -952,6 +952,13 @@ Seine Stimme ertönt aus dem Kopf und hallt dabei viel weniger als zuvor. "Ich h
     <Entry>
       <ID>221</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Ooms Blick schweift über den Boden, dann hebt er sich wieder.
+
+ ::frrrt::, sagt es.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

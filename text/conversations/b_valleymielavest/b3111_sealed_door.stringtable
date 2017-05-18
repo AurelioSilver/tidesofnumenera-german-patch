@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3111_sealed_door</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>28</EntryCount>
+  <EntryCount>29</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -148,6 +148,11 @@
     <Entry>
       <ID>28</ID>
       <DefaultText>Das lichtdurchlässige Material bedeckt sofort wieder die Lücke, die du geöffnet. Außerdem verhärtet es sich, sodass du es nicht mehr aufbrechen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>::ssrrrss::, grummelt Oom verständnisvoll.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

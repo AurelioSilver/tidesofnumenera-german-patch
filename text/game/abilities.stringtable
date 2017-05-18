@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1367</EntryCount>
+  <EntryCount>1422</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -6756,72 +6756,72 @@
     </Entry>
     <Entry>
       <ID>1351</ID>
-      <DefaultText />
+      <DefaultText>Glorp</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1352</ID>
-      <DefaultText />
+      <DefaultText>Glorp-Meisterschaft</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1353</ID>
-      <DefaultText />
+      <DefaultText>Kontaktrüstung-Meisterschaft</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1354</ID>
-      <DefaultText />
+      <DefaultText>Kontaktrüstung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1355</ID>
-      <DefaultText />
+      <DefaultText>Oom-Verstärkung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1356</ID>
-      <DefaultText />
+      <DefaultText>Kontaktrüstung entfernen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1357</ID>
-      <DefaultText />
+      <DefaultText>Gezeitenverstärktes Glorp</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1358</ID>
-      <DefaultText />
+      <DefaultText>Oom-gesteigerte Gezeitenerkenntnis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1359</ID>
-      <DefaultText />
+      <DefaultText>Gefaltete Neuausrichtung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1360</ID>
-      <DefaultText />
+      <DefaultText>Gezeitenverstärkte Kontaktrüstung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1361</ID>
-      <DefaultText />
+      <DefaultText>Gezeitenverstärktes Splurtsch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1362</ID>
-      <DefaultText />
+      <DefaultText>Trainierte Kontaktrüstung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1363</ID>
-      <DefaultText />
+      <DefaultText>Trainiertes Splurtsch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1364</ID>
-      <DefaultText />
+      <DefaultText>Splurtsch-Meisterschaft</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6831,12 +6831,287 @@
     </Entry>
     <Entry>
       <ID>1366</ID>
-      <DefaultText />
+      <DefaultText>Splurtsch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1367</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1368</ID>
+      <DefaultText>Erhöht die Trainingsstufe des Letzten Verstoßenen in einer von Ooms Gezeitenausrichtung abhängigen Fertigkeit.\n\nGegenwärtige Ausrichtung:\n[CurrentBonus]\n\nMögliche Ausrichtungen:\n-[Color: TideIdealist]Idealist[/Color]: [SkillIdealist]\n-[Color: TideBlue]Blau[/Color]: [SkillBlue]\n-[Color: TideRed]Rot[/Color]: [SkillRed]\n-[Color: TideIndigo]Indigo[/Color]: [SkillIndigo]\n-[Color: TideGold]Golden[/Color]: [SkillGold]\n-[Color: TideSilver]Silbern[/Color]: [SkillSilver]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1369</ID>
+      <DefaultText>{0} – [Color: PositiveModifier]{1}, Trainingsstufe +{2}[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1370</ID>
+      <DefaultText>Offenbart die Gezeiteneffekte von Dialogoptionen und die Reaktionen abhängig von deinen vorherrschenden Gezeiten in Gesprächen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1371</ID>
+      <DefaultText>Ermöglicht es Oom, sich auf 2 Gezeiten gleichzeitig auszurichten und alle zugehörigen Boni von beiden zu nutzen. Wenn der Letzte Verstoßene nur 1 vorherrschende Gezeit besitzt oder Oom nur auf 1 ausrichtet, werden deren Effekte verstärkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1372</ID>
+      <DefaultText>Neuausrichtung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1373</ID>
+      <DefaultText>Du kannst dich entscheiden, Oom auf 1 der vorherrschenden Gezeiten des Letzten Verstoßenen auszurichten. Das verändert Ooms Aussehen und beeinflusst die Boni, die viele von Ooms Fähigkeiten einbringen.\n\nOoms Ausrichtung kann jederzeit durch ein Gespräch mit ihm geändert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1374</ID>
+      <DefaultText>Oom legt einen Teil seines Körpers um einen Verbündeten und bietet ihm so Schutz, schwächt sich selbst dadurch jedoch. In diesem Zustand kann Oom weder bei Aufgaben in Gesprächen helfen noch &lt;quad class="action"&gt;Aktionen in Krisen nutzen. Durch Nutzung der Fähigkeit 'Kontaktrüstung entfernen' kehren Oom und das Ziel in den Normalzustand zurück.\n\nDas Ziel erhält [FettleIcon: Buff]Kontaktrüstung ([FettleInfo]).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1375</ID>
+      <DefaultText>- [Color: TideIdealist]Idealist[/Color]: +{0} % kritische Erfolgschance bei allen Aufgaben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1376</ID>
+      <DefaultText>- [Color: TideBlue]Blau[/Color]: +{0} &lt;quad class="resistance"&gt;Widerstand, +{1} Schaden mit Cyphern, +{2} Heilung durch Cyphern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1377</ID>
+      <DefaultText>Zusätzliche Boni durch Gezeitenausrichtung:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1378</ID>
+      <DefaultText>- [Color: TideRed]Rot[/Color]: +{0} [Color: Speed]Geschwindigkeit[/Color], +{1} % Bewegungsrate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1379</ID>
+      <DefaultText>- [Color: TideIndigo]Indigo[/Color]: +{0} [Color: Health]Gesundheit[/Color], +{1} Initiative</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1380</ID>
+      <DefaultText>- [Color: TideGold]Golden[/Color]: +{0} Trainingsstufe in Heilung, +{1} &lt;quad class="armor"&gt;Rüstung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1381</ID>
+      <DefaultText>- [Color: TideSilver]Silbern[/Color]: +{0} [Color: Might]Macht[/Color], +{1} % &lt;quad class="willpower"&gt;[Color: Intellect]Willenskraft[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1382</ID>
+      <DefaultText>Oom gestaltet sich um und kehrt zu seiner normalen Form zurück. Entfernt den Zustand 'Kontaktrüstung' von Oom und dem Ziel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1383</ID>
+      <DefaultText>Wenn Oom einen [FettleIcon: Buff]positiven Zustand erhält, weil es eine Fähigkeit oder einen Gegenstand auf sich selbst anwendet, erhält der Letzte Verstoßene denselben Zustand für dieselbe Dauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1384</ID>
+      <DefaultText>Wenn dieser Effekt ausgelöst wird, erhält der Letzte Verstoßene abhängig von Ooms Gezeitenausrichtung zusätzliche Effekte. Gegenwärtige Ausrichtungsboni:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1385</ID>
+      <DefaultText>Verbessert Splurtsch, Ooms Standardangriff, mit [Color: PositiveModifier]+[Accuracy] % Trefferchance, [Color: Damage]+[DmgBonus] Schaden[/Color][/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1386</ID>
+      <DefaultText>Splurtsch, Ooms Standardangriff, erhält [Color: PositiveModifier]+[Accuracy] % Trefferchance[/Color] und [Color: PositiveModifier]+[DmgBonus] Schaden pro Anstrengungsstufe[/Color].\n\nAußerdem erhält er zusätzliche Effekte abhängig von Ooms Gezeitenausrichtung:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1387</ID>
+      <DefaultText>- [Color: TideIdealist]Idealist[/Color]: [Color: PositiveModifier]+[Idealist] % Chance auf kritischen Treffer[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1388</ID>
+      <DefaultText>- [Color: TideBlue]Blau[/Color]: [Color: PositiveModifier]+[Blue] % Trefferchance[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1389</ID>
+      <DefaultText>- [Color: TideRed]Rot[/Color]: [Color: PositiveModifier]+[Red] Schaden pro Anstrengungsstufe[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1390</ID>
+      <DefaultText>- [Color: TideIndigo]Indigo[/Color]: Erteilt bei kritischen Treffern [IndigoFettle] ([IndigoFetDesc]). [IndigoDuration].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1391</ID>
+      <DefaultText>- [Color: TideGold]Golden[/Color]: [Color: Heal]Heilt bei kritischen Treffern alle Gruppenmitglieder um [Gold] Gesundheit[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1392</ID>
+      <DefaultText>- [Color: TideSilver]Silbern[/Color]: Erteilt bei kritischen Treffern [SilverFettle] ([SilverFetDesc]). [SilverDuration].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1393</ID>
+      <DefaultText>Wenn Oom auch die Fähigkeit 'Gezeitenverstärktes Splurtsch' besitzt, erhält sein Angriff stattdessen folgende Boni:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1394</ID>
+      <DefaultText>Ooms Standardangriff erhält [Color: PositiveModifier]+[MaxDamage] maximalen Schaden durch Anstrengung[/Color].\n\nAußerdem erhält er zusätzliche Effekte abhängig von Ooms Gezeitenausrichtung:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1395</ID>
+      <DefaultText>Wenn Oom auch die Fähigkeit '[OtherAbility]' oder die Fähigkeit 'Gefaltete Neuausrichtung' besitzt, aber nur auf eine Gezeit ausgerichtet ist, werden diese Boni erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1396</ID>
+      <DefaultText>Da Oom auch die Fähigkeit '[OtherAbility]' oder die Fähigkeit 'Gefaltete Neuausrichtung' besitzt, aber nur auf eine Gezeit ausgerichtet ist, wurden diese Boni erhöht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1397</ID>
+      <DefaultText>Verbessert die durch die Fähigkeit 'Kontaktrüstung' gewährten Effekte. Sie verleiht jetzt:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1398</ID>
+      <DefaultText>Verbessert die durch die Fähigkeit 'Kontaktrüstung' gewährten Effekte abhängig von Ooms Gezeitenausrichtung:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1399</ID>
+      <DefaultText>Verbessert die durch die Fähigkeit 'Glorp' gewährten Effekte abhängig von Ooms Gezeitenausrichtung:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1400</ID>
+      <DefaultText>[Color: Heal]+{0} Heilung durch Cyphern[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1401</ID>
+      <DefaultText>Gegenwärtige Boni durch Gezeitenausrichtung:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1402</ID>
+      <DefaultText>Deine Feinde sind auch Ooms Feinde, und es wird dich verteidigen. Es spuckt ein Stück von sich selbst auf Gegner und regeneriert den Blob innerlich, sobald das Projektil sein Ziel getroffen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1403</ID>
+      <DefaultText>Ooms Körper ist eine Masse aus sanft wogendem Gelee. Es formt Tentakel, um sich fortzubewegen, und passt sich an seine Umgebung an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1404</ID>
+      <DefaultText>Du weißt nicht, was das ist, und nichts in Ooms Repertoire von Bildern kann es dir erklären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1405</ID>
+      <DefaultText>Du glaubst, dass es sich hierbei um eine Art Empfänger oder Umwandler handeln könnte, aber sicher bist du dir nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1406</ID>
+      <DefaultText>Oom kann die Durchlässigkeit seiner Epidermis auf bemerkenswerte Weise verändern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1407</ID>
+      <DefaultText>Die Verbindung zwischen dir und Oom ist so stark, dass du alles, was Oom fühlt, auch fühlen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1408</ID>
+      <DefaultText>Du hast die Gezeitenverbindung zwischen dir und Oom erneut gestärkt, und jetzt kann es die Effekte von Cyphern und Zuständen mit Leichtigkeit teilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1409</ID>
+      <DefaultText>Ooms einhüllendes Fleisch wird mit deinen vorherrschenden Gezeiten besser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1410</ID>
+      <DefaultText>Mit dir wächst auch Oom: Durch dein Studium der Gezeiten ist Oom jetzt auf lange Distanz von großem Wert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1411</ID>
+      <DefaultText>Oom wirft ein Stück von sich aus, das Freunde umhüllt – und besser werden lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1412</ID>
+      <DefaultText>Ooms Anwesenheit schärft und verfeinert deine Fertigkeiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1413</ID>
+      <DefaultText>Wenn Oom fertig damit ist, seine Freunde zu beschützen, absorbiert es seine Kontaktrüstung wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1414</ID>
+      <DefaultText>Du kanalisierst eine deiner vorherrschenden Gezeiten, um Ooms Fähigkeiten zu verbessern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1415</ID>
+      <DefaultText>Du hast die Gezeitenverbindung zwischen dir und Oom gestärkt, und jetzt kann es die Effekte seiner Aktionen besser teilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1416</ID>
+      <DefaultText>Mit Ooms Hilfe kannst du es erkennen, wenn Leute auf deine vorherrschenden Gezeiten reagieren – oder wenn Entscheidungen deine Gezeiten verändern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1417</ID>
+      <DefaultText>Dein meisterlicher Umgang mit den Gezeiten wirkt sich auch auf Oom aus. Es zapft deine Stärke an, um selbst besser zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1418</ID>
+      <DefaultText>Mit der Macht deiner Gezeiten verstärkt, wird Ooms Rüstung effektiver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1419</ID>
+      <DefaultText>Wenn du deine Gezeiten bündelst, kannst du auch Ooms Fähigkeiten verbessern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1420</ID>
+      <DefaultText>Ooms Fähigkeit, seine Begleiter zu beschützen, verbessert sich und erlaubt es dir, schneller zu reagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1421</ID>
+      <DefaultText>Durch sorgfältige Verfeinerung sind Ooms Projektile tödlicher und präziser geworden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1422</ID>
+      <DefaultText>+{0} % kritische Erfolgschance bei allen Aufgaben</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

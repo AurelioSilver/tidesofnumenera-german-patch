@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4101_skaydis_aneen</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>80</EntryCount>
+  <EntryCount>81</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -430,6 +430,11 @@ Sie sieht aus, als wollte sie das Aneen gleich streicheln, besinnt sich dann abe
       <DefaultText>Ein großes, aufgebrachtes Aneen baut sich vor dir auf. Es entblößt seine Zähne und blickt dich lange an, dann scheint es sich eines Besseren zu besinnen.
 
 Du kannst das Zischen der Florstimmen in der Nähe des Tiers hören, doch noch mehr von ihnen sind um seine Besitzerin versammelt, die in der Nähe steht. Die Stimmen scheinen sich auf den Verstand der beiden auszuwirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Ooms Blick springt zwischen dir und Erritis hin und her.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

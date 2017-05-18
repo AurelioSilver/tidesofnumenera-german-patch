@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4101_philethis</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>50</EntryCount>
+  <EntryCount>60</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -268,6 +268,56 @@ Einen Moment später verschwindet er in einem grellen Blitz.</DefaultText>
     <Entry>
       <ID>54</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>::sssssss::, faucht Oom. Wie es scheint, erkennt dein Begleiter den Philetis *ebenfalls*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>::sssssss::, faucht Oom. Wie es scheint, erinnert sich dein Begleiter noch von Sagusklippen an diesen Philetis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Oom, warum kannst du diesen Philetis nicht leiden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>::sssrrrrrll::, schimpft Oom und schlägt mit seinen Tentakeln auf den Boden. ::sssss::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Naresh probiert im Verborgenen von seinen Besuchern und gibt im Gegenzug nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Aufgebracht verschlingt Oom zwei seiner Tentakel zu einem Knoten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Bist du wütend, weil die Kreatur dich verwirrt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Oom, du benimmst dich albern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>::mmrrr::, grummelt Oom, und obwohl du spürst, dass das nicht *ganz* stimmt, scheint dein Begleiter vorerst besänftigt zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>::ssss::, sagt Oom, und mit einer Bewegung, als würde es tief Luft holen, um sich zu beruhigen, schwillt es an und wendet sich von dem Philetis ab.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

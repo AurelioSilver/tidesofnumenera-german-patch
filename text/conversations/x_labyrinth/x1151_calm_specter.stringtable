@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\x_labyrinth\x1151_calm_specter</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>474</EntryCount>
+  <EntryCount>476</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -2404,6 +2404,16 @@ Dahinter befinden sich weitere Scherben – du spürst, wie sie an deinem Geist 
     <Entry>
       <ID>516</ID>
       <DefaultText>"Nimm den Splitter Spiegelglas! Es könnte noch genug Restenergie haben, um das Spiegelbild zu töten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>"Wie ist Oom – in meinen Geist gekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"Das weiß ich nicht.", sagt er und runzelt die Stirn. "Aber es war sicher nicht nur deshalb eingesperrt, weil es ungefragt im Geist anderer Leute auftaucht. Sei vorsichtig."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

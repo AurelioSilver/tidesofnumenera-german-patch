@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3101_blob_of_three</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>107</EntryCount>
+  <EntryCount>110</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -586,6 +586,25 @@
       <ID>112</ID>
       <DefaultText>Das Klümpchen starrt ihn unglaubhaft an. "Du hast die Aura eines Helden und den Verstand eines Trottels. Kann deine Abstammung wahrlich s-s-s-so befleckt sein?“</DefaultText>
       <FemaleText>Das Klümpchen starrt ihn unglaubhaft an. "Du hast die Aura eines Helden und den Verstand eines Trottels. Kann deine Abstammung wahrlich s-s-s-so befleckt sein?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>::sssssss::, sagt Oom und weicht vor der fleischigen Masse zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Sie zucken gleichzeitig zusammen.
+
+ "Fehlerhaft!", faucht das erste Gesicht. "Halb fertig. Überfertig! Es s-s-stellt uns nicht zufrieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Veränderlich.", sagt das erste Gesicht. "Weich und geheimnisvoll. Ein perfekter Vierter."
+
+ Sie greifen nach deinem Begleiter. Oom schlägt die schwabbelige Hand weg.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

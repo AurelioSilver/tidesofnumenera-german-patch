@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\item_a2332_tcgbook</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>93</EntryCount>
+  <EntryCount>94</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -515,6 +515,11 @@ Und der Gesang geht weiter, hoffend, dass es ihr den Frieden bringt und sie eins
     <Entry>
       <ID>98</ID>
       <DefaultText>Das Buch schließt mit einem festen, zufriedenen *Schlag*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Oom berührt nacheinander jedes der Symptome und flüstert dabei vor sich hin. Dann *wiederholt* es die Bewegung und singt dabei eine kleine Melodie.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

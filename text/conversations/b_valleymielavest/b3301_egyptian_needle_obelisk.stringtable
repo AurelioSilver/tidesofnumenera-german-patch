@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3301_egyptian_needle_obelisk</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>45</EntryCount>
+  <EntryCount>46</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -264,6 +264,11 @@ Scheint, als würde der Obelisk doch bedeutsamen Visionen offenbaren.</FemaleTex
       <ID>46</ID>
       <DefaultText>Du erkennst die Frau wieder. Sie ist derselbe Geist, dem du im Fünften Auge begegnet bist, aber du weißt nicht, wovon sie redet.</DefaultText>
       <FemaleText>Du erkennst die Frau wieder. Sie ist derselbe Geist, dem du im Fünften Auge begegnet bist, aber du weißt nicht, wovon sie redet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Oom stöhnt leise. Du hast das Gefühl, es mag nicht, dass du den Obelisken immer wieder berührst.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

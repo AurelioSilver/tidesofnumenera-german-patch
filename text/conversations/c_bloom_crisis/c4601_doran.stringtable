@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom_crisis\c4601_doran</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>142</EntryCount>
+  <EntryCount>143</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -810,6 +810,11 @@ Ein Anflug von Kummer kommt in seinen Augen auf. "Es ist Zeit, in den Besitz dei
     <Entry>
       <ID>153</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>::ssss::, knurrt Oom und betrachtet dich mit einiger Sorge.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

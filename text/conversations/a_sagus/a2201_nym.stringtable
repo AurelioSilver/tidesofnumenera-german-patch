@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_nym</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>74</EntryCount>
+  <EntryCount>78</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -386,6 +386,26 @@ Sie senkt die Stimme zu einem Flüstern. „Wir haben einige Lebensmittel mitgen
     <Entry>
       <ID>82</ID>
       <DefaultText>„Er ist unser Freund, der auf der Straße lebt. Hat er dir nicht seinen Namen genannt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>::mmmm::, singt Oom, offenbar für sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Hm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>::mmmm::, sagt Oom noch einmal hilfsbereit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Oh!", meint Nym und lächelt dich an. "Dein Spielzeug hat eine schöne Stimme."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

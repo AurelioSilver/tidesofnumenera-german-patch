@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2301_master_foreman</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>149</EntryCount>
+  <EntryCount>150</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -813,6 +813,11 @@ Das Feuer in seinen Augen erlischt ein wenig, als er in Gedanken versinkt. "Aber
     <Entry>
       <ID>167</ID>
       <DefaultText>"Ich bin der Oberste Meister", erklärt das Konstrukt. Es klingt als würde es beim Sprechen salutieren. "Der Geist *und* der Wille hinter der Stadt, wie Ihr sie heute vor Euch seht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Das Ausmaß dieser letzten Erklärung kräuselt Ooms Fleisch. Dein Begleiter lehnt sich langsam zurück und seine Augen ziehen sich zusammen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

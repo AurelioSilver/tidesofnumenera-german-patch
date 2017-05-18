@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c6501_final_conversation_callistege</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>39</EntryCount>
+  <EntryCount>40</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -241,6 +241,11 @@ Sie lächelt dich herzlich an, ein einzelnes Bild. Dann schließt sie spielend i
 "Du hast mir viel beigebracht, aber nichts Weiteres, fürchte ich, liegt in unserer gemeinsamen Zukunften. Du solltest wissen, dass ich dankbar bin."
 
 "Für immer." Sie setzt sanft eine Hand auf deinem Arm, und entfernt sie wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Trigger Conv Node 41</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

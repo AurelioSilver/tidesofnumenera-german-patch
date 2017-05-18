@@ -2,16 +2,16 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\a_sagus\quest_servant_of_the_tides</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>29</EntryCount>
+  <EntryCount>30</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText />
+      <DefaultText>Diener der Gezeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText />
+      <DefaultText>Durchsuche das Labyrinth nach dem Wesen, das aus den Spiegeln des Wandelnden Gottes entkommen ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,17 +21,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>Finde Ooms Zweck heraus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>Untersuche die schwebenden Kegel im Riff der Gefallenen Welten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>Sagus verlassen, ohne entdeckt zu haben, was Oom mich sehen lassen wollte (FEHLGESCHLAGEN)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,17 +41,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText />
+      <DefaultText>Lerne von Oom.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText />
+      <DefaultText>Finde mehr über Ooms Vergangenheit heraus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>Erfahre mehr über die Gezeiten und sprich erneut mit Oom.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,22 +61,22 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText />
+      <DefaultText>Ooms letzte Vision miterlebt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText />
+      <DefaultText>Die Flor verlassen, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText />
+      <DefaultText>Ich habe ... etwas aus den Spiegeln bei den Vergrabenen Wegkreuzungen befreit. Jetzt scheint es mich aus meinem eigenen Verstand heraus zu rufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText />
+      <DefaultText>Das formlose Wesen in den Spiegeln hat irgendwie einen Weg in meinen Verstand gefunden. Ich weiß nicht, was es will ... oder ob es eine Gefahr für mich darstellt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,17 +86,17 @@
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText />
+      <DefaultText>Die Kreatur, die ich aus den Spiegeln des Wandelnden Gottes befreit habe, heißt Oom ... ein formloses Wesen mit unbekanntem Zweck, falls es überhaupt einen hat. Vielleicht nützt es mir etwas, es auf meinen Reisen dabeizuhaben und bei Gelegenheit zu untersuchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText />
+      <DefaultText>Bei der Berührung von Ooms Auge hatte ich eine Vision der schwebenden, lachenden Kegel im Riff der Gefallenen Welten. Ooms Absichten sind nach wie vor unklar, aber wenn ich das Wesen verstehen möchte, sollte ich tun, worum es mich zu bitten scheint.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText />
+      <DefaultText>Ich habe Sagus-Klippen verlassen, ohne zu erforschen, aus welchem geheimnisvollen Grund Oom sich mir angeschlossen hat. Jetzt werde ich vielleicht nie entdecken, was es mir zeigen wollte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,17 +106,19 @@
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText />
+      <DefaultText>Oom hat mir eine Vision des Kummers beschert, als ich die schwebenden Kegel im Riff der Gefallenen Welten berührte. Ich spüre, dass es bereit ist, mir etwas Neues zu zeigen. Vielleicht sollte ich die Augen des Wesens erneut untersuchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText />
+      <DefaultText>Oom gewährte mir eine Vision seiner langen Gefangenschaft und Folter durch den Wandelnden Gott. Anscheinend möchte es mich ermutigen, meine Affinität zu den Gezeiten zu stärken, bevor ich mehr erfahren kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10010</ID>
-      <DefaultText />
+      <DefaultText>Oom zeigte mir eine weitere seiner Erinnerungen: Es war lange von unbekannten Fängern eingesperrt und ich habe den Moment gesehen, als der Wandelnde Gott erstmals von den Gezeiten erfuhr.
+
+Anscheinend möchte das Wesen, dass ich meine Gezeitenaffinität weiter verbessere, aber diesmal nicht mit Hilfe eines Verstoßenen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,27 +128,32 @@
     </Entry>
     <Entry>
       <ID>10012</ID>
-      <DefaultText />
+      <DefaultText>Ich habe den Ort gesehen, an dem Oom geboren – oder hergestellt – wurde. Er wurde vor unzähligen Jahren zerstört, und Oom hat all diese Zeit überlebt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10013</ID>
-      <DefaultText />
+      <DefaultText>Ich bin nicht mehr in der Flor. Welche Geheimnisse auch immer Oom mit mir teilen wollte, sie werden warten müssen. Vielleicht für immer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText />
+      <DefaultText>Die Verstoßene Tol Maguur hat mir beigebracht, die Gezeiten zu kanalisieren. Das sollte genügen, um weitere Informationen von Oom zu erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText />
+      <DefaultText>Der Verstoßene Melmoth hat mir beigebracht, die Gezeiten zu kanalisieren. Das sollte genügen, um weitere Informationen von Oom zu erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText />
+      <DefaultText>Ein Wesen namens Kwherezimian hat mir mehr über die Gezeiten beigebracht. Vielleicht ist Oom jetzt bereit, mehr von seinem Wissen zu teilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe eine Vision der Person gehabt, mit der ich reden sollte. Es ist ein Wesen von jenseits dieser Realität, erschlossen durch ein Tor im Körper eines Mannes.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

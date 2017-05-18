@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3301_elkeshai</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>81</EntryCount>
+  <EntryCount>82</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -451,6 +451,11 @@ Er schließt seinen Mund und sagt nicht weiteres zum Thema.</DefaultText>
     <Entry>
       <ID>86</ID>
       <DefaultText>Sie betrachtet sein Gesicht und kommt zu einer Schlussfolgerung. "Ich kenne ihn nicht,“ murmelt sie zu dir. "Er ist ein neuerer Verstoßener. Zumindest innerhalb des letzten Jahrhunderts. Sieht aus, als ob er schlimmer ausgenutzt wurde, als der Rest von uns.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Ooms Augen funkeln, während die Gezeiten zwischen dir und dem Verstoßenen fließen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

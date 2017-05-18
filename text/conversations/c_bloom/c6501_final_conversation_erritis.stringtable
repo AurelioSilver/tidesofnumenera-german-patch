@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c6501_final_conversation_erritis</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>9</EntryCount>
+  <EntryCount>10</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -48,6 +48,11 @@
       <ID>10</ID>
       <DefaultText>{unhappy}Die Welt ist wahnsinnig geworden. Ich kann es so laut hören ... was ist zu tun, wenn sich die Welt um dich rum wild kippt?{new hope} Na ja, man setzt sie wieder aufrecht, damit man es ein zweites Mal drehen kann."  </DefaultText>
       <FemaleText> </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Trigger Conv Node 12</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

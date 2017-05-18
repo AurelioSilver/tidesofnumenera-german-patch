@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_tol_maguur</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>446</EntryCount>
+  <EntryCount>448</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -2359,12 +2359,26 @@ Sie sieh aus, als ob sie gleich mehr sagt… dann spuckt sie dir ins Gesicht. �
     </Entry>
     <Entry>
       <ID>534</ID>
-      <DefaultText />
+      <DefaultText>::mmmm::, murmelt Oom an deiner Seite. Seine Augen leuchten. Weiten sich. Plötzlich verspürst du den Drang, sie erneut zu berühren.
+
+Du unterdrückst das Verlangen und wendest deine Aufmerksamkeit wieder Tol zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>535</ID>
-      <DefaultText />
+      <DefaultText>::mmmm::, murmelt Oom an deiner Seite. Seine Augen leuchten. Weiten sich. Plötzlich verspürst du den Drang, sie zu berühren.
+
+Du unterdrückst das Verlangen und wendest deine Aufmerksamkeit wieder Tol zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>::hrml::, gluckst Oom leise. Tol bemerkt es nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>Oom macht kein Geräusch, aber du spürst eine plötzliche Leere in dem Teil deines Verstands, den es bewohnt. Sein Blick huscht zwischen dir und Rhin hin und her, und seine Augen werden immer größer.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

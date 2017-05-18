@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2301_the_crippled_foreman</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>126</EntryCount>
+  <EntryCount>128</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -726,6 +726,16 @@ Woraufhin es verstummt. Die Kinder beobachten den Tod ihres Elternteils mit weit
       <ID>134</ID>
       <DefaultText>"Meine Fehler studieren", sagt das Konstrukt sanft. "Trauern."</DefaultText>
       <FemaleText>"Meine Fehler studieren", sagt das Konstrukt sanft. "Trauern."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>::sssssrr::, flüstert Oom und sieht weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>::mmm::, sagt Oom und sieht ihnen nach.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

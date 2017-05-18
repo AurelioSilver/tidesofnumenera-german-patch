@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a1101_resonance_chamber</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>45</EntryCount>
+  <EntryCount>46</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -243,6 +243,11 @@ Dein Blick wandert vom Sarkophag zu den Nadelenden der Arme über dir. Diese Kam
     <Entry>
       <ID>46</ID>
       <DefaultText>Der Ring scheint ein Kraftfeld, eine Art Schutzschild, rund um den Sarkophag zu projizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>::ssss::, murmelt Oom und stupst sie an. Nichts geschieht.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

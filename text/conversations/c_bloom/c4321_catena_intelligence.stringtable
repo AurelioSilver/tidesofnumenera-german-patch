@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4321_catena_intelligence</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>115</EntryCount>
+  <EntryCount>116</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -636,6 +636,11 @@ Zwischen ihren Stimmen erklingt ein stärkerer Unterton, ein Ultraschallpuls, de
     <Entry>
       <ID>128</ID>
       <DefaultText>Du öffnest das Gehäuse und legst eine einzelne, funktionale Energiequelle frei. Die anderen sind still und tot. Du untersuchst die aktive Energiequelle genauer und eine plötzliche Verschiebung deiner Perspektive hinterlässt eine Übelkeit in dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Du spürst Oom zurückzucken – neben dir, in deinem Kopf oder an beiden Stellen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

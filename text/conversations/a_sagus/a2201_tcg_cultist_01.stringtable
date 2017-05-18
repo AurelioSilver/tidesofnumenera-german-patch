@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_tcg_cultist_01</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>91</EntryCount>
+  <EntryCount>92</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -492,6 +492,11 @@ Sie räuspert sich. „Nun, abgemacht ist abgemacht.“</DefaultText>
       <ID>98</ID>
       <DefaultText>„Ich wünsche, dich nachzuahmen, Heiliger. Nicht, dich zu verehren.“</DefaultText>
       <FemaleText>„Ich wünsche, dich nachzuahmen, Heilige. Nicht, dich zu verehren.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

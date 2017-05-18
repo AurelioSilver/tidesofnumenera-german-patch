@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_oom_stage2</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>30</EntryCount>
+  <EntryCount>37</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
+      <DefaultText>Oom summt vor sich hin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>Oom berührt mit einem Tentakel zögerlich den Boden – ganz so, als würde es erwarten zu verschwinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>Ein trockenes Blatt fliegt an Oom vorbei und die Kreatur bleibt stehen, um fasziniert dem Blatt hinterherzuschauen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>"Reden wir über unsere Begleiter."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText />
+      <DefaultText>"Ich glaube, wir sollten uns vorerst trennen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText />
+      <DefaultText>"Was weißt du über Sagusklippen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText />
+      <DefaultText>"Darf ich dich untersuchen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>"Ich möchte dich noch mal untersuchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>"Ich möchte dich etwas fragen, Oom."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>"Ich habe einige weitere Fragen an dich, Oom."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,17 +116,21 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText />
+      <DefaultText>Oom dreht sich langsam im Kreis und schaut sich die Umgebung an, bevor sein Blick wieder bei dir landet.
+ 
+ ::ssrprl::, sagt es, und es bilden sich Wellen auf seinem Körper, als hättest du einen Stein hineingeworfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText />
+      <DefaultText>::srlk::, sagt Oom. Es streckt einen zitternden Tentakel aus und zeigt auf die sich drehenden, lachenden Kegel in der Ferne. Die, die du auch gesehen hast, als du Ooms Augen berührt hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText />
+      <DefaultText>Dann schaut es zu dir auf und seine Gedanken *überfluten* deinen Geist. Deine Gabe ist sogleich überfordert: Das sind keine Worte oder Symbole, keine Sprache, die du erkennst. Sie haben ... sie haben ... ein Bewusstsein. Ihnen ist bewusst, dass sie Gedanken sind und dass sie in deinem Kopf sind.
+
+ Im Augenblick dieser Erkenntnis erwachen sie in deinem Geist und organisieren *deine* Gedanken zu Bildern um, die dir mitteilen, was das Wesen denkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,12 +150,47 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText />
+      <DefaultText>"Verändern wir deine Gestalt, Oom."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText />
+      <DefaultText>"Ich möchte noch mal deine Gestalt verändern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Gehen wir weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>::mmrm::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>::rrlrmm::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wieso führst du mich hierher zurück?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich habe jetzt keine Zeit dafür."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Oom antwortet nicht. Stattdessen schaut es dich bittend an und zieht den Tentakel dann mit einem sanften *slrp* in seinen Körper zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Ooms Augen fallen in sich zusammen, bis sie nur noch schwach leuchtende Kreise sind, aber die Kreatur bleibt stumm.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

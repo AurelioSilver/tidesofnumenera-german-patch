@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_jherem</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>187</EntryCount>
+  <EntryCount>188</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -979,6 +979,11 @@ Er macht eine Pause und reibt sich die plötzlich feuchten Augen. „Ich versuch
       <DefaultText>Jherem zögert und schaut abwechselnd zu seinen Adoptiveltern und euch beiden. Schließlich gibt er auf.
 
 „Also gut. Ich schätze mal, ich kann es dir sagen. Aber du sagst es nicht weiter, ja?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Oom gluckert finster vor sich hin und sieht dich nicht an.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

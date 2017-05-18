@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2623_damaged_peerless_drone</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>50</EntryCount>
+  <EntryCount>52</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -268,6 +268,16 @@ Ein gelbes Licht leuchtet auf der Oberfläche des Konstrukts. "Jetzt höre auf, 
     <Entry>
       <ID>54</ID>
       <DefaultText>Die Hülle der Drohne hält deinem Angriff stand. "Schwach, wie alle Fleischläufer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>::ssss::, knurrt Oom und sieht das Konstrukt mit spürbarer Abneigung an.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

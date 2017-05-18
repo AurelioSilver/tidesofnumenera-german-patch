@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_oom_outofparty</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>64</EntryCount>
+  <EntryCount>66</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -11,12 +11,16 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>Das ist die Kreatur, die du aus den Spiegeln des Wandelnden Gotts befreit hast. Du erkennst sie ebenso schnell wie dein eigenes Gesicht.
+ 
+ Leuchtende Scheiben treiben in der formlosen Masse umher, bleiben aber zusammen, wie ein Paar Augen. Vielleicht sind es tatsächlich Augen.
+ 
+ Sie steigen nach oben und tauchen dich in ihr Leuchten, dann überkommen dich die Erinnerungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>Ooms bleiche, leuchtende, blumenartige Augen weiten – oder entfalten – sich, als du dich näherst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,67 +30,77 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText />
+      <DefaultText>"Das ist mein Verstand, und ich möchte, dass du von dort verschwindest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText />
+      <DefaultText>::brlk::, erklärt dir Oom – oder versucht es zumindest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>"Wie bist du in meinen Kopf gekommen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>Dir sind die Augen verbunden. Du spürst den groben Stoff vor deinen Augen, und die Fassung der Linse – das Gefängnis dieser Kreatur – in deinen Händen. Sie schüttelt sich und versucht, sich zu befreien. Du spürst ihre Angst, ihre Frustration, ihren Schmerz.
+ 
+ Du kannst es dir nicht erklären. Selbst nach allem, was du der Kreatur angetan hast, will sie dir noch immer dienen.
+ 
+ Du lässt die Linse los und schiebst sie mit deinem Geist an die Spitze der Anordnung. Im Moment kannst du nichts mit ihr anfangen – aber vielleicht ändert sich das ja noch?
+ 
+ Dann bricht die Erinnerung zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText />
+      <DefaultText>Mit diesem Geräusch strömen Gedanken durch deinen Geist, und deine Gabe ist sogleich überfordert: Das sind keine Worte oder Symbole, keine Sprache, die du erkennst. Sie haben ... sie haben ... ein Bewusstsein. Ihnen ist bewusst, dass sie Gedanken sind und dass sie in deinem Kopf sind.
+
+ Im Augenblick dieser Erkenntnis erwachen sie in deinem Geist und organisieren *deine* Gedanken zu Bildern um, die dir vermitteln, was das Wesen denkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText />
+      <DefaultText>::blrb::, sagt Oom, anscheinend durch einen versteckten Mund. Das Geräusch ist schwer und klingt feucht, aber nicht unfreundlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText />
+      <DefaultText>::srssrs::, zischt Oom und schaudert – so sieht es zumindest aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText />
+      <DefaultText>Es ist nicht ganz klar, ob du die Geräusche richtig deutest oder doch eher gefährliche Annahmen triffst.
+ 
+ Ooms Augen schauen dich an und verändern sich dabei ständig. Du kannst ein seltsames Geräusch in der Dunkelheit darüber hören ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText />
+      <DefaultText>::mrmmrmm::, sagt Oom und scheint dir damit zuzustimmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText />
+      <DefaultText>"Du hast ein Gefängnis gegen ein anderes eingetauscht. Das ist ungerecht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText />
+      <DefaultText>"Du bist ein hübsches kleines Ding, was?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>"Ich werde einen Weg finden, dich zu befreien."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText />
+      <DefaultText>"Was war das für ein Geräusch, das ich gehört habe, als du mich vorhin angesehen hast? Wieso haben deine Augen eine andere Farbe angenommen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,37 +110,47 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>Das Rascheln von Seiten, die umgeblättert werden. Erinnerungen strömen durch deinen Geist, angetrieben von deiner unersättlichen Neugier.
+ 
+ Ooms große Augen blitzen kurz blau auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>Das Schlagen eines riesigen Herzens. Mit jedem Schlag dringen Erinnerungen in deinen Geist, erfüllt von Emotionen, die du zu diesem Zeitpunkt verspürt hast.
+ 
+ Ooms große Augen blitzen kurz rot auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>Das Flüstern zahlloser Stimmen. Du versuchst, die Worte auszumachen, so, wie du es immer in deinem kurzen Leben getan hast, aber du kannst nur die Verzweiflung in den Stimmen spüren – und ihr Verlangen, gehört zu werden.
+ 
+ Ooms große Augen blitzen kurz in einem intensiven Indigo auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>Das Knistern einer Flamme – *der* Flamme in dir, die dein Herz wärmt, wenn du das Leiden anderer hörst, und die dich dazu antreibt, alles zu opfern, um diesen anderen zu helfen.
+ 
+ Ooms große Augen blitzen kurz in einem funkelnden Gold auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>Das Donnern einer jubelnden Menge. Unbewusst fängst du an zu lächeln. Genau *dafür* hast du dein kurzes Leben lang gearbeitet. Das ist es, was du hören willst.
+ 
+ Ooms große Augen blitzen kurz in einem leuchtenden Silber auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText />
+      <DefaultText>::mmmmm::, sagt Oom. Es scheint zufrieden zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText />
+      <DefaultText>::rrrmm::, sagt Oom glücklich. Oder zumindest glaubst du, dass es glücklich ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,47 +160,49 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText />
+      <DefaultText>"Was für eine Art von Kreatur bist du eigentlich?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText />
+      <DefaultText>"Kannst du mir sonst noch etwas darüber sagen, was du bist?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText />
+      <DefaultText>"Bis später."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText />
+      <DefaultText>Das Geräusch verstummt. Oom starrt dich wartend an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText />
+      <DefaultText>::flrsk::, erklärt Oom und streckt einen kleinen Tentakel in Richtung deines Knöchels aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText />
+      <DefaultText>Es dich berühren lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText />
+      <DefaultText>Deinen Fuß wegziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText />
+      <DefaultText>Der Tentakel legt sich um deinen Knöchel. Er fühlt sich kalt und trocken an, sonst passiert aber nichts weiter. Offenbar wollte Oom dich nur umarmen.
+ 
+ Schließlich lässt dich Oom wieder los, tippt dir kurz auf den Fuß und absorbiert den Tentakel dann mit einem leisen *Plopp*.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText />
+      <DefaultText>Du hebst deinen Fuß über den suchenden Tentakel, den Oom kurz darauf wieder in seinen Körper zieht. Seine Augen verengen sich und es mustert dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,22 +212,24 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText />
+      <DefaultText>"Du bist kein Spiegelbild, oder? Du kannst meinen Geist mit mir verlassen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText />
+      <DefaultText>"Möchtest du mich begleiten?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText />
+      <DefaultText>Eine Weile sagt Oom gar nichts, sondern schaut dich nur an. Du rechnest schon nicht mehr mit einer Reaktion, da steigt plötzlich eine Blase im Innern von Ooms Körper auf und teilt sich. Die beiden Hälften verschmelzen wieder und teilen sich erneut, dieses Mal in drei Blasen. Dann verschmelzen sie, vierteln sich, verschmelzen wieder und werden schließlich zu fünf Blasen.
+ 
+ Aus den Blasen dringen sanfte Lichter, die in den Farben der Gezeiten leuchten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText />
+      <DefaultText>::sklk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,17 +239,21 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText />
+      <DefaultText>::mrlk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText />
+      <DefaultText>Urplötzlich beginnen die Blasen zu tanzen, schneller, als du sie mit dem Auge verfolgen kannst. Langsam wird ihr Leuchten zu einem perfekten Kreis. Einer Säule. Einer Form, die deine Augen schmerzen lässt. Einem Strudel. 
+ 
+ Dann platzen die Blasen auf einmal und es sind nur noch Ooms leuchtende Augen zu sehen, die dich beobachten.
+ 
+ ::blrk::, sagt es und verstummt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText />
+      <DefaultText>::flk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,12 +273,16 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText />
+      <DefaultText>Tentakel scheinen dich hinter den Augen zu kitzeln. Bilder von Leuten, die dich bereits begleiten, tauchen in deinem Kopf auf.
+ 
+ ::ssssrl::, flüstert Oom schließlich verlegen, während sich seine Augen zusammenziehen. Offenbar will die Kreatur nicht mitkommen, wenn dich schon so viele Leute begleiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText />
+      <DefaultText>::ssssrsl::, murmelt Oom, bewegt sich aber nicht.
+ 
+ Du spürst wieder, dass die Kreatur nicht mit all den anderen reisen möchte, die du um dich geschart hast. Offenbar wirst du jemanden – zumindest für eine Weile – zurücklassen müssen, wenn du Oom mitnehmen willst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +292,9 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText />
+      <DefaultText>::mmrmrmm::, antwortet Oom und stürzt auf dich zu. Instinktiv blinzelst du und die Kreatur ist verschwunden.
+ 
+ Du spürst aber weiterhin den ... Druck ihrer Anwesenheit um dich herum. Vielleicht wartet sie, dass du wieder nach draußen in die Welt zurückkehrst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +304,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText />
+      <DefaultText>::prp::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -322,6 +360,16 @@
     <Entry>
       <ID>70</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>::mmm::, sagt das Wesen und verschwindet vor deinen Augen. Es dürfte dich in der Welt draußen erwarten, so wie zuvor auch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Die Kreatur – "Oom", flüstert dein Geist – starrt dich mit ihren Augen an, die wie strahlende, aufblühende Blumen aussehen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
