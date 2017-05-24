@@ -266,16 +266,14 @@ Seine Augen weiten sich, bis sie den ganzen Raum ausfüllen, deine ganze Sicht, 
     <Entry>
       <ID>56</ID>
       <DefaultText>"Ich bin hier, um den letzten Eintrittsversuch der Feinde zu sehen. Ich bin hier, um Leto eine Vision anzubieten."</DefaultText>
-      <FemaleText>"Ich bin hier, um den letzten Eintrittsversuch der Feinde zu sehen. Ich bin hier, um Leto eine Vision anzubieten."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
       <DefaultText>Licht umhüllt dich, und als du die Augen öffnest, ist O verschwunden.
 
 {SCRIPT: Give permanent useful Fettle, or stat boost, or something.}</DefaultText>
-      <FemaleText>Licht umhüllt dich, und als du die Augen öffnest, ist O verschwunden.
-
-{SCRIPT: Give permanent useful Fettle, or stat boost, or something.}</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
