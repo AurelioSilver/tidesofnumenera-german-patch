@@ -79,7 +79,7 @@ Ihre Tischgenossen beginnen zu lachen. Sie nimmt die Hände wieder weg. "Ich kan
     <Entry>
       <ID>15</ID>
       <DefaultText>"Ich glaube, es ist Dhama."</DefaultText>
-      <FemaleText>"Ich glaube, es ist Dhama."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -514,21 +514,17 @@ Sie setzt den neuen Augenstiel in das Loch. Er rastet ein und ein interner Mecha
 "Entschuldigung. Das Spiel hat Spaß gemacht ... bis wir verloren ..."
 
 Sie schließt die Augen. "Du willst etwas über Feriok erfahren?"</DefaultText>
-      <FemaleText>Sie schaut dich begriffsstutzig an. "Es war Feriok. Ich habe ihn erschaffen." Sie zieht eine Linie durch eine verschüttete Flüssigkeit.
-
-"Entschuldigung. Das Spiel hat Spaß gemacht ... bis wir verloren ..."
-
-Sie schließt die Augen. "Du willst etwas über Feriok erfahren?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
       <DefaultText>Ihr Blick ist streng. "Wir bereiten uns auf eine Konfrontation mit einem Feind vor. Bitte unterbrich mich nicht. Wenn du helfen möchtest, sprich mit Dhama."</DefaultText>
-      <FemaleText>Ihr Blick ist streng. "Wir bereiten uns auf eine Konfrontation mit einem Feind vor. Bitte unterbrich mich nicht. Wenn du helfen möchtest, sprich mit Dhama."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
       <DefaultText>"Uns steht die Vernichtung bevor."</DefaultText>
-      <FemaleText>"Uns steht die Vernichtung bevor."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
