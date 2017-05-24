@@ -209,12 +209,12 @@ Er strengt sich an. "Besser, ich ... spreche nicht ... über Gefahr."</Default
     <Entry>
       <ID>46</ID>
       <DefaultText>"Was ist ein Abykos?"</DefaultText>
-      <FemaleText>"Was ist ein Abykos?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>"Kannst du mir nochmal sagen, was ein Abykos ist?"</DefaultText>
-      <FemaleText>"Kannst du mir nochmal sagen, was ein Abykos ist?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -224,17 +224,17 @@ Er strengt sich an. "Besser, ich ... spreche nicht ... über Gefahr."</Default
     <Entry>
       <ID>49</ID>
       <DefaultText>"Ein Geist. Transdimensional. Er *frisst*. Ich ... Ich schaue nur zu. Schaue zu und lerne."</DefaultText>
-      <FemaleText>"Ein Geist. Transdimensional. Er *frisst*. Ich ... Ich schaue nur zu. Schaue zu und lerne."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>"Er ist ... ein Fresser. Ein *Jäger*. Nicht von dieser Welt. Nicht aus dieser ... *Zeit*."</DefaultText>
-      <FemaleText>"Er ist ... ein Fresser. Ein *Jäger*. Nicht von dieser Welt. Nicht aus dieser ... *Zeit*."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>Die zarte Gestalt von Ysg zittert und flattert, als wäre sie in einer unsichtbaren Brise gefangen, die durch die Zeit weht.</DefaultText>
-      <FemaleText>Die zarte Gestalt von Ysg zittert und flattert, als wäre sie in einer unsichtbaren Brise gefangen, die durch die Zeit weht.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
