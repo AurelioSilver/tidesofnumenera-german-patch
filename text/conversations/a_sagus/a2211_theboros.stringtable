@@ -934,7 +934,7 @@ Er lacht. "Was ich eigentlich damit sagen will: Ich bin nicht Ziobes Projektion.
     <Entry>
       <ID>188</ID>
       <DefaultText>Der Geist dieses Mannes ist vor dir verschlossen, als würdest du versuchen, die Gedanken eines Buches zu lesen, das zugeklebt worden ist.</DefaultText>
-      <FemaleText>Der Geist dieses Mannes ist vor dir verschlossen, als würdest du versuchen, die Gedanken eines Buches zu lesen, das zugeklebt worden ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
@@ -944,12 +944,12 @@ Er lacht. "Was ich eigentlich damit sagen will: Ich bin nicht Ziobes Projektion.
     <Entry>
       <ID>190</ID>
       <DefaultText>"Was könnt Ihr mir über die Feinde sagen?"</DefaultText>
-      <FemaleText>"Was kannst du mir über die Feinde sagen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
       <DefaultText>"Erzählt mir nochmal von den Feinden."</DefaultText>
-      <FemaleText>"Erzähl mir nochmal von den Feinden."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
@@ -961,9 +961,7 @@ Er lacht. "Was ich eigentlich damit sagen will: Ich bin nicht Ziobes Projektion.
       <DefaultText>Seine Augen verengen sich und er lehnt sich weiter vor. "Ich will sie nicht anpreisen. Es ist wichtig, zu verstehen, dass sie nicht unbesiegbar sind, dass sie nicht unsterblich sind. Sie sind zäh, zur Hölle noch mal, ja, aber man kann sie aufhalten."
 
 Er lehnt sich zurück. "Dennoch ... was sind sie? Habt Ihr von Geistern gehört, von Wesen, die aus puren Gedanken bestehen? Das ist es, was sie sind. Nur, dass sie eher wie lebendiger Hass sind. Wie jede albtraumhafte Angst, der man nicht entkommen kann. Ein Wirbel der Verzweiflung. Und deshalb kämpfen wir ... weil sie *Gift* sind."</DefaultText>
-      <FemaleText>Seine Augen verengen sich und er lehnt sich weiter vor. "Ich will sie nicht anpreisen. Es ist wichtig, zu verstehen, dass sie nicht unbesiegbar sind, dass sie nicht unsterblich sind. Sie sind zäh, zur Hölle noch mal, ja, aber man kann sie aufhalten."
-
-Er lehnt sich zurück. "Dennoch ... was sind sie? Hast du von Geistern gehört, von Wesen, die aus puren Gedanken bestehen? Das ist es, was sie sind. Nur, dass sie eher wie lebendiger Hass sind. Wie jede albtraumhafte Angst, der du nicht entkommen kannst. Ein Wirbel der Verzweiflung. Und deshalb kämpfen wird ... weil sie *Gift* sind."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
@@ -973,31 +971,29 @@ Er lehnt sich zurück. "Dennoch ... was sind sie? Hast du von Geistern gehört,
     <Entry>
       <ID>195</ID>
       <DefaultText>"Ich möchte nur sehen, wohin das Gespräch geführt hat."</DefaultText>
-      <FemaleText>"Ich möchte nur sehen, wohin das Gespräch geführt hat."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
       <DefaultText>"Ha. Ich mag einen guten Querdenker. So eine Einstellung wird dich weit bringen. Doch hier ist der Punkt dieses ganzen Streits."</DefaultText>
-      <FemaleText>"Ha. Ich mag einen guten Querdenker. So eine Einstellung wird dich weit bringen. Doch hier ist der Punkt dieses ganzen Streits."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
       <DefaultText>"Bis Clarion bereit ist, zu gehen, habe ich vor, so viel wie menschenmöglich zu trinken."</DefaultText>
-      <FemaleText>"Bis Clarion bereit ist, zu gehen, habe ich vor, so viel wie menschenmöglich zu trinken."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
       <DefaultText>"Ich muss Euch sagen, es erleichtert mich sehr, das Wort hier rauszubekommen. Nicht viele Leute könnten es zügeln, also vertraue ich auf Euch. Zur Hölle, die Menschheit hier im Protektorat vertraut auf Euch. Bedenke deine Pflicht." Er nickt. "Es ist eine schwere Bürde, doch ich glaube, du bist der Aufgabe gewachsen."
 
 Er unterdrückt ein Kichern. "Ihr und ich, wir sind jetzt Teil der gleichen Geschichte, was? Ich hoffe, Ihr macht Eure zu einer guten."</DefaultText>
-      <FemaleText>"Ich muss dir sagen, es erleichtert mich sehr, das Wort hier rauszubekommen. Nicht viele Leute könnten es zügeln, also vertraue ich auf dich. Zur Hölle, die Menschheit hier im Protektorat vertraut auf dich. Bedenke deine Pflicht." Er nickt. "Es ist eine schwere Bürde, doch ich glaube, du bist der Aufgabe gewachsen."
-
-Er unterdrückt ein Kichern. "Du und ich, wir sind jetzt Teil der gleichen Geschichte, was? Hoffe, du machst deine zu einer guten."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
       <DefaultText>"Wort-Träger." Er tippt sich an den Hut.</DefaultText>
-      <FemaleText>"Wort-Träger." Er tippt sich an den Hut.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
@@ -1007,22 +1003,22 @@ Er unterdrückt ein Kichern. "Du und ich, wir sind jetzt Teil der gleichen Gesch
     <Entry>
       <ID>204</ID>
       <DefaultText>"Sprich mit Dhama, nicht mit mir."</DefaultText>
-      <FemaleText>"Sprich mit Dhama, nicht mit mir."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
       <DefaultText>Follow-up T. 205</DefaultText>
-      <FemaleText>Follow-up T. 205</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
       <DefaultText>"Habe keine Zeit, um mit dir Worte zu wechseln. Wir suchen nach einem Weg, um diesen Feind aufzuhalten, und wenn du nicht bereit bist, zu helfen, dann geh verdammt nochmal aus dem Weg und lass die Profis ihre Arbeit machen. Wenn du helfen willst, ist deine Hilfe willkommen. Aber ich bin nicht derjenige, mit dem du reden solltest."</DefaultText>
-      <FemaleText>"Habe keine Zeit, um mit dir Worte zu wechseln. Wir suchen nach einem Weg, um diesen Feind aufzuhalten, und wenn du nicht bereit bist, zu helfen, dann geh verdammt nochmal aus dem Weg und lass die Profis ihre Arbeit machen. Wenn du helfen willst, ist deine Hilfe willkommen. Aber ich bin nicht derjenige, mit dem du reden solltest."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
       <DefaultText>Seine Augen sind wie in tiefer Konzentration geschlossen. Er murmelt Worte in seinen Bart.</DefaultText>
-      <FemaleText>Seine Augen sind wie in tiefer Konzentration geschlossen. Er murmelt Worte in seinen Bart.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
