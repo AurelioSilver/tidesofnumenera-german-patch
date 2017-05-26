@@ -576,7 +576,7 @@ Er hält inne. „Mensch töten Ausgestoßenen? Besser für alle. Werde belohnen
     <Entry>
       <ID>118</ID>
       <DefaultText>::chk-klt::</DefaultText>
-      <FemaleText>::chk-klt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
@@ -1299,7 +1299,7 @@ Du riechst harte Schalen aus Kalzium und Silikon rund um den Stichus. Ein Geruch
     <Entry>
       <ID>264</ID>
       <DefaultText>::click-chk::</DefaultText>
-      <FemaleText>::click-chk::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>265</ID>
@@ -1576,7 +1576,7 @@ Er klatscht in die Hände. „Spricht gescheit. Besser jetzt.“</DefaultText>
     <Entry>
       <ID>330</ID>
       <DefaultText>::ch-t-k-KLKT::</DefaultText>
-      <FemaleText>::ch-t-k-KLKT::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>331</ID>
@@ -1888,7 +1888,7 @@ Mit der Erinnerung strömen Informationen in deinen Geist, als wäre ein Stopfen
     <Entry>
       <ID>394</ID>
       <DefaultText>[Gerangel starten]</DefaultText>
-      <FemaleText>[Gerangel starten]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>395</ID>
@@ -1950,7 +1950,7 @@ Er ballt die Fäuste und krächzt: „Nein“.</DefaultText>
     <Entry>
       <ID>406</ID>
       <DefaultText>„::clk clk skreee chk sllllk::“</DefaultText>
-      <FemaleText>„::clk clk skreee chk sllllk::“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>407</ID>
@@ -2020,27 +2020,27 @@ Er ballt die Fäuste und krächzt: „Nein“.</DefaultText>
     <Entry>
       <ID>428</ID>
       <DefaultText>Du hast beinahe ein Gespür für die Sprache – ihre Struktur, die Empfindung, der Ton und der Duft. Das Jucken in deinem Geist wird stärker. Du kannst fühlen, wie die Erinnerung der Stichus-Sprache darauf wartet, sich zu offenbaren.</DefaultText>
-      <FemaleText>Du hast beinahe ein Gespür für die Sprache – ihre Struktur, die Empfindung, der Ton und der Duft. Das Jucken in deinem Geist wird stärker. Du kannst fühlen, wie die Erinnerung der Stichus-Sprache darauf wartet, sich zu offenbaren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>429</ID>
       <DefaultText>Du hast beinahe ein Gespür für die Sprache – ihre Struktur, die Empfindung, der Ton und der Duft. Das Jucken in deinem Geist wird stärker. Du kannst fühlen, wie die Erinnerung der Stichus-Sprache darauf wartet, sich zu offenbaren.</DefaultText>
-      <FemaleText>Du hast beinahe ein Gespür für die Sprache – ihre Struktur, die Empfindung, der Ton und der Duft. Das Jucken in deinem Geist wird stärker. Du kannst fühlen, wie die Erinnerung der Stichus-Sprache darauf wartet, sich zu offenbaren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>430</ID>
       <DefaultText>Du hast beinahe ein Gespür für die Sprache – ihre Struktur, die Empfindung, der Ton und der Duft. Das Jucken in deinem Geist wird stärker. Du kannst fühlen, wie die Erinnerung der Stichus-Sprache darauf wartet, sich zu offenbaren.</DefaultText>
-      <FemaleText>Du hast beinahe ein Gespür für die Sprache – ihre Struktur, die Empfindung, der Ton und der Duft. Das Jucken in deinem Geist wird stärker. Du kannst fühlen, wie die Erinnerung der Stichus-Sprache darauf wartet, sich zu offenbaren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>431</ID>
       <DefaultText>Der riesige Stichus schnüffelt unglücklich. „Muss andere Made fortschicken. Peliai, Fischkopf-Made. Ihr sagen, wir machen Abmachung, und machen, dass sie weggeht.“</DefaultText>
-      <FemaleText>Der riesige Stichus schnüffelt unglücklich. „Muss andere Made fortschicken. Peliai, Fischkopf-Made. Ihr sagen, wir machen Abmachung, und machen, dass sie weggeht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>432</ID>
       <DefaultText>::ch-k-k-t::</DefaultText>
-      <FemaleText>::ch-k-k-t::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>433</ID>
