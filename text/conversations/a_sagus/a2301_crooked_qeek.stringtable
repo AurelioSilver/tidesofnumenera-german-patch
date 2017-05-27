@@ -265,7 +265,7 @@ Sie betrachtet die Leine mit einer Mischung aus Hunger und Erschöpfung. "Es fä
     <Entry>
       <ID>48</ID>
       <DefaultText>Follow-up T. 48</DefaultText>
-      <FemaleText>Follow-up T. 48</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
@@ -449,9 +449,7 @@ Seine Lippen formen das Wort "Danke ".</DefaultText>
       <DefaultText>"Hallo nochmal! Ich habe mich zuvor nicht vorgestellt. Ich bin die Krumme Qeek aus dem Kaltschlucht-Stamm." 
 
 Sie hustet in ihre hohle Hand. Es ist ein grober und zerrissener Husten, der sie zwingt, sich stark zu krümmen. Du hältst sie zuerst für ein Kind, doch nachdem du ihre Gesichtszüge betrachtest, ist klar, dass sie auf die Zwanzig zugeht. Es ist nur eine Art Mutation – und ihre knochige Statur, dem Hunger geschuldet – die sie so kindhaft aussehen lassen.</DefaultText>
-      <FemaleText>"Hallo nochmal! Ich habe mich zuvor nicht vorgestellt. Ich bin die Krumme Qeek aus dem Kaltschlucht-Stamm." 
-
-Sie hustet in ihre hohle Hand. Es ist ein grober und zerrissener Husten, der sie zwingt, sich stark zu krümmen. Du hältst sie zuerst für ein Kind, doch nachdem du ihre Gesichtszüge betrachtest, ist klar, dass sie auf die Zwanzig zugeht. Es ist nur eine Art Mutation – und ihre knochige Statur, dem Hunger geschuldet – die sie so kindhaft aussehen lassen.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
