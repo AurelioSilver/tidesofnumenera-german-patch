@@ -24,19 +24,17 @@
       <DefaultText>""
 
 {GAVIN: Gateway to Dendra content. Add later if time. Blocked by blank global.}</DefaultText>
-      <FemaleText>""
-
-{GAVIN: Gateway to Dendra content. Add later if time. Blocked by blank global.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
