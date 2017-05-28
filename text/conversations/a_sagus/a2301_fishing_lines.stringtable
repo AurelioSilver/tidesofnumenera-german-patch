@@ -110,7 +110,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Ein seltsames, schmutziges Ding hängt am Haken. Du schnappst es dir. 
+      <DefaultText>Ein seltsames, schmutziges Ding hängt am Haken. Du schnappst es dir.
 {LOOT}
 {SOUND: Splash}</DefaultText>
       <FemaleText />
@@ -124,21 +124,21 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Du ziehst ein flammendes Wort aus dem Wasser. Obwohl du die Sprache nicht sprichst, weißt du, dass das Wort 'Verlust' bedeutet. 
+      <DefaultText>Du ziehst ein flammendes Wort aus dem Wasser. Obwohl du die Sprache nicht sprichst, weißt du, dass das Wort 'Verlust' bedeutet.
 
-Das Wort versinkt wieder im dunklen Wasser, löst sich auf, zieht den verbrannten Haken mit sich in die Tiefe. 
+Das Wort versinkt wieder im dunklen Wasser, löst sich auf, zieht den verbrannten Haken mit sich in die Tiefe.
 {SOUND: Splash, sizzling}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>... aber der Haken hängt an etwas fest. Du ziehst so fest du kannst. Tief im Wasser hörst du ein blubberndes Lachen und dein Haken zischt aus der Tiefe empor, um Haaresbreite an deiner Nase vorbei, und fällt dann vor deinen Füßen zurück ins Wasser. 
+      <DefaultText>... aber der Haken hängt an etwas fest. Du ziehst so fest du kannst. Tief im Wasser hörst du ein blubberndes Lachen und dein Haken zischt aus der Tiefe empor, um Haaresbreite an deiner Nase vorbei, und fällt dann vor deinen Füßen zurück ins Wasser.
 {SOUND: Splash, deep laughter.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Der Haken schießt aus dem Wasser und hinterlässt im Wasser eine dünne, physikalisch unmögliche Luftsäule, die bis an den Grund reicht. In dem Moment, als das Wasser in die Säule stürzt und sie füllt, hörst du eine verzweifelte Melodie aus der Tiefe aufsteigen. 
+      <DefaultText>Der Haken schießt aus dem Wasser und hinterlässt im Wasser eine dünne, physikalisch unmögliche Luftsäule, die bis an den Grund reicht. In dem Moment, als das Wasser in die Säule stürzt und sie füllt, hörst du eine verzweifelte Melodie aus der Tiefe aufsteigen.
 {SOUND: Splash, "forlorn melody"}</DefaultText>
       <FemaleText />
     </Entry>
@@ -159,7 +159,7 @@ Das Wort versinkt wieder im dunklen Wasser, löst sich auf, zieht den verbrannte
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Du ziehst die Leine ein und etwas unten in der dunklen Tiefe zieht *zurück*. Du presst die Lippen zusammen und holst deinen Fang ein. 
+      <DefaultText>Du ziehst die Leine ein und etwas unten in der dunklen Tiefe zieht *zurück*. Du presst die Lippen zusammen und holst deinen Fang ein.
 
 Ein schlammiger Cypher hängt vom Ende der Schnur.</DefaultText>
       <FemaleText />
@@ -181,7 +181,7 @@ Ein schlammiger Cypher hängt vom Ende der Schnur.</DefaultText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Die Freude verfliegt aus ihrem Gesicht. Sie nickt ernst. 
+      <DefaultText>Die Freude verfliegt aus ihrem Gesicht. Sie nickt ernst.
 
 "Ihr habt es gefangen", sagt sie leise. "Das ist nur gerecht."
 {LOOT}</DefaultText>
@@ -189,7 +189,7 @@ Ein schlammiger Cypher hängt vom Ende der Schnur.</DefaultText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Du gibst ihr das Chiffre und sie kneift die Augen zusammen. Ihre Freude ist fast greifbar. 
+      <DefaultText>Du gibst ihr das Chiffre und sie kneift die Augen zusammen. Ihre Freude ist fast greifbar.
 
 "Danke! Ihr könnt meine Angel benutzen, wann immer Ihr wollt!"</DefaultText>
       <FemaleText />
