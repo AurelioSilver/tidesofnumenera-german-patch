@@ -800,7 +800,7 @@ Er richtet sich zur vollen Größe auf.</DefaultText>
     <Entry>
       <ID>155</ID>
       <DefaultText>Follow-up PQ. 155</DefaultText>
-      <FemaleText>Follow-up PQ. 155</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
@@ -865,7 +865,7 @@ Er richtet sich zur vollen Größe auf.</DefaultText>
     <Entry>
       <ID>168</ID>
       <DefaultText>Follow-up T. 168</DefaultText>
-      <FemaleText>Follow-up T. 168</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
@@ -882,7 +882,7 @@ Er hebt den Kopf. "Und nun, da Qeek tot ist, ist er der letzte seines Stammes. E
     <Entry>
       <ID>171</ID>
       <DefaultText>Follow-up T. 171</DefaultText>
-      <FemaleText>Follow-up T. 171</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
@@ -1057,7 +1057,7 @@ Er schüttelt langsam den Kopf. "Doch Qeeks Tod hätte der Schattenseite nichts 
     <Entry>
       <ID>204</ID>
       <DefaultText>Follow-up PQ. 204</DefaultText>
-      <FemaleText>Follow-up PQ. 204</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
@@ -1072,7 +1072,7 @@ Er schüttelt langsam den Kopf. "Doch Qeeks Tod hätte der Schattenseite nichts 
     <Entry>
       <ID>207</ID>
       <DefaultText>Follow-up PQ. 207</DefaultText>
-      <FemaleText>Follow-up PQ. 207</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
@@ -1087,7 +1087,7 @@ Er schüttelt langsam den Kopf. "Doch Qeeks Tod hätte der Schattenseite nichts 
     <Entry>
       <ID>210</ID>
       <DefaultText>Follow-up T. 210</DefaultText>
-      <FemaleText>Follow-up T. 210</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
@@ -1112,7 +1112,7 @@ Er schüttelt langsam den Kopf. "Doch Qeeks Tod hätte der Schattenseite nichts 
     <Entry>
       <ID>218</ID>
       <DefaultText>Follow-up T. 218</DefaultText>
-      <FemaleText>Follow-up T. 218</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
@@ -1474,7 +1474,7 @@ Er gibt einer Leibwächterin ein Zeichen und sie übergibt dir hastig deine Belo
     <Entry>
       <ID>287</ID>
       <DefaultText>"Werseid Ihr nochmal?"</DefaultText>
-      <FemaleText>"Wer seid Ihr noch mal?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>288</ID>
@@ -1622,12 +1622,12 @@ Er winkt ab. "Falls Ihr ihr je über den Weg läuft, *bitte* macht mit ihr dasse
     <Entry>
       <ID>319</ID>
       <DefaultText>"Ich habe Atlas schon getroffen. Ich werde herausfinden, wo Matkina sich versteckt."</DefaultText>
-      <FemaleText>"Ich habe Atlas schon getroffen. Ich werde herausfinden, wo Matkina sich versteckt."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>320</ID>
       <DefaultText>"Ich werde deine Untersuchung mit großem Interesse verfolgen."</DefaultText>
-      <FemaleText>"Ich werde deine Untersuchung mit großem Interesse verfolgen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>321</ID>
