@@ -39,7 +39,9 @@
       <DefaultText>Für einen Moment macht sich Panik auf seinem Gesicht breit. Dann bricht er in ein Grinsen aus und lacht herzlich. „Ha! Nur ein alberner Spruch, mit dem wir uns früher in Kiorkeryyn begrüßt haben. Ihr seht aus wie ein Bursche, den ich dort kannte. Also wollte ich sehen, ob Euch das was sagt. Vergesst es.“
 
 Er klatscht in die Hände und sieht dich von Neuem an. „Ihr seid also neu in der Schattenseite, was? Seid Ihr einfach so hier oder sucht Ihr was Bestimmtes?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Für einen Moment macht sich Panik auf seinem Gesicht breit. Dann bricht er in ein Grinsen aus und lacht herzlich. „Ha! Nur ein alberner Spruch, mit dem wir uns früher in Kiorkeryyn begrüßt haben. Ihr seht aus wie eine Frau, die ich dort kannte. Also wollte ich sehen, ob Euch das was sagt. Vergesst es.“
+
+Er klatscht in die Hände und sieht dich von Neuem an. „Ihr seid also neu in der Schattenseite, was? Seid Ihr einfach so hier oder sucht Ihr was Bestimmtes?“</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -319,7 +321,11 @@ Er hält inne, als er Tybir an deiner Seite bemerkt. „Tybir!“, ruft er. „S
 Er legt dem jungen Mann den Arm auf die Schulter und drückt ihn ein wenig zu fest zu sich. „Eines Tages wird die falsche Person deine lauten Scherze mithören und dir die Wache auf den Hals hetzen - und *mir* ebenfalls. Nein, das ist nicht meine neue 'Crew'. Ich helfe meinem Freund hier nur, sich in unserer tückischen großen Stadt zurechtzufinden.“
 
 Tybir wendet sich an dich. „Tatsächlich ist Manth der ehrlichste Junge in ganz Sagus Klippen. Nicht wahr, Manth?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Manth, mein Junge, immer zu Scherzen aufgelegt“, sagt Tybir zwischen zusammengepressten Zähnen. „Und dann redet er auch noch so laut!“
+
+Er legt dem jungen Mann den Arm auf die Schulter und drückt ihn ein wenig zu fest zu sich. „Eines Tages wird die falsche Person deine lauten Scherze mithören und dir die Wache auf den Hals hetzen - und *mir* ebenfalls. Nein, das ist nicht meine neue 'Crew'. Ich helfe meiner Freundin hier nur, sich in unserer tückischen großen Stadt zurechtzufinden.“
+
+Tybir wendet sich an dich. „Tatsächlich ist Manth der ehrlichste Junge in ganz Sagus Klippen. Nicht wahr, Manth?“</FemaleText>
     </Entry>
     <Entry>
       <ID>62</ID>
@@ -621,7 +627,9 @@ Ihn schaudert. „Ich hab nur einmal einen Blick reingeworfen. Das hat mir gerei
       <DefaultText>„Nein nein, Hauptmann!“, sagt der Junge. „Ich war ein wahrer Musterknabe. Hab dem Herren nur ein paar Fragen beantwortet, nicht wahr?“
 
 Er salutiert dir. „Sonst noch etwas, Freund?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Nein nein, Hauptmann!“, sagt der Junge. „Ich war ein wahrer Musterknabe. Hab der Dame nur ein paar Fragen beantwortet, nicht wahr?“
+
+Er salutiert dir. „Sonst noch etwas, Freundin?“</FemaleText>
     </Entry>
     <Entry>
       <ID>121</ID>
