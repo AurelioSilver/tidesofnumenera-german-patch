@@ -9,7 +9,9 @@
       <DefaultText>Der Kultist ist vor Aufregung rot im Gesicht und hat Mühe, Luft zu holen.
 
 „Ich habe ihn gesehen, Herr!“ Er stockt. „Oder sie. Da bin ich nicht sicher.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Kultist ist vor Aufregung rot im Gesicht und hat Mühe, Luft zu holen.
+
+„Ich habe ihn gesehen, Herrin!“ Er stockt. „Oder sie. Da bin ich nicht sicher.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -127,7 +129,7 @@ Er richtet sich stolz auf. „Der Mörder muss ein Dendra sein, Eure Heiligkeit.
     <Entry>
       <ID>28</ID>
       <DefaultText>„Er will, dass *ich* *ihm* helfe!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Er will, dass *ich* *ihr* helfe!“</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
@@ -142,12 +144,12 @@ Er richtet sich stolz auf. „Der Mörder muss ein Dendra sein, Eure Heiligkeit.
     <Entry>
       <ID>31</ID>
       <DefaultText>„Herr! Wir haben etwas gefunden!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Herrin! Wir haben etwas gefunden!“</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>„Es gibt Neuigkeiten, Herr!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Es gibt Neuigkeiten, Herrin!“</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
@@ -201,7 +203,9 @@ Er senkt den Blick, legt die zitternden Hände übereinander. „Wie kann ich Eu
       <DefaultText>Er zuckt zusammen „Tut mir leid“, sagt er. „Das ist alles, woran ich mich erinnere. Und dass der Mörder extrem schnell gelaufen ist.“
 
 Er schluckt. „Ich hoffe, ich konnte Euch ein wenig helfen, Herr.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er zuckt zusammen „Tut mir leid“, sagt er. „Das ist alles, woran ich mich erinnere. Und dass der Mörder extrem schnell gelaufen ist.“
+
+Er schluckt. „Ich hoffe, ich konnte Euch ein wenig helfen, Herrin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>45</ID>
