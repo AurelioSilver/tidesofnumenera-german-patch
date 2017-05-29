@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Meuk begrüßt dich mit seiner Zange, als du dich ihm näherst. "He da, mein Freund. Möchtet Ihr noch mehr Fleisch?"</DefaultText>
+      <DefaultText>Meuk begrüßt dich mit seiner Zange, als du dich ihm näherst. „He da, mein Freund. Möchtet Ihr noch mehr Fleisch?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Was für Fleisch verkauft Ihr?"</DefaultText>
+      <DefaultText>„Was für Fleisch verkauft Ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Was für Fleisch verkauft Ihr nochmal?"</DefaultText>
+      <DefaultText>„Was für Fleisch verkauft Ihr nochmal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich möchte etwas Fleisch kaufen."</DefaultText>
+      <DefaultText>„Ich möchte etwas Fleisch kaufen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,32 +51,32 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Sicher. Was hättet Ihr denn gern? Aneen-Schenkel? Drebil-Flügel? Laak-Schwanz?"</DefaultText>
+      <DefaultText>„Sicher. Was hättet Ihr denn gern? Aneen-Schenkel? Drebil-Flügel? Laak-Schwanz?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Aneen-Schenkel? Drebil-Flügel? Laak-Schwanz?"</DefaultText>
+      <DefaultText>„Aneen-Schenkel? Drebil-Flügel? Laak-Schwanz?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich hätte bitte gerne einen Aneen-Schenkel."</DefaultText>
+      <DefaultText>„Ich hätte bitte gerne einen Aneen-Schenkel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Gebt mir bitte einen Drebil-Flügel, danke."</DefaultText>
+      <DefaultText>„Gebt mir bitte einen Drebil-Flügel, danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ich probiere mal einen Laak-Schwanz."</DefaultText>
+      <DefaultText>„Ich probiere mal einen Laak-Schwanz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Das wären dann [Global: a2301_MeatmongerBuyMeat] Shin."
+      <DefaultText>„Das wären dann [Global: a2301_MeatmongerBuyMeat] Shin.“
 
 {GELD}</DefaultText>
       <FemaleText />
@@ -88,12 +88,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"So viel habe ich nicht."</DefaultText>
+      <DefaultText>„So viel habe ich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ich habe es mir anders überlegt. Reden wir über etwas anderes."</DefaultText>
+      <DefaultText>„Ich habe es mir anders überlegt. Reden wir über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,17 +105,17 @@ Das Fleisch schmeckt nach verdorbenem Wild und ist ein wenig zäh, doch die Gew�
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Das Fleisch wird auf Euch warten, bis Ihr es habt. Noch etwas?"</DefaultText>
+      <DefaultText>„Das Fleisch wird auf Euch warten, bis Ihr es habt. Noch etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Kein Problem. Ich habe Zeit." Er winkt erwartend mit seiner Zange.</DefaultText>
+      <DefaultText>„Kein Problem. Ich habe Zeit.“ Er winkt erwartend mit seiner Zange.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Gute Wahl!" Meuk holt ein gezacktes Messer hervor und sägt einen der ledernen Flügel aus der flatternden Masse. Dann wirft er ihn auf den Grill. Er zuckt eine Zeit lang schwach, dann rührt er sich nicht mehr. Das Aroma von süßen, gebackenen Früchten strömt von dem starr werdenden Flügel aus. Nach einer kurzen Weile holt ihn Meuk mit einer Zange vom Grill und überreicht ihn dir.</DefaultText>
+      <DefaultText>„Gute Wahl!“ Meuk holt ein gezacktes Messer hervor und sägt einen der ledernen Flügel aus der flatternden Masse. Dann wirft er ihn auf den Grill. Er zuckt eine Zeit lang schwach, dann rührt er sich nicht mehr. Das Aroma von süßen, gebackenen Früchten strömt von dem starr werdenden Flügel aus. Nach einer kurzen Weile holt ihn Meuk mit einer Zange vom Grill und überreicht ihn dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,12 +132,12 @@ Nach einer kurzen Weile holt Meuk sie mit einer Zange vom Grill und reicht sie E
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ich habe noch nie Fleisch gesehen, das in einem Bottich wächst. Wie funktioniert das?"</DefaultText>
+      <DefaultText>„Ich habe noch nie Fleisch gesehen, das in einem Bottich wächst. Wie funktioniert das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Wie züchtet Ihr das Fleisch nochmal?"</DefaultText>
+      <DefaultText>„Wie züchtet Ihr das Fleisch nochmal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,12 +147,12 @@ Nach einer kurzen Weile holt Meuk sie mit einer Zange vom Grill und reicht sie E
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Er lacht und schlägt mit der Zange gegen den Grill, wodurch das brutzelnde Fett durch die Gegend fliegt. "Drei Sorten, mein Freund. Aneen, Drebil und Laak. Hier in diesen Bottichen. Wollt Ihr was davon?"</DefaultText>
+      <DefaultText>Er lacht und schlägt mit der Zange gegen den Grill, wodurch das brutzelnde Fett durch die Gegend fliegt. „Drei Sorten, mein Freund. Aneen, Drebil und Laak. Hier in diesen Bottichen. Wollt Ihr was davon?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Aneen, Drebil und Laak. Frisch aus den Bottichen." Er wirbelt seine Zange mit viel Schwung um einen Finger und zeigt auf die beistehenden Bottiche voll pulsierendem Fleisch.</DefaultText>
+      <DefaultText>„Aneen, Drebil und Laak. Frisch aus den Bottichen.“ Er wirbelt seine Zange mit viel Schwung um einen Finger und zeigt auf die beistehenden Bottiche voll pulsierendem Fleisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,12 +162,12 @@ Nach einer kurzen Weile holt Meuk sie mit einer Zange vom Grill und reicht sie E
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Wie?" Er zuckt mit den Schultern. "Könnte ich nicht erklären. Als ich Metzger war, fand ich ein kleines Dingsbums und spielte damit den ganzen Tag, ungefähr so, wie ich jetzt mit meiner Zange spiele." Er wirbelt die Zange umher, um dir zu zeigen, was er meint. "Eines Tages also spielte ich mit diesem Ding, während ich einen Kadaver aufschnitt, und die fehlenden Teile wuchsen ständig nach. Schwanz abgeschnitten, und kurz darauf war er wieder da."</DefaultText>
+      <DefaultText>„Wie?“ Er zuckt mit den Schultern. „Könnte ich nicht erklären. Als ich Metzger war, fand ich ein kleines Dingsbums und spielte damit den ganzen Tag, ungefähr so, wie ich jetzt mit meiner Zange spiele.“ Er wirbelt die Zange umher, um dir zu zeigen, was er meint. „Eines Tages also spielte ich mit diesem Ding, während ich einen Kadaver aufschnitt, und die fehlenden Teile wuchsen ständig nach. Schwanz abgeschnitten, und kurz darauf war er wieder da.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ein kleines Dingsbums, das ich hab', lässt Fleisch nachwachsen. Keine Ahnung wie, doch damit kann ich diesen Stand schon seit Jahren mit den gleichen drei Fleischbrocken führen. Das is' toll!"</DefaultText>
+      <DefaultText>„Ein kleines Dingsbums, das ich hab', lässt Fleisch nachwachsen. Keine Ahnung wie, doch damit kann ich diesen Stand schon seit Jahren mit den gleichen drei Fleischbrocken führen. Das is' toll!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,44 +177,44 @@ Nach einer kurzen Weile holt Meuk sie mit einer Zange vom Grill und reicht sie E
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ich suche nach einer Jack namens Matkina. Blasse Haut, strenger Blick. Trägt eine Kapuze."</DefaultText>
+      <DefaultText>„Ich suche nach einer Jack namens Matkina. Blasse Haut, strenger Blick. Trägt eine Kapuze.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Kennt Ihr einen Glaive namens Riastrad? Er trägt eine Rüstung, die wie flüssiges Metall fließt."</DefaultText>
+      <DefaultText>„Kennt Ihr einen Glaive namens Riastrad? Er trägt eine Rüstung, die wie flüssiges Metall fließt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Könnt Ihr dieses 'Dingsbums' auf Euch selbst anwenden?"</DefaultText>
+      <DefaultText>„Könnt Ihr dieses 'Dingsbums' auf Euch selbst anwenden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Witzig, dass Ihr fragt. Nicht lange, nachdem ich es gefunden hatte, schnitt ich mich ziemlich schlimm. Ich dachte, ich könnte mein Dingsbums ausprobieren, um die Wunde zu schließen."
+      <DefaultText>„Witzig, dass Ihr fragt. Nicht lange, nachdem ich es gefunden hatte, schnitt ich mich ziemlich schlimm. Ich dachte, ich könnte mein Dingsbums ausprobieren, um die Wunde zu schließen.“
 
-Er verzieht das Gesicht. "Also, es funktionierte, aber dann wuchsen an meinem ganzen Körper Zehen. Wollte ich nicht wirklich, also habe ich es nie wieder getan. Versuche immer noch, diese Zehen loszuwerden."</DefaultText>
+Er verzieht das Gesicht. „Also, es funktionierte, aber dann wuchsen an meinem ganzen Körper Zehen. Wollte ich nicht wirklich, also habe ich es nie wieder getan. Versuche immer noch, diese Zehen loszuwerden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Er nickt. "Die kenne ich gut. Kauft immer wieder bei mir. Habe sie aber schon eine Weile nicht mehr gesehen. Ihr könnt Kartenzeichner fragen, drüben bei den Baracken. Er ist der mit den Karten auf seiner Haut. Er behält alle im Auge."</DefaultText>
+      <DefaultText>Er nickt. „Die kenne ich gut. Kauft immer wieder bei mir. Habe sie aber schon eine Weile nicht mehr gesehen. Ihr könnt Kartenzeichner fragen, drüben bei den Baracken. Er ist der mit den Karten auf seiner Haut. Er behält alle im Auge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Er runzelt die Stirn. "Ich glaube, ich weiß, wen Ihr meint. Einer von der etwas verrückteren Sorte, oder? War aber in letzter Zeit nicht hier. Zumindest hab' ich ihn nicht gesehen."</DefaultText>
+      <DefaultText>Er runzelt die Stirn. „Ich glaube, ich weiß, wen Ihr meint. Einer von der etwas verrückteren Sorte, oder? War aber in letzter Zeit nicht hier. Zumindest hab' ich ihn nicht gesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Richtig, mein Freund. Kommt wieder."</DefaultText>
+      <DefaultText>„Richtig, mein Freund. Kommt wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,12 +224,12 @@ Er verzieht das Gesicht. "Also, es funktionierte, aber dann wuchsen an meinem ga
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich habe hier einen Mellidrym-Samen. Glaubt Ihr, Euer 'Dingsbums' könnte ihn wachsen lassen?"</DefaultText>
+      <DefaultText>„Ich habe hier einen Mellidrym-Samen. Glaubt Ihr, Euer 'Dingsbums' könnte ihn wachsen lassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Glaubt Ihr, dass Ihr diesen Mellidrym-Samen wachsen lassen könnt?"</DefaultText>
+      <DefaultText>„Glaubt Ihr, dass Ihr diesen Mellidrym-Samen wachsen lassen könnt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,19 +239,19 @@ Er verzieht das Gesicht. "Also, es funktionierte, aber dann wuchsen an meinem ga
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Hmmm. Könnte sein. Möglich. Ich sollte Euch etwas berechnen ... aber Ihr habt gesagt, dass Ihr mit Manth Pa befreundet seid." Er zwinkert. "Gebt mal her, mal sehen, was passiert."</DefaultText>
+      <DefaultText>„Hmmm. Könnte sein. Möglich. Ich sollte Euch etwas berechnen ... aber Ihr habt gesagt, dass Ihr mit Manth Pa befreundet seid.“ Er zwinkert. „Gebt mal her, mal sehen, was passiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich kann's ja mal versuchen. Sicher."</DefaultText>
+      <DefaultText>„Ich kann's ja mal versuchen. Sicher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>In der Nähe stehen drei große Bottiche, die mit lebendigem Fleisch gefüllt sind. Große, formlose Massen, aus denen Anhängsel wachsen, die wie Tierglieder aussehen, die in einem Sumpf aus Fleisch ertrinken. Der erste Bottich ist mit dicken, pulsierenden Muskeln gefüllt, rot und roh. Der zweite ist eine flatternde Monstrosität aus ledernen Flügeln, und aus dem dritten sprießen hunderte Laak-Schwänze, die alle obszön wedeln.
 
-Der Koch sieht von seiner Arbeit auf und lächelt dich verschwitzt an. "He! Ich bin Meuk der Fleischhändler. Was darf's sein?"</DefaultText>
+Der Koch sieht von seiner Arbeit auf und lächelt dich verschwitzt an. „He! Ich bin Meuk der Fleischhändler. Was darf's sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,12 +261,12 @@ Der Koch sieht von seiner Arbeit auf und lächelt dich verschwitzt an. "He! Ich 
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Warum seid Ihr so eingewickelt?"</DefaultText>
+      <DefaultText>„Warum seid Ihr so eingewickelt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Sagt mir nochmal, warum Ihr so eingewickelt seid."</DefaultText>
+      <DefaultText>„Sagt mir nochmal, warum Ihr so eingewickelt seid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,22 +276,22 @@ Der Koch sieht von seiner Arbeit auf und lächelt dich verschwitzt an. "He! Ich 
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Wegen der Zehen. Keiner will einen Mann sehen, dem am ganzen Körper Zehen wachsen ... vor allem nicht dann, wenn er ihr Essen zubereitet. Nicht mal die Leute in Schattenseite haben einen Magen, der dafür stark genug ist."</DefaultText>
+      <DefaultText>„Wegen der Zehen. Keiner will einen Mann sehen, dem am ganzen Körper Zehen wachsen ... vor allem nicht dann, wenn er ihr Essen zubereitet. Nicht mal die Leute in Schattenseite haben einen Magen, der dafür stark genug ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Mir wachsen Zehen an Stellen, an denen normalerweise keine Zehen wachsen. Das will keiner sehen."</DefaultText>
+      <DefaultText>„Mir wachsen Zehen an Stellen, an denen normalerweise keine Zehen wachsen. Das will keiner sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Manth Pa sagte, dass ich Euch besuchen sollte."</DefaultText>
+      <DefaultText>„Manth Pa sagte, dass ich Euch besuchen sollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Guter alter Manth. Nächstes Mal, wenn ich ihn sehe, bekommt er dafür einen Shin. Vielleicht hält ihn das auf der Spur."</DefaultText>
+      <DefaultText>„Guter alter Manth. Nächstes Mal, wenn ich ihn sehe, bekommt er dafür einen Shin. Vielleicht hält ihn das auf der Spur.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,12 +301,12 @@ Der Koch sieht von seiner Arbeit auf und lächelt dich verschwitzt an. "He! Ich 
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Wenn ich so drüber nachdenke, lasst mich Euch eine andere Frage stellen."</DefaultText>
+      <DefaultText>„Wenn ich so drüber nachdenke, lasst mich Euch eine andere Frage stellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Sicher. Was braucht Ihr?"</DefaultText>
+      <DefaultText>„Sicher. Was braucht Ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -318,12 +318,12 @@ Meuk richtet die Düse auf Euren Mellidrym-Samen und fängt an, mit seinen Finge
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Sagtet Ihr eben, dass Euch *Zehen* am ganzen Körper wachsen?"</DefaultText>
+      <DefaultText>„Sagtet Ihr eben, dass Euch *Zehen* am ganzen Körper wachsen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"He, jeder hat so seine Probleme und mir geht es besser als den meisten hier. Ist sowieso nicht meine Schuld. Nun ... Ich schätze, es ist ein *bisschen* meine Schuld ..."</DefaultText>
+      <DefaultText>„He, jeder hat so seine Probleme und mir geht es besser als den meisten hier. Ist sowieso nicht meine Schuld. Nun ... Ich schätze, es ist ein *bisschen* meine Schuld ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -353,38 +353,38 @@ Meuk richtet die Düse auf Euren Mellidrym-Samen und fängt an, mit seinen Finge
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Armer alter Manth. Habt Ihr gehört, was mit ihm passiert ist? So ein verrückter Carker hat ihn aufgerissen, seine Innereien auf dem Boden verteilt, und eine Wand mit seinem Blut fingerbemalt." Der große Mann schüttelt den Kopf.
+      <DefaultText>„Armer alter Manth. Habt Ihr gehört, was mit ihm passiert ist? So ein verrückter Carker hat ihn aufgerissen, seine Innereien auf dem Boden verteilt, und eine Wand mit seinem Blut fingerbemalt.“ Der große Mann schüttelt den Kopf.
 
-"Ich hätte Manth einen Shin für die Empfehlung gegeben, also könnt Ihr ihn stattdessen haben." Er wirft dir eine fettige Münze zu.</DefaultText>
+„Ich hätte Manth einen Shin für die Empfehlung gegeben, also könnt Ihr ihn stattdessen haben.“ Er wirft dir eine fettige Münze zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Armer alter Manth. Ich habe gehört, wie er gestorben ist. Ich hätte ihm einen Shin für die Empfehlung gegeben, also könnt Ihr ihn stattdessen haben." Er wirft dir eine fettige Münze zu, dann schüttelt er den Kopf. "Wenigstens ist der Mörder weg, oder? Das ist doch etwas."</DefaultText>
+      <DefaultText>„Armer alter Manth. Ich habe gehört, wie er gestorben ist. Ich hätte ihm einen Shin für die Empfehlung gegeben, also könnt Ihr ihn stattdessen haben.“ Er wirft dir eine fettige Münze zu, dann schüttelt er den Kopf. „Wenigstens ist der Mörder weg, oder? Das ist doch etwas.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Viele Leute essen das drei Mal am Tag." Meuk zwinkert. "Ich wünschte, mehr von ihnen würden mal meine Drebil-Flügel versuchen. Die wissen nicht, was ihnen entgeht, was?"</DefaultText>
+      <DefaultText>„Viele Leute essen das drei Mal am Tag.“ Meuk zwinkert. „Ich wünschte, mehr von ihnen würden mal meine Drebil-Flügel versuchen. Die wissen nicht, was ihnen entgeht, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
       <DefaultText>Du nimmst einen Bissen. Der Flügel ist knusprig und süß und hat einen reichen und fruchtigen Geschmack.
 
-"Gut, nicht? Keiner glaubt es, bis er es probiert." Meuk grinst und klatscht sich auf den Bauch. "Ich esse sie den ganzen Tag. Halten mich schlank und hübsch."</DefaultText>
+„Gut, nicht? Keiner glaubt es, bis er es probiert.“ Meuk grinst und klatscht sich auf den Bauch. „Ich esse sie den ganzen Tag. Halten mich schlank und hübsch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
       <DefaultText>Irgendwie zappeln die Schwänze immer noch, als du einen zaghaften Bissen nimmst. Das Fleisch ist flockig, übermäßig süß und prickelt in deinem Mund wie Sprudelwasser.
 
-Meuk schüttelt den Kopf. "Die Kinder lieben diese Dinger. Ich selbst kann sie nicht ausstehen."</DefaultText>
+Meuk schüttelt den Kopf. „Die Kinder lieben diese Dinger. Ich selbst kann sie nicht ausstehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Nicht jetzt. Lebt wohl."</DefaultText>
+      <DefaultText>„Nicht jetzt. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,14 +396,14 @@ Die Erinnerungen verblassen ...</DefaultText>
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Das wären dann [Global: a2301_MeatmongerBuyMeat] Shin."
+      <DefaultText>„Das wären dann [Global: a2301_MeatmongerBuyMeat] Shin.“
 
 {GELD}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Das wären dann [Global: a2301_MeatmongerBuyMeat] Shin."
+      <DefaultText>„Das wären dann [Global: a2301_MeatmongerBuyMeat] Shin.“
 
 {GELD}</DefaultText>
       <FemaleText />
@@ -420,7 +420,7 @@ Die Erinnerungen verblassen ...</DefaultText>
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Verrückt, nicht? Dadurch kam ich aber auf eine Idee. Ich könnte einen kleinen Grillplatz eröffnen, ohne Mehraufwand. Und es funktionierte. Bereite seit Jahren die gleichen drei Fleischbrocken zu." Er strahlt.</DefaultText>
+      <DefaultText>„Verrückt, nicht? Dadurch kam ich aber auf eine Idee. Ich könnte einen kleinen Grillplatz eröffnen, ohne Mehraufwand. Und es funktionierte. Bereite seit Jahren die gleichen drei Fleischbrocken zu.“ Er strahlt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -430,17 +430,17 @@ Die Erinnerungen verblassen ...</DefaultText>
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Hmmm. Könnte sein. Möglich. Ich müsste Euch allerdings was berechnen." Er legt seine Stirn in Falten und formt mit seinem Mund verschiedene Zahlen. "Sagen wir ... [Global: a2301_MeatmongerGrowMellidrym] Shin."</DefaultText>
+      <DefaultText>„Hmmm. Könnte sein. Möglich. Ich müsste Euch allerdings was berechnen.“ Er legt seine Stirn in Falten und formt mit seinem Mund verschiedene Zahlen. „Sagen wir ... [Global: a2301_MeatmongerGrowMellidrym] Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Ich kann es mal versuchen, wenn Ihr mir [Global: a2301_MeatmongerGrowMellidrym] Shin gebt."</DefaultText>
+      <DefaultText>„Ich kann es mal versuchen, wenn Ihr mir [Global: a2301_MeatmongerGrowMellidrym] Shin gebt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Nicht jetzt. Lebt wohl."</DefaultText>
+      <DefaultText>„Nicht jetzt. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -450,17 +450,17 @@ Die Erinnerungen verblassen ...</DefaultText>
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Ich habe nicht genug Shin."</DefaultText>
+      <DefaultText>„Ich habe nicht genug Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Oh." Er zieht ein langes Gesicht. "Also, ich bin sicher, dass Ihr sie schnell zusammenschnorren könnt. Ich hätte gedacht, Ihr seid ein betuchter Kerl. Einer dieser Entdecker mit komischen Apparaten in jeder Tasche, wisst Ihr?"</DefaultText>
+      <DefaultText>„Oh.“ Er zieht ein langes Gesicht. „Also, ich bin sicher, dass Ihr sie schnell zusammenschnorren könnt. Ich hätte gedacht, Ihr seid ein betuchter Kerl. Einer dieser Entdecker mit komischen Apparaten in jeder Tasche, wisst Ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Immer noch nicht?" Er sieht aus, als würde er dir nicht ganz glauben. "Nun, kommt zurück, wenn Ihr es habt."</DefaultText>
+      <DefaultText>„Immer noch nicht?“ Er sieht aus, als würde er dir nicht ganz glauben. „Nun, kommt zurück, wenn Ihr es habt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -470,13 +470,13 @@ Die Erinnerungen verblassen ...</DefaultText>
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Meuk legt seinen Apparat ab und betrachtet die Kreatur zweifelnd. "Hätte Euch wohl für dieses Ding nichts berechnen sollen. Aber abgemacht ist abgemacht, schätze ich." Er übergibt dir den Mellidrym.
+      <DefaultText>Meuk legt seinen Apparat ab und betrachtet die Kreatur zweifelnd. „Hätte Euch wohl für dieses Ding nichts berechnen sollen. Aber abgemacht ist abgemacht, schätze ich.“ Er übergibt dir den Mellidrym.
 {BEUTE}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Meuk legt seinen Apparat ab und betrachtet die Kreatur zweifelnd. "Gut, dass ich Euch dafür nichts berechnet habe." Er übergibt dir den Mellidrym.
+      <DefaultText>Meuk legt seinen Apparat ab und betrachtet die Kreatur zweifelnd. „Gut, dass ich Euch dafür nichts berechnet habe.“ Er übergibt dir den Mellidrym.
 {BEUTE}</DefaultText>
       <FemaleText />
     </Entry>
@@ -487,32 +487,32 @@ Die Erinnerungen verblassen ...</DefaultText>
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Fleisch! Hier gibt es Fleisch!"</DefaultText>
+      <DefaultText>„Fleisch! Hier gibt es Fleisch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"He! Wer möchte Fleisch?"</DefaultText>
+      <DefaultText>„He! Wer möchte Fleisch?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Frisches Fleisch! Seht, wie es vor Euren Augen wächst!"</DefaultText>
+      <DefaultText>„Frisches Fleisch! Seht, wie es vor Euren Augen wächst!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Billiges und leckeres Fleisch, direkt aus dem Bottich!"</DefaultText>
+      <DefaultText>„Billiges und leckeres Fleisch, direkt aus dem Bottich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Fleisch, Fleisch, Fleisch!"</DefaultText>
+      <DefaultText>„Fleisch, Fleisch, Fleisch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Ihr wollt Fleisch? Ich habe Fleisch!"</DefaultText>
+      <DefaultText>„Ihr wollt Fleisch? Ich habe Fleisch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
