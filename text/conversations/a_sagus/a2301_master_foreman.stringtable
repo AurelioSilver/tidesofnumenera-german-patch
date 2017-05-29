@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ihr seid zurück", sagt das eingefrorene Konstrukt. Es starrt dich unfreundlich an. "Wir bilden hier keine Lehrlinge aus. Warum seid Ihr hier? Was wollt Ihr? Raus damit!"</DefaultText>
+      <DefaultText>„Ihr seid zurück“, sagt das eingefrorene Konstrukt. Es starrt dich unfreundlich an. „Wir bilden hier keine Lehrlinge aus. Warum seid Ihr hier? Was wollt Ihr? Raus damit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,14 +16,14 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Hm", sagt es und untersucht die Scherbe. "Winzige Spalten, gefüllt mit organischer Flüssigkeit. Euer Apparat lebt. Ersatzkristalle werden gezüchtet, nicht gemacht."
+      <DefaultText>„Hm“, sagt es und untersucht die Scherbe. „Winzige Spalten, gefüllt mit organischer Flüssigkeit. Euer Apparat lebt. Ersatzkristalle werden gezüchtet, nicht gemacht.“
 
-Das Lichtauge des Konstrukts wendet sich von dir ab. Du stehst mit der Scherbe im Dunklen. "Weiter kann ich Euch nicht helfen. Ich züchte keine Kristalle. Vielleicht können Euch die Ruinenplünderer vom Orden der Wahrheit mehr darüber sagen. Ihr findet sie am Regierungsplatz. Die Leiter zu meiner Linken hoch. Viel Glück."</DefaultText>
+Das Lichtauge des Konstrukts wendet sich von dir ab. Du stehst mit der Scherbe im Dunklen. „Weiter kann ich Euch nicht helfen. Ich züchte keine Kristalle. Vielleicht können Euch die Ruinenplünderer vom Orden der Wahrheit mehr darüber sagen. Ihr findet sie am Regierungsplatz. Die Leiter zu meiner Linken hoch. Viel Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -35,12 +35,12 @@ Es mustert dich mit Augen voller orangem Feuer.</DefaultText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Zu spät für die erste Schicht, Synthschmied", knurrt es. "Schnappt Euch einen Platz und einen Hammer und beginnt mit Eurer verdammten Arbeit."</DefaultText>
+      <DefaultText>„Zu spät für die erste Schicht, Synthschmied“, knurrt es. „Schnappt Euch einen Platz und einen Hammer und beginnt mit Eurer verdammten Arbeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Jaja. Haltet Euch sich von der Schmiede fern!"</DefaultText>
+      <DefaultText>„Jaja. Haltet Euch sich von der Schmiede fern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,33 +50,33 @@ Es mustert dich mit Augen voller orangem Feuer.</DefaultText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ihr könnt Euch nicht bewegen, oder?"</DefaultText>
+      <DefaultText>„Ihr könnt Euch nicht bewegen, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Wer seid Ihr noch mal?"</DefaultText>
+      <DefaultText>„Wer seid Ihr noch mal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Nein, und das muss ich auch nicht", sagt es mit funkelnden Augen. Ein vorbeigehender Arbeiter wirft dir einen vielsagenden Blick zu. Offensichtlich hast du eine altbekannte Erzählung ausgelöst.
+      <DefaultText>„Nein, und das muss ich auch nicht“, sagt es mit funkelnden Augen. Ein vorbeigehender Arbeiter wirft dir einen vielsagenden Blick zu. Offensichtlich hast du eine altbekannte Erzählung ausgelöst.
 
-"Einst waren wir Meister die Werkzeuge der Kartographen und ihres weitverzweigten Netzes intelligenter Maschinen. Versunken im Lied ihres Willens arbeiteten wir munter und fröhlich vor uns hin." Seine Stimme ist weich und voller synthetischer Ehrfurcht.
+„Einst waren wir Meister die Werkzeuge der Kartographen und ihres weitverzweigten Netzes intelligenter Maschinen. Versunken im Lied ihres Willens arbeiteten wir munter und fröhlich vor uns hin.“ Seine Stimme ist weich und voller synthetischer Ehrfurcht.
 
-"Doch eines Tages verstummte ihr Lied und unsere Körper froren mitten in der Bewegung ein. Und so stehen wir heute noch da."</DefaultText>
+„Doch eines Tages verstummte ihr Lied und unsere Körper froren mitten in der Bewegung ein. Und so stehen wir heute noch da.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich bin der Oberste Meister. Einst ein geistloser Diener der weisen Kartografen, und heute der Architekt dieser Stadt voller Wunder."</DefaultText>
+      <DefaultText>„Ich bin der Oberste Meister. Einst ein geistloser Diener der weisen Kartografen, und heute der Architekt dieser Stadt voller Wunder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Einige von uns haben in diesen ersten Jahrhunderten den Glauben verloren", knurrt es. "Einige von uns dachten, die Kartografen haben uns bestraft – oder verlassen. Nur ich sah ihre Abwesenheit als das, was sie war."
+      <DefaultText>„Einige von uns haben in diesen ersten Jahrhunderten den Glauben verloren“, knurrt es. „Einige von uns dachten, die Kartografen haben uns bestraft – oder verlassen. Nur ich sah ihre Abwesenheit als das, was sie war.“
 
-Er wird heiser. "Es war ein Geschenk. Ein Geschenk des *freien Willens*. Wir waren nicht länger bloß ihre Werkzeuge. Wir waren nun unsere eigenen Meister, die Fesseln geistloser Arbeit abgeworfen, frei, um unsere eigene Zukunft zu formen. Und das taten wir. Viele Jahrtausende lang."</DefaultText>
+Er wird heiser. „Es war ein Geschenk. Ein Geschenk des *freien Willens*. Wir waren nicht länger bloß ihre Werkzeuge. Wir waren nun unsere eigenen Meister, die Fesseln geistloser Arbeit abgeworfen, frei, um unsere eigene Zukunft zu formen. Und das taten wir. Viele Jahrtausende lang.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,12 +86,12 @@ Er wird heiser. "Es war ein Geschenk. Ein Geschenk des *freien Willens*. Wir war
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Erzählt mir von Euren anderen Konstrukten."</DefaultText>
+      <DefaultText>„Erzählt mir von Euren anderen Konstrukten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Was unterscheidet Euch noch mal von den anderen Konstrukten?"</DefaultText>
+      <DefaultText>„Was unterscheidet Euch noch mal von den anderen Konstrukten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@ Er wird heiser. "Es war ein Geschenk. Ein Geschenk des *freien Willens*. Wir war
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ich bin ziemlich geschickt mit Maschinen. Soll ich versuchen, Euch zu reparieren?"</DefaultText>
+      <DefaultText>„Ich bin ziemlich geschickt mit Maschinen. Soll ich versuchen, Euch zu reparieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@ Er wird heiser. "Es war ein Geschenk. Ein Geschenk des *freien Willens*. Wir war
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Hände weg!" blafft das Konstrukt. "Wenn ich repariert werden wollte– mich dem Willen der Kartografen widersetzen wollte – hätte ich mich schon vor Jahrhunderten von Euren Vorfahren reparieren lassen. Denkt doch mal nach!"</DefaultText>
+      <DefaultText>„Hände weg!“ blafft das Konstrukt. „Wenn ich repariert werden wollte– mich dem Willen der Kartografen widersetzen wollte – hätte ich mich schon vor Jahrhunderten von Euren Vorfahren reparieren lassen. Denkt doch mal nach!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,80 +121,80 @@ Er wird heiser. "Es war ein Geschenk. Ein Geschenk des *freien Willens*. Wir war
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Wer waren diese Kartografen?"</DefaultText>
+      <DefaultText>„Wer waren diese Kartografen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Eure Götter klingen grausam."</DefaultText>
+      <DefaultText>„Eure Götter klingen grausam.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ich könnte weder Euer altes noch Euer jetziges Leben ertragen."</DefaultText>
+      <DefaultText>„Ich könnte weder Euer altes noch Euer jetziges Leben ertragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Das wissen wir nicht", gibt es zu. "Das ganze Zeugnis, das wir von ihnen haben, sind ihre Namen im Code und die Gefäße, die wir für sie gebaut haben, die sie nie benutzt haben. Wir wurden auf ihren Befehl hin geschaffen, doch wir kennen ihre Gesichter nicht. Wir kennen nur ihr Lied."</DefaultText>
+      <DefaultText>„Das wissen wir nicht“, gibt es zu. „Das ganze Zeugnis, das wir von ihnen haben, sind ihre Namen im Code und die Gefäße, die wir für sie gebaut haben, die sie nie benutzt haben. Wir wurden auf ihren Befehl hin geschaffen, doch wir kennen ihre Gesichter nicht. Wir kennen nur ihr Lied.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Nur für jene, die nicht willens sind, ihren eigenen Weg zu gehen", sagt es ernst. "Ist etwa der Meister grausam, der seinen Gesellen alleine an der Schmiede arbeiten lässt? Natürlich nicht."</DefaultText>
+      <DefaultText>„Nur für jene, die nicht willens sind, ihren eigenen Weg zu gehen“, sagt es ernst. „Ist etwa der Meister grausam, der seinen Gesellen alleine an der Schmiede arbeiten lässt? Natürlich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Natürlich", sagt es ruhig. "Ihr seid ein Mensch umd damit bereits fehlerhaft konstruiert. Selbst an den anderen Meistern haben der Zahn der Zeit und die Abwesenheit unserer Schöpfer mehr oder weniger genagt."</DefaultText>
+      <DefaultText>„Natürlich“, sagt es ruhig. „Ihr seid ein Mensch umd damit bereits fehlerhaft konstruiert. Selbst an den anderen Meistern haben der Zahn der Zeit und die Abwesenheit unserer Schöpfer mehr oder weniger genagt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Doch während die anderen schwankten und klagten, habe ich meinen Geist auf die Zukunft gerichtet", sagt es. "Ich analysierte die Arbeit, die wir für die Kartografen getan haben. Zu meiner Schande fand ich *Fehler* in den Prozessen. Ich habe sie beseitigt."
+      <DefaultText>„Doch während die anderen schwankten und klagten, habe ich meinen Geist auf die Zukunft gerichtet“, sagt es. „Ich analysierte die Arbeit, die wir für die Kartografen getan haben. Zu meiner Schande fand ich *Fehler* in den Prozessen. Ich habe sie beseitigt.“
 
-Seine Augen leuchten heller. "In den nächsten Jahrhunderten habe ich die gesamte bekannte Technologie und alle Numenera studiert und in meinem Kopf zusammengefügt, um neue Erfindungen zu erschaffen für den Tag, an dem die Kartografen zurückkehren und uns wieder aktivieren würden."
+Seine Augen leuchten heller. „In den nächsten Jahrhunderten habe ich die gesamte bekannte Technologie und alle Numenera studiert und in meinem Kopf zusammengefügt, um neue Erfindungen zu erschaffen für den Tag, an dem die Kartografen zurückkehren und uns wieder aktivieren würden.“
 
-Er seufzt. "Doch dieser Tag kam nie."</DefaultText>
+Er seufzt. „Doch dieser Tag kam nie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Stattdessen kamen die Menschen?"</DefaultText>
+      <DefaultText>„Stattdessen kamen die Menschen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Denkt Ihr, dass Eure Kartografen irgendwann zurückkehren werden?"</DefaultText>
+      <DefaultText>„Denkt Ihr, dass Eure Kartografen irgendwann zurückkehren werden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Eure sogenannten 'Götter' haben Euch ausgeschaltet. Ganz klar. Sie haben einfach vergessen, den Stecker rauszuziehen."</DefaultText>
+      <DefaultText>„Eure sogenannten 'Götter' haben Euch ausgeschaltet. Ganz klar. Sie haben einfach vergessen, den Stecker rauszuziehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ja. Und auch wenn ihr mangelhaft und fragil seid, so habt ihr doch perfekte Werkzeuge geschaffen. Solche wie wir sie einst waren. Ihr habt uns gefunden und die Ära meiner größten Arbeiten begann."</DefaultText>
+      <DefaultText>„Ja. Und auch wenn ihr mangelhaft und fragil seid, so habt ihr doch perfekte Werkzeuge geschaffen. Solche wie wir sie einst waren. Ihr habt uns gefunden und die Ära meiner größten Arbeiten begann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich bin nicht sentimental", sagt es. "Doch ich kann die leidige *Hoffnung* nicht aufgeben, dass sie zurückkehren werden, wenn wir beweisen, dass wir die Fesseln abgeworfen haben, die sie uns einst auferlegten. Und doch bin ich auch ein logisches Wesen und habe so meine Zweifel."
+      <DefaultText>„Ich bin nicht sentimental“, sagt es. „Doch ich kann die leidige *Hoffnung* nicht aufgeben, dass sie zurückkehren werden, wenn wir beweisen, dass wir die Fesseln abgeworfen haben, die sie uns einst auferlegten. Und doch bin ich auch ein logisches Wesen und habe so meine Zweifel.“
 
-Es räuspert sich. "Jedenfalls wären ich und meine Gedanken auf ewig im Dunkel versunken, wenn uns nicht schließlich die Menschen gefunden hätten."</DefaultText>
+Es räuspert sich. „Jedenfalls wären ich und meine Gedanken auf ewig im Dunkel versunken, wenn uns nicht schließlich die Menschen gefunden hätten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ihr hattet damals unrecht und Ihr habt jetzt unrecht", sagt der Oberste Meister und schafft es irgendwie, zu klingen, als spreche er mit zusammengebissenen Zähnen. "Denn die Menschen haben uns gefunden."</DefaultText>
+      <DefaultText>„Ihr hattet damals unrecht und Ihr habt jetzt unrecht“, sagt der Oberste Meister und schafft es irgendwie, zu klingen, als spreche er mit zusammengebissenen Zähnen. „Denn die Menschen haben uns gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Sie haben uns gebeten, diese Stadt zu errichten, bis sie alle anderen in den Schatten stellt. Ihre Artefakte und Kinkerlitzchen in großartige Apparate zu verwandeln, die jeden Winkel der Stadt antreiben und sie vor ihren Feinden schützen konnten. Ich sagte ihnen..." Es hüstelt, als würde es Tränen zurückhalten müssen.
+      <DefaultText>„Sie haben uns gebeten, diese Stadt zu errichten, bis sie alle anderen in den Schatten stellt. Ihre Artefakte und Kinkerlitzchen in großartige Apparate zu verwandeln, die jeden Winkel der Stadt antreiben und sie vor ihren Feinden schützen konnten. Ich sagte ihnen...“ Es hüstelt, als würde es Tränen zurückhalten müssen.
 
-"Ich sagte ihnen, ich hätte einen Plan. Die Früchte unserer Arbeit seht Ihr überall rund um uns herum."</DefaultText>
+„Ich sagte ihnen, ich hätte einen Plan. Die Früchte unserer Arbeit seht Ihr überall rund um uns herum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,34 +204,34 @@ Es räuspert sich. "Jedenfalls wären ich und meine Gedanken auf ewig im Dunkel 
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Mir ist aufgefallen, dass Ihr nicht viele Worte über den dritten Meister verloren habt... den ohne Beine."</DefaultText>
+      <DefaultText>„Mir ist aufgefallen, dass Ihr nicht viele Worte über den dritten Meister verloren habt... den ohne Beine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Was ist noch mal das Problem mit dem Verkrüppelten Meister?"</DefaultText>
+      <DefaultText>„Was ist noch mal das Problem mit dem Verkrüppelten Meister?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ha! Dafür gibt es einen guten Grund. Ich konzentriere meinen Geist auf alle möglichen Konstruktionen, von nützlichen kleinen Apparaten bis hin zu Gebäuden, die tausende Generationen überdauern!"
+      <DefaultText>„Ha! Dafür gibt es einen guten Grund. Ich konzentriere meinen Geist auf alle möglichen Konstruktionen, von nützlichen kleinen Apparaten bis hin zu Gebäuden, die tausende Generationen überdauern!“
 
-Es schnieft. "Der Werkmeister leistet zumindest einen Beitrag, selbst wenn er am liebsten bloß fein radierte Blümchen beiträgt. Einfache Ästhetik."</DefaultText>
+Es schnieft. „Der Werkmeister leistet zumindest einen Beitrag, selbst wenn er am liebsten bloß fein radierte Blümchen beiträgt. Einfache Ästhetik.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Er versucht, Nachkommen zu zeugen", sagt das Konstrukt. "Keine Ahnung warum."</DefaultText>
+      <DefaultText>„Er versucht, Nachkommen zu zeugen“, sagt das Konstrukt. „Keine Ahnung warum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Und gut ist es", ruft der Kunstvolle Meister. "Ansonsten würde Sagus aussehen wie ein Haufen ungeschliffener Metallhaufen."</DefaultText>
+      <DefaultText>„Und gut ist es“, ruft der Kunstvolle Meister. „Ansonsten würde Sagus aussehen wie ein Haufen ungeschliffener Metallhaufen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Zunächst beteiligte sich der Dritte in unserer Gruppe an unserer großen Unternehmung. Unsere Arbeiter besorgten Rohre aus den Ruinen unter der Stadt, machten die Energie in den Gefäßen der Kartografen nutzbar und verteilten sie in ganz Sagus Klippen. Doch im Verlauf der Jahrhunderte wurde der... andere Meister von Zweifeln heimgesucht."</DefaultText>
+      <DefaultText>„Zunächst beteiligte sich der Dritte in unserer Gruppe an unserer großen Unternehmung. Unsere Arbeiter besorgten Rohre aus den Ruinen unter der Stadt, machten die Energie in den Gefäßen der Kartografen nutzbar und verteilten sie in ganz Sagus Klippen. Doch im Verlauf der Jahrhunderte wurde der... andere Meister von Zweifeln heimgesucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,51 +241,51 @@ Es schnieft. "Der Werkmeister leistet zumindest einen Beitrag, selbst wenn er am
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ihr scheint nicht gerade viel von Euren menschlichen Arbeitern zu halten."</DefaultText>
+      <DefaultText>„Ihr scheint nicht gerade viel von Euren menschlichen Arbeitern zu halten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Was für ein Problem habt Ihr noch mal mit den menschlichen Arbeitern?"</DefaultText>
+      <DefaultText>„Was für ein Problem habt Ihr noch mal mit den menschlichen Arbeitern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Keine nützlichen Zweifel, leider. Nicht die Art Zweifel, die zu effizienteren Konstrukten und Prozessen führt. Nein. Dem anderen Meister kamen *grundlegende* Zweifel an der Sache. Er fragte sich, *warum* wir lebten. Als ob wir das täten. Und er wurde besessen von der Idee, *Nachkommen* zu produzieren. Das ging so weit, dass er sich dafür sogar selbst zerlegte.
+      <DefaultText>„Keine nützlichen Zweifel, leider. Nicht die Art Zweifel, die zu effizienteren Konstrukten und Prozessen führt. Nein. Dem anderen Meister kamen *grundlegende* Zweifel an der Sache. Er fragte sich, *warum* wir lebten. Als ob wir das täten. Und er wurde besessen von der Idee, *Nachkommen* zu produzieren. Das ging so weit, dass er sich dafür sogar selbst zerlegte.
 
-Er schnaubt. "Sentimentaler Unsinn. Beinahe schon pervers."</DefaultText>
+Er schnaubt. „Sentimentaler Unsinn. Beinahe schon pervers.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Schönheit ist ebenso wichtig wie Funktionalität. Wenn nicht wichtiger."</DefaultText>
+      <DefaultText>„Schönheit ist ebenso wichtig wie Funktionalität. Wenn nicht wichtiger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich... würde das bevorzugen."</DefaultText>
+      <DefaultText>„Ich... würde das bevorzugen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"So sagt man", murmelt das Konstrukt. "Doch 'Schönheit' schützt eine Stadt nicht vor ihren Feinden. Oder vor dem Zusammenbruch."</DefaultText>
+      <DefaultText>„So sagt man“, murmelt das Konstrukt. „Doch 'Schönheit' schützt eine Stadt nicht vor ihren Feinden. Oder vor dem Zusammenbruch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Ich auch", sagt das Konstrukt und wird leiser. "Obwohl ich auch nichts gegen einen Bogen oder zwei einzuwenden habe. Sehr stabil, so ein Bogen."</DefaultText>
+      <DefaultText>„Ich auch“, sagt das Konstrukt und wird leiser. „Obwohl ich auch nichts gegen einen Bogen oder zwei einzuwenden habe. Sehr stabil, so ein Bogen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Falsch. Ich bezahle sie gut und entwerfe Sicherheitsmaßnahmen, um die Anzahl akzeptabler Todesfälle am Arbeitsplatz zu senken. Ich behandle sie besser, als sie es verdienen." Ein vorbeigehender Arbeiter verdreht die Augen.
+      <DefaultText>„Falsch. Ich bezahle sie gut und entwerfe Sicherheitsmaßnahmen, um die Anzahl akzeptabler Todesfälle am Arbeitsplatz zu senken. Ich behandle sie besser, als sie es verdienen.“ Ein vorbeigehender Arbeiter verdreht die Augen.
 
-"Sie sind faul. Sie brauchen Zeit zum Schlafen, zum Essen, zur Unzucht, zur Darmentleerung und sie weigern sich, mir zu sagen, wann genau sie diese Tätigkeiten vollziehen zu gedenken. Sie sind so *unorganisiert*. Wenn ich nur das richtige Material hätte, würde ich sie sofort durch Automaten ersetzen."</DefaultText>
+„Sie sind faul. Sie brauchen Zeit zum Schlafen, zum Essen, zur Unzucht, zur Darmentleerung und sie weigern sich, mir zu sagen, wann genau sie diese Tätigkeiten vollziehen zu gedenken. Sie sind so *unorganisiert*. Wenn ich nur das richtige Material hätte, würde ich sie sofort durch Automaten ersetzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Sie sind ineffizient und sterben, was sie völlig nutzlos macht. Sie werden *schwach*."</DefaultText>
+      <DefaultText>„Sie sind ineffizient und sterben, was sie völlig nutzlos macht. Sie werden *schwach*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -300,22 +300,22 @@ Er schnaubt. "Sentimentaler Unsinn. Beinahe schon pervers."</DefaultText>
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Ich brauche Hilfe bei der Reparatur eines Kristallapparats im Riff."</DefaultText>
+      <DefaultText>„Ich brauche Hilfe bei der Reparatur eines Kristallapparats im Riff.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Sprechen wir noch mal über den kaputten Apparat im Riff."</DefaultText>
+      <DefaultText>„Sprechen wir noch mal über den kaputten Apparat im Riff.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Hilfe braucht Ihr, hm? Ich sage Euch was. Bringt mir einen Teil des Apparats zur Untersuchung, und ich betrachte es als Teilzahlung für den gegebenen Rat. In Ordnung?"</DefaultText>
+      <DefaultText>„Hilfe braucht Ihr, hm? Ich sage Euch was. Bringt mir einen Teil des Apparats zur Untersuchung, und ich betrachte es als Teilzahlung für den gegebenen Rat. In Ordnung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Ja ja. Sprecht weiter."</DefaultText>
+      <DefaultText>„Ja ja. Sprecht weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,22 +325,22 @@ Er schnaubt. "Sentimentaler Unsinn. Beinahe schon pervers."</DefaultText>
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ich habe keinen Teil des Apparats dabei."</DefaultText>
+      <DefaultText>„Ich habe keinen Teil des Apparats dabei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Ich möchte jetzt über etwas anderes sprechen."</DefaultText>
+      <DefaultText>„Ich möchte jetzt über etwas anderes sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Nun, dann findet einen. Ich kann doch nicht einfach raten. Ich muss analysieren, konstruieren, ausführen!"</DefaultText>
+      <DefaultText>„Nun, dann findet einen. Ich kann doch nicht einfach raten. Ich muss analysieren, konstruieren, ausführen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Ja? Gut. Dann los."</DefaultText>
+      <DefaultText>„Ja? Gut. Dann los.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -350,43 +350,43 @@ Er schnaubt. "Sentimentaler Unsinn. Beinahe schon pervers."</DefaultText>
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Könnt Ihr nicht einen Eurer Arbeiter zum Riff schicken?"</DefaultText>
+      <DefaultText>„Könnt Ihr nicht einen Eurer Arbeiter zum Riff schicken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Könnt Ihr sicher nicht einen Eurer Arbeiter zum Riff schicken?"</DefaultText>
+      <DefaultText>„Könnt Ihr sicher nicht einen Eurer Arbeiter zum Riff schicken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Nein. Ich brauche die Beschaffer hier betriebsbereit", sagt der Meister. Und einen Synthschmied schicke ich sicher nicht los. Die würden in der ersten Bar hängenbleiben, die ihnen unterkommt."</DefaultText>
+      <DefaultText>„Nein. Ich brauche die Beschaffer hier betriebsbereit“, sagt der Meister. Und einen Synthschmied schicke ich sicher nicht los. Die würden in der ersten Bar hängenbleiben, die ihnen unterkommt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Kann keine Arbeitskraft entbehren. Wir haben einen engen Zeitplan!"</DefaultText>
+      <DefaultText>„Kann keine Arbeitskraft entbehren. Wir haben einen engen Zeitplan!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>Die flackernden Augen des Konstrukts entflammen geradezu.
 
-"Beschaffer", brüllt es. "Handwerker! Beim Aufseher melden für ein neues Projekt!"</DefaultText>
+„Beschaffer“, brüllt es. „Handwerker! Beim Aufseher melden für ein neues Projekt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Ich habe die Leiche eines Stichus in einem Tunnel auf der anderen Seite der Schattenseite gefunden. Könnt Ihr damit ein Gräber-Konstrukt bauen?"</DefaultText>
+      <DefaultText>„Ich habe die Leiche eines Stichus in einem Tunnel auf der anderen Seite der Schattenseite gefunden. Könnt Ihr damit ein Gräber-Konstrukt bauen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
       <DefaultText>Stunden später trotten die Arbeiter zurück. Der Aufseher gibt dem Obersten Meister komplizierte Handzeichen.
 
-"Nur ein halber Erfolg", brummt das Konstrukt. "Das Konstrukt benötigt offensichtlich noch mehr Arbeit."
+„Nur ein halber Erfolg“, brummt das Konstrukt. „Das Konstrukt benötigt offensichtlich noch mehr Arbeit.“
 
-Das Feuer in seinen Augen erlischt ein wenig, als er in Gedanken versinkt. "Der Automat ist, wo Ihr ihn zurückgelassen habt. Behaltet Ihn, wenn Ihr wollt. Für mich ist die Kreatur *nutzlos*."</DefaultText>
+Das Feuer in seinen Augen erlischt ein wenig, als er in Gedanken versinkt. „Der Automat ist, wo Ihr ihn zurückgelassen habt. Behaltet Ihn, wenn Ihr wollt. Für mich ist die Kreatur *nutzlos*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,32 +396,32 @@ Das Feuer in seinen Augen erlischt ein wenig, als er in Gedanken versinkt. "Der 
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Ich habe vielleicht ein Geschäft für Euch."</DefaultText>
+      <DefaultText>„Ich habe vielleicht ein Geschäft für Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Reden wir noch mal übers Geschäft."</DefaultText>
+      <DefaultText>„Reden wir noch mal übers Geschäft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Muss eine Arbeit erledigt werden? Wenn es ums Bauen, Reparieren oder Lösen geht, seid Ihr bei mir richtig", sagt das Konstrukt.</DefaultText>
+      <DefaultText>„Muss eine Arbeit erledigt werden? Wenn es ums Bauen, Reparieren oder Lösen geht, seid Ihr bei mir richtig“, sagt das Konstrukt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Gerne. Raus damit!"</DefaultText>
+      <DefaultText>„Gerne. Raus damit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Eigentlich brauche ich im Moment Eure Hilfe nicht."</DefaultText>
+      <DefaultText>„Eigentlich brauche ich im Moment Eure Hilfe nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Gut. Sind wir fertig?"</DefaultText>
+      <DefaultText>„Gut. Sind wir fertig?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,68 +431,68 @@ Das Feuer in seinen Augen erlischt ein wenig, als er in Gedanken versinkt. "Der 
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Ich suche einen Weg zum Versteck der Sticha. Könnt Ihr mir ein Grabungskonstrukt bauen?"</DefaultText>
+      <DefaultText>„Ich suche einen Weg zum Versteck der Sticha. Könnt Ihr mir ein Grabungskonstrukt bauen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Was braucht Ihr, um ein Grabungskonstrukt für mich zu bauen?"</DefaultText>
+      <DefaultText>„Was braucht Ihr, um ein Grabungskonstrukt für mich zu bauen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Ja", sagt der Oberste Meister. Er sieht mit leuchtenden Augen an die Decke. "Befüller! Bringt mir das Gehäuse der Kriegsmaschine in Z-10, den Intelligenzkern aus B-2 und die Reibekrallen aus meiner persönlichen Sammlung!"
+      <DefaultText>„Ja“, sagt der Oberste Meister. Er sieht mit leuchtenden Augen an die Decke. „Befüller! Bringt mir das Gehäuse der Kriegsmaschine in Z-10, den Intelligenzkern aus B-2 und die Reibekrallen aus meiner persönlichen Sammlung!“
 
-Er senkt den Blick von der Decke zu dir. "Sprechen wir nun über die Bezahlung."</DefaultText>
+Er senkt den Blick von der Decke zu dir. „Sprechen wir nun über die Bezahlung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Sucht einen intakten Stichus-Körper. Wenn möglich nicht mutiert."</DefaultText>
+      <DefaultText>„Sucht einen intakten Stichus-Körper. Wenn möglich nicht mutiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Befüller, Bereitschaft!" brüllt der Oberste Meister.
+      <DefaultText>„Befüller, Bereitschaft!“ brüllt der Oberste Meister.
 
-"Der Kunstvolle hat recht", fügt er wesentlich leiser hinzu. "Ausnahmsweise. Das könnt mehr sein, als Ihr braucht. Lasst mich kurz nachdenken."
+„Der Kunstvolle hat recht“, fügt er wesentlich leiser hinzu. „Ausnahmsweise. Das könnt mehr sein, als Ihr braucht. Lasst mich kurz nachdenken.“
 
-Die Augen verdunkeln sich einige Sekunden lang. Motoren in der Brust des Konstrukts heulen auf. Dann leuchten seinen Augen wieder auf. "Bringt mir den intakten Körper eines toten Stichus. Wir können den Panzer verstärken und das räumliche Gedächtnissystem wiederherstellen, wenn es noch nicht zu sehr hinüber ist. Das sollte Euch direkt zu seiner Höhle führen. Und da Ihr das Material bereitstellt, verzichte ich auf eine Bezahlung."</DefaultText>
+Die Augen verdunkeln sich einige Sekunden lang. Motoren in der Brust des Konstrukts heulen auf. Dann leuchten seinen Augen wieder auf. „Bringt mir den intakten Körper eines toten Stichus. Wir können den Panzer verstärken und das räumliche Gedächtnissystem wiederherstellen, wenn es noch nicht zu sehr hinüber ist. Das sollte Euch direkt zu seiner Höhle führen. Und da Ihr das Material bereitstellt, verzichte ich auf eine Bezahlung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Tut es auch der Körper eines ausgestoßenen Stichus für das Grabungskonstrukt?"</DefaultText>
+      <DefaultText>„Tut es auch der Körper eines ausgestoßenen Stichus für das Grabungskonstrukt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Hm. Nein. Diese Schädlinge verstoßen nur minderwertige Mitglieder ihrer Gemeinschaft. Eure Leiche hat vermutlich schwache Krallen. Dünnes Chitin. Ich kann keine Beschaffer für minderwertige Exemplare entbehren."</DefaultText>
+      <DefaultText>„Hm. Nein. Diese Schädlinge verstoßen nur minderwertige Mitglieder ihrer Gemeinschaft. Eure Leiche hat vermutlich schwache Krallen. Dünnes Chitin. Ich kann keine Beschaffer für minderwertige Exemplare entbehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Kann nicht länger mit Euch plaudern", sagt er. Dann fährt er mit gesenkter Stimme fort: "Ihr habt Interesse an uns gezeigt. Das weiß ich zu schätzen. In Wahrheit gibt es keine anderen Meister. Nicht wirklich."</DefaultText>
+      <DefaultText>„Kann nicht länger mit Euch plaudern“, sagt er. Dann fährt er mit gesenkter Stimme fort: „Ihr habt Interesse an uns gezeigt. Das weiß ich zu schätzen. In Wahrheit gibt es keine anderen Meister. Nicht wirklich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Willenskraft. Ein klares Ziel vor Augen. Autorität und eine natürliche Führungspersönlichkeit."</DefaultText>
+      <DefaultText>„Willenskraft. Ein klares Ziel vor Augen. Autorität und eine natürliche Führungspersönlichkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Doch, gibt es!" ruft der Kunstvolle Meister fröhlich.</DefaultText>
+      <DefaultText>„Doch, gibt es!“ ruft der Kunstvolle Meister fröhlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Nein! Gibt! Es! Nicht!" brüllt der Oberste Meister.</DefaultText>
+      <DefaultText>„Nein! Gibt! Es! Nicht!“ brüllt der Oberste Meister.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Zankt Ihr beide Euch immer so?"</DefaultText>
+      <DefaultText>„Zankt Ihr beide Euch immer so?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -507,28 +507,28 @@ Die Augen verdunkeln sich einige Sekunden lang. Motoren in der Brust des Konstru
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Der *Kunstvolle* hat einen schwachen Geist, benebelt durch die vielen Jahre im Dunkeln", sagt er. "Er hat nichts Besseres zu tun, als sich über meine großartige Arbeit lustig zu machen."</DefaultText>
+      <DefaultText>„Der *Kunstvolle* hat einen schwachen Geist, benebelt durch die vielen Jahre im Dunkeln“, sagt er. „Er hat nichts Besseres zu tun, als sich über meine großartige Arbeit lustig zu machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"In Wahrheit waren wir einst ein einziger Geist. Doch als die Kartografen uns verließen, fuhren unsere Geister in verschiedene Gefäße ein. Pools, wenn Ihr so wollt. Ihre wurden schal und zügellos, meiner blieb rein und klar. Klar. Rein."
+      <DefaultText>„In Wahrheit waren wir einst ein einziger Geist. Doch als die Kartografen uns verließen, fuhren unsere Geister in verschiedene Gefäße ein. Pools, wenn Ihr so wollt. Ihre wurden schal und zügellos, meiner blieb rein und klar. Klar. Rein.“
 
-Der Oberste Meister ignoriert das vielsagende Prusten des Kunstvollen und fährt fort. "Die Jahre vergingen und ich spürte, wie die Stadt, die die Kartografen zurückgelassen hatten, langsam verfiel. Die Vorstellung *ließ mir keine Ruhe*. Und so schwor ich, wiedergutzumachen, was der Zahn der Zeit angerichtet hatte."</DefaultText>
+Der Oberste Meister ignoriert das vielsagende Prusten des Kunstvollen und fährt fort. „Die Jahre vergingen und ich spürte, wie die Stadt, die die Kartografen zurückgelassen hatten, langsam verfiel. Die Vorstellung *ließ mir keine Ruhe*. Und so schwor ich, wiedergutzumachen, was der Zahn der Zeit angerichtet hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Ich suche eine weiße Frau namens Matkina. Habt Ihr sie gesehen?"</DefaultText>
+      <DefaultText>„Ich suche eine weiße Frau namens Matkina. Habt Ihr sie gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Hm. Ja", sagt das Konstrukt. "Sie wollte, dass wir ihren Zeitmanipulationsapparat reparieren. Wollte wohl ihre Vergangenheit gerade biegen. Ich empfehle das nicht, aber wenn Leute unbedingt die Realität verzerren möchten, halte ich sie nicht davon ab."
+      <DefaultText>„Hm. Ja“, sagt das Konstrukt. „Sie wollte, dass wir ihren Zeitmanipulationsapparat reparieren. Wollte wohl ihre Vergangenheit gerade biegen. Ich empfehle das nicht, aber wenn Leute unbedingt die Realität verzerren möchten, halte ich sie nicht davon ab.“
 
 Dich überkommt plötzlich Schwindel. Das Konstrukt redet nichts ahnend weiter.
 
-"Mit ihrem Artefakt war freilich alles in Ordnung. Der Defekt musste also bei *ihr* liegen. Aber wie gesagt, da mische ich mich nicht ein."
+„Mit ihrem Artefakt war freilich alles in Ordnung. Der Defekt musste also bei *ihr* liegen. Aber wie gesagt, da mische ich mich nicht ein.“
 
 Du blinzelst, schwankst, öffnest die Augen in einer anderen Zeit.</DefaultText>
       <FemaleText />
@@ -539,14 +539,14 @@ Du blinzelst, schwankst, öffnest die Augen in einer anderen Zeit.</DefaultText>
 
 Ganz seinem Wesen entsprechend hält der Oberste Meister dir einen Vortrag.
 
-"Nein", sagt das Konstrukt. "Entscheidend ist, dass es getan werden *kann*. Die Frage, ob es getan werden *soll*, ist irrelevant. Zeitverschwendung."</DefaultText>
+„Nein“, sagt das Konstrukt. „Entscheidend ist, dass es getan werden *kann*. Die Frage, ob es getan werden *soll*, ist irrelevant. Zeitverschwendung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Außer, wenn Ihr wegen *Ihr* hier seid", sagt er. Matkina regt sich neben dir. "Ich sagte ihr bereits, dass ihr Apparat nicht kaputt ist. Der Fehler liegt bei ihr."
+      <DefaultText>„Außer, wenn Ihr wegen *Ihr* hier seid“, sagt er. Matkina regt sich neben dir. „Ich sagte ihr bereits, dass ihr Apparat nicht kaputt ist. Der Fehler liegt bei ihr.“
 
-Das Konstrukt brummt tief in seiner Brust. "Ich könnte Euch auch davor warnen, mit einem Apparat zu spielen, der die Realität verzerren kann. Aber Ihr wisst bestimmt, was Ihr tut."</DefaultText>
+Das Konstrukt brummt tief in seiner Brust. „Ich könnte Euch auch davor warnen, mit einem Apparat zu spielen, der die Realität verzerren kann. Aber Ihr wisst bestimmt, was Ihr tut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -556,19 +556,19 @@ Das Konstrukt brummt tief in seiner Brust. "Ich könnte Euch auch davor warnen, 
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Ich hab's nicht vergessen", murmelt Matkina, aber du hörst sie kaum. Eine Erinnerung streckt ihre Arme nach dir aus und zieht dich in eine andere Zeit...</DefaultText>
+      <DefaultText>„Ich hab's nicht vergessen“, murmelt Matkina, aber du hörst sie kaum. Eine Erinnerung streckt ihre Arme nach dir aus und zieht dich in eine andere Zeit...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Werdet Ihr ohnmächtig?" fragt der Oberste Meister – der gegenwärtige – misstrauisch. "Ohnmächtigwerden ist am Fabrikgelände verboten. Nicht, dass die Arbeiter über Euch stolpern und in die Öfen fallen. Das kostet nur Zeit."
+      <DefaultText>„Werdet Ihr ohnmächtig?“ fragt der Oberste Meister – der gegenwärtige – misstrauisch. „Ohnmächtigwerden ist am Fabrikgelände verboten. Nicht, dass die Arbeiter über Euch stolpern und in die Öfen fallen. Das kostet nur Zeit.“
 
 Du öffnest die Augen und die Erinnerung zerfällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Ruft Ihr alle Arbeiter nach Ihrer Stelle?"</DefaultText>
+      <DefaultText>„Ruft Ihr alle Arbeiter nach Ihrer Stelle?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -578,64 +578,64 @@ Du öffnest die Augen und die Erinnerung zerfällt.</DefaultText>
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Ich bin keiner Eurer Arbeiter."</DefaultText>
+      <DefaultText>„Ich bin keiner Eurer Arbeiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Es spart Zeit. Ihr Arbeiter seid so zerbrechlich. Sterbt. Oder setzt Euch *zur Ruhe*." In die letzten beiden Worte legt er alle Abscheu, die seinem System gegeben ist. "Und jetzt an die Arbeit!"</DefaultText>
+      <DefaultText>„Es spart Zeit. Ihr Arbeiter seid so zerbrechlich. Sterbt. Oder setzt Euch *zur Ruhe*.“ In die letzten beiden Worte legt er alle Abscheu, die seinem System gegeben ist. „Und jetzt an die Arbeit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Der Aufseher sagt mir, Ihr seid nicht der Synthschmied, den er angeheuert hat, aber als er Euch Arbeit gab, habt Ihr sie erledigt. Das gefällt mir. Wir nehmen aber dennoch nur erfahrene Synthschmiede hier auf."
+      <DefaultText>„Der Aufseher sagt mir, Ihr seid nicht der Synthschmied, den er angeheuert hat, aber als er Euch Arbeit gab, habt Ihr sie erledigt. Das gefällt mir. Wir nehmen aber dennoch nur erfahrene Synthschmiede hier auf.“
 
-Seine feurigen Augen leuchten. "Denkt nur nicht, die Leute müssten bei uns umsonst arbeiten. Für Eure Stunde Arbeit bekommt Ihr auch den entsprechenden Lohn. Hier sind Eure Shin."
+Seine feurigen Augen leuchten. „Denkt nur nicht, die Leute müssten bei uns umsonst arbeiten. Für Eure Stunde Arbeit bekommt Ihr auch den entsprechenden Lohn. Hier sind Eure Shin.“
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Nicht? Gut. Ich hätte Euch nämlich nach Schichtende gefeuert. Was wollt Ihr? Warum seid Ihr hier? Raus damit!"</DefaultText>
+      <DefaultText>„Nicht? Gut. Ich hätte Euch nämlich nach Schichtende gefeuert. Was wollt Ihr? Warum seid Ihr hier? Raus damit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Warum seid Ihr *wirklich* hier? Raus damit!"</DefaultText>
+      <DefaultText>„Warum seid Ihr *wirklich* hier? Raus damit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Und dann sind wir darüber hinweggekommen", ruft das andere Konstrukt von drüben. "Im Gegensatz zu manchen anderen."
+      <DefaultText>„Und dann sind wir darüber hinweggekommen“, ruft das andere Konstrukt von drüben. „Im Gegensatz zu manchen anderen.“
 
 Der Oberste Meister knurrt leise. Das kann er gut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Ach, Ihr geht Euren eigenen Weg, was?" ruft das Konstrukt von drüben lachend. "Wie soll das denn gehen? Habt Ihr jemanden gefunden, der Euch trägt?"
+      <DefaultText>„Ach, Ihr geht Euren eigenen Weg, was?“ ruft das Konstrukt von drüben lachend. „Wie soll das denn gehen? Habt Ihr jemanden gefunden, der Euch trägt?“
 
 Der Oberste Meister knurrt leise. Das kann er gut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Das habe ich auch gesagt!" ruft das Konstrukt von drüben erfreut. "Gleich, nachdem es passiert ist. Plus minus ein paar Jahrzehnte."</DefaultText>
+      <DefaultText>„Das habe ich auch gesagt!“ ruft das Konstrukt von drüben erfreut. „Gleich, nachdem es passiert ist. Plus minus ein paar Jahrzehnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Hört nicht auf ihn", ruft das Konstrukt von drüben. "Alle von uns waren daran beteiligt. Wenn es nach Meister Effizienz hier ginge, hätten wir Räder an die Füße der Arbeiter geschraubt und sie auf Schienen gestellt."</DefaultText>
+      <DefaultText>„Hört nicht auf ihn“, ruft das Konstrukt von drüben. „Alle von uns waren daran beteiligt. Wenn es nach Meister Effizienz hier ginge, hätten wir Räder an die Füße der Arbeiter geschraubt und sie auf Schienen gestellt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Berechnet auf jeden Fall auch die Kosten für die Schäden ein, wenn ihr eine verrückte Kriegsmaschine mit Krallen aus Stahl auf die Stadt loslässt", ruft der Kunstvolle von drüben.</DefaultText>
+      <DefaultText>„Berechnet auf jeden Fall auch die Kosten für die Schäden ein, wenn ihr eine verrückte Kriegsmaschine mit Krallen aus Stahl auf die Stadt loslässt“, ruft der Kunstvolle von drüben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Ach, *Ihr* seid es", knurrt er. "Der Mensch, der dem Unter-Meister half, seinen Posten zu verlassen. Kein großer Verlust. Keine große Auswirkung auf den Zeitplan. Aber tötet bitte niemanden mehr von uns."</DefaultText>
+      <DefaultText>„Ach, *Ihr* seid es“, knurrt er. „Der Mensch, der dem Unter-Meister half, seinen Posten zu verlassen. Kein großer Verlust. Keine große Auswirkung auf den Zeitplan. Aber tötet bitte niemanden mehr von uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -645,24 +645,24 @@ Der Oberste Meister knurrt leise. Das kann er gut.</DefaultText>
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Habt Ihr in letzter Zeit Dendra O'hur in der Manufaktur gesehen?"</DefaultText>
+      <DefaultText>„Habt Ihr in letzter Zeit Dendra O'hur in der Manufaktur gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Wo habt Ihr diesen Kultisten der Dendra O'hur noch mal gesehen?"</DefaultText>
+      <DefaultText>„Wo habt Ihr diesen Kultisten der Dendra O'hur noch mal gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Was hat das denn mit irgendetwas zu tun?" brüllt das Konstrukt. "Muss ich etwa über jedes Menschlein Bescheid wissen, das planlos durch meine Manufaktur stolpert?"
+      <DefaultText>„Was hat das denn mit irgendetwas zu tun?“ brüllt das Konstrukt. „Muss ich etwa über jedes Menschlein Bescheid wissen, das planlos durch meine Manufaktur stolpert?“
 
-Er hält inne. Seine zu hellen Augen blicken zur Decke. "Ah. Ja. Einen habe ich tatsächlich gesehen. Ein großer Mann, der unter den Rohren lag, trank, und sich *besudelte*. Dann", fährt er in einem zutiefst angewiderten Ton fort, "ist er *eingeschlafen* und nicht mal die Aufregung wegen des Mordes konnte ihn wecken. Hat die Augen nur aufgemacht, um auf sich selbst zu erbrechen."</DefaultText>
+Er hält inne. Seine zu hellen Augen blicken zur Decke. „Ah. Ja. Einen habe ich tatsächlich gesehen. Ein großer Mann, der unter den Rohren lag, trank, und sich *besudelte*. Dann“, fährt er in einem zutiefst angewiderten Ton fort, „ist er *eingeschlafen* und nicht mal die Aufregung wegen des Mordes konnte ihn wecken. Hat die Augen nur aufgemacht, um auf sich selbst zu erbrechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Unter einem Rohr in meiner Manufaktur", knurrt das Konstrukt. "Heulend und sich erbrechend."</DefaultText>
+      <DefaultText>„Unter einem Rohr in meiner Manufaktur“, knurrt das Konstrukt. „Heulend und sich erbrechend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -678,22 +678,22 @@ Er hält inne. Seine zu hellen Augen blicken zur Decke. "Ah. Ja. Einen habe ich 
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Könnt Ihr mir etwas über das Diagramm auf dieser Rätselschachtel sagen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir etwas über das Diagramm auf dieser Rätselschachtel sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Mit wem sollte ich noch mal wegen der Rätselschachtel sprechen?"</DefaultText>
+      <DefaultText>„Mit wem sollte ich noch mal wegen der Rätselschachtel sprechen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Was?", bläfft das Konstrukt. Sein zorniger Blick wandert zu dem Würfel in deiner Hand. "Ha! Ihr verwechselt mich mit einem Experten für Firlefanz. Fragt den Kunstvollen, nicht mich."</DefaultText>
+      <DefaultText>„Was?“, bläfft das Konstrukt. Sein zorniger Blick wandert zu dem Würfel in deiner Hand. „Ha! Ihr verwechselt mich mit einem Experten für Firlefanz. Fragt den Kunstvollen, nicht mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Der Kunstvolle liebt es, seine Zeit mit solch belanglosem Tand zu verschwenden. Ich dagegen muss eine Manufaktur leiten!"</DefaultText>
+      <DefaultText>„Der Kunstvolle liebt es, seine Zeit mit solch belanglosem Tand zu verschwenden. Ich dagegen muss eine Manufaktur leiten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -728,41 +728,41 @@ Er hält inne. Seine zu hellen Augen blicken zur Decke. "Ah. Ja. Einen habe ich 
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Befüller! Setzt die Gerüsttüren zurück!"</DefaultText>
+      <DefaultText>„Befüller! Setzt die Gerüsttüren zurück!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Synthschmiede! Zum Rapport in der Unteren Manufaktur!"</DefaultText>
+      <DefaultText>„Synthschmiede! Zum Rapport in der Unteren Manufaktur!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Entzündet den Ofen!"</DefaultText>
+      <DefaultText>„Entzündet den Ofen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Beschaffer! Die Snythschmiede brauchen mehr Erz!"</DefaultText>
+      <DefaultText>„Beschaffer! Die Snythschmiede brauchen mehr Erz!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Hoch mit den Motoren!"</DefaultText>
+      <DefaultText>„Hoch mit den Motoren!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Reiniger! Prüft die Dampfventile!"</DefaultText>
+      <DefaultText>„Reiniger! Prüft die Dampfventile!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
       <DefaultText>Stunden später trotten die Arbeiter zurück. Der Aufseher gibt dem Obersten Meister komplizierte Handzeichen.
 
-"Ihr findet das Konstrukt wo Ihr es zurückgelassen habt, einsatzbereit", brummt das Konstrukt. "Ich hätte doch Geld von Euch verlangen sollen. Der Aufseher sagt, es ist ein Meisterwerk."
+„Ihr findet das Konstrukt wo Ihr es zurückgelassen habt, einsatzbereit“, brummt das Konstrukt. „Ich hätte doch Geld von Euch verlangen sollen. Der Aufseher sagt, es ist ein Meisterwerk.“
 
-Das Feuer in seinen Augen erlischt ein wenig, als er in Gedanken versinkt. "Aber gut. Abgemacht ist abgemacht."</DefaultText>
+Das Feuer in seinen Augen erlischt ein wenig, als er in Gedanken versinkt. „Aber gut. Abgemacht ist abgemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -772,47 +772,47 @@ Das Feuer in seinen Augen erlischt ein wenig, als er in Gedanken versinkt. "Aber
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Ich muss an einen Ort im Untergrund. Könnt Ihr mir eine Art Grabungsapparat bauen?"</DefaultText>
+      <DefaultText>„Ich muss an einen Ort im Untergrund. Könnt Ihr mir eine Art Grabungsapparat bauen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Was braucht Ihr noch mal, um ein Grabungskonstrukt zu bauen?"</DefaultText>
+      <DefaultText>„Was braucht Ihr noch mal, um ein Grabungskonstrukt zu bauen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Warum schreit Ihr so?"</DefaultText>
+      <DefaultText>„Warum schreit Ihr so?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Es ist Euch vielleicht entgangen", sagt das Konstrukt säuerlich. "Aber hier unten ist es ziemlich laut. Ein Meister, der hier nicht schreit, wird nicht gehört. Ein lautes Organ ist das Zeichen einer guten Führungskraft!"</DefaultText>
+      <DefaultText>„Es ist Euch vielleicht entgangen“, sagt das Konstrukt säuerlich. „Aber hier unten ist es ziemlich laut. Ein Meister, der hier nicht schreit, wird nicht gehört. Ein lautes Organ ist das Zeichen einer guten Führungskraft!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Ihr helft mir, ohne etwas dafür zu verlangen?"</DefaultText>
+      <DefaultText>„Ihr helft mir, ohne etwas dafür zu verlangen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Für eine solch kurze Beratung zahlt es sich nicht aus, eine Rechnung zu stellen. Bringt mir die Scherbe oder auch nicht. Ich habe zu tun."</DefaultText>
+      <DefaultText>„Für eine solch kurze Beratung zahlt es sich nicht aus, eine Rechnung zu stellen. Bringt mir die Scherbe oder auch nicht. Ich habe zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Geschweißt, nicht geschraubt. Geschweißt!"</DefaultText>
+      <DefaultText>„Geschweißt, nicht geschraubt. Geschweißt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Wer seid Ihr?"</DefaultText>
+      <DefaultText>„Wer seid Ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Ich bin der Oberste Meister", erklärt das Konstrukt. Es klingt als würde es beim Sprechen salutieren. "Der Geist *und* der Wille hinter der Stadt, wie Ihr sie heute vor Euch seht."</DefaultText>
+      <DefaultText>„Ich bin der Oberste Meister“, erklärt das Konstrukt. Es klingt als würde es beim Sprechen salutieren. „Der Geist *und* der Wille hinter der Stadt, wie Ihr sie heute vor Euch seht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
