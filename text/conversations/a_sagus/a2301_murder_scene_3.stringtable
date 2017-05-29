@@ -91,7 +91,7 @@ Die Erinnerung fällt auseinander und lässt dich keuchend zurück. Wer auch imm
     <Entry>
       <ID>40</ID>
       <DefaultText>Follow-up PQ. 40</DefaultText>
-      <FemaleText>Follow-up PQ. 40</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
@@ -121,7 +121,7 @@ Die Erinnerung fällt auseinander und lässt dich keuchend zurück. Wer auch imm
     <Entry>
       <ID>46</ID>
       <DefaultText>Follow-up PQ. 46</DefaultText>
-      <FemaleText>Follow-up PQ. 46</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
@@ -290,7 +290,7 @@ Du entdeckst auch frische Schnitte auf dem Handrücken. Manth Pa kämpfte um se
     <Entry>
       <ID>74</ID>
       <DefaultText>Du trittst zurück.</DefaultText>
-      <FemaleText>Du trittst zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
@@ -298,29 +298,24 @@ Du entdeckst auch frische Schnitte auf dem Handrücken. Manth Pa kämpfte um se
 
 "Du kannst darauf wetten, dass ich nicht unvorbereitet erwischt worden wäre von ... was auch immer das war, das ihn erwischt hat. Zumindest hoffe ich das."
 {COLIN/NATHAN: This also feels like it should maybe be a forced interjection, or if it's otherwise, then it should be reworded to assume the player might hear about it long after the event in question. -AH}</DefaultText>
-      <FemaleText>"Ah, armer Manth. Er war immer für alles bereit, doch er hatte einfach nie dieses Gefühl der "sich aufrichtenden Nackenhaare", das man auf der Straße braucht. Nicht gut im Erkennen von Zeichen, wenn du mich verstehst."
-
-"Du kannst darauf wetten, dass ich nicht unvorbereitet erwischt worden wäre von ... was auch immer das war, das ihn erwischt hat. Zumindest hoffe ich das."
-{COLIN/NATHAN: This also feels like it should maybe be a forced interjection, or if it's otherwise, then it should be reworded to assume the player might hear about it long after the event in question. -AH}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
       <DefaultText>"Dein Verlust tut mir leid."</DefaultText>
-      <FemaleText>"Dein Verlust tut mir leid."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
       <DefaultText>"Ich kannte den Jungen nicht so gut", sagt er schulterzuckend. "Aber ... aber danke trotzdem. Wünschte, ich würde seine Familie kennen. Ich würde sie informieren."
 
 Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</DefaultText>
-      <FemaleText>"Ich kannte den Jungen nicht so gut", sagt er schulterzuckend. "Aber ... aber danke trotzdem. Wünschte, ich würde seine Familie kennen. Ich würde sie informieren."
-
-Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
       <DefaultText>"Wer – oder was – glaubst du, hat ihn getötet?"</DefaultText>
-      <FemaleText>"Wer – oder was – glaubst du, hat ihn getötet?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
@@ -329,25 +324,19 @@ Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</FemaleText>
 Er zuckt mit den Schultern. "Aber es gibt Dutzende Kulte in Sagus Klippen, also würde ich ungern raten, welcher davon verantwortlich ist."
 
 Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</DefaultText>
-      <FemaleText>"Sieht für mich nach Kult-Nonsens aus. Zu durchdacht – und grausig – für einen einfachen Mord."
-
-Er zuckt mit den Schultern. "Aber es gibt Dutzende Kulte in Sagus Klippen, also würde ich ungern raten, welcher davon verantwortlich ist."
-
-Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
       <DefaultText>"Keine Sorge. Du hast jetzt Freunde, die dir den Rücken freihalten."</DefaultText>
-      <FemaleText>"Keine Sorge. Du hast jetzt Freunde, die dir den Rücken freihalten."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
       <DefaultText>"Das ist ...", fängt er an, von deinen Worten überrascht. "Das ist ein Trost. Danke. Wünschte, ich wäre da gewesen, um das gleiche für den armen Manth zu tun."
 
 Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</DefaultText>
-      <FemaleText>"Das ist ...", fängt er an, von deinen Worten überrascht. "Das ist ein Trost. Danke. Wünschte, ich wäre da gewesen, um das gleiche für den armen Manth zu tun."
-
-Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
