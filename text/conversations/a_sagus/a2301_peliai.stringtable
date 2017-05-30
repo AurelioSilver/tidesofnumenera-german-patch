@@ -1907,7 +1907,7 @@ Sie seufzt und glättet die Vorderseite ihres Mantels. "Wir werden sehen. Ihr ha
     <Entry>
       <ID>387</ID>
       <DefaultText>[Gerangel starten]</DefaultText>
-      <FemaleText>[Gerangel starten]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>388</ID>
@@ -1917,7 +1917,7 @@ Sie seufzt und glättet die Vorderseite ihres Mantels. "Wir werden sehen. Ihr ha
     <Entry>
       <ID>390</ID>
       <DefaultText>[Debug: Zwischensequenz Weggehen ...]</DefaultText>
-      <FemaleText>[Debug: Zwischensequenz Weggehen ...]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>391</ID>
@@ -2172,7 +2172,7 @@ Die Varjellen nickt. "Wenn Ihr wirklich glaubt, dass Ihr helfen könnt, machen w
     <Entry>
       <ID>444</ID>
       <DefaultText>"Wer seid Ihr noch mal?"</DefaultText>
-      <FemaleText>"Wer seid Ihr noch mal?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>445</ID>
