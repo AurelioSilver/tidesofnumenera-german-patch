@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Hee hee hee."</DefaultText>
-      <FemaleText>"Hee hee hee."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -27,7 +27,7 @@
     <Entry>
       <ID>5</ID>
       <DefaultText>"Hoo hoo hoooooo. Hoo!"</DefaultText>
-      <FemaleText>"Hoo hoo hoooooo. Hoo!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -42,7 +42,7 @@
     <Entry>
       <ID>8</ID>
       <DefaultText>"Ha! Aha! Ahahaha!"</DefaultText>
-      <FemaleText>"Ha! Aha! Ahahaha!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
