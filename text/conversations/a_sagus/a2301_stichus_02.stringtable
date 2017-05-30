@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>::clk::</DefaultText>
-      <FemaleText>::clk::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -27,12 +27,12 @@
     <Entry>
       <ID>5</ID>
       <DefaultText>::hsshkt::</DefaultText>
-      <FemaleText>::hsshkt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>::sskeeee::</DefaultText>
-      <FemaleText>::sskeeee::</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
