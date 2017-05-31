@@ -289,7 +289,7 @@ Du taumelts zurück und hebst deinen schmerzenden Kopf. Der Vorarbeiter raucht u
     <Entry>
       <ID>47</ID>
       <DefaultText>::pop::</DefaultText>
-      <FemaleText>::pop::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -381,7 +381,7 @@ Aus seinem 'Mund' ist ein kräftiges Klicken zu vernehmen. "In all dieser Zeit h
     <Entry>
       <ID>64</ID>
       <DefaultText>::szzzzkt::</DefaultText>
-      <FemaleText>::szzzzkt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
@@ -451,7 +451,7 @@ Du blickst zu Tarnish hinüber. Er schaut weg, die Arme verschränkt, als ob er 
     <Entry>
       <ID>75</ID>
       <DefaultText>::zzzt::</DefaultText>
-      <FemaleText>::zzzt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
@@ -706,26 +706,24 @@ Woraufhin es verstummt. Die Kinder beobachten den Tod ihres Elternteils mit weit
     <Entry>
       <ID>131</ID>
       <DefaultText>"Was wirst du nun tun, da du entschieden hast, weiterzuleben?"</DefaultText>
-      <FemaleText>"Was wirst du nun tun, da du entschieden hast, weiterzuleben?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
       <DefaultText>"Sag mir nochmal, was du nun tun wirst, da du entschieden hast, weiterzuleben."</DefaultText>
-      <FemaleText>"Sag mir nochmal, was du nun tun wirst, da du entschieden hast, weiterzuleben."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
       <DefaultText>Heiße Luft seufzt aus den Ventilen des Vorarbeiters. 
 
 "Den Tod meiner Kinder untersuchen, so dass ich in Zukunft nicht versagen werde", sagt er so leise, dass du es kaum hören kannst. "Die Minuten zählen, bis ich es wieder versuchen kann."</DefaultText>
-      <FemaleText>Heiße Luft seufzt aus den Ventilen des Vorarbeiters. 
-
-"Den Tod meiner Kinder untersuchen, so dass ich in Zukunft nicht versagen werde", sagt er so leise, dass du es kaum hören kannst. "Die Minuten zählen, bis ich es wieder versuchen kann."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
       <DefaultText>"Meine Fehler studieren", sagt das Konstrukt sanft. "Trauern."</DefaultText>
-      <FemaleText>"Meine Fehler studieren", sagt das Konstrukt sanft. "Trauern."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
