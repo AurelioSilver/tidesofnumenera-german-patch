@@ -386,9 +386,7 @@ Pantoffeln scharren neben deinem Kopf auf dem Boden.
       <DefaultText>[Damit ist der dritte Alpha-Systemtest abgeschlossen. Danke fürs Spielen. Bitte sende uns deine Meinung über die Feedback-Schaltfläche im Spiel.]
 
 [Halte dich bereit für einen Beta-Test in naher Zukunft!]</DefaultText>
-      <FemaleText>[Damit ist der dritte Alpha-Systemtest abgeschlossen. Danke fürs Spielen. Bitte sende uns deine Meinung über die Feedback-Schaltfläche im Spiel.]
-
-[Halte dich bereit für einen Beta-Test in naher Zukunft!]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
@@ -419,41 +417,33 @@ Er ergreift deinen Ärmel. "Hört zu, Qorros Bande hat Euch getötet. Callistege
       <DefaultText>Du steigst durch die Dunkelheit, durch das Knacken von heilenden Knochen, das Geflüster von genesendem Fleisch. Jenseits dieser grotesken Sinfonie hörst du die schwache Stimme eines Kindes, das nach Hilfe ruft. Doch es ist zu weit weg, um die Worte verstehen zu können.
 
 Du öffnest die Augen. Imbitu, der alte Anführer der Dendra O'hur, steht nur wenige Zoll vor deinem Gesicht.</DefaultText>
-      <FemaleText>Du steigst durch die Dunkelheit, durch das Knacken von heilenden Knochen, das Geflüster von genesendem Fleisch. Jenseits dieser grotesken Sinfonie hörst du die schwache Stimme eines Kindes, das nach Hilfe ruft. Doch es ist zu weit weg, um die Worte verstehen zu können.
-
-Du öffnest die Augen. Imbitu, der alte Anführer der Dendra O'hur, steht nur wenige Zoll vor deinem Gesicht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
       <DefaultText>"Willkommen zurück, willkommen zurück", sagt er. "Eine Frau hat dich hier zu uns gebracht. Unordentliche Haare. Schöne Maske." Er lehnt sich weiter vor und senkt die Stimme. "Weißt du, ich glaube, sie hat dich *getötet*."
 
 Er richtet sich auf. "Sie hat dir eine kleine Nachricht hinterlassen. Lass mich nachdenken. Ah."</DefaultText>
-      <FemaleText>"Willkommen zurück, willkommen zurück", sagt er. "Eine Frau hat dich hier zu uns gebracht. Unordentliche Haare. Schöne Maske." Er lehnt sich weiter vor und senkt die Stimme. "Weißt du, ich glaube, sie hat dich *getötet*."
-
-Er richtet sich auf. "Sie hat dir eine kleine Nachricht hinterlassen. Lass mich nachdenken. Ah."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
       <DefaultText>Imbitu schließt die Augen und gibt Tol Maguurs Nachricht auswendig wieder: "'Ich hätte dich vernichten können. Denke daran. Komm nicht, um nach mir oder dem Mädchen zu suchen. Du wirst keinen von uns beiden wiedersehen.'"
 
 Imbitu runzelt die Stirn. "Oh je. Das klingt ziemlich grimmig, nicht wahr? Was für eine unangenehme Person." Er tätschelt dir mit einer blutverschmierten Hand das Knie. "Nun, heute ist ein neuer Tag, und so weiter. Also steh auf!"</DefaultText>
-      <FemaleText>Imbitu schließt die Augen und gibt Tol Maguurs Nachricht auswendig wieder: "'Ich hätte dich vernichten können. Denke daran. Komm nicht, um nach mir oder dem Mädchen zu suchen. Du wirst keinen von uns beiden wiedersehen.'"
-
-Imbitu runzelt die Stirn. "Oh je. Das klingt ziemlich grimmig, nicht wahr? Was für eine unangenehme Person." Er tätschelt dir mit einer blutverschmierten Hand das Knie. "Nun, heute ist ein neuer Tag, und so weiter. Also steh auf!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
       <DefaultText>::fröhlich summend::</DefaultText>
-      <FemaleText>::fröhlich summend::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
       <DefaultText>Imbitu schließt die Augen und gibt Tol Maguurs Nachricht auswendig wieder: "'Ich hätte dich vernichten können. Denke daran. Komm nicht, um nach mir zu suchen. Wir werden uns nicht wiedersehen.'"
 
 Imbitu runzelt die Stirn. "Oh je. Das klingt ziemlich grimmig, nicht wahr? Was für eine unangenehme Person." Er tätschelt dir mit einer blutverschmierten Hand das Knie. "Nun, heute ist ein neuer Tag, und so weiter. Also steh auf!"</DefaultText>
-      <FemaleText>Imbitu schließt die Augen und gibt Tol Maguurs Nachricht auswendig wieder: "'Ich hätte dich vernichten können. Denke daran. Komm nicht, um nach mir zu suchen. Wir werden uns nicht wiedersehen.'"
-
-Imbitu runzelt die Stirn. "Oh je. Das klingt ziemlich grimmig, nicht wahr? Was für eine unangenehme Person." Er tätschelt dir mit einer blutverschmierten Hand das Knie. "Nun, heute ist ein neuer Tag, und so weiter. Also steh auf!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
