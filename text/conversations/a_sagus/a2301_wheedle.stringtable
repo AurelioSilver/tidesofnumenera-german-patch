@@ -21,7 +21,7 @@
     <Entry>
       <ID>3</ID>
       <DefaultText>Follow-up PQ. 3</DefaultText>
-      <FemaleText>Follow-up PQ. 3</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -85,7 +85,7 @@ Er spreizt die Hände. "Und deshalb unterhalten wir uns. So ein murmelnder, verm
     <Entry>
       <ID>16</ID>
       <DefaultText>[DEBUG: Quest "Kühler berechnender Jack" zuweisen, damit sie "Rote Kreise" startet ... Szene verlassen und danach wieder betreten.]</DefaultText>
-      <FemaleText>[DEBUG: Quest "Kühler berechnender Jack" zuweisen, damit sie "Rote Kreise" startet ... Szene verlassen und danach wieder betreten.]</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
