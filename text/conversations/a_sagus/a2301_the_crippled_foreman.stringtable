@@ -13,7 +13,7 @@ Nichtsdestotrotz bewegen sie sich nicht. Die türkisfarbenen Augen des größere
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Die Pupillen des Vorarbeiters fixieren dich. Eine von ihnen flackert wie eine Kerzenflamme. 
+      <DefaultText>Die Pupillen des Vorarbeiters fixieren dich. Eine von ihnen flackert wie eine Kerzenflamme.
 
 "Ihr seid zurückgekehrt. Was möchtet Ihr besprechen?"</DefaultText>
       <FemaleText />
@@ -52,7 +52,7 @@ Das Licht in seinen Augen flackert. "Jedes Mal, wenn ich meinen Kindern das Lebe
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Er protestiert nicht. Untersucht also die bewegungslosen Konstrukte, die auf dem Boden vor dem Vorarbeiter liegen.  
+      <DefaultText>Er protestiert nicht. Untersucht also die bewegungslosen Konstrukte, die auf dem Boden vor dem Vorarbeiter liegen.
 
 Nach dem, was du von der Technologie hier verstehst, liegt der Vorarbeiter richtig. Diese kleinen Konstrukte müssten eigentlich funktionieren, was sie jedoch nicht tun. Möglicherweise tragen nicht sie den Defekt in sich.
 
@@ -65,7 +65,7 @@ Du gibst diese Informationen an den Vorarbeiter weiter. "Ich stimme Euch zu", sa
 
 Seine Pupillen drehen und ziehen sich zusammen. "Energietransfers, die einen gewissen Prozentsatz übersteigen, würden zu einer Kette von Störungen in meinen Intelligenzringen führen. Ich würde sterben.
 
-Sein Stimmgewebe klickt. "Helft mir, mich zu diesem Transfer zu zwingen, da ich es nicht selbst tun kann." 
+Sein Stimmgewebe klickt. "Helft mir, mich zu diesem Transfer zu zwingen, da ich es nicht selbst tun kann."
 
 *Klick* "Helft mir, mein Leben auf meine Kinder zu übertragen."</DefaultText>
       <FemaleText />
@@ -141,7 +141,7 @@ Sein Stimmgewebe klickt. "Helft mir, mich zu diesem Transfer zu zwingen, da ich 
       <ID>24</ID>
       <DefaultText>"Ja", sagt er. "Tarnish, öffnet bitte meine Konservierungsklappen und meine Viaduktschilde."
 
-Der bejahrte Arbeiter schleppt sich herüber und tut, wie ihm geheißen. 
+Der bejahrte Arbeiter schleppt sich herüber und tut, wie ihm geheißen.
 {TON: Eine Klappe wird geöffnet.}</DefaultText>
       <FemaleText />
     </Entry>
@@ -149,7 +149,7 @@ Der bejahrte Arbeiter schleppt sich herüber und tut, wie ihm geheißen.
       <ID>25</ID>
       <DefaultText>"Sicherlich", sagt er. "Tarnish? Öffnet bitte nochmal die Klappen und Schilde."
 
-Tarnish öffnet die Wartungsklappen seines Meisters und tritt beiseite. 
+Tarnish öffnet die Wartungsklappen seines Meisters und tritt beiseite.
 {TON: Eine Klappe wird geöffnet.}</DefaultText>
       <FemaleText />
     </Entry>
@@ -165,9 +165,9 @@ Tarnish öffnet die Wartungsklappen seines Meisters und tritt beiseite.
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Die Vision überkommt dich wie eine Welle, die einen Schwimmer verschlingt. 
+      <DefaultText>Die Vision überkommt dich wie eine Welle, die einen Schwimmer verschlingt.
 
-Du näherst dich diesem Vorarbeiter – noch immer von seinen Beinen besessen – und öffnet die gleichen Luken, die Tarnish öffnete. 
+Du näherst dich diesem Vorarbeiter – noch immer von seinen Beinen besessen – und öffnet die gleichen Luken, die Tarnish öffnete.
 
 "Ich weiß, es sieht kompliziert aus", sagt der Vorarbeiter. "Die Viadukte sind aber der einfachste Teil. Der Geist der Maschine – also ich – ist komplizierter. Auch wenn ich es nicht ganz verstehe." Er lacht. "Mich."
 
@@ -196,7 +196,7 @@ Die Vision schwindet und du stehst wieder vor den Trümmern dieses einst fröhli
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Blind rammst du deine Hände in den Körper des Vorarbeiters, reißt, richtest neu aus, und verursachst unsäglichen Schaden bei deinem Versuch, dem Wunsch des Konstrukts nachzukommen. 
+      <DefaultText>Blind rammst du deine Hände in den Körper des Vorarbeiters, reißt, richtest neu aus, und verursachst unsäglichen Schaden bei deinem Versuch, dem Wunsch des Konstrukts nachzukommen.
 
 Schließlich hast du Erfolg. Kalte Energie ergießt sich in die Luft wie Blut aus einer Wunde und strömt in die bewegungslosen Kinder. Nacheinander flackern ihre winzigen Augen vor Leben auf. Nacheinander erlöschen die Augen des Vorarbeiters. Sein Stimmgewebe klappert, als würde er sprechen wollen ...
 {VFX: Wenn wir VFX für die Baby-Konstrukte haben, wenn diese zum Leben erwecken, spielt es hier ab.}
@@ -219,7 +219,7 @@ Sie lächelt. "Natürlich habe ich einige Hände übrig."
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Aligern tritt neben dich und pfeift leise. 
+      <DefaultText>Aligern tritt neben dich und pfeift leise.
 
 "Ich bin mir nicht sicher, ob ich alles verstehe, was ich hier sehe, ich kann dir aber sagen – dieses Konstrukt zu töten, ist keine Aufgabe für eine Person. Wenn du dich dazu entschließt, seinem Wunsch nachzukommen, dann werde ich dir zur Hand gehen."
 {ALIGERN}</DefaultText>
@@ -242,7 +242,7 @@ Sie lächelt. "Natürlich habe ich einige Hände übrig."
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Du vernimmst ein schwaches, rhythmisches Klirren, als ob sich in einer entfernten, uralten Uhr ein Getriebe gelockert hätte. 
+      <DefaultText>Du vernimmst ein schwaches, rhythmisches Klirren, als ob sich in einer entfernten, uralten Uhr ein Getriebe gelockert hätte.
 
 "Er hat mir mehr als gut gedient", sagt das Konstrukt letztendlich, aber sanft. "Und er ist nicht jung."
 
@@ -256,11 +256,11 @@ Ein Seufzen rattert aus dem Gewebe, das seine Augen umgibt. "Vielleicht ... Wer
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Wortlos öffnest du dich den Gezeiten und wirst zu einer Leitung zwischen dem Konstrukt und seinen Kindern. Du atmest ein, und mit einem einzelnen Gedanken löst du die verzwickte Logik, die das Leben des Konstrukts an seinen uralten Körper band. Die Kinder bewegen sich. 
+      <DefaultText>Wortlos öffnest du dich den Gezeiten und wirst zu einer Leitung zwischen dem Konstrukt und seinen Kindern. Du atmest ein, und mit einem einzelnen Gedanken löst du die verzwickte Logik, die das Leben des Konstrukts an seinen uralten Körper band. Die Kinder bewegen sich.
 
-In dir treffen sich das Konstrukt und seine Kinder für den Bruchteil einer Sekunde, doch ihre Gedanken und die Worte, die zwischen ihnen ausgetauscht werden, entziehen sich dir.  
+In dir treffen sich das Konstrukt und seine Kinder für den Bruchteil einer Sekunde, doch ihre Gedanken und die Worte, die zwischen ihnen ausgetauscht werden, entziehen sich dir.
 
-Du taumelts zurück und hebst deinen schmerzenden Kopf. Der Vorarbeiter raucht und ist defekt. 
+Du taumelts zurück und hebst deinen schmerzenden Kopf. Der Vorarbeiter raucht und ist defekt.
 {TON: Rauschender Wind mit Anzeichen von Statik. Mechanisches Flüstern undeutlicher Worte.}
 {VFX: Wenn wir VFX für die Baby-Konstrukte haben, wenn diese zum Leben erwecken, spielt es hier ab.}</DefaultText>
       <FemaleText />
@@ -293,7 +293,7 @@ Du taumelts zurück und hebst deinen schmerzenden Kopf. Der Vorarbeiter raucht u
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Nacheinander nimmst du die Kinder des Vorarbeiters auf und verstaust sie, wobei du ihr Quäken und Klagen ignorierst. 
+      <DefaultText>Nacheinander nimmst du die Kinder des Vorarbeiters auf und verstaust sie, wobei du ihr Quäken und Klagen ignorierst.
 {BEUTE}</DefaultText>
       <FemaleText />
     </Entry>
@@ -366,9 +366,9 @@ Seine Augen wenden sich von deinem Blick ab, als sei er verlegen. "Und ich möch
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Seine Motoren summen in der darauffolgenden Stille. 
+      <DefaultText>Seine Motoren summen in der darauffolgenden Stille.
 
-"Ich werde mit Euch nicht über das Leben argumentieren", sagt er schließlich ziemlich ruhig. "Ihr sollt nur wissen, dass ich lange genug existiert habe, um die Zerstörung von Monden und den Tod von Sternen mitzuerleben." 
+"Ich werde mit Euch nicht über das Leben argumentieren", sagt er schließlich ziemlich ruhig. "Ihr sollt nur wissen, dass ich lange genug existiert habe, um die Zerstörung von Monden und den Tod von Sternen mitzuerleben."
 
 Aus seinem 'Mund' ist ein kräftiges Klicken zu vernehmen. "In all dieser Zeit habe ich keine absolute Definition von 'Leben' begründen können. Ich würde Euch raten, Eure Meinungen zu überdenken. Wenn Ihr das könnt, würde ich Eure Hilfe gerne in Anspruch nehmen. Zum Glück wurde eine neue Methode gefunden."</DefaultText>
       <FemaleText />
@@ -412,7 +412,7 @@ Aus seinem 'Mund' ist ein kräftiges Klicken zu vernehmen. "In all dieser Zeit h
       <ID>70</ID>
       <DefaultText>"Brauchen", sagt das Konstrukt. "Nicht wollen."
 
-Seine Pupillen studieren die entfernte Decke. "Als ich geboren wurde, nahm ich die Arbeit schon nach Sekunden auf. Das tat ich, bis unsere Schöpfer unsere Körper abschalteten. In dem darauffolgenden Jahrtausend habe ich mich auf den Entwurf der Infrastruktur hinter der Arbeit der anderen Vorarbeiter und darauf konzentriert, wie Arbeiter in die Ausführung dieser Entwürfe eingewiesen werden." 
+Seine Pupillen studieren die entfernte Decke. "Als ich geboren wurde, nahm ich die Arbeit schon nach Sekunden auf. Das tat ich, bis unsere Schöpfer unsere Körper abschalteten. In dem darauffolgenden Jahrtausend habe ich mich auf den Entwurf der Infrastruktur hinter der Arbeit der anderen Vorarbeiter und darauf konzentriert, wie Arbeiter in die Ausführung dieser Entwürfe eingewiesen werden."
 
 Seine Pupillen richten sich wieder auf dich. "Ich habe schließlich erkannt, dass ich unglücklich war."</DefaultText>
       <FemaleText />
@@ -426,7 +426,7 @@ Seine Pupillen richten sich wieder auf dich. "Ich habe schließlich erkannt, das
       <ID>72</ID>
       <DefaultText>"Ich habe 27 Geburtsiterationen durchlebt. Bei jedem Versuch zerreißt ein weiterer Teil meiner nicht-essenziellen Persönlichkeit und meiner Intelligenzringe."
 
-Die Augen des Vorarbeiters verdunkeln sich. "Wisst, dass diese kleinen Körper nur Körper sind. 27 Versionen meiner Kinder haben darin gelebt und sind darin gestorben. Wisst, dass sie lange genug lebten, damit ich ihre Persönlichkeiten verstehen und ihnen Namen geben konnte, bevor sie beseitigt wurden. Starben." 
+Die Augen des Vorarbeiters verdunkeln sich. "Wisst, dass diese kleinen Körper nur Körper sind. 27 Versionen meiner Kinder haben darin gelebt und sind darin gestorben. Wisst, dass sie lange genug lebten, damit ich ihre Persönlichkeiten verstehen und ihnen Namen geben konnte, bevor sie beseitigt wurden. Starben."
 
 Ein leises Schwirren kommt aus dem Gewebe, dass die flackernden Augen des Vorarbeiters umgibt.
 {TON: Ein leises Schwirren mit SEHR leichtem, traurigem Unterton.}</DefaultText>
@@ -434,7 +434,7 @@ Ein leises Schwirren kommt aus dem Gewebe, dass die flackernden Augen des Vorarb
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Von Zeit zu Zeit brachten meine Arbeiter ihre Kinder zur Manufaktur. Und sie hielten ihre kleinen Hände. Und erklärten ihnen die Mysterien dieses Ortes." 
+      <DefaultText>"Von Zeit zu Zeit brachten meine Arbeiter ihre Kinder zur Manufaktur. Und sie hielten ihre kleinen Hände. Und erklärten ihnen die Mysterien dieses Ortes."
 
 Seine Pupillen flackern aus. "Es begann als Gedanke – was würde ich meinen eigenen Kindern beibringen? Um neugierig zu sein. Um zu erforschen. Um dämliche Fragen zu stellen. Um die Welt oben zu sehen, die wir drei niemals gesehen haben."
 
@@ -443,7 +443,7 @@ Die Pupillen des Vorarbeiters flackern wieder auf. "Und als ich diese Dinger erd
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Noch nie hast du eine solche Technologie gesehen – Drähte verlaufen durch Glasleitungen, die mit blassem Licht und sternengesprenkelter Dunkelheit eingezogen sind. 
+      <DefaultText>Noch nie hast du eine solche Technologie gesehen – Drähte verlaufen durch Glasleitungen, die mit blassem Licht und sternengesprenkelter Dunkelheit eingezogen sind.
 
 Du blickst zu Tarnish hinüber. Er schaut weg, die Arme verschränkt, als ob er nicht bereit sei, einem Fremden dabei zuzusehen, wie er an seinem Meister herumbastelt.</DefaultText>
       <FemaleText />
@@ -571,7 +571,7 @@ Ohne einen Blick auf die Kinder seines Meisters zu werfen, entfernt sich Tarnish
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Die flackernden Augen des Vorarbeiters konzentrieren sich auf dich, als du dich näherst, und ein aussetzendes Summen erfüllt die Luft. Du spürst, wie die Luft dicker wird und sich um dich herum aufteilt, als würden unsichtbare Finger deine Habseligkeiten stupsen. 
+      <DefaultText>Die flackernden Augen des Vorarbeiters konzentrieren sich auf dich, als du dich näherst, und ein aussetzendes Summen erfüllt die Luft. Du spürst, wie die Luft dicker wird und sich um dich herum aufteilt, als würden unsichtbare Finger deine Habseligkeiten stupsen.
 
 "Ihr habt ein Gerät vom Orden der Wahrheit dabei", sagt der Vorarbeiter schließlich. "Was ist sein Zweck?"</DefaultText>
       <FemaleText />
@@ -715,7 +715,7 @@ Woraufhin es verstummt. Die Kinder beobachten den Tod ihres Elternteils mit weit
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Heiße Luft seufzt aus den Ventilen des Vorarbeiters. 
+      <DefaultText>Heiße Luft seufzt aus den Ventilen des Vorarbeiters.
 
 "Den Tod meiner Kinder untersuchen, so dass ich in Zukunft nicht versagen werde", sagt er so leise, dass du es kaum hören kannst. "Die Minuten zählen, bis ich es wieder versuchen kann."</DefaultText>
       <FemaleText />
