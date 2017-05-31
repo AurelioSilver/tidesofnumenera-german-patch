@@ -11,29 +11,29 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich suche nach Leuten, die mir dabei helfen, eine gefährliche Kreatur im Riff zu töten. Interessiert?"</DefaultText>
+      <DefaultText>„Ich suche nach Leuten, die mir dabei helfen, eine gefährliche Kreatur im Riff zu töten. Interessiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wirklich? Im Ernst? Ihr wollt, dass ich mit Euch *kämpfe*?" Varrenoth grinst, wobei ihr Mund immer breiter wird, bis die Augen des Konstrukts feucht werden.
+      <DefaultText>„Wirklich? Im Ernst? Ihr wollt, dass ich mit Euch *kämpfe*?“ Varrenoth grinst, wobei ihr Mund immer breiter wird, bis die Augen des Konstrukts feucht werden.
 
-"Also gut. Ich werde Euch dort treffen!"</DefaultText>
+„Also gut. Ich werde Euch dort treffen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Oh. Lebt wohl!"</DefaultText>
+      <DefaultText>„Oh. Lebt wohl!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Oh!", sagt das Mädchen aus dem Mund der älteren Frau. "Ihr seid zurück!"</DefaultText>
+      <DefaultText>„Oh!“, sagt das Mädchen aus dem Mund der älteren Frau. „Ihr seid zurück!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,31 +43,31 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Warum sind Eure Leute auf Erkundung?"</DefaultText>
+      <DefaultText>„Warum sind Eure Leute auf Erkundung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Warum sind Eure Leute nochmal auf Erkundung?"</DefaultText>
+      <DefaultText>„Warum sind Eure Leute nochmal auf Erkundung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Unsere UNDURCHDRINGBARE FESTUNG IN EINEM VERLORENEN TAL zerfällt. Ich denke, wir sollten einfach wirklich in die Welt hinausgehen, aber nein! Meine Familie hat *Angst*."
+      <DefaultText>„Unsere UNDURCHDRINGBARE FESTUNG IN EINEM VERLORENEN TAL zerfällt. Ich denke, wir sollten einfach wirklich in die Welt hinausgehen, aber nein! Meine Familie hat *Angst*.“
 
-Die Finger an der rechten Hand der Frau wackeln, als ob sie ein Instrument spiele. Ihr toter Gesichtsausdruck verändert sich nicht, selbst als die Stimme des Mädchens lauter wird. "Das bin ich natürlich nicht, sie würden aber nicht mal zulassen, dass ich dieses ... dieses Ding benutze. Ich muss umherschleichen. Wie ein *Kind*!"</DefaultText>
+Die Finger an der rechten Hand der Frau wackeln, als ob sie ein Instrument spiele. Ihr toter Gesichtsausdruck verändert sich nicht, selbst als die Stimme des Mädchens lauter wird. „Das bin ich natürlich nicht, sie würden aber nicht mal zulassen, dass ich dieses ... dieses Ding benutze. Ich muss umherschleichen. Wie ein *Kind*!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Weil wir auf der Suche nach einer neuen Heimat sind. ARAGOTH, DER LORD DES NORDENS, denkt jedoch, dass wir sterben, wenn wir hinausgehen ohne ... oh. Es hat es schon wieder getan, oder?"</DefaultText>
+      <DefaultText>„Weil wir auf der Suche nach einer neuen Heimat sind. ARAGOTH, DER LORD DES NORDENS, denkt jedoch, dass wir sterben, wenn wir hinausgehen ohne ... oh. Es hat es schon wieder getan, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Hallo! Kann irgendjemand hören, was ich sage? Ah, ich bring das einfach nicht zum Laufen!" Ohne Vorwarnung fährt sie umher und schlägt einen Krater in die Wand.
+      <DefaultText>„Hallo! Kann irgendjemand hören, was ich sage? Ah, ich bring das einfach nicht zum Laufen!“ Ohne Vorwarnung fährt sie umher und schlägt einen Krater in die Wand.
 
-"Oh. Oh nein. Ich hoffe, das hat niemand gesehen."
+„Oh. Oh nein. Ich hoffe, das hat niemand gesehen.“
 
 {ANIM: NPC schlägt in die Wand.}
 {VFX: B-Priorität – Wenn möglich fliegen Steinstücke aus der Wand, wenn sie darauf einschlägt.}
@@ -76,9 +76,9 @@ Die Finger an der rechten Hand der Frau wackeln, als ob sie ein Instrument spiel
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Sprecht Ihr mit mir?" Ihr Kopf dreht sich auf seltsame Weise um und versucht, einen Blick von dir zu erhaschen. "Oh! Tatsache. Mein Name ist VARRENOTH, CHAMPION DER ÖDLANDE."
+      <DefaultText>„Sprecht Ihr mit mir?“ Ihr Kopf dreht sich auf seltsame Weise um und versucht, einen Blick von dir zu erhaschen. „Oh! Tatsache. Mein Name ist VARRENOTH, CHAMPION DER ÖDLANDE.“
 
-Die Frau zuckt bei dem Klang der äußert andersartigen, dröhnenden Stimme, die aus ihrem eigenen Mund kommt, zusammen. "Das ist nicht mein Name, du dämliches Ding! Er lautet VARRENOTH, CHAMPION DER ÖDLANDE. Verdammt! Ich stamme aus EINEM LAND, VON DEM IHR NIEMALS GEHÖRT HABT. Verdammt nochmal! Ich denke, das darf ich nicht sagen."</DefaultText>
+Die Frau zuckt bei dem Klang der äußert andersartigen, dröhnenden Stimme, die aus ihrem eigenen Mund kommt, zusammen. „Das ist nicht mein Name, du dämliches Ding! Er lautet VARRENOTH, CHAMPION DER ÖDLANDE. Verdammt! Ich stamme aus EINEM LAND, VON DEM IHR NIEMALS GEHÖRT HABT. Verdammt nochmal! Ich denke, das darf ich nicht sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,94 +88,94 @@ Die Frau zuckt bei dem Klang der äußert andersartigen, dröhnenden Stimme, die
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Wer seid Ihr?"</DefaultText>
+      <DefaultText>„Wer seid Ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Wer seid Ihr noch mal?"</DefaultText>
+      <DefaultText>„Wer seid Ihr noch mal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"VARRENOTH, CHAMPION DER ÖDLANDE", bellt die ältere Frau. "Tut mir leid, ich habe versucht, meinen wahren Namen erneut zu sagen."</DefaultText>
+      <DefaultText>„VARRENOTH, CHAMPION DER ÖDLANDE“, bellt die ältere Frau. „Tut mir leid, ich habe versucht, meinen wahren Namen erneut zu sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Dieser Kampf war *unglaublich*!", sagt das Mädchen. "Ich würde versuchen, Euch zu umarmen, dabei würde ich Euch aber vermutlich den Rücken brechen."
+      <DefaultText>„Dieser Kampf war *unglaublich*!“, sagt das Mädchen. „Ich würde versuchen, Euch zu umarmen, dabei würde ich Euch aber vermutlich den Rücken brechen.“
 
-Der Körper dehnt den Hals von Seite zu Seite. "Durch den Kampf gegen dieses Ding habe ich einige Tricks gelernt. Ich denke wirklich, dass ich ..." Sie verhallt und zittert.</DefaultText>
+Der Körper dehnt den Hals von Seite zu Seite. „Durch den Kampf gegen dieses Ding habe ich einige Tricks gelernt. Ich denke wirklich, dass ich ...“ Sie verhallt und zittert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ich werde *kämpfen*!"</DefaultText>
+      <DefaultText>„Ich werde *kämpfen*!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Das bin ich nicht, Ihr könntet mich aber genauso gut so nennen. Oder einfach nur Varrenoth." Eine Schulter zuckt fortwährend. "Ich bin eigentlich nicht hier. Ich spreche einfach nur durch *sie*. Und versuche, sie zu bewegen."
+      <DefaultText>„Das bin ich nicht, Ihr könntet mich aber genauso gut so nennen. Oder einfach nur Varrenoth.“ Eine Schulter zuckt fortwährend. „Ich bin eigentlich nicht hier. Ich spreche einfach nur durch *sie*. Und versuche, sie zu bewegen.“
 
 Ihre Schulter stockt inmitten des Zuckens.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ihr seid also *nicht* Varrenoth, Champion der Ödlande?"</DefaultText>
+      <DefaultText>„Ihr seid also *nicht* Varrenoth, Champion der Ödlande?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ihr habt Euren Körper nicht unter Kontrolle, oder?"</DefaultText>
+      <DefaultText>„Ihr habt Euren Körper nicht unter Kontrolle, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ihr kontrolliert ein Konstrukt, oder? Das ist kein richtiger Körper."</DefaultText>
+      <DefaultText>„Ihr kontrolliert ein Konstrukt, oder? Das ist kein richtiger Körper.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"BAH. MACHT EUCH NICHT LÄCHERLICH", schreit die andere Frau. "Ihr habt es verstanden", sagt das Mädchen eine Sekunde später.</DefaultText>
+      <DefaultText>„BAH. MACHT EUCH NICHT LÄCHERLICH“, schreit die andere Frau. „Ihr habt es verstanden“, sagt das Mädchen eine Sekunde später.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Sie schreit mich ständig an, wenn ich über etwas rede, über das ich nicht reden soll", sagt sie, wobei sie die Stimme senkt. "Wenn ich aber vorsichtig spreche ..."
+      <DefaultText>„Sie schreit mich ständig an, wenn ich über etwas rede, über das ich nicht reden soll“, sagt sie, wobei sie die Stimme senkt. „Wenn ich aber vorsichtig spreche ...“
 
-Das Kinn fällt ihr herab. "Meine ... Familie erkundet die Welt. Mithilfe *besonderer Werkzeuge*." Der Körper sticht mit dem Finger auf sich selbst ein. "Sie wollen mir aber weismachen, dass ich zu jung sei, um zu helfen. Deshalb habe ich gewartet, bis jeder schlief, und ... Ihr wisst schon." Der Kopf hebt sich in den Nacken und zwinkert an die Decke der Höhle.
+Das Kinn fällt ihr herab. „Meine ... Familie erkundet die Welt. Mithilfe *besonderer Werkzeuge*.“ Der Körper sticht mit dem Finger auf sich selbst ein. „Sie wollen mir aber weismachen, dass ich zu jung sei, um zu helfen. Deshalb habe ich gewartet, bis jeder schlief, und ... Ihr wisst schon.“ Der Kopf hebt sich in den Nacken und zwinkert an die Decke der Höhle.
 
-"Seid Ihr auch ein Erkunder?"</DefaultText>
+„Seid Ihr auch ein Erkunder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Das bin ich! Ich weiß nur nicht, wie das alles funktioniert!" Die Frau ballt eine massive Faust, wobei die Sehnen wie Stahlkabel durch die Haut drücken.
+      <DefaultText>„Das bin ich! Ich weiß nur nicht, wie das alles funktioniert!“ Die Frau ballt eine massive Faust, wobei die Sehnen wie Stahlkabel durch die Haut drücken.
 
-"Das ist eigentlich nicht mein Körper. Ich spreche einfach nur durch *sie*. Und versuche, sie zu bewegen."
+„Das ist eigentlich nicht mein Körper. Ich spreche einfach nur durch *sie*. Und versuche, sie zu bewegen.“
 
 Ein Fuß hebt sich, stockt und fällt zurück auf den Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Oh! Oh", sagt sie. "Aus irgendeinem Grund dachte ich, Ihr wärt auch ein CHAMPION DER ÖDLANDE. Verdammt, es hat es schon wieder getan, nicht wahr? Sagt bloß niemandem, was ich bin, ja?"</DefaultText>
+      <DefaultText>„Oh! Oh“, sagt sie. „Aus irgendeinem Grund dachte ich, Ihr wärt auch ein CHAMPION DER ÖDLANDE. Verdammt, es hat es schon wieder getan, nicht wahr? Sagt bloß niemandem, was ich bin, ja?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ja, aber nicht wie Ihr."</DefaultText>
+      <DefaultText>„Ja, aber nicht wie Ihr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Das ist *so* eine Erleichterung", sagt sie. "Es sieht so einfach aus, aber das ist es nicht wirklich."</DefaultText>
+      <DefaultText>„Das ist *so* eine Erleichterung“, sagt sie. „Es sieht so einfach aus, aber das ist es nicht wirklich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>(Lügen) "Ja, so wie Ihr. Nach einer Weile kann man den Körper besser kontrollieren."</DefaultText>
+      <DefaultText>(Lügen) „Ja, so wie Ihr. Nach einer Weile kann man den Körper besser kontrollieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -185,58 +185,58 @@ Ein Fuß hebt sich, stockt und fällt zurück auf den Boden.</DefaultText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Was kann dieses Konstrukt machen?"</DefaultText>
+      <DefaultText>„Was kann dieses Konstrukt machen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Wo habt Ihr dieses Konstrukt her?"</DefaultText>
+      <DefaultText>„Wo habt Ihr dieses Konstrukt her?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Es ist *wirklich* schwer kaputt zu kriegen. Ein erwachsener Erdschüttler ist mal auf meine Mutter getreten – die es normalerweise steuert. Sie wurde wie ein Nagel in den Boden gerammt."
+      <DefaultText>„Es ist *wirklich* schwer kaputt zu kriegen. Ein erwachsener Erdschüttler ist mal auf meine Mutter getreten – die es normalerweise steuert. Sie wurde wie ein Nagel in den Boden gerammt.“
 
-Die Frau spannt einen massiven Bizeps an. "Spanne ich gerade an?", fragt das Mädchen. "Ich versuche, anzuspannen. Wie auch immer, es ist auch unglaublich stark. So stark wie 'Löcher in Berge schlagen'." Der Arm klappt zurück auf ihre Hüfte.</DefaultText>
+Die Frau spannt einen massiven Bizeps an. „Spanne ich gerade an?“, fragt das Mädchen. „Ich versuche, anzuspannen. Wie auch immer, es ist auch unglaublich stark. So stark wie 'Löcher in Berge schlagen'.“ Der Arm klappt zurück auf ihre Hüfte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"ICH WURDE NACHTS WÄHREND EINES STURMS AUF DEM SCHLACHTFELD GEBOREN", brüllt die Frau.
+      <DefaultText>„ICH WURDE NACHTS WÄHREND EINES STURMS AUF DEM SCHLACHTFELD GEBOREN“, brüllt die Frau.
 
-"Ha", sagt das Mädchen nach einem respektvollen Schweigemoment. "Sie will *wirklich * nicht, dass ich Euch sage, was ich gerade versucht habe, Euch zu sagen."</DefaultText>
+„Ha“, sagt das Mädchen nach einem respektvollen Schweigemoment. „Sie will *wirklich * nicht, dass ich Euch sage, was ich gerade versucht habe, Euch zu sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Und es ist nicht *wirklich* ein Konstrukt. Da drinnen ist kein Metall. Sie hat Blut. Knochen. Perfekte menschliche Ausdrücke. Nicht, dass Ihr das nicht sehen könntet, anhand dessen, wie ich es tue", fügt das Mädchen säuerlich hinzu. Die Frau macht parallel zu ihr eine Grimasse.</DefaultText>
+      <DefaultText>„Und es ist nicht *wirklich* ein Konstrukt. Da drinnen ist kein Metall. Sie hat Blut. Knochen. Perfekte menschliche Ausdrücke. Nicht, dass Ihr das nicht sehen könntet, anhand dessen, wie ich es tue“, fügt das Mädchen säuerlich hinzu. Die Frau macht parallel zu ihr eine Grimasse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Samen", platzt es aus dem Mädchen heraus. "Oh. Sie hat es mich sagen lassen. Aber mehr werde ich wahrscheinlich nicht sagen können. Tut mir leid."</DefaultText>
+      <DefaultText>„Samen“, platzt es aus dem Mädchen heraus. „Oh. Sie hat es mich sagen lassen. Aber mehr werde ich wahrscheinlich nicht sagen können. Tut mir leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Könnt Ihr mir denn gar nichts darüber sagen, wo Ihr dieses Konstrukt her habt?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir denn gar nichts darüber sagen, wo Ihr dieses Konstrukt her habt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Wer ist da?" Die muskelbepackte Frau neigt den Kopf in einem unbequemen Winkel zur Seite und starrt dich durch Augenschlitze an, als wüsste sie nicht, wie man die Augen öffnet.</DefaultText>
+      <DefaultText>„Wer ist da?“ Die muskelbepackte Frau neigt den Kopf in einem unbequemen Winkel zur Seite und starrt dich durch Augenschlitze an, als wüsste sie nicht, wie man die Augen öffnet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Meine Mutter ist wach! Sie darf nicht ... Ich muss ... Vielen Dank für alles!"
+      <DefaultText>„Meine Mutter ist wach! Sie darf nicht ... Ich muss ... Vielen Dank für alles!“
 
 Und mit diesen Worten sackt Varrenoth, Champion der Ödlande, zu einem knochenlosen Haufen vor deinen Füßen zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"ICH BIN MÜDE UND MUSS RUHEN."</DefaultText>
+      <DefaultText>„ICH BIN MÜDE UND MUSS RUHEN.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
