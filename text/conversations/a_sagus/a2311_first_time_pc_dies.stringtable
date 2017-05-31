@@ -12,9 +12,9 @@ Dies ist dein erster Hinweis darauf, dass du noch immer irgendwie am Leben bist.
 
 Pantoffeln scharren neben deinem Kopf auf dem Boden.
 
-"Kommt her, Kinder", sagt ein älterer Mann. "Kommt her zum Festmahl."
+„Kommt her, Kinder“, sagt ein älterer Mann. „Kommt her zum Festmahl.“
 
-{GAVIN und GEORGE: Fügt die folgenden Inhalte ein, wenn die Zeit dafür da ist: "[B] Die Gefährten des Spielers können in diese Unterhaltung eingreifen – diejenigen aus Sagus (Matkina, Riastrad/Satsada, Tybir, Callistege, Aligern) kennen die Dendra und können Ratschläge geben und Kommentare über sie machen."}</DefaultText>
+{GAVIN und GEORGE: Fügt die folgenden Inhalte ein, wenn die Zeit dafür da ist: „[B] Die Gefährten des Spielers können in diese Unterhaltung eingreifen – diejenigen aus Sagus (Matkina, Riastrad/Satsada, Tybir, Callistege, Aligern) kennen die Dendra und können Ratschläge geben und Kommentare über sie machen.“}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -39,17 +39,17 @@ Pantoffeln scharren neben deinem Kopf auf dem Boden.
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Oh je. Bist du dir sicher?" Heiße, knochige Finger drücken gegen deinen Hals, um nach einem Puls zu fühlen. Er klopft im Einklang mit dem Schlag, den er dort findet. "Wie überaus merkwürdig. Vor einem Moment war er noch *ziemlich* tot."</DefaultText>
-      <FemaleText>"Oh je. Bist du dir sicher?" Heiße, knochige Finger drücken gegen deinen Hals, um nach einem Puls zu fühlen. Er klopft im Einklang mit dem Schlag, den er dort findet. "Wie überaus merkwürdig. Vor einem Moment war sie noch *ziemlich* tot."</FemaleText>
+      <DefaultText>„Oh je. Bist du dir sicher?“ Heiße, knochige Finger drücken gegen deinen Hals, um nach einem Puls zu fühlen. Er klopft im Einklang mit dem Schlag, den er dort findet. „Wie überaus merkwürdig. Vor einem Moment war er noch *ziemlich* tot.“</DefaultText>
+      <FemaleText>„Oh je. Bist du dir sicher?“ Heiße, knochige Finger drücken gegen deinen Hals, um nach einem Puls zu fühlen. Er klopft im Einklang mit dem Schlag, den er dort findet. „Wie überaus merkwürdig. Vor einem Moment war sie noch *ziemlich* tot.“</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Du spürst, wie sich *jemand* über dich lehnt und an deinem Gesicht schnüffelt.
 
-"Er atmet", sagt eine tiefe, heisere, *hungrige* Stimme.</DefaultText>
+„Er atmet“, sagt eine tiefe, heisere, *hungrige* Stimme.</DefaultText>
       <FemaleText>Du spürst, wie sich *jemand* über dich lehnt und an deinem Gesicht schnüffelt.
 
-"Sie atmet", sagt eine tiefe, heisere, *hungrige* Stimme.</FemaleText>
+„Sie atmet“, sagt eine tiefe, heisere, *hungrige* Stimme.</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -59,17 +59,17 @@ Dies ist dein erster Hinweis darauf, dass du noch immer irgendwie am Leben bist.
 
 Pantoffeln scharren neben deniem Kopf auf dem Boden.
 
-"Ah", sagt ein älterer Mann. "Unser geheimnisvoller Besucher ist also am Leben. Ich bin froh, dass wir mit unserem Festmahl gewartet haben." Er schnalzt mit der Zunge. "Obwohl Ihr ziemlich tot wart, als wir Euch gefunden haben. Öffnet die Augen, Kind."</DefaultText>
+„Ah“, sagt ein älterer Mann. „Unser geheimnisvoller Besucher ist also am Leben. Ich bin froh, dass wir mit unserem Festmahl gewartet haben.“ Er schnalzt mit der Zunge. „Obwohl Ihr ziemlich tot wart, als wir Euch gefunden haben. Öffnet die Augen, Kind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Sprecht es nur aus und ich kümmere mich um die Sache mit der Atmung", dröhnt ein Mann von höherer Stelle als die anderen.</DefaultText>
+      <DefaultText>„Sprecht es nur aus und ich kümmere mich um die Sache mit der Atmung“, dröhnt ein Mann von höherer Stelle als die anderen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ihr könnt es versuchen."</DefaultText>
+      <DefaultText>„Ihr könnt es versuchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -100,7 +100,7 @@ Und dennoch ... strahlt er dich an, während seine eingefallenen Augen mit eine
       <ID>15</ID>
       <DefaultText>Er lächelt dich an. Seine geschärften Zähne sind schmutzig braun.
 
-"Ach, ich kenne Euch!", sagt er. "So viele Augen haben bereits auf dieser Tätowierung verweilt. Diese edle Stirn." Er streckt einen zitternden, knochigen Finger nach deiner Stirn aus.</DefaultText>
+„Ach, ich kenne Euch!“, sagt er. „So viele Augen haben bereits auf dieser Tätowierung verweilt. Diese edle Stirn.“ Er streckt einen zitternden, knochigen Finger nach deiner Stirn aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,14 +111,14 @@ Und dennoch ... strahlt er dich an, während seine eingefallenen Augen mit eine
     <Entry>
       <ID>17</ID>
       <DefaultText>Seine Fingerspitze zieht eine heiße Linie über deine Tätowierung.
-"Jaaaa", sagt er. "Jetzt erinnere ich mich."</DefaultText>
+„Jaaaa“, sagt er. „Jetzt erinnere ich mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Die alte Cirisa sah Euch einst aus den Augenwinkeln. Eine Woche vor seinem Unfall verkaufte Euch Ulori-mar einen kleinen Beutel ..." Er atmet durch und schließt die Augen. "Gezuckerter Mandeln. Das sind aber nicht die einzigen beiden. Nein. Ihr treibt durch unzählige Leben, verändert und beendet sie. Und hinterlasst dabei niemals einen Namen! Niemals *sterbend*!"
+      <DefaultText>„Die alte Cirisa sah Euch einst aus den Augenwinkeln. Eine Woche vor seinem Unfall verkaufte Euch Ulori-mar einen kleinen Beutel ...“ Er atmet durch und schließt die Augen. „Gezuckerter Mandeln. Das sind aber nicht die einzigen beiden. Nein. Ihr treibt durch unzählige Leben, verändert und beendet sie. Und hinterlasst dabei niemals einen Namen! Niemals *sterbend*!“
 
-Er atmet tief ein. "Oh, ich halte Geheimnisse nicht aus. Ich liebe sie, halte sie aber nicht aus. Und so *muss* ich Euch um einen einfach undenkbaren Gefallen bitten."</DefaultText>
+Er atmet tief ein. „Oh, ich halte Geheimnisse nicht aus. Ich liebe sie, halte sie aber nicht aus. Und so *muss* ich Euch um einen einfach undenkbaren Gefallen bitten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,28 +130,28 @@ Er atmet tief ein. "Oh, ich halte Geheimnisse nicht aus. Ich liebe sie, halte si
       <ID>20</ID>
       <DefaultText>Er tritt lächelnd aus dem Bogen deines Schlags zurück.
 
-"Es tut mir sehr leid", sagt er. "Ich habe nur selten mit den Lebenden zu tun. Leichen sind nicht ganz so schlagfertig."
+„Es tut mir sehr leid“, sagt er. „Ich habe nur selten mit den Lebenden zu tun. Leichen sind nicht ganz so schlagfertig.“
 
-Er schlägt mit der Hand nach dir. "Natürlich erinnere ich mich an Euch."</DefaultText>
+Er schlägt mit der Hand nach dir. „Natürlich erinnere ich mich an Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ihr habt vielleicht vermutet, dass wir Euch essen würden", sagt er und hebt einen knochigen Finger. "Das ist teilweise richtig. Aber nur, damit die Wunder Eures Lebens nicht verloren gehen."
+      <DefaultText>„Ihr habt vielleicht vermutet, dass wir Euch essen würden“, sagt er und hebt einen knochigen Finger. „Das ist teilweise richtig. Aber nur, damit die Wunder Eures Lebens nicht verloren gehen.“
 
-Er senkt befangen den Blick. "Und nun, da wir wissen, dass Ihr nicht sterben könnt, nun ... würdet Ihr uns die Ehre erweisen, uns Euch verspeisen zu lassen? Nur ein wenig? Wenn Ihr das tut, werden wir einige unserer tiefsten Geheimnisse – und Eure – mit Euch teilen!"
+Er senkt befangen den Blick. „Und nun, da wir wissen, dass Ihr nicht sterben könnt, nun ... würdet Ihr uns die Ehre erweisen, uns Euch verspeisen zu lassen? Nur ein wenig? Wenn Ihr das tut, werden wir einige unserer tiefsten Geheimnisse – und Eure – mit Euch teilen!“
 
-Er faltet die Hände. "Und wir werden Euch natürlich bezahlen."</DefaultText>
+Er faltet die Hände. „Und wir werden Euch natürlich bezahlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Also gut. Bringen wir es hinter uns."</DefaultText>
+      <DefaultText>„Also gut. Bringen wir es hinter uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich möchte lieber nicht gegessen werden."</DefaultText>
+      <DefaultText>„Ich möchte lieber nicht gegessen werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,28 +170,28 @@ Irgendjemand schreit, und du kannst dir gut vorstellen, wer das war. Schließlic
       <ID>25</ID>
       <DefaultText>Nach einer Ewigkeit öffnest du die Augen. Imbitu sitzt neben dir und liest ein Buch.
 
-"Ah!", sagt er und legt es ab. "Willkommen zurück! Welch *exquisite* Erfahrung ... obwohl ich sicher bin, dass Ihr nichts davon hören wollt, während Ihr wach werdet!"
+„Ah!“, sagt er und legt es ab. „Willkommen zurück! Welch *exquisite* Erfahrung ... obwohl ich sicher bin, dass Ihr nichts davon hören wollt, während Ihr wach werdet!“
 
-Er strahlt. "Nun! Ich habe mir erlaubt, ein kleines Dankeschön zu Euren Habseligkeiten zu legen. Sprecht mit mir, wann immer Ihr wissen wollt, was wir aus unserem kleinen Mahl erfahren haben."
+Er strahlt. „Nun! Ich habe mir erlaubt, ein kleines Dankeschön zu Euren Habseligkeiten zu legen. Sprecht mit mir, wann immer Ihr wissen wollt, was wir aus unserem kleinen Mahl erfahren haben.“
 {BEUTE}
 {GAVIN und GEORGE: Fügt folgende Informationen zu gegebener Zeit im späteren Verlauf hinzu: Die Dendra könnten sich auch auf die Erfahrungen beziehen, die der Spieler bisher im Spiel hatte (da sie einige der Erinnerungen des Spielers erlangt haben werden) und könnten Vorschläge zu (zum Beispiel) Dingen machen, die der Spieler verpasste. Darüber hinaus lädt Imbitu den Spieler ein, die Geheimnisse des Kults zu erfahren – wenn der Spieler Interesse hat, sollte er persönlich mit Imbitu sprechen.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Natürlich", sagt er und hebt die Hand. Seine Anhänger treten zurück. Sie sehen enttäuscht aus. "Lasst es mich wissen, solltet Ihr Eure Meinung ändern."</DefaultText>
+      <DefaultText>„Natürlich“, sagt er und hebt die Hand. Seine Anhänger treten zurück. Sie sehen enttäuscht aus. „Lasst es mich wissen, solltet Ihr Eure Meinung ändern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Lasst Euch Zeit, bis Ihr wieder auf die Füße kommt. Ich kann mir vorstellen, dass Euch ziemlich schwindelig ist."</DefaultText>
+      <DefaultText>„Lasst Euch Zeit, bis Ihr wieder auf die Füße kommt. Ich kann mir vorstellen, dass Euch ziemlich schwindelig ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Also, falls Ihr zufällig einen weiteren ... äh, halb tödlichen Unfall haben solltet, seid Euch gewiss, dass wir Euch so zärtlich wie eine Handvoll Vogeljunge in unsere Kapelle zurücktragen werden."
+      <DefaultText>„Also, falls Ihr zufällig einen weiteren ... äh, halb tödlichen Unfall haben solltet, seid Euch gewiss, dass wir Euch so zärtlich wie eine Handvoll Vogeljunge in unsere Kapelle zurücktragen werden.“
 
-Er tätschelt sanft deine Hand. "Und Ihr habt mein Wort, dass wir ohne Eure Erlaubnis nicht einen einzigen *Bissen* von Euch nehmen werden."</DefaultText>
+Er tätschelt sanft deine Hand. „Und Ihr habt mein Wort, dass wir ohne Eure Erlaubnis nicht einen einzigen *Bissen* von Euch nehmen werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,9 +201,9 @@ Er tätschelt sanft deine Hand. "Und Ihr habt mein Wort, dass wir ohne Eure Erla
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Noch etwas. Ihr seid in der Kapelle der Schattenseite. Wenn Ihr immer noch den Kult des Wandelnden Gottes aufsuchen möchtet, werdet Ihr ihn in Circus Minor finden. Durchquert die Haupthöhle der Schattenseite und nehmt den Tunnel auf der anderen Seite."
+      <DefaultText>„Noch etwas. Ihr seid in der Kapelle der Schattenseite. Wenn Ihr immer noch den Kult des Wandelnden Gottes aufsuchen möchtet, werdet Ihr ihn in Circus Minor finden. Durchquert die Haupthöhle der Schattenseite und nehmt den Tunnel auf der anderen Seite.“
 
-Er zwinkert. "Entschuldigt, dass wir Euren Plänen gelauscht haben, aber unsere Mahlzeit war *ziemlich* informativ."</DefaultText>
+Er zwinkert. „Entschuldigt, dass wir Euren Plänen gelauscht haben, aber unsere Mahlzeit war *ziemlich* informativ.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,14 +230,14 @@ Nicht so Imbitu. Er lehnt sich weiter vor. Du reißt rechtzeitig die Augen auf, 
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ich *wusste*, dass Ihr besonders seid", flüstert er. "So viele Blicke haben schon auf diesem Gesicht verweilt. Wie es sich durch die Menge bewegt, das Kinn hoch und stolz; Sonnenlicht küsst diese wunderbare Tätowierung."
+      <DefaultText>„Ich *wusste*, dass Ihr besonders seid“, flüstert er. „So viele Blicke haben schon auf diesem Gesicht verweilt. Wie es sich durch die Menge bewegt, das Kinn hoch und stolz; Sonnenlicht küsst diese wunderbare Tätowierung.“
 
 Er streckt einen zitternden Finger nach ihr aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Rührt mich nicht an."</DefaultText>
+      <DefaultText>„Rührt mich nicht an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,24 +256,24 @@ Er streckt einen zitternden Finger nach ihr aus.</DefaultText>
 
 Es ist nicht der Fall. Sein Grinsen wird nur größer.
 
-"Ich fürchte, ich muss Euch um einen einfach *undenkbaren* Gefallen bitten."</DefaultText>
+„Ich fürchte, ich muss Euch um einen einfach *undenkbaren* Gefallen bitten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Natürlich", sagt er und hebt den Finger. Dann sieht er dich von der Seite an, beinahe schüchtern. "Ich fürchte, ich muss Euch um einen einfach *undenkbaren* Gefallen bitten."</DefaultText>
+      <DefaultText>„Natürlich“, sagt er und hebt den Finger. Dann sieht er dich von der Seite an, beinahe schüchtern. „Ich fürchte, ich muss Euch um einen einfach *undenkbaren* Gefallen bitten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Seine fiebrige Haut fährt auf deiner entlang und hinterlässt beinahe eine brennende Spur. Und er lächelt.
 
-"Ich fürchte, ich muss Euch um einen einfach *undenkbaren* Gefallen bitten."</DefaultText>
+„Ich fürchte, ich muss Euch um einen einfach *undenkbaren* Gefallen bitten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ah, er ist wieder am Leben. Willkommen zurück!"</DefaultText>
+      <DefaultText>„Ah, er ist wieder am Leben. Willkommen zurück!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -283,53 +283,53 @@ Es ist nicht der Fall. Sein Grinsen wird nur größer.
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Wer *seid* Ihr überhaupt?"</DefaultText>
+      <DefaultText>„Wer *seid* Ihr überhaupt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Wer sind die Dendra O'hur und warum wird es in Ordnung mich zu *essen*, wenn man einer von ihnen ist?"</DefaultText>
+      <DefaultText>„Wer sind die Dendra O'hur und warum wird es in Ordnung mich zu *essen*, wenn man einer von ihnen ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Oh! Ja, ich vermute, es muss merkwürdig erscheinen, wenn eine Gruppe Fremder danach fragt, Euer Fleisch essen zu dürfen. Wir sind die Dendra O'hur."
+      <DefaultText>„Oh! Ja, ich vermute, es muss merkwürdig erscheinen, wenn eine Gruppe Fremder danach fragt, Euer Fleisch essen zu dürfen. Wir sind die Dendra O'hur.“
 
-Er lächelt, als würde dies deine Frage beantworten. "Nun, wollen wir loslegen?"</DefaultText>
+Er lächelt, als würde dies deine Frage beantworten. „Nun, wollen wir loslegen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Das ist eine gute Frage", sagt Imbitu gewichtig. "Aber ich fürchte, dass wir ziemlich hungrig sind. Wenn Ihr uns also keine Erlaubnis erteilt, müssen wir bei der nächsten Leiche weitermachen."
+      <DefaultText>„Das ist eine gute Frage“, sagt Imbitu gewichtig. „Aber ich fürchte, dass wir ziemlich hungrig sind. Wenn Ihr uns also keine Erlaubnis erteilt, müssen wir bei der nächsten Leiche weitermachen.“
 
-Er kichert. "Es sei denn, *die* ist auch unsterblich!"</DefaultText>
+Er kichert. „Es sei denn, *die* ist auch unsterblich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Wer kann das schon sagen? Es ist immer so eine *Überraschung*", sagt er. "Und in Eurem Fall erwarte ich große Überraschungen."</DefaultText>
+      <DefaultText>„Wer kann das schon sagen? Es ist immer so eine *Überraschung*“, sagt er. „Und in Eurem Fall erwarte ich große Überraschungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Was für Geheimnisse erwartet Ihr durch meinen Verzehr zu erfahren?"</DefaultText>
+      <DefaultText>„Was für Geheimnisse erwartet Ihr durch meinen Verzehr zu erfahren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Noch etwas. Ihr seid in der Kapelle der Schattenseite. Wenn Ihr etwas frische Luft braucht, Circus Minor ist zu dieser Tageszeit wunderbar, und Heimat des Kultes des Wandelnden Gottes. Faszinierender Haufen, doch ein wenig von der, äh, unsteten Sorte." Diesen letzten Teil sagt er aus dem Mundwinkel, wobei er braune, geschärfte Zähne entblößt.
+      <DefaultText>„Noch etwas. Ihr seid in der Kapelle der Schattenseite. Wenn Ihr etwas frische Luft braucht, Circus Minor ist zu dieser Tageszeit wunderbar, und Heimat des Kultes des Wandelnden Gottes. Faszinierender Haufen, doch ein wenig von der, äh, unsteten Sorte.“ Diesen letzten Teil sagt er aus dem Mundwinkel, wobei er braune, geschärfte Zähne entblößt.
 
-"Durchquert die Haupthöhle der Schattenseite und nehmt den Tunnel auf der anderen Seite."</DefaultText>
+„Durchquert die Haupthöhle der Schattenseite und nehmt den Tunnel auf der anderen Seite.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Oh, und beinahe habe ich es vergessen!"</DefaultText>
+      <DefaultText>„Oh, und beinahe habe ich es vergessen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ihr werdet mich dazu zwingen, mich hier rauszukämpfen, nicht wahr?"</DefaultText>
+      <DefaultText>„Ihr werdet mich dazu zwingen, mich hier rauszukämpfen, nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -339,23 +339,23 @@ Er kichert. "Es sei denn, *die* ist auch unsterblich!"</DefaultText>
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Was?" Der alte Mann kichert. "Oh, ja. Gefangen in der Höhle der Kannibalen! Wagemutige Flucht bei Fackellicht! *Herrlich*."
+      <DefaultText>„Was?“ Der alte Mann kichert. „Oh, ja. Gefangen in der Höhle der Kannibalen! Wagemutige Flucht bei Fackellicht! *Herrlich*.“
 
-Er schüttelt den Kopf. "Nein, nein. Nuretwas, das ich vergaß, zu erwähnen."</DefaultText>
+Er schüttelt den Kopf. „Nein, nein. Nuretwas, das ich vergaß, zu erwähnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Eine Frau hat Euch hierher gebracht. Unordentliche Haare. Schöne Maske." Er lehnt sich weiter vor und senkt die Stimme. "Wisst Ihr, ich glaube, sie hat Euch *getötet*."
+      <DefaultText>„Eine Frau hat Euch hierher gebracht. Unordentliche Haare. Schöne Maske.“ Er lehnt sich weiter vor und senkt die Stimme. „Wisst Ihr, ich glaube, sie hat Euch *getötet*.“
 
-"Sie hat Euch eine kleine Nachricht hinterlassen, für den Fall, dass Ihr erwacht. Zu dem Zeitpunkt dachte ich, sie sei verrückt." Er kichert. "Lasst mich nachdenken. Ah."</DefaultText>
+„Sie hat Euch eine kleine Nachricht hinterlassen, für den Fall, dass Ihr erwacht. Zu dem Zeitpunkt dachte ich, sie sei verrückt.“ Er kichert. „Lasst mich nachdenken. Ah.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Imbitu schließt die Augen und gibt Tol Maguurs Nachricht auswendig wieder: "'Ich hätte Euch vernichten können. Denkt daran. Kommt nicht, um nach mir oder dem Mädchen zu suchen. Ihr werdet keinen von uns beiden wiedersehen."
+      <DefaultText>Imbitu schließt die Augen und gibt Tol Maguurs Nachricht auswendig wieder: „'Ich hätte Euch vernichten können. Denkt daran. Kommt nicht, um nach mir oder dem Mädchen zu suchen. Ihr werdet keinen von uns beiden wiedersehen.“
 
-Imbitu runzelt die Stirn. "Oh je. Das klingt ziemlich grimmig, nicht wahr? Was für eine unangenehme Person." Er tätschelt dir mit einer blutverschmierten Hand das Knie. "Nun, heute ist ein neuer Tag, und so weiter. Also steht auf!"</DefaultText>
+Imbitu runzelt die Stirn. „Oh je. Das klingt ziemlich grimmig, nicht wahr? Was für eine unangenehme Person.“ Er tätschelt dir mit einer blutverschmierten Hand das Knie. „Nun, heute ist ein neuer Tag, und so weiter. Also steht auf!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,9 +365,9 @@ Imbitu runzelt die Stirn. "Oh je. Das klingt ziemlich grimmig, nicht wahr? Was f
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Imbitu schließt die Augen und gibt Tol Maguurs Nachricht auswendig wieder: "'Ich hätte Euch vernichten können. Denkt daran. Kommt nicht, um nach mir zu suchen. Wir werden uns nicht wiedersehen."
+      <DefaultText>Imbitu schließt die Augen und gibt Tol Maguurs Nachricht auswendig wieder: „'Ich hätte Euch vernichten können. Denkt daran. Kommt nicht, um nach mir zu suchen. Wir werden uns nicht wiedersehen.“
 
-Imbitu runzelt die Stirn. "Oh je. Das klingt ziemlich grimmig, nicht wahr? Was für eine unangenehme Person." Er tätschelt dir mit einer blutverschmierten Hand das Knie. "Nun, heute ist ein neuer Tag, und so weiter. Also steht auf!"</DefaultText>
+Imbitu runzelt die Stirn. „Oh je. Das klingt ziemlich grimmig, nicht wahr? Was für eine unangenehme Person.“ Er tätschelt dir mit einer blutverschmierten Hand das Knie. „Nun, heute ist ein neuer Tag, und so weiter. Also steht auf!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -378,7 +378,7 @@ Dies ist dein erster Hinweis darauf, dass du noch immer irgendwie am Leben bist.
 
 Pantoffeln scharren neben deinem Kopf auf dem Boden.
 
-"Kommt her, Kinder", sagt ein älterer Mann. "Kommt her zum Festmahl."</DefaultText>
+„Kommt her, Kinder“, sagt ein älterer Mann. „Kommt her zum Festmahl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -390,26 +390,26 @@ Pantoffeln scharren neben deinem Kopf auf dem Boden.
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ich hasse es, zu unterbrechen, Imbitu, aber ich muss ein paar Worte mit unserem ... *Freund* hier wechseln."
+      <DefaultText>„Ich hasse es, zu unterbrechen, Imbitu, aber ich muss ein paar Worte mit unserem ... *Freund* hier wechseln.“
 
-Er ergreift deinen Ärmel. "Hört zu, Qorros Bande hat Euch getötet. Callistege wollte nicht warten, bis Ihr wieder aufsteht, und sie hat sich verzogen, ehe Qorros Schläger sie bitten konnten, Eure Leiche davonzutragen."</DefaultText>
+Er ergreift deinen Ärmel. „Hört zu, Qorros Bande hat Euch getötet. Callistege wollte nicht warten, bis Ihr wieder aufsteht, und sie hat sich verzogen, ehe Qorros Schläger sie bitten konnten, Eure Leiche davonzutragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Wahrscheinlich ist sie zu ihren Freunden beim Orden der Wahrheit zurückgelaufen. Und lacht dort über das Schlamassel, in das sie mich gebracht haben. Wie auch immer. Sie hat Euch – uns – verlassen und ich habe ihr ein paar Abschiedsworte mitgegeben, die sie davon abhalten sollten, später zurückgekrochen zu kommen. Gut, dass wir sie los sind." Er lächelt grimmig.
+      <DefaultText>„Wahrscheinlich ist sie zu ihren Freunden beim Orden der Wahrheit zurückgelaufen. Und lacht dort über das Schlamassel, in das sie mich gebracht haben. Wie auch immer. Sie hat Euch – uns – verlassen und ich habe ihr ein paar Abschiedsworte mitgegeben, die sie davon abhalten sollten, später zurückgekrochen zu kommen. Gut, dass wir sie los sind.“ Er lächelt grimmig.
 
-"Wie auch immer. Wir sollten den Kult des Wandelnden Gottes oben in Circus Minor aufsuchen. Wenn überhaupt jemand weiß, wie man die Resonanzkammer repariert, dann sie."</DefaultText>
+„Wie auch immer. Wir sollten den Kult des Wandelnden Gottes oben in Circus Minor aufsuchen. Wenn überhaupt jemand weiß, wie man die Resonanzkammer repariert, dann sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Gehen wir."</DefaultText>
+      <DefaultText>„Gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Wissen teilen? Klar, nur zu."</DefaultText>
+      <DefaultText>„Wissen teilen? Klar, nur zu.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,16 +421,16 @@ Du öffnest die Augen. Imbitu, der alte Anführer der Dendra O'hur, steht nur w
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Willkommen zurück, willkommen zurück", sagt er. "Eine Frau hat dich hier zu uns gebracht. Unordentliche Haare. Schöne Maske." Er lehnt sich weiter vor und senkt die Stimme. "Weißt du, ich glaube, sie hat dich *getötet*."
+      <DefaultText>„Willkommen zurück, willkommen zurück“, sagt er. „Eine Frau hat dich hier zu uns gebracht. Unordentliche Haare. Schöne Maske.“ Er lehnt sich weiter vor und senkt die Stimme. „Weißt du, ich glaube, sie hat dich *getötet*.“
 
-Er richtet sich auf. "Sie hat dir eine kleine Nachricht hinterlassen. Lass mich nachdenken. Ah."</DefaultText>
+Er richtet sich auf. „Sie hat dir eine kleine Nachricht hinterlassen. Lass mich nachdenken. Ah.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Imbitu schließt die Augen und gibt Tol Maguurs Nachricht auswendig wieder: "'Ich hätte dich vernichten können. Denke daran. Komm nicht, um nach mir oder dem Mädchen zu suchen. Du wirst keinen von uns beiden wiedersehen.'"
+      <DefaultText>Imbitu schließt die Augen und gibt Tol Maguurs Nachricht auswendig wieder: „'Ich hätte dich vernichten können. Denke daran. Komm nicht, um nach mir oder dem Mädchen zu suchen. Du wirst keinen von uns beiden wiedersehen.'“
 
-Imbitu runzelt die Stirn. "Oh je. Das klingt ziemlich grimmig, nicht wahr? Was für eine unangenehme Person." Er tätschelt dir mit einer blutverschmierten Hand das Knie. "Nun, heute ist ein neuer Tag, und so weiter. Also steh auf!"</DefaultText>
+Imbitu runzelt die Stirn. „Oh je. Das klingt ziemlich grimmig, nicht wahr? Was für eine unangenehme Person.“ Er tätschelt dir mit einer blutverschmierten Hand das Knie. „Nun, heute ist ein neuer Tag, und so weiter. Also steh auf!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -440,9 +440,9 @@ Imbitu runzelt die Stirn. "Oh je. Das klingt ziemlich grimmig, nicht wahr? Was f
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Imbitu schließt die Augen und gibt Tol Maguurs Nachricht auswendig wieder: "'Ich hätte dich vernichten können. Denke daran. Komm nicht, um nach mir zu suchen. Wir werden uns nicht wiedersehen.'"
+      <DefaultText>Imbitu schließt die Augen und gibt Tol Maguurs Nachricht auswendig wieder: „'Ich hätte dich vernichten können. Denke daran. Komm nicht, um nach mir zu suchen. Wir werden uns nicht wiedersehen.'“
 
-Imbitu runzelt die Stirn. "Oh je. Das klingt ziemlich grimmig, nicht wahr? Was für eine unangenehme Person." Er tätschelt dir mit einer blutverschmierten Hand das Knie. "Nun, heute ist ein neuer Tag, und so weiter. Also steh auf!"</DefaultText>
+Imbitu runzelt die Stirn. „Oh je. Das klingt ziemlich grimmig, nicht wahr? Was für eine unangenehme Person.“ Er tätschelt dir mit einer blutverschmierten Hand das Knie. „Nun, heute ist ein neuer Tag, und so weiter. Also steh auf!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -487,37 +487,37 @@ Imbitu runzelt die Stirn. "Oh je. Das klingt ziemlich grimmig, nicht wahr? Was f
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Wenn du genug davon hast, Abendessen zu sein, können wir dann gehen?"</DefaultText>
+      <DefaultText>„Wenn du genug davon hast, Abendessen zu sein, können wir dann gehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Danke für die Gelegenheit, die Dendra bei der Arbeit zu sehen, mein Lieber. Eine einmalige Erfahrung."</DefaultText>
-      <FemaleText>"Danke für die Gelegenheit, die Dendra bei der Arbeit zu sehen, Liebes. Eine einmalige Erfahrung."</FemaleText>
+      <DefaultText>„Danke für die Gelegenheit, die Dendra bei der Arbeit zu sehen, mein Lieber. Eine einmalige Erfahrung.“</DefaultText>
+      <FemaleText>„Danke für die Gelegenheit, die Dendra bei der Arbeit zu sehen, Liebes. Eine einmalige Erfahrung.“</FemaleText>
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Lasst uns hier verschwinden, bevor du dich wieder entscheidest, Abendessen zu sein. Das war wirklich sehr leichtsinnig von dir."</DefaultText>
+      <DefaultText>„Lasst uns hier verschwinden, bevor du dich wieder entscheidest, Abendessen zu sein. Das war wirklich sehr leichtsinnig von dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Sicher, dass du nicht dableiben willst, Bruder? Vielleicht kriegen sie wieder Hunger."</DefaultText>
-      <FemaleText>"Sicher, dass du nicht dableiben willst, Schwester? Vielleicht kriegen sie wieder Hunger."</FemaleText>
+      <DefaultText>„Sicher, dass du nicht dableiben willst, Bruder? Vielleicht kriegen sie wieder Hunger.“</DefaultText>
+      <FemaleText>„Sicher, dass du nicht dableiben willst, Schwester? Vielleicht kriegen sie wieder Hunger.“</FemaleText>
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Ich kann es nicht glauben. Du lässt sie dich *essen*?"</DefaultText>
+      <DefaultText>„Ich kann es nicht glauben. Du lässt sie dich *essen*?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Ich bin nicht abgeneigt, wenn Fremde an meinen Weichteilen naschen, aber ich denke, du hast das etwas zu weit getrieben, Jungchen."</DefaultText>
-      <FemaleText>"Ich bin nicht abgeneigt, wenn Fremde an meinen Weichteilen naschen, aber ich denke, du hast das etwas zu weit getrieben, Kleine."</FemaleText>
+      <DefaultText>„Ich bin nicht abgeneigt, wenn Fremde an meinen Weichteilen naschen, aber ich denke, du hast das etwas zu weit getrieben, Jungchen.“</DefaultText>
+      <FemaleText>„Ich bin nicht abgeneigt, wenn Fremde an meinen Weichteilen naschen, aber ich denke, du hast das etwas zu weit getrieben, Kleine.“</FemaleText>
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Nun, wenn du fertig bist, Leute an dir knabbern zu lassen, lasst uns gehen."</DefaultText>
+      <DefaultText>„Nun, wenn du fertig bist, Leute an dir knabbern zu lassen, lasst uns gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
