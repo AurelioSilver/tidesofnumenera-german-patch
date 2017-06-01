@@ -129,7 +129,7 @@ Er wischt sich geistesabwesend den Schweiß von seiner wettergegerbten Stirn. "I
     <Entry>
       <ID>22</ID>
       <DefaultText>Follow-up PQ. 22</DefaultText>
-      <FemaleText>Follow-up PQ. 22</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -571,7 +571,7 @@ Er atmet tief durch und lächelt Euch wieder zu. Es ist, als beobachte man eine 
     <Entry>
       <ID>110</ID>
       <DefaultText>Follow-up PQ. 110</DefaultText>
-      <FemaleText>Follow-up PQ. 110</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
@@ -586,7 +586,7 @@ Er atmet tief durch und lächelt Euch wieder zu. Es ist, als beobachte man eine 
     <Entry>
       <ID>113</ID>
       <DefaultText>Follow-up T. 113</DefaultText>
-      <FemaleText>Follow-up T. 113</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
@@ -653,7 +653,7 @@ Er seufzt und schenkt dir ein zitterndes Lächeln. "Es ist nun vorbei. Sie ist g
     <Entry>
       <ID>125</ID>
       <DefaultText>Follow-up PQ. 125</DefaultText>
-      <FemaleText>Follow-up PQ. 125</FemaleText>
+            <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
@@ -668,7 +668,7 @@ Er seufzt und schenkt dir ein zitterndes Lächeln. "Es ist nun vorbei. Sie ist g
     <Entry>
       <ID>128</ID>
       <DefaultText>Follow-up T. 128</DefaultText>
-      <FemaleText>Follow-up T. 128</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
@@ -1026,21 +1026,19 @@ Seine Augen flattern einen Augenblick. "Ich fürchte, dass die Visionen ab hier 
     <Entry>
       <ID>197</ID>
       <DefaultText>Follow-up PQ. 197</DefaultText>
-      <FemaleText>Follow-up PQ. 197</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
       <DefaultText>""
 
 {GAVIN: Write this after 1E. Hidden with blank global for now.}</DefaultText>
-      <FemaleText>""
-
-{GAVIN: Write this after 1E. Hidden with blank global for now.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
