@@ -63,7 +63,7 @@ Sie riskiert einen vorsichtigen Blick auf den schwerfälligen Kultisten in der N
     <Entry>
       <ID>11</ID>
       <DefaultText>Follow-up PQ. 12</DefaultText>
-      <FemaleText>Follow-up PQ. 12</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -80,7 +80,7 @@ Sie riskiert einen vorsichtigen Blick auf den schwerfälligen Kultisten in der N
     <Entry>
       <ID>14</ID>
       <DefaultText>Follow-up PQ. 15</DefaultText>
-      <FemaleText>Follow-up PQ. 15</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -272,7 +272,7 @@ Sie wischt sich eine Haarsträhne aus dem Gesicht. "Das ist die Art von Tod, die
     <Entry>
       <ID>52</ID>
       <DefaultText>Follow-up PQ. 57</DefaultText>
-      <FemaleText>Follow-up PQ. 57</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
@@ -297,7 +297,7 @@ Sie wischt sich eine Haarsträhne aus dem Gesicht. "Das ist die Art von Tod, die
     <Entry>
       <ID>57</ID>
       <DefaultText>Follow-up PQ. 62</DefaultText>
-      <FemaleText>Follow-up PQ. 62</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
@@ -312,7 +312,7 @@ Sie wischt sich eine Haarsträhne aus dem Gesicht. "Das ist die Art von Tod, die
     <Entry>
       <ID>60</ID>
       <DefaultText>Follow-up PQ. 65</DefaultText>
-      <FemaleText>Follow-up PQ. 65</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
@@ -337,7 +337,7 @@ Sie wischt sich eine Haarsträhne aus dem Gesicht. "Das ist die Art von Tod, die
     <Entry>
       <ID>65</ID>
       <DefaultText>Follow-up PQ. 75</DefaultText>
-      <FemaleText>Follow-up PQ. 75</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
@@ -364,7 +364,7 @@ Sie wischt sich eine Haarsträhne aus dem Gesicht. "Das ist die Art von Tod, die
     <Entry>
       <ID>70</ID>
       <DefaultText>Follow-up PQ. 70</DefaultText>
-      <FemaleText>Follow-up PQ. 70</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
@@ -443,12 +443,12 @@ Sie schüttelt den Kopf. "Aber das bedeutet nur, dass sie eine Jägerin ist, die
     <Entry>
       <ID>85</ID>
       <DefaultText>Follow-up PQ. 90</DefaultText>
-      <FemaleText>Follow-up PQ. 90</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
       <DefaultText>Follow-up T. 91</DefaultText>
-      <FemaleText>Follow-up T. 91</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
@@ -473,7 +473,7 @@ Sie schüttelt den Kopf. "Aber das bedeutet nur, dass sie eine Jägerin ist, die
     <Entry>
       <ID>91</ID>
       <DefaultText>Follow-up PQ. 96</DefaultText>
-      <FemaleText>Follow-up PQ. 96</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
@@ -527,7 +527,7 @@ Sie reibt sich mit dem Handballen ein Auge. "Na schön. Ich bin hier *nicht* gl�
     <Entry>
       <ID>101</ID>
       <DefaultText>Follow-up PQ. 110</DefaultText>
-      <FemaleText>Follow-up PQ. 110</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
@@ -751,7 +751,7 @@ Sie verstummt.</DefaultText>
     <Entry>
       <ID>146</ID>
       <DefaultText>Sage nichts.</DefaultText>
-      <FemaleText>Sage nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
@@ -778,7 +778,7 @@ Ein Lächeln huscht über ihr Gesicht. "Es war ein Licht. Es - er - sagte mir, d
     <Entry>
       <ID>151</ID>
       <DefaultText>Sage nichts.</DefaultText>
-      <FemaleText>Sage nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
@@ -899,9 +899,7 @@ Sie verdreht ihre Lippe. "Also habe ich mich ihnen angeschlossen. Ich aß ein pa
       <DefaultText>Ihre Augenbrauen heben sich eigenartig bogenförmig und diese simple Bewegung verursacht eine merkwürdige Verbindung in deinem Geist. Diesen Ausdruck hast du zuvor schon mal gesehen, auf einem recht ähnlichen Gesicht ...
 
 Die geisterhafte Frau im Fünften Auge.</DefaultText>
-      <FemaleText>Ihre Augenbrauen heben sich eigenartig bogenförmig und diese simple Bewegung verursacht eine merkwürdige Verbindung in deinem Geist. Diesen Ausdruck hast du zuvor schon mal gesehen, auf einem recht ähnlichen Gesicht ...
-
-Die geisterhafte Frau im Fünften Auge.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
