@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Auf den ersten Blick könnte man vermuten, dieser Mann erläge gerade irgendeiner auszehrenden Krankheit ... oder Hunger. Er ist etwas mehr als ein zu großes Skelett, das in durchscheinendes Fleisch und eine zerlumpte Robe gehüllt ist. Seine Hände sind hauptsächlich knochige Klauen. 
+      <DefaultText>Auf den ersten Blick könnte man vermuten, dieser Mann erläge gerade irgendeiner auszehrenden Krankheit ... oder Hunger. Er ist etwas mehr als ein zu großes Skelett, das in durchscheinendes Fleisch und eine zerlumpte Robe gehüllt ist. Seine Hände sind hauptsächlich knochige Klauen.
 
 Und dennoch ... strahlt er dich an, während seine eingefallenen Augen mit einem unterdrückten Lachen und vor fieberhaftem Leben funkeln.</DefaultText>
       <FemaleText />
@@ -98,7 +98,7 @@ Er wischt sich geistesabwesend den Schweiß von seiner wettergegerbten Stirn. "I
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Imbitu lächelt. Seine Zähne sind schmutzig braun. 
+      <DefaultText>Imbitu lächelt. Seine Zähne sind schmutzig braun.
 
 "Ich kenne Euch!", sagt er. "So viele Augen haben bereits auf dieser Tätowierung verweilt. Diese edle Stirn." Er streckt einen zitternden, knochigen Finger nach Eurer Stirn aus.</DefaultText>
       <FemaleText />
@@ -230,7 +230,7 @@ Er befeuchtet seine aufgesprungenen Lippen und wartet mit höflichem Interesse a
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Wir verehren die Große Königin Sar'lavun, Herrin der Maden, Göttin der Entropie und Wächterin der Leeren Barriere", sagt er. Dann hält er inne und tippt in Gedanken versunken auf einen schmutzigen Zahn. "Obwohl 'verehren' vielleicht der falsche Begriff hierfür ist." 
+      <DefaultText>"Wir verehren die Große Königin Sar'lavun, Herrin der Maden, Göttin der Entropie und Wächterin der Leeren Barriere", sagt er. Dann hält er inne und tippt in Gedanken versunken auf einen schmutzigen Zahn. "Obwohl 'verehren' vielleicht der falsche Begriff hierfür ist."
 
 Er deutet auf den beistehenden Altar. Darauf befindet sich ein Schädel mit flachen, nachtragenden Augen, die in ihren Höhlen liegen.</DefaultText>
       <FemaleText />
@@ -369,14 +369,14 @@ Er schnalzt mit der Zunge. "Untersucht ihn nach Belieben. Es ist der mit der ver
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Und trotzdem erkennst du, dass du das möglicherweise nicht weiter verfolgen musst. Das ist der Mann – der Verstoßene – von dem das Spiegelbild des Mädchens sprach. Du kannst zu Zaofi dem Bildhauer zurückkehren, wenn du dazu bereit bist. 
+      <DefaultText>Und trotzdem erkennst du, dass du das möglicherweise nicht weiter verfolgen musst. Das ist der Mann – der Verstoßene – von dem das Spiegelbild des Mädchens sprach. Du kannst zu Zaofi dem Bildhauer zurückkehren, wenn du dazu bereit bist.
 
 {SCRIPT: JESSE: Knotenpunkt nur sichtbar, wenn der SC den Leichnam des Mädchens gegessen und mit ihrem Spiegelbild gesprochen hat und dabei die wahre Geschichte des Ausgestoßenen erfährt.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Du schaust an Imbitu vorbei auf den Leichnam auf der Totenbahre und eine Welle der Trauer umgibt dich. Für einen kurzen Augenblick siehst du das Spiegelbild der Frau, deren Leichnam du in den Ruinen eines Hauses entdecktest. Sie und dieser Mann sind irgendwie miteinander verbunden. 
+      <DefaultText>Du schaust an Imbitu vorbei auf den Leichnam auf der Totenbahre und eine Welle der Trauer umgibt dich. Für einen kurzen Augenblick siehst du das Spiegelbild der Frau, deren Leichnam du in den Ruinen eines Hauses entdecktest. Sie und dieser Mann sind irgendwie miteinander verbunden.
 
 {SCRIPT: JESSE: Knotenpunkt nur sichtbar, wenn der Spieler die tote Frau schon im eingestürzten Haus gesehen hat. Sie existiert aber nur als teilweises Spiegelbild. Die Quest wird mit Schritt 4 fortgesetzt.}</DefaultText>
       <FemaleText />
@@ -501,7 +501,7 @@ Er zwinkert und tritt zurück. "Wie Ihr sehen könnt, bin ich alles andere als v
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Für einen Augenblick blitz Stahl in Imbitus liebreizenden Augen auf und seine von der Robe eingehüllte Hand ballt sich kurz zu einer Faust. 
+      <DefaultText>Für einen Augenblick blitz Stahl in Imbitus liebreizenden Augen auf und seine von der Robe eingehüllte Hand ballt sich kurz zu einer Faust.
 
 Eine weniger aufmerksame Person hätte die Tatsache übersehen, dass der freundliche Imbitu gerade gelogen hat.</DefaultText>
       <FemaleText />
@@ -525,7 +525,7 @@ Eine weniger aufmerksame Person hätte die Tatsache übersehen, dass der freundl
       <ID>102</ID>
       <DefaultText>"Ah!", sagt er. "Ich sehe, dass Euch nichts entgeht." Diesmal lächelt er nicht.
 
-"Dieser Kreis ist das Symbol der Kinder der Endlosen Pforte. Sie begannen als Zweig der Dendra O'hur, der mit seinem Appetit weitaus *ungeduldiger* war." Er verdreht die Lippen zusammen wie einen Knoten. 
+"Dieser Kreis ist das Symbol der Kinder der Endlosen Pforte. Sie begannen als Zweig der Dendra O'hur, der mit seinem Appetit weitaus *ungeduldiger* war." Er verdreht die Lippen zusammen wie einen Knoten.
 
 "Vor Jahren jagten meine Geschwister und ich sie aus der Stadt und löschten ihre Namen aus allen Aufzeichnungen. Zumindest dachten wir das."</DefaultText>
       <FemaleText />
@@ -549,9 +549,9 @@ Er atmet tief durch und lächelt dir wieder zu. Es ist, als beobachte man eine f
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Das Lächeln in Imbitus Gesicht löst sich auf. "Ich hoffe, Ihr fragt nicht aus dem Grund, den ich denke", sagt er. 
+      <DefaultText>Das Lächeln in Imbitus Gesicht löst sich auf. "Ich hoffe, Ihr fragt nicht aus dem Grund, den ich denke", sagt er.
 
-"Sie begannen als Zweig der Dendra O'hur, der mit seinem Appetit weitaus *ungeduldiger* war." Er verdreht die Lippen zusammen wie einen Knoten. 
+"Sie begannen als Zweig der Dendra O'hur, der mit seinem Appetit weitaus *ungeduldiger* war." Er verdreht die Lippen zusammen wie einen Knoten.
 
 "Vor Jahren jagten meine Geschwister und ich sie aus der Stadt und löschten ihre Namen aus allen Aufzeichnungen. Zumindest dachten wir das."</DefaultText>
       <FemaleText />
@@ -590,7 +590,7 @@ Er atmet tief durch und lächelt Euch wieder zu. Es ist, als beobachte man eine 
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Sicherlich nicht!", ruft er aus. Dann hält er inne. "Nun. Sie kommen und gehen, wie es ihnen gefällt, auf der Jagd nach Körpern, die wie zertretenes Laub in der Gosse zurückgelassen wurden." Er lächelt verworren in die Luft, als ob er sich an seine frühen Jahre erinnere.  
+      <DefaultText>"Sicherlich nicht!", ruft er aus. Dann hält er inne. "Nun. Sie kommen und gehen, wie es ihnen gefällt, auf der Jagd nach Körpern, die wie zertretenes Laub in der Gosse zurückgelassen wurden." Er lächelt verworren in die Luft, als ob er sich an seine frühen Jahre erinnere.
 
 "Der Verschlinger des Unrechts stand in den letzten Tagen Wache, ich nehme aber an, dass jeder der anderen verantwortlich sein könnte." Er lässt seinen Blick über sie schweifen und summt eine ärgerliche, kleine Melodie.</DefaultText>
       <FemaleText />
@@ -638,7 +638,7 @@ Er schielt zu Euch hinüber, mit einem Anschein von Kummer in den Augen. "Ich ho
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Er starrt in die Leere, hager und entgeistert. 
+      <DefaultText>Er starrt in die Leere, hager und entgeistert.
 
 "Es war Kiyatawa", sagt er. "Ich hätte es wissen müssen. Ich wünschte, ich hätte es gewusst. Sie schmeckte nach Angst und Kummer, aber niemals nach Zorn. Niemals diese *Art* von Hunger."</DefaultText>
       <FemaleText />
@@ -686,7 +686,7 @@ Er starrt auf eine dunkle Wand. "Wir werden es wohl niemals erfahren", wiederhol
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Er starrt in die Leere, hager und entgeistert. 
+      <DefaultText>Er starrt in die Leere, hager und entgeistert.
 
 "Kiyatawa", sagt er. "Das ruhigste meiner Kinder. Das sorgenschwerste. Wie konnte sie nur all diese Menschen töten?"
 
@@ -796,14 +796,14 @@ Er reibt sich die Hände und erzeugt dabei ein papiernes Geräusch. "Ich kann Eu
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Seine Fingerspitze zieht eine heiße Linie über deine Tätowierung. 
+      <DefaultText>Seine Fingerspitze zieht eine heiße Linie über deine Tätowierung.
 
 "Jaaaa", sagt er. "Jetzt erinnere ich mich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Du trittst aus seiner Reichweite. Er zwinkert und lächelt anschließend. 
+      <DefaultText>Du trittst aus seiner Reichweite. Er zwinkert und lächelt anschließend.
 
 "Es tut mir sehr leid", sagt er. "Ich habe nur selten mit den Lebenden zu tun. Leichen sind nicht ganz so schlagfertig."
 
@@ -817,7 +817,7 @@ Er schlägt mit der Hand nach dir. "Natürlich erinnere ich mich an Euch."</Defa
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Die alte Cirisa sah Euch einst aus den Augenwinkeln. Eine Woche vor seinem Unfall verkaufte Euch Ulori-mar einen kleinen Beutel ..." Er atmet durch und schließt die Augen. "Gezuckerter Mandeln. Das sind aber nicht die einzigen beiden. Nein. Ihr treibt durch unzählige Leben, verändert und beendet sie. Und hinterlasst dabei niemals einen Namen!" 
+      <DefaultText>"Die alte Cirisa sah Euch einst aus den Augenwinkeln. Eine Woche vor seinem Unfall verkaufte Euch Ulori-mar einen kleinen Beutel ..." Er atmet durch und schließt die Augen. "Gezuckerter Mandeln. Das sind aber nicht die einzigen beiden. Nein. Ihr treibt durch unzählige Leben, verändert und beendet sie. Und hinterlasst dabei niemals einen Namen!"
 
 Er atmet tief ein. "Oh, ich halte Geheimnisse nicht aus. Ich liebe sie, halte sie aber nicht aus. Wer seid Ihr?"</DefaultText>
       <FemaleText />
@@ -861,7 +861,7 @@ Er räuspert sich. "Also? Was treibt Euch in die Kapelle der Dendra O'hur?"</De
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Hmm", sagt Imbitu. "Das gleiche Gesicht. Die gleiche Tätowierung. Aber ja, andere Augen. Vielleicht habt Ihr einen geheimen Zwilling!"  
+      <DefaultText>"Hmm", sagt Imbitu. "Das gleiche Gesicht. Die gleiche Tätowierung. Aber ja, andere Augen. Vielleicht habt Ihr einen geheimen Zwilling!"
 
 Er hüstelt gegen die Rückseite seiner Hand. "Also? Was treibt Euch in die Kapelle der Dendra O'hur?"</DefaultText>
       <FemaleText />
@@ -891,7 +891,7 @@ Er erschaudert. "Es ist sagenhaft."</DefaultText>
       <ID>171</ID>
       <DefaultText>"Ich sollte Euch weiterhin erzählen, was ich erfahren habe, ich fürchte jedoch, dass es nicht so klar sein wird, wie Ihr es erhofft. Es dauert immer eine Weile", unterdrückt er ein Kichern, "die Informationen zu verdauen, die in nur einem Leben enthalten sind. Euer Körper enthält unzählige Wunder. Wir werden Jahrzehnte brauchen, um sie alle in uns aufzunehmen."
 
-Er seufzt. "Mit anderen Worten, meine Interpretation könnte irgendwie unvollständig klingen. Unklar. Mystisch." Er betont das letzte Wort mit Abscheu. 
+Er seufzt. "Mit anderen Worten, meine Interpretation könnte irgendwie unvollständig klingen. Unklar. Mystisch." Er betont das letzte Wort mit Abscheu.
 
 "Ich würde mich jedoch freuen, diese Visionen mit Euch zu teilen. Ich braucht nur zu fragen."</DefaultText>
       <FemaleText />
@@ -918,21 +918,21 @@ Er seufzt. "Mit anderen Worten, meine Interpretation könnte irgendwie unvollst�
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Imbitu öffnet die Augen und strahlt. 
+      <DefaultText>Imbitu öffnet die Augen und strahlt.
 
 "Habe kein einziges Wort darüber gehört", sagt er. "Es fühlte sich aber *faszinierend* an. Ich hoffe, es war hilfreich! Und kommt zurück, wenn Ihr mehr erfahren wollt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Imbitu weicht zurück und öffnet die Augen. 
+      <DefaultText>Imbitu weicht zurück und öffnet die Augen.
 
 "Das ist vorerst alles, fürchte ich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Imbitu reißt die Augen auf. 
+      <DefaultText>Imbitu reißt die Augen auf.
 
 "War es irgendwie hilfreich? Es fühlte sich auf jeden Fall grässlich an. Ich hoffe, dass es keine schlechten Neuigkeiten waren."
 
@@ -1011,7 +1011,7 @@ Seine Augen flattern einen Augenblick. "Ich fürchte, dass die Visionen ab hier 
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Du meine Güte", sagt er. "Sie sind *wirklich* ein verdächtiger Haufen, oder? Mallet quält gerne andere Leute, Kiyatawa erzählt ihre kleinen Lügengeschichten, und Gh'zei ... nun. Sie ist ziemlich *einzigartig*." Er scheint so erfreut darüber zu sein, als wäre er persönlich für ihre Einzigartigkeit verantwortlich. 
+      <DefaultText>"Du meine Güte", sagt er. "Sie sind *wirklich* ein verdächtiger Haufen, oder? Mallet quält gerne andere Leute, Kiyatawa erzählt ihre kleinen Lügengeschichten, und Gh'zei ... nun. Sie ist ziemlich *einzigartig*." Er scheint so erfreut darüber zu sein, als wäre er persönlich für ihre Einzigartigkeit verantwortlich.
 
 "Alles in allem sind sie ein furchterregender Haufen, oder? Das hatte ich wirklich noch nie zuvor bemerkt."</DefaultText>
       <FemaleText />
@@ -1052,20 +1052,20 @@ Seine Augen flattern einen Augenblick. "Ich fürchte, dass die Visionen ab hier 
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Imbitu und seine Priester beugen sich in gut abgestimmter Einheitlichkeit über Euch und schneiden schmerzlose Schlitze in Euer Fleisch. Schläuche baumeln von ihren Handgelenken herab und führen hinauf in ihre Anzüge. Sie schlängeln sich, scheinbar von selbst, in Eure Einschnitte. 
+      <DefaultText>Imbitu und seine Priester beugen sich in gut abgestimmter Einheitlichkeit über Euch und schneiden schmerzlose Schlitze in Euer Fleisch. Schläuche baumeln von ihren Handgelenken herab und führen hinauf in ihre Anzüge. Sie schlängeln sich, scheinbar von selbst, in Eure Einschnitte.
 
-Einen Augenblick lang geschieht nichts. Doch dann hört Ihr ein schwaches Schwirren, als sich drehende Klingen Eure Organe anschleifen und das Mark nach oben durch die Schläuche saugen. 
+Einen Augenblick lang geschieht nichts. Doch dann hört Ihr ein schwaches Schwirren, als sich drehende Klingen Eure Organe anschleifen und das Mark nach oben durch die Schläuche saugen.
 
-Irgendjemand schreit, und Ihr könnt Euch gut vorstellen, wer das war. Schließlich sterbt Ihr gnadenvoll.  
+Irgendjemand schreit, und Ihr könnt Euch gut vorstellen, wer das war. Schließlich sterbt Ihr gnadenvoll.
 
-{TON: Ekelhaftes Geräusch von saugendem/schlürfendem Schlauch und zermahlendes Geräusch.} 
+{TON: Ekelhaftes Geräusch von saugendem/schlürfendem Schlauch und zermahlendes Geräusch.}
 {TON: SC schreit.}
 {SCRIPT: Ausblenden und einblenden}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>Er starrt in die Leere, hager und entgeistert. 
+      <DefaultText>Er starrt in die Leere, hager und entgeistert.
 
 "Es war Kiyatawa", sagt er. "Sie floh, kurz bevor Gourmandus' Vollstrecker eintrafen. Ich hätte es wissen müssen. Ich wünschte, ich hätte es gewusst. Sie schmeckte nach Angst und Kummer, aber niemals nach Zorn. Niemals diese *Art* von Hunger."</DefaultText>
       <FemaleText />
@@ -1079,32 +1079,32 @@ Irgendjemand schreit, und Ihr könnt Euch gut vorstellen, wer das war. Schließl
       <ID>205</ID>
       <DefaultText>"Jedenfalls durchstreifen wir die Straßen nach Leichen, die ... ähm... nicht *beansprucht* wurden. Wir bringen sie hierher und legen sie auf die Totenbahren." Seine schweifende Hand lenkt deine Aufmerksamkeit auf die stillen, abgedeckten Figuren, die in der Kammer liegen.
 
-"Wenn ein Körper *reif* und voller nicht gepflückter Geheimnisse ist, versammeln wir uns darum und kosten sie gemeinsam. Lässt ein Leben voller Gedanken wie einen kleinen Fisch durch uns schwirren." 
+"Wenn ein Körper *reif* und voller nicht gepflückter Geheimnisse ist, versammeln wir uns darum und kosten sie gemeinsam. Lässt ein Leben voller Gedanken wie einen kleinen Fisch durch uns schwirren."
 
 Er schmatzt glücklich mit den Lippen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>Imbitu und seine Priester beugen sich in gut abgestimmter Einheitlichkeit über dich und schneiden Schlitze in dein Fleisch. Schläuche baumeln von ihren Handgelenken herab und führen in ihre Anzüge. Sie schlängeln sich, scheinbar von selbst, in deine Einschnitte. 
+      <DefaultText>Imbitu und seine Priester beugen sich in gut abgestimmter Einheitlichkeit über dich und schneiden Schlitze in dein Fleisch. Schläuche baumeln von ihren Handgelenken herab und führen in ihre Anzüge. Sie schlängeln sich, scheinbar von selbst, in deine Einschnitte.
 
-Einen Augenblick lang geschieht nichts. Doch dann hörst du ein schwaches Schwirren, als sich drehende Klingen deine Organe anschleifen und das Mark nach oben durch die Schläuche saugen. 
+Einen Augenblick lang geschieht nichts. Doch dann hörst du ein schwaches Schwirren, als sich drehende Klingen deine Organe anschleifen und das Mark nach oben durch die Schläuche saugen.
 
-Irgendjemand schreit, und du kannst dir gut vorstellen, wer das war. Schließlich holt dich gnadenvoll der Tod.  
+Irgendjemand schreit, und du kannst dir gut vorstellen, wer das war. Schließlich holt dich gnadenvoll der Tod.
 
-{TON: Ekelhaftes Geräusch von saugendem/schlürfendem Schlauch und zermahlendes Geräusch.} 
+{TON: Ekelhaftes Geräusch von saugendem/schlürfendem Schlauch und zermahlendes Geräusch.}
 {TON: SC schreit.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>Nach einer Ewigkeit öffnet Ihr die Augen. Imbitu sitzt neben Euch und liest ein Buch. 
+      <DefaultText>Nach einer Ewigkeit öffnet Ihr die Augen. Imbitu sitzt neben Euch und liest ein Buch.
 
 "Ah!", sagt er und legt es ab. "Willkommen zurück! Welch *exquisite* Erfahrung ... obwohl ich sicher bin, dass Ihr nichts davon hören wollt, während Ihr wach werdet!"
 
 Er strahlt. "Nun! Ich habe mir erlaubt, ein kleines Dankeschön zu Euren Habseligkeiten zu legen. Sprecht mit mir, wann immer Ihr wissen wollt, was wir aus unserem kleinen Mahl erfahren haben."
 {BEUTE}
-{GAVIN und GEORGE: Fügt folgende Informationen zu gegebener Zeit im späteren Verlauf hinzu: Die Dendra könnten sich auch auf die Erfahrungen beziehen, die der Spieler bisher im Spiel hatte (da sie einige der Erinnerungen des Spielers erlangt haben werden) und könnten Vorschläge zu (zum Beispiel) Dingen machen, die der Spieler verpasste.  Darüber hinaus lädt Imbitu den Spieler ein, die Geheimnisse des Kults zu erfahren – wenn der Spieler Interesse hat, sollte er persönlich mit Imbitu sprechen.}</DefaultText>
+{GAVIN und GEORGE: Fügt folgende Informationen zu gegebener Zeit im späteren Verlauf hinzu: Die Dendra könnten sich auch auf die Erfahrungen beziehen, die der Spieler bisher im Spiel hatte (da sie einige der Erinnerungen des Spielers erlangt haben werden) und könnten Vorschläge zu (zum Beispiel) Dingen machen, die der Spieler verpasste. Darüber hinaus lädt Imbitu den Spieler ein, die Geheimnisse des Kults zu erfahren – wenn der Spieler Interesse hat, sollte er persönlich mit Imbitu sprechen.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1159,7 +1159,7 @@ Er strahlt. "Nun! Ich habe mir erlaubt, ein kleines Dankeschön zu Euren Habseli
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Er gluckst, offensichtlich unbehelligt. 
+      <DefaultText>Er gluckst, offensichtlich unbehelligt.
 
 "Wenn dem so wäre, dann hätten wir uns offensichtlich der schrecklichen Ineffizienz schuldig gemacht. Es gäbe keinen Grund für all diese Schläuche und Leitungen. Wir müssten dann einfach nur ... ähm... 'reinhauen'."
 
