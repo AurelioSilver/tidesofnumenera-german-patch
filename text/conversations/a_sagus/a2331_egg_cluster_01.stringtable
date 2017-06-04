@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Während du dich diesem Gelege näherst, knarren und schütteln sich die Glieder um wenige Millimeter. Der Geruch von Staub und Pilz steigt in deine Nase. Beinahe unter der Hörschwelle erbeben Klickgeräusche und Grollen tief aus der Masse.</DefaultText>
-      <FemaleText />
+      <DefaultText>Während |du dich|[Actor Name] sich| diesem Gelege |näherst|nähert|, knarren und schütteln sich die Glieder um wenige Millimeter. Der Geruch von Staub und Pilz steigt in |deine|seine| Nase. Beinahe unter der Hörschwelle erbeben Klickgeräusche und Grollen tief aus der Masse.</DefaultText>
+      <FemaleText>Während |du dich|[Actor Name] sich| diesem Gelege |näherst|nähert|, knarren und schütteln sich die Glieder um wenige Millimeter. Der Geruch von Staub und Pilz steigt in |deine|ihre| Nase. Beinahe unter der Hörschwelle erbeben Klickgeräusche und Grollen tief aus der Masse.</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -190,7 +190,7 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</DefaultText>
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Das Aroma aufkeimender Blätter erinnert dich an Hass und Zorn. Das Sticha-Nest zwitschert und schäumt.</DefaultText>
+      <DefaultText>Das Aroma aufkeimender Blätter erinnert |dich|[Actor Name]| an Hass und Zorn. Das Sticha-Nest zwitschert und schäumt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
