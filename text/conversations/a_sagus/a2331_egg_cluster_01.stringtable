@@ -205,8 +205,8 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</DefaultText>
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Deine Arme gleiten mit einem zufriedenstellenden „Plopp“ durch die nachgebende Membran. Indem du mit deinen Händen vorsichtig am Rand einer Chitinplatte entlanggleitest, öffnest du den Hohlraum. Die Eier, die in ihrem gelatineartigen Fruchtwasser ruhen, befinden sich nun in Reichweite.</DefaultText>
-      <FemaleText />
+      <DefaultText>|Deine|[Actor Name]'s| Arme gleiten mit einem zufriedenstellenden „Plopp“ durch die nachgebende Membran. Indem |du|er| mit |deinen|seinen| Händen vorsichtig am Rand einer Chitinplatte |entlanggleitest|entlanggleitet|, |öffnest du|öffnet er| den Hohlraum. Die Eier, die in ihrem gelatineartigen Fruchtwasser ruhen, befinden sich nun in Reichweite.</DefaultText>
+      <FemaleText>|Deine|[Actor Name]'s| Arme gleiten mit einem zufriedenstellenden „Plopp“ durch die nachgebende Membran. Indem |du|sie| mit |deinen|ihren| Händen vorsichtig am Rand einer Chitinplatte entlanggleitest, |öffnest du|öffnet sie| den Hohlraum. Die Eier, die in ihrem gelatineartigen Fruchtwasser ruhen, befinden sich nun in Reichweite.</FemaleText>
     </Entry>
     <Entry>
       <ID>60</ID>
