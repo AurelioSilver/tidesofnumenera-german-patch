@@ -220,8 +220,8 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</DefaultText>
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Die Membran platzt auf und Schlamm läuft deinen Arm hinunter … doch du kannst nicht genug Spielraum gewinnen, um die Eier darin ernsthaft zu beschädigen.</DefaultText>
-      <FemaleText />
+      <DefaultText>Die Membran platzt auf und Schlamm läuft |deinen|[Actor Name]'s| Arm hinunter … doch |du|er| |kannst|kannt| nicht genug Spielraum gewinnen, um die Eier darin ernsthaft zu beschädigen.</DefaultText>
+      <FemaleText>Die Membran platzt auf und Schlamm läuft |deinen|[Actor Name]'s| Arm hinunter … doch |du|sie| |kannst|kannt| nicht genug Spielraum gewinnen, um die Eier darin ernsthaft zu beschädigen.</FemaleText>
     </Entry>
     <Entry>
       <ID>63</ID>
