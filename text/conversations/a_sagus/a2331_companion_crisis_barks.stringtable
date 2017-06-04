@@ -32,7 +32,7 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>{Einigermaßen zuversichtlich}"Ich habe diese Kreaturen schon mal gesehen. Halten wir uns versteckt. Ahl wird helfen."</DefaultText>
-      <FemaleText>{Einigermaßen zuversichtlich}"Ich habe diese Kreaturen schon mal gesehen. Halten wir uns versteckt. Ahl wird helfen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -47,32 +47,32 @@
     <Entry>
       <ID>9</ID>
       <DefaultText>"Sie sind von dieser Musik völlig verblüfft. Sehen uns überhaupt nicht!"</DefaultText>
-      <FemaleText>"Sie sind von dieser Musik völlig verblüfft. Sehen uns überhaupt nicht!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>"Faszinierend. Die Musik hat ihren Verstand vollständig benebelt. Sie sehen uns überhaupt nicht."</DefaultText>
-      <FemaleText>"Faszinierend. Die Musik hat ihren Verstand vollständig benebelt. Sie sehen uns überhaupt nicht."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>"Wow, die Sticha lieben diese langweilige Musik! Ich glaube nicht mal, dass sie mich sehen. Zu schade für sie."</DefaultText>
-      <FemaleText>"Wow, die Sticha lieben diese langweilige Musik! Ich glaube nicht mal, dass sie mich sehen. Zu schade für sie."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>"Das ist nützlich. Wir können arbeiten, ohne uns um die Sticha zu sorgen, solange diese Musik läuft."</DefaultText>
-      <FemaleText>"Das ist nützlich. Wir können arbeiten, ohne uns um die Sticha zu sorgen, solange diese Musik läuft."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>"Diese Kreaturen müssen diese Musik wirklich lieben. Ahl benutzt sie, um uns vor ihnen verborgen zu halten."</DefaultText>
-      <FemaleText>"Diese Kreaturen müssen diese Musik wirklich lieben. Ahl benutzt sie, um uns vor ihnen verborgen zu halten."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>"Nur ein Haufen trainierter Laaks. Sie schenken uns keine Aufmerksamkeit, während diese Musik läuft."</DefaultText>
-      <FemaleText>"Nur ein Haufen trainierter Laaks. Sie schenken uns keine Aufmerksamkeit, während diese Musik läuft."</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
