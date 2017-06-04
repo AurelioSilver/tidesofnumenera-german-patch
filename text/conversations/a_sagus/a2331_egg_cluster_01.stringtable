@@ -397,8 +397,8 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Obwohl du es schaffst, ein paar Milliliter der Schmiere in ein Glasfläschchen zu schöpfen, rutscht deine Hand aus. Das Stichus-Nest funkelt und knistert. Es ist sich des Eindringens bewusst.</DefaultText>
-      <FemaleText />
+      <DefaultText>Obwohl |du|[Actor Name]| es |schaffst|schafft|, ein paar Milliliter der Schmiere in ein Glasfläschchen zu schöpfen, rutscht |deine|seine| Hand aus. Das Stichus-Nest funkelt und knistert. Es ist sich des Eindringens bewusst.</DefaultText>
+      <FemaleText>Obwohl |du|[Actor Name]| es |schaffst|schafft|, ein paar Milliliter der Schmiere in ein Glasfläschchen zu schöpfen, rutscht |deine|ihre| Hand aus. Das Stichus-Nest funkelt und knistert. Es ist sich des Eindringens bewusst.</FemaleText>
     </Entry>
     <Entry>
       <ID>106</ID>
