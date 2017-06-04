@@ -372,7 +372,7 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Die Gerüche und Geräusche des Geleges rufen einen instinktiven elterlichen Instinkt in dir hervor. Ein tieferes Grollen verspricht schreckliche Konsequenzen, falls irgendjemand die wertvollen Eier berührt.</DefaultText>
+      <DefaultText>Die Gerüche und Geräusche des Geleges rufen einen instinktiven elterlichen Instinkt in |dir|[Actor Name]| hervor. Ein tieferes Grollen verspricht schreckliche Konsequenzen, falls irgendjemand die wertvollen Eier berührt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -392,8 +392,8 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Du schöpfst ein paar Milliliter der Schmiere in ein Glasfläschchen, wobei du vorsichtig die elektrischen Fasern innerhalb des Hohlraums meidest. Seine generativen Eigenschaften werden daraus eine nützliche heilende Cypher machen.</DefaultText>
-      <FemaleText />
+      <DefaultText>|Du|[Actor Name]| |schöpfst|schöpft| ein paar Milliliter der Schmiere in ein Glasfläschchen, wobei |du|er| vorsichtig die elektrischen Fasern innerhalb des Hohlraums |meidest|meidet|. Seine generativen Eigenschaften werden daraus eine nützliche heilende Cypher machen.</DefaultText>
+      <FemaleText>|Du|[Actor Name]| |schöpfst|schöpft| ein paar Milliliter der Schmiere in ein Glasfläschchen, wobei |du|sie| vorsichtig die elektrischen Fasern innerhalb des Hohlraums |meidest|meidet|. Seine generativen Eigenschaften werden daraus eine nützliche heilende Cypher machen.</FemaleText>
     </Entry>
     <Entry>
       <ID>105</ID>
