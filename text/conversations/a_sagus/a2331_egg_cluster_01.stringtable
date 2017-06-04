@@ -242,8 +242,8 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Deine Arme gleiten durch das Fruchtwasser und ergreifen vorsichtig das Gelege in der Mitte. Mit einem leichten Ruck löst du es von den Fasern, die es an das Nest binden.</DefaultText>
-      <FemaleText />
+      <DefaultText>|Deine|[Actor Name]'s| Arme gleiten durch das Fruchtwasser und ergreifen vorsichtig das Gelege in der Mitte. Mit einem leichten Ruck löst |du|er| es von den Fasern, die es an das Nest binden.</DefaultText>
+      <FemaleText>|Deine|[Actor Name]'s| Arme gleiten durch das Fruchtwasser und ergreifen vorsichtig das Gelege in der Mitte. Mit einem leichten Ruck löst |du|sie| es von den Fasern, die es an das Nest binden.</FemaleText>
     </Entry>
     <Entry>
       <ID>68</ID>
