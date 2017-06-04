@@ -12,7 +12,7 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>Schwache Klickgeräusche und ein modriger Duft steigen aus dem Gelege auf. Zarte Erschütterungen schütteln an seiner Struktur.</DefaultText>
-      <FemaleText>Schwache Klickgeräusche und ein modriger Duft steigen aus dem Gelege auf. Zarte Erschütterungen schütteln an seiner Struktur.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -27,7 +27,7 @@
     <Entry>
       <ID>5</ID>
       <DefaultText>Lass das Nest in Ruhe.</DefaultText>
-      <FemaleText>Lass das Nest in Ruhe.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -39,18 +39,14 @@
       <DefaultText>Ein Hügel aus Chitinplatten wölbt sich durch trübes Fruchtwasser. In der Mitte befindet sich ein verflochtenes Gelege aus faustgroßen Eiern mit ledernen Schalen, das von Elektrizität durchströmt wird. An einem Ende treten Antennen aus, und verkalkte Gelenke beugen sich am anderen Ende nach innen. 
 
 Das Nest weist viele Ähnlichkeiten mit den anderen Sticha auf, doch die Anatomie hat sich verändert, um seine Embryonen zu schützen.</DefaultText>
-      <FemaleText>Ein Hügel aus Chitinplatten wölbt sich durch trübes Fruchtwasser. In der Mitte befindet sich ein verflochtenes Gelege aus faustgroßen Eiern mit ledernen Schalen, das von Elektrizität durchströmt wird. An einem Ende treten Antennen aus, und verkalkte Gelenke beugen sich am anderen Ende nach innen. 
-
-Das Nest weist viele Ähnlichkeiten mit den anderen Sticha auf, doch die Anatomie hat sich verändert, um seine Embryonen zu schützen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Während du dich diesem Gelege näherst, knarren und schütteln sich die Glieder um wenige Millimeter. Der Geruch von Staub und Pilz steigt dir in die Nase und ein Gefühl von Neugier, die von Unbehagen gemildert wird, kommt auf. Beinahe unter der Hörschwelle erbeben Klickgeräusche und Grollen tief aus der Masse. "Menschenmade? Wie? Warum?" 
 
 Der Geist des Stichus-Nest ist immer noch aktiv.</DefaultText>
-      <FemaleText>Während du dich diesem Gelege näherst, knarren und schütteln sich die Glieder um wenige Millimeter. Der Geruch von Staub und Pilz steigt dir in die Nase und ein Gefühl von Neugier, die von Unbehagen gemildert wird, kommt auf. Beinahe unter der Hörschwelle erbeben Klickgeräusche und Grollen tief aus der Masse. "Menschenmade? Wie? Warum?" 
-
-Der Geist des Stichus-Nest ist immer noch aktiv.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -60,12 +56,12 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</FemaleText>
     <Entry>
       <ID>12</ID>
       <DefaultText>Erkläre, dass du eine Energiequelle benutzen willst, um das Gelege aus Stichus-Eiern zu versorgen.</DefaultText>
-      <FemaleText>Erkläre, dass du eine Energiequelle benutzen willst, um das Gelege aus Stichus-Eiern zu versorgen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Versuche erneut, zu erklären, dass du eine Energiequelle benutzen willst, um das Gelege aus Stichus-Eier zu versorgen.</DefaultText>
-      <FemaleText>Versuche erneut, zu erklären, dass du eine Energiequelle benutzen willst, um das Gelege aus Stichus-Eier zu versorgen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
@@ -75,12 +71,12 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</FemaleText>
     <Entry>
       <ID>15</ID>
       <DefaultText>Überzeuge den Stichus, die Membran zu öffnen, so dass du seine Eier untersuchen kannst.</DefaultText>
-      <FemaleText>Überzeuge den Stichus, die Membran zu öffnen, so dass du seine Eier untersuchen kannst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Versuche erneut, den Stichus zu überzeugen, die Membran zu öffnen, so dass du seine Eier untersuchen kannst.</DefaultText>
-      <FemaleText>Versuche erneut, den Stichus zu überzeugen, die Membran zu öffnen, so dass du seine Eier untersuchen kannst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -95,12 +91,12 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</FemaleText>
     <Entry>
       <ID>20</ID>
       <DefaultText>Der Geruch von starkem, hartem Stein, der durch Konvektion gewärmt wurde, steigt aus dem Nest. Er ist von deinem Angebot begeistert. Eine Platte an der Seite, die dir am nächsten ist, zieht sich nach innen, wodurch ein Loch in der dünnen Membran offengelegt wird. Das Gelege, das in gelatineartigem Fruchtwasser ruht, sprüht Funken.</DefaultText>
-      <FemaleText>Der Geruch von starkem, hartem Stein, der durch Konvektion gewärmt wurde, steigt aus dem Nest. Er ist von deinem Angebot begeistert. Eine Platte an der Seite, die dir am nächsten ist, zieht sich nach innen, wodurch ein Loch in der dünnen Membran offengelegt wird. Das Gelege, das in gelatineartigem Fruchtwasser ruht, sprüht Funken.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Elektrizität umfasst den Hohlraum des Stichus-Nests.</DefaultText>
-      <FemaleText>Elektrizität umfasst den Hohlraum des Stichus-Nests.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -110,17 +106,17 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</FemaleText>
     <Entry>
       <ID>23</ID>
       <DefaultText>Zerschlage die Eier durch die Membran.</DefaultText>
-      <FemaleText>Zerschlage die Eier durch die Membran.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Versucht erneut, die Eier zu zerschlagen.</DefaultText>
-      <FemaleText>Versucht erneut, die Eier zu zerschlagen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Konzentriere dich auf das Nest und versuche, dich auf seine Gedanken einzustimmen.</DefaultText>
-      <FemaleText>Konzentriere dich auf das Nest und versuche, dich auf seine Gedanken einzustimmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
@@ -130,12 +126,12 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</FemaleText>
     <Entry>
       <ID>30</ID>
       <DefaultText>Greife in den Hohlraum und versuche, das Gelege herauszuziehen.</DefaultText>
-      <FemaleText>Greife in den Hohlraum und versuche, das Gelege herauszuziehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Greife erneut in den Hohlraum und versuche, das Gelege herauszuziehen.</DefaultText>
-      <FemaleText>Greife erneut in den Hohlraum und versuche, das Gelege herauszuziehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
@@ -160,7 +156,7 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</FemaleText>
     <Entry>
       <ID>36</ID>
       <DefaultText>Durchdringe die Membran und lege die Eier frei.</DefaultText>
-      <FemaleText>Durchdringe die Membran und lege die Eier frei.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -185,7 +181,7 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</FemaleText>
     <Entry>
       <ID>41</ID>
       <DefaultText>Der Geruch von menschlichem Schweiß erfüllt die Luft. Das Nest wehklagt und kreischt.</DefaultText>
-      <FemaleText>Der Geruch von menschlichem Schweiß erfüllt die Luft. Das Nest wehklagt und kreischt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -200,12 +196,12 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</FemaleText>
     <Entry>
       <ID>44</ID>
       <DefaultText>Rasseln und Klickgeräusche ertönen aus dem beschädigten Gelege. Pulsierende Arterien, lebendig und geladen, verbinden noch immer die freigelegten Eier mit den Gebärmutterwänden.</DefaultText>
-      <FemaleText>Rasseln und Klickgeräusche ertönen aus dem beschädigten Gelege. Pulsierende Arterien, lebendig und geladen, verbinden noch immer die freigelegten Eier mit den Gebärmutterwänden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>Langsame Klickgeräusche und der Geruch von Staub steigen aus dem offenen Hohlraum in der Mitte dieses Nests auf. Funken heben das Gelege in der Mitte hervor und hinterlassen ein feines Aroma von Ozon.</DefaultText>
-      <FemaleText>Langsame Klickgeräusche und der Duft von Staub steigen aus dem offenen Hohlraum in der Mitte dieses Nests auf. Funken heben das Gelege in der Mitte hervor und hinterlassen ein subtileres Aroma von Ozon.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
@@ -232,9 +228,7 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</FemaleText>
       <DefaultText>Du dringst in seine fremdartigen, unverständlichen Gedanken ein. Farben verändern sich und spannen sich über ein breiteres Spektrum, als du für möglich gehalten hättest. Du siehst mit Energie pulsierende Streifen in Steinen. Pheromone kitzeln deine Synapsen und mit dieser direkten Verbindung kannst du sehen, wie olfaktorische Impulse zu Emotionen und Konzepten werden. 
 
 Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein, mit den anderen Nestern zu interagieren ... doch deine Stärke ist wahrscheinlich nicht groß genug, um einen voll ausgewachsenen Stichus zu beeinflussen.</DefaultText>
-      <FemaleText>Du dringst in seine fremdartigen, unverständlichen Gedanken ein. Farben verändern sich und spannen sich über ein breiteres Spektrum, als du für möglich gehalten hättest. Du siehst mit Energie pulsierende Streifen in Steinen. Pheromone kitzeln deine Synapsen und mit dieser direkten Verbindung kannst du sehen, wie olfaktorische Impulse zu Emotionen und Konzepten werden. 
-
-Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein, mit den anderen Nestern zu interagieren ... doch deine Stärke ist wahrscheinlich nicht groß genug, um einen voll ausgewachsenen Stichus zu beeinflussen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
@@ -299,17 +293,17 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     <Entry>
       <ID>77</ID>
       <DefaultText>Das Stichus-Nest klickt und rumpelt, eindeutig von deinem Angebot fasziniert, doch nicht genug, um seine ausbrütenden Eier freizugeben.</DefaultText>
-      <FemaleText>Das Stichus-Nest klickt und rumpelt, eindeutig von deinem Angebot fasziniert, doch nicht genug, um seine ausbrütenden Eier freizugeben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
       <DefaultText>Hektische Klickgeräusche erschüttern das Nest. Eine starke Böe aus schwachem und oxidiertem Stein, der vom Sonnenlicht gewärmt wurde, strömt heraus. Dein unnachgiebiger Druck hat es in Panik versetzt.</DefaultText>
-      <FemaleText>Hektische Klickgeräusche erschüttern das Nest. Eine starke Böe aus schwachem und oxidiertem Stein, der vom Sonnenlicht gewärmt wurde, strömt heraus. Dein unnachgiebiger Druck hat es in Panik versetzt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
       <DefaultText>Das Stichus-Nest ist für einen Moment untätig. Es klickt einmal und der Geruch von Quarz und Salz kitzelt in deiner Nase. Das Nest lässt eine sanfte Welle elektrischer Energie durch deinen Körper fahren, als würde es deine eigenen elektrischen Felder studieren. Zufrieden zieht sich die Membran zurück, wodurch die Eier freigelegt werden, die in ihrem gelatineartigen Fruchtwasser ruhen.</DefaultText>
-      <FemaleText>Das Stichus-Nest ist für einen Moment untätig. Es klickt einmal und der Geruch von Quarz und Salz kitzelt in deiner Nase. Das Nest lässt eine sanfte Welle elektrischer Energie durch deinen Körper fahren, als würde es deine eigenen elektrischen Felder studieren. Zufrieden zieht sich die Membran zurück, wodurch die Eier freigelegt werden, die in ihrem gelatineartigen Fruchtwasser ruhen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
@@ -319,7 +313,7 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     <Entry>
       <ID>81</ID>
       <DefaultText>Der Stichus grollt. Der Geruch von feuchtem Sand erfüllt die Luft. Er vertraut dir nicht.</DefaultText>
-      <FemaleText>Der Stichus grollt. Der Geruch von feuchtem Sand erfüllt die Luft. Er vertraut dir nicht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
@@ -329,7 +323,7 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     <Entry>
       <ID>83</ID>
       <DefaultText>Hektische Klickgeräusche erschüttern das Nest. Eine starke Böe aus schwachem und oxidiertem Stein, der vom Sonnenlicht gewärmt wurde, strömt heraus. Dein unnachgiebiger Druck hat es in Panik versetzt.</DefaultText>
-      <FemaleText>Hektische Klickgeräusche erschüttern das Nest. Eine starke Böe aus schwachem und oxidiertem Stein, der vom Sonnenlicht gewärmt wurde, strömt heraus. Dein unnachgiebiger Druck hat es in Panik versetzt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
@@ -344,7 +338,7 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     <Entry>
       <ID>86</ID>
       <DefaultText>Elektrizitätsströme flackern vor dem Gelege auf und fließen über den Boden. Der überwältigende Geruch frischer Luft und blühender Blumen strahlt aus dem Gelege heraus. Jeder Stichus in der Nähe wird seinen Geruch sicherlich bemerken.</DefaultText>
-      <FemaleText>Elektrizitätsströme flackern vor dem Gelege auf und fließen über den Boden. Der überwältigende Geruch frischer Luft und blühender Blumen strahlt aus dem Gelege aus. Jeder Stichus in der Nähe wird seinen Geruch sicherlich bemerken.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
@@ -354,7 +348,7 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     <Entry>
       <ID>88</ID>
       <DefaultText>Der beinahe tote Geist des Stichus im Gelege rappelt sich zu einem kümmerlichen Bewusstsein auf. Er schüttelt seine Trägheit ab, um einen Alarm herauszuschmettern, eine Pheromonexplosion. Der Duft von frischer Luft und Blumen ist ein wütender Ruf – "Menschen! Schaden Zukunft!"</DefaultText>
-      <FemaleText>Der beinahe tote Geist des Stichus im Gelege rappelt sich zu einem kümmerlichen Bewusstsein auf. Er schüttelt seine Trägheit ab, um einen Alarm herauszuschmettern, eine Pheromonexplosion. Der Duft von frischer Luft und Blumen ist ein wütender Ruf – "Menschen! Schaden Zukunft!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
@@ -364,12 +358,12 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     <Entry>
       <ID>93</ID>
       <DefaultText>Der Duft des Geleges verändert sich langsam. Was zuvor Neugier war, geht in wachsende Angst über.</DefaultText>
-      <FemaleText>Der Duft des Geleges verändert sich langsam. Was zuvor Neugier war, geht in wachsende Angst über.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
       <DefaultText>Das gelähmte Sticha-Nest zwitschert und knistert. Der Geruch von Wasser und lehmiger Erde erinnert dich an Panik und Angst.</DefaultText>
-      <FemaleText>Das gelähmte Sticha-Nest zwitschert und knistert. Der Geruch von Wasser und lehmiger Erde erinnert |dich|[Name des Akteurs]| an Panik und Angst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
@@ -379,7 +373,7 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     <Entry>
       <ID>99</ID>
       <DefaultText>Die Gerüche und Geräusche des Geleges rufen einen instinktiven elterlichen Instinkt in dir hervor. Ein tieferes Grollen verspricht schreckliche Konsequenzen, falls irgendjemand die wertvollen Eier berührt.</DefaultText>
-      <FemaleText>Die Gerüche und Geräusche des Geleges rufen einen instinktiven elterlichen Instinkt in |dir|[Name des Akteurs]| hervor. Ein tieferes Grollen verspricht schreckliche Konsequenzen, falls irgendjemand die wertvollen Eier berührt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
@@ -389,12 +383,12 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     <Entry>
       <ID>101</ID>
       <DefaultText>Der Stichus hat die Sprache aufgegeben. Er schreit vor Wut und Furcht.</DefaultText>
-      <FemaleText>Der Stichus hat die Sprache aufgegeben. Er schreit vor Wut und Furcht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
       <DefaultText>Schöpfe einen Teil des Fruchtwassers in ein Fläschchen, ohne den Stichus zu stören.</DefaultText>
-      <FemaleText>Schöpfe einen Teil des Fruchtwassers in ein Fläschchen, ohne den Stichus zu stören.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
@@ -419,32 +413,32 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     <Entry>
       <ID>108</ID>
       <DefaultText>Untersuche das Sticha-Nest.</DefaultText>
-      <FemaleText>Untersuche das Sticha-Nest.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
       <DefaultText>Der Hohlraum im Nest ist leer. Das Gelege wurde entfernt, wodurch die Kreatur im Sterben liegt.</DefaultText>
-      <FemaleText>Der Hohlraum im Nest ist leer. Das Gelege wurde entfernt, wodurch die Kreatur im Sterben liegt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
       <DefaultText>Scherben aus Chitin sind um das tote Nest herum verteilt.</DefaultText>
-      <FemaleText>Scherben aus Chitin sind um das tote Nest herum verteilt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
       <DefaultText>Nachdem die Membran entfernt wurde, glitzert das Gelege vor Energie. Fruchtwasser schwappt durch den Hohlraum, angezogen von jedem Elektrizitätsbogen.</DefaultText>
-      <FemaleText>Nachdem die Membran entfernt wurde, glitzert das Gelege vor Energie. Fruchtwasser schwappt durch den Hohlraum, angezogen von jedem Elektrizitätsbogen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
       <DefaultText>Diese Kreatur war einst ein Stichus wie die anderen im Unterschlupf. Sie hat sich eindeutig in diese Position begeben und begonnen, sich auzudehnen, wodurch ein Stätte für das Gelege geschaffen wurde. Es gibt keine Möglichkeit, herauszufinden, ob das Gelege innerhalb dieser Kreatur anwuchs, oder ob andere Sticha die Eier eingepflanzt haben.</DefaultText>
-      <FemaleText>Diese Kreatur war einst ein Stichus wie die anderen im Unterschlupf. Sie hat sich eindeutig in diese Position begeben und begonnen, zu expandieren, wodurch ein Platz für das Gelege geschaffen wurde. Es gibt keine Möglichkeit, herauszufinden, ob das Gelege innerhalb dieser Kreatur anwuchs, oder ob andere Sticha die Eier eingepflanzt haben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
       <DefaultText>Follow-up PQ. 22</DefaultText>
-      <FemaleText>Follow-up PQ. 22</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
@@ -459,12 +453,12 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     <Entry>
       <ID>117</ID>
       <DefaultText>Versuche, die Schalen im Hohlraum zu zerschlagen.</DefaultText>
-      <FemaleText>Versuche, die Schalen im Hohlraum zu zerschlagen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
       <DefaultText>Versucht erneut, die Eier zu zerschlagen.</DefaultText>
-      <FemaleText>Versucht erneut, die Eier zu zerschlagen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
