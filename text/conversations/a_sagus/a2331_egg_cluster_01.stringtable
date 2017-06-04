@@ -407,8 +407,8 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Der Stichus hat jede Sprache aufgegeben, die du verstehen kannst, doch sein Geruch und seine Bewegung sagen dir alles, was du über seine Wut zu wissen musst.</DefaultText>
-      <FemaleText />
+      <DefaultText>Der Stichus hat jede Sprache aufgegeben, die |du|[Actor Name]| verstehen |kannst|kann|, doch sein Geruch und seine Bewegung sagen |dir|ihm| alles, was |du|er| über seine Wut zu wissen |musst|muss|.</DefaultText>
+      <FemaleText>Der Stichus hat jede Sprache aufgegeben, die |du|[Actor Name]| verstehen |kannst|kann|, doch sein Geruch und seine Bewegung sagen |dir|ihr| alles, was |du|sie| über seine Wut zu wissen |musst|muss|.</FemaleText>
     </Entry>
     <Entry>
       <ID>108</ID>
