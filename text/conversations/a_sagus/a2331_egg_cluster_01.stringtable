@@ -215,8 +215,8 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</DefaultText>
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Die Membran platzt auf und Schlamm läuft deinen Arm hinunter. Du schwingst mit so viel Kraft, wie du aufbringen kannst, einen Arm ellbogentief durch die Schale, und es gelingt dir, die Eier aufzubrechen.</DefaultText>
-      <FemaleText />
+      <DefaultText>Die Membran platzt auf und Schlamm läuft |deinen|[Actor Name]'s| Arm hinunter. |Du|Er| |schwingst|schwingt| mit so viel Kraft, wie |du|er| aufbringen |kannst|kann|, einen Arm ellbogentief durch die Schale, und es gelingt |dir|ihm|, die Eier aufzubrechen.</DefaultText>
+      <FemaleText>Die Membran platzt auf und Schlamm läuft |deinen|[Actor Name]'s| Arm hinunter. |Du|Sie| |schwingst|schwingt| mit so viel Kraft, wie |du|sie| aufbringen |kannst|kann|, einen Arm ellbogentief durch die Schale, und es gelingt |dir|ihr|, die Eier aufzubrechen.</FemaleText>
     </Entry>
     <Entry>
       <ID>62</ID>
