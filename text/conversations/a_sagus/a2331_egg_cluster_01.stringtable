@@ -210,8 +210,8 @@ Der Geist des Stichus-Nest ist immer noch aktiv.</DefaultText>
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Du schiebst deinen Arm mit einem zufriedenstellenden „Plopp“ durch die Membran … aber du bist nicht in der Lage, die scharfen Dornen im Hohlraum zu vermeiden, und jeder von ihnen bereitet einen bösen Schock, der dich für einen Moment betäubt. Zumindest sind die Eier jetzt in Reichweite.</DefaultText>
-      <FemaleText />
+      <DefaultText>|Du|[Actor Name]'s| |schiebst deinen|schiebt seinen| Arm mit einem zufriedenstellenden „Plopp“ durch die Membran … aber |du bist|er ist| nicht in der Lage, die scharfen Dornen im Hohlraum zu vermeiden, und jeder von ihnen bereitet einen bösen Schock, der |dich|ihn| für einen Moment betäubt. Zumindest sind die Eier jetzt in Reichweite.</DefaultText>
+      <FemaleText>|Du|[Actor Name]'s| |schiebst deinen|schiebt ihren| Arm mit einem zufriedenstellenden „Plopp“ durch die Membran … aber |du bist|sie ist| nicht in der Lage, die scharfen Dornen im Hohlraum zu vermeiden, und jeder von ihnen bereitet einen bösen Schock, der dich für einen Moment betäubt. Zumindest sind die Eier jetzt in Reichweite.</FemaleText>
     </Entry>
     <Entry>
       <ID>61</ID>
