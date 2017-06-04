@@ -247,8 +247,8 @@ Wenn du diese Gefühle psychisch nachahmen kannst, solltest du in der Lage sein,
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Du tastest im durchsichtigen Gel umher und deine Hand rutscht aus, als sie versucht, ein Ei zu ergreifen. Ein Dorn gibt einen elektrischen Schlag ab und du reißt unfreiwillig deinen Arm von dem Ei weg.</DefaultText>
-      <FemaleText />
+      <DefaultText>|Du|[Actor Name]| |tastest|tastet| im durchsichtigen Gel umher und |deine|seine| Hand rutscht aus, als sie versucht, ein Ei zu ergreifen. Ein Dorn gibt einen elektrischen Schlag ab und |du|er| reißt unfreiwillig |deinen|seinen| Arm von dem Ei weg.</DefaultText>
+      <FemaleText>|Du|[Actor Name]| |tastest|tastet| im durchsichtigen Gel umher und |deine|ihre| Hand rutscht aus, als sie versucht, ein Ei zu ergreifen. Ein Dorn gibt einen elektrischen Schlag ab und |du|sie| reißt unfreiwillig |deinen|ihren| Arm von dem Ei weg.</FemaleText>
     </Entry>
     <Entry>
       <ID>69</ID>
