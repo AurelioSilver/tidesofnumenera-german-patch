@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>::sclk sclk::</DefaultText>
-      <FemaleText>::sclk sclk::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>::clk clk clk clk clk!::</DefaultText>
-      <FemaleText>::clk clk clk clk clk!::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>::skreeeee::</DefaultText>
-      <FemaleText>::skreeeee::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -37,17 +37,17 @@
     <Entry>
       <ID>7</ID>
       <DefaultText>"Geräusch ... schön. Bleiben ... zuhören."</DefaultText>
-      <FemaleText>"Geräusch ... schön. Bleiben ... zuhören."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>"Dieb! Eier-Stehler!"</DefaultText>
-      <FemaleText>"Dieb! Eier-Stehler!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>"Eier zerquetscht!"</DefaultText>
-      <FemaleText>"Eier zerquetscht!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
