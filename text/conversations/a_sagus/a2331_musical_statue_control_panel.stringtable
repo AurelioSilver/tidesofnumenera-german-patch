@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Dieser Apparat ist größer und makelloser als die anderen Statuen, die du in diesen Tunneln gefunden hast. Zwei abgerundete Trommeln sind tief in den Steinboden eingelassen. Spuren von Licht wirbeln in schwindelerregenden Mustern über ihre Oberfläche und verknoten sich in engen Kreisen ineinander.</DefaultText>
-      <FemaleText>Dieser Apparat ist größer und makelloser als die anderen Statuen, die du in diesen Tunneln gefunden hast. Zwei abgerundete Trommeln sind tief in den Steinboden eingelassen. Spuren von Licht wirbeln in schwindelerregenden Mustern über ihre Oberfläche und verknoten sich in engen Kreisen ineinander.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -17,12 +17,12 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>Manipuliere die Lichtmuster mit den Fingern, um die Maschine zu aktivieren.</DefaultText>
-      <FemaleText>Manipuliere die Lichtmuster mit den Fingern, um die Maschine zu aktivieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Versuche erneut, die Lichtmuster mit den Fingern zu manipulieren, um die Maschine zu aktivieren.</DefaultText>
-      <FemaleText>Versuche erneut, die Lichtmuster mit den Fingern zu manipulieren, um die Maschine zu aktivieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -32,41 +32,39 @@
     <Entry>
       <ID>9</ID>
       <DefaultText>Versuche, die Trommeln zu schlagen und ein harmonisches Geräusch zu erzeugen.</DefaultText>
-      <FemaleText>Versuche, die Trommeln zu schlagen und ein harmonisches Geräusch zu erzeugen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Versuche erneut, die Trommeln zu schlagen und ein harmonisches Geräusch zu erzeugen.</DefaultText>
-      <FemaleText>Versuche erneut, die Trommeln zu schlagen und ein harmonisches Geräusch zu erzeugen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Tritt von der Statue zurück.</DefaultText>
-      <FemaleText>Tritt von der Statue zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Du fährst mit den Fingerspitzen über die Oberfläche beider Trommeln, wobei du die bernsteinfarbenen Stränge zur Mitte hin nachfährst. Klappernde Energie baut sich in den Hohlräumen der Statue auf. 
 
 Deine Hände treffen sich. Ein Stoß goldenen Lichts berstet aus der Maschine. Für den Bruchteil einer Sekunde ist dein Geist leer gefegt, betäubt.</DefaultText>
-      <FemaleText>Du fährst mit den Fingerspitzen über die Oberfläche beider Trommeln, wobei du die bernsteinfarbenen Stränge zur Mitte hin nachfährst. Klappernde Energie baut sich in den Hohlräumen der Statue auf. 
-
-Deine Hände treffen sich. Ein Stoß goldenen Lichts berstet aus der Maschine. Für den Bruchteil einer Sekunde ist dein Geist leer gefegt, betäubt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Die Lichtstränge folgen deinen Fingern, während sie über die Oberflächen der Trommeln tanzen. Du kannst kein Muster erkennen, das eine Reaktion dieses Apparats auslösen würde.</DefaultText>
-      <FemaleText>Die Lichtstränge folgen deinen Fingern, während sie über die Oberflächen der Trommeln tanzen. Du kannst kein Muster erkennen, das eine Reaktion dieses Apparats auslösen würde.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Du legst die offenen Handflächen gleichzeitig auf beide Trommeln, woraufhin ein schepperndes Geräusch in dir widerhallt. Ein Stoß goldenen Lichts berstet aus der Maschine. Für den Bruchteil einer Sekunde ist dein Geist leergefegt, betäubt.</DefaultText>
-      <FemaleText>Du legst die offenen Handflächen gleichzeitig auf beide Trommeln, woraufhin ein schepperndes Geräusch in dir widerhallt. Ein Stoß goldenen Lichts berstet aus der Maschine. Für den Bruchteil einer Sekunde ist dein Geist leer gefegt, betäubt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Du schlägst in einem seltsamen Winkel auf die Trommeln und ein dissonantes Geklirr schneidet durch die Luft.</DefaultText>
-      <FemaleText>Du schlägst in einem seltsamen Winkel auf die Trommeln und ein dissonantes Geklirr schneidet durch die Luft.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -81,17 +79,17 @@ Deine Hände treffen sich. Ein Stoß goldenen Lichts berstet aus der Maschine. F
     <Entry>
       <ID>18</ID>
       <DefaultText>Der sanfte *vwhim*-artige Klang und sich windende Lichtstränge dauern ungemindert an.</DefaultText>
-      <FemaleText>Der sanfte *vwhim*-artige Klang und sich windende Lichtstränge dauern ungemindert an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Die letzten schlummernden Reste von Energie wurden der Maschine entzogen.</DefaultText>
-      <FemaleText>Die letzten schlummernden Reste von Energie wurden der Maschine entzogen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Ein fast unhörbares Brummen durchdringt die Luft, welche die Maschine umgibt.</DefaultText>
-      <FemaleText>Ein fast unhörbares Brummen durchdringt die Luft, welche die Maschine umgibt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -101,7 +99,7 @@ Deine Hände treffen sich. Ein Stoß goldenen Lichts berstet aus der Maschine. F
     <Entry>
       <ID>26</ID>
       <DefaultText>Diese glühenden Stränge ähneln jenen, die du auf den anderen Statuen gesehen hast, sind jedoch viel komplexer.</DefaultText>
-      <FemaleText>Diese glühenden Stränge ähneln jenen, die du auf den anderen Statuen gesehen hast, sind jedoch viel komplexer.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -116,32 +114,32 @@ Deine Hände treffen sich. Ein Stoß goldenen Lichts berstet aus der Maschine. F
     <Entry>
       <ID>29</ID>
       <DefaultText>Aktiviere das Tastfeld der Statue.</DefaultText>
-      <FemaleText>Aktiviere das Tastfeld der Statue.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Die Blicke mehrerer Sticha richten sich auf dich, als du dich der glühenden Statue näherst. Wortloses Zwitschern lässt bei diesen Wesen einen Hauch von Unbehagen erkennen. Sie wollen verhindern, dass du mit dem Apparat hantierst.</DefaultText>
-      <FemaleText>Die Blicke mehrerer Sticha richten sich auf dich, als du dich der glühenden Statue näherst. Wortloses Zwitschern lässt bei diesen Wesen einen Hauch von Unbehagen erkennen. Sie wollen verhindern, dass du mit dem Apparat hantierst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Ignoriere die Warnungen und untersuche den Apparat weiter.</DefaultText>
-      <FemaleText>Ignoriere die Warnungen und untersuche den Apparat weiter.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Tritt zurück.</DefaultText>
-      <FemaleText>Tritt zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Du hörst lauter Kreischen um den Bau, als die Sticha zum Angriff nach vorne preschen.</DefaultText>
-      <FemaleText>Du hörst lauter Kreischen um den Bau, als die Sticha zum Angriff nach vorne preschen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Ein fast unhörbares Brummen durchdringt die Luft, welche die Maschine umgibt.</DefaultText>
-      <FemaleText>Ein fast unhörbares Brummen durchdringt die Luft, welche die Maschine umgibt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
