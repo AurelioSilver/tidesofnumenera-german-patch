@@ -57,22 +57,22 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>Die Blicke mehrerer Sticha richten sich auf dich, als du dich der glühenden Statue näherst. Wortloses Zwitschern lässt bei diesen Wesen einen Hauch von Unbehagen erkennen. Sie wollen verhindern, dass du mit dem Apparat hantierst.</DefaultText>
-      <FemaleText>Die Blicke mehrerer Sticha richten sich auf dich, als du dich der glühenden Statue näherst. Wortloses Zwitschern lässt bei diesen Wesen einen Hauch von Unbehagen erkennen. Sie wollen verhindern, dass du mit dem Apparat hantierst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Ignoriere die Warnungen und untersuche den Apparat weiter.</DefaultText>
-      <FemaleText>Ignoriere die Warnungen und untersuche den Apparat weiter.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Du hörst lauter Kreischen um den Bau, als die Sticha zum Angriff nach vorne preschen.</DefaultText>
-      <FemaleText>Du hörst lauter Kreischen um den Bau, als die Sticha zum Angriff nach vorne preschen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Tritt zurück.</DefaultText>
-      <FemaleText>Tritt zurück.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
