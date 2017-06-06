@@ -180,7 +180,7 @@ Während sie die Seiten durchblättert, erst langsam, dann zügiger, kannst du D
     <Entry>
       <ID>34</ID>
       <DefaultText>"Ich weiß, dass dein Erzeuger seine Notizen hier irgendwo versteckt haben muss."</DefaultText>
-      <FemaleText>"Ich weiß, dass dein Erzeuger seine Notizen hier irgendwo versteckt haben muss."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
@@ -190,12 +190,12 @@ Während sie die Seiten durchblättert, erst langsam, dann zügiger, kannst du D
     <Entry>
       <ID>36</ID>
       <DefaultText>"Du bist in vielerlei Hinsicht eine Enttäuschung."</DefaultText>
-      <FemaleText>"Du bist in vielerlei Hinsicht eine Enttäuschung."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>Du tippst wahllos auf dieser alten Maschine herum. Sie fühlt sich auf seltsame und vage Weise vertraut an, das schwache Jucken der Erinnerung ist jedoch vergänglich.</DefaultText>
-      <FemaleText>Du tippst wahllos auf dieser alten Maschine herum. Sie fühlt sich auf seltsame und vage Weise vertraut an, das schwache Jucken der Erinnerung ist jedoch vergänglich.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -205,7 +205,7 @@ Während sie die Seiten durchblättert, erst langsam, dann zügiger, kannst du D
     <Entry>
       <ID>39</ID>
       <DefaultText>Irgendetwas an dem Apparat scheint 'Datensphäre' zu rufen, doch ... nein. Die Erinnerung ist verflogen.</DefaultText>
-      <FemaleText>Irgendetwas an dem Apparat scheint 'Datensphäre' zu rufen, doch ... nein. Die Erinnerung ist verflogen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
@@ -230,22 +230,22 @@ Während sie die Seiten durchblättert, erst langsam, dann zügiger, kannst du D
     <Entry>
       <ID>45</ID>
       <DefaultText>Untersuche die Maschine.</DefaultText>
-      <FemaleText>Untersuche die Maschine.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>Untersuche die Maschine erneut.</DefaultText>
-      <FemaleText>Untersuche die Maschine erneut.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>Geh weiter.</DefaultText>
-      <FemaleText>Geh weiter.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>Du fährst mit den Händen über die Maschine, versuchst, sie anzuheben, und interagierst auf andere Weise mit ihr, doch es scheint nichts zu funktionieren. Du trittst einen Schritt zurück.</DefaultText>
-      <FemaleText>Du fährst mit den Händen über die Maschine, versuchst, sie anzuheben, und interagierst auf andere Weise mit ihr, doch es scheint nichts zu funktionieren. Du trittst einen Schritt zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
@@ -259,31 +259,27 @@ Während sie die Seiten durchblättert, erst langsam, dann zügiger, kannst du D
 {SFX: sliding stone}
 
 {LOOT}</DefaultText>
-      <FemaleText>Du spürst ein Jucken an der Basis deines Schädels. Plötzlich bewegt sich deine rechte Hand eigenständig, wobei sie in einer wahnsinnigen, jedoch zweckdienlichen Reihe von Bewegungen nach unten schlägt, um den Boden zu berühren. Neben deinem Fuß öffnet sich ein Steinfach. Darin befindet sich ein ledergebundenes Tagebuch.
-
-{SFX: sliding stone}
-
-{LOOT}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>Du verspürst eine Art kratzendes Gefühl an der Basis deines Schädels, im Inneren deines Kopfes, doch nichts geschieht, mit Ausnahme des unangenehmen Gefühls, dass irgendetwas versucht, herauszukommen.</DefaultText>
-      <FemaleText>Du verspürst eine Art kratzendes Gefühl an der Basis deines Schädels, im Inneren deines Kopfes, doch nichts geschieht, mit Ausnahme des unangenehmen Gefühls, dass irgendetwas versucht, herauszukommen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>Du konzentrierst dich erneut, der Versuch ist jedoch aussichtslos.</DefaultText>
-      <FemaleText>Du konzentrierst dich erneut, der Versuch ist jedoch aussichtslos.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>Versuche, dich daran zu erinnern, wo die Notizen sein könnten.</DefaultText>
-      <FemaleText>Versuche, dich daran zu erinnern, wo die Notizen sein könnten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>Versuche erneut, dich zu erinnern, wo die Notizen sein könnten.</DefaultText>
-      <FemaleText>Versuche erneut, dich zu erinnern, wo die Notizen sein könnten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
