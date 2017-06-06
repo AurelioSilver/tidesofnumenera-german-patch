@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Glatte, graue Ranken schlängeln sich entlang dieser Mauer in den und aus dem Felsen und wachsen schließlich heraus, um die angrenzende Türöffnung zu bedecken. Obwohl seine Textur metallisch ist, wuchs das Material wie eine Rebe oder ein Pilz. Die einzelnen Stränge sind hart, bei Berührung jedoch warm.</DefaultText>
-      <FemaleText>Glatte, graue Ranken schlängeln sich entlang dieser Mauer in den und aus dem Felsen und wachsen schließlich heraus, um die angrenzende Türöffnung zu bedecken. Obwohl seine Textur metallisch ist, wuchs das Material wie eine Rebe oder ein Pilz. Die einzelnen Stränge sind hart, bei Berührung jedoch warm.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -17,12 +17,12 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>Versuche, die Körnung der Rebe zu finden und ziehe daran.</DefaultText>
-      <FemaleText>Versuche, die Körnung der Rebe zu finden und ziehe daran.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Versuche erneut, die Körnung der Rebe zu finden und ziehe daran.</DefaultText>
-      <FemaleText>Versuche erneut, die Körnung der Rebe zu finden und ziehe daran.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -32,57 +32,57 @@
     <Entry>
       <ID>9</ID>
       <DefaultText>Versuche, die Ranke von der Rebe zu drehen.</DefaultText>
-      <FemaleText>Versuche, die Ranke von der Rebe zu drehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Versuche erneut, die Ranke von der Rebe zu drehen.</DefaultText>
-      <FemaleText>Versuche erneut, die Ranke von der Rebe zu drehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Lass die Rebe in Ruhe.</DefaultText>
-      <FemaleText>Lass die Rebe in Ruhe.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Als du mit einem Finger über die Ranke fährst, fühlst du eine leichte Riffelung, die auf die Körnung der Rebe hinweist. Du schließt deine Hand darum und ziehst direkt gegen den Schuss. Er löst sich vollständig. Die anderen Stränge lösen und teilen sich, als du das Fragment auf sie zubewegst. Dann winden sie sich wieder zusammen.</DefaultText>
-      <FemaleText>Als du mit einem Finger über die Ranke fährst, fühlst du eine leichte Riffelung, die auf die Körnung der Rebe hinweist. Du schließt deine Hand darum und ziehst direkt gegen den Schuss. Er löst sich vollständig. Die anderen Stränge lösen und teilen sich, als du das Fragment auf sie zubewegst. Dann winden sie sich wieder zusammen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Obwohl du mit dem Zeigefinger über die gesamte Ranke fährst, kannst du die Textur der Körnung der Rebe nicht finden.</DefaultText>
-      <FemaleText>Obwohl du mit dem Zeigefinger über die gesamte Ranke fährst, kannst du die Textur der Körnung der Rebe nicht finden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Die Rebe gibt einen winzigen Funken ab.</DefaultText>
-      <FemaleText>Die Rebe gibt einen winzigen Funken ab.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Du stützt dein Bein gegen die Felswand, greifst dir die Rebe und ziehst daran. Sie löst sich. Die anderen Stränge lösen und teilen sich, als du die Ranke auf sie zubewegst. Dann winden sie sich wieder zusammen.</DefaultText>
-      <FemaleText>Du stützt dein Bein gegen die Felswand, greifst dir die Rebe und ziehst daran. Sie löst sich. Die anderen Stränge lösen und teilen sich, als du die Ranke auf sie zubewegst. Dann winden sie sich wieder zusammen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Du scheinst an der glatten Ranke keinen festen Griff zu bekommen. Sie bleibt stur an Ort und Stelle verwurzelt.</DefaultText>
-      <FemaleText>Du scheinst an der glatten Ranke keinen festen Griff zu bekommen. Sie bleibt stur an Ort und Stelle verwurzelt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Im Gegensatz zu den anderen Strängen der Rebe löst sich die dir am nächsten befindliche Ranke von den anderen. Ihre Spitze sprüht stoßweise Funken. Mit genügend Kraftaufwand oder geschicktem Drehen könntest du sie von den anderen Strünken reißen.</DefaultText>
-      <FemaleText>Im Gegensatz zu den anderen Strängen der Rebe löst sich die dir am nächsten befindliche Ranke von den anderen. Ihre Spitze sprüht stoßweise Funken. Mit genügend Kraftaufwand oder geschicktem Drehen könntest du sie von den anderen Strünken reißen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Ohne das Fragment, das die anderen abstieß, windet sich die Rebe wieder zusammen.</DefaultText>
-      <FemaleText>Ohne das Fragment, das die anderen abstieß, windet sich die Rebe wieder zusammen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Eine tintenschwarze Ranke, bei der Funken aus der Spitze sprühen, wächst aus den blühenden, eng verschlungenen Reben. Du könntest sie von der Rebe ziehen.</DefaultText>
-      <FemaleText>Eine tintenschwarze Ranke, bei der Funken aus der Spitze sprühen, wächst aus den blühenden, eng verschlungenen Reben. Du könntest sie von der Rebe ziehen.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
