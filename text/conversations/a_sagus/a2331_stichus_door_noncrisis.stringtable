@@ -9,28 +9,24 @@
       <DefaultText>Du näherst dich der rankenähnlichen Tür. Ein Stichus lauert in den Schatten und sondert eine nach Schwefel riechende Wolke ab – eine klare Bedrohung.
 
 "Menschenlarve. Kein Zutritt!"</DefaultText>
-      <FemaleText>Du näherst dich der rankenähnlichen Tür. Ein Stichus lauert in den Schatten und sondert eine nach Schwefel riechende Wolke ab – eine klare Bedrohung.
-
-"Menschenlarve. Kein Zutritt!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Wie beim letzten Mal schnappt und faucht ein Stichus, als du dich der Tür näherst. 
 
 "Zurück, Mensch! Nimm stattdessen Tunnel!"</DefaultText>
-      <FemaleText>Wie beim letzten Mal schnappt und faucht ein Stichus, als du dich der Tür näherst. 
-
-"Zurück, Mensch! Nimm stattdessen Tunnel!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Ignoriere seine Warnungen und versuche es erneut mit der Tür.</DefaultText>
-      <FemaleText>Ignoriere seine Warnungen und versuche es erneut mit der Tür.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Tritt von der Tür zurück.</DefaultText>
-      <FemaleText>Tritt von der Tür zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -45,12 +41,12 @@
     <Entry>
       <ID>9</ID>
       <DefaultText>Du näherst dich der rankenähnlichen Tür. Ein Stichus lauert im Schatten und sondert eine nach Schwefel riechende Wolke ab – eine klare Bedrohung. Es möchte, dass du dich von der Tür entfernst.</DefaultText>
-      <FemaleText>Du näherst dich der rankenähnlichen Tür. Ein Stichus lauert in den Schatten und sondert eine nach Schwefel riechende Wolke ab – eine klare Bedrohung. Es möchte, dass du dich von der Tür entfernst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Und wieder schnappt und faucht ein Stichus in der Nähe, als du dich der Tür näherst.</DefaultText>
-      <FemaleText>Und wieder schnappt und faucht ein Stichus in der Nähe, als du dich der Tür näherst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -60,7 +56,7 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>Du reichst nach der Tür und versuchst, sie zu berühren, als der Stichus eine bösartige, erstickende Wolke versprüht. Blitzbögen gehen von seinen Fühlern aus und es holt zum Angriff aus!</DefaultText>
-      <FemaleText>Du reichst nach der Tür und versuchst, sie zu berühren, als der Stichus eine bösartige, erstickende Wolke versprüht. Blitzbögen gehen von seinen Fühlern aus und er lauert auf einen Angriff!</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
