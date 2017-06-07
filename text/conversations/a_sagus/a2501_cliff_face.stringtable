@@ -137,14 +137,12 @@ Nach einem kurzen Fall, knallst du mit dem Schädel auf dem Vorsprung auf. Wenig
       <DefaultText>Du schlägst schmerzhaft auf dem Vorsprung auf. Wenigstens hast du es nach unten geschafft.
 
 {DAMAGE}</DefaultText>
-      <FemaleText>Du schlägst schmerzhaft auf dem Vorsprung auf. Wenigstens hast du es nach unten geschafft.
-
-{DAMAGE}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Spring auf den Felsvorsprung herunter.</DefaultText>
-      <FemaleText>Spring auf den Felsvorsprung herunter.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
