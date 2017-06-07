@@ -88,9 +88,7 @@ Der Tesserakt ist eine Art Schalter, der die Steuerung vom einen Zustand in den 
       <DefaultText>Die ganze Plattform brummt, während sie zum Leben erwacht, und eine Sphäre aus Elektrizität schimmert knapp fünf Meter über deinem Kopf. 
 
 {SOUND: Energy humming, appearance of a teleporting sphere.}</DefaultText>
-      <FemaleText>Die ganze Plattform brummt, während sie zum Leben erwacht, und eine Sphäre aus Elektrizität schimmert knapp fünf Meter über deinem Kopf. 
-
-{SOUND: Energy humming, appearance of a teleporting sphere.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
