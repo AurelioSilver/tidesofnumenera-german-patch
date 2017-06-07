@@ -102,7 +102,7 @@ Du kannst zwar nicht genau sagen, wo genau das Objekt gelandet ist, aber du erke
     <Entry>
       <ID>18</ID>
       <DefaultText>Addend. 18</DefaultText>
-      <FemaleText>Addend. 18</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -234,12 +234,12 @@ Am einen Ende vom Tal der toten Helden ist ein Punkt mit der Aufschrift ‚Die N
     <Entry>
       <ID>44</ID>
       <DefaultText>[DEBUG: Gib mir einfach den Kamm, zum Teufel.]</DefaultText>
-      <FemaleText>[DEBUG: Gib mir einfach den Kamm, zum Teufel.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>Der schwebende Kamm – und das purpurfarbene Haar – passen zu Omahdons Beschreibung von Perseia. Es ist wahrscheinlich, dass sie in diesem Raum war ... und vermutlich vor nicht allzu langer Zeit.</DefaultText>
-      <FemaleText>Der schwebende Kamm – und das purpurfarbene Haar – passen zu Omahdons Beschreibung von Perseia. Es ist wahrscheinlich, dass sie in diesem Raum war ... und vermutlich vor nicht allzu langer Zeit.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
