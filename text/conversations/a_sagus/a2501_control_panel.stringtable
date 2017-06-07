@@ -66,7 +66,7 @@ In der Ecke rechts oben ist ein Tesserakt.</DefaultText>
       <ID>11</ID>
       <DefaultText>Eine Erinnerung kitzelt deinen Verstand, bleibt aber hartnäckig schleierhaft. Du erinnerst dich zumindest, dass dieses Steuerpult mehrere Generatoren in der ganzen Stadt steuert und deine frühere Vermutung über den Sinn der Symbole ist auf jeden Fall richtig.
 
-Aha! Du erinnerst dich jetzt: das Tesserakt regelt die Steuerung zwischen "Raum" und "Zeit". Das bestimmt, welches Maschinen-Set das Steuerpult kontrolliert.</DefaultText>
+Aha! Du erinnerst dich jetzt: das Tesserakt regelt die Steuerung zwischen „Raum“ und „Zeit“. Das bestimmt, welches Maschinen-Set das Steuerpult kontrolliert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,7 +195,7 @@ Der äußere Kubus flackert rein und raus und bewegt sich nicht mehr durch den R
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Die Karte leuchtet erneut auf und eine Stimme spricht in deinem Kopf zu dir: "Räumliches Übersetzungsnetzwerk verbunden Nenne deinen Zielort."
+      <DefaultText>Die Karte leuchtet erneut auf und eine Stimme spricht in deinem Kopf zu dir: „Räumliches Übersetzungsnetzwerk verbunden Nenne deinen Zielort.“
 
 Du erkennst nicht den Standort aller Punkte und weißt nicht, was die Maschine genau erwartet, aber wenigstens kennst du einige davon.
 
@@ -224,32 +224,32 @@ Dann ein lauter Knall, das Brummen stoppt und die Karte ist wieder so, wie sie z
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Benutze das räumliche Netzwerk."</DefaultText>
+      <DefaultText>„Benutze das räumliche Netzwerk.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Die Karte leuchtet erneut auf und eine Stimme spricht direkt zu dir: "Nenne deinen Zielort."</DefaultText>
+      <DefaultText>Die Karte leuchtet erneut auf und eine Stimme spricht direkt zu dir: „Nenne deinen Zielort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Circus Minor."</DefaultText>
+      <DefaultText>„Circus Minor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Klippenrand."</DefaultText>
+      <DefaultText>„Klippenrand.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Regierungsplatz."</DefaultText>
+      <DefaultText>„Regierungsplatz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Karawanserei."
+      <DefaultText>„Karawanserei.“
 
 {ADAM/GEORGE: Put a ShouldNotPlay() on this for now so we can evaluate if there's a way to add this option here while maintaining consistency with the other shield generators. If we keep this, it'd be nice to add something visual to the level at the spot where the party teleports. -JF}</DefaultText>
       <FemaleText />
@@ -293,7 +293,7 @@ Dann ein lauter Knall, das Brummen stoppt und die Karte ist wieder so, wie sie z
       <ID>49</ID>
       <DefaultText>Die Karte wechselt die Farbe. Jeder der hellen Punkte leuchtet einer nach dem anderen auf und zeitweise wird eine abgefärbte Linie von einem Punkt zum nächsten gezogen. Nach einer Minute beginnt die Karte zu verblassen.
 
-Eine Stimme spricht die Wahrheit direkt in deinen Geist: "Eingeschränkte temporale Netzwerkverbindungen. Netzwerk bitte reparieren."
+Eine Stimme spricht die Wahrheit direkt in deinen Geist: „Eingeschränkte temporale Netzwerkverbindungen. Netzwerk bitte reparieren.“
 
 Das Kristallgitter neben der Karte leuchtet auf.</DefaultText>
       <FemaleText />
@@ -302,7 +302,7 @@ Das Kristallgitter neben der Karte leuchtet auf.</DefaultText>
       <ID>50</ID>
       <DefaultText>Die Karte wechselt die Farbe. Jeder der hellen Punkte leuchtet einer nach dem anderen auf und zeitweise wird eine abgefärbte Linie von einem Punkt zum nächsten gezogen. Nach einer Minute beginnt die Karte zu verblassen.
 
-Eine Stimme spricht die Wahrheit direkt in deinen Geist: "Eingeschränkte räumliche Netzwerkverbindungen. Netzwerk bitte reparieren."
+Eine Stimme spricht die Wahrheit direkt in deinen Geist: „Eingeschränkte räumliche Netzwerkverbindungen. Netzwerk bitte reparieren.“
 
 Das Kristallgitter neben der Karte leuchtet auf.</DefaultText>
       <FemaleText />
@@ -311,21 +311,21 @@ Das Kristallgitter neben der Karte leuchtet auf.</DefaultText>
       <ID>51</ID>
       <DefaultText>Die Karte leuchtet erneut auf und ändert die Farben. Die Linien zwischen jedem Punkt wachsen und verblassen. Manche von ihnen werden zunächst fest und verschwinden dann wieder. Andere haben Lücken, die nie aufleuchten.
 
-Nach mehreren Minuten hört die Aktivität auf und die Stimme spricht erneut zu dir: "Netzwerk konnte nicht wiederhergestellt werden. Temporale Verbindungen sind irreparabel geschädigt. Bitte kontaktieren Sie umgehend Ihren Systemkonservator."</DefaultText>
+Nach mehreren Minuten hört die Aktivität auf und die Stimme spricht erneut zu dir: „Netzwerk konnte nicht wiederhergestellt werden. Temporale Verbindungen sind irreparabel geschädigt. Bitte kontaktieren Sie umgehend Ihren Systemkonservator.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>Die Karte leuchtet erneut auf und ändert die Farben. Zwischen jedem Punkt tauchen Linien auf. Manche sind verblasst und andere haben Lücken dazwischen. Eine nach der anderen werden die Linien heller und verbinden sich besser mit dem Rest.
 
-Nach mehreren Minuten zeigt die Karte ein Netzwerk aus Punkten. Das Steuerungspult beendet seine Aktivität und die Stimme spricht erneut zu dir: "Räumliches Netzwerk verbunden Verbindungsprozess kann nun fortgesetzt werden."</DefaultText>
+Nach mehreren Minuten zeigt die Karte ein Netzwerk aus Punkten. Das Steuerungspult beendet seine Aktivität und die Stimme spricht erneut zu dir: „Räumliches Netzwerk verbunden Verbindungsprozess kann nun fortgesetzt werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>Die Karte wechselt die Farbe. Jeder helle Punkt leuchtet nun auf und so auch jede Verbindung zwischen ihnen. Nach einer Minute beginnt die Karte zu verblassen.
 
-Eine Stimme spricht die Wahrheit direkt in deinen Geist: "Keine Probleme gefunden. Wenn Sie Probleme mit Ihrem temporalen Netzwerk haben, wenden Sie sich bitte an Ihren System-Konservator."</DefaultText>
+Eine Stimme spricht die Wahrheit direkt in deinen Geist: „Keine Probleme gefunden. Wenn Sie Probleme mit Ihrem temporalen Netzwerk haben, wenden Sie sich bitte an Ihren System-Konservator.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -349,7 +349,7 @@ Die Stadt wird angegriffen. Du rennst durch die Straßen zum nächstgelegenen Ge
       <ID>64</ID>
       <DefaultText>Du findest dich genau vor dem Steuerungspult oben auf der Klippe wieder.
 
-Mit schnellen Bewegungen schaltest du das Tesserakt um und wechselst die Steuerung von "Raum" auf "Zeit". Dann drückst den Sternhaufen, um das Netzwerk aus temporalen Schildgeneratoren zu verbinden.
+Mit schnellen Bewegungen schaltest du das Tesserakt um und wechselst die Steuerung von „Raum“ auf „Zeit“. Dann drückst den Sternhaufen, um das Netzwerk aus temporalen Schildgeneratoren zu verbinden.
 
 Auf der Karte erwacht das Generator-Netzwerk zum Leben und verteilt in der ganzen Stadt die Energie, die einen gigantischen Schutzschild über ganz Sagus-Klippen speisen.</DefaultText>
       <FemaleText />
@@ -373,7 +373,7 @@ Das Wichtige ist, dass niemand die Kuppel betreten oder verlassen kann, während
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Du kannst den Schild nicht mehr wie in deiner Erinnerung errichten. Aber dir fällt ein, dass das Netzwerk einmal einen anderen Zweck verfolgte. In der Erinnerung hat du das Tesserakt benutzt, um die Steuerung von "Zeit" auf "Raum" zu wechseln. Wer weiß, wenn du es zurück wechselst dann ...</DefaultText>
+      <DefaultText>Du kannst den Schild nicht mehr wie in deiner Erinnerung errichten. Aber dir fällt ein, dass das Netzwerk einmal einen anderen Zweck verfolgte. In der Erinnerung hat du das Tesserakt benutzt, um die Steuerung von „Zeit“ auf „Raum“ zu wechseln. Wer weiß, wenn du es zurück wechselst dann ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -448,37 +448,37 @@ Nachdem die Energiekuppel so lange aktiv war - Jahrhunderte oder länger - schei
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Das Dorf Kholn."</DefaultText>
+      <DefaultText>„Das Dorf Kholn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>" Das Riff der gefallenen Welten."</DefaultText>
+      <DefaultText>„ Das Riff der gefallenen Welten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Schattenseite."</DefaultText>
+      <DefaultText>„Schattenseite.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Miel Avest."</DefaultText>
+      <DefaultText>„Miel Avest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Ziel nicht erkannt. Bitte erneut festlegen."</DefaultText>
+      <DefaultText>„Ziel nicht erkannt. Bitte erneut festlegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Momentan nirgendwo."</DefaultText>
+      <DefaultText>„Momentan nirgendwo.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Verstanden. Um künftig das räumliche Übersetzungsnetzwerk zu nutzen, einfach erklären: ‚räumliche Netzwerk verwenden‘.</DefaultText>
+      <DefaultText>„Verstanden. Um künftig das räumliche Übersetzungsnetzwerk zu nutzen, einfach erklären: ‚räumliche Netzwerk verwenden‘.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -495,7 +495,7 @@ Das räumliche Netzwerk auf der Karte leuchtet, ist verbunden und einsatzbereit.
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Die Stimme spricht: "Räumliches Übersetzungsnetzwerk wurde bereits aktiviert. Nenne deinen Zielort."</DefaultText>
+      <DefaultText>Die Stimme spricht: „Räumliches Übersetzungsnetzwerk wurde bereits aktiviert. Nenne deinen Zielort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -560,7 +560,7 @@ Das räumliche Netzwerk auf der Karte leuchtet, ist verbunden und einsatzbereit.
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Schalte mit dem Tesserakt die Steuerung von "Raum" auf "Zeit" um.</DefaultText>
+      <DefaultText>Schalte mit dem Tesserakt die Steuerung von „Raum“ auf „Zeit“ um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
