@@ -65,7 +65,7 @@ Ein dünner Bändel wurde in die offenen Seiten platziert. Ein zweiter Bändel m
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Darin findest du ein kleiner verzierter Kamm, der wie ein mit Edelsteinen geschmücktes Insekt aussieht. Tatsächlich ist *es* ein mit Edelsteinen geschmücktes Insekt - ein biomechanisches Schmuckstück, das sehr lebendig ist. Die Scheren eignen sich dazu, Haarlocken zu umschließen und seine Flügel lassen es über dem Kopf des Trägers schweben.
+      <DefaultText>Darin findest du ein kleiner verzierter Kamm, der wie ein mit Edelsteinen geschmücktes Insekt aussieht. Tatsächlich ist *es* ein mit Edelsteinen geschmücktes Insekt – ein biomechanisches Schmuckstück, das sehr lebendig ist. Die Scheren eignen sich dazu, Haarlocken zu umschließen und seine Flügel lassen es über dem Kopf des Trägers schweben.
 
 Mehrere Haare hängen noch zwischen den Zähnen des Kamms. Sie sind kräftig purpurrot gefärbt.</DefaultText>
       <FemaleText />
@@ -96,7 +96,7 @@ Mehrere Haare hängen noch zwischen den Zähnen des Kamms. Sie sind kräftig pur
 
 Du kannst zwar nicht genau sagen, wo genau das Objekt gelandet ist, aber du erkennst, dass das Wasser sich zu einem kleinen Eingang in eine Höhle hin verengt.
 
-{SOUND: I like the reactivity here - let's set a variable and implement this. I've made a note in the dialogue description for the fishing lines, but you'll need to modify the existing a2301_fishing_lines dialogue to include the hair comb. It'll be another option that follows node 19. Please coordinate with Gavin so that he can update the text once you add this,}</DefaultText>
+{SOUND: I like the reactivity here – let's set a variable and implement this. I've made a note in the dialogue description for the fishing lines, but you'll need to modify the existing a2301_fishing_lines dialogue to include the hair comb. It'll be another option that follows node 19. Please coordinate with Gavin so that he can update the text once you add this,}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@ Du kannst zwar nicht genau sagen, wo genau das Objekt gelandet ist, aber du erke
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Du hast das Gefühl, diese Art von biomechanischer Handwerkskunst schon einmal gesehen zu haben. Es ist sehr, sehr kalt - wahrscheinlich älter als die Neunte Welt.</DefaultText>
+      <DefaultText>Du hast das Gefühl, diese Art von biomechanischer Handwerkskunst schon einmal gesehen zu haben. Es ist sehr, sehr kalt – wahrscheinlich älter als die Neunte Welt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -183,12 +183,12 @@ In die offenen Seiten wurde ein dünner Bändel gelegt und ein weiterer Bändel 
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Anhand des Zustandes der Seiten schätzt du, dass das Buch etwa 20 Jahre alt ist. Das Vellum-Papier wurde wahrscheinlich aus der Haut eines Herdentiers gemacht - ein Aneen-Jungtier oder vielleicht ein Gallen.</DefaultText>
+      <DefaultText>Anhand des Zustandes der Seiten schätzt du, dass das Buch etwa 20 Jahre alt ist. Das Vellum-Papier wurde wahrscheinlich aus der Haut eines Herdentiers gemacht – ein Aneen-Jungtier oder vielleicht ein Gallen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Dieses Buch scheint nicht neu zu sein - die Seiten sind abgenutzt - aber mehr kannst du nicht feststellen. Es könnte zehn, aber auch 50 Jahre alt sein. Auf keiner der Seiten sind irgendwelche Daten gestempelt.</DefaultText>
+      <DefaultText>Dieses Buch scheint nicht neu zu sein – die Seiten sind abgenutzt – aber mehr kannst du nicht feststellen. Es könnte zehn, aber auch 50 Jahre alt sein. Auf keiner der Seiten sind irgendwelche Daten gestempelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
