@@ -165,14 +165,14 @@ Einer von ihnen fährt herum und fokussiert dich mit einem hungrigen Auge. Er st
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Bleib zurück. Ich habe hier kein Futter für dich."
+      <DefaultText>„Bleib zurück. Ich habe hier kein Futter für dich.“
 
 {GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ich will dir nichts antun. Geh in dein Reich zurück."</DefaultText>
+      <DefaultText>„Ich will dir nichts antun. Geh in dein Reich zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@ Sie sind Abykos - gesamtdimensionale Einheiten, die sich von Energiequellen und 
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Geht weg von hier oder sterbt."</DefaultText>
+      <DefaultText>„Geht weg von hier oder sterbt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -389,13 +389,13 @@ Würgend brichst du zusammen, fällst auf den Rücken und stirbst.</DefaultText>
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Matkina, diese Maschine könnte auch bei dir funktionieren. Willst du es mal versuchen?"
+      <DefaultText>„Matkina, diese Maschine könnte auch bei dir funktionieren. Willst du es mal versuchen?“
 {SCRIPT: Only visible if PC doesn't have a good relationship with Matkina and she's active in the party.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Gib den Spiegeln eine Chance, Matkina. Mir haben sie nicht *geschadet*."</DefaultText>
+      <DefaultText>„Gib den Spiegeln eine Chance, Matkina. Mir haben sie nicht *geschadet*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@ Würgend brichst du zusammen, fällst auf den Rücken und stirbst.</DefaultText>
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Ich verzichte", sagt sie. "Die Geschenke, die man für solche kleinen Erfindungen erhält, rechtfertigen fast nie den Preis."
+      <DefaultText>„Ich verzichte“, sagt sie. „Die Geschenke, die man für solche kleinen Erfindungen erhält, rechtfertigen fast nie den Preis.“
 {MATKINA}</DefaultText>
       <FemaleText />
     </Entry>
@@ -414,18 +414,18 @@ Würgend brichst du zusammen, fällst auf den Rücken und stirbst.</DefaultText>
       <ID>73</ID>
       <DefaultText>Sie verbringt ein, zwei Minuten damit, die Spiegel zu verstellen und konzentriert sich dann auf den letzten Spiegel, der noch klar ist.
 
-"Hm", sagt sie. "Das ist interessant. Ich-"
+„Hm“, sagt sie. „Das ist interessant. Ich-“
 
 Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau wie allen anderen zuvor.
 
-"Au", sagt sie und winkt dich gleichzeitig weg. "Ich bin okay. Es zeigte mir mein *Ich*, aber mit einem neuen Trick. Ich glaube, ich weiß jetzt, wie es funktioniert."
+„Au“, sagt sie und winkt dich gleichzeitig weg. „Ich bin okay. Es zeigte mir mein *Ich*, aber mit einem neuen Trick. Ich glaube, ich weiß jetzt, wie es funktioniert.“
 {SCRIPT: NODE 74,68 SHOULD NOT PLAY - Matkina gets a more powerful Blinding ability}
 {GEORGE: Jeremy was not aware this was a thing. Is it?}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Matkina, diese Maschine könnte auch bei dir funktionieren. Willst du es mal versuchen?"
+      <DefaultText>„Matkina, diese Maschine könnte auch bei dir funktionieren. Willst du es mal versuchen?“
 {SCRIPT: Only visible if PC has a good relationship with Matkina.}</DefaultText>
       <FemaleText />
     </Entry>
@@ -433,7 +433,7 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
       <ID>75</ID>
       <DefaultText>Sie schaut dich zweifelnd an.
 
-"Sicher", sagt sie schließlich. "Sei aber nicht überrascht, wenn mich das Ding in einen Haufen Knochen verwandelt."
+„Sicher“, sagt sie schließlich. „Sei aber nicht überrascht, wenn mich das Ding in einen Haufen Knochen verwandelt.“
 {MATKINA}</DefaultText>
       <FemaleText />
     </Entry>
@@ -538,24 +538,24 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
       <ID>96</ID>
       <DefaultText>Er knurrt und sieht zu dem unwilligen Stück Glas hoch.
 
- "Kann nicht sagen, dass mir gefiel, wie das wirkte, trotzdem sollten wir es uns lieber genau ansehen."</DefaultText>
+ „Kann nicht sagen, dass mir gefiel, wie das wirkte, trotzdem sollten wir es uns lieber genau ansehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
       <DefaultText>Sie reckt den Hals über das flimmernde Gedränge um sie herum.
 
- "Seltsam. Seltsam und faszinierend. Sollen wir es uns genauer ansehen?"</DefaultText>
+ „Seltsam. Seltsam und faszinierend. Sollen wir es uns genauer ansehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Bewegt sich dieser Spiegel?", fragt Erritis mit geschlossenen Augen. "Schon gut. Sag es mir nicht."</DefaultText>
+      <DefaultText>„Bewegt sich dieser Spiegel?“, fragt Erritis mit geschlossenen Augen. „Schon gut. Sag es mir nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Alles an diesem Ort trägt das Zeichen unseres Erzeugers.", brummt sie, und ihre Hand spielt mit dem Griff ihres Dolchs. Ihr Kiefer schiebt sich vor und zurück. "Was immer das war, gehört wahrscheinlich *ihm*."</DefaultText>
+      <DefaultText>„Alles an diesem Ort trägt das Zeichen unseres Erzeugers.“, brummt sie, und ihre Hand spielt mit dem Griff ihres Dolchs. Ihr Kiefer schiebt sich vor und zurück. „Was immer das war, gehört wahrscheinlich *ihm*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -565,7 +565,7 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Scheues kleines Ding, was auch immer es war."</DefaultText>
+      <DefaultText>„Scheues kleines Ding, was auch immer es war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -575,7 +575,7 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Komm hier runter. Sofort."</DefaultText>
+      <DefaultText>„Komm hier runter. Sofort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -600,7 +600,7 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Hast du Angst vor mir?"</DefaultText>
+      <DefaultText>„Hast du Angst vor mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -649,7 +649,7 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
       <ID>116</ID>
       <DefaultText>Erritis schaut zwischen seinen Fingern hindurch und schnauft.
 
- "Ich weiß nicht, was das ist, wie es da hineingekommen ist oder ob es uns alle töten wird.", sagt er und ballt beflissen die Faust. "Aber wir sollten es herausholen. Jetzt gleich. Sofort. Oder noch schneller!"</DefaultText>
+ „Ich weiß nicht, was das ist, wie es da hineingekommen ist oder ob es uns alle töten wird.“, sagt er und ballt beflissen die Faust. „Aber wir sollten es herausholen. Jetzt gleich. Sofort. Oder noch schneller!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -664,19 +664,19 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Sieht lebendig aus.", sagt er, die Hände auf die Hüften gestützt. "Nicht, dass der Anschein irgendetwas zu bedeuten hätte."</DefaultText>
+      <DefaultText>„Sieht lebendig aus.“, sagt er, die Hände auf die Hüften gestützt. „Nicht, dass der Anschein irgendetwas zu bedeuten hätte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Was für ein merkwürdiges kleines Gerät.", murmelt sie. "So etwas habe ich noch nie gesehen."</DefaultText>
+      <DefaultText>„Was für ein merkwürdiges kleines Gerät.“, murmelt sie. „So etwas habe ich noch nie gesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
       <DefaultText>Rhin berührt dich am Ärmel.
 
- "Ich weiß nicht, ob es gefährlich ist, aber es ... es kommt mir nicht so vor. Etwas Besseres kann ich nicht bieten."
+ „Ich weiß nicht, ob es gefährlich ist, aber es ... es kommt mir nicht so vor. Etwas Besseres kann ich nicht bieten.“
 
  Sie beißt sich auf die Lippe und sieht wieder zu der zappelnden Linse hoch.</DefaultText>
       <FemaleText />
@@ -696,7 +696,7 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
 
  Du hörst Geflüster, das zu weit weg ist, um es zu verstehen. Du spürst eine Präsenz in dir anschwellen, die in der Ausrichtung deiner Gezeiten schwelgt. Du hörst eine Stimme ein einzelnes Wort aussprechen, ein Wort, das im Labyrinth widerhallt und dich dorthin ruft.
 
- "OOM."</DefaultText>
+ „OOM.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -706,36 +706,36 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Nun ja. Das war antiklimaktisch."</DefaultText>
+      <DefaultText>„Nun ja. Das war antiklimaktisch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Ah, es ist weg. Wie enttäuschend."</DefaultText>
+      <DefaultText>„Ah, es ist weg. Wie enttäuschend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
       <DefaultText>Erritis starrt dich an, dann die leere Fassung, dann wieder dich.
 
- "Es ist weg. Ich glaube, du hast es zu heftig befreit."</DefaultText>
+ „Es ist weg. Ich glaube, du hast es zu heftig befreit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Oh!", sagt sie und seufzt. "Es ist fort."</DefaultText>
+      <DefaultText>„Oh!“, sagt sie und seufzt. „Es ist fort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Hehe.", meint Matkina und grinst endlich. "Man sollte meinen, dass unser Erzeuger ein besseres Gefängnis gebaut hätte. Nun ja, jetzt ist es weg, was auch immer es war."</DefaultText>
+      <DefaultText>„Hehe.“, meint Matkina und grinst endlich. „Man sollte meinen, dass unser Erzeuger ein besseres Gefängnis gebaut hätte. Nun ja, jetzt ist es weg, was auch immer es war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Fort, oder?", fragt Tybir und tritt wieder einen Schritt vor. "Wie schade."
+      <DefaultText>„Fort, oder?“, fragt Tybir und tritt wieder einen Schritt vor. „Wie schade.“
 
- Er blinzelt dir zu. "Es hätte etwas wert sein können."</DefaultText>
+ Er blinzelt dir zu. „Es hätte etwas wert sein können.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
