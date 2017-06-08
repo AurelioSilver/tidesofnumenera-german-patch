@@ -48,8 +48,7 @@
       <ID>9</ID>
       <DefaultText>"Entschuldigung. Ich kann jetzt nicht reden. Meister Rennio braucht mich!"
 {SCRIPT: Script node 17 should only play this barks once Rennio is ready to release Erritis from service.}</DefaultText>
-      <FemaleText>"Entschuldigung. Ich kann jetzt nicht reden. Meister Rennio braucht mich!"
-{SCRIPT: Script node 17 should only play this barks once Rennio is ready to release Erritis from service.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -58,39 +57,31 @@
 Als er deine Schritte vernimmt, blickt er nach oben, die Augen weit aufgerissen.
 
 "Ich bin so froh, dass du wieder da bist! Ich habe ... wie nennt man das ... dieses Ding, das man hat, wenn das Leben uninteressant und nicht voller Abenteuer ist."</DefaultText>
-      <FemaleText>Erritis blickt zwischen den Boden und seinem neuem Arbeitgeber, wobei er an seinen Fingerspitzen zupft. Die goldene Aura über ihm scheint ... irgendwie schwächer zu sein. Wie ein Kerzenlicht, das kurz davor ist, zu flackern. 
-
-Als er deine Schritte vernimmt, blickt er nach oben, die Augen weit aufgerissen.
-
-"Ich bin so froh, dass du wieder da bist! Ich habe ... wie nennt man das ... dieses Ding, das man hat, wenn das Leben uninteressant und nicht voller Abenteuer ist."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>"Sandwiches?"</DefaultText>
-      <FemaleText>"Sandwiches?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>"Nein, ich bin aber so froh, dass du das erwähnst!" sagt er und greift sich deinen Arm. "Ich habe noch *nie* verstanden, waren sie so beliebt sind. Es ist doch nur Brot mit Dingen in der Mitte!" 
 
 Er reibt sich die Schläfen. "Ach. Meine Gedanken werden so *langweilig*. Nein, es ist ein Wort mit 'R'. Rrrrrr... reh... Reue! Ich verspüre Reue! Ich!"</DefaultText>
-      <FemaleText>"Nein, ich bin aber so froh, dass du das erwähnst!" sagt er und greift sich deinen Arm. "Ich habe noch *nie* verstanden, waren sie so beliebt sind. Es ist doch nur Brot mit Dingen in der Mitte!" 
-
-Er reibt sich die Schläfen. "Ach. Meine Gedanken werden so *langweilig*. Nein, es ist ein Wort mit 'R'. Rrrrrr... reh... Reue! Ich verspüre Reue! Ich!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>"Angst?"</DefaultText>
-      <FemaleText>"Angst?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>"Was? Nein." Er greift sich deinen Arm. "Warum? Behauptet jemand, dass ich Angst hätte? Ich habe niemals Angst! Ich werde jeden zu einem Duell herausfordern, der behauptet, ich hätte Angst vor etwas!" 
 
 Er reibt sich die Schläfen. "Nein, es ist ein Wort mit 'R'. Rrrrrr... reh... Reue! Ich verspüre Reue! Ich!"</DefaultText>
-      <FemaleText>"Was? Nein." Er greift sich deinen Arm. "Warum? Behauptet jemand, dass ich Angst hätte? Ich habe niemals Angst! Ich werde jeden zu einem Duell herausfordern, der behauptet, ich hätte Angst vor etwas!" 
-
-Er reibt sich die Schläfen. "Nein, es ist ein Wort mit 'R'. Rrrrrr... reh... Reue! Ich verspüre Reue! Ich!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -108,21 +99,19 @@ Er richtet sich gerade auf, die Fäuste in die Hüfte gestützt. "Du bist ein gu
     <Entry>
       <ID>16</ID>
       <DefaultText>::zappelt::</DefaultText>
-      <FemaleText>::zappelt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"Reue?"</DefaultText>
-      <FemaleText>"Reue?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>"Ja! Dieses Wort. Wie gehen die normalen Leute damit um? Diese nagenden, kleinen Gedanken? Ich muss springen! Ich muss laufen und duellieren und springen, aber nein!" Er senkt den Kopf. 
 
 "Ich habe *Arbeit* zu erledigen", stöhnt er.</DefaultText>
-      <FemaleText>"Ja! Dieses Wort. Wie gehen die normalen Leute damit um? Diese nagenden, kleinen Gedanken? Ich muss springen! Ich muss laufen und duellieren und springen, aber nein!" Er senkt den Kopf. 
-
-"Ich habe *Arbeit* zu erledigen", stöhnt er.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -132,22 +121,22 @@ Er richtet sich gerade auf, die Fäuste in die Hüfte gestützt. "Du bist ein gu
     <Entry>
       <ID>20</ID>
       <DefaultText>"Ich hatte meine Zweifel, dieses neue Abenteuer läuft aber ziemlich gut, denke ich!</DefaultText>
-      <FemaleText>"Ich hatte meine Zweifel, dieses neue Abenteuer läuft aber ziemlich gut, denke ich!</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>"Sieh mich an! Ich arbeite wie normale Menschen!"</DefaultText>
-      <FemaleText>"Sieh mich an! Ich arbeite wie normale Menschen!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>"Ich werde diese Schuld im Handumdrehen abgearbeitet haben!"</DefaultText>
-      <FemaleText>"Ich werde diese Schuld im Handumdrehen abgearbeitet haben!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>::zappelt::</DefaultText>
-      <FemaleText>::zappelt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
@@ -161,148 +150,143 @@ Er richtet sich gerade auf, die Fäuste in die Hüfte gestützt. "Du bist ein gu
 {SCRIPT: Text from ZDD: "3)Erritis will leave the party and be stationed here for a while, annoying the heck out of Rennio. (Players should see this as bark interactions between them, noted as a separate dialogue.) After a certain number of days, Rennio will have had enough, and if the player talks to him again, he will beg the player to take Erritis off his hands. (The latter condition should be another branch of this dialogue.)"
 
 "We need a series of bark exchanges between Erritis and Master Rennio that will appear if Erritis has been convinced to work off his debt for stealing and crashing the airship. The player will see one or two of these exchanges whenever he walks past the two characters. Erritis is standing near Rennio, probably serving as a bodyguard or manservant, but he is annoying the heck out of the straight-laced Rennio with his ridiculous comments and behavior. If possible, Rennio should be getting more and more frustrated and angry with him as the exchanges continue."}</DefaultText>
-      <FemaleText>"Du musst ein Schreiben für mich umschreiben, ah, Erritis. Du ... du *kannst* doch schreiben, oder?"
-{SCRIPT: Nodes 25, 29, and 33 should play on day 1 (when player enters trigger area). Nodes 37, 41, and 45 should play on day 2. Node 49 should play on day 3. After that, we should only see Rennio's anguished barks that he wants to be rid of Erritis (54, 55, 56).}
-{SCRIPT: Text from ZDD: "3)Erritis will leave the party and be stationed here for a while, annoying the heck out of Rennio. (Players should see this as bark interactions between them, noted as a separate dialogue.) After a certain number of days, Rennio will have had enough, and if the player talks to him again, he will beg the player to take Erritis off his hands. (The latter condition should be another branch of this dialogue.)"
-
-"We need a series of bark exchanges between Erritis and Master Rennio that will appear if Erritis has been convinced to work off his debt for stealing and crashing the airship. The player will see one or two of these exchanges whenever he walks past the two characters. Erritis is standing near Rennio, probably serving as a bodyguard or manservant, but he is annoying the heck out of the straight-laced Rennio with his ridiculous comments and behavior. If possible, Rennio should be getting more and more frustrated and angry with him as the exchanges continue."}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>"Ich bin sicher, dass ich das kann! Für wen ist das Schreiben? Ist sie schön? Wie würdest du ihre Augen beschreiben?"</DefaultText>
-      <FemaleText>"Ich bin sicher, dass ich das kann! Für wen ist das Schreiben? Ist sie schön? Wie würdest du ihre Augen beschreiben?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>"Es ist kein Liebesbrief, du Einfallspinsel!"</DefaultText>
-      <FemaleText>"Es ist kein Liebesbrief, du Einfallspinsel!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>"Vielleicht soll es so sein!"</DefaultText>
-      <FemaleText>"Vielleicht soll es so sein!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>"Ich kann deinen Bericht hier nicht lesen. Was ist das für eine Sprache?"</DefaultText>
-      <FemaleText>"Ich kann deinen Bericht hier nicht lesen. Was ist das für eine Sprache?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>"Oh, die ganz normale. Doch sieh mal, alle Buchstaben bestehen aus Leuten!"</DefaultText>
-      <FemaleText>"Oh, die ganz normale. Doch sieh mal, alle Buchstaben bestehen aus Leuten!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>"Ich verstehe. Sind sie ... was tun sie?"</DefaultText>
-      <FemaleText>"Ich verstehe. Sind sie ... was tun sie?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>"Nun, Schwertkämpfen. Natürlich."</DefaultText>
-      <FemaleText>"Nun, Schwertkämpfen. Natürlich."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>"Offenbar kann ich dich nicht mit dem Verfassen von Dokumenten betrauen. Du wirst deine Schuld stattdessen als Portier begleichen."</DefaultText>
-      <FemaleText>"Offenbar kann ich dich nicht mit dem Verfassen von Dokumenten betrauen. Du wirst deine Schuld stattdessen als Portier begleichen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>"Oh, gut. Ich bin ein toller Leibwächter."</DefaultText>
-      <FemaleText>"Oh, gut. Ich bin ein toller Leibwächter."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>"Das habe ich nicht mit 'Portier' gemeint!"</DefaultText>
-      <FemaleText>"Das habe ich nicht mit 'Portier' gemeint!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>"Was? Warum nicht?"</DefaultText>
-      <FemaleText>"Was? Warum nicht?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>"Erritis, warum muss ich von einer Passagierin erfahren, dass du ihr Gepäck von der Klippe geworfen hast?"</DefaultText>
-      <FemaleText>"Erritis, warum muss ich von einer Passagierin erfahren, dass du ihr Gepäck von der Klippe geworfen hast?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>"Weil ich es getan habe!"</DefaultText>
-      <FemaleText>"Weil ich es getan habe!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>"Warum? Warum tust du so etwas?"</DefaultText>
-      <FemaleText>"Warum? Warum tust du so etwas?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>"Ich hatte keine Wahl. Wirklich nicht."</DefaultText>
-      <FemaleText>"Ich hatte keine Wahl. Wirklich nicht."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>"Wir treiben *kein* Passagiergepäck über die Planke!"</DefaultText>
-      <FemaleText>"Wir treiben *kein* Passagiergepäck über die Planke!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>"Keine Sorge. Es ist wirklich sicher."</DefaultText>
-      <FemaleText>"Keine Sorge. Es ist wirklich sicher."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>"Genug! Ich zahle ein Vermögen, um dich zu beschäftigen! Und du wirst hier stehen – genau hier – als mein Leibwächter."</DefaultText>
-      <FemaleText>"Genug! Ich zahle ein Vermögen, um dich zu beschäftigen! Und du wirst hier stehen – genau hier – als mein Leibwächter."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>"Das wirst du *nicht* bereuen."</DefaultText>
-      <FemaleText>"Das wirst du *nicht* bereuen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>"Du ... du hast ihn geschlagen. Ins Gesicht."</DefaultText>
-      <FemaleText>"Du ... du hast ihn geschlagen. Ins Gesicht."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>"Ah, ja. Er wollte Gewalt! Da bin ich mir sicher. Man weiß so etwas, wenn man Leibwächter ist."</DefaultText>
-      <FemaleText>"Ah, ja. Er wollte Gewalt! Da bin ich mir sicher. Man weiß so etwas, wenn man Leibwächter ist."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>"Du absoluter *Vollidiot*. Das war einer meiner reichsten und ältesten Kunden!"</DefaultText>
-      <FemaleText>"Du absoluter *Vollidiot*. Das war einer meiner reichsten und ältesten Kunden!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>"Das ist traurig. Attentäter sind niemals diejenigen, die man erwartet."</DefaultText>
-      <FemaleText>"Das ist traurig. Attentäter sind niemals diejenigen, die man erwartet."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>"Genug! Du sabotierst mein Geschäft! Ruinierst meinen Ruf! Verschreckst meine Freunde!"
 {SCRIPT: This should play when Rennio is fed up (possibly day 3)}</DefaultText>
-      <FemaleText>"Genug! Du sabotierst mein Geschäft! Ruinierst meinen Ruf! Verschreckst meine Freunde!"
-{SCRIPT: This should play when Rennio is fed up (possibly day 3)}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>"Sie würden nicht davonlaufen, wenn sie wirklich deine Freunde wären."</DefaultText>
-      <FemaleText>"Sie würden nicht davonlaufen, wenn sie wirklich deine Freunde wären."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>"Bitte. Bitte geh einfach! Ich erlasse dir deine Schuld!"</DefaultText>
-      <FemaleText>"Bitte. Bitte geh einfach! Ich erlasse dir deine Schuld!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>"Nein, nein. Das ist nicht fair. Ich lehne ab."</DefaultText>
-      <FemaleText>"Nein, nein. Das ist nicht fair. Ich lehne ab."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
@@ -313,18 +297,17 @@ Er richtet sich gerade auf, die Fäuste in die Hüfte gestützt. "Du bist ein gu
       <ID>54</ID>
       <DefaultText>"Nimm ihn mit. Ich flehe dich an."
 {SCRIPT: These three nodes play intermittently once all of the nodes above have played once, signalling that the PC can now recruit Erritis again. See Node 1.}</DefaultText>
-      <FemaleText>"Nimm ihn mit. Ich flehe dich an."
-{SCRIPT: These three nodes play intermittently once all of the nodes above have played once, signalling that the PC can now recruit Erritis again. See Node 1.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
       <DefaultText>"Bitte, mach, dass er geht!"</DefaultText>
-      <FemaleText>"Bitte, mach, dass er geht!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>"Würdest du ihn bitte davon überzeugen, mich in Ruhe zu lassen?"</DefaultText>
-      <FemaleText>"Würdest du ihn bitte davon überzeugen, mich in Ruhe zu lassen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
