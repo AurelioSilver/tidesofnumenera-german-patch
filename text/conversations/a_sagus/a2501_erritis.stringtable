@@ -52,11 +52,11 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Erritis blickt zwischen den Boden und seinem neuem Arbeitgeber, wobei er an seinen Fingerspitzen zupft. Die goldene Aura über ihm scheint ... irgendwie schwächer zu sein. Wie ein Kerzenlicht, das kurz davor ist, zu flackern.
+      <DefaultText>Erritis blickt zwischen den Boden und seinem neuem Arbeitgeber, wobei er an seinen Fingerspitzen zupft. Die goldene Aura über ihm scheint … irgendwie schwächer zu sein. Wie ein Kerzenlicht, das kurz davor ist, zu flackern.
 
 Als er deine Schritte vernimmt, blickt er nach oben, die Augen weit aufgerissen.
 
-„Ich bin so froh, dass du wieder da bist! Ich habe ... wie nennt man das ... dieses Ding, das man hat, wenn das Leben uninteressant und nicht voller Abenteuer ist.“</DefaultText>
+„Ich bin so froh, dass du wieder da bist! Ich habe … wie nennt man das … dieses Ding, das man hat, wenn das Leben uninteressant und nicht voller Abenteuer ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,7 +68,7 @@ Als er deine Schritte vernimmt, blickt er nach oben, die Augen weit aufgerissen.
       <ID>12</ID>
       <DefaultText>„Nein, ich bin aber so froh, dass du das erwähnst!“, sagt er und greift sich deinen Arm. „Ich habe noch *nie* verstanden, waren sie so beliebt sind. Es ist doch nur Brot mit Dingen in der Mitte!“
 
-Er reibt sich die Schläfen. „Ach. Meine Gedanken werden so *langweilig*. Nein, es ist ein Wort mit 'R'. Rrrrrr... reh... Reue! Ich verspüre Reue! Ich!“</DefaultText>
+Er reibt sich die Schläfen. „Ach. Meine Gedanken werden so *langweilig*. Nein, es ist ein Wort mit 'R'. Rrrrrr… reh… Reue! Ich verspüre Reue! Ich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -80,17 +80,17 @@ Er reibt sich die Schläfen. „Ach. Meine Gedanken werden so *langweilig*. Nein
       <ID>14</ID>
       <DefaultText>„Was? Nein.“ Er greift sich deinen Arm. „Warum? Behauptet jemand, dass ich Angst hätte? Ich habe niemals Angst! Ich werde jeden zu einem Duell herausfordern, der behauptet, ich hätte Angst vor etwas!“
 
-Er reibt sich die Schläfen. „Nein, es ist ein Wort mit 'R'. Rrrrrr... reh... Reue! Ich verspüre Reue! Ich!“</DefaultText>
+Er reibt sich die Schläfen. „Nein, es ist ein Wort mit 'R'. Rrrrrr… reh… Reue! Ich verspüre Reue! Ich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Hier ist nichts los! Die Leute watscheln von ihren Luftschiffen und beschweren sich über das Essen und darüber, wie lange die Reise dauerte. Niemand streitet mehr! Niemand schlägt einen Levy oder schwingt sich mehr schreiend und Dolche werfend von den Schiffen! Ich muss gehen. Ich muss ...!“
+      <DefaultText>„Hier ist nichts los! Die Leute watscheln von ihren Luftschiffen und beschweren sich über das Essen und darüber, wie lange die Reise dauerte. Niemand streitet mehr! Niemand schlägt einen Levy oder schwingt sich mehr schreiend und Dolche werfend von den Schiffen! Ich muss gehen. Ich muss …!“
 
 Er trommelt sich auf die Brust, plötzlich entschlossen. „Nein! Ich habe geschworen, Rennio zu dienen. Um meine Schuld zu begleichen! Und das werde ich auch tun!“
 
 Er richtet sich gerade auf, die Fäuste in die Hüfte gestützt. „Du bist ein guter Freund. Wir sollten häufiger miteinander reden.“</DefaultText>
-      <FemaleText>„Hier ist nichts los! Die Leute watscheln von ihren Luftschiffen und beschweren sich über das Essen und darüber, wie lange die Reise dauerte. Niemand streitet mehr! Niemand schlägt einen Levy oder schwingt sich mehr schreiend und Dolche werfend von den Schiffen! Ich muss gehen. Ich muss ...!“
+      <FemaleText>„Hier ist nichts los! Die Leute watscheln von ihren Luftschiffen und beschweren sich über das Essen und darüber, wie lange die Reise dauerte. Niemand streitet mehr! Niemand schlägt einen Levy oder schwingt sich mehr schreiend und Dolche werfend von den Schiffen! Ich muss gehen. Ich muss …!“
 
 Er trommelt sich auf die Brust, plötzlich entschlossen. „Nein! Ich habe geschworen, Rennio zu dienen. Um meine Schuld zu begleichen! Und das werde ich auch tun!“
 
@@ -145,7 +145,7 @@ Er richtet sich gerade auf, die Fäuste in die Hüfte gestützt. „Du bist ein 
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>„Du musst ein Schreiben für mich umschreiben, ah, Erritis. Du ... du *kannst* doch schreiben, oder?“
+      <DefaultText>„Du musst ein Schreiben für mich umschreiben, ah, Erritis. Du … du *kannst* doch schreiben, oder?“
 {SCRIPT: Nodes 25, 29, and 33 should play on day 1 (when player enters trigger area). Nodes 37, 41, and 45 should play on day 2. Node 49 should play on day 3. After that, we should only see Rennio's anguished barks that he wants to be rid of Erritis (54, 55, 56).}
 {SCRIPT: Text from ZDD: „3)Erritis will leave the party and be stationed here for a while, annoying the heck out of Rennio. (Players should see this as bark interactions between them, noted as a separate dialogue.) After a certain number of days, Rennio will have had enough, and if the player talks to him again, he will beg the player to take Erritis off his hands. (The latter condition should be another branch of this dialogue.)“
 
@@ -179,7 +179,7 @@ Er richtet sich gerade auf, die Fäuste in die Hüfte gestützt. „Du bist ein 
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Ich verstehe. Sind sie ... was tun sie?“</DefaultText>
+      <DefaultText>„Ich verstehe. Sind sie … was tun sie?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,7 +249,7 @@ Er richtet sich gerade auf, die Fäuste in die Hüfte gestützt. „Du bist ein 
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Du ... du hast ihn geschlagen. Ins Gesicht.“</DefaultText>
+      <DefaultText>„Du … du hast ihn geschlagen. Ins Gesicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
