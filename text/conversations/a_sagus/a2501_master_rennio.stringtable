@@ -22,7 +22,7 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>"Erzähl mir etwas über dich."</DefaultText>
-      <FemaleText>"Erzähl mir etwas über dich."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -423,7 +423,7 @@ Er streicht seine Kleidung glatt und stellt sich auf. "Das war einmal ein Sammel
     <Entry>
       <ID>85</ID>
       <DefaultText>"Guten Tag."</DefaultText>
-      <FemaleText>"Guten Tag."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
@@ -821,9 +821,7 @@ Er sieht sich aufmerksam um. "Vielleicht wenn sie Freunde werden, rettet der ech
       <DefaultText>[Du hast das Ende unseres Beta-Inhalts erreicht. Während du auf den Abschluss des restlichen Spiels wartest, versuche doch erneut unseren Beta-Inhalt ... diesmal jedoch mit anderen Entscheidungen. Torment ist ein Spiel, das auf deinen Entscheidungen basierend geformt wird und wir hoffen, dass du sehen wirst, wie sich die Dinge anders entwickeln.
 
 Danke fürs Spielen!]</DefaultText>
-      <FemaleText>[Du hast das Ende unseres Beta-Inhalts erreicht. Während du auf den Abschluss des restlichen Spiels wartest, versuche doch erneut unseren Beta-Inhalt ... diesmal jedoch mit anderen Entscheidungen. Torment ist ein Spiel, das auf deinen Entscheidungen basierend geformt wird und wir hoffen, dass du sehen wirst, wie sich die Dinge anders entwickeln.
-
-Danke fürs Spielen!]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
@@ -1341,12 +1339,12 @@ Aber Meister Rennio hört nicht zu.</DefaultText>
     <Entry>
       <ID>271</ID>
       <DefaultText>"Kannst du mir beschreiben, wie der Luftschiff-Dieb aussah?"</DefaultText>
-      <FemaleText>"Kannst du mir beschreiben, wie der Luftschiff-Dieb aussah?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
       <DefaultText>"Kannst du mir nochmal beschreiben, wie der Luftschiff-Dieb aussah?"</DefaultText>
-      <FemaleText>"Kannst du mir nochmal beschreiben, wie der Luftschiff-Dieb aussah?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>273</ID>
@@ -1358,33 +1356,29 @@ Aber Meister Rennio hört nicht zu.</DefaultText>
       <DefaultText>"Er war ein kleinerer, blonder und eher schlaksiger Typ. Er glühte außerdem." Meister Rennio schaut finster drein. "Ich hätte wissen müssen, was er plant. Oh, ich habe solche Typen schon früher gesehen! Rücksichtslos. Auf der Suche nach dem Kick! Ich habe das nie verstanden."
 
 Er zwirbelt an seinem verdünnten Schnurrbart.</DefaultText>
-      <FemaleText>"Er war ein kleinerer, blonder und eher schlaksiger Typ. Er glühte außerdem." Meister Rennio schaut finster drein. "Ich hätte wissen müssen, was er plant. Oh, ich habe solche Typen schon früher gesehen! Rücksichtslos. Auf der Suche nach dem Kick! Ich habe das nie verstanden."
-
-Er zwirbelt an seinem verdünnten Schnurrbart.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>275</ID>
       <DefaultText>"Ein kleiner, glühender Kerl mit blondem Haar und von dünner Statur."</DefaultText>
-      <FemaleText>"Ein kleiner, glühender Kerl mit blondem Haar und von dünner Statur."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>276</ID>
       <DefaultText>"Du findest den Sachbearbeiter vor dem Ratsturm ... auf dem Regierungsplatz."</DefaultText>
-      <FemaleText>"Du findest den Sachbearbeiter vor dem Ratsturm ... auf dem Regierungsplatz."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>278</ID>
       <DefaultText>"Wunderbar", sagt Rennio nach einem Moment der Ruhe, als ob er versuchen würde, sich selbst zu überzeugen. "Gut."
 
 Er dreht sich mit einer kleinen Verbeugung zu dir. "Wir werden bald wieder das Tal der Verlorenen Helden anfliegen. Nochmals danke für deine Hilfe bei dieser Sache."</DefaultText>
-      <FemaleText>"Wunderbar", sagt Rennio nach einem Moment der Ruhe, als ob er versuchen würde, sich selbst zu überzeugen. "Gut."
-
-Er dreht sich mit einer kleinen Verbeugung zu dir. "Wir werden bald wieder das Tal der Verlorenen Helden anfliegen. Nochmals danke für deine Hilfe bei dieser Sache."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>279</ID>
       <DefaultText>"Selbstverständlich, ich fliege momentan *nirgendwo* hin. Nicht, solange der *Dieb*, der mein anderes Luftschiff gestohlen hat, frei herumläuft."</DefaultText>
-      <FemaleText>"Selbstverständlich, ich fliege momentan *nirgendwo* hin. Nicht, solange der *Dieb*, der mein anderes Luftschiff gestohlen hat, frei herumläuft."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>280</ID>
