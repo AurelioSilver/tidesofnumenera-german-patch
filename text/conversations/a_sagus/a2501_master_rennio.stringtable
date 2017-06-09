@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Erzähl mir etwas über dich."</DefaultText>
+      <DefaultText>„Erzähl mir etwas über dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Kannst du mir noch einmal von dir erzählen?"</DefaultText>
+      <DefaultText>„Kannst du mir noch einmal von dir erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Ein Hauch von Lächeln ist in seinem Gesicht. "Ich bin der Inhaber dieses Geschäftes und ein Schiffskapitän. In besseren Zeiten betrieb ich eine Schiffsflotte, die zahlreiche Häfen anlief." Er zuckt die Achseln. "Wir haben keine besseren Zeiten und meine Flotte wurde verkleinert. Jetzt habe ich gerade noch ein einziges Schiff."</DefaultText>
+      <DefaultText>Ein Hauch von Lächeln ist in seinem Gesicht. „Ich bin der Inhaber dieses Geschäftes und ein Schiffskapitän. In besseren Zeiten betrieb ich eine Schiffsflotte, die zahlreiche Häfen anlief.“ Er zuckt die Achseln. „Wir haben keine besseren Zeiten und meine Flotte wurde verkleinert. Jetzt habe ich gerade noch ein einziges Schiff.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Ich bin Meister Rennio ehemaliger Schiffskapitän, und Inhaber von Meister Rennios Luft-Abenteuer. Herzlichen Dank für dein Interesse."</DefaultText>
+      <DefaultText>„Ich bin Meister Rennio ehemaliger Schiffskapitän, und Inhaber von Meister Rennios Luft-Abenteuer. Herzlichen Dank für dein Interesse.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,45 +56,45 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Er wendet sich von der Aufsicht seiner Arbeiter ab und fragt: "Wie kann ich dir helfen?"</DefaultText>
+      <DefaultText>Er wendet sich von der Aufsicht seiner Arbeiter ab und fragt: „Wie kann ich dir helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Dieser Luftschiff-Meister behält sein Schiff stets im Auge. Er ist ein kleiner, drahtiger Mann, er trägt von Reisen gezeichnete aber gut erhaltene Kleidung. Er kaut frustriert an seinem perfekt gepflegten Schnauzer.
 
-Als du näherkommst, wendet er sich von seinem Schiff ab. "Willkommen zu Meister Rennios Luft-Abenteuer. Ich fürchte, dass ich in nächster Zeit nicht ablegen werde. Nicht seit dem *Diebstahl*."
+Als du näherkommst, wendet er sich von seinem Schiff ab. „Willkommen zu Meister Rennios Luft-Abenteuer. Ich fürchte, dass ich in nächster Zeit nicht ablegen werde. Nicht seit dem *Diebstahl*.“
 
 Er sagt das Wort ganz vorsichtig, als würde er es bannen wollen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Mein Schiff bleibt am Boden, bis der Dieb mir mein anderes Luftschiff wieder zurückbringt.</DefaultText>
+      <DefaultText>„Mein Schiff bleibt am Boden, bis der Dieb mir mein anderes Luftschiff wieder zurückbringt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ich habe immer versucht, in den Menschen das Gute zu sehen", gesteht er und muss schwer schlucken. "Aber das war bevor dieser kleine, überschwängliche Volltrottel die Coronet stahl - mein preisgekröntes Luftschiff!"
+      <DefaultText>„Ich habe immer versucht, in den Menschen das Gute zu sehen“, gesteht er und muss schwer schlucken. „Aber das war bevor dieser kleine, überschwängliche Volltrottel die Coronet stahl - mein preisgekröntes Luftschiff!“
 
-Er schüttelt den Kopf, wirklich außer sich. "Bis dieser Dieb gefangen wurde bleibt mein Schiff im Dock, sicher verschlossen und angekettet."</DefaultText>
+Er schüttelt den Kopf, wirklich außer sich. „Bis dieser Dieb gefangen wurde bleibt mein Schiff im Dock, sicher verschlossen und angekettet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Er bricht ab, als er Erritis in deiner Nähe sieht. "Er! Er ist der Dieb!"</DefaultText>
+      <DefaultText>Er bricht ab, als er Erritis in deiner Nähe sieht. „Er! Er ist der Dieb!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Dieb? Ich habe noch in meinem Leben etwas gestohlen! Ich habe mir das eine oder andere ausgeliehen, aber ich hatte immer die Absicht, es dem rechtmäßigen Besitzer wieder zurückzugeben … allerdings muss ich zugeben, dass ich nicht immer Erfolg damit hatte."
+      <DefaultText>„Dieb? Ich habe noch in meinem Leben etwas gestohlen! Ich habe mir das eine oder andere ausgeliehen, aber ich hatte immer die Absicht, es dem rechtmäßigen Besitzer wieder zurückzugeben … allerdings muss ich zugeben, dass ich nicht immer Erfolg damit hatte.“
 
 {CHRIS: Update for voice}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Gibt es in der Zwischenzeit etwas, mit dem ich dir helfen kann?"</DefaultText>
+      <DefaultText>„Gibt es in der Zwischenzeit etwas, mit dem ich dir helfen kann?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,12 +114,12 @@ Er schüttelt den Kopf, wirklich außer sich. "Bis dieser Dieb gefangen wurde bl
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich verlange eine Entschädigung! Mein Schiff ist mein Lebensunterhalt, und das schnappte sich dieser … dieser Vagabund!" Er starrt verbissen auf den vergesslichen Glaive. "Ich verlange Gerechtigkeit. Ich nehme sie als Dienst entgegen."</DefaultText>
+      <DefaultText>„Ich verlange eine Entschädigung! Mein Schiff ist mein Lebensunterhalt, und das schnappte sich dieser … dieser Vagabund!“ Er starrt verbissen auf den vergesslichen Glaive. „Ich verlange Gerechtigkeit. Ich nehme sie als Dienst entgegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Lass uns offen reden. Erritis kann man für sein Handeln nicht verantwortlich machen. Ich meine, schau ihn dir doch an."</DefaultText>
+      <DefaultText>„Lass uns offen reden. Erritis kann man für sein Handeln nicht verantwortlich machen. Ich meine, schau ihn dir doch an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -129,7 +129,7 @@ Er schüttelt den Kopf, wirklich außer sich. "Bis dieser Dieb gefangen wurde bl
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Erritis, du stehst in Meister Rennio Schuld. Du solltest für ihn arbeiten, bis du sie beglichen hast.</DefaultText>
+      <DefaultText>„Erritis, du stehst in Meister Rennio Schuld. Du solltest für ihn arbeiten, bis du sie beglichen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,17 +139,17 @@ Er schüttelt den Kopf, wirklich außer sich. "Bis dieser Dieb gefangen wurde bl
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ein einheimischer Kult hält mich für ihren Gott. Ich könnte sie überreden, die Schuld abzuarbeiten."</DefaultText>
+      <DefaultText>„Ein einheimischer Kult hält mich für ihren Gott. Ich könnte sie überreden, die Schuld abzuarbeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Was ist, wenn ich das ablehne?"</DefaultText>
+      <DefaultText>„Was ist, wenn ich das ablehne?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Dann wird mein Schiff dieses Dock nicht verlassen. Ebenso wird kein anderer Kapitän dir helfen. Bis wir eine Einigung finden, bleibt mein Schiff hier."</DefaultText>
+      <DefaultText>„Dann wird mein Schiff dieses Dock nicht verlassen. Ebenso wird kein anderer Kapitän dir helfen. Bis wir eine Einigung finden, bleibt mein Schiff hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,17 +174,17 @@ Er schüttelt den Kopf, wirklich außer sich. "Bis dieser Dieb gefangen wurde bl
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Kann ich seine Schuld begleichen?"</DefaultText>
+      <DefaultText>„Kann ich seine Schuld begleichen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Was schuldet Erritis dir nochmal?"</DefaultText>
+      <DefaultText>„Was schuldet Erritis dir nochmal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Nun, was kann Meister Rennios Luft-Abenteuer für dich sonst tun?</DefaultText>
+      <DefaultText>„Nun, was kann Meister Rennios Luft-Abenteuer für dich sonst tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,29 +204,29 @@ Er schüttelt den Kopf, wirklich außer sich. "Bis dieser Dieb gefangen wurde bl
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Dem Händler stehen die Haare zu Berge und er hat einen gehetzten Blick. "Bitte. Dein Freund hat seine Schuld ausgeglichen. Ich entlasse ihn aus seinen Diensten."</DefaultText>
+      <DefaultText>Dem Händler stehen die Haare zu Berge und er hat einen gehetzten Blick. „Bitte. Dein Freund hat seine Schuld ausgeglichen. Ich entlasse ihn aus seinen Diensten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Der Händler verschränkt die Arme vor der Brust. Sein Gesichtsausdruck ist grimmig, seine Mundwinkel gehen nach unten. "Der Junge ist eine Plage", murmelt er. "Ich weiß nicht, ob er mich gekostet hat, als er das Schiff kaputt machte oder als er seine Schulden abarbeiten wollte. In diesem Tempo ..." Er verstummt.</DefaultText>
+      <DefaultText>Der Händler verschränkt die Arme vor der Brust. Sein Gesichtsausdruck ist grimmig, seine Mundwinkel gehen nach unten. „Der Junge ist eine Plage“, murmelt er. „Ich weiß nicht, ob er mich gekostet hat, als er das Schiff kaputt machte oder als er seine Schulden abarbeiten wollte. In diesem Tempo ...“ Er verstummt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Der Händler schaut Erritis zu, wie er schwere Kisten schleppt und dabei über Seile tanzt. "Der Junge ist ein wenig eine Plage, aber wir machen schon noch einen Hafenarbeiter aus ihm, glaube ich ", schmunzelt er.</DefaultText>
+      <DefaultText>Der Händler schaut Erritis zu, wie er schwere Kisten schleppt und dabei über Seile tanzt. „Der Junge ist ein wenig eine Plage, aber wir machen schon noch einen Hafenarbeiter aus ihm, glaube ich “, schmunzelt er.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Er wirft Erritis einen heimlichen Blick zu, der fröhlich durch Rennios Frachtkisten wütet. "Ich sagte ihm, dass er gehen kann, aber … er will nicht mehr weg. Er behauptet, dass er mir *hilft*. Das Einzige, wobei er mir bislang half, ist, mich ins Grab zu bringen.
+      <DefaultText>Er wirft Erritis einen heimlichen Blick zu, der fröhlich durch Rennios Frachtkisten wütet. „Ich sagte ihm, dass er gehen kann, aber … er will nicht mehr weg. Er behauptet, dass er mir *hilft*. Das Einzige, wobei er mir bislang half, ist, mich ins Grab zu bringen.
 
-Er greift dich an den Schultern. "Bitte … nimm ihn mit!"</DefaultText>
+Er greift dich an den Schultern. „Bitte … nimm ihn mit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Bitte", flüstert er.</DefaultText>
+      <DefaultText>„Bitte“, flüstert er.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,12 +236,12 @@ Er greift dich an den Schultern. "Bitte … nimm ihn mit!"</DefaultText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Erritis, du kannst jederzeit gehen. Ich werde dich schon finden, wenn ich dich brauche."</DefaultText>
+      <DefaultText>„Erritis, du kannst jederzeit gehen. Ich werde dich schon finden, wenn ich dich brauche.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Erritis, würdest du mich bei meinen Reisen erneut begleiten?"</DefaultText>
+      <DefaultText>„Erritis, würdest du mich bei meinen Reisen erneut begleiten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,12 +256,12 @@ Er greift dich an den Schultern. "Bitte … nimm ihn mit!"</DefaultText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Wir finden später schon eine Lösung. In der Zwischenzeit habe ich noch andere Fragen."</DefaultText>
+      <DefaultText>„Wir finden später schon eine Lösung. In der Zwischenzeit habe ich noch andere Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Was kann ich für dich tun?"</DefaultText>
+      <DefaultText>„Was kann ich für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,17 +286,17 @@ Er greift dich an den Schultern. "Bitte … nimm ihn mit!"</DefaultText>
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Reden wir über Erritis‘ Schuld dir gegenüber."</DefaultText>
+      <DefaultText>„Reden wir über Erritis‘ Schuld dir gegenüber.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Bist du bereit, über die Bedingungen für deinen diebischen Freund zu reden?"</DefaultText>
+      <DefaultText>„Bist du bereit, über die Bedingungen für deinen diebischen Freund zu reden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Was hast du zu bieten?"</DefaultText>
+      <DefaultText>„Was hast du zu bieten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,19 +321,19 @@ Er greift dich an den Schultern. "Bitte … nimm ihn mit!"</DefaultText>
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Er zuckt die Achseln. "So ist das Leben. Du baust alles für deine Familie auf und dann kommt durch die Wirren des Schicksals alles anders. Aber mein schlecht laufendes Unternehmen gehört nicht unbedingt zu den Geschenken, die ich meinen Erben hinterlassen will. Ich versuche, ihnen Hingabe, Ausdauer und Anstand bei allen Geschäften beizubringen."
+      <DefaultText>Er zuckt die Achseln. „So ist das Leben. Du baust alles für deine Familie auf und dann kommt durch die Wirren des Schicksals alles anders. Aber mein schlecht laufendes Unternehmen gehört nicht unbedingt zu den Geschenken, die ich meinen Erben hinterlassen will. Ich versuche, ihnen Hingabe, Ausdauer und Anstand bei allen Geschäften beizubringen.“
 
-Er steckt sich die Hände in die Hosentasche. "Was würde es ihnen nutzen, wenn ich ich ihnen ein schlechtes Vorbild bin? Ich bin lieber ruiniert, als ihnen beizubringen, dass Falschheit zum Erfolg führt."</DefaultText>
+Er steckt sich die Hände in die Hosentasche. „Was würde es ihnen nutzen, wenn ich ich ihnen ein schlechtes Vorbild bin? Ich bin lieber ruiniert, als ihnen beizubringen, dass Falschheit zum Erfolg führt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Er lacht sanft. "Ich entschuldige mich. Das hat mich in letzter Zeit sehr beschäftigt. Du hast mich nicht zu meiner Philosophie gefragt."</DefaultText>
+      <DefaultText>Er lacht sanft. „Ich entschuldige mich. Das hat mich in letzter Zeit sehr beschäftigt. Du hast mich nicht zu meiner Philosophie gefragt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Aye, lebe wohl."</DefaultText>
+      <DefaultText>„Aye, lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -343,12 +343,12 @@ Er steckt sich die Hände in die Hosentasche. "Was würde es ihnen nutzen, wenn 
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Wohin geht deine Reise?"</DefaultText>
+      <DefaultText>„Wohin geht deine Reise?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Kannst du mir nochmal sagen, wohin deine Reise geht?"</DefaultText>
+      <DefaultText>„Kannst du mir nochmal sagen, wohin deine Reise geht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -358,14 +358,14 @@ Er steckt sich die Hände in die Hosentasche. "Was würde es ihnen nutzen, wenn 
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Einmal flog ich bis nach Augur-Kala, segelte über Arvrinwald und die unermesslichen Tiefen des Ornusees, über die Lavafelder des Ossiphagan Gebirges und den Ebenen in der Ferne. Ich flog nach Süden über die Ruinen der Tabaht-Heimatländer und nach Osten zur Oase von M'ra Jolios."
+      <DefaultText>„Einmal flog ich bis nach Augur-Kala, segelte über Arvrinwald und die unermesslichen Tiefen des Ornusees, über die Lavafelder des Ossiphagan Gebirges und den Ebenen in der Ferne. Ich flog nach Süden über die Ruinen der Tabaht-Heimatländer und nach Osten zur Oase von M'ra Jolios.“
 
-Er zeigt auf sein einziges Schiff. "Jetzt fliege ich nur noch zum Tal der toten Helden und befördere Trauernde und Memorialisten zu den beständigen Gräbern."</DefaultText>
+Er zeigt auf sein einziges Schiff. „Jetzt fliege ich nur noch zum Tal der toten Helden und befördere Trauernde und Memorialisten zu den beständigen Gräbern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Er stößt ein kurzes, etwas bitteres Lachen aus. "In diesen Zeiten nur ins Tal der toten Helden. Die Endlose Schlacht hat dafür gesorgt, und mein armes Schiff hat schon bessere Zeiten erlebt."</DefaultText>
+      <DefaultText>Er stößt ein kurzes, etwas bitteres Lachen aus. „In diesen Zeiten nur ins Tal der toten Helden. Die Endlose Schlacht hat dafür gesorgt, und mein armes Schiff hat schon bessere Zeiten erlebt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,12 +375,12 @@ Er zeigt auf sein einziges Schiff. "Jetzt fliege ich nur noch zum Tal der toten 
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Was kannst du mir über das Karawanserei sagen?"</DefaultText>
+      <DefaultText>Was kannst du mir über das Karawanserei sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Kannst du mir mehr über das Karawanserei sagen?"</DefaultText>
+      <DefaultText>„Kannst du mir mehr über das Karawanserei sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -390,59 +390,59 @@ Er zeigt auf sein einziges Schiff. "Jetzt fliege ich nur noch zum Tal der toten 
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Geschichtsträchtig, mein Freund, und du hast dir den richtigen für deine Fragen ausgesucht. Ähem."
+      <DefaultText>„Geschichtsträchtig, mein Freund, und du hast dir den richtigen für deine Fragen ausgesucht. Ähem.“
 
-Er streicht seine Kleidung glatt und stellt sich auf. "Das war einmal ein Sammelplatz gegen unsere Feinde, die Tabaht. Unsere Vorfahren konnten von hier aus den herannahenden Feind beobachten und ihre Einheiten dirigieren. Sie sagen, dass von hier oben die Verteidigung kommandiert wurde." Er zeigt auf eine Felsnase auf der anderen Seite der Hochebene.</DefaultText>
+Er streicht seine Kleidung glatt und stellt sich auf. „Das war einmal ein Sammelplatz gegen unsere Feinde, die Tabaht. Unsere Vorfahren konnten von hier aus den herannahenden Feind beobachten und ihre Einheiten dirigieren. Sie sagen, dass von hier oben die Verteidigung kommandiert wurde.“ Er zeigt auf eine Felsnase auf der anderen Seite der Hochebene.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Mein Freund, für einen Händler ist das der beste Ort in der Stadt. Man kann über den Garravia-Sund blicken und die Schiffe herankommen sehen. Da drüben, der Flor. Man kann Ebbe und Flut des Handels beobachten, das Klimpern der Shin und man weiß, dass die Welt so funktioniert, wie sie soll - zum Wohle aller."</DefaultText>
+      <DefaultText>„Mein Freund, für einen Händler ist das der beste Ort in der Stadt. Man kann über den Garravia-Sund blicken und die Schiffe herankommen sehen. Da drüben, der Flor. Man kann Ebbe und Flut des Handels beobachten, das Klimpern der Shin und man weiß, dass die Welt so funktioniert, wie sie soll - zum Wohle aller.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Jetzt dient er nicht mehr als Ort für Kriege, sondern für den Handel, errichtet für das Wohl aller - sowohl für uns als auch unsere Gäste aus dem Ausland. Sagus-Klippen sitzt auf einem großen Haufen von Numenera und macht damit gute Geschäfte. Wir importieren Nahrung, Gewürze, Stoffe und Besucher aus fernen Ländern! Sie kommen aus Augur-Kala, Astaria und Hayrest, unter vielen, vielen anderen. Dies ist ein Handelszentrum im Sagus-Protektorat." Er lächelt. "Ich spiele einen kleinen, aber stolzen Part."</DefaultText>
+      <DefaultText>„Jetzt dient er nicht mehr als Ort für Kriege, sondern für den Handel, errichtet für das Wohl aller - sowohl für uns als auch unsere Gäste aus dem Ausland. Sagus-Klippen sitzt auf einem großen Haufen von Numenera und macht damit gute Geschäfte. Wir importieren Nahrung, Gewürze, Stoffe und Besucher aus fernen Ländern! Sie kommen aus Augur-Kala, Astaria und Hayrest, unter vielen, vielen anderen. Dies ist ein Handelszentrum im Sagus-Protektorat.“ Er lächelt. „Ich spiele einen kleinen, aber stolzen Part.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Noch nicht."</DefaultText>
+      <DefaultText>„Noch nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Dann habe ich dir nichts zu sagen. Mein Ruf basiert auf Integrität und Anständigkeit und ich kann nicht mit ruhigem Gewissen jemanden behandeln, der sich den Grundregeln des Anstands verweigert.</DefaultText>
+      <DefaultText>„Dann habe ich dir nichts zu sagen. Mein Ruf basiert auf Integrität und Anständigkeit und ich kann nicht mit ruhigem Gewissen jemanden behandeln, der sich den Grundregeln des Anstands verweigert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Guten Tag."</DefaultText>
+      <DefaultText>„Guten Tag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ich muss ins Tal der toten Helden fliegen."</DefaultText>
+      <DefaultText>„Ich muss ins Tal der toten Helden fliegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Hervorragendes Timing", sagt er sich verbeugend. "Mein Schiff wird in Kürze ablegen. Normalerweise ist die Gebühr in dieser Zeit des Jahres sehr hoch, aber ich kann dir nicht ruhigen Gewissens die Reise berechnen, nach allem, was du getan hast."</DefaultText>
+      <DefaultText>„Hervorragendes Timing“, sagt er sich verbeugend. „Mein Schiff wird in Kürze ablegen. Normalerweise ist die Gebühr in dieser Zeit des Jahres sehr hoch, aber ich kann dir nicht ruhigen Gewissens die Reise berechnen, nach allem, was du getan hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Wie … Wie kann ich dir heute helfen?"</DefaultText>
+      <DefaultText>„Wie … Wie kann ich dir heute helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Hast du deine Geschäfte in der Stadt erledigt? Wenn du es sagst, verlassen wir den Hafen."</DefaultText>
+      <DefaultText>„Hast du deine Geschäfte in der Stadt erledigt? Wenn du es sagst, verlassen wir den Hafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -502,17 +502,17 @@ Er streicht seine Kleidung glatt und stellt sich auf. "Das war einmal ein Sammel
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Ich bin bereit. Fahren wir los."</DefaultText>
+      <DefaultText>„Ich bin bereit. Fahren wir los.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Jetzt noch nicht. Ich hatte mehr Fragen."</DefaultText>
+      <DefaultText>„Jetzt noch nicht. Ich hatte mehr Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Jetzt noch nicht. Lebe wohl."</DefaultText>
+      <DefaultText>„Jetzt noch nicht. Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,17 +522,17 @@ Er streicht seine Kleidung glatt und stellt sich auf. "Das war einmal ein Sammel
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Bestens, mein Freund. Die Luft wird frischer und wir können heute auf dem Rücken der Wolken segeln!</DefaultText>
+      <DefaultText>„Bestens, mein Freund. Die Luft wird frischer und wir können heute auf dem Rücken der Wolken segeln!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Sehr wohl, mein Freund, wir werden gleich abreisen!"</DefaultText>
+      <DefaultText>„Sehr wohl, mein Freund, wir werden gleich abreisen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Er lächelt breit und die Spannung scheint von ihm abzufallen. "Das höre ich am liebsten."</DefaultText>
+      <DefaultText>Er lächelt breit und die Spannung scheint von ihm abzufallen. „Das höre ich am liebsten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -542,66 +542,66 @@ Er streicht seine Kleidung glatt und stellt sich auf. "Das war einmal ein Sammel
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Wie du willst, mein Freund."</DefaultText>
+      <DefaultText>„Wie du willst, mein Freund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Ich freue mich auf unsere Reise."</DefaultText>
+      <DefaultText>„Ich freue mich auf unsere Reise.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Ähem. Ja. Wie dem auch sein mag, mein Freund wurde fälschlicherweise beschuldigt und ich muss vielleicht an seiner Stelle aussagen. Ein wahrer Gentleman lässt seine Freunde nicht allein leiden!"</DefaultText>
+      <DefaultText>„Ähem. Ja. Wie dem auch sein mag, mein Freund wurde fälschlicherweise beschuldigt und ich muss vielleicht an seiner Stelle aussagen. Ein wahrer Gentleman lässt seine Freunde nicht allein leiden!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Ich geh weg aus Sagus-Klippen, Tybir - mit dir oder ohne dich."</DefaultText>
+      <DefaultText>„Ich geh weg aus Sagus-Klippen, Tybir - mit dir oder ohne dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Na gut. Lass uns nach Ris suchen."</DefaultText>
+      <DefaultText>„Na gut. Lass uns nach Ris suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Er runzelt die Stirn. "Den Freund eines Menschen in Ketten zurückzulassen, ist nicht in Ordnung. Es sei denn, natürlich, dieser Freund ist im Gewahrsam der Behörden."</DefaultText>
+      <DefaultText>Er runzelt die Stirn. „Den Freund eines Menschen in Ketten zurückzulassen, ist nicht in Ordnung. Es sei denn, natürlich, dieser Freund ist im Gewahrsam der Behörden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Weiß dein Freund etwas, das dich hineinziehen könnte?</DefaultText>
+      <DefaultText>„Weiß dein Freund etwas, das dich hineinziehen könnte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Fürchtest du wirklich, dass deine Ehre bestritten wird, Tybir? Der Flug könnte deine beste Option sein, wenn dein Ruf der Lotse ist."</DefaultText>
+      <DefaultText>„Fürchtest du wirklich, dass deine Ehre bestritten wird, Tybir? Der Flug könnte deine beste Option sein, wenn dein Ruf der Lotse ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Sein Stirnrunzeln vertieft sich und er dreht sich zu dir. "Wir können gehen, wenn du es sagst."</DefaultText>
+      <DefaultText>Sein Stirnrunzeln vertieft sich und er dreht sich zu dir. „Wir können gehen, wenn du es sagst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Ich kann sehen, wohin uns diese Unterhaltung führt, und darauf bin ich nicht gerade scharf. Ich ziehe los, um meinen Freund zu retten."
+      <DefaultText>„Ich kann sehen, wohin uns diese Unterhaltung führt, und darauf bin ich nicht gerade scharf. Ich ziehe los, um meinen Freund zu retten.“
 
 Er stelzt los.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Absolut wahr. So wahr." Er schlägt sich mit der Faust in die Handinnenfläche. "Wir sollten einen echten Gentleman finden und ihm sagen, was deinem Freund passiert!"
+      <DefaultText>„Absolut wahr. So wahr.“ Er schlägt sich mit der Faust in die Handinnenfläche. „Wir sollten einen echten Gentleman finden und ihm sagen, was deinem Freund passiert!“
 
-Er sieht sich aufmerksam um. "Vielleicht wenn sie Freunde werden, rettet der echte Gentleman Ris für dich!"</DefaultText>
+Er sieht sich aufmerksam um. „Vielleicht wenn sie Freunde werden, rettet der echte Gentleman Ris für dich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Rennio schaut zu, wie Tybir geht und sagt dann: "Ich sah ihn schon die vergangenen Tage hier rumlungern und es beruhigt mich, zu wissen, dass du dich nicht mit so jemand abgibst. Wir werden uns auf der Reise jetzt leichter tun und wir haben ein stärkeres Ziel vor Augen. Wir bringen dich in Windeseile zu deinem Ziel.</DefaultText>
+      <DefaultText>Rennio schaut zu, wie Tybir geht und sagt dann: „Ich sah ihn schon die vergangenen Tage hier rumlungern und es beruhigt mich, zu wissen, dass du dich nicht mit so jemand abgibst. Wir werden uns auf der Reise jetzt leichter tun und wir haben ein stärkeres Ziel vor Augen. Wir bringen dich in Windeseile zu deinem Ziel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,37 +611,37 @@ Er sieht sich aufmerksam um. "Vielleicht wenn sie Freunde werden, rettet der ech
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Nicht so schnell. Ich werde meinen Freund Ris nicht zurücklassen."</DefaultText>
+      <DefaultText>„Nicht so schnell. Ich werde meinen Freund Ris nicht zurücklassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Wir haben Ris noch nicht gerettet. Wir können jetzt noch nicht gehen!"</DefaultText>
+      <DefaultText>„Wir haben Ris noch nicht gerettet. Wir können jetzt noch nicht gehen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Ich werde hier sein, wenn du mich brauchst."</DefaultText>
+      <DefaultText>„Ich werde hier sein, wenn du mich brauchst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Bist du noch bereit, einem alten Soldaten wie versprochen zu helfen?"</DefaultText>
+      <DefaultText>„Bist du noch bereit, einem alten Soldaten wie versprochen zu helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Ja, kommt mit."</DefaultText>
+      <DefaultText>„Ja, kommt mit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Ja, kommt mit."</DefaultText>
+      <DefaultText>„Ja, kommt mit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Tut mir leid, Tybir. Sieht so aus, als würde das nichts werden."</DefaultText>
+      <DefaultText>„Tut mir leid, Tybir. Sieht so aus, als würde das nichts werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -651,44 +651,44 @@ Er sieht sich aufmerksam um. "Vielleicht wenn sie Freunde werden, rettet der ech
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Er schaut sich deine versammelten Begleiter an. "Du hast da eine ganz schöne Armee beisammen." Er zwingt sich zu einem Lächeln. "Ich weiß nicht, ob da noch ein Platz für mich ist."
+      <DefaultText>Er schaut sich deine versammelten Begleiter an. „Du hast da eine ganz schöne Armee beisammen.“ Er zwingt sich zu einem Lächeln. „Ich weiß nicht, ob da noch ein Platz für mich ist.“
 
 {GEORGE/COLIN: Every Companion has their own reactions to being asked to leave. I think the player should have to back out of this conversation first, ask someone to leave, then ask Tybir to join. - AH}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Aligern, du musst gehen, ich brauche mehr Platz."</DefaultText>
+      <DefaultText>„Aligern, du musst gehen, ich brauche mehr Platz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Callistege, du musst gehen, ich brauche mehr Platz."</DefaultText>
+      <DefaultText>„Callistege, du musst gehen, ich brauche mehr Platz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Erritis, du wirst zurückbleiben müssen."</DefaultText>
+      <DefaultText>„Erritis, du wirst zurückbleiben müssen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Matkina, du kannst hierbleiben."</DefaultText>
+      <DefaultText>„Matkina, du kannst hierbleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Oom … bleib hier!"</DefaultText>
+      <DefaultText>„Oom … bleib hier!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Rhin, kannst du bitte hier warten?"</DefaultText>
+      <DefaultText>„Rhin, kannst du bitte hier warten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Riastrad, du und Satsada solltet hier bleiben."</DefaultText>
+      <DefaultText>„Riastrad, du und Satsada solltet hier bleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -698,7 +698,7 @@ Er sieht sich aufmerksam um. "Vielleicht wenn sie Freunde werden, rettet der ech
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Du hast recht - es ist kein Platz."</DefaultText>
+      <DefaultText>„Du hast recht - es ist kein Platz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -743,22 +743,22 @@ Er sieht sich aufmerksam um. "Vielleicht wenn sie Freunde werden, rettet der ech
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Für *ihn*? Na schön. Ich habe ohnehin etwas zu erledigen." Er wirft dir einen kalten Blick zu, bevor er geht.</DefaultText>
+      <DefaultText>„Für *ihn*? Na schön. Ich habe ohnehin etwas zu erledigen.“ Er wirft dir einen kalten Blick zu, bevor er geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Wirklich? Und ich dachte noch, wir machen Fortschritte. Wie du willst. Dann kann ich mich meinen Forschungen widmen."</DefaultText>
+      <DefaultText>„Wirklich? Und ich dachte noch, wir machen Fortschritte. Wie du willst. Dann kann ich mich meinen Forschungen widmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Dann muss ich selbst die Gefahr suchen!"</DefaultText>
+      <DefaultText>„Dann muss ich selbst die Gefahr suchen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Wirklich. Du wirfst mich für den raus? Na gut. Ich habe noch andere Dinge zu erledigen."</DefaultText>
+      <DefaultText>„Wirklich. Du wirfst mich für den raus? Na gut. Ich habe noch andere Dinge zu erledigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -768,12 +768,12 @@ Er sieht sich aufmerksam um. "Vielleicht wenn sie Freunde werden, rettet der ech
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Ganz … allein? Na gut. Ich hoffe, ich komme klar. Ach, sicher werde ich das."</DefaultText>
+      <DefaultText>„Ganz … allein? Na gut. Ich hoffe, ich komme klar. Ach, sicher werde ich das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Mmpf."</DefaultText>
+      <DefaultText>„Mmpf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -783,7 +783,7 @@ Er sieht sich aufmerksam um. "Vielleicht wenn sie Freunde werden, rettet der ech
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Du wirst es nicht bereuen, Bursche!"</DefaultText>
+      <DefaultText>„Du wirst es nicht bereuen, Bursche!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -793,17 +793,17 @@ Er sieht sich aufmerksam um. "Vielleicht wenn sie Freunde werden, rettet der ech
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Sind dann alle hier? Der Wind ist günstig. Lasst uns segeln, Freunde."</DefaultText>
+      <DefaultText>„Sind dann alle hier? Der Wind ist günstig. Lasst uns segeln, Freunde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Du brichst also dein Wort, was? Das ist okay. Ich habe mich schon mit Typen wie dir befasst." Er skizziert einen Bogen und schreitet davon.</DefaultText>
+      <DefaultText>„Du brichst also dein Wort, was? Das ist okay. Ich habe mich schon mit Typen wie dir befasst.“ Er skizziert einen Bogen und schreitet davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"... err. Wie ich schon sagte. Wir sollten uns auf den Weg machen." Er schaut sich nervös um. "Ich hoffe, du hast nicht noch weitere Überraschungen für mich."</DefaultText>
+      <DefaultText>„... err. Wie ich schon sagte. Wir sollten uns auf den Weg machen.“ Er schaut sich nervös um. „Ich hoffe, du hast nicht noch weitere Überraschungen für mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -855,22 +855,22 @@ Danke fürs Spielen!]</DefaultText>
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Du hast gesagt, du würdest Rhin befreien. Wenn wir nicht zurückkommen, musst du das erledigen. Sonst versuche ich, das ohne dich hinzukriegen."</DefaultText>
+      <DefaultText>„Du hast gesagt, du würdest Rhin befreien. Wenn wir nicht zurückkommen, musst du das erledigen. Sonst versuche ich, das ohne dich hinzukriegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Wir haben Rhin noch nicht befreit. Wir holen sie jetzt, sonst gehe ich weg."</DefaultText>
+      <DefaultText>„Wir haben Rhin noch nicht befreit. Wir holen sie jetzt, sonst gehe ich weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Die Zeit ist um. "Ich gehe jetzt, mit dir oder ohne dich."</DefaultText>
+      <DefaultText>„Die Zeit ist um. Ich gehe jetzt, mit dir oder ohne dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Ja. Lass uns nach ihr suchen."</DefaultText>
+      <DefaultText>„Ja. Lass uns nach ihr suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -885,29 +885,29 @@ Danke fürs Spielen!]</DefaultText>
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Kannst du mir sagen, wie dein Schiff geklaut wurde?"</DefaultText>
+      <DefaultText>„Kannst du mir sagen, wie dein Schiff geklaut wurde?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Ich helfe dir, ihn zu finden."</DefaultText>
+      <DefaultText>„Ich helfe dir, ihn zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Ich habe keine Zeit dafür."</DefaultText>
+      <DefaultText>„Ich habe keine Zeit dafür.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Natürlich", sagt er, offensichtlich dankbar, dass du dich für sein Problem interessierst. "Zuerst hat der Herumtreiber noch gefragt, ob er sich mein Luftschiff 'ausborgen' kann. Das muss man sich mal vorstellen. Ich habe natürlich abgelehnt, so höflich wie möglich war."
+      <DefaultText>„Natürlich“, sagt er, offensichtlich dankbar, dass du dich für sein Problem interessierst. „Zuerst hat der Herumtreiber noch gefragt, ob er sich mein Luftschiff 'ausborgen' kann. Das muss man sich mal vorstellen. Ich habe natürlich abgelehnt, so höflich wie möglich war.“
 
-Er schüttelt langsam den Kopf und Kummer macht sich auf seinem Gesicht breit. "Ich sah nur einen kurzen Moment weg, um etwas zu unterschreiben, und schon war er im Luftschiff und winkte mir von der Reling aus zu!"</DefaultText>
+Er schüttelt langsam den Kopf und Kummer macht sich auf seinem Gesicht breit. „Ich sah nur einen kurzen Moment weg, um etwas zu unterschreiben, und schon war er im Luftschiff und winkte mir von der Reling aus zu!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Das wäre für mich eine große Erleichterung", sagt er seufzend. "Wenn du ihm zufällig begegnest, dann bring ihn zu mir. Ich will dem Dieb in die Augen sehen und ihn fragen, warum er mir das antat."</DefaultText>
+      <DefaultText>„Das wäre für mich eine große Erleichterung“, sagt er seufzend. „Wenn du ihm zufällig begegnest, dann bring ihn zu mir. Ich will dem Dieb in die Augen sehen und ihn fragen, warum er mir das antat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -932,7 +932,7 @@ Er schüttelt langsam den Kopf und Kummer macht sich auf seinem Gesicht breit. "
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Wie schade", sagt er und seufzt schwer. "Wenn du zufällig dem Dieb begegnest ... dann bring ihn zu mir. Ich will ihm in die Augen sehen und ihn fragen, warum er mir das antat."</DefaultText>
+      <DefaultText>„Wie schade“, sagt er und seufzt schwer. „Wenn du zufällig dem Dieb begegnest ... dann bring ihn zu mir. Ich will ihm in die Augen sehen und ihn fragen, warum er mir das antat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -947,12 +947,12 @@ Er schüttelt langsam den Kopf und Kummer macht sich auf seinem Gesicht breit. "
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Endlich. Es hat ewig gedauert."</DefaultText>
+      <DefaultText>„Endlich. Es hat ewig gedauert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Glücklich und dankbar!"
+      <DefaultText>„Glücklich und dankbar!“
 {ERRITIS}</DefaultText>
       <FemaleText />
     </Entry>
@@ -965,59 +965,59 @@ Er schüttelt langsam den Kopf und Kummer macht sich auf seinem Gesicht breit. "
       <ID>197</ID>
       <DefaultText>Er tut es. Erritis starrt argwöhnisch auf ein Häufchen Staub, als würde es ihn überfallen wollen.
 
-"Da ist was dran", murrt Rennio schließlich. "Er hat mein Luftschiff schon wenige Minuten nach unserem Kennenlernen geschrottet. Ich kann mir nicht vorstellen, was passiert, wenn ich ihn *anstellen* würde.
+„Da ist was dran“, murrt Rennio schließlich. „Er hat mein Luftschiff schon wenige Minuten nach unserem Kennenlernen geschrottet. Ich kann mir nicht vorstellen, was passiert, wenn ich ihn *anstellen* würde.“
 
-Er guckt deinen Begleiter mürrisch an. "Halte ihn einfach von mir und meiner Lebensgrundlage fern. Ich werde in Kürze wieder Flüge ins Tal der toten Helden aufnehmen. Ich wünsche dir einen schönen Tag."</DefaultText>
+Er guckt deinen Begleiter mürrisch an. „Halte ihn einfach von mir und meiner Lebensgrundlage fern. Ich werde in Kürze wieder Flüge ins Tal der toten Helden aufnehmen. Ich wünsche dir einen schönen Tag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
       <DefaultText>Er tut es. Erritis starrt argwöhnisch auf ein Häufchen Staub, als würde es ihn überfallen wollen.
 
-"Nein. Er ist vielleicht ..." Meister Rennio senkt die Stimme bis zum Flüstern, "... ein völlig Wirrkopf, aber er hat mir ernsten Schaden zugefügt. Ernsten! "Ich verlange Entschädigung!</DefaultText>
+„Nein. Er ist vielleicht ...“ Meister Rennio senkt die Stimme bis zum Flüstern, „... ein völlig Wirrkopf, aber er hat mir ernsten Schaden zugefügt. Ernsten! Ich verlange Entschädigung!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Rede weiter, vermute ich."</DefaultText>
+      <DefaultText>„Rede weiter, vermute ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Sicher, allerdings bist du für die Kosten des aktuellen Werts des Luftschiffs verantwortlich, die Vertragskosten und sonstige Betriebskosten." Er hebt seine Brust. "[Global: a2501_Rennio_ErritisDebt] Shin. Und nicht einen weniger."
+      <DefaultText>„Sicher, allerdings bist du für die Kosten des aktuellen Werts des Luftschiffs verantwortlich, die Vertragskosten und sonstige Betriebskosten.“ Er hebt seine Brust. „[Global: a2501_Rennio_ErritisDebt] Shin. Und nicht einen weniger.“
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"[Global: a2501_Rennio_ErritisDebt] Shin. Wirst du sie bezahlen?"
+      <DefaultText>„[Global: a2501_Rennio_ErritisDebt] Shin. Wirst du sie bezahlen?“
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Hier, nimm."
+      <DefaultText>„Hier, nimm.“
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Vielleicht können wir uns anders einigen.</DefaultText>
+      <DefaultText>„Vielleicht können wir uns anders einigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Das führt zu nichts. Lass uns über etwas anderes reden."</DefaultText>
+      <DefaultText>„Das führt zu nichts. Lass uns über etwas anderes reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Wenn es sein muss."</DefaultText>
+      <DefaultText>„Wenn es sein muss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Also, was?"</DefaultText>
+      <DefaultText>„Also, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1027,67 +1027,67 @@ Er guckt deinen Begleiter mürrisch an. "Halte ihn einfach von mir und meiner Le
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Das ist viel zu viel."</DefaultText>
+      <DefaultText>„Das ist viel zu viel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Vielleicht können wir uns anders einigen.</DefaultText>
+      <DefaultText>„Vielleicht können wir uns anders einigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Nein", sagt er und seine Nasenflügel beben. "Ich muss sagen, dass mir diese Andeutung überhaupt nicht passt. Ich verlange nicht zu viel. Niemals. Ich habe hohe Kosten und mein Preis ist angemessen."
+      <DefaultText>„Nein“, sagt er und seine Nasenflügel beben. „Ich muss sagen, dass mir diese Andeutung überhaupt nicht passt. Ich verlange nicht zu viel. Niemals. Ich habe hohe Kosten und mein Preis ist angemessen.“
 
-Er macht einen sichtlichen Versuch, seine Wut runter zu schlucken. "Dieser Teil unserer Diskussion ist hiermit *beendet*. Vielleicht möchtest du über andere Optionen reden?"</DefaultText>
+Er macht einen sichtlichen Versuch, seine Wut runter zu schlucken. „Dieser Teil unserer Diskussion ist hiermit *beendet*. Vielleicht möchtest du über andere Optionen reden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Vielleicht." Aber überzeugt klingt irgendwie anders.</DefaultText>
+      <DefaultText>„Vielleicht.“ Aber überzeugt klingt irgendwie anders.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
       <DefaultText>Er akzeptiert deine Zahlung mit zweifelndem Blick. Eindeutig hat er nicht damit gerechnet, dass du so viel Geld mit dir führst.
 
-"Na gut", sagt er, nachdem er es sorgfältig gezählt hat. "Die Schuld ist beglichen. Flüge ins Tal der toten Helden werden in Kürze wieder aufgenommen."</DefaultText>
+„Na gut“, sagt er, nachdem er es sorgfältig gezählt hat. „Die Schuld ist beglichen. Flüge ins Tal der toten Helden werden in Kürze wieder aufgenommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Arbeit?", sagt Erritis, du sieht zweifelnd aus. "Ich habe gearbeitet. Mir hat es nie gefallen. Zu viel Arbeit."
+      <DefaultText>„Arbeit?“, sagt Erritis, du sieht zweifelnd aus. „Ich habe gearbeitet. Mir hat es nie gefallen. Zu viel Arbeit.“
 
 {ERRITIS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Du tust das Richtige. Später wirst du es verstehen."</DefaultText>
+      <DefaultText>„Du tust das Richtige. Später wirst du es verstehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Willst du mir damit sagen, dass die Arbeit in einem *Luftschiff-Dock* kein Abenteuer ist?"</DefaultText>
+      <DefaultText>„Willst du mir damit sagen, dass die Arbeit in einem *Luftschiff-Dock* kein Abenteuer ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Doch, natürlich", sagt er, und ist offensichtlich allein von dem Gedanken beleidigt. Er dreht sich um, ist wild entschlossen und reicht dem plötzlich argwöhnischen Rennio die Hand. "Ich nehme dein Angebot an. Wir ziehen gemeinsam ins Abenteuer!"
+      <DefaultText>„Doch, natürlich“, sagt er, und ist offensichtlich allein von dem Gedanken beleidigt. Er dreht sich um, ist wild entschlossen und reicht dem plötzlich argwöhnischen Rennio die Hand. „Ich nehme dein Angebot an. Wir ziehen gemeinsam ins Abenteuer!“
 
 {ERRITIS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Lass uns loslegen, Erritis."</DefaultText>
+      <DefaultText>„Lass uns loslegen, Erritis.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Werde ich das? Na ja, ich mag es, wenn ich bei einer Sache ein gutes Gefühl habe."
+      <DefaultText>„Werde ich das? Na ja, ich mag es, wenn ich bei einer Sache ein gutes Gefühl habe.“
 
-Er dreht sich um und reicht Rennio die Hand. "Ich nehme dein Angebot an. Wir *arbeiten* zusammen! Tauschen Ideen aus! Kooperieren!"
+Er dreht sich um und reicht Rennio die Hand. „Ich nehme dein Angebot an. Wir *arbeiten* zusammen! Tauschen Ideen aus! Kooperieren!“
 
 {ERRITIS}</DefaultText>
       <FemaleText />
@@ -1106,46 +1106,46 @@ Plötzlich hält er inne.</DefaultText>
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"Ich rede mit ihm. Warte hier."</DefaultText>
+      <DefaultText>„Ich rede mit ihm. Warte hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Du hast wahrscheinlich recht. Besprechen wir etwas anderes."</DefaultText>
+      <DefaultText>„Du hast wahrscheinlich recht. Besprechen wir etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"Natürlich", sagt er und streicht seine Kleidung glatt.</DefaultText>
+      <DefaultText>„Natürlich“, sagt er und streicht seine Kleidung glatt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"Wirklich?", sagt er, seine Augenbrauen heben sich. "Nun ja. Viel Glück. Es ist nicht ganz einfach, mit dem Herrn zu arbeiten."</DefaultText>
+      <DefaultText>„Wirklich?“, sagt er, seine Augenbrauen heben sich. „Nun ja. Viel Glück. Es ist nicht ganz einfach, mit dem Herrn zu arbeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Ich ... Ich vermute es", sagt er stirnrunzelnd. "Der Dieb sollte für seine Verbrechen bestraft werden, aber wenn du sie davon überzeugen kannst, dann ..."
+      <DefaultText>„Ich ... Ich vermute es“, sagt er stirnrunzelnd. „Der Dieb sollte für seine Verbrechen bestraft werden, aber wenn du sie davon überzeugen kannst, dann ...“
 
-Er gibt dir ein brüskes Kopfnicken. "Ja, das dürfte reichen."</DefaultText>
+Er gibt dir ein brüskes Kopfnicken. „Ja, das dürfte reichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>"Nein", sagt er nach kurzer Bedenkzeit. "Dieser Dieb soll für seine Verbrechen selbst einstehen und nicht auf die Arbeitsleistung anderer setzen dürfen. Ich fürchte, wir müssen eine andere Lösung finden."</DefaultText>
+      <DefaultText>„Nein“, sagt er nach kurzer Bedenkzeit. „Dieser Dieb soll für seine Verbrechen selbst einstehen und nicht auf die Arbeitsleistung anderer setzen dürfen. Ich fürchte, wir müssen eine andere Lösung finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Wenn sie nicht dazu bereit sind, müssen wir andere Bedingungen diskutieren."</DefaultText>
+      <DefaultText>„Wenn sie nicht dazu bereit sind, müssen wir andere Bedingungen diskutieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>"‘Entschädigung für jegliche Schäden?‘" zitiert er. "Wie um alles in der Welt hast du … ach, egal." Er winkt mit den Händen ab. "Das ist *Magie*. Ich will nicht wissen, wie der Trick funktioniert."
+      <DefaultText>„‘Entschädigung für jegliche Schäden?‘“ zitiert er. „Wie um alles in der Welt hast du … ach, egal.“ Er winkt mit den Händen ab. „Das ist *Magie*. Ich will nicht wissen, wie der Trick funktioniert.“
 
-Er betrachtet dich mit großer Zärtlichkeit. "Danke. Du hast mein Familienunternehmen gerettet. Da jetzt diese *Unsicherheit* ausgeräumt ist, werde ich in Kürze wieder Flüge ins Tal der toten Helden durchführen.</DefaultText>
+Er betrachtet dich mit großer Zärtlichkeit. „Danke. Du hast mein Familienunternehmen gerettet. Da jetzt diese *Unsicherheit* ausgeräumt ist, werde ich in Kürze wieder Flüge ins Tal der toten Helden durchführen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1155,12 +1155,12 @@ Er betrachtet dich mit großer Zärtlichkeit. "Danke. Du hast mein Familienunter
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>"Ich hoffe sehr, du nimmst deinen diebischen Freund mit ins Tal. Und weiter noch, wenn du kannst. Viel weiter!"</DefaultText>
+      <DefaultText>„Ich hoffe sehr, du nimmst deinen diebischen Freund mit ins Tal. Und weiter noch, wenn du kannst. Viel weiter!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Meister Rennio!", sagt er winkend. "Erinnerst du dich an mich? Ich habe dein Familienunternehmen gerettet!"</DefaultText>
+      <DefaultText>„Meister Rennio!“, sagt er winkend. „Erinnerst du dich an mich? Ich habe dein Familienunternehmen gerettet!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1170,7 +1170,7 @@ Er betrachtet dich mit großer Zärtlichkeit. "Danke. Du hast mein Familienunter
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Ich sollte dich auch warnen, dass wir dich nicht mehr aus dem Tal herausholen können. Wir halten uns dort nie auf. Die Energien dort schaden den Motoren unserer Schiffe."</DefaultText>
+      <DefaultText>„Ich sollte dich auch warnen, dass wir dich nicht mehr aus dem Tal herausholen können. Wir halten uns dort nie auf. Die Energien dort schaden den Motoren unserer Schiffe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1180,12 +1180,12 @@ Er betrachtet dich mit großer Zärtlichkeit. "Danke. Du hast mein Familienunter
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>"War es wirklich so schlimm?"</DefaultText>
+      <DefaultText>„War es wirklich so schlimm?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>"Willst du ihn wirklich nicht noch eine Weile behalten?"</DefaultText>
+      <DefaultText>„Willst du ihn wirklich nicht noch eine Weile behalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1195,24 +1195,24 @@ Er betrachtet dich mit großer Zärtlichkeit. "Danke. Du hast mein Familienunter
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>"Alles, was der Junge anfasst, zerbricht oder geht in Flammen auf! Er ruiniert mich noch!"</DefaultText>
+      <DefaultText>„Alles, was der Junge anfasst, zerbricht oder geht in Flammen auf! Er ruiniert mich noch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>"Nein, auf keinen Fall! Nicht eine Sekunde länger!"</DefaultText>
+      <DefaultText>„Nein, auf keinen Fall! Nicht eine Sekunde länger!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>"Genug", sagt der Luftschiff-Meister und hält seine Hände vor sich, als wolle er Erritis an der Wams packen und ihn von der Plattform stoßen. "Du hast mein Luftschiff gestohlen! Es ist zu spät für Entschuldigungen!"</DefaultText>
+      <DefaultText>„Genug“, sagt der Luftschiff-Meister und hält seine Hände vor sich, als wolle er Erritis an der Wams packen und ihn von der Plattform stoßen. „Du hast mein Luftschiff gestohlen! Es ist zu spät für Entschuldigungen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
       <DefaultText>Erritis starrt an euch beiden vorbei und ist sichtlich verblüfft. Er rechnete entweder mit mehr Streit oder sofort mit einem Kampf. Diese zivile Diskussion hat ihn offensichtlich überrascht.
 
-"Dann gehe ich zurück nach Klippenrand", sagt er schließlich, fast wütend. "Da war alles viel aufregender."</DefaultText>
+„Dann gehe ich zurück nach Klippenrand“, sagt er schließlich, fast wütend. „Da war alles viel aufregender.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1232,7 +1232,7 @@ Er betrachtet dich mit großer Zärtlichkeit. "Danke. Du hast mein Familienunter
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>Meister Rennio starrt Erritis immer noch wütend an. "Mit einer Entschuldigung ist es hier nicht getan. Ich verlange eine Entschädigung für das von dir zerstörte Luftschiff, und wenn das nicht geht, arbeitest du für mich!"</DefaultText>
+      <DefaultText>Meister Rennio starrt Erritis immer noch wütend an. „Mit einer Entschuldigung ist es hier nicht getan. Ich verlange eine Entschädigung für das von dir zerstörte Luftschiff, und wenn das nicht geht, arbeitest du für mich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1252,19 +1252,19 @@ Er betrachtet dich mit großer Zärtlichkeit. "Danke. Du hast mein Familienunter
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>"Oh", sagt Erritis, blinzelnd. "Dann muss ich dir die Schuld nicht mehr begleichen?"</DefaultText>
+      <DefaultText>„Oh“, sagt Erritis, blinzelnd. „Dann muss ich dir die Schuld nicht mehr begleichen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>"Ich sagte nur so viel", sagt er mit einer etwas erzwungenen Ruhe. "Mehrmals."</DefaultText>
+      <DefaultText>„Ich sagte nur so viel“, sagt er mit einer etwas erzwungenen Ruhe. „Mehrmals.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>"Oh", sagt Erritis nochmal, etwas schlaff wirkend. "Du hättest es mir so lange sagen müssen, bis es bei mir hängen bleibt. Ich habe immer sehr viel in meinem Kopf."
+      <DefaultText>„Oh“, sagt Erritis nochmal, etwas schlaff wirkend. „Du hättest es mir so lange sagen müssen, bis es bei mir hängen bleibt. Ich habe immer sehr viel in meinem Kopf.“
 
-Dann wird er munter und sein Leuchten wird stärker. "Ich gehe zurück nach Klippenrand. Dort werden sich sicher alle fragen, wo mich meine Abenteuer so alles hingeführt haben!"
+Dann wird er munter und sein Leuchten wird stärker. „Ich gehe zurück nach Klippenrand. Dort werden sich sicher alle fragen, wo mich meine Abenteuer so alles hingeführt haben!“
 
 Er saust davon.</DefaultText>
       <FemaleText />
@@ -1276,59 +1276,59 @@ Er saust davon.</DefaultText>
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>"Können wir das sonst noch irgendwie lösen?"</DefaultText>
+      <DefaultText>„Können wir das sonst noch irgendwie lösen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>"Ich hätte gern, dass die schuldige Person Wiedergutmachung leistet, aber ich nehme auch einen Schadensersatz in Geld an." Er schüttelt den Kopf. "Ich bezweifle jedoch, dass der junge Dieb das Geld dafür hat."</DefaultText>
+      <DefaultText>„Ich hätte gern, dass die schuldige Person Wiedergutmachung leistet, aber ich nehme auch einen Schadensersatz in Geld an.“ Er schüttelt den Kopf. „Ich bezweifle jedoch, dass der junge Dieb das Geld dafür hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>Er fasst sich mit seinen tintenverschmierten Fingern an die Nase. "Ich könnte *erwägen*, die Schadensersatzsache beim Ratsbeamten einzureichen, aber wir hatten in letzter Zeit einige Differenzen. Ich bezweifle, dass er mir hilft."</DefaultText>
+      <DefaultText>Er fasst sich mit seinen tintenverschmierten Fingern an die Nase. „Ich könnte *erwägen*, die Schadensersatzsache beim Ratsbeamten einzureichen, aber wir hatten in letzter Zeit einige Differenzen. Ich bezweifle, dass er mir hilft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>"Bist du bislang mit ihrer Arbeit zufrieden?"</DefaultText>
+      <DefaultText>„Bist du bislang mit ihrer Arbeit zufrieden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>"Schuldet dir Erritis sonst noch etwas?"</DefaultText>
+      <DefaultText>„Schuldet dir Erritis sonst noch etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>"Ich würde mich beschweren, wenn ich Anlass hätte", sagt er mit einem Achselzucken, "aber um fair zu bleiben, sie stürzten sich mit Feuereifer auf jede Aufgabe, die ich ihnen stellte. Dank deiner, äh … Unterstützer … werden wir in Kürze wieder Flüge ins Tal der toten Helden durchführen.</DefaultText>
+      <DefaultText>„Ich würde mich beschweren, wenn ich Anlass hätte“, sagt er mit einem Achselzucken, „aber um fair zu bleiben, sie stürzten sich mit Feuereifer auf jede Aufgabe, die ich ihnen stellte. Dank deiner, äh … Unterstützer … werden wir in Kürze wieder Flüge ins Tal der toten Helden durchführen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>"Ich glaube nicht", sagt er mit einem Achselzucken. "Deine, äh, Unterstützer stürzten sich auf jede Aufgabe, die ich ihnen gab. Ich könnte nicht zufriedener sein. Wir werden in Kürze wieder Flüge ins Tal der toten Helden aufnehmen."</DefaultText>
+      <DefaultText>„Ich glaube nicht“, sagt er mit einem Achselzucken. „Deine, äh, Unterstützer stürzten sich auf jede Aufgabe, die ich ihnen gab. Ich könnte nicht zufriedener sein. Wir werden in Kürze wieder Flüge ins Tal der toten Helden aufnehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>"Tatsächlich?", sagt Erritis überrascht. "Die meiste Zeit weiß ich nicht einmal selbst, wo ich bin."</DefaultText>
+      <DefaultText>„Tatsächlich?“, sagt Erritis überrascht. „Die meiste Zeit weiß ich nicht einmal selbst, wo ich bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>"Bist du sicher?", sagt Erritis und reckt den Kopf. "Ich könnte mindestens noch drei weitere erfinden, wenn es was hilft."
+      <DefaultText>„Bist du sicher?“, sagt Erritis und reckt den Kopf. „Ich könnte mindestens noch drei weitere erfinden, wenn es was hilft.“
 
 Aber Meister Rennio hört nicht zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>"Purpurrot, sagst du? Nein, leider nicht, aber ich war in letzter Zeit so zerstreut, wie du dir sicher vorstellen kannst. Ich entschuldige mich."</DefaultText>
+      <DefaultText>„Purpurrot, sagst du? Nein, leider nicht, aber ich war in letzter Zeit so zerstreut, wie du dir sicher vorstellen kannst. Ich entschuldige mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>"Hast du hier in der Gegend in jüngster Zeit eine attraktive Frau mit purpurroten Haaren gesehen?</DefaultText>
+      <DefaultText>„Hast du hier in der Gegend in jüngster Zeit eine attraktive Frau mit purpurroten Haaren gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1338,12 +1338,12 @@ Aber Meister Rennio hört nicht zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>"Kannst du mir beschreiben, wie der Luftschiff-Dieb aussah?"</DefaultText>
+      <DefaultText>„Kannst du mir beschreiben, wie der Luftschiff-Dieb aussah?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>"Kannst du mir nochmal beschreiben, wie der Luftschiff-Dieb aussah?"</DefaultText>
+      <DefaultText>„Kannst du mir nochmal beschreiben, wie der Luftschiff-Dieb aussah?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1353,31 +1353,31 @@ Aber Meister Rennio hört nicht zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>"Er war ein kleinerer, blonder und eher schlaksiger Typ. Er glühte außerdem." Meister Rennio schaut finster drein. "Ich hätte wissen müssen, was er plant. Oh, ich habe solche Typen schon früher gesehen! Rücksichtslos. Auf der Suche nach dem Kick! Ich habe das nie verstanden."
+      <DefaultText>„Er war ein kleinerer, blonder und eher schlaksiger Typ. Er glühte außerdem.“ Meister Rennio schaut finster drein. „Ich hätte wissen müssen, was er plant. Oh, ich habe solche Typen schon früher gesehen! Rücksichtslos. Auf der Suche nach dem Kick! Ich habe das nie verstanden.“
 
 Er zwirbelt an seinem verdünnten Schnurrbart.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>"Ein kleiner, glühender Kerl mit blondem Haar und von dünner Statur."</DefaultText>
+      <DefaultText>„Ein kleiner, glühender Kerl mit blondem Haar und von dünner Statur.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>"Du findest den Sachbearbeiter vor dem Ratsturm ... auf dem Regierungsplatz."</DefaultText>
+      <DefaultText>„Du findest den Sachbearbeiter vor dem Ratsturm ... auf dem Regierungsplatz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>"Wunderbar", sagt Rennio nach einem Moment der Ruhe, als ob er versuchen würde, sich selbst zu überzeugen. "Gut."
+      <DefaultText>„Wunderbar“, sagt Rennio nach einem Moment der Ruhe, als ob er versuchen würde, sich selbst zu überzeugen. „Gut.“
 
-Er dreht sich mit einer kleinen Verbeugung zu dir. "Wir werden bald wieder das Tal der Verlorenen Helden anfliegen. Nochmals danke für deine Hilfe bei dieser Sache."</DefaultText>
+Er dreht sich mit einer kleinen Verbeugung zu dir. „Wir werden bald wieder das Tal der Verlorenen Helden anfliegen. Nochmals danke für deine Hilfe bei dieser Sache.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>"Selbstverständlich, ich fliege momentan *nirgendwo* hin. Nicht, solange der *Dieb*, der mein anderes Luftschiff gestohlen hat, frei herumläuft."</DefaultText>
+      <DefaultText>„Selbstverständlich, ich fliege momentan *nirgendwo* hin. Nicht, solange der *Dieb*, der mein anderes Luftschiff gestohlen hat, frei herumläuft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1387,22 +1387,22 @@ Er dreht sich mit einer kleinen Verbeugung zu dir. "Wir werden bald wieder das T
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>"Weißt du, vorhin war ich noch unsicher, aber jetzt weiß ich es: Ihr Verstoßene seid keine Menschen."</DefaultText>
+      <DefaultText>„Weißt du, vorhin war ich noch unsicher, aber jetzt weiß ich es: Ihr Verstoßene seid keine Menschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>"Mach's gut, Abschaum."</DefaultText>
+      <DefaultText>„Mach's gut, Abschaum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>"Lass mich ein paar Sachen mit meinen Gefährten regeln."</DefaultText>
+      <DefaultText>„Lass mich ein paar Sachen mit meinen Gefährten regeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>"Natürlich! Nimm dir so viel Zeit, wie du brauchst." Er zwinkert. "Bloß... nicht zu viel zeit, hoffe ich."</DefaultText>
+      <DefaultText>„Natürlich! Nimm dir so viel Zeit, wie du brauchst.“ Er zwinkert. „Bloß... nicht zu viel zeit, hoffe ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1412,12 +1412,12 @@ Er dreht sich mit einer kleinen Verbeugung zu dir. "Wir werden bald wieder das T
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>"Ähm", sagt Tybir mit einem Hauch besorgtem Beifall. "Wir gehen immernoch gemeinsam, oder?"</DefaultText>
+      <DefaultText>„Ähm“, sagt Tybir mit einem Hauch besorgtem Beifall. „Wir gehen immernoch gemeinsam, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>"Womöglich willst du zuerst ein paar Sachen mit diesem Herren hier klarstellen, bevor wir weitermachen?", sagt Rennio, und tritt zur Seite. "Keine Sorge, das Schiff fährt noch nicht ab."</DefaultText>
+      <DefaultText>„Womöglich willst du zuerst ein paar Sachen mit diesem Herren hier klarstellen, bevor wir weitermachen?“, sagt Rennio, und tritt zur Seite. „Keine Sorge, das Schiff fährt noch nicht ab.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
