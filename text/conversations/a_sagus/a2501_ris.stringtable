@@ -24,7 +24,7 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>Tybir wendet sich beschwörend an dich: "Bitte, Junge. Mir gehen die Tricks aus. Sag etwas. Hol mich hier raus!"</DefaultText>
-      <FemaleText>Tybir wendet sich beschwörend an dich: "Bitte, Junge. Mir gehen die Tricks aus. Sag etwas. Hol mich hier raus!"</FemaleText>
+      <FemaleText>Tybir wendet sich beschwörend an dich: "Bitte, Kleine. Mir gehen die Tricks aus. Sag etwas. Hol mich hier raus!"</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -56,7 +56,7 @@
       <DefaultText>Er atmet erleichtert auf. "Danke, Junge. Ich schulde dir was."
 
 {SCRIPT: This needs to play after Ris and his men run away after successfully intimidating them.}</DefaultText>
-      <FemaleText>Er atmet erleichtert auf. "Danke, Junge. Ich schulde dir was."
+      <FemaleText>Er atmet erleichtert auf. "Danke, Kleine. Ich schulde dir was."
 
 {SCRIPT: This needs to play after Ris and his men run away after successfully intimidating them.}</FemaleText>
     </Entry>
@@ -72,16 +72,16 @@
 Er hält inne, als er sieht, wie die anderen zurückweichen und sich entfernen. "He! Wo lauft ihr denn hin?! Ich sage euch doch: Er ist nicht der Wandelnde Gott!"
 
 Sie treten übereilt den Rückzug an und Ris jagt ihnen nach.</DefaultText>
-      <FemaleText>Ris grinst spöttisch und blickt zu seinen Gefährten zurück. "Er ist nicht der Wandelnde Gott. Der Wandelnde Gott ist drei Meter groß und ..."
+      <FemaleText>Ris grinst spöttisch und blickt zu seinen Gefährten zurück. "Sie ist nicht der Wandelnde Gott. Der Wandelnde Gott ist drei Meter groß und ..."
 
-Er hält inne, als er sieht, wie die anderen zurückweichen und sich entfernen. "He! Wo lauft ihr denn hin?! Ich sage euch doch: Er ist nicht der Wandelnde Gott!"
+Er hält inne, als er sieht, wie die anderen zurückweichen und sich entfernen. "He! Wo lauft ihr denn hin?! Ich sage euch doch: Sie ist nicht der Wandelnde Gott!"
 
 Sie treten übereilt den Rückzug an und Ris jagt ihnen nach.</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Ris und seine Gefährten lachen. "Er ist nicht der Wandelnde Gott. Er ist einfach nur ein weiterer Tölpel, den du dazu gebracht hast, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verschlagen. Dich wegen Schurkerei, und ihn wegen Leichtgläubigkeit."</DefaultText>
-      <FemaleText />
+      <DefaultText>Ris und seine Gefährten lachen. "Er ist nicht der Wandelnde Gott. Er ist einfach nur ein weiterer Narr, den du dazu gebracht hast, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide schlagen. Dich wegen Schurkerei, und ihn wegen Leichtgläubigkeit."</DefaultText>
+      <FemaleText>Ris und seine Gefährten lachen. "Sie ist nicht der Wandelnde Gott. Sie ist einfach nur eine weitere Närrin, die du dazu gebracht hast, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide schlagen. Dich wegen Schurkerei, und sie wegen Leichtgläubigkeit."</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
