@@ -9,19 +9,17 @@
       <DefaultText>Eine Gruppe von hart aussehenden Schlägern nähert sich dir von hinten. Angeführt wird sie von Ris, der höhnisch vor Tybir salutiert.
 
 "Hallo Tybir. Verlassen wir etwa die Stadt? Meine Freunde und ich hätten gerne zuerst das Geld, das du uns schuldest."</DefaultText>
-      <FemaleText>Eine Gruppe von hart aussehenden Schlägern nähert sich dir von hinten. Angeführt wird sie von Ris, der höhnisch vor Tybir salutiert.
-
-"Hallo Tybir. Verlassen wir etwa die Stadt? Meine Freunde und ich hätten gerne zuerst das Geld, das du uns schuldest."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Er macht einen unfreiwilligen Schritt nach hinten und wendet sich den Schlägern zu. "Ich weiß nicht, was Ris dir erzählt hat, aber ich verspreche dir, dass ich nie für den Auftrag bezahlt wurde. Ich habe kein Geld, und mich zu verprügeln würde daran auch nichts ändern."</DefaultText>
-      <FemaleText>Er macht einen unfreiwilligen Schritt nach hinten und wendet sich den Schlägern zu. "Ich weiß nicht, was Ris dir erzählt hat, aber ich verspreche dir, dass ich nie für den Auftrag bezahlt wurde. Ich habe kein Geld, und mich zu verprügeln würde daran auch nichts ändern."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Glaubt ihm nicht, Gefährten. Er hat in seinem Leben noch nie die Wahrheit gesprochen."</DefaultText>
-      <FemaleText>"Glaubt ihm nicht, Gefährten. Er hat in seinem Leben noch nie die Wahrheit gesprochen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -46,7 +44,7 @@
     <Entry>
       <ID>8</ID>
       <DefaultText>"Kapitän Tybir steht unter meinem Schutz. Wollt ihr etwa den Zorn des *Wandelnden Gottes* erleben?"</DefaultText>
-      <FemaleText>"Kapitän Tybir steht unter meinem Schutz. Wollt ihr etwa den Zorn des *Wandelnden Gottes* erleben?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -65,7 +63,7 @@
     <Entry>
       <ID>11</ID>
       <DefaultText>"Kommt zurück, ihr Feiglinge!"</DefaultText>
-      <FemaleText>"Kommt zurück, ihr Feiglinge!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -83,7 +81,7 @@ Sie treten übereilt den Rückzug an und Ris jagt ihnen nach.</FemaleText>
     <Entry>
       <ID>13</ID>
       <DefaultText>Ris und seine Gefährten lachen. "Er ist nicht der Wandelnde Gott. Er ist einfach nur ein weiterer Tölpel, den du dazu gebracht hast, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verschlagen. Dich wegen Schurkerei, und ihn wegen Leichtgläubigkeit."</DefaultText>
-      <FemaleText>Ris und seine Gefährten lachen. "Er ist nicht der Wandelnde Gott. Er ist einfach nur ein weiterer Tölpel, den du dazu gebracht hast, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verschlagen. Dich wegen Schurkerei, und ihn wegen Leichtgläubigkeit."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
@@ -93,26 +91,24 @@ Sie treten übereilt den Rückzug an und Ris jagt ihnen nach.</FemaleText>
     <Entry>
       <ID>15</ID>
       <DefaultText>[Angriff] "Wenn ihr meine Freunde bedroht, dann bedroht ihr auch mich. Zieht eure Waffen oder geht."</DefaultText>
-      <FemaleText>[Angriff] "Wenn ihr meine Freunde bedroht, dann bedroht ihr auch mich. Zieht eure Waffen oder geht."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>"Schnappt sie euch!"</DefaultText>
-      <FemaleText>"Schnappt sie euch!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"Diese Verschärfung kann ich nicht gebrauchen. Du bist auf dich allein gestellt, Tybir."</DefaultText>
-      <FemaleText>"Diese Verschärfung kann ich nicht gebrauchen. Du bist auf dich allein gestellt, Tybir."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>"Was?", sagt Tybir. "Nach all dem, was ich für dich getan habe? Das wirst du bereuen!"
 
 Er macht eine Pause und schiebt sich durch die Schläger. Sie folgen ihm auf den Fersen.</DefaultText>
-      <FemaleText>"Was?", sagt Tybir. "Nach all dem, was ich für dich getan habe? Das wirst du bereuen!"
-
-Er macht eine Pause und schiebt sich durch die Schläger. Sie folgen ihm auf den Fersen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -122,17 +118,17 @@ Er macht eine Pause und schiebt sich durch die Schläger. Sie folgen ihm auf den
     <Entry>
       <ID>20</ID>
       <DefaultText>"Schnappt ihn euch, Gefährten!"</DefaultText>
-      <FemaleText>"Schnappt ihn euch, Gefährten!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>"Aus dem Weg!"</DefaultText>
-      <FemaleText>"Aus dem Weg!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>[Kommt zurück, ihr faulen Bastarde!]</DefaultText>
-      <FemaleText>[Kommt zurück, ihr faulen Bastarde!]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
