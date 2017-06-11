@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Ihr beiden Levys ... ihr wurdet vorübergehend versetzt. Kommt mit mir."</DefaultText>
-      <FemaleText>"Ihr beiden Levys ... ihr wurdet vorübergehend versetzt. Kommt mit mir."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Das habe ich mir nur für dich aufgespart, Tybir!"</DefaultText>
-      <FemaleText>"Das habe ich mir nur für dich aufgespart, Tybir!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
