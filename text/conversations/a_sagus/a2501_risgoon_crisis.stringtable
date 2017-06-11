@@ -7,54 +7,53 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>[Der verärgerte Heuerling bereitet sich auf deinen Angriff vor und stolpert beinahe, als du versuchst, mit ihm zu sprechen]</DefaultText>
-      <FemaleText>[Der verärgerte Heuerling bereitet sich auf deinen Angriff vor und stolpert beinahe, als du versuchst, mit ihm zu sprechen]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>[Du hast seinen Freund getötet und der Charakter wird sich nicht von dir kaufen lassen. Er sinnt nur nach Rache]</DefaultText>
-      <FemaleText>[Du hast seinen Freund getötet und der Charakter wird sich nicht von dir kaufen lassen. Er sinnt nur nach Rache]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>[Bezahle]</DefaultText>
-      <FemaleText>[Bezahle]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>[gehen]</DefaultText>
-      <FemaleText>[gehen]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>["Die einfachste Mahlzeit, die wir seit Monaten verdient haben!"
 Er nimmt das Geld, gestikuliert zu seinem Freund und sie gehen]</DefaultText>
-      <FemaleText>["Die einfachste Mahlzeit, die wir seit Monaten verdient haben!"
-Er nimmt das Geld, gestikuliert zu seinem Freund und sie gehen]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>[Bitte ihn, den Versuch sein zu lassen, dich zu töten]</DefaultText>
-      <FemaleText>[Bitte ihn, den Versuch sein zu lassen, dich zu töten]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>["Tut mir leid, es ist nur Geschäft"]</DefaultText>
-      <FemaleText>["Tut mir leid, es ist nur Geschäft"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>[Ich verdopple Ris' Angebot!]</DefaultText>
-      <FemaleText>[Ich verdopple Ris' Angebot!]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>[Wirklich? Du zahlst [Global:a2501_PayOffRisGoons] Shin, nur um das Leben deiner Kumpel zu retten?]</DefaultText>
-      <FemaleText>[Wirklich? Du zahlst [Global:a2501_PayOffRisGoons] Shin, nur um das Leben deiner Kumpel zu retten?]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>[Vergiss es.]</DefaultText>
-      <FemaleText>[Vergiss es.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
@@ -64,7 +63,7 @@ Er nimmt das Geld, gestikuliert zu seinem Freund und sie gehen]</FemaleText>
     <Entry>
       <ID>15</ID>
       <DefaultText>[Nun, unsere Arbeit hier ist erledigt. Ich wünsche einen schönen Tag!]</DefaultText>
-      <FemaleText>[Nun, unsere Arbeit hier ist erledigt. Ich wünsche einen schönen Tag!]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
