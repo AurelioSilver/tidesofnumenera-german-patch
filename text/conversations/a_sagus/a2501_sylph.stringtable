@@ -604,7 +604,7 @@ Du erinnerst dich an ein Fragment uralter Technologiegeschichte, entdeckt von de
     <Entry>
       <ID>126</ID>
       <DefaultText>"Wer seid Ihr noch mal?"</DefaultText>
-      <FemaleText>"Wer seid Ihr noch mal?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
@@ -670,22 +670,22 @@ Sylphs Kopf ruckt in seine Richtung.</DefaultText>
     <Entry>
       <ID>140</ID>
       <DefaultText>"Edden, bist du da drin?"</DefaultText>
-      <FemaleText>"Edden, bist du da drin?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
       <DefaultText>"Edden, ich weiß, dass du da drin bist. Kannst du mich hören?"</DefaultText>
-      <FemaleText>"Edden, ich weiß, dass du da drin bist. Kannst du mich hören?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
       <DefaultText>Sie blinzelt langsam mit den Augen. Eines davon öffnet sich nicht mehr vollständig wieder. "Ich bin Sylph. Hast du mich mit jemandem verwechselt?"</DefaultText>
-      <FemaleText>Sie blinzelt langsam mit den Augen. Eines davon öffnet sich nicht mehr vollständig wieder. "Ich bin Sylph. Hast du mich mit jemandem verwechselt?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
       <DefaultText>"Ich bin ... Sylph", antwortet sie. Der Verstand des Aeon-Priesters scheint im Unterbewusstsein des Konstrukts verschwunden zu sein. Wer weiß, wann er wieder auftauchen wird.</DefaultText>
-      <FemaleText>"Ich bin ... Sylph", antwortet sie. Der Verstand des Aeon-Priesters scheint im Unterbewusstsein des Konstrukts verschwunden zu sein. Wer weiß, wann er wieder auftauchen wird.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
