@@ -244,16 +244,14 @@ Er ist tatsächlich ein 'Durchgang'.</DefaultText>
     <Entry>
       <ID>99</ID>
       <DefaultText>Studiere den Mann.</DefaultText>
-      <FemaleText>Studiere den Mann.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
       <DefaultText>Er meidet deinen Blick, als du näher herankommst, um ihn zu untersuchen. Stattdessen zuckt er zusammen, als ob deine Anwesenheit ihm irgendwie Schmerzen bereiten würde.
 
 Du siehst zu, wie er sich bewegt, und beobachtest das Zucken seiner Fingerspitzen. Du hörst ein schwaches, vibrierendes Flüstern, obwohl es nicht aus seinem Mund stammt.</DefaultText>
-      <FemaleText>Er meidet deinen Blick, als du näher herankommst, um ihn zu untersuchen. Stattdessen zuckt er zusammen, als ob deine Anwesenheit ihm irgendwie Schmerzen bereiten würde.
-
-Du siehst zu, wie er sich bewegt, und beobachtest das Zucken seiner Fingerspitzen. Du hörst ein schwaches, vibrierendes Flüstern, obwohl es nicht aus seinem Mund stammt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
