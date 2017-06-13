@@ -13,7 +13,7 @@
       <ID>2</ID>
       <DefaultText>Du siehst drei Gestalten in Roben vor dir stehen, die den Himmel nach ankommenden Schiffen oder den Eingang der Karawanserei nach neuen Besuchern absuchen. Einer von ihnen sieht dich kommen und stupst die anderen mit dem Ellbogen an. Alle drei drehen sich um und verbeugen sich gleichzeitig.
 
-"Meister", sagt ihr Anführer, "Wir haben von Eurer Ankunft in der Stadt erfahren und wir danken Euch dafür, dass Ihr uns die Ehre erweist. Wir sind der festen Überzeugung, dass Großes auf Euch wartet."</DefaultText>
+„Meister“, sagt ihr Anführer, „Wir haben von Eurer Ankunft in der Stadt erfahren und wir danken Euch dafür, dass Ihr uns die Ehre erweist. Wir sind der festen Überzeugung, dass Großes auf Euch wartet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,32 +28,32 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Mein Herr!" Der Mann stolpert über seine eigenen Beine. "Ihr beehrt uns wahrhaftig mit Eurer Anwesenheit!"</DefaultText>
-      <FemaleText>"Werte Dame!" Der Mann stolpert über seine eigenen Beine. "Ihr beehrt uns wahrhaftig mit Eurer Anwesenheit!"</FemaleText>
+      <DefaultText>„Mein Herr!“ Der Mann stolpert über seine eigenen Beine. „Ihr beehrt uns wahrhaftig mit Eurer Anwesenheit!“</DefaultText>
+      <FemaleText>„Werte Dame!“ Der Mann stolpert über seine eigenen Beine. „Ihr beehrt uns wahrhaftig mit Eurer Anwesenheit!“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ich muss Euch um Hilfe ersuchen. Erritis, der Junge mit dem goldenen Schimmer, ist mein treuherziger und geschätzter Begleiter. Bitte, würdet Ihr seine Schuld gegenüber Meister Rennio begleichen, damit er bei mir bleiben kann?"</DefaultText>
+      <DefaultText>„Ich muss Euch um Hilfe ersuchen. Erritis, der Junge mit dem goldenen Schimmer, ist mein treuherziger und geschätzter Begleiter. Bitte, würdet Ihr seine Schuld gegenüber Meister Rennio begleichen, damit er bei mir bleiben kann?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Kann ... nicht reden ... Heiliger." Er hat Mühe, unter der großen Last zu reden. "Die Freiheit Eures Freundes ... wichtiger ..."
+      <DefaultText>„Kann ... nicht reden ... Heiliger.“ Er hat Mühe, unter der großen Last zu reden. „Die Freiheit Eures Freundes ... wichtiger ...“
 
 Er taumelt grunzend davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Wir geben nicht auf, nur weil Ihr uns hintergangen habt!", faucht er. "Und wir müssen nicht nett zu Euch sein!"
+      <DefaultText>„Wir geben nicht auf, nur weil Ihr uns hintergangen habt!“, faucht er. „Und wir müssen nicht nett zu Euch sein!“
 
 Er wuchtet eine weitere Kiste hoch und stampft davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Und das dort ist ... Er schielt genau auf Matkina. "Sie ist es! Meine Brüder! Der neue Verstoßene reist mit Matkina höchstpersönlich! Zwei von ihnen, vereint!"</DefaultText>
-      <FemaleText>"Und das dort ist ... Er schielt genau auf Matkina. "Sie ist es! Meine Brüder! Die neue Verstoßene reist mit Matkina höchstpersönlich! Zwei von ihnen, vereint!"</FemaleText>
+      <DefaultText>„Und das dort ist ...“ Er schielt genau auf Matkina. „Sie ist es! Meine Brüder! Der neue Verstoßene reist mit Matkina höchstpersönlich! Zwei von ihnen, vereint!“</DefaultText>
+      <FemaleText>„Und das dort ist ...“ Er schielt genau auf Matkina. „Sie ist es! Meine Brüder! Die neue Verstoßene reist mit Matkina höchstpersönlich! Zwei von ihnen, vereint!“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -67,12 +67,12 @@ Er wuchtet eine weitere Kiste hoch und stampft davon.</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Wir sind die wahren Jünger des Wandelnden Gottes, Verräter. Wir dienen seinem heiligen Licht und suchen die Erleuchtung für unser Leben in seinen Taten und denen seiner Kind. Solche wie *Ihr* eingeschlossen, trotz allem."</DefaultText>
+      <DefaultText>„Wir sind die wahren Jünger des Wandelnden Gottes, Verräter. Wir dienen seinem heiligen Licht und suchen die Erleuchtung für unser Leben in seinen Taten und denen seiner Kind. Solche wie *Ihr* eingeschlossen, trotz allem.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Wir dienen unserem Schöpfer, dem Wandelnden Gott."</DefaultText>
+      <DefaultText>„Wir dienen unserem Schöpfer, dem Wandelnden Gott.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,12 +82,12 @@ Er wuchtet eine weitere Kiste hoch und stampft davon.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Erzählt mir etwas über Euch."</DefaultText>
+      <DefaultText>„Erzählt mir etwas über Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Erzählt mir nochmal etwas über Euch."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal etwas über Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,12 +97,12 @@ Er wuchtet eine weitere Kiste hoch und stampft davon.</DefaultText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Was tut Ihr hier?"</DefaultText>
+      <DefaultText>„Was tut Ihr hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Könnt Ihr mir noch einmal erzählen, was Ihr hier tut?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir noch einmal erzählen, was Ihr hier tut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,12 +127,12 @@ Er wuchtet eine weitere Kiste hoch und stampft davon.</DefaultText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Wir halten nach Eurem Schöpfer Ausschau. Wir führen Buch über die Anwesenheit Eurer Brüdern und Schwester, und ob sie dem rechten Pfad des Wandelnden Gottes oder dem abscheulichen Vorbild der Ersten Verstoßenen folgen. Die Heiligkeit dieses Ortes wird durch uns bewahrt ... und Ihr entweiht ihn. Er runzelt die Stirn."</DefaultText>
+      <DefaultText>„Wir halten nach Eurem Schöpfer Ausschau. Wir führen Buch über die Anwesenheit Eurer Brüdern und Schwester, und ob sie dem rechten Pfad des Wandelnden Gottes oder dem abscheulichen Vorbild der Ersten Verstoßenen folgen. Die Heiligkeit dieses Ortes wird durch uns bewahrt ... und Ihr entweiht ihn. Er runzelt die Stirn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Wir warten, halten Wache und führen Buch über die Aktivitäten Eurer Brüder und Schwestern."</DefaultText>
+      <DefaultText>„Wir warten, halten Wache und führen Buch über die Aktivitäten Eurer Brüder und Schwestern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -142,12 +142,12 @@ Er wuchtet eine weitere Kiste hoch und stampft davon.</DefaultText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Wir, wir ..." Er schluckt nervös. "Wir warten auf Eure Rückkehr, Heiliger. Es ist uns eine große Ehre, mit Eurer Anwesenheit gesegnet zu sein."</DefaultText>
+      <DefaultText>„Wir, wir ...“ Er schluckt nervös. „Wir warten auf Eure Rückkehr, Heiliger. Es ist uns eine große Ehre, mit Eurer Anwesenheit gesegnet zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Wir warten und halten Wache, Eure Heiligkeit. Wir bewundern die Geschicke der Welt und halten Ausschau nach Euren Kindern, damit wir unsere Aufzeichnungen akkurat niederschreiben können." Er verbeugt sich sehr tief. "Und nie hätten wir gedacht, dass Ihr unter uns weilen würdet."</DefaultText>
+      <DefaultText>„Wir warten und halten Wache, Eure Heiligkeit. Wir bewundern die Geschicke der Welt und halten Ausschau nach Euren Kindern, damit wir unsere Aufzeichnungen akkurat niederschreiben können.“ Er verbeugt sich sehr tief. „Und nie hätten wir gedacht, dass Ihr unter uns weilen würdet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,12 +157,12 @@ Er wuchtet eine weitere Kiste hoch und stampft davon.</DefaultText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Hattet Ihr eine Frage an mich?"</DefaultText>
+      <DefaultText>„Hattet Ihr eine Frage an mich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Hattet Ihr noch eine andere Frage an mich?"</DefaultText>
+      <DefaultText>„Hattet Ihr noch eine andere Frage an mich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,41 +172,41 @@ Er wuchtet eine weitere Kiste hoch und stampft davon.</DefaultText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Er öffnet seinen Mund und starrt dich an. "Ich ... nein, Eure ... Ich ... nein." Mit feuerrotem Gesicht senkt er seinen Blick zum Boden.</DefaultText>
+      <DefaultText>Er öffnet seinen Mund und starrt dich an. „Ich ... nein, Eure ... Ich ... nein.“ Mit feuerrotem Gesicht senkt er seinen Blick zum Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Diesmal kann er sich besser beherrschen.
 
-"Nein, Eure Heiligkeit. Ich denke nicht."</DefaultText>
+„Nein, Eure Heiligkeit. Ich denke nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ich suche nach der Verstoßenen Matkina."</DefaultText>
+      <DefaultText>„Ich suche nach der Verstoßenen Matkina.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Verfluchte Verräter ... wann werden wir es je lernen?"</DefaultText>
+      <DefaultText>„Verfluchte Verräter ... wann werden wir es je lernen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Er zuckt zusammen. "Sie ist nicht hier, Verräter. Wir haben lange nichts mehr von ihr gehört."</DefaultText>
+      <DefaultText>Er zuckt zusammen. „Sie ist nicht hier, Verräter. Wir haben lange nichts mehr von ihr gehört.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Verehrter Herr, ich wünschte, ich könnte Euch helfen. Wirklich. Aber ich habe lange nichts mehr von Eurer Schwester gehört." Er verbeugt sich.</DefaultText>
+      <DefaultText>„Verehrter Herr, ich wünschte, ich könnte Euch helfen. Wirklich. Aber ich habe lange nichts mehr von Eurer Schwester gehört.“ Er verbeugt sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Er verbeugt sich tief. "Ich bin untröstlich, Eure Heiligkeit, aber zu meinem größten Bedauern habe ich nichts gehört und kann Euch keinen Rat anbieten."
+      <DefaultText>Er verbeugt sich tief. „Ich bin untröstlich, Eure Heiligkeit, aber zu meinem größten Bedauern habe ich nichts gehört und kann Euch keinen Rat anbieten.“
 
-Er verbeugt sich noch ein Stückchen tiefer. "Aber ich hoffe, dass ich Euch anderweitig zu Diensten sein kann."</DefaultText>
+Er verbeugt sich noch ein Stückchen tiefer. „Aber ich hoffe, dass ich Euch anderweitig zu Diensten sein kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,12 +216,12 @@ Er verbeugt sich noch ein Stückchen tiefer. "Aber ich hoffe, dass ich Euch ande
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ich habe keine weiteren Fragen mehr. Lebt wohl."</DefaultText>
+      <DefaultText>„Ich habe keine weiteren Fragen mehr. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Eure Heiligkeit, meine Gefährten und ich werden uns dem niedersten Eurer Wünsche annehmen. Wir danken Euch für die Gelegenheit, Euch zu dienen, ungeachtet der Boshaftigkeit Eurer Bitte!"
+      <DefaultText>„Eure Heiligkeit, meine Gefährten und ich werden uns dem niedersten Eurer Wünsche annehmen. Wir danken Euch für die Gelegenheit, Euch zu dienen, ungeachtet der Boshaftigkeit Eurer Bitte!“
 
 Er gestikuliert in Richtung seiner Gefährten, die augenblicklich an Rennios Seite eilen.</DefaultText>
       <FemaleText />
@@ -233,17 +233,17 @@ Er gestikuliert in Richtung seiner Gefährten, die augenblicklich an Rennios Sei
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Uff!"</DefaultText>
+      <DefaultText>„Uff!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Ich danke Euch, verehrter Herr!"</DefaultText>
+      <DefaultText>„Ich danke Euch, verehrter Herr!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Lebt wohl, verehrter Herr."</DefaultText>
+      <DefaultText>„Lebt wohl, verehrter Herr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,23 +260,23 @@ Er gestikuliert in Richtung seiner Gefährten, die augenblicklich an Rennios Sei
       <ID>51</ID>
       <DefaultText>Du siehst drei Gestalten in Roben vor dir stehen, die den Himmel nach ankommenden Schiffen oder den Eingang der Karawanserei nach neuen Besuchern absuchen. Einer von ihnen begutachtet dich von oben bis unten. Er reißt die Augen auf, als er deine Tätowierung erblickt. Er stupst seine Kollegen mit dem Ellbogen an und verbeugt sich tief vor dir.
 
-"Verehrter Herr", sagt er. "Wir wussten nicht, dass ein neues Kind des Wandelnden Gottes unter uns weilt. Darf ich Euch bitten, mit den Anführern unseres Ordens, Casmeen und Mimeon zu sprechen? Ihr findet sie im Circus Minor."
+„Verehrter Herr“, sagt er. „Wir wussten nicht, dass ein neues Kind des Wandelnden Gottes unter uns weilt. Darf ich Euch bitten, mit den Anführern unseres Ordens, Casmeen und Mimeon zu sprechen? Ihr findet sie im Circus Minor.“
 
-Er verbeugt sich erneut. "Wie können wir Euch dienlich sein?"</DefaultText>
+Er verbeugt sich erneut. „Wie können wir Euch dienlich sein?“</DefaultText>
       <FemaleText>Du siehst drei Gestalten in Roben vor dir stehen, die den Himmel nach ankommenden Schiffen oder den Eingang der Karawanserei nach neuen Besuchern absuchen. Einer von ihnen begutachtet dich von oben bis unten. Er reißt die Augen auf, als er deine Tätowierung erblickt. Er stupst seine Kollegen mit dem Ellbogen an und verbeugt sich tief vor dir.
 
-"Verehrte Dame", sagt er. "Wir wussten nicht, dass ein neues Kind des Wandelnden Gottes unter uns weilt. Darf ich Euch bitten, mit den Anführern unseres Ordens, Casmeen und Mimeon zu sprechen? Ihr findet sie im Circus Minor."
+„Verehrte Dame“, sagt er. „Wir wussten nicht, dass ein neues Kind des Wandelnden Gottes unter uns weilt. Darf ich Euch bitten, mit den Anführern unseres Ordens, Casmeen und Mimeon zu sprechen? Ihr findet sie im Circus Minor.“
 
-Er verbeugt sich erneut. "Wie können wir Euch dienlich sein?"</FemaleText>
+Er verbeugt sich erneut. „Wie können wir Euch dienlich sein?“</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Habt Ihr Euch bereits mit Casmeen und Mimeon unterhalten? Sie wären entzückt, Euch zu sehen."</DefaultText>
+      <DefaultText>„Habt Ihr Euch bereits mit Casmeen und Mimeon unterhalten? Sie wären entzückt, Euch zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Es ist eine Ehre, Euch wiederzusehen, verehrter Herr." Er verbeugt sich.</DefaultText>
+      <DefaultText>„Es ist eine Ehre, Euch wiederzusehen, verehrter Herr.“ Er verbeugt sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,7 +288,7 @@ Er verbeugt sich erneut. "Wie können wir Euch dienlich sein?"</FemaleText>
       <ID>60</ID>
       <DefaultText>Du siehst drei Gestalten in Roben vor dir stehen, die den Himmel nach ankommenden Schiffen oder den Eingang der Karawanserei nach neuen Besuchern absuchen. Einer von ihnen sieht dich kommen und stupst die anderen mit dem Ellbogen an. Sie drehen sich um und werfen sich vor dir auf die Knie.
 
-Als die Figur anfängt, mit dir zu sprechen, kannst du förmlich spüren, wie sie zittert. "O Eure Heiligkeit, wir haben von Eurer Anwesenheit in der Stadt erfahren, aber wir hätten nicht einmal gewagt, davon zu träumen, dass Ihr uns mit Euren Antlitz beehrt."</DefaultText>
+Als die Figur anfängt, mit dir zu sprechen, kannst du förmlich spüren, wie sie zittert. „O Eure Heiligkeit, wir haben von Eurer Anwesenheit in der Stadt erfahren, aber wir hätten nicht einmal gewagt, davon zu träumen, dass Ihr uns mit Euren Antlitz beehrt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -300,13 +300,13 @@ Als die Figur anfängt, mit dir zu sprechen, kannst du förmlich spüren, wie si
       <ID>63</ID>
       <DefaultText>Du siehst drei Gestalten in Roben vor dir stehen, die den Himmel nach ankommenden Schiffen oder den Eingang der Karawanserei nach neuen Besuchern absuchen. Einer von ihnen sieht dich kommen und stupst die anderen mit dem Ellbogen an. Alle drei drehen sich um und verbeugen sich gleichzeitig.
 
-"Verehrter Herr ... Bruder!", sagt ihr Anführer, "Wir haben von Eurer Ankunft in der Stadt gehört, und wir danken Euch dafür, dass Ihr uns mir Eurer Anwesenheit beehrt. Es fällt uns immer noch schwer, zu glauben, dass Ihr unserer Gemeinschaft beigetreten seid. Ihr beehrt uns somit doppelt. Wie können wir Euch dienlich sein?"</DefaultText>
+„Verehrter Herr ... Bruder!“, sagt ihr Anführer, „Wir haben von Eurer Ankunft in der Stadt gehört, und wir danken Euch dafür, dass Ihr uns mir Eurer Anwesenheit beehrt. Es fällt uns immer noch schwer, zu glauben, dass Ihr unserer Gemeinschaft beigetreten seid. Ihr beehrt uns somit doppelt. Wie können wir Euch dienlich sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Noch einmal willkommen, Bruder!"</DefaultText>
-      <FemaleText>"Noch einmal willkommen, Schwester!"</FemaleText>
+      <DefaultText>„Noch einmal willkommen, Bruder!“</DefaultText>
+      <FemaleText>„Noch einmal willkommen, Schwester!“</FemaleText>
     </Entry>
     <Entry>
       <ID>66</ID>
@@ -315,12 +315,12 @@ Als die Figur anfängt, mit dir zu sprechen, kannst du förmlich spüren, wie si
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Ein breites Lächeln. "Wir sind Eure wahren Diener, Eure Heiligkeit, und nur darauf bedacht, Euer Licht und Eure Wahrheit in die Weiten der Neunten Welt hinauszutragen. Wir wünschen uns nichts mehr, als von Eurer Vision, Eurer Gnade und Eurer Stärke erfüllt zu werden." Er verbeugt sich noch einmal tief vor dir.</DefaultText>
+      <DefaultText>Ein breites Lächeln. „Wir sind Eure wahren Diener, Eure Heiligkeit, und nur darauf bedacht, Euer Licht und Eure Wahrheit in die Weiten der Neunten Welt hinauszutragen. Wir wünschen uns nichts mehr, als von Eurer Vision, Eurer Gnade und Eurer Stärke erfüllt zu werden.“ Er verbeugt sich noch einmal tief vor dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Eure getreuen Diener, die auf Eure Anweisungen warten, Eure Heiligkeit. Nichts erfüllt uns mit mehr Freude, als Euch in jeglichen Belangen zu dienen."</DefaultText>
+      <DefaultText>„Eure getreuen Diener, die auf Eure Anweisungen warten, Eure Heiligkeit. Nichts erfüllt uns mit mehr Freude, als Euch in jeglichen Belangen zu dienen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,12 +330,12 @@ Als die Figur anfängt, mit dir zu sprechen, kannst du förmlich spüren, wie si
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Wir sind die Diener Eures Schöpfers, verehrter Herr. Er war es, der Euch zu Eurer Inkarnation verholfen hat. Er vermag den Verlauf der Geschichte zu verändern, und nicht einmal der Tod kann ihn aufhalten. Er ist der Retter der Menschheit, und wir streben danach, auf seinen Wegen zu wandeln."</DefaultText>
+      <DefaultText>„Wir sind die Diener Eures Schöpfers, verehrter Herr. Er war es, der Euch zu Eurer Inkarnation verholfen hat. Er vermag den Verlauf der Geschichte zu verändern, und nicht einmal der Tod kann ihn aufhalten. Er ist der Retter der Menschheit, und wir streben danach, auf seinen Wegen zu wandeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Wir sind die Diener Eures Schöpfers, verehrter Herr."</DefaultText>
+      <DefaultText>„Wir sind die Diener Eures Schöpfers, verehrter Herr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -345,27 +345,27 @@ Als die Figur anfängt, mit dir zu sprechen, kannst du förmlich spüren, wie si
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Wir halten Ausschau nach Eurem Schöpfer, verehrter Herr, und beobachten das Ein- und Ausgehen seiner Verstoßenen. Da wir uns hier an belebten Reiseroute befinden, hatten wir gehofft, mehr von Euren Brüdern und Schwestern antreffen zu können - leider vergeblich, wie sich herausstellte. Und doch seid Ihr nun hier. Es ist eine Freude, Euch zu sehen. Er verbeugt sich."</DefaultText>
-      <FemaleText>"Wir halten Ausschau nach Eurem Schöpfer, verehrte Dame, und beobachten das Ein- und Ausgehen seiner Verstoßenen. Da wir uns hier an belebten Reiseroute befinden, hatten wir gehofft, mehr von Euren Brüdern und Schwestern antreffen zu können - leider vergeblich, wie sich herausstellte. Und doch seid Ihr nun hier. Es ist eine Freude, Euch zu sehen. Er verbeugt sich."</FemaleText>
+      <DefaultText>„Wir halten Ausschau nach Eurem Schöpfer, verehrter Herr, und beobachten das Ein- und Ausgehen seiner Verstoßenen. Da wir uns hier an belebten Reiseroute befinden, hatten wir gehofft, mehr von Euren Brüdern und Schwestern antreffen zu können - leider vergeblich, wie sich herausstellte. Und doch seid Ihr nun hier. Es ist eine Freude, Euch zu sehen. Er verbeugt sich.“</DefaultText>
+      <FemaleText>„Wir halten Ausschau nach Eurem Schöpfer, verehrte Dame, und beobachten das Ein- und Ausgehen seiner Verstoßenen. Da wir uns hier an belebten Reiseroute befinden, hatten wir gehofft, mehr von Euren Brüdern und Schwestern antreffen zu können - leider vergeblich, wie sich herausstellte. Und doch seid Ihr nun hier. Es ist eine Freude, Euch zu sehen. Er verbeugt sich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Wir halten Ausschau und hoffen darauf, eines Eurer Geschwister hier zu entdecken. Wenn der Wandelnde Gott selbst uns doch nur beehren würde ... wir wären außer uns vor Freude!" Er seufzt.</DefaultText>
+      <DefaultText>„Wir halten Ausschau und hoffen darauf, eines Eurer Geschwister hier zu entdecken. Wenn der Wandelnde Gott selbst uns doch nur beehren würde ... wir wären außer uns vor Freude!“ Er seufzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Die Ehre ist ganz unsererseits, Eure Heiligkeit."</DefaultText>
+      <DefaultText>„Die Ehre ist ganz unsererseits, Eure Heiligkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Möge das Licht des Wandelnden Gottes Euch leuchten, Verräter."</DefaultText>
+      <DefaultText>„Möge das Licht des Wandelnden Gottes Euch leuchten, Verräter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Wie können wir Euch dienlich sein?"</DefaultText>
+      <DefaultText>„Wie können wir Euch dienlich sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -377,12 +377,12 @@ Als die Figur anfängt, mit dir zu sprechen, kannst du förmlich spüren, wie si
       <ID>81</ID>
       <DefaultText>Du siehst drei Gestalten in Roben vor dir stehen, die den Himmel nach ankommenden Schiffen oder den Eingang der Karawanserei nach neuen Besuchern absuchen. Einer von ihnen sieht dich kommen und stupst die anderen mit dem Ellbogen an. Sie drehen sich um und starren dich an.
 
-Nach einer langen Pause sagt ihr Anführer schließlich: "Der Verräter beehrt uns also in der Karawanserei." "Damit hätten wir rechnen müssen." Er schluckt. "Und doch können wir nicht anders, als Eure Bitten zu erfüllen."</DefaultText>
+Nach einer langen Pause sagt ihr Anführer schließlich: „Der Verräter beehrt uns also in der Karawanserei. Damit hätten wir rechnen müssen.“ Er schluckt. „Und doch können wir nicht anders, als Eure Bitten zu erfüllen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Sein Mund offenbart seinen Ekel. "Ihr seid zurück. Was können wir für Euch tun?"</DefaultText>
+      <DefaultText>Sein Mund offenbart seinen Ekel. „Ihr seid zurück. Was können wir für Euch tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -392,32 +392,32 @@ Nach einer langen Pause sagt ihr Anführer schließlich: "Der Verräter beehrt u
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Und natürlich auch für Euch, meine Dame." Er neigt seinen Kopf in Matkinas Richtung.</DefaultText>
+      <DefaultText>„Und natürlich auch für Euch, meine Dame.“ Er neigt seinen Kopf in Matkinas Richtung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Und Ihr habt Euch darüber gewundert, dass ich mich in der Grotte der Letzten Worte versteckt hatte."</DefaultText>
+      <DefaultText>„Und Ihr habt Euch darüber gewundert, dass ich mich in der Grotte der Letzten Worte versteckt hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Die abscheuliche Erste Verstoßene? Möglicherweise seid Ihr Kultisten gar nicht so übel."</DefaultText>
+      <DefaultText>„Die abscheuliche Erste Verstoßene? Möglicherweise seid Ihr Kultisten gar nicht so übel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Meine Dame, auch wenn wir Eure Klinge fürchten, so verehren und respektieren wir Euch doch." Er verbeugt sich. "Ich möchte Mimeon davon berichten, dass Ihr das Erbe der Ersten Verstoßenen kategorisch ablehnt."</DefaultText>
+      <DefaultText>„Meine Dame, auch wenn wir Eure Klinge fürchten, so verehren und respektieren wir Euch doch.“ Er verbeugt sich. „Ich möchte Mimeon davon berichten, dass Ihr das Erbe der Ersten Verstoßenen kategorisch ablehnt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Wenn ihr mit *kategorisch ablehnen* meint, dass ich Ihr mit Freuden die Haut von ihrem verbleibenden Körper abgezogen hätte, dann ja. Das trifft es sehr gut. Zumindest bleibt mir die Freude, auf ihrem Grab zu tanzen."</DefaultText>
+      <DefaultText>„Wenn ihr mit *kategorisch ablehnen* meint, dass ich Ihr mit Freuden die Haut von ihrem verbleibenden Körper abgezogen hätte, dann ja. Das trifft es sehr gut. Zumindest bleibt mir die Freude, auf ihrem Grab zu tanzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"N-Natürlich, meine Dame."</DefaultText>
+      <DefaultText>„N-Natürlich, meine Dame.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -427,29 +427,29 @@ Nach einer langen Pause sagt ihr Anführer schließlich: "Der Verräter beehrt u
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Habt Ihr in letzter Zeit eine schöne Frau mit purpurnen Haaren in der Gegend gesehen?"</DefaultText>
+      <DefaultText>„Habt Ihr in letzter Zeit eine schöne Frau mit purpurnen Haaren in der Gegend gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Möglicherweise, Verräter. Ich glaube, eine solche Frau dabei beobachtet zu haben, wie sie von einem Luftschiff herabstieg." Hastig zeigt er mit einem Finger in diese Richtung, offensichtlich in der Hoffnung, dich damit schnell los zu werden.</DefaultText>
+      <DefaultText>„Möglicherweise, Verräter. Ich glaube, eine solche Frau dabei beobachtet zu haben, wie sie von einem Luftschiff herabstieg.“ Hastig zeigt er mit einem Finger in diese Richtung, offensichtlich in der Hoffnung, dich damit schnell los zu werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Mir liegt es fern, über Eure Auffassung von Schönheit zu urteilen, Eure Heiligkeit ... aber ja, ich denke, ich habe gesehen, wie eine Frau mit purpurnen Haaren aus einem vollgepackten Luftschiff ausgestiegen ist. Das ist bereits eine Weile her."
+      <DefaultText>„Mir liegt es fern, über Eure Auffassung von Schönheit zu urteilen, Eure Heiligkeit ... aber ja, ich denke, ich habe gesehen, wie eine Frau mit purpurnen Haaren aus einem vollgepackten Luftschiff ausgestiegen ist. Das ist bereits eine Weile her.“
 
 Er gestikuliert in Richtung der Docks, sichtlich erfreut darüber, dass er dir weiterhelfen konnte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Ich bin nicht sicher, Geliebtes Gefäß", sagt er, und berührt gedankenverloren sein Kinn mit einem Finger. "Vielleicht ... Ich glaube, vor einer Weile beobachtet zu haben, wie eine Frau, auf die Eure Beschreibung zutreffen würde, von einem Luftschiff stieg. Aber ich bin mir nicht vollkommen sicher."</DefaultText>
+      <DefaultText>„Ich bin nicht sicher, Geliebtes Gefäß“, sagt er, und berührt gedankenverloren sein Kinn mit einem Finger. „Vielleicht ... Ich glaube, vor einer Weile beobachtet zu haben, wie eine Frau, auf die Eure Beschreibung zutreffen würde, von einem Luftschiff stieg. Aber ich bin mir nicht vollkommen sicher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Ich weiß nicht, wohin sie gegangen ist, doch Reisende von weit her steigen häufig im Gasthaus von Ruhe ab."</DefaultText>
+      <DefaultText>„Ich weiß nicht, wohin sie gegangen ist, doch Reisende von weit her steigen häufig im Gasthaus von Ruhe ab.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
