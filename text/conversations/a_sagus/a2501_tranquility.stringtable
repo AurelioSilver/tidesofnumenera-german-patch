@@ -8,13 +8,13 @@
       <ID>1</ID>
       <DefaultText>Eine große, würdevolle Frau tritt nach vorne, um dich zu grüßen. Sie verbeugt sich und sieht dann mit ihren golden schimmernden Augen zu dir herunter.
 
-"Willkommen", sagt sie, "in der Herberge der Ruhe. Ich bin die Inhaberin, Ruhe. Sucht Ihr nach einem Ort, an dem Ihr Euch erholen könnt?"</DefaultText>
+„Willkommen“, sagt sie, „in der Herberge der Ruhe. Ich bin die Inhaberin, Ruhe. Sucht Ihr nach einem Ort, an dem Ihr Euch erholen könnt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Ruhe verbeugt sich, als du eintrittst. "Willkommen zurück, Freund. Ihr wurdet vermisst."</DefaultText>
-      <FemaleText>Ruhe verbeugt sich, als du eintrittst. "Willkommen zurück, Freundin. Ihr wurdet vermisst."</FemaleText>
+      <DefaultText>Ruhe verbeugt sich, als du eintrittst. „Willkommen zurück, Freund. Ihr wurdet vermisst.“</DefaultText>
+      <FemaleText>Ruhe verbeugt sich, als du eintrittst. „Willkommen zurück, Freundin. Ihr wurdet vermisst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -23,7 +23,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Ein wohlklingendes Lachen ertönt. "Ihr müsst Euch nicht entschuldigen. Das ist eine ganz natürliche Frage, wenn man meine Größe bedenkt. Ich bin in der Tat ein Mensch - ein menschlicher Mutant, und ich habe das Glück, hier in den Sagus-Klippen zu leben, wo dieser Umstand keine Straftat darstellt. Es gibt nur wenige Orte in dieser Welt, an denen jemand wie ich eine Herberge betreuen, geschweige denn führen, darf."</DefaultText>
+      <DefaultText>Ein wohlklingendes Lachen ertönt. „Ihr müsst Euch nicht entschuldigen. Das ist eine ganz natürliche Frage, wenn man meine Größe bedenkt. Ich bin in der Tat ein Mensch - ein menschlicher Mutant, und ich habe das Glück, hier in den Sagus-Klippen zu leben, wo dieser Umstand keine Straftat darstellt. Es gibt nur wenige Orte in dieser Welt, an denen jemand wie ich eine Herberge betreuen, geschweige denn führen, darf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -38,49 +38,49 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Euer Parfüm scheint so etwas wie Pheromone zu enthalten. Versucht Ihr, mich zu manipulieren?"</DefaultText>
+      <DefaultText>„Euer Parfüm scheint so etwas wie Pheromone zu enthalten. Versucht Ihr, mich zu manipulieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Sie lächelt leicht. "Wenn Ihr ihre beruhigende Wirkung als Manipulation bezeichnen wollt, dann tue ich das wohl. Aber das ist auch schon alles. Damit kontrolliere oder beeinflusse ich keine Gedanken. Mein Duft scheint die Leute um mich herum ... zu entspannen. Das - und ein anderer Trick, den ich gelernt habe - hat mich davon überzeugt, dass ich eine erfolgreiche Herberge leiten könnte."</DefaultText>
+      <DefaultText>Sie lächelt leicht. „Wenn Ihr ihre beruhigende Wirkung als Manipulation bezeichnen wollt, dann tue ich das wohl. Aber das ist auch schon alles. Damit kontrolliere oder beeinflusse ich keine Gedanken. Mein Duft scheint die Leute um mich herum ... zu entspannen. Das - und ein anderer Trick, den ich gelernt habe - hat mich davon überzeugt, dass ich eine erfolgreiche Herberge leiten könnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Der Klang Eurer Stimme beruhigt mich. Habt Ihr das gelernt?"</DefaultText>
+      <DefaultText>„Der Klang Eurer Stimme beruhigt mich. Habt Ihr das gelernt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Sie hebt eine Augenbraue an. "Nur wenige Menschen nehmen davon Notiz. Gut gemacht. Ich manipuliere in der Tat meine Stimme. Als ich dieses Geschäft hier eröffnet habe, wollte ich es zum entspanntesten Ort in der ganzen Neunten Welt machen. Alles an ihm sollte beruhigend wirken, sogar meine Stimme." Ein mysteriöses Lächeln ziert ihr Gesicht. "Das ist aber nicht das einzige meiner Talente, das mir dabei geholfen hat."</DefaultText>
+      <DefaultText>Sie hebt eine Augenbraue an. „Nur wenige Menschen nehmen davon Notiz. Gut gemacht. Ich manipuliere in der Tat meine Stimme. Als ich dieses Geschäft hier eröffnet habe, wollte ich es zum entspanntesten Ort in der ganzen Neunten Welt machen. Alles an ihm sollte beruhigend wirken, sogar meine Stimme.“ Ein mysteriöses Lächeln ziert ihr Gesicht. „Das ist aber nicht das einzige meiner Talente, das mir dabei geholfen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Könntet Ihr Eure beruhigenden Kräfte dazu benutzen, mich in eine Trance zu versetzen?"</DefaultText>
+      <DefaultText>„Könntet Ihr Eure beruhigenden Kräfte dazu benutzen, mich in eine Trance zu versetzen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Das scheint sie zu belustigen. "Niemand hat mich je nach so etwas gefragt, und normalerweise würde ich aus Angst vor ... Komplikationen oder ihren folgen wohl ablehnen. Aber ich kann so etwas wie eine Affinität zwischen uns spüren, eine Liebenswürdigkeit, die uns beiden anheim ist. Ich glaube nicht, dass ich Euch damit schaden könnte. Und wenn Ihr davon überzeugt seid, dass Ich Euch helfen kann, dann werde ich es tun."
+      <DefaultText>Das scheint sie zu belustigen. „Niemand hat mich je nach so etwas gefragt, und normalerweise würde ich aus Angst vor ... Komplikationen oder ihren folgen wohl ablehnen. Aber ich kann so etwas wie eine Affinität zwischen uns spüren, eine Liebenswürdigkeit, die uns beiden anheim ist. Ich glaube nicht, dass ich Euch damit schaden könnte. Und wenn Ihr davon überzeugt seid, dass Ich Euch helfen kann, dann werde ich es tun.“
 
-Sie streckt ihre Hände nach dir aus. "Jetzt nehmt meine Hände und schließt Eure Augen."</DefaultText>
+Sie streckt ihre Hände nach dir aus. „Jetzt nehmt meine Hände und schließt Eure Augen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Das scheint sie zu belustigen. "Niemand hat mich je nach so etwas gefragt, und ..." Sie schüttelt den Kopf. "So interessant Euer Vorschlag auch klingen mag, ich muss ihn leider ablehnen. Nicht auszudenken, welche Komplikationen dabei entstehen könnten - und vor welchen Rachegelüsten ich mich dann in Acht nehmen müsste."</DefaultText>
+      <DefaultText>Das scheint sie zu belustigen. „Niemand hat mich je nach so etwas gefragt, und ...“ Sie schüttelt den Kopf. „So interessant Euer Vorschlag auch klingen mag, ich muss ihn leider ablehnen. Nicht auszudenken, welche Komplikationen dabei entstehen könnten - und vor welchen Rachegelüsten ich mich dann in Acht nehmen müsste.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ich bitte Euch. Ich verspreche, Euch nicht die Schuld dafür zu geben, wenn etwas schief läuft. Seid Ihr nicht auch neugierig zu sehen, was passieren wird?"</DefaultText>
+      <DefaultText>„Ich bitte Euch. Ich verspreche, Euch nicht die Schuld dafür zu geben, wenn etwas schief läuft. Seid Ihr nicht auch neugierig zu sehen, was passieren wird?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Sie zögert erst und nickt dann. "Nun gut, wenn Ihr mich tatsächlich von jeder Schuld befreit, werde ich es tun." Sie streckt ihre Hände nach dir aus. "Jetzt nehmt meine Hände und schließt Eure Augen."</DefaultText>
+      <DefaultText>Sie zögert erst und nickt dann. „Nun gut, wenn Ihr mich tatsächlich von jeder Schuld befreit, werde ich es tun.“ Sie streckt ihre Hände nach dir aus. „Jetzt nehmt meine Hände und schließt Eure Augen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,92 +90,92 @@ Sie streckt ihre Hände nach dir aus. "Jetzt nehmt meine Hände und schließt Eu
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Sie lacht. "Gut. Eure Neugierde hat die meine geweckt. Wir werden diese neue Erfahrung miteinander teilen."
+      <DefaultText>Sie lacht. „Gut. Eure Neugierde hat die meine geweckt. Wir werden diese neue Erfahrung miteinander teilen.“
 
-Sie streckt ihre Hände nach dir aus. "Jetzt nehmt meine Hände und schließt Eure Augen."</DefaultText>
+Sie streckt ihre Hände nach dir aus. „Jetzt nehmt meine Hände und schließt Eure Augen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Ein kurzes Aufflackern von Wut durchbricht ihre Ruhe, verschwindet aber sofort wieder und hinterlässt einen ernsten Blick. "Ich habe zu viel Zeit damit verbracht, meine Herberge als einen Ort der Ruhe und Sicherheit bekannt zu machen. Das werde ich nicht für die Allüren eines Fremden aufs Spiel setzen. Reden wir über etwas anderes."
+      <DefaultText>Ein kurzes Aufflackern von Wut durchbricht ihre Ruhe, verschwindet aber sofort wieder und hinterlässt einen ernsten Blick. „Ich habe zu viel Zeit damit verbracht, meine Herberge als einen Ort der Ruhe und Sicherheit bekannt zu machen. Das werde ich nicht für die Allüren eines Fremden aufs Spiel setzen. Reden wir über etwas anderes.“
 
 {SCRIPT: Player can't try the DT on node 234 again.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Ruhe lächelt. "Natürlich. Jetzt wo wir wissen, dass es sicher und nützlich ist."
+      <DefaultText>Ruhe lächelt. „Natürlich. Jetzt wo wir wissen, dass es sicher und nützlich ist.“
 
 Sie nimmt wieder deine Hand und beginnt zu singen. Im Bruchteil einer Sekunde werden deine Augen schwerer, bis sie sich endlich komplett schließen ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ich wünsche eine angenehme Reise."</DefaultText>
+      <DefaultText>„Ich wünsche eine angenehme Reise.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich suche nach einer Frau namens Perseia. Sie hat purpurnes Haar und sie ist für ihre Schönheit bekannt. Habt Ihr sie gesehen?"</DefaultText>
+      <DefaultText>„Ich suche nach einer Frau namens Perseia. Sie hat purpurnes Haar und sie ist für ihre Schönheit bekannt. Habt Ihr sie gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Sie lächelt traurig. "Vielleicht? Viele Menschen finden sich hier ein, und diese Frau könnte unter ihnen gewesen sein, aber ich erinnere mich nicht an sie. Tut mir leid."</DefaultText>
+      <DefaultText>Sie lächelt traurig. „Vielleicht? Viele Menschen finden sich hier ein, und diese Frau könnte unter ihnen gewesen sein, aber ich erinnere mich nicht an sie. Tut mir leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ich habe diesen Kamm in einem Eurer Räume gefunden. Wisst Ihr, wem er gehört?"</DefaultText>
+      <DefaultText>„Ich habe diesen Kamm in einem Eurer Räume gefunden. Wisst Ihr, wem er gehört?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Ich fürchte nicht. Wir haben hier viele Besucher. Es könnte jeder von ihnen gewesen sein."</DefaultText>
+      <DefaultText>Sie schüttelt den Kopf. „Ich fürchte nicht. Wir haben hier viele Besucher. Es könnte jeder von ihnen gewesen sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich habe einen Kamm in einem Eurer Räume gefunden und ihn Omahdon gezeigt. Er ist sich sicher, dass er Perseia gehört. Sie war hier, oder?"</DefaultText>
+      <DefaultText>„Ich habe einen Kamm in einem Eurer Räume gefunden und ihn Omahdon gezeigt. Er ist sich sicher, dass er Perseia gehört. Sie war hier, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Omahdon mag dem Irrglauben erlegen sein, dass sie seine einzig wahre Liebe ist, aber was ihn treibt ist Besessenheit, nicht Liebe. Er ist zu einem Monster geworden."
+      <DefaultText>„Omahdon mag dem Irrglauben erlegen sein, dass sie seine einzig wahre Liebe ist, aber was ihn treibt ist Besessenheit, nicht Liebe. Er ist zu einem Monster geworden.“
 
-Sie seufzt. "Dem nach zu urteilen, was Perseia mir erzählt hat, hat er ihre Leiche in einem Grab im Tal der Toten Helden gefunden, perfekt konserviert durch uralte Technologien, und er war sofort ihrer Schönheit erlegen. Seine Torheit hätte damit enden können, aber nein, Omahdon war selbst im Besitz von uralten Technologien, mit denen er sie von den Toten auferstehen lassen konnte."</DefaultText>
+Sie seufzt. „Dem nach zu urteilen, was Perseia mir erzählt hat, hat er ihre Leiche in einem Grab im Tal der Toten Helden gefunden, perfekt konserviert durch uralte Technologien, und er war sofort ihrer Schönheit erlegen. Seine Torheit hätte damit enden können, aber nein, Omahdon war selbst im Besitz von uralten Technologien, mit denen er sie von den Toten auferstehen lassen konnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Perseia hat ihm ihr Leben zu verdanken. Was auch immer sonst er getan hat, dieser Umstand sollt etwas wert sein."</DefaultText>
+      <DefaultText>„Perseia hat ihm ihr Leben zu verdanken. Was auch immer sonst er getan hat, dieser Umstand sollt etwas wert sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ja. Liebe kann nicht durch eine Verpflichtung gewonnen werden. Sie muss frei und zwanglos vergeben werden."</DefaultText>
+      <DefaultText>„Ja. Liebe kann nicht durch eine Verpflichtung gewonnen werden. Sie muss frei und zwanglos vergeben werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Glaubt Ihr das wirklich?" Sie sieht dich erneut an, mit gehobener Augenbraue. "Und das, nachdem Ihr von Omahdons Verfolgungswahn gehört habt? Ihr bereitet mir Sorgen."
+      <DefaultText>„Glaubt Ihr das wirklich?“ Sie sieht dich erneut an, mit gehobener Augenbraue. „Und das, nachdem Ihr von Omahdons Verfolgungswahn gehört habt? Ihr bereitet mir Sorgen.“
 
-Sie begutachtet dich von oben bis unten. "Was wollt ihr jetzt tun?"</DefaultText>
+Sie begutachtet dich von oben bis unten. „Was wollt ihr jetzt tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ich glaube, dass seine Liebe zu ihr echt ist. Er würde Perseia niemals verletzen. Er will nur das Beste für sie."</DefaultText>
+      <DefaultText>„Ich glaube, dass seine Liebe zu ihr echt ist. Er würde Perseia niemals verletzen. Er will nur das Beste für sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ob ungefragt oder nicht, er hat ihr immer noch das Leben geschenkt. Dafür verdient er eine zweite Chance, sich ihr zu beweisen."</DefaultText>
+      <DefaultText>„Ob ungefragt oder nicht, er hat ihr immer noch das Leben geschenkt. Dafür verdient er eine zweite Chance, sich ihr zu beweisen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -185,9 +185,9 @@ Sie begutachtet dich von oben bis unten. "Was wollt ihr jetzt tun?"</DefaultText
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Sie blickt zum Boden und wägt deine Worte ab. "Gut. Ich glaube, dass Ihr wirklich daran interessiert seid, zu helfen, also nehme ich Euch beim Wort und vertraue auf Omahdons guten Willen. Ich hoffe, dass ich nicht bereuen werde, Euch ihren Aufenthaltsort verraten zu haben."
+      <DefaultText>Sie blickt zum Boden und wägt deine Worte ab. „Gut. Ich glaube, dass Ihr wirklich daran interessiert seid, zu helfen, also nehme ich Euch beim Wort und vertraue auf Omahdons guten Willen. Ich hoffe, dass ich nicht bereuen werde, Euch ihren Aufenthaltsort verraten zu haben.“
 
-Sie hebt ihren Blick und trifft damit den deinen. "Sie ist wieder zurück im Tal der Toten Helden. Dort werdet Ihr sie finden."</DefaultText>
+Sie hebt ihren Blick und trifft damit den deinen. „Sie ist wieder zurück im Tal der Toten Helden. Dort werdet Ihr sie finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,7 +207,7 @@ Sie hebt ihren Blick und trifft damit den deinen. "Sie ist wieder zurück im Tal
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Sie grübelt lange nach und stößt endlich einen Seufzer aus. "Ich bin mir bei dieser Sache wirklich nicht sicher, aber das Leben ist ohne jeden Zweifel ein großartiges Geschenk. Ich nehme an, sie schuldet ihm eine zweite Chance, seine Liebe zu ihr zu beweisen. Nun gut. Perseia ist ins Tal der Toten Helden zurückgegangen. Dort werdet Ihr sie finden."</DefaultText>
+      <DefaultText>Sie grübelt lange nach und stößt endlich einen Seufzer aus. „Ich bin mir bei dieser Sache wirklich nicht sicher, aber das Leben ist ohne jeden Zweifel ein großartiges Geschenk. Ich nehme an, sie schuldet ihm eine zweite Chance, seine Liebe zu ihr zu beweisen. Nun gut. Perseia ist ins Tal der Toten Helden zurückgegangen. Dort werdet Ihr sie finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,26 +217,26 @@ Sie hebt ihren Blick und trifft damit den deinen. "Sie ist wieder zurück im Tal
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Sie denkt über deine Idee nach und zuckt dann mit den Schultern. "Solange es nur das ist, und nicht ein weiterer Versuch, sie zu entführen, kann es wohl nicht schaden, ihm eine weitere Chance zu geben. Nun gut. Perseia ist ins Tal der Toten Helden zurückgegangen. Dort werdet Ihr sie finden."</DefaultText>
+      <DefaultText>Sie denkt über deine Idee nach und zuckt dann mit den Schultern. „Solange es nur das ist, und nicht ein weiterer Versuch, sie zu entführen, kann es wohl nicht schaden, ihm eine weitere Chance zu geben. Nun gut. Perseia ist ins Tal der Toten Helden zurückgegangen. Dort werdet Ihr sie finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Und was, wenn sie nicht noch einmal leben wollte? Alles, was er getan hat, ist sie vor eine scheußliche Wahl zu stellen: Entweder muss sie in einer Welt und Zeit leben, die ihr völlig fremd sind, oder ihrem Leben selbst ein Ende setzen."
+      <DefaultText>„Und was, wenn sie nicht noch einmal leben wollte? Alles, was er getan hat, ist sie vor eine scheußliche Wahl zu stellen: Entweder muss sie in einer Welt und Zeit leben, die ihr völlig fremd sind, oder ihrem Leben selbst ein Ende setzen.“
 
-Sie schüttelt den Kopf. "Nein. Für diese Tat sollte er bestraft, nicht belohnt werden. Ich werde Euch nicht sagen, wo sie sich aufhält. Niemals."
+Sie schüttelt den Kopf. „Nein. Für diese Tat sollte er bestraft, nicht belohnt werden. Ich werde Euch nicht sagen, wo sie sich aufhält. Niemals.“
 
 {SCRIPT: Cannot try this argument again.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Sie atmet erleichtert aus. "Ich bin froh, dass Ihr das sagt. Was wollt ihr jetzt tun?"</DefaultText>
+      <DefaultText>Sie atmet erleichtert aus. „Ich bin froh, dass Ihr das sagt. Was wollt ihr jetzt tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ich benötige Eure Hilfe, um den Streit zwischen Omahdon und Perseia zu beenden."</DefaultText>
+      <DefaultText>„Ich benötige Eure Hilfe, um den Streit zwischen Omahdon und Perseia zu beenden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,22 +258,22 @@ Sie schüttelt den Kopf. "Nein. Für diese Tat sollte er bestraft, nicht belohnt
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Jetzt wo ich darüber nachdenke, möchte ich mich doch später erst ausruhen. Lasst uns über etwas anderes reden."</DefaultText>
+      <DefaultText>„Jetzt wo ich darüber nachdenke, möchte ich mich doch später erst ausruhen. Lasst uns über etwas anderes reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Sie nickt. "Natürlich."</DefaultText>
+      <DefaultText>Sie nickt. „Natürlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Danke, mein Freund. Ruht Euch gut aus."</DefaultText>
-      <FemaleText>"Danke, meine Gute. Ruht Euch gut aus."</FemaleText>
+      <DefaultText>„Danke, mein Freund. Ruht Euch gut aus.“</DefaultText>
+      <FemaleText>„Danke, meine Gute. Ruht Euch gut aus.“</FemaleText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Sie runzelt die Stirn. "Was hattet Ihr vor, zu tun?"</DefaultText>
+      <DefaultText>Sie runzelt die Stirn. „Was hattet Ihr vor, zu tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,17 +298,17 @@ Sie schüttelt den Kopf. "Nein. Für diese Tat sollte er bestraft, nicht belohnt
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Sie sieht verlegen zum Boden. "Ja. Ich habe sowohl Euch als auch Omahdon angelogen, und das tut mir leid. Aber vielleicht versteht Ihr meine Beweggründe, wenn ich Euch Perseias Geschichte erzählt habe."</DefaultText>
+      <DefaultText>Sie sieht verlegen zum Boden. „Ja. Ich habe sowohl Euch als auch Omahdon angelogen, und das tut mir leid. Aber vielleicht versteht Ihr meine Beweggründe, wenn ich Euch Perseias Geschichte erzählt habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Omahdon darf Perseia nicht finden. Ich will ihn von ihrer Fährte abbringen."</DefaultText>
+      <DefaultText>„Omahdon darf Perseia nicht finden. Ich will ihn von ihrer Fährte abbringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Eine hervorragende Idee."</DefaultText>
+      <DefaultText>„Eine hervorragende Idee.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -328,7 +328,7 @@ Sie schüttelt den Kopf. "Nein. Für diese Tat sollte er bestraft, nicht belohnt
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Könnt Ihr Omahdon in eine Trance versetzen? Das würde Perseia mehr Zeit geben, zu fliehen."</DefaultText>
+      <DefaultText>„Könnt Ihr Omahdon in eine Trance versetzen? Das würde Perseia mehr Zeit geben, zu fliehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -348,9 +348,9 @@ Sie schüttelt den Kopf. "Nein. Für diese Tat sollte er bestraft, nicht belohnt
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Sie zögert. "Das zu tun erscheint mir ehrlos ... aber er ist ein ehrloser Mann, also sollte ich ihn vielleicht von seiner eigenen Medizin kosten lassen."
+      <DefaultText>Sie zögert. „Das zu tun erscheint mir ehrlos ... aber er ist ein ehrloser Mann, also sollte ich ihn vielleicht von seiner eigenen Medizin kosten lassen.“
 
-Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Gast‘ in meinem Haus unterbringen, solange es nötig ist."</DefaultText>
+Sie nickt. „Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Gast‘ in meinem Haus unterbringen, solange es nötig ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -360,12 +360,12 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Sie lächelt zufrieden. "Ein treffendes Schicksal für jemanden, der einen Menschen gegen seinen Willen missbraucht hat. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Gast' in meinem Haus unterbringen, solange es nötig ist."</DefaultText>
+      <DefaultText>Sie lächelt zufrieden. „Ein treffendes Schicksal für jemanden, der einen Menschen gegen seinen Willen missbraucht hat. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Gast' in meinem Haus unterbringen, solange es nötig ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Sie wirft dir einen kühlen Blick zu. "Ihr wollt ihn ohne seine Zustimmung in einen Tiefschlaf versetzen? So, wie er Perseia gegen ihren Willen erweckt hat? Nein. Ich werde mich nicht auf sein Niveau begeben. Ihr werdet einen anderen Weg finden müssen."
+      <DefaultText>Sie wirft dir einen kühlen Blick zu. „Ihr wollt ihn ohne seine Zustimmung in einen Tiefschlaf versetzen? So, wie er Perseia gegen ihren Willen erweckt hat? Nein. Ich werde mich nicht auf sein Niveau begeben. Ihr werdet einen anderen Weg finden müssen.“
 
 {SCRIPT: Cannot try this argument again.}</DefaultText>
       <FemaleText />
@@ -502,7 +502,7 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Sie presst die Lippen zusammen. "Ja. Ich habe Omahdon angelogen und ich bereue es nicht, auch wenn ich weiß, dass Ihr mich dafür verurteilen werdet. Aber vielleicht versteht Ihr meine Beweggründe, wenn ich Euch Perseias Geschichte erzählt habe."</DefaultText>
+      <DefaultText>Sie presst die Lippen zusammen. „Ja. Ich habe Omahdon angelogen und ich bereue es nicht, auch wenn ich weiß, dass Ihr mich dafür verurteilen werdet. Aber vielleicht versteht Ihr meine Beweggründe, wenn ich Euch Perseias Geschichte erzählt habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -612,7 +612,7 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Ruhe nickt. "Wie Ihr wünscht. Das macht [Global: a2501_TranquilityPissedHostelPrice] Shin pro Person."
+      <DefaultText>Ruhe nickt. „Wie Ihr wünscht. Das macht [Global: a2501_TranquilityPissedHostelPrice] Shin pro Person.“
 
 {MONEY}</DefaultText>
       <FemaleText />
@@ -626,12 +626,12 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Warum kostet der Raum jetzt mehr als vorher?"</DefaultText>
+      <DefaultText>„Warum kostet der Raum jetzt mehr als vorher?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Sie wirft dir einen schneidenden Blick zu. "Das hier ist meine Herberge, und ich darf die Preise festlegen wie ich will. Und die, die mich hintergangen haben, zahlen eben einen Aufpreis."</DefaultText>
+      <DefaultText>Sie wirft dir einen schneidenden Blick zu. „Das hier ist meine Herberge, und ich darf die Preise festlegen wie ich will. Und die, die mich hintergangen haben, zahlen eben einen Aufpreis.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -646,17 +646,17 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Ich möchte Omahdon und Perseia zusammen bringen."</DefaultText>
+      <DefaultText>„Ich möchte Omahdon und Perseia zusammen bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Das wollt Ihr also? Aber Ihr habt doch gesagt, dass Ihr dagegen wärt. Habt Ihr etwa Eure Meinung geändert?"</DefaultText>
+      <DefaultText>„Das wollt Ihr also? Aber Ihr habt doch gesagt, dass Ihr dagegen wärt. Habt Ihr etwa Eure Meinung geändert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Omahdon geht ungeschickt vor, das gebe ich zu. Aber was, wenn er sie wirklich liebt?"</DefaultText>
+      <DefaultText>„Omahdon geht ungeschickt vor, das gebe ich zu. Aber was, wenn er sie wirklich liebt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -666,32 +666,32 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Ohne Omahdons Einsatz wäre Perseia noch immer eine Leiche. Sie schuldet ihm *etwas* dafür."</DefaultText>
+      <DefaultText>„Ohne Omahdons Einsatz wäre Perseia noch immer eine Leiche. Sie schuldet ihm *etwas* dafür.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Sie lacht. "Sie schuldet ihm etwas für einen Gefallen, nach dem sie nie verlangt hat? Ihr müsst Euch schon etwas besseres einfallen lassen, wenn Ihr erfahren wollt, wo sie sich aufhält."</DefaultText>
+      <DefaultText>Sie lacht. „Sie schuldet ihm etwas für einen Gefallen, nach dem sie nie verlangt hat? Ihr müsst Euch schon etwas besseres einfallen lassen, wenn Ihr erfahren wollt, wo sie sich aufhält.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Perseia hat Omahdon nie eine Chance zu geben, ihr seine Liebe zu beweisen. Er sollte die Gelegenheit erhalten, das zu tun."</DefaultText>
+      <DefaultText>„Perseia hat Omahdon nie eine Chance zu geben, ihr seine Liebe zu beweisen. Er sollte die Gelegenheit erhalten, das zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Sie wirft dir einen nüchternen Blick zu. "Er hatte genügend Gelegenheiten. Er hätte beispielsweise davon absehen können, ihr hinterherzujagen und den Leuten zu erzählen, dass sie wahnsinnig sei, weil er sie verlassen hat. Nicht sehr überzeugend."</DefaultText>
+      <DefaultText>Sie wirft dir einen nüchternen Blick zu. „Er hatte genügend Gelegenheiten. Er hätte beispielsweise davon absehen können, ihr hinterherzujagen und den Leuten zu erzählen, dass sie wahnsinnig sei, weil er sie verlassen hat. Nicht sehr überzeugend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Er mag das Konzept der Liebe nicht verstehen, aber das heißt nicht, dass seine Liebe nicht echt ist. Warum verweigert ihr einem Mann seine zweite Chance, nur weil er sich töricht verhält?"</DefaultText>
+      <DefaultText>„Er mag das Konzept der Liebe nicht verstehen, aber das heißt nicht, dass seine Liebe nicht echt ist. Warum verweigert ihr einem Mann seine zweite Chance, nur weil er sich töricht verhält?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Sie seufzt. "Wenn Ihr wirklich glaubt, dass er sie wahrhaftig liebt, dann soll er es beweisen. Ich gebe ihm seine Chance. Perseia ist ins Tal der Toten Helden zurückgegangen. Dort werdet Ihr sie finden."</DefaultText>
+      <DefaultText>Sie seufzt. „Wenn Ihr wirklich glaubt, dass er sie wahrhaftig liebt, dann soll er es beweisen. Ich gebe ihm seine Chance. Perseia ist ins Tal der Toten Helden zurückgegangen. Dort werdet Ihr sie finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,34 +701,34 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Viele Männer sind törichte Liebhaber und treten aufbrausend in der Öffentlichkeit auf." Sie seufzt. "Gut. Ich gebe ihm seine Chance. Perseia ist ins Tal der Toten Helden zurückgegangen. Dort werdet Ihr sie finden."</DefaultText>
+      <DefaultText>„Viele Männer sind törichte Liebhaber und treten aufbrausend in der Öffentlichkeit auf.“ Sie seufzt. „Gut. Ich gebe ihm seine Chance. Perseia ist ins Tal der Toten Helden zurückgegangen. Dort werdet Ihr sie finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Sie wirft dir einen prüfenden Blick zu. "Wenn Ihr den Lügen von Omahdon Glauben schenkt, dann seid Ihr töricht. Solltet Ihr wissen, dass es Lügen sind, dann seid Ihr böse. In beiden Fällen werde ich Euch nicht verraten, wo sie steckt. Niemals."
+      <DefaultText>Sie wirft dir einen prüfenden Blick zu. „Wenn Ihr den Lügen von Omahdon Glauben schenkt, dann seid Ihr töricht. Solltet Ihr wissen, dass es Lügen sind, dann seid Ihr böse. In beiden Fällen werde ich Euch nicht verraten, wo sie steckt. Niemals.“
 
 {SCRIPT: Cannot try this argument again.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Ich halte das immer noch nicht für sehr klug. Wie begründet Ihr Eure Haltung?"</DefaultText>
+      <DefaultText>„Ich halte das immer noch nicht für sehr klug. Wie begründet Ihr Eure Haltung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Ich bitte Euch. Omahdons Liebe ist echt. Er muss nur lernen, sie auf eine Art und Weise auszudrücken, die sie auch fühlen kann."</DefaultText>
+      <DefaultText>„Ich bitte Euch. Omahdons Liebe ist echt. Er muss nur lernen, sie auf eine Art und Weise auszudrücken, die sie auch fühlen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Ohne ihn würde sie weder hören, noch sprechen geschweige denn atmen können. Ist das nicht genug, um ihm eine weitere Chance zu geben?"</DefaultText>
+      <DefaultText>„Ohne ihn würde sie weder hören, noch sprechen geschweige denn atmen können. Ist das nicht genug, um ihm eine weitere Chance zu geben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Vielleicht hat er zu viel verlangt. Aber wenn seine Liebe echt ist, kann das dann nicht vergeben werden?"</DefaultText>
+      <DefaultText>„Vielleicht hat er zu viel verlangt. Aber wenn seine Liebe echt ist, kann das dann nicht vergeben werden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -748,12 +748,12 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Entschuldigt die Frage, aber seid Ihr ein Mensch?"</DefaultText>
+      <DefaultText>„Entschuldigt die Frage, aber seid Ihr ein Mensch?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Erzählt mir nochmal etwas über Euch."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal etwas über Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -763,17 +763,17 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Ich bin ein Mutant ... und kann dankbar sein, in einer Stadt zu leben, in der das kein Verbrechen ist. Meine Herberge läuft sehr gut hier. An anderen Orten hätte man mich vermutlich zum Spaß gesteinigt."</DefaultText>
+      <DefaultText>„Ich bin ein Mutant ... und kann dankbar sein, in einer Stadt zu leben, in der das kein Verbrechen ist. Meine Herberge läuft sehr gut hier. An anderen Orten hätte man mich vermutlich zum Spaß gesteinigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Ihr habt mich angelogen. Ich habe ein Gerät gefunden, das Ereignisse der Vergangenheit offenbart, und ich habe gesehen, wie Ihr mit Perseia gesprochen habt."</DefaultText>
+      <DefaultText>„Ihr habt mich angelogen. Ich habe ein Gerät gefunden, das Ereignisse der Vergangenheit offenbart, und ich habe gesehen, wie Ihr mit Perseia gesprochen habt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Ruhe läuft vor Scham rot an, sammelt sich dann wieder und nickt. "Ja, ich habe Perseia geholfen. Es tut mir leid, dass ich Euch angelogen habe, aber vielleicht versteht Ihr meine Beweggründe, wenn ich Euch die ganze Geschichte erzähle."</DefaultText>
+      <DefaultText>Ruhe läuft vor Scham rot an, sammelt sich dann wieder und nickt. „Ja, ich habe Perseia geholfen. Es tut mir leid, dass ich Euch angelogen habe, aber vielleicht versteht Ihr meine Beweggründe, wenn ich Euch die ganze Geschichte erzähle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -783,12 +783,12 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Darüber muss ich nachdenken."</DefaultText>
+      <DefaultText>„Darüber muss ich nachdenken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Tut das. Je länger Ihr nachdenkt, desto mehr Zeit bleibt Perseia, um zu fliehen."</DefaultText>
+      <DefaultText>„Tut das. Je länger Ihr nachdenkt, desto mehr Zeit bleibt Perseia, um zu fliehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -798,7 +798,7 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Ich denke immer noch, dass es die beste Lösung wäre, Omahdon in eine Trance zu versetzen."</DefaultText>
+      <DefaultText>„Ich denke immer noch, dass es die beste Lösung wäre, Omahdon in eine Trance zu versetzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -808,7 +808,7 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Vergesst es. Ich habe eine andere Idee, mit der wir diese Situation lösen können."</DefaultText>
+      <DefaultText>„Vergesst es. Ich habe eine andere Idee, mit der wir diese Situation lösen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -828,7 +828,7 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Ich brauche Eure Hilfe. Ich habe meine Meinung über Omahdon und Perseia geändert."</DefaultText>
+      <DefaultText>„Ich brauche Eure Hilfe. Ich habe meine Meinung über Omahdon und Perseia geändert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -843,12 +843,12 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"In diesem Fall solltet Ihr Eure Geschichte überarbeiten. Es wäre ungünstig, Omahdon zu erzählen, dass sie an zwei verschiedenen Orten war, falls er sich dazu entscheidet, euch beiden das Fell über die Ohren zu ziehen."</DefaultText>
+      <DefaultText>„In diesem Fall solltet Ihr Eure Geschichte überarbeiten. Es wäre ungünstig, Omahdon zu erzählen, dass sie an zwei verschiedenen Orten war, falls er sich dazu entscheidet, euch beiden das Fell über die Ohren zu ziehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Guter Punkt." Sie denkt einen Augenblick lang nach. "Also, Perseia wird definitiv nicht nach Haref gehen, und es liegt sehr weit ab vom Schuss ... also wäre es wohl das beste, Omahdon zu erzählen, dass sie dort ist."</DefaultText>
+      <DefaultText>„Guter Punkt.“ Sie denkt einen Augenblick lang nach. „Also, Perseia wird definitiv nicht nach Haref gehen, und es liegt sehr weit ab vom Schuss ... also wäre es wohl das beste, Omahdon zu erzählen, dass sie dort ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -858,17 +858,17 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Eure Kräfte haben Euch zu einer wahren Menschenkennerin werden lassen. Deshalb solltet Ihr eigentlich erkennen, dass Ihr mir vertrauen könnt."</DefaultText>
+      <DefaultText>„Eure Kräfte haben Euch zu einer wahren Menschenkennerin werden lassen. Deshalb solltet Ihr eigentlich erkennen, dass Ihr mir vertrauen könnt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Eine Frau mit so viel Tiefblick müsste doch eigentlich erkennen, dass sie mir ein Geheimnis anvertrauen kann."</DefaultText>
+      <DefaultText>„Eine Frau mit so viel Tiefblick müsste doch eigentlich erkennen, dass sie mir ein Geheimnis anvertrauen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>Sie wirft dir einen prüfenden Blick zu und seufzt dann. "Ich vertraue Euch ja. Ich hoffe nur, dass ich es nicht irgendwann bereuen werde. Perseia ist ins Tal der Toten Helden zurückgekehrt. An die Stelle, an der Omahdon sie einst von den Toten aufwerweckt hat."</DefaultText>
+      <DefaultText>Sie wirft dir einen prüfenden Blick zu und seufzt dann. „Ich vertraue Euch ja. Ich hoffe nur, dass ich es nicht irgendwann bereuen werde. Perseia ist ins Tal der Toten Helden zurückgekehrt. An die Stelle, an der Omahdon sie einst von den Toten aufwerweckt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -878,56 +878,56 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Sie nickt ernst. "Es stimmt, ich habe Eure Aufrichtigkeit von Anfang an gespürt. Na gut, ich erzähle es Euch. Perseia ist ins Tal der Toten Helden zurückgekehrt. An die Stelle, an der Omahdon sie einst von den Toten aufwerweckt hat."</DefaultText>
+      <DefaultText>Sie nickt ernst. „Es stimmt, ich habe Eure Aufrichtigkeit von Anfang an gespürt. Na gut, ich erzähle es Euch. Perseia ist ins Tal der Toten Helden zurückgekehrt. An die Stelle, an der Omahdon sie einst von den Toten aufwerweckt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>Ihr Blick wird kühler. "Ich vertraue Euch nicht im geringsten. Bitte fragt nicht noch einmal nach."
+      <DefaultText>Ihr Blick wird kühler. „Ich vertraue Euch nicht im geringsten. Bitte fragt nicht noch einmal nach.“
 
 {SCRIPT: Cannot try this argument again.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Sie schnüffelt in der Luft herum. "Hmmm. Es ist mehr verführerisch an dieser Frau als nur ihre langen Beine und süßen Worte. Sie sondert eine Art Beruhigungspheromon ab. Interessant."</DefaultText>
+      <DefaultText>Sie schnüffelt in der Luft herum. „Hmmm. Es ist mehr verführerisch an dieser Frau als nur ihre langen Beine und süßen Worte. Sie sondert eine Art Beruhigungspheromon ab. Interessant.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Sie lächelt leicht. "Wenn Ihr ihre beruhigende Wirkung als Manipulation bezeichnen wollt, dann tue ich das wohl. Aber das ist auch schon alles. Damit kontrolliere oder beeinflusse ich keine Gedanken. Wie meine Stimme scheint auch mein Geruch ... die Leute um mich herum zu entspannen. Das macht mich glauben, dass ich diese Herberge zu etwas sehr Erfolgreichem werden lassen kann."</DefaultText>
+      <DefaultText>Sie lächelt leicht. „Wenn Ihr ihre beruhigende Wirkung als Manipulation bezeichnen wollt, dann tue ich das wohl. Aber das ist auch schon alles. Damit kontrolliere oder beeinflusse ich keine Gedanken. Wie meine Stimme scheint auch mein Geruch ... die Leute um mich herum zu entspannen. Das macht mich glauben, dass ich diese Herberge zu etwas sehr Erfolgreichem werden lassen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Sie hebt eine Augenbraue an. "Nur wenige Menschen nehmen davon Notiz. Gut gemacht. Ich manipuliere in der Tat meine Stimme. Als ich dieses Geschäft hier eröffnet habe, wollte ich es zum entspanntesten Ort in der ganzen Neunten Welt machen. Alles an ihm sollte beruhigend wirken, sogar meine Stimme. Wie sich herausgestellt hat, habe ich ein Händchen dafür."
+      <DefaultText>Sie hebt eine Augenbraue an. „Nur wenige Menschen nehmen davon Notiz. Gut gemacht. Ich manipuliere in der Tat meine Stimme. Als ich dieses Geschäft hier eröffnet habe, wollte ich es zum entspanntesten Ort in der ganzen Neunten Welt machen. Alles an ihm sollte beruhigend wirken, sogar meine Stimme. Wie sich herausgestellt hat, habe ich ein Händchen dafür.“
 
 {DP}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Also gut. Reden wir über etwas anderes."</DefaultText>
+      <DefaultText>„Also gut. Reden wir über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Gerne."</DefaultText>
+      <DefaultText>„Gerne.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Ah", sagt Ruhe. "Ihr seid es. Ja?"</DefaultText>
+      <DefaultText>„Ah“, sagt Ruhe. „Ihr seid es. Ja?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>Ruhes Wärme scheint verschwunden zu sein. Sie sieht dich mit einem verurteilendem Blick an. "Ihr habt Omahdon von Perseias Aufenthaltsort erzählt. Was glaubt Ihr, wie diese Sache ausgehen wird?"</DefaultText>
+      <DefaultText>Ruhes Wärme scheint verschwunden zu sein. Sie sieht dich mit einem verurteilendem Blick an. „Ihr habt Omahdon von Perseias Aufenthaltsort erzählt. Was glaubt Ihr, wie diese Sache ausgehen wird?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>Sie lächelt. "Sie ist die friedvollste Herberge in den ganzen Sagus-Klippen, und hat obendrein noch die beste Aussicht zu bieten. Alle Räume sind nach draußen gerichtet, so bleiben der Lärm und das Getummel der Karawanserei unseren Gästen fern. Man sieht nur den Himmel, das Meer und die Dächer der Stadt unter uns, und man hört nur die frische Meeresbrise. Ich bin die einzige Inhaberin, und seit 20 Jahren biete ich meinen Gästen Einsamkeit, Sicherheit und Diskretion. Ihr werdet nirgends einen so ruhigen Schlaf haben wie hier."</DefaultText>
+      <DefaultText>Sie lächelt. „Sie ist die friedvollste Herberge in den ganzen Sagus-Klippen, und hat obendrein noch die beste Aussicht zu bieten. Alle Räume sind nach draußen gerichtet, so bleiben der Lärm und das Getummel der Karawanserei unseren Gästen fern. Man sieht nur den Himmel, das Meer und die Dächer der Stadt unter uns, und man hört nur die frische Meeresbrise. Ich bin die einzige Inhaberin, und seit 20 Jahren biete ich meinen Gästen Einsamkeit, Sicherheit und Diskretion. Ihr werdet nirgends einen so ruhigen Schlaf haben wie hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -937,27 +937,27 @@ Sie nickt. "Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚Ga
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Erzählt mir von der Herberge der Ruhe."</DefaultText>
+      <DefaultText>„Erzählt mir von der Herberge der Ruhe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Erzählt mir noch einmal von Eurer Herberge."</DefaultText>
+      <DefaultText>„Erzählt mir noch einmal von Eurer Herberge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Die Herberge der Ruhe ist eine Oase der Lüfte - ein Ort, an dem Ihr Eure Reisen hinter Euch lassen und Euch so geborgen fühlen könnt wie im Schoß Eurer Mutter. Ich biete Euch Frieden, Schutz und Privatsphäre."</DefaultText>
+      <DefaultText>„Die Herberge der Ruhe ist eine Oase der Lüfte - ein Ort, an dem Ihr Eure Reisen hinter Euch lassen und Euch so geborgen fühlen könnt wie im Schoß Eurer Mutter. Ich biete Euch Frieden, Schutz und Privatsphäre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>Sie neigt ihren Kopf. "Habt Ihr das? Das überrascht mich. Was möchtet Ihr anders machen?"</DefaultText>
+      <DefaultText>Sie neigt ihren Kopf. „Habt Ihr das? Das überrascht mich. Was möchtet Ihr anders machen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Ihr habt gesagt, dass Ihr Perseia nicht gesehen habt, aber ich habe diesen Kamm in einem Eurer Räume gefunden. Das Haar in ihm ist purpur, genauso wie ihr Haar."</DefaultText>
+      <DefaultText>„Ihr habt gesagt, dass Ihr Perseia nicht gesehen habt, aber ich habe diesen Kamm in einem Eurer Räume gefunden. Das Haar in ihm ist purpur, genauso wie ihr Haar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,12 +981,12 @@ Das Wasser umschließt deinen Körper, auch deinen Kopf, aber du hast keine Angs
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Ruhe lässt ihren Kopf hängen und versteckt ihre Gefühle. "Ich habe Perseia geholfen, an Bord eines Schiffs zu gehen, aber ich möchte Euch nicht ihr Ziel verraten. Vielleicht werdet Ihr das verstehen, wenn ich Euch ihre Geschichte erzähle."</DefaultText>
+      <DefaultText>Ruhe lässt ihren Kopf hängen und versteckt ihre Gefühle. „Ich habe Perseia geholfen, an Bord eines Schiffs zu gehen, aber ich möchte Euch nicht ihr Ziel verraten. Vielleicht werdet Ihr das verstehen, wenn ich Euch ihre Geschichte erzähle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Ich habe ein Gerät gefunden, das Ereignisse der Vergangenheit offenbart, und ich habe gesehen, wie Ihr mit einer Frau namens Perseia gesprochen habt. Wohin ist sie gegangen?"</DefaultText>
+      <DefaultText>„Ich habe ein Gerät gefunden, das Ereignisse der Vergangenheit offenbart, und ich habe gesehen, wie Ihr mit einer Frau namens Perseia gesprochen habt. Wohin ist sie gegangen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -996,34 +996,34 @@ Das Wasser umschließt deinen Körper, auch deinen Kopf, aber du hast keine Angs
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Er scheint geglaubt zu haben, dass seine ungefragte Wiederbelebung dazu führt, dass sie sich in ihren Retter, ihren strahlenden Helden verlieben würde. Aber seine Inbrunst hat sie verschreckt. Sie hat ihm erklärt, dass sie seine Gefühle nicht teilt. Doch er hat ihr nicht zugehört. Für ihn war ihre Abneigung nichts weiter als eine vorübergehende Wirrung. Seitdem ist Perseia vor ihm auf der Flucht, aber er gibt einfach nicht auf."
+      <DefaultText>„Er scheint geglaubt zu haben, dass seine ungefragte Wiederbelebung dazu führt, dass sie sich in ihren Retter, ihren strahlenden Helden verlieben würde. Aber seine Inbrunst hat sie verschreckt. Sie hat ihm erklärt, dass sie seine Gefühle nicht teilt. Doch er hat ihr nicht zugehört. Für ihn war ihre Abneigung nichts weiter als eine vorübergehende Wirrung. Seitdem ist Perseia vor ihm auf der Flucht, aber er gibt einfach nicht auf.“
 
-Sie sieht nach oben. "Versteht Ihr jetzt, warum ich ihr geholfen habe? Warum ich ihn und Euch angelogen habe?"</DefaultText>
+Sie sieht nach oben. „Versteht Ihr jetzt, warum ich ihr geholfen habe? Warum ich ihn und Euch angelogen habe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>Er schnaubt und spricht dir ins Ohr. "Ein Tölpel mit der Kraft eines Gottes. Das kommt Euch wahrscheinlich nicht bekannt vor, oder, Verstoßener?"</DefaultText>
-      <FemaleText>Er schnaubt und spricht dir ins Ohr. "Ein Tölpel mit der Kraft eines Gottes. Das kommt Euch wahrscheinlich nicht bekannt vor, oder, Verstoßene?"</FemaleText>
+      <DefaultText>Er schnaubt und spricht dir ins Ohr. „Ein Tölpel mit der Kraft eines Gottes. Das kommt Euch wahrscheinlich nicht bekannt vor, oder, Verstoßener?“</DefaultText>
+      <FemaleText>Er schnaubt und spricht dir ins Ohr. „Ein Tölpel mit der Kraft eines Gottes. Das kommt Euch wahrscheinlich nicht bekannt vor, oder, Verstoßene?“</FemaleText>
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Er jagt das arme Mädchen", flüstert er in dein Ohr. "Sie will nichts mit ihm zu tun haben. Ein schandhaftes Verhalten, und das sehe sogar *ich* ein."</DefaultText>
+      <DefaultText>„Er jagt das arme Mädchen“, flüstert er in dein Ohr. „Sie will nichts mit ihm zu tun haben. Ein schandhaftes Verhalten, und das sehe sogar *ich* ein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Ich möchte Omahdon davon überzeugen, Perseia nicht weiter zu verfolgen."</DefaultText>
+      <DefaultText>„Ich möchte Omahdon davon überzeugen, Perseia nicht weiter zu verfolgen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Eine noble Absicht, aber nicht so einfach umzusetzen, fürchte ich. Ich wünsche Euch viel Glück."</DefaultText>
+      <DefaultText>„Eine noble Absicht, aber nicht so einfach umzusetzen, fürchte ich. Ich wünsche Euch viel Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Zwei Luftschiffe haben vor kurzem die Anker gelichtet und sind in Richtung Haref und Sada Imidu aufgebrochen. Perseia ist weder an Bord des einen noch des anderen, und beide dieser Städte sind sehr weit weg von hier. Omahdon würde Wochen brauchen, um nach ihr in diesen Städten zu suchen, und er würde ihre Spur für immer verlieren."</DefaultText>
+      <DefaultText>„Zwei Luftschiffe haben vor kurzem die Anker gelichtet und sind in Richtung Haref und Sada Imidu aufgebrochen. Perseia ist weder an Bord des einen noch des anderen, und beide dieser Städte sind sehr weit weg von hier. Omahdon würde Wochen brauchen, um nach ihr in diesen Städten zu suchen, und er würde ihre Spur für immer verlieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1033,12 +1033,12 @@ Sie sieht nach oben. "Versteht Ihr jetzt, warum ich ihr geholfen habe? Warum ich
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>Sie blickt skeptisch drein. "Ich habe schon oft erlebt, dass Boshaftigkeit als Dummheit missverstanden wurde. In den meisten Fällen waren es Lügner. Ich sehe keinen Grund, zu glauben, dass Omahdon anders ist als sie. Es tut mir leid, aber ich werde Euch nicht verraten, wo sie ist."</DefaultText>
+      <DefaultText>Sie blickt skeptisch drein. „Ich habe schon oft erlebt, dass Boshaftigkeit als Dummheit missverstanden wurde. In den meisten Fällen waren es Lügner. Ich sehe keinen Grund, zu glauben, dass Omahdon anders ist als sie. Es tut mir leid, aber ich werde Euch nicht verraten, wo sie ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Ein Mann, der erst Vermutungen anstellt und dann fragt wird es wohl kaum lernen. Ich werde Euch nicht sagen, wo sie sich aufhält."</DefaultText>
+      <DefaultText>„Ein Mann, der erst Vermutungen anstellt und dann fragt wird es wohl kaum lernen. Ich werde Euch nicht sagen, wo sie sich aufhält.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1048,12 +1048,12 @@ Sie sieht nach oben. "Versteht Ihr jetzt, warum ich ihr geholfen habe? Warum ich
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>Sie runzelt die Stirn und schüttelt dann den Kopf. "Also muss ich mich auf Euer Urteilsvermögen verlassen? Nein. Ich weiß nicht, warum Ihr versucht, Omahdon zu helfen, aber ich glaube nicht, dass ihm wirklich etwas an ihr liegt. Ich werde Euch nicht sagen, wo sie sich aufhält.</DefaultText>
+      <DefaultText>Sie runzelt die Stirn und schüttelt dann den Kopf. „Also muss ich mich auf Euer Urteilsvermögen verlassen? Nein. Ich weiß nicht, warum Ihr versucht, Omahdon zu helfen, aber ich glaube nicht, dass ihm wirklich etwas an ihr liegt. Ich werde Euch nicht sagen, wo sie sich aufhält.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Und warum seid Ihr Euch so sicher, dass er dazulernen *kann*? Nein, ich traue ihm nicht über den Weg. Ich werde Euch nicht verraten, wo sie ist."</DefaultText>
+      <DefaultText>„Und warum seid Ihr Euch so sicher, dass er dazulernen *kann*? Nein, ich traue ihm nicht über den Weg. Ich werde Euch nicht verraten, wo sie ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1063,12 +1063,12 @@ Sie sieht nach oben. "Versteht Ihr jetzt, warum ich ihr geholfen habe? Warum ich
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Ich habe keine Lust, seinen Zorn zu ernten, sobald er aufwacht und von Eurer Trickserei erfährt. Ihr werdet einen anderen Weg finden müssen."</DefaultText>
+      <DefaultText>Sie schüttelt den Kopf. „Ich habe keine Lust, seinen Zorn zu ernten, sobald er aufwacht und von Eurer Trickserei erfährt. Ihr werdet einen anderen Weg finden müssen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Das ist zu gefährlich. Er könnte auf mich losgehen, sobald er davon erfährt, was ich getan habe. Darauf kann ich verzichten."</DefaultText>
+      <DefaultText>„Das ist zu gefährlich. Er könnte auf mich losgehen, sobald er davon erfährt, was ich getan habe. Darauf kann ich verzichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1078,14 +1078,14 @@ Sie sieht nach oben. "Versteht Ihr jetzt, warum ich ihr geholfen habe? Warum ich
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Und was, wenn sie nicht noch einmal leben wollte? Das hier ist weder ihre Zeit noch ihre Welt. Wie könnte sie hier glücklich sein?"
+      <DefaultText>„Und was, wenn sie nicht noch einmal leben wollte? Das hier ist weder ihre Zeit noch ihre Welt. Wie könnte sie hier glücklich sein?“
 
-Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euch nicht sagen, wo sie sich aufhält."</DefaultText>
+Sie schüttelt den Kopf. „Nein. Er hat sich nichts damit verdient. Ich werde Euch nicht sagen, wo sie sich aufhält.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Hat er es für sie getan? Nein. Er hat es für sich getan. Das bedeutet, dass es keine große Rolle spielt. Ich werde Euch nicht sagen, wo sie sich aufhält."</DefaultText>
+      <DefaultText>„Hat er es für sie getan? Nein. Er hat es für sich getan. Das bedeutet, dass es keine große Rolle spielt. Ich werde Euch nicht sagen, wo sie sich aufhält.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1095,12 +1095,12 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>Sie wirft dir einen prüfenden Blick zu und schüttelt dann den Kopf. "Ich vertraue Euch, aber warum solltet Ihr diese Bürde auf Euch laden, wenn Ihr doch ohne sie besser dran wärt? Ich werde Euch nichts davon erzählen."</DefaultText>
+      <DefaultText>Sie wirft dir einen prüfenden Blick zu und schüttelt dann den Kopf. „Ich vertraue Euch, aber warum solltet Ihr diese Bürde auf Euch laden, wenn Ihr doch ohne sie besser dran wärt? Ich werde Euch nichts davon erzählen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Sie lächelt. "Ich weiß, dass Ihr das könnt, aber wenn es doch keinen Grund für Euch gibt, dieses Wissen mit Euch herumzutragen, wozu dann der ganze Aufwand? Ich werde Euch nichts davon erzählen."</DefaultText>
+      <DefaultText>Sie lächelt. „Ich weiß, dass Ihr das könnt, aber wenn es doch keinen Grund für Euch gibt, dieses Wissen mit Euch herumzutragen, wozu dann der ganze Aufwand? Ich werde Euch nichts davon erzählen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1110,12 +1110,12 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"Wohin ist Perseia wirklich unterwegs?"</DefaultText>
+      <DefaultText>„Wohin ist Perseia wirklich unterwegs?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Seid Ihr sicher, dass Ihr mir nicht erzählen wollt, wohin Perseia wirklich unterwegs ist?"</DefaultText>
+      <DefaultText>„Seid Ihr sicher, dass Ihr mir nicht erzählen wollt, wohin Perseia wirklich unterwegs ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1125,22 +1125,22 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Es tut mir leid. Je weniger Leute davon wissen, desto besser."</DefaultText>
+      <DefaultText>„Es tut mir leid. Je weniger Leute davon wissen, desto besser.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>"Vergebt mir, aber ich behalte das lieber für mich."</DefaultText>
+      <DefaultText>„Vergebt mir, aber ich behalte das lieber für mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Alles, was Ihr wünscht."</DefaultText>
+      <DefaultText>„Alles, was Ihr wünscht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"In Ordnung. Ich hätte noch eine andere Frage."</DefaultText>
+      <DefaultText>„In Ordnung. Ich hätte noch eine andere Frage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1150,17 +1150,17 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>"Könnt Ihr mich noch einmal in eine Trance versetzen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mich noch einmal in eine Trance versetzen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>"Ich frage Euch noch einmal, als Euer Gast - werdet Ihr Eure Fähigkeiten verwenden,um mich in eine Trance zu versetzen?"</DefaultText>
+      <DefaultText>„Ich frage Euch noch einmal, als Euer Gast - werdet Ihr Eure Fähigkeiten verwenden,um mich in eine Trance zu versetzen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>Einen Augenblick lang scheint Ruhe mit dem Gedanken zu spielen, doch dann schüttelt sie ihren Kopf. "Nein. Wie ich bereits sagte, ich könnte nicht für Eure Sicherheit garantieren."</DefaultText>
+      <DefaultText>Einen Augenblick lang scheint Ruhe mit dem Gedanken zu spielen, doch dann schüttelt sie ihren Kopf. „Nein. Wie ich bereits sagte, ich könnte nicht für Eure Sicherheit garantieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1170,12 +1170,12 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Ich bin mir sicher, dass Ihr mir helfen und nicht schaden würdet. Sollte ich mit meiner Einschätzung daneben liegen, übernehme ich die volle Verantwortung."</DefaultText>
+      <DefaultText>„Ich bin mir sicher, dass Ihr mir helfen und nicht schaden würdet. Sollte ich mit meiner Einschätzung daneben liegen, übernehme ich die volle Verantwortung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>"Nicht jetzt. Lebt wohl."</DefaultText>
+      <DefaultText>„Nicht jetzt. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1185,17 +1185,17 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Ich befürchte das geht nicht. Das hier ist ein Ort der Sicherheit und des Friedens, und ich kann weder für das eine noch für das andere garantieren, wenn wir so etwas ausprobieren."</DefaultText>
+      <DefaultText>Sie schüttelt den Kopf. „Ich befürchte das geht nicht. Das hier ist ein Ort der Sicherheit und des Friedens, und ich kann weder für das eine noch für das andere garantieren, wenn wir so etwas ausprobieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>"Nein. Ich habe darüber nachgedacht. Das wird hier nicht passieren."</DefaultText>
+      <DefaultText>„Nein. Ich habe darüber nachgedacht. Das wird hier nicht passieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>"Ich habe befürchtet, dass Ihr das sagen würdet. Aber aus welchem Grund?"</DefaultText>
+      <DefaultText>„Ich habe befürchtet, dass Ihr das sagen würdet. Aber aus welchem Grund?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1205,7 +1205,7 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>"Wie oft kommt es vor, dass jemand seine wahre Liebe auf dieser Welt findet? Können wir ihm wirklich die Chance darauf verweigern?"</DefaultText>
+      <DefaultText>„Wie oft kommt es vor, dass jemand seine wahre Liebe auf dieser Welt findet? Können wir ihm wirklich die Chance darauf verweigern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1215,12 +1215,12 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>"Ja, sie verdient jemanden, der sie liebt und respektiert. Was, wenn Omahdon gezeigt würde, wie seine Versessenheit sie verletzt?"</DefaultText>
+      <DefaultText>„Ja, sie verdient jemanden, der sie liebt und respektiert. Was, wenn Omahdon gezeigt würde, wie seine Versessenheit sie verletzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>"Ich schätze, Ihr habt recht. Die wahre Liebe ist so etwas Seltenes. Aber trifft das wirklich auf Omahdon zu? Er verhält sich wie ein Besessener, und nicht wie ein Verliebter."</DefaultText>
+      <DefaultText>„Ich schätze, Ihr habt recht. Die wahre Liebe ist so etwas Seltenes. Aber trifft das wirklich auf Omahdon zu? Er verhält sich wie ein Besessener, und nicht wie ein Verliebter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1230,17 +1230,17 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>"Ich schätze ... Glaubt Ihr wirklich, dass er sie liebt? Er verhält sich eher wie ein Besessener."</DefaultText>
+      <DefaultText>„Ich schätze ... Glaubt Ihr wirklich, dass er sie liebt? Er verhält sich eher wie ein Besessener.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>"Vielleicht habt Ihr recht. Lasst mich noch einmal darüber nachdenken."</DefaultText>
+      <DefaultText>„Vielleicht habt Ihr recht. Lasst mich noch einmal darüber nachdenken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>"Nun gut."</DefaultText>
+      <DefaultText>„Nun gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1250,12 +1250,12 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>"Omahdon soll seine Chance erhalten, seine Liebe zu ihr zu beweisen."</DefaultText>
+      <DefaultText>„Omahdon soll seine Chance erhalten, seine Liebe zu ihr zu beweisen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>"Er will, dass sie ihm gehört, aber das ist nicht dasselbe wie Liebe."</DefaultText>
+      <DefaultText>„Er will, dass sie ihm gehört, aber das ist nicht dasselbe wie Liebe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1265,12 +1265,12 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>"Perseia schuldet Omahdon etwas dafür, dass er ihr ein zweites Leben geschenkt hat."</DefaultText>
+      <DefaultText>„Perseia schuldet Omahdon etwas dafür, dass er ihr ein zweites Leben geschenkt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>"Ich habe es Euch schon einmal gesagt, aber Perseia hat niemals um solch ein zweites Leben *gebeten*. Sie schuldet ihm also gar nichts ... und schon gar nicht ihre Liebe."</DefaultText>
+      <DefaultText>„Ich habe es Euch schon einmal gesagt, aber Perseia hat niemals um solch ein zweites Leben *gebeten*. Sie schuldet ihm also gar nichts ... und schon gar nicht ihre Liebe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1280,12 +1280,12 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>"Ich glaube, dass Omahdon sie wirklich liebt, auch, wenn er es nicht richtig zeigen kann."</DefaultText>
+      <DefaultText>„Ich glaube, dass Omahdon sie wirklich liebt, auch, wenn er es nicht richtig zeigen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>Sie kneift die Augen zusammen. "Seid Ihr Euch da wirklich sicher? Liebe ist, wenn man jemand anderes glücklich machen will. Alles, was er bisher getan hat, hat dazu gedient, ihn selbst glücklich zu machen."</DefaultText>
+      <DefaultText>Sie kneift die Augen zusammen. „Seid Ihr Euch da wirklich sicher? Liebe ist, wenn man jemand anderes glücklich machen will. Alles, was er bisher getan hat, hat dazu gedient, ihn selbst glücklich zu machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1295,14 +1295,14 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>Ruhe lächelt. "Es freut mich sehr, und ich bin der festen Überzeugung, dass Ihr Euch hier hervorragend ausruhen werdet. Das macht [Global: a2501_TranquilityHostelPrice] Shin pro Person."
+      <DefaultText>Ruhe lächelt. „Es freut mich sehr, und ich bin der festen Überzeugung, dass Ihr Euch hier hervorragend ausruhen werdet. Das macht [Global: a2501_TranquilityHostelPrice] Shin pro Person.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>Ruhe lächelt. "Natürlich! Das macht [Global: a2501_TranquilityHostelPrice] Shin pro Person, wie immer."
+      <DefaultText>Ruhe lächelt. „Natürlich! Das macht [Global: a2501_TranquilityHostelPrice] Shin pro Person, wie immer.“
 
 {MONEY}</DefaultText>
       <FemaleText />
@@ -1314,12 +1314,12 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>"Spielt es eine Rolle, ob er sie liebt? Er ist versessen auf sie, und wahnsinnig. Sie hat etwas besseres verdient."</DefaultText>
+      <DefaultText>„Spielt es eine Rolle, ob er sie liebt? Er ist versessen auf sie, und wahnsinnig. Sie hat etwas besseres verdient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>"Darüber hatten wir uns doch bereits unterhalten. Omahdon hat überhaupt kein Interesse an *ihren* Gefühlen. Sie verdient jemand besseres als ihn."</DefaultText>
+      <DefaultText>„Darüber hatten wir uns doch bereits unterhalten. Omahdon hat überhaupt kein Interesse an *ihren* Gefühlen. Sie verdient jemand besseres als ihn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1329,47 +1329,47 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>"Ich brauche einen Platz zum Schlafen."</DefaultText>
+      <DefaultText>„Ich brauche einen Platz zum Schlafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>"Ich brauche ein Zimmer für die Nacht."</DefaultText>
+      <DefaultText>„Ich brauche ein Zimmer für die Nacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Tybir tritt plötzlich vor. "Habt Ihr vergessen, dass Ris morgen stirbt, wenn wir heute untätig sind? Wenn Ihr Euch jetzt schlafen legt, ist er tot, bevor Ihr morgen aufwacht. Ihr habt mir versprochen, dass Ihr ihn retten werdet."</DefaultText>
+      <DefaultText>Tybir tritt plötzlich vor. „Habt Ihr vergessen, dass Ris morgen stirbt, wenn wir heute untätig sind? Wenn Ihr Euch jetzt schlafen legt, ist er tot, bevor Ihr morgen aufwacht. Ihr habt mir versprochen, dass Ihr ihn retten werdet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>"Hier geht es um Wichtigeres als um einen hingerichteten Kriminellen. Wir rasten jetzt."</DefaultText>
+      <DefaultText>„Hier geht es um Wichtigeres als um einen hingerichteten Kriminellen. Wir rasten jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>"In Ordnung. Wir machen weiter."</DefaultText>
+      <DefaultText>„In Ordnung. Wir machen weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>"Ich weiß das zu schätzen, mein Freund. Wirklich. Das ist eine wichtige Sache."</DefaultText>
-      <FemaleText>"Ich weiß das zu schätzen, meine Gute. Wirklich. Das ist eine wichtige Sache."</FemaleText>
+      <DefaultText>„Ich weiß das zu schätzen, mein Freund. Wirklich. Das ist eine wichtige Sache.“</DefaultText>
+      <FemaleText>„Ich weiß das zu schätzen, meine Gute. Wirklich. Das ist eine wichtige Sache.“</FemaleText>
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>"Wenn Ihr eine Meinung ändern solltet, kommt jederzeit wieder."</DefaultText>
+      <DefaultText>„Wenn Ihr eine Meinung ändern solltet, kommt jederzeit wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>"Da seid Ihr ja wieder. Gut."</DefaultText>
+      <DefaultText>„Da seid Ihr ja wieder. Gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1379,12 +1379,12 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>"Ob gewollt oder nicht, er hat ihr das Leben geschenkt. Er verdient für dieses Wunder doch sicher eine zweite Chance, um sich zu beweisen."</DefaultText>
+      <DefaultText>„Ob gewollt oder nicht, er hat ihr das Leben geschenkt. Er verdient für dieses Wunder doch sicher eine zweite Chance, um sich zu beweisen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>"Wenn er nicht gewesen wäre, könnte sie weder hören noch sprechen oder atmen. Hat er sich damit nicht wenigstens eine zweite Anhörung verdient?"</DefaultText>
+      <DefaultText>„Wenn er nicht gewesen wäre, könnte sie weder hören noch sprechen oder atmen. Hat er sich damit nicht wenigstens eine zweite Anhörung verdient?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1394,64 +1394,64 @@ Sie schüttelt den Kopf. "Nein. Er hat sich nichts damit verdient. Ich werde Euc
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>"Er mag Liebe zwar nicht verstehen, doch das bedeutet nicht, dass es falsch ist. Würdet Ihr einem Mann eine zweite Chance verweigern, nur weil er ein Idiot ist?"</DefaultText>
+      <DefaultText>„Er mag Liebe zwar nicht verstehen, doch das bedeutet nicht, dass es falsch ist. Würdet Ihr einem Mann eine zweite Chance verweigern, nur weil er ein Idiot ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>"Vielleicht hat er zu viel angenommen. Doch wenn seine Liebe wahr ist, kann das dann nicht vergeben werden?"</DefaultText>
+      <DefaultText>„Vielleicht hat er zu viel angenommen. Doch wenn seine Liebe wahr ist, kann das dann nicht vergeben werden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>"Nun, was möchtet Ihr noch besprechen?"</DefaultText>
+      <DefaultText>„Nun, was möchtet Ihr noch besprechen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Sie nimmt behutsam den Kamm, peinlich berührt. "Ja. Ich habe sowohl Euch, als auch Omahdon angelogen und es tut mir leid. Doch vielleicht werdet Ihr es verstehen, wenn ich Euch Perseias Geschichte erzähle."</DefaultText>
+      <DefaultText>Sie nimmt behutsam den Kamm, peinlich berührt. „Ja. Ich habe sowohl Euch, als auch Omahdon angelogen und es tut mir leid. Doch vielleicht werdet Ihr es verstehen, wenn ich Euch Perseias Geschichte erzähle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>Sie nimmt den Kamm und untersucht ihn, während sie dabei die Stirn runzelt. "Ja. Ich habe Omahdon belogen und ich bereue es nicht, obwohl ich weiß, dass Ihr mich dafür verurteilen werdet. Vielleicht werdet Ihr es verstehen, wenn ich Euch Perseias Geschichte erzähle."</DefaultText>
+      <DefaultText>Sie nimmt den Kamm und untersucht ihn, während sie dabei die Stirn runzelt. „Ja. Ich habe Omahdon belogen und ich bereue es nicht, obwohl ich weiß, dass Ihr mich dafür verurteilen werdet. Vielleicht werdet Ihr es verstehen, wenn ich Euch Perseias Geschichte erzähle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>"Omahdon hat unseren Plan durchschaut. Er ist gerade auf dem Weg in das Tal der Verlorenen Helden, während wir hier reden."</DefaultText>
+      <DefaultText>„Omahdon hat unseren Plan durchschaut. Er ist gerade auf dem Weg in das Tal der Verlorenen Helden, während wir hier reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>"Ich habe Omahdon davon überzeugt, die Suche nach Perseia aufzugeben."</DefaultText>
+      <DefaultText>„Ich habe Omahdon davon überzeugt, die Suche nach Perseia aufzugeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>"Ich habe Omahdon in die falsche Richtung geschickt, wie Ihr es wolltet."</DefaultText>
+      <DefaultText>„Ich habe Omahdon in die falsche Richtung geschickt, wie Ihr es wolltet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>"Das sind wunderbare Neuigkeiten", sagt sie mit glänzenden Augen. "Ihr habt ihr einen großen Gefallen getan."</DefaultText>
+      <DefaultText>„Das sind wunderbare Neuigkeiten“, sagt sie mit glänzenden Augen. „Ihr habt ihr einen großen Gefallen getan.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>"Das sind wunderbare Neuigkeiten", sagt sie mit glänzenden Augen. "Ihr habt Perseia einen großen Gefallen getan."</DefaultText>
+      <DefaultText>„Das sind wunderbare Neuigkeiten“, sagt sie mit glänzenden Augen. „Ihr habt Perseia einen großen Gefallen getan.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
       <DefaultText>Sie seufzt schwer und neigt den Kopf.
 
-"Nehmt es nicht zu persönlich. Ihr habt Euer Bestes versucht und ich bin mir sicher, dass Perseia damit gerechnet hat, verfolgt zu werden. Omahdon wird sie nur schwer überraschen können."</DefaultText>
+„Nehmt es nicht zu persönlich. Ihr habt Euer Bestes versucht und ich bin mir sicher, dass Perseia damit gerechnet hat, verfolgt zu werden. Omahdon wird sie nur schwer überraschen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>"Eine hervorragende Idee. Ich bin froh, dass Ihr wieder zu Verstand gekommen seid."</DefaultText>
+      <DefaultText>„Eine hervorragende Idee. Ich bin froh, dass Ihr wieder zu Verstand gekommen seid.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
