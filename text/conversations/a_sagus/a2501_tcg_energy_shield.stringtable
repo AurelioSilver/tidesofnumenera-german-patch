@@ -127,12 +127,12 @@ Wer auch immer diese Kuppel erschaffen hat, wollte, dass sein Inhalt nur einem a
       <ID>22</ID>
       <DefaultText>Du kannst nur an zwei Punkten mit dem Interface interagieren: am Kreis und an der Leiste. Die Leiste zu berühren scheint zunächst nichts zu bezwecken, aber der Kreis leuchtet hell auf, sobald du deine Hand in seiner Mitte platzierst. Die Symbole beginnen, schnell zu rotieren. Ansonsten geschieht nichts, und der Kreis verblasst sobald du deine Hand von ihm entfernst.
 
-Du platzierst noch einmal deine Hand in der Mitte des Kreises, doch diesmal fährst du mit deiner anderen Hand an der Leiste entlang. Die Symbole wirbeln herum ... und dann verschwindet das Interface.</DefaultText>
+Du platzierst noch einmal deine Hand in der Mitte des Kreises, doch diesmal fährst du mit deiner anderen Hand an der Leiste entlang. Die Symbole wirbeln herum … und dann verschwindet das Interface.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Die Luft kühlt sich sofort ab, und die Kuppel verblasst nach und nach, bis sie vollständig verschwunden ist ...
+      <DefaultText>Die Luft kühlt sich sofort ab, und die Kuppel verblasst nach und nach, bis sie vollständig verschwunden ist …
 
 {SOUND: Need effect of the energy dome deactivating.}</DefaultText>
       <FemaleText />
