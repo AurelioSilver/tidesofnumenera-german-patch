@@ -29,7 +29,7 @@
     <Entry>
       <ID>5</ID>
       <DefaultText>"Mein Herr!" Der Mann stolpert über seine eigenen Beine. "Ihr beehrt uns wahrhaftig mit Eurer Anwesenheit!"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Werte Dame!" Der Mann stolpert über seine eigenen Beine. "Ihr beehrt uns wahrhaftig mit Eurer Anwesenheit!"</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -306,7 +306,7 @@ Als die Figur anfängt, mit dir zu sprechen, kannst du förmlich spüren, wie si
     <Entry>
       <ID>64</ID>
       <DefaultText>"Noch einmal willkommen, Bruder!"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Noch einmal willkommen, Schwester!"</FemaleText>
     </Entry>
     <Entry>
       <ID>66</ID>
