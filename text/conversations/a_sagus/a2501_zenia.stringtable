@@ -9,14 +9,12 @@
       <DefaultText>Diese Frau ist in hellen Farben und leger gekleidet. Ihre Kleidung ist mit Perlen und Spielereien aus irgendeinem Material verziert, das du in Sagus Klippen noch nicht gesehen hast.
 
 Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – höchstwahrscheinlich Flüche – in einer fremden Sprache murmelt.</DefaultText>
-      <FemaleText>Diese Frau ist in hellen Farben und leger gekleidet. Ihre Kleidung ist mit Perlen und Spielereien aus irgendeinem Material verziert, das du in Sagus Klippen noch nicht gesehen hast.
-
-Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – höchstwahrscheinlich Flüche – in einer fremden Sprache murmelt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Diese farbenfroh gekleidete Frau schreitet und murmelt noch immer vor sich hin. Sie bemerkt dich und schenkt dir ein krummes Lächeln. "Du schon wieder, was? Brauchst du was?"</DefaultText>
-      <FemaleText>Diese farbenfroh gekleidete Frau schreitet und murmelt noch immer vor sich hin. Sie bemerkt dich und schenkt dir ein krummes Lächeln. "Du schon wieder, was? Brauchst du was?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -28,14 +26,12 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
       <DefaultText>"Stimmt irgendetwas nicht?"
 
 {SCRIPT: Should not be available if the player has lifted the travel ban.}</DefaultText>
-      <FemaleText>"Stimmt irgendetwas nicht?"
-
-{SCRIPT: Should not be available if the player has lifted the travel ban.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>"Warum würde der Rat die Leute daran hindern, zu gehen?"</DefaultText>
-      <FemaleText>"Warum würde der Rat die Leute daran hindern, zu gehen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -45,7 +41,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
     <Entry>
       <ID>12</ID>
       <DefaultText>"Du kommst nicht aus Sagus, oder?"</DefaultText>
-      <FemaleText>"Du kommst nicht aus Sagus, oder?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
@@ -57,9 +53,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
       <DefaultText>"Kannst du mich zur Oase mitnehmen?"
 
 {SCRIPT: Only plays after player returns from the Bloom.}</DefaultText>
-      <FemaleText>"Kannst du mich zur Oase mitnehmen?"
-
-{SCRIPT: Only plays after player returns from the Bloom.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -95,9 +89,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
       <DefaultText>"Ich habe sie davon überzeugt, das Reiseverbot aufzuheben. Kannst du mich jetzt zur Oase mitnehmen?"
 
 {SCRIPT: Player has permission to leave the city.}</DefaultText>
-      <FemaleText>"Ich habe sie davon überzeugt, das Reiseverbot aufzuheben. Kannst du mich jetzt zur Oase mitnehmen?"
-
-{SCRIPT: Player has permission to leave the city.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -107,7 +99,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
     <Entry>
       <ID>20</ID>
       <DefaultText>"Ich bin bereit, jetzt zur Oase zu gehen."</DefaultText>
-      <FemaleText>"Ich bin bereit, jetzt zur Oase zu gehen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
@@ -115,10 +107,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
 
 {SCRIPT: Complete Passage to M'ra Jolios quest.}
 {SCRIPT: Transition party to the Oasis and Stage 5.}</DefaultText>
-      <FemaleText>"Fantastisch! Ich auch. Komm an Bord." Sie wendet sich von dem Schiff ab und schreit: "Letzter Aufruf zur Oase von M'ra Jolios! Alle an Bord zur umgehenden Abfahrt nach Jerboa!"
-
-{SCRIPT: Complete Passage to M'ra Jolios quest.}
-{SCRIPT: Transition party to the Oasis and Stage 5.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -133,7 +122,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
     <Entry>
       <ID>24</ID>
       <DefaultText>Ihre dunklen Augen mustern dich von oben bis unten. Sie wird sanfter. "Ich sehe, dass du es ernst meinst. Ja, irgendetwas stimmt nicht. Ich habe einen Laderaum voller wertvoller Konserven aus Sagus und eine Handvoll wohlhabender Passagiere, die zur Oase überfahren möchten, doch sie sind alle *wertlos*. Der Stadtrat lässt niemanden zur Oase reisen, solange sie nicht einige verdammte politische Plänkeleien gelöst haben. Ich stecke hier fest, bis sie damit fertig sind."</DefaultText>
-      <FemaleText>Ihre dunklen Augen mustern dich von oben bis unten. Sie wird sanfter. "Ich sehe, dass du es ernst meinst. Ja, irgendetwas stimmt nicht. Ich habe einen Laderaum voller wertvoller Konserven aus Sagus und eine Handvoll wohlhabender Passagiere, die zur Oase überfahren möchten, doch sie sind alle *wertlos*. Der Stadtrat lässt niemanden zur Oase reisen, solange sie nicht einige verdammte politische Plänkeleien gelöst haben. Ich stecke hier fest, bis sie damit fertig sind."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -143,7 +132,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
     <Entry>
       <ID>26</ID>
       <DefaultText>Sie sieht vor Verbitterung in den Himmel, obwohl es offenbar nicht auf dich gerichtet ist. "Politische Spannungen", sagt sie schließlich. "Dem Rat gefällt nicht die Art und Weise, wie die führende Giash der Oase gewisse Situationen handhabt. Selbstverständlich sind es nicht die Giash, die darunter leiden, oder? Nur jene von uns, die versuchen, nach Hause zu kommen oder ihren Lebensunterhalt zu verdienen."</DefaultText>
-      <FemaleText>Sie sieht vor Verbitterung in den Himmel, obwohl es offenbar nicht auf dich gerichtet ist. "Politische Spannungen", sagt sie schließlich. "Dem Rat gefällt nicht die Art und Weise, wie die führende Giash der Oase gewisse Situationen handhabt. Selbstverständlich sind es nicht die Giash, die darunter leiden, oder? Nur jene von uns, die versuchen, nach Hause zu kommen oder ihren Lebensunterhalt zu verdienen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -162,7 +151,7 @@ Sie schenkt dir ein Lächeln. "Und es ist Heimat. Es wäre schön, wieder zurüc
     <Entry>
       <ID>29</ID>
       <DefaultText>"Jerboa, eine staubige Stadt gefüllt mit herrlichen Leuten, die alle gegen die lebensspendenden Gewässer von M'ra Jolios kauern."</DefaultText>
-      <FemaleText>"Jerboa, eine staubige Stadt gefüllt mit herrlichen Leuten, die alle gegen die lebensspendenden Gewässer von M'ra Jolios kauern."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
@@ -172,12 +161,12 @@ Sie schenkt dir ein Lächeln. "Und es ist Heimat. Es wäre schön, wieder zurüc
     <Entry>
       <ID>31</ID>
       <DefaultText>"Kannst du mir etwas über die Oase erzählen?"</DefaultText>
-      <FemaleText>"Kannst du mir etwas über die Oase erzählen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>"Kannst du mir nochmal etwas über die Oase erzählen?"</DefaultText>
-      <FemaleText>"Kannst du mir nochmal etwas über die Oase erzählen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
@@ -187,64 +176,58 @@ Sie schenkt dir ein Lächeln. "Und es ist Heimat. Es wäre schön, wieder zurüc
     <Entry>
       <ID>34</ID>
       <DefaultText>"Wirklich? Ich bin überrascht, dass du noch nichts darüber gehört hast. Die Oase von M'ra Jolios ist das Juwel der Wüste, eine Unterwasserstadt in der Mitte des Ödlands, das wir als die Verlorene See bezeichnen. Sie ist ein sehr beliebtes Touristenziel, wenn es dich irgendwann mal reizen sollte."</DefaultText>
-      <FemaleText>"Wirklich? Ich bin überrascht, dass du noch nichts darüber gehört hast. Die Oase von M'ra Jolios ist das Juwel der Wüste, eine Unterwasserstadt in der Mitte des Ödlands, das wir als die Verlorene See bezeichnen. Sie ist ein sehr beliebtes Touristenziel, wenn es dich irgendwann mal reizen sollte."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>"Ein azurblauer Juwel inmitten der Verlorenen See, ein beliebtes Touristenziel und ein lukrativer Handelsposten."</DefaultText>
-      <FemaleText>"Ein azurblauer Juwel inmitten der Verlorenen See, ein beliebtes Touristenziel und ein lukrativer Handelsposten."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>"Warum kannst du nicht wieder gehen?"</DefaultText>
-      <FemaleText>"Warum kannst du nicht wieder gehen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>"Sagus hat ein Reiseverbot zur Oase erlassen, bis die Giash sich den popeligen Forderungen unterwirft, die die Sklavenfamilien diesmal stellen. In der Zwischenzeit stecken wir hier fest und ich verliere täglich Geld."</DefaultText>
-      <FemaleText>"Sagus hat ein Reiseverbot zur Oase erlassen, bis die Giash sich den popeligen Forderungen unterwirft, die die Sklavenfamilien diesmal stellen. In der Zwischenzeit stecken wir hier fest und ich verliere täglich Geld."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>Flüsternd fügt sie hinzu: "Wenn der Rat uns fliegen lassen würde, das wäre toll."
 
 {SCRIPT: Does not play if the player has lifted the travel ban.}</DefaultText>
-      <FemaleText>Flüsternd fügt sie hinzu: "Wenn der Rat uns fliegen lassen würde, das wäre toll."
-
-{SCRIPT: Does not play if the player has lifted the travel ban.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>Diese Frau ist in hellen Farben und leger gekleidet. Ihre Kleidung ist mit Perlen und Spielereien aus irgendeinem Material verziert, das du in Sagus Klippen noch nicht gesehen hast.
 
 Sie schreitet auf und ab und mustert jede Ecke und jede Schraube an einem der Luftschiffe, wobei sie Notizen auf einem Papierblock macht.</DefaultText>
-      <FemaleText>Diese Frau ist in hellen Farben und leger gekleidet. Ihre Kleidung ist mit Perlen und Spielereien aus irgendeinem Material verziert, das du in Sagus Klippen noch nicht gesehen hast.
-
-Sie schreitet auf und ab und mustert jede Ecke und jede Schraube an einem der Luftschiffe, wobei sie Notizen auf einem Papierblock macht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Die farbenfroh gekleidete Frau schreitet energisch auf und ab und untersucht dabei jede Schraube und jeden Spalt des Luftschiffs, wobei sie Notizen auf einem Papierblock macht.</DefaultText>
-      <FemaleText>Die farbenfroh gekleidete Frau schreitet energisch auf und ab und untersucht dabei jede Schraube und jeden Spalt des Luftschiffs, wobei sie Notizen auf einem Papierblock macht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>"Es ist ein einfache Reise, obwohl – ich werde für eine Weile nirgendswo mehr hinfliegen. Vergewissere dich also zuerst, dass du alles unter Dach und Fach gebracht hast. Gib mir Bescheid, wenn du abreisebereit bist."</DefaultText>
-      <FemaleText>"Es ist ein einfache Reise, obwohl – ich werde für eine Weile nirgendswo mehr hinfliegen. Vergewissere dich also zuerst, dass du alles unter Dach und Fach gebracht hast. Gib mir Bescheid, wenn du abreisebereit bist."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>"Fast fertig ..."
 
 {SCRIPT: Player has lifted travel ban.}</DefaultText>
-      <FemaleText>"Fast fertig ..."
-
-{SCRIPT: Player has lifted travel ban.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>"Wie soll ich nur hier wegkommen?"</DefaultText>
-      <FemaleText>"Wie soll ich nur hier wegkommen?"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
