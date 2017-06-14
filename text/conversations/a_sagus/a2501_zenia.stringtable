@@ -60,7 +60,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
       <DefaultText>Sie bellt ein bitteres Lachen. "Das würde ich liebend gerne, mein Herr, doch solange das Reiseverbot herrscht, stecke ich hier fest. Wenn du etwas *daran* ändern kannst, dann gehöre ich voll und ganz dir."
 
 {SCRIPT: Trigger addendum to Passage to M'ra Jolios quest.}</DefaultText>
-      <FemaleText>Sie bellt ein bitteres Lachen. "Das würde ich liebend gerne, mein Herr, doch solange das Reiseverbot herrscht, stecke ich hier fest. Wenn du etwas *daran* ändern kannst, dann gehöre ich voll und ganz dir."
+      <FemaleText>Sie bellt ein bitteres Lachen. "Das würde ich liebend gerne, meine Dame, doch solange das Reiseverbot herrscht, stecke ich hier fest. Wenn du etwas *daran* ändern kannst, dann gehöre ich voll und ganz dir."
 
 {SCRIPT: Trigger addendum to Passage to M'ra Jolios quest.}</FemaleText>
     </Entry>
@@ -70,7 +70,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
 
 {SCRIPT: Add conditional for Lascar siege == TRUE.}
 {SCRIPT: Trigger addendum to Passage to M'ra Jolios quest.}</DefaultText>
-      <FemaleText>Sie bellt ein bitteres Lachen. "Das würde ich liebend gerne, mein Herr, doch solange das Reiseverbot herrscht, stecke ich hier fest. Als sei das Ganze nicht schon schlimm genug, hört man, dass einige Nichtsnutze aus der Flor den Stadtrat belagern. Nichts wird sich ändern, solange das nicht vorbei ist."
+      <FemaleText>Sie bellt ein bitteres Lachen. "Das würde ich liebend gerne, meine Dame, doch solange das Reiseverbot herrscht, stecke ich hier fest. Als sei das Ganze nicht schon schlimm genug, hört man, dass einige Nichtsnutze aus der Flor den Stadtrat belagern. Nichts wird sich ändern, solange das nicht vorbei ist."
 
 {SCRIPT: Add conditional for Lascar siege == TRUE.}
 {SCRIPT: Trigger addendum to Passage to M'ra Jolios quest.}</FemaleText>
@@ -94,7 +94,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
     <Entry>
       <ID>19</ID>
       <DefaultText>"*Ja*, das habe ich gehört, den Göttern sei Dank! Und natürlich berechne ich dem Mann, der meine Existenz gerettet hat, keinen Penny."</DefaultText>
-      <FemaleText>"*Ja*, das habe ich gehört, den Göttern sei Dank! Und natürlich berechne ich dem Mann, der meine Existenz gerettet hat, keinen Penny."</FemaleText>
+      <FemaleText>"*Ja*, das habe ich gehört, den Göttern sei Dank! Und natürlich berechne ich der Frau, die meine Existenz gerettet hat, keinen Penny."</FemaleText>
     </Entry>
     <Entry>
       <ID>20</ID>
@@ -127,7 +127,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
     <Entry>
       <ID>25</ID>
       <DefaultText>Ihre dunklen Augen mustern dich von oben bis unten. "Ist das dein Ernst? Oder bist du nur ein anderer Tourist, der den Ausländer infrage stellen möchte? Ja, irgendetwas stimmt nicht. Ich habe einen Laderaum voller wertvoller Konserven aus Sagus und eine Handvoll wohlhabender Passagiere, die zur Oase überfahren möchten, doch sie sind alle *wertlos*. Der Stadtrat lässt niemanden zur Oase reisen, solange sie nicht einige verdammte politische Plänkeleien gelöst haben. Ich stecke hier fest, bis sie damit fertig sind."</DefaultText>
-      <FemaleText>Ihre dunklen Augen mustern dich von oben bis unten. "Ist das dein Ernst? Oder bist du nur ein anderer Tourist, der den Ausländer infrage stellen möchte? Ja, irgendetwas stimmt nicht. Ich habe einen Laderaum voller wertvoller Konserven aus Sagus und eine Handvoll wohlhabender Passagiere, die zur Oase überfahren möchten, doch sie sind alle *wertlos*. Der Stadtrat lässt niemanden zur Oase reisen, solange sie nicht einige verdammte politische Plänkeleien gelöst haben. Ich stecke hier fest, bis sie damit fertig sind."</FemaleText>
+      <FemaleText>Ihre dunklen Augen mustern dich von oben bis unten. "Ist das dein Ernst? Oder bist du nur eine anderere Touristin, die den Ausländer infrage stellen möchte? Ja, irgendetwas stimmt nicht. Ich habe einen Laderaum voller wertvoller Konserven aus Sagus und eine Handvoll wohlhabender Passagiere, die zur Oase überfahren möchten, doch sie sind alle *wertlos*. Der Stadtrat lässt niemanden zur Oase reisen, solange sie nicht einige verdammte politische Plänkeleien gelöst haben. Ich stecke hier fest, bis sie damit fertig sind."</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
