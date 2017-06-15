@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Sangolin verneigt sich, als du eintrittst. "Willkommen zurück, der Herr. Es ist eine Ehre, Euch erneut zu Diensten zu sein. Was kann ich für Euch tun?"</DefaultText>
-      <FemaleText>Sangolin verneigt sich, als du eintrittst. "Willkommen zurück, die Dame. Es ist eine Ehre, Euch erneut zu Diensten zu sein. Was kann ich für Euch tun?"</FemaleText>
+      <DefaultText>Sangolin verneigt sich, als du eintrittst. „Willkommen zurück, der Herr. Es ist eine Ehre, Euch erneut zu Diensten zu sein. Was kann ich für Euch tun?“</DefaultText>
+      <FemaleText>Sangolin verneigt sich, als du eintrittst. „Willkommen zurück, die Dame. Es ist eine Ehre, Euch erneut zu Diensten zu sein. Was kann ich für Euch tun?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Sangolin verneigt sich, als du eintrittst. "Willkommen zurück, Stadtbewohner. Es ist eine Ehre, Euch erneut zu Diensten zu sein. Was kann ich für Euch tun?"</DefaultText>
+      <DefaultText>Sangolin verneigt sich, als du eintrittst. „Willkommen zurück, Stadtbewohner. Es ist eine Ehre, Euch erneut zu Diensten zu sein. Was kann ich für Euch tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,14 +26,14 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ich würde gerne sehen, was Ihr im Angebot habt."
+      <DefaultText>„Ich würde gerne sehen, was Ihr im Angebot habt.“
 
 {STORE}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,12 +43,12 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Kann ich ein offizielles Abzeichen der Stadt kaufen?"</DefaultText>
+      <DefaultText>„Kann ich ein offizielles Abzeichen der Stadt kaufen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Seid Ihr sicher, dass Ihr mir kein Abzeichen der Stadt verkaufen könnt?"</DefaultText>
+      <DefaultText>„Seid Ihr sicher, dass Ihr mir kein Abzeichen der Stadt verkaufen könnt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,12 +58,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Erzählt mir über den Regierungsplatz."</DefaultText>
+      <DefaultText>„Erzählt mir über den Regierungsplatz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Reden wir nochmal über den Regierungsplatz."</DefaultText>
+      <DefaultText>„Reden wir nochmal über den Regierungsplatz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,12 +103,12 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Natürlich, der Herr."
+      <DefaultText>„Natürlich, der Herr.“
 
-Er legt einen Finger auf das Kinn. "Lasst mich nachdenken. Der Ratsturm ist gleich da drüben, wie auch der Orden der Wahrheit. Und denkt auch an das Rote Dickicht – der ummauerte Hof am Rande des Platzes. Oder interessiert Ihr Euch für unseren Springbrunnen hier?"</DefaultText>
-      <FemaleText>"Natürlich, die Dame."
+Er legt einen Finger auf das Kinn. „Lasst mich nachdenken. Der Ratsturm ist gleich da drüben, wie auch der Orden der Wahrheit. Und denkt auch an das Rote Dickicht – der ummauerte Hof am Rande des Platzes. Oder interessiert Ihr Euch für unseren Springbrunnen hier?“</DefaultText>
+      <FemaleText>„Natürlich, die Dame.“
 
-Er legt einen Finger auf das Kinn. "Lasst mich nachdenken. Der Ratsturm ist gleich da drüben, wie auch der Orden der Wahrheit. Und denkt auch an das Rote Dickicht – der ummauerte Hof am Rande des Platzes. Oder interessiert Ihr Euch für unseren Springbrunnen hier?"</FemaleText>
+Er legt einen Finger auf das Kinn. „Lasst mich nachdenken. Der Ratsturm ist gleich da drüben, wie auch der Orden der Wahrheit. Und denkt auch an das Rote Dickicht – der ummauerte Hof am Rande des Platzes. Oder interessiert Ihr Euch für unseren Springbrunnen hier?“</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -147,12 +147,12 @@ Er legt einen Finger auf das Kinn. "Lasst mich nachdenken. Der Ratsturm ist glei
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Was verkauft Ihr hier?"</DefaultText>
+      <DefaultText>„Was verkauft Ihr hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Sagt mir nochmal, was Ihr verkauft."</DefaultText>
+      <DefaultText>„Sagt mir nochmal, was Ihr verkauft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,12 +162,12 @@ Er legt einen Finger auf das Kinn. "Lasst mich nachdenken. Der Ratsturm ist glei
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Ich verkaufe die feinste Stadtbekleidung für anspruchsvolle Männer und Frauen, aber auch Qualitätsrüstung für diejenigen, die weniger zivilisierte Schauplätze bereisen."</DefaultText>
+      <DefaultText>„Ich verkaufe die feinste Stadtbekleidung für anspruchsvolle Männer und Frauen, aber auch Qualitätsrüstung für diejenigen, die weniger zivilisierte Schauplätze bereisen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Die feinste Stadtbekleidung und Rüstungen für alle, die es sich leisten können. Unsere Qualität ist in der Tat so hoch, dass wir die zertifizierten Lieferanten des offiziellen Abzeichens von Sagus Klippen sind."</DefaultText>
+      <DefaultText>„Die feinste Stadtbekleidung und Rüstungen für alle, die es sich leisten können. Unsere Qualität ist in der Tat so hoch, dass wir die zertifizierten Lieferanten des offiziellen Abzeichens von Sagus Klippen sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,14 +207,14 @@ Er legt einen Finger auf das Kinn. "Lasst mich nachdenken. Der Ratsturm ist glei
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Abzeichen der Stadt werden nicht an jeden verkauft. Sie werden ordentlich gewählten oder ernannten öffentlichen Staatsdienern von Sagus Klippen *überreicht*. Und es wäre illegal, wenn ich sie jemandem geben würde, der nicht für die Stadt arbeitet. Das würde gegen das Gesetz verstoßen."
+      <DefaultText>„Abzeichen der Stadt werden nicht an jeden verkauft. Sie werden ordentlich gewählten oder ernannten öffentlichen Staatsdienern von Sagus Klippen *überreicht*. Und es wäre illegal, wenn ich sie jemandem geben würde, der nicht für die Stadt arbeitet. Das würde gegen das Gesetz verstoßen.“
 
-Er überlegt. "Natürlich bieten mir die meisten Staatsdiener eine Vergütung für die Materialien. Aber nein. Nein, ich werde weder das Risiko eingehen, noch das Vertrauen in mich missbrauchen."</DefaultText>
+Er überlegt. „Natürlich bieten mir die meisten Staatsdiener eine Vergütung für die Materialien. Aber nein. Nein, ich werde weder das Risiko eingehen, noch das Vertrauen in mich missbrauchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Aber sicher. Wie ich schon sagte, würde ich das Gesetz brechen, wenn ich es täte. Viel zu riskant."</DefaultText>
+      <DefaultText>„Aber sicher. Wie ich schon sagte, würde ich das Gesetz brechen, wenn ich es täte. Viel zu riskant.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,7 +229,7 @@ Er überlegt. "Natürlich bieten mir die meisten Staatsdiener eine Vergütung f�
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Bitte beehrt mich bald wieder."</DefaultText>
+      <DefaultText>„Bitte beehrt mich bald wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,12 +239,12 @@ Er überlegt. "Natürlich bieten mir die meisten Staatsdiener eine Vergütung f�
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Wie wird man ein Staatsdiener von Sagus Klippen?"</DefaultText>
+      <DefaultText>„Wie wird man ein Staatsdiener von Sagus Klippen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Sagt mir nochmal, wie man ein Staatsdiener von Sagus Klippen wird."</DefaultText>
+      <DefaultText>„Sagt mir nochmal, wie man ein Staatsdiener von Sagus Klippen wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -254,18 +254,18 @@ Er überlegt. "Natürlich bieten mir die meisten Staatsdiener eine Vergütung f�
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Die Sklavenfamilien verlangen einen Treueschwur, und Ihr müsst auch ein Jahr Eures Lebens opfern, um einen Levy zu erschaffen. Aber ich bin nicht der Mann, mit dem man über solche Dinge redet. Ihr solltet mit dem Ratsbeamten reden."</DefaultText>
+      <DefaultText>„Die Sklavenfamilien verlangen einen Treueschwur, und Ihr müsst auch ein Jahr Eures Lebens opfern, um einen Levy zu erschaffen. Aber ich bin nicht der Mann, mit dem man über solche Dinge redet. Ihr solltet mit dem Ratsbeamten reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Wie ich schon sagte, solltet Ihr mit dem Ratsbeamten darüber reden ... auch wenn ich Euer Interesse gutheiße."</DefaultText>
+      <DefaultText>„Wie ich schon sagte, solltet Ihr mit dem Ratsbeamten darüber reden ... auch wenn ich Euer Interesse gutheiße.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Sangolin verneigt sich tief, als er Euch sieht. "Willkommen zurück, der Herr. Ich sehe, dass Ihr seit unserem letzten Gespräch Staatsdiener geworden seid. Glückwunsch! Es wird mein größtes Vergnügen sein, Euch unsere exklusive Klippen-Kollektion zu zeigen."</DefaultText>
-      <FemaleText>Sangolin verneigt sich tief, als er Euch sieht. "Willkommen zurück, die Dame. Ich sehe, dass Ihr seit unserem letzten Gespräch Staatsdienerin geworden seid. Glückwunsch! Es wird mein größtes Vergnügen sein, Euch unsere exklusive Klippen-Kollektion zu zeigen."</FemaleText>
+      <DefaultText>Sangolin verneigt sich tief, als er Euch sieht. „Willkommen zurück, der Herr. Ich sehe, dass Ihr seit unserem letzten Gespräch Staatsdiener geworden seid. Glückwunsch! Es wird mein größtes Vergnügen sein, Euch unsere exklusive Klippen-Kollektion zu zeigen.“</DefaultText>
+      <FemaleText>Sangolin verneigt sich tief, als er Euch sieht. „Willkommen zurück, die Dame. Ich sehe, dass Ihr seit unserem letzten Gespräch Staatsdienerin geworden seid. Glückwunsch! Es wird mein größtes Vergnügen sein, Euch unsere exklusive Klippen-Kollektion zu zeigen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>57</ID>
@@ -304,24 +304,24 @@ Er überlegt. "Natürlich bieten mir die meisten Staatsdiener eine Vergütung f�
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Habt Ihr hier in der Gegend einen schwer gerüsteten Glaive gesehen? Geht, als würde er schlafen?"</DefaultText>
+      <DefaultText>„Habt Ihr hier in der Gegend einen schwer gerüsteten Glaive gesehen? Geht, als würde er schlafen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Habt Ihr eine Frau mit blasser Haut und strengem Gesicht in der Nachbarschaft gesehen? Sie sieht sehr grobschlächtig und gefährlich aus."</DefaultText>
+      <DefaultText>„Habt Ihr eine Frau mit blasser Haut und strengem Gesicht in der Nachbarschaft gesehen? Sie sieht sehr grobschlächtig und gefährlich aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Er schüttelt den Kopf. "Wenn ich so jemanden sehen würde, könnt Ihr sichergehen, dass ich ihn sofort den Levies melden würde."</DefaultText>
+      <DefaultText>Er schüttelt den Kopf. „Wenn ich so jemanden sehen würde, könnt Ihr sichergehen, dass ich ihn sofort den Levies melden würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Er runzelt einen Moment lang die Stirn, denkt nach und nickt schließlich. "Ja. Ich glaube sogar, dass ich ihr mal einen Mantel verkauft habe. So, wie sie ihn trug, schien es, als wollte sie ihr Gesicht verbergen. Bei einem solchen Gesicht konnte ich das allerdings verstehen."
+      <DefaultText>Er runzelt einen Moment lang die Stirn, denkt nach und nickt schließlich. „Ja. Ich glaube sogar, dass ich ihr mal einen Mantel verkauft habe. So, wie sie ihn trug, schien es, als wollte sie ihr Gesicht verbergen. Bei einem solchen Gesicht konnte ich das allerdings verstehen.“
 
-Er schaut in Richtung des Ratsgebäudes. "Ich hatte den Eindruck, dass sie *geheime* Arbeit für die Familien verrichtet. Aber ich hatte nicht vor, zu fragen."</DefaultText>
+Er schaut in Richtung des Ratsgebäudes. „Ich hatte den Eindruck, dass sie *geheime* Arbeit für die Familien verrichtet. Aber ich hatte nicht vor, zu fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,12 +356,12 @@ Er schaut in Richtung des Ratsgebäudes. "Ich hatte den Eindruck, dass sie *gehe
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Lasst mich Euch eine andere Frage stellen."</DefaultText>
+      <DefaultText>„Lasst mich Euch eine andere Frage stellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Aber sicher. Worüber möchtet Ihr mehr erfahren?"</DefaultText>
+      <DefaultText>„Aber sicher. Worüber möchtet Ihr mehr erfahren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,12 +371,12 @@ Er schaut in Richtung des Ratsgebäudes. "Ich hatte den Eindruck, dass sie *gehe
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Sagt mir, was Ihr über die Leute in diesem Viertel wisst."</DefaultText>
+      <DefaultText>„Sagt mir, was Ihr über die Leute in diesem Viertel wisst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Ich habe weitere Fragen zu den Leuten dieser Gegend."</DefaultText>
+      <DefaultText>„Ich habe weitere Fragen zu den Leuten dieser Gegend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,8 +386,8 @@ Er schaut in Richtung des Ratsgebäudes. "Ich hatte den Eindruck, dass sie *gehe
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Ich bin keiner für den Klatsch, mein Herr. Aber wenn Ihr darauf besteht. Über wen möchtet Ihr mehr erfahren?"</DefaultText>
-      <FemaleText>"Ich bin keiner für den Klatsch, meine Dame. Aber wenn Ihr darauf besteht. Über wen möchtet Ihr mehr erfahren?"</FemaleText>
+      <DefaultText>„Ich bin keiner für den Klatsch, mein Herr. Aber wenn Ihr darauf besteht. Über wen möchtet Ihr mehr erfahren?“</DefaultText>
+      <FemaleText>„Ich bin keiner für den Klatsch, meine Dame. Aber wenn Ihr darauf besteht. Über wen möchtet Ihr mehr erfahren?“</FemaleText>
     </Entry>
     <Entry>
       <ID>82</ID>
@@ -396,7 +396,7 @@ Er schaut in Richtung des Ratsgebäudes. "Ich hatte den Eindruck, dass sie *gehe
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Sehr gerne. Über wen möchtet Ihr mehr erfahren?"</DefaultText>
+      <DefaultText>„Sehr gerne. Über wen möchtet Ihr mehr erfahren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -446,38 +446,38 @@ Er schaut in Richtung des Ratsgebäudes. "Ich hatte den Eindruck, dass sie *gehe
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Das klingt nach einem vernünftigen Preis für Stiefel. Ich nehme sie."</DefaultText>
+      <DefaultText>„Das klingt nach einem vernünftigen Preis für Stiefel. Ich nehme sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Sehr gut, der Herr. Ich packe sie Euch ein. Die *zusätzliche Schnalle* findet Ihr im linken Stiefel."
+      <DefaultText>„Sehr gut, der Herr. Ich packe sie Euch ein. Die *zusätzliche Schnalle* findet Ihr im linken Stiefel.“
 
 {MONEY}
 {LOOT}</DefaultText>
-      <FemaleText>"Sehr gut, die Dame. Ich packe sie Euch ein. Die *zusätzliche Schnalle* findet Ihr im linken Stiefel."
+      <FemaleText>„Sehr gut, die Dame. Ich packe sie Euch ein. Die *zusätzliche Schnalle* findet Ihr im linken Stiefel.“
 
 {MONEY}
 {LOOT}</FemaleText>
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Das werde ich nicht zahlen."</DefaultText>
+      <DefaultText>„Das werde ich nicht zahlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Dann werden wir wohl nicht ins Geschäft kommen. Seid Ihr sicher?"</DefaultText>
+      <DefaultText>„Dann werden wir wohl nicht ins Geschäft kommen. Seid Ihr sicher?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"So viel habe ich nicht."</DefaultText>
+      <DefaultText>„So viel habe ich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Dann kann ich Euch die Stiefel nicht verkaufen. Leider ist der Preis ist nicht verhandelbar."</DefaultText>
+      <DefaultText>„Dann kann ich Euch die Stiefel nicht verkaufen. Leider ist der Preis ist nicht verhandelbar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -492,22 +492,22 @@ Er schaut in Richtung des Ratsgebäudes. "Ich hatte den Eindruck, dass sie *gehe
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Er schürzt die Lippen. "Bedaure, doch ich bin unbestechlich, mein Freund. Doch ... falls Ihr diese feinen Stiefel für, sagen wir, [Global: a2601_SangolinBribe] Shin kaufen würdet, wäre es möglich, dass ich *etwas von Wert* aus Versehen im linken Stiefel zurücklasse."</DefaultText>
+      <DefaultText>Er schürzt die Lippen. „Bedaure, doch ich bin unbestechlich, mein Freund. Doch ... falls Ihr diese feinen Stiefel für, sagen wir, [Global: a2601_SangolinBribe] Shin kaufen würdet, wäre es möglich, dass ich *etwas von Wert* aus Versehen im linken Stiefel zurücklasse.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Die Stiefel kosten [Global: a2601_SangolinBribe] Shin. Die *zusätzliche Schnalle* ist kostenlos."</DefaultText>
+      <DefaultText>„Die Stiefel kosten [Global: a2601_SangolinBribe] Shin. Die *zusätzliche Schnalle* ist kostenlos.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Was wäre notwendig, damit Ihr dieses Risiko eingeht?"</DefaultText>
+      <DefaultText>„Was wäre notwendig, damit Ihr dieses Risiko eingeht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Ich möchte nochmal Euer Angebot hören. Für die Stiefel mit *etwas von Wert* darin."</DefaultText>
+      <DefaultText>„Ich möchte nochmal Euer Angebot hören. Für die Stiefel mit *etwas von Wert* darin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -537,7 +537,7 @@ Er schaut in Richtung des Ratsgebäudes. "Ich hatte den Eindruck, dass sie *gehe
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Ich wurde in der Tat gerade zum Staatssekretär des Aufsehers für Hinrichtungen ernannt. Das Schreiben ist wohl noch nicht durchgegangen. Das ist aber kein Problem, oder?"</DefaultText>
+      <DefaultText>„Ich wurde in der Tat gerade zum Staatssekretär des Aufsehers für Hinrichtungen ernannt. Das Schreiben ist wohl noch nicht durchgegangen. Das ist aber kein Problem, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -579,34 +579,34 @@ Er dreht sich gerade um, als du es versteckst. Er bemerkt nichts.</DefaultText>
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Ah, aber ihr würdet das Gesetz nicht brechen. Mein Freund hier ist gerade zum Staatssekretär von Aufseher Yeen ernannt worden. Ein Bote sollte bald mit dem offiziellen Schreiben kommen, doch Ihr wisst ja, wie Yeen ist. Immer ein wenig schlampig, was seinen Papierkram angeht."</DefaultText>
+      <DefaultText>„Ah, aber ihr würdet das Gesetz nicht brechen. Mein Freund hier ist gerade zum Staatssekretär von Aufseher Yeen ernannt worden. Ein Bote sollte bald mit dem offiziellen Schreiben kommen, doch Ihr wisst ja, wie Yeen ist. Immer ein wenig schlampig, was seinen Papierkram angeht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Ist schon gut, Tybir. Er wird es früh genug erfahren. Sangolin, Yeens Verzögerung wird kein Problem sein, oder?"</DefaultText>
+      <DefaultText>„Ist schon gut, Tybir. Er wird es früh genug erfahren. Sangolin, Yeens Verzögerung wird kein Problem sein, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Natürlich nicht, der Herr. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein." Er lächelt.</DefaultText>
-      <FemaleText>"Natürlich nicht, die Dame. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein." Er lächelt.</FemaleText>
+      <DefaultText>„Natürlich nicht, der Herr. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt.</DefaultText>
+      <FemaleText>„Natürlich nicht, die Dame. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt.</FemaleText>
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Sangolin seufzt entschuldigend. "Es tut mir furchtbar leid, mein Herr. Normalerweise würde ich Euch beim Wort nehmen, doch in Angelegenheiten, die die Gemeinde betreffen, muss ich äußerst vorsichtig sein. Ich fürchte, wir müssen warten, bis die Papiere ankommen."</DefaultText>
-      <FemaleText>Sangolin seufzt entschuldigend. "Es tut mir furchtbar leid, meine Dame. Normalerweise würde ich Euch beim Wort nehmen, doch in Angelegenheiten, die die Gemeinde betreffen, muss ich äußerst vorsichtig sein. Ich fürchte, wir müssen warten, bis die Papiere ankommen."</FemaleText>
+      <DefaultText>Sangolin seufzt entschuldigend. „Es tut mir furchtbar leid, mein Herr. Normalerweise würde ich Euch beim Wort nehmen, doch in Angelegenheiten, die die Gemeinde betreffen, muss ich äußerst vorsichtig sein. Ich fürchte, wir müssen warten, bis die Papiere ankommen.“</DefaultText>
+      <FemaleText>Sangolin seufzt entschuldigend. „Es tut mir furchtbar leid, meine Dame. Normalerweise würde ich Euch beim Wort nehmen, doch in Angelegenheiten, die die Gemeinde betreffen, muss ich äußerst vorsichtig sein. Ich fürchte, wir müssen warten, bis die Papiere ankommen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Natürlich nicht, der Herr. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein." Er lächelt. "Und als Glückwunsch zu Eurer ersten Anstellung in der Stadt, nehmt bitte diese feinen Handschuhe an, mit Kompliment des Hauses."
+      <DefaultText>„Natürlich nicht, der Herr. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt. „Und als Glückwunsch zu Eurer ersten Anstellung in der Stadt, nehmt bitte diese feinen Handschuhe an, mit Kompliment des Hauses.“
 
 {LOOT: Give player red gloves.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Sangolin runzelt die Stirn. "Es schmerzt mich, das zu sagen, mein Herr, aber ich glaube Euch nicht. Bitte versucht nicht nochmal, mich zu überlisten."</DefaultText>
+      <DefaultText>Sangolin runzelt die Stirn. „Es schmerzt mich, das zu sagen, mein Herr, aber ich glaube Euch nicht. Bitte versucht nicht nochmal, mich zu überlisten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,27 +636,27 @@ Er hat nichts gesehen, doch Tybir verdreht die Augen.</DefaultText>
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Danke, Tybir. Aber es gibt keinen Grund, die Sache zu forcieren. Reden wir über etwas anderes."</DefaultText>
+      <DefaultText>„Danke, Tybir. Aber es gibt keinen Grund, die Sache zu forcieren. Reden wir über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Sangolin runzelt die Stirn. "Es schmerzt mich, dies zu sagen, mein Herr, vor allem, nachdem ich gehört habe, was Ihr alles getan habt, um Sagus Klippen zu helfen, doch ich fürchte, ich glaube Euch nicht, dass Ihr ein Bediensteter der Stadt seid. Bitte versucht nicht nochmal, mich zu überlisten."</DefaultText>
+      <DefaultText>Sangolin runzelt die Stirn. „Es schmerzt mich, dies zu sagen, mein Herr, vor allem, nachdem ich gehört habe, was Ihr alles getan habt, um Sagus Klippen zu helfen, doch ich fürchte, ich glaube Euch nicht, dass Ihr ein Bediensteter der Stadt seid. Bitte versucht nicht nochmal, mich zu überlisten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Sangolin seufzt entschuldigend. "Es tut mir furchtbar leid, mein Herr. Da ich weiß, was Ihr schon alles für diese Stadt getan habt, wünschte ich, Euch beim Wort nehmen zu können, doch in Angelegenheiten, die die Gemeinde betreffen, muss ich äußerst vorsichtig sein. Ich fürchte, wir müssen warten, bis die Papiere ankommen."</DefaultText>
-      <FemaleText>Sangolin seufzt entschuldigend. "Es tut mir furchtbar leid, meine Dame. Da ich weiß, was Ihr schon alles für diese Stadt getan habt, wünschte ich, Euch beim Wort nehmen zu können, doch in Angelegenheiten, die die Gemeinde betreffen, muss ich äußerst vorsichtig sein. Ich fürchte, wir müssen warten, bis die Papiere ankommen."</FemaleText>
+      <DefaultText>Sangolin seufzt entschuldigend. „Es tut mir furchtbar leid, mein Herr. Da ich weiß, was Ihr schon alles für diese Stadt getan habt, wünschte ich, Euch beim Wort nehmen zu können, doch in Angelegenheiten, die die Gemeinde betreffen, muss ich äußerst vorsichtig sein. Ich fürchte, wir müssen warten, bis die Papiere ankommen.“</DefaultText>
+      <FemaleText>Sangolin seufzt entschuldigend. „Es tut mir furchtbar leid, meine Dame. Da ich weiß, was Ihr schon alles für diese Stadt getan habt, wünschte ich, Euch beim Wort nehmen zu können, doch in Angelegenheiten, die die Gemeinde betreffen, muss ich äußerst vorsichtig sein. Ich fürchte, wir müssen warten, bis die Papiere ankommen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Natürlich nicht, der Herr. Nachdem, was Ihr bereits für diese Stadt getan habt, weiß ich, dass Ihr ein guter Beamter sein werdet. Ich packe Euch das Abzeichen sofort ein." Er lächelt.</DefaultText>
-      <FemaleText>"Natürlich nicht, meine Dame. Nachdem, was Ihr bereits für diese Stadt getan habt, weiß ich, dass Ihr eine gute Beamtin sein werdet. Ich packe Euch das Abzeichen sofort ein." Er lächelt.</FemaleText>
+      <DefaultText>„Natürlich nicht, der Herr. Nachdem, was Ihr bereits für diese Stadt getan habt, weiß ich, dass Ihr ein guter Beamter sein werdet. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt.</DefaultText>
+      <FemaleText>„Natürlich nicht, meine Dame. Nachdem, was Ihr bereits für diese Stadt getan habt, weiß ich, dass Ihr eine gute Beamtin sein werdet. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt.</FemaleText>
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Natürlich nicht, der Herr. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein." Er lächelt. "Und als Dank für das, was Ihr bereits für Sagus Klippen getan habt, nehmt bitte diese feinen Handschuhe an, mit Kompliment des Hauses."
+      <DefaultText>„Natürlich nicht, der Herr. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt. „Und als Dank für das, was Ihr bereits für Sagus Klippen getan habt, nehmt bitte diese feinen Handschuhe an, mit Kompliment des Hauses.“
 
 {LOOT: Give player red gloves.}</DefaultText>
       <FemaleText />
@@ -683,36 +683,36 @@ Er hat nichts gesehen, doch Tybir verdreht die Augen.</DefaultText>
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Natürlich, der Herr."</DefaultText>
-      <FemaleText>"Natürlich, meine Dame."</FemaleText>
+      <DefaultText>„Natürlich, der Herr.“</DefaultText>
+      <FemaleText>„Natürlich, meine Dame.“</FemaleText>
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Schönen Nachmittag, Bürger", sagt er und verneigt sich leicht. "Ich bin Sangolin, und dies ist mein Geschäft, Sangolins Bekleidung. Willkommen! Wie kann ich behilflich sein?"</DefaultText>
-      <FemaleText>"Schönen Nachmittag, Bürgerin", sagt er und verneigt sich leicht. "Ich bin Sangolin, und dies ist mein Geschäft, Sangolins Bekleidung. Willkommen! Wie kann ich behilflich sein?"</FemaleText>
+      <DefaultText>„Schönen Nachmittag, Bürger“, sagt er und verneigt sich leicht. „Ich bin Sangolin, und dies ist mein Geschäft, Sangolins Bekleidung. Willkommen! Wie kann ich behilflich sein?“</DefaultText>
+      <FemaleText>„Schönen Nachmittag, Bürgerin“, sagt er und verneigt sich leicht. „Ich bin Sangolin, und dies ist mein Geschäft, Sangolins Bekleidung. Willkommen! Wie kann ich behilflich sein?“</FemaleText>
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Schönen Nachmittag", sagt er und verneigt sich leicht. "Ich bin Sangolin, und dies ist mein Laden, Sangolins Bekleidung. Willkommen! Wie kann ich behilflich sein?"</DefaultText>
+      <DefaultText>„Schönen Nachmittag“, sagt er und verneigt sich leicht. „Ich bin Sangolin, und dies ist mein Laden, Sangolins Bekleidung. Willkommen! Wie kann ich behilflich sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Schönen Nachmittag, Bürger." Er starrt dich an und seine Augen weiten sich, als er dich erkennt. "Ach, Ihr seid doch derjenige, der dafür sorgte, dass diese Kreaturen nicht mehr unter unseren Füßen herumgraben! Peliai hat mir alles erzählt."</DefaultText>
-      <FemaleText>"Schönen Nachmittag, Bürgerin." Er starrt dich an und seine Augen weiten sich, als er dich erkennt. "Ach, Ihr seid doch diejenige, die dafür sorgte, dass diese Kreaturen nicht mehr unter unseren Füßen herumgraben! Peliai hat mir alles erzählt."</FemaleText>
+      <DefaultText>„Schönen Nachmittag, Bürger.“ Er starrt dich an und seine Augen weiten sich, als er dich erkennt. „Ach, Ihr seid doch derjenige, der dafür sorgte, dass diese Kreaturen nicht mehr unter unseren Füßen herumgraben! Peliai hat mir alles erzählt.“</DefaultText>
+      <FemaleText>„Schönen Nachmittag, Bürgerin.“ Er starrt dich an und seine Augen weiten sich, als er dich erkennt. „Ach, Ihr seid doch diejenige, die dafür sorgte, dass diese Kreaturen nicht mehr unter unseren Füßen herumgraben! Peliai hat mir alles erzählt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Schönen Nachmittag." Er starrt dich an und seine Augen weiten sich, als er dich erkennt. "Ach, Ihr seid doch derjenige, der dafür sorgte, dass diese Kreaturen nicht mehr unter unseren Füßen herumgraben! Peliai hat mir alles davon erzählt."
+      <DefaultText>„Schönen Nachmittag.“ Er starrt dich an und seine Augen weiten sich, als er dich erkennt. „Ach, Ihr seid doch derjenige, der dafür sorgte, dass diese Kreaturen nicht mehr unter unseren Füßen herumgraben! Peliai hat mir alles davon erzählt.“
 
-Er strahlt dich an. "Ich bin Sangolin, und dies ist mein Laden, Sangolins Bekleidung. Ihr seid durchaus willkommen! Wie kann ich behilflich sein?"</DefaultText>
-      <FemaleText>"Schönen Nachmittag." Er starrt dich an und seine Augen weiten sich, als er dich erkennt. "Ach, Ihr seid doch derjenige, der dafür sorgte, dass diese Kreaturen nicht mehr unter unseren Füßen herumgraben! Peliai hat mir alles davon erzählt."
+Er strahlt dich an. „Ich bin Sangolin, und dies ist mein Laden, Sangolins Bekleidung. Ihr seid durchaus willkommen! Wie kann ich behilflich sein?“</DefaultText>
+      <FemaleText>„Schönen Nachmittag.“ Er starrt dich an und seine Augen weiten sich, als er dich erkennt. „Ach, Ihr seid doch derjenige, der dafür sorgte, dass diese Kreaturen nicht mehr unter unseren Füßen herumgraben! Peliai hat mir alles davon erzählt.“
 
-Er strahlt dich an. "Ich bin Sangolin, und dies ist mein Laden, Sangolins Bekleidung. Ihr seid durchaus willkommen! Wie kann ich behilflich sein?"</FemaleText>
+Er strahlt dich an. „Ich bin Sangolin, und dies ist mein Laden, Sangolins Bekleidung. Ihr seid durchaus willkommen! Wie kann ich behilflich sein?“</FemaleText>
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Jede der Jalleys im Springbrunnen spricht in einer anderen toten Sprache. Ich finde, ihr Gebabbel hat einen angenehmen Unterton, wie das Prasseln von Regen, aber sie machen manche Leute verrückt damit." Er zuckt mit den Schultern.</DefaultText>
+      <DefaultText>„Jede der Jalleys im Springbrunnen spricht in einer anderen toten Sprache. Ich finde, ihr Gebabbel hat einen angenehmen Unterton, wie das Prasseln von Regen, aber sie machen manche Leute verrückt damit.“ Er zuckt mit den Schultern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -722,12 +722,12 @@ Er strahlt dich an. "Ich bin Sangolin, und dies ist mein Laden, Sangolins Beklei
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Erzählt mir über den Springbrunnen."</DefaultText>
+      <DefaultText>„Erzählt mir über den Springbrunnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Erzählt mir nochmal über den Springbrunnen."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal über den Springbrunnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -737,12 +737,12 @@ Er strahlt dich an. "Ich bin Sangolin, und dies ist mein Laden, Sangolins Beklei
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Erzählt mir über den Ratsturm."</DefaultText>
+      <DefaultText>„Erzählt mir über den Ratsturm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Erzählt mir nochmal über den Ratsturm."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal über den Ratsturm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -752,12 +752,12 @@ Er strahlt dich an. "Ich bin Sangolin, und dies ist mein Laden, Sangolins Beklei
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Was könnt Ihr mir von dem Orden der Wahrheit erzählen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir von dem Orden der Wahrheit erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Erzählt mir nochmal über den Orden der Wahrheit."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal über den Orden der Wahrheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -767,12 +767,12 @@ Er strahlt dich an. "Ich bin Sangolin, und dies ist mein Laden, Sangolins Beklei
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Könnt Ihr mir von dem Haus der Leeren Zeit erzählen?"</DefaultText>
+      <DefaultText>„Könnt Ihr mir von dem Haus der Leeren Zeit erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Erzählt mir nochmal über das Haus der Leeren Zeit."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal über das Haus der Leeren Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -782,12 +782,12 @@ Er strahlt dich an. "Ich bin Sangolin, und dies ist mein Laden, Sangolins Beklei
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Was ist das Rote Dickicht?"</DefaultText>
+      <DefaultText>„Was ist das Rote Dickicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Erklärt mir nochmal das Rote Dickicht."</DefaultText>
+      <DefaultText>„Erklärt mir nochmal das Rote Dickicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -797,12 +797,12 @@ Er strahlt dich an. "Ich bin Sangolin, und dies ist mein Laden, Sangolins Beklei
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Was könnt Ihr mir über den Ratsbeamten sagen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir über den Ratsbeamten sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Erzählt mir nochmal über den Ratsbeamten."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal über den Ratsbeamten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -827,12 +827,12 @@ Er strahlt dich an. "Ich bin Sangolin, und dies ist mein Laden, Sangolins Beklei
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Habt Ihr von Iyene der Wissenden gehört?"</DefaultText>
+      <DefaultText>„Habt Ihr von Iyene der Wissenden gehört?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Erzählt mir nochmal von Iyene der Wissenden."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal von Iyene der Wissenden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -852,9 +852,9 @@ Er strahlt dich an. "Ich bin Sangolin, und dies ist mein Laden, Sangolins Beklei
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Eine der merkwürdigeren und ergreifenderen Attraktionen auf dem Platz. Die Kreaturen darin werden als Jalleys bezeichnet, und sie plappern in tausend toten Sprachen. Die Priester sagen, dass jedes Mal ein neuer Jalley geboren wird, wenn eine alte Sprache ausstirbt."
+      <DefaultText>„Eine der merkwürdigeren und ergreifenderen Attraktionen auf dem Platz. Die Kreaturen darin werden als Jalleys bezeichnet, und sie plappern in tausend toten Sprachen. Die Priester sagen, dass jedes Mal ein neuer Jalley geboren wird, wenn eine alte Sprache ausstirbt.“
 
-Er schüttelt den Kopf. "Ihr könntet ihnen einen Monat lang zuhören und nie die gleiche Sprache zweimal hören, oder eine einzige davon verstehen."</DefaultText>
+Er schüttelt den Kopf. „Ihr könntet ihnen einen Monat lang zuhören und nie die gleiche Sprache zweimal hören, oder eine einzige davon verstehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -864,12 +864,12 @@ Er schüttelt den Kopf. "Ihr könntet ihnen einen Monat lang zuhören und nie di
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Er ist uralt, jenseits aller Berechnung. Das Fundament des Turms reicht bis hinab zu den Schmieden in Schattenseite. Und darin sitzt der Rat von Sagus Klippen – das feinste, gerechteste legislative Organ in der Neunten Welt. Und das sage ich nicht einfach nur, weil sie meine meist geschätzten Schirmherren sind. Sie führen diese Stadt seit Jahrhunderten gut. Und dank mir sehen sie dabei alle großartig aus."</DefaultText>
+      <DefaultText>„Er ist uralt, jenseits aller Berechnung. Das Fundament des Turms reicht bis hinab zu den Schmieden in Schattenseite. Und darin sitzt der Rat von Sagus Klippen – das feinste, gerechteste legislative Organ in der Neunten Welt. Und das sage ich nicht einfach nur, weil sie meine meist geschätzten Schirmherren sind. Sie führen diese Stadt seit Jahrhunderten gut. Und dank mir sehen sie dabei alle großartig aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Das ist der Sitz unserer weisen und großmütigen Herrscher. Der Rat regiert unsere Stadt seit den legendären Tagen von Chila der Großen."</DefaultText>
+      <DefaultText>„Das ist der Sitz unserer weisen und großmütigen Herrscher. Der Rat regiert unsere Stadt seit den legendären Tagen von Chila der Großen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -879,12 +879,12 @@ Er schüttelt den Kopf. "Ihr könntet ihnen einen Monat lang zuhören und nie di
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Sie sind eine Auszeichnung für unsere Stadt. Weise Gelehrte und tiefgründige Denker." Er lächelt. "Und auch exzellente Kunden. Sie sind sehr wählerisch, wenn es um ihre Roben geht."</DefaultText>
+      <DefaultText>„Sie sind eine Auszeichnung für unsere Stadt. Weise Gelehrte und tiefgründige Denker.“ Er lächelt. „Und auch exzellente Kunden. Sie sind sehr wählerisch, wenn es um ihre Roben geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Das intellektuelle Zentrum von Sagus Klippen. Ihr unnachgiebiges Streben nach Wissen ist eine Inspiration für uns alle."</DefaultText>
+      <DefaultText>„Das intellektuelle Zentrum von Sagus Klippen. Ihr unnachgiebiges Streben nach Wissen ist eine Inspiration für uns alle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -894,12 +894,12 @@ Er schüttelt den Kopf. "Ihr könntet ihnen einen Monat lang zuhören und nie di
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Dieser Torbogen beim Orden der Wahrheit? Ein sehr eigenartiges Ding. Es scheint Kinder zu transportieren ... irgendwo hin. Ich habe einige reingehen sehen, und andere, die herauskamen, und ich weiß nicht, wo sie hingehen und wo sie herkommen."</DefaultText>
+      <DefaultText>„Dieser Torbogen beim Orden der Wahrheit? Ein sehr eigenartiges Ding. Es scheint Kinder zu transportieren ... irgendwo hin. Ich habe einige reingehen sehen, und andere, die herauskamen, und ich weiß nicht, wo sie hingehen und wo sie herkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Darüber weiß ich nur wenig. Es ist ein Tor ins Nirgendwo, und ab und zu kommen Kinder heraus."</DefaultText>
+      <DefaultText>„Darüber weiß ich nur wenig. Es ist ein Tor ins Nirgendwo, und ab und zu kommen Kinder heraus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -909,12 +909,12 @@ Er schüttelt den Kopf. "Ihr könntet ihnen einen Monat lang zuhören und nie di
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"Ich nenne es den Flüsternden Wald. Ein sehr kurioser und alter Ort. Da drinnen könnt Ihr so laut reden, wie Ihr wollt, doch niemand, mit Ausnahme Eures Partners, kann Euch hören. Ein großartiger Ort für Diplomatie."</DefaultText>
+      <DefaultText>„Ich nenne es den Flüsternden Wald. Ein sehr kurioser und alter Ort. Da drinnen könnt Ihr so laut reden, wie Ihr wollt, doch niemand, mit Ausnahme Eures Partners, kann Euch hören. Ein großartiger Ort für Diplomatie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Das ist ein Ort, an dem man Geheimnisse austauscht. Ein Ort weicher Luft und ungehörter Worte."</DefaultText>
+      <DefaultText>„Das ist ein Ort, an dem man Geheimnisse austauscht. Ein Ort weicher Luft und ungehörter Worte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -924,12 +924,12 @@ Er schüttelt den Kopf. "Ihr könntet ihnen einen Monat lang zuhören und nie di
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>Er lächelt. "Da ist ein Bursche, der überall Hände hat. Und das meine ich im wahrsten Sinne des Wortes. Er kümmert sich um alle Dokumente des Rates und lagert seine Papiere und Dokumente an hunderten Orten in der ganzen Stadt. Er kann sie aber nach Belieben aus der Luft um ihn herum hervorbringen."</DefaultText>
+      <DefaultText>Er lächelt. „Da ist ein Bursche, der überall Hände hat. Und das meine ich im wahrsten Sinne des Wortes. Er kümmert sich um alle Dokumente des Rates und lagert seine Papiere und Dokumente an hunderten Orten in der ganzen Stadt. Er kann sie aber nach Belieben aus der Luft um ihn herum hervorbringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Er hält das Geschäft des Rates geschmeidig am Laufen und hat ein äußerst ungewöhnliches Archivierungssystem. Wenn Ihr mit der Bürokratie der Stadt zu tun habt, dann ist er derjenige, mit dem Ihr sprechen müsst."</DefaultText>
+      <DefaultText>„Er hält das Geschäft des Rates geschmeidig am Laufen und hat ein äußerst ungewöhnliches Archivierungssystem. Wenn Ihr mit der Bürokratie der Stadt zu tun habt, dann ist er derjenige, mit dem Ihr sprechen müsst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -954,22 +954,22 @@ Er schüttelt den Kopf. "Ihr könntet ihnen einen Monat lang zuhören und nie di
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Man sagt, sie wisse alles, aber das ist eine Lüge. Sie weiß schon mal sicher nicht, wie sie sich anziehen soll. Ich habe ihr Hilfe angeboten, aber sie will nicht in mein Geschäft kommen. Sagt, ich sei zu teuer."</DefaultText>
+      <DefaultText>„Man sagt, sie wisse alles, aber das ist eine Lüge. Sie weiß schon mal sicher nicht, wie sie sich anziehen soll. Ich habe ihr Hilfe angeboten, aber sie will nicht in mein Geschäft kommen. Sagt, ich sei zu teuer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Sie weiß alles, doch nichts über Stil. Geheimnisse, ja. Aber was man anzieht, nicht wirklich. Ich verzweifle an ihr."</DefaultText>
+      <DefaultText>„Sie weiß alles, doch nichts über Stil. Geheimnisse, ja. Aber was man anzieht, nicht wirklich. Ich verzweifle an ihr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>Er räuspert sich und lenkt deine Aufmerksamkeit auf eine gut gekleidete Puppe, die das Abzeichen eines städtischen Beamten trägt. "Es ist auch eine Ehre für uns, ausgewählt worden zu sein, die Stadt Sagusklippen mit den offiziellen Abzeichen zu beliefern, die von allen akkreditierten Angestellten der Stadt getragen werden. Ihr könnt auf ihr Vertrauen in uns vertrauen."</DefaultText>
+      <DefaultText>Er räuspert sich und lenkt deine Aufmerksamkeit auf eine gut gekleidete Puppe, die das Abzeichen eines städtischen Beamten trägt. „Es ist auch eine Ehre für uns, ausgewählt worden zu sein, die Stadt Sagusklippen mit den offiziellen Abzeichen zu beliefern, die von allen akkreditierten Angestellten der Stadt getragen werden. Ihr könnt auf ihr Vertrauen in uns vertrauen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Danke, Tybir, aber das wäre von diesem Herren zu viel verlangt. Vielleicht können wir sein Risiko mindern?"</DefaultText>
+      <DefaultText>„Danke, Tybir, aber das wäre von diesem Herren zu viel verlangt. Vielleicht können wir sein Risiko mindern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -994,64 +994,64 @@ Er schüttelt den Kopf. "Ihr könntet ihnen einen Monat lang zuhören und nie di
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Wie gut kennt Ihr Alcen Perie?"</DefaultText>
+      <DefaultText>„Wie gut kennt Ihr Alcen Perie?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Erzählt mir nochmal von Alcen Perie."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal von Alcen Perie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Sie kommt öfters hier vorbei, obwohl sie nicht jedes Mal etwas kauft. Ich weiß nur wenig über sie, außer dass sie eine Cheirurgin ist, die sich um Kinder kümmert." Er hebt die Brauen. "Ich glaube nicht, dass das *alles* ist, was sie tut – manchmal sehe ich, wie sie mit Fremden aus anderen Ecken der Stadt spricht – normalerweise mit verheirateten Paaren. Es ist alles ziemlich geheim, wenn Ihr versteht, was ich meine."</DefaultText>
+      <DefaultText>„Sie kommt öfters hier vorbei, obwohl sie nicht jedes Mal etwas kauft. Ich weiß nur wenig über sie, außer dass sie eine Cheirurgin ist, die sich um Kinder kümmert.“ Er hebt die Brauen. „Ich glaube nicht, dass das *alles* ist, was sie tut – manchmal sehe ich, wie sie mit Fremden aus anderen Ecken der Stadt spricht – normalerweise mit verheirateten Paaren. Es ist alles ziemlich geheim, wenn Ihr versteht, was ich meine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Vom Beruf her ist sie Cheirurgin, und sie trägt offensichtlich gerne feine Kleidung. Alcen gehört zu meinen besten Kunden, doch sie behält ihre persönlichen Angelegenheiten für sich."</DefaultText>
+      <DefaultText>„Vom Beruf her ist sie Cheirurgin, und sie trägt offensichtlich gerne feine Kleidung. Alcen gehört zu meinen besten Kunden, doch sie behält ihre persönlichen Angelegenheiten für sich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Ist das alles für heute? Kann ich dich vielleicht für unsere feine Sammlung von Rüstungen begeistern?"</DefaultText>
+      <DefaultText>„Ist das alles für heute? Kann ich dich vielleicht für unsere feine Sammlung von Rüstungen begeistern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>Er starrt dich an und schüttelt den Kopf. "Wirklich, Aufseher Yeen heuert heutzutage fast jeden an. Es gab eine Zeit, als von den Stadtbeamten erwartet wurde, Sagusklippen zu *kennen*." Er schüttelt abwertend den Kopf. "Vergesst es. Ihr habt nach dem Ratsturm gefragt."</DefaultText>
+      <DefaultText>Er starrt dich an und schüttelt den Kopf. „Wirklich, Aufseher Yeen heuert heutzutage fast jeden an. Es gab eine Zeit, als von den Stadtbeamten erwartet wurde, Sagusklippen zu *kennen*.“ Er schüttelt abwertend den Kopf. „Vergesst es. Ihr habt nach dem Ratsturm gefragt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Er schüttelt abwertend den Kopf. "Ihr sagtet, Ihr wurdet von Aufseher Yeen beauftragt? Wirklich, Yeens Standards lassen drastisch nach. Das sollte für jeden Gemeindediener zum Grundwissen gehören."
+      <DefaultText>Er schüttelt abwertend den Kopf. „Ihr sagtet, Ihr wurdet von Aufseher Yeen beauftragt? Wirklich, Yeens Standards lassen drastisch nach. Das sollte für jeden Gemeindediener zum Grundwissen gehören.“
 
-Er schüttelt den Kopf. "Es tut mir leid. Ihr habt nach dem Ratsbeamten gefragt."</DefaultText>
+Er schüttelt den Kopf. „Es tut mir leid. Ihr habt nach dem Ratsbeamten gefragt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Ist schon gut, Tybir. Er wird es früh genug erfahren. Sangolin, Yeens Verzögerung wird kein Problem sein, oder?"</DefaultText>
+      <DefaultText>„Ist schon gut, Tybir. Er wird es früh genug erfahren. Sangolin, Yeens Verzögerung wird kein Problem sein, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>Er lacht sanft. "Mein Freund, Ihr seid kein Stadtbeamter. All diese Fragen, die Ihr mir stellt, verdeutlichen Euer Unwissen." Er spreizt die Hände weit auseinander. "Ich bin Euch nicht böse, ich kann Euch aber nicht einfach die Marke eines Stadtbeamten *geben*."</DefaultText>
-      <FemaleText>Er lacht sanft. "Meine Gute, Ihr seid keine Stadtbeamtin. All diese Fragen, die Ihr mir stellt, verdeutlichen dein Unwissen." Er spreizt die Hände weit auseinander. "Ich bin Euch nicht böse, ich kann Euch aber nicht einfach die Marke eines Stadtbeamten *geben*."</FemaleText>
+      <DefaultText>Er lacht sanft. „Mein Freund, Ihr seid kein Stadtbeamter. All diese Fragen, die Ihr mir stellt, verdeutlichen Euer Unwissen.“ Er spreizt die Hände weit auseinander. „Ich bin Euch nicht böse, ich kann Euch aber nicht einfach die Marke eines Stadtbeamten *geben*.“</DefaultText>
+      <FemaleText>Er lacht sanft. „Meine Gute, Ihr seid keine Stadtbeamtin. All diese Fragen, die Ihr mir stellt, verdeutlichen dein Unwissen.“ Er spreizt die Hände weit auseinander. „Ich bin Euch nicht böse, ich kann Euch aber nicht einfach die Marke eines Stadtbeamten *geben*.“</FemaleText>
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Ich wurde in der Tat gerade zum Staatssekretär des Aufsehers für Hinrichtungen ernannt. Das Schreiben ist wohl noch nicht durchgegangen. Das ist aber kein Problem, oder?"</DefaultText>
+      <DefaultText>„Ich wurde in der Tat gerade zum Staatssekretär des Aufsehers für Hinrichtungen ernannt. Das Schreiben ist wohl noch nicht durchgegangen. Das ist aber kein Problem, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>Er starrt dich an und schüttelt den Kopf. "Wirklich, Aufseher Yeen heuert heutzutage fast jeden an. Es gab eine Zeit, als von den Stadtbeamten erwartet wurde, Sagusklippen zu *kennen*." Er schüttelt abwertend den Kopf. "Vergesst es. Ihr habt nach dem Roten Dickicht gefragt."</DefaultText>
+      <DefaultText>Er starrt dich an und schüttelt den Kopf. „Wirklich, Aufseher Yeen heuert heutzutage fast jeden an. Es gab eine Zeit, als von den Stadtbeamten erwartet wurde, Sagusklippen zu *kennen*.“ Er schüttelt abwertend den Kopf. „Vergesst es. Ihr habt nach dem Roten Dickicht gefragt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>Er starrt dich an und schüttelt den Kopf. "Wirklich, Aufseher Yeen heuert heutzutage fast jeden an. Es gab eine Zeit, als von den Stadtbeamten erwartet wurde, Sagusklippen zu *kennen*." Er schüttelt abwertend den Kopf. "Vergesst es. Ihr habt nach dem Springbrunnen gefragt."</DefaultText>
+      <DefaultText>Er starrt dich an und schüttelt den Kopf. „Wirklich, Aufseher Yeen heuert heutzutage fast jeden an. Es gab eine Zeit, als von den Stadtbeamten erwartet wurde, Sagusklippen zu *kennen*.“ Er schüttelt abwertend den Kopf. „Vergesst es. Ihr habt nach dem Springbrunnen gefragt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
