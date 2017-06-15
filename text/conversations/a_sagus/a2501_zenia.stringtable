@@ -13,7 +13,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Diese farbenfroh gekleidete Frau schreitet und murmelt noch immer vor sich hin. Sie bemerkt dich und schenkt dir ein schiefes Lächeln. „Du schon wieder, was? Brauchst du was?“</DefaultText>
+      <DefaultText>Diese farbenfroh gekleidete Frau schreitet und murmelt noch immer vor sich hin. Sie bemerkt dich und schenkt dir ein schiefes Lächeln. „Ihr schon wieder, was? Braucht ihr was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,27 +40,27 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Du kommst nicht aus Sagus, oder?“</DefaultText>
+      <DefaultText>„Ihr kommt nicht aus Sagus, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Wo kommst du noch mal her?“</DefaultText>
+      <DefaultText>„Wo kommt ihr noch mal her?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Kannst du mich zur Oase mitnehmen?“
+      <DefaultText>„Könnt ihr mich zur Oase mitnehmen?“
 
 {SCRIPT: Only plays after player returns from the Bloom.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Sie bellt ein bitteres Lachen. „Das würde ich liebend gerne, mein Herr, doch solange das Reiseverbot herrscht, stecke ich hier fest. Wenn du etwas *daran* ändern kannst, dann gehöre ich voll und ganz dir.“
+      <DefaultText>Sie bellt ein bitteres Lachen. „Das würde ich liebend gerne, mein Herr, doch solange das Reiseverbot herrscht, stecke ich hier fest. Wenn ihr etwas *daran* ändern könnt, dann gehöre ich voll und ganz euch.“
 
 {SCRIPT: Trigger addendum to Passage to M'ra Jolios quest.}</DefaultText>
-      <FemaleText>Sie bellt ein bitteres Lachen. „Das würde ich liebend gerne, meine Dame, doch solange das Reiseverbot herrscht, stecke ich hier fest. Wenn du etwas *daran* ändern kannst, dann gehöre ich voll und ganz dir.“
+      <FemaleText>Sie bellt ein bitteres Lachen. „Das würde ich liebend gerne, meine Dame, doch solange das Reiseverbot herrscht, stecke ich hier fest. Wenn ihr etwas *daran* ändern könnt, dann gehöre ich voll und ganz euch.“
 
 {SCRIPT: Trigger addendum to Passage to M'ra Jolios quest.}</FemaleText>
     </Entry>
@@ -77,16 +77,16 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Du bist derjenige, der sie dazu gebracht hat, das Reiseverbot aufzuheben, oder? Mein Herr, ich stehe in deiner Schuld. Natürlich kannst du mit uns reisen, kostenlos.“ Sie macht sich eine Notiz auf ihrem Papier.
+      <DefaultText>„Sie sind derjenige, der sie dazu gebracht hat, das Reiseverbot aufzuheben, oder? Mein Herr, ich stehe in eurer Schuld. Natürlich können Sie mit uns reisen, kostenlos.“ Sie macht sich eine Notiz auf ihrem Papier.
 
 {SCRIPT: Player has permission to leave the city.}</DefaultText>
-      <FemaleText>„Du bist diejenige, die sie dazu gebracht hat, das Reiseverbot aufzuheben, oder? Meine Dame, ich stehe in deiner Schuld. Natürlich kannst du mit uns reisen, kostenlos.“ Sie macht sich eine Notiz auf ihrem Papier.
+      <FemaleText>„Sie sind diejenige, die sie dazu gebracht hat, das Reiseverbot aufzuheben, oder? Meine Dame, ich stehe in eurer Schuld. Natürlich können Sie mit uns reisen, kostenlos.“ Sie macht sich eine Notiz auf ihrem Papier.
 
 {SCRIPT: Player has permission to leave the city.}</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Ich habe sie davon überzeugt, das Reiseverbot aufzuheben. Kannst du mich jetzt zur Oase mitnehmen?“
+      <DefaultText>„Ich habe sie davon überzeugt, das Reiseverbot aufzuheben. Können Sie mich jetzt zur Oase mitnehmen?“
 
 {SCRIPT: Player has permission to leave the city.}</DefaultText>
       <FemaleText />
@@ -103,7 +103,7 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Fantastisch! Ich auch. Komm an Bord.“ Sie wendet sich von dem Schiff ab und schreit: „Letzter Aufruf zur Oase von M'ra Jolios! Alle an Bord zur umgehenden Abfahrt nach Jerboa!“
+      <DefaultText>„Fantastisch! Ich auch. Kommt an Bord.“ Sie wendet sich von dem Schiff ab und schreit: „Letzter Aufruf zur Oase von M'ra Jolios! Alle an Bord zur umgehenden Abfahrt nach Jerboa!“
 
 {SCRIPT: Complete Passage to M'ra Jolios quest.}
 {SCRIPT: Transition party to the Oasis and Stage 5.}</DefaultText>
@@ -121,13 +121,13 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Ihre dunklen Augen mustern dich von oben bis unten. Sie wird sanfter. „Ich sehe, dass du es ernst meinst. Ja, irgendetwas stimmt nicht. Ich habe einen Laderaum voller wertvoller Konserven aus Sagus und eine Handvoll wohlhabender Passagiere, die zur Oase überfahren möchten, doch sie sind alle *wertlos*. Der Stadtrat lässt niemanden zur Oase reisen, solange sie nicht einige verdammte politische Plänkeleien gelöst haben. Ich stecke hier fest, bis sie damit fertig sind.“</DefaultText>
+      <DefaultText>Ihre dunklen Augen mustern dich von oben bis unten. Sie wird sanfter. „Ich sehe, dass ihr es ernst meint. Ja, irgendetwas stimmt nicht. Ich habe einen Laderaum voller wertvoller Konserven aus Sagus und eine Handvoll wohlhabender Passagiere, die zur Oase überfahren möchten, doch sie sind alle *wertlos*. Der Stadtrat lässt niemanden zur Oase reisen, solange sie nicht einige verdammte politische Plänkeleien gelöst haben. Ich stecke hier fest, bis sie damit fertig sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Ihre dunklen Augen mustern dich von oben bis unten. „Ist das dein Ernst? Oder bist du nur ein anderer Tourist, der den Ausländer infrage stellen möchte? Ja, irgendetwas stimmt nicht. Ich habe einen Laderaum voller wertvoller Konserven aus Sagus und eine Handvoll wohlhabender Passagiere, die zur Oase überfahren möchten, doch sie sind alle *wertlos*. Der Stadtrat lässt niemanden zur Oase reisen, solange sie nicht einige verdammte politische Plänkeleien gelöst haben. Ich stecke hier fest, bis sie damit fertig sind.“</DefaultText>
-      <FemaleText>Ihre dunklen Augen mustern dich von oben bis unten. „Ist das dein Ernst? Oder bist du nur eine andere Touristin, die den Ausländer infrage stellen möchte? Ja, irgendetwas stimmt nicht. Ich habe einen Laderaum voller wertvoller Konserven aus Sagus und eine Handvoll wohlhabender Passagiere, die zur Oase überfahren möchten, doch sie sind alle *wertlos*. Der Stadtrat lässt niemanden zur Oase reisen, solange sie nicht einige verdammte politische Plänkeleien gelöst haben. Ich stecke hier fest, bis sie damit fertig sind.“</FemaleText>
+      <DefaultText>Ihre dunklen Augen mustern dich von oben bis unten. „Ist das euer Ernst? Oder sind Sie nur ein anderer Tourist, der den Ausländer infrage stellen möchte? Ja, irgendetwas stimmt nicht. Ich habe einen Laderaum voller wertvoller Konserven aus Sagus und eine Handvoll wohlhabender Passagiere, die zur Oase überfahren möchten, doch sie sind alle *wertlos*. Der Stadtrat lässt niemanden zur Oase reisen, solange sie nicht einige verdammte politische Plänkeleien gelöst haben. Ich stecke hier fest, bis sie damit fertig sind.“</DefaultText>
+      <FemaleText>Ihre dunklen Augen mustern dich von oben bis unten. „Ist das euer Ernst? Oder sind Sie nur eine andere Touristin, die den Ausländer infrage stellen möchte? Ja, irgendetwas stimmt nicht. Ich habe einen Laderaum voller wertvoller Konserven aus Sagus und eine Handvoll wohlhabender Passagiere, die zur Oase überfahren möchten, doch sie sind alle *wertlos*. Der Stadtrat lässt niemanden zur Oase reisen, solange sie nicht einige verdammte politische Plänkeleien gelöst haben. Ich stecke hier fest, bis sie damit fertig sind.“</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -141,10 +141,10 @@ Sie schreitet eines der Luftschiffe ab, wobei sie eine Vielzahl von Worten – h
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Du *bist* also ein Tourist.“ Sie nickt. „Ich komme aus Jerboa, Fremder. Es ist eine gedrungene Pockennarbe der Trostlosigkeit, die sich einzig damit abhebt, dass sie an die strahlende Oase von M'ra Jolios angrenzt.“
+      <DefaultText>„Sie *sind* also ein Tourist.“ Sie nickt. „Ich komme aus Jerboa, Fremder. Es ist eine gedrungene Pockennarbe der Trostlosigkeit, die sich einzig damit abhebt, dass sie an die strahlende Oase von M'ra Jolios angrenzt.“
 
 Sie schenkt dir ein Lächeln. „Und es ist Heimat. Es wäre schön, wieder zurückzukehren, und nicht *nur*, weil ich meine aktuellen Schulden in Profit ummünzen muss.“</DefaultText>
-      <FemaleText>„Du *bist* also eine Touristin.“ Sie nickt. „Ich komme aus Jerboa, Fremde. Es ist eine gedrungene Pockennarbe der Trostlosigkeit, die sich einzig damit abhebt, dass sie an die strahlende Oase von M'ra Jolios angrenzt.“
+      <FemaleText>„Sie *sind* also eine Touristin.“ Sie nickt. „Ich komme aus Jerboa, Fremde. Es ist eine gedrungene Pockennarbe der Trostlosigkeit, die sich einzig damit abhebt, dass sie an die strahlende Oase von M'ra Jolios angrenzt.“
 
 Sie schenkt dir ein Lächeln. „Und es ist Heimat. Es wäre schön, wieder zurückzukehren, und nicht *nur*, weil ich meine aktuellen Schulden in Profit ummünzen muss.“</FemaleText>
     </Entry>
@@ -160,12 +160,12 @@ Sie schenkt dir ein Lächeln. „Und es ist Heimat. Es wäre schön, wieder zur�
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Kannst du mir etwas über die Oase erzählen?“</DefaultText>
+      <DefaultText>„Können Sie mir etwas über die Oase erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Kannst du mir nochmal etwas über die Oase erzählen?“</DefaultText>
+      <DefaultText>„Können Sie mir nochmal etwas über die Oase erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,7 +175,7 @@ Sie schenkt dir ein Lächeln. „Und es ist Heimat. Es wäre schön, wieder zur�
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„Wirklich? Ich bin überrascht, dass du noch nichts darüber gehört hast. Die Oase von M'ra Jolios ist das Juwel der Wüste, eine Unterwasserstadt in der Mitte des Ödlands, das wir als die Verlorene See bezeichnen. Sie ist ein sehr beliebtes Touristenziel, wenn es dich irgendwann mal reizen sollte.“</DefaultText>
+      <DefaultText>„Wirklich? Ich bin überrascht, dass ihr noch nichts darüber gehört habt. Die Oase von M'ra Jolios ist das Juwel der Wüste, eine Unterwasserstadt in der Mitte des Ödlands, das wir als die Verlorene See bezeichnen. Sie ist ein sehr beliebtes Touristenziel, wenn es Sie irgendwann mal reizen sollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -185,7 +185,7 @@ Sie schenkt dir ein Lächeln. „Und es ist Heimat. Es wäre schön, wieder zur�
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Warum kannst du nicht wieder gehen?“</DefaultText>
+      <DefaultText>„Warum können Sie nicht wieder gehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -214,7 +214,7 @@ Sie schreitet auf und ab und mustert jede Ecke und jede Schraube an einem der Lu
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Es ist eine einfache Reise, obwohl – ich werde für eine Weile nirgendswo mehr hinfliegen. Vergewissere dich also zuerst, dass du alles unter Dach und Fach gebracht hast. Gib mir Bescheid, wenn du für die Abreise bereit bist.“</DefaultText>
+      <DefaultText>„Es ist eine einfache Reise, obwohl – ich werde für eine Weile nirgendswo mehr hinfliegen. Vergewissern Sie sich also zuerst, dass Sie alles unter Dach und Fach gebracht haben. Geben Sie mir Bescheid, wenn Sie für die Abreise bereit sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
