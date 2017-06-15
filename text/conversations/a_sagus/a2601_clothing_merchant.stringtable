@@ -602,12 +602,14 @@ Er dreht sich gerade um, als du es versteckst. Er bemerkt nichts.</DefaultText>
       <DefaultText>„Natürlich nicht, der Herr. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt. „Und als Glückwunsch zu Eurer ersten Anstellung in der Stadt, nehmt bitte diese feinen Handschuhe an, mit Kompliment des Hauses.“
 
 {LOOT: Give player red gloves.}</DefaultText>
-      <FemaleText />
+      <FemaleText>„Natürlich nicht, meine Dame. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt. „Und als Glückwunsch zu Eurer ersten Anstellung in der Stadt, nehmt bitte diese feinen Handschuhe an, mit Kompliment des Hauses.“
+
+{LOOT: Give player red gloves.}</FemaleText>
     </Entry>
     <Entry>
       <ID>123</ID>
       <DefaultText>Sangolin runzelt die Stirn. „Es schmerzt mich, das zu sagen, mein Herr, aber ich glaube Euch nicht. Bitte versucht nicht nochmal, mich zu überlisten.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Sangolin runzelt die Stirn. „Es schmerzt mich, das zu sagen, meine Dame, aber ich glaube Euch nicht. Bitte versucht nicht nochmal, mich zu überlisten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>124</ID>
@@ -642,7 +644,7 @@ Er hat nichts gesehen, doch Tybir verdreht die Augen.</DefaultText>
     <Entry>
       <ID>136</ID>
       <DefaultText>Sangolin runzelt die Stirn. „Es schmerzt mich, dies zu sagen, mein Herr, vor allem, nachdem ich gehört habe, was Ihr alles getan habt, um Sagus Klippen zu helfen, doch ich fürchte, ich glaube Euch nicht, dass Ihr ein Bediensteter der Stadt seid. Bitte versucht nicht nochmal, mich zu überlisten.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Sangolin runzelt die Stirn. „Es schmerzt mich, dies zu sagen, meine Dame, vor allem, nachdem ich gehört habe, was Ihr alles getan habt, um Sagus Klippen zu helfen, doch ich fürchte, ich glaube Euch nicht, dass Ihr eine Bedienstete der Stadt seid. Bitte versucht nicht nochmal, mich zu überlisten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>137</ID>
@@ -659,7 +661,9 @@ Er hat nichts gesehen, doch Tybir verdreht die Augen.</DefaultText>
       <DefaultText>„Natürlich nicht, der Herr. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt. „Und als Dank für das, was Ihr bereits für Sagus Klippen getan habt, nehmt bitte diese feinen Handschuhe an, mit Kompliment des Hauses.“
 
 {LOOT: Give player red gloves.}</DefaultText>
-      <FemaleText />
+      <FemaleText>„Natürlich nicht, meine Dame. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt. „Und als Dank für das, was Ihr bereits für Sagus Klippen getan habt, nehmt bitte diese feinen Handschuhe an, mit Kompliment des Hauses.“
+
+{LOOT: Give player red gloves.}</FemaleText>
     </Entry>
     <Entry>
       <ID>140</ID>
@@ -706,7 +710,7 @@ Er hat nichts gesehen, doch Tybir verdreht die Augen.</DefaultText>
       <DefaultText>„Schönen Nachmittag.“ Er starrt dich an und seine Augen weiten sich, als er dich erkennt. „Ach, Ihr seid doch derjenige, der dafür sorgte, dass diese Kreaturen nicht mehr unter unseren Füßen herumgraben! Peliai hat mir alles davon erzählt.“
 
 Er strahlt dich an. „Ich bin Sangolin, und dies ist mein Laden, Sangolins Bekleidung. Ihr seid durchaus willkommen! Wie kann ich behilflich sein?“</DefaultText>
-      <FemaleText>„Schönen Nachmittag.“ Er starrt dich an und seine Augen weiten sich, als er dich erkennt. „Ach, Ihr seid doch derjenige, der dafür sorgte, dass diese Kreaturen nicht mehr unter unseren Füßen herumgraben! Peliai hat mir alles davon erzählt.“
+      <FemaleText>„Schönen Nachmittag.“ Er starrt dich an und seine Augen weiten sich, als er dich erkennt. „Ach, Ihr seid doch diejenige, die dafür sorgte, dass diese Kreaturen nicht mehr unter unseren Füßen herumgraben! Peliai hat mir alles davon erzählt.“
 
 Er strahlt dich an. „Ich bin Sangolin, und dies ist mein Laden, Sangolins Bekleidung. Ihr seid durchaus willkommen! Wie kann ich behilflich sein?“</FemaleText>
     </Entry>
