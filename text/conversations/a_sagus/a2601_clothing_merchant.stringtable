@@ -397,7 +397,7 @@ Er schaut in Richtung des Ratsgebäudes. "Ich hatte den Eindruck, dass sie *gehe
     <Entry>
       <ID>83</ID>
       <DefaultText>"Sehr gerne. Über wen möchtet Ihr mehr erfahren?"</DefaultText>
-      <FemaleText>"Sehr gerne. Über wen möchtet Ihr mehr erfahren?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
@@ -753,7 +753,7 @@ Er strahlt dich an. "Ich bin Sangolin, und dies ist mein Laden, Sangolins Beklei
     <Entry>
       <ID>157</ID>
       <DefaultText>"Was könnt Ihr mir von dem Orden der Wahrheit erzählen?"</DefaultText>
-      <FemaleText>"Was könnt Ihr mir von dem Orden der Wahrheit erzählen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
