@@ -324,7 +324,7 @@ Sie streicht durch Zebbs Haare und beruhigt ihn. Er hat seine Arme fest um sich 
     <Entry>
       <ID>68</ID>
       <DefaultText>Sage nichts.</DefaultText>
-      <FemaleText>Sage nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
@@ -761,7 +761,7 @@ Ihre Mimik verhärtet sich, ihr Mund verformt sich trotzig. "Das habe ich wohl f
     <Entry>
       <ID>149</ID>
       <DefaultText>"Wer seid Ihr noch gleich?"</DefaultText>
-      <FemaleText>"Wer seid Ihr noch mal?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
