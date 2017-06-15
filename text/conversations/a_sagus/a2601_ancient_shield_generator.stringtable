@@ -29,16 +29,14 @@ Nein, keine Blasen. Löcher im Raum.</DefaultText>
     <Entry>
       <ID>5</ID>
       <DefaultText>Follow-up PQ. 31</DefaultText>
-      <FemaleText>Follow-up PQ. 31</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Du lässt deine Hände über die zusammengebastelten Komponenten und schmierigen Kabel gleiten. Die Schalter sind durch den ständigen Gebrauch abgenutzt. Diese Maschine ist eine merkwürdige Vorrichtung – plump, aber raffiniert. Amateurhaft, aber meisterlich. Nur ein genialer Verstand konnte so viele unvereinbare Teile zu einem funktionstüchtigen Apparat zusammensetzen. 
 
 Unvertraute Erinnerungen flüstern dir zu. Dieser Apparat wurde genutzt – obwohl du nicht weißt, wie – um ein Feld zu generieren, das alles darin von der Zeit selbst losmacht.</DefaultText>
-      <FemaleText>Ihr lasst Eure Hände über die zusammengebastelten Komponenten und schmierigen Kabel gleiten. Die Schalter sind durch den ständigen Gebrauch abgenutzt. Diese Maschine ist eine merkwürdige Vorrichtung – plump, aber raffiniert. Amateurhaft, aber meisterlich. Nur ein genialer Verstand konnte so viele unvereinbare Teile zu einem funktionstüchtigen Apparat zusammensetzen. 
-
-Unvertraute Erinnerungen flüstern Euch zu. Dieser Apparat wurde genutzt – obwohl Ihr nicht wisst, wie – um ein Feld zu generieren, das alles darin von der Zeit selbst losmacht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -58,7 +56,7 @@ Unvertraute Erinnerungen flüstern Euch zu. Dieser Apparat wurde genutzt – obw
     <Entry>
       <ID>10</ID>
       <DefaultText>Dieser Generator kombiniert eine enorme Anzahl unpassender Teile zu einem funktionalen Ganzen. Wieder einmal bemerkst du das zirkelhafte Symbol, das auf der Seite wie das Zeichen eines Herstellers eingeätzt ist.</DefaultText>
-      <FemaleText>Dieser Generator kombiniert eine enorme Anzahl unpassender Teile zu einem funktionalen Ganzen. Wieder einmal bemerkst du das zirkelhafte Symbol, das auf der Seite wie das Zeichen eines Herstellers eingeätzt ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -83,7 +81,7 @@ Unvertraute Erinnerungen flüstern Euch zu. Dieser Apparat wurde genutzt – obw
     <Entry>
       <ID>15</ID>
       <DefaultText>Follow-up PQ. 5</DefaultText>
-      <FemaleText>Follow-up PQ. 5</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -102,7 +100,7 @@ Du greifst in das zischende Innere des Generators, ordnest Teile neu an, optimie
     <Entry>
       <ID>18</ID>
       <DefaultText>Der Herzschlag blutet in die Gegenwart. Deine Hand – die Hand deines Körpers – ruht auf der rostigen Oberfläche der jetzt uralten Maschine.</DefaultText>
-      <FemaleText>Der Herzschlag blutet in die Gegenwart. Deine Hand – die Hand deines Körpers – ruht auf der rostigen Oberfläche der jetzt uralten Maschine.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -122,7 +120,7 @@ Du greifst in das zischende Innere des Generators, ordnest Teile neu an, optimie
     <Entry>
       <ID>22</ID>
       <DefaultText>Follow-up PQ. 11</DefaultText>
-      <FemaleText>Follow-up PQ. 11</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -199,12 +197,12 @@ Ein Seil versucht, Euch in Richtung der unteren Klippen von Sagus zu ziehen. Ei
     <Entry>
       <ID>37</ID>
       <DefaultText>Blicke durch die umkreisenden Löcher im Raum.</DefaultText>
-      <FemaleText>Blicke durch die umkreisenden Löcher im Raum.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>Blicke erneut durch die Löcher im Raum.</DefaultText>
-      <FemaleText>Blicke erneut durch die Löcher im Raum.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
@@ -213,11 +211,7 @@ Ein Seil versucht, Euch in Richtung der unteren Klippen von Sagus zu ziehen. Ei
 Stattdessen wird dein Geist kurzzeitig mit dem köstlichen Bild einer Scheibe gegrillten *Etwas* erfüllt, und mit den geselligen Lauten eines Werbers in einer Sprache, die du nicht erkennst. 
 
 {SOUND: Meat sizzling.}</DefaultText>
-      <FemaleText>Ein zischender Strahl schießt aus dem Loch und trifft dich direkt im Auge. Er schmerzt nicht im geringsten. 
-
-Stattdessen wird dein Geist kurzzeitig mit dem köstlichen Bild einer Scheibe gegrillten *Etwas* erfüllt, und mit den geselligen Lauten eines Werbers in einer Sprache, die du nicht erkennst. 
-
-{SOUND: Meat sizzling.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
@@ -229,9 +223,7 @@ Stattdessen wird dein Geist kurzzeitig mit dem köstlichen Bild einer Scheibe ge
       <DefaultText>Du richtest die Augen auf ein Loch und beobachtest, wie es kreist. Manchmal sind die Gebäude, an denen es vorbeizieht, noch da. Manchmal stehen sie in Flammen. 
 
 Meistens jedoch befindet sich in hinter dem Loch in der Luft nichts, nur geschwärzte Ödlande und aufgewirbelter Staub.</DefaultText>
-      <FemaleText>Du richtest die Augen auf ein Loch und beobachtest, wie es kreist. Manchmal sind die Gebäude, an denen es vorbeizieht, noch da. Manchmal stehen sie in Flammen. 
-
-Meistens jedoch befindet sich in hinter dem Loch in der Luft nichts, nur geschwärzte Ödlande und aufgewirbelter Staub.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -239,10 +231,7 @@ Meistens jedoch befindet sich in hinter dem Loch in der Luft nichts, nur geschw�
 
 Einer deiner Beutel fühlt sich schwerer an. Wie es scheint, hat die Anomalie dir ein Geschenk hinterlassen. 
 {LOOT}</DefaultText>
-      <FemaleText>Du trittst ein wenig zu nahe heran und eine der Anomalien zischt wie eine Scheibe aus Rasierklingen an deiner Hüfte vorbei. 
-
-Einer deiner Beutel fühlt sich schwerer an. Wie es scheint, hat die Anomalie dir ein Geschenk hinterlassen. 
-{LOOT}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
