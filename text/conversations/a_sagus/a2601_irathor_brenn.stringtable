@@ -35,14 +35,13 @@ Aus seiner Kleidung dringt etwas, das aussieht wie Rauch und ihm eine geisterhaf
     <Entry>
       <ID>5</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>""
 {GAVIN: Jagged Dream branch. Add later. Conversation isn't detailed in ZDD, so check ZDD quest and re-read Jernaugh}</DefaultText>
-      <FemaleText>""
-{GAVIN: Jagged Dream branch. Add later. Conversation isn't detailed in ZDD, so check ZDD quest and re-read Jernaugh}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
