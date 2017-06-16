@@ -6,11 +6,11 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich bin ein Söldner. Anführer der Ianthine Specter-Einheit. Was treibt Euch ins Rote Dickicht?"
+      <DefaultText>„Ich bin ein Söldner. Anführer der Ianthine Specter-Einheit. Was treibt Euch ins Rote Dickicht?“
 
-Er scheint deinen Gesichtsausdruck richtig interpretieren zu können. "Das erste Mal, was? Also, das Wichtigste zuerst: Was auch immer wir hier besprechen, niemand kann uns belauschen. Wenn jemand versucht, deine Lippen zu lesen, kommt nur Kauderwelsch dabei raus."
+Er scheint deinen Gesichtsausdruck richtig interpretieren zu können. „Das erste Mal, was? Also, das Wichtigste zuerst: Was auch immer wir hier besprechen, niemand kann uns belauschen. Wenn jemand versucht, deine Lippen zu lesen, kommt nur Kauderwelsch dabei raus.“
 
-Er verschränkt die Arme. "Mit anderen Worten, ein hervorragender Ort, um über‘s Geschäft zu reden. Wenn es das ist, wofür Ihr hier seid."</DefaultText>
+Er verschränkt die Arme. „Mit anderen Worten, ein hervorragender Ort, um über‘s Geschäft zu reden. Wenn es das ist, wofür Ihr hier seid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -20,7 +20,7 @@ Er verschränkt die Arme. "Mit anderen Worten, ein hervorragender Ort, um über�
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich bin ein Söldner. Anführer der Ianthine Specter-Einheit. Was treibt Euch ins Rote Dickicht?"</DefaultText>
+      <DefaultText>„Ich bin ein Söldner. Anführer der Ianthine Specter-Einheit. Was treibt Euch ins Rote Dickicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -29,17 +29,17 @@ Er verschränkt die Arme. "Mit anderen Worten, ein hervorragender Ort, um über�
 
 Aus seiner Kleidung dringt etwas, das aussieht wie Rauch und ihm eine geisterhafte Erscheinung verleiht - vermutlich ein Mann, der nur dann gefunden werden kann, wenn er es beabsichtigt.
 
-"Irathor Brenn", sagt er. "Angenehm."</DefaultText>
+„Irathor Brenn“, sagt er. „Angenehm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>""
+      <DefaultText>„“
 {GAVIN: Jagged Dream branch. Add later. Conversation isn't detailed in ZDD, so check ZDD quest and re-read Jernaugh}</DefaultText>
       <FemaleText />
     </Entry>
@@ -50,24 +50,24 @@ Aus seiner Kleidung dringt etwas, das aussieht wie Rauch und ihm eine geisterhaf
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Erzählt mir von der Ianthine Specter-Einheit."</DefaultText>
+      <DefaultText>„Erzählt mir von der Ianthine Specter-Einheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Worauf ist Eure Gruppe nochmal spezialisiert?"</DefaultText>
+      <DefaultText>„Worauf ist Eure Gruppe nochmal spezialisiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Wir übernehmen meistens Infiltrationen", sein verbindlicher Ton impliziert, dass er diese Rede nicht zum ersten Mal hält. "Sabotage, Auftragsmorde, Rettungsmissionen aller Art. Manchmal werden wir von der Stadt angeheuert, um Bedrohungen in der Gegend auszuschalten - Stämme, die Ärger machen, herumstreifende Raubtiere ... was immer Euch einfällt."
+      <DefaultText>„Wir übernehmen meistens Infiltrationen“, sein verbindlicher Ton impliziert, dass er diese Rede nicht zum ersten Mal hält. „Sabotage, Auftragsmorde, Rettungsmissionen aller Art. Manchmal werden wir von der Stadt angeheuert, um Bedrohungen in der Gegend auszuschalten - Stämme, die Ärger machen, herumstreifende Raubtiere ... was immer Euch einfällt.“
 
-Er lacht leise in sich hinein. "In letzter Zeit ist es ziemlich ruhig. Als wir angefangen haben, war das noch ganz anders. Unser erster großer Auftrag war eine Reihe von Angriffen in der Endlosen Schlacht."</DefaultText>
+Er lacht leise in sich hinein. „In letzter Zeit ist es ziemlich ruhig. Als wir angefangen haben, war das noch ganz anders. Unser erster großer Auftrag war eine Reihe von Angriffen in der Endlosen Schlacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Infiltration, Sabotage, Auftragsmorde und Diebstahl." Dir kommt es vor, als würde er von einer Speisekarte ablesen.</DefaultText>
+      <DefaultText>„Infiltration, Sabotage, Auftragsmorde und Diebstahl.“ Dir kommt es vor, als würde er von einer Speisekarte ablesen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,7 +82,7 @@ Er lacht leise in sich hinein. "In letzter Zeit ist es ziemlich ruhig. Als wir a
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Was habt Ihr in der Endlosen Schlacht gemacht?"</DefaultText>
+      <DefaultText>„Was habt Ihr in der Endlosen Schlacht gemacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,34 +97,34 @@ Er lacht leise in sich hinein. "In letzter Zeit ist es ziemlich ruhig. Als wir a
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Was macht Eure Einheit hier in Sagus?"</DefaultText>
+      <DefaultText>„Was macht Eure Einheit hier in Sagus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Was macht Eure Einheit nochmal hier in Sagus?"</DefaultText>
+      <DefaultText>„Was macht Eure Einheit nochmal hier in Sagus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Darüber darf ich nicht sprechen", sagt er automatisch. "Verträge und so. Ihr versteht. Alles, was ich Euch sagen kann, ist dass der Kalkedon rechtzeitig bezahlt, und damit ist er den meisten meiner Auftraggeber in den letzten Jahren einen großen Schritt voraus."
+      <DefaultText>„Darüber darf ich nicht sprechen“, sagt er automatisch. „Verträge und so. Ihr versteht. Alles, was ich Euch sagen kann, ist dass der Kalkedon rechtzeitig bezahlt, und damit ist er den meisten meiner Auftraggeber in den letzten Jahren einen großen Schritt voraus.“
 
-Er seufzt. "Einer der besten Aufträge, die wir je hatten."</DefaultText>
+Er seufzt. „Einer der besten Aufträge, die wir je hatten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Wer ist der Kalkedon?"</DefaultText>
+      <DefaultText>„Wer ist der Kalkedon?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Na kommt schon. Könnt Ihr mir wirklich nicht mehr erzählen? Ihr wisst doch, wir befinden uns immerhin im Roten Dickicht!"</DefaultText>
+      <DefaultText>„Na kommt schon. Könnt Ihr mir wirklich nicht mehr erzählen? Ihr wisst doch, wir befinden uns immerhin im Roten Dickicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ihr seid ein Profi. Das respektiere ich."</DefaultText>
+      <DefaultText>„Ihr seid ein Profi. Das respektiere ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,17 +134,17 @@ Er seufzt. "Einer der besten Aufträge, die wir je hatten."</DefaultText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Einer der Kommandeure auf der Seite des Wandelnden Gottes", sagt er. "Bezahlt gut und pünktlich. Das ist auch schon alles, was ich über ihn wissen muss."</DefaultText>
+      <DefaultText>„Einer der Kommandeure auf der Seite des Wandelnden Gottes“, sagt er. „Bezahlt gut und pünktlich. Das ist auch schon alles, was ich über ihn wissen muss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Da habt Ihr nicht Unrecht", sagt er mit einem Grinsen im Gesicht. "In Ordnung. Unser Ziel war es, Informationen zu unterdrücken ohne dabei erwischt zu werden. Wir haben mehr verloren, als wir es uns leisten konnten, aber der Kalkedon hat sichergestellt, dass wir mehr als großzügig dafür bezahlt wurden. Und mehr werde ich dazu nicht sagen."</DefaultText>
+      <DefaultText>„Da habt Ihr nicht Unrecht“, sagt er mit einem Grinsen im Gesicht. „In Ordnung. Unser Ziel war es, Informationen zu unterdrücken ohne dabei erwischt zu werden. Wir haben mehr verloren, als wir es uns leisten konnten, aber der Kalkedon hat sichergestellt, dass wir mehr als großzügig dafür bezahlt wurden. Und mehr werde ich dazu nicht sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Na ja. Wer seinen Mund nicht hält, endet ohne einen Auftrag. Oder tot." Er zuckt mit den Schultern. "Hat weniger mit Professionalität als mit Pragmatismus zu tun."</DefaultText>
+      <DefaultText>„Na ja. Wer seinen Mund nicht hält, endet ohne einen Auftrag. Oder tot.“ Er zuckt mit den Schultern. „Hat weniger mit Professionalität als mit Pragmatismus zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -154,66 +154,66 @@ Er seufzt. "Einer der besten Aufträge, die wir je hatten."</DefaultText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Jetzt bin ich dran. Nicht nur Euer Tattoo verrät Euch. Ich kenne Euch, oder nicht? Aber woher? Haben wir zusammen gekämpft? Oder gegeneinander? Woher kennen wir uns?"
+      <DefaultText>„Jetzt bin ich dran. Nicht nur Euer Tattoo verrät Euch. Ich kenne Euch, oder nicht? Aber woher? Haben wir zusammen gekämpft? Oder gegeneinander? Woher kennen wir uns?“
 
-Seine Hand fährt in eine Tasche an seiner Hüfte. "Erzählt die Wahrheit, und zwar ohne Ausflüchte. Ich merke es sofort, wenn man mich belügt."</DefaultText>
+Seine Hand fährt in eine Tasche an seiner Hüfte. „Erzählt die Wahrheit, und zwar ohne Ausflüchte. Ich merke es sofort, wenn man mich belügt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>(Lügen) "Ich habe keine Ahnung."</DefaultText>
+      <DefaultText>(Lügen) „Ich habe keine Ahnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ich war auch in der Endlosen Schlacht."</DefaultText>
+      <DefaultText>„Ich war auch in der Endlosen Schlacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ich weiß es nicht."</DefaultText>
+      <DefaultText>„Ich weiß es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Irathor starrt dich intensiv an. Du spürst ein Kitzeln in den hintersten Ecken deines Verstandes.
 
-"Na gut", sagt er schulterzuckend. "Aber eigentlich ist es ungewöhnlich für mich, das Gesicht eines Verstoßenen zu vergessen. In den meisten Fällen seid Ihr nämlich entweder die, die uns bezahlen, oder die, die uns umbringen lassen."
+„Na gut“, sagt er schulterzuckend. „Aber eigentlich ist es ungewöhnlich für mich, das Gesicht eines Verstoßenen zu vergessen. In den meisten Fällen seid Ihr nämlich entweder die, die uns bezahlen, oder die, die uns umbringen lassen.“
 
-Er zuckt mit den Schultern. "Vermutlich werde ich mich irgendwann heute Nacht erinnern. Bestimmt während eines richtig guten Traums. Und dann vergesse ich Euer Gesicht bestimmt nicht wieder. Das ist ein Versprechen."</DefaultText>
+Er zuckt mit den Schultern. „Vermutlich werde ich mich irgendwann heute Nacht erinnern. Bestimmt während eines richtig guten Traums. Und dann vergesse ich Euer Gesicht bestimmt nicht wieder. Das ist ein Versprechen.“</DefaultText>
       <FemaleText>Irathor starrt dich intensiv an. Du spürst ein Kitzeln in den hintersten Ecken deines Verstandes.
 
-"Na gut", sagt er schulterzuckend. "Aber eigentlich ist es ungewöhnlich für mich, das Gesicht einer Verstoßenen zu vergessen. In den meisten Fällen seid Ihr nämlich entweder die, die uns bezahlen, oder die, die uns umbringen lassen."
+„Na gut“, sagt er schulterzuckend. „Aber eigentlich ist es ungewöhnlich für mich, das Gesicht einer Verstoßenen zu vergessen. In den meisten Fällen seid Ihr nämlich entweder die, die uns bezahlen, oder die, die uns umbringen lassen.“
 
-Er zuckt mit den Schultern. "Vermutlich werde ich mich irgendwann heute Nacht erinnern. Bestimmt während eines richtig guten Traums. Und dann vergesse ich Euer Gesicht bestimmt nicht wieder. Das ist ein Versprechen."</FemaleText>
+Er zuckt mit den Schultern. „Vermutlich werde ich mich irgendwann heute Nacht erinnern. Bestimmt während eines richtig guten Traums. Und dann vergesse ich Euer Gesicht bestimmt nicht wieder. Das ist ein Versprechen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Irathor starrt dich intensiv an. Du spürst ein Kitzeln in den hintersten Ecken deines Verstandes.
 
-"Ich habe Euch doch gesagt, dass es keinen Zweck hat, zu lügen", sagt er. "Ihr verschwendet unserer beider Zeit. Aber macht, was Ihr wollt."</DefaultText>
+„Ich habe Euch doch gesagt, dass es keinen Zweck hat, zu lügen“, sagt er. „Ihr verschwendet unserer beider Zeit. Aber macht, was Ihr wollt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Natürlich, Ihr braucht nichts mehr zusagen", sagt er, während er eine seiner Hände in die Luft streckt. "Ich hätte es wissen müssen ... das Tattoo, und überhaupt. Meine Neugier hat mal wieder gesiegt."</DefaultText>
+      <DefaultText>„Natürlich, Ihr braucht nichts mehr zusagen“, sagt er, während er eine seiner Hände in die Luft streckt. „Ich hätte es wissen müssen ... das Tattoo, und überhaupt. Meine Neugier hat mal wieder gesiegt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>Irathor starrt dich intensiv an. Du spürst ein Kitzeln in den hintersten Ecken deines Verstandes.
 
-"Das ist wirklich unschön", meint er, während er sich am Kopf kratzt. "Jetzt werde ich den ganzen Tag lang keine Ruhe haben, bis ich mich erinnern kann."</DefaultText>
+„Das ist wirklich unschön“, meint er, während er sich am Kopf kratzt. „Jetzt werde ich den ganzen Tag lang keine Ruhe haben, bis ich mich erinnern kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Verhandlungen." Er ist kurz angebunden. "Ich mache nur gerade eine kleine Pause zwischen Treffen mit verschiedenen Mitgliedern der Ratsversammlung. Sie wollen uns für einige, ähm, fortlaufende Aufträge einstellen." Er zeigt die Zähne. "Ehrlich gesagt laufen gerade chaotische Verhandlungen darüber ab, wer uns das meiste bieten kann. Wir sind gefragt."</DefaultText>
+      <DefaultText>„Verhandlungen.“ Er ist kurz angebunden. „Ich mache nur gerade eine kleine Pause zwischen Treffen mit verschiedenen Mitgliedern der Ratsversammlung. Sie wollen uns für einige, ähm, fortlaufende Aufträge einstellen.“ Er zeigt die Zähne. „Ehrlich gesagt laufen gerade chaotische Verhandlungen darüber ab, wer uns das meiste bieten kann. Wir sind gefragt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich warte darauf, bis die Mitglieder der Ratsversammlung herausgefunden haben, wer von ihnen am meisten für unsere Dienste bietet."</DefaultText>
+      <DefaultText>„Ich warte darauf, bis die Mitglieder der Ratsversammlung herausgefunden haben, wer von ihnen am meisten für unsere Dienste bietet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,12 +223,12 @@ Er zuckt mit den Schultern. "Vermutlich werde ich mich irgendwann heute Nacht er
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Lebt wohl, Irathor."</DefaultText>
+      <DefaultText>„Lebt wohl, Irathor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ja, bis bald."</DefaultText>
+      <DefaultText>„Ja, bis bald.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -238,14 +238,14 @@ Er zuckt mit den Schultern. "Vermutlich werde ich mich irgendwann heute Nacht er
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Drohst du mir?"</DefaultText>
+      <DefaultText>„Drohst du mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Bedrohen?" Er prustet. "Ja, genau danach habe ich gesucht. Eine Schlägerei auf dem Regierungsplatz."
+      <DefaultText>„Bedrohen?“ Er prustet. „Ja, genau danach habe ich gesucht. Eine Schlägerei auf dem Regierungsplatz.“
 
-Er schüttelt den Kopf. "Nein, ich bin nur neugierig. Wenn wir früher einmal Feinde waren, würde ich das nur gerne wissen. Ich würde es Euch deshalb noch lange nicht übel nehmen. Geschäft ist Geschäft. Also sagt schon. Woher kennen wir uns?"</DefaultText>
+Er schüttelt den Kopf. „Nein, ich bin nur neugierig. Wenn wir früher einmal Feinde waren, würde ich das nur gerne wissen. Ich würde es Euch deshalb noch lange nicht übel nehmen. Geschäft ist Geschäft. Also sagt schon. Woher kennen wir uns?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -257,33 +257,33 @@ Er schüttelt den Kopf. "Nein, ich bin nur neugierig. Wenn wir früher einmal Fe
       <ID>45</ID>
       <DefaultText>Du konzentrierst dich auf das Aussehen des Mannes, seine Besonderheiten, und lässt deinen Gedanken freien Lauf ...
 
-"Können wir ihnen vertrauen?", hörst du dich selbst sagen. Deine Stimme ist durch die vielen Jahre getrübt worden.
+„Können wir ihnen vertrauen?“, hörst du dich selbst sagen. Deine Stimme ist durch die vielen Jahre getrübt worden.
 
-"Sie sind Söldner", antwortet dein Begleiter. "Natürlich können wir das nicht."
+„Sie sind Söldner“, antwortet dein Begleiter. „Natürlich können wir das nicht.“
 
-"Das meinte ich nicht", antwortest du bissig. "Können wir darauf vertrauen, dass sie ihren Arbeit zu Ende bringen? Wenn nicht, dann tötet sie besser gleich. Wir können uns gerade keine Unsicherheiten erlauben."</DefaultText>
+„Das meinte ich nicht“, antwortest du bissig. „Können wir darauf vertrauen, dass sie ihren Arbeit zu Ende bringen? Wenn nicht, dann tötet sie besser gleich. Wir können uns gerade keine Unsicherheiten erlauben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>Du betrachtest du Merkmale des Mannes intensiv und spürst, wie eine Erinnerung mal scharf, mal verschwommen vor deinem geistigen Auge vorbeizieht. Irgendwann verschwindet sie, und dir bleibt nichts.
 
-"Also?", hakt Irathor nach. "Erzählt Ihr mir jetzt, woher wir uns kennen, oder nicht?"</DefaultText>
+„Also?“, hakt Irathor nach. „Erzählt Ihr mir jetzt, woher wir uns kennen, oder nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich möchte das nicht beantworten. Lasst uns über etwas anderes reden."</DefaultText>
+      <DefaultText>„Ich möchte das nicht beantworten. Lasst uns über etwas anderes reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Bitteschön", sagt er schulterzuckend. "Dachte nur, dass wir vielleicht eine gemeinsame Geschichte haben, das ist alles. Macht, was Ihr wollt."</DefaultText>
+      <DefaultText>„Bitteschön“, sagt er schulterzuckend. „Dachte nur, dass wir vielleicht eine gemeinsame Geschichte haben, das ist alles. Macht, was Ihr wollt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Was ist die ‚Endlose Schlacht‘?"</DefaultText>
+      <DefaultText>„Was ist die ‚Endlose Schlacht‘?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,9 +293,9 @@ Er schüttelt den Kopf. "Nein, ich bin nur neugierig. Wenn wir früher einmal Fe
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Wirklich?" Irathor hebt eine Augenbraue. "In Ordnung. Im Prinzip ist es das, wonach es sich anhört - ein Kampf, der Leuten wie uns über unzählige Generationen hinweg ein Einkommen garantiert hat."
+      <DefaultText>„Wirklich?“ Irathor hebt eine Augenbraue. „In Ordnung. Im Prinzip ist es das, wonach es sich anhört - ein Kampf, der Leuten wie uns über unzählige Generationen hinweg ein Einkommen garantiert hat.“
 
-Er zuckt mit den Schultern. "Soweit ich weiß, sind es eigentlich nur Reibereien unter den rivalisierenden Fraktionen der Verstoßenen des Wandelnden Gottes. Worum es genau geht? Keinen blassen Schimmer." Er grinst. "In Kriegszeiten nach dem ‚warum‘ zu fragen, hat sich immer als schlecht für's Geschäft erwiesen."</DefaultText>
+Er zuckt mit den Schultern. „Soweit ich weiß, sind es eigentlich nur Reibereien unter den rivalisierenden Fraktionen der Verstoßenen des Wandelnden Gottes. Worum es genau geht? Keinen blassen Schimmer.“ Er grinst. „In Kriegszeiten nach dem ‚warum‘ zu fragen, hat sich immer als schlecht für's Geschäft erwiesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -305,29 +305,29 @@ Er zuckt mit den Schultern. "Soweit ich weiß, sind es eigentlich nur Reibereien
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Könnt Ihr meine Gedanken lesen?"</DefaultText>
+      <DefaultText>„Könnt Ihr meine Gedanken lesen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Er bricht in heftigem Lachen aus. "Das könntet Ihr nur herausfinden, indem Ihr meine lest! Nützliche Fähigkeit, oder? Jetzt wisst Ihr ja, warum Ihr mich nicht anlügen solltet. Also, woher kennen wir uns denn nun?"</DefaultText>
+      <DefaultText>Er bricht in heftigem Lachen aus. „Das könntet Ihr nur herausfinden, indem Ihr meine lest! Nützliche Fähigkeit, oder? Jetzt wisst Ihr ja, warum Ihr mich nicht anlügen solltet. Also, woher kennen wir uns denn nun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Könnt Ihr meine Gedanken lesen?"</DefaultText>
+      <DefaultText>„Könnt Ihr meine Gedanken lesen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Er bricht in heftigem Lachen aus. "Das könntet Ihr nur herausfinden, indem Ihr meine lest! Nützliche Fähigkeit, oder? Meistens zumindest."</DefaultText>
+      <DefaultText>Er bricht in heftigem Lachen aus. „Das könntet Ihr nur herausfinden, indem Ihr meine lest! Nützliche Fähigkeit, oder? Meistens zumindest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>Du kehrst gerade rechtzeitig in das Hier und Jetzt zurück, um Irathor wieder reden zu hören.
 
-"Also? Erzählt Ihr mir jetzt, woher wir uns kennen, oder nicht?"</DefaultText>
+„Also? Erzählt Ihr mir jetzt, woher wir uns kennen, oder nicht?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
