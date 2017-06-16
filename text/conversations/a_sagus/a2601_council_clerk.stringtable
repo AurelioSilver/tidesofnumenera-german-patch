@@ -620,7 +620,7 @@ Stunden vergehen ...</DefaultText>
     <Entry>
       <ID>129</ID>
       <DefaultText>Der Sachbearbeiter starrt dich mit einem Auge an. "Wir sind keine Kaufleute, die über den Preis eines Aneen verhandeln, mein Herr", spottet er. "Der Brauch passt sich nicht den Umständen an, genauso wenig, wie zivilisierte Leute an Geschenken herum meißeln."</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Sachbearbeiter starrt dich mit einem Auge an. "Wir sind keine Kaufleute, die über den Preis eines Aneen verhandeln, meine Dame", spottet er. "Der Brauch passt sich nicht den Umständen an, genauso wenig, wie zivilisierte Leute an Geschenken herum meißeln."</FemaleText>
     </Entry>
     <Entry>
       <ID>131</ID>
@@ -1785,7 +1785,7 @@ Du wirfst einen kurzen Blick hinüber. Eine Wallung des Zorns färbt die Wangen 
     <Entry>
       <ID>354</ID>
       <DefaultText>"Ich danke dir dafür, Junge", sagt Tybir sanft und senkt den Blick. "Du hast etwas Wundervolles getan, das verspreche ich."</DefaultText>
-      <FemaleText>"Ich danke dir dafür", sagt Tybir sanft und senkt den Blick. "Du hast etwas Wundervolles getan, das verspreche ich."</FemaleText>
+      <FemaleText>"Ich danke dir dafür, meine Gute", sagt Tybir sanft und senkt den Blick. "Du hast etwas Wundervolles getan, das verspreche ich."</FemaleText>
     </Entry>
     <Entry>
       <ID>355</ID>
