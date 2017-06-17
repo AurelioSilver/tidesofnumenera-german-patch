@@ -14,28 +14,28 @@
       <ID>2</ID>
       <DefaultText>She nods at you in greeting.
 
-"Willkommen zurück. Bringt Euch das Geschäft zu mir?"</DefaultText>
+„Willkommen zurück. Bringt Euch das Geschäft zu mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Die Mimik dieser Frau lässt sich nur schlecht in Worte fassen. Distanziert, professionell und zielgerichtet. Interessiert. Sie nickt dir zu und verschließt ihre Hände ineinander.
 
-"Ich sehe Euch hier zum ersten Mal", sagt sie. Ihre Stimme wirkt seltsam abgedämpft. "Bevor wir anfangen müsst ihr wissen, wo wir uns hier befinden."
+„Ich sehe Euch hier zum ersten Mal“, sagt sie. Ihre Stimme wirkt seltsam abgedämpft. „Bevor wir anfangen müsst ihr wissen, wo wir uns hier befinden.“
 
-Sie zeigt auf einer der pflanzenähnlichen Strukturen in der Nähe. "Das hier ist das Rote Dickicht. Solange wir uns hier befinden, kann niemand unsere Unterhaltungen mitanhören. Ihr könnt mich nur deshalb hören, weil ich Euch direkt anspreche."</DefaultText>
+Sie zeigt auf einer der pflanzenähnlichen Strukturen in der Nähe. „Das hier ist das Rote Dickicht. Solange wir uns hier befinden, kann niemand unsere Unterhaltungen mitanhören. Ihr könnt mich nur deshalb hören, weil ich Euch direkt anspreche.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Anders ausgedrückt, niemand wird je von dem erfahren, was Ihr mir erzählen werdet."
+      <DefaultText>„Anders ausgedrückt, niemand wird je von dem erfahren, was Ihr mir erzählen werdet.“
 
-Sie lächelt so leicht, dass es dir fast nicht auffällt. "Wie dem auch sei. Seid Ihr hier, um zu handeln?"</DefaultText>
+Sie lächelt so leicht, dass es dir fast nicht auffällt. „Wie dem auch sei. Seid Ihr hier, um zu handeln?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Seid Ihr hier, um zu handeln?"</DefaultText>
+      <DefaultText>„Seid Ihr hier, um zu handeln?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,68 +45,68 @@ Sie lächelt so leicht, dass es dir fast nicht auffällt. "Wie dem auch sei. Sei
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Handeln womit?"</DefaultText>
+      <DefaultText>„Handeln womit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Womit handelt Ihr noch gleich?"</DefaultText>
+      <DefaultText>„Womit handelt Ihr noch gleich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich handle mit Wissen", sagt sie. "Ich jage Informationen. Kommt mit einer Frage zu mir, und wenn ich darauf eine Antwort habe, mache ich Euch ein Angebot."
+      <DefaultText>„Ich handle mit Wissen“, sagt sie. „Ich jage Informationen. Kommt mit einer Frage zu mir, und wenn ich darauf eine Antwort habe, mache ich Euch ein Angebot.“
 
 Sie richtet sich und blinzelt einmal. Selbst diese simple Bewegung sieht bei ihr aus, als wäre sie geplant gewesen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ich handle mit Geheimnissen", sagt sie. "Wenn Ihr einem Problem begegnet, das Ihr nicht lösen könnt, dann kann ich Euch womöglich die Lösung dazu liefern."
+      <DefaultText>„Ich handle mit Geheimnissen“, sagt sie. „Wenn Ihr einem Problem begegnet, das Ihr nicht lösen könnt, dann kann ich Euch womöglich die Lösung dazu liefern.“
 
-Ein leichtes Lächeln ist in ihrem Gesicht zu erkennen. "Und dafür verlange ich lediglich eines *Eurer* Geheimnisse."</DefaultText>
+Ein leichtes Lächeln ist in ihrem Gesicht zu erkennen. „Und dafür verlange ich lediglich eines *Eurer* Geheimnisse.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Meine Preise sind einfach zu verstehen. Ein Geheimnis für ein Geheimnis. Die einzige Bedingung ist, dass es ein Geheimnis sein muss, das ich noch nicht kenne. Und ich muss Euch warnen, ich kenne sehr viele."</DefaultText>
+      <DefaultText>„Meine Preise sind einfach zu verstehen. Ein Geheimnis für ein Geheimnis. Die einzige Bedingung ist, dass es ein Geheimnis sein muss, das ich noch nicht kenne. Und ich muss Euch warnen, ich kenne sehr viele.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich verrate keine Geheimnisse weiter."</DefaultText>
+      <DefaultText>„Ich verrate keine Geheimnisse weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Hört sich fair an."</DefaultText>
+      <DefaultText>„Hört sich fair an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Wo ist der Haken?"</DefaultText>
+      <DefaultText>„Wo ist der Haken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Gut", sagt sie. "Halbherzige Geständnisse sind ohnehin kaum etwas wert. Es ist klug von Euch, sie für Euch zu behalten."</DefaultText>
+      <DefaultText>„Gut“, sagt sie. „Halbherzige Geständnisse sind ohnehin kaum etwas wert. Es ist klug von Euch, sie für Euch zu behalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Oh, das ist es", sagt sie zustimmend. "Aber da gibt es etwas, dessen Ihr euch bewusst sein müsst."</DefaultText>
+      <DefaultText>„Oh, das ist es“, sagt sie zustimmend. „Aber da gibt es etwas, dessen Ihr euch bewusst sein müsst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Gut erkannt", sagt sie lobend. "Es gibt einen, aber der wird Euch kaum überraschen."</DefaultText>
+      <DefaultText>„Gut erkannt“, sagt sie lobend. „Es gibt einen, aber der wird Euch kaum überraschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Alles, was Ihr mir erzählt, wird früher oder später an andere weitergehandelt."
+      <DefaultText>„Alles, was Ihr mir erzählt, wird früher oder später an andere weitergehandelt.“
 
-Ein leichtes Lächeln ist in ihrem Gesicht zu erkennen. "Anders ausgedrückt, wenn Ihr wollt, dass etwas tatsächlich ein Geheimnis bleibt, solltet Ihr es mir nicht verraten."</DefaultText>
+Ein leichtes Lächeln ist in ihrem Gesicht zu erkennen. „Anders ausgedrückt, wenn Ihr wollt, dass etwas tatsächlich ein Geheimnis bleibt, solltet Ihr es mir nicht verraten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,23 +116,23 @@ Ein leichtes Lächeln ist in ihrem Gesicht zu erkennen. "Anders ausgedrückt, we
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>""
+      <DefaultText>„“
 {GAVIN: Marking this B branch as Should Not Play for now.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,7 +152,7 @@ Ein leichtes Lächeln ist in ihrem Gesicht zu erkennen. "Anders ausgedrückt, we
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>(Lügen) "Ich bin der Wandelnde Gott."</DefaultText>
+      <DefaultText>(Lügen) „Ich bin der Wandelnde Gott.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,7 +164,7 @@ Ein leichtes Lächeln ist in ihrem Gesicht zu erkennen. "Anders ausgedrückt, we
       <ID>35</ID>
       <DefaultText>Sie neigt ihren Kopf zur Seite und schaut dich prüfend an.
 
-"Nein", sagt sie schließlich. "Nein, der seid Ihr nicht. Ihr habt nicht seine Augen."</DefaultText>
+„Nein“, sagt sie schließlich. „Nein, der seid Ihr nicht. Ihr habt nicht seine Augen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,36 +174,36 @@ Ein leichtes Lächeln ist in ihrem Gesicht zu erkennen. "Anders ausgedrückt, we
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich bin ein Verstoßener."</DefaultText>
-      <FemaleText>"Ich bin eine Verstoßene."</FemaleText>
+      <DefaultText>„Ich bin ein Verstoßener.“</DefaultText>
+      <FemaleText>„Ich bin eine Verstoßene.“</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Ja", sagt sie. "Das seid Ihr. Eure Tätowierung hat Euch verraten. Könnt Ihr mir sonst noch etwas erzählen?"</DefaultText>
+      <DefaultText>„Ja“, sagt sie. „Das seid Ihr. Eure Tätowierung hat Euch verraten. Könnt Ihr mir sonst noch etwas erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ich bin der ‚Gefallene Stern‘, der neulich über dem Himmel der Stadt zu sehen war."</DefaultText>
+      <DefaultText>„Ich bin der ‚Gefallene Stern‘, der neulich über dem Himmel der Stadt zu sehen war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Ihr Blick schweift von deinen Haaren über dein Gesicht, bis er schließlich deine Hände erreicht.
 
-"Interessant", sagt sie, während sie die Luft über ihrem Handgelenk berührt. "Aber für Euch wahrscheinlich noch viel interessanter, denke ich. Besonders in dem Moment."
+„Interessant“, sagt sie, während sie die Luft über ihrem Handgelenk berührt. „Aber für Euch wahrscheinlich noch viel interessanter, denke ich. Besonders in dem Moment.“
 
 Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ein Paar im Circus Minor hat einen Waisen namens Jherem adoptiert. Der Junge kommt aus der fernen Vergangenheit."</DefaultText>
+      <DefaultText>„Ein Paar im Circus Minor hat einen Waisen namens Jherem adoptiert. Der Junge kommt aus der fernen Vergangenheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ah", sagt sie. "Aus dem Haus der Leeren Zeit vermutlich, ja? Armes Kind." Sie greift nach der Luft neben ihrem Ohr.</DefaultText>
+      <DefaultText>„Ah“, sagt sie. „Aus dem Haus der Leeren Zeit vermutlich, ja? Armes Kind.“ Sie greift nach der Luft neben ihrem Ohr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,12 +213,12 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich kann Euch ein paar Geheimnisse über mich erzählen. Würde Euch das etwas wert sein?"</DefaultText>
+      <DefaultText>„Ich kann Euch ein paar Geheimnisse über mich erzählen. Würde Euch das etwas wert sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Ich werde Euch ein Geheimnis über meine Vergangenheit erzählen."</DefaultText>
+      <DefaultText>„Ich werde Euch ein Geheimnis über meine Vergangenheit erzählen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,27 +228,27 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Akzeptiert Ihr Geheimnisse der Sagus-Klippen?"</DefaultText>
+      <DefaultText>„Akzeptiert Ihr Geheimnisse der Sagus-Klippen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Akzeptiert Ihr weitere Geheimnisse der Sagus-Klippen?"</DefaultText>
+      <DefaultText>„Akzeptiert Ihr weitere Geheimnisse der Sagus-Klippen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Natürlich", sagt sie. "Vorausgesetzt natürlich, ich kenne sie nicht bereits."</DefaultText>
+      <DefaultText>„Natürlich“, sagt sie. „Vorausgesetzt natürlich, ich kenne sie nicht bereits.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Erzählt", sagt sie, ihre Hände faltend.</DefaultText>
+      <DefaultText>„Erzählt“, sagt sie, ihre Hände faltend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Dann muss die junge Dame noch etwas länger auf ihren Namen warten", sagt sie ruhig.</DefaultText>
+      <DefaultText>„Dann muss die junge Dame noch etwas länger auf ihren Namen warten“, sagt sie ruhig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,7 +258,7 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Vergesst es. Ich möchte gerade keine Geheimnisse austauschen."</DefaultText>
+      <DefaultText>„Vergesst es. Ich möchte gerade keine Geheimnisse austauschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,12 +268,12 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Vielleicht", sagt sie. "Was könnt Ihr mir erzählen?"</DefaultText>
+      <DefaultText>„Vielleicht“, sagt sie. „Was könnt Ihr mir erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Fahrt fort", sagt sie mit ausdruckslosem Gesicht.</DefaultText>
+      <DefaultText>„Fahrt fort“, sagt sie mit ausdruckslosem Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,49 +288,49 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Ein Vorarbeiter - eines der Konstrukte auf der Schattenseite - möchte Kinder haben."</DefaultText>
+      <DefaultText>„Ein Vorarbeiter - eines der Konstrukte auf der Schattenseite - möchte Kinder haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Ja, der Vorarbeiter der Schattenseite", sagt sie mit sanfter Stimme. "Ein interessanter Fall, aber mir durchaus bekannt. Könnt Ihr mir sonst noch etwas erzählen?"</DefaultText>
+      <DefaultText>„Ja, der Vorarbeiter der Schattenseite“, sagt sie mit sanfter Stimme. „Ein interessanter Fall, aber mir durchaus bekannt. Könnt Ihr mir sonst noch etwas erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Mallet der Dendra hat jemanden getötet und dann gegessen."</DefaultText>
+      <DefaultText>„Mallet der Dendra hat jemanden getötet und dann gegessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Hm ..." Sie scheint zu überlegen, während sie die Luft über ihrem Nacken berührt. "Ich habe davon gehört, dass er für ein Verbrechen hingerichtet wurde, das er nicht begangen hat." Sie starrt dir für einen Moment lang in die Augen. "Es ist gut zu hören, dass er nicht ganz so unschuldig war."</DefaultText>
+      <DefaultText>„Hm ...“ Sie scheint zu überlegen, während sie die Luft über ihrem Nacken berührt. „Ich habe davon gehört, dass er für ein Verbrechen hingerichtet wurde, das er nicht begangen hat.“ Sie starrt dir für einen Moment lang in die Augen. „Es ist gut zu hören, dass er nicht ganz so unschuldig war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Hm ..." Sie scheint zu überlegen, während sie die Luft über ihrem Nacken berührt. "Bedenkt man alles, was über die Dendra O'hur bekannt ist, wäre das aus ihrer Sicht wohl kaum ein Mord. Vielleicht eher", sie hält kurz inne, "unhöflich...? Trotzdem ist das eine nützliche Information."</DefaultText>
+      <DefaultText>„Hm ...“ Sie scheint zu überlegen, während sie die Luft über ihrem Nacken berührt. „Bedenkt man alles, was über die Dendra O'hur bekannt ist, wäre das aus ihrer Sicht wohl kaum ein Mord. Vielleicht eher“, sie hält kurz inne, „unhöflich...? Trotzdem ist das eine nützliche Information.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Das Schalltote Lazarett im Riff kann mit dem Auge eines Mlox geöffnet werden."</DefaultText>
+      <DefaultText>„Das Schalltote Lazarett im Riff kann mit dem Auge eines Mlox geöffnet werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
       <DefaultText>Die Distanz zwischen ihren Augenbrauen und ihrem Haaransatz verkürzt sich.
 
-"Sehr nützlich", sagt sie, und tippt wiederholt über ihrem Brustbein in die Luft. "Faszinierend."</DefaultText>
+„Sehr nützlich“, sagt sie, und tippt wiederholt über ihrem Brustbein in die Luft. „Faszinierend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Lord Vuntgen hat das Yovok-Blut seiner Mutter in sich."</DefaultText>
+      <DefaultText>„Lord Vuntgen hat das Yovok-Blut seiner Mutter in sich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Das erklärt einiges", sagt sie, während sie mit zwei Fingern an ihrem Arm entlangt gleitet.</DefaultText>
+      <DefaultText>„Das erklärt einiges“, sagt sie, während sie mit zwei Fingern an ihrem Arm entlangt gleitet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,22 +365,22 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Ich möchte Geheimnisse austauschen."</DefaultText>
+      <DefaultText>„Ich möchte Geheimnisse austauschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Ich habe keine Geheimnisse zu tauschen."</DefaultText>
+      <DefaultText>„Ich habe keine Geheimnisse zu tauschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Gut." Mehr sagt sie nicht. "Was für Informationen benötigt Ihr?"</DefaultText>
+      <DefaultText>„Gut.“ Mehr sagt sie nicht. „Was für Informationen benötigt Ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Sehr gut", sagt sie. "Was möchtet Ihr wissen?"</DefaultText>
+      <DefaultText>„Sehr gut“, sagt sie. „Was möchtet Ihr wissen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -390,17 +390,17 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Ich versuche, einer Frau zu helfen, die sich Verlust-des-Selbsts nennt. Weißt du, wer sie ist?"</DefaultText>
+      <DefaultText>„Ich versuche, einer Frau zu helfen, die sich Verlust-des-Selbsts nennt. Weißt du, wer sie ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Erzähl mit bitte noch einmal, wer Verlust-des-Selbsts ist."</DefaultText>
+      <DefaultText>„Erzähl mit bitte noch einmal, wer Verlust-des-Selbsts ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Ja", sagt sie nach einer kurzen Pause. Ihr Blick schweift in die Ferne. "Ich kann Euch ihren Namen sagen. Aber was für ein Geheimnis bekomme ich dafür?"</DefaultText>
+      <DefaultText>„Ja“, sagt sie nach einer kurzen Pause. Ihr Blick schweift in die Ferne. „Ich kann Euch ihren Namen sagen. Aber was für ein Geheimnis bekomme ich dafür?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -410,7 +410,7 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Ihr Name ist Alara", sagt sie. "Ihre Familie vermisst sie schrecklich."</DefaultText>
+      <DefaultText>„Ihr Name ist Alara“, sagt sie. „Ihre Familie vermisst sie schrecklich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -620,33 +620,33 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Eigentlich möchte ich doch lieber keine Geheimnisse tauschen."</DefaultText>
+      <DefaultText>„Eigentlich möchte ich doch lieber keine Geheimnisse tauschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Ich verstehe", sagt sie. "Dann haben wir nichts zu besprechen."</DefaultText>
+      <DefaultText>„Ich verstehe“, sagt sie. „Dann haben wir nichts zu besprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>""
+      <DefaultText>„“
 {GAVIN: Match conditionals to the similar branches.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Gut", sagt sie. "Und weiter?"</DefaultText>
+      <DefaultText>„Gut“, sagt sie. „Und weiter?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Gut. Ist unser Geschäft damit beendet?"</DefaultText>
+      <DefaultText>„Gut. Ist unser Geschäft damit beendet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,32 +661,32 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Ja", sagt sie. "Ich kann Euch einen Namen und einige andere Details anbieten. Was bietet Ihr mir im Gegenzug?"</DefaultText>
+      <DefaultText>„Ja“, sagt sie. „Ich kann Euch einen Namen und einige andere Details anbieten. Was bietet Ihr mir im Gegenzug?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Natürlich", sagt sie. "Was bietet Ihr mir im Gegenzug?"</DefaultText>
+      <DefaultText>„Natürlich“, sagt sie. „Was bietet Ihr mir im Gegenzug?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Lan-Uring. Die Memovira zwingt ihn dazu, ihr Informationen einzuverleiben."</DefaultText>
+      <DefaultText>„Lan-Uring. Die Memovira zwingt ihn dazu, ihr Informationen einzuverleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Ist jemand im Orden der Wahrheit ein Spion der Memovira?"</DefaultText>
+      <DefaultText>„Ist jemand im Orden der Wahrheit ein Spion der Memovira?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Ich möchte den Namen des Spions im Orden der Wahrheit erfahren."</DefaultText>
+      <DefaultText>„Ich möchte den Namen des Spions im Orden der Wahrheit erfahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Wer ist noch gleich der Spion im Orden der Wahrheit?"</DefaultText>
+      <DefaultText>„Wer ist noch gleich der Spion im Orden der Wahrheit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,12 +696,12 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Wie du meinst", sagt sie. "Wenn du deine Meinung ändern solltest, weißt du ja, wo du mich findest."</DefaultText>
+      <DefaultText>„Wie du meinst“, sagt sie. „Wenn du deine Meinung ändern solltest, weißt du ja, wo du mich findest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -711,39 +711,39 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>""
-{GAVIN: Marking this as Should Not Play for now. "Not for 1E"}</DefaultText>
+      <DefaultText>„“
+{GAVIN: Marking this as Should Not Play for now. „Not for 1E“}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>""
+      <DefaultText>„“
 {GAVIN: Match conditionals to the similar branches.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Ich bin bereit, ein Geheimnis im Tausch für den Namen von Verlust-des-Selbsts zu liefern."</DefaultText>
+      <DefaultText>„Ich bin bereit, ein Geheimnis im Tausch für den Namen von Verlust-des-Selbsts zu liefern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -753,32 +753,32 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Das wäre eine sehr komplexe Antwort", meint sie. "Was für ein Geheimnis bietet Ihr mir dafür?"</DefaultText>
+      <DefaultText>„Das wäre eine sehr komplexe Antwort“, meint sie. „Was für ein Geheimnis bietet Ihr mir dafür?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Das tun wir", stimmt sie zu. "Was für ein Geheimnis bietet Ihr mir für meine Antwort?"</DefaultText>
+      <DefaultText>„Das tun wir“, stimmt sie zu. „Was für ein Geheimnis bietet Ihr mir für meine Antwort?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Maschinen unter der Oberfläche der Stadt, die Wirklichkeiten und Wahrscheinlichkeiten manipulieren. Möglicherweise lassen sie sich aufspüren und abstellen."</DefaultText>
+      <DefaultText>„Maschinen unter der Oberfläche der Stadt, die Wirklichkeiten und Wahrscheinlichkeiten manipulieren. Möglicherweise lassen sie sich aufspüren und abstellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Was verursacht den Gedächtnisverlust von Verlust-des-Selbsts?"</DefaultText>
+      <DefaultText>„Was verursacht den Gedächtnisverlust von Verlust-des-Selbsts?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Reden wir noch einmal über das Problem von Verlust-des-Selbsts."</DefaultText>
+      <DefaultText>„Reden wir noch einmal über das Problem von Verlust-des-Selbsts.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Was verursacht noch gleich den Gedächtnisverlust von Verlust-des-Selbsts?"</DefaultText>
+      <DefaultText>„Was verursacht noch gleich den Gedächtnisverlust von Verlust-des-Selbsts?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -788,17 +788,17 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Eine Schande", sagt sie. "Aber vielleicht finden sie den Spion ja auch selbst."</DefaultText>
+      <DefaultText>„Eine Schande“, sagt sie. „Aber vielleicht finden sie den Spion ja auch selbst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Ihr habt eine seltsame Geste gemacht, als ich Euch ein Geheimnis anvertraut habe. Wie genau merkt Ihr Euch diese ganzen Informationen eigentlich?"</DefaultText>
+      <DefaultText>„Ihr habt eine seltsame Geste gemacht, als ich Euch ein Geheimnis anvertraut habe. Wie genau merkt Ihr Euch diese ganzen Informationen eigentlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Eine gute Frage", sagt sie, und hebt dabei eine Augenbraue. "Und ich werde sie nicht beantworten, nicht für jedes Geheimnis in dieser Stadt."</DefaultText>
+      <DefaultText>„Eine gute Frage“, sagt sie, und hebt dabei eine Augenbraue. „Und ich werde sie nicht beantworten, nicht für jedes Geheimnis in dieser Stadt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -808,23 +808,23 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Um deine Frage zu beantworten - Verlust-des-Selbsts ist nicht die einzige Frau in der Stadt, die von diesem Fluch betroffen ist. Es gibt Maschinen unterhalb der Stadt, die die Wirklichkeit und Wahrscheinlichkeiten manipulieren und so mit dem Verstand dieser Frauen spielen."
+      <DefaultText>„Um deine Frage zu beantworten - Verlust-des-Selbsts ist nicht die einzige Frau in der Stadt, die von diesem Fluch betroffen ist. Es gibt Maschinen unterhalb der Stadt, die die Wirklichkeit und Wahrscheinlichkeiten manipulieren und so mit dem Verstand dieser Frauen spielen.“
 
-Sie presst ihre Lippen zusammen. "Meine Quellen deuten darauf hin, dass der Wandelnde Gott sie dort platziert hat, aber niemand weiß, warum."
+Sie presst ihre Lippen zusammen. „Meine Quellen deuten darauf hin, dass der Wandelnde Gott sie dort platziert hat, aber niemand weiß, warum.“
 
-Sie schaut weg. "Wenn du dieser Frau helfen willst, solltest du vermutlich nach den Maschinen Ausschau halten, die für ihre Probleme verantwortlich sind, und sie abschalten."</DefaultText>
+Sie schaut weg. „Wenn du dieser Frau helfen willst, solltest du vermutlich nach den Maschinen Ausschau halten, die für ihre Probleme verantwortlich sind, und sie abschalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>"Was deine Frage angeht, die Frau, die du Verlust-des-Selbsts nennt, hieß ursprünglich Alara. Ihre Eltern sind noch am Leben und bringen ihr jeden Tag frisches Essen. Aber daran kann sie sich nicht erinnern - das ist das Wesen ihres Fluchs."
+      <DefaultText>„Was deine Frage angeht, die Frau, die du Verlust-des-Selbsts nennt, hieß ursprünglich Alara. Ihre Eltern sind noch am Leben und bringen ihr jeden Tag frisches Essen. Aber daran kann sie sich nicht erinnern - das ist das Wesen ihres Fluchs.“
 
-Sie nickt. "Und das war die Antwort, nach der du gesucht hast."</DefaultText>
+Sie nickt. „Und das war die Antwort, nach der du gesucht hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Nur zu Eurer Information - Lan-Uring wurde dazu genötigt, der Memovira Informationen zuzuspielen. Es könnte sich lohnen, seine Seite der Geschichte anzuhören, bevor Ihr ihn seinen Vorgesetzten meldet."</DefaultText>
+      <DefaultText>„Nur zu Eurer Information - Lan-Uring wurde dazu genötigt, der Memovira Informationen zuzuspielen. Es könnte sich lohnen, seine Seite der Geschichte anzuhören, bevor Ihr ihn seinen Vorgesetzten meldet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -834,42 +834,42 @@ Sie nickt. "Und das war die Antwort, nach der du gesucht hast."</DefaultText>
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Ich suche nach einer Frau namens Matkina."</DefaultText>
+      <DefaultText>„Ich suche nach einer Frau namens Matkina.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>"Seid Ihr sicher, dass Ihr keine Informationen zum Verbleib von Matkina habt?"</DefaultText>
+      <DefaultText>„Seid Ihr sicher, dass Ihr keine Informationen zum Verbleib von Matkina habt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Ich habe von ihr gehört", sagt sie. "Aber ich weiß nicht, wo sie sich aufhält."</DefaultText>
+      <DefaultText>„Ich habe von ihr gehört“, sagt sie. „Aber ich weiß nicht, wo sie sich aufhält.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Ich kann euch nicht anbieten, was ich nicht habe."</DefaultText>
+      <DefaultText>„Ich kann euch nicht anbieten, was ich nicht habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Es gibt verschiedene Gründe", sagt sie. "Im Grunde ist es so - ich bin eine Händlerin, keine Erpresserin."</DefaultText>
+      <DefaultText>„Es gibt verschiedene Gründe“, sagt sie. „Im Grunde ist es so - ich bin eine Händlerin, keine Erpresserin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Warum bietet Ihr diese Geheimnisse nicht direkt den Leuten an, die sie betreffen?"</DefaultText>
+      <DefaultText>„Warum bietet Ihr diese Geheimnisse nicht direkt den Leuten an, die sie betreffen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Woher weiß ich, dass Ihr nicht vorgebt, eines meiner Geheimnisse bereits zu kennen, obwohl Ihr noch nie davon gehört habt?"</DefaultText>
+      <DefaultText>„Woher weiß ich, dass Ihr nicht vorgebt, eines meiner Geheimnisse bereits zu kennen, obwohl Ihr noch nie davon gehört habt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Eine berechtigte Frage." Sollte sie sich von deinen Worten angegriffen fühlen, dann ist sie sehr gut darin, es zu verstecken. "Aber ich verschwende meine Zeit nicht mit Versprechen. Ihr könnt Euch entweder selbst meiner Glaubwürdigkeit versichern oder mit jemand anders Geschäfte machen."</DefaultText>
+      <DefaultText>„Eine berechtigte Frage.“ Sollte sie sich von deinen Worten angegriffen fühlen, dann ist sie sehr gut darin, es zu verstecken. „Aber ich verschwende meine Zeit nicht mit Versprechen. Ihr könnt Euch entweder selbst meiner Glaubwürdigkeit versichern oder mit jemand anders Geschäfte machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -879,51 +879,51 @@ Sie nickt. "Und das war die Antwort, nach der du gesucht hast."</DefaultText>
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Ich kann Euch einen Rat in dieser Sache anbieten", sagt sie. "Was für ein Geheimnis bietet Ihr mir dafür?"</DefaultText>
+      <DefaultText>„Ich kann Euch einen Rat in dieser Sache anbieten“, sagt sie. „Was für ein Geheimnis bietet Ihr mir dafür?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Wie Ihr meint", sagt sie. "Was könnt Ihr mir anbieten?"</DefaultText>
+      <DefaultText>„Wie Ihr meint“, sagt sie. „Was könnt Ihr mir anbieten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Ich habe verschiedene Frauen getroffen, die über eine sehr hartnäckige Stimme in ihrem Kopf klagen. Was ist die Ursache dafür?"</DefaultText>
+      <DefaultText>„Ich habe verschiedene Frauen getroffen, die über eine sehr hartnäckige Stimme in ihrem Kopf klagen. Was ist die Ursache dafür?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Ich möchte ein Geheimnis für die Antwort darauf tauschen, was die Stimmen in den Köpfen der Frauen von Sagus erzeugt."</DefaultText>
+      <DefaultText>„Ich möchte ein Geheimnis für die Antwort darauf tauschen, was die Stimmen in den Köpfen der Frauen von Sagus erzeugt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Was erzeugt noch gleich die Stimmen in den Köpfen der Frauen von Sagus?"</DefaultText>
+      <DefaultText>„Was erzeugt noch gleich die Stimmen in den Köpfen der Frauen von Sagus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Wie Ihr meint", sagt sie. "Lasst es mich wissen, wenn Ihr Eure Meinung ändert."</DefaultText>
+      <DefaultText>„Wie Ihr meint“, sagt sie. „Lasst es mich wissen, wenn Ihr Eure Meinung ändert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Um Eure Frage zu beantworten - es gibt Maschinen unterhalb der Stadt, die die Wirklichkeit und Wahrscheinlichkeiten manipulieren und so mit dem Verstand dieser Frauen spielen."
+      <DefaultText>„Um Eure Frage zu beantworten - es gibt Maschinen unterhalb der Stadt, die die Wirklichkeit und Wahrscheinlichkeiten manipulieren und so mit dem Verstand dieser Frauen spielen.“
 
-Sie presst ihre Lippen zusammen. "Meine Quellen deuten darauf hin, dass der Wandelnde Gott sie dort platziert hat, aber niemand weiß, warum."
+Sie presst ihre Lippen zusammen. „Meine Quellen deuten darauf hin, dass der Wandelnde Gott sie dort platziert hat, aber niemand weiß, warum.“
 
-Sie schaut weg. "Wenn Ihr diesen Frauen helfen wollt, solltet Ihr vermutlich nach den Maschinen Ausschau halten, die für ihre Probleme verantwortlich sind, und sie abschalten."</DefaultText>
+Sie schaut weg. „Wenn Ihr diesen Frauen helfen wollt, solltet Ihr vermutlich nach den Maschinen Ausschau halten, die für ihre Probleme verantwortlich sind, und sie abschalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Nun gut."</DefaultText>
+      <DefaultText>„Nun gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Wisst Ihr was? Lasst uns über ein andere Art des Geheimnisses sprechen."</DefaultText>
+      <DefaultText>„Wisst Ihr was? Lasst uns über ein andere Art des Geheimnisses sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -933,29 +933,29 @@ Sie schaut weg. "Wenn Ihr diesen Frauen helfen wollt, solltet Ihr vermutlich nac
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Ich mache Euch einen Vorschlag - ich gebe Euch Informationen für ein Geheimnis, das Euch interessiert."</DefaultText>
+      <DefaultText>„Ich mache Euch einen Vorschlag - ich gebe Euch Informationen für ein Geheimnis, das Euch interessiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Ich möchte noch einmal Informationen gegen ein Geheimnis austauschen, das euch interessiert."</DefaultText>
+      <DefaultText>„Ich möchte noch einmal Informationen gegen ein Geheimnis austauschen, das euch interessiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
       <DefaultText>Die ehrliche Freude steht ihr ins Gesicht geschrieben.
 
-"Einverstanden", sagt sie. "Was könnt Ihr mir anbieten?"</DefaultText>
+„Einverstanden“, sagt sie. „Was könnt Ihr mir anbieten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Hervorragend", sagt sie. "Was könnt Ihr mir anbieten?"</DefaultText>
+      <DefaultText>„Hervorragend“, sagt sie. „Was könnt Ihr mir anbieten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"Ich verstehe", sagt sie. "Nun gut."</DefaultText>
+      <DefaultText>„Ich verstehe“, sagt sie. „Nun gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -965,7 +965,7 @@ Sie schaut weg. "Wenn Ihr diesen Frauen helfen wollt, solltet Ihr vermutlich nac
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"Was euer ‚interessantes Geheimnis‘ angeht ..." Gedankenverloren fährt sie an den Rändern ihrer Lippen entlang.</DefaultText>
+      <DefaultText>„Was euer ‚interessantes Geheimnis‘ angeht ...“ Gedankenverloren fährt sie an den Rändern ihrer Lippen entlang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -975,24 +975,24 @@ Sie schaut weg. "Wenn Ihr diesen Frauen helfen wollt, solltet Ihr vermutlich nac
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"Ah, ja. Das Konstrukt, das man auch den Werkmeister nennt, könnte seine Augen schon seit Jahren reparieren. Es bevorzugt es einfach, blind zu sein."</DefaultText>
+      <DefaultText>„Ah, ja. Das Konstrukt, das man auch den Werkmeister nennt, könnte seine Augen schon seit Jahren reparieren. Es bevorzugt es einfach, blind zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"Hmmm. Oh, natürlich - laut meinen Quellen verdient sich die Irrgästin Pelial mit dem Verkauf von Stichus-Eiern eine goldene Nase."</DefaultText>
+      <DefaultText>„Hmmm. Oh, natürlich - laut meinen Quellen verdient sich die Irrgästin Pelial mit dem Verkauf von Stichus-Eiern eine goldene Nase.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Vielleicht ist es das - Tag für Tag schließt sich der Griff der Memovira fester um die Stadt. Jeder, der noch nicht für sie arbeitet, wird es bald tun.
+      <DefaultText>„Vielleicht ist es das - Tag für Tag schließt sich der Griff der Memovira fester um die Stadt. Jeder, der noch nicht für sie arbeitet, wird es bald tun.“
 
-Sie zuckt mit den Schultern. "Es sei denn, etwas ändert sich. Üblicherweise tut es das."</DefaultText>
+Sie zuckt mit den Schultern. „Es sei denn, etwas ändert sich. Üblicherweise tut es das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>"Die Händler Falinda und Steristi sind ineinander verliebt, und das seit vielen, vielen Jahren. Falinda hat noch nie Steristis Stimme gehört."</DefaultText>
+      <DefaultText>„Die Händler Falinda und Steristi sind ineinander verliebt, und das seit vielen, vielen Jahren. Falinda hat noch nie Steristis Stimme gehört.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1002,39 +1002,39 @@ Sie zuckt mit den Schultern. "Es sei denn, etwas ändert sich. Üblicherweise tu
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"Nein", sagt sie, und hebt dabei ihre bleiche Hand. "Ich denke, wir haben für‘s Erste genug Geheimnisse ausgetauscht. Euer Hunger nach Informationen steht meinem in nichts nach."
+      <DefaultText>„Nein“, sagt sie, und hebt dabei ihre bleiche Hand. „Ich denke, wir haben für‘s Erste genug Geheimnisse ausgetauscht. Euer Hunger nach Informationen steht meinem in nichts nach.“
 
-Sie zieht ein kristallines Objekt aus ihren Roben und drückt es dir in die Hände. "Ein Geschenk", sagt sie. "Von einem Geheimnisjäger an den anderen."
+Sie zieht ein kristallines Objekt aus ihren Roben und drückt es dir in die Hände. „Ein Geschenk“, sagt sie. „Von einem Geheimnisjäger an den anderen.“
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>Eine ihrer Augenbrauen stellt sich plötzlich auf. "Ihr versucht, meine Gedanken zu durchforsten. Selbstverständlich werdet ihr dort *nichts* finden. Wenn ich mich so leicht austricksen lassen würde, wäre ich schon lange nicht mehr im Geschäft."
+      <DefaultText>Eine ihrer Augenbrauen stellt sich plötzlich auf. „Ihr versucht, meine Gedanken zu durchforsten. Selbstverständlich werdet ihr dort *nichts* finden. Wenn ich mich so leicht austricksen lassen würde, wäre ich schon lange nicht mehr im Geschäft.“
 
-Sie schnippt über ihrer Schulter in die Luft, aber du kannst dort nichts entdecken. "Nichtsdestotrotz ist das eine sehr nützliche Fähigkeit. Die besten Geheimnisse finden sich selten an der Oberfläche. Lasst Euch von den Gedanken der Menschen leiten und Ihr werdet sie finden. Ich denke, wir werden uns viel zu erzählen haben."</DefaultText>
+Sie schnippt über ihrer Schulter in die Luft, aber du kannst dort nichts entdecken. „Nichtsdestotrotz ist das eine sehr nützliche Fähigkeit. Die besten Geheimnisse finden sich selten an der Oberfläche. Lasst Euch von den Gedanken der Menschen leiten und Ihr werdet sie finden. Ich denke, wir werden uns viel zu erzählen haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>Eine ihrer Augenbrauen stellt sich plötzlich auf. "Ihr versucht, meine Gedanken zu lesen. Selbstverständlich werdet ihr dort *nichts* finden. Wenn ich mich so leicht austricksen lassen würde, wäre ich schon lange nicht mehr im Geschäft."
+      <DefaultText>Eine ihrer Augenbrauen stellt sich plötzlich auf. „Ihr versucht, meine Gedanken zu lesen. Selbstverständlich werdet ihr dort *nichts* finden. Wenn ich mich so leicht austricksen lassen würde, wäre ich schon lange nicht mehr im Geschäft.“
 
-Sie schnippt über ihrer Schulter in die Luft, aber du kannst dort nichts entdecken. "Habt Ihr das gerade zum ersten Mal versucht? Jedenfalls eine sehr nützliche Fähigkeit. Die besten Geheimnisse finden sich selten an der Oberfläche. Lasst Euch von den Gedanken der Menschen leiten und Ihr werdet sie finden. Ich denke, wir werden uns viel zu erzählen haben."</DefaultText>
+Sie schnippt über ihrer Schulter in die Luft, aber du kannst dort nichts entdecken. „Habt Ihr das gerade zum ersten Mal versucht? Jedenfalls eine sehr nützliche Fähigkeit. Die besten Geheimnisse finden sich selten an der Oberfläche. Lasst Euch von den Gedanken der Menschen leiten und Ihr werdet sie finden. Ich denke, wir werden uns viel zu erzählen haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>"Ich kann Eure Gedanken nicht lesen, aber *Ihr* meine?"</DefaultText>
+      <DefaultText>„Ich kann Eure Gedanken nicht lesen, aber *Ihr* meine?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>"Nein." Ihr Lächeln beruhigt dich. "Wenn ich das könnte, würde ich wohl kaum noch handeln müssen, oder? Macht Euch keine Sorgen. Ich bin eine Händlerin, keine Diebin."</DefaultText>
+      <DefaultText>„Nein.“ Ihr Lächeln beruhigt dich. „Wenn ich das könnte, würde ich wohl kaum noch handeln müssen, oder? Macht Euch keine Sorgen. Ich bin eine Händlerin, keine Diebin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Was gibt es noch zu besprechen?"</DefaultText>
+      <DefaultText>„Was gibt es noch zu besprechen?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
