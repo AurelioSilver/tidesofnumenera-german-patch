@@ -118,23 +118,22 @@ Ein leichtes Lächeln ist in ihrem Gesicht zu erkennen. "Anders ausgedrückt, we
       <ID>20</ID>
       <DefaultText>""
 {GAVIN: Marking this B branch as Should Not Play for now.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Marking this B branch as Should Not Play for now.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
@@ -638,8 +637,7 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
       <ID>136</ID>
       <DefaultText>""
 {GAVIN: Match conditionals to the similar branches.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Match conditionals to the similar branches.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
@@ -659,7 +657,7 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     <Entry>
       <ID>140</ID>
       <DefaultText>Follow-up PQ. 84</DefaultText>
-      <FemaleText>Follow-up PQ. 84</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
@@ -704,46 +702,44 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     <Entry>
       <ID>149</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
       <DefaultText>Follow-up PQ. 19</DefaultText>
-      <FemaleText>Follow-up PQ. 19</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
       <DefaultText>""
 {GAVIN: Marking this as Should Not Play for now."Not for 1E"}</DefaultText>
-      <FemaleText>""
-{GAVIN: Marking this as Should Not Play for now."Not for 1E"}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
       <DefaultText>""
 {GAVIN: Match conditionals to the similar branches.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Match conditionals to the similar branches.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
@@ -753,7 +749,7 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     <Entry>
       <ID>170</ID>
       <DefaultText>Follow-up PQ. 84</DefaultText>
-      <FemaleText>Follow-up PQ. 84</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
@@ -834,7 +830,7 @@ Sie nickt. "Und das war die Antwort, nach der du gesucht hast."</DefaultText>
     <Entry>
       <ID>195</ID>
       <DefaultText>Follow-up PQ. 195</DefaultText>
-      <FemaleText>Follow-up PQ. 195</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
@@ -879,7 +875,7 @@ Sie nickt. "Und das war die Antwort, nach der du gesucht hast."</DefaultText>
     <Entry>
       <ID>204</ID>
       <DefaultText>Follow-up PQ. 170</DefaultText>
-      <FemaleText>Follow-up PQ. 170</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
@@ -1039,7 +1035,7 @@ Sie schnippt über ihrer Schulter in die Luft, aber du kannst dort nichts entdec
     <Entry>
       <ID>234</ID>
       <DefaultText>"Was gibt es noch zu besprechen?"</DefaultText>
-      <FemaleText>"Was gibt es noch zu besprechen?"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
