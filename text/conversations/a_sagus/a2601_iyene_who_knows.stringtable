@@ -12,14 +12,14 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>She nods at you in greeting. 
+      <DefaultText>She nods at you in greeting.
 
 "Willkommen zurück. Bringt Euch das Geschäft zu mir?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Die Mimik dieser Frau lässt sich nur schlecht in Worte fassen. Distanziert, professionell und zielgerichtet. Interessiert. Sie nickt dir zu und verschließt ihre Hände ineinander. 
+      <DefaultText>Die Mimik dieser Frau lässt sich nur schlecht in Worte fassen. Distanziert, professionell und zielgerichtet. Interessiert. Sie nickt dir zu und verschließt ihre Hände ineinander.
 
 "Ich sehe Euch hier zum ersten Mal", sagt sie. Ihre Stimme wirkt seltsam abgedämpft. "Bevor wir anfangen müsst ihr wissen, wo wir uns hier befinden."
 
@@ -189,7 +189,7 @@ Ein leichtes Lächeln ist in ihrem Gesicht zu erkennen. "Anders ausgedrückt, we
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Ihr Blick schweift von deinen Haaren über dein Gesicht, bis er schließlich deine Hände erreicht. 
+      <DefaultText>Ihr Blick schweift von deinen Haaren über dein Gesicht, bis er schließlich deine Hände erreicht.
 
 "Interessant", sagt sie, während sie die Luft über ihrem Handgelenk berührt. "Aber für Euch wahrscheinlich noch viel interessanter, denke ich. Besonders in dem Moment."
 
@@ -318,7 +318,7 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Die Distanz zwischen ihren Augenbrauen und ihrem Haaransatz verkürzt sich. 
+      <DefaultText>Die Distanz zwischen ihren Augenbrauen und ihrem Haaransatz verkürzt sich.
 
 "Sehr nützlich", sagt sie, und tippt wiederholt über ihrem Brustbein in die Luft. "Faszinierend."</DefaultText>
       <FemaleText />
@@ -727,7 +727,7 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     <Entry>
       <ID>160</ID>
       <DefaultText>""
-{GAVIN: Marking this as Should Not Play for now."Not for 1E"}</DefaultText>
+{GAVIN: Marking this as Should Not Play for now. "Not for 1E"}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -943,7 +943,7 @@ Sie schaut weg. "Wenn Ihr diesen Frauen helfen wollt, solltet Ihr vermutlich nac
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>Die ehrliche Freude steht ihr ins Gesicht geschrieben. 
+      <DefaultText>Die ehrliche Freude steht ihr ins Gesicht geschrieben.
 
 "Einverstanden", sagt sie. "Was könnt Ihr mir anbieten?"</DefaultText>
       <FemaleText />
