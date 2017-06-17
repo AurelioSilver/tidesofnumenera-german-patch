@@ -37,17 +37,17 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>"Ich habe das Gefühl, hier schon seit *Tagen* zu warten ..."</DefaultText>
-      <FemaleText>"Ich habe das Gefühl, hier schon seit *Tagen* zu warten ..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>"Dieser Sachbearbeiter schaut uns nicht einmal in die Augen!"</DefaultText>
-      <FemaleText>"Dieser Sachbearbeiter schaut uns nicht einmal in die Augen!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>"Ich wette, er wird uns die ganze Nacht lang schmoren lassen!"</DefaultText>
-      <FemaleText>"Ich wette, er wird uns die ganze Nacht lang schmoren lassen!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
