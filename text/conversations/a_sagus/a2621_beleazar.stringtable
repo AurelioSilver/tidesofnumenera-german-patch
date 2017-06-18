@@ -27,19 +27,18 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>Follow-up PQ. 6</DefaultText>
-      <FemaleText>Follow-up PQ. 6</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>""
 {GAVIN: Gating with blank global for now. This is another Order of Truth faction quest branch. Disable this node when a conclusion is reached in one of the branches.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Gating with blank global for now. This is another Order of Truth faction quest branch. Disable this node when a conclusion is reached in one of the branches.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -115,7 +114,7 @@ Er zwinkert dir erneut zu.</DefaultText>
     <Entry>
       <ID>26</ID>
       <DefaultText>Follow-up PQ. 26</DefaultText>
-      <FemaleText>Follow-up PQ. 26</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -170,37 +169,37 @@ Er zwinkert dir erneut zu.</DefaultText>
     <Entry>
       <ID>39</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
@@ -211,53 +210,52 @@ Er zwinkert dir erneut zu.</DefaultText>
       <ID>50</ID>
       <DefaultText>""
 {GAVIN: Add new CharacterWitness variable to account for him changing his mind.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Add new CharacterWitness variable to account for him changing his mind.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
@@ -289,7 +287,7 @@ Er massiert seine gematerte Hand und starrt dich dabei wütend an.</DefaultText>
     <Entry>
       <ID>66</ID>
       <DefaultText>::knurrt::</DefaultText>
-      <FemaleText>::knurrt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
