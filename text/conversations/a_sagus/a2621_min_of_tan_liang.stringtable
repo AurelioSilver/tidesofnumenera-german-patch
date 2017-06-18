@@ -93,7 +93,7 @@ Er sieht dich an, und für den Bruchteil einer Sekunde scheint er dich zu erkenn
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Heutzutage ... sind wir nicht mehr so organisiert“, sagt er mit einem Schulterzucken. „Sei es zum Gutem oder zum Schlechten. Unsere Anführer werden durch eine Abstimmung der anderen Priester und Priesterinnen gewählt, und sie haben keinen Einfluss auf die Projekte der Ordensmitglieder. Sie beschäftigen sich in erster Linie mit der Politik und dem Papierkram, damit alle anderen sich auf ihre irrsinnigen Projekte und unnötig gefährlichen Experimente konzentrieren können.“
+      <DefaultText>„Heutzutage … sind wir nicht mehr so organisiert“, sagt er mit einem Schulterzucken. „Sei es zum Gutem oder zum Schlechten. Unsere Anführer werden durch eine Abstimmung der anderen Priester und Priesterinnen gewählt, und sie haben keinen Einfluss auf die Projekte der Ordensmitglieder. Sie beschäftigen sich in erster Linie mit der Politik und dem Papierkram, damit alle anderen sich auf ihre irrsinnigen Projekte und unnötig gefährlichen Experimente konzentrieren können.“
 
 Er grinst. „Soll heißen: Ich bin der Leiter, weil ich weiß, dass wir alle hin und wieder auch etwas zu Essen brauchen.“</DefaultText>
       <FemaleText />
@@ -148,8 +148,8 @@ Er nickt einer Maschine in der Nähe zu. „Außerdem erschaffen wir die Levis, 
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Ich habe Divitiacu in der Uhr im Circus Minor gesehen. Euer Gründer war der Wandelnde Gott ... oder ein Verstoßener.“</DefaultText>
-      <FemaleText>„Ich habe Divitiacu in der Uhr im Circus Minor gesehen. Euer Gründer war der Wandelnde Gott ... oder eine Verstoßene.“</FemaleText>
+      <DefaultText>„Ich habe Divitiacu in der Uhr im Circus Minor gesehen. Euer Gründer war der Wandelnde Gott … oder ein Verstoßener.“</DefaultText>
+      <FemaleText>„Ich habe Divitiacu in der Uhr im Circus Minor gesehen. Euer Gründer war der Wandelnde Gott … oder eine Verstoßene.“</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -303,7 +303,7 @@ Er grinst. „Aber nicht so der Orden der Wahrheit. Nicht die Aeon-Priester. Wir
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>„Und natürlich Sn'erf. Ein Irrgast, der an jeglichen Formen der Reproduktion interessiert ist. Er ist keiner von uns - und ich glaube auch nicht, dass er das sein will - aber wir haben ihm einen Arbeitsplatz bereitgestellt, damit er an seinen ... ähm ... Projekten arbeiten kann.“
+      <DefaultText>„Und natürlich Sn'erf. Ein Irrgast, der an jeglichen Formen der Reproduktion interessiert ist. Er ist keiner von uns - und ich glaube auch nicht, dass er das sein will - aber wir haben ihm einen Arbeitsplatz bereitgestellt, damit er an seinen … ähm … Projekten arbeiten kann.“
 
 Er lehnt sich zu dir. „Geht nicht zu ihm, wenn Ihr nicht dazu bereit seid, mit sehr befremdlichen Bildern konfrontiert zu werden.“</DefaultText>
       <FemaleText />
@@ -341,7 +341,7 @@ Er lehnt sich zu dir. „Geht nicht zu ihm, wenn Ihr nicht dazu bereit seid, mit
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Ich erkenne Euch“, sagt er. „Es ist ... zehn Jahre her, nicht wahr? Ich glaube nicht, dass wir uns je unterhalten haben. Ihr wart derjenige, der Salimeri so häufig einen Besuch abgestattet hat, oder? Habt Ihr Euch nicht auch mit einer Art organischer Maschinentechnologie auseinandergesetzt?“</DefaultText>
+      <DefaultText>„Ich erkenne Euch“, sagt er. „Es ist … zehn Jahre her, nicht wahr? Ich glaube nicht, dass wir uns je unterhalten haben. Ihr wart derjenige, der Salimeri so häufig einen Besuch abgestattet hat, oder? Habt Ihr Euch nicht auch mit einer Art organischer Maschinentechnologie auseinandergesetzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,7 +402,7 @@ Dann atmet er ein, schluckt den Konter mit wohlgeübter Zurückhaltung und konze
       <ID>78</ID>
       <DefaultText>Min ignoriert Aligerns zustimmendes Grunzen und wendet sich zu dir.
 
-„Vielleicht“, sagt er, und verreibt dabei die Ölspritzer auf seiner Stirn. „Wisst Ihr, ich hatte einmal Zeit für meine eigene Arbeit. Es ging nicht immer um ...“, er fuchtelt mit den Händen herum, „Politik, Essen und höfliche ‚Anfragen‘.“ Er wirft Aligern einen bösen Blick zu. „Wir finden die Antworten, auf die Ihr wartet. Ich erwarte keine Dankbarkeit. Ich erwarte nur Geduld.“ Und damit widmet er dir wieder seine volle Aufmerksamkeit.</DefaultText>
+„Vielleicht“, sagt er, und verreibt dabei die Ölspritzer auf seiner Stirn. „Wisst Ihr, ich hatte einmal Zeit für meine eigene Arbeit. Es ging nicht immer um …“, er fuchtelt mit den Händen herum, „Politik, Essen und höfliche ‚Anfragen‘.“ Er wirft Aligern einen bösen Blick zu. „Wir finden die Antworten, auf die Ihr wartet. Ich erwarte keine Dankbarkeit. Ich erwarte nur Geduld.“ Und damit widmet er dir wieder seine volle Aufmerksamkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -472,12 +472,12 @@ Er reibt sich das Kinn. „Unseren Aufzeichnungen zufolge hat Divitiacu ein ähn
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Nein“, er runzelt die Stirn. „Sie sterben nie in der Maschine selbst, aber der Tod holt sie meist ein paar Tage später ein. Obwohl das nicht sehr oft vorkommt. Manchmal glaube ich, dass die Maschine sie sogar rettet ... vor einem Schicksal, das sie andernfalls eingeholt hätte. Aber nicht immer.“</DefaultText>
+      <DefaultText>„Nein“, er runzelt die Stirn. „Sie sterben nie in der Maschine selbst, aber der Tod holt sie meist ein paar Tage später ein. Obwohl das nicht sehr oft vorkommt. Manchmal glaube ich, dass die Maschine sie sogar rettet … vor einem Schicksal, das sie andernfalls eingeholt hätte. Aber nicht immer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>„Die Levis, die von der Maschine erschaffen werden, sind fast identisch und leben nur ein Jahr lang. Danach kehren sie unbemerkt wieder zur Maschine zurück und lösen sich in ...“, seine Hände greifen in die Luft, als würde er nach den richtigen Worten suchen, „graue Schmiere auf. Es ist unglaublich unansehnlich, aber es scheint sie nicht zu berühren.“</DefaultText>
+      <DefaultText>„Die Levis, die von der Maschine erschaffen werden, sind fast identisch und leben nur ein Jahr lang. Danach kehren sie unbemerkt wieder zur Maschine zurück und lösen sich in …“, seine Hände greifen in die Luft, als würde er nach den richtigen Worten suchen, „graue Schmiere auf. Es ist unglaublich unansehnlich, aber es scheint sie nicht zu berühren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -622,7 +622,7 @@ Er dreht sich zu Lan, aber der junge Mann ist bereits auf dem Weg, stotternd und
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>„Nicht einmal ein Aeon-Priester, und Ihr habt bei diesen ... Drohungen klein beigegeben? Bitte, Junge. Ich werde jeden Tag bedroht.“
+      <DefaultText>„Nicht einmal ein Aeon-Priester, und Ihr habt bei diesen … Drohungen klein beigegeben? Bitte, Junge. Ich werde jeden Tag bedroht.“
 
 Er schüttelt den Kopf. „Es wird nie einfacher. Sie werden immer versuchen, Euch auszuspielen. Euch dazu zu bringen, das zu tun, was sie wollen. Und wir brauchen kein weiteres Loch in diesem sinkenden Schiff.“
 
@@ -734,7 +734,7 @@ Er reibt seinen Kopf mit seinem schwieligen Handrücken. „Bitte. Fragt mich et
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>„Die vernünftige Antworte wäre wohl ‚nein'“, sagt er. „Aber im Moment will niemand eine Unterschrift von mir, also ... ja. Ja, sehr gerne.“</DefaultText>
+      <DefaultText>„Die vernünftige Antworte wäre wohl ‚nein'“, sagt er. „Aber im Moment will niemand eine Unterschrift von mir, also … ja. Ja, sehr gerne.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1054,7 +1054,7 @@ Er hustet. „Nun, vielleicht ein wenig.“</DefaultText>
       <ID>197</ID>
       <DefaultText>„Dieser Junge war schon immer von biomechanischen Monstern besessen, und jetzt ist ihm ein Echtes in die Falle gegangen. Ich glaube, er versucht, eine Probe von ihm zu bekommen.“
 
-„Ich sage Euch was. Wenn Ihr ihn noch einmal seht, könnt Ihr ihm sagen, dass ich Euch als Unterstützung geschickt habe. Das wird seine Meinung ändern. Und bei den Göttern, er kann jede Hilfe gebrauchen. Er ist hervorragend, wenn es um Bücher geht“, er schüttelt seinen Kopf, „aber alles andere ...“</DefaultText>
+„Ich sage Euch was. Wenn Ihr ihn noch einmal seht, könnt Ihr ihm sagen, dass ich Euch als Unterstützung geschickt habe. Das wird seine Meinung ändern. Und bei den Göttern, er kann jede Hilfe gebrauchen. Er ist hervorragend, wenn es um Bücher geht“, er schüttelt seinen Kopf, „aber alles andere …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
