@@ -297,7 +297,7 @@ Er vergräbt sein Gesicht in seinen Händen. "Sie haben gesagt, dass sie mich t�
     <Entry>
       <ID>53</ID>
       <DefaultText>Follow-up PQ. 53</DefaultText>
-      <FemaleText>Follow-up PQ. 53</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
@@ -366,17 +366,13 @@ Er beißt die Zähne zusammen. "Ich war eben das einfachste Ziel."</DefaultText>
 {GAVIN: Faction path. Set to blank global for now.}
 {SCRIPT: Only available if Lan is a full Aeon Priest.}
 {SCRIPT: Disables Node 73.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Faction path. Set to blank global for now.}
-{SCRIPT: Only available if Lan is a full Aeon Priest.}
-{SCRIPT: Disables Node 73.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
       <DefaultText>""
 {GAVIN: Enable this info in  Beleaza's conversation.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Enable this info in  Beleaza's conversation.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
@@ -404,17 +400,13 @@ Er beißt die Zähne zusammen. "Ich war eben das einfachste Ziel."</DefaultText>
 {GAVIN: Faction path. Set to blank global for now.}
 {SCRIPT: Only available if player know Lan is a spy.}
 {SCRIPT: Disables Node 65.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Faction path. Set to blank global for now.}
-{SCRIPT: Only available if player know Lan is a spy.}
-{SCRIPT: Disables Node 65.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
       <DefaultText>""
 {GAVIN: Enable this info in  Beleaza's conversation.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Enable this info in  Beleaza's conversation.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
@@ -740,7 +732,7 @@ Sie sieht dich an. "Kann ich für Euch auf ihn aufpassen? Bitte?"
     <Entry>
       <ID>150</ID>
       <DefaultText>[DEBUG: mache Lan zum Priester]</DefaultText>
-      <FemaleText>[DEBUG: mache Lan zum Priester]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
@@ -775,46 +767,44 @@ Sie sieht dich an. "Kann ich für Euch auf ihn aufpassen? Bitte?"
     <Entry>
       <ID>162</ID>
       <DefaultText>"Ich könnte dich überraschen."</DefaultText>
-      <FemaleText>"Ich könnte dich überraschen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
       <DefaultText>"Wieso hältst du sie für skrupellos?"</DefaultText>
-      <FemaleText>"Wieso hältst du sie für skrupellos?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
       <DefaultText>"Das bezweifle ich. Nicht nachdem, was ich gesehen habe."</DefaultText>
-      <FemaleText>"Das bezweifle ich. Nicht nachdem, was ich gesehen habe."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
       <DefaultText>"Egal."</DefaultText>
-      <FemaleText>"Egal."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
       <DefaultText>"Ich bin froh", sagt er schluckend. "Ich habe immer noch Albträume."</DefaultText>
-      <FemaleText>"Ich bin froh", sagt er schluckend. "Ich habe immer noch Albträume."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
       <DefaultText>"Was ist die Flor?"</DefaultText>
-      <FemaleText>"Was ist die Flor?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
       <DefaultText>Er zögert einen Moment, wobei seine Freude daran, Informationen zu teilen, die ihn faszinieren, im Krieg mit seiner Angst vor dem aktuellen Thema liegt. 
 
 "Ein Jäger in der Größe einer Stadt in der Nähe von Sagus Klippen, in dem Menschen leben. Dort geschehen schlimme Dinge und meistens steckt die Memovira hinter all dem." Er schaudert. "Ich will sie nicht verärgern."</DefaultText>
-      <FemaleText>Er zögert einen Moment, wobei seine Freude daran, Informationen zu teilen, die ihn faszinieren, im Krieg mit seiner Angst vor dem aktuellen Thema liegt. 
-
-"Ein Jäger in der Größe einer Stadt in der Nähe von Sagus Klippen, in dem Menschen leben. Dort geschehen schlimme Dinge und meistens steckt die Memovira hinter all dem." Er schaudert. "Ich will sie nicht verärgern."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
       <DefaultText>"Das *denke* ich nicht nur. Es ist keine Theorie. Ich habe sie bei der Arbeit *gesehen*."</DefaultText>
-      <FemaleText>"Das *denke* ich nicht nur. Es ist keine Theorie. Ich habe sie bei der Arbeit *gesehen*."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
@@ -823,20 +813,14 @@ Sie sieht dich an. "Kann ich für Euch auf ihn aufpassen? Bitte?"
 "Als ich sie traf, war ein Mann an einen Tisch zwischen uns gekettet. Einer ihrer ... F-Folterer, nehme ich an, war gerade mit ihm beschäftigt. Zog ihm die Haut Streifen für Streifen ab. Er schrie und schrie, aber ..."
 
 Er reibt sich die Augen. "Sie wartete auf die Ruhe zwischen den Schreien. Sie wurde niemals laut. Und sie hat auch nie erklärt, was der Mann getan hatte, dass sie dermaßen enttäuscht war. Ich denke, sie hatte einfach nur beschlossen, zwei Termine miteinander zu verbinden – meinen und seinen."</DefaultText>
-      <FemaleText>Er bedeckt sich die Augen wie ein Kind. 
-
-"Als ich sie traf, war ein Mann an einen Tisch zwischen uns gekettet. Einer ihrer ... F-Folterer, nehme ich an, war gerade mit ihm beschäftigt. Zog ihm die Haut Streifen für Streifen ab. Er schrie und schrie, aber ..."
-
-Er reibt sich die Augen. "Sie wartete auf die Ruhe zwischen den Schreien. Sie wurde niemals laut. Und sie hat auch nie erklärt, was der Mann getan hatte, dass sie dermaßen enttäuscht war. Ich denke, sie hatte einfach nur beschlossen, zwei Termine miteinander zu verbinden – meinen und seinen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
       <DefaultText>Lan blickt dich an, wendet sich dann plötzlich ab, als würde ihm dein Anblick Schmerzen bereiten. 
 
 "D-danke, dass du Min davon überzeugen konntest, dass ich bleiben kann. Ich weiß nicht, wohin ich gehen sollte."</DefaultText>
-      <FemaleText>Lan blickt dich an, wendet sich dann plötzlich ab, als würde ihm dein Anblick Schmerzen bereiten. 
-
-"D-danke, dass du Min davon überzeugen konntest, dass ich bleiben kann. Ich weiß nicht, wohin ich gehen sollte."</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
