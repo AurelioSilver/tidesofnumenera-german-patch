@@ -763,8 +763,7 @@ Min zeigt zur Tür. "Verschwindet. Jetzt."</DefaultText>
       <ID>142</ID>
       <DefaultText>""
 {GAVIN: This is the gateway to joining the Order of Truth. Add if time. Gated with blank global for now.}</DefaultText>
-      <FemaleText>""
-{GAVIN: This is the gateway to joining the Order of Truth. Add if time. Gated with blank global for now.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
@@ -1066,16 +1065,14 @@ Er hustet. "Nun, vielleicht ein wenig."</DefaultText>
     <Entry>
       <ID>200</ID>
       <DefaultText>"Du solltest ablehnen. Verfolge deine eigenen Interessen und die Einnahmen werden kommen."</DefaultText>
-      <FemaleText>"Du solltest ablehnen. Verfolge deine eigenen Interessen und die Einnahmen werden kommen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
       <DefaultText>"Glaube nicht, dass ich nicht daran gedacht habe", sagt er mit einem Grinsen. "Es ist eine meiner vielen Verlockungen."
 
 Er kratzt sich geistesabwesend den Kopf. "Was willst du noch über den Orden wissen?"</DefaultText>
-      <FemaleText>"Glaube nicht, dass ich nicht daran gedacht habe", sagt er mit einem Grinsen. "Es ist eine meiner vielen Verlockungen."
-
-Er kratzt sich geistesabwesend den Kopf. "Was willst du noch über den Orden wissen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
