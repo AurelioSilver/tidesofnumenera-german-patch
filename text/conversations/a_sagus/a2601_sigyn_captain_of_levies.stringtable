@@ -162,7 +162,7 @@ Sie lehnt sich ein Stück zu dir und spricht leiser. "Und wenn Ihr die Stadt sp�
     <Entry>
       <ID>30</ID>
       <DefaultText>"Wer seid Ihr noch mal?"</DefaultText>
-      <FemaleText>"Wer seid Ihr noch mal?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -525,7 +525,7 @@ Sie lächelt sanft. "In ihren Augen bin ich wie eine ältere Schwester, oder vie
     <Entry>
       <ID>102</ID>
       <DefaultText>Follow-up PQ. 102</DefaultText>
-      <FemaleText>Follow-up PQ. 102</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
@@ -699,23 +699,19 @@ Sie lächelt sanft. "In ihren Augen bin ich wie eine ältere Schwester, oder vie
       <DefaultText>"Es gibt da einen Mann in Klippenrand, der behauptet, von einem Levy verfolgt zu werden. Er glaubt, dass er ihm etwas antun wolle."
 
 {JESSE: Review scripting. (I tested a couple times, so it's probably fine, but I might have missed an outlier case.)}</DefaultText>
-      <FemaleText>"Es gibt da einen Mann in Klippenrand, der behauptet, von einem Levy verfolgt zu werden. Er glaubt, dass er ihm etwas antun wolle."
-
-{JESSE: Review scripting. (I tested a couple times, so it's probably fine, but I might have missed an outlier case.)}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
       <DefaultText>"Erinnerst du dich an den Levy, von dem ich dir erzählt habe? Er lauert einem Mann namens Finzin auf. Er sagt, dass er ein weiteres Jahr seines Lebens haben wolle."
 
 {JESSE: Review scripting. (I tested a couple times, so it's probably fine, but I might have missed an outlier case.)}</DefaultText>
-      <FemaleText>"Erinnerst du dich an den Levy, von dem ich dir erzählt habe? Er lauert einem Mann namens Finzin auf. Er sagt, dass er ein weiteres Jahr seines Lebens haben wolle."
-
-{JESSE: Review scripting. (I tested a couple times, so it's probably fine, but I might have missed an outlier case.)}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
       <DefaultText>"In Klippenrand? Ich *schicke* gar keine Levys dorthin ... sofern sie diesen Mann nicht verfolgen, weil er eine Straftat begangen hat." Sie schüttelt den Kopf. "Solange ich nicht die Version des Levys gehört habe, werde ich ihm vertrauen. Sie sind weitaus zuverlässiger als Menschen ... meistens."</DefaultText>
-      <FemaleText>"In Klippenrand? Ich *schicke* gar keine Levys dorthin ... sofern sie diesen Mann nicht verfolgen, weil er eine Straftat begangen hat." Sie schüttelt den Kopf. "Solange ich nicht die Version des Levys gehört habe, werde ich ihm vertrauen. Sie sind weitaus zuverlässiger als Menschen ... meistens."</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
