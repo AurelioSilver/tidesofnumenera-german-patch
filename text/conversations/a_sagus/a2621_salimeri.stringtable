@@ -184,7 +184,7 @@ Sie legt ihre Hände in ihren Schoß, ein einzelner Finger tippt ungeduldig auf 
     <Entry>
       <ID>30</ID>
       <DefaultText>Addend. 30</DefaultText>
-      <FemaleText>Addend. 30</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -242,7 +242,7 @@ Sie wendet sich von dir ab. "Lasst Euch nicht aufhalten, Adahn. Ihr wart dabei, 
     <Entry>
       <ID>40</ID>
       <DefaultText>::murmelt::</DefaultText>
-      <FemaleText>::murmelt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
@@ -252,7 +252,7 @@ Sie wendet sich von dir ab. "Lasst Euch nicht aufhalten, Adahn. Ihr wart dabei, 
     <Entry>
       <ID>42</ID>
       <DefaultText>Follow-up PQ. 42</DefaultText>
-      <FemaleText>Follow-up PQ. 42</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
@@ -441,7 +441,7 @@ Sie lächelt und wischt ihre Hände ab. "Na gut! Ab mit Euch. Seid vorsichtig im
     <Entry>
       <ID>75</ID>
       <DefaultText>Sage nichts.</DefaultText>
-      <FemaleText>Sage nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
@@ -492,7 +492,7 @@ Ihre Mimik verhärtet sich. "Ich teile mein Wissen gerne mit Euch, wenn Ihr mir 
     <Entry>
       <ID>87</ID>
       <DefaultText>Follow-up PQ. 87</DefaultText>
-      <FemaleText>Follow-up PQ. 87</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
@@ -507,7 +507,7 @@ Ihre Mimik verhärtet sich. "Ich teile mein Wissen gerne mit Euch, wenn Ihr mir 
     <Entry>
       <ID>90</ID>
       <DefaultText>Follow-up T. 90</DefaultText>
-      <FemaleText>Follow-up T. 90</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
@@ -522,7 +522,7 @@ Ihre Mimik verhärtet sich. "Ich teile mein Wissen gerne mit Euch, wenn Ihr mir 
     <Entry>
       <ID>93</ID>
       <DefaultText>Follow-up T. 93</DefaultText>
-      <FemaleText>Follow-up T. 93</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
@@ -862,33 +862,32 @@ Du übergibst es, und sie bringt es sofort wieder an ihrem Arbeitsplatz unter.</
       <ID>158</ID>
       <DefaultText>""
 {GAVIN: Implement later once Order of Truth is in. Blank globaled for now}</DefaultText>
-      <FemaleText>""
-{GAVIN: Implement later once Order of Truth is in. Blank globaled for now}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
@@ -1110,7 +1109,7 @@ Als du nichts erwiderst, sagt sie: "Ihr erinnert Euch nie an Eure Verstoßenen, 
     <Entry>
       <ID>205</ID>
       <DefaultText>::murmelt::</DefaultText>
-      <FemaleText>::murmelt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
@@ -1287,7 +1286,7 @@ Sie zieht eine Augenbraue hoch. "Jetzt seid *Ihr* dran."</DefaultText>
     <Entry>
       <ID>245</ID>
       <DefaultText>Sage nichts.</DefaultText>
-      <FemaleText>Sage nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
@@ -1316,7 +1315,7 @@ Sie tippt sich gedankenverloren auf die Lippen. "Redet mit Adahns kleinem Kult i
     <Entry>
       <ID>251</ID>
       <DefaultText>"Die Welt liegt uns zu Füßen!"</DefaultText>
-      <FemaleText>"Die Welt liegt uns zu Füßen!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
