@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Der leere Rahmen ruht auf dem Holzsockel. Er scheint ohne die Kugel irgendwie unvollständig.</DefaultText>
-      <FemaleText>Der leere Rahmen ruht auf dem Holzsockel. Er scheint ohne die Kugel irgendwie unvollständig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -17,12 +17,12 @@
     <Entry>
       <ID>3</ID>
       <DefaultText>Eine kleine Pyramide mit Drahtrahmen ruht auf einem Sockel aus poliertem Holz. Im Inneren der Pyramide liegt eine glanzlose Kugel aus silberfarbenem Metall.</DefaultText>
-      <FemaleText>Eine kleine Pyramide mit Drahtrahmen ruht auf einem Sockel aus poliertem Holz. Im Inneren der Pyramide liegt eine glanzlose Kugel aus silberfarbenem Metall.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Die Drahtpyramide ruht auf dem Tisch, während die Metallkugel befriedet darin liegt.</DefaultText>
-      <FemaleText>Die Drahtpyramide ruht auf dem Tisch, während die Metallkugel befriedet darin liegt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -37,114 +37,108 @@
     <Entry>
       <ID>7</ID>
       <DefaultText>Untersuche den Sockel.</DefaultText>
-      <FemaleText>Untersuche den Sockel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>Der Sockel scheint aus einer Platte aus grellrotem Stein gemacht zu sein. Bei näherer Untersuchung erkennst du, dass es sich um irgendein versteinertes Holz handelt. Eine Inschrift befindet sich auf dem Sockel vor der Pyramide.</DefaultText>
-      <FemaleText>Der Sockel scheint aus einer Platte aus grellrotem Stein gemacht zu sein. Bei näherer Untersuchung erkennst du, dass es sich um irgendein versteinertes Holz handelt. Eine Inschrift befindet sich auf dem Sockel vor der Pyramide.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>Untersuche die Inschrift.</DefaultText>
-      <FemaleText>Untersuche die Inschrift.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Die Inschrift ist in einer fremden Sprache. Sie wurde in das Holz gebrannt und anschließend mit einer leuchtenden Substanz aufgefüllt. Obwohl du weißt, dass du die Sprache in deinem eigenen kurzen Leben als Abgestoßener noch nie gesehen hast, kommt sie dir doch vertraut vor.</DefaultText>
-      <FemaleText>Die Inschrift ist in einer fremden Sprache. Sie wurde in das Holz gebrannt und anschließend mit einer leuchtenden Substanz aufgefüllt. Obwohl du weißt, dass du die Sprache in deinem eigenen kurzen Leben als Abgestoßener noch nie gesehen hast, kommt sie dir doch vertraut vor.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Follow-up PQ. 10</DefaultText>
-      <FemaleText>Follow-up PQ. 10</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Eine entfernte Erinnerung überkommt dich. Du stehst vor einem großen Metallzylinder, der einen oder zwei Meter über deinem Kopf schwebt. Der Zylinder ist irgendeine Zeitkapsel und du bist überzeugt, dass das, was sich darin befindet, für deine neuesten Experimente von entscheidender Bedeutung ist. Das Problem ist jedoch, dass die Kapsel verschlossen ist, und der einzige Hinweis darauf, wie sie sich öffnen lässt, ist eine Reihe seltsamer Glyphen, die in die Seiten der Kapsel geätzt wurden.</DefaultText>
-      <FemaleText>Eine entfernte Erinnerung überkommt dich. Du stehst vor einem großen Metallzylinder, der einen oder zwei Meter über deinem Kopf schwebt. Der Zylinder ist irgendeine Zeitkapsel und du bist überzeugt, dass das, was sich darin befindet, für deine neuesten Experimente von entscheidender Bedeutung ist. Das Problem ist jedoch, dass die Kapsel verschlossen ist, und der einzige Hinweis darauf, wie sie sich öffnen lässt, ist eine Reihe seltsamer Glyphen, die in die Seiten der Kapsel geätzt wurden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Als du dich umschaust, siehst du staubige Wälzer, verblichene Banner, Metallschrott und Dutzende anderer Gegenstände, die alle mit den gleichen seltsamen Glyphen versehen sind. Du hast ein Leben lang jede Spur dieser Sprache gesammelt, die du finden konntest, und jahrzehntelange Studien führten schließlich zu diesem Moment: Du blickst auf die Glyphen und *kennst* ihre Bedeutung.
 
 Du trittst vor und greifst nach dem Zylinder, wie von den Ätzungen beschrieben, als dieser zum Leben erwacht ...</DefaultText>
-      <FemaleText>Als du dich umschaust, siehst du staubige Wälzer, verblichene Banner, Metallschrott und Dutzende anderer Gegenstände, die alle mit den gleichen seltsamen Glyphen versehen sind. Du hast ein Leben lang jede Spur dieser Sprache gesammelt, die du finden konntest, und jahrzehntelange Studien führten schließlich zu diesem Moment: Du blickst auf die Glyphen und *kennst* ihre Bedeutung.
-
-Du trittst vor und greifst nach dem Zylinder, wie von den Ätzungen beschrieben, als dieser zum Leben erwacht ...</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Die Erinnerung abschüttelnd blickst du auf die Inschrift und erkennst deutlich ihre Bedeutung:
 
 "Die karminrote Morgendämmerung grüßt den Suchenden. Die violette Abenddämmerung erfährt das Ende der Suche."</DefaultText>
-      <FemaleText>Die Erinnerung abschüttelnd blickst du auf die Inschrift und erkennst deutlich ihre Bedeutung:
-
-"Die karminrote Morgendämmerung grüßt den Suchenden. Die violette Abenddämmerung erfährt das Ende der Suche."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Erinnerungsfetzen kitzeln deinen Verstand und peinigen dich just außer Reichweite. Du siehst eine Gestalt vor einer riesigen Kugel stehen, doch die Erinnerung endet, bevor irgendwelche Details deutlich werden.</DefaultText>
-      <FemaleText>Erinnerungsfetzen kitzeln deinen Verstand und peinigen dich just außer Reichweite. Du siehst eine Gestalt vor einer riesigen Kugel stehen, doch die Erinnerung endet, bevor irgendwelche Details deutlich werden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Die Erinnerung flackert noch immer außer Reichweite deines Verstands.</DefaultText>
-      <FemaleText>Die Erinnerung flackert noch immer außer Reichweite deines Verstands.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Versuche, dich daran zu erinnern, wo du die Sprache schon einmal gesehen hast.</DefaultText>
-      <FemaleText>Versuche, dich daran zu erinnern, wo du die Sprache schon einmal gesehen hast.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Versuche erneut, dich daran zu erinnern, warum dir die Sprache so vertraut vorkommt.</DefaultText>
-      <FemaleText>Versuche erneut, dich daran zu erinnern, warum dir die Sprache so vertraut vorkommt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Lies erneut die Inschrift.</DefaultText>
-      <FemaleText>Lies erneut die Inschrift.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Deine Augen blitzen über die fremden Formen und ihre Bedeutung ist dir immer noch klar:
 
 "Die karminrote Morgendämmerung grüßt den Suchenden. Die violette Abenddämmerung erfährt das Ende der Suche."</DefaultText>
-      <FemaleText>Deine Augen blitzen über die fremden Formen und ihre Bedeutung ist dir immer noch klar:
-
-"Die karminrote Morgendämmerung grüßt den Suchenden. Die violette Abenddämmerung erfährt das Ende der Suche."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Untersuche die Kugel.</DefaultText>
-      <FemaleText>Untersuche die Kugel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>In ihrem Drahtkäfig aufgehängt, hat die Kugel fast die perfekte Größe für deine Handfläche. Die Abstände in dem Drahtgitter sind groß genug, dass du hindurchgreifen kannst, und dennoch nicht groß genug, um die Kugel herauszuziehen.</DefaultText>
-      <FemaleText>In ihrem Drahtkäfig aufgehängt, hat die Kugel fast die perfekte Größe für deine Handfläche. Die Abstände in dem Drahtgitter sind groß genug, dass du hindurchgreifen kannst, und dennoch nicht groß genug, um die Kugel herauszuziehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Untersuche den Rahmen.</DefaultText>
-      <FemaleText>Untersuche den Rahmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Der Rahmen scheint an Ort und Stelle befestigt zu sein. Er ist aus einem organischen Material gefertigt, das ähnlich einem Knochen oder einer Koralle gewachsen ist. Dünnere, venenartige Stränge des Materials winden sich über jede der dreieckigen Seiten. Irgendetwas kommt dir seltsam vor, du kannst aber nicht erkennen, wieso.</DefaultText>
-      <FemaleText>Der Rahmen scheint an Ort und Stelle befestigt zu sein. Er ist aus einem organischen Material gefertigt, das ähnlich einem Knochen oder einer Koralle gewachsen ist. Dünnere, venenartige Stränge des Materials winden sich über jede der dreieckigen Seiten. Irgendetwas kommt dir seltsam vor, du kannst aber nicht erkennen, wieso.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Versuche, zu erkennen, was dir an dem Rahmen seltsam vorkommt.</DefaultText>
-      <FemaleText>Versuche, zu erkennen, was dir an dem Rahmen seltsam vorkommt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Während du den Rahmen untersuchst, versuchst du, ihn vorsichtig anzustupsen, und er verändert sich auf höchst eigenartige Weise. Du konzentrierst dich darauf, den Rahmen in verschiedene Richtungen zu bewegen, und stellst fest, dass er einfach direkt von dem Sockel gehoben und wieder darauf abgesenkt werden kann. Er lässt sich jedoch nicht seitlich bewegen, auch wenn er hochgehalten wird.</DefaultText>
-      <FemaleText>Während du den Rahmen untersuchst, versuchst du, ihn vorsichtig anzustupsen, und er verändert sich auf höchst eigenartige Weise. Du konzentrierst dich darauf, den Rahmen in verschiedene Richtungen zu bewegen, und stellst fest, dass er einfach direkt von dem Sockel gehoben und wieder darauf abgesenkt werden kann. Er lässt sich jedoch nicht seitlich bewegen, auch wenn er hochgehalten wird.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -159,75 +153,71 @@ Du trittst vor und greifst nach dem Zylinder, wie von den Ätzungen beschrieben,
     <Entry>
       <ID>29</ID>
       <DefaultText>Nimm die Kugel.</DefaultText>
-      <FemaleText>Nimm die Kugel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Du ziehst die Kugel durch die vor dir liegende Öffnung aus dem Rahmen und umgehend beginnt sie, in einem funkelnden Blau zu glühen. Du hältst einen Moment lang inne, um sicherzustellen, dass es keinen anderen Effekt gibt. Dann versuchst du, sie zu deinen anderen Habseligkeiten zu stecken. Irgendwann in dieser Bewegung verschwindet die Kugel einfach und taucht wieder innerhalb des Rahmens auf, erneut in einem glanzlosen Grau.
 
 Offenbar wird es nicht so einfach sein, die Kugel mitzunehmen.</DefaultText>
-      <FemaleText>Du ziehst die Kugel durch die vor dir liegende Öffnung aus dem Rahmen und umgehend beginnt sie, in einem funkelnden Blau zu glühen. Du hältst einen Moment lang inne, um sicherzustellen, dass es keinen anderen Effekt gibt. Dann versuchst du, sie zu deinen anderen Habseligkeiten zu stecken. Irgendwann in dieser Bewegung verschwindet die Kugel einfach und taucht wieder innerhalb des Rahmens auf, erneut in einem glanzlosen Grau.
-
-Offenbar wird es nicht so einfach sein, die Kugel mitzunehmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Nimm die Kugel erneut auf.</DefaultText>
-      <FemaleText>Nimm die Kugel erneut auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Du ziehst die Kugel erneut heraus und erneut glüht sie in einem funkelnden Blau, bevor sie verschwindet und in den Rahmen zurückkehrt. Nach einigen Experimenten entdeckst du, dass die Kugel an ihre ursprüngliche Position zurückkehrt, sobald ein bestimmter Abstand zum Apparat überschritten wird.
 
 Solange du die Kugel innerhalb dieses Radius behältst – wie jetzt gerade – kannst du sie halten.</DefaultText>
-      <FemaleText>Du ziehst die Kugel erneut heraus und erneut glüht sie in einem funkelnden Blau, bevor sie verschwindet und in den Rahmen zurückkehrt. Nach einigen Experimenten entdeckst du, dass die Kugel an ihre ursprüngliche Position zurückkehrt, sobald ein bestimmter Abstand zum Apparat überschritten wird.
-
-Solange du die Kugel innerhalb dieses Radius behältst – wie jetzt gerade – kannst du sie halten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Setze die Kugel zurück in den Rahmen.</DefaultText>
-      <FemaleText>Setze die Kugel zurück in den Rahmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Als du die Kugel wieder in den Rahmen setzt, wechselt sie zu einem lebendigen Orange. Dir scheint, als würde die Kugel darauf reagieren, über die Grenzen des Rahmens hinaus bewegt zu werden. Vielleicht erhältst du weitere Erkenntnisse, wenn du sie durch die anderen Seiten bewegst.</DefaultText>
-      <FemaleText>Als du die Kugel wieder in den Rahmen setzt, wechselt sie zu einem lebendigen Orange. Dir scheint, als würde die Kugel darauf reagieren, über die Grenzen des Rahmens hinaus bewegt zu werden. Vielleicht erhältst du weitere Erkenntnisse, wenn du sie durch die anderen Seiten bewegst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>Nimm den ganzen Apparat mit.</DefaultText>
-      <FemaleText>Nimm den ganzen Apparat mit.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Der Apparat ist viel zu sperrig, um ihn mitnehmen zu können. Als ob er deine Gedanken lesen würde, blickt Min herüber und schüttelt traurig den Kopf, während er leise etwas murmelt.</DefaultText>
-      <FemaleText>Der Apparat ist viel zu sperrig, um ihn mitnehmen zu können. Als ob er deine Gedanken lesen würde, blickt Min herüber und schüttelt traurig den Kopf, während er leise etwas murmelt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>Nimm die Kugel über die rückwärtige Öffnung aus dem Rahmen.</DefaultText>
-      <FemaleText>Nimm die Kugel über die rückwärtige Öffnung aus dem Rahmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>Das Glühen der Kugel wechselt zu einem funkelnden Blau.</DefaultText>
-      <FemaleText>Das Glühen der Kugel wechselt zu einem funkelnden Blau.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>Nimm die Kugel über die linke Öffnung aus dem Rahmen.</DefaultText>
-      <FemaleText>Nimm die Kugel über die linke Öffnung aus dem Rahmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Das Glühen der Kugel wechselt zu einem grellen Rot.</DefaultText>
-      <FemaleText>Das Glühen der Kugel wechselt zu einem grellen Rot.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Setze die Kugel über die rückwärtige Öffnung wieder in den Rahmen.</DefaultText>
-      <FemaleText>Setze die Kugel über die rückwärtige Öffnung wieder in den Rahmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -237,17 +227,17 @@ Solange du die Kugel innerhalb dieses Radius behältst – wie jetzt gerade – 
     <Entry>
       <ID>43</ID>
       <DefaultText>Setze die Kugel über die vordere Öffnung wieder in den Rahmen.</DefaultText>
-      <FemaleText>Setze die Kugel über die vordere Öffnung wieder in den Rahmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>Die Kugel wechselt zu einem grellen Orange.</DefaultText>
-      <FemaleText>Die Kugel wechselt zu einem grellen Orange.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>Setze die Kugel über die linke Öffnung wieder in den Rahmen.</DefaultText>
-      <FemaleText>Setze die Kugel über die linke Öffnung wieder in den Rahmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
@@ -257,67 +247,67 @@ Solange du die Kugel innerhalb dieses Radius behältst – wie jetzt gerade – 
     <Entry>
       <ID>47</ID>
       <DefaultText>Die Kugel wechselt zu einem tiefen Violett.</DefaultText>
-      <FemaleText>Die Kugel wechselt zu einem tiefen Violett.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>Nimm die Kugel über die rechte Öffnung aus dem Rahmen.</DefaultText>
-      <FemaleText>Nimm die Kugel über die rechte Öffnung aus dem Rahmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>Die Kugel wechselt zu einer ungewöhnlichen Farbe, die irgendwie Orange erscheint, sich jedoch wesentlich von jeder anderen Farbe unterscheidet, die du zuvor gesehen hast.</DefaultText>
-      <FemaleText>Die Kugel wechselt zu einer ungewöhnlichen Farbe, die irgendwie Orange erscheint, sich jedoch wesentlich von jeder anderen Farbe unterscheidet, die du zuvor gesehen hast.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>Die Kugel wechselt zu einem glanzlosen Orange.</DefaultText>
-      <FemaleText>Die Kugel wechselt zu einem glanzlosen Orange.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>Hebe den Rahmen an und entnehme die Kugel über die untere Öffnung.</DefaultText>
-      <FemaleText>Hebe den Rahmen an und entnehme die Kugel über die untere Öffnung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>Die Kugel wechselt zu einem schimmernden Gelb.</DefaultText>
-      <FemaleText>Die Kugel wechselt zu einem schimmernden Gelb.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>Hebe den Rahmen an und setze die Kugel über die untere Öffnung wieder ein.</DefaultText>
-      <FemaleText>Hebe den Rahmen an und setze die Kugel über die untere Öffnung wieder ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>Die Kugel wechselt zu Indigo.</DefaultText>
-      <FemaleText>Die Kugel wechselt zu Indigo.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
       <DefaultText>Setze die Kugel über die rechte Öffnung wieder in den Rahmen.</DefaultText>
-      <FemaleText>Setze die Kugel über die rechte Öffnung wieder in den Rahmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>Die Kugel wechselt zu einer Farbe, die du niemals zuvor gesehen hast. Bei dem Versuch, eine Möglichkeit zu finden, um sie dir zu beschreiben, bemerkst du Elemente von Orange und Spuren von Gelb, es geht jedoch weit über dein Vermögen hinaus, sie zu begreifen.</DefaultText>
-      <FemaleText>Die Kugel wechselt zu einer Farbe, die du niemals zuvor gesehen hast. Bei dem Versuch, eine Möglichkeit zu finden, um sie dir zu beschreiben, bemerkst du Elemente von Orange und Spuren von Gelb, es geht jedoch weit über dein Vermögen hinaus, sie zu begreifen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
       <DefaultText>Die Kugel wechselt zu einem leuchtenden Orange.</DefaultText>
-      <FemaleText>Die Kugel wechselt zu einem leuchtenden Orange.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
       <DefaultText>Nimm die Kugel über die vordere Öffnung aus dem Rahmen.</DefaultText>
-      <FemaleText>Nimm die Kugel über die vordere Öffnung aus dem Rahmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
       <DefaultText>Die Kugel verdunkelt sich zu einem tiefen Violett.</DefaultText>
-      <FemaleText>Die Kugel verdunkelt sich zu einem tiefen Violett.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
@@ -326,11 +316,7 @@ Solange du die Kugel innerhalb dieses Radius behältst – wie jetzt gerade – 
 Als du deine Sicht wiedererlangst, ist die Kugel verschwunden und an ihrer Stelle befindet sich ein Gegenstand unbekannter Form.
 
 {LOOT}</DefaultText>
-      <FemaleText>Nachdem sie wieder in den Rahmen gesetzt wurde, bebt die Kugel leicht und beginnt, immer wieder und immer schneller durch die verschiedenen Farben zu wechseln. Als deine Augen kaum noch mit den wechselnden Farben mithalten können, leuchtet ein Blitz auf, der dich vorübergehend blendet.
-
-Als du deine Sicht wiedererlangst, ist die Kugel verschwunden und an ihrer Stelle befindet sich ein Gegenstand unbekannter Form.
-
-{LOOT}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
@@ -340,17 +326,17 @@ Als du deine Sicht wiedererlangst, ist die Kugel verschwunden und an ihrer Stell
     <Entry>
       <ID>62</ID>
       <DefaultText>Lass den Apparat in Ruhe.</DefaultText>
-      <FemaleText>Lass den Apparat in Ruhe.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>Als du dich von dem Apparat entfernst, verblast die Kugel wieder zu ihrem ursprünglichen Silber.</DefaultText>
-      <FemaleText>Als du dich von dem Apparat entfernst, verblast die Kugel wieder zu ihrem ursprünglichen Silber.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
       <DefaultText>Als du dich von dem Apparat entfernst, verschwindet die Kugel und taucht sofort wieder innerhalb des Rahmens auf.</DefaultText>
-      <FemaleText>Als du dich von dem Apparat entfernst, verschwindet die Kugel und taucht sofort wieder innerhalb des Rahmens auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
@@ -360,12 +346,12 @@ Als du deine Sicht wiedererlangst, ist die Kugel verschwunden und an ihrer Stell
     <Entry>
       <ID>66</ID>
       <DefaultText>Setze das Chromavulum auf.</DefaultText>
-      <FemaleText>Setze das Chromavulum auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
       <DefaultText>Setze das Chromavulum erneut auf.</DefaultText>
-      <FemaleText>Setze das Chromavulum erneut auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
@@ -375,37 +361,37 @@ Als du deine Sicht wiedererlangst, ist die Kugel verschwunden und an ihrer Stell
     <Entry>
       <ID>69</ID>
       <DefaultText>Auf einer starken Vermutung hin agierend, holst du das Chromavulum hervor und setzt es dir auf das Auge. Nachdem du dir das Wesen wieder auf das Gesicht gesetzt hast, wendest du deinen Blick der Kugel zu.</DefaultText>
-      <FemaleText>Auf einer starken Vermutung hin agierend, holst du das Chromavulum hervor und setzt es dir auf das Auge. Nachdem du dir das Wesen wieder auf das Gesicht gesetzt hast, wendest du deinen Blick der Kugel zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
       <DefaultText>Du nimmst erneut das Chromavulum heraus und setzt es dir auf das Auge. Dann konzentrierst du dich auf die Kugel.</DefaultText>
-      <FemaleText>Du nimmst erneut das Chromavulum heraus und setzt es dir auf das Auge. Dann konzentrierst du dich auf die Kugel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
       <DefaultText>Die Kugel ist noch immer orange, aber irgendwie doch *anders*. Beinahe wie eine Mischung aus Orange und einer Farbe, die du nie zuvor gesehen hast.</DefaultText>
-      <FemaleText>Die Kugel ist noch immer orange, aber irgendwie doch *anders*. Beinahe wie eine Mischung aus Orange und einer Farbe, die du nie zuvor gesehen hast.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>Die Kugel ist völlig verändert und leuchtet in einer Farbe, die dein Verstand nicht wirklich in Einklang bringen kann. Du suchst nach einer Referenz, um sie zu vergleichen, doch du findest keine.</DefaultText>
-      <FemaleText>Die Kugel ist völlig verändert und leuchtet in einer Farbe, die dein Verstand nicht wirklich in Einklang bringen kann. Du suchst nach einer Referenz, um sie zu vergleichen, doch du findest keine.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
       <DefaultText>Die Kugel ist definitiv verändert. Gewissermaßen erinnert sie dich an Violett, doch sie besteht überwiegend aus einer anderen Schattierung, die du nicht identifizieren kannst.</DefaultText>
-      <FemaleText>Die Kugel ist definitiv verändert. Gewissermaßen erinnert sie dich an Violett, doch sie besteht überwiegend aus einer anderen Schattierung, die du nicht identifizieren kannst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
       <DefaultText>Die Kugel scheint so ziemlich auszusehen wie zuvor. Leicht enttäuscht entscheidest du, die Kreatur vorerst dort zu lassen.</DefaultText>
-      <FemaleText>Die Kugel scheint so ziemlich auszusehen wie zuvor. Leicht enttäuscht entscheidest du, die Kreatur vorerst dort zu lassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
       <DefaultText>Du trittst von dem Apparat zurück und wendest dich wieder dem restlichen Raum zu.</DefaultText>
-      <FemaleText>Du trittst von dem Apparat zurück und wendest dich wieder dem restlichen Raum zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
@@ -415,7 +401,7 @@ Als du deine Sicht wiedererlangst, ist die Kugel verschwunden und an ihrer Stell
     <Entry>
       <ID>77</ID>
       <DefaultText>Da du wegen der radikalen Veränderungen auf deine Sicht nicht herumstolpern möchtest, nimmst du das Chromavulum von den Augen ab und verstaust es.</DefaultText>
-      <FemaleText>Da du wegen der radikalen Veränderungen auf deine Sicht nicht herumstolpern möchtest, nimmst du das Chromavulum von den Augen ab und verstaust es.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
@@ -425,31 +411,29 @@ Als du deine Sicht wiedererlangst, ist die Kugel verschwunden und an ihrer Stell
     <Entry>
       <ID>79</ID>
       <DefaultText>Da du wegen der radikalen Veränderungen auf deine Sicht nicht herumstolpern möchtest, nimmst du das Chromavulum von den Augen ab und verstaust es.</DefaultText>
-      <FemaleText>Da du wegen der radikalen Veränderungen auf deine Sicht nicht herumstolpern möchtest, nimmst du das Chromavulum von den Augen ab und verstaust es.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
       <DefaultText>Plötzlich blitzt die Kugel mit einem blendenden Licht auf. Als du wieder sehen kannst, befindet sich die Kugel wieder im Rahmen und in deiner Hand befindet sich ein merkwürdiges Objekt.
 
 {LOOT}</DefaultText>
-      <FemaleText>Plötzlich blitzt die Kugel mit einem blendenden Licht auf. Als du wieder sehen kannst, befindet sich die Kugel wieder im Rahmen und in deiner Hand befindet sich ein merkwürdiges Objekt.
-
-{LOOT}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
       <DefaultText>Die Kugel verändert sich zu einem kühlen Grün.</DefaultText>
-      <FemaleText>Die Kugel verändert sich zu einem kühlen Grün.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
       <DefaultText>Die Kugel wechselt zu einem schimmernden Gelb.</DefaultText>
-      <FemaleText>Die Kugel wechselt zu einem schimmernden Gelb.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
       <DefaultText>Die Kugel verändert sich zu einer ungewöhnlichen Farbe, die teilweise Violett ist und zum anderen Teil aus einer Farbe besteht, die du schwerlich beschreiben kannst.</DefaultText>
-      <FemaleText>Die Kugel verändert sich zu einer ungewöhnlichen Farbe, die teilweise Violett ist und zum anderen Teil aus einer Farbe besteht, die du schwerlich beschreiben kannst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
@@ -459,42 +443,42 @@ Als du deine Sicht wiedererlangst, ist die Kugel verschwunden und an ihrer Stell
     <Entry>
       <ID>85</ID>
       <DefaultText>Berühre die Kugel.</DefaultText>
-      <FemaleText>Berühre die Kugel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
       <DefaultText>Als du deine Hand in Richtung der Kugel ausstreckst, zieht sich der innere Draht zu den dickeren Rahmenrändern zurück und bildet dadurch eine Öffnung, die groß genug ist, so dass die Kugel hindurchpasst.</DefaultText>
-      <FemaleText>Als du deine Hand in Richtung der Kugel ausstreckst, zieht sich der innere Draht zu den dickeren Rahmenrändern zurück und bildet dadurch eine Öffnung, die groß genug ist, so dass die Kugel hindurchpasst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>Follow-up PQ. 87</DefaultText>
-      <FemaleText>Follow-up PQ. 87</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
       <DefaultText>Versuche erneut herauszufinden, was eigenartig an dem Rahmen ist.</DefaultText>
-      <FemaleText>Versuche erneut herauszufinden, was eigenartig an dem Rahmen ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
       <DefaultText>So sehr du es auch versuchst, es gelingt dir nicht, mehr an dem Rahmen zu erkennen.</DefaultText>
-      <FemaleText>So sehr du es auch versuchst, es gelingt dir nicht, mehr an dem Rahmen zu erkennen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
       <DefaultText>Du bereitest dich wieder auf den Lichtblitz vor, doch er kommt nicht. Du bist sicher, dass du die gleiche Reihenfolge wie zuvor befolgt hast, doch die Kugel bleibt in deiner Hand.</DefaultText>
-      <FemaleText>Du bereitest dich wieder auf den Lichtblitz vor, doch er kommt nicht. Du bist sicher, dass du die gleiche Reihenfolge wie zuvor befolgt hast, doch die Kugel bleibt in deiner Hand.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
       <DefaultText>Die Kugel wechselt zu einem leuchtenden Orange.</DefaultText>
-      <FemaleText>Die Kugel wechselt zu einem leuchtenden Orange.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
       <DefaultText>Die Kugel wechselt zu einer Farbe, die du niemals zuvor gesehen hast. Bei dem Versuch, eine Möglichkeit zu finden, um sie dir zu beschreiben, bemerkst du Elemente von Orange und Spuren von Gelb, es geht jedoch weit über dein Vermögen hinaus, sie zu begreifen.</DefaultText>
-      <FemaleText>Die Kugel wechselt zu einer Farbe, die du niemals zuvor gesehen hast. Bei dem Versuch, eine Möglichkeit zu finden, um sie dir zu beschreiben, bemerkst du Elemente von Orange und Spuren von Gelb, es geht jedoch weit über dein Vermögen hinaus, sie zu begreifen.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
