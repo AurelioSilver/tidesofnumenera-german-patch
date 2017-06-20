@@ -15,42 +15,42 @@ Es blickt dich an. Seine Augen sind etwa so groß wie deine Handfläche. Dir wir
       <ID>2</ID>
       <DefaultText>Die mechanischen Finger des Irrgastes flitzen über das Gerät vor ihm, verbiegen sich in unmenschlichen Winkeln, um die Teile darin zu richten und einzustellen.
 
-"Willkommen zurück, fühlendes Wesen." Kann ich dir irgendwie helfen?"</DefaultText>
+„Willkommen zurück, fühlendes Wesen. Kann ich dir irgendwie helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Deinen Namen habe ich nicht ganz verstanden. Wie spricht man den nochmal aus?"</DefaultText>
+      <DefaultText>„Deinen Namen habe ich nicht ganz verstanden. Wie spricht man den nochmal aus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ah", sagt er. "Du hörst in meinem Namen eine kurze Elision, richtig? Der Großteil der Silben lässt sich nicht übersetzen oder ist jenseits des menschlichen Gehörs. Ich will versuchen, sie anzugleichen." Er holt tief Luft.
+      <DefaultText>„Ah“, sagt er. „Du hörst in meinem Namen eine kurze Elision, richtig? Der Großteil der Silben lässt sich nicht übersetzen oder ist jenseits des menschlichen Gehörs. Ich will versuchen, sie anzugleichen.“ Er holt tief Luft.
 
-"Snelanargagonthasramalerf."
+„Snelanargagonthasramalerf.“
 
-Er zuckt die Achseln. "Ich bevorzuge den Namen, den deine Leute hören. Wo ich herkomme, ist mein Name sehr gewöhnlich."</DefaultText>
+Er zuckt die Achseln. „Ich bevorzuge den Namen, den deine Leute hören. Wo ich herkomme, ist mein Name sehr gewöhnlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich grüße dich, denkbefähigtes Wesen", sagt er, und nickt mit einstudiertem Respekt. "Ich bin gleich für dich da."
+      <DefaultText>„Ich grüße dich, denkbefähigtes Wesen“, sagt er, und nickt mit einstudiertem Respekt. „Ich bin gleich für dich da.“
 
 Seine mechanischen Finger hantieren und tanzen über die Oberfläche des Gerätes vor ihm, anpassend und festziehend.
 
-"So. Ich bin Sn‘erf, ein Gast des Ordens der Wahrheit. Was führt dich in meine Werkstatt?"</DefaultText>
+„So. Ich bin Sn‘erf, ein Gast des Ordens der Wahrheit. Was führt dich in meine Werkstatt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Was ist das für ein Gerät, an dem du arbeitest?"</DefaultText>
+      <DefaultText>„Was ist das für ein Gerät, an dem du arbeitest?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Das ist nur ein kleines Projekt von mir", sagt er mit einer bescheidenen Handbewegung. "Etwas, um die Grenzen meiner Forschung zu erweitern. Es scannt nach unbekannten Fortpflanzungsprozessen und zeigt sie zu Studienzwecken."
+      <DefaultText>„Das ist nur ein kleines Projekt von mir“, sagt er mit einer bescheidenen Handbewegung. „Etwas, um die Grenzen meiner Forschung zu erweitern. Es scannt nach unbekannten Fortpflanzungsprozessen und zeigt sie zu Studienzwecken.“
 
-Das Gerät klickt selbstständig. "Ah", sagt Sn‘erf. "Schau her."
+Das Gerät klickt selbstständig. „Ah“, sagt Sn‘erf. „Schau her.“
 
 Ein transparentes Bild von zwei menschlichen Körpern mit Ziegenköpfen erscheint über dem Gerät. Zunächst sieht es aus, als würden sie miteinander ringen. Nach einem Moment bemerkst du deinen Irrtum.</DefaultText>
       <FemaleText />
@@ -62,67 +62,67 @@ Ein transparentes Bild von zwei menschlichen Körpern mit Ziegenköpfen erschein
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Erzähl mir etwas über dich."</DefaultText>
+      <DefaultText>„Erzähl mir etwas über dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Wo kommst du nochmal her?"</DefaultText>
+      <DefaultText>„Wo kommst du nochmal her?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Deine Neugier ehrt mich", sagt er und neigt seinen Kopf. "Ich kam aus der Flor, aus einer anderen Welt. Um ganz ehrlich zu sein, ich wurde für unabsichtlichen ‚Frevel und Pervertierung‘ ins Exil verbannt."</DefaultText>
+      <DefaultText>„Deine Neugier ehrt mich“, sagt er und neigt seinen Kopf. „Ich kam aus der Flor, aus einer anderen Welt. Um ganz ehrlich zu sein, ich wurde für unabsichtlichen ‚Frevel und Pervertierung‘ ins Exil verbannt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Eine andere Welt", sagt er. "Sie fehlt mir manchmal, aber ich kann wie gesagt nicht zurückkehren."</DefaultText>
+      <DefaultText>„Eine andere Welt“, sagt er. „Sie fehlt mir manchmal, aber ich kann wie gesagt nicht zurückkehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich kann mir vorstellen, dass du jetzt auf die Fortpflanzungsprozesse meiner Art neugierig bist", fügt er sachlich hinzu. "Ich werde sie dir gern beschreiben."</DefaultText>
+      <DefaultText>„Ich kann mir vorstellen, dass du jetzt auf die Fortpflanzungsprozesse meiner Art neugierig bist“, fügt er sachlich hinzu. „Ich werde sie dir gern beschreiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Nein, neugierig bin ich nicht, aber es hört sich nach einem interessanten Thema an."</DefaultText>
+      <DefaultText>„Nein, neugierig bin ich nicht, aber es hört sich nach einem interessanten Thema an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ich ... was?"</DefaultText>
+      <DefaultText>„Ich ... was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Je mehr Details umso besser."</DefaultText>
+      <DefaultText>„Je mehr Details umso besser.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ah, gut. Wenn dir das Thema unangenehm ist, verstehe ich das natürlich", sagt der Irrgast, sein Ton lässt drauf schließen, dass es ihm nicht so geht. "Sag mir einfach, wenn du es dir anders überlegt hast.</DefaultText>
+      <DefaultText>„Ah, gut. Wenn dir das Thema unangenehm ist, verstehe ich das natürlich“, sagt der Irrgast, sein Ton lässt drauf schließen, dass es ihm nicht so geht. „Sag mir einfach, wenn du es dir anders überlegt hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Nein, bitte nicht."</DefaultText>
+      <DefaultText>„Nein, bitte nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ah. Ich hatte dich falsch verstanden. Ich katalogisiere die Fortpflanzungsprozesse verschiedener Lebensformen und ich stelle fest, dass andere oftmals die gleiche Faszination für dieses Thema empfinden wie ich."</DefaultText>
+      <DefaultText>„Ah. Ich hatte dich falsch verstanden. Ich katalogisiere die Fortpflanzungsprozesse verschiedener Lebensformen und ich stelle fest, dass andere oftmals die gleiche Faszination für dieses Thema empfinden wie ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Sicher", sagt er voller Freude. "Ich werde keine Details auslassen."</DefaultText>
+      <DefaultText>„Sicher“, sagt er voller Freude. „Ich werde keine Details auslassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Richtig!" sagt Sn‘erf strahlend. "Allerdings ist es weit entfernt von den esoterischen Methoden, die ich bei meinen Studien entdeckt habe."</DefaultText>
+      <DefaultText>„Richtig!“ sagt Sn‘erf strahlend. „Allerdings ist es weit entfernt von den esoterischen Methoden, die ich bei meinen Studien entdeckt habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,29 +132,29 @@ Ein transparentes Bild von zwei menschlichen Körpern mit Ziegenköpfen erschein
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich möchte etwas über die Fortpflanzungsmethode deiner Art erfahren."</DefaultText>
+      <DefaultText>„Ich möchte etwas über die Fortpflanzungsmethode deiner Art erfahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Wie pflanzt sich deine Art noch einmal fort?"</DefaultText>
+      <DefaultText>„Wie pflanzt sich deine Art noch einmal fort?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Den Aspekten soziologischer Komplexität beraubt, ist der Vorgang recht simpel", sagt der Irrgast. "In einem bestimmten Alter wählt meine Art in einer Zeremonie eine Gliedmaße zur Entfernung. Aus der Gliedmaße bildet sich ein neues Wesen. ‚Kinder‘ in deiner Terminologie."
+      <DefaultText>„Den Aspekten soziologischer Komplexität beraubt, ist der Vorgang recht simpel“, sagt der Irrgast. „In einem bestimmten Alter wählt meine Art in einer Zeremonie eine Gliedmaße zur Entfernung. Aus der Gliedmaße bildet sich ein neues Wesen. ‚Kinder‘ in deiner Terminologie.“
 
-Er seufzt. "Ab da wird die Sache komplizierter. Die gewählte Gliedmaße schreibt das Kind einer Kaste zu. Kinder aus Armen werden Arbeiter. Kinder aus Beinen werden Krieger. Und Kinder aus Köpfen, werden, dank des Opfers bei ihrer Erschaffung, Anführer."</DefaultText>
+Er seufzt. „Ab da wird die Sache komplizierter. Die gewählte Gliedmaße schreibt das Kind einer Kaste zu. Kinder aus Armen werden Arbeiter. Kinder aus Beinen werden Krieger. Und Kinder aus Köpfen, werden, dank des Opfers bei ihrer Erschaffung, Anführer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Indem unsere abgetrennten Gliedmaßen zu neuen Wesen heranwachsen", sagt er.</DefaultText>
+      <DefaultText>„Indem unsere abgetrennten Gliedmaßen zu neuen Wesen heranwachsen“, sagt er.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Sn‘erf studiert seine Hände aus Metall. "Wie ich angedeutet habe, wachsen die Gliedmaßen, die wir dafür hergeben, nicht nach. Wer sich seine Gliedmaßen ersetzen lässt, beleidigt seine Kinder und versündigt sich an der eigenen Art."</DefaultText>
+      <DefaultText>Sn‘erf studiert seine Hände aus Metall. „Wie ich angedeutet habe, wachsen die Gliedmaßen, die wir dafür hergeben, nicht nach. Wer sich seine Gliedmaßen ersetzen lässt, beleidigt seine Kinder und versündigt sich an der eigenen Art.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,12 +164,12 @@ Er seufzt. "Ab da wird die Sache komplizierter. Die gewählte Gliedmaße schreib
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Du hast recht", sagt er. "Leider."</DefaultText>
+      <DefaultText>„Du hast recht“, sagt er. „Leider.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Daher also deine biomechanischen Arme, denke ich mir."</DefaultText>
+      <DefaultText>„Daher also deine biomechanischen Arme, denke ich mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,52 +179,52 @@ Er seufzt. "Ab da wird die Sache komplizierter. Die gewählte Gliedmaße schreib
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich gab meine Arme, um meine Kinder zu erschaffen", sagt er. "Sie erlangten die Reife und schlossen sich meinen Studien der zahlreichen sinnentleerten Numenera an." Eine Zeit lang waren wir glücklich."
+      <DefaultText>„Ich gab meine Arme, um meine Kinder zu erschaffen“, sagt er. „Sie erlangten die Reife und schlossen sich meinen Studien der zahlreichen sinnentleerten Numenera an.“ Eine Zeit lang waren wir glücklich.“
 
-Er senkt seine Augen. "Dann entdeckte ich eine geschmolzene menschliche Figur. Ich habe lediglich auf die verschränkten Arme gestarrt, bevor es *die Augen öffnete*. Das ist meine letzte Erinnerung. Danach wachte ich mit diesen Armen auf. Sn‘erf seufzt.
+Er senkt seine Augen. „Dann entdeckte ich eine geschmolzene menschliche Figur. Ich habe lediglich auf die verschränkten Arme gestarrt, bevor es *die Augen öffnete*. Das ist meine letzte Erinnerung. Danach wachte ich mit diesen Armen auf. Sn‘erf seufzt.“
 
-"Meine Kinder, die glaubten, ich hätte sie verleugnet, verleugneten nun mich. Und mein Volk war sogar noch gnadenloser.</DefaultText>
+„Meine Kinder, die glaubten, ich hätte sie verleugnet, verleugneten nun mich. Und mein Volk war sogar noch gnadenloser.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Es tut mir leid, dass dir das passiert ist."</DefaultText>
+      <DefaultText>„Es tut mir leid, dass dir das passiert ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Es war ungerecht von deinen Leuten, dich für einen Unfall zu bestrafen."</DefaultText>
+      <DefaultText>„Es war ungerecht von deinen Leuten, dich für einen Unfall zu bestrafen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Gut. Du hast es verdient."</DefaultText>
+      <DefaultText>„Gut. Du hast es verdient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Deine Sympathie wird geschätzt, aber sie ist nicht echt", sagt der Irrgast und weicht deinem Blick aus. "Ich fand andere Wege, um seitdem meine Gedanken vom Verlust der Familie und meines Volkes zu befreien."</DefaultText>
+      <DefaultText>„Deine Sympathie wird geschätzt, aber sie ist nicht echt“, sagt der Irrgast und weicht deinem Blick aus. „Ich fand andere Wege, um seitdem meine Gedanken vom Verlust der Familie und meines Volkes zu befreien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich bin mir nicht sicher, dass es das war", sagt der Irrgast vorsichtig. "Als ich keine Arme hatte, war mein Geschäft sehr schwierig. Vielleicht hat das Artefakt meine Frustration gespürt und wollte sie beseitigen."
+      <DefaultText>„Ich bin mir nicht sicher, dass es das war“, sagt der Irrgast vorsichtig. „Als ich keine Arme hatte, war mein Geschäft sehr schwierig. Vielleicht hat das Artefakt meine Frustration gespürt und wollte sie beseitigen.“
 
-Sn‘erf schüttelt den Kopf. "Ein Moment der Schwäche kann uns so viel kosten. Wenigstens fand ich andere Wege, um meine Gedanken vom Verlust der Familie und meines Volkes zu befreien.</DefaultText>
+Sn‘erf schüttelt den Kopf. „Ein Moment der Schwäche kann uns so viel kosten. Wenigstens fand ich andere Wege, um meine Gedanken vom Verlust der Familie und meines Volkes zu befreien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich glaube, ich stimme zu", sagt der Irrgast. "Als ich keine Arme hatte, war mein Geschäft sehr schwierig. Vielleicht hat das Artefakt meine Frustration gespürt und wollte sie beseitigen."
+      <DefaultText>„Ich glaube, ich stimme zu“, sagt der Irrgast. „Als ich keine Arme hatte, war mein Geschäft sehr schwierig. Vielleicht hat das Artefakt meine Frustration gespürt und wollte sie beseitigen.“
 
-Sn‘erf schüttelt den Kopf. "Wenn dem so ist, dann habe ich meine Strafe wirklich verdient. Zum Glück fand ich andere Wege, um meine Gedanken vom Verlust der Familie und meines Volkes zu befreien."</DefaultText>
+Sn‘erf schüttelt den Kopf. „Wenn dem so ist, dann habe ich meine Strafe wirklich verdient. Zum Glück fand ich andere Wege, um meine Gedanken vom Verlust der Familie und meines Volkes zu befreien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Erst als ich andere Welten besuchte, erfuhr ich, dass die meisten Spezies sich nicht durch Opfern ihrer Gliedmaßen fortpflanzen", sagt Sn‘erf und schüttelt den Kopf. "Diese Entdeckung *faszinierte* mich. Und so begann ich, die verschiedenen Methoden der Fortpflanzung, die es in der Leere gab, zu katalogisieren. Erst als ich durch die Flor nach Sagus-Klippen kam, wurde mir ein Platz zum Arbeiten angeboten - hier, im Orden der Wahrheit."
+      <DefaultText>„Erst als ich andere Welten besuchte, erfuhr ich, dass die meisten Spezies sich nicht durch Opfern ihrer Gliedmaßen fortpflanzen“, sagt Sn‘erf und schüttelt den Kopf. „Diese Entdeckung *faszinierte* mich. Und so begann ich, die verschiedenen Methoden der Fortpflanzung, die es in der Leere gab, zu katalogisieren. Erst als ich durch die Flor nach Sagus-Klippen kam, wurde mir ein Platz zum Arbeiten angeboten - hier, im Orden der Wahrheit.“
 
-"Siehst du", sagt der Irrgast und verschränkt seine mechanischen Arme.</DefaultText>
+„Siehst du“, sagt der Irrgast und verschränkt seine mechanischen Arme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -234,68 +234,68 @@ Sn‘erf schüttelt den Kopf. "Wenn dem so ist, dann habe ich meine Strafe wirkl
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Erzähl mir von diesen Fortpflanzungsmethoden, die dich so faszinieren."</DefaultText>
+      <DefaultText>„Erzähl mir von diesen Fortpflanzungsmethoden, die dich so faszinieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Erzähl mir von anderen Fortpflanzungsmethoden, die dich faszinieren."</DefaultText>
+      <DefaultText>„Erzähl mir von anderen Fortpflanzungsmethoden, die dich faszinieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Callerale. Sie sind zwar brutale Kreaturen aus organischen und nicht organischen Substanzen, aber sie haben auch einige Eigenschaften mit unserer Art gemein. Sie haben keine Geschlechter und reproduzieren sich, indem sie organische Materie von sich tief in feuchten, gedüngten Boden stecken. Aus der Materie wächst dann irgendwann ein eigenständiges Wesen."</DefaultText>
+      <DefaultText>„Callerale. Sie sind zwar brutale Kreaturen aus organischen und nicht organischen Substanzen, aber sie haben auch einige Eigenschaften mit unserer Art gemein. Sie haben keine Geschlechter und reproduzieren sich, indem sie organische Materie von sich tief in feuchten, gedüngten Boden stecken. Aus der Materie wächst dann irgendwann ein eigenständiges Wesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Fleischwelpen oder ‚Hautschwimmer‘ sind besonders interessant und ein wenig grausam. Das winzige Elternteil dringt schmerzlos in einen Wirt ein, der den Parasit erst erkennt, wenn eine schmerzhafte Schwellung am Oberkörper oder Nacken auftritt. Wenn dem Wirt alle Nährstoffe entzogen wurden, platzt die Schwellung und eine wahre Flut an neugeborener Welpen tritt aus."</DefaultText>
+      <DefaultText>„Fleischwelpen oder ‚Hautschwimmer‘ sind besonders interessant und ein wenig grausam. Das winzige Elternteil dringt schmerzlos in einen Wirt ein, der den Parasit erst erkennt, wenn eine schmerzhafte Schwellung am Oberkörper oder Nacken auftritt. Wenn dem Wirt alle Nährstoffe entzogen wurden, platzt die Schwellung und eine wahre Flut an neugeborener Welpen tritt aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Der Orden der Wahrheit gibt heutzutage einfach jedem einen Platz zum Arbeiten", murmelt Aligern.
+      <DefaultText>„Der Orden der Wahrheit gibt heutzutage einfach jedem einen Platz zum Arbeiten“, murmelt Aligern.
 {ALIGERN}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Ich war noch nicht alt genug, um irgendetwas davon zu hören", stöhnt Rhin und hält sich die Ohren zu. "Und ich will auch nie alt genug sein."
+      <DefaultText>„Ich war noch nicht alt genug, um irgendetwas davon zu hören“, stöhnt Rhin und hält sich die Ohren zu. „Und ich will auch nie alt genug sein.“
 {RHIN}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Nun ja. Das werde ich wohl nicht mehr aus dem Kopf kriegen. Nicht einmal mit einer Schaufel."
+      <DefaultText>„Nun ja. Das werde ich wohl nicht mehr aus dem Kopf kriegen. Nicht einmal mit einer Schaufel.“
 {MATKINA}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Wir sollten uns zurückziehen!" Erritis faucht dir ins Ohr. "Der Irrgast überschwemmt meinen Kopf mit nicht willkommenen Bildern!"
+      <DefaultText>„Wir sollten uns zurückziehen!“ Erritis faucht dir ins Ohr. „Der Irrgast überschwemmt meinen Kopf mit nicht willkommenen Bildern!“
 {ERRITIS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Werden wir hier noch viel länger bleiben? Der Tag bricht schließlich bald an."
+      <DefaultText>„Werden wir hier noch viel länger bleiben? Der Tag bricht schließlich bald an.“
 {CALLISTEGE}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Hast du es je mit einem Nevajin getrieben?" fragt Tybir.
+      <DefaultText>„Hast du es je mit einem Nevajin getrieben?“ fragt Tybir.
 {TYBIR}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Ich glaube, du hast mich falsch verstanden", sagt Sn‘erf mit Nachdruck. "Ich habe keinen Verkehr mit den verschiedenen Kreaturen, die ich studiere. Ich ..."</DefaultText>
+      <DefaultText>„Ich glaube, du hast mich falsch verstanden“, sagt Sn‘erf mit Nachdruck. „Ich habe keinen Verkehr mit den verschiedenen Kreaturen, die ich studiere. Ich ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Ich schon, einmal", fährt Tybir fort, als ob Sn‘erf nicht geantwortet hätte. "Zumindest glaubte ich das. Wir waren beide *sehr* betrunken."
+      <DefaultText>„Ich schon, einmal“, fährt Tybir fort, als ob Sn‘erf nicht geantwortet hätte. „Zumindest glaubte ich das. Wir waren beide *sehr* betrunken.“
 {TYBIR}</DefaultText>
       <FemaleText />
     </Entry>
@@ -311,40 +311,40 @@ Sn‘erf schüttelt den Kopf. "Wenn dem so ist, dann habe ich meine Strafe wirkl
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Einer der Vorarbeiter versucht, Energie in dessen Kinder zu übertragen, aber sie sterben dennoch. Meinst du, dass du helfen kannst?"</DefaultText>
+      <DefaultText>„Einer der Vorarbeiter versucht, Energie in dessen Kinder zu übertragen, aber sie sterben dennoch. Meinst du, dass du helfen kannst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Reden wir über den Vorarbeiter, der nochmal Kinder haben will."</DefaultText>
+      <DefaultText>„Reden wir über den Vorarbeiter, der nochmal Kinder haben will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Aber gern", sagt der Irrgast, und hält dann inne. "Ich muss aber leider um einen Kostenersatz von [Global: a2621_PayingSnerfForPST] Shin bitten. Ich bin hier ein Gast und kein Aeon-Priester. Die Stadt gibt mir keine Forschungsgelder."
+      <DefaultText>„Aber gern“, sagt der Irrgast, und hält dann inne. „Ich muss aber leider um einen Kostenersatz von [Global: a2621_PayingSnerfForPST] Shin bitten. Ich bin hier ein Gast und kein Aeon-Priester. Die Stadt gibt mir keine Forschungsgelder.“
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Kein Problem!" sagt Sn‘erf sichtlich erfreut. "Ich hoffte, dass du fragen wirst. Bist du bereit, meine Gebühr zu bezahlen? [Global: a2621_PayingSnerfForPST] Shin sind durchaus angemessen."
+      <DefaultText>„Kein Problem!“ sagt Sn‘erf sichtlich erfreut. „Ich hoffte, dass du fragen wirst. Bist du bereit, meine Gebühr zu bezahlen? [Global: a2621_PayingSnerfForPST] Shin sind durchaus angemessen.“
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Hier ist das Geld."
+      <DefaultText>„Hier ist das Geld.“
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Vergesst es."</DefaultText>
+      <DefaultText>„Vergesst es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Wie schade", sagt der Irrgast und schaut weg.</DefaultText>
+      <DefaultText>„Wie schade“, sagt der Irrgast und schaut weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,104 +354,104 @@ Sn‘erf schüttelt den Kopf. "Wenn dem so ist, dann habe ich meine Strafe wirkl
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Hervorragend", sagt der Irrgast. "Lass mich ein paar Fragen zur Lage stellen. Versuche, möglichst präzise zu antworten, sonst wird das Gerät nicht effektiv arbeiten."</DefaultText>
+      <DefaultText>„Hervorragend“, sagt der Irrgast. „Lass mich ein paar Fragen zur Lage stellen. Versuche, möglichst präzise zu antworten, sonst wird das Gerät nicht effektiv arbeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Zuerst einmal, wie du weißt, ist das ein ungewöhnlicher Fall. Künstliche Intelligenz ist selten darauf aus, selbst für Nachkommen zu sorgen. Warum will der Vorarbeiter Kinder haben?</DefaultText>
+      <DefaultText>„Zuerst einmal, wie du weißt, ist das ein ungewöhnlicher Fall. Künstliche Intelligenz ist selten darauf aus, selbst für Nachkommen zu sorgen. Warum will der Vorarbeiter Kinder haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Er glaubt, dass die Kinder bereits existieren und darauf warten, geboren zu werden."</DefaultText>
+      <DefaultText>„Er glaubt, dass die Kinder bereits existieren und darauf warten, geboren zu werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Er hat vermutlich Langeweile."</DefaultText>
+      <DefaultText>„Er hat vermutlich Langeweile.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Wollen wir das nicht alle?"</DefaultText>
+      <DefaultText>„Wollen wir das nicht alle?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Ich verstehe", sagt Sn‘erf mit zweifelndem Blick, aber pflichtbewusst notiert er deine Antwort.</DefaultText>
+      <DefaultText>„Ich verstehe“, sagt Sn‘erf mit zweifelndem Blick, aber pflichtbewusst notiert er deine Antwort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ah. Vorherbestimmtes Leben", sagt er und nimmt deine Antwort auf. "Eine ungewöhnliche Philosophie, aber nicht gänzlich unbekannt. Sie wirft auch interessante Fragen zu den Gründen für die Unfruchtbarkeit der Intelligenz auf. Warum kann er keine Nachkommen zeugen, obwohl er sie offensichtlich will?"</DefaultText>
+      <DefaultText>„Ah. Vorherbestimmtes Leben“, sagt er und nimmt deine Antwort auf. „Eine ungewöhnliche Philosophie, aber nicht gänzlich unbekannt. Sie wirft auch interessante Fragen zu den Gründen für die Unfruchtbarkeit der Intelligenz auf. Warum kann er keine Nachkommen zeugen, obwohl er sie offensichtlich will?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Bei mir kam das bisher nicht vor", sagt er. "Ganz sicher nicht in meiner Welt. Deshalb haben wir die Fortpflanzung zwingend vorgeschrieben."
+      <DefaultText>„Bei mir kam das bisher nicht vor“, sagt er. „Ganz sicher nicht in meiner Welt. Deshalb haben wir die Fortpflanzung zwingend vorgeschrieben.“
 
-Er überlegt und fährt sich übers längliche Kinn. "Ich schreibe einfach ‚unbekannte Gründe‘."</DefaultText>
+Er überlegt und fährt sich übers längliche Kinn. „Ich schreibe einfach ‚unbekannte Gründe‘.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Weiter mit der zweiten Frage", sagt der Irrgast. "Hat er seinen Kindern erfolgreich Energie übertragen? Wie lange dauert es, bis seine Kinder, äh, auslaufen?"</DefaultText>
+      <DefaultText>„Weiter mit der zweiten Frage“, sagt der Irrgast. „Hat er seinen Kindern erfolgreich Energie übertragen? Wie lange dauert es, bis seine Kinder, äh, auslaufen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Faszinierend", sagt er und notiert sich noch etwas.</DefaultText>
+      <DefaultText>„Faszinierend“, sagt er und notiert sich noch etwas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Fast sofort."</DefaultText>
+      <DefaultText>„Fast sofort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Sie leben überhaupt nicht."</DefaultText>
+      <DefaultText>„Sie leben überhaupt nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Das ist lächerlich. Sie sind Maschinen, keine Kinder."</DefaultText>
+      <DefaultText>„Das ist lächerlich. Sie sind Maschinen, keine Kinder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Beunruhigend", sagt der Irrgast und notiert sich noch etwas.</DefaultText>
+      <DefaultText>„Beunruhigend“, sagt der Irrgast und notiert sich noch etwas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Das könnte man denken- und du hast vielleicht recht - aber es spricht für dich, dass du trotz deiner philosophischen Differenzen mit der Intelligenz meine Hilfe in Anspruch nimmst", sagt der Irrgast. "Ich notiere dann ‚für unbekannte Zeit‘."</DefaultText>
+      <DefaultText>„Das könnte man denken- und du hast vielleicht recht - aber es spricht für dich, dass du trotz deiner philosophischen Differenzen mit der Intelligenz meine Hilfe in Anspruch nimmst“, sagt der Irrgast. „Ich notiere dann ‚für unbekannte Zeit‘.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Letzte Frage: Wie werden die Vorarbeiter-Intelligenzen gelagert? Leere Anordnungen, geschützte Ringspulen oder eine andere Methode?</DefaultText>
+      <DefaultText>„Letzte Frage: Wie werden die Vorarbeiter-Intelligenzen gelagert? Leere Anordnungen, geschützte Ringspulen oder eine andere Methode?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Geschützte Ringspulen."</DefaultText>
+      <DefaultText>„Geschützte Ringspulen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"In Ringen, glaube ich."</DefaultText>
+      <DefaultText>„In Ringen, glaube ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Vermutlich auf eine andere Art. Die Vorarbeiter sind extrem alt.</DefaultText>
+      <DefaultText>„Vermutlich auf eine andere Art. Die Vorarbeiter sind extrem alt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Jedenfalls, sollte ich mich an die Arbeit machen. Das wird schnell gehen."</DefaultText>
+      <DefaultText>„Jedenfalls, sollte ich mich an die Arbeit machen. Das wird schnell gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,27 +471,27 @@ Er überlegt und fährt sich übers längliche Kinn. "Ich schreibe einfach ‚un
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Kannst du diese Sticha-Eier in eine Energiequelle verwandeln?</DefaultText>
+      <DefaultText>„Kannst du diese Sticha-Eier in eine Energiequelle verwandeln?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Ich habe einige Sticha-Eier, die ich in Energiequellen verwandeln will."</DefaultText>
+      <DefaultText>„Ich habe einige Sticha-Eier, die ich in Energiequellen verwandeln will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Sicher", sagt er. "Und ich verlange nur [Global: a2621_PayingSnerfForEggs] Shin je Haufen."</DefaultText>
+      <DefaultText>„Sicher“, sagt er. „Und ich verlange nur [Global: a2621_PayingSnerfForEggs] Shin je Haufen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Natürlich", sagt der Irrgast. "Das wären [Global: a2621_PayingSnerfForEggs] Shin je Haufen."</DefaultText>
+      <DefaultText>„Natürlich“, sagt der Irrgast. „Das wären [Global: a2621_PayingSnerfForEggs] Shin je Haufen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Bitte wandle einen Haufen um."
+      <DefaultText>„Bitte wandle einen Haufen um.“
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
@@ -499,290 +499,290 @@ Er überlegt und fährt sich übers längliche Kinn. "Ich schreibe einfach ‚un
       <ID>96</ID>
       <DefaultText>Der Irrgast schließt vorsichtig seine mechanischen Hände über den Eiern.
 
-"Das dürfte nicht länger als eine Stunde dauern", sagt er. "Warte bitte hier, während ich arbeite."</DefaultText>
+„Das dürfte nicht länger als eine Stunde dauern“, sagt er. „Warte bitte hier, während ich arbeite.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Vergiss es."</DefaultText>
+      <DefaultText>„Vergiss es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Wie du willst", sagt der Irrgast. "Wenn du deine Meinung änderst, ich bin hier."</DefaultText>
+      <DefaultText>„Wie du willst“, sagt der Irrgast. „Wenn du deine Meinung änderst, ich bin hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Lebwohl."</DefaultText>
+      <DefaultText>„Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Lebwohl, denkbefähigtes Wesen."</DefaultText>
+      <DefaultText>„Lebwohl, denkbefähigtes Wesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Hier, bitte", sagt Sn'erf und legt einen schweren Zylinder mit einem magnetischen *Klink* auf den Tisch.
+      <DefaultText>„Hier, bitte“, sagt Sn'erf und legt einen schweren Zylinder mit einem magnetischen *Klink* auf den Tisch.
 
-"Kurz und knapp, mit dem 'Körper' des Vorarbeiters ist alles in Ordnung und er will Kinder haben. Daher muss irgendetwas im beherrschenden Geist der Intelligenz - die Unterintelligenz, wenn man so will - die Energieübertragung zu blockieren.
+„Kurz und knapp, mit dem 'Körper' des Vorarbeiters ist alles in Ordnung und er will Kinder haben. Daher muss irgendetwas im beherrschenden Geist der Intelligenz - die Unterintelligenz, wenn man so will - die Energieübertragung zu blockieren.“
 
-Der Irrgast tätschelt den Zylinder. "Wenn man dieses Gerät am Vorarbeiter installiert, müsste es die Abwehr der Unterintelligenz deaktivieren. Viel Glück."
+Der Irrgast tätschelt den Zylinder. „Wenn man dieses Gerät am Vorarbeiter installiert, müsste es die Abwehr der Unterintelligenz deaktivieren. Viel Glück.“
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Diese Arme sind sehr interessant. Wie funktionieren sie?"</DefaultText>
+      <DefaultText>„Diese Arme sind sehr interessant. Wie funktionieren sie?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Ich bin mir nicht ganz sicher", sagt er und hebt sie, damit du sie genauer ansehen kannst. Zusätzliche Finger winden sich in ekelerregender Weise aus den mechanischen Handflächen heraus und verschwinden wieder genau so schnell. "Sie scheinen so geistreich zu sein wie jeder von uns beiden, und gehorchen so lange ich sie beschäftigt halte."</DefaultText>
+      <DefaultText>„Ich bin mir nicht ganz sicher“, sagt er und hebt sie, damit du sie genauer ansehen kannst. Zusätzliche Finger winden sich in ekelerregender Weise aus den mechanischen Handflächen heraus und verschwinden wieder genau so schnell. „Sie scheinen so geistreich zu sein wie jeder von uns beiden, und gehorchen so lange ich sie beschäftigt halte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Sich begattende Marger. Faszinierend." Der Irrgast macht sich auf der Schriftrolle neben dem Gerät genaue Notizen in einer dir unbekannten Sprache.</DefaultText>
+      <DefaultText>„Sich begattende Marger. Faszinierend.“ Der Irrgast macht sich auf der Schriftrolle neben dem Gerät genaue Notizen in einer dir unbekannten Sprache.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Du wirst reich sein."</DefaultText>
+      <DefaultText>„Du wirst reich sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Das Gerät späht Kreaturen beim Geschlechtsverkehr aus? Du solltest dich schämen."</DefaultText>
+      <DefaultText>„Das Gerät späht Kreaturen beim Geschlechtsverkehr aus? Du solltest dich schämen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Es ‚späht‘ nur im rein wörtlichen Sinn", sagt Sn‘erf stirnrunzelnd. "Sie können uns jetzt gerade natürlich sehen."
+      <DefaultText>„Es ‚späht‘ nur im rein wörtlichen Sinn“, sagt Sn‘erf stirnrunzelnd. „Sie können uns jetzt gerade natürlich sehen.“
 
-Es schickt eine kleine Welle an den beschäftigten Marger. "Hallo", ruft er. Die Marger rollen rum, sehen euch beide und stürzen schreiend davon.
+Es schickt eine kleine Welle an den beschäftigten Marger. „Hallo“, ruft er. Die Marger rollen rum, sehen euch beide und stürzen schreiend davon.
 
-Das Bild blendet aus. "Ah", sagt Sn‘erf ruhig. "Ich glaube, ich sehe, was du meinst."</DefaultText>
+Das Bild blendet aus. „Ah“, sagt Sn‘erf ruhig. „Ich glaube, ich sehe, was du meinst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Was? Nein", sagt der Irrgast. "Das Gerät steht nicht zum Verkauf. Allerdings schreibe ich gerade an einem Buch."</DefaultText>
+      <DefaultText>„Was? Nein“, sagt der Irrgast. „Das Gerät steht nicht zum Verkauf. Allerdings schreibe ich gerade an einem Buch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>""
-{GAVIN: Gated by blank global for now. Review this entire conversation for CNPC responses to nodes like this. See Colin's notes: "This whole conversation seems like something that Rhin should be horrified by.
+      <DefaultText>„“
+{GAVIN: Gated by blank global for now. Review this entire conversation for CNPC responses to nodes like this. See Colin's notes: „This whole conversation seems like something that Rhin should be horrified by.“
 Erritis embarrassed.
 Tybir totally into.
 Aligern and Matkina disgusted.
 Callistege bored.
-Aligern's and Matkina's disgust should be different flavors, though - Aligern's is along the lines of "why the hell would you even choose this line of work", while Matkina's is more along the lines of general disgust with the entire process.}</DefaultText>
+Aligern's and Matkina's disgust should be different flavors, though - Aligern's is along the lines of „why the hell would you even choose this line of work“, while Matkina's is more along the lines of general disgust with the entire process.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Sonst turnen sie rum, während ich schlafe. Berühren Dinge. Knacken Schlösser. Erwürgen seltsame Nager." Der Irrgast seufzt. "Ich zwang sie dazu, das Stricken anzufangen."</DefaultText>
+      <DefaultText>„Sonst turnen sie rum, während ich schlafe. Berühren Dinge. Knacken Schlösser. Erwürgen seltsame Nager.“ Der Irrgast seufzt. „Ich zwang sie dazu, das Stricken anzufangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Es ist allerdings ein ziemlich kompliziertes Thema, lass es mich wissen, wenn du viel Zeit zum Reden hast."</DefaultText>
+      <DefaultText>„Es ist allerdings ein ziemlich kompliziertes Thema, lass es mich wissen, wenn du viel Zeit zum Reden hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Die menschliche Methode ist besonders faszinierend und kompliziert. Es umfasst ..." er verstummt. "Oh, Verzeihung."</DefaultText>
+      <DefaultText>„Die menschliche Methode ist besonders faszinierend und kompliziert. Es umfasst ...“ er verstummt. „Oh, Verzeihung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Wirklich?" sagt der Irrgast überrascht. "Hörst du jetzt das erste Mal etwas über die Fortpflanzung der Menschen?"</DefaultText>
+      <DefaultText>„Wirklich?“ sagt der Irrgast überrascht. „Hörst du jetzt das erste Mal etwas über die Fortpflanzung der Menschen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"In der Tat", sagt der Irrgast. "Wie erwähnt gehören die Fortpflanzungstechniken zu meinen Leidenschaften."</DefaultText>
+      <DefaultText>„In der Tat“, sagt der Irrgast. „Wie erwähnt gehören die Fortpflanzungstechniken zu meinen Leidenschaften.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Bitte, erzähle weiter."</DefaultText>
+      <DefaultText>„Bitte, erzähle weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Du hast es etwas übertrieben, was?"</DefaultText>
+      <DefaultText>„Du hast es etwas übertrieben, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Ich nehme es an. Erzähle weiter. Ich bin ganz Ohr."</DefaultText>
+      <DefaultText>„Ich nehme es an. Erzähle weiter. Ich bin ganz Ohr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Nein, natürlich nicht. Ich habe gescherzt."</DefaultText>
+      <DefaultText>„Nein, natürlich nicht. Ich habe gescherzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Ah. Ahaaa", sagt Sn‘erf, aber eindeutig hat er den Witz nicht verstanden.</DefaultText>
+      <DefaultText>„Ah. Ahaaa“, sagt Sn‘erf, aber eindeutig hat er den Witz nicht verstanden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Aber gern", sagt der Irrgast. "Die Fortpflanzung des Menschen benötigt auf der einfachsten Stufe genetisches Material von allen Partnern, die zwischen zwei und 29 liegen können."</DefaultText>
+      <DefaultText>„Aber gern“, sagt der Irrgast. „Die Fortpflanzung des Menschen benötigt auf der einfachsten Stufe genetisches Material von allen Partnern, die zwischen zwei und 29 liegen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Zu Beginn des Rituals entfernen die Partner ihre Kleidung, ihre Masken und Schuhe und zeigen den anderen Mitgliedern und allen zusehenden Gottheiten ihr nacktes Fleisch … Verzeihung, geht es dir nicht gut?"</DefaultText>
+      <DefaultText>„Zu Beginn des Rituals entfernen die Partner ihre Kleidung, ihre Masken und Schuhe und zeigen den anderen Mitgliedern und allen zusehenden Gottheiten ihr nacktes Fleisch … Verzeihung, geht es dir nicht gut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Ich höre dir zu. Rede weiter."</DefaultText>
+      <DefaultText>„Ich höre dir zu. Rede weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Bitte. Genug."</DefaultText>
+      <DefaultText>„Bitte. Genug.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Ah, Verzeihung", sagt der Irrgast. "Du bist ziemlich rot angelaufen. Ich sage lieber nichts mehr zu diesem Thema."</DefaultText>
+      <DefaultText>„Ah, Verzeihung“, sagt der Irrgast. „Du bist ziemlich rot angelaufen. Ich sage lieber nichts mehr zu diesem Thema.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Natürlich. Wie ich sagte, sobald Kleidung und Zubehör abgelegt wurden, kann der Geschlechtsverkehr beginnen. Mit einem kräftigen Schrei zeigt der dominante Teilnehmer seinen Bauch und alle anderen Mitglieder des Koitushaufens bereiten sich für höchste Genüsse vor."
+      <DefaultText>„Natürlich. Wie ich sagte, sobald Kleidung und Zubehör abgelegt wurden, kann der Geschlechtsverkehr beginnen. Mit einem kräftigen Schrei zeigt der dominante Teilnehmer seinen Bauch und alle anderen Mitglieder des Koitushaufens bereiten sich für höchste Genüsse vor.“
 
-Der Irrgast runzelt die Stirn. "Ich habe unzureichende Informationen zu dem, was dann geschieht, aber angeblich soll es zur Penetration kommen. Meine Studienobjekte waren etwas ungenau *was* da in *was* penetriert."</DefaultText>
+Der Irrgast runzelt die Stirn. „Ich habe unzureichende Informationen zu dem, was dann geschieht, aber angeblich soll es zur Penetration kommen. Meine Studienobjekte waren etwas ungenau *was* da in *was* penetriert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Wie dem auch sei, wenn alle Partner befriedigt sind, beschließen sie den 'Sexualakt' mit einem festen Handschlag."
+      <DefaultText>„Wie dem auch sei, wenn alle Partner befriedigt sind, beschließen sie den 'Sexualakt' mit einem festen Handschlag.“
 
-Sn'erf lehnt sich zu dir. "Unter uns gesagt, ich glaube, die meisten Informationen wurde nur erfunden, um mich ins Bockshorn zu jagen. Glücklicherweise wurde ich eingeladen, nächste Woche bei einem Paarungsritual von Menschen zuzusehen. Ich freue mich darauf, meine Daten zu aktualisieren."</DefaultText>
+Sn'erf lehnt sich zu dir. „Unter uns gesagt, ich glaube, die meisten Informationen wurde nur erfunden, um mich ins Bockshorn zu jagen. Glücklicherweise wurde ich eingeladen, nächste Woche bei einem Paarungsritual von Menschen zuzusehen. Ich freue mich darauf, meine Daten zu aktualisieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Ich muss vorerst ablehnen", sagt er. "Ehrlich gesagt, finde ich sie alle faszinierend. Ich könnte hier den ganzen Tag bleiben!"</DefaultText>
+      <DefaultText>„Ich muss vorerst ablehnen“, sagt er. „Ehrlich gesagt, finde ich sie alle faszinierend. Ich könnte hier den ganzen Tag bleiben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Xiomarde, auch 'Blütenverweser' genannt, töten ihre Beute mit Giftstacheln und legen ihre befruchteten Eier direkt in der Leiche ab. Nach etwas mehr als einer Woche schlüpfen die Jungen, die wie frische Blüten aus dem verwesenden Fleisch ans Tageslicht drängen."</DefaultText>
+      <DefaultText>„Xiomarde, auch 'Blütenverweser' genannt, töten ihre Beute mit Giftstacheln und legen ihre befruchteten Eier direkt in der Leiche ab. Nach etwas mehr als einer Woche schlüpfen die Jungen, die wie frische Blüten aus dem verwesenden Fleisch ans Tageslicht drängen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Entschuldige, ist dir das Thema unangenehm?"</DefaultText>
+      <DefaultText>„Entschuldige, ist dir das Thema unangenehm?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Unsinn", sagt Callistege. "Ich hasse einfach Lektionen ohne Anschauungsmaterial."</DefaultText>
+      <DefaultText>„Unsinn“, sagt Callistege. „Ich hasse einfach Lektionen ohne Anschauungsmaterial.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
       <DefaultText>Schließlich richtet sich Sn‘erf auf. Er hält ein frisch verwandeltes, summendes Stichus-Ei in der Hand.
 
-"Die anderen waren entweder unbefruchtet oder zu fragil", sagt er. "Es tut mir leid."
+„Die anderen waren entweder unbefruchtet oder zu fragil“, sagt er. „Es tut mir leid.“
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Hier hast du deine Energiezelle", sagt der Irrgast.
+      <DefaultText>„Hier hast du deine Energiezelle“, sagt der Irrgast.
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Warte hier", sagt Sn‘erf, und nimmt die Eier an. "Ich komme wieder."</DefaultText>
+      <DefaultText>„Warte hier“, sagt Sn‘erf, und nimmt die Eier an. „Ich komme wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Leere Anordnungen hört sich richtig an."</DefaultText>
+      <DefaultText>„Leere Anordnungen hört sich richtig an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Hoffen wir mal", sagt der Irrgast und macht sich eine letzte Notiz.</DefaultText>
+      <DefaultText>„Hoffen wir mal“, sagt der Irrgast und macht sich eine letzte Notiz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Das würde Sinn machen, nach dem, was ich über ihr Verhalten hörte", sagt der Irrgast und macht sich eine letzte Notiz.</DefaultText>
+      <DefaultText>„Das würde Sinn machen, nach dem, was ich über ihr Verhalten hörte“, sagt der Irrgast und macht sich eine letzte Notiz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Ah, ja. Der Segen und Fluch der Numenera", seufzt Sn‘erf "So einzigartig und daher auch so unglaublich schwer, richtig zu studieren … um sie angemessen zu klassifizieren."
+      <DefaultText>„Ah, ja. Der Segen und Fluch der Numenera“, seufzt Sn‘erf „So einzigartig und daher auch so unglaublich schwer, richtig zu studieren … um sie angemessen zu klassifizieren.“
 
-Er macht sich eine letzte Notiz. "Ich werde dennoch mein Bestes geben."</DefaultText>
+Er macht sich eine letzte Notiz. „Ich werde dennoch mein Bestes geben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Ich habe nicht genug Shin."</DefaultText>
+      <DefaultText>„Ich habe nicht genug Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Ich habe nicht genug Shin."</DefaultText>
+      <DefaultText>„Ich habe nicht genug Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Ich verstehe", sagt der Irrgast. "Ich werde hier sein, wenn du kommst."</DefaultText>
+      <DefaultText>„Ich verstehe“, sagt der Irrgast. „Ich werde hier sein, wenn du kommst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Hm", sagt er und sieht enttäuscht aus. "Ich notiere einfach ‚unbekannte Gründe‘."</DefaultText>
+      <DefaultText>„Hm“, sagt er und sieht enttäuscht aus. „Ich notiere einfach ‚unbekannte Gründe‘.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Ich weiß es nicht."</DefaultText>
+      <DefaultText>„Ich weiß es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Ich verstehe", sagt der Irrgast. "Ich notiere dann ‚für unbekannte Zeit‘."</DefaultText>
+      <DefaultText>„Ich verstehe“, sagt der Irrgast. „Ich notiere dann ‚für unbekannte Zeit‘.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Ich bin mir nicht sicher!"</DefaultText>
+      <DefaultText>„Ich bin mir nicht sicher!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
       <DefaultText>Der Irrgast nimmt dir die zwei Eierhaufen ab.
 
-"Das dürfte nicht länger als eine Stunde dauern", sagt er. "Warte bitte hier, während ich arbeite."</DefaultText>
+„Das dürfte nicht länger als eine Stunde dauern“, sagt er. „Warte bitte hier, während ich arbeite.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Ich möchte zwei Haufen umwandeln lassen."
+      <DefaultText>„Ich möchte zwei Haufen umwandeln lassen.“
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Wandle alle Haufen um, die ich habe."
+      <DefaultText>„Wandle alle Haufen um, die ich habe.“
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
@@ -790,14 +790,14 @@ Er macht sich eine letzte Notiz. "Ich werde dennoch mein Bestes geben."</Default
       <ID>154</ID>
       <DefaultText>Der Irrgast akzeptiert die drei Eierhaufen.
 
-"Das dürfte nicht länger als eine Stunde dauern", sagt er. "Warte bitte hier, während ich arbeite."</DefaultText>
+„Das dürfte nicht länger als eine Stunde dauern“, sagt er. „Warte bitte hier, während ich arbeite.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
       <DefaultText>Schließlich reicht dir Sn‘erf zwei stark modifizierte Eier.
 
-"Die anderen waren entweder unbefruchtet oder zu fragil", sagt er. "Tut mir leid."
+„Die anderen waren entweder unbefruchtet oder zu fragil“, sagt er. „Tut mir leid.“
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
@@ -805,88 +805,88 @@ Er macht sich eine letzte Notiz. "Ich werde dennoch mein Bestes geben."</Default
       <ID>156</ID>
       <DefaultText>Mit einem leichten Seufzer gibt dir Sn‘erf drei Eier, die von vibrierenden Drähten umgeben sind.
 
-"Die anderen waren entweder unbefruchtet oder zu fragil", sagt er. "Es tut mir leid."
-{LOOT} PC gets three Stichus Egg power source and loses three egg clusters.}</DefaultText>
+„Die anderen waren entweder unbefruchtet oder zu fragil“, sagt er. „Es tut mir leid.“
+{LOOT: PC gets three Stichus Egg power source and loses three egg clusters.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Da sind nur meine ersten Beobachtungen der Methoden zu sehen", sagt der Irrgast. "Die Stellung. Die Aufmachung, natürlich."
+      <DefaultText>„Da sind nur meine ersten Beobachtungen der Methoden zu sehen“, sagt der Irrgast. „Die Stellung. Die Aufmachung, natürlich.“
 
-Eine der Kreaturen stößt gellenden Schrei aus. "Und Ergebnisse", ergänzt der Irrgast und macht sich noch eine Notiz.</DefaultText>
+Eine der Kreaturen stößt gellenden Schrei aus. „Und Ergebnisse“, ergänzt der Irrgast und macht sich noch eine Notiz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Was für Notizen machst du dir da eigentlich?"</DefaultText>
+      <DefaultText>„Was für Notizen machst du dir da eigentlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Was willst du sonst noch wissen?"</DefaultText>
+      <DefaultText>„Was willst du sonst noch wissen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Nächste Woche?", sagt Tybir munter werdend. "Da gehe ich auch hin. Ich halte ein Auge für dich auf."
+      <DefaultText>„Nächste Woche?“, sagt Tybir munter werdend. „Da gehe ich auch hin. Ich halte ein Auge für dich auf.“
 
-Er zögert, dann grinst er. "Sofern mir natürlich nicht die Augen verbunden werden. Dann musst du einen anderen Weg finden, um mich wissen zu lassen, dass du da bist."</DefaultText>
+Er zögert, dann grinst er. „Sofern mir natürlich nicht die Augen verbunden werden. Dann musst du einen anderen Weg finden, um mich wissen zu lassen, dass du da bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Ich werde mich bemühen", sagt der Irrgast höflich und macht eine Notiz in seinem Block.</DefaultText>
+      <DefaultText>„Ich werde mich bemühen“, sagt der Irrgast höflich und macht eine Notiz in seinem Block.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Wie bekomme ich für dieses, äh, Ritual, eine Einladung?"</DefaultText>
+      <DefaultText>„Wie bekomme ich für dieses, äh, Ritual, eine Einladung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Du redest nicht von einem Klopfen auf der Schulter, oder doch?"</DefaultText>
+      <DefaultText>„Du redest nicht von einem Klopfen auf der Schulter, oder doch?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Tybir, hörst du denn *niemals* auf?"</DefaultText>
+      <DefaultText>„Tybir, hörst du denn *niemals* auf?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Der Irrgast richtet sich auf. "Es freut mich, dass du mir dabei behilflich gewesen bist, einen Paarungspartner zu finden", sagt er ruhig. "Gibt es noch irgendetwas, das du besprechen möchtest?"</DefaultText>
+      <DefaultText>Der Irrgast richtet sich auf. „Es freut mich, dass du mir dabei behilflich gewesen bist, einen Paarungspartner zu finden“, sagt er ruhig. „Gibt es noch irgendetwas, das du besprechen möchtest?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Keine Ahnung", sagt Tybir fröhlich. "Kann dir nicht mal sagen, wie ich zum ersten eingeladen wurde, und das war vor Monaten. Doch ich werde versuchen, zur richtigen Zeit deinen Namen in das", er zwinkert, "richtige Ohr zu flüstern."</DefaultText>
+      <DefaultText>„Keine Ahnung“, sagt Tybir fröhlich. „Kann dir nicht mal sagen, wie ich zum ersten eingeladen wurde, und das war vor Monaten. Doch ich werde versuchen, zur richtigen Zeit deinen Namen in das“, er zwinkert, „richtige Ohr zu flüstern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Ein Klopfen irgendwohin ist für mich in Ordnung", sagt Tybir fröhlich.</DefaultText>
+      <DefaultText>„Ein Klopfen irgendwohin ist für mich in Ordnung“, sagt Tybir fröhlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
       <DefaultText>Der Irrgast macht eine weitere, sorgfältige Notiz.
 
-"Gibt es noch irgendetwas, das du besprechen möchtest?", sagt er und schaut auf.</DefaultText>
+„Gibt es noch irgendetwas, das du besprechen möchtest?“, sagt er und schaut auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Aufhören?", fragt Tybir und runzelt die Stirn. "Das ist Aufhören, mein Freund. Ich spreche von einer Pause von all dem Kämpfen und Herumrennen. Ich spreche von ein paar Momenten, die man beinahe besinnungslos in warmer Umarmung verbringt. Der Atem eines liebenden Fremden an deinem Hals."
+      <DefaultText>„Aufhören?“, fragt Tybir und runzelt die Stirn. „Das ist Aufhören, mein Freund. Ich spreche von einer Pause von all dem Kämpfen und Herumrennen. Ich spreche von ein paar Momenten, die man beinahe besinnungslos in warmer Umarmung verbringt. Der Atem eines liebenden Fremden an deinem Hals.“
 
-Er spreizt die Hände. "Es gibt ein paar schönere Dinge als all das, aber nicht so viele, wie man denken möchte."</DefaultText>
+Er spreizt die Hände. „Es gibt ein paar schönere Dinge als all das, aber nicht so viele, wie man denken möchte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
       <DefaultText>Du blickst zu Sn'erf hinüber. Der Irrgast macht *wilde* Notizen.
 
-"Gibt es noch irgendetwas, das du besprechen möchtest?", sagt er und schaut auf.</DefaultText>
+„Gibt es noch irgendetwas, das du besprechen möchtest?“, sagt er und schaut auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -896,12 +896,12 @@ Er spreizt die Hände. "Es gibt ein paar schönere Dinge als all das, aber nicht
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Hättest du Interesse daran, die Fortpflanzungsweise von Oom hier zu studieren?"</DefaultText>
+      <DefaultText>„Hättest du Interesse daran, die Fortpflanzungsweise von Oom hier zu studieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Gewiss doch", sagt der Irrgast und beugt sich hinunter. "Aber wenn es sich sexuell fortpflanzt, müsste ich ihm einen synthetischen Partner erschaffen. Wodurch fühlt seine Art sich gewöhnlich angezogen?"</DefaultText>
+      <DefaultText>„Gewiss doch“, sagt der Irrgast und beugt sich hinunter. „Aber wenn es sich sexuell fortpflanzt, müsste ich ihm einen synthetischen Partner erschaffen. Wodurch fühlt seine Art sich gewöhnlich angezogen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -911,7 +911,7 @@ Er spreizt die Hände. "Es gibt ein paar schönere Dinge als all das, aber nicht
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Ah", meint Sn'erf und richtet sich wieder auf. "Vielleicht sollten wir ein andermal darüber sprechen."</DefaultText>
+      <DefaultText>„Ah“, meint Sn'erf und richtet sich wieder auf. „Vielleicht sollten wir ein andermal darüber sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -926,34 +926,34 @@ Er spreizt die Hände. "Es gibt ein paar schönere Dinge als all das, aber nicht
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Versuch mal, Geräusche wie ein Sumpf mit Magenverstimmung zu machen, und schau, ob Oom angelaufen kommt."</DefaultText>
+      <DefaultText>„Versuch mal, Geräusche wie ein Sumpf mit Magenverstimmung zu machen, und schau, ob Oom angelaufen kommt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Entnimm zu Testzwecken einfach eine Probe vom Fleisch des Geräts, Liebes. Es wird nachwachsen, da bin ich sicher."</DefaultText>
+      <DefaultText>„Entnimm zu Testzwecken einfach eine Probe vom Fleisch des Geräts, Liebes. Es wird nachwachsen, da bin ich sicher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Aber wie sollte man überprüfen, ..." Ihre Augen weiten sich. "Schon gut. Ich verstehe jetzt, und ich wünschte, ich täte es nicht."</DefaultText>
+      <DefaultText>„Aber wie sollte man überprüfen, ...“ Ihre Augen weiten sich. „Schon gut. Ich verstehe jetzt, und ich wünschte, ich täte es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Angezogen? Oom hat keine Zeit für Romanzen!" Erritis zögert und wirft Oom einen Blick zu. "Oder?"</DefaultText>
+      <DefaultText>„Angezogen? Oom hat keine Zeit für Romanzen!“ Erritis zögert und wirft Oom einen Blick zu. „Oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Keine Ahnung. Ich selbst mag knappe Röcke. Vielleicht versuchst du's mal damit."</DefaultText>
+      <DefaultText>„Keine Ahnung. Ich selbst mag knappe Röcke. Vielleicht versuchst du's mal damit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Aber Oom macht nicht ...", sie verstummt besorgt. "Oder doch?"
+      <DefaultText>„Aber Oom macht nicht ...“, sie verstummt besorgt. „Oder doch?“
 
- Sie wendet sich Oom zu. "Oder doch?"</DefaultText>
+ Sie wendet sich Oom zu. „Oder doch?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
