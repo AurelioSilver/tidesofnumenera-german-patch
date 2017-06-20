@@ -175,7 +175,7 @@ Er seufzt. "Ab da wird die Sache komplizierter. Die gewählte Gliedmaße schreib
     <Entry>
       <ID>31</ID>
       <DefaultText>Sage nichts.</DefaultText>
-      <FemaleText>Sage nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
@@ -580,13 +580,7 @@ Tybir totally into.
 Aligern and Matkina disgusted.
 Callistege bored. 
 Aligern's and Matkina's disgust should be different flavors, though - Aligern's is along the lines of "why the hell would you even choose this line of work," while Matkina's is more along the lines of general disgust with the entire process.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Gated by blank global for now. Review this entire conversation for CNPC responses to nodes like this. See Colin's notes: "This whole conversation seems like something that Rhin should be horrified by.
-Erritis embarrassed.
-Tybir totally into.
-Aligern and Matkina disgusted.
-Callistege bored. 
-Aligern's and Matkina's disgust should be different flavors, though - Aligern's is along the lines of "why the hell would you even choose this line of work," while Matkina's is more along the lines of general disgust with the entire process.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
@@ -837,9 +831,7 @@ Eine der Kreaturen stößt gellenden Schrei aus. "Und Ergebnisse", ergänzt der 
       <DefaultText>"Nächste Woche?",  sagt Tybir munter werdend. "Da gehe ich auch hin. Ich halte ein Auge für dich auf." 
 
 Er zögert, dann grinst er. "Sofern mir natürlich nicht die Augen verbunden werden. Dann musst du einen anderen Weg finden, um mich wissen zu lassen, dass du da bist."</DefaultText>
-      <FemaleText>"Nächste Woche?",  sagt Tybir munter werdend. "Da gehe ich auch hin. Ich halte ein Auge für dich auf." 
-
-Er zögert, dann grinst er. "Sofern mir natürlich nicht die Augen verbunden werden. Dann musst du einen anderen Weg finden, um mich wissen zu lassen, dass du da bist."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
@@ -849,59 +841,53 @@ Er zögert, dann grinst er. "Sofern mir natürlich nicht die Augen verbunden wer
     <Entry>
       <ID>162</ID>
       <DefaultText>"Wie bekomme ich für dieses, äh, Ritual, eine Einladung?"</DefaultText>
-      <FemaleText>"Wie bekomme ich für dieses, äh, Ritual, eine Einladung?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
       <DefaultText>"Du redest nicht von einem Klopfen auf der Schulter, oder doch?"</DefaultText>
-      <FemaleText>"Du redest nicht von einem Klopfen auf der Schulter, oder doch?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
       <DefaultText>"Tybir, hörst du denn *niemals* auf?"</DefaultText>
-      <FemaleText>"Tybir, hörst du denn *niemals* auf?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
       <DefaultText>Der Irrgast richtet sich auf. "Es freut mich, dass du mir dabei behilflich gewesen bist, einen Paarungspartner zu finden", sagt er ruhig. "Gibt es noch irgendetwas, das du besprechen möchtest?"</DefaultText>
-      <FemaleText>Der Irrgast richtet sich auf. "Es freut mich, dass du mir dabei behilflich gewesen bist, einen Paarungspartner zu finden", sagt er ruhig. "Gibt es noch irgendetwas, das du besprechen möchtest?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
       <DefaultText>"Keine Ahnung", sagt Tybir fröhlich. "Kann dir nicht mal sagen, wie ich zum ersten eingeladen wurde, und das war vor Monaten. Doch ich werde versuchen, zur richtigen Zeit deinen Namen in das", er zwinkert, "richtige Ohr zu flüstern."</DefaultText>
-      <FemaleText>"Keine Ahnung", sagt Tybir fröhlich. "Kann dir nicht mal sagen, wie ich zum ersten eingeladen wurde, und das war vor Monaten. Doch ich werde versuchen, zur richtigen Zeit deinen Namen in das", er zwinkert, "richtige Ohr zu flüstern."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
       <DefaultText>"Ein Klopfen irgendwohin ist für mich in Ordnung", sagt Tybir fröhlich.</DefaultText>
-      <FemaleText>"Ein Klopfen irgendwohin ist für mich in Ordnung", sagt Tybir fröhlich.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
       <DefaultText>Der Irrgast macht eine weitere, sorgfältige Notiz.
 
 "Gibt es noch irgendetwas, das du besprechen möchtest?", sagt er und schaut auf.</DefaultText>
-      <FemaleText>Der Irrgast macht eine weitere, sorgfältige Notiz.
-
-"Gibt es noch irgendetwas, das du besprechen möchtest?", sagt er und schaut auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
       <DefaultText>"Aufhören?",  fragt Tybir und runzelt die Stirn. "Das ist Aufhören, mein Freund. Ich spreche von einer Pause von all dem Kämpfen und Herumrennen. Ich spreche von ein paar Momenten, die man beinahe besinnungslos in warmer Umarmung verbringt. Der Atem eines liebenden Fremden an deinem Hals."
 
 Er spreizt die Hände. "Es gibt ein paar schönere Dinge als all das, aber nicht so viele, wie man denken möchte."</DefaultText>
-      <FemaleText>"Aufhören?",  fragt Tybir und runzelt die Stirn. "Das ist Aufhören, mein Freund. Ich spreche von einer Pause von all dem Kämpfen und Herumrennen. Ich spreche von ein paar Momenten, die man beinahe besinnungslos in warmer Umarmung verbringt. Der Atem eines liebenden Fremden an deinem Hals."
-
-Er spreizt die Hände. "Es gibt ein paar schönere Dinge als all das, aber nicht so viele, wie man denken möchte."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
       <DefaultText>Du blickst zu Sn'erf hinüber. Der Irrgast macht *wilde* Notizen. 
 
 "Gibt es noch irgendetwas, das du besprechen möchtest?", sagt er und schaut auf.</DefaultText>
-      <FemaleText>Du blickst zu Sn'erf hinüber. Der Irrgast macht *wilde* Notizen. 
-
-"Gibt es noch irgendetwas, das du besprechen möchtest?", sagt er und schaut auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
