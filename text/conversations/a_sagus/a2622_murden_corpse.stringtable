@@ -23,8 +23,7 @@
       <ID>4</ID>
       <DefaultText>""
 {GAVIN: Gating this with SHOULD NOT PLAY until faction stuff goes in.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Gating this with SHOULD NOT PLAY until faction stuff goes in.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -55,67 +54,64 @@
       <ID>13</ID>
       <DefaultText>""
 {GAVIN: Gating this with SHOULD NOT PLAY until faction stuff goes in.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Gating this with SHOULD NOT PLAY until faction stuff goes in.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>""
 {SCRIPT: PC gets Insane Descriptor}</DefaultText>
-      <FemaleText>""
-{SCRIPT: PC gets Insane Descriptor}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>""
 {GAVIN: Gating this with SHOULD NOT PLAY until faction stuff goes in.}</DefaultText>
-      <FemaleText>""
-{GAVIN: Gating this with SHOULD NOT PLAY until faction stuff goes in.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
