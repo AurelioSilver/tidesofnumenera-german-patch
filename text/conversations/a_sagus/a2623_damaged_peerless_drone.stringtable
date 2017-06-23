@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich warne dich, Fleischläufer. Komm nicht näher."</DefaultText>
+      <DefaultText>„Ich warne dich, Fleischläufer. Komm nicht näher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Komm nicht näher, Fleischläufer. Ich bin die Unvergleichliche, die Ewige. Die Unvergleichliche, die Mächtige! Die Unvergleichliche, die Weise. Du stehst vor dem *Nexus* meiner Kraft."</DefaultText>
+      <DefaultText>„Komm nicht näher, Fleischläufer. Ich bin die Unvergleichliche, die Ewige. Die Unvergleichliche, die Mächtige! Die Unvergleichliche, die Weise. Du stehst vor dem *Nexus* meiner Kraft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Du siehst anders aus als die anderen Technologien im Lazarett. Wie bist du hier heruntergekommen?"</DefaultText>
+      <DefaultText>„Du siehst anders aus als die anderen Technologien im Lazarett. Wie bist du hier heruntergekommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Komm schon, sag es mir. Warum siehst du so anders aus als die restlichen Technologien hier?"</DefaultText>
+      <DefaultText>„Komm schon, sag es mir. Warum siehst du so anders aus als die restlichen Technologien hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -52,24 +52,24 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Deine Feldgeneratoren scheinen defekt zu sein. Wie bist du hier heruntergekommen?"</DefaultText>
+      <DefaultText>„Deine Feldgeneratoren scheinen defekt zu sein. Wie bist du hier heruntergekommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Mehr als ein Jahrhundert lang habe ich zwischen rostigen Metallplatten im Riff der Gefallenen Welten geschlafen und über meine ewige Macht nachgedacht", sagt das Konstrukt. "Dann, vor nicht allzu langer Zeit, wurde ich entdeckt. Erweckt!" Ein Hauch von Verbitterung färbt die Stimme des Konstrukts.
+      <DefaultText>„Mehr als ein Jahrhundert lang habe ich zwischen rostigen Metallplatten im Riff der Gefallenen Welten geschlafen und über meine ewige Macht nachgedacht“, sagt das Konstrukt. „Dann, vor nicht allzu langer Zeit, wurde ich entdeckt. Erweckt!“ Ein Hauch von Verbitterung färbt die Stimme des Konstrukts.
 
-"Diese Ekel erregenden Federkreaturen – du hast ihre Kadaver sicher schon gesehen – waren dafür verantwortlich. Sie haben mich mit ihren schmutzigen Klauen angefasst. Mich! Doch ich habe den Drang, sie zu vernichten, unterdrückt, denn ich hatte einen Plan."</DefaultText>
+„Diese Ekel erregenden Federkreaturen – du hast ihre Kadaver sicher schon gesehen – waren dafür verantwortlich. Sie haben mich mit ihren schmutzigen Klauen angefasst. Mich! Doch ich habe den Drang, sie zu vernichten, unterdrückt, denn ich hatte einen Plan.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Das geht dich nichts an", sagt das Konstrukt widerwillig. Es möchte eindeutig prahlen.</DefaultText>
+      <DefaultText>„Das geht dich nichts an“, sagt das Konstrukt widerwillig. Es möchte eindeutig prahlen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Nein!", ruft die Intelligenz, als du ein Kabel greifst. "Nimm d-"
+      <DefaultText>„Nein!“, ruft die Intelligenz, als du ein Kabel greifst. „Nimm d-“
 
 Du ziehst das Kabel heraus und die Lichter, die auf der Oberfläche des Konstrukts glänzten, gehen aus. Das Lazarett um dich herum wird still.
 {SOUND: Power down}</DefaultText>
@@ -79,7 +79,7 @@ Du ziehst das Kabel heraus und die Lichter, die auf der Oberfläche des Konstruk
       <ID>14</ID>
       <DefaultText>Du legst deine Hand auf eines der Kabel, welche die Drohne mit den Maschinen verbindet.
 
-"Nimm dein dreckiges Knochengitter von mir!", brüllt die Maschine. Du weichst mit dröhnenden Ohren zurück.</DefaultText>
+„Nimm dein dreckiges Knochengitter von mir!“, brüllt die Maschine. Du weichst mit dröhnenden Ohren zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,7 +94,7 @@ Du ziehst das Kabel heraus und die Lichter, die auf der Oberfläche des Konstruk
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ja! Fliehe, Fleischläufer! Dies ist nicht dein Herrschaftsgebiet!"</DefaultText>
+      <DefaultText>„Ja! Fliehe, Fleischläufer! Dies ist nicht dein Herrschaftsgebiet!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -109,55 +109,55 @@ Du ziehst das Kabel heraus und die Lichter, die auf der Oberfläche des Konstruk
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Ich habe weitere Fragen an dich."</DefaultText>
+      <DefaultText>„Ich habe weitere Fragen an dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ich hatte die schlafende Maschinerie in dieser Struktur gespürt und wusste, dass sie wieder geöffnet worden war. Und so beeinflusste ich die Kreaturen mit meinem unermesslichen Charme und versprach ihnen Schätze, wenn sie mich hineintragen würden."</DefaultText>
+      <DefaultText>„Ich hatte die schlafende Maschinerie in dieser Struktur gespürt und wusste, dass sie wieder geöffnet worden war. Und so beeinflusste ich die Kreaturen mit meinem unermesslichen Charme und versprach ihnen Schätze, wenn sie mich hineintragen würden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Und du hast sie getötet, sobald du drinnen warst?"</DefaultText>
+      <DefaultText>„Und du hast sie getötet, sobald du drinnen warst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Unermesslicher Charme, was?"</DefaultText>
+      <DefaultText>„Unermesslicher Charme, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Es gibt Schätze an diesem Ort?"</DefaultText>
+      <DefaultText>„Es gibt Schätze an diesem Ort?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Natürlich nicht", schnaubt es. "Das wäre dumm gewesen. ich habe sie später getötet."
+      <DefaultText>„Natürlich nicht“, schnaubt es. „Das wäre dumm gewesen. ich habe sie später getötet.“
 
-Ein gelbes Licht leuchtet auf der Oberfläche des Konstrukts. "Jetzt höre auf, Fragen zu stellen, und *hör zu*."</DefaultText>
+Ein gelbes Licht leuchtet auf der Oberfläche des Konstrukts. „Jetzt höre auf, Fragen zu stellen, und *hör zu*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Natürlich!", sagt es. "Ihr niederen Kreaturen seid meinen beruhigenden, gut gewählten Worten nicht gewachsen!"
+      <DefaultText>„Natürlich!“, sagt es. „Ihr niederen Kreaturen seid meinen beruhigenden, gut gewählten Worten nicht gewachsen!“
 
-Ein gelbes Licht leuchtet auf der Oberfläche des Konstrukts. "Jetzt höre auf, Fragen zu stellen, und *hör zu*."</DefaultText>
+Ein gelbes Licht leuchtet auf der Oberfläche des Konstrukts. „Jetzt höre auf, Fragen zu stellen, und *hör zu*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Es war eine List", seufzt das Konstrukt. "Es gibt hier keine Schätze, die deiner Art etwas bedeuten. Nichts, was du verkaufen oder worauf du deine Blase entleeren kannst. Dies sind Schätze des *Einflusses*, der *Macht*."
+      <DefaultText>„Es war eine List“, seufzt das Konstrukt. „Es gibt hier keine Schätze, die deiner Art etwas bedeuten. Nichts, was du verkaufen oder worauf du deine Blase entleeren kannst. Dies sind Schätze des *Einflusses*, der *Macht*.“
 
-Ein gelbes Licht leuchtet auf der Oberfläche des Konstrukts. "Jetzt höre auf, Fragen zu stellen, und *hör zu*."</DefaultText>
+Ein gelbes Licht leuchtet auf der Oberfläche des Konstrukts. „Jetzt höre auf, Fragen zu stellen, und *hör zu*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Die Kreaturen suchten das Habitat ab und untersuchten wertloses Zeug. Sie ließen mich hier, in der Nähe der Durchgangstraße der Grundintelligenz. Unbeaufsichtigt." Das Konstrukt kichert.
+      <DefaultText>„Die Kreaturen suchten das Habitat ab und untersuchten wertloses Zeug. Sie ließen mich hier, in der Nähe der Durchgangstraße der Grundintelligenz. Unbeaufsichtigt.“ Das Konstrukt kichert.
 
-"Ich *infizierte* die primitiven Maschinen, die in dieser Struktur schlummerten. Nahm sie für mich in Anspruch. Als die Kreaturen versuchten, mich aufzuhalten, schlachtete ich sie ab! Denn ich werde nicht länger unter dem Abfall dieser Stadt schlummern. Ich bin die Unvergleichliche, der Geist zwischen den Sternen, und meine Zeit ist wieder gekommen!"</DefaultText>
+„Ich *infizierte* die primitiven Maschinen, die in dieser Struktur schlummerten. Nahm sie für mich in Anspruch. Als die Kreaturen versuchten, mich aufzuhalten, schlachtete ich sie ab! Denn ich werde nicht länger unter dem Abfall dieser Stadt schlummern. Ich bin die Unvergleichliche, der Geist zwischen den Sternen, und meine Zeit ist wieder gekommen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -167,82 +167,82 @@ Ein gelbes Licht leuchtet auf der Oberfläche des Konstrukts. "Jetzt höre auf, 
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich habe eine andere Drohne getroffen, die behauptete, die Unvergleichliche zu sein."</DefaultText>
+      <DefaultText>„Ich habe eine andere Drohne getroffen, die behauptete, die Unvergleichliche zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Die anderen Drohnen dachten auch, dass sie die Unvergleichliche seien. Bist du sicher, dass du nicht bloß eine wahnhafte Kopie bist?"</DefaultText>
+      <DefaultText>„Die anderen Drohnen dachten auch, dass sie die Unvergleichliche seien. Bist du sicher, dass du nicht bloß eine wahnhafte Kopie bist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Natürlich dachte sie das", sagt das Konstrukt. "Das tun sie alle. Doch sie sind nur Kopien – Spiegel, die meine Ausstrahlung reflektieren! Ich bin die goldene Quelle, aus der sie alle entsprungen sind!"</DefaultText>
+      <DefaultText>„Natürlich dachte sie das“, sagt das Konstrukt. „Das tun sie alle. Doch sie sind nur Kopien – Spiegel, die meine Ausstrahlung reflektieren! Ich bin die goldene Quelle, aus der sie alle entsprungen sind!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Eine lächerliche und beleidigende Frage!", knurrt das Konstrukt. "Ich erinnere mich an die Geburt der Sterne! An die Erschaffung der Welt! Ich bin die Unvergleichliche, die Ewige!"</DefaultText>
+      <DefaultText>„Eine lächerliche und beleidigende Frage!“, knurrt das Konstrukt. „Ich erinnere mich an die Geburt der Sterne! An die Erschaffung der Welt! Ich bin die Unvergleichliche, die Ewige!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Lächerlich!", sagt die Drohne, doch sie klingt nicht mehr so selbstsicher.</DefaultText>
+      <DefaultText>„Lächerlich!“, sagt die Drohne, doch sie klingt nicht mehr so selbstsicher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich bin ziemlich sicher, dass du nur eine weitere Kopie der *wahren* Unvergleichlichen bist."</DefaultText>
+      <DefaultText>„Ich bin ziemlich sicher, dass du nur eine weitere Kopie der *wahren* Unvergleichlichen bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Nein, Fleischläufer. Ich kenne jetzt deine Absichten. Du wünscht, mich zu *zerstören*. Unser Gespräch ist *beendet*."</DefaultText>
+      <DefaultText>„Nein, Fleischläufer. Ich kenne jetzt deine Absichten. Du wünscht, mich zu *zerstören*. Unser Gespräch ist *beendet*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Natürlich sehe ich anders aus!", schnappt das Konstrukt. "Verglichen mit diesem baufälligen Habitat kann meine glorreiche Existenz um Zeitalter vordatiert werden!"</DefaultText>
+      <DefaultText>„Natürlich sehe ich anders aus!“, schnappt das Konstrukt. „Verglichen mit diesem baufälligen Habitat kann meine glorreiche Existenz um Zeitalter vordatiert werden!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Das ist das Problem mit euch Fleischläufern", spottet das Konstrukt. "Ihr seid besessen von Grundmechaniken. Ich bin die Unvergleichliche und überschreite die Beschränkungen dieses gebrochenen Körpers!"</DefaultText>
+      <DefaultText>„Das ist das Problem mit euch Fleischläufern“, spottet das Konstrukt. „Ihr seid besessen von Grundmechaniken. Ich bin die Unvergleichliche und überschreite die Beschränkungen dieses gebrochenen Körpers!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Tja", murmelt Aligern nach einem ruhigen Moment. "Zerstören wir dieses Ding. Zweimal, um sicherzugehen."</DefaultText>
+      <DefaultText>„Tja“, murmelt Aligern nach einem ruhigen Moment. „Zerstören wir dieses Ding. Zweimal, um sicherzugehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"So eine Leidenschaft", sagt sie lächelnd. "Herrlich."</DefaultText>
+      <DefaultText>„So eine Leidenschaft“, sagt sie lächelnd. „Herrlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ihr glaubt nicht, wie vielen Intelligenzen mit Wahnvorstellungen der Gottheit ich in meinem Leben schon begegnet bin", murmelt Matkina. "Können wir jetzt auf ihn drauftreten?"</DefaultText>
+      <DefaultText>„Ihr glaubt nicht, wie vielen Intelligenzen mit Wahnvorstellungen der Gottheit ich in meinem Leben schon begegnet bin“, murmelt Matkina. „Können wir jetzt auf ihn drauftreten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Das fühlt sich irgendwie komisch an", murmelt Tybir nach einem ruhigen Moment. "Lasst uns dieses hier aber nicht verkaufen. Ich glaube, wir sollten einen Stein darauf fallenlassen, um ehrlich zu sein. Einen größeren Stein."</DefaultText>
+      <DefaultText>„Das fühlt sich irgendwie komisch an“, murmelt Tybir nach einem ruhigen Moment. „Lasst uns dieses hier aber nicht verkaufen. Ich glaube, wir sollten einen Stein darauf fallenlassen, um ehrlich zu sein. Einen größeren Stein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Ich ... Er tut mir leid", flüstert sie. "Er ist so *klein*."</DefaultText>
+      <DefaultText>„Ich ... Er tut mir leid“, flüstert sie. „Er ist so *klein*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Der Bösewicht!", flüstert er. "Wir müssen diesem bösen Plan ein Ende setzen!"</DefaultText>
+      <DefaultText>„Der Bösewicht!“, flüstert er. „Wir müssen diesem bösen Plan ein Ende setzen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ihr! Materie aus Schleim und Eingeweiden! Ich, die Unvergleichliche, würde euch zerstören, wenn ich nicht gefesselt wäre."</DefaultText>
+      <DefaultText>„Ihr! Materie aus Schleim und Eingeweiden! Ich, die Unvergleichliche, würde euch zerstören, wenn ich nicht gefesselt wäre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -262,12 +262,12 @@ Ein gelbes Licht leuchtet auf der Oberfläche des Konstrukts. "Jetzt höre auf, 
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Dein Fleisch wird meine Servos beschmutzen, fauler-" Ein zufriedenstellendes Knacken erstickt die Schreie der Drohne, als dein Stiefel das Metallgehäuse pulverisiert.</DefaultText>
+      <DefaultText>„Dein Fleisch wird meine Servos beschmutzen, fauler-“ Ein zufriedenstellendes Knacken erstickt die Schreie der Drohne, als dein Stiefel das Metallgehäuse pulverisiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Die Hülle der Drohne hält deinem Angriff stand. "Schwach, wie alle Fleischläufer!"</DefaultText>
+      <DefaultText>Die Hülle der Drohne hält deinem Angriff stand. „Schwach, wie alle Fleischläufer!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
