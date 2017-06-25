@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Auf den ersten Blick scheint dieser Würfel aus Metall sehr einfach zu sein. Dann siehst du Licht, das von einer Myriade von winzigen silbrigen Schaltpulten reflektiert wird. Hinter ihnen ist ein kompliziertes Netzwerk aus Spulen und Federn. 
+      <DefaultText>Auf den ersten Blick scheint dieser Würfel aus Metall sehr einfach zu sein. Dann siehst du Licht, das von einer Myriade von winzigen silbrigen Schaltpulten reflektiert wird. Hinter ihnen ist ein kompliziertes Netzwerk aus Spulen und Federn.
 
 Darin rattert etwas.</DefaultText>
       <FemaleText />
@@ -38,11 +38,11 @@ Darin rattert etwas.</DefaultText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Du hebst den Würfel auf Augenhöhe und schüttelst ihn noch einmal. Darin bewegt sich nichts, allerdings hörst du wieder das Rattern eines darin gefangenen Objektes. 
+      <DefaultText>Du hebst den Würfel auf Augenhöhe und schüttelst ihn noch einmal. Darin bewegt sich nichts, allerdings hörst du wieder das Rattern eines darin gefangenen Objektes.
 
-Du spürst eine raue Stelle an der Kante deines Daumens. Als du den Würfel zur Seite drehst, erkennst du ein minutiös graviertes Diagramm - ein labyrinth-ähnliches Netzwerk aus Schaltkreisen. 
+Du spürst eine raue Stelle an der Kante deines Daumens. Als du den Würfel zur Seite drehst, erkennst du ein minutiös graviertes Diagramm - ein labyrinth-ähnliches Netzwerk aus Schaltkreisen.
 
-Dir sagt das nichts. Vielleicht kann sich einer der Experten für Maschinenbau in der Stadt  einen Reim darauf machen.</DefaultText>
+Dir sagt das nichts. Vielleicht kann sich einer der Experten für Maschinenbau in der Stadt einen Reim darauf machen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,9 +57,9 @@ Dir sagt das nichts. Vielleicht kann sich einer der Experten für Maschinenbau i
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Du hebst den Würfel auf Augenhöhe und schüttelst ihn noch einmal. Darin bewegt sich nichts, allerdings hörst du wieder das Rattern eines darin gefangenen Objektes. 
+      <DefaultText>Du hebst den Würfel auf Augenhöhe und schüttelst ihn noch einmal. Darin bewegt sich nichts, allerdings hörst du wieder das Rattern eines darin gefangenen Objektes.
 
-Du spürst eine raue Stelle an der Kante deines Daumens. Als du den Würfel zur Seite drehst, erkennst du ein minutiös graviertes Diagramm - ein Labyrinth Netzwerk aus Schaltkreisen. 
+Du spürst eine raue Stelle an der Kante deines Daumens. Als du den Würfel zur Seite drehst, erkennst du ein minutiös graviertes Diagramm - ein Labyrinth Netzwerk aus Schaltkreisen.
 
 Nein … es ist eine alte Maschinensprache, die du aus deinem Studium der antiken Technologien kennst. Da steht: "Für meine Tochter. Möge dieses Geschenk dir die Zeit vertreiben, bis ich wiederkomme - und ich komme wieder. Das verspreche ich."</DefaultText>
       <FemaleText />
@@ -111,16 +111,16 @@ Nein … es ist eine alte Maschinensprache, die du aus deinem Studium der antike
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Die Taste blockiert zunächst - sie wurde sicherlich seit Jahren nicht mehr gedrückt, wenn überhaupt. Aber als sie mit einem etwas besorgniserregenden *Schnappen* nachgibt, beginnt innen drin ein mechanisches Klicken, wie das Schlagen vieler weit entfernter Flügel. 
+      <DefaultText>Die Taste blockiert zunächst - sie wurde sicherlich seit Jahren nicht mehr gedrückt, wenn überhaupt. Aber als sie mit einem etwas besorgniserregenden *Schnappen* nachgibt, beginnt innen drin ein mechanisches Klicken, wie das Schlagen vieler weit entfernter Flügel.
 
-Sei verstummen und eine der Seiten gleitet weg - nicht in eine Fassung, sondern in die Nichtexistenz. Im Inneren ist ein dunkles Loch das von weiteren Wörtern umgeben ist - dieses Mal in Wahrheit. Vier nummerierte Tasten umgeben den Kreis wie die Punkte eines Kompasses. 
-{SOUND: 1. SCHNAPPEN.  2. Eine sanfte Serie mehrerer exakter Klicks. 3. Ein Kameraauslöser wird betätigt}</DefaultText>
+Sei verstummen und eine der Seiten gleitet weg - nicht in eine Fassung, sondern in die Nichtexistenz. Im Inneren ist ein dunkles Loch das von weiteren Wörtern umgeben ist - dieses Mal in Wahrheit. Vier nummerierte Tasten umgeben den Kreis wie die Punkte eines Kompasses.
+{SOUND: 1. SCHNAPPEN. 2. Eine sanfte Serie mehrerer exakter Klicks. 3. Ein Kameraauslöser wird betätigt}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Zahnräder surren erneut in dem Würfel und die Luke rutscht zur Seite und offenbart die Augenhöhle, die von einer Inschrift und vier Tasten mit Zahlen umgeben ist.   
-{SOUND: 1. SCHNAPPEN.  2. Eine sanfte Serie mehrerer exakter Klicks. 3. Ein Kameraauslöser wird betätigt}</DefaultText>
+      <DefaultText>Zahnräder surren erneut in dem Würfel und die Luke rutscht zur Seite und offenbart die Augenhöhle, die von einer Inschrift und vier Tasten mit Zahlen umgeben ist.
+{SOUND: 1. SCHNAPPEN. 2. Eine sanfte Serie mehrerer exakter Klicks. 3. Ein Kameraauslöser wird betätigt}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -140,7 +140,7 @@ Sei verstummen und eine der Seiten gleitet weg - nicht in eine Fassung, sondern 
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Lies die Inschrift. 
+      <DefaultText>Lies die Inschrift.
 {GAVIN: Iteration task: Add inscription and image to the root node after the puzzle is solved.}</DefaultText>
       <FemaleText />
     </Entry>
@@ -151,7 +151,7 @@ Sei verstummen und eine der Seiten gleitet weg - nicht in eine Fassung, sondern 
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Die Worte drehen sich in einer dünnen gravierten Schrift von der Augenhöhle weg.  
+      <DefaultText>Die Worte drehen sich in einer dünnen gravierten Schrift von der Augenhöhle weg.
 
 "Ich füge dem Geschenk eine Erinnerung aus glücklicheren Tagen bei. Sehe sie wie ich. Wiege sie in deinen Händen. Und ich sage dir hiermit, dass ich stolz auf dich bin und ich hoffe, du bist mir nicht mehr böse."</DefaultText>
       <FemaleText />
@@ -180,7 +180,7 @@ Sei verstummen und eine der Seiten gleitet weg - nicht in eine Fassung, sondern 
       <ID>33</ID>
       <DefaultText>Eine breite Szene wird durch das kleine Loch in dem winzigen Würfel auf mehrfarbigen Metallbildschirmen dargestellt.
 
-Ein junges Mädchen - sicher nicht älter als 15 - steht an einer Brüstung und schaut sich den Sonnenuntergang im Meer an. Sie dreht sich, um dich mit einer angehobenen Augenbraue anzusehen. Bronzefarbe leuchtet auf das Quartett aus goldenen Ohrringen, die ihr Ohr schmücken. Deine Hand liegt auf ihrer Schulter und sie hält deine Hand mit ihrer. 
+Ein junges Mädchen - sicher nicht älter als 15 - steht an einer Brüstung und schaut sich den Sonnenuntergang im Meer an. Sie dreht sich, um dich mit einer angehobenen Augenbraue anzusehen. Bronzefarbe leuchtet auf das Quartett aus goldenen Ohrringen, die ihr Ohr schmücken. Deine Hand liegt auf ihrer Schulter und sie hält deine Hand mit ihrer.
 
 Sie hat Angst, aber dein Anblick lässt sie lächeln.</DefaultText>
       <FemaleText />
@@ -299,9 +299,9 @@ Sie hat Angst, aber dein Anblick lässt sie lächeln.</DefaultText>
       <ID>61</ID>
       <DefaultText>::Klack::.
 
-Das Dach des Würfels  klappt weg und gibt das darin befindliche Geschenk frei - einen Ring, befreit von seiner Halterung. Vielleicht hat er sich von allein befreit. Oder die Tochter hat das Rätsel vor langer Zeit gelöst … und das Geschenk abgelehnt. 
+Das Dach des Würfels klappt weg und gibt das darin befindliche Geschenk frei - einen Ring, befreit von seiner Halterung. Vielleicht hat er sich von allein befreit. Oder die Tochter hat das Rätsel vor langer Zeit gelöst … und das Geschenk abgelehnt.
 
-Du nimmst den Ring aus seiner Halterung, steckst ihn ein und schließt den Würfel wieder. 
+Du nimmst den Ring aus seiner Halterung, steckst ihn ein und schließt den Würfel wieder.
 
 {LOOT: Sollte ein kleiner Gegenstand sein, den ein Vater seiner Tochter gibt, mit der er Seite an Seite im Kampf stand. Sollte nichts sein, das ihr schaden könnte. Vielleicht ein Ring (und den habe ich vorerst inkludiert).}</DefaultText>
       <FemaleText />
