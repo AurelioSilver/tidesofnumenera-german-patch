@@ -10,12 +10,12 @@
 
 Das Gerät wird warm in deiner Hand und die Kreatur öffnet übergroße Augen und schaut dich voller Liebe aber ehrfürchtig an.
 
-"Mrrr?"</DefaultText>
+„Mrrr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Mrrr!", sagt die Kreatur oben auf dem Gerät, voller Freude, dass sie wieder Licht sieht. Die Hände, die an jeder Seite herausstehen, wackeln ein klein wenig.</DefaultText>
+      <DefaultText>„Mrrr!“, sagt die Kreatur oben auf dem Gerät, voller Freude, dass sie wieder Licht sieht. Die Hände, die an jeder Seite herausstehen, wackeln ein klein wenig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,7 +45,7 @@ Das Gerät wird warm in deiner Hand und die Kreatur öffnet übergroße Augen un
       <ID>7</ID>
       <DefaultText>Du drückst die Hände an die Seiten des Geräts.
 
-"Eee", sagt die Kreatur, seine Augen weiten sich. Eine winzige Wölbung geht in seinem noch winzigeren Hals hoch. "Eee! Eee! BLARF."
+„Eee“, sagt die Kreatur, seine Augen weiten sich. Eine winzige Wölbung geht in seinem noch winzigeren Hals hoch. „Eee! Eee! BLARF.“
 
 Es spuckt eine rechteckige Tablette mit einem winzigen *Pfut* aus.
 
@@ -58,7 +58,7 @@ Es spuckt eine rechteckige Tablette mit einem winzigen *Pfut* aus.
       <ID>8</ID>
       <DefaultText>Du drückst noch einmal die Hände des Geräts.
 
-"Eee", murmelt die Kreatur und sieht bang aus. "Eee! Eeerg. Eeeragh." Ganze Fellstücke fallen ihr aus, aber sie macht unbeirrt weiter. "MrrraaaaaBLARF."
+„Eee“, murmelt die Kreatur und sieht bang aus. „Eee! Eeerg. Eeeragh.“ Ganze Fellstücke fallen ihr aus, aber sie macht unbeirrt weiter. „MrrraaaaaBLARF.“
 
 Sie spuckt eine zweite Tablette mit einem *Pfut* aus, starrt dich großäugig mit blankem Entsetzen an und stirbt in deinen Händen.
 {SOUND: High-pitched, cute versions of the barfing above.}
@@ -102,7 +102,7 @@ Sie spuckt eine zweite Tablette mit einem *Pfut* aus, starrt dich großäugig mi
       <ID>17</ID>
       <DefaultText>Du nimmst den Gegenstand hoch. Er riecht nach Früchten und lässt deine Haut prickeln. Du schaust zurück auf die Kreatur.
 
-"Mrrr!", sagt sie, ihre Augen schießen zwischen der Tablette und deinem Mund hin und her.
+„Mrrr!“, sagt sie, ihre Augen schießen zwischen der Tablette und deinem Mund hin und her.
 
 Offensichtlich sollst du sie essen.</DefaultText>
       <FemaleText />
@@ -147,10 +147,10 @@ Ohne Warnung *bricht* das Gerät auseinander und heraus strömt eine rosa Flüss
       <ID>28</ID>
       <DefaultText>Du fingerst halbherzig an den Nähten des Geräts rum bis du ein sprödes Schnappen von innen hörst.
 
-"Ak", sagt die tote Kreatur. Ihr kleiner Mund bewegt sich nicht. "Ak", sagt sie lauter.
+„Ak“, sagt die tote Kreatur. Ihr kleiner Mund bewegt sich nicht. „Ak“, sagt sie lauter.
 
-Dann schreit sie. "Ak! Ak! Ak! Ak!" Du hast gerade noch Zeit, darüber nachzudenken, was das Wort bedeutet, als das Gerät in deiner Hand explodiert. Es war offensichtlich ein Alarmsignal.
-{SOUND: "Ak" rising in volume and tempo}
+Dann schreit sie. „Ak! Ak! Ak! Ak!“ Du hast gerade noch Zeit, darüber nachzudenken, was das Wort bedeutet, als das Gerät in deiner Hand explodiert. Es war offensichtlich ein Alarmsignal.
+{SOUND: „Ak“ rising in volume and tempo}
 {SCRIPT: Increases character Might pool by one}
 {SCRIPT: Removes dispenser from inventory.}
 {SCRIPT: Flash of light centered on PC.}</DefaultText>
@@ -163,18 +163,18 @@ Dann schreit sie. "Ak! Ak! Ak! Ak!" Du hast gerade noch Zeit, darüber nachzuden
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Wie heißt du?"
+      <DefaultText>„Wie heißt du?“
 {GAVIN: Is item_c4411_candydispenser_HeadIsDead=0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Könnt ihr sprechen?"</DefaultText>
+      <DefaultText>„Könnt ihr sprechen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Mrrr", antwortet die Kreatur, und reibt seinen felligen Kopf gegen deinen Daumen.</DefaultText>
+      <DefaultText>„Mrrr“, antwortet die Kreatur, und reibt seinen felligen Kopf gegen deinen Daumen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
