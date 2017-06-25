@@ -11,16 +11,12 @@
 Sechs Randtasten umgeben die geschnitzten Tasten, jeweils mit einem Pfeil versehen, der von der Mitte weg zeigt. Das kleine Feld in der Mitte leuchtet ebenfalls.
 
 Wenn du die beleuchteten Symbole richtig deutest, befindest du dich derzeit im Grabmal [Backer Tomb Address].</DefaultText>
-      <FemaleText>Es gibt fünf Tasten, jeweils mit einer eingravierten Zahl.
-
-Sechs Randtasten umgeben die geschnitzten Tasten, jeweils mit einem Pfeil versehen, der von der Mitte weg zeigt. Das kleine Feld in der Mitte leuchtet ebenfalls.
-
-Wenn du die beleuchteten Symbole richtig deutest, befindest du dich derzeit im Grabmal [Backer Tomb Address].</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Drücke eine der mit einem Pfeil versehenen Tasten.</DefaultText>
-      <FemaleText>Drücke eine der mit einem Pfeil versehenen Tasten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -35,42 +31,42 @@ Wenn du die beleuchteten Symbole richtig deutest, befindest du dich derzeit im G
     <Entry>
       <ID>5</ID>
       <DefaultText>Du drückst die mittlere Taste und spürst deine Haut kitzeln. Ein Energiefeld umgibt dich und das gleiche angespannte, saugende Gefühl wie zuvor zerrt an deinen Gedärmen.</DefaultText>
-      <FemaleText>Du drückst die mittlere Taste und spürst deine Haut kitzeln. Ein Energiefeld umgibt dich und das gleiche angespannte, saugende Gefühl wie zuvor zerrt an deinen Gedärmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Die äußeren sechs leuchtenden Tasten umrahmen die inneren Segmente, wobei jede Taste auf eine Seite eines Feldes ausgerichtet ist. Jede Taste ist mit einem Pfeil versehen, der nach außen zeigt.</DefaultText>
-      <FemaleText>Die äußeren sechs leuchtenden Tasten umrahmen die inneren Segmente, wobei jede Taste auf eine Seite eines Feldes ausgerichtet ist. Jede Taste ist mit einem Pfeil versehen, der nach außen zeigt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Drücke die obere Taste mit dem nach oben gerichteten Pfeil.</DefaultText>
-      <FemaleText>Drücke die obere Taste mit dem nach oben gerichteten Pfeil.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>Drücke die obere rechte Taste mit dem nach rechts oben gerichteten Pfeil.</DefaultText>
-      <FemaleText>Drücke die obere rechte Taste mit dem nach rechts oben gerichteten Pfeil.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>Drücke die untere rechte Taste mit dem nach rechts unten gerichteten Pfeil.</DefaultText>
-      <FemaleText>Drücke die untere rechte Taste mit dem nach rechts unten gerichteten Pfeil.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Drücke die untere Taste mit dem nach unten gerichteten Pfeil.</DefaultText>
-      <FemaleText>Drücke die untere Taste mit dem nach unten gerichteten Pfeil.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Drücke die untere linke Taste mit dem nach links unten gerichteten Pfeil.</DefaultText>
-      <FemaleText>Drücke die untere linke Taste mit dem nach links unten gerichteten Pfeil.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Drücke die obere linke Taste mit dem nach links oben gerichteten Pfeil.</DefaultText>
-      <FemaleText>Drücke die obere linke Taste mit dem nach links oben gerichteten Pfeil.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
@@ -85,7 +81,7 @@ Wenn du die beleuchteten Symbole richtig deutest, befindest du dich derzeit im G
     <Entry>
       <ID>15</ID>
       <DefaultText>Sobald du die Taste drückst, umgibt dich ein Energiefeld. Du spürst das gleiche angespannte, saugende Gefühl an deinen Gedärmen, und dann ...</DefaultText>
-      <FemaleText>Sobald du die Taste drückst, umgibt dich ein Energiefeld. Du spürst das gleiche angespannte, saugende Gefühl an deinen Gedärmen, und dann ...</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -115,151 +111,149 @@ Wenn du die beleuchteten Symbole richtig deutest, befindest du dich derzeit im G
     <Entry>
       <ID>21</ID>
       <DefaultText>Gib irgendeinen anderen Code ein.</DefaultText>
-      <FemaleText>Gib irgendeinen anderen Code ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Fünf Tasten sind auf dem zentralen Feld aneinander gereiht. Eine nicht entzifferbare Anzeige glüht an der Unterseite, an der sonst eine sechste Taste wäre.
 
 Eine Zahl wurde jeweils grob in die Oberfläche der fünf Tasten graviert.</DefaultText>
-      <FemaleText>Fünf Tasten sind auf dem zentralen Feld aneinander gereiht. Eine nicht entzifferbare Anzeige glüht an der Unterseite, an der sonst eine sechste Taste wäre.
-
-Eine Zahl wurde jeweils grob in die Oberfläche der fünf Tasten graviert.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 1.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 1.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 2.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 2.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 3.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 3.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 4.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 4.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Eines der angrenzenden Felder leuchtet und zeigt deine Wahl an.</DefaultText>
-      <FemaleText>Eines der angrenzenden Felder leuchtet und zeigt deine Wahl an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 1.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 1.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 2.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 2.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 3.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 3.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 4.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 4.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Ein Licht leuchtet auf einem zweiten Feld.</DefaultText>
-      <FemaleText>Ein Licht leuchtet auf einem zweiten Feld.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 1.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 1.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 2.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 2.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 3.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 3.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 4.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 4.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>Das dritte Feld leuchtet auf, um deine Auswahl anzuzeigen.</DefaultText>
-      <FemaleText>Das dritte Feld leuchtet auf, um deine Auswahl anzuzeigen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 1.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 1.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 2.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 2.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 3.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 3.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 4.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 4.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>Als das vierte Feld beleuchtet wird, bildet sich ein Energiefeld um dich herum und du fühlst das gleiche angespannte, saugende Gefühl an deinen Gedärmen.</DefaultText>
-      <FemaleText>Als das vierte Feld beleuchtet wird, bildet sich ein Energiefeld um dich herum und du fühlst das gleiche angespannte, saugende Gefühl an deinen Gedärmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 5.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 5.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 5.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 5.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 5.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 5.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>Drücke die Taste mit der eingravierten 5.</DefaultText>
-      <FemaleText>Drücke die Taste mit der eingravierten 5.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>Sieh dir die anderen Tasten an.</DefaultText>
-      <FemaleText>Sieh dir die anderen Tasten an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>Drücke die Tasten zufällig.</DefaultText>
-      <FemaleText>Drücke die Tasten zufällig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>Du drückst die Tasten in keiner besonderen Reihenfolge, nur um zu sehen, was geschieht. Nachdem jede Taste gedrückt wurde, erscheint ein Symbol auf dem mittleren Feld.</DefaultText>
-      <FemaleText>Du drückst die Tasten in keiner besonderen Reihenfolge, nur um zu sehen, was geschieht. Nachdem jede Taste gedrückt wurde, erscheint ein Symbol auf dem mittleren Feld.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -299,107 +293,107 @@ Eine Zahl wurde jeweils grob in die Oberfläche der fünf Tasten graviert.</Fema
     <Entry>
       <ID>59</ID>
       <DefaultText>Gib den Code zu einem Ort ein, den du bereits kennst.</DefaultText>
-      <FemaleText>Gib den Code zu einem Ort ein, den du bereits kennst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
       <DefaultText>Du versuchst, dich an die Codes zu beliebigen Orten, die du kennst, zu erinnern.</DefaultText>
-      <FemaleText>Du versuchst, dich an die Codes zu beliebigen Orten, die du kennst, zu erinnern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
       <DefaultText>Gib den Code zu Oddwalds Bleibe ein.</DefaultText>
-      <FemaleText>Gib den Code zu Oddwalds Bleibe ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
       <DefaultText>Gib den Code für das Grabmal der Ersten Verstoßenen ein.</DefaultText>
-      <FemaleText>Gib den Code für das Grabmal der Ersten Verstoßenen ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>Gib den Code für Chois Grabmal ein.</DefaultText>
-      <FemaleText>Gib den Code für Chois Grabmal ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
       <DefaultText>Gib den Code für Ronos Cai'suls Grabmal ein.</DefaultText>
-      <FemaleText>Gib den Code für Ronos Cai'suls Grabmal ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
       <DefaultText>Gib den Code für Marcysas Grabmal ein.</DefaultText>
-      <FemaleText>Gib den Code für Marcysas Grabmal ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
       <DefaultText>Du drückst die Tasten 5-1-4-3. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
-      <FemaleText>Du drückst die Tasten 5-1-4-3. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
       <DefaultText>Du drückst die Tasten 3-4-3-1. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
-      <FemaleText>Du drückst die Tasten 3-4-3-1. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
       <DefaultText>Du drückst die Tasten 4-2-2-1. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
-      <FemaleText>Du drückst die Tasten 4-2-2-1. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
       <DefaultText>Du drückst die Tasten 2-4-1-3. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
-      <FemaleText>Du drückst die Tasten 2-4-1-3. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
       <DefaultText>Du drückst die Tasten 1-2-5-4. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
-      <FemaleText>Du drückst die Tasten 1-2-5-4. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
       <DefaultText>Drücke die Tasten zufällig.</DefaultText>
-      <FemaleText>Drücke die Tasten zufällig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>Du drückst die Tasten in keiner besonderen Reihenfolge. Nachdem jede Taste gedrückt wurde, leuchtet ein angrenzendes Feld auf.</DefaultText>
-      <FemaleText>Du drückst die Tasten in keiner besonderen Reihenfolge. Nachdem jede Taste gedrückt wurde, leuchtet ein angrenzendes Feld auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
       <DefaultText>Vielleicht kannst du etwas mit dieser anderen Steuerung anfangen.</DefaultText>
-      <FemaleText>Vielleicht kannst du etwas mit dieser anderen Steuerung anfangen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
       <DefaultText>Gib den Code zum Betreten von Phönix' Marker ein.</DefaultText>
-      <FemaleText>Gib den Code zum Betreten von Phoenix' Marker ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
       <DefaultText>Du drückst die Tasten 1-5-3-5. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
-      <FemaleText>Du drückst die Tasten 1-5-3-5. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
       <DefaultText>Gib den Code für die Endlose Pforte ein.</DefaultText>
-      <FemaleText>Gib den Code für die Endlose Pforte ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
       <DefaultText>Gib den Code sowohl für die Endlose Pforte als auch für Marcysas Grabmal ein.</DefaultText>
-      <FemaleText>Gib den Code sowohl für die Endlose Pforte als auch für Marcysas Grabmal ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
       <DefaultText>Gib den Code für das Grabmal mit dem Saiteninstrument ein.</DefaultText>
-      <FemaleText>Gib den Code für das Grabmal mit dem Saiteninstrument ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
       <DefaultText>Du drückst die Tasten 3-5-4-3. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
-      <FemaleText>Du drückst die Tasten 3-5-4-3. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
@@ -409,17 +403,17 @@ Eine Zahl wurde jeweils grob in die Oberfläche der fünf Tasten graviert.</Fema
     <Entry>
       <ID>81</ID>
       <DefaultText>Drücke die mittlere Feldtaste.</DefaultText>
-      <FemaleText>Drücke die mittlere Feldtaste.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
       <DefaultText>Kehre zum Eingang der Nekropole zurück.</DefaultText>
-      <FemaleText>Kehre zum Eingang der Nekropole zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
       <DefaultText>Gib den Code für das blutige Grabmal mit dem Portal ein.</DefaultText>
-      <FemaleText>Gib den Code für das blutige Grabmal mit dem Portal ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
@@ -428,31 +422,27 @@ Eine Zahl wurde jeweils grob in die Oberfläche der fünf Tasten graviert.</Fema
 Sechs Randtasten umgeben die beleuchteten Tasten mit den Gravierungen. Jede dieser Taste ist mit einem Pfeil versehen, der von der Mitte weg zeigt.
 
 Das kleine Feld in der Mitte leuchtet ebenfalls.</DefaultText>
-      <FemaleText>Die Konsole hier ähnelt der am Eingang zur Nekropole. Es gibt fünf Tasten, jede mit einer eingravierten Zahl (gravierte die Memorialistin diese Zahlen in jedes Grabmal?), doch es gibt auch noch andere Tasten.
-
-Sechs Randtasten umgeben die beleuchteten Tasten mit den Gravierungen. Jede dieser Taste ist mit einem Pfeil versehen, der von der Mitte weg zeigt.
-
-Das kleine Feld in der Mitte leuchtet ebenfalls.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
       <DefaultText>Versuche es mit der Zahl, die sich in der Notiz der toten Memorialistin namens "Najma" befand.</DefaultText>
-      <FemaleText>Versuche es mit der Zahl, die sich in der Notiz der toten Memorialistin namens "Najma" befand.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
       <DefaultText>Du drückst die Tasten 4-1-3-5. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
-      <FemaleText>Du drückst die Tasten 4-1-3-5. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>Gib den Code für Najmas Grabmal ein.</DefaultText>
-      <FemaleText>Gib den Code für Najmas Grabmal ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
       <DefaultText>Wenn du die beleuchteten Symbole richtig deutest, befindest du dich derzeit im Grabmal [Backer Tomb Address].</DefaultText>
-      <FemaleText>Wenn du die beleuchteten Symbole richtig deutest, befindest du dich derzeit im Grabmal [Backer Tomb Address].</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
