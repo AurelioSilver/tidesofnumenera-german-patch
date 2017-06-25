@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Die lichtdurchlässige Kreatur schwebt träge durch die Luft vor deinem Gesicht. Ohne offensichtliche Organe, intern oder extern, siehst du zunächst keine Möglichkeit, mit dieser Kreatur zu interagieren.  Erst nach einiger Zeit des Nachdenkens fällt dir auf, dass sie perfekt um einen menschlichen Kopf herum passen würde.</DefaultText>
+      <DefaultText>Die lichtdurchlässige Kreatur schwebt träge durch die Luft vor deinem Gesicht. Ohne offensichtliche Organe, intern oder extern, siehst du zunächst keine Möglichkeit, mit dieser Kreatur zu interagieren. Erst nach einiger Zeit des Nachdenkens fällt dir auf, dass sie perfekt um einen menschlichen Kopf herum passen würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,7 +152,7 @@ Nach einer endlos langen Zeit, schaut er wieder zu dir zurück. "Du magst Fragen
       <ID>39</ID>
       <DefaultText>Ohne zu zögern durchwühlt Urmpfh? deine Sachen. Seltsamerweise scheint sie sich nur für das nicht funktionierende Numenera zu interessieren.
 
-Es blickt nach oben  mit einem deprimierten, fast beleidigten Blick. "Nicht genug. Man darf nur so viele kaufen, wie Sterne da sind." Als sie das sagt, erscheinen zehn Sterne über dem Kopf.
+Es blickt nach oben mit einem deprimierten, fast beleidigten Blick. "Nicht genug. Man darf nur so viele kaufen, wie Sterne da sind." Als sie das sagt, erscheinen zehn Sterne über dem Kopf.
 
 {SCRIPT: plays if player has less than ten oddities}</DefaultText>
       <FemaleText />
