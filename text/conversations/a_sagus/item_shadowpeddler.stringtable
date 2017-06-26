@@ -48,7 +48,7 @@
       <ID>9</ID>
       <DefaultText>Einen Augenblick später schießt eine kleine Kreatur mit einem riesigen Kopf aus dem Boden vor dir. Ihre großen Augen mit mehreren Pupillen starren dich ungerührt an, ihr mit Tentakeln versehenes Maul versucht, verschiedene Geräusche zu erzeugen, um mit dir zu kommunizieren.
 
-Nach einiger Zeit nickt sie dir brüsk zu. "Mein Name ist ‚Urmpfh?‘." Der fragende Ton scheint zum Namen zu gehören.</DefaultText>
+Nach einiger Zeit nickt sie dir brüsk zu. „Mein Name ist ‚Urmpfh?‘.“ Der fragende Ton scheint zum Namen zu gehören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,12 +63,12 @@ Nach einiger Zeit nickt sie dir brüsk zu. "Mein Name ist ‚Urmpfh?‘." Der fr
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Verkaufst du?" Urmpfh?s Tentakeln schlängeln sich vor Freude. "Ich verkaufe … kaufe irgendeine deiner … Numenera?"</DefaultText>
+      <DefaultText>„Verkaufst du?“ Urmpfh?s Tentakeln schlängeln sich vor Freude. „Ich verkaufe … kaufe irgendeine deiner … Numenera?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ich habe einige Numenera zu verkaufen."</DefaultText>
+      <DefaultText>„Ich habe einige Numenera zu verkaufen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,12 +78,12 @@ Nach einiger Zeit nickt sie dir brüsk zu. "Mein Name ist ‚Urmpfh?‘." Der fr
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Dein Name ist Urmpfh??"</DefaultText>
+      <DefaultText>„Dein Name ist Urmpfh??“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Wie lautet dein Name nochmal?"</DefaultText>
+      <DefaultText>„Wie lautet dein Name nochmal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,12 +93,12 @@ Nach einiger Zeit nickt sie dir brüsk zu. "Mein Name ist ‚Urmpfh?‘." Der fr
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Wo bin ich?"</DefaultText>
+      <DefaultText>„Wo bin ich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Bist du sicher, dass du mir nicht sagen kannst, wo ich bin?"</DefaultText>
+      <DefaultText>„Bist du sicher, dass du mir nicht sagen kannst, wo ich bin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@ Nach einiger Zeit nickt sie dir brüsk zu. "Mein Name ist ‚Urmpfh?‘." Der fr
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Nein? Ja. Danke. Urmpfh? War schon immer mein Name."</DefaultText>
+      <DefaultText>„Nein? Ja. Danke. Urmpfh? War schon immer mein Name.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,14 +118,14 @@ Nach einiger Zeit nickt sie dir brüsk zu. "Mein Name ist ‚Urmpfh?‘." Der fr
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Meinst du nicht, dass es komisch ist, ein Fragewort als Name zu haben?</DefaultText>
+      <DefaultText>„Meinst du nicht, dass es komisch ist, ein Fragewort als Name zu haben?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Urmpfh? starrt in den schwarzen Himmel und scheint über deine Frage genau nachzudenken.
 
-Nach einer endlos langen Zeit schaut er wieder zu dir zurück. "Du magst Fragen." Er stimmt sich selbst zu und ist offensichtlich vollkommen zufrieden mit dieser Antwort.</DefaultText>
+Nach einer endlos langen Zeit schaut er wieder zu dir zurück. „Du magst Fragen.“ Er stimmt sich selbst zu und ist offensichtlich vollkommen zufrieden mit dieser Antwort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -135,7 +135,7 @@ Nach einer endlos langen Zeit schaut er wieder zu dir zurück. "Du magst Fragen.
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Selbst wenn ich es dir sage, würdest du es nicht wissen."</DefaultText>
+      <DefaultText>„Selbst wenn ich es dir sage, würdest du es nicht wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,7 +152,7 @@ Nach einer endlos langen Zeit schaut er wieder zu dir zurück. "Du magst Fragen.
       <ID>39</ID>
       <DefaultText>Ohne zu zögern durchwühlt Urmpfh? deine Sachen. Seltsamerweise scheint sie sich nur für das nicht funktionierende Numenera zu interessieren.
 
-Es blickt nach oben mit einem deprimierten, fast beleidigten Blick. "Nicht genug. Man darf nur so viele kaufen, wie Sterne da sind." Als sie das sagt, erscheinen zehn Sterne über dem Kopf.
+Es blickt nach oben mit einem deprimierten, fast beleidigten Blick. „Nicht genug. Man darf nur so viele kaufen, wie Sterne da sind.“ Als sie das sagt, erscheinen zehn Sterne über dem Kopf.
 
 {SCRIPT: plays if player has less than ten oddities}</DefaultText>
       <FemaleText />
@@ -161,19 +161,19 @@ Es blickt nach oben mit einem deprimierten, fast beleidigten Blick. "Nicht genug
       <ID>40</ID>
       <DefaultText>Ohne zu zögern durchwühlt Urmpfh? deine Sachen. Seltsamerweise scheint sie sich nur für das nicht funktionierende Numenera zu interessieren.
 
-Sie nickt zufrieden. "Kaufe so viele, wie Sterne da sind." Als sie das sagt, erscheinen zehn Sterne über dem Kopf.
+Sie nickt zufrieden. „Kaufe so viele, wie Sterne da sind.“ Als sie das sagt, erscheinen zehn Sterne über dem Kopf.
 
 {SCRIPT: plays if player has ten or more oddities}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Na gut, dann nimm die zehn wertvollsten."</DefaultText>
+      <DefaultText>„Na gut, dann nimm die zehn wertvollsten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ich glaube nicht, dass ich dir jetzt welche verkaufe."</DefaultText>
+      <DefaultText>„Ich glaube nicht, dass ich dir jetzt welche verkaufe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -185,7 +185,7 @@ Sie nickt zufrieden. "Kaufe so viele, wie Sterne da sind." Als sie das sagt, ers
       <ID>46</ID>
       <DefaultText>Schnell wählt Urmpfh? zehn Kuriositäten aus deinem Rucksack und tanzt aufgeregt auf der Stelle und wirft die Numenera in die Luft, wo sie sofort verschwinden.
 
-"Das taugt gut." Ein großer Haufen Shin wächst in Urmpfh?s Händen heran, den er dann in deinen Rucksack steckt, bevor er ihn dir wieder zurückgibt. "Geschäft erfolgreich abgeschlossen."
+„Das taugt gut.“ Ein großer Haufen Shin wächst in Urmpfh?s Händen heran, den er dann in deinen Rucksack steckt, bevor er ihn dir wieder zurückgibt. „Geschäft erfolgreich abgeschlossen.“
 
 {SCRIPT: removes ten most valuable oddities from inventory, adds 150% of full value in shins to inventory}
 {SCRIPT: I'm open to different ways to do this, perhaps it can open up a barter interface but limit what the player can sell or how much shins Urmpfh has? Maybe it'd be easier to do with cyphers. Whichever way it's easiest to do, design can be flexible}</DefaultText>
@@ -193,12 +193,12 @@ Sie nickt zufrieden. "Kaufe so viele, wie Sterne da sind." Als sie das sagt, ers
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Danke, Urmpfh?."</DefaultText>
+      <DefaultText>„Danke, Urmpfh?.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Du bist ein komischer Kerl, Urmpfh?."</DefaultText>
+      <DefaultText>„Du bist ein komischer Kerl, Urmpfh?.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
