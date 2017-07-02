@@ -7,27 +7,27 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Am Ende der Plattform hängt der Nychthemeron faul in der Luft. Als du dich näherst, verspannt sich die Kreatur und richtet sich in deine Richtung aus. Ihre Tentakel peitschen in stumpfsinniger Wut vor und zurück.</DefaultText>
-      <FemaleText>Am Ende der Plattform hängt der Nychthemeron faul in der Luft. Als du dich näherst, verspannt sich die Kreatur und richtet sich in deine Richtung aus. Ihre Tentakel peitschen in stumpfsinniger Wut vor und zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Greife den Nychthemeron an.</DefaultText>
-      <FemaleText>Greife den Nychthemeron an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Gib deinen Handlangern ein Zeichen und greife den Nychthemeron an.</DefaultText>
-      <FemaleText>Gib deinen Handlangern ein Zeichen und greife den Nychthemeron an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Weiche zurück.</DefaultText>
-      <FemaleText>Weiche zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Der Nychthemeron spürt erneut deine Annäherung. Seine Tentakel peitschen umher und er bebt vor stumpfsinniger Wut.</DefaultText>
-      <FemaleText>Der Nychthemeron spürt erneut deine Annäherung. Seine Tentakel peitschen umher und er bebt vor stumpfsinniger Wut.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
