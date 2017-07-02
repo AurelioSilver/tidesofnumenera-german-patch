@@ -17,17 +17,17 @@
     <Entry>
       <ID>3</ID>
       <DefaultText>Die verchromte Säule steigt herab, als du dich näherst, und legt einen langen Schaft frei, der von umschlingenden Kabeln umringt ist. Trübes Licht flimmert von unten.</DefaultText>
-      <FemaleText>Die verchromte Säule steigt herab, als du dich näherst, und legt einen langen Schaft frei, der von umschlingenden Kabeln umringt ist. Trübes Licht flimmert von unten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Klettere hinunter.</DefaultText>
-      <FemaleText>Klettere hinunter.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Tritt zurück.</DefaultText>
-      <FemaleText>Tritt zurück.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
