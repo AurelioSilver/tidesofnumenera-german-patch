@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>[Tut mir leid, Chef]</DefaultText>
-      <FemaleText>[Tut mir leid, Chef]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>[He, du gehst nirgendwo hin]</DefaultText>
-      <FemaleText>[He, du gehst nirgendwo hin]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>[Komm her!]</DefaultText>
-      <FemaleText>[Komm her!]</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
