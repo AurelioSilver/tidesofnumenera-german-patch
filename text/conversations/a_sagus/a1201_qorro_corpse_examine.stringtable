@@ -37,17 +37,17 @@
     <Entry>
       <ID>7</ID>
       <DefaultText>Der in Qorros Arm implantierte Apparat zwitschert. Es fühlt sich an, als würde das Zwitschern eindringlicher werden.</DefaultText>
-      <FemaleText>Der in Qorros Arm implantierte Apparat zwitschert. Es fühlt sich an, als würde das Zwitschern eindringlicher werden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>Das Zwitschern des Apparats wird definitiv lauter und häufiger. Einer nach dem anderen leuchten allmählich Glühstäbe auf dem Apparat auf.</DefaultText>
-      <FemaleText>Das Zwitschern des Apparats wird definitiv lauter und häufiger. Einer nach dem anderen leuchten allmählich Glühstäbe auf dem Apparat auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>Der Apparat ist so tot wie Qorro.</DefaultText>
-      <FemaleText>Der Apparat ist so tot wie Qorro.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
