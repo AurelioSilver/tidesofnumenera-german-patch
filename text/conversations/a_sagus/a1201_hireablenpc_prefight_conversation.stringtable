@@ -17,17 +17,17 @@
     <Entry>
       <ID>3</ID>
       <DefaultText>"Der Nychthemeron ist angekommen. Ich bin bereit, wenn du es bist."</DefaultText>
-      <FemaleText>"Der Nychthemeron ist angekommen. Ich bin bereit, wenn du es bist."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Deine Beschreibung zollt diesem herrlichen Monster kaum Respekt, mein Freund. Ich stehe bereit, um dir zu helfen!"</DefaultText>
-      <FemaleText>"Deine Beschreibung zollt diesem herrlichen Monster kaum Respekt, mein Freund. Ich stehe bereit, um dir zu helfen!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>"Ist es an der Zeit, den Nychthemeron zu bekämpfen? Die Zeit ist gekommen, nicht wahr? Ich bin bereit, wenn du es bist!"</DefaultText>
-      <FemaleText>"Ist es an der Zeit, den Nychthemeron zu bekämpfen? Die Zeit ist gekommen, nicht wahr? Ich bin bereit, wenn du es bist!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -107,17 +107,17 @@
     <Entry>
       <ID>27</ID>
       <DefaultText>"Ist es an der Zeit, den Nychthemeron zu bekämpfen? Die Zeit ist gekommen, nicht wahr? Wir sind bereit, wenn du es bist!"</DefaultText>
-      <FemaleText>"Ist es an der Zeit, den Nychthemeron zu bekämpfen? Die Zeit ist gekommen, nicht wahr? Wir sind bereit, wenn du es bist!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>"Der Nychthemeron ist angekommen. Wir sind bereit, wenn du es bist."</DefaultText>
-      <FemaleText>"Der Nychthemeron ist angekommen. Wir sind bereit, wenn du es bist."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>"Deine Beschreibung zollt diesem herrlichen Monster kaum Respekt, mein Freund. Wir stehen bereit, um dir zu helfen!"</DefaultText>
-      <FemaleText>"Deine Beschreibung zollt diesem herrlichen Monster kaum Respekt, mein Freund. Wir stehen bereit, um dir zu helfen!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
