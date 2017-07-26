@@ -17,8 +17,8 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>Er verbeugt sich steif und stockend. Dann fährt er blitzschnell die Hand aus und bevor du reagieren kannst wischt er ein Staubkorn von deiner Kleidung.
- 
- „Ich bin Klin'Kar. Dies sind meine Partner. Du bist im Tal der Toten Helden.“ Sein Lächeln offenbart blutige spitze Zähne. „Zwei Memorialisten sind uns entkommen. Du wirst sie finden. Wir *brauchen* sie.“</DefaultText>
+
+„Ich bin Klin'Kar. Dies sind meine Partner. Du bist im Tal der Toten Helden.“ Sein Lächeln offenbart blutige spitze Zähne. „Zwei Memorialisten sind uns entkommen. Du wirst sie finden. Wir *brauchen* sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -54,8 +54,8 @@
     <Entry>
       <ID>15</ID>
       <DefaultText>Er zischt dich an. „Dendra-Abschaum! Willst *mir* Vorschriften machen?“
- 
- Doch den Blick auf deine Tätowierung geheftet hebt er langsam die Hände. Die anderen beiden machen es ihm nach.</DefaultText>
+
+Doch den Blick auf deine Tätowierung geheftet hebt er langsam die Hände. Die anderen beiden machen es ihm nach.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,8 +106,8 @@
     <Entry>
       <ID>25</ID>
       <DefaultText>Er hält einen Finger hoch, wie um dir zu drohen. Dann erst begreift er, was du gesagt hast.
- 
- „… Oh. In diesem Fall … sind wir für die Hilfe dankbar. Die Memorialisten sind ganz in der Nähe. Wir können sie *riechen*. Finde sie und bringe sie zu uns.“</DefaultText>
+
+„… Oh. In diesem Fall … sind wir für die Hilfe dankbar. Die Memorialisten sind ganz in der Nähe. Wir können sie *riechen*. Finde sie und bringe sie zu uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,11 +123,11 @@
     <Entry>
       <ID>28</ID>
       <DefaultText>Er öffnet den Mund und sein Blick bleibt wieder auf deiner Tätowierung hängen. Er macht den Mund schnell wieder zu und hebt die Hände. Er macht einen Schritt zurück und deutet seinen Partnern, es ihm gleichzutun.
- 
- Er flüstert zu den anderen beiden: „Er trägt die Tätowierung unseres Herren. Lasst ihn passieren.“</DefaultText>
+
+Er flüstert zu den anderen beiden: „Er trägt die Tätowierung unseres Herren. Lasst ihn passieren.“</DefaultText>
       <FemaleText>Er öffnet den Mund und sein Blick bleibt wieder auf deiner Tätowierung hängen. Er macht den Mund schnell wieder zu und hebt die Hände. Er macht einen Schritt zurück und deutet seinen Partnern, es ihm gleichzutun.
- 
- Er flüstert zu den anderen beiden: „Sie trägt die Tätowierung unseres Herren. Lasst sie passieren.“</FemaleText>
+
+Er flüstert zu den anderen beiden: „Sie trägt die Tätowierung unseres Herren. Lasst sie passieren.“</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
@@ -262,7 +262,7 @@
     <Entry>
       <ID>60</ID>
       <DefaultText>„Ich ziehe dir das Fell über die Ohren und das Fleisch von den Knochen und befreie dein Licht für die Endlose Pforte!“
- {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan – if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5 and despawn Klinkar and his two goons. Spawn in Memorialists}</DefaultText>
+{TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan – if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5 and despawn Klinkar and his two goons. Spawn in Memorialists}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -417,9 +417,9 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>„Du kannst mir nicht drohen, Dendra-Made! Du…“ Er verstummt, den Blick auf deine Tätowierung geheftet. 
- 
- Er hebt die Arme und tritt zurück. „Ich erkenne deine Verbindung mit unserem Gründer an und werde dich daher verschonen. Diesmal.“</DefaultText>
+      <DefaultText>„Du kannst mir nicht drohen, Dendra-Made! Du…“ Er verstummt, den Blick auf deine Tätowierung geheftet.
+
+Er hebt die Arme und tritt zurück. „Ich erkenne deine Verbindung mit unserem Gründer an und werde dich daher verschonen. Diesmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,8 +451,8 @@
     <Entry>
       <ID>98</ID>
       <DefaultText>Er mustert dich gründlich, sucht dein Gesicht nach Anzeichen dafür ab, dass du bluffst. „Dendra-Made. Eines Tages erwischen wir dich alleine und dann wirst du für deine vorlauten Worte bezahlen. Bis dahin… hüte dich vor Schatten in der Nacht.“
- 
- Die drei schleichen davon.</DefaultText>
+
+Die drei schleichen davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,19 +522,19 @@
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>„Wie schade. Dann muss eben dein Blut vergossen werden. Mir ist das gleich.“ 
- 
- Sie ziehen ihre Waffen, bereit zum Angriff.
+      <DefaultText>„Wie schade. Dann muss eben dein Blut vergossen werden. Mir ist das gleich.“
+
+Sie ziehen ihre Waffen, bereit zum Angriff.
  {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan – if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
       <DefaultText>Beltrax fährt den Arm aus und glitzernder Staub hüllt seinen Begleiter Ronos ein. Als der Staub sich verzieht, ist Ronos verschwunden.
- 
- „Du willst kämpfen? Nun gut. Auch wenn mir der Kampf nicht ganz fair erscheint.“
- 
- Die Kultisten umzingeln dich. Ihre Klingen blitzen.</DefaultText>
+
+„Du willst kämpfen? Nun gut. Auch wenn mir der Kampf nicht ganz fair erscheint.“
+
+Die Kultisten umzingeln dich. Ihre Klingen blitzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -705,8 +705,8 @@
     <Entry>
       <ID>154</ID>
       <DefaultText>„Wie erhofft hast du dich als Freund der Kinder erwiesen. Daher habe ich eine neue Prüfung für dich. Eine Memorialistin hat ein Flüsterschloss an der Nekropolis angebracht, das uns den Zugang zum Zentrum des Tals verwehrt. Du solltest in der Nekropolis mit Motley sprechen. Vielleicht hast du etwas herausgefunden, das wir übersehen haben.“
- 
- Er verbeugt sich. „Lebwohl.“</DefaultText>
+
+Er verbeugt sich. „Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -782,8 +782,8 @@
     <Entry>
       <ID>173</ID>
       <DefaultText>Er mustert dich sorgfältig mit zusammengekniffenen Augen. „Du scheinst die Wahrheit zu sagen. Nun gut. Wir werden es damit auf sich beruhen lassen.“
- 
- Sein Blick bleibt auf deiner Tätowierung hängen und er schnauft verärgert.</DefaultText>
+
+Sein Blick bleibt auf deiner Tätowierung hängen und er schnauft verärgert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
