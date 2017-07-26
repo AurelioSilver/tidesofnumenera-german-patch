@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Selbst als der Mann auf dich zustolpert wirkt es für einen Moment als würde er dich gar nicht wahrnehmen. Er bleibt vor dir stehen, schaukelt leicht, starrt durch dich hindurch und murmelt leise vor sich hin - Singsang oder verrücktes Gebrabbel? Du trittst näher und bemerkst die Narben in seinem Gesicht. Dann treffen sich eure Blicke und er verstummt. Jetzt nimmt er dich wahr. Sein Blick streift über dein Gesicht und bleibt auf deiner Tätowierung hängen.</DefaultText>
+      <DefaultText>Selbst als der Mann auf dich zustolpert wirkt es für einen Moment als würde er dich gar nicht wahrnehmen. Er bleibt vor dir stehen, schaukelt leicht, starrt durch dich hindurch und murmelt leise vor sich hin – Singsang oder verrücktes Gebrabbel? Du trittst näher und bemerkst die Narben in seinem Gesicht. Dann treffen sich eure Blicke und er verstummt. Jetzt nimmt er dich wahr. Sein Blick streift über dein Gesicht und bleibt auf deiner Tätowierung hängen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -262,7 +262,7 @@
     <Entry>
       <ID>60</ID>
       <DefaultText>„Ich ziehe dir das Fell über die Ohren und das Fleisch von den Knochen und befreie dein Licht für die Endlose Pforte!“
- {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan - if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5 and despawn Klinkar and his two goons. Spawn in Memorialists}</DefaultText>
+ {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan – if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5 and despawn Klinkar and his two goons. Spawn in Memorialists}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -440,7 +440,7 @@
     <Entry>
       <ID>96</ID>
       <DefaultText>„Ich ziehe dir das Fell über die Ohren und das Fleisch von den Knochen und befreie dein Licht für die Endlose Pforte!“
- {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan - if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
+ {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan – if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -525,7 +525,7 @@
       <DefaultText>„Wie schade. Dann muss eben dein Blut vergossen werden. Mir ist das gleich.“ 
  
  Sie ziehen ihre Waffen, bereit zum Angriff.
- {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan - if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
+ {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan – if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -644,7 +644,7 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>„Ein weitläufiger Ort, der unser Geschichtswissen bei Weitem übersteigt. Um im Tal von einem Ort zum anderen zu reisen, benutzen wir Minnims - Zwillingslichtbecken. Wer in ein Minnim steigt, kommt bei seinem Zwilling wieder heraus.“ Er überlegt. „Die Legenden sagen, dass die Toten hier wären, doch in Wahrheit sind sie unter der Erde begraben. Unsere jüngsten Bemühungen, uns wieder Zutritt zu verschaffen, wurden vereitelt.“</DefaultText>
+      <DefaultText>„Ein weitläufiger Ort, der unser Geschichtswissen bei Weitem übersteigt. Um im Tal von einem Ort zum anderen zu reisen, benutzen wir Minnims – Zwillingslichtbecken. Wer in ein Minnim steigt, kommt bei seinem Zwilling wieder heraus.“ Er überlegt. „Die Legenden sagen, dass die Toten hier wären, doch in Wahrheit sind sie unter der Erde begraben. Unsere jüngsten Bemühungen, uns wieder Zutritt zu verschaffen, wurden vereitelt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -793,7 +793,7 @@
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>„Damit ist die Prüfung beendet. Du hast bestanden. Und wie! Wir haben gar nicht verlangt, die Flüchtigen für uns zu töten - nur sie zu finden. Wir wussten, wo sie waren. Die Frage war nur, ob du sie uns ausliefern würdest. Es freut mich, dass du dich dazu entschlossen habt, uns reinen Wein einzuschenken. Viele, die deine Tätowierung tragen, tun das nicht. Für uns ist sie ein Zeichen der Macht, da unser Anführer Inifere sie ebenso trägt wie auch andere Mitglieder unserer Gruppe. Der Anführer der verhassten Dendra trägt sie jedoch auch. Nun wissen wir, was für eine Person du bist.“</DefaultText>
+      <DefaultText>„Damit ist die Prüfung beendet. Du hast bestanden. Und wie! Wir haben gar nicht verlangt, die Flüchtigen für uns zu töten – nur sie zu finden. Wir wussten, wo sie waren. Die Frage war nur, ob du sie uns ausliefern würdest. Es freut mich, dass du dich dazu entschlossen habt, uns reinen Wein einzuschenken. Viele, die deine Tätowierung tragen, tun das nicht. Für uns ist sie ein Zeichen der Macht, da unser Anführer Inifere sie ebenso trägt wie auch andere Mitglieder unserer Gruppe. Der Anführer der verhassten Dendra trägt sie jedoch auch. Nun wissen wir, was für eine Person du bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
