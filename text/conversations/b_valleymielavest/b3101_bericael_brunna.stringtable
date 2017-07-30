@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Diese androgyne Frau strahlt einen furchteinflößenden Willen aus. Ihre Muskeln sind drahtig und fest und ihr ganzer Körper wirkt schlank und tödlich wie ein menschliches Stilett. Auf ihrem rasierten Schädel trägt sie die Tätowierung einer Verstoßenen.
 
- "Hab dich noch nie gesehen", sagt sie. "Ich bin Bericael. Bericael Brunna." Sie lässt ihren Blick über die Klippen schweifen. "Wie lange bist du schon wach, seitdem er ausgezogen ist? Aus deinem Körper, meine ich."</DefaultText>
+"Hab dich noch nie gesehen", sagt sie. "Ich bin Bericael. Bericael Brunna." Sie lässt ihren Blick über die Klippen schweifen. "Wie lange bist du schon wach, seitdem er ausgezogen ist? Aus deinem Körper, meine ich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -59,9 +59,9 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>Er murmelt. "Da wär' ich mir nicht so sicher."
- 
- {ADAM: We should check this conditional's number to make sure it's appropriate}
- {COLIN: This is really just a design flag so we remember to look}</DefaultText>
+
+{ADAM: We should check this conditional's number to make sure it's appropriate}
+{COLIN: This is really just a design flag so we remember to look}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,14 +76,14 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Sie nickt. "Dachte schon, dass du neu bist. Ich war in der Endlosen Schlacht beschäftigt, daher habe ich noch nicht von deinem Körper gehört. Schätze, einer von uns sollte dich in unserem Klub willkommen heißen." Sie neigt leicht den Kopf .</DefaultText>
+      <DefaultText>Sie nickt. "Dachte schon, dass du neu bist. Ich war in der Endlosen Schlacht beschäftigt, daher habe ich noch nicht von deinem Körper gehört. Schätze, einer von uns sollte dich in unserem Klub willkommen heißen." Sie neigt leicht den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ich hab kein Interesse daran, irgendjemanden zu rekrutieren, Matkina. Nicht meine Mission." Sie wendet sich Matkina zu. "Bist du immer noch sauer wegen Kholn? Trägst du uns das immer noch nach?" 
- 
- Sie sieht dich an und deutet mit dem Daumen auf Matkina. "All die Leute, für deren Rettung sie gekämpft hat, sind tot. Man kann sagen, sie sind eines natürlichen Todes gestorben." Sie zuckt mit den Schultern. "Aber wegen 'natürlicher Tode' muss man nicht nachtragend sein."</DefaultText>
+      <DefaultText>"Ich hab kein Interesse daran, irgendjemanden zu rekrutieren, Matkina. Nicht meine Mission." Sie wendet sich Matkina zu. "Bist du immer noch sauer wegen Kholn? Trägst du uns das immer noch nach?"
+
+Sie sieht dich an und deutet mit dem Daumen auf Matkina. "All die Leute, für deren Rettung sie gekämpft hat, sind tot. Man kann sagen, sie sind eines natürlichen Todes gestorben." Sie zuckt mit den Schultern. "Aber wegen 'natürlicher Tode' muss man nicht nachtragend sein."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -154,8 +154,8 @@
     <Entry>
       <ID>30</ID>
       <DefaultText>Sie deutet. "Ich habe mir den Pass ins Dorf Kholn angesehen, aber dort gab es einen Erdrutsch. Scheint auch keinen Weg über diese Berge zu geben. Egal. Ich werde einen anderen Weg finden."
- 
- Sie sieht dich von der Seite an und grinst spöttisch. "Eher früher als später, denke ich."</DefaultText>
+
+Sie sieht dich von der Seite an und grinst spöttisch. "Eher früher als später, denke ich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,8 +371,8 @@
     <Entry>
       <ID>80</ID>
       <DefaultText>"Nein. Ich habe lange genug nach einem Weg über diese gottverdammten Berge gesucht. Ich muss einen anderen Weg aus dem Tal finden. War aber eine *echte* Freude, mit dir zu plaudern."
- 
- Ihr Tonfall lässt dich an der Aufrichtigkeit dieser Aussage zweifeln.</DefaultText>
+
+Ihr Tonfall lässt dich an der Aufrichtigkeit dieser Aussage zweifeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
