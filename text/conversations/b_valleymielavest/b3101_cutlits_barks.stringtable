@@ -12,12 +12,12 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>"Aiii!“</DefaultText>
-      <FemaleText>"Aiii!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>::kreischt::</DefaultText>
-      <FemaleText>::kreischt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -32,7 +32,7 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>::würg::</DefaultText>
-      <FemaleText>::würg::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -41,18 +41,18 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Sieh uns! Nimm uns!“</DefaultText>
-      <FemaleText>"Sieh uns! Beanspruche uns!“</FemaleText>
+      <DefaultText>"Sieh uns! Beanspruche uns!“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>::brüll::</DefaultText>
-      <FemaleText>::brüll::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>::ächzt::</DefaultText>
-      <FemaleText>::ächzt::</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
