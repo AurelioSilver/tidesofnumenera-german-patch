@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Nun", sagt er, "ich weiß nicht, warum du so bereitwillig deine Zeit und dein Leben zu opfern bereit bist, doch an Mut gebricht es dir wahrlich nicht. Ich bin nicht ganz unvertraut mit den Waffen, die ich trage, allerdings würde ich es nur ungern alleine mit drei von denen aufnehmen und ich habe Ronos versprochen, ihn zu beschützen. Ich hätte nie gedacht, dass sie gehen würden, ohne dich anzugreifen - willst du mir vielleicht verraten, wie du das bewerkstelligt hast?"</DefaultText>
+      <DefaultText>„Nun“, sagt er, „ich weiß nicht, warum du so bereitwillig deine Zeit und dein Leben zu opfern bereit bist, doch an Mut gebricht es dir wahrlich nicht. Ich bin nicht ganz unvertraut mit den Waffen, die ich trage, allerdings würde ich es nur ungern alleine mit drei von denen aufnehmen und ich habe Ronos versprochen, ihn zu beschützen. Ich hätte nie gedacht, dass sie gehen würden, ohne dich anzugreifen - willst du mir vielleicht verraten, wie du das bewerkstelligt hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Das war vielleicht ein Kampf!" Sein bärtiges Gesicht ist sorgenvoll. "Bist du verletzt?" Er trägt eine Reihe abgenutzter Waffen und ein Bandelier mit kleinen Bildchen und Schmuckstücken. Er klopft sich mit der Hand auf die Brust. "Ich bin Beltrax."</DefaultText>
+      <DefaultText>„Das war vielleicht ein Kampf!“ Sein bärtiges Gesicht ist sorgenvoll. „Bist du verletzt?“ Er trägt eine Reihe abgenutzter Waffen und ein Bandelier mit kleinen Bildchen und Schmuckstücken. Er klopft sich mit der Hand auf die Brust. „Ich bin Beltrax.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Hallo."</DefaultText>
+      <DefaultText>„Hallo.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Wie lange sind die Kultisten schon hier?"</DefaultText>
+      <DefaultText>„Wie lange sind die Kultisten schon hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Sag mir noch mal, wie lange die Kultisten schon hier sind."</DefaultText>
+      <DefaultText>„Sag mir noch mal, wie lange die Kultisten schon hier sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,12 +51,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Was kannst du mir über das Tal sagen?"</DefaultText>
+      <DefaultText>„Was kannst du mir über das Tal sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Kannst du mir noch mehr über die Minnims erzählen?"</DefaultText>
+      <DefaultText>„Kannst du mir noch mehr über die Minnims erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Sie kamen erst kürzlich ins Tal. Vielleicht vor einem Monat oder auch erst vor ein oder zwei Wochen. Einige von ihnen sind vielleicht schon länger da. Ich weiß es nicht. Die Ankunft der Kinder erfolgte heimlich, still und leise - nicht mit dem Radau, den sie jetzt machen. Erst vor wenigen Tagen fingen sie an... durchzudrehen. Begannen, Leute zu entführen und abzuschlachten und... nun, so geht es nun hier zu."</DefaultText>
+      <DefaultText>„Sie kamen erst kürzlich ins Tal. Vielleicht vor einem Monat oder auch erst vor ein oder zwei Wochen. Einige von ihnen sind vielleicht schon länger da. Ich weiß es nicht. Die Ankunft der Kinder erfolgte heimlich, still und leise - nicht mit dem Radau, den sie jetzt machen. Erst vor wenigen Tagen fingen sie an... durchzudrehen. Begannen, Leute zu entführen und abzuschlachten und... nun, so geht es nun hier zu.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Vielleicht einen Monat oder länger? Aber sie verhielten sich völlig anders als jetzt."</DefaultText>
+      <DefaultText>„Vielleicht einen Monat oder länger? Aber sie verhielten sich völlig anders als jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,17 +111,17 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Es ist eine Art riesiger Friedhof. Allerdings wirst du hier keine Leichen über der Erde finden. Nur in der Nekropolis findest du die wahren Gräber. Doch dorthin gelangt man nur mithilfe der schwebenden Lichtbecken, die Minnims genannt werden. Wenn man eines betritt, kommt man bei seinem Zwilling irgendwo anders wieder heraus."</DefaultText>
+      <DefaultText>„Es ist eine Art riesiger Friedhof. Allerdings wirst du hier keine Leichen über der Erde finden. Nur in der Nekropolis findest du die wahren Gräber. Doch dorthin gelangt man nur mithilfe der schwebenden Lichtbecken, die Minnims genannt werden. Wenn man eines betritt, kommt man bei seinem Zwilling irgendwo anders wieder heraus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Nicht wirklich. Einfach beim einen rein und beim anderen wieder raus. Sie sind das beste Mittel, um im Tal herumzureisen. Oft auch das *einzige* Mittel."</DefaultText>
+      <DefaultText>„Nicht wirklich. Einfach beim einen rein und beim anderen wieder raus. Sie sind das beste Mittel, um im Tal herumzureisen. Oft auch das *einzige* Mittel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Sie tauchen immer nur paarweise auf. Ich vermute, dass es sich dabei um eine Art Lebewesen handelt. Wie auch immer. Ein Paar bleibt jahrelang am selben Ort, sagt man. Manchmal bewegen sie sich jedoch auch oder tauchen woanders wieder auf. So weit ich das beurteilen kann, ist es absolut sicher, sie zu benutzen."</DefaultText>
+      <DefaultText>„Sie tauchen immer nur paarweise auf. Ich vermute, dass es sich dabei um eine Art Lebewesen handelt. Wie auch immer. Ein Paar bleibt jahrelang am selben Ort, sagt man. Manchmal bewegen sie sich jedoch auch oder tauchen woanders wieder auf. So weit ich das beurteilen kann, ist es absolut sicher, sie zu benutzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,12 +161,12 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Das wäre alles. Lebt wohl."</DefaultText>
+      <DefaultText>„Das wäre alles. Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Sichere Reise. So sicher es hier eben geht."</DefaultText>
+      <DefaultText>„Sichere Reise. So sicher es hier eben geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,12 +176,12 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Erzählt mir etwas über Euch."</DefaultText>
+      <DefaultText>„Erzählt mir etwas über Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Erzählt mir nochmal etwas über Euch."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal etwas über Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,14 +191,14 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Laut ausgesprochen klingt es peinlich, aber ich kam hierher, um mit einem Zauberer nach einem sagenhaften magischen Brett zu suchen."
+      <DefaultText>„Laut ausgesprochen klingt es peinlich, aber ich kam hierher, um mit einem Zauberer nach einem sagenhaften magischen Brett zu suchen.“
 
-Er zuckt mit den Schultern. "Den Zauberer habe ich noch nicht getroffen. Dafür aber eine Memorialistin. Sie hat mir von ihrer Arbeit hier erzählt. Dass das hier das Jenseits sei, dass die Namen, die wir im Leben trugen, im Tal in den Namen der 'Toten' - die sie die wahrhaft Lebenden nannte - verborgen seien. Ich muss zugeben, dass war so ziemlich der größte Mumpitz, den ich je gehört habe."</DefaultText>
+Er zuckt mit den Schultern. „Den Zauberer habe ich noch nicht getroffen. Dafür aber eine Memorialistin. Sie hat mir von ihrer Arbeit hier erzählt. Dass das hier das Jenseits sei, dass die Namen, die wir im Leben trugen, im Tal in den Namen der 'Toten' - die sie die wahrhaft Lebenden nannte - verborgen seien. Ich muss zugeben, dass war so ziemlich der größte Mumpitz, den ich je gehört habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Er lacht leise. "Nur ein gewöhnlicher Entdecker. Einer, der eines Tages noch selbst einer dieser verrückten Memorialisten werden könnte."</DefaultText>
+      <DefaultText>Er lacht leise. „Nur ein gewöhnlicher Entdecker. Einer, der eines Tages noch selbst einer dieser verrückten Memorialisten werden könnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,44 +208,44 @@ Er zuckt mit den Schultern. "Den Zauberer habe ich noch nicht getroffen. Dafür 
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Ich bin eine abgeworfene Hülle des Wandelnden Gottes. Sie sahen meine Tätowierung und ließen mich deshalb gehen."</DefaultText>
+      <DefaultText>„Ich bin eine abgeworfene Hülle des Wandelnden Gottes. Sie sahen meine Tätowierung und ließen mich deshalb gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ich habe ihnen gute Gründe dafür gegeben, sich ein anderes Opfer zu suchen.</DefaultText>
+      <DefaultText>„Ich habe ihnen gute Gründe dafür gegeben, sich ein anderes Opfer zu suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Als die Kinder der Endlosen Pforte im Tal verschwinden, krabbeln zwei verstaubte Gestalten aus einer versteckten Nische. Der erste, ein bärtiger Mann mit einem breiten Grinsen, trägt eine Reihe abgenutzter Waffen und ein Bandelier mit kleinen Bildchen und Schmuckstücken. Er klopft sich mit der Hand auf die Brust. "Hallo!" "Entschuldige bitte die unfreundliche Begrüßung eben. Ich bin Beltrax und mein Begleiter hier ist Ronos - Ronos Cai'sul."</DefaultText>
+      <DefaultText>Als die Kinder der Endlosen Pforte im Tal verschwinden, krabbeln zwei verstaubte Gestalten aus einer versteckten Nische. Der erste, ein bärtiger Mann mit einem breiten Grinsen, trägt eine Reihe abgenutzter Waffen und ein Bandelier mit kleinen Bildchen und Schmuckstücken. Er klopft sich mit der Hand auf die Brust. „Hallo! Entschuldige bitte die unfreundliche Begrüßung eben. Ich bin Beltrax und mein Begleiter hier ist Ronos - Ronos Cai'sul.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Dieser dünne, nervöse Mann ist in eine formelle blau-weiße Robe gehüllt. Er sieht sich angstvoll um und schluckt. "Sind sie weg? ... Entschuldige - ich vergaß meine Manieren." Er verbeugt sich vor dir. "Wir sind dir für dein Eingreifen wirklich sehr verbunden. Wir hätten dir gerne geholfen, aber..." Er wirft seinem Freund einen Blick zu.</DefaultText>
+      <DefaultText>Dieser dünne, nervöse Mann ist in eine formelle blau-weiße Robe gehüllt. Er sieht sich angstvoll um und schluckt. „Sind sie weg? ... Entschuldige - ich vergaß meine Manieren.“ Er verbeugt sich vor dir. „Wir sind dir für dein Eingreifen wirklich sehr verbunden. Wir hätten dir gerne geholfen, aber...“ Er wirft seinem Freund einen Blick zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Das geht dich nichts an."</DefaultText>
+      <DefaultText>„Das geht dich nichts an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Er hebt beruhigend die Hände. "Kein Grund zur Aufregung. War nur neugierig."</DefaultText>
+      <DefaultText>Er hebt beruhigend die Hände. „Kein Grund zur Aufregung. War nur neugierig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Er lacht und fährt mit dem Daumen über seine Waffen. "Ich habe auch einige Erfahrung im Kampf. Gut gemacht."</DefaultText>
+      <DefaultText>Er lacht und fährt mit dem Daumen über seine Waffen. „Ich habe auch einige Erfahrung im Kampf. Gut gemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Er weicht erschrocken zurück und beugt sich dann vor, um deine Tätowierung zu untersuchen. "Ich habe noch nie einen von euch getroffen", sagt er voller Bewunderung. "Hab aber schon viel von euch gehört."
+      <DefaultText>Er weicht erschrocken zurück und beugt sich dann vor, um deine Tätowierung zu untersuchen. „Ich habe noch nie einen von euch getroffen“, sagt er voller Bewunderung. „Hab aber schon viel von euch gehört.“
 
-Er nimmt eine Brosche von seinem Gurt und zeigt sie dir. "Diese Frau hier erzählte mir davon, wie sie einmal einen von euch getroffen hat. Er half ihr, der Flor draußen in Sagusklippen zu entkommen. Guter Mann, was man so sagt. Ich frag mich, was wohl aus ihm geworden ist?"</DefaultText>
+Er nimmt eine Brosche von seinem Gurt und zeigt sie dir. „Diese Frau hier erzählte mir davon, wie sie einmal einen von euch getroffen hat. Er half ihr, der Flor draußen in Sagusklippen zu entkommen. Guter Mann, was man so sagt. Ich frag mich, was wohl aus ihm geworden ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +255,7 @@ Er nimmt eine Brosche von seinem Gurt und zeigt sie dir. "Diese Frau hier erzäh
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Er runzelt die Stirn. "Diese Kultisten sind nur ein kleiner Teil derer, mit denen wir uns in letzter Zeit herumschlagen müssen. Diese Carker - die Kinder der Endlosen Pforte - laufen hier Amok und schlachten wahllos Leute ab. Die Memorialisten sind untergetaucht. Eine von ihnen war entschlossen, die Kultisten am Betreten der Nekropolis zu hindern, doch..."</DefaultText>
+      <DefaultText>Er runzelt die Stirn. „Diese Kultisten sind nur ein kleiner Teil derer, mit denen wir uns in letzter Zeit herumschlagen müssen. Diese Carker - die Kinder der Endlosen Pforte - laufen hier Amok und schlachten wahllos Leute ab. Die Memorialisten sind untergetaucht. Eine von ihnen war entschlossen, die Kultisten am Betreten der Nekropolis zu hindern, doch...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,19 +265,19 @@ Er nimmt eine Brosche von seinem Gurt und zeigt sie dir. "Diese Frau hier erzäh
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Nun, ich frage dich, ob du es auf dich nehmen würdet, diesen Abschaum aus dem Tal zu verjagen. Wenn nicht bald jemand etwas unternimmt, ist die Geschichte dieses Ortes für immer verloren."
+      <DefaultText>„Nun, ich frage dich, ob du es auf dich nehmen würdet, diesen Abschaum aus dem Tal zu verjagen. Wenn nicht bald jemand etwas unternimmt, ist die Geschichte dieses Ortes für immer verloren.“
 
-"Ich wünschte, ich könnte dir dabei helfen, aber Vertrag ist Vertrag. Da komme ich nicht raus."</DefaultText>
+„Ich wünschte, ich könnte dir dabei helfen, aber Vertrag ist Vertrag. Da komme ich nicht raus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Ich werde es tun."</DefaultText>
+      <DefaultText>„Ich werde es tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Er klopft dir auf die Schulter. "Danke. Du tust hier heute einer Menge Leute einen großen Gefallen und sie werden dir morgen dafür danken. Gut möglich, dass du dich hier unsterblich machst." Er lacht kurz und beinahe verlegen. "Aber vielleicht bist du das ja bereits."</DefaultText>
+      <DefaultText>Er klopft dir auf die Schulter. „Danke. Du tust hier heute einer Menge Leute einen großen Gefallen und sie werden dir morgen dafür danken. Gut möglich, dass du dich hier unsterblich machst.“ Er lacht kurz und beinahe verlegen. „Aber vielleicht bist du das ja bereits.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -292,37 +292,37 @@ Er nimmt eine Brosche von seinem Gurt und zeigt sie dir. "Diese Frau hier erzäh
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Was ist, wenn ich ablehne?"</DefaultText>
+      <DefaultText>„Was ist, wenn ich ablehne?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Er reckt die Hände verzweifelt zum Himmel. "Dann werden die Kultisten alle abschlachten und das Tal überrennen und das über die Jahrhunderte angesammelte Wissen wird für immer verloren sein."</DefaultText>
+      <DefaultText>Er reckt die Hände verzweifelt zum Himmel. „Dann werden die Kultisten alle abschlachten und das Tal überrennen und das über die Jahrhunderte angesammelte Wissen wird für immer verloren sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Was bekomme ich für meine Hilfe?"</DefaultText>
+      <DefaultText>„Was bekomme ich für meine Hilfe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Ich... weiß es nicht. Wenn dir eine Belohnung so wichtig ist, solltest du mit den Memorialisten sprechen. Sie haben nicht viel, aber ich könnte mir denken, für die Rettung dieses Tals würden sie dir alles geben, was sie haben."</DefaultText>
+      <DefaultText>„Ich... weiß es nicht. Wenn dir eine Belohnung so wichtig ist, solltest du mit den Memorialisten sprechen. Sie haben nicht viel, aber ich könnte mir denken, für die Rettung dieses Tals würden sie dir alles geben, was sie haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Ich werde es tun."</DefaultText>
+      <DefaultText>„Ich werde es tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ehrlich gesagt ist mir das egal."</DefaultText>
+      <DefaultText>„Ehrlich gesagt ist mir das egal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Wie schade." Das Lächeln ist aus seinem Gesicht verschwunden. "Lass mich wissen, wenn du es dir anders überlegst.</DefaultText>
+      <DefaultText>„Wie schade.“ Das Lächeln ist aus seinem Gesicht verschwunden. „Lass mich wissen, wenn du es dir anders überlegst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -377,9 +377,9 @@ Er nimmt eine Brosche von seinem Gurt und zeigt sie dir. "Diese Frau hier erzäh
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Aber danach hat sie etwas gesagt: 'Schatten fallen wo und wie sie wollen.' Soll heißen, wenn wir Schatten anderer Leben sind, dann können wir genauso wenig kontrollieren, was wir sind, wie unser eigener Schatten. Das hat mich beeindruck. Was, wenn sie recht hat?"
+      <DefaultText>„Aber danach hat sie etwas gesagt: 'Schatten fallen wo und wie sie wollen.' Soll heißen, wenn wir Schatten anderer Leben sind, dann können wir genauso wenig kontrollieren, was wir sind, wie unser eigener Schatten. Das hat mich beeindruck. Was, wenn sie recht hat?“
 
-Er nimmt eines der Medaillons von seinem Bandelier und öffnet ihn. Darin ist ein leuchtendes Bild einer Frau. Er betrachtet es sehnsuchtsvoll. "Was, wenn sie noch lebt, irgendwo? Was, wenn das hier gar kein Leben ist... wenn ich nur ein Schatten bin, der darauf wartet, ins Licht zu treten? Was, wenn sie dort auf mich wartet?"</DefaultText>
+Er nimmt eines der Medaillons von seinem Bandelier und öffnet ihn. Darin ist ein leuchtendes Bild einer Frau. Er betrachtet es sehnsuchtsvoll. „Was, wenn sie noch lebt, irgendwo? Was, wenn das hier gar kein Leben ist... wenn ich nur ein Schatten bin, der darauf wartet, ins Licht zu treten? Was, wenn sie dort auf mich wartet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -389,12 +389,12 @@ Er nimmt eines der Medaillons von seinem Bandelier und öffnet ihn. Darin ist ei
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Das spielt keine Rolle. Wichtig ist nur, dass niemand verletzt wurde."</DefaultText>
+      <DefaultText>„Das spielt keine Rolle. Wichtig ist nur, dass niemand verletzt wurde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Natürlich, natürlich! Keine Frage. Ich war nur neugierig."</DefaultText>
+      <DefaultText>„Natürlich, natürlich! Keine Frage. Ich war nur neugierig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -404,7 +404,7 @@ Er nimmt eines der Medaillons von seinem Bandelier und öffnet ihn. Darin ist ei
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Er klopft Rono auf die Schulter. "Ich würde es nicht zulassen. Mein Job ist es, für seine Sicherheit zu sorgen. Ich kann nicht zulassen, dass er seine Haut riskiert. Tut mir leid."</DefaultText>
+      <DefaultText>Er klopft Rono auf die Schulter. „Ich würde es nicht zulassen. Mein Job ist es, für seine Sicherheit zu sorgen. Ich kann nicht zulassen, dass er seine Haut riskiert. Tut mir leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -424,19 +424,19 @@ Er nimmt eines der Medaillons von seinem Bandelier und öffnet ihn. Darin ist ei
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Ich habe ihnen gesagt, dass ich euch nicht finden konnte."</DefaultText>
+      <DefaultText>„Ich habe ihnen gesagt, dass ich euch nicht finden konnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Eine freche Lüge! Bin beeindruckt, dass sie dir das abgenommen haben. Ich war sicher, dass sie wussten, wo wir uns verstecken, trotz aller Vorsicht. Vielen Dank."</DefaultText>
+      <DefaultText>„Eine freche Lüge! Bin beeindruckt, dass sie dir das abgenommen haben. Ich war sicher, dass sie wussten, wo wir uns verstecken, trotz aller Vorsicht. Vielen Dank.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Sein Begleiter ist ein dünner, nervöser Mann in einer blau-weißen Robe mit Kapuze. Er verbeugt sich. "Tut mir leid, dass du dich mit diesen Kultisten herumschlagen musstest. Wir haben uns versteckt und, nun ja..."
+      <DefaultText>Sein Begleiter ist ein dünner, nervöser Mann in einer blau-weißen Robe mit Kapuze. Er verbeugt sich. „Tut mir leid, dass du dich mit diesen Kultisten herumschlagen musstest. Wir haben uns versteckt und, nun ja...“
 
-Er verbeugt sich. Seine Hände zittern leicht. "Ich muss dich um einen Gefallen bitten."</DefaultText>
+Er verbeugt sich. Seine Hände zittern leicht. „Ich muss dich um einen Gefallen bitten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,77 +451,77 @@ Er verbeugt sich. Seine Hände zittern leicht. "Ich muss dich um einen Gefallen 
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ich weiß, es klingt absurd. Von außen betrachtet sieht es bestimmt so aus... aber denk mal darüber nach. Diese Welt ist flach und kalt und... leer." Er sieht wieder das Bild der Frau an. "Es fühlt sich *richtig* an, an ein anderes Leben zu glauben. An ein Leben, das sich zu leben lohnt."
+      <DefaultText>„Ich weiß, es klingt absurd. Von außen betrachtet sieht es bestimmt so aus... aber denk mal darüber nach. Diese Welt ist flach und kalt und... leer.“ Er sieht wieder das Bild der Frau an. „Es fühlt sich *richtig* an, an ein anderes Leben zu glauben. An ein Leben, das sich zu leben lohnt.“
 
-Er schließt das Medaillon wieder. "Also habe ich mir immer mehr Wissen angeeignet. Ronos hat mich durch das Tal geführt, als diese Carker uns überraschten. Wir krochen in ein Grab hinter diesen Brettern und... den Rest kennst du ja."</DefaultText>
+Er schließt das Medaillon wieder. „Also habe ich mir immer mehr Wissen angeeignet. Ronos hat mich durch das Tal geführt, als diese Carker uns überraschten. Wir krochen in ein Grab hinter diesen Brettern und... den Rest kennst du ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Weißt du etwas über ein totes Mädchen namens Choi?"</DefaultText>
+      <DefaultText>„Weißt du etwas über ein totes Mädchen namens Choi?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Die Frage scheint ihn zu verblüffen. "Choi? Der Name sagt mir etwas. Er steht auf einem Grab in der Nekropolis. Mehr weiß ich jedoch nicht darüber. Der Name blieb mir nur im Gedächtnis, weil das Grab auf seltsame Weise... auf sich aufmerksam gemacht hat. Ich kann es nicht beschreiben. Das musst du selbst sehen. Vergiss nur nicht, die Luft anzuhalten."
+      <DefaultText>Die Frage scheint ihn zu verblüffen. „Choi? Der Name sagt mir etwas. Er steht auf einem Grab in der Nekropolis. Mehr weiß ich jedoch nicht darüber. Der Name blieb mir nur im Gedächtnis, weil das Grab auf seltsame Weise... auf sich aufmerksam gemacht hat. Ich kann es nicht beschreiben. Das musst du selbst sehen. Vergiss nur nicht, die Luft anzuhalten.“
 
-Er kratzt sich am Kinn. "Ich erinnere mich, dass ich an diesem Tag eine Memorialistin auf ihren Runden begleitet habe. Diese Inschrift befand sich in Grab 4-2-2-1."</DefaultText>
+Er kratzt sich am Kinn. „Ich erinnere mich, dass ich an diesem Tag eine Memorialistin auf ihren Runden begleitet habe. Diese Inschrift befand sich in Grab 4-2-2-1.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Warum nicht? Ich habe früher andauernd Verträge gebrochen."</DefaultText>
+      <DefaultText>„Warum nicht? Ich habe früher andauernd Verträge gebrochen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Gut. Sagen wir so: Wer sich seinen professionellen Ruf nicht völlig ruinieren will, sollte Verträge einhalten. Zufrieden?"</DefaultText>
+      <DefaultText>„Gut. Sagen wir so: Wer sich seinen professionellen Ruf nicht völlig ruinieren will, sollte Verträge einhalten. Zufrieden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Er wischt die Sache beiseite. "Wenn du unbedingt ein Pedant sein musst, na gut."
+      <DefaultText>Er wischt die Sache beiseite. „Wenn du unbedingt ein Pedant sein musst, na gut.“
 
-"Aber ich will nicht für meinen Begleiter sprechen." Er wendet sich an dich. "Willst du das Bündel dieses armen Mannes tragen?"
+„Aber ich will nicht für meinen Begleiter sprechen.“ Er wendet sich an dich. „Willst du das Bündel dieses armen Mannes tragen?“
 
-Er schüttelt leicht den Kopf und formt mit den Lippen ein stummes "Nein", als er dich ansieht.</DefaultText>
+Er schüttelt leicht den Kopf und formt mit den Lippen ein stummes „Nein“, als er dich ansieht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ich werde es tun, Tybir. *Wir* werden es tun. Zusammen."</DefaultText>
+      <DefaultText>„Ich werde es tun, Tybir. *Wir* werden es tun. Zusammen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Was ist, wenn ich ablehne?"</DefaultText>
+      <DefaultText>„Was ist, wenn ich ablehne?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Er runzelt die Stirn. "Ach, Junge. Immer das Richtige tun müssen, was? Irgendwann wird das noch auf mich abfärben." Er zwinkert dir zu.</DefaultText>
-      <FemaleText>Er runzelt die Stirn. "Ach, Mädel. Immer das Richtige tun müssen, was? Irgendwann wird das noch auf mich abfärben."</FemaleText>
+      <DefaultText>Er runzelt die Stirn. „Ach, Junge. Immer das Richtige tun müssen, was? Irgendwann wird das noch auf mich abfärben.“ Er zwinkert dir zu.</DefaultText>
+      <FemaleText>Er runzelt die Stirn. „Ach, Mädel. Immer das Richtige tun müssen, was? Irgendwann wird das noch auf mich abfärben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Er strahlt. "Das ist die richtige Einstellung!"
+      <DefaultText>Er strahlt. „Das ist die richtige Einstellung!“
 
 Er seufzt jedoch leicht, als wäre er enttäuscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Wo ist dein Begleiter hin?"</DefaultText>
+      <DefaultText>„Wo ist dein Begleiter hin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Ich habe ihn in Sicherheit teleportiert. Weiß aber nicht genau, wohin." Er runzelt die Stirn. "Weit weg kann es nicht sein. *So* mächtig war der Cypher nicht. Wenn du ihn siehst, sage ihm, dass es mir gut geht und ich nach ihm suche."</DefaultText>
+      <DefaultText>„Ich habe ihn in Sicherheit teleportiert. Weiß aber nicht genau, wohin.“ Er runzelt die Stirn. „Weit weg kann es nicht sein. *So* mächtig war der Cypher nicht. Wenn du ihn siehst, sage ihm, dass es mir gut geht und ich nach ihm suche.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Ich will helfen, die Kultisten zu stoppen."</DefaultText>
+      <DefaultText>„Ich will helfen, die Kultisten zu stoppen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -531,24 +531,24 @@ Er seufzt jedoch leicht, als wäre er enttäuscht.</DefaultText>
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Fort mit dir, Ronos! Pass auf dich auf!"</DefaultText>
+      <DefaultText>„Fort mit dir, Ronos! Pass auf dich auf!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Sie schaut dich an und zuckt mit den Schultern. "Ich mag nichts lieber als ein Familientreffen.“
+      <DefaultText>Sie schaut dich an und zuckt mit den Schultern. „Ich mag nichts lieber als ein Familientreffen.“
 
 Sie verstellt ihre Messer in den Scheiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Wir müssen zur Nekropolis. Das Grab der Ersten ist dort drinnen.“ Zu Beltrax sagt sie, "Also *gibt* es immernoch Minnim, die zum Eingang führen?“</DefaultText>
+      <DefaultText>„Wir müssen zur Nekropolis. Das Grab der Ersten ist dort drinnen.“ Zu Beltrax sagt sie, „Also *gibt* es immernoch Minnim, die zum Eingang führen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Er nickt. "Es gibt mindestens ein Paar oder zwei in diesem Gebiet. Weißt du, Minnim kommen immer in Paaren vor,“ erklärt er dir. "Ich glaube, dass sie leben - irgendeine Art Kreatur. Mir wird gesagt, dass jedes Paar mehrere Jahre lang an einem Ort bleibt, aber manchmal bewegen sie sich oder tauchen woanders wieder auf. Soweit ich sehen kann ist es völlig sicher, sie zu benutzen.“</DefaultText>
+      <DefaultText>Er nickt. „Es gibt mindestens ein Paar oder zwei in diesem Gebiet. Weißt du, Minnim kommen immer in Paaren vor,“ erklärt er dir. „Ich glaube, dass sie leben - irgendeine Art Kreatur. Mir wird gesagt, dass jedes Paar mehrere Jahre lang an einem Ort bleibt, aber manchmal bewegen sie sich oder tauchen woanders wieder auf. Soweit ich sehen kann ist es völlig sicher, sie zu benutzen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
