@@ -544,12 +544,12 @@ Sie verstellt ihre Messer in den Scheiden.</DefaultText>
     <Entry>
       <ID>105</ID>
       <DefaultText>"Wir müssen zur Nekropolis. Das Grab der Ersten ist dort drinnen.“ Zu Beltrax sagt sie, "Also *gibt* es immernoch Minnim, die zum Eingang führen?“</DefaultText>
-      <FemaleText>"Wir müssen zur Nekropolis. Das Grab der Ersten ist dort drinnen.“ Zu Beltrax sagt sie, "Also *gibt* es immernoch Minnim, die zum Eingang führen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
       <DefaultText>Er nickt. "Es gibt mindestens ein Paar oder zwei in diesem Gebiet. Weißt du, Minnim kommen immer in Paaren vor,“ erklärt er dir. "Ich glaube, dass sie leben - irgendeine Art Kreatur. Mir wird gesagt, dass jedes Paar mehrere Jahre lang an einem Ort bleibt, aber manchmal bewegen sie sich oder tauchen woanders wieder auf. Soweit ich sehen kann ist es völlig sicher, sie zu benutzen.“</DefaultText>
-      <FemaleText>Er nickt. "Es gibt mindestens ein Paar oder zwei in diesem Gebiet. Weißt du, Minnim kommen immer in Paaren vor,“ erklärt er dir. "Ich glaube, dass sie leben - irgendeine Art Kreatur. Mir wird gesagt, dass jedes Paar mehrere Jahre lang an einem Ort bleibt, aber manchmal bewegen sie sich oder tauchen woanders wieder auf. Soweit ich sehen kann ist es völlig sicher, sie zu benutzen.“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
