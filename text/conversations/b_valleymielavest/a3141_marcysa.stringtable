@@ -21,7 +21,7 @@ Sie steht neben einem Grabstein, der ihrer sein sollte, auf dem nun aber Inifere
     <Entry>
       <ID>3</ID>
       <DefaultText>Follow-up PQ. 3</DefaultText>
-      <FemaleText>Follow-up PQ. 3</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -72,7 +72,7 @@ Sie steht neben einem Grabstein, der ihrer sein sollte, auf dem nun aber Inifere
     <Entry>
       <ID>12</ID>
       <DefaultText>::erschaudert::</DefaultText>
-      <FemaleText>::erschaudert::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
@@ -82,7 +82,7 @@ Sie steht neben einem Grabstein, der ihrer sein sollte, auf dem nun aber Inifere
     <Entry>
       <ID>14</ID>
       <DefaultText>"Nein."</DefaultText>
-      <FemaleText>"Nein."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
