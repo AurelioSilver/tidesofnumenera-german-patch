@@ -11,24 +11,24 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"So ist es, Hülle", sagt Callistege lachend. "Ich bin dein Verderben hier, in jedem Strom. Vergiss das niemals."</DefaultText>
+      <DefaultText>„So ist es, Hülle“, sagt Callistege lachend. „Ich bin dein Verderben hier, in jedem Strom. Vergiss das niemals.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Er lächelt spöttisch. "Ich habe dich bereits dreimal bekämpft. Zweimal hat die Rothaarige mich erledigt, aber ich habe dir dennoch in jedem Strom mein Messer in den Hals gerammt. Egal wie das ausgeht, du bist erledigt."</DefaultText>
+      <DefaultText>Er lächelt spöttisch. „Ich habe dich bereits dreimal bekämpft. Zweimal hat die Rothaarige mich erledigt, aber ich habe dir dennoch in jedem Strom mein Messer in den Hals gerammt. Egal wie das ausgeht, du bist erledigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Die wie ich ist. Hat bislang zwei meiner Linien gestoppt." Er lächelt gefährlich. "Aber in dieser hier ist sie nicht, nicht wahr?"</DefaultText>
+      <DefaultText>„Die wie ich ist. Hat bislang zwei meiner Linien gestoppt.“ Er lächelt gefährlich. „Aber in dieser hier ist sie nicht, nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Die beiden Kultisten unterbrechen ihr Gespräch als sie dich bemerken. Der Mann, groß, knochig und verstörend abwesend, macht einen Schritt weg von der Leiche, die sie zerhackt haben, und hebt sein Fleischermesser, als wolle er damit böse Geister abwehren.
 
-Er zeigt an dir vorbei auf Callistege. "Halte die verrückte Rothaarige von mir fern. Mit ihr wollen wir nichts zu tun haben."</DefaultText>
+Er zeigt an dir vorbei auf Callistege. „Halte die verrückte Rothaarige von mir fern. Mit ihr wollen wir nichts zu tun haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,22 +103,22 @@ Er zeigt an dir vorbei auf Callistege. "Halte die verrückte Rothaarige von mir 
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Haben wir uns schon mal gesehen?"</DefaultText>
+      <DefaultText>„Haben wir uns schon mal gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Von welcher Rothaarigen redest du?"</DefaultText>
+      <DefaultText>„Von welcher Rothaarigen redest du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich will nicht gegen euch kämpfen."</DefaultText>
+      <DefaultText>„Ich will nicht gegen euch kämpfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ihr seid Callistege schon mal begegnet? Was hat sie euch getan?"</DefaultText>
+      <DefaultText>„Ihr seid Callistege schon mal begegnet? Was hat sie euch getan?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,17 +128,17 @@ Er zeigt an dir vorbei auf Callistege. "Halte die verrückte Rothaarige von mir 
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Wir lassen euch in Ruhe, wenn ihr uns in Ruhe lässt."</DefaultText>
+      <DefaultText>„Wir lassen euch in Ruhe, wenn ihr uns in Ruhe lässt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Er lacht finster. "Dann hättet ihr nicht in der Erntezeit herkommen dürfen."</DefaultText>
+      <DefaultText>Er lacht finster. „Dann hättet ihr nicht in der Erntezeit herkommen dürfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Er lächelt spöttisch. "Habe alle drei Mal gegen euch gekämpft, die ihr hier durchgekommen seid, und zweimal hat die Rothaare mich erledigt. Aber dennoch habe ich dir in jedem Strom mein Messer in den Hals gerammt. Ich würde es mir an deiner Stelle also gut überlegen, einen Kampf anzufangen."</DefaultText>
+      <DefaultText>Er lächelt spöttisch. „Habe alle drei Mal gegen euch gekämpft, die ihr hier durchgekommen seid, und zweimal hat die Rothaare mich erledigt. Aber dennoch habe ich dir in jedem Strom mein Messer in den Hals gerammt. Ich würde es mir an deiner Stelle also gut überlegen, einen Kampf anzufangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,19 +148,19 @@ Er zeigt an dir vorbei auf Callistege. "Halte die verrückte Rothaarige von mir 
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Gut. Geht. Aber nehmt sie mit."
+      <DefaultText>„Gut. Geht. Aber nehmt sie mit.“
 
 Callistege lacht, als die beiden Kultisten sich vorsichtig wieder umdrehen und damit fortfahren, die Leiche in handliche Stücke zu zerlegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Versucht's doch."</DefaultText>
+      <DefaultText>„Versucht's doch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Mehr Fleisch für Inifere."
+      <DefaultText>„Mehr Fleisch für Inifere.“
 
 {SCRIPT: Starts tussle}
 {TUSSLE: }</DefaultText>
@@ -168,49 +168,49 @@ Callistege lacht, als die beiden Kultisten sich vorsichtig wieder umdrehen und d
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Idiot. Dadurch, dass du mich gewarnt hast, hast du dich selbst deines Vorteils beraubt. Steckt das Messer weg, bevor ich dir damit wehtue."</DefaultText>
+      <DefaultText>„Idiot. Dadurch, dass du mich gewarnt hast, hast du dich selbst deines Vorteils beraubt. Steckt das Messer weg, bevor ich dir damit wehtue.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Aber wenn du mich bereits getötet hast, bin ich doch schon tot, nicht wahr? Dann bringt es doch nichts, mich noch mal zu töten. Ist das nicht Zeitverschwendung?"</DefaultText>
+      <DefaultText>„Aber wenn du mich bereits getötet hast, bin ich doch schon tot, nicht wahr? Dann bringt es doch nichts, mich noch mal zu töten. Ist das nicht Zeitverschwendung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Okay, warum nicht? Versuch's doch."</DefaultText>
+      <DefaultText>„Okay, warum nicht? Versuch's doch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Du kannst andere Realitäten sehen?"</DefaultText>
+      <DefaultText>„Du kannst andere Realitäten sehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Ich sehe alles, Fleischklumpen. Alles!"</DefaultText>
+      <DefaultText>„Ich sehe alles, Fleischklumpen. Alles!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>Er starrt dich einen Moment lang an und sieht sich dann um, als würde er Leute oder Dinge sehen, die deinen Augen verborgen bleiben. Schließlich zuckt er mürrisch mit den Schultern und steckt das Schlachtmesser weg.
 
-"Gut. Aber dieses Tal ist das Land der Kinder der Endlosen Pforte. Ihr seid hier nur von uns geduldet."</DefaultText>
+„Gut. Aber dieses Tal ist das Land der Kinder der Endlosen Pforte. Ihr seid hier nur von uns geduldet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Der große Mann blinzelt und kratzt sich dann das Kinn mit der stumpfen Seite seines Schlachtmessers. "Da ist was dran ... Schätze ich."</DefaultText>
+      <DefaultText>Der große Mann blinzelt und kratzt sich dann das Kinn mit der stumpfen Seite seines Schlachtmessers. „Da ist was dran ... Schätze ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Er leckt das Blut der Leiche von seiner Klinge. "Du kannst mir höchsten wehtun, wenn mir deine Knochen im Hals steckenbleiben."</DefaultText>
+      <DefaultText>Er leckt das Blut der Leiche von seiner Klinge. „Du kannst mir höchsten wehtun, wenn mir deine Knochen im Hals steckenbleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Du weißt nichts über die Ströme, nicht wahr? Egal. Du wirst in jedem einzelnen davon sterben. Also legen wir los."</DefaultText>
+      <DefaultText>„Du weißt nichts über die Ströme, nicht wahr? Egal. Du wirst in jedem einzelnen davon sterben. Also legen wir los.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,7 +222,7 @@ Callistege lacht, als die beiden Kultisten sich vorsichtig wieder umdrehen und d
       <ID>42</ID>
       <DefaultText>Die beiden Kultisten unterbrechen ihr Gespräch als sie dich bemerken. Der Mann, groß, knochig und verstörend abwesend, steigt über die Leiche, die sie zerhackt haben, und hebt sein Fleischermesser.
 
-"Du schon wieder", sagt er und wirft dir einen scharfen Blick zu. "Und diesmal ohne die verrückte Rothaarige im Schlepptau. Gut. Ohne sie hast du nicht den Hauch einer Chance."</DefaultText>
+„Du schon wieder“, sagt er und wirft dir einen scharfen Blick zu. „Und diesmal ohne die verrückte Rothaarige im Schlepptau. Gut. Ohne sie hast du nicht den Hauch einer Chance.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -232,29 +232,29 @@ Callistege lacht, als die beiden Kultisten sich vorsichtig wieder umdrehen und d
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Haltet Euch fern von uns."</DefaultText>
+      <DefaultText>„Haltet Euch fern von uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Wer uns nicht gefällt, den fressen wir", sagt die andere Kultistin. "Also pass auf!"
+      <DefaultText>„Wer uns nicht gefällt, den fressen wir“, sagt die andere Kultistin. „Also pass auf!“
 
 Sie drehen sich um und fahren damit fort, den die Leiche in handliche Stücke zu zerlegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Hätten es mit ihnen aufnehmen können."</DefaultText>
+      <DefaultText>„Hätten es mit ihnen aufnehmen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Als sie sich wieder der Leiche zuwenden und sie weiter in handliche Stücke hacken, sieht die Kultistin zu ihm auf. "Bist du dir sicher, Colo? Für mich sehen die immer noch ziemlich lebendig aus."</DefaultText>
+      <DefaultText>Als sie sich wieder der Leiche zuwenden und sie weiter in handliche Stücke hacken, sieht die Kultistin zu ihm auf. „Bist du dir sicher, Colo? Für mich sehen die immer noch ziemlich lebendig aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Sei still."</DefaultText>
+      <DefaultText>„Sei still.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -279,27 +279,27 @@ Sie drehen sich um und fahren damit fort, den die Leiche in handliche Stücke zu
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Mir gefällt euer Tonfall nicht ... genau so wie eure Taten. Ich denke nicht, dass ihr hier heile weglauft."</DefaultText>
+      <DefaultText>„Mir gefällt euer Tonfall nicht ... genau so wie eure Taten. Ich denke nicht, dass ihr hier heile weglauft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ich werde euch eure vorlauten Worte den Hals runterschieben", sagt der große Mann.</DefaultText>
+      <DefaultText>„Ich werde euch eure vorlauten Worte den Hals runterschieben“, sagt der große Mann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Was meint ihr mit 'in jeder Realität'?"</DefaultText>
+      <DefaultText>„Was meint ihr mit 'in jeder Realität'?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Tut nicht so, als wüsstet ihr nicht, wovon ich rede. Sie ist wie ich. Sie kann verschiedene Realitäten sehen."</DefaultText>
+      <DefaultText>„Tut nicht so, als wüsstet ihr nicht, wovon ich rede. Sie ist wie ich. Sie kann verschiedene Realitäten sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Sie lacht. "Ich soll sein wie *du*, Kleiner? Ich bin dir so weit überlegen, du bist nicht mal ein Wurm im Vergleich zu mir!"</DefaultText>
+      <DefaultText>Sie lacht. „Ich soll sein wie *du*, Kleiner? Ich bin dir so weit überlegen, du bist nicht mal ein Wurm im Vergleich zu mir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,17 +314,17 @@ Sie drehen sich um und fahren damit fort, den die Leiche in handliche Stücke zu
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Verrückte Hülle."</DefaultText>
+      <DefaultText>„Verrückte Hülle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Und dann werden wir dich fressen!" sagt die Frau.</DefaultText>
+      <DefaultText>„Und dann werden wir dich fressen!“ sagt die Frau.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Mickrig. Inifere nicht würdig."</DefaultText>
+      <DefaultText>„Mickrig. Inifere nicht würdig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,33 +336,33 @@ Er rammt sein Hackbeil nur Zentimeter neben der Hand seiner Begleiterin in die L
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Kannst du nicht aufpassen? Beinahe hast du *meine* Hand abgetrennt statt *seiner*."</DefaultText>
+      <DefaultText>„Kannst du nicht aufpassen? Beinahe hast du *meine* Hand abgetrennt statt *seiner*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Er lächelt und um ihn herum steigt feiner Dunst auf. "Was? Hab dich nicht gehört. Zu viel los."</DefaultText>
+      <DefaultText>Er lächelt und um ihn herum steigt feiner Dunst auf. „Was? Hab dich nicht gehört. Zu viel los.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Sie erlaubt sich ein wölfisches Grinsen. "Das wird ermüdend. Wirst du uns weiter anquasseln oder wirst du dir diese Klinge zunutze machen?“</DefaultText>
+      <DefaultText>Sie erlaubt sich ein wölfisches Grinsen. „Das wird ermüdend. Wirst du uns weiter anquasseln oder wirst du dir diese Klinge zunutze machen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Die Kultistin wenden sich zu ihrem Gefährten. "Ähm... Colo? Überlebe ich das? Für dich ist es einfach, aber für mich? Ich habe nur ein Leben.“</DefaultText>
-      <FemaleText>Die Kultistin wenden sich zu ihrem Gefährten. "Ähm... Colo? Überlebe ich das? Für dich ist es einfach, aber für mich? Ich habe nur ein Leben.“</FemaleText>
+      <DefaultText>Die Kultistin wenden sich zu ihrem Gefährten. „Ähm... Colo? Überlebe ich das? Für dich ist es einfach, aber für mich? Ich habe nur ein Leben.“</DefaultText>
+      <FemaleText>Die Kultistin wenden sich zu ihrem Gefährten. „Ähm... Colo? Überlebe ich das? Für dich ist es einfach, aber für mich? Ich habe nur ein Leben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Na gut. Na gut! Wir lassen sie gehen!“ Er faucht dich an, "Aber dieses Tal ist das Gebiet der Kinder der Endlosen Pforte. Du läufst hier nach unserem Belieben durch.“</DefaultText>
+      <DefaultText>„Na gut. Na gut! Wir lassen sie gehen!“ Er faucht dich an, „Aber dieses Tal ist das Gebiet der Kinder der Endlosen Pforte. Du läufst hier nach unserem Belieben durch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Danke, Colo.“</DefaultText>
-      <FemaleText>"Danke, Colo.“</FemaleText>
+      <DefaultText>„Danke, Colo.“</DefaultText>
+      <FemaleText>„Danke, Colo.“</FemaleText>
     </Entry>
     <Entry>
       <ID>71</ID>
