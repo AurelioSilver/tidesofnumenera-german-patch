@@ -41,9 +41,9 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Trotz der Blasen und der kräftigen Farbe ist das Wasser kristallklar und du kannst bis an den Grund hinabsehen. 
- 
- Dort liegt eine messingfarbene Metallkugel, mit einer weißen Kruste überzogen, aber ansonsten unversehrt. Leider ist sie so weit unten, als dass du sie nur erreichen kannst, wenn du in den Teich eintauchst.</DefaultText>
+      <DefaultText>Trotz der Blasen und der kräftigen Farbe ist das Wasser kristallklar und du kannst bis an den Grund hinabsehen.
+
+Dort liegt eine messingfarbene Metallkugel, mit einer weißen Kruste überzogen, aber ansonsten unversehrt. Leider ist sie so weit unten, als dass du sie nur erreichen kannst, wenn du in den Teich eintauchst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,11 +78,11 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Du tauchst in den Teich ein und sofort brennt das Wasser in deinen Augen. Du musst sie schließen und blind weitertauchen. Das Wasser verbrennt deinen ganzen Körper, doch du tauchst entschlossen weiter hinab und schaffst es, dich bis zu der Kugel vorzutasten und sie herauszuholen. 
- 
+      <DefaultText>Du tauchst in den Teich ein und sofort brennt das Wasser in deinen Augen. Du musst sie schließen und blind weitertauchen. Das Wasser verbrennt deinen ganzen Körper, doch du tauchst entschlossen weiter hinab und schaffst es, dich bis zu der Kugel vorzutasten und sie herauszuholen.
+
 Als du aus dem Wasser steigst, schreist du vor Schmerzen und es dauert eine Weile, bevor du dich wieder gut genug fühlst, um die Kugel zu untersuchen. Dann siehst du, dass es sich dabei um einen Behälter handelt, der verschiedene Objekte enthält.
- 
- {LOOT: a couple things, shins, cypher, misc, etc}</DefaultText>
+
+{LOOT: a couple things, shins, cypher, misc, etc}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,15 +97,15 @@ Als du aus dem Wasser steigst, schreist du vor Schmerzen und es dauert eine Weil
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Du tauchst in den Teich ein und sofort brennt das Wasser in deinen Augen. Du musst sie schließen und blind weitertauchen. Das Wasser verbrennt deinen ganzen Körper, doch du tauchst entschlossen weiter hinab und tastest nach der Kugel. Leider ist der Schmerz zu stark und du musst auftauchen, bevor du die Kugel gefunden hast. 
- 
+      <DefaultText>Du tauchst in den Teich ein und sofort brennt das Wasser in deinen Augen. Du musst sie schließen und blind weitertauchen. Das Wasser verbrennt deinen ganzen Körper, doch du tauchst entschlossen weiter hinab und tastest nach der Kugel. Leider ist der Schmerz zu stark und du musst auftauchen, bevor du die Kugel gefunden hast.
+
 Du schreist vor Schmerzen, als du aus dem Wasser steigst, und es dauert eine Weile, bevor du wieder normal atmen kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Du tauchst erneut in den Teich ein, diesmal mit geschlossenen Augen. Wieder verätzt das Wasser deinen Körper. Leider findest du die Kugel nicht und musst praktisch sofort wieder auftauchen. 
- 
+      <DefaultText>Du tauchst erneut in den Teich ein, diesmal mit geschlossenen Augen. Wieder verätzt das Wasser deinen Körper. Leider findest du die Kugel nicht und musst praktisch sofort wieder auftauchen.
+
 Als du erneut aus dem Wasser steigst, siehst du, dass das Wasser diesmal deine Haut verätzt hat und du an mehreren Stellen blutest. Die Haut an deinen Händen sieht aus wie ein zerrissener Stofffetzen.</DefaultText>
       <FemaleText />
     </Entry>
