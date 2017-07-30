@@ -26,9 +26,9 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Die beiden Kultisten unterbrechen ihr Gespräch als sie dich bemerken. Der Mann, groß, knochig und verstörend abwesend, macht einen Schritt weg von der Leiche, die sie zerhackt haben, und hebt sein Fleischermesser, als wolle er damit böse Geister abwehren. 
- 
- Er zeigt an dir vorbei auf Callistege. "Halte die verrückte Rothaarige von mir fern. Mit ihr wollen wir nichts zu tun haben."</DefaultText>
+      <DefaultText>Die beiden Kultisten unterbrechen ihr Gespräch als sie dich bemerken. Der Mann, groß, knochig und verstörend abwesend, macht einen Schritt weg von der Leiche, die sie zerhackt haben, und hebt sein Fleischermesser, als wolle er damit böse Geister abwehren.
+
+Er zeigt an dir vorbei auf Callistege. "Halte die verrückte Rothaarige von mir fern. Mit ihr wollen wir nichts zu tun haben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -149,8 +149,8 @@
     <Entry>
       <ID>29</ID>
       <DefaultText>"Gut. Geht. Aber nehmt sie mit."
- 
- Callistege lacht, als die beiden Kultisten sich vorsichtig wieder umdrehen und damit fortfahren, die Leiche in handliche Stücke zu zerlegen.</DefaultText>
+
+Callistege lacht, als die beiden Kultisten sich vorsichtig wieder umdrehen und damit fortfahren, die Leiche in handliche Stücke zu zerlegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,9 +161,9 @@
     <Entry>
       <ID>31</ID>
       <DefaultText>"Mehr Fleisch für Inifere."
- 
- {SCRIPT: Starts tussle}
- {TUSSLE: }</DefaultText>
+
+{SCRIPT: Starts tussle}
+{TUSSLE: }</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -194,8 +194,8 @@
     <Entry>
       <ID>37</ID>
       <DefaultText>Er starrt dich einen Moment lang an und sieht sich dann um, als würde er Leute oder Dinge sehen, die deinen Augen verborgen bleiben. Schließlich zuckt er mürrisch mit den Schultern und steckt das Schlachtmesser weg.
- 
- "Gut. Aber dieses Tal ist das Land der Kinder der Endlosen Pforte. Ihr seid hier nur von uns geduldet."</DefaultText>
+
+"Gut. Aber dieses Tal ist das Land der Kinder der Endlosen Pforte. Ihr seid hier nur von uns geduldet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -220,9 +220,9 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Die beiden Kultisten unterbrechen ihr Gespräch als sie dich bemerken. Der Mann, groß, knochig und verstörend abwesend, steigt über die Leiche, die sie zerhackt haben, und hebt sein Fleischermesser. 
- 
- "Du schon wieder", sagt er und wirft dir einen scharfen Blick zu. "Und diesmal ohne die verrückte Rothaarige im Schlepptau. Gut. Ohne sie hast du nicht den Hauch einer Chance."</DefaultText>
+      <DefaultText>Die beiden Kultisten unterbrechen ihr Gespräch als sie dich bemerken. Der Mann, groß, knochig und verstörend abwesend, steigt über die Leiche, die sie zerhackt haben, und hebt sein Fleischermesser.
+
+"Du schon wieder", sagt er und wirft dir einen scharfen Blick zu. "Und diesmal ohne die verrückte Rothaarige im Schlepptau. Gut. Ohne sie hast du nicht den Hauch einer Chance."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -238,8 +238,8 @@
     <Entry>
       <ID>45</ID>
       <DefaultText>"Wer uns nicht gefällt, den fressen wir", sagt die andere Kultistin. "Also pass auf!"
- 
- Sie drehen sich um und fahren damit fort, den die Leiche in handliche Stücke zu zerlegen.</DefaultText>
+
+Sie drehen sich um und fahren damit fort, den die Leiche in handliche Stücke zu zerlegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,8 +330,8 @@
     <Entry>
       <ID>64</ID>
       <DefaultText>Abgelenkt. Verstört? Dieser Kultist murmelt eine Antwort auf eine Frage, die du nicht gehört hast. Er lacht als Reaktion auf einen Witz, der nicht erzählt wurde. Tatsächlich scheint ihm die Gegenwart anderer nur vage bewusst zu sein.
- 
- Er rammt sein Hackbeil nur Zentimeter neben der Hand seiner Begleiterin in die Leiche.</DefaultText>
+
+Er rammt sein Hackbeil nur Zentimeter neben der Hand seiner Begleiterin in die Leiche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
