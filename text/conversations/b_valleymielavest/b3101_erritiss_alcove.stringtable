@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Diese kleine Nische ist ungefähr so groß wie ein kleiner Schuppen. Ihr einziger Vorteil ist, dass sie vor dem Wind und den Blicken von Passanten schützt. 
- 
- Die über ihrem Eingang eingravierten Runen resonieren in deinem Kopf als wortlose Warnung von katastrophaler Gefahr.
- {SCRIPT: This is a conversation with significance to Erritis's personal quest. The player should be able to access it freely if Erritis is not in the party, but it is important for Node 16 in companion_erritis_stage3 to play IMMEDIATELY when Erritis enters or is summoned into the Valley. In short, if Erritis is active, we should see that conversation before he's brought into this one.}</DefaultText>
+      <DefaultText>Diese kleine Nische ist ungefähr so groß wie ein kleiner Schuppen. Ihr einziger Vorteil ist, dass sie vor dem Wind und den Blicken von Passanten schützt.
+
+Die über ihrem Eingang eingravierten Runen resonieren in deinem Kopf als wortlose Warnung von katastrophaler Gefahr.
+{SCRIPT: This is a conversation with significance to Erritis's personal quest. The player should be able to access it freely if Erritis is not in the party, but it is important for Node 16 in companion_erritis_stage3 to play IMMEDIATELY when Erritis enters or is summoned into the Valley. In short, if Erritis is active, we should see that conversation before he's brought into this one.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Erritis legt den Kopf in die Hände. Seine Lippen formen ein stummes "Nein". Dann schluckt er und schüttelt den Kopf. Er wirkt... kleiner, als du ihn in Erinnerung hast. 
- 
- "Ich... mir gefällt dieser Ort nicht." Seine Stimme ist kaum mehr als ein Flüstern Er hält sich die Hände vor die Augen als würden sie ihn schmerzen. "Gehen wir? Ich will gehen."</DefaultText>
+      <DefaultText>Erritis legt den Kopf in die Hände. Seine Lippen formen ein stummes "Nein". Dann schluckt er und schüttelt den Kopf. Er wirkt... kleiner, als du ihn in Erinnerung hast.
+
+"Ich... mir gefällt dieser Ort nicht." Seine Stimme ist kaum mehr als ein Flüstern Er hält sich die Hände vor die Augen als würden sie ihn schmerzen. "Gehen wir? Ich will gehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -37,8 +37,8 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>Der Staub im Inneren der Nische ist beinahe unberührt. Lediglich eine Person scheint hier Kreise gedreht und sich dann in einer Ecke unter einen Mauervorsprung gekauert zu haben, auf der eine kleine dunkle Schatulle steht.
- 
- Der Staub auf dem Mauervorsprung wurde ebenfalls aufgewühlt - jemand hat etwas weggenommen, lang und dünn wie eine Klinge. Stattdessen liegt dort nun ein krude geschnitzter Hirtenstab.</DefaultText>
+
+Der Staub auf dem Mauervorsprung wurde ebenfalls aufgewühlt - jemand hat etwas weggenommen, lang und dünn wie eine Klinge. Stattdessen liegt dort nun ein krude geschnitzter Hirtenstab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -64,15 +64,15 @@
     <Entry>
       <ID>11</ID>
       <DefaultText>Sie nimmt die Schatulle in die Hand und macht für einen Moment große Augen. "Das ist kein bloßes Schmuckstück. Sie wurde gemacht, um etwas Gefährliches darin aufzubewahren ... etwas Lebendiges, wie es scheint, und irgendein Narr hat sie aufgebrochen. Jetzt ist sie nutzlos."
- 
- Sie wischt sich den Staub von den Händen. "Keine meine Schwestern kann etwas Nützliches hier entdecken. Gehen wir." Sie zittert ein wenig. "Keine von uns möchte noch länger hierbleiben."</DefaultText>
+
+Sie wischt sich den Staub von den Händen. "Keine meine Schwestern kann etwas Nützliches hier entdecken. Gehen wir." Sie zittert ein wenig. "Keine von uns möchte noch länger hierbleiben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>"Jemand hat hier geschlafen, nicht wahr? Wollte sich verstecken, wusste aber nicht wie." Sie steckt nervös die Hand in die Tasche. "Ich hoffe, dieser Jemand hat nun ein besseres Versteck gefunden. Das hier fühlt sich nicht wie ein Ort an, an dem man länger bleiben sollte. Es fühlt sich ... hungrig an."
- 
- Sie umarmt sich selbst. "Gehen wir. Dieser Ort gefällt mir nicht."</DefaultText>
+
+Sie umarmt sich selbst. "Gehen wir. Dieser Ort gefällt mir nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,13 +107,13 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ich erinnere mich an diesen Ort." Seine Stimme verlässt ihn wieder. So wie seine Stimme versagt, scheint auch das Leuchten vor seinem Gesicht zu verschwinden. 
- 
- "Da war ... noch jemand. Ein Junge." Erritis' Gesichtsausdruck wird weicher.
- 
- "Er war müde. Verängstigt. Ganz anders als ich. Er kam hierher ... schlief dort ein ... und wachte nie wieder auf. Der Schlaf begrub ihn und er schrie. Schreit immer noch ..." 
- 
- Erritis versagt wieder die Stimme. Er schluckt. "Wenn es ganz still ist, kann ich ihn hören."</DefaultText>
+      <DefaultText>"Ich erinnere mich an diesen Ort." Seine Stimme verlässt ihn wieder. So wie seine Stimme versagt, scheint auch das Leuchten vor seinem Gesicht zu verschwinden.
+
+"Da war ... noch jemand. Ein Junge." Erritis' Gesichtsausdruck wird weicher.
+
+"Er war müde. Verängstigt. Ganz anders als ich. Er kam hierher ... schlief dort ein ... und wachte nie wieder auf. Der Schlaf begrub ihn und er schrie. Schreit immer noch ..."
+
+Erritis versagt wieder die Stimme. Er schluckt. "Wenn es ganz still ist, kann ich ihn hören."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -154,10 +154,10 @@
     <Entry>
       <ID>28</ID>
       <DefaultText>"Ein ... Bauernjunge. Ein Hirte. Er hat sich den falschen Schlafplatz ausgesucht. Zur falschen Zeit seiner Neugier nachgegeben. Und nun hat er die ganze Zeit über Angst."
- 
+
 Er klopft sich mit den Fingerknöcheln gegen die Stirn. "Wer war er ... wer war er ..."
- 
- Und dann ...</DefaultText>
+
+Und dann ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,12 +172,12 @@ Er klopft sich mit den Fingerknöcheln gegen die Stirn. "Wer war er ... wer war 
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Du streckst die Hand aus, um den Stab aufzuheben. Neben dir stöhnt Erritis auf. 
- 
+      <DefaultText>Du streckst die Hand aus, um den Stab aufzuheben. Neben dir stöhnt Erritis auf.
+
 Helles Licht schießt aus dem Stab und alles wird weiß. Du hörst jemanden schreien - vielleicht Erritis, vielleicht dich selbst. Donnernde Stimmen brüllen hinter dem fauchenden Geheul dieser endlosen elfenbeinernen Wand und etwas rast auf dich zu, etwas, das du nicht sehen kannst-
- {SCRIPT: Reflection of Erritis is now available in the Labyrinth.}
- {SCRIPT: White flash.}
- {SCRIPT: Erritis's glow vanishes.}</DefaultText>
+{SCRIPT: Reflection of Erritis is now available in the Labyrinth.}
+{SCRIPT: White flash.}
+{SCRIPT: Erritis's glow vanishes.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,13 +229,13 @@ Helles Licht schießt aus dem Stab und alles wird weiß. Du hörst jemanden schr
       <ID>41</ID>
       <DefaultText>Du streckst vorsichtig die Hand aus, um den Stab zu nehmen.
  
-Ein weißglühender Energieblitz schießt von dem Stab in deine Hand. Du spürst keinen Schmerz, aber dein ganzer Arm wird vorübergehend taub. 
- 
-Die Energie fließt durch deinen Körper und Geist und über deinen anderen Arm wieder zurück in den unscheinbaren Hirtenstab. Du hörst das Echo von Stimmen, zu leise, um sie zu verstehen, sodass du nur ein vages Gefühl davon hast, was sie sagen. 
- 
-*Nicht deins*. Das ist die Botschaft, die sie in rasch verblassenden Lettern in dein Gehirn gebrannt haben. *Halte dich fern*. 
- {SCRIPT: White flash.}
- {SOUND: Electric shock.}</DefaultText>
+Ein weißglühender Energieblitz schießt von dem Stab in deine Hand. Du spürst keinen Schmerz, aber dein ganzer Arm wird vorübergehend taub.
+
+Die Energie fließt durch deinen Körper und Geist und über deinen anderen Arm wieder zurück in den unscheinbaren Hirtenstab. Du hörst das Echo von Stimmen, zu leise, um sie zu verstehen, sodass du nur ein vages Gefühl davon hast, was sie sagen.
+
+*Nicht deins*. Das ist die Botschaft, die sie in rasch verblassenden Lettern in dein Gehirn gebrannt haben. *Halte dich fern*.
+{SCRIPT: White flash.}
+{SOUND: Electric shock.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -289,12 +289,12 @@ Du folgst seinem Blick. Der Hirtenstab ist verschwunden.</DefaultText>
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Er nickt. Schluckt. Nickt wieder. 
- 
-Langsam, wie die hinter einem Berg aufgehende Sonne, kommt sein Leuchten zurück. Als er sich wegdreht, bleibt sein Blick kurz auf deiner Stirn haften, ergriffen und traurig, bevor das Leuchten auch seine Augen erfüllt und er lächelt. 
- 
+      <DefaultText>Er nickt. Schluckt. Nickt wieder.
+
+Langsam, wie die hinter einem Berg aufgehende Sonne, kommt sein Leuchten zurück. Als er sich wegdreht, bleibt sein Blick kurz auf deiner Stirn haften, ergriffen und traurig, bevor das Leuchten auch seine Augen erfüllt und er lächelt.
+
 "Warum stehen wir in dieser langweiligen Nische herum?" sagt er und sieht sich um. "Wir sollten kämpfen! Schlemmen! Von Dach zu Dach hüpfen! Los, lass uns Dächer suchen!" Er keucht. "Ist *das* ein Dach?!"
- {SCRIPT: Erritis's glow returns.}</DefaultText>
+{SCRIPT: Erritis's glow returns.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
