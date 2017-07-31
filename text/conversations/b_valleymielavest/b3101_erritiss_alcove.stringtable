@@ -38,12 +38,12 @@ Die über ihrem Eingang eingravierten Runen resonieren in deinem Kopf als wortlo
       <ID>6</ID>
       <DefaultText>Der Staub im Inneren der Nische ist beinahe unberührt. Lediglich eine Person scheint hier Kreise gedreht und sich dann in einer Ecke unter einen Mauervorsprung gekauert zu haben, auf der eine kleine dunkle Schatulle steht.
 
-Der Staub auf dem Mauervorsprung wurde ebenfalls aufgewühlt - jemand hat etwas weggenommen, lang und dünn wie eine Klinge. Stattdessen liegt dort nun ein krude geschnitzter Hirtenstab.</DefaultText>
+Der Staub auf dem Mauervorsprung wurde ebenfalls aufgewühlt – jemand hat etwas weggenommen, lang und dünn wie eine Klinge. Stattdessen liegt dort nun ein krude geschnitzter Hirtenstab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Die Nische ist praktisch noch so, wie du sie verlassen hast - mit der schmalen Fußspur in der dicken Staubschicht auf dem Boden. Auf dem Regal vor dir liegt eine offene schwarze Schatulle.</DefaultText>
+      <DefaultText>Die Nische ist praktisch noch so, wie du sie verlassen hast – mit der schmalen Fußspur in der dicken Staubschicht auf dem Boden. Auf dem Regal vor dir liegt eine offene schwarze Schatulle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@ Der Staub auf dem Mauervorsprung wurde ebenfalls aufgewühlt - jemand hat etwas 
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Sie untersucht die Spuren im Staub und den restlichen Raum. „Wer hier Rast gesucht hat war klein - kaum größer als ein Teenager - und vermutlich ein Mann. Kein schöner Ort, um die Nacht zu verbringen. Er hat vermutlich Albträume gehabt.“</DefaultText>
+      <DefaultText>Sie untersucht die Spuren im Staub und den restlichen Raum. „Wer hier Rast gesucht hat war klein – kaum größer als ein Teenager – und vermutlich ein Mann. Kein schöner Ort, um die Nacht zu verbringen. Er hat vermutlich Albträume gehabt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,7 +174,7 @@ Und dann …</DefaultText>
       <ID>31</ID>
       <DefaultText>Du streckst die Hand aus, um den Stab aufzuheben. Neben dir stöhnt Erritis auf.
 
-Helles Licht schießt aus dem Stab und alles wird weiß. Du hörst jemanden schreien - vielleicht Erritis, vielleicht dich selbst. Donnernde Stimmen brüllen hinter dem fauchenden Geheul dieser endlosen elfenbeinernen Wand und etwas rast auf dich zu, etwas, das du nicht sehen kannst-
+Helles Licht schießt aus dem Stab und alles wird weiß. Du hörst jemanden schreien – vielleicht Erritis, vielleicht dich selbst. Donnernde Stimmen brüllen hinter dem fauchenden Geheul dieser endlosen elfenbeinernen Wand und etwas rast auf dich zu, etwas, das du nicht sehen kannst-
 {SCRIPT: Reflection of Erritis is now available in the Labyrinth.}
 {SCRIPT: White flash.}
 {SCRIPT: Erritis's glow vanishes.}</DefaultText>
@@ -250,7 +250,7 @@ Die Energie fließt durch deinen Körper und Geist und über deinen anderen Arm 
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Eine Handvoll Sinne, Gefühle, Erinnerungen und *Angst* schießt in deinen Geist ein und lässt dich einen Schritt über den staubigen Boden der Nische zurücktaumeln. Etwas in dir hat sich verändert… in dem Labyrinth. Du hörst eine Stimme in deinem Kopf - sie klingt wie die von Erritis - aber klein und verängstigt.
+      <DefaultText>Eine Handvoll Sinne, Gefühle, Erinnerungen und *Angst* schießt in deinen Geist ein und lässt dich einen Schritt über den staubigen Boden der Nische zurücktaumeln. Etwas in dir hat sich verändert… in dem Labyrinth. Du hörst eine Stimme in deinem Kopf – sie klingt wie die von Erritis – aber klein und verängstigt.
  
 Du siehst zu ihm rüber.</DefaultText>
       <FemaleText />
@@ -334,7 +334,7 @@ Ohne dass er dich ansieht, hebt sich sein Arm und zeigt auf deine Stirn. Ihm sch
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>„Ja, klar“, sagt er und nickt dir zu. Eine Träne kullert seine eingefallene Wange herab und um sein fröhliches Grinsen herum. „Aber wenn du schon fragst - mir ist langweilig hier. Wir sollten gehen. Wir sollten *jetzt gleich* gehen.“
+      <DefaultText>„Ja, klar“, sagt er und nickt dir zu. Eine Träne kullert seine eingefallene Wange herab und um sein fröhliches Grinsen herum. „Aber wenn du schon fragst – mir ist langweilig hier. Wir sollten gehen. Wir sollten *jetzt gleich* gehen.“
  
 Er pfeift leise vor sich hin und wendet den Blick ab.</DefaultText>
       <FemaleText />
