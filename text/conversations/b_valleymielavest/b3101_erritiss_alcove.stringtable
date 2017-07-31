@@ -148,7 +148,7 @@ Erritis versagt wieder die Stimme. Er schluckt. „Wenn es ganz still ist, kann 
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>„Ich weiß es nicht mehr!“ schreit er. „Es war ein Albtraum, eine dumme Geschichte, hatte nichts Heroisches an sich. Es war reine Zeitverschwendung und ich weiß nicht, warum ich mich überhaupt daran erinnere!“</DefaultText>
+      <DefaultText>„Ich weiß es nicht mehr!“, schreit er. „Es war ein Albtraum, eine dumme Geschichte, hatte nichts Heroisches an sich. Es war reine Zeitverschwendung und ich weiß nicht, warum ich mich überhaupt daran erinnere!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,7 +293,7 @@ Du folgst seinem Blick. Der Hirtenstab ist verschwunden.</DefaultText>
 
 Langsam, wie die hinter einem Berg aufgehende Sonne, kommt sein Leuchten zurück. Als er sich wegdreht, bleibt sein Blick kurz auf deiner Stirn haften, ergriffen und traurig, bevor das Leuchten auch seine Augen erfüllt und er lächelt.
 
-„Warum stehen wir in dieser langweiligen Nische herum?“ sagt er und sieht sich um. „Wir sollten kämpfen! Schlemmen! Von Dach zu Dach hüpfen! Los, lass uns Dächer suchen!“ Er keucht. „Ist *das* ein Dach?!“
+„Warum stehen wir in dieser langweiligen Nische herum?“, sagt er und sieht sich um. „Wir sollten kämpfen! Schlemmen! Von Dach zu Dach hüpfen! Los, lass uns Dächer suchen!“ Er keucht. „Ist *das* ein Dach?!“
 {SCRIPT: Erritis's glow returns.}</DefaultText>
       <FemaleText />
     </Entry>
@@ -313,7 +313,7 @@ Ohne dass er dich ansieht, hebt sich sein Arm und zeigt auf deine Stirn. Ihm sch
       <ID>56</ID>
       <DefaultText>Dann kehrt sein Leuchten zurück, wie die hinter einem Berg aufgehende Sonne, und erfüllt ihn. Er lächelt und senkt seine eigensinnige Hand.
  
-„Warum stehen wir hier herum?“ sagt er und sieht sich um. „Wir sollten kämpfen! Schlemmen! Von Dach zu Dach hüpfen! Los, lass uns Dächer suchen!“ Er keucht. „Ist *das* ein Dach?!“
+„Warum stehen wir hier herum?“, sagt er und sieht sich um. „Wir sollten kämpfen! Schlemmen! Von Dach zu Dach hüpfen! Los, lass uns Dächer suchen!“ Er keucht. „Ist *das* ein Dach?!“
  {SCRIPT: Erritis's glow returns.}</DefaultText>
       <FemaleText />
     </Entry>
