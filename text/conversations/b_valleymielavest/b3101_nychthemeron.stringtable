@@ -32,7 +32,7 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>"Dieses ... klumpige Ding ... sieht nicht freundlich aus." Erritis betrachtet es für einen langen Augenblick ernst, dann hellt seine Mine auf. "Und dennoch habe ich gelernt, dass ich mich nicht von Äußerlichkeiten täuschen lassen sollte. Ich werde mich mit ihm anfreunden. Vielleicht kann es unser Begleittier werden."
- 
+
  Er schreitet vor.</DefaultText>
       <FemaleText />
     </Entry>
@@ -68,24 +68,24 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Erritis schreitet voran, zielgerichtet, und hält an. Einen Fuß vorgestellt, atmet er scharf ein, als würde er ein Gedicht vortragen. "Schrecklich aussehendes Ding der Albträume, ich gewähre Euch, auch wenn Eure Erscheinung nach meinen Augen stochert, dennoch-" 
- 
+      <DefaultText>Erritis schreitet voran, zielgerichtet, und hält an. Einen Fuß vorgestellt, atmet er scharf ein, als würde er ein Gedicht vortragen. "Schrecklich aussehendes Ding der Albträume, ich gewähre Euch, auch wenn Eure Erscheinung nach meinen Augen stochert, dennoch-"
+
 Ehe er seinen Satz beenden kann, rammt ihm das Nychthemeron einen Injektor in den Magen. Erritis gibt einen keuchenden Schrei von sich und taumelt zurück, das Nychthemeron folgt ihm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>"Die Äußerlichkeiten ... haben nicht getäuscht ... zumindest ... heute."
- 
- {SCRIPT: Give Erritis some kind of nychthemeron Fettle effect}
- {TUSSLE: (note fettle added here, tussle starts on next node)}</DefaultText>
+
+{SCRIPT: Give Erritis some kind of nychthemeron Fettle effect}
+{TUSSLE: (note fettle added here, tussle starts on next node)}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Er öffnet den Mund, um ihn dann wieder zu schließen. Dann öffnet er ihn ... und hält ihn offen, während er die mächtige Kreatur argwöhnisch beobachtet. "Vielleicht ... ist das nicht der beste Weg. Vorerst." 
- 
- Er schaudert. "Ich habe einen Augenblick lang ... einen Anfall von Weisheit verspürt."</DefaultText>
+      <DefaultText>Er öffnet den Mund, um ihn dann wieder zu schließen. Dann öffnet er ihn ... und hält ihn offen, während er die mächtige Kreatur argwöhnisch beobachtet. "Vielleicht ... ist das nicht der beste Weg. Vorerst."
+
+Er schaudert. "Ich habe einen Augenblick lang ... einen Anfall von Weisheit verspürt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,8 +126,8 @@ Ehe er seinen Satz beenden kann, rammt ihm das Nychthemeron einen Injektor in de
     <Entry>
       <ID>23</ID>
       <DefaultText>Mit einem unmenschlichen Brüllen aus organischem Stahl richtet das Nychthemeron seine fürchterlichen Waffen auf dich und der Kampf beginnt!
- 
- {SOUND: Something like the sound of a lion's roar, but heavily filtered and distorted}</DefaultText>
+
+{SOUND: Something like the sound of a lion's roar, but heavily filtered and distorted}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,8 +178,8 @@ Ehe er seinen Satz beenden kann, rammt ihm das Nychthemeron einen Injektor in de
     <Entry>
       <ID>34</ID>
       <DefaultText>Es scheint deine Bewegungen zu antizipieren und nähert sich schnell, ehe du entkommen kannst.
- 
- {SOUND: Something like the sound of a lion's roar, but heavily filtered and distorted}</DefaultText>
+
+{SOUND: Something like the sound of a lion's roar, but heavily filtered and distorted}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
