@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Dieses ... klumpige Ding ... sieht nicht freundlich aus.“ Erritis betrachtet es für einen langen Augenblick ernst, dann hellt seine Mine auf. „Und dennoch habe ich gelernt, dass ich mich nicht von Äußerlichkeiten täuschen lassen sollte. Ich werde mich mit ihm anfreunden. Vielleicht kann es unser Begleittier werden.“
+      <DefaultText>„Dieses … klumpige Ding … sieht nicht freundlich aus.“ Erritis betrachtet es für einen langen Augenblick ernst, dann hellt seine Mine auf. „Und dennoch habe ich gelernt, dass ich mich nicht von Äußerlichkeiten täuschen lassen sollte. Ich werde mich mit ihm anfreunden. Vielleicht kann es unser Begleittier werden.“
 
  Er schreitet vor.</DefaultText>
       <FemaleText />
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Oh je. Ich sehe keine Realität, in der diese Interaktion gut endet ... wartet. Es sei denn, du entscheidest dich, wegzugehen.“</DefaultText>
+      <DefaultText>„Oh je. Ich sehe keine Realität, in der diese Interaktion gut endet … wartet. Es sei denn, du entscheidest dich, wegzugehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -75,7 +75,7 @@ Ehe er seinen Satz beenden kann, rammt ihm das Nychthemeron einen Injektor in de
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Die Äußerlichkeiten ... haben nicht getäuscht ... zumindest ... heute.“
+      <DefaultText>„Die Äußerlichkeiten … haben nicht getäuscht … zumindest … heute.“
 
 {SCRIPT: Give Erritis some kind of nychthemeron Fettle effect}
 {TUSSLE: (note fettle added here, tussle starts on next node)}</DefaultText>
@@ -83,9 +83,9 @@ Ehe er seinen Satz beenden kann, rammt ihm das Nychthemeron einen Injektor in de
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Er öffnet den Mund, um ihn dann wieder zu schließen. Dann öffnet er ihn ... und hält ihn offen, während er die mächtige Kreatur argwöhnisch beobachtet. „Vielleicht ... ist das nicht der beste Weg. Vorerst.“
+      <DefaultText>Er öffnet den Mund, um ihn dann wieder zu schließen. Dann öffnet er ihn … und hält ihn offen, während er die mächtige Kreatur argwöhnisch beobachtet. „Vielleicht … ist das nicht der beste Weg. Vorerst.“
 
-Er schaudert. „Ich habe einen Augenblick lang ... einen Anfall von Weisheit verspürt.“</DefaultText>
+Er schaudert. „Ich habe einen Augenblick lang … einen Anfall von Weisheit verspürt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,7 +152,7 @@ Er schaudert. „Ich habe einen Augenblick lang ... einen Anfall von Weisheit v
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„Tu, was du willst ... aber ich warte hier auf dich.“</DefaultText>
+      <DefaultText>„Tu, was du willst … aber ich warte hier auf dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
