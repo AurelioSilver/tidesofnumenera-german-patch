@@ -139,7 +139,7 @@ Er schaltet es ab. "Seht Ihr? Ich kenne die Spezies nicht, auf die sich das bezi
     <Entry>
       <ID>43</ID>
       <DefaultText>"Einige Wochen kümmerten sich Chirurgen um mich. Als ich erwachte, war ich so, wie Ihr mich jetzt seht, und unsere anderen Freunde waren tot. Thalana und Denovan reagierten ganz anders auf mich. Sie sagen, dass ich mich auch verändert habe. Ich weiß es nicht. Ich weiß, dass ich keine Angst mehr habe. Ich kann mich nicht mehr wirklich an *Emotionen* erinnern. Ich erinnere mich an Angst und Furcht, aber ich kann mich nicht mehr an den *Geschmack* erinnern. Und als ich mit ihnen sprach, stimmten sie zu, dass für uns die Zeit gekommen war, zu gehen. Zu gehen, bevor wir zu diesen vergessenen Namen werden, die im Fluss der Welten verloren sind."</DefaultText>
-      <FemaleText>"Einige Wochen kümmerten sich Chirurgen um mich. Als ich erwachte, war ich so, wie Ihr mich jetzt seht, und unsere anderen Freunde waren tot. Thalana und Denovan reagierten ganz anders auf mich. Sie sagen, dass ich mich auch verändert habe. Ich weiß es nicht. Ich weiß, dass ich keine Angst mehr habe. Ich kann mich nicht mehr wirklich an *Emotionen* erinnern. Ich erinnere mich an Angst und Furcht, aber ich kann mich nicht mehr an den *Geschmack* erinnern. Und als ich mit ihnen sprach, stimmten sie zu, dass für uns die Zeit gekommen war, zu gehen. Zu gehen, bevor wir zu diesen vergessenen Namen werden, die im Fluss der Welten verloren sind.”</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
@@ -264,12 +264,12 @@ Er schaltet es ab. "Seht Ihr? Ich kenne die Spezies nicht, auf die sich das bezi
     <Entry>
       <ID>70</ID>
       <DefaultText>"Ich würde dich liebend gerne untersuchen, wenn du es erlaubst. Vielleicht können wir darüber sprechen, was du gelernt hast?“</DefaultText>
-      <FemaleText>"Ich würde dich liebend gerne untersuchen, wenn du es erlaubst. Vielleicht können wir darüber sprechen, was du gelernt hast?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
       <DefaultText>"Ich würde die Gelegenheit genießen, mein Wissen mit jemandem zu teilen, der meine Worte verstehen kann. Vielleicht können wir anfangen, darüber zu reden, was ich gerade gelesen habe.“</DefaultText>
-      <FemaleText>"Ich würde die Gelegenheit genießen, mein Wissen mit jemandem zu teilen, der meine Worte verstehen kann. Vielleicht können wir anfangen, darüber zu reden, was ich gerade gelesen habe.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
