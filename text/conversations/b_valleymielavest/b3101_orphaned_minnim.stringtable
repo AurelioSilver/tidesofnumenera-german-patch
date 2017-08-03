@@ -26,23 +26,23 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Obwohl Ihr noch nie eines gesehen habt, so seid Ihr doch ziemlich sicher, dass das ein lebendiges Ding ist – der Name 'Minnim' kommt Euch in den Sinn. Minnims paaren sich normalerweise mit einem anderen ihrer Art, und es ist möglich, durch die Leere, welche beide verbindet, von einem zum anderen zu reisen. Dieses hier scheint allerdings im Sterben zu liegen und die Leere darin hat keinen weiteren Ausgang, als habe es seinen Partner verloren. 
- 
- Ihr bemerkt auch, dass die sich auflösenden Ränder der Dunkelheit davonfliegen, wie Asche oder Pollen.</DefaultText>
+      <DefaultText>Obwohl Ihr noch nie eines gesehen habt, so seid Ihr doch ziemlich sicher, dass das ein lebendiges Ding ist – der Name 'Minnim' kommt Euch in den Sinn. Minnims paaren sich normalerweise mit einem anderen ihrer Art, und es ist möglich, durch die Leere, welche beide verbindet, von einem zum anderen zu reisen. Dieses hier scheint allerdings im Sterben zu liegen und die Leere darin hat keinen weiteren Ausgang, als habe es seinen Partner verloren.
+
+Ihr bemerkt auch, dass die sich auflösenden Ränder der Dunkelheit davonfliegen, wie Asche oder Pollen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Dies sieht anderen schwebenden Rissen sehr ähnlich, die Ihr gesehen habt, doch das Leben, das Ihr in den anderen gespürt habt, ist in diesem hier nur schwach vorhanden. Sobald Ihr Euch nähert, könnt Ihr seinen von Schmerz geplagten Geist spüren, der auf Eure Anwesenheit reagiert und nach einer Verbindung sucht. Der Kontakt ist durch von einer spürbaren Verzweiflung geprägt.
- 
- Vielleicht hat dieses Gefühl damit zu tun, dass die Leere sich mit nichts verbinden kann.</DefaultText>
+
+Vielleicht hat dieses Gefühl damit zu tun, dass die Leere sich mit nichts verbinden kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Die Dunkelheit umgibt Euch. Ihr werdet wie von einem Wind hin und her gepeitscht. Es ist ein wirbelnder Strudel ohne Weg nach vorne und ohne Weg zurück. Die Öffnung, die Ihr passiert habt, ist in völliger Dunkelheit verschwunden. 
- 
- Ein Hagel kleiner Objekte schlägt im Dunkeln auf Euch ein, geschleudert durch den Wind. Steine oder Knochen oder Drit, Ihr wisst es nicht. Dann schlägt etwas Großes und Scharfes auf Euch ein und Ihr ringt eine Weile damit, ehe Ihr erkennt, dass es sich um ein Skelett handelt – wenn auch nicht um ein menschliches.</DefaultText>
+      <DefaultText>Die Dunkelheit umgibt Euch. Ihr werdet wie von einem Wind hin und her gepeitscht. Es ist ein wirbelnder Strudel ohne Weg nach vorne und ohne Weg zurück. Die Öffnung, die Ihr passiert habt, ist in völliger Dunkelheit verschwunden.
+
+Ein Hagel kleiner Objekte schlägt im Dunkeln auf Euch ein, geschleudert durch den Wind. Steine oder Knochen oder Drit, Ihr wisst es nicht. Dann schlägt etwas Großes und Scharfes auf Euch ein und Ihr ringt eine Weile damit, ehe Ihr erkennt, dass es sich um ein Skelett handelt – wenn auch nicht um ein menschliches.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,8 +72,8 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Dies sieht anderen schwebenden Rissen sehr ähnlich, die Ihr gesehen habt, doch die Lebenskraft, die Ihr in den anderen gespürt habt, ist in diesem hier nur schwach vorhanden und es hat Eure Anwesenheit nicht bemerkt. Ihr könnt spüren, dass die Leere darin keinen weiteren Ausgang hat, als habe er seinen Partner verloren. 
- 
+      <DefaultText>Dies sieht anderen schwebenden Rissen sehr ähnlich, die Ihr gesehen habt, doch die Lebenskraft, die Ihr in den anderen gespürt habt, ist in diesem hier nur schwach vorhanden und es hat Eure Anwesenheit nicht bemerkt. Ihr könnt spüren, dass die Leere darin keinen weiteren Ausgang hat, als habe er seinen Partner verloren.
+
  Ihr bemerkt auch, dass die sich auflösenden Ränder der Dunkelheit davonfliegen, wie Asche oder Pollen.</DefaultText>
       <FemaleText />
     </Entry>
@@ -105,8 +105,8 @@
     <Entry>
       <ID>19</ID>
       <DefaultText>Ihr fangt tatsächlich die Tupfen Dunkelheit mit der Hand, doch sie lösen sich wie schwarzer Schnee beinahe sofort auf. Als Ihr Euch nähert, atmet Ihr jedoch versehentlich einige der Tupfen ein.
- 
- Ihr bleibt eine Weile ganz ruhig stehen und hört auf Euren Körper. Doch nichts scheint sich in Euch verändert zu haben – weder zum Guten noch zum Schlechten. Vielleicht haben sich die Tupfen in Eurer Lunge genauso schnell aufgelöst.</DefaultText>
+
+Ihr bleibt eine Weile ganz ruhig stehen und hört auf Euren Körper. Doch nichts scheint sich in Euch verändert zu haben – weder zum Guten noch zum Schlechten. Vielleicht haben sich die Tupfen in Eurer Lunge genauso schnell aufgelöst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,9 +131,9 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Als Ihr versucht, es abzuschütteln, spürt Ihr einen Gegenstand in seiner Hand. Ihr löst ihn und das Skelett fällt von Euch ab. Dann hebt der Wind Euch zu einem hellen Fleck in der Dunkelheit an und Ihr stolpert zurück durch die Öffnung, die Ihr betreten habt, den gestohlenen Gegenstand fest in Eurer Hand. 
- 
- {LOOT: Make sure this loot drop is a single object. Thanks.}</DefaultText>
+      <DefaultText>Als Ihr versucht, es abzuschütteln, spürt Ihr einen Gegenstand in seiner Hand. Ihr löst ihn und das Skelett fällt von Euch ab. Dann hebt der Wind Euch zu einem hellen Fleck in der Dunkelheit an und Ihr stolpert zurück durch die Öffnung, die Ihr betreten habt, den gestohlenen Gegenstand fest in Eurer Hand.
+
+{LOOT: Make sure this loot drop is a single object. Thanks.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -219,7 +219,7 @@
     <Entry>
       <ID>49</ID>
       <DefaultText>Ihr streckt den Arm aus, um die Lanze aus Dunkelheit zu berühren. Sie sticht plötzlich vor – *durch* Eure Hand und in Eure Brust. Schmerz blitzt auf und Ihr könnt seine Verzweiflung spüren, sein *Bedürfnis*, sich zu verbinden.
- 
+
  Die Lanze zieht sich zurück, doch etwas bleibt in Eurer Brust und pulsiert zusammen mit Eurem Herzen. Ihr fühlt Euch scharfsinniger und aufmerksam. Es hat Euch einen Teil seiner Selbst gegeben.</DefaultText>
       <FemaleText />
     </Entry>
