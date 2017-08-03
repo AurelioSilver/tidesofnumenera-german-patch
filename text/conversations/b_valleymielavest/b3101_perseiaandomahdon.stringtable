@@ -71,7 +71,7 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>Du erkennst diese Frau aus der Beschreibung, die Omahdon dir in Sagus Klippen gab. Das ist Perseia, Omahdons 'verlorene Liebe'. Sie wirkt sicherlich nicht so verwirrt, wie Omahdon sie beschrieben hat. Stattdessen studiert sie die Nekropolis mit frustriertem Gesichtsausdruck.</DefaultText>
-      <FemaleText>Ihr erkennt diese Frau aus der Beschreibung, die Omahdon Euch in Sagus Klippen gab. Dies ist Perseia, Omahdons 'verlorene Liebe'. Sie wirkt sicherlich nicht so verwirrt wie Omahdon sie beschrieben hat. Stattdessen studiert sie die Nekropolis mit frustriertem Gesichtsausdruck.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
@@ -86,7 +86,7 @@
     <Entry>
       <ID>15</ID>
       <DefaultText>::murmelt::</DefaultText>
-      <FemaleText>::murmelt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -116,7 +116,7 @@
     <Entry>
       <ID>21</ID>
       <DefaultText>::knurrt::</DefaultText>
-      <FemaleText>::knurrt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -176,7 +176,7 @@
     <Entry>
       <ID>34</ID>
       <DefaultText>::seufzt::</DefaultText>
-      <FemaleText>::seufzt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
