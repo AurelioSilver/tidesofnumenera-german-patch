@@ -8,12 +8,12 @@
       <ID>1</ID>
       <DefaultText>Der Mann sieht recht nett aus und scheint bestenfalls bescheiden zu sein. Doch – und das ist ein sehr merkwürdiges Gefühl – es scheint beinahe als existiere er nicht. Als du versuchst, dich auf ihn zu konzentrieren, kommt ein Gefühl des Grauens in dir auf. Du hast nicht wirklich Angst, doch du weißt, dass du dich nicht in Sicherheit befindest.
 
-"Ihr werdet meinen Namen wissen wollen ... Es ist lange her, dass ich ihn ausgesprochen habe. Mal sehen... Wie wäre es, wenn Ihr mich Fenz nennt? Nein, das ist schrecklich. Wartet." Er fängt an, zu murmeln. "Finx ... Foeens? Phö ... nix? Ja! Das ist es! Phönix! Nennt mich Phönix."</DefaultText>
+„Ihr werdet meinen Namen wissen wollen ... Es ist lange her, dass ich ihn ausgesprochen habe. Mal sehen... Wie wäre es, wenn Ihr mich Fenz nennt? Nein, das ist schrecklich. Wartet.“ Er fängt an, zu murmeln. „Finx ... Foeens? Phö ... nix? Ja! Das ist es! Phönix! Nennt mich Phönix.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Er lächelt. "Ärger? Nicht für mich. Sie sind schon oft wegen mir gekommen. Sie gehen nicht wieder."
+      <DefaultText>Er lächelt. „Ärger? Nicht für mich. Sie sind schon oft wegen mir gekommen. Sie gehen nicht wieder.“
 
 Die Tatsache, dass er mitten im Tal steht – alleine und sicher – unterstützt seine Geschichte.</DefaultText>
       <FemaleText />
@@ -40,12 +40,12 @@ Die Tatsache, dass er mitten im Tal steht – alleine und sicher – unterstütz
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich halte es und ich studiere es. Ich lese es. Trotzdem verstehe ich es nicht." Er geht mit dem Finger die Farben des Regenbogens durch. "Wie kann ich es also lernen?"</DefaultText>
+      <DefaultText>„Ich halte es und ich studiere es. Ich lese es. Trotzdem verstehe ich es nicht.“ Er geht mit dem Finger die Farben des Regenbogens durch. „Wie kann ich es also lernen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Oh. Ihr seid zurück." Er scheint leicht überrascht zu sein.</DefaultText>
+      <DefaultText>„Oh. Ihr seid zurück.“ Er scheint leicht überrascht zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,12 +60,12 @@ Die Tatsache, dass er mitten im Tal steht – alleine und sicher – unterstütz
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Erzählt mir etwas über Euch."</DefaultText>
+      <DefaultText>„Erzählt mir etwas über Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Erzählt mir nochmal etwas über Euch."</DefaultText>
+      <DefaultText>„Erzählt mir nochmal etwas über Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -75,22 +75,22 @@ Die Tatsache, dass er mitten im Tal steht – alleine und sicher – unterstütz
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Hattet Ihr mit den Kultisten hier Ärger?"</DefaultText>
+      <DefaultText>„Hattet Ihr mit den Kultisten hier Ärger?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Sagt mir nochmal, warum Ihr keinen Ärger mit den Kultisten hattet."</DefaultText>
+      <DefaultText>„Sagt mir nochmal, warum Ihr keinen Ärger mit den Kultisten hattet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ich habe Eure Markierung in der Nekropolis gefunden. Die Notiz enthält einen Code zu Eurem Grab."</DefaultText>
+      <DefaultText>„Ich habe Eure Markierung in der Nekropolis gefunden. Die Notiz enthält einen Code zu Eurem Grab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Lebt wohl."</DefaultText>
+      <DefaultText>„Lebt wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -100,12 +100,12 @@ Die Tatsache, dass er mitten im Tal steht – alleine und sicher – unterstütz
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Kann ich die Notiz sehen, die Euch hierher gebracht hat?"</DefaultText>
+      <DefaultText>„Kann ich die Notiz sehen, die Euch hierher gebracht hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Kann ich schon die Notiz sehen, von der Ihr gesprochen habt?"</DefaultText>
+      <DefaultText>„Kann ich schon die Notiz sehen, von der Ihr gesprochen habt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,14 +115,14 @@ Die Tatsache, dass er mitten im Tal steht – alleine und sicher – unterstütz
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Wollt Ihr gegen mich kämpfen?"
+      <DefaultText>„Wollt Ihr gegen mich kämpfen?“
 
 {SCRIPT: If we don't have the Tussle for Phoenix, eliminate this branch}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich möchte, dass Ihr gegen mich kämpft."</DefaultText>
+      <DefaultText>„Ich möchte, dass Ihr gegen mich kämpft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,12 +132,12 @@ Die Tatsache, dass er mitten im Tal steht – alleine und sicher – unterstütz
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Sie können mich nicht bedrohen. Sie ... versuchen, mich mit ihrem Material zu berühren. Sie durchdringen mich mit ihren Klingen. Ich berühre sie im Gegenzug, und dann ... dann sind sie weg. Ihre Kräfte in ihren fundamentalen Zustand zurückgekehrt."</DefaultText>
+      <DefaultText>„Sie können mich nicht bedrohen. Sie ... versuchen, mich mit ihrem Material zu berühren. Sie durchdringen mich mit ihren Klingen. Ich berühre sie im Gegenzug, und dann ... dann sind sie weg. Ihre Kräfte in ihren fundamentalen Zustand zurückgekehrt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Bis zum nächsten Mal."</DefaultText>
+      <DefaultText>„Bis zum nächsten Mal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,14 +147,14 @@ Die Tatsache, dass er mitten im Tal steht – alleine und sicher – unterstütz
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ich bin auf der Suche. Ich habe eine Notiz erhalten. Eine merkwürdige Notiz. Eine Notiz, die mir aufträgt, hierher zu kommen, und hier die Antworten zu finden, die ich brauche."
+      <DefaultText>„Ich bin auf der Suche. Ich habe eine Notiz erhalten. Eine merkwürdige Notiz. Eine Notiz, die mir aufträgt, hierher zu kommen, und hier die Antworten zu finden, die ich brauche.“
 
 Etwas an ihm *pulsiert*, beinahe ein Unterschallschlag, und Ihr taumelt leicht. Wut legt seine Stirn in Falten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Antworten. Sie rufen mich hierher." Er schaut finster drein. "Doch die Beherrschung von Raum und Kräften, die Fähigkeit, zu sehen ... sie bedeuten nichts, wenn ich diese Notiz nicht verstehe."</DefaultText>
+      <DefaultText>„Antworten. Sie rufen mich hierher.“ Er schaut finster drein. „Doch die Beherrschung von Raum und Kräften, die Fähigkeit, zu sehen ... sie bedeuten nichts, wenn ich diese Notiz nicht verstehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,12 +164,12 @@ Etwas an ihm *pulsiert*, beinahe ein Unterschallschlag, und Ihr taumelt leicht. 
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Was tut Ihr hier?"</DefaultText>
+      <DefaultText>„Was tut Ihr hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Sagt mir nochmal, was Ihr hier macht."</DefaultText>
+      <DefaultText>„Sagt mir nochmal, was Ihr hier macht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,9 +179,9 @@ Etwas an ihm *pulsiert*, beinahe ein Unterschallschlag, und Ihr taumelt leicht. 
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ihr habt den Verstand eines Suchenden. Nicht nur den eines Forschers. Ja. Ihr dürft die Notiz haben."
+      <DefaultText>„Ihr habt den Verstand eines Suchenden. Nicht nur den eines Forschers. Ja. Ihr dürft die Notiz haben.“
 
-Er übergibt Euch ein Stück graviertes Synth. "Gebt sie zurück, wenn Ihr in der Lage seid, meine Antwort zu finden."
+Er übergibt Euch ein Stück graviertes Synth. „Gebt sie zurück, wenn Ihr in der Lage seid, meine Antwort zu finden.“
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
@@ -197,21 +197,21 @@ Er übergibt Euch ein Stück graviertes Synth. "Gebt sie zurück, wenn Ihr in de
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich habe mich entschieden. Mein Name ist Phönix." Er spricht den Namen aus, als würde er einen neuen Wein kosten.
+      <DefaultText>„Ich habe mich entschieden. Mein Name ist Phönix.“ Er spricht den Namen aus, als würde er einen neuen Wein kosten.
 
-Er hält die Hand hoch und für einen Moment könnt Ihr sehen, wie das Licht durch sie blendet. "Ich bin ... ein Suchender? Sagt man das so? Ja. Ich bin ein Suchender."</DefaultText>
+Er hält die Hand hoch und für einen Moment könnt Ihr sehen, wie das Licht durch sie blendet. „Ich bin ... ein Suchender? Sagt man das so? Ja. Ich bin ein Suchender.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Phönix. Der Suchende. Der Wahrheitsliebende und Weisheitsfinder."</DefaultText>
+      <DefaultText>„Phönix. Der Suchende. Der Wahrheitsliebende und Weisheitsfinder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Es ist ... Weisheit. Weisheit, nach der ich suche." Er schließt die Augen und fängt an zu lachen. "All die Dinge, die ich gefunden habe."
+      <DefaultText>„Es ist ... Weisheit. Weisheit, nach der ich suche.“ Er schließt die Augen und fängt an zu lachen. „All die Dinge, die ich gefunden habe.“
 
-Seine Augen klappen auf. "Die Struktur der Welt ist nicht so, wie Ihr sie Euch vorstellt. Was Ihr seht und fühlt ist nichts weiter als verschiedene Interaktionen fundamentaler Kräfte, die Regeln auf nachfolgende, große Teile anwenden. Diese Teile nennen wir Materie. Wir nennen Sie Fleisch. Wir nennen Sie Realität."
+Seine Augen klappen auf. „Die Struktur der Welt ist nicht so, wie Ihr sie Euch vorstellt. Was Ihr seht und fühlt ist nichts weiter als verschiedene Interaktionen fundamentaler Kräfte, die Regeln auf nachfolgende, große Teile anwenden. Diese Teile nennen wir Materie. Wir nennen Sie Fleisch. Wir nennen Sie Realität.“
 
 Er streckt die Hand aus, um Eure Schulter zu berühren, und seine Hand gleitet durch Euch, ohne dass Ihr etwas spürt.</DefaultText>
       <FemaleText />
@@ -220,199 +220,199 @@ Er streckt die Hand aus, um Eure Schulter zu berühren, und seine Hand gleitet d
       <ID>40</ID>
       <DefaultText>Er streckt die Hand erneut aus, und diesmal ist seine Berührung kalt, sie ist Feuer, sie ist ätzend und wie Sternenlicht ... doch Ihr seid unversehrt.
 
-"Die Erleuchtung kommt von innen", flüstert er und fängt an, zu gackern. "Oder kommt sie von außen?"</DefaultText>
+„Die Erleuchtung kommt von innen“, flüstert er und fängt an, zu gackern. „Oder kommt sie von außen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Er tritt vor und legt eine Hand auf Eure Schulter. "Ihr seid hierhergekommen. Vielleicht gehorcht Ihr dem Ruf der Gräber und gebt mir, was ich brauche. Ich sage Euch, ich brauche Antworten. Jemand gab mir eine Notiz. Darin steht, ich solle hierherkommen, um meine Antworten zu finden. Um die Wahrheit zu finden. Aber ich kann diese Notiz nicht verstehen."
+      <DefaultText>Er tritt vor und legt eine Hand auf Eure Schulter. „Ihr seid hierhergekommen. Vielleicht gehorcht Ihr dem Ruf der Gräber und gebt mir, was ich brauche. Ich sage Euch, ich brauche Antworten. Jemand gab mir eine Notiz. Darin steht, ich solle hierherkommen, um meine Antworten zu finden. Um die Wahrheit zu finden. Aber ich kann diese Notiz nicht verstehen.“
 
-Seine Augen brennen – buchstäblich – obwohl sein Gesicht unberührt zu sein scheint. "Welchen Nutzen hat Kraft, wenn ich nicht begreife? Worin liegt der Sinn meiner Kraft, wenn ich nicht *sehen* kann? Fragt mich! Ich weiß es nicht!"</DefaultText>
+Seine Augen brennen – buchstäblich – obwohl sein Gesicht unberührt zu sein scheint. „Welchen Nutzen hat Kraft, wenn ich nicht begreife? Worin liegt der Sinn meiner Kraft, wenn ich nicht *sehen* kann? Fragt mich! Ich weiß es nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Wenn Ihr vielleicht andere um Hilfe bittet ..."</DefaultText>
+      <DefaultText>„Wenn Ihr vielleicht andere um Hilfe bittet ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Darf ich die Notiz sehen? Vielleicht kann ich etwas Licht ins Dunkel bringen."</DefaultText>
+      <DefaultText>„Darf ich die Notiz sehen? Vielleicht kann ich etwas Licht ins Dunkel bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Der Zweck von Kraft ist, noch mehr Kraft zu sammeln."</DefaultText>
+      <DefaultText>„Der Zweck von Kraft ist, noch mehr Kraft zu sammeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Er wird langsamer. "Fragt mich nach Weisheit und ich werde sie Euch gewähren."</DefaultText>
+      <DefaultText>Er wird langsamer. „Fragt mich nach Weisheit und ich werde sie Euch gewähren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Ich habe unvorstellbare Kraft, doch nicht den Einblick, den ich brauche. Sprecht mit mir und vielleicht kann ich von Euch lernen. Wir müssen diese *Fragen* gemeinsam *stellen*."</DefaultText>
+      <DefaultText>„Ich habe unvorstellbare Kraft, doch nicht den Einblick, den ich brauche. Sprecht mit mir und vielleicht kann ich von Euch lernen. Wir müssen diese *Fragen* gemeinsam *stellen*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Wenn Ihr mir beweisen könnt, dass Ihr *wisst*, dann werde ich mein Wissen mit Euch teilen. Also. Reden wir. Ihr werdet mir Eure Fragen stellen und mit diesen werde ich Eure Einblicke teilen."</DefaultText>
+      <DefaultText>„Wenn Ihr mir beweisen könnt, dass Ihr *wisst*, dann werde ich mein Wissen mit Euch teilen. Also. Reden wir. Ihr werdet mir Eure Fragen stellen und mit diesen werde ich Eure Einblicke teilen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Andere? Welche anderen wissen von meiner Erfahrung? Welche anderen wissen von meinen Beweggründen?"
+      <DefaultText>„Andere? Welche anderen wissen von meiner Erfahrung? Welche anderen wissen von meinen Beweggründen?“
 
-Er hält inne. "Aber vielleicht habt Ihr etwas Verständnis. Lasst uns diese *Fragen* erkunden."</DefaultText>
+Er hält inne. „Aber vielleicht habt Ihr etwas Verständnis. Lasst uns diese *Fragen* erkunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Erleuchtung kommt von innen."</DefaultText>
+      <DefaultText>„Erleuchtung kommt von innen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Erleuchtung kommt von außen."</DefaultText>
+      <DefaultText>„Erleuchtung kommt von außen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Kann sie nicht sowohl von innen als auch von außen kommen?"</DefaultText>
+      <DefaultText>„Kann sie nicht sowohl von innen als auch von außen kommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Das dachte ich, bis mir ein anderer die Wahrheit aufzeigte."</DefaultText>
+      <DefaultText>„Das dachte ich, bis mir ein anderer die Wahrheit aufzeigte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Das dachte ich, bis ich in mich sah und meine Antworten dort fand."</DefaultText>
+      <DefaultText>„Das dachte ich, bis ich in mich sah und meine Antworten dort fand.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Das kann sie." Seine Augen leuchten. "Findet Antworten innen, lasst andere Euch den Pfad zeigen. Beides führt zu überraschenden Zielen, wenn Ihr es zulasst."</DefaultText>
+      <DefaultText>„Das kann sie.“ Seine Augen leuchten. „Findet Antworten innen, lasst andere Euch den Pfad zeigen. Beides führt zu überraschenden Zielen, wenn Ihr es zulasst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Wie kann ich das beantworten, ohne die Notiz gesehen zu haben?"</DefaultText>
+      <DefaultText>„Wie kann ich das beantworten, ohne die Notiz gesehen zu haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Habt Ihr es in verschiedenen Spektren studiert?"</DefaultText>
+      <DefaultText>„Habt Ihr es in verschiedenen Spektren studiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Fragt jemand anderen, um Euch dabei zu helfen."</DefaultText>
+      <DefaultText>„Fragt jemand anderen, um Euch dabei zu helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Er runzelt die Stirn. "Ich *habe* gefragt."</DefaultText>
+      <DefaultText>Er runzelt die Stirn. „Ich *habe* gefragt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Ich empfehle Euch, herauszufinden, wer Euch geschickt hat."</DefaultText>
+      <DefaultText>„Ich empfehle Euch, herauszufinden, wer Euch geschickt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Es kam von außerhalb der Zeit, eine Dimension, in die ich nicht sehen kann ..." Er faltet die Hände. "... noch nicht. Aber ich glaube, ich werde es. Eines Tages."</DefaultText>
+      <DefaultText>„Es kam von außerhalb der Zeit, eine Dimension, in die ich nicht sehen kann ...“ Er faltet die Hände. „... noch nicht. Aber ich glaube, ich werde es. Eines Tages.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Daran habe ich nicht gedacht." Er holt ein Stück graviertes Synth aus seiner Tasche hervor und du siehst, wie ein regenbogenfarbenes Licht über seine Augen blitzt. "Aber nein. Es macht keinen Sinn. Nichts verändert sich."</DefaultText>
+      <DefaultText>„Daran habe ich nicht gedacht.“ Er holt ein Stück graviertes Synth aus seiner Tasche hervor und du siehst, wie ein regenbogenfarbenes Licht über seine Augen blitzt. „Aber nein. Es macht keinen Sinn. Nichts verändert sich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Er nickt mit dem Kopf. "Eine gute Antwort. Die Antwort eines Wahrheitssuchenden. Man lernt nicht durch Behauptung. Ich kann es weiter studieren. Oder vielleicht könnt Ihr dabei helfen."</DefaultText>
+      <DefaultText>Er nickt mit dem Kopf. „Eine gute Antwort. Die Antwort eines Wahrheitssuchenden. Man lernt nicht durch Behauptung. Ich kann es weiter studieren. Oder vielleicht könnt Ihr dabei helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Namen sind ein Konstrukt des Bewusstseins, aber wohnt ihnen eine fundamentale Bedeutung inne? Oder dem Bewusstsein selbst?"</DefaultText>
+      <DefaultText>„Namen sind ein Konstrukt des Bewusstseins, aber wohnt ihnen eine fundamentale Bedeutung inne? Oder dem Bewusstsein selbst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Nein. Das Bewusstsein ist nur eine kurze Zeitspanne zwischen der Vergessenheit."</DefaultText>
+      <DefaultText>„Nein. Das Bewusstsein ist nur eine kurze Zeitspanne zwischen der Vergessenheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Ist das Bewusstsein nicht nötig, um Dingen 'Bedeutung' und andere Werte zuzuweisen?"</DefaultText>
+      <DefaultText>„Ist das Bewusstsein nicht nötig, um Dingen 'Bedeutung' und andere Werte zuzuweisen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Ja, obwohl wir die Bedeutung herstellen."</DefaultText>
+      <DefaultText>„Ja, obwohl wir die Bedeutung herstellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ja. Ich glaube, es gibt einen Sinn in unserem Leben."</DefaultText>
+      <DefaultText>„Ja. Ich glaube, es gibt einen Sinn in unserem Leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
       <DefaultText>Er nimmt Euch die Notiz ab und prüft sie aufmerksam. Er schimmert und flimmert vorübergehend, und dann strengt er sich an, mittels einer Kraft visuellen Willens materiell zu bleiben.
 
-"Das ... das würde erklären, warum ich mich selbst nicht verstehen konnte. Ein künstliches Konstrukt in meinem Verstand. Ich bin tot und manifestiere erneut. Beherrsche ich die Zeit?"
+„Das ... das würde erklären, warum ich mich selbst nicht verstehen konnte. Ein künstliches Konstrukt in meinem Verstand. Ich bin tot und manifestiere erneut. Beherrsche ich die Zeit?“
 
-Er führt eine interne Inventur durch. "Nein. Ich bin ... ein bestimmter Schatten. Ein Überbleibsel, ein Echo dessen, was hätte sein können. Ich werde also vergehen und hoffen, dass meine Lektion verbleibt."</DefaultText>
+Er führt eine interne Inventur durch. „Nein. Ich bin ... ein bestimmter Schatten. Ein Überbleibsel, ein Echo dessen, was hätte sein können. Ich werde also vergehen und hoffen, dass meine Lektion verbleibt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Ihr ... Ihr habt Euch ein Geschenk verdient, ehe ich gehe. Ihr habt Euch als Schüler erwiesen. Im Falle von Fragen, auf die Ihr keine Antwort hattet, habt Ihr weitere Fragen gestellt. Viele sagen mir, was ich tun soll. Sie wünschen sich, mir eine Meinung aufzuzwingen. Aber Ihr habt Fragen erzwungen. Also bitte sehr. Nehmt dies."
+      <DefaultText>„Ihr ... Ihr habt Euch ein Geschenk verdient, ehe ich gehe. Ihr habt Euch als Schüler erwiesen. Im Falle von Fragen, auf die Ihr keine Antwort hattet, habt Ihr weitere Fragen gestellt. Viele sagen mir, was ich tun soll. Sie wünschen sich, mir eine Meinung aufzuzwingen. Aber Ihr habt Fragen erzwungen. Also bitte sehr. Nehmt dies.“
 
 {LOOT: Artifact}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Eine mutige Aussage für jemanden, der nichts außer das Leben kennt."</DefaultText>
+      <DefaultText>„Eine mutige Aussage für jemanden, der nichts außer das Leben kennt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Auf welcher Grundlage beruht Ihr dieses Urteil? Glaube? Hoffnung? Solide rationale Beobachtung und Erfahrung? Ihr sagt *glauben* als wäre es ein Talisman, der es einem ermöglicht, seine Gedanken nicht rechtfertigen zu müssen, doch ich sage Euch, dass es eine Kette ist."</DefaultText>
+      <DefaultText>„Auf welcher Grundlage beruht Ihr dieses Urteil? Glaube? Hoffnung? Solide rationale Beobachtung und Erfahrung? Ihr sagt *glauben* als wäre es ein Talisman, der es einem ermöglicht, seine Gedanken nicht rechtfertigen zu müssen, doch ich sage Euch, dass es eine Kette ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Also eine selbst zugewiesene Bedeutung? Was macht das Bewusstsein so besonders, dass es seinen Wert festlegen kann? Ich habe eine Welt kristallinen Lebens gesehen, die großartigere Dinge erbaut hat als die Neunte Welt ... ohne Bewusstsein. Warum sollte sich ein Geist selbst einen speziellen Preis zusprechen, als Wertschätzung seiner selbst?"
+      <DefaultText>„Also eine selbst zugewiesene Bedeutung? Was macht das Bewusstsein so besonders, dass es seinen Wert festlegen kann? Ich habe eine Welt kristallinen Lebens gesehen, die großartigere Dinge erbaut hat als die Neunte Welt ... ohne Bewusstsein. Warum sollte sich ein Geist selbst einen speziellen Preis zusprechen, als Wertschätzung seiner selbst?“
 
 Er winkt abfällig ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Er neigt den Kopf. "Ein gerechter Einwand. So wie ich das sehe, geht das Leben an vielen Orten weiter, in vielen Welten, und bei manchen Spezies hat sich das Bewusstsein selbst aus der Existenz vermittelt. Ich kann nicht sagen, ob es Bedeutung ist." Er lächelt. "*Ich* kann es nicht sagen. Vielleicht können *wir* es."</DefaultText>
+      <DefaultText>Er neigt den Kopf. „Ein gerechter Einwand. So wie ich das sehe, geht das Leben an vielen Orten weiter, in vielen Welten, und bei manchen Spezies hat sich das Bewusstsein selbst aus der Existenz vermittelt. Ich kann nicht sagen, ob es Bedeutung ist.“ Er lächelt. „*Ich* kann es nicht sagen. Vielleicht können *wir* es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Er lächelt freundlich. "Ich glaube nicht, dass es Eure Mühe wert ist. Oder meine."</DefaultText>
+      <DefaultText>Er lächelt freundlich. „Ich glaube nicht, dass es Eure Mühe wert ist. Oder meine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Ihr wünscht, Euch selbst zu prüfen. Das ist bewundernswert. Doch das wird kein einfacher Kampf. Ich nehme es Euch nicht übel, wenn Ihr mich besiegt ... und ich hoffe, dass das auf Gegenseitigkeit beruht."</DefaultText>
+      <DefaultText>„Ihr wünscht, Euch selbst zu prüfen. Das ist bewundernswert. Doch das wird kein einfacher Kampf. Ich nehme es Euch nicht übel, wenn Ihr mich besiegt ... und ich hoffe, dass das auf Gegenseitigkeit beruht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Er atmet ein und Ihr habt das Gefühl, als würde sich die Welt um ihn herum zusammenziehen. "Fangen wir an."
+      <DefaultText>Er atmet ein und Ihr habt das Gefühl, als würde sich die Welt um ihn herum zusammenziehen. „Fangen wir an.“
 
 Und dann springt er in einer verschwommenen Geste zum Angriff!
 
@@ -424,12 +424,12 @@ Und dann springt er in einer verschwommenen Geste zum Angriff!
       <ID>80</ID>
       <DefaultText>Er scheint von Eurer Rückkehr nicht überrascht zu sein. Tatsächlich sieht er aus, als hätte er Euch erwartet.
 
-"Wir haben unsere Neugier aus der Welt geschafft. Untersuchen wir weiter die Realität."</DefaultText>
+„Wir haben unsere Neugier aus der Welt geschafft. Untersuchen wir weiter die Realität.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Ich danke Euch. Wissen ist ... wertvoll. Wisst das Eure zu schätzen. Und nun ... werde ich ruhen. Lebt wohl."
+      <DefaultText>„Ich danke Euch. Wissen ist ... wertvoll. Wisst das Eure zu schätzen. Und nun ... werde ich ruhen. Lebt wohl.“
 
 Mit einem Lichtflimmern, dem Gähnen eines Bewusstseins, das wachgerufen wurde und in die Vergessenheit zurückkehrt, löst er sich in Luft auf.
 
@@ -443,12 +443,12 @@ Ein fernes Zischen ist der einzige Hinweis auf seine Reise.</DefaultText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Ich habe in der Nekropolis eine Markierung gefunden, die Euch namentlich erwähnt. Sie besagte, Ihr seid tot."</DefaultText>
+      <DefaultText>„Ich habe in der Nekropolis eine Markierung gefunden, die Euch namentlich erwähnt. Sie besagte, Ihr seid tot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Doch wenn ich tot wäre, würde ich nicht leben. Beweist mir, dass ich Eurer Weisheit trauen sollte."</DefaultText>
+      <DefaultText>„Doch wenn ich tot wäre, würde ich nicht leben. Beweist mir, dass ich Eurer Weisheit trauen sollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -458,43 +458,43 @@ Ein fernes Zischen ist der einzige Hinweis auf seine Reise.</DefaultText>
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ihr scherzt, nicht wahr? Ihr habt mir noch nicht bewiesen, dass Ihr den wissbegierigen Verstand besitzt, der die Geheimnisse lüften kann."</DefaultText>
+      <DefaultText>„Ihr scherzt, nicht wahr? Ihr habt mir noch nicht bewiesen, dass Ihr den wissbegierigen Verstand besitzt, der die Geheimnisse lüften kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Ihr habt mir noch nicht bewiesen, dass Ihr den wissbegierigen Verstand besitzt, der die Geheimnisse lüften kann."</DefaultText>
+      <DefaultText>„Ihr habt mir noch nicht bewiesen, dass Ihr den wissbegierigen Verstand besitzt, der die Geheimnisse lüften kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Warum erinnert Ihr Euch nicht an Euren Namen?"</DefaultText>
+      <DefaultText>„Warum erinnert Ihr Euch nicht an Euren Namen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Seid Ihr von dieser Welt?"</DefaultText>
+      <DefaultText>„Seid Ihr von dieser Welt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Er hält inne und runzelt die Stirn. "Sie ist mir vertraut. Die Linien, die Kurven, die Strukturen. Doch sie ist wie eine schlechte Skizze der Welt, an die ich mich erinnere. Ich sehe ihre *Texturen*, ihre *Pinselstriche* und ich sehe das Medium, auf das sie gemalt wird. Doch ich kann die Skizze anheben und die Wahrheit dahinter sehen. Ich ... Ich kenne meine Herkunft nicht."</DefaultText>
+      <DefaultText>Er hält inne und runzelt die Stirn. „Sie ist mir vertraut. Die Linien, die Kurven, die Strukturen. Doch sie ist wie eine schlechte Skizze der Welt, an die ich mich erinnere. Ich sehe ihre *Texturen*, ihre *Pinselstriche* und ich sehe das Medium, auf das sie gemalt wird. Doch ich kann die Skizze anheben und die Wahrheit dahinter sehen. Ich ... Ich kenne meine Herkunft nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Die Gezeiten winden und ziehen sich um Phoenix zusammen, und einen Moment lang ist Überraschung auf seinem Gesicht zu erkennen. Dann lacht er. "Glaubt Ihr, Ihr könnt mich mit Euren Energietricks nötigen? Ich bin nicht so einfach gestrickt."
+      <DefaultText>Die Gezeiten winden und ziehen sich um Phoenix zusammen, und einen Moment lang ist Überraschung auf seinem Gesicht zu erkennen. Dann lacht er. „Glaubt Ihr, Ihr könnt mich mit Euren Energietricks nötigen? Ich bin nicht so einfach gestrickt.“
 
-"Doch Ihr seid gewillt zu *wissen*, und wenn Ihr Eure und meine geistige Gesundheit riskieren würdet, um diese Antworten zu enthüllen, dann glaube ich Eurer Entschlossenheit."
+„Doch Ihr seid gewillt zu *wissen*, und wenn Ihr Eure und meine geistige Gesundheit riskieren würdet, um diese Antworten zu enthüllen, dann glaube ich Eurer Entschlossenheit.“
 
-Er übergibt dir ein Stück graviertes Synth. "Gebt sie zurück, wenn Ihr in der Lage seid, meine Antwort zu finden."
+Er übergibt dir ein Stück graviertes Synth. „Gebt sie zurück, wenn Ihr in der Lage seid, meine Antwort zu finden.“
 
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Gebt mir die Notiz. Ich werde ihre Antworten herausfinden."</DefaultText>
+      <DefaultText>„Gebt mir die Notiz. Ich werde ihre Antworten herausfinden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -524,12 +524,12 @@ Er übergibt dir ein Stück graviertes Synth. "Gebt sie zurück, wenn Ihr in der
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Unsere Fragen *stellen*? Hmm.“ Er reibt sich sein Kinn und starrt angespannt auf Phönix. "Ihr wollt unsere Antworten nicht, oder?“</DefaultText>
+      <DefaultText>„Unsere Fragen *stellen*? Hmm.“ Er reibt sich sein Kinn und starrt angespannt auf Phönix. „Ihr wollt unsere Antworten nicht, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Ich will Eure Weisheit.“</DefaultText>
+      <DefaultText>„Ich will Eure Weisheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
