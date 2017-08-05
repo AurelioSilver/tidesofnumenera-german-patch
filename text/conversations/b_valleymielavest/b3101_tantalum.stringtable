@@ -7,8 +7,8 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Ein alter, mitgenommen aussehender Schwertkämpfer in glanzloser grauer Rüstung steht hier und pfeift unmelodisch. Seine Hände schweben in der Nähe des Griffs seines rege benutzten Schwertes. Narben winden sich auf seinem Gesicht, und was du für einen Helm hieltest, entpuppt sich als metallische Haube, die in seinen Schädel eingelassen ist.
- 
- Er lächelt, als du dich ihm näherst. "Grüße, Fremder. Ich bin Tantalum."</DefaultText>
+
+Er lächelt, als du dich ihm näherst. "Grüße, Fremder. Ich bin Tantalum."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,8 +144,8 @@
     <Entry>
       <ID>28</ID>
       <DefaultText>"Ihr seht aus, als würdet Ihr auch nach Antworten suchen. Es gibt hunderte, *tausende* Gräber in der Nekropolis. Die Legende besagt, wenn man sie liest und von ihnen lernt, dann findet man die Antworten, nach denen man sucht." Er lächelt Euch warm an. "Ich verspreche, es wird sich für Euch lohnen."
- 
- {SCRIPT: Journal entry: "A man named Tantalum asked me to search the tombs and epitaphs of tombs in the Valley and Necropolis. He promised it would be 'worth my while'."}</DefaultText>
+
+{SCRIPT: Journal entry: "A man named Tantalum asked me to search the tombs and epitaphs of tombs in the Valley and Necropolis. He promised it would be 'worth my while'."}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,8 +221,8 @@
     <Entry>
       <ID>44</ID>
       <DefaultText>"Kennt Ihr Tantalum? Das ist ein Metall. Klebt an Fleisch." Er klopft mit den Knöcheln gegen die Haube. "Die Chirurgen sagten, sie mussten auch einen Teil meines Hirns rausschneiden. Also vergaß ich meinen Namen und meine Geschichte, und ... nun, ich nahm den Namen von dem Zeug an, das mich gerettet hat."
- 
- Er kratzt sich. "Wie auch immer. Ich musste mich an mich erinnern. Man sagt, dass die Nekropolis jedem geben kann, was er sucht – Wissen, Reichtum, Ruhm – wenn man lange genug sucht. Und ich habe gesucht. Und ich habe *gefunden*. Nun bin ich hier, um anderen dabei zu helfen, ihre Antworten zu finden."</DefaultText>
+
+Er kratzt sich. "Wie auch immer. Ich musste mich an mich erinnern. Man sagt, dass die Nekropolis jedem geben kann, was er sucht – Wissen, Reichtum, Ruhm – wenn man lange genug sucht. Und ich habe gesucht. Und ich habe *gefunden*. Nun bin ich hier, um anderen dabei zu helfen, ihre Antworten zu finden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,17 +330,17 @@ Er hält inne und tippt sich ans Kinn. "Ich hätte mir vielleicht überlegen sol
     <Entry>
       <ID>69</ID>
       <DefaultText>"Die Wahrheit ist: Ich habe nur ein Spiel gespielt. Das tue ich mit jedem, der in das Tal kommt und auf der Suche nach Geheimnissen oder tiefergehender Wahrheit ist. Sie sagen: 'Oh Tantalum, sagt mir, was Ihr hier entdeckt habt!' Doch hier sind keine tiefgehenden Geheimnisse zu finden. Nur Erinnerungen an die Toten. Das große Geheimnis? Die Memorialisten sind Carker und der Tod ist unvermeidlich. Und vielleicht solltet Ihr nicht jedem trauen, der Euch sagt, er könne Euch bei Eurer Suche helfen."
- 
- Er lächelt ein wenig traurig. "Kein wirkliches Geheimnis, aber das ist, was ich weiß."
- 
+
+Er lächelt ein wenig traurig. "Kein wirkliches Geheimnis, aber das ist, was ich weiß."
+
  {SCRIPT: Add note to Journal: "Tantalum has admitted that he was lying to me about the secrets of the tombs."}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
       <DefaultText>Er hört auf zu lächeln. "Keinen Streich. Eine Botschaft. Das Leben ist kurz. Es kann jederzeit und überall zu Ende gehen." Er klopft gegen seinen gewölbten Kopf. "Ich weiß mehr als die meisten, wie nahe der Tod ist."
- 
- "So wie ich das sehe, bringe ich Leuten bei, ihr Leben zu begrüßen. Wenn Ihr diese Zeit mit sinnlosem Stöbern in der Vergangenheit vergeuden wollt, dann tut das. Wenn Ihr diese Zeit mit sinnloser Beschäftigung für einen alten Narren vergeuden wollt, fein. Aber entscheidet Euch bewusst dazu. Vielleicht habt Ihr heute etwas gelernt. Wenn nicht von den Gräbern, dann von mir."</DefaultText>
+
+"So wie ich das sehe, bringe ich Leuten bei, ihr Leben zu begrüßen. Wenn Ihr diese Zeit mit sinnlosem Stöbern in der Vergangenheit vergeuden wollt, dann tut das. Wenn Ihr diese Zeit mit sinnloser Beschäftigung für einen alten Narren vergeuden wollt, fein. Aber entscheidet Euch bewusst dazu. Vielleicht habt Ihr heute etwas gelernt. Wenn nicht von den Gräbern, dann von mir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,22 +361,22 @@ Er hält inne und tippt sich ans Kinn. "Ich hätte mir vielleicht überlegen sol
     <Entry>
       <ID>74</ID>
       <DefaultText>"Was auch immer ihr tun solltet. Sinnlose Beschäftigungen sind es nicht. Folgt Eurer Leidenschaft, folgt Eurer Bestimmung. Tut *etwas* Erstrebenswertes. In der Vergangenheit herumwühlen ist es nicht. Findet die Zukunft."
- 
- Er verschränkt die Arme. "Die Lektion ist vorüber. Ich hoffe, Ihr nehmt etwas davon mit."</DefaultText>
+
+Er verschränkt die Arme. "Die Lektion ist vorüber. Ich hoffe, Ihr nehmt etwas davon mit."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
       <DefaultText>Er versteift sich. "Das ist kein faules Herumlungern. Ihr hättet diese Arbeit für jeden verrichtet, das ist mein Punkt. Was ich also getan habe, war ... zu warten auf ... Ich habe versucht ..."
- 
- "Also gut. Also gut, fein. Ich hätte einen besseren Weg wählen können, um diese Botschaft zu übermitteln, als Leute auszunutzen, die bereit sind, hart zu arbeiten."</DefaultText>
+
+"Also gut. Also gut, fein. Ich hätte einen besseren Weg wählen können, um diese Botschaft zu übermitteln, als Leute auszunutzen, die bereit sind, hart zu arbeiten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
       <DefaultText>Er zuckt mit den Schultern. "Nur, wenn Ihr keine Geheimnisse und Wissen mögt."
- 
- Er schmunzelt ein wenig. "Wenn Ihr diese Dinge mögt und beginnt, Euch umzuschauen ... nun, wenn Ihr irgendetwas findet, das Ihr tauschen wollt, dann lasst es mich wissen."</DefaultText>
+
+Er schmunzelt ein wenig. "Wenn Ihr diese Dinge mögt und beginnt, Euch umzuschauen ... nun, wenn Ihr irgendetwas findet, das Ihr tauschen wollt, dann lasst es mich wissen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -532,8 +532,8 @@ Er hält inne und tippt sich ans Kinn. "Ich hätte mir vielleicht überlegen sol
     <Entry>
       <ID>108</ID>
       <DefaultText>"Gut, dass dieses Metall lediglich auf mich hört. Ich wüsste nicht, was ich tun würde, wenn jemand anderes es kontrollieren könnte." Er hält mit den Händen die Haube fest, die sein Gehirn schützt. "Ehrlich, ich würde davonlaufen und es festhalten. Ich kann jederzeit weitere Schwerter finden, doch ich habe nur ein Hirn. Jedenfalls, soweit ich weiß."
- 
- Sein Lächeln ist ein wenig härter. "Manche *haben* tatsächlich versucht, dieses Zeug von mir zu nehmen, um es für sich selbst zu nutzen. Das ging für sie nicht gut aus."</DefaultText>
+
+Sein Lächeln ist ein wenig härter. "Manche *haben* tatsächlich versucht, dieses Zeug von mir zu nehmen, um es für sich selbst zu nutzen. Das ging für sie nicht gut aus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -588,9 +588,9 @@ Er hält inne und tippt sich ans Kinn. "Ich hätte mir vielleicht überlegen sol
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Genötigt? Nein, nein. Ich habe lediglich vorgeschlagen, er solle die Gräber für Wissen aufsuchen, falls er wieder in seine menschliche Form zurückkehren wolle." 
- 
- Er hebt eine Braue. "Ihr *wisst* aber schon, dass er in diesem Körper gefangen ist, ja? Die Chancen stehen gut, dass er finden wird, was er braucht, wenn er genug von ihnen absucht. Und ich habe ihm das mit den schärfsten Worten vermittelt, die möglich waren."</DefaultText>
+      <DefaultText>"Genötigt? Nein, nein. Ich habe lediglich vorgeschlagen, er solle die Gräber für Wissen aufsuchen, falls er wieder in seine menschliche Form zurückkehren wolle."
+
+Er hebt eine Braue. "Ihr *wisst* aber schon, dass er in diesem Körper gefangen ist, ja? Die Chancen stehen gut, dass er finden wird, was er braucht, wenn er genug von ihnen absucht. Und ich habe ihm das mit den schärfsten Worten vermittelt, die möglich waren."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -651,10 +651,10 @@ Er hält inne und tippt sich ans Kinn. "Ich hätte mir vielleicht überlegen sol
     <Entry>
       <ID>135</ID>
       <DefaultText>Er schaut dir kurz in die Augen. "Ich glaube Euch. Ihr habt es getan, nicht wahr?"
- 
- Plötzlich bricht er in Gelächter aus und die Haube auf seinem Kopf erklingt und erzittert harmonisch. "Ihr seid stur, mein Freund. Die meisten Leute geben schon früher auf, von der schieren Monotonie der Aufgabe zermürbt."
- 
- Er hält inne. "Ich hätte vielleicht eine Rede über das Zeitverschwenden vorbereiten sollen, aber die Leute ... geben einfach auf, ehe sie so viele absuchen. Vielleicht sollte ich Euch die Wahrheit sagen."</DefaultText>
+
+Plötzlich bricht er in Gelächter aus und die Haube auf seinem Kopf erklingt und erzittert harmonisch. "Ihr seid stur, mein Freund. Die meisten Leute geben schon früher auf, von der schieren Monotonie der Aufgabe zermürbt."
+
+Er hält inne. "Ich hätte vielleicht eine Rede über das Zeitverschwenden vorbereiten sollen, aber die Leute ... geben einfach auf, ehe sie so viele absuchen. Vielleicht sollte ich Euch die Wahrheit sagen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -720,8 +720,8 @@ Er hält inne und tippt sich ans Kinn. "Ich hätte mir vielleicht überlegen sol
     <Entry>
       <ID>148</ID>
       <DefaultText>Er hebt eine Braue und seine Augen weiten sich. "Ist das so? Ein Fluch? Das würde sein merkwürdiges Verhalten erklären!"
- 
- Er streichelt sich das Kinn. "Nun, gut für Euch. Vielleicht *habt* Ihr ja doch etwas gelernt, he?"</DefaultText>
+
+Er streichelt sich das Kinn. "Nun, gut für Euch. Vielleicht *habt* Ihr ja doch etwas gelernt, he?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -777,8 +777,8 @@ Er hält inne und tippt sich ans Kinn. "Ich hätte mir vielleicht überlegen sol
     <Entry>
       <ID>159</ID>
       <DefaultText>Er tippt nachdenklich an seine Metallhaube. "Wisst Ihr, ich glaube schon. Ich glaube ... schon."
- 
- Er starrt in die Ferne. "Versucht den Grabcode 3-5-4-3. Das könnte der Richtige sein. Wenn Ihr es dort nicht findet, dann sucht weiter. Eure Antworten werden irgendwo da unten sein." Er schmunzelt ein wenig. "Und wenn Ihr irgendetwas findet, das Ihr tauschen wollt, dann lasst es mich wissen."</DefaultText>
+
+Er starrt in die Ferne. "Versucht den Grabcode 3-5-4-3. Das könnte der Richtige sein. Wenn Ihr es dort nicht findet, dann sucht weiter. Eure Antworten werden irgendwo da unten sein." Er schmunzelt ein wenig. "Und wenn Ihr irgendetwas findet, das Ihr tauschen wollt, dann lasst es mich wissen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -789,10 +789,10 @@ Er hält inne und tippt sich ans Kinn. "Ich hätte mir vielleicht überlegen sol
     <Entry>
       <ID>161</ID>
       <DefaultText>Er tippt nachdenklich an seine Metallhaube. "Wisst Ihr, ich glaube schon. Ich glaube ... schon."
- 
- Er starrt in die Ferne. "Versucht den Grabcode 3-5-4-3. Das könnte der Richtige sein."
- 
- Er wendet sich Euch wieder zu. "Also. Sobald Ihr diesen Ort durchsucht, solltet Ihr da unten nach Euren eigenen Antworten suchen. Wie verläuft diese Suche überhaupt?"</DefaultText>
+
+Er starrt in die Ferne. "Versucht den Grabcode 3-5-4-3. Das könnte der Richtige sein."
+
+Er wendet sich Euch wieder zu. "Also. Sobald Ihr diesen Ort durchsucht, solltet Ihr da unten nach Euren eigenen Antworten suchen. Wie verläuft diese Suche überhaupt?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -803,11 +803,11 @@ Er hält inne und tippt sich ans Kinn. "Ich hätte mir vielleicht überlegen sol
     <Entry>
       <ID>163</ID>
       <DefaultText>Er tippt nachdenklich an seine Metallhaube. "Wisst Ihr, ich glaube schon. Ich glaube ... schon."
- 
- Er starrt in die Ferne. "Versucht den Grabcode 3-5-4-3. Das könnte der Richtige sein."
- 
- Er wendet sich Euch wieder zu. "Also. Was kann ich sonst noch für Euch tun?"
- 
+
+Er starrt in die Ferne. "Versucht den Grabcode 3-5-4-3. Das könnte der Richtige sein."
+
+Er wendet sich Euch wieder zu. "Also. Was kann ich sonst noch für Euch tun?"
+
  {ADAM: Tomb code is in here}</DefaultText>
       <FemaleText />
     </Entry>
