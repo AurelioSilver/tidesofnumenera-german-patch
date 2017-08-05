@@ -22,7 +22,7 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>"Diese Kultisten – die Kinder der Endlosen Pforte – sie haben das Tal der Toten Helden überrannt. Sie schlachten die Besucher ab. Sie jagen uns, die Memorialisten, und haben in jeder Ecke dieses uralten Ortes Schrecken verbreitet. Bitte – Ihr habt Euren Eifer gezeigt, wenn es darum ging, euch um diese Mörder zu kümmern. Ich flehe Euch an – bitte findet einen Weg, sie dazu zu bringen, weiterzuziehen."</DefaultText>
-      <FemaleText>"Diese Kultisten – die Kinder der Endlosen Pforte – sie haben das Tal der Toten Helden überrannt. Sie schlachten die Besucher ab. Sie jagen uns, die Memorialisten, und haben in jeder Ecke dieses uralten Ortes Schrecken verbreitet. Bitte – Ihr habt Euren Eifer gezeigt, wenn es darum ging, euch um diese Mörder zu kümmern. Ich flehe Euch an – bitte findet einen Weg, sie dazu zu bringen, weiterzuziehen.”</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -505,7 +505,7 @@ Er drückt dir einen Apparat in die Hand. "Bitte. Nehmt dies als Zeichen unserer
     <Entry>
       <ID>108</ID>
       <DefaultText>"Mein wahrer Name lautet Ronos Cai'sul, von den Memorialisten. Ich bin von Sagus Klippen hierhergekommen, um meine geliebte Frau zu beerdigen. Das war vor einem Jahrzehnt. Ich bin hier geblieben, weil ich eine enge Verbindung mit dem Ort gespürt habe ... irgendwie. Als ich den Namen meines wahren Selbsts entdeckt hatte, wusste ich es. Diese Welt ist das Jenseits und die Gräber hier sind unsere eigenen. Nun studiere ich die Welt der Lebenden, in der Hoffnung, anderen die Erleuchtung zu bringen, die ich erreicht habe."</DefaultText>
-      <FemaleText>"Mein wahrer Name lautet Ronos Cai'sul, von den Memorialisten. Ich bin von Sagus Klippen hierhergekommen, um meine geliebte Frau zu beerdigen. Das war vor einem Jahrzehnt. Ich bin hier geblieben, weil ich eine enge Verbindung mit dem Ort gespürt habe ... irgendwie. Als ich den Namen meines wahren Selbsts entdeckt hatte, wusste ich es. Diese Welt ist das Jenseits und die Gräber hier sind unsere eigenen. Nun studiere ich die Welt der Lebenden, in der Hoffnung, anderen die Erleuchtung zu bringen, die ich erreicht habe.”</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
@@ -520,7 +520,7 @@ Er drückt dir einen Apparat in die Hand. "Bitte. Nehmt dies als Zeichen unserer
     <Entry>
       <ID>111</ID>
       <DefaultText>"Wir sind wirklich gewöhnliche Leute. Leute, die die Wahrheit begreifen, dass diese Welt tatsächlich das Jenseits ist, und dass die Gräber hier unsere Gräber sind. Wir unterhalten das Tal, damit kein Name vergessen wird, so dass jeder herkommen und sich an sein Wahres Selbst erinnern kann. Sobald alle Gräber beansprucht worden sind, werden wir ein glorreiches Wiederaufleben der Menschheit erleben. Gleichfalls wird Verwüstung über das Land ziehen, wenn wir zulassen, dass die Namen in Vergessenheit geraten."</DefaultText>
-      <FemaleText>"Wir sind wirklich gewöhnliche Leute. Leute, die die Wahrheit begreifen, dass diese Welt tatsächlich das Jenseits ist, und dass die Gräber hier unsere Gräber sind. Wir unterhalten das Tal, damit kein Name vergessen wird, so dass jeder herkommen und sich an sein Wahres Selbst erinnern kann. Sobald alle Gräber beansprucht worden sind, werden wir ein glorreiches Wiederaufleben der Menschheit erleben. Gleichfalls wird Verwüstung über das Land ziehen, wenn wir zulassen, dass die Namen in Vergessenheit geraten.”</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
@@ -604,9 +604,7 @@ Er drückt dir einen Apparat in die Hand. "Bitte. Nehmt dies als Zeichen unserer
       <DefaultText>Chois Gedanken klimpern in Eurem Kopf herum, als Ihr vor diesem Mann steht, der sich selbst "Ronos Cai'sul" nennt. 
  
  Sie reagiert mit Entfremdung und Wut auf diesen ... Diebstahl des Selbsts ihres Vaters. Doch mit der launischen Geschwindigkeit der Jugend ändert sich ihr Gemüt, dröhnt herum, bis es seine letzte Feststellung macht – dass dies ist, wie die Welt sich überarbeitet und immer wieder erneut versucht, wie ein Kind, das mit Knete spielt und träumt, was alles daraus gemacht werden kann.</DefaultText>
-      <FemaleText>Chois Gedanken klimpern in Eurem Kopf herum, als Ihr vor diesem Mann steht, der sich selbst "Ronos Cai'sul” nennt. 
- 
- Sie reagiert mit Entfremdung und Wut auf diesen ... Diebstahl des Selbsts ihres Vaters. Doch mit der launischen Geschwindigkeit der Jugend ändert sich ihr Gemüt, dröhnt herum, bis es seine letzte Feststellung macht – dass dies ist, wie die Welt sich überarbeitet und immer wieder erneut versucht, wie ein Kind, das mit Knete spielt und träumt, was alles daraus gemacht werden kann.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
@@ -615,16 +613,12 @@ Er drückt dir einen Apparat in die Hand. "Bitte. Nehmt dies als Zeichen unserer
  Nein. 
  
 Sie ist jetzt das Gegenteil: ein Balsam, wenn auch nur ein leichter; das Gefühl, dass repariert werden kann, was beschädigt ist; dass ganz gemacht werden kann, was zerbrochen ist.</DefaultText>
-      <FemaleText>Und damit ändert sich die gesamte Essenz Chois. Sie ist nicht mehr eine Leiche, die in Euch zerfällt. Sie ist kein Fluch, der in Eurem Verstand haust, ein Körnchen Reue, das einem mit der Zeit die Seele wundschaben könnte. 
- 
- Nein. 
- 
-Sie ist jetzt das Gegenteil: ein Balsam, wenn auch nur ein leichter; das Gefühl, dass repariert werden kann, was beschädigt ist; dass ganz gemacht werden kann, was zerbrochen ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
       <DefaultText>Dann bist du wieder alleine in deinem Verstand.</DefaultText>
-      <FemaleText>Dann seid Ihr wieder alleine in Eurem Verstand.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
@@ -861,12 +855,12 @@ Sie ist jetzt das Gegenteil: ein Balsam, wenn auch nur ein leichter; das Gefühl
     <Entry>
       <ID>184</ID>
       <DefaultText>"Ich *weiß*, wo es ist. Ist das nicht, warum du mich gebeten hast, mitzukommen? Wir müssen zur Nekropolis, oben entlang der Klippenwand. Wir müssen Minnim benutzen, um dorthin zu gelangen, aber das ist schon einfach genug.“</DefaultText>
-      <FemaleText>"Ich *weiß*, wo es ist. Ist das nicht, warum du mich gebeten hast, mitzukommen? Wir müssen zur Nekropolis, oben entlang der Klippenwand. Wir müssen Minnim benutzen, um dorthin zu gelangen, aber das ist schon einfach genug.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
       <DefaultText>Er verbeugt sich nervös. "Das ist wahr. Du musst aber stark oder vorsichtig sein - oder beides. Die Kinder sind grausam und unberechenbar.“</DefaultText>
-      <FemaleText>Er verbeugt sich nervös. "Das ist wahr. Du musst aber stark oder vorsichtig sein - oder beides. Die Kinder sind grausam und unberechenbar.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
