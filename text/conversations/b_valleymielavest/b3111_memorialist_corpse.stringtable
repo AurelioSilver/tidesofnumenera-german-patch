@@ -37,7 +37,7 @@
     <Entry>
       <ID>7</ID>
       <DefaultText>Mit zwei Fingern ziehst du seine Augenlider vorsichtig zu und schließt seinen vor Schrecken aufgerissenen Mund.</DefaultText>
-      <FemaleText>Mit zwei Fingern zieht Ihr seine Augenlider vorsichtig zu und schließt seinen vor Schrecken aufgerissenen Mund.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -215,9 +215,7 @@
       <DefaultText>Dieser Leichnam ist mitleidserregend auf die Seite gerollt, als ob er einen weiteren Tritt in die Rippen erwarten würde. Seine Augen sind vor Angst davor, was ihm zugestoßen ist, aufgerissen.
  
  Wer auch immer diese Person im Leben war, sie ist nun nicht mehr wiederzuerkennen. Die Kombination aus Hungertod, Schlägen und Folter haben alles, mit Ausnahme der Augen, unkenntlich gemacht. Am Mittelfinger der rechten Hand ist eine Vertiefung zu erkennen, die einst einen Ring trug, der jedoch ebenfalls verschwunden ist.</DefaultText>
-      <FemaleText>Dieser Leichnam ist mitleidserregend auf die Seite gerollt, als ob er einen weiteren Tritt in die Rippen erwarten würde. Seine Augen sind vor Angst davor, was ihm zugestoßen ist, aufgerissen.
- 
- Wer auch immer diese Person im Leben war, sie ist nun nicht mehr wiederzuerkennen. Die Kombination aus Hungertod, Schlägen und Folter haben alles, mit Ausnahme der Augen, unkenntlich gemacht. Am Mittelfinger der rechten Hand ist eine Vertiefung zu erkennen, die einst einen Ring trug, der jedoch ebenfalls verschwunden ist.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
