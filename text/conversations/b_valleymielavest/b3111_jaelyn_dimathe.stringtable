@@ -7,16 +7,14 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Sie schaut dich mit einem süffisanten Lächeln an, während ihre Daumen untätig auf den Griffen der Dolche an ihren Hüften ruhen.</DefaultText>
-      <FemaleText>Sie schaut Euch mit einem süffisanten Lächeln an, während ihre Daumen untätig auf den Griffen der Dolche an ihren Hüften ruhen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Diese verführerische Frau schaut auf, wobei ihr weißes Haar über ihre Schultern fällt. Sie lässt ein leichtes Lächeln die Winkel ihres Mundes zieren. 
  
  Ihr Gesicht ist ... verwirrend, da ihre Haut die Festigkeit der Jugend besitzt, während ihre Augen dich mit der Weisheit von einhundert Jahren durchbohren. Sie lässt ihre Hände auf den Dolchen an ihrer Hüfte ruhen. Möglicherweise wartet sie darauf, dass Ihr die Höflichkeit besitzt, den ersten Schritt zu machen.</DefaultText>
-      <FemaleText>Diese verführerische Frau schaut auf, wobei ihr weißes Haar über ihre Schultern fällt. Sie lässt ein leichtes Lächeln die Winkel ihres Mundes zieren. 
- 
- Ihr Gesicht ist ... verwirrend, da ihre Haut die Festigkeit der Jugend besitzt, während ihre Augen Euch mit der Weisheit von einhundert Jahren durchbohren. Sie lässt ihre Hände auf den Dolchen an ihrer Hüfte ruhen. Möglicherweise wartet sie darauf, dass Ihr die Höflichkeit besitzt, den ersten Schritt zu machen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -56,7 +54,7 @@
     <Entry>
       <ID>10</ID>
       <DefaultText>Sie neigt den Kopf zur Seite. "Ihr stellt aber viele Fragen."</DefaultText>
-      <FemaleText>Sie neigt den Kopf zur Seite. "Ihr stellt aber viele Fragen.”</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -106,12 +104,12 @@
     <Entry>
       <ID>22</ID>
       <DefaultText>"Unser Anführer und die einzige Person, die die Endlose Pforte öffnen kann. Er ist einzigartig unter den Menschen, unser Lord und Erlöser." Sie neigt den Kopf ehrfürchtig.</DefaultText>
-      <FemaleText>"Unser Anführer und die einzige Person, die die Endlose Pforte öffnen kann. Er ist einzigartig unter den Menschen, unser Lord und Erlöser.” Sie neigt den Kopf ehrfürchtig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>"Unser Lord und Erlöser, der Archon der Endlosen Pforte."</DefaultText>
-      <FemaleText>"Unser Lord und Erlöser, der Archon der Endlosen Pforte.”</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -121,7 +119,7 @@
     <Entry>
       <ID>26</ID>
       <DefaultText>"Ich möchte etwas *über* Euch erfahren. Wer seid Ihr wirklich?"</DefaultText>
-      <FemaleText>"Ich möchte etwas *über* Euch erfahren. Wer seid Ihr wirklich?”</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -179,9 +177,7 @@
       <DefaultText>Sie lacht laut, während sie sich mit der Hand gegen die Stirn schlägt. 
  
  "Wo *habe* ich denn heute meinen Kopf gelassen? Ich bin eine ... wie sagt man hier dazu? Eine Folterin. Ich beschaffe Informationen durch Schmerz. Das Unterhaus DiMathe war bekannt dafür und ich war die einzige Verbliebene meiner Familie. Ich dachte, dass ich sie stolz machen würde, wenn ich das Familiengewerbe hier übernähme." Sie schüttelt den Kopf und seufzt ob ihrer eigenen Naivität.</DefaultText>
-      <FemaleText>Sie lacht laut, während sie sich mit der Hand gegen die Stirn schlägt. 
- 
- "Wo *habe* ich denn heute meinen Kopf gelassen? Ich bin eine ... wie sagt man hier dazu? Eine Folterin. Ich beschaffe Informationen durch Schmerz. Das Unterhaus DiMathe war bekannt dafür und ich war die einzige Verbliebene meiner Familie. Ich dachte, dass ich sie stolz machen würde, wenn ich das Familiengewerbe hier übernähme.” Sie schüttelt den Kopf und seufzt ob ihrer eigenen Naivität.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
@@ -258,7 +254,7 @@
     <Entry>
       <ID>52</ID>
       <DefaultText>"Welch eine außergewöhnliche Perspektive,“ murmelt sie. "Wenn nur mehr Leute so auftreten könnten. Schließlich ist die eine große Wahrheit des Lebens die, dass wir wissen, dass es eines Tages sein Ende findet. Welchen Zweck hat es, zu jammern oder zu sich zu bemühen?“</DefaultText>
-      <FemaleText>"Welch eine außergewöhnliche Perspektive,“ murmelt sie. "Wenn nur mehr Leute so auftreten könnten. Schließlich ist die eine große Wahrheit des Lebens die, dass wir wissen, dass es eines Tages sein Ende findet. Welchen Zweck hat es, zu jammern oder zu sich zu bemühen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
