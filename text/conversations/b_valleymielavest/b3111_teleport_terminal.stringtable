@@ -7,8 +7,8 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Dieser Sockel wird von einem schimmernden Kraftfeld verdeckt. Es scheint von einem kleinen Apparat im *Inneren* des Feldes ausgestrahlt zu werden. Das muss das Flüsterschloss sein.
- 
- Darin befinden sich auch mehrere Knöpfe rund um eine Drehscheibe. Solange das Flüsterschloss aktiv ist, kannst du diese jedoch nicht erreichen.</DefaultText>
+
+Darin befinden sich auch mehrere Knöpfe rund um eine Drehscheibe. Solange das Flüsterschloss aktiv ist, kannst du diese jedoch nicht erreichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,14 +159,14 @@
     <Entry>
       <ID>34</ID>
       <DefaultText>"Doch zunächst wird die Gefangene befreit."
- 
+
 Motley nickt einem Kultisten zu und der zückt ein Messer. Doch anstatt die Fesseln der Gefangenen zu lösen, hält er es ihr an die Kehle. Er will sie töten!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>"Doch zunächst werden die Gefangenen befreit."
- 
+
 Motley nickt einem Kultisten zu und der zückt ein Messer. Doch anstatt die Fesseln der Gefangenen zu lösen, hält er es dem ersten von ihnen an die Kehle. Er will sie töten!</DefaultText>
       <FemaleText />
     </Entry>
@@ -193,15 +193,15 @@ Motley nickt einem Kultisten zu und der zückt ein Messer. Doch anstatt die Fess
     <Entry>
       <ID>40</ID>
       <DefaultText>Der Kultist schneidet ihr die Kehle durch. Sie öffnet den Mund, wie um nach Luft zu schnappen, doch sie bringt keinen Laut hervor. Ihr Körper zuckt, während ihr Blut auf ihre Robe spritzt.
- 
- Schließlich erlischt das Licht in ihren Augen und sie fällt leblos zu Boden. In die Lache ihres eigenen Blutes.</DefaultText>
+
+Schließlich erlischt das Licht in ihren Augen und sie fällt leblos zu Boden. In die Lache ihres eigenen Blutes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Der Kultist schneidet dem ersten Gefangenen die Kehle durch. Er öffnet den Mund, wie um nach Luft zu schnappen, doch er bringt keinen Laut hervor. Sein Körper zuckt, während sein Blut auf seine Kleidung spritzt. Schließlich erlischt das Licht in seinen Augen und er fällt leblos zu Boden. Mit einem nass-dumpfen Platschen landet er in der Lache seines eigenen Blutes.
- 
- Der Kultist macht mit dem nächsten Gefangenen weiter und hört erst auf, als alle tot sind.</DefaultText>
+
+Der Kultist macht mit dem nächsten Gefangenen weiter und hört erst auf, als alle tot sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,8 +217,8 @@ Motley nickt einem Kultisten zu und der zückt ein Messer. Doch anstatt die Fess
     <Entry>
       <ID>44</ID>
       <DefaultText>"Ich bin mächtiger als euer Lord Inifere. Ich befehle euch, diese Nekropolis zu verlassen, oder ich werde *eure* Geister 'befreien'."
- 
- {SCRIPT: One step easier for Dominant Indigo tide.}</DefaultText>
+
+{SCRIPT: One step easier for Dominant Indigo tide.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,12 +229,12 @@ Motley nickt einem Kultisten zu und der zückt ein Messer. Doch anstatt die Fess
     <Entry>
       <ID>46</ID>
       <DefaultText>Er weicht zurück. Das Messer in seiner Hand beginnt zu zittern. "Du..." Er sieht deine Tätowierung und wird noch bleicher. "Ja, Herr. Es sei, wie du befiehlst."
- 
- Er läuft durch den Gang davon. Bei seinem hastigen Abgang fällt ihm ein Zettel aus der Tasche, ohne dass er es bemerkt.
- 
- Er landet vor deinen Füßen. Du hebst ihn auf, während seine Schritte draußen im Tal verklingen.
- 
- {SOUND: footsteps running}</DefaultText>
+
+Er läuft durch den Gang davon. Bei seinem hastigen Abgang fällt ihm ein Zettel aus der Tasche, ohne dass er es bemerkt.
+
+Er landet vor deinen Füßen. Du hebst ihn auf, während seine Schritte draußen im Tal verklingen.
+
+{SOUND: footsteps running}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -245,14 +245,14 @@ Motley nickt einem Kultisten zu und der zückt ein Messer. Doch anstatt die Fess
     <Entry>
       <ID>49</ID>
       <DefaultText>Der dicke Mann beugt sich über das Flüsterschloss und sagt: "Guni."
- 
- Mit einem Seufzen zersplittert das schimmernde Kraftfeld in glänzende Lichtscherben. Die Steuerung im Inneren ist nun zugänglich.</DefaultText>
+
+Mit einem Seufzen zersplittert das schimmernde Kraftfeld in glänzende Lichtscherben. Die Steuerung im Inneren ist nun zugänglich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>"Doch zunächst wird der Gefangene befreit."
- 
+
 Motley nickt einem Kultisten zu und er zückt ein Messer. Doch anstatt damit die Fesseln des Gefangenen zu lösen, hält er es ihm an den Hals. Er will ihn töten!</DefaultText>
       <FemaleText />
     </Entry>
