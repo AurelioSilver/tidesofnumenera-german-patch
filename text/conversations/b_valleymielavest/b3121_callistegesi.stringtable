@@ -8,19 +8,19 @@
       <ID>1</ID>
       <DefaultText>Callistege fährt mit den Fingerspitzen über die tief eingelassenen konzentrischen Kreise. Ihre Echos beobachten sie mit Argusaugen, aber sie ist zu konzentriert, um darauf zu achten.
 
-"Solch Kunstfertigkeit", flüstert sie.</DefaultText>
+„Solch Kunstfertigkeit“, flüstert sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Was ist die Botschaft?"</DefaultText>
+      <DefaultText>„Was ist die Botschaft?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich bin mir nicht sicher..." Sie runzelt die Stirn. Sie zeichnet weiter mit den Fingern die Linien nach, während jede ihrer Schwestern die Kreise jeweils aus einem etwas anderen Blickwinkel betrachtet. "Das hier im Zentrum sieht aus wie die Neunte Welt. Aber die anderen Bilder..." Sie verstummt.
+      <DefaultText>„Ich bin mir nicht sicher...“ Sie runzelt die Stirn. Sie zeichnet weiter mit den Fingern die Linien nach, während jede ihrer Schwestern die Kreise jeweils aus einem etwas anderen Blickwinkel betrachtet. „Das hier im Zentrum sieht aus wie die Neunte Welt. Aber die anderen Bilder...“ Sie verstummt.
 
-Sie runzelt die Stirn. "Maschinen, Nanobots, die Datosphäre. Und wenn dieses Bild... ja. Wenn wir diesen Apparat finden, kann ich eine Verbindung herstellen..."
+Sie runzelt die Stirn. „Maschinen, Nanobots, die Datosphäre. Und wenn dieses Bild... ja. Wenn wir diesen Apparat finden, kann ich eine Verbindung herstellen...“
 
 Sie verstummt wieder.</DefaultText>
       <FemaleText />
@@ -37,22 +37,22 @@ Sie verstummt wieder.</DefaultText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ich verstehe es nicht."</DefaultText>
+      <DefaultText>„Ich verstehe es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Versuch's weiter, Liebes! Es ist wichtig für unsere Suche. Das spüre ich!"</DefaultText>
+      <DefaultText>„Versuch's weiter, Liebes! Es ist wichtig für unsere Suche. Das spüre ich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>(Lüge) "Ich verstehe es nicht."</DefaultText>
+      <DefaultText>(Lüge) „Ich verstehe es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Nur Geduld. Wir werden es verstehen. Wir brauchen nur ein wenig mehr Zeit."</DefaultText>
+      <DefaultText>„Nur Geduld. Wir werden es verstehen. Wir brauchen nur ein wenig mehr Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,12 +67,12 @@ Sie verstummt wieder.</DefaultText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Vergiss es. Gehen wir."</DefaultText>
+      <DefaultText>„Vergiss es. Gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Was?" Callistege und ihre Echos wirbeln zu dir herum. "Das kann nicht dein Ernst sein! Wir haben noch nichts verstanden!"</DefaultText>
+      <DefaultText>„Was?“ Callistege und ihre Echos wirbeln zu dir herum. „Das kann nicht dein Ernst sein! Wir haben noch nichts verstanden!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,63 +127,63 @@ Sie verstummt wieder.</DefaultText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Sieht aus wie... Verteidigungsanlagen."</DefaultText>
+      <DefaultText>„Sieht aus wie... Verteidigungsanlagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Callistege macht große Augen. Sie wendet sich wieder dem Bild zu und zeichnet die Linien mit neuer Energie nach.
 
-"Natürlich! Die höheren Bauwerke durchbrechen die dritte Ebene, während die kleinen..."</DefaultText>
+„Natürlich! Die höheren Bauwerke durchbrechen die dritte Ebene, während die kleinen...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Das haben wir im Labor deines Erzeugers gesehen", sagt sie langsam und sieht dich an. "Wenn du richtig liegst, hilft dieses Numenera mir nicht weiter." Sie ist einige Momente lang still.
+      <DefaultText>„Das haben wir im Labor deines Erzeugers gesehen“, sagt sie langsam und sieht dich an. „Wenn du richtig liegst, hilft dieses Numenera mir nicht weiter.“ Sie ist einige Momente lang still.
 
 {SCRIPT: Conditional - PC took Callistege to the Buried Crossroads.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Sie runzelt die Stirn. "Ich weiß nicht, wie man die in der Welt finden soll, aber vielleicht können wir davon ausgehen, dass sie originalgetreu abgebildet wurden und wir sie erkennen, wenn wir sie sehen."</DefaultText>
+      <DefaultText>Sie runzelt die Stirn. „Ich weiß nicht, wie man die in der Welt finden soll, aber vielleicht können wir davon ausgehen, dass sie originalgetreu abgebildet wurden und wir sie erkennen, wenn wir sie sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Dann bessert sich ihre Laune wieder. "Ich bin der Datosphäre einen Schritt nähergekommen und du bist bereits einen Schritt weiter als dein Erzeuger je gekommen ist!" Sie nickt selbstzufrieden. "Du hast allen Grund, stolz zu sein, Liebes. Du hast soeben deinen Erzeuger hinter dir gelassen."
+      <DefaultText>Dann bessert sich ihre Laune wieder. „Ich bin der Datosphäre einen Schritt nähergekommen und du bist bereits einen Schritt weiter als dein Erzeuger je gekommen ist!“ Sie nickt selbstzufrieden. „Du hast allen Grund, stolz zu sein, Liebes. Du hast soeben deinen Erzeuger hinter dir gelassen.“
 
 Sie lässt dich los und lässt das Bild mit einer Handbewegung wieder verschwinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Lass uns weitermachen!"</DefaultText>
+      <DefaultText>„Lass uns weitermachen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Du hast recht. Versuchen wir es weiter."</DefaultText>
+      <DefaultText>„Du hast recht. Versuchen wir es weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Wir können später hierher zurückkommen."</DefaultText>
+      <DefaultText>„Wir können später hierher zurückkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Vielleicht gibt es hier nichts zu verstehen."</DefaultText>
+      <DefaultText>„Vielleicht gibt es hier nichts zu verstehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Wir sind hier fertig, Callistege. Stelle meine Entscheidungen nicht in Frage."</DefaultText>
+      <DefaultText>„Wir sind hier fertig, Callistege. Stelle meine Entscheidungen nicht in Frage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Sie stößt einen Seufzer der Erleichterung aus. "Danke. Ich brauche nur noch ein paar Augenblicke."</DefaultText>
+      <DefaultText>Sie stößt einen Seufzer der Erleichterung aus. „Danke. Ich brauche nur noch ein paar Augenblicke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -193,30 +193,30 @@ Sie lässt dich los und lässt das Bild mit einer Handbewegung wieder verschwind
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Fein." Callistege rauscht an dir vorbei.</DefaultText>
+      <DefaultText>„Fein.“ Callistege rauscht an dir vorbei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich schätze, meine Sache kann warten."</DefaultText>
+      <DefaultText>„Ich schätze, meine Sache kann warten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Oder vielleicht kannst du einfach nicht verstehen." Sie wirft dir einen vernichtenden Blick zu. "Sag was du willst. Ich weiß jetzt, dass du immer nur das Produkt deines Erzeugers sein wirst, nie mehr." Sie macht auf dem Absatz kehrt und stapft davon.</DefaultText>
+      <DefaultText>„Oder vielleicht kannst du einfach nicht verstehen.“ Sie wirft dir einen vernichtenden Blick zu. „Sag was du willst. Ich weiß jetzt, dass du immer nur das Produkt deines Erzeugers sein wirst, nie mehr.“ Sie macht auf dem Absatz kehrt und stapft davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Vielleicht." Sie macht einen Schritt zurück. Dann noch einen.
+      <DefaultText>„Vielleicht.“ Sie macht einen Schritt zurück. Dann noch einen.
 
-"Welche traurige Hoffnung, die bereits von einer so trivialen Erkenntnis zunichte gemacht werden kann", sagt sie leise. Dann dreht sie sich um und geht davon.</DefaultText>
+„Welche traurige Hoffnung, die bereits von einer so trivialen Erkenntnis zunichte gemacht werden kann“, sagt sie leise. Dann dreht sie sich um und geht davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ich verstehe, Verstoßener", sagt sie leise. "Ich bin nur überrascht, dass ich nicht schon früher verstanden habe." Sie wirft dir einen vernichtenden Blick zu, macht auf dem Absatz kehrt und stapft davon.</DefaultText>
-      <FemaleText>"Ich verstehe, Verstoßene", sagt sie leise. "Ich bin nur überrascht, dass ich nicht schon früher verstanden habe." Sie wirft dir einen vernichtenden Blick zu, macht auf dem Absatz kehrt und stapft davon.</FemaleText>
+      <DefaultText>„Ich verstehe, Verstoßener“, sagt sie leise. „Ich bin nur überrascht, dass ich nicht schon früher verstanden habe.“ Sie wirft dir einen vernichtenden Blick zu, macht auf dem Absatz kehrt und stapft davon.</DefaultText>
+      <FemaleText>„Ich verstehe, Verstoßene“, sagt sie leise. „Ich bin nur überrascht, dass ich nicht schon früher verstanden habe.“ Sie wirft dir einen vernichtenden Blick zu, macht auf dem Absatz kehrt und stapft davon.</FemaleText>
     </Entry>
     <Entry>
       <ID>41</ID>
@@ -242,9 +242,9 @@ Sie lässt dich los und lässt das Bild mit einer Handbewegung wieder verschwind
       <ID>45</ID>
       <DefaultText>Ihr Blick fällt auf die acht konzentrischen Ringe. Sie pfeift erfreut.
 
-"Ich würde diesem Ding zu gerne seine Geheimnisse entlocken." Sie fährt mit den Fingern über die Ketten, was eine Reihe diskordanter Töne auslöst, die einen zitternden, hässlichen Regenbogen entstehen lassen. Sie runzelt die Stirn.
+„Ich würde diesem Ding zu gerne seine Geheimnisse entlocken.“ Sie fährt mit den Fingern über die Ketten, was eine Reihe diskordanter Töne auslöst, die einen zitternden, hässlichen Regenbogen entstehen lassen. Sie runzelt die Stirn.
 
-"Es muss wohl gestimmt werden."</DefaultText>
+„Es muss wohl gestimmt werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@ Sie lässt dich los und lässt das Bild mit einer Handbewegung wieder verschwind
       <ID>47</ID>
       <DefaultText>Selbst mit Callisteges multidimensionaler Unterstützung sind die Bilder zu stark, zu intensiv, für dich. Das Licht ist von einer Beschaffenheit, die in deinen Augen *brennt*. Mit tränenden Augen wendest du den Blick ab.
 
-"Wir müssen es noch mal versuchen", fleht sie. "Ich brauche deine Hilfe! Konzentrier dich!"</DefaultText>
+„Wir müssen es noch mal versuchen“, fleht sie. „Ich brauche deine Hilfe! Konzentrier dich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -333,12 +333,12 @@ Das Ganze erinnert dich an ein großes Saiteninstrument. Allerdings hast du kein
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Sie seufzt frustriert. "Wir müssen dieses Rätsel lösen. *Ich* muss." Sie schluckt. "Ich... Ich bitte dich noch um ein wenig Zeit. Nur ein bisschen noch."</DefaultText>
+      <DefaultText>Sie seufzt frustriert. „Wir müssen dieses Rätsel lösen. *Ich* muss.“ Sie schluckt. „Ich... Ich bitte dich noch um ein wenig Zeit. Nur ein bisschen noch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Na gut."</DefaultText>
+      <DefaultText>„Na gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -348,22 +348,22 @@ Das Ganze erinnert dich an ein großes Saiteninstrument. Allerdings hast du kein
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Wir haben andere Dinge zu erledigen. Wir müssen los."</DefaultText>
+      <DefaultText>„Wir haben andere Dinge zu erledigen. Wir müssen los.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Fein." Ihre Gesichtszüge verhärten sich und ihre Echos wenden bestimmt den Blick von dir ab. "Verstehe."</DefaultText>
+      <DefaultText>„Fein.“ Ihre Gesichtszüge verhärten sich und ihre Echos wenden bestimmt den Blick von dir ab. „Verstehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Deine Bedürfnisse sind schließlich wichtiger als alles andere."</DefaultText>
+      <DefaultText>„Deine Bedürfnisse sind schließlich wichtiger als alles andere.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Danke. Das bedeutet mir viel."</DefaultText>
+      <DefaultText>„Danke. Das bedeutet mir viel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -442,7 +442,7 @@ Du spürst beginnende Übelkeit.</DefaultText>
       <ID>94</ID>
       <DefaultText>Ihr Blick fällt auf die acht konzentrischen Ringe. Sie pfeift erfreut.
 
-"Ich würde diesem Ding zu gerne seine Geheimnisse entlocken." Sie fährt mit den Fingern über die Saiten und lächelt, als dieselben überirdischen Töne erklingen, die du bereits gehört hast.</DefaultText>
+„Ich würde diesem Ding zu gerne seine Geheimnisse entlocken.“ Sie fährt mit den Fingern über die Saiten und lächelt, als dieselben überirdischen Töne erklingen, die du bereits gehört hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -580,7 +580,7 @@ Du hörst erneut zu spielen auf, als die Kopfschmerzen zu stark werden.</Default
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Ich denke, ich kenne einige Melodien, die wir spielen könnten."
+      <DefaultText>„Ich denke, ich kenne einige Melodien, die wir spielen könnten.“
 
 Sie legt die Finger auf die Saiten und konzentriert sich. Einige ihrer solideren Echos beugen sich zu ihr und flüstern ihr etwas ins Ohr. Sie lächelt und murmelt etwas zurück. Sie beginnt, die Saiten anzuschlagen.
 
@@ -591,11 +591,11 @@ Die Töne sind kristallisch, wie aus einer anderen Welt. Sie fahren dir in Mark 
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Sie lässt die Saiten los und tritt von dem Instrument zurück. Nichts passiert. "Wie enttäu-"
+      <DefaultText>Sie lässt die Saiten los und tritt von dem Instrument zurück. Nichts passiert. „Wie enttäu-“
 
 Die Saiten verhärten sich komplett und summen. Über ihnen tobt ein Chaos aus verwirrenden Lichtern und Bildern. Du kannst nicht mal hinsehen - irgendeine Art räumlicher oder zeitlicher Verzerrung blendet dich.
 
-Dann legt dir Callistege eine Hand auf die Schulter und für einen Moment siehst du das Bild wie sie es sieht. Das Bild wird entlang der verschiedenen Realitätsebenen plötzlich scharf und klar. "Gemeinsam", flüstert sie, "werden wir es lösen."</DefaultText>
+Dann legt dir Callistege eine Hand auf die Schulter und für einen Moment siehst du das Bild wie sie es sieht. Das Bild wird entlang der verschiedenen Realitätsebenen plötzlich scharf und klar. „Gemeinsam“, flüstert sie, „werden wir es lösen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -640,17 +640,17 @@ Dann legt dir Callistege eine Hand auf die Schulter und für einen Moment siehst
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Was siehst du?"</DefaultText>
+      <DefaultText>„Was siehst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Hast du erfahren, was du wissen musst?"</DefaultText>
+      <DefaultText>„Hast du erfahren, was du wissen musst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Gehen wir, Callistege."</DefaultText>
+      <DefaultText>„Gehen wir, Callistege.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -660,12 +660,12 @@ Dann legt dir Callistege eine Hand auf die Schulter und für einen Moment siehst
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Wann immer du willst, Liebes. Danke, dass du mir ermöglicht hast, diesen Apparat zu untersuchen."</DefaultText>
+      <DefaultText>„Wann immer du willst, Liebes. Danke, dass du mir ermöglicht hast, diesen Apparat zu untersuchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Nur einen Moment noch." Sie wirft einen letzten Blick auf den Plan und sie und ihre Schwestern prägen sich das Bild im Gedächtnis ein. "Ja. Wir sind hier fertig. Sieh weg."
+      <DefaultText>„Nur einen Moment noch.“ Sie wirft einen letzten Blick auf den Plan und sie und ihre Schwestern prägen sich das Bild im Gedächtnis ein. „Ja. Wir sind hier fertig. Sieh weg.“
 
 Du wendest den Blick ab und sie lässt dich los. Dein Geist ist wieder erfüllt von einer einzigen Realitätsebene.</DefaultText>
       <FemaleText />
@@ -674,7 +674,7 @@ Du wendest den Blick ab und sie lässt dich los. Dein Geist ist wieder erfüllt 
       <ID>140</ID>
       <DefaultText>Sie macht große Augen. Sie wendet sich wieder dem Bild zu und zeichnet die Linien mit neuer Energie nach.
 
-"Natürlich! Die höheren Bauwerke durchbrechen die dritte Ebene, während die kleinen..."</DefaultText>
+„Natürlich! Die höheren Bauwerke durchbrechen die dritte Ebene, während die kleinen...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -738,17 +738,17 @@ Du hörst erneut zu spielen auf, als die Kopfschmerzen zu stark werden.</Default
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Es muss gestimmt werden. Lass es uns stimmen, ja?"</DefaultText>
+      <DefaultText>„Es muss gestimmt werden. Lass es uns stimmen, ja?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Du hast es gestimmt!" Sie betrachtet das Instrument begehrlich.</DefaultText>
+      <DefaultText>„Du hast es gestimmt!“ Sie betrachtet das Instrument begehrlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Wir müssen diese Bilder entschlüsseln", sagt sie mit großen, neugierigen Augen. "Gemeinsam."</DefaultText>
+      <DefaultText>„Wir müssen diese Bilder entschlüsseln“, sagt sie mit großen, neugierigen Augen. „Gemeinsam.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
