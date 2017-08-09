@@ -112,12 +112,12 @@ Sie verstummt wieder.</DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Es ist eine Art uralter Bauplan - du siehst einen Haufen Türme, Gabeln, Kreise, Energiekugeln und mehr. Du konzentrierst dich auf eine Gabel und erkennst die linke Zacke als einen der vielen Apparate, die dein Erzeuger unter Sagus-Klippen versteckt hat. In diesem Bild ist es jedoch von einer Reihe scharfer Linien umgeben, von denen eine eine unidentifizierbare Figur entzwei teilt.</DefaultText>
+      <DefaultText>Es ist eine Art uralter Bauplan – du siehst einen Haufen Türme, Gabeln, Kreise, Energiekugeln und mehr. Du konzentrierst dich auf eine Gabel und erkennst die linke Zacke als einen der vielen Apparate, die dein Erzeuger unter Sagus-Klippen versteckt hat. In diesem Bild ist es jedoch von einer Reihe scharfer Linien umgeben, von denen eine eine unidentifizierbare Figur entzwei teilt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Es ist eine Art uralter Bauplan - du siehst einen Haufen Türme, Gabeln, Kreise, Energiekugeln und mehr. Du konzentrierst dich noch mehr auf das Bild. Die linke Zacke einer Gabel ist es von einer Reihe scharfer Linien umgeben, von denen eine eine unidentifizierbare Figur entzwei teilt.</DefaultText>
+      <DefaultText>Es ist eine Art uralter Bauplan – du siehst einen Haufen Türme, Gabeln, Kreise, Energiekugeln und mehr. Du konzentrierst dich noch mehr auf das Bild. Die linke Zacke einer Gabel ist es von einer Reihe scharfer Linien umgeben, von denen eine eine unidentifizierbare Figur entzwei teilt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@ Sie verstummt wieder.</DefaultText>
       <ID>26</ID>
       <DefaultText>„Das haben wir im Labor deines Erzeugers gesehen“, sagt sie langsam und sieht dich an. „Wenn du richtig liegst, hilft dieses Numenera mir nicht weiter.“ Sie ist einige Momente lang still.
 
-{SCRIPT: Conditional - PC took Callistege to the Buried Crossroads.}</DefaultText>
+{SCRIPT: Conditional – PC took Callistege to the Buried Crossroads.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -457,7 +457,7 @@ Du spürst beginnende Übelkeit.</DefaultText>
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Jede Perle besteht aus einem anderen Metall, doch alle sind kunstvoll und detailliert gefertigt. Eine winzige Einkerbung in der Perle hält sie an der Saite fest - ein verbindender Lichtstrahl. Ein kleiner Steg verbindet die Perle mit einer zweiten im Nebenkanal. Die Perlen sind in den Kanälen frei beweglich. Wenn du eine bewegst, bewegt sich die andere entsprechend mit.
+      <DefaultText>Jede Perle besteht aus einem anderen Metall, doch alle sind kunstvoll und detailliert gefertigt. Eine winzige Einkerbung in der Perle hält sie an der Saite fest – ein verbindender Lichtstrahl. Ein kleiner Steg verbindet die Perle mit einer zweiten im Nebenkanal. Die Perlen sind in den Kanälen frei beweglich. Wenn du eine bewegst, bewegt sich die andere entsprechend mit.
 
 Bei genauerer Betrachtung erkennst du in den Kanälen vier kleine Einbuchtungen in Form eines X. Wenn du die Perlen in diese Einbuchtungen führst, kannst du die Saiten vielleicht einrasten.</DefaultText>
       <FemaleText />
@@ -573,7 +573,7 @@ Du hörst auf zu spielen.</DefaultText>
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>Die Lichter flackern erneut auf. Unzusammenhängende Bilder leuchten vor deinen Augen auf: Piktogramme, Zahlen, Lettern unbekannter Sprachen - sie alle ziehen zu schnell vorbei, als dass du etwas davon verstehen könntest. Die Töne, die die Saiten produzieren, enthalten Informationen, die flüchtige Erinnerungen und Emotionen in dir auslösen.
+      <DefaultText>Die Lichter flackern erneut auf. Unzusammenhängende Bilder leuchten vor deinen Augen auf: Piktogramme, Zahlen, Lettern unbekannter Sprachen – sie alle ziehen zu schnell vorbei, als dass du etwas davon verstehen könntest. Die Töne, die die Saiten produzieren, enthalten Informationen, die flüchtige Erinnerungen und Emotionen in dir auslösen.
 
 Du hörst erneut zu spielen auf, als die Kopfschmerzen zu stark werden.</DefaultText>
       <FemaleText />
@@ -593,7 +593,7 @@ Die Töne sind kristallisch, wie aus einer anderen Welt. Sie fahren dir in Mark 
       <ID>121</ID>
       <DefaultText>Sie lässt die Saiten los und tritt von dem Instrument zurück. Nichts passiert. „Wie enttäu-“
 
-Die Saiten verhärten sich komplett und summen. Über ihnen tobt ein Chaos aus verwirrenden Lichtern und Bildern. Du kannst nicht mal hinsehen - irgendeine Art räumlicher oder zeitlicher Verzerrung blendet dich.
+Die Saiten verhärten sich komplett und summen. Über ihnen tobt ein Chaos aus verwirrenden Lichtern und Bildern. Du kannst nicht mal hinsehen – irgendeine Art räumlicher oder zeitlicher Verzerrung blendet dich.
 
 Dann legt dir Callistege eine Hand auf die Schulter und für einen Moment siehst du das Bild wie sie es sieht. Das Bild wird entlang der verschiedenen Realitätsebenen plötzlich scharf und klar. „Gemeinsam“, flüstert sie, „werden wir es lösen.“</DefaultText>
       <FemaleText />
@@ -620,7 +620,7 @@ Dann legt dir Callistege eine Hand auf die Schulter und für einen Moment siehst
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Ohne Callistege ist es hoffnungslos - die Bilder erstrecken sich über zu viele Realitäten.</DefaultText>
+      <DefaultText>Ohne Callistege ist es hoffnungslos – die Bilder erstrecken sich über zu viele Realitäten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -679,7 +679,7 @@ Du wendest den Blick ab und sie lässt dich los. Dein Geist ist wieder erfüllt 
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Callistege spielt dieselbe Melodie wie zuvor. Die Bilder flackern erneut auf, aber nicht ganz so kraftvoll wie zuvor - so als hätte dein Verständnis seiner Botschaft das Bild seiner Kräfte beraubt.</DefaultText>
+      <DefaultText>Callistege spielt dieselbe Melodie wie zuvor. Die Bilder flackern erneut auf, aber nicht ganz so kraftvoll wie zuvor – so als hätte dein Verständnis seiner Botschaft das Bild seiner Kräfte beraubt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -721,7 +721,7 @@ Du wendest den Blick ab und sie lässt dich los. Dein Geist ist wieder erfüllt 
       <ID>150</ID>
       <DefaultText>Du streichst über die Saiten und produzierst nur Missklang. Kein Vergleich zu der Melodie, die Callistege gespielt hat.
 
-Die Lichter flackern erneut auf. Unzusammenhängende Bilder leuchten vor deinen Augen auf: Piktogramme, Zahlen, Lettern unbekannter Sprachen - sie alle ziehen zu schnell vorbei, als dass du etwas davon verstehen könntest. Die Töne, die die Saiten produzieren, enthalten Informationen, die flüchtige Erinnerungen und Emotionen in dir auslösen.
+Die Lichter flackern erneut auf. Unzusammenhängende Bilder leuchten vor deinen Augen auf: Piktogramme, Zahlen, Lettern unbekannter Sprachen – sie alle ziehen zu schnell vorbei, als dass du etwas davon verstehen könntest. Die Töne, die die Saiten produzieren, enthalten Informationen, die flüchtige Erinnerungen und Emotionen in dir auslösen.
 
 Du hörst erneut zu spielen auf, als die Kopfschmerzen zu stark werden.</DefaultText>
       <FemaleText />
