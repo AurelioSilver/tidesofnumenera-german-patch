@@ -22,8 +22,8 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>Eines steht außer Frage - sein angewiderter Gesichtsausdruck. "Du siehst mir aus wie ein Entdecker. Lass mich raten. Tantalum hat dich auch hier runter geschickt, nicht wahr? Etwa auf die Suche nach Hiro? Nun, du hast mich gefunden."
- 
- Er verzieht das Gesicht. "Tantalum. Dieser Drig, dieser aufgedunsene Laakfresser, dieser schuppige Tulk. Ich wette, das macht er mit allen so. Schickt die Leute auf die Jagd nach Schätzen, verspricht ihnen geheimes altes Wissen und lacht sich dann krumm und scheckig über die Trottel, die ihm auf den Leim gehen."</DefaultText>
+
+Er verzieht das Gesicht. "Tantalum. Dieser Drig, dieser aufgedunsene Laakfresser, dieser schuppige Tulk. Ich wette, das macht er mit allen so. Schickt die Leute auf die Jagd nach Schätzen, verspricht ihnen geheimes altes Wissen und lacht sich dann krumm und scheckig über die Trottel, die ihm auf den Leim gehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -104,8 +104,8 @@
     <Entry>
       <ID>20</ID>
       <DefaultText>"Weißt du was? Ich gehe ihn jetzt gleich suchen." Er macht sich auf den Weg, begreift, dass du mit ihm gesprochen hast, und bleibt wieder stehen. Er dreht sich um. "Entschuldigung. Es ist ja nicht deine Schuld. Leb ebenfalls wohl."
- 
- Und damit stürmt er endgültig aus dem Raum.</DefaultText>
+
+Und damit stürmt er endgültig aus dem Raum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,10 +121,10 @@
     <Entry>
       <ID>23</ID>
       <DefaultText>"Creft. Skist. Anders ausgedrückt, nichts und noch mal nichts." Er hält einen Finger hoch. "Ganz stimmt das nicht. Ich fand diesen wertlosen Müll in einem Grab. Bestimmt hat es ein *anderer* Einfaltspinsel, der Tantalum auf den Leim gegangen ist, dort verloren. Wertlos. Kann's nicht mal zerlegen und die Einzelteile verkaufen."
- 
- Er wirft dir den Gegenstand zu. "Hier. Eine Erinnerung daran, nicht jedem alles zu glauben."
- 
- {LOOT: Give Gold Merecaster}</DefaultText>
+
+Er wirft dir den Gegenstand zu. "Hier. Eine Erinnerung daran, nicht jedem alles zu glauben."
+
+{LOOT: Give Gold Merecaster}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
       <ID>38</ID>
       <DefaultText>Er schnaubt.
 
- "Ich habe nicht um Trost gebeten, aber bei den Göttern, ich nehme ihn an."</DefaultText>
+"Ich habe nicht um Trost gebeten, aber bei den Göttern, ich nehme ihn an."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
