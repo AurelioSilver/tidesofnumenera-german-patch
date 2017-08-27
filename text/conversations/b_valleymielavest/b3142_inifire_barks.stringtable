@@ -12,17 +12,17 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>::stöhnt::</DefaultText>
-      <FemaleText>::stöhnt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>::schnatter::</DefaultText>
-      <FemaleText>::schnatter::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Hrrrrrgh.“</DefaultText>
-      <FemaleText>"Hrrrrrgh.“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
