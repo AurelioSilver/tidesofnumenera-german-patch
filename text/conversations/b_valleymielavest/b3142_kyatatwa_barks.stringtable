@@ -12,17 +12,17 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>"Ich nehme auch deine Haut.“</DefaultText>
-      <FemaleText>"Ich nehme auch deine Haut.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Blute!"</DefaultText>
-      <FemaleText>"Blute!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Eine Leiche mehr macht keinen Unterschied.“</DefaultText>
-      <FemaleText>"Eine Leiche mehr macht keinen Unterschied.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -32,7 +32,7 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>"Frei!"</DefaultText>
-      <FemaleText>"Frei!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
