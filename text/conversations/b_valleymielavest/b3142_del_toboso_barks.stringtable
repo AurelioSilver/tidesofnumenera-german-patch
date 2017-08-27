@@ -12,17 +12,17 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>"Kein Pardon! Ha! Kein Ergeben!“</DefaultText>
-      <FemaleText>"Kein Pardon! Ha! Kein Ergeben!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Ich werde nicht wanken!“</DefaultText>
-      <FemaleText>"Ich werde nicht wanken!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Ein Feind, der eines Ritters würdig ist!“</DefaultText>
-      <FemaleText>"Ein Feind, der eines Ritters würdig ist!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -32,7 +32,7 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>"Ah. Sie wartete auf mich... nach all dem...“</DefaultText>
-      <FemaleText>"Ah. Sie wartete auf mich... nach all dem...“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
