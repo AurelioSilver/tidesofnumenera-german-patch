@@ -13,7 +13,7 @@
       <ID>2</ID>
       <DefaultText>Der Mann hat lange Glieder, einen ausgemergelten Körper ohne Muskeln und eine eingefallene Brust. Vereinzelte Haare bedecken seinen vernarbten Schädel und seine gekrümmte Gestalt ist mit Fetzen bedeckt. Er trägt die Tätowierung eines Verstoßenen, aber er ist anders als alle anderen Verstoßenen, die du kennst.
 
-Er sieht dich mit blutunterlaufenen Augen und fiebrig-irrem Blick  an. Innerhalb seines Wahns spürst du jedoch einen harten, klaren Kern, so wie die reinen schwarzen Pupillen inmitten der blutunterlaufenen Augen.
+Er sieht dich mit blutunterlaufenen Augen und fiebrig-irrem Blick an. Innerhalb seines Wahns spürst du jedoch einen harten, klaren Kern, so wie die reinen schwarzen Pupillen inmitten der blutunterlaufenen Augen.
 
 Sein Ton ist heiser und gefährlich. "Du bist zu weit gekommen. Viel zu weit. Es gibt kein Entkommen. *Niemand* entkommt der Pforte."
 
@@ -173,10 +173,10 @@ Er bleckt seine kaputten Zähne in einem freudlosen Lächeln. "Aber ich bin scho
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Inifere macht ein finsteres Gesicht. "Die Kinder lassen mittlerweile ihre Klingen sprechen, Bruder. Die Zeit für Worte ist längst vorbei." Dann wird sein Blick weicher. 
+      <DefaultText>Inifere macht ein finsteres Gesicht. "Die Kinder lassen mittlerweile ihre Klingen sprechen, Bruder. Die Zeit für Worte ist längst vorbei." Dann wird sein Blick weicher.
 
 "Ach, Brüderchen, unser Vater ließ Pein unseren Lehrer sein, egal, was wir auch studierten. Mit der Zeit wirst du alles erfahren, was ich dich über die Pforte lehren kann. Genieße für den Moment die selige Unwissenheit, die mir nie vergönnt war."</DefaultText>
-      <FemaleText>Inifere macht ein finsteres Gesicht. "Die Kinder lassen mittlerweile ihre Klingen sprechen, Schwester. Die Zeit für Worte ist längst vorbei." Dann wird sein Blick weicher. 
+      <FemaleText>Inifere macht ein finsteres Gesicht. "Die Kinder lassen mittlerweile ihre Klingen sprechen, Schwester. Die Zeit für Worte ist längst vorbei." Dann wird sein Blick weicher.
 
 "Ach, Schwesterchen, unser Vater ließ Pein unseren Lehrer sein, egal, was wir auch studierten. Mit der Zeit wirst du alles erfahren, was ich dich über die Pforte lehren kann. Genieße für den Moment die selige Unwissenheit, die mir nie vergönnt war."</FemaleText>
     </Entry>
@@ -600,7 +600,7 @@ Inifere studiert dein Gesicht. "Ich weiß, dass du es weißt – ich sehe den Sc
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Iniferes Atem verlangsamt sich und er lächelt traurig."Du weißt es. Du hast gewählt." 
+      <DefaultText>Iniferes Atem verlangsamt sich und er lächelt traurig."Du weißt es. Du hast gewählt."
 
 Er erzittert, als wäre ihm plötzlich kalt geworden, und dann spürst du es, die Bewegung der Gezeiten, die um deinen Bruder herumwirbeln. Er zieht an ihnen, und mit ihnen an dir, reißt mentale Mauern nieder, von denen du nicht mal wusstest, dass du sie hattest. Da ist etwas – etwas Furchtbares – gerade jenseits des Randes deines Bewusstseins, aber dieser Rand verschwindet, als sich dein Geist erweitert, mitgeschwemmt von den Gezeiten.
 
@@ -641,9 +641,9 @@ Inifere wurde geschaffen, um diese Qualen zu erdulden, aber du nicht. Mit der Ze
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Deine Stimme klingt leise und wie von weit weg, fast verschluckt vom Rausch der Gezeiten um dich herum. 
+      <DefaultText>Deine Stimme klingt leise und wie von weit weg, fast verschluckt vom Rausch der Gezeiten um dich herum.
 
-Aber dein Bruder hört dich. Er verzieht das Gesicht, das einzige äußere Zeichen seiner Anstrengung. Die Gezeiten beruhigen sich langsam wieder und das *Ding* am Rande deines Bewusstseins zieht sich zurück. Oder vielleicht ist es dein Geist, der sich zurückzieht. In jedem Fall ist die Gefahr vorüber. 
+Aber dein Bruder hört dich. Er verzieht das Gesicht, das einzige äußere Zeichen seiner Anstrengung. Die Gezeiten beruhigen sich langsam wieder und das *Ding* am Rande deines Bewusstseins zieht sich zurück. Oder vielleicht ist es dein Geist, der sich zurückzieht. In jedem Fall ist die Gefahr vorüber.
 
 "Und wieder werde ich mit Pein für die fruchtlose Tändelei meiner saumseligen Sippschaft bezahlen müssen."
 
@@ -985,10 +985,10 @@ Er lächelt, dünn und hart. "Also müssen wir sie als erste kurieren, nicht wah
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Das willst du nicht, Bruder, so sehr du es auch glauben magst." Er verdreht langsam den Kopf und jeder einzelne Halswirbel knackt. "Es wird ein Tag kommen, an dem du wünschen wirst, du könntest den Schmerz ausspeien, der dich erstickt, an dem du bereuen wirst, dich so lange am Leiden anderer geweidet zu haben." 
+      <DefaultText>"Das willst du nicht, Bruder, so sehr du es auch glauben magst." Er verdreht langsam den Kopf und jeder einzelne Halswirbel knackt. "Es wird ein Tag kommen, an dem du wünschen wirst, du könntest den Schmerz ausspeien, der dich erstickt, an dem du bereuen wirst, dich so lange am Leiden anderer geweidet zu haben."
 
 Er lächelt. Ein aufrichtiges Lächeln, scheint es, aber ein trauriges. "Aber mir wirst du an jenem Tag nicht die Schuld geben können."</DefaultText>
-      <FemaleText>"Das willst du nicht, Schwester, so sehr du es  auch glauben magst." Er verdreht langsam den Kopf und jeder einzelne Halswirbel knackt. "Es wird ein Tag kommen, an dem du wünschen wirst, du könntest den Schmerz ausspeien, der dich erstickt, an dem du bereuen wirst, dich so lange am Leiden anderer geweidet zu haben." 
+      <FemaleText>"Das willst du nicht, Schwester, so sehr du es auch glauben magst." Er verdreht langsam den Kopf und jeder einzelne Halswirbel knackt. "Es wird ein Tag kommen, an dem du wünschen wirst, du könntest den Schmerz ausspeien, der dich erstickt, an dem du bereuen wirst, dich so lange am Leiden anderer geweidet zu haben."
 
 Er lächelt. Ein aufrichtiges Lächeln, scheint es, aber ein trauriges. "Aber mir wirst du an jenem Tag nicht die Schuld geben können."</FemaleText>
     </Entry>
@@ -1115,7 +1115,7 @@ Er bleckt die Zähne. "Mir macht das nichts, Schwesterchen. Ich habe schon schli
 
 Du bist zurück wo du warst, bevor du die Endlose Pforte betreten hast. Die Pforte ist verschwunden. Und Inifere ebenso.
 
-{NOTE: Ends the conversation, ends the Crisis, Inifere leaves the VoDH, TEH quest is completed, TSC quest is failed if active. Move party back to Marcysa's tomb / entry to The Endless Gate.  Gate is now closed, Inifere is now gone.}</DefaultText>
+{NOTE: Ends the conversation, ends the Crisis, Inifere leaves the VoDH, TEH quest is completed, TSC quest is failed if active. Move party back to Marcysa's tomb / entry to The Endless Gate. Gate is now closed, Inifere is now gone.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1234,7 +1234,7 @@ Mit einer Handbewegung gibt dein Bruder dir zu verstehen, dass er nicht mehr üb
       <ID>223</ID>
       <DefaultText>Inifere starrt dich an und du siehst, wie winzige Äderchen in seinen Augen aufplatzen, rote Wunden in den ohnehin bereits blutunterlaufenen Weiß. Seine geschundenen Lippen formen halb gegorene unausgesprochene Worte. Seine Finger kratzen über seine Hände und bilden auf der Haut rosa Narben wie Dünen im Sonnenuntergang.
 
-Schließlich nickt er und nimmt den Lebensbildbetrachter in seine Hände. Er dreht und verbiegt ihn, den Blick dabei immer starr auf dich gerichtet. Schließlich gibt er ihn dir zurück. 
+Schließlich nickt er und nimmt den Lebensbildbetrachter in seine Hände. Er dreht und verbiegt ihn, den Blick dabei immer starr auf dich gerichtet. Schließlich gibt er ihn dir zurück.
 
 "Hier", sagt er. "Alles deins."</DefaultText>
       <FemaleText />
@@ -1243,12 +1243,12 @@ Schließlich nickt er und nimmt den Lebensbildbetrachter in seine Hände. Er dre
       <ID>224</ID>
       <DefaultText>Inifere lächelt traurig. "Armer Bruder... die Gezeiten tragen unser Nussschälchen, wohin sie wollen, ob wir wollen oder nicht, und all unser Strampeln lässt bloß das Boot kentern."
 
-Das Lächeln verschwindet. "Ich habe gesehen, was unter der Oberfläche lauert, Bruder, und habe vom Wasser der salzigen See  gekostet. Der Welten Tränen, Bruder, der Welten Pisse. Besser, du bleibst im Boot und ich im Schlamm, die Sterne im Himmel und die Toten in der Erde."
+Das Lächeln verschwindet. "Ich habe gesehen, was unter der Oberfläche lauert, Bruder, und habe vom Wasser der salzigen See gekostet. Der Welten Tränen, Bruder, der Welten Pisse. Besser, du bleibst im Boot und ich im Schlamm, die Sterne im Himmel und die Toten in der Erde."
 
 Er verstummt und schnippt mit dem Finger, als wollte er dich auf ein neues Thema bringen.</DefaultText>
       <FemaleText>Inifere lächelt traurig. "Arme Schwester... die Gezeiten tragen unser Nussschälchen, wohin sie wollen, ob wir wollen oder nicht, und all unser Strampeln lässt bloß das Boot kentern."
 
-Das Lächeln verschwindet. "Ich habe gesehen, was unter der Oberfläche lauert, Schwester, und habe vom Wasser der salzigen See  gekostet. Der Welten Tränen, Bruder, der Welten Pisse. Besser, du bleibst im Boot und ich im Schlamm, die Sterne im Himmel und die Toten in der Erde."
+Das Lächeln verschwindet. "Ich habe gesehen, was unter der Oberfläche lauert, Schwester, und habe vom Wasser der salzigen See gekostet. Der Welten Tränen, Bruder, der Welten Pisse. Besser, du bleibst im Boot und ich im Schlamm, die Sterne im Himmel und die Toten in der Erde."
 
 Er verstummt und schnippt mit dem Finger, als wollte er dich auf ein neues Thema bringen.</FemaleText>
     </Entry>
@@ -1306,26 +1306,26 @@ Dann gibt es nichts außer absoluter Dunkelheit ...</DefaultText>
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>Inifere atmet lange und tief durch. Er klopft sich mit der Faust auf die Stirn und lässt den Blick über die Horrorlandschaft um ihn herum schweifen – über alles außer seinen beiden Geschwistern. 
+      <DefaultText>Inifere atmet lange und tief durch. Er klopft sich mit der Faust auf die Stirn und lässt den Blick über die Horrorlandschaft um ihn herum schweifen – über alles außer seinen beiden Geschwistern.
 
 Schließlich nickt er und nimmt dir – immer noch ohne dich anzusehen – den Lebensbildbetrachter aus der Hand. Er dreht und verbiegt ihn, ohne das Gerät anzusehen und gibt ihn dir dann mit einem Kopfschütteln zurück.
 
-Jetzt sieht dir dein Bruder in die Augen und sein Blick ist hart  und starr. "Unsere Geister sind gefährlicher als Cyphern, Bruder. Spiele damit auf eigene Gefahr."</DefaultText>
-      <FemaleText>Inifere atmet lange und tief durch. Er klopft sich mit der Faust auf die Stirn und lässt den Blick über die Horrorlandschaft um ihn herum schweifen – über alles außer seinen beiden Geschwistern. 
+Jetzt sieht dir dein Bruder in die Augen und sein Blick ist hart und starr. "Unsere Geister sind gefährlicher als Cyphern, Bruder. Spiele damit auf eigene Gefahr."</DefaultText>
+      <FemaleText>Inifere atmet lange und tief durch. Er klopft sich mit der Faust auf die Stirn und lässt den Blick über die Horrorlandschaft um ihn herum schweifen – über alles außer seinen beiden Geschwistern.
 
 Schließlich nickt er und nimmt dir – immer noch ohne dich anzusehen – den Lebensbildbetrachter aus der Hand. Er dreht und verbiegt ihn, ohne das Gerät anzusehen und gibt ihn dir dann mit einem Kopfschütteln zurück.
 
-Jetzt sieht dir dein Bruder in die Augen und sein Blick ist hart  und starr. "Unsere Geister sind gefährlicher als Cyphern, Schwester. Spiele damit auf eigene Gefahr."</FemaleText>
+Jetzt sieht dir dein Bruder in die Augen und sein Blick ist hart und starr. "Unsere Geister sind gefährlicher als Cyphern, Schwester. Spiele damit auf eigene Gefahr."</FemaleText>
     </Entry>
     <Entry>
       <ID>234</ID>
       <DefaultText>Inifere schüttelt den Kopf. "Durch deinen Sturz hast du einen Kummer geweckt, schlimmer als jeder andere, Bruder. Ein Feind, der uns unermüdlich jagt, ohne Sinn, ohne Verstand, ohne Ende. Aber vor diesem Ort hier schreckt der Schrecken zurück."
- 
+
 Er verzieht das Gesicht. "Hältst du mich für einen Feigling? Der von einer Schlange gebissen wurde und jetzt das aufgerollte Seil fürchtet."
 
 Er deutet mit einer ausladenden Geste auf die Hölle um euch herum. "Denkst du, der Tod wäre besser als hier? Oh nein, Brüderchen. Das Leben ist wie ein Kartenhai: Es zieht dich über den Tisch, bis du zu viele Schulden hast, um das Spiel zu verlassen und zu wenige Chips, um seinen Bluff aufzudecken."</DefaultText>
       <FemaleText>Inifere schüttelt den Kopf. "Durch deinen Sturz hast du einen Kummer geweckt, schlimmer als jeder andere, Schwester. Ein Feind, der uns unermüdlich jagt, ohne Sinn, ohne Verstand, ohne Ende. Aber vor diesem Ort hier schreckt der Schrecken zurück."
- 
+
 Er verzieht das Gesicht. "Hältst du mich für einen Feigling? Der von einer Schlange gebissen wurde und jetzt das aufgerollte Seil fürchtet."
 
 Er deutet mit einer ausladenden Geste auf die Hölle um euch herum. "Denkst du, der Tod wäre besser als hier? Oh nein, Schwesterchen. Das Leben ist wie ein Kartenhai: Es zieht dich über den Tisch, bis du zu viele Schulden hast, um das Spiel zu verlassen und zu wenige Chips, um seinen Bluff aufzudecken."</FemaleText>
@@ -1470,7 +1470,7 @@ Er öffnet die Augen. "Und dann wache ich auf."</DefaultText>
 
 "Du willst, dass ich die Pforte schließe? Überzeug mich – ist das tatsächlich die Bedeutung meines Traums?"
 
-{ADAM/COLIN/GEORGE: Do you think we should have a Tidal Surge option here?  I kind of think yes?}</DefaultText>
+{ADAM/COLIN/GEORGE: Do you think we should have a Tidal Surge option here? I kind of think yes?}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1536,14 +1536,14 @@ Er schüttelt den Kopf. "Ich halte nichts von deinem Diktat, Schwester. Es steht
       <ID>272</ID>
       <DefaultText>"Harte Worte, Brüderchen, halb gehört. Hätte ich Angst, dann nicht hier, wo die dunkle Liebe dunkler Wesen erfüllt wie kräftige lange Finger den Handschuh." Er wirft den Kopf zurück und seine Halswirbel krachen wie Fingerknöchel.
 
-"Aber dies ist meine Zuflucht, frei von dem Räuber, der meine Ruhe mir zu rauben sucht. Also lass uns sehen, ob das Geschick, das du aus meinem Traum gedeutet hast, mich ereilen wird oder nicht." 
+"Aber dies ist meine Zuflucht, frei von dem Räuber, der meine Ruhe mir zu rauben sucht. Also lass uns sehen, ob das Geschick, das du aus meinem Traum gedeutet hast, mich ereilen wird oder nicht."
 
 Inifere tritt einen Schritt zurück und macht sich zum Kampf bereit.
 
 {ADAM: Here and elsewhere (i.e., the first node) it mentions others being present. I have no idea how the crisis works well enough to know whether it's possible to get to Inifere with all the cultists dead. Let me know if this needs adjusting.}</DefaultText>
       <FemaleText>"Harte Worte, Schwesterchen, halb gehört. Hätte ich Angst, dann nicht hier, wo die dunkle Liebe dunkler Wesen erfüllt wie kräftige lange Finger den Handschuh." Er wirft den Kopf zurück und seine Halswirbel krachen wie Fingerknöchel.
 
-"Aber dies ist meine Zuflucht, frei von dem Räuber, der meine Ruhe mir zu rauben sucht. Also lass uns sehen, ob das Geschick, das du aus meinem Traum gedeutet hast, mich ereilen wird oder nicht." 
+"Aber dies ist meine Zuflucht, frei von dem Räuber, der meine Ruhe mir zu rauben sucht. Also lass uns sehen, ob das Geschick, das du aus meinem Traum gedeutet hast, mich ereilen wird oder nicht."
 
 Inifere tritt einen Schritt zurück und macht sich zum Kampf bereit.
 
@@ -1837,7 +1837,7 @@ Dann fasst er sich wieder, aber dir entgeht nicht, dass er alle paar Sekunden ei
       <ID>320</ID>
       <DefaultText>"Und in Begleitung von einem der Spielzeuge unseres Vaters.", sagt er, während er Oom ansieht. "Mit der Zeit macht er sie alle kaputt. Dieses würde dir das bestätigen, könnte es sprechen."
 
- Das tut Oom nicht, aber sein pupillenloser Blick wirkt dennoch abwesend.</DefaultText>
+Das tut Oom nicht, aber sein pupillenloser Blick wirkt dennoch abwesend.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
