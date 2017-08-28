@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Richtig, und scharfsinnig beurteilt.“</DefaultText>
-      <FemaleText>"Richtig, und scharfsinnig beurteilt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Wie entwickelt sich dein Verständnis der Endlosen Schlacht?“</DefaultText>
-      <FemaleText>"Wie entwickelt sich dein Verständnis der Endlosen Schlacht?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Hast du schon Raima und Andronus zu einem Ergebnis gebracht?“</DefaultText>
-      <FemaleText>"Hast du schon Raima und Andronus zu einem Ergebnis gebracht?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -36,7 +36,7 @@ Sie sucht das Gebiet ab. "Er zerstört unser Zuhause. Die anderen versuchen, ihn
     <Entry>
       <ID>6</ID>
       <DefaultText>"Hast du mit Melmoth gesprochen? Was hat er gesagt?“</DefaultText>
-      <FemaleText>"Hast du mit Melmoth gesprochen? Was hat er gesagt?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -50,12 +50,12 @@ Sie sucht das Gebiet ab. "Er zerstört unser Zuhause. Die anderen versuchen, ihn
     <Entry>
       <ID>8</ID>
       <DefaultText>Ihr Lächeln ist strahlend. "Nun, mein Freund, du kehrst zurück. Brauchst du etwas?“</DefaultText>
-      <FemaleText>Ihr Lächeln ist strahlend. "Nun, mein Freund, du kehrst zurück. Brauchst du etwas?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>"Schlimmer. Der Wandelnde Gott ist in meinem Verstand lebendig. Er versucht es, mein Bewusstsein zu übernehmen.“</DefaultText>
-      <FemaleText>"Schlimmer. Der Wandelnde Gott ist in meinem Verstand lebendig. Er versucht es, mein Bewusstsein zu übernehmen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -65,7 +65,7 @@ Sie sucht das Gebiet ab. "Er zerstört unser Zuhause. Die anderen versuchen, ihn
     <Entry>
       <ID>11</ID>
       <DefaultText>"Ja und nein. Mazzof sagt, dass die Resonanzkammer uns alle vernichten wird, wenn der Wandelnde Gott sie aktiviert.“</DefaultText>
-      <FemaleText>"Ja und nein. Mazzof sagt, dass die Resonanzkammer uns alle vernichten wird, wenn der Wandelnde Gott sie aktiviert.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -80,12 +80,12 @@ Sie sucht das Gebiet ab. "Er zerstört unser Zuhause. Die anderen versuchen, ihn
     <Entry>
       <ID>14</ID>
       <DefaultText>Sie taumelt. "Aber... aber wie... Nein. Das ist jetzt nicht wichtig. Was wichtig ist, ist dass du sie findest. Sie ist die Einzige, die uns gegen den Kummer hilft. Unser Erzeuger hat sich von uns weggeschlossen und wir können nicht auf seine Hilfe zählen.“</DefaultText>
-      <FemaleText>Sie taumelt. "Aber... aber wie... Nein. Das ist jetzt nicht wichtig. Was wichtig ist, ist dass du sie findest. Sie ist die Einzige, die uns gegen den Kummer hilft. Unser Erzeuger hat sich von uns weggeschlossen und wir können nicht auf seine Hilfe zählen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>"Du meinst, dass die Erste die ganze Zeit über Recht hatte? Du musst einen Weg finden, ihn aufzuhalten! Es kann ihm nicht erlaubt sein, Erfolg zu haben!“</DefaultText>
-      <FemaleText>"Du meinst, dass die Erste die ganze Zeit über Recht hatte? Du musst einen Weg finden, ihn aufzuhalten! Es kann ihm nicht erlaubt sein, Erfolg zu haben!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -100,12 +100,12 @@ Sie sucht das Gebiet ab. "Er zerstört unser Zuhause. Die anderen versuchen, ihn
     <Entry>
       <ID>18</ID>
       <DefaultText>"Erzähl mir von dir."</DefaultText>
-      <FemaleText>"Erzähl mir von dir."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>"Reden wir noch mal von dir."</DefaultText>
-      <FemaleText>"Reden wir noch mal von dir."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
@@ -135,7 +135,7 @@ Sie sucht das Gebiet ab. "Er zerstört unser Zuhause. Die anderen versuchen, ihn
     <Entry>
       <ID>25</ID>
       <DefaultText>"Sag mir nochmal, warum du keine der Seiten in der Endlosen Schlacht unterstützst.“</DefaultText>
-      <FemaleText>"Sag mir nochmal, warum du keine der Seiten in der Endlosen Schlacht unterstützst.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -145,7 +145,7 @@ Sie sucht das Gebiet ab. "Er zerstört unser Zuhause. Die anderen versuchen, ihn
     <Entry>
       <ID>27</ID>
       <DefaultText>"Wo ist Mazzof?“</DefaultText>
-      <FemaleText>"Wo ist Mazzof?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -165,12 +165,12 @@ Sie sucht das Gebiet ab. "Er zerstört unser Zuhause. Die anderen versuchen, ihn
     <Entry>
       <ID>31</ID>
       <DefaultText>"Die Wahlfreiheit zu haben ist ein Teil des Lebens in Miel Avest. Wir müssen unsere Entscheidungen tragen... genauso, wie wir die Verantwortung für die Folgen dieser Entscheidungen tragen.“</DefaultText>
-      <FemaleText>"Die Wahlfreiheit zu haben ist ein Teil des Lebens in Miel Avest. Wir müssen unsere Entscheidungen tragen... genauso, wie wir die Verantwortung für die Folgen dieser Entscheidungen tragen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>"Also gut. Was, glaubst du, ist der Zweck der Endlosen Schlacht?“</DefaultText>
-      <FemaleText>"Also gut. Was, glaubst du, ist der Zweck der Endlosen Schlacht?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
@@ -246,7 +246,7 @@ Die blickt dich an. "Ich habe selber einige begrenzte psychische Fähigkeiten. W
     <Entry>
       <ID>46</ID>
       <DefaultText>"Wenn es denn sein muss. Forsche nicht zu gründlich.“</DefaultText>
-      <FemaleText>"Wenn es denn sein muss. Forsche nicht zu gründlich.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
@@ -288,7 +288,7 @@ Sie schüttelt den Kopf. "Der Konflikt, den sie beginnen wollen, die Kriege ... 
     <Entry>
       <ID>54</ID>
       <DefaultText>Der Anflug eines Lächelns ist an ihren Lippen. "Wenn wir es müssen.“</DefaultText>
-      <FemaleText>Der Anflug eines Lächelns ist an ihren Lippen. "Wenn wir es müssen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -298,7 +298,7 @@ Sie schüttelt den Kopf. "Der Konflikt, den sie beginnen wollen, die Kriege ... 
     <Entry>
       <ID>56</ID>
       <DefaultText>"Natürlich. Du hast wohl viele.“</DefaultText>
-      <FemaleText>"Natürlich. Du hast wohl viele.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
@@ -313,7 +313,7 @@ Sie schüttelt den Kopf. "Der Konflikt, den sie beginnen wollen, die Kriege ... 
     <Entry>
       <ID>59</ID>
       <DefaultText>"Ich habe noch eine Frage zu Verstoßenen."</DefaultText>
-      <FemaleText>"Ich habe noch eine Frage zu Verstoßenen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
@@ -328,7 +328,7 @@ Sie schüttelt den Kopf. "Der Konflikt, den sie beginnen wollen, die Kriege ... 
     <Entry>
       <ID>62</ID>
       <DefaultText>"Natürlich."</DefaultText>
-      <FemaleText>"Natürlich."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
@@ -433,22 +433,22 @@ Sie schüttelt den Kopf. "Der Konflikt, den sie beginnen wollen, die Kriege ... 
     <Entry>
       <ID>86</ID>
       <DefaultText>"Na klar."</DefaultText>
-      <FemaleText>"Na klar."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>"Er sagte, dass die Gezeiten in uns allen sind und dass wir unsere Kräfte bei Bedarf verwenden sollen.“</DefaultText>
-      <FemaleText>"Er sagte, dass die Gezeiten in uns allen sind und dass wir unsere Kräfte bei Bedarf verwenden sollen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
       <DefaultText>"Ich habe noch nicht mit ihm gesprochen.“</DefaultText>
-      <FemaleText>"Ich habe noch nicht mit ihm gesprochen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
       <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
-      <FemaleText>"Ich habe noch andere Fragen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
@@ -465,12 +465,12 @@ Sie lässt den Kopf hängen. "Für den Fall, dass jemand einen anderen schlägt,
     <Entry>
       <ID>92</ID>
       <DefaultText>"Das ist eine große Liste. Welche Frage willst du zuerst stellen?“</DefaultText>
-      <FemaleText>"Das ist eine große Liste. Welche Frage willst du zuerst stellen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
       <DefaultText>"Zu welchem Thema?“</DefaultText>
-      <FemaleText>"Zu welchem Thema?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
@@ -482,9 +482,7 @@ Sie lässt den Kopf hängen. "Für den Fall, dass jemand einen anderen schlägt,
       <DefaultText>Sie breitet ihre Hände in Reue aus. "Normalerweise sehen wir hier mehr Aktivität und wir hätten womöglich eine Heimkehr für dich vorbereitet. Aber die Gerüchte überzeugten uns, dass der Kummer in letzter Zeit aktiver geworden ist. Um ihre Sorgen zu beruhigen bot ich eine Abstimmung an, ob wir das Portal schließen, das ins Heiligtum führt.“
 
 "Aber ich schweife ab. Die aktuellen Gäste sind unter anderem Kalkedon, Lady Anshe, Elkeshai, Andronus, Raima, Melmoth... Ah, Ich schätze, du hast gerade meinen Freund Paj verpasst.“</DefaultText>
-      <FemaleText>Sie breitet ihre Hände in Reue aus. "Normalerweise sehen wir hier mehr Aktivität und wir hätten womöglich eine Heimkehr für dich vorbereitet. Aber die Gerüchte überzeugten uns, dass der Kummer in letzter Zeit aktiver geworden ist. Um ihre Sorgen zu beruhigen bot ich eine Abstimmung an, ob wir das Portal schließen, das ins Heiligtum führt.“
-
-"Aber ich schweife ab. Die aktuellen Gäste sind unter anderem Kalkedon, Lady Anshe, Elkeshai, Andronus, Raima, Melmoth... Ah, Ich schätze, du hast gerade meinen Freund Paj verpasst.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
@@ -721,7 +719,7 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>144</ID>
       <DefaultText>"Das glaube ich nicht, nein.“</DefaultText>
-      <FemaleText>"Das glaube ich nicht, nein.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
@@ -736,31 +734,29 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>147</ID>
       <DefaultText>"Ein genialer Mann. Nachdenklich, charismatisch, ein größerer Verstand, als die Neunte Welt je gesehen hat. Während die Aeon-Priester von heute Stücke und Teile von Numenera zusammenflicken, war unser Schöpfer ein Visionär. Wenn es nur nicht den Kummer gäbe... glaube ich ernsthaft, dass er uns in ein neues Zeitalter der Menschenerfolge führen würde.“</DefaultText>
-      <FemaleText>"Ein genialer Mann. Nachdenklich, charismatisch, ein größerer Verstand, als die Neunte Welt je gesehen hat. Während die Aeon-Priester von heute Stücke und Teile von Numenera zusammenflicken, war unser Schöpfer ein Visionär. Wenn es nur nicht den Kummer gäbe... glaube ich ernsthaft, dass er uns in ein neues Zeitalter der Menschenerfolge führen würde.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
       <DefaultText>"Ein Visionär. Ein Genie. Ein Mann, dessen Fähigkeiten unübertroffen bleiben. Außerdem ein zutiefst fehlerhafter Mann, dessen persönliche Schwächen ihn unfähig gemacht haben, sich mit anderen zu verbinden. Eine tragische Figur, wirklich.“</DefaultText>
-      <FemaleText>"Ein Visionär. Ein Genie. Ein Mann, dessen Fähigkeiten unübertroffen bleiben. Außerdem ein zutiefst fehlerhafter Mann, dessen persönliche Schwächen ihn unfähig gemacht haben, sich mit anderen zu verbinden. Eine tragische Figur, wirklich.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
       <DefaultText>Sie zuckt mit den Schultern. "Er hat auch systematisch jede Beziehung zerstört, die er je aufgebaut hatte. Er scheint die meschliche Gebrechlichkeit oder Emotionen nicht zu verstehen. Nein, lass mich das anders ausdrücken. Er versteht diese Sachen gut genug, um sie bei anderen auszunutzen, akzeptiert aber nicht ihre *Realität*, wenn du vestehst, was ich meine. Etwas schlichter, er ist ein selbstsüchtiger Mann, der jedes Jahr von seinen 'Unterlegenen' weiter entfernt wird.“
 
 Sie spitzt den Mund. "Sein Leben ist eine Tragödie. Das ist es wahrhaftig.“</DefaultText>
-      <FemaleText>Sie zuckt mit den Schultern. "Er hat auch systematisch jede Beziehung zerstört, die er je aufgebaut hatte. Er scheint die meschliche Gebrechlichkeit oder Emotionen nicht zu verstehen. Nein, lass mich das anders ausdrücken. Er versteht diese Sachen gut genug, um sie bei anderen auszunutzen, akzeptiert aber nicht ihre *Realität*, wenn du vestehst, was ich meine. Etwas schlichter, er ist ein selbstsüchtiger Mann, der jedes Jahr von seinen 'Unterlegenen' weiter entfernt wird.“
-
-Sie spitzt den Mund. "Sein Leben ist eine Tragödie. Das ist es wahrhaftig.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
       <DefaultText>"Vieles davon hat er bewusst verborgen, und vieles umgeschrieben, entweder, um ihn wie ein besserer Mann erscheinen zu lassen, oder, um seine Feinde davon abzuhalten, ihn zu finden. Aber ich kann dir die groben Züge sagen, wenn du willst.“</DefaultText>
-      <FemaleText>"Vieles davon hat er bewusst verborgen, und vieles umgeschrieben, entweder, um ihn wie ein besserer Mann erscheinen zu lassen, oder, um seine Feinde davon abzuhalten, ihn zu finden. Aber ich kann dir die groben Züge sagen, wenn du willst.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
       <DefaultText>"Du willst, dass ich den Vortrag nochmal beginne? Also gut.“</DefaultText>
-      <FemaleText>"Du willst, dass ich den Vortrag nochmal beginne? Also gut.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
@@ -774,24 +770,22 @@ Die tippt mit den Fingern auf ihre Lippen. "Er reiste zu einer anderen Welt - od
       <DefaultText>"Seine Untersuchungen zu den Gezeiten gingen weit. Er behauptet, mehrere Lebenszeiten damit verbracht zu haben und als er sie gemeistert hatte, vernichtete er die Tabaht gänzlich. Er brachte den Orden der Wahrheit zu den Sagusklippen und ersuchte es, das Wissen zu erhalten, indem er die Dendra O'Hur gründete. Bei seinem Leben ging es um das Erschaffen oder die Erhaltung von Weisheit.“
 
 Sie schüttelt den Kopf. "Aber zu welchem Zweck? Es scheint kein Schema und kein Ziel zu geben. Er scheint nicht für die Menschheit zu bauen... sondern für sein Vermächtnis. Sollten wir ihm nacheifern?“</DefaultText>
-      <FemaleText>"Seine Untersuchungen zu den Gezeiten gingen weit. Er behauptet, mehrere Lebenszeiten damit verbracht zu haben und als er sie gemeistert hatte, vernichtete er die Tabaht gänzlich. Er brachte den Orden der Wahrheit zu den Sagusklippen und ersuchte es, das Wissen zu erhalten, indem er die Dendra O'Hur gründete. Bei seinem Leben ging es um das Erschaffen oder die Erhaltung von Weisheit.“
-
-Sie schüttelt den Kopf. "Aber zu welchem Zweck? Es scheint kein Schema und kein Ziel zu geben. Er scheint nicht für die Menschheit zu bauen... sondern für sein Vermächtnis. Sollten wir ihm nacheifern?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
       <DefaultText>"Was soll ich nochmal für dich tun?“</DefaultText>
-      <FemaleText>"Was soll ich nochmal für dich tun?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
       <DefaultText>"Ich würde deine Meinung zur Endlosen Schlacht hören. Du darfst zuerst mit anderen reden, wenn du mehr lernen willst, bevor wir darüber diskutieren.“</DefaultText>
-      <FemaleText>"Ich würde deine Meinung zur Endlosen Schlacht hören. Du darfst zuerst mit anderen reden, wenn du mehr lernen willst, bevor wir darüber diskutieren.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
       <DefaultText>"Andronus und Raima streiten sich. Schon wieder, Ich fürchte, dass sie irgendwann zuschlagen, und dann würden sie aus Miel Avest vertrieben werden. Finde einen Weg, ihre Auseinandersetzungen zu lösen.“</DefaultText>
-      <FemaleText>"Andronus und Raima streiten sich. Schon wieder, Ich fürchte, dass sie irgendwann zuschlagen, und dann würden sie aus Miel Avest vertrieben werden. Finde einen Weg, ihre Auseinandersetzungen zu lösen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
@@ -830,7 +824,7 @@ Als sie ihre Hand entfernt, sind ihre Augen nass mit Tränen.
     <Entry>
       <ID>164</ID>
       <DefaultText>"Es ist meine Behauptung, dass wir mit unserem Missbrauch der Gezeiten den Kummer zu uns locken und deswegen benutze ich unsere Gezeitenmächte nicht. Ich glaube, dass das Nutzen unserer Kräfte grundsätzlich schmerzhaft ist für die, die um uns herum sind. Als Beispiel, war irgendeiner bei dir, als du das Bewusstsein erlangtest?“</DefaultText>
-      <FemaleText>"Es ist meine Behauptung, dass wir mit unserem Missbrauch der Gezeiten den Kummer zu uns locken und deswegen benutze ich unsere Gezeitenmächte nicht. Ich glaube, dass das Nutzen unserer Kräfte grundsätzlich schmerzhaft ist für die, die um uns herum sind. Als Beispiel, war irgendeiner bei dir, als du das Bewusstsein erlangtest?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
@@ -840,7 +834,7 @@ Als sie ihre Hand entfernt, sind ihre Augen nass mit Tränen.
     <Entry>
       <ID>166</ID>
       <DefaultText>"Was, wenn ich es nicht tue?“</DefaultText>
-      <FemaleText>"Was, wenn ich es nicht tue?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
@@ -855,12 +849,12 @@ Als sie ihre Hand entfernt, sind ihre Augen nass mit Tränen.
     <Entry>
       <ID>169</ID>
       <DefaultText>"Vielleicht... früher oder später. Ich muss *wissen*,dass du die Verantwortung übernimmst, wenn du Zerians Leben - seine Geschichte - in deinen Händen hälst. Du wirst den Lebensbildbetrachter nicht bekommen, bis ich zufriedengestellt bin.“</DefaultText>
-      <FemaleText>"Vielleicht... früher oder später. Ich muss *wissen*,dass du die Verantwortung übernimmst, wenn du Zerians Leben - seine Geschichte - in deinen Händen hälst. Du wirst den Lebensbildbetrachter nicht bekommen, bis ich zufriedengestellt bin.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
       <DefaultText>"Natürlich."</DefaultText>
-      <FemaleText>"Natürlich."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
@@ -874,7 +868,7 @@ Als sie ihre Hand entfernt, sind ihre Augen nass mit Tränen.
     <Entry>
       <ID>172</ID>
       <DefaultText>Sie drückt die Schachtel in deine Hände. Gezeitenenergie wirbelt um sie herum und zieht dich wie ein Strudel herein. Du konzentrierst dich darauf, öffnest dein inneres Auge und du wirst aus deinem Körper gerissen.</DefaultText>
-      <FemaleText>Sie drückt die Schachtel in deine Hände. Gezeitenenergie wirbelt um sie herum und zieht dich wie ein Strudel herein. Du fukussierst darauf, öffnest dein innerstes Auge und du wirst aus deinem Körper gerissen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
@@ -889,7 +883,7 @@ Als sie ihre Hand entfernt, sind ihre Augen nass mit Tränen.
     <Entry>
       <ID>175</ID>
       <DefaultText>"Es ist eine Torheit. Eine Torheit und eine Schande zu sehen, wie unsere Geschwister ihre Leben wegwerfen, besonders wenn sie behaupten, dass sie unsere Leben beschützen.“</DefaultText>
-      <FemaleText>"Es ist eine Torheit. Eine Torheit und eine Schande zu sehen, wie unsere Geschwister ihre Leben wegwerfen, besonders wenn sie behaupten, dass sie unsere Leben beschützen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
@@ -906,16 +900,14 @@ Als sie ihre Hand entfernt, sind ihre Augen nass mit Tränen.
     <Entry>
       <ID>178</ID>
       <DefaultText>"Ich 'führe' ihn nicht 'an'. Ich verwalte, ich bitte, ich betreue. Aber ich übernehme nicht die Führung.“</DefaultText>
-      <FemaleText>"Ich 'führe' ihn nicht 'an'. Ich verwalte, ich bitte, ich betreue. Aber ich übernehme nicht die Führung.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
       <DefaultText>"Sie bauten Heimate, Labore und mehr. Die Schilde schützten uns vor dem Blick des Kummers. Aber als die Erste und der Wandelnde Gott sich stritten, fiel alles auseinander. Der Frieden in Miel Avest wurde zerschmettert und jene, die überblieben, wählten Seiten. Blut vergoss auf der großen Ebene. Fraktionen kämpften um die Kontrolle der Weisheit, die hier erlangt wurde.“
 
 Sie schüttelt den Kopf. "Welch eine Verschwendung. Erst nach dem Tod der Ersten... und meinem Ankommen... waren wir imstande, den Frieden wieder zu sichern.“</DefaultText>
-      <FemaleText>"Sie bauten Heimate, Labore und mehr. Die Schilde schützten uns vor dem Blick des Kummers. Aber als die Erste und der Wandelnde Gott sich stritten, fiel alles auseinander. Der Frieden in Miel Avest wurde zerschmettert und jene, die überblieben, wählten Seiten. Blut vergoss auf der großen Ebene. Fraktionen kämpften um die Kontrolle der Weisheit, die hier erlangt wurde.“
-
-Sie schüttelt den Kopf. "Welch eine Verschwendung. Erst nach dem Tod der Ersten... und meinem Ankommen... waren wir imstande, den Frieden wieder zu sichern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
@@ -929,12 +921,12 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>182</ID>
       <DefaultText>"Nichts. Lebe wohl."</DefaultText>
-      <FemaleText>"Nichts. Lebe wohl."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
       <DefaultText>"Ich sprach mit Melmoth. Er sagt, dass du Unrecht hast, die Gezeiten sind in uns allen und wir sollte unsere Kräfte nach Bedarf einsetzen.“</DefaultText>
-      <FemaleText>"Ich sprach mit Melmoth. Er sagt, dass du Unrecht hast, die Gezeiten sind in uns allen und wir sollte unsere Kräfte nach Bedarf einsetzen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
@@ -954,7 +946,7 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>187</ID>
       <DefaultText>"Ah. Womöglich warst du abgelenkt. Es kommt vor. Aber bitte... seine Worte könnten eine Lehre sein. Gehe und finde ihn. Hattest du in der Zwischenzeit andere Fragen für mich?“</DefaultText>
-      <FemaleText>"Ah. Womöglich warst du abgelenkt. Es kommt vor. Aber bitte... seine Worte könnten eine Lehre sein. Gehe und finde ihn. Hattest du in der Zwischenzeit andere Fragen für mich?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
@@ -964,27 +956,27 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>189</ID>
       <DefaultText>"Er scheint ichbezogen und mangelt an Empathie, also ja, ich denke, dass er auf Macht fokussiert ist.“</DefaultText>
-      <FemaleText>"Er scheint ichbezogen und mangelt an Empathie, also ja, ich denke, dass er auf Macht fokussiert ist.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
       <DefaultText>"Ich bekam den Eindruck, dass er sich unter seiner harten Schale sehr um andere kümmert.“</DefaultText>
-      <FemaleText>"Ich bekam den Eindruck, dass er sich unter seiner harten Schale sehr um andere kümmert.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
       <DefaultText>"Eine faire Antwort. Ich habe ausgiebig mit ihm gesprochen und er kann mich immernoch überraschen. Ich glaube nicht an seine Standpunkte, noch an seinen Schlussfolgerungen, denn er mag wohl seine Ergebnisse aufgepumpt haben, um seine Taten zu berechtigen. Aber er lehnt meine Verstandberührung ab und weist meine Versuche, ihn tiefer zu erfragen, ab. Meine eigenen persönlichen Standpunkte sind natürlich irrelevant mit der tieferen Wahrheit, die er in seine eigenen Beweggründen hat und sie könnten wohl reiner sein als meine.“</DefaultText>
-      <FemaleText>"Eine faire Antwort. Ich habe ausgiebig mit ihm gesprochen und er kann mich immernoch überraschen. Ich glaube nicht an seine Standpunkte, noch an seinen Schlussfolgerungen, denn er mag wohl seine Ergebnisse aufgepumpt haben, um seine Taten zu berechtigen. Aber er lehnt meine Verstandberührung ab und weist meine Versuche, ihn tiefer zu erfragen, ab. Meine eigenen persönlichen Standpunkte sind natürlich irrelevant mit der tieferen Wahrheit, die er in seine eigenen Beweggründen hat und sie könnten wohl reiner sein als meine.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
       <DefaultText>"So ich auch. Ich richte dafür nicht über ihn, aber ich benutze das als meine Grundlage, seine Worte und die Taten, die daraus folgen, zu verstehen. Ich stimme mit seinen Schlussfolgerungen nicht zu, aber ich sehe ein, dass seine Sichtweise gültig sein könnte und meine falsch.“</DefaultText>
-      <FemaleText>"So ich auch. Ich richte dafür nicht über ihn, aber ich benutze das als meine Grundlage, seine Worte und die Taten, die daraus folgen, zu verstehen. Ich stimme mit seinen Schlussfolgerungen nicht zu, aber ich sehe ein, dass seine Sichtweise gültig sein könnte und meine falsch.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
       <DefaultText>Einen Moment lang starrt sie dich an. "Wirklich? Ich... Ich hatte noch nie diesen Eindruck bekommen, nicht in den Jahrhunderten, in denen ich ihn kannte. Ich empfand ihn als sarkastisch und ungesittet, aber ich sehe ein, dass das meine persönliche Interaktion mit seinem Sprechen sein könnte. Meine eigene Sichtweise ist natürlich irrelevant zur tieferen Wahrheit, die er ein seinen Beweggründen hat, und sie könnten reiner sein als meine.“</DefaultText>
-      <FemaleText>Einen Moment lang starrt sie dich an. "Wirklich? Ich... Ich hatte noch nie diesen Eindruck bekommen, nicht in den Jahrhunderten, in denen ich ihn kannte. Ich empfand ihn als sarkastisch und ungesittet, aber ich sehe ein, dass das meine persönliche Interaktion mit seinem Sprechen sein könnte. Meine eigene Sichtweise ist natürlich irrelevant zur tieferen Wahrheit, die er ein seinen Beweggründen hat, und sie könnten reiner sein als meine.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
@@ -994,7 +986,7 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>195</ID>
       <DefaultText>"... Gut. Lebwohl."</DefaultText>
-      <FemaleText>"... Gut. Lebwohl."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
@@ -1004,12 +996,12 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>197</ID>
       <DefaultText>"Ich bin nicht wirklich daran interessiert, heimische Gezänke zu lösen.“</DefaultText>
-      <FemaleText>"Ich bin nicht wirklich daran interessiert, heimische Gezänke zu lösen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
       <DefaultText>"Also gut. Ich will zuerst ein paar andere Fragen stellen.“</DefaultText>
-      <FemaleText>"Also gut. Ich will zuerst ein paar andere Fragen stellen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
@@ -1024,12 +1016,12 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>201</ID>
       <DefaultText>"Ich habe mit Andronus und Raima gesprochen.“</DefaultText>
-      <FemaleText>"Ich habe mit Andronus und Raima gesprochen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
       <DefaultText>"Was war das Resultat? Erzähle es mir.“</DefaultText>
-      <FemaleText>"Was war das Resultat? Erzähle es mir.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
@@ -1059,7 +1051,7 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>208</ID>
       <DefaultText>"Wie du willst."</DefaultText>
-      <FemaleText>"Wie du willst."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
@@ -1069,42 +1061,42 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>210</ID>
       <DefaultText>"Ich brachte sie dazu, zu gehen.“</DefaultText>
-      <FemaleText>"Ich brachte sie dazu, zu gehen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
       <DefaultText>"Nein. Noch nicht."</DefaultText>
-      <FemaleText>"Nein. Noch nicht."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
       <DefaultText>"Ihr Streit wird ohne eine lenkende Hand nie zu etwas führen. Ich würde anbieten, dass ich vermittle, aber...“ Sie lächelt. "... aber ich fühle, dass deine einzigartige Perspektive ihnen einen frischen Einblick bieten könnte. Nun. Wie kann ich sonst noch behilflich sein?“</DefaultText>
-      <FemaleText>"Ihr Streit wird ohne eine lenkende Hand nie zu etwas führen. Ich würde anbieten, dass ich vermittle, aber...“ Sie lächelt. "... aber ich fühle, dass deine einzigartige Perspektive ihnen einen frischen Einblick bieten könnte. Nun. Wie kann ich sonst noch behilflich sein?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
       <DefaultText>"Sie entschieden sich, ihren Kampf nach draußen zu verlegen.“</DefaultText>
-      <FemaleText>"Sie entschieden sich, ihren Kampf nach draußen zu verlegen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
       <DefaultText>"Ich bat sie, mit dem Streit aufzuhören. Ich denke nicht, das sie zugehört haben.“</DefaultText>
-      <FemaleText>"Ich bat sie, mit dem Streit aufzuhören. Ich denke nicht, das sie zugehört haben.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
       <DefaultText>"Ich sagte Raima, sie solle gehen, bevor sie jemanden wehtat und gültig ausgeschlossen werden würde.“</DefaultText>
-      <FemaleText>"Ich sagte Raima, sie solle gehen, bevor sie jemanden wehtat und gültig ausgeschlossen werden würde.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
       <DefaultText>"Ich überredete Andronus zu gehen. Es war die einzige Möglichkeit, die Situation zu lösen.“</DefaultText>
-      <FemaleText>"Ich überredete Andronus zu gehen. Es war die einzige Möglichkeit, die Situation zu lösen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
       <DefaultText>"Ich bekam es hin, sie zur Besinnung zu überreden. Die stimmten einem verübergehenden Frieden zu.“</DefaultText>
-      <FemaleText>"Ich bekam es hin, sie zur Besinnung zu überreden. Die stimmten einem verübergehenden Frieden zu.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
@@ -1144,7 +1136,7 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>225</ID>
       <DefaultText>"Offen gesagt, das geht mich nichts an.“</DefaultText>
-      <FemaleText>"Offen gesagt, das geht mich nichts an.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
@@ -1159,7 +1151,7 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>228</ID>
       <DefaultText>"Wie bei jedem Krieg versucht es jede Seite, ihre Ziele mit Gewalt zu erreichen.“</DefaultText>
-      <FemaleText>"Wie bei jedem Krieg versucht es jede Seite, ihre Ziele mit Gewalt zu erreichen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
@@ -1184,7 +1176,7 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>233</ID>
       <DefaultText>"Kein Wunder. Mit ihrem relativen Alter und bekannten Kräften im Vergleich mit deinen bezweifle ich, dass sie deinen Worten viel Glaube geschenkt hätten. Aber du hast ihnen eine *Wahl* angeboten und das ist wichtig.“</DefaultText>
-      <FemaleText>"Kein Wunder. Mit ihrem relativen Alter und bekannten Kräften im Vergleich mit deinen bezweifle ich, dass sie deinen Worten viel Glaube geschenkt hätten. Aber du hast ihnen eine *Wahl* angeboten und das ist wichtig.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
@@ -1194,12 +1186,12 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     <Entry>
       <ID>235</ID>
       <DefaultText>"Du gabst ihr einen Befehl. Doch sie hätte widerstehen können. Sie hätte kämpfen können. Du hast nur Worte benutzt, um sie zu überreden, und so hast du ihre Wahlfreiheit bewahrt.“</DefaultText>
-      <FemaleText>"Du gabst ihr einen Befehl. Doch sie hätte dich widerstehen können. Sie hätte kämpfen können. Du hast nur Worte benutzt, um sie zu überreden, und so hast du ihre Wahlfreiheit bewahrt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
       <DefaultText>"Also standest du mit dem, der dir am ähnlichsten ist. Ob das Gerechtigkeit war, ob du nicht auf Basis der Verdienste sondern auf persönliche Gefühle gewählt hast, das wirst du nie wissen.“</DefaultText>
-      <FemaleText>"Also standest du mit dem, der dir am ähnlichsten ist. Ob das Gerechtigkeit war, ob du nict auf Basis der Verdienste sondern auf persönliche Gefühle gewählt hast, das wirst du nie wissen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
@@ -1221,16 +1213,14 @@ Sie beugt leicht den Kopf. "Wenn du vielleicht nur wenig vom Konflikt gehört ha
     <Entry>
       <ID>241</ID>
       <DefaultText>"Warum solltest du dich dafür schuldig fühlen, dass unser Erzeuger den Zerklüfteten Traum zu den Sagusklippen gebracht hat? Du warst das nicht.“</DefaultText>
-      <FemaleText>"Warum solltest du dich dafür schuldig fühlen, dass unser Erzeuger den Zerklüfteten Traum zu den Sagusklippen gebracht hat? Du warst das nicht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
       <DefaultText>"Das ist wahr, aber dennoch... der Zerklüftete Traum *kannte* mich - kannte mich unter einen Namen und einer Geschichte, die nicht meine eigenen sind. Die Mörder, die Hasser, jene, die Blut und Tod sehen wollten... sie würden mir von ihren Vorhaben erzählen. Sie wollten meine *Zustimmung*. Und jede Handlung meinerseits nahmen sie als diese an.“
 
 Sie starrt zu ihren Händen nieder. "Ich habe noch nie ein Leben genommen, aber Blut befleckt mich. Ich kann das nicht wieder fühlen. Niemals.“</DefaultText>
-      <FemaleText>"Das ist wahr, aber dennoch... der Zerklüftete Traum *kannte* mich - kannte mich unter einen Namen und einer Geschichte, die nicht meine eigenen sind. Die Mörder, die Hasser, jene, die Blut und Tod sehen wollten... sie würden mir von ihren Vorhaben erzählen. Sie wollten meine *Zustimmung*. Und jede Handlung meinerseits nahmen sie als diese an.“
-
-Sie starrt zu ihren Händen nieder. "Ich habe noch nie ein Leben genommen, aber Blut befleckt mich. Ich kann das nicht wieder fühlen. Niemals.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
@@ -1245,12 +1235,12 @@ Sie starrt zu ihren Händen nieder. "Ich habe noch nie ein Leben genommen, aber 
     <Entry>
       <ID>246</ID>
       <DefaultText>"Ich würde gerne zuerst *dir* ein paar Fragen stellen.“</DefaultText>
-      <FemaleText>"Ich würde gerne zuerst *dir* ein paar Fragen stellen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
       <DefaultText>"Ich werde Antworten, wenn ich kann.“</DefaultText>
-      <FemaleText>"Ich werde Antworten, wenn ich kann.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>248</ID>
@@ -1260,36 +1250,34 @@ Sie starrt zu ihren Händen nieder. "Ich habe noch nie ein Leben genommen, aber 
     <Entry>
       <ID>249</ID>
       <DefaultText>"Möge Weisheit deinen Pfad erleuchten.“</DefaultText>
-      <FemaleText>"Möge Weisheit deinen Pfad erleuchten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
       <DefaultText>"Wie du hat Raima eine Vorliebe für die Silberne Gezeit. Hast du gespürt, wie ihr Verstand deinen berührt, als du gesprochen hast? Sie hat dir Macht versprochen, ja? Sie hat dich mit Träumen des Ruhmes gelockt.“ Sie schüttelt den Kopf. "Ich würde gerne sagen können, das ich Besseres von ihr erwartet hätte, aber die Wahrheit ist, dass ich sie kenne.“</DefaultText>
-      <FemaleText>"Du und Raima teilen eine Vorliebe für die Silberne Gezeit. Hast du gespürt, wie ihr Verstand deinen berührt, als du gesprochen hast? Die hat dir Macht versprochen, ja? Sie hat dich mit Träumen des Ruhmes gelockt.“ Sie schüttelt den Kopf. "Ich würde gerne sagen könnnen, das ich besseres von ihr erwartet hätte, aber die Wahrheit ist, dass ich sei kenne.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
       <DefaultText>"Wie du hat Andronus eine Vorliebe für die Goldene Gezeit. Hast du gespürt, wie sein Verstand deinen berührt, als du gesprochen hast? Er hat deine Emotionen angesprochen, dein Einfühlungsvermögen, und hat deine Sicht womöglich zu einer breiteren Gerechtigkeit geblendet.“
 
 Sie verschränkt ihre Arme. "Er manipuliert jene, die wie er sind. Ich bin mit nicht einmal sicher, ob es ihm bewusst ist, dass er es tut.“</DefaultText>
-      <FemaleText>Du und Andronus teilen eine Vorliebe für die Goldene Gezeit. Hast du gespürt, wie sein Verstand deinen berührt, als du gesprochen hast? Er hat deine Emotionen angesprochen, dein Einfühlungsvermögen, und hat dich womöglich du einer breiteren Gerechtigkeit verblendet.“
-
-Sie verschränkt ihre Arme. "Er manipuliert jene, die wie er sind. Ich bin mit nicht einmal sicher, ob es ihm bewusst ist, dass er es tut.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
       <DefaultText>"Ja, aber was *sind* diese Ziele? Und warum sind sie so wichtig, dass keine Seite in all diesen Jahren eine Niederlage eingeräumt hat?“</DefaultText>
-      <FemaleText>"Ja, aber was *sind* diese Ziele? Und warum sind sie so wichtig, dass keine Seite in all diesen Jahren eine Niederlage eingeräumt hat?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
       <DefaultText>"Einander zu töten ist ein tief verwurzelter Instinkt. Es ist menschlich.“</DefaultText>
-      <FemaleText>"Einander zu töten ist ein tief verwurzelter Instinkt. Es ist menschlich.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
       <DefaultText>"Der Sinn für jede Seite ist es, die Richtigkeit ihres Standpunktes zu beweisen.“</DefaultText>
-      <FemaleText>"Der Sinn für jede Seite ist es, die Richtigkeit ihres Standpunktes zu beweisen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
@@ -1319,7 +1307,7 @@ Sie verschränkt ihre Arme. "Er manipuliert jene, die wie er sind. Ich bin mit n
     <Entry>
       <ID>260</ID>
       <DefaultText>Ihr sagen, was Bericael sagte. "Die Endlose Schlacht macht uns durch Konflikt stärker, fokussierter.“</DefaultText>
-      <FemaleText>Ihr sagen, was Bericael sagte. "Die Endlose Schlacht macht uns durch Konflikt stärker, fokussierter.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
@@ -1349,17 +1337,17 @@ Sie verschränkt ihre Arme. "Er manipuliert jene, die wie er sind. Ich bin mit n
     <Entry>
       <ID>267</ID>
       <DefaultText>"Zwei Personen. Ein Aeon-Priester namens Aligern und ein Nano namens Callistege. Sie haben sich gestritten, als ich aufgewacht bin.“</DefaultText>
-      <FemaleText>"Zwei Personen. Ein Aeon-Priester namens Aligern und ein Nano namens Callistege. Sie haben sich gestritten, als ich aufgewacht bin.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>268</ID>
       <DefaultText>(Lüge) "Nein, ich war allein.“</DefaultText>
-      <FemaleText>(Lüge) "Nein, ich war allein.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>269</ID>
       <DefaultText>"Ich bin mir nicht sicher!"</DefaultText>
-      <FemaleText>"Ich bin mir nicht sicher!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>270</ID>
@@ -1381,9 +1369,7 @@ Sie verschränkt ihre Arme. "Er manipuliert jene, die wie er sind. Ich bin mit n
       <DefaultText>"Ich wette, jede siedende Spannung schnappte in den Fokus. Wenn sie zum Beispiel Geliebte wären, dann wären sie tief in den Bann der Liebe gefallen. Aber wenn sie am Auseinanderbrechen waren, dann hätte dein Stoß aus Gezeitenenergie sie gespalten, ihre Beziehung zerstört.“
 
 Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das ist, was passiert ist, stimmt's? Sie stritten sich nicht über nichts.“</DefaultText>
-      <FemaleText>"Ich wette, jede siedende Spannung schnappte in den Fokus. Wenn sie zum Beispiel Geliebte wären, dann wären sie tief in den Bann der Liebe gefallen. Aber wenn sie am Auseinanderbrechen waren, dann hätte dein Stoß aus Gezeitenenergie sie gespalten, ihre Beziehung zerstört.“
-
-Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das ist, was passiert ist, stimmt's? Sie stritten sich nicht über nichts.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
@@ -1393,7 +1379,7 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     <Entry>
       <ID>275</ID>
       <DefaultText>"Beweist Stärke die Wahrheit? Bietet Mord Gerechtigkeit?“</DefaultText>
-      <FemaleText>"Beweist Stärke die Wahrheit? Bietet Mord Gerechtigkeit?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>276</ID>
@@ -1403,7 +1389,7 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     <Entry>
       <ID>277</ID>
       <DefaultText>"Eine Verschwendung? Wirklich? Man könnte argumentieren, dass unsere Gattung durch den weiterfgeführten Konflikt stärker wurde.“</DefaultText>
-      <FemaleText>"Eine Verschwendung? Wirklich? Man könnte argumentieren, dass unsere Gattung durch den weiterfgeführten Konflikt stärker wurde.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>278</ID>
@@ -1413,7 +1399,7 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     <Entry>
       <ID>279</ID>
       <DefaultText>"Doch der Krieg wütet schon hunderte Jahre lang. Sicherlich glauben jene, die Kämpfen, an mehr als nur Macht und Geld.“</DefaultText>
-      <FemaleText>"Doch der Krieg wütet schon hunderte Jahre lang. Sicherlich glauben jene, die Kämpfen, an mehr als nur Macht und Geld.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>280</ID>
@@ -1433,7 +1419,7 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     <Entry>
       <ID>284</ID>
       <DefaultText>"Sicher doch. Ganz allein.“ Er zuckt dir einen Daumen zu. "Ich war da. Und Callistege auch.“</DefaultText>
-      <FemaleText>"Sicher doch. Ganz allein.“ Er zuckt dir einen Daumen zu. "Ich war da. Und Callistege auch.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
@@ -1468,12 +1454,12 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     <Entry>
       <ID>291</ID>
       <DefaultText>"Nicht absichtlich, nein. Aber...“</DefaultText>
-      <FemaleText>"Nicht absichtlich, nein. Aber...“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
       <DefaultText>"Geh und sprich mit Melmoth. Frag ihn nach den Gezeiten. Wenn dun das getan hast, sprechen wir weiter.“</DefaultText>
-      <FemaleText>"Geh und sprich mit Melmoth. Frag ihn nach den Gezeiten. Wenn dun das getan hast, sprechen wir weiter.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
@@ -1483,7 +1469,7 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     <Entry>
       <ID>294</ID>
       <DefaultText>"Der Zweck ist es also, einen Profit zu erzielen? Oder könnte es sein, dass Opportunisten anschwärmen, wenn sie eine Öffnung erkennen? Du glaubst nicht, dass der Sinn dieser Schlacht der ist, ein paar Schmarotzer reich zu machen.“</DefaultText>
-      <FemaleText>"Der Zweck ist es also, einen Profit zu erzielen? Oder könnte es sein, dass Opportunisten anschwärmen, wenn sie eine Öffnung erkennen? Du glaubst nicht, dass der Sinn dieser Schlacht der ist, ein paar Schmarotzer reich zu machen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
@@ -1498,47 +1484,47 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     <Entry>
       <ID>297</ID>
       <DefaultText>"Weil du in deinen Ansichten unsicher bist und wolltest, dass ich sie verstärke.“</DefaultText>
-      <FemaleText>"Weil du in deinen Ansichten unsicher bist und wolltest, dass ich sie verstärke.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
       <DefaultText>"Ich weiß es nicht."</DefaultText>
-      <FemaleText>"Ich weiß es nicht."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
       <DefaultText>"Ich bin eigentlich recht sicher in meinen Ansichten.“ Sie schüttelt den Kopf.</DefaultText>
-      <FemaleText>"Ich bin eigentlich recht sicher in meinen Ansichten.“ Sie schüttelt den Kopf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
       <DefaultText>"Und was, stellst du dir vor, habe ich beabsichtigt, als ich dich gebeten habe, bei Raima und Andronus einzugreifen?“</DefaultText>
-      <FemaleText>"Und was, stellst du dir vor, habe ich beabsichtigt, als ich dich gebeten habe, bei Raima und Andronus einzugreifen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
       <DefaultText>"Zu lernen, eine Entscheidung zu treffen, und diese auch durchzuziehen.“</DefaultText>
-      <FemaleText>"Zu lernen, eine Entscheidung zu treffen, und diese auch durchzuziehen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>302</ID>
       <DefaultText>"Einen Streit lösen, während man die Gefühle und Beweggründen beider Parteien berücksichtigt.“</DefaultText>
-      <FemaleText>"Einen Streit lösen, während man die Gefühle und Beweggründen beider Parteien berücksichtigt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>303</ID>
       <DefaultText>"Um die Unruhestifter in Miel Avest loszuwerden.“</DefaultText>
-      <FemaleText>"Um die Unruhestifter in Miel Avest loszuwerden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>304</ID>
       <DefaultText>"Das ist genau richtig.“</DefaultText>
-      <FemaleText>"Das ist genau richtig.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>305</ID>
       <DefaultText>"Dann kommen wir zur Frage der Endlosen Schlacht. Welchem Zweck diente diese Diskussion?“</DefaultText>
-      <FemaleText>"Dann kommen wir zur Frage der Endlosen Schlacht. Welchem Zweck diente diese Diskussion?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>306</ID>
@@ -1603,22 +1589,22 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     <Entry>
       <ID>321</ID>
       <DefaultText>Sie lacht. "Ich nehme an, dass er mich eine Närrin nannte und schlimmer. Er hat mehr Untersuchungen mit den Gezeiten gemacht als alle anderen hier in Miel Avest. Sag mir, hat er irgendwas anderes gesagt?“</DefaultText>
-      <FemaleText>Sie lacht. "Ich nehme an, dass er mich eine Närrin nannte und schlimmer. Er hat mehr Untersuchungen mit den Gezeiten gemacht als alle anderen hier in Miel Avest. Sag mir, hat er irgendwas anderes gesagt?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>322</ID>
       <DefaultText>"Er sagte, ich solle fragen woher deine Kräfte kommen, wenn nicht von den Gezeiten?“</DefaultText>
-      <FemaleText>"Er sagte, ich solle fragen woher deine Kräfte kommen, wenn nicht von den Gezeiten?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>323</ID>
       <DefaultText>"Er sagte, dass wir alle die Gezeiten benutzen, die ganze Zeit.“</DefaultText>
-      <FemaleText>"Er sagte, dass wir alle die Gezeiten benutzen, die ganze Zeit.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>324</ID>
       <DefaultText>"Nichts wichtiges.“</DefaultText>
-      <FemaleText>"Nichts wichtiges.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>325</ID>
@@ -1628,12 +1614,12 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     <Entry>
       <ID>326</ID>
       <DefaultText>Sie schüttelt den Kopf. "Wenn wir es tun, dann rein unbewusst, denn ich habe sie noch nie wissentlich benutzt.“</DefaultText>
-      <FemaleText>Sie schüttelt den Kopf. "Wenn wir es tun, dann rein unbewusst, denn ich habe sie noch nie wissentlich benutzt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>327</ID>
       <DefaultText>"Das überrascht mich. Er ist aber in letzter Zeit recht... mürrisch... gewesen.“</DefaultText>
-      <FemaleText>"Das überrascht mich. Er ist aber in letzter Zeit recht... mürrisch... gewesen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>328</ID>
@@ -1718,21 +1704,19 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     <Entry>
       <ID>345</ID>
       <DefaultText>"Meine Absicht war es, dir zu lehren, dass zwei gelernte Einzelpersonen gegensätzliche Sichtweisen haben können. Wir urteilt man über sie, wenn man unvollständiges Vorwissen hat? Wir müssen irgendwann eine Schlussfolgerung treffen, aber wenn diese Schlussfolgerungen nicht von unwiderlegbaren Nachweisen unterstützt sind, darfst du dir nie vorstellen, dass du den einzigen Zugang zur Wahrheit hast.“</DefaultText>
-      <FemaleText>"Meine Absicht war es, dir zu lehren, dass zwei gelernte Einzelpersonen gegensätzliche Sichtweisen haben können. Wir urteilt man über sie, wenn man unvollständiges Vorwissen hat? Wir müssen irgendwann eine Schlussfolgerung treffen, aber wenn diese Schlussfolgerungen nicht von unwiderlegbaren Nachweisen unterstützt sind, darfst du dir nie vorstellen, dass du den einzigen Zugang zur Wahrheit hast.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>346</ID>
       <DefaultText>"Wenn es nur so einfach wäre, als dass ich die Leute dazu zwinge, meinen Wünschen zu folgen!“ Einen Moment lang siehst du ihr Gesicht, wie es ausgesehen haben muss, als der Wandelnde Gott in ihrer Hülle war - eine hartes und gebieterisches Gesicht, dem Befehligen gewohnt.
 
 "Nein. Ich habe geschworen, dass ich als Vermittler agieren würde. Die einzigen Mächte, die ich bezeihe, sind Überzeugung und Demokratie. Ich wirke als Gleichgewicht und jene, die es anstreben würden, gegen andere zu hantieren, müssen das durch mich tun.“</DefaultText>
-      <FemaleText>"Wenn es nur so einfach wäre, als dass ich die Leute dazu zwinge, meinen Wünschen zu folgen!“ Einen Moment lang siehst du ihr Gesicht, wie es ausgesehen haben muss, als der Wandelnde Gott in ihrer Hülle war - eine hartes und gebieterisches Gesicht, dem Befehligen gewohnt.
-
-"Nein. Ich habe geschworen, dass ich als Vermittler agieren würde. Die einzigen Mächte, die ich bezeihe, sind Überzeugung und Demokratie. Ich wirke als Gleichgewicht und jene, die es anstreben würden, gegen andere zu hantieren, müssen das durch mich tun.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>347</ID>
       <DefaultText>"Meine Absicht, dir diese Aufgabe zu geben, war, dass du die Leben deiner Geschwister zum Besseren änderst... während sie noch ihre eigenen Körper kontrollieren. Um ihnen Alternativen zu bieten und um zu sehen, ob du ihnen einen Weg um ihre Schwierigkeiten zeigen kannst, der ihre Kernzeile beibehält.“</DefaultText>
-      <FemaleText>"Meine Absicht, dir diese Aufgabe zu geben, war, dass du die Leben deiner Geschwister zum Besseren änderst... während sie noch ihre eigenen Körper kontrollieren. Um ihnen Alternativen zu bieten und um zu sehen, ob du ihnen einen Weg um ihre Schwierigkeiten zeigen kannst, der ihre Kernzeile beibehält.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>348</ID>
@@ -1742,12 +1726,12 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     <Entry>
       <ID>349</ID>
       <DefaultText>"Damit du bewerten kannst, wie ich mit Leuten spreche.“</DefaultText>
-      <FemaleText>"Damit du bewerten kannst, wie ich mit Leuten spreche.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>350</ID>
       <DefaultText>"Um meine Standpunke vielleicht mit alternativen Sichtweisen herauszufordern.“</DefaultText>
-      <FemaleText>"Um meine Standpunke vielleicht mit alternativen Sichtweisen herauszufordern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>351</ID>
@@ -1757,12 +1741,12 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     <Entry>
       <ID>352</ID>
       <DefaultText>"Irgeneine Art psychologischer Test, würde ich schätzen.“</DefaultText>
-      <FemaleText>"Irgeneine Art psychologischer Test, würde ich schätzen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>353</ID>
       <DefaultText>"Ein willkommenes Beiprodukt, das ist wahr, aber nein.“</DefaultText>
-      <FemaleText>"Ein willkommenes Beiprodukt, das ist wahr, aber nein.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>354</ID>
@@ -1789,72 +1773,72 @@ Sie starrt dich fest an. "Es könnte sein, das nichts von Bedeutung in Zerians L
     <Entry>
       <ID>358</ID>
       <DefaultText>"Ein Leben ist nicht wichtig, außer insoweit, dass es einem größeren Ganzen dient.“</DefaultText>
-      <FemaleText>"Ein Leben ist nicht wichtig, außer insoweit, dass es einem größeren Ganzen dient.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>359</ID>
       <DefaultText>"Jedes Leben ist wichtig. Jede Person trägt eine ganze Welt an Potenzial. Jedes Leben sollte andere fördern.“</DefaultText>
-      <FemaleText>"Jedes Leben ist wichtig. Jede Person trägt eine ganze Welt an Potenzial. Jedes Leben sollte andere fördern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>360</ID>
       <DefaultText>"Ein Leben ist nicht wichtig. Es ist ein winziger Funken gegen den Zeitstrahl des Kosmos.“</DefaultText>
-      <FemaleText>"Ein Leben ist nicht wichtig. Es ist ein winziger Funken gegen den Zeitstrahl des Kosmos.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>361</ID>
       <DefaultText>"Es bedeutet so viel, wie wir es bedeuten lassen. Wir machen unsere eigene Bedeutung, unsere eigene Wahrheit.“</DefaultText>
-      <FemaleText>"Es bedeutet so viel, wie wir es bedeuten lassen. Wir machen unsere eigene Bedeutung, unsere eigene Wahrheit.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>362</ID>
       <DefaultText>"Das Leben ist nur wichtig, wenn man es *erlebt*. Wenn du es verwelken und stagnieren lässt, dann ist es überhaupt nicht wichtig.“</DefaultText>
-      <FemaleText>"Das Leben ist nur wichtig, wenn man es *erlebt*. Wenn du es verwelken und stagnieren lässt, dann ist es überhaupt nicht wichtig.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>363</ID>
       <DefaultText>"Was ist das Leben, außer die Erinnerungen, die wir hinterlassen? Du bist nicht tot, bis du vergessen bist. Was zählt, ist Geld. Macht. *Ruhm*.“</DefaultText>
-      <FemaleText>"Was ist das Leben, außer die Erinnerungen, die wir hinterlassen? Du bist nicht tot, bis du vergessen bist. Was zählt, ist Geld. Macht. *Ruhm*.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>364</ID>
       <DefaultText>"Ein Leben kann neues Wissen finden. Neue Entdeckungen machen, das Wissen weiterreichen, die Menschheit größer machen... das ist der Sinn des Lebens.“</DefaultText>
-      <FemaleText>"Ein Leben kann neues Wissen finden. Neue Entdeckungen machen, das Wissen weiterreichen, die Menschheit größer machen... das ist der Sinn des Lebens.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>365</ID>
       <DefaultText>"Wenn du von Vermächtnis redest, wen interessiert das? Was zählt, ist, dass du etwas aufbaust und sein Leben konstruktiv verwendest.“</DefaultText>
-      <FemaleText>"Wenn du von Vermächtnis redest, wen interessiert das? Was zählt, ist, dass du etwas aufbaust und sein Leben konstruktiv verwendest.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>366</ID>
       <DefaultText>"Was zählt, ist der Fortbestand des Lebens. Kinder bekommen, mehr Leben erzeugen, Erfahrungen weiterreichen.“</DefaultText>
-      <FemaleText>"Was zählt, ist der Fortbestand des Lebens. Kinder bekommen, mehr Leben erzeugen, Erfahrungen weiterreichen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>367</ID>
       <DefaultText>"Eine faire Antwort. Ich habe versucht, in Anbetracht dieser Vorstellung zu leben.“</DefaultText>
-      <FemaleText>"Eine faire Antwort. Ich habe versucht, in Anbetracht dieser Vorstellung zu leben.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>368</ID>
       <DefaultText>"Ein bewundernswerter Glaube, den ich auch teile.“</DefaultText>
-      <FemaleText>"Ein bewundernswerter Glaube, den ich auch teile.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>369</ID>
       <DefaultText>Sie guckt etwas böse. "Eine traurige Antwort, wenn du sie wirklich glaubst. Aber ich kann dir nicht widersprechen, wenn ich selber die Wahrheit nicht kenne.“</DefaultText>
-      <FemaleText>Sie guckt etwas böse. "Eine traurige Antwort, wenn du sie wirklich glaubst. Aber ich kann dir nicht widersprechen, wenn ich selber die Wahrheit nicht kenne.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>370</ID>
       <DefaultText>"Das entspricht auch meine persönliche Erfahrung. Wir Finden Bedeutung, wo wir Bedeutung haben und Chaos, wo wir daran mangeln. Dennoch... du tätest gut daran, diesen Standpunkt zu untersuchen.“</DefaultText>
-      <FemaleText>"Das entspricht auch meine persönliche Erfahrung. Wir Finden Bedeutung, wo wir Bedeutung haben und Chaos, wo wir daran mangeln. Dennoch... du tätest gut daran, diesen Standpunkt zu untersuchen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>371</ID>
       <DefaultText>Sie murmelt ein Lachen. "Ist das eine Kritik? Ich kann nicht widersprechen, dass das Leben gelebt werden soll und nicht betrachtet. Man kann bis zum Grab betrachten und plötzlich bemerken, dass das Leben verschwendet war.“</DefaultText>
-      <FemaleText>Sie murmelt ein Lachen. "Ist das eine Kritik? Ich kann nicht widersprechen, dass das Leben gelebt werden soll und nicht betrachtet. Man kann bis zum Grab betrachten und plötzlich bemerken, dass das Leben verschwendet war.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>372</ID>
@@ -1864,12 +1848,12 @@ Sie starrt dich fest an. "Es könnte sein, das nichts von Bedeutung in Zerians L
     <Entry>
       <ID>373</ID>
       <DefaultText>"Es gibt viele Wege, wie man diese Welt verbessern kann, aber ich stimme zu, dass das eine der besten Wege ist, das zu erreichen. Ein gütiger Weg, ein sanfter Weg - einer mit großem Potential.“</DefaultText>
-      <FemaleText>"Es gibt viele Wege, wie man diese Welt verbessern kann, aber ich stimme zu, dass das eine der besten Wege ist, das zu erreichen. Ein gütiger Weg, ein sanfter Weg - einer mit großem Potential.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>374</ID>
       <DefaultText>"So viele von uns beschäftigen sich damit, wie die Welt uns empfindet oder sind in einem Wettstreit miteinander verwickelt, um der Beste bei etwas zu sein. So wenige von uns verbringen Zeit, um einfach nur zu leben. Deine Sicht ist... erfrischend.“</DefaultText>
-      <FemaleText>"So viele von uns beschäftigen sich damit, wie die Welt uns empfindet oder sind in einem Wettstreit miteinander verwickelt, um der Beste bei etwas zu sein. So wenige von uns verbringen Zeit, um einfach nur zu leben. Deine Sicht ist... erfrischend.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>375</ID>
@@ -1886,7 +1870,7 @@ Sie winkt mit der Hand. "Denke über deine Antwort nach. Überlege sie dir gut. 
     <Entry>
       <ID>377</ID>
       <DefaultText>"Ich überreiche dir das mit etwas Verzagtheit. Du hast kein großes Verständnis der menschlichen Natur oder den Bedürfnissen anderer aufgezeigt... doch unsere Not ist groß. Also habe ich keine große Wahl, als dir das zu geben. Bedenke - sei behutsam mit Zerian. Du betrittst seinen Verstand. Sei seinem Weg treu - finde, was du brauchst, und kehre zurück, ohne ihm zu schaden. Du hast die Pflicht, sein Leben so beizubehalten, wie er es wollte, wenn möglich.“</DefaultText>
-      <FemaleText>"Ich überreiche dir das mit etwas Verzagtheit. Du hast kein großes Verständnis der menschlichen Natur oder den Bedürfnissen anderer aufgezeigt... doch unsere Not ist groß. Also habe ich keine große Wahl, als dir das zu geben. Bedenke - sei behutsam mit Zerian. Du übertrittst seinen Verstand. Sei seinem Weg treu - finde, was du brauchst, und kehre zurück, ohne ihm zu schaden. Du hast die Pflicht, sein Leben so beizubehalten, wie er es wollte, wenn möglich.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>378</ID>
@@ -1896,17 +1880,17 @@ Sie winkt mit der Hand. "Denke über deine Antwort nach. Überlege sie dir gut. 
     <Entry>
       <ID>379</ID>
       <DefaultText>"Warte einen Moment. Du scheinst mir eine gerechte Person zu sein. Die anderen hier scheinen sich dir zu fügen. Also lass mich fragen. Wenn der Wandelnde Gott hier wäre, genau jetzt, was würdest du ihm sagen? Was würdest du mit ihm *anstellen*?“</DefaultText>
-      <FemaleText>"Warte einen Moment. Du scheinst mir eine gerechte Person zu sein. Die anderen hier scheinen sich dir zu fügen. Also lass mich fragen. Wenn der Wandelnde Gott hier wäre, genau jetzt, was würdest du ihm sagen? Was würdest du mit ihm *anstellen*?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>380</ID>
       <DefaultText>"Du hast Leuten erzählt, dass du der Wandelnde Gott seist, also wirst du vielleicht hören wollen, wie dein kleiner Trick funtkionierte.“ Er starrt dich wuterfüllt an. "Ich aktivierte den Rahmen, so, wie du es vorgeschlagen hast. Schwarze Dinger schütteten heraus. Ich sah Zähne und Krallen und dann schlug mich etwas bewusstlos.“</DefaultText>
-      <FemaleText>"Du hast Leuten erzählt, dass du der Wandelnde Gott seist, also wirst du vielleicht hören wollen, wie dein kleiner Trick funtkionierte.“ Er starrt dich wuterfüllt an. "Ich aktivierte den Rahmen, so, wie du es vorgeschlagen hast. Schwarze Dinger schütteten heraus. Ich sah Zähne und Krallen und dann schlug mich etwas bewusstlos.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>381</ID>
       <DefaultText>"Und in der Zwischenzeit habe ich nach dem Wandelnden Gott gesucht, um zu versuchen, herauszufinden, was er weiß. Warum ließ er mich den Rahmen aktivieren? Was passierte mit meiner Familie? Und wenn mir die Antworten nicht gefallen...“ Sein Grinsen ist düster und tödlich und seine Tätowierungen brummen und zischen mit Energie.</DefaultText>
-      <FemaleText>"Und in der Zwischenzeit habe ich nach dem Wandelnden Gott gesucht, um zu versuchen, herauszufinden, was er weiß. Warum ließ er mich den Rahmen aktivieren? Was passierte mit meiner Familie? Und wenn mir die Antworten nicht gefallen...“ Sein Grinsen ist düster und tödlich und seine Tätowierungen brummen und zischen mit Energie.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>382</ID>
@@ -1920,22 +1904,22 @@ Sie lächelt ein wenig. "Aber sag mir, Sterblicher, was ist es, was du wirklich 
     <Entry>
       <ID>383</ID>
       <DefaultText>"Ich will Gerechtigkeit und ich weiß nicht, wie ich sie bekomme. Dein Schöpfer, der Wandelnde Gott... er ist für das verantwortlich, was mit meinem Dorf geschehen ist.“</DefaultText>
-      <FemaleText>"Ich will Gerechtigkeit und ich weiß nicht, wie ich sie bekomme. Dein Schöpfer, der Wandelnde Gott... er ist für das verantwortlich, was mit meinem Dorf geschehen ist.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>384</ID>
       <DefaultText>"Moment, was? Wie war der Wandlende Gott verandwortlich?“</DefaultText>
-      <FemaleText>"Moment, was? Wie war der Wandlende Gott verandwortlich?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>385</ID>
       <DefaultText>"Warum hast du mit das nicht früher gesagt?“</DefaultText>
-      <FemaleText>"Warum hast du mit das nicht früher gesagt?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>386</ID>
       <DefaultText>"Das ist nicht die Zeit dafür, Aligern.“</DefaultText>
-      <FemaleText>"Das ist nicht die Zeit dafür, Aligern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>387</ID>
@@ -1962,45 +1946,39 @@ Er kratzt seinen Arm. "Naja. Ich aktivierte den Rahmen. Schwarze Monster kamen h
 "Das war das Geschenk des Wandelnden Gottes an mich.“
 
 "Ich verladete den Rahmen, nahm ihn zu den Sagusklippen. Orth Faung versprach, mir zu helfen. Er fand heraus, dass er ihn herunterklappen konnte, aber weiter als das kamen wir nicht. Fanden nicht einmal heraus, wer ihn gemacht hat, und warum.“</DefaultText>
-      <FemaleText>"Als ich aufwachte, waren alle verschwunden. Keine Spur. Das einzige, was anders war... die Monster hinterließen Narben an mich. Ihr Angriff hinterließen diese Tätowierungen überall an meine Armen, ein Gift, das in meinem verstand flüstert, eine ständige Erinnerung, dass ich jeden enttäuschte, den ich je geliebt habe.“
-
-"Das war das Geschenk des Wandelnden Gottes an mich.“
-
-"Ich verladete den Rahmen, nahm ihn zu den Sagusklippen. Orth Faung versprach, mir zu helfen. Er fand heraus, dass er ihn herunterklappen konnte, aber weiter als das kamen wir nicht. Fanden nicht einmal heraus, wer ihn gemacht hat, und warum.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>390</ID>
       <DefaultText>"Das tat ich. Beim Monument. Ich sagte dir nur nicht, dass es der Wandelnde Gott war, der verantwortlich war.“</DefaultText>
-      <FemaleText>"Das tat ich. Beim Monument. Ich sagte dir nur nicht, dass es der Wandelnde Gott war, der verantwortlich war.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>391</ID>
       <DefaultText>"Ich verscuhte es. Wir waren beim Monument meiner Familie, falls du es vergessen hättest. Aber du sagtest damals, dass wir dafür keine Zeit hätten.“ Sein Gesicht ist düster. "Also erzähle ich es dir jetzt.“</DefaultText>
-      <FemaleText>"Ich verscuhte es. Wir waren beim Monument meiner Familie, falls du es vergessen hättest. Aber du sagtest damals, dass wir dafür keine Zeit hätten.“ Sein Gesicht ist düster. "Also erzähle ich es dir jetzt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>392</ID>
       <DefaultText>"Die richtige Zeit kam nie herauf. Und ich sage es dir *jetzt*.“</DefaultText>
-      <FemaleText>"Die richtige Zeit kam nie herauf. Und ich sage es dir *jetzt*.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>393</ID>
       <DefaultText>"Du willst es wirklich wissen? Du warst beim Monument meiner Familie nicht so klug, das zu hören.“
 
 Er blickt auf seine Stiefel nieder. "In Ormen, als ich der Aeon-Priester für meine Aldeia war, fand ich einen Rahmen. Ein schwarzes Stück Metall. Ich betrachtete es in meiner Werkstatt und versuchte es, herauszufinden, was ich damit anstellen sollte.“</DefaultText>
-      <FemaleText>"Du willst es wirklich wissen? Du warst beim Monument meiner Familie nicht so klug, das zu hören.“
-
-Er blickt auf seine Stiefel nieder. "In Ormen, als ich der Aeon-Priester für meine Aldeia war, fand ich einen Rahmen. Ein schwarzes Stück Metall. Ich betrachtete es in meiner Werkstatt und versuchte es, herauszufinden, was ich damit anstellen sollte.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>394</ID>
       <DefaultText>Er blickt auf seine Stiefel nieder. "In Ormen, als ich der Aeon-Priester für meine Aldeia war, fand ich einen Rahmen. Ein schwarzes Stück Metall. Ich betrachtete es in meiner Werkstatt und versuchte es, herauszufinden, was ich damit anstellen sollte.“</DefaultText>
-      <FemaleText>Er blickt auf seine Stiefel nieder. "In Ormen, als ich der Aeon-Priester für meine Aldeia war, fand ich einen Rahmen. Ein schwarzes Stück Metall. Ich betrachtete es in meiner Werkstatt und versuchte es, herauszufinden, was ich damit anstellen sollte.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>395</ID>
       <DefaultText>"Nein. Es *ist* jetzt Zeit.“ Sie nimmt Aligerns Hände in ihre und sagt, "Ich entschuldige mich für die Rolle unseres Schöpfers in deinem Schmerz. Vielleicht, wenn du deine Geschichte teilst, können wir dir helfen, eine Lösung zu finden.“</DefaultText>
-      <FemaleText>"Nein. Es *ist* jetzt Zeit.“ Sie nimmt Aligerns Hände in ihre und sagt, "Ich entschuldige mich für die Rolle unseres Schöpfers in deinem Schmerz. Vielleicht, wenn du deine Geschichte teilst, können wir dir helfen, eine Lösung zu finden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>396</ID>
@@ -2010,46 +1988,44 @@ Er blickt auf seine Stiefel nieder. "In Ormen, als ich der Aeon-Priester für me
     <Entry>
       <ID>397</ID>
       <DefaultText>"Ich hoffe, dass du eines Tages für deine Taten antwortest. Das hoffe ich wirklich.“</DefaultText>
-      <FemaleText>"Ich hoffe, dass du eines Tages für deine Taten antwortest. Das hoffe ich wirklich.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>398</ID>
       <DefaultText>"Ich helfe dir, die Wahrheit herauszufinden, Aligern.“</DefaultText>
-      <FemaleText>"Ich helfe dir, die Wahrheit herauszufinden, Aligern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>399</ID>
       <DefaultText>"Ich erinnere mich gar nicht daran.“</DefaultText>
-      <FemaleText>"Ich erinnere mich gar nicht daran.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>400</ID>
       <DefaultText>"Nein. Ich bin nicht der Wandelnde Gott."</DefaultText>
-      <FemaleText>"Nein. Ich bin nicht der Wandelnde Gott."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>401</ID>
       <DefaultText>"Natürlich tust du das.“</DefaultText>
-      <FemaleText>"Natürlich tust du das.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>402</ID>
       <DefaultText>Sie hält eine Hand an sein Gesicht und er hält still. "Aligern, was vergangen ist, ist vergangen. Willst du Hilfe? Willst du Antworten? Wenn du das nämlich willst, dann wird dein Gefährte hier dich dahin führen. Wenn du zulässt, dass dein Wut dich blendet und vergiftet, wirst du nie die Wahrhiet erfahren. Schau in die Zukunft und... na ja, vergiss nicht die Vergangenheit. Niemals das. Lass die Vergangenheit dich führen... aber lass sie dich nicht *vergiften*.“
 
 Sie tritt zurück. "Hier, eine Gabe des Wissens für dich.“</DefaultText>
-      <FemaleText>Sie hält eine Hand an sein Gesicht und er hält still. "Aligern, was vergangen ist, ist vergangen. Willst du Hilfe? Willst du Antworten? Wenn du das nämlich willst, dann wird dein Gefährte hier dich dahin führen. Wenn du zulässt, dass dein Wut dich blendet und vergiftet, wirst du nie die Wahrhiet erfahren. Schau in die Zukunft und... na ja, vergiss nicht die Vergangenheit. Niemals das. Lass die Vergangenheit dich führen... aber lass sie dich nicht *vergiften*.“
-
-Sie tritt zurück. "Hier, eine Gabe des Wissens für dich.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>403</ID>
       <DefaultText>"Natürlich tust du das nicht. Ein Leben, wo man über die Körper von anderen tritt kann nicht damit verbracht werden, über die Folgen nachzudenken.“</DefaultText>
-      <FemaleText>"Natürlich tust du das nicht. Ein Leben, wo man über die Körper von anderen tritt kann nicht damit verbracht werden, über die Folgen nachzudenken.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>404</ID>
       <DefaultText>"Das ist genau das, was der Wandelnde Gott sagen würde, wenn er bei einer Lüge ertappt werden würde. Denkst du, dass ich keine Untersuchungen gemacht habe?“</DefaultText>
-      <FemaleText>"Das ist genau das, was der Wandelnde Gott sagen würde, wenn er bei einer Lüge ertappt werden würde. Denkst du, dass ich keine Untersuchungen gemacht habe?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>405</ID>
@@ -2070,12 +2046,12 @@ Als sie spricht, kannst du spüren, wie die Gezeiten sanft von ihr abfallen und 
     <Entry>
       <ID>407</ID>
       <DefaultText>Er sieht skeptisch aus. "Ich werde es versuchen. Keine Garantie.“</DefaultText>
-      <FemaleText>Er sieht skeptisch aus. "Ich werde es versuchen. Keine Garantie.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>408</ID>
       <DefaultText>"Das ist alles, was man verlangen kann. Nun, hat irgendeiner von euch noch anderes mit mir zu besprechen?“</DefaultText>
-      <FemaleText>"Das ist alles, was man verlangen kann. Nun, hat irgendeiner von euch noch anderes mit mir zu besprechen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>409</ID>
@@ -2085,41 +2061,39 @@ Als sie spricht, kannst du spüren, wie die Gezeiten sanft von ihr abfallen und 
     <Entry>
       <ID>410</ID>
       <DefaultText>Sie lächelt Matkina traurig an. "Was ich will, ist, dass wir unsere vernichtende Kriegsführung beenden. Ich will, dass wir zusammenarbeiten. Der Zank zwischen unserem Erzeuger und denen, die das Vermächtnis der Ersten unterstützen bedeutet nichts im Angesicht des Kummers. Aber bekomme zwei von uns zusammen und die größere Bedrohung verschwindet während unser Tod weiter näherrückt.“</DefaultText>
-      <FemaleText>Sie lächelt Matkina traurig an. "Was ich will, ist, dass wir unsere vernichtende Kriegsführung beenden. Ich will, dass wir zusammenarbeiten. Der Zank zwischen unserem Erzeuger und denen, die das Vermächtnis der Ersten unterstützen bedeutet nichts im Angesicht des Kummers. Aber bekomme zwei von uns zusammen und die größere Bedrohung verschwindet während unser Tod weiter näherrückt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>411</ID>
       <DefaultText>Sie gestikuliert zur Pracht um sie herum. "Miel Avest ist ein Garten, ein Käfig. Der Kummer kann nicht hereinkommen, aber wir können nicht gehen. Hast du jemals Tiere in einer Menagerie gesehen? Sie sind unruhig, eingesperrt, sehnen sich nach Freiheit ... aber wenn sie ihren Käfig verlassen, werden sie von ihren vermeintlichen Besitzern verfolgt. So ist es mit uns hier. Aber anstatt dass wir uns vereinigen, um unser Problem zu lösen, bekämpfen wir uns gegenseitig. Ich will sehen, dass wir diese Differenzen beilegen.“</DefaultText>
-      <FemaleText>Sie gestikuliert zur Pracht um sie herum. "Miel Avest ist ein Garten, ein Käfig. Der Kummer kann nicht hereinkommen, aber wir können nicht gehen. Hast du jemal Tiere in einer Menagerie gesehen? Sie sind unruhig, eingesperrt, sehnen sich nach Freiheit... aber wenn sie ihren Käfig verlassen, werden sie von ihren vermeintlichen Besitzern verfolgt. So ist es mit uns hier. Aber anstatt dass wir uns vereinigen, um unser Problem zu lösen, bekämpfen wir uns gegenseitig. Ich will sehen, dass wir diese Differenzen beilegen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>412</ID>
       <DefaultText>"Du bist meine ältere Schwester, also bin ich vorsichtig, wenn ich dir das hier sage, aber... du hast ein bestimmtes Ansehen. Selbst unter dem Rest von uns bist du bekannt als... hart. Nachtragend. Du trägst deinen Groll über Jahrhunderte, auch jenseits des Todes. Matkina, bitte. Du musst loslassen.“</DefaultText>
-      <FemaleText>"Du bist meine ältere Schwester, also bin ich vorsichtig, wenn ich dir das hier sage, aber... du hast ein bestimmtes Ansehen. Selbst unter dem Rest von uns bist du bekannt als... hart. Nachtragend. Du trägst deinen Groll über Jahrhunderte, auch jenseits des Todes. Matkina, bitte. Du musst loslassen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>413</ID>
       <DefaultText>Ihre Stimme krächzt von ihrem trockenen Hals. "Fast alle Urheber meiner Tragödien waren von unserer Gattung. Unser Erzeuger und sein Verlassen in meinem Moment der Gefahr. Die Erste und ihr Befehl, mein Dorf niederzumachen. Paj, die ihre Klinge selber mit Blut beschmierte. Tash, der vorgab, ein Freund zu sein, und mich danach hinterging. *Melmoth*, der mir Hilfe anbot und mich dann den Behörden auslieferte.“ Sie wendet ihren Kopf, um den nahestehenden Melmoth anzublitzen.
 
 "Muss ich fortfahren?“</DefaultText>
-      <FemaleText>Ihre Stimme krächzt von ihrem trockenen Hals. "Fast alle Urheber meiner Tragödien waren von unserer Gattung. Unser Erzeuger und sein Verlassen in meinem Moment der Gefahr. Die Erste und ihr Befehl, mein Dorf niederzumachen. Paj, die ihre Klinge selber mit Blut beschmierte. Tash, der vorgab, ein Freund zu sein, und mich danach hinterging. *Melmoth*, der mir Hilfe anbot und mich dann den Behörden auslieferte.“ Sie wendet ihren Kopf, um den nahestehenden Melmoth anzublitzen.
-
-"Muss ich fortfahren?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>414</ID>
       <DefaultText>"Jetzt ist nicht die Zeit, Matkina.“</DefaultText>
-      <FemaleText>"Jetzt ist nicht die Zeit, Matkina.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>415</ID>
       <DefaultText>Aadiriis' Antwort hören.</DefaultText>
-      <FemaleText>Aadiriis' Antwort hören.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>416</ID>
       <DefaultText>"Unsinn.“ Ihre Stimme ist sanft, aber ihr Ton duldet eine Widerrede. "Matkina sucht nach Weisheit und ich werde das bisschen weitergeben, was ich habe.“</DefaultText>
-      <FemaleText>"Unsinn.“ Ihre Stimme ist sanft, aber ihr Ton duldet eine Widerrede. "Matkina sucht nach Weisheit und ich werde das bisschen weitergeben, was ich habe.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>417</ID>
@@ -2129,17 +2103,17 @@ Als sie spricht, kannst du spüren, wie die Gezeiten sanft von ihr abfallen und 
     <Entry>
       <ID>418</ID>
       <DefaultText>"Du kannst ihnen vergeben, Matkina... aber vergiss nie, was sie getan haben.“</DefaultText>
-      <FemaleText>"Du kannst ihnen vergeben, Matkina... aber vergiss nie, was sie getan haben.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>419</ID>
       <DefaultText>"Sie hat Recht, Matkina. Es ist Zeit, alte Schmerzen loszulassen.“</DefaultText>
-      <FemaleText>"Sie hat Recht, Matkina. Es ist Zeit, alte Schmerzen loszulassen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>420</ID>
       <DefaultText>"Vergebung ist für die Schwachen.“</DefaultText>
-      <FemaleText>"Vergebung ist für die Schwachen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>421</ID>
@@ -2153,9 +2127,7 @@ Sie winkt ab. "Geh und sprich mit Raima und Andronus. Vielleicht, wenn du sie hi
       <DefaultText>Sie lächelt strahlend. "Dir wurde ein weiser Gefährte gegeben, Matkina. Ich verlange nicht, dass du dich jetzt änderst... nur, dass du eine Veränderung in Erwägung ziehst.“
 
 "Und für dich, jüngstes Kind... geh und sprich mit Raima und Andronus. Ich bin überzeugt, dass deine Weisheit auch ihnen helfen kann.“</DefaultText>
-      <FemaleText>Sie lächelt strahlend. "Dir wurde ein weiser Gefährte gegeben, Matkina. Ich verlange nicht, dass du dich jetzt änderst... nur, dass du eine Veränderung in Erwägung ziehst.“
-
-"Und für dich, jüngstes Kind... geh und sprich mit Raima und Andronus. Ich bin überzeugt, dass deine Weisheit auch ihnen helfen kann.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>423</ID>
@@ -2165,22 +2137,22 @@ Sie winkt ab. "Geh und sprich mit Raima und Andronus. Vielleicht, wenn du sie hi
     <Entry>
       <ID>424</ID>
       <DefaultText>"Ich schätze, ich bin bereit, dass du meinen Verstand erforschst.“</DefaultText>
-      <FemaleText>"Ich schätze, ich bin bereit, dass du meinen Verstand erforschst.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>425</ID>
       <DefaultText>"Nicht sicher sagt er.“ Er zuckt dir einen Daumen zu. "Ich war da. Und Callistege auch.“</DefaultText>
-      <FemaleText>"Nicht sicher sagt sie.“ Er zuckt dir einen Daumen zu. "Ich war da. Und Callistege auch.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
       <DefaultText>"Es ist nicht mein Krieg. Ich kann nicht die Ziele aller darin verwickelten wissen.“</DefaultText>
-      <FemaleText>"Es ist nicht mein Krieg. Ich kann nicht die Ziele aller darin verwickelten wissen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>427</ID>
       <DefaultText>Sie nickt. "Es hat seinen Verdienst, bei seiner Meinung zu bleiben. Sei nur gewiss, dass du dabei nicht deine Ohren gegenüber den Meinungen anderer schließt.“</DefaultText>
-      <FemaleText>Sie nickt. "Es hat seinen Verdienst, bei seiner Meinung zu bleiben. Sei nur gewiss, dass du dabei nicht deine Ohren gegenüber den Meinungen anderer schließt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>428</ID>
@@ -2205,7 +2177,7 @@ Sie winkt ab. "Geh und sprich mit Raima und Andronus. Vielleicht, wenn du sie hi
     <Entry>
       <ID>432</ID>
       <DefaultText>"Nein. Es ist eine Verschwendung von unschuldigen Leben.“</DefaultText>
-      <FemaleText>"Nein. Es ist eine Verschwendung von unschuldigen Leben.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>433</ID>
@@ -2215,12 +2187,12 @@ Sie winkt ab. "Geh und sprich mit Raima und Andronus. Vielleicht, wenn du sie hi
     <Entry>
       <ID>434</ID>
       <DefaultText>"Ich glaube nicht, dass sie das tun, nicht mehr.“</DefaultText>
-      <FemaleText>"Ich glaube nicht, dass sie das tun, nicht mehr.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>435</ID>
       <DefaultText>"Sie sind ein Teil des Problems. Die Endlose Schlacht bringt nur Verwüstung.“</DefaultText>
-      <FemaleText>"Sie sind ein Teil des Problems. Die Endlose Schlacht bringt nur Verwüstung.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>436</ID>
@@ -2237,9 +2209,7 @@ Sie winkt ab. "Geh und sprich mit Raima und Andronus. Vielleicht, wenn du sie hi
       <DefaultText>"Es hat seinen Wert, seine Meinung zu ändern, wenn man mit Widerlegung konfrontiert wird. Sei nur gewiss, dass du dabei nicht die *Wahrheit* vernachlässigst.“
 
 Sie hebt ihre Arme in Versöhnung. "Aber du musst mir vergeben. Der Zweck der Übung war es nicht, dich zu frustrieren... sondern etwas ganz anderes.“</DefaultText>
-      <FemaleText>"Es hat seinen Wert, seine Meinung zu ändern, wenn man mit Widerlegung konfrontiert wird. Sei nur gewiss, dass du dabei nicht die *Wahrheit* vernachlässigst.“
-
-Sie hebt ihre Arme in Versöhnung. "Aber du musst mir vergeben. Der Zweck der Übung war es nicht, dich zu frustrieren... sondern etwas ganz anderes.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>439</ID>
@@ -2254,12 +2224,12 @@ Sie hebt ihre Arme in Versöhnung. "Aber du musst mir vergeben. Der Zweck der Ü
     <Entry>
       <ID>442</ID>
       <DefaultText>"Um mehr über die Schlacht zu lernen und die Wahrheit dahinter zu verstehen.“</DefaultText>
-      <FemaleText>"Um mehr über die Schlacht zu lernen und die Wahrheit dahinter zu verstehen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>443</ID>
       <DefaultText>"Es ist wichtig, dass du den größten Koflikt verstehst, den unsere Geschwister auf die Welt verhängt haben. Aber ob dahinter auch Wahrheit steckt ist nicht für mich zu sagen, noch war das der Zweck der Übung.“</DefaultText>
-      <FemaleText>"Es ist wichtig, dass du den größten Koflikt verstehst, den unsere Geschwister auf die Welt verhängt haben. Aber ob dahinter auch Wahrheit steckt ist nicht für mich zu sagen, noch war das der Zweck der Übung.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>444</ID>
@@ -2274,7 +2244,7 @@ Sie hebt ihre Arme in Versöhnung. "Aber du musst mir vergeben. Der Zweck der Ü
     <Entry>
       <ID>447</ID>
       <DefaultText>"Ich bin bereit von Andronus und Raima zu berichten.“</DefaultText>
-      <FemaleText>"Ich bin bereit von Andronus und Raima zu berichten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>448</ID>
@@ -2321,29 +2291,27 @@ Sie hebt ihre Arme in Versöhnung. "Aber du musst mir vergeben. Der Zweck der Ü
       <DefaultText>"Ich erkenne, dass das hier keine logische Schlussfolgerung ist - der Kummer könnte mich aus bisher unbekannten Gründen verfolgen - aber ich bin zufrieden zu wissen, dass ich wenigstens niemand anderes mit *meinem* Körper schade.“
 
 Ein Lächeln zuckt auf. "Melmoth weiß mehr und er ist eifrig, uns bei jeder Gelegenheit mehr zu erzählen. Er hat sichergestellt, dass er jedes Werkzeug, das ihm zur Verfügung steht, verwendet, um unsere Leben zu bewahren und zu verstehen. Aber ich glaube nicht, dass er eine umfassende Studie bezüglich den Beweggründen des Kummers gemacht hat.“</DefaultText>
-      <FemaleText>"Ich erkenne, dass das hier keine logische Schlussfolgerung ist - der Kummer könnte mich aus bisher unbekannten Gründen verfolgen - aber ich bin zufrieden zu wissen, dass ich wenigstens niemand anderes mit *meinem* Körper schade.“
-
-Ein Lächeln zuckt auf. "Melmoth weiß mehr und er ist eifrig, uns bei jeder Gelegenheit mehr zu erzählen. Er hat sichergestellt, dass er jedes Werkzeug, das ihm zur Verfügung steht, verwendet, um unsere Leben zu bewahren und zu verstehen. Aber ich glaube nicht, dass er eine umfassende Studie bezüglich den Beweggründen des Kummers gemacht hat.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>458</ID>
       <DefaultText>"Er scheint sich tief um das Verwahren von Wissen zu sorgen.“</DefaultText>
-      <FemaleText>"Er scheint sich tief um das Verwahren von Wissen zu sorgen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>459</ID>
       <DefaultText>"So sagt er es und er hat schon große Anstrengungen unternommen, um das zu tun. Ich glaube nicht an seine Standpunkte, noch an seinen Schlussfolgerungen, denn er mag wohl seine Ergebnisse aufgepumpt haben, um seine Taten zu berechtigen. Aber er lehnt meine Verstandberührung ab und weist meine Versuche, ihn tiefer zu erfragen, ab. Meine eigenen persönlichen Standpunkte sind natürlich irrelevant mit der tieferen Wahrheit, die er in seine eigenen Beweggründen hat und sie könnten wohl reiner sein als meine.“</DefaultText>
-      <FemaleText>"So sagt er es und er hat schon große Anstrengungen unternommen, um das zu tun. Ich glaube nicht an seine Standpunkte, noch an seinen Schlussfolgerungen, denn er mag wohl seine Ergebnisse aufgepumpt haben, um seine Taten zu berechtigen. Aber er lehnt meine Verstandberührung ab und weist meine Versuche, ihn tiefer zu erfragen, ab. Meine eigenen persönlichen Standpunkte sind natürlich irrelevant mit der tieferen Wahrheit, die er in seine eigenen Beweggründen hat und sie könnten wohl reiner sein als meine.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>460</ID>
       <DefaultText>"Ich habe gefunden, wonacht ich suchte, und noch viel mehr. Wo fange ich an?“</DefaultText>
-      <FemaleText>"Ich habe gefunden, wonacht ich suchte, und noch viel mehr. Wo fange ich an?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>461</ID>
       <DefaultText>"Wenn wir nur die Zeit hätten, aber die Zeit ist nicht länger unser Freund.“ Sie schaut nervös auf die Flammen um sie herum. "Wenn sie es denn jemals war.“</DefaultText>
-      <FemaleText>"Wenn wir nur die Zeit hätten, aber die Zeit ist nicht länger unser Freund.“ Sie schaut nervös auf die Flammen um sie herum. "Wenn sie es denn jemals war.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>463</ID>
@@ -2373,32 +2341,32 @@ Ein Lächeln zuckt auf. "Melmoth weiß mehr und er ist eifrig, uns bei jeder Gel
     <Entry>
       <ID>469</ID>
       <DefaultText>"Ich bin jetzt bereit. Lasst uns loslegen.“</DefaultText>
-      <FemaleText>"Ich bin jetzt bereit. Lasst uns loslegen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>470</ID>
       <DefaultText>"Das werde ich. Ich habe zuerst andere Fragen.“</DefaultText>
-      <FemaleText>"Das werde ich. Ich habe zuerst andere Fragen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>471</ID>
       <DefaultText>"Ich kehre zurück, wenn ich bereit bin.“</DefaultText>
-      <FemaleText>"Ich kehre zurück, wenn ich bereit bin.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>472</ID>
       <DefaultText>"Und ich werde deine Rückkehr erwarten.“</DefaultText>
-      <FemaleText>"Und ich werde deine Rückkehr erwarten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>473</ID>
       <DefaultText>"Natürlich."</DefaultText>
-      <FemaleText>"Natürlich."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>475</ID>
       <DefaultText>"Ich bin bereit, mit Mazzof zu sprechen. Zeig mit den Lebensbildbetracher.“</DefaultText>
-      <FemaleText>"Ich bin bereit, mit Mazzof zu sprechen. Zeig mit den Lebensbildbetracher.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>476</ID>
@@ -2413,7 +2381,7 @@ Ein Lächeln zuckt auf. "Melmoth weiß mehr und er ist eifrig, uns bei jeder Gel
     <Entry>
       <ID>478</ID>
       <DefaultText>"Ich freue mich darauf, nochmal mit dir zu reden.“</DefaultText>
-      <FemaleText>"Ich freue mich darauf, nochmal mit dir zu reden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>480</ID>
@@ -2423,12 +2391,12 @@ Ein Lächeln zuckt auf. "Melmoth weiß mehr und er ist eifrig, uns bei jeder Gel
     <Entry>
       <ID>481</ID>
       <DefaultText>"Was ist diese unheimliche, pyramidenförmige Struktur auf der gegenüberliegenden Seite der Hochebene?“</DefaultText>
-      <FemaleText>"Was ist diese unheimliche, pyramidenförmige Struktur auf der gegenüberliegenden Seite der Hochebene?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>482</ID>
       <DefaultText>"Was denken die Leute, was der Reliquienschrein ist?“</DefaultText>
-      <FemaleText>"Was denken die Leute, was der Reliquienschrein ist?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>483</ID>
@@ -2440,18 +2408,14 @@ Ein Lächeln zuckt auf. "Melmoth weiß mehr und er ist eifrig, uns bei jeder Gel
       <DefaultText>Sie schaut in die Richtung, in die du zeigst. "Ah,“ sagt sie schließlich. "Der Reliquienschrein.“
 
 Es ist unklar, ob sie diesen Namen mit Ehrfurcht oder Abneigung ausspricht. "Der schon so lange hier, wie sich jeder erinnern kann - aber vielleicht gab es ihn noch nicht, als Miel Avest zuerst gegründet wurde. Wir wissen, dass die Erste ihn hier plaziert hat. Es ist nicht bkeannt, *warum*. Gerüchte gibt es natürlich reichlich, aber da niemand weiß, wie man ihn aktivieren oder öffnen kann, können keine bewiesen werden.“</DefaultText>
-      <FemaleText>Sie schaut in die Richtung, in der du zeigst. "Ah,“ sagt sie schließlich. "Der Reliquienschrein.“
-
-Es ist unklar, ob sie deisen Namen mit Ehrfurcht oder Abneigung ausspricht. "Der schon viel hier gewesen, als sich irgendeiner erinnern kann - aber vielleicht nicht, als Miel Avest zuerst gegründet wurde. Was bekannt ist, ist dass die Erste ihn hier plaziert hat. Es ist nicht bkeannt, *warum*. Gerüchte gibt es natürlich reichlich, aber da niemand weiß, wie man ihn aktivieren oder öffnen kann, können keine bewiesen werden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>485</ID>
       <DefaultText>"Oh, die verhersehbaren Legenden. Eine Fluchtkabine irgendeiner Art. Eine letzte Verteidigung gegen den Kummer, falls er durchbrechen sollte. Ein Verwahrungsort für die Schätze der Ersten. Ich hörte eine Person vorschlagen, dass die Erste immernoch am Leben ist, drinnen aufbewahrt, und dass sie zurückkehren würde, wenn wir sie am meisten brauchen würden.“ Ihr schmunzeln verrät, was sie von diesem letzten Gerücht hält.
 
 "Es ist klar, dass es irgendeine Art Schutz ist, aber ob es uns beschützt oder irgendwas, das darin ist, bleibt unklar.“</DefaultText>
-      <FemaleText>"Oh, die verhersehbaren Legenden. Eine Fluchtkabine irgendeiner Art. Eine letzte Verteidigung gegen den Kummer, falls er durchbrechen sollte. Ein Verwahrungsort für die Schätze der Ersten. Ich hörte eine Person vorschlagen, dass die Erste immernoch am Leben ist, drinnen aufbewahrt, und dass sie zurückkehren würde, wenn wir sie am meisten brauchen würden.“ Ihr schmunzeln verrät, was sie von diesem letzten Gerücht hält.
-
-"Es ist klar, dass es irgendeine Art Schutz ist, aber ob es uns beschützt oder irgendwas, das darin ist, bleibt unklar.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>486</ID>
@@ -2461,7 +2425,7 @@ Es ist unklar, ob sie deisen Namen mit Ehrfurcht oder Abneigung ausspricht. "Der
     <Entry>
       <ID>487</ID>
       <DefaultText>"Die Erste plazierte ihn hier vor langer Zeit, bevor sie starb. Niemand weiß oder erinnert sich, warum, wobei jeder seine eigenen Theorien hat. Er scheint *irgendetwas* zu beschützen, aber ob er als Schutz für uns oder für etwas darin liegendes ist, bleibt unklar.“</DefaultText>
-      <FemaleText>"Die Erste plazierte ihn hier vor langer Zeit, bevor sie starb. Niemand weiß oder erinnert sich, warum, wobei jeder seine eigenen Theorien hat. Er scheint *irgendetwas* zu beschützen, aber ob er als Schutz für uns oder für etwas darin liegendes ist, bleibt unklar.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>488</ID>
@@ -2479,21 +2443,19 @@ Sie läuft davon, mit befehligender Stimme, als ob die leise Matrone von Miel Av
     <Entry>
       <ID>489</ID>
       <DefaultText>"Haltet stark, Brüder und Schwester! Gebt nicht der Furcht nach!“</DefaultText>
-      <FemaleText>"Haltet stark, Brüder und Schwester! Gebt nicht der Furcht nach!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>490</ID>
       <DefaultText>"Du musst meinen Verstand gar nicht untersuchen. Es ist die Wahrheit - ich kann die Realität verändern, indem ich Lebensbildbetrachter benutze.“</DefaultText>
-      <FemaleText>"Du musst meinen Verstand gar nicht untersuchen. Es ist die Wahrheit - ich kann die Realität verändern, indem ich Lebensbildbetrachter benutze.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>491</ID>
       <DefaultText>Sie gibt dir ein Lächeln, das bei jeder anderen Person herablassend wirken würde, bei ihr aber wirklich sympatisch aussieht. "Ich hoffe, dass du verstehen wirst, dass unsere Gattung gerne die Wahrheit verschönert. Ich werde nicht zufrieden sein, bis ich es selber sehe.“
 
 Sie legt eine Hand auf ihre Hüfte. "Ich würde das natürlich nie ohne deine Erlaubnis tun, aber deinen Verstand zu untersuchen ist die einzige Möglichkeit, um sicher zu sein.“</DefaultText>
-      <FemaleText>Sie gibt dir ein Lächeln, das bei jeder anderen Person herablassend wirken würde, bei ihr aber wirklich sympatisch aussieht. "Ich hoffe, dass du verstehen wirst, dass unsere Gattung gerne die Wahrheit verschönert. Ich werde nicht zufrieden sein, bis ich es selber sehe.“
-
-Sie legt eine Hand auf ihre Hüfte. "Ich würde das natürlich nie ohne deine Erlaubnis tun, aber deinen Verstand zu untersuchen ist die einzige Möglichkeit, um sicher zu sein.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>492</ID>
@@ -2503,7 +2465,7 @@ Sie legt eine Hand auf ihre Hüfte. "Ich würde das natürlich nie ohne deine Er
     <Entry>
       <ID>493</ID>
       <DefaultText>"Er wird außerhalb des Lebensbildbetrachters sehr schwer zu finden sein, aber du wirst mir zuerst überzeugen müssen, dass du bereit bist, das Leben eines Bruders zu übernehmen.“</DefaultText>
-      <FemaleText>"Er wird außerhalb des Lebensbildbetrachters sehr schwer zu finden sein, aber du wirst mir zuerst überzeugen müssen, dass du bereit bist, das Leben eines Bruders zu übernehmen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>494</ID>
@@ -2515,34 +2477,32 @@ Sie legt eine Hand auf ihre Hüfte. "Ich würde das natürlich nie ohne deine Er
       <DefaultText>"Eine nicht allzu unübliche Meinung, Matkina, zumindest unter jenen von uns, die auf das Kämpfen verzichten.“
 
 Sie wendet sich zu dir. "Wie steht es bei dir? Hast du auch eine so starke Meinung? Oder willst du zuerst mehr Informationen sammeln, bevor du eine Antwort gibst?“</DefaultText>
-      <FemaleText>"Eine nicht allzu unübliche Meinung, Matkina, zumindest unter jenen von uns, die auf das Kämpfen verzichten.“
-
-Sie wendet sich zu dir. "Wie steht es bei dir? Hast du auch eine so starke Meinung? Oder willst du zuerst mehr Informationen sammeln, bevor du eine Antwort gibst?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>496</ID>
       <DefaultText>Dann seufzt sie. "Aber beide Seiten behaupten, dass sie es tun, um uns zu beschützen. Und kann ich wirklich mit ihnen argumentieren? Nein.“</DefaultText>
-      <FemaleText>Dann seufzt sie. "Aber beide Seiten behaupten, dass sie es tun, um uns zu beschützen. Und kann ich wirklich mit ihnen argumentieren? Nein.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>497</ID>
       <DefaultText>"Es ist *Krieg*. Sinnlose Gewalt, von Hochmut verursacht.“</DefaultText>
-      <FemaleText>"Es ist *Krieg*. Sinnlose Gewalt, von Hochmut verursacht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>498</ID>
       <DefaultText>"Nicht alle Kriege sind sinnlos. Manchmal ist Krieg die einzige Möglichkeit, wie eine Gruppe ihre Ziele erreichen kann.“</DefaultText>
-      <FemaleText>"Nicht alle Kriege sind sinnlos. Manchmal ist Krieg die einzige Möglichkeit, wie eine Gruppe ihre Ziele erreichen kann.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>499</ID>
       <DefaultText>"Nein, es gibt immer eine friedliche Lösung, wenn beide Seiten einwilligen, hart genug zu arbeiten.“</DefaultText>
-      <FemaleText>"Nein, es gibt immer eine friedliche Lösung, wenn beide Seiten einwilligen, hart genug zu arbeiten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>500</ID>
       <DefaultText>"Du argumentierst einfach nur mit jeder Antwort, die ich gebe.“</DefaultText>
-      <FemaleText>"Du argumentierst einfach nur mit jeder Antwort, die ich gebe.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>501</ID>
@@ -2552,12 +2512,12 @@ Sie wendet sich zu dir. "Wie steht es bei dir? Hast du auch eine so starke Meinu
     <Entry>
       <ID>502</ID>
       <DefaultText>"Mein Gefährte Erritis hat Dämonen in seinem Verstand. Kennst du irgendwelche Heiler, die ihm helfen könnten?“</DefaultText>
-      <FemaleText>"Mein Gefährte Erritis hat Dämonen in seinem Verstand. Kennst du irgendwelche Heiler, die ihm helfen könnten?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>503</ID>
       <DefaultText>Ihr Blick wendet sich zu Erritis.</DefaultText>
-      <FemaleText>Ihr Blick wendet sich zu Erritis.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>504</ID>
@@ -2569,9 +2529,7 @@ Sie wendet sich zu dir. "Wie steht es bei dir? Hast du auch eine so starke Meinu
       <DefaultText>Komischerweise ist er still. Still, bescheiden und er blick auf dich.
 
 Aadiriis wendet sich wieder zu dir.</DefaultText>
-      <FemaleText>Komischerweise ist er still. Still, bescheiden und er blick auf dich.
-
-Aadiriis wendet sich wieder zu dir.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>507</ID>
