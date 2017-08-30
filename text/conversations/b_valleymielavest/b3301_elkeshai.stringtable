@@ -29,12 +29,12 @@ Der Mann scheint verwirrt, zögernd, als ob er so viele Fragen hat, dass er nich
     <Entry>
       <ID>5</ID>
       <DefaultText>"Was für Fragen hast du für mich?“</DefaultText>
-      <FemaleText>"Was für Fragen hast du für mich?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>"Wolltest du mir ein paar Fragen mehr stellen?“</DefaultText>
-      <FemaleText>"Wolltest du mir ein paar Fragen mehr stellen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -56,7 +56,7 @@ Er schluckt und beobachtet dich vorwurfsvoll. Vorsichtig. Du spürst eine Regung
     <Entry>
       <ID>10</ID>
       <DefaultText>"Ich... nein. Nein, das tu ich nicht.“ Er vermeidet deinen Blick. "Du solltest gehen. Geh, bevor er kommt, um uns zu holen.“</DefaultText>
-      <FemaleText>"Ich... nein. Nein, das tu ich nicht.“ Er vermeidet deinen Blick. "Du solltest gehen. Geh, bevor er kommt, um uns zu holen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -85,7 +85,7 @@ Der Reif dreht sich in seinen Händen, schneller und schneller. "Ich sah Finster
     <Entry>
       <ID>15</ID>
       <DefaultText>"Götter,“ sagt er. "Viele. Sie streiten sich.“</DefaultText>
-      <FemaleText>"Götter,“ sagt er. "Viele. Sie streiten sich.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -94,26 +94,22 @@ Der Reif dreht sich in seinen Händen, schneller und schneller. "Ich sah Finster
 "Dann. Ein Kriegskonstrukt stürzte auf das Automaton. Zerdrückte es. Und die Krone brannte. Ich e-erinnere mich an einem Schrei. Dann hunderte Stimmen in meinem Kopf. Sie stritten sich miteinander. Schreiend. Kämpfend.“
 
 Noch ein starkes Blinzeln. "Der Automaton war gar keine Rüstung. Er war ein Behälter. Ein Behälter für Götter.“</DefaultText>
-      <FemaleText>Er zittert. "Das tat ich. Ich brach es aus dem Gestein. Benutzte es viele Jahre lang im Dienst für unseren Erzeuger. Betrachtete es als meine Rüstung.“ Er blinzelt erneut stark, wie ein Mann der es versucht, mit seinen Augenlidern allein ein Gedanke zu verdrängen.
-
-"Dann. Ein Kriegskonstrukt stürzte auf den Auromaton. Zerdrückte es. Und die Krone brannte. Ich e-erinnere mich an einem Schrei. Dann hunderte Stimmen in meinem Kopf. Sie stritten sich miteinander. Scheiend. Kämpfend.“
-
-Noch ein starkes Blinzeln. "Der Automaton war gar keine Rüstung. Er war ein Behälter. Ein Behälter für Götter.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"Rhin, kannst du ihm helfen?“</DefaultText>
-      <FemaleText>"Rhin, kannst du ihm helfen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>"Ich wünsche, ich könnte helfen.“</DefaultText>
-      <FemaleText>"Ich wünsche, ich könnte helfen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>"Du solltest froh sein, dass du noch lebst.“</DefaultText>
-      <FemaleText>"Du solltest froh sein, dass du noch lebst.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
@@ -123,27 +119,27 @@ Noch ein starkes Blinzeln. "Der Automaton war gar keine Rüstung. Er war ein Beh
     <Entry>
       <ID>21</ID>
       <DefaultText>"Ich kann es versuchen,“ sagt sie und hockt sich, um Elkeshais Augen zu betrachten. Ihr kleines Lächeln verfällt zu einem finsteren Blick. Dann zuckt sie zusammen.</DefaultText>
-      <FemaleText>"Ich kann es versuchen,“ sagt sie und hockt sich, um Elkeshais Augen zu betrachten. Ihr kleines Lächeln verfällt zu einem finsteren Blick. Dann zuckt sie zusammen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Er nickt mürrisch, dann blinzelt er erneut.</DefaultText>
-      <FemaleText>Er nickt mürrisch, dann blinzelt er erneut.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>"Das bin ich,“ sagt er mit einer Grimasse. "Das bin ich.“</DefaultText>
-      <FemaleText>"Das bin ich,“ sagt er mit einer Grimasse. "Das bin ich.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Elkeshai nickt mürrisch, unüberrascht.</DefaultText>
-      <FemaleText>Elkeshai nickt mürrisch, unüberrascht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>::blink::</DefaultText>
-      <FemaleText>::blink::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -153,36 +149,34 @@ Noch ein starkes Blinzeln. "Der Automaton war gar keine Rüstung. Er war ein Beh
     <Entry>
       <ID>27</ID>
       <DefaultText>(Lüge) "Nein."</DefaultText>
-      <FemaleText>(Lüge) "Nein."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>"Ja."</DefaultText>
-      <FemaleText>"Ja."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>(Lüge) "Ja, aber er hat mich nicht gesehen.“</DefaultText>
-      <FemaleText>(Lüge) "Ja, aber er hat mich nicht gesehen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>"Also gut,“ sagt er und entspannt sich ein wenig. "Also gut. Vielleicht haben wir noch etwas Zeit.“</DefaultText>
-      <FemaleText>"Also gut,“ sagt er und entspannt sich ein wenig. "Also gut. Vielleicht haben wir noch etwas Zeit.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>"Ich wusste es,“ sagt er erbleicht. "Uns läuft die Zeit davon.“</DefaultText>
-      <FemaleText>"Ich wusste es,“ sagt er erbleicht. "Uns läuft die Zeit davon.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Er starrt dich fassungslos an.
 
 "Er kann nicht *sehen*,“ sagt er. "Er spürt. Er verfolgt. Und er wird dir hierher folgen! Uns läuft die Zeit davon!“</DefaultText>
-      <FemaleText>Er starrt dich fassungslos an.
-
-"Er kann nicht *sehen*,“ sagt er. "Er spürt. Er verfolgt. Und er wird dir hierher folgen! Uns läuft die Zeit davon!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
@@ -222,7 +216,7 @@ Noch ein starkes Blinzeln. "Der Automaton war gar keine Rüstung. Er war ein Beh
     <Entry>
       <ID>40</ID>
       <DefaultText>"Jetzt hör zu,“ sagt er und blinzelt stark. "Das ist noch wichtiger. Hast du die Gezeiten missbraucht, um Dinge zu verändern? Um Leute zu beeinflussen?“</DefaultText>
-      <FemaleText>"Jetzt hör zu,“ sagt er und blinzelt stark. "Das ist noch wichtiger. Hast du die Gezeiten misshandelt, um Sachen zu verändern? Um Leute zu beeinflussen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
@@ -232,44 +226,38 @@ Noch ein starkes Blinzeln. "Der Automaton war gar keine Rüstung. Er war ein Beh
     <Entry>
       <ID>42</ID>
       <DefaultText>"Sehr wenig.“</DefaultText>
-      <FemaleText>"Sehr wenig.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>"Ja, und ich bereue es nicht.“</DefaultText>
-      <FemaleText>"Ja, und ich bereue es nicht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>Er betrachtet deine Augen und ist zufrieden.
 
 "Gut,“ sagt er. "Jedes Nutzen unserer Kraft lockt ihn wie ein Feuer im Himmel.“</DefaultText>
-      <FemaleText>Er betrachtet deine Augen und ist zufrieden.
-
-"Gut,“ sagt er. "Jedes Nutzen unserer Kraft lockt ihn wie ein Feuer im Himmel.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>Er stöhnt.
 
 "Das ist nicht wichtig. Er wird dich finden. Jedes Nutzen unserer Kraft lockt ihn wie ein Feuer im Himmel.“</DefaultText>
-      <FemaleText>Er stöhnt.
-
-"Das ist nicht wichtig. Er wird dich finden. Jedes Nutzen unserer Kraft lockt ihn wie ein Feuer im Himmel.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>"Das wirst du noch,“ sagt er kläglich. "Das wirst du, wenn er dich findet. Jedes Nutzen unserer Kraft lockt ihn wie ein Feuer im Himmel.“</DefaultText>
-      <FemaleText>"Das wirst du noch,“ sagt er kläglich. "Das wirst du, wenn er dich findet. Jedes Nutzen unserer Kraft lockt ihn wie ein Feuer im Himmel.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>"Du solltest gehen,“ sagt er, aber es ist keine Hitze in seinen Worten. "Vielleicht wird er dir folgen und uns in Ruhe lassen.“
 
 Seine zitternde Hand sucht die rote Wunde an seinem Haaransatz.</DefaultText>
-      <FemaleText>"Du solltest gehen,“ sagt er, aber es ist keine Hitze in seinen Worten. "Vielleicht wird er dir folgen und uns in Ruhe lassen.“
-
-Seine zitternde Hand sucht die rote Wunde an seinem Haaransatz.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
@@ -304,12 +292,12 @@ Seine zitternde Hand sucht die rote Wunde an seinem Haaransatz.</FemaleText>
     <Entry>
       <ID>58</ID>
       <DefaultText>"Bedauerlicherweise.“</DefaultText>
-      <FemaleText>"Bedauerlicherweise.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
       <DefaultText>"Dann wird er dich finden. Uns finden.“ Er schluckt. "Jedes Nutzen unserer Kraft lockt ihn wie ein Feuer im Himmel.“</DefaultText>
-      <FemaleText>"Dann wird er dich finden. Uns finden.“ Er schluckt. "Jedes Nutzen unserer Kraft lockt ihn wie ein Feuer im Himmel.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
@@ -324,7 +312,7 @@ Seine zitternde Hand sucht die rote Wunde an seinem Haaransatz.</FemaleText>
     <Entry>
       <ID>62</ID>
       <DefaultText>"Wie war die Endlose Schlacht?“</DefaultText>
-      <FemaleText>"Wie war die Endlose Schlacht?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
@@ -344,7 +332,7 @@ Seine zitternde Hand sucht die rote Wunde an seinem Haaransatz.</FemaleText>
     <Entry>
       <ID>66</ID>
       <DefaultText>"Ich... ich denke nicht darüber nach. Ich will mich nicht daran erinnern.“</DefaultText>
-      <FemaleText>"Ich... ich denke nicht darüber nach. Ich will mich nicht daran erinnern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
@@ -364,45 +352,41 @@ Seine zitternde Hand sucht die rote Wunde an seinem Haaransatz.</FemaleText>
     <Entry>
       <ID>70</ID>
       <DefaultText>"Das Portal wurde aus einem Grund geschlossen!“ platzt er heraus und vermeidet deine Augen. "Das musstest du *gewusst* haben! Wiese warst du nicht vorsichtiger?“</DefaultText>
-      <FemaleText>"Das Portal wurde aus einem Grund geschlossen!“ platzt er heraus und vermeidet deine Augen. "Das musstest du *gewusst* haben! Wiese warst du nicht vorsichtiger?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
       <DefaultText>"Du musst wissen, wieviel Angst wir haben,“ sagt er schließlich und vermeidet deine Augen. "Wir werden *sterben*. Du hast unverteidigt gelassen!“</DefaultText>
-      <FemaleText>"Du musst wissen, wieviel Angst wir haben,“ sagt er schließlich und vermeidet deine Augen. "Wir werden *sterben*. Du hast unverteidigt gelassen!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>"Ich verstehe nicht, warum du das getan hast,“ sagt er schließlich und vermeidet deine Augen. "Du hast uns *alle* der Gefahr ausgesetzt, um dich selbst zu retten.“</DefaultText>
-      <FemaleText>"Ich verstehe nicht, warum du das getan hast,“ sagt er schließlich und vermeidet deine Augen. "Du hast uns *alle* der Gefahr ausgesetzt, um dich selbst zu retten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
       <DefaultText>"Du warst rücksichtslos,“ platzt er heraus und vermeidet deine Augen. "Du hast uns freigelegt. Uns vielleicht getötet. Ich will nicht sterben.“
 
 Er ist an der Schwelle der Tränen.</DefaultText>
-      <FemaleText>"Du warst rücksichtslos,“ platzt er heraus und vermeidet deine Augen. "Du hast uns freigelegt. Uns vielleicht getötet. Ich will nicht sterben.“
-
-Er ist an der Schwelle der Tränen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
       <DefaultText>"Sie kommt,“ sagt er schließlich und vermeidet deine Augen. "Sie wird uns alle umbringen. Uns ausrotten.“ Er autmet zerfetztes Seufzen aus. "Niemand wir sich auch daran erinnern können, dass wir hier waren.“</DefaultText>
-      <FemaleText>"Sie kommt,“ sagt er schließlich und vermeidet deine Augen. "Sie wird uns alle umbringen. Uns ausrotten.“ Er autmet zerfetztes Seufzen aus. "Niemand wir sich auch daran erinnern können, dass wir hier waren.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
       <DefaultText>"Ich verstehe diese 'Götter' nicht. Sie sind nicht wie die, denen ich begegnet jemals bin. Sie sprechen nicht einmal ansatzweise *wie* ein richtiger Gott. Sie sind... *unhöflich*.“ Sie neigt ihren Kopf, um mehr zuzuhören. "Ahl glaubt, dass sie Gefangene sind... und außerdem gar keine Götter.“
 
 Sie blickt traurig zu ihm auf. "Ich entschuldige mich, werter Herr, denn ich kann dir nicht helfen.“</DefaultText>
-      <FemaleText>"Ich verstehe diese 'Götter' nicht. Sie sind nicht wie die, denen ich begegnet jemals bin. Sie sprechen nicht einmal ansatzweise *wie* ein richtiger Gott. Sie sind... *unhöflich*.“ Sie neigt ihren Kopf, um mehr zuzuhören. "Ahl glaubt, dass sie Gefangene sind... und außerdem gar keine Götter.“
-
-Sie blickt traurig zu ihm auf. "Ich entschuldige mich, werter Herr, denn ich kann dir nicht helfen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
       <DefaultText>"Wie meinst du das, ein Behälter für Götter?“</DefaultText>
-      <FemaleText>"Wie meinst du das, ein Behälter für Götter?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
@@ -414,7 +398,7 @@ Er schließt seinen Mund und sagt nicht weiteres zum Thema.</DefaultText>
     <Entry>
       <ID>79</ID>
       <DefaultText>"Sagtest du *Götter*?“</DefaultText>
-      <FemaleText>"Sagtest du *Götter*?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
@@ -426,7 +410,7 @@ Er schließt seinen Mund und sagt nicht weiteres zum Thema.</DefaultText>
     <Entry>
       <ID>81</ID>
       <DefaultText>"Rhin, kannst du ihm mit seinen Göttern helfen?“</DefaultText>
-      <FemaleText>"Rhin, kannst du ihm mit seinen Göttern helfen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
@@ -436,7 +420,7 @@ Er schließt seinen Mund und sagt nicht weiteres zum Thema.</DefaultText>
     <Entry>
       <ID>83</ID>
       <DefaultText>"War es...? Nein, das war es nicht.“</DefaultText>
-      <FemaleText>"War es...? Nein, das war es nicht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
@@ -446,7 +430,7 @@ Er schließt seinen Mund und sagt nicht weiteres zum Thema.</DefaultText>
     <Entry>
       <ID>85</ID>
       <DefaultText>"Alles läuft schief... Oder ist alles in meinem Kopf?“</DefaultText>
-      <FemaleText>"Alles läuft schief... Oder ist alles in meinem Kopf?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
