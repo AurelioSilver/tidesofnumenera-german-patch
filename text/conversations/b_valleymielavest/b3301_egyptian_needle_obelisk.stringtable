@@ -22,17 +22,17 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>Berühren.</DefaultText>
-      <FemaleText>Berühren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Ihn nochmal berühren.</DefaultText>
-      <FemaleText>Ihn nochmal berühren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Weggehen.</DefaultText>
-      <FemaleText>Weggehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -47,46 +47,44 @@
     <Entry>
       <ID>9</ID>
       <DefaultText>Du kehrst zur Vision des unzufriedenstellendes Mahls zurück. Dein zukünftiges Selbst tunkt ein altes Stück Brot in die Suppe, wahrscheinlich ein Versuch, das Mahl zu retten.</DefaultText>
-      <FemaleText>Du kehrst zur Vision des unzufriedenstellendes Mahls zurück. Dein zukünftiges Selbst tunkt ein altes Stück Brot in die Suppe, wahrscheinlich ein Versuch, das Mahl zu retten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Follow-up T. 10</DefaultText>
-      <FemaleText>Follow-up T. 10</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Du siehst, wie du schläfst, in Decken gebündelt, und du schnarchst laut genug um Löcher in den Himmel zu reißen. Außerdem sabberst du.</DefaultText>
-      <FemaleText>Du siehst, wie du schläfst, in Decken gebündelt, und du schnarchst laut genug um Löcher in den Himmel zu reißen. Außerdem sabberst du.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Du kehrst zur Vision zurück, wo du schläfst und wie eine Callerale schnarchst.</DefaultText>
-      <FemaleText>Du kehrst zur Vision zurück, wo du schläfst und wie eine Callerale schnarchst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Follow-up T. 13</DefaultText>
-      <FemaleText>Follow-up T. 13</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Du siehst, wie du den Horizont mit einem gedankenvollen Ausdruck betrachtest.
 
 Nein, warte... es war nur ein Niesen.</DefaultText>
-      <FemaleText>Du siehst, wie du den Horizont mit einem gedankenvollen Ausdruck betrachtest.
-
-Nein, warte... es war nur ein Niesen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Du kehrst zur Vision zurück, wo du den Horizont anschaust... und niest.</DefaultText>
-      <FemaleText>Du kehrst zur Vision zurück, wo du den Horizont anschaust... und niest.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Follow-up T. 16</DefaultText>
-      <FemaleText>Follow-up T. 16</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -107,7 +105,7 @@ Der Kummer ist nirgends zu sehen, aber du kannst ihn spüren. Hinter dir, vielle
     <Entry>
       <ID>19</ID>
       <DefaultText>Follow-up T. 19</DefaultText>
-      <FemaleText>Follow-up T. 19</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
@@ -126,17 +124,17 @@ Aber der Kummer betrachtet nicht länger die sterbende Frau. Er schaut direkt zu
     <Entry>
       <ID>22</ID>
       <DefaultText>Follow-up T. 22</DefaultText>
-      <FemaleText>Follow-up T. 22</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Du siehst, wie du vor einer geisterhaften Frau stehst. Sie schaut dich an, ihre Augen kalt und hart. "Halte ihn auf. Er hat mehr Leben verletzt, als jeder zählen könnte.“</DefaultText>
-      <FemaleText>Du siehst, wie du vor einer geisterhaften Frau stehst. Sie schaut dich an, ihre Augen kalt und hart. "Halte ihn auf. Er hat mehr Leben verletzt, als jeder zählen könnte.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Du kehrst zur Vision des Gespräches mit der geisterhaften Frau zurück. Sie hat ihre Augen geschlossen, als ob sie es nicht länger aushält, dich anzuschauen.</DefaultText>
-      <FemaleText>Du kehrst zur Vision des Gespräches mit der geisterhaften Frau zurück. Sie hat ihre Augen geschlossen, als ob sie es nicht länger aushält, dich anzuschauen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -175,41 +173,33 @@ Voraus erblüht ein Liche, mit silberigen Zeitstreifen gefädelt. Du stürzt in 
       <DefaultText>Das prophetische Licht verschwindet und lässt dich wieder vor dem Obelisk stehen.
 
 Du betrachtest stirnrunzelnd das Momument. Obwohl sich die Vision wahr *anfühlte*, scheint sie kaum der Mühe wert gewesen zu sein. Vielleicht bringt eine erneute Berührung andere Resultate hervor.</DefaultText>
-      <FemaleText>Das prophetische Licht verschwindet und lässt dich wieder vor dem Obelisk stehen.
-
-Du betrachtest stirnrunzelnd das Momument. Obwohl sich die Vision wahr *anfühlte*, scheint sie kaum der Mühe wert gewesen zu sein. Vielleicht bringt eine erneute Berührung andere Resultate hervor.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Deine Sicht wird klarer und du stehst wieder vor dem Obelisk.
 
 Diese Vision war genauso offenbar nützlos wie die letzte. Aber vielleicht kann dir dieses Monument mehr zeigen.</DefaultText>
-      <FemaleText>Deine Sicht wird klarer und du stehst wieder vor dem Obelisk.
-
-Diese Vision war genauso offenbar nützlos wie die letzte. Aber vielleicht kann dir dieses Monument mehr zeigen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Deine Sicht wird klarer und du stehst wieder vor dem Obelisk.</DefaultText>
-      <FemaleText>Deine Sicht wird klarer und du stehst wieder vor dem Obelisk.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Der Obelisk bebt unter deiner Hand, als ob irgendwas darinnen erregt - oder aufgewacht - ist.
 
 Dann schleudert dein Verstand gen Himmel, zum prophetischen Stern.</DefaultText>
-      <FemaleText>Der Obelisk bebt unter deiner Hand, als ob irgendwas darinnen erregt - oder aufgewacht - ist.
-
-Dann schleudert dein Verstand gen Himmel, zum prophetischen Stern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Hände packen deinen Geist und schleudern ihn zurück nach Miel Avest, zurück zu dem Obelisken. Du hältst dir den Kopf und taumelst zurück, weg von dem Monument.
 
 Scheint, als würde der Obelisk doch bedeutsamen Visionen offenbaren.</DefaultText>
-      <FemaleText>Hände packen deinen Geist und schleudern ihn zurück nach Miel Avest, zurück zu dem Obelisken. Du hältst dir den Kopf und taumelst zurück, weg von dem Monument.
-
-Scheint, als würde der Obelisk doch bedeutsamen Visionen offenbaren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -241,14 +231,12 @@ Scheint, als würde der Obelisk doch bedeutsamen Visionen offenbaren.</FemaleTex
       <DefaultText>""
 {GAVIN: Marking as SHOULD NOT PLAY. Add more prophecies here, including some sort of permadeath after viewing all the ones below. We should also disable the trivial ones after non-trivial is unlocked.} 
 {GAVIN: Don't disable the trivial ones. The point of this obelisk is that the visions are random. The "real" visions are only ever available if the player sufficiently messes with it. They're easter eggs. -AH}</DefaultText>
-      <FemaleText>""
-{GAVIN: Marking as SHOULD NOT PLAY. Add more prophecies here, including some sort of permadeath after viewing all the ones below. We should also disable the trivial ones after non-trivial is unlocked.} 
-{GAVIN: Don't disable the trivial ones. The point of this obelisk is that the visions are random. The "real" visions are only ever available if the player sufficiently messes with it. They're easter eggs. -AH}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>""</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
@@ -258,12 +246,12 @@ Scheint, als würde der Obelisk doch bedeutsamen Visionen offenbaren.</FemaleTex
     <Entry>
       <ID>45</ID>
       <DefaultText>Du erkennst die Frau wieder. Sie ist derselbe Geist, dem du im Fünften Auge und im Labyrinth danach begegnet bist, aber du weißt nicht, wovon sie redet.</DefaultText>
-      <FemaleText>Du erkennst die Frau wieder. Sie ist derselbe Geist, dem du im Fünften Auge und im Labyrinth danach begegnet bist, aber du weißt nicht, wovon sie redet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>Du erkennst die Frau wieder. Sie ist derselbe Geist, dem du im Fünften Auge begegnet bist, aber du weißt nicht, wovon sie redet.</DefaultText>
-      <FemaleText>Du erkennst die Frau wieder. Sie ist derselbe Geist, dem du im Fünften Auge begegnet bist, aber du weißt nicht, wovon sie redet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
