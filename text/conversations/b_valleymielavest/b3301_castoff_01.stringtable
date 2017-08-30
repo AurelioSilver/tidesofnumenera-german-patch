@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Wenn nur unser Schöpfer hier wäre...“</DefaultText>
-      <FemaleText>"Wenn nur unser Schöpfer hier wäre...“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Hast du Erinnerungen an die Zeit, als der Wandelnde Gott in deinem Körper war? Ich habe meine vergessen.“</DefaultText>
-      <FemaleText>"Hast du Erinnerungen an die Zeit, als der Wandelnde Gott in deinem Körper war? Ich habe meine vergessen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Ich habe genug von dieser Welt.“</DefaultText>
-      <FemaleText>"Ich habe genug von dieser Welt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Ich will nicht hier bleiben, aber... Ich war schon ein Jahrzehnt lang nicht mehr in der Welt.“</DefaultText>
-      <FemaleText>"Ich will nicht hier bleiben, aber... Ich war schon ein Jahrzehnt lang nicht mehr in der Welt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -32,17 +32,17 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>"Was, wenn ich die Unsterblichkeit *verschwende*?“</DefaultText>
-      <FemaleText>"Was, wenn ich die Unsterblichkeit *verschwende*?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>"Aber was nützt dann eine Unsterblichkeit, die vorzeitig abgebrochen wird?“</DefaultText>
-      <FemaleText>"Aber was nützt dann eine Unsterblichkeit, die vorzeitig abgebrochen wird?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>"Ich sollte... Nein, das sollte ich nicht.“</DefaultText>
-      <FemaleText>"Ich sollte... Nein, das sollte ich nicht.“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
