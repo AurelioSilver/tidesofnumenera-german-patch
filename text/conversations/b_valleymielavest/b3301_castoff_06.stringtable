@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Ich werde nicht gehen, bis ich *sicher* bin, dass der Kummer wieder untätig ist.“</DefaultText>
-      <FemaleText>"Ich werde nicht gehen, bis ich *sicher* bin, dass der Kummer wieder untätig ist.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Ich spürte, wie der Kummer in meiner Nähe manifestierte - nur eine Vermuting - und ich kam so schnell hierher, wie ich konnte.</DefaultText>
-      <FemaleText>"Ich spürte, wie der Kummer in meiner Nähe manifestierte - nur eine Vermuting - und ich kam so schnell hierher, wie ich konnte.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Ich hoffe, dass die Schilde durchhalten.“</DefaultText>
-      <FemaleText>"Ich hoffe, dass die Schilde durchhalten.“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

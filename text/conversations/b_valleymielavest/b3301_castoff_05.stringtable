@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Du bist die letzte Version? Keine große Verbesserung.“</DefaultText>
-      <FemaleText>"Du bist die letzte Version? Keine große Verbesserung.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Verpiss dich. Habe kein Interesse, mit einer Neugeburt zu reden.“</DefaultText>
-      <FemaleText>"Verpiss dich. Habe kein Interesse, mit einer Neugeburt zu reden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Lass mich mal in Ruhe. Ich bin nicht interessiert.“</DefaultText>
-      <FemaleText>"Lass mich mal in Ruhe. Ich bin nicht interessiert.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Warum belästigst du mich? Sprich mit Aadiriis oder so.“</DefaultText>
-      <FemaleText>"Warum belästigst du mich? Sprich mit Aadiriis oder so.“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Dieser Ort ist wundervoll."</DefaultText>
-      <FemaleText>"Dieser Ort ist wundervoll."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Ich verstehe, dass man dem Kummer entkommen will, aber die Leute, die hier leben, *leben* nie, weißt du?“</DefaultText>
-      <FemaleText>"Ich verstehe, dass man dem Kummer entkommen will, aber die Leute, die hier leben, *leben* nie, weißt du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Bei all dem Drama fragt man sich, wozu unsre Leben eigentlich gut sein sollen.“</DefaultText>
-      <FemaleText>"Bei all dem Drama fragt man sich, wozu unsre Leben eigentlich gut sein sollen.“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
