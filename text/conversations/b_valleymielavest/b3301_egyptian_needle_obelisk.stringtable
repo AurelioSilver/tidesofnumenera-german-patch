@@ -128,7 +128,7 @@ Aber der Kummer betrachtet nicht länger die sterbende Frau. Er schaut direkt zu
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Du siehst, wie du vor einer geisterhaften Frau stehst. Sie schaut dich an, ihre Augen kalt und hart. "Halte ihn auf. Er hat mehr Leben verletzt, als jeder zählen könnte.“</DefaultText>
+      <DefaultText>Du siehst, wie du vor einer geisterhaften Frau stehst. Sie schaut dich an, ihre Augen kalt und hart. „Halte ihn auf. Er hat mehr Leben verletzt, als jeder zählen könnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,14 +228,14 @@ Scheint, als würde der Obelisk doch bedeutsamen Visionen offenbaren.</DefaultTe
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>""
+      <DefaultText>„“
 {GAVIN: Marking as SHOULD NOT PLAY. Add more prophecies here, including some sort of permadeath after viewing all the ones below. We should also disable the trivial ones after non-trivial is unlocked.} 
-{GAVIN: Don't disable the trivial ones. The point of this obelisk is that the visions are random. The "real" visions are only ever available if the player sufficiently messes with it. They're easter eggs. -AH}</DefaultText>
+{GAVIN: Don't disable the trivial ones. The point of this obelisk is that the visions are random. The „real“ visions are only ever available if the player sufficiently messes with it. They're easter eggs. -AH}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
