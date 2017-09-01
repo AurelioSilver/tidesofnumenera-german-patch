@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Deine Augen werden an die zerfetzten Lederroben und die Fülle an Tuben gelockt, die diesen Mann verdrahten. Er ist bleich, mit stechenden Augen und einer grässliche, schartigen Narbe auf seinem Gesicht. Er könnte gutaussehend sein, aber Jahrhunderte der Vernachlässigung haben sein Aussehen verwüstet.</DefaultText>
-      <FemaleText>Deine Augen werden an die zerfetzten Lederroben und die Fülle an Tuben gelockt, die diesen Mann verdrahten. Er ist bleich, mit stechenden Augen und einer grässliche, schartigen Narbe auf seinem Gesicht. Er könnte gutaussehend sein, aber Jahrhunderte der Vernachlässigung haben sein Aussehen verwüstet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Oh, wunderbar, du bist zurückgekehrt, um mich erneut zu quälen.“</DefaultText>
-      <FemaleText>"Oh, wunderbar, du bist zurückgekehrt, um mich erneut zu quälen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Mit all deinem angesammelten Wissen musst du eine einzigartige Anschauung der Endlosen Schlacht haben.“</DefaultText>
-      <FemaleText>"Mit all deinem angesammelten Wissen musst du eine einzigartige Anschauung der Endlosen Schlacht haben.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Lebwohl."</DefaultText>
+      <DefaultText>"Lebe wohl."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -47,7 +47,7 @@
     <Entry>
       <ID>9</ID>
       <DefaultText>"Erzähl mir von dir."</DefaultText>
-      <FemaleText>"Erzähl mir von dir."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -80,12 +80,12 @@ Er neigt sich näher. "Unser Erzeuger versuchte, dem Tod zu entkommen und solche
     <Entry>
       <ID>14</ID>
       <DefaultText>"Aadiriis denkt, dass eine Gezeitenwelle bei meiner Geburt für eine verheerende Auseinandersetzung zwischen zwei Menschen verantwortlich ist.“</DefaultText>
-      <FemaleText>"Aadiriis denkt, dass eine Gezeitenwelle bei meiner Geburt für eine verheerende Auseinandersetzung zwischen zwei Menschen verantwortlich ist.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>"Das ist durchaus möglich. Die Gezeiten sind eine psychische Kraft, und wenn wir... geboren werden, schnappt unser Verstand in eine bestimme Form und zwingen den Rückstand heraus. Ein ungeschützter Verstand, der in der Nähe ist, wird etwas von dieser Energie absorbieren und auf einer unvorhersehbaren Weise reagieren. Aber was ist schon dabei? Ändert das etwas an deinem Leben? Zwei Sterbliche hatten einen Streit, oh nein. Schluchz-schluchz.“</DefaultText>
-      <FemaleText>"Das ist durchaus möglich. Die Gezeiten sind eine psychische Kraft, und wenn wir... geboren werden, schnappt unser Verstand in eine bestimme Form und zwingen den Rückstand heraus. Ein ungeschützter Verstand, der in der Nähe ist, wird etwas von dieser Energie absorbieren und auf einer unvorhersehbaren Weise reagieren. Aber was ist schon dabei? Ändert das etwas an deinem Leben? Zwei Sterbliche hatten einen Streit, oh nein. Schluchz-schluchz.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -328,17 +328,17 @@ Er kratzt eine kleine infizierte Wunde an seiner Hand. "Andererseits sind die da
     <Entry>
       <ID>63</ID>
       <DefaultText>"Ich brauche ihn, um eine Resonanzkammer zu reparieren.“</DefaultText>
-      <FemaleText>"Ich brauche ihn, um eine Resonanzkammer zu reparieren.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
       <DefaultText>"Das geht dich nichts an."</DefaultText>
-      <FemaleText>"Das geht dich nichts an."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
       <DefaultText>"Ich habe einige Fragen an dich."</DefaultText>
-      <FemaleText>"Ich habe einige Fragen an dich."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
@@ -686,27 +686,27 @@ Er hebt einen Finger. "Aber woher wusstest du, dass du nach Mazzof suchen sollst
     <Entry>
       <ID>123</ID>
       <DefaultText>"Das war ich.“</DefaultText>
-      <FemaleText>"Das war ich.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
       <DefaultText>"... mein, Ich habe nicht genug wissen.“ Er grinst. "Aber ich finde es schon bald genug. Um deine Frage zu beantworten, Ich weiß nicht, wo Mazzof ist. Ich schlage vor, dass du Aadiriis fragst.“</DefaultText>
-      <FemaleText>"... mein, Ich habe nicht genug wissen.“ Er grinst. "Aber ich finde es schon bald genug. Um deine Frage zu beantworten, Ich weiß nicht, wo Mazzof ist. Ich schlage vor, dass du Aadiriis fragst.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
       <DefaultText>"Musst du meine Vermutung teilen, Matkina? Ich hatte gerade Spaß am Mysterium.“ Er wendet dich zu dir. "Um deine Frage zu beantworten, Ich weiß nicht, wo Mazzof ist. Ich schlage vor, dass du Aadiriis fragst.“</DefaultText>
-      <FemaleText>"Musst du meine Vermutung teilen, Matkina? Ich hatte gerade Spaß am Mysterium.“ Er wendet dich zu dir. "Um deine Frage zu beantworten, Ich weiß nicht, wo Mazzof ist. Ich schlage vor, dass du Aadiriis fragst.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
       <DefaultText>"Oh, ein Mysterium. Ich *liebe* Mysterien.“</DefaultText>
-      <FemaleText>"Oh, ein Mysterium. Ich *liebe* Mysterien.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
       <DefaultText>Sie seufzt und richtet sich, als ob sie sich zum Kampf vorbereitet. "Ich habe mir schon von zwei Personen, die ich fast respektiere, vorschlagen lassen, dass ich jenen vergebe, die mich verraten haben.“ Sie zuckt ihren Finger zu dir. "Der hier und Aadiriis. Ich versuche es, ihrem Rat zu folgen.“</DefaultText>
-      <FemaleText>Sie seufzt und richtet sich, als ob sie sich zum Kampf vorbereitet. "Ich habe mir schon von zwei Personen, die ich fast respektiere, vorschlagen lassen, dass ich jenen vergebe, die mich verraten haben.“ Sie zuckt ihren Finger zu dir. "Die hier und Aadiriis. Ich versuche es, ihrem Rat zu folgen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
@@ -752,7 +752,7 @@ Er schnaubt. "Ach, schließe deinen Mund. Ich habe es von dir erwartet. Wenn dir
     <Entry>
       <ID>136</ID>
       <DefaultText>"Also seid ihr beide jetzt Freunde?“</DefaultText>
-      <FemaleText>"Also seid ihr beide jetzt Freunde?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
@@ -762,12 +762,12 @@ Er schnaubt. "Ach, schließe deinen Mund. Ich habe es von dir erwartet. Wenn dir
     <Entry>
       <ID>138</ID>
       <DefaultText>"Ich behandle sie kein bisschen anders als alle anderen. Sie hielt mir schon jahrelang einen Dolch zum Rücken, und wenigstens weiß ich jetzt, warum.“ Er zeichnet ihr ein kleines Verbeugen. "Wenn du doch nur, oh, ein Jahrhundert früher zu mir gekommen wärst, dann hätten wir dieses ganze Leid verhindert. Aber das Vergangene ist vergangen, und wir können es nicht ändern.“</DefaultText>
-      <FemaleText>"Ich behandle sie kein bisschen anders als alle anderen. Sie hielt mir schon jahrelang einen Dolch zum Rücken, und wenigstens weiß ich jetzt, warum.“ Er zeichnet ihr ein kleines Verbeugen. "Wenn du doch nur, oh, ein Jahrhundert früher zu mir gekommen wärst, dann hätten wir dieses ganze Leid verhindert. Aber das Vergangene ist vergangen, und wir können es nicht ändern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
       <DefaultText>"Das hängt komplett von unserer Schwester ab. Lass mich das umformulieren - wenn sie beweisen kann, dass sie diese neuentdeckte Ehrlichkeit beibehalten kann, dann wäre ich willig, den Gedanken zu erwägen, sie als wieder Partnerin zu haben. Ansonsten sind das nur leere Worte.“</DefaultText>
-      <FemaleText>"Das hängt komplett von unserer Schwester ab. Lass mich das umformulieren - wenn sie beweisen kann, dass sie diese neuentdeckte Ehrlichkeit beibehalten kann, dann wäre ich willig, den Gedanken zu erwägen, sie als wieder Partnerin zu haben. Ansonsten sind das nur leere Worte.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
@@ -777,42 +777,42 @@ Er schnaubt. "Ach, schließe deinen Mund. Ich habe es von dir erwartet. Wenn dir
     <Entry>
       <ID>141</ID>
       <DefaultText>Er neigt seinen Kopf etwas zu ihr. "Lasst uns von vorne beginnen. Vergangenheit ruhen lassen und das ganze. Wir werden weiterziehen.“</DefaultText>
-      <FemaleText>Er neigt seinen Kopf etwas zu ihr. "Lasst uns von vorne beginnen. Vergangenheit ruhen lassen und das ganze. Wir werden weiterziehen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
       <DefaultText>Sie nickt scharf. "Abgemacht.“</DefaultText>
-      <FemaleText>Sie nickt scharf. "Abgemacht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
       <DefaultText>Sie schnauft und gibt dir einen bedeutungsvollen Blick, sagt aber nichts.</DefaultText>
-      <FemaleText>Sie schnauft und gibt dir einen bedeutungsvollen Blick, sagt aber nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
       <DefaultText>"Na ja. Unser Wiedertreffen war ergiebig.“ Er wendet sich zurück zu dir. "Hast du weitere Fragen für mich oder werde ich jetzt endlich Frieden finden?“</DefaultText>
-      <FemaleText>"Na ja. Unser Wiedertreffen war ergiebig.“ Er wendet sich zurück zu dir. "Hast du weitere Fragen für mich oder werde ich jetzt endlich Frieden finden?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
       <DefaultText>"Halt. Bevor du gehst, habe ich etwas zu sagen. Ich weigere mich, einen Geschwister mit ungenutztem Potenzial auf dieser Welt zu streunen. Du bemerkst nicht den Schaden, den du anrichtest. Zweifellos ist *das* der Grund, warum Aadiriis dich zu mir geschickt hat, auch wenn sie es nie zugeben würde. Hör zu. Du wirst lernen, deine Gezeitenmacht zu nutzen.“</DefaultText>
-      <FemaleText>"Halt. Bevor du gehst, habe ich etwas zu sagen. Ich weigere mich, einen Geschwister mit ungenutztem Potenzial auf dieser Welt zu streunen. Du bemerkst nicht den Schaden, den du anrichtest. Zweifellos ist *das* der Grund, warum Aadiriis dich zu mir geschickt hat, auch wenn sie es nie zugeben würde. Hör zu. Du wirst lernen, deine Gezeitenmacht zu nutzen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
       <DefaultText>"Lady Anshe sagt mir, dass du den Reliquienschrein berührt hast. Ich würde lachen, wenn ich nicht selber das Gleiche gemacht hätte.“</DefaultText>
-      <FemaleText>"Lady Anshe sagt mir, dass du den Reliquienschrein berührt hast. Ich würde lachen, wenn ich nicht selber das Gleiche gemacht hätte.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
       <DefaultText>"Der Reliquienschrein... Was ist mit mir passiert?“</DefaultText>
-      <FemaleText>"Der Reliquienschrein... Was ist mit mir passiert?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
       <DefaultText>"*Neugier* ist mit dir passiert.“ Er klatscht dir hart auf die Schulter. "Das weiß niemand. Ich würde so weit gehen zu sagen, dass es eine Art defensiver Mechanismus ist, der neugierige Nasen davon abhalten soll, damit herumzuhantieren. Aber ich habe genau nichts aus meinen Untersuchungen gelernt, also bekommst du von mir nur nutzlose Spekulation.“</DefaultText>
-      <FemaleText>"*Neugier* ist mit dir passiert.“ Er klatscht dir hart auf die Schulter. "Das weiß niemand. Ich würde so weit gehen zu sagen, dass es eine Art defensiver Mechanismus ist, der neugierige Nasen davon abhalten soll, damit herumzuhantieren. Aber ich habe genau nichts aus meinen Untersuchungen gelernt, also bekommst du von mir nur nutzlose Spekulation.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
@@ -822,12 +822,12 @@ Er schnaubt. "Ach, schließe deinen Mund. Ich habe es von dir erwartet. Wenn dir
     <Entry>
       <ID>152</ID>
       <DefaultText>"Du lernst langsam, wie ich sehe.“</DefaultText>
-      <FemaleText>"Du lernst langsam, wie ich sehe.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
       <DefaultText>"Matkina redet immer davon, wie du sie hintergangen bist. Was ist zwischen euch zweien geschehen?“</DefaultText>
-      <FemaleText>"Matkina redet immer davon, wie du sie hintergangen bist. Was ist zwischen euch zweien geschehen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
@@ -848,16 +848,14 @@ Er starrt sie etwas intensiver an. "Sieht aus, als hättest du schon viel Erfahr
     <Entry>
       <ID>156</ID>
       <DefaultText>"Jetzt gibt mir ein Leichenesser Ratschläge? Meinen Dank, aber ich halte meinen eigenen Rat.“</DefaultText>
-      <FemaleText>"Jetzt gibt mir ein Leichenesser Ratschläge? Meinen Dank, aber ich halte meinen eigenen Rat.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
       <DefaultText>Er lächelt glückselig. "Ja genau, verwirf den Rat des Mannes, der Jahrhunderte alt ist und das Wissen von unzähligen Lebenszeiten hat. Das ist die beste Entscheidung, die du heute getroffen hast, da bin ich mir sicher.“
 
 Er krümmt dir eine Augenbraue zu. "Dies ist ein Grund, warum die meisten uns nicht mehr mit Sterblichen verkehren, außer, wenn wir es müssen. Wir haben so gute Ratschläge für sie und sie ignorieren sie immer.“</DefaultText>
-      <FemaleText>Er lächlet glückselig. "Ja genau, verwerfe den Rat des Mannes, der Jahrhunderte alt ist und das Wissen von unzähligen Lebenszeiten hat. Das ist die beste Entscheidung, die du heute getroffen hast, da bin ich mir sicher.“
-
-Er krümmt dir eine Augenbraue zu. "Dies ist ein Grund, warum die meisten uns nicht mehr mit Sterblichen verkehren, außer, wenn wir es müssen. Wir haben so gute Ratschläge für sie und sie ignorieren sie immer.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
