@@ -27,7 +27,7 @@
     <Entry>
       <ID>9</ID>
       <DefaultText>"Euer Streit war doch auf die Endlose Schlacht bezogen. Ist das warum die Schlacht weiter andauert?“</DefaultText>
-      <FemaleText>"Euer Streit war doch auf die Endlose Schlacht bezogen. Ist das warum die Schlacht weiter andauert?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -47,17 +47,17 @@
     <Entry>
       <ID>19</ID>
       <DefaultText>"Jetzt, dass Andronus nicht in mein Ohr schreit?“ sagt sie und gibt dir ein Zwinkern. "Absolut.“</DefaultText>
-      <FemaleText>"Jetzt, dass Andronus nicht in mein Ohr schreit?“ sagt sie und gibt dir ein Zwinkern. "Absolut.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>"Wie du es nicht glauben würdest.“</DefaultText>
-      <FemaleText>"Wie du es nicht glauben würdest.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>"Fühlt du dich jetzt etwas besser als zuvor?“</DefaultText>
-      <FemaleText>"Fühlt du dich jetzt etwas besser als zuvor?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -79,9 +79,7 @@
       <DefaultText>Das Gesicht dieses Mannes ist errötet und wütend. Venen pochen auf seiner Stirn und seine Augen blicekn auf seine Gefährtin.
 
 "Sei. Ruhig. Raima.“ Er spuckt jedes Wort aus und greift seinen Waffengürtel mit blutleeren Fingern. "Sei ruhig, oder ich beweise dir jetzt, wie falsch du liegst.“</DefaultText>
-      <FemaleText>Das Gesicht dieses Mannes ist errötet und wütend. Venen pochen auf seiner Stirn und seine Augen blicekn auf seine Gefährtin.
-
-"Sei. Ruhig. Raima.“ Er spuckt jedes Wort aus und greift seinen Waffengürtel mit blutleeren Fingern. "Sei ruhig, oder ich beweise dir jetzt, wie falsch du liegst.“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
