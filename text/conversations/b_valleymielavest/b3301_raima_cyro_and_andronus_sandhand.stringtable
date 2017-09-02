@@ -9,14 +9,12 @@
       <DefaultText>Das Gesicht dieses Mannes ist errötet und wütend. Venen pochen auf seiner Stirn und seine Augen blicekn auf seine Gefährtin.
 
 "Sei. Ruhig. Raima.“ Er spuckt jedes Wort aus und greift seinen Waffengürtel mit blutleeren Fingern. "Sei ruhig, oder ich beweise dir jetzt, wie falsch du liegst.“</DefaultText>
-      <FemaleText>Das Gesicht dieses Mannes ist errötet und wütend. Venen pochen auf seiner Stirn und seine Augen blicekn auf seine Gefährtin.
-
-"Sei. Ruhig. Raima.“ Er spuckt jedes Wort aus und greift seinen Waffengürtel mit blutleeren Fingern. "Sei ruhig, oder ich beweise dir jetzt, wie falsch du liegst.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Den Blicken nach zu Urteilen, die Raima und Andronus dir geben, hast du gerade eine vielversprechende Tangente ihres anscheinend endlosen Streites unterbrochen.</DefaultText>
-      <FemaleText>Den Blicken nach zu Urteilen, die Raima und Andronus dir geben, hast du gerade eine vielversprechende Tangente ihres anscheinend endlosen Streites unterbrochen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -31,36 +29,34 @@
     <Entry>
       <ID>5</ID>
       <DefaultText>"Entschuldigung.“</DefaultText>
-      <FemaleText>"Entschuldigung.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>"Genug!“</DefaultText>
-      <FemaleText>"Genug!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>"Das ist kein gutes Verhalten für eine Familie.“</DefaultText>
-      <FemaleText>"Das ist kein gutes Verhalten für eine Familie.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>"Was!“ schreien sie gleichzeitig und wenden sich zu dir.</DefaultText>
-      <FemaleText>"Was!“ schreien sie gleichzeitig und wenden sich zu dir.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>Sie halten mitten im Geschrei an, atemlos und still, und wenden sich zu dir.
 
 Sie blinken gleichzeitig.</DefaultText>
-      <FemaleText>Sie halten mitten im Geschrei an, atemlos und still, und wenden sich zu dir.
-
-Sie blinken gleichzeitig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Sie werden gleichzeitig still und ungläubig, dann wenden sie sich zu dir.</DefaultText>
-      <FemaleText>Sie werden gleichzeitig still und ungläubig, dann wenden sie sich zu dir.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -70,27 +66,27 @@ Sie blinken gleichzeitig.</FemaleText>
     <Entry>
       <ID>12</ID>
       <DefaultText>"Wovon redet ihr?"</DefaultText>
-      <FemaleText>"Wovon redet ihr?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>"Keiner von euch hat mir gesagt, worüber ihr euch streitet.“</DefaultText>
-      <FemaleText>"Keiner von euch hat mir gesagt, worüber ihr euch streitet.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>"Am besten hälst du dich raus,“ sagt Andronus und schlägt mit der Hand durch die Luft zwischen ihm und Raima. "Jede Sekunde ihres stiefelleckenden Unsinns ist eine Verschwendung deiner Zeit.“</DefaultText>
-      <FemaleText>"Am besten hälst du dich raus,“ sagt Andronus und schlägt mit der Hand durch die Luft zwischen ihm und Raima. "Jede Sekunde ihres stiefelleckenden Unsinns ist eine Verschwendung deiner Zeit.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>"Natürlich tat ich das nicht,“ sagt Raima grinsend. "Andronus lässt nie zu, dass ich ein Wort seitlich einwerfe.“</DefaultText>
-      <FemaleText>"Natürlich tat ich das nicht,“ sagt Raima grinsend. "Andronus lässt nie zu, dass ich ein Wort seitlich einwerfe.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>"Versteck dich vor der Wahrheit so lang wie du willst,“ sagt Raima und schüttelt den Kopf. "Du weißt, dass ich Recht habe. Du *weißt* es.“</DefaultText>
-      <FemaleText>"Versteck dich vor der Wahrheit so lang wie du willst,“ sagt Raima und schüttelt den Kopf. "Du weißt, dass ich Recht habe. Du *weißt* es.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -125,17 +121,17 @@ Sie blinken gleichzeitig.</FemaleText>
     <Entry>
       <ID>23</ID>
       <DefaultText>"Reden wir noch einmal über euren Streit."</DefaultText>
-      <FemaleText>"Reden wir noch einmal über Euer Volk."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Sie reagieren wie - genau wie - mürrische Kinder. Andronus verschränkt seine Arme und wendet sich von dir weg. Raima errötet und starrt auf ihre Füße.</DefaultText>
-      <FemaleText>Sie reagieren wie - genau wie - mürrische Kinder. Andronus verschränkt seine Arme und wendet sich von dir weg. Raima errötet und starrt auf ihre Füße.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Sie warten darauf, dass du das Schweigen brichst, die Arme verschränkt und verschlossen.</DefaultText>
-      <FemaleText>Sie warten darauf, dass du das Schweigen brichst, die Arme verschränkt und verschlossen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -145,12 +141,12 @@ Sie blinken gleichzeitig.</FemaleText>
     <Entry>
       <ID>27</ID>
       <DefaultText>"Hören wir deine Seite, Raima.“</DefaultText>
-      <FemaleText>"Hören wir deine Seite, Raima.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>"Fasse deine Meinung wieder für mich zusammen, Raima.“</DefaultText>
-      <FemaleText>"Fasse deine Meinung wieder für mich zusammen, Raima.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
@@ -160,12 +156,12 @@ Sie blinken gleichzeitig.</FemaleText>
     <Entry>
       <ID>30</ID>
       <DefaultText>"Sag mir was dich beunruhigt, Andronus.“</DefaultText>
-      <FemaleText>"Sag mir was dich beunruhigt, Andronus.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>"Fasse deine Meinung wieder für mich zusammen, Andronus.“</DefaultText>
-      <FemaleText>"Fasse deine Meinung wieder für mich zusammen, Andronus.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
@@ -202,9 +198,7 @@ Sie blinken gleichzeitig.</FemaleText>
       <DefaultText>Sie schüttelt lachend den Kopf. "Die Tatsache ist, dass unser Vater dieses Heiligtum *für* uns erstellt hat, um uns vor dem Kummer zu schützen. Aber Verstecken ist keine Strategie. Letztendlich werden wir die Schlacht *hierher* bringen müssen.“
 
 Das Schimmern in ihren Augen ist ein aufgehäuftes Feuer. "Und wenn die Zeit gekommen ist, wird unser Vater eine Armee wollen, die seinen Befehlen ohne Hinterfragen befolgt. Er *ließ zu*, dass die Erste ihre Zweifel verbreitet, und die Verräter unter uns versammelten sich an ihrer Seite.“ Sie wirft Andronus einen verächtlichen Blick zu.</DefaultText>
-      <FemaleText>Sie schüttelt lachend den Kopf. "Die Tatsache ist, dass unser Vater dieses Heiligtum *für* uns erstellt hat, um uns vor dem Kummer zu schützen. Aber Verstecken ist keine Strategie. Letztendlich werden wir die Schlacht *hierher* bringen müssen.“
-
-Das Schimmern in ihren Augen ist ein aufgehäuftes Feuer. "Und wenn die Zeit gekommen ist, wird unser Vater eine Armee wollen, die seinen Befehlen ohne Hinterfragen befolgt. Er *ließ zu*, dass die Erste ihre Zweifel verbreitet, und die Verräter unter uns versammelten sich an ihrer Seite.“ Sie wirft Andronus einen verächtlichen Blick zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -213,11 +207,7 @@ Das Schimmern in ihren Augen ist ein aufgehäuftes Feuer. "Und wenn die Zeit gek
 "Aber Raima... hör mal, ich weiß, wie sie sich fühlt. Der Kummer verfolgt uns allen. Es ist *nett* zu denken, dass der Wandelnde Gott einen Plan hat, um uns zu beschützen. Es ist einfach nicht wahr. *Ich* weiß es.“
 
 Er blitzt Raima an, dann blickt er wieder zu dir.</DefaultText>
-      <FemaleText>Er bellt ein bitteres Lachen aus. "Wusstest du, dass er den ganzen Krieg aus *meinem* Körper entfacht hat? Er machte die Erste auf mich wütend, dann schmiss er diese Hülle weg, und ließ mich mit den Folgen fertig auskommen. Nur gut, dass die Erste den Unterschied zwischen einem Gesicht und einem Verstand kennt.“ Er reibt sich die Augen.
-
-"Aber Raima... hör mal, ich weiß, wie sie sich fühlt. Der Kummer verfolgt uns allen. Es ist *nett* zu denken, dass der Wandelnde Gott einen Plan hat, um uns zu beschützen. Es ist einfach nicht wahr. *Ich* weiß es.“
-
-Er blitzt Raima an, dann blickt er wieder zu dir.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
@@ -227,22 +217,22 @@ Er blitzt Raima an, dann blickt er wieder zu dir.</FemaleText>
     <Entry>
       <ID>44</ID>
       <DefaultText>"Man muss die Logik unseres Vaters bewundern.“ sagt sie und zuckt mit den Schultern. "Wir werden erst mit den Schwächsten von uns fertig und dann treten wir dem Feind entgegen, der uns alle tot haben will.“</DefaultText>
-      <FemaleText>"Man muss die Logik unseres Vaters bewundern.“ sagt sie und zuckt mit den Schultern. "Wir werden erst mit den Schwächsten von uns fertig und dann treten wir dem Feind entgegen, der uns alle tot haben will.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>"Du spürst es auch, oder?“ sagt sie, während ihre Augen deine betrachten. "Wir sterben alle, wenn wir geteilt sind, wenn wir dem Kummer entgegentreten. Es ist besser, wenn wir zuerst mit dem Schwächsten unter uns abfertigen.“</DefaultText>
-      <FemaleText>"Du spürst es auch, oder?“ sagt sie, während ihre Augen deine betrachten. "Wir sterben alle, wenn wir geteilt sind, wenn wir dem Kummer entgegentreten. Es ist besser, wenn wir zuerst mit dem Schwächsten unter uns abfertigen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>"Andronus würden uns alle eher tot sehen, als dass wir unserem Vater dienen.“ Sie schüttelt den Kopf. "Unser Ziel ist einfach - wir helfen ihm beim Erfolg, sodass die größte Zahl von uns überleben kann.“</DefaultText>
-      <FemaleText>"Andronus würden uns alle eher tot sehen, als dass wir unserem Vater dienen.“ Sie schüttelt den Kopf. "Unser Ziel ist einfach - wir helfen ihm beim Erfolg, sodass die größte Zahl von uns überleben kann.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>"Selbst wenn, ich bin sicher, dass es unseren Vater gekränkt hat, als er erfuhr, dass so viele von seinen Kindern ihm misstrauen,“ sagt sie und senkt ihre Augen. "Stell dir vor, wie sich das anfühlen muss. Zu wissen, dass du einige von deinen Kindern töten musst, um den Rest zu retten.“</DefaultText>
-      <FemaleText>"Selbst wenn, ich bin sicher, dass es unseren Vater gekränkt hat, als er erfuhr, dass so viele von seinen Kindern ihm misstrauen,“ sagt sie und senkt ihre Augen. "Stell dir vor, wie sich das anfühlen muss. Zu wissen, dass du einige von deinen Kindern töten musst, um den Rest zu retten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -261,17 +251,17 @@ Sie lächelt dich leicht an. "Und du wirst dabei sein, stimmt's? Du bist einer v
     <Entry>
       <ID>50</ID>
       <DefaultText>"Es gibt einen Unterschied zwischen Wunschdenken und lebensmüdem Schwachsinn, und sie tanzt darauf. Sie muss die Wahrheit einsehen - wir sind auf uns selbst angewiesen, und diese Schlacht wird uns alle totbekommen.“</DefaultText>
-      <FemaleText>"Es gibt einen Unterschied zwischen Wunschdenken und lebensmüdem Schwachsinn, und sie tanzt darauf. Sie muss die Wahrheit einsehen - wir sind auf uns selbst angewiesen, und diese Schlacht wird uns alle totbekommen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>"Du verstehst. Ich weiß, dass du es tust. Der Wandelnde Gott will, dass wir unsere Leben wegwerfen, *ihm* zu Diensten. Also sie könnte damit einverstanden sein,“ sagt er und zeigt auf Raima. "Aber ich bin es nicht. Und ich wette, dass du es auch nicht bist.“</DefaultText>
-      <FemaleText>"Du verstehst. Ich weiß, dass du es tust. Der Wandelnde Gott will, dass wir unsere Leben wegwerfen, *ihm* zu Diensten. Also sie könnte damit einverstanden sein,“ sagt er und zeigt auf Raima. "Aber ich bin es nicht. Und ich wette, dass du es auch nicht bist.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>"Raima macht sich etwas vor. Der Wandelnde Gott würde uns alle opfern, um sich selbst zu retten. Raima will das nicht zugeben, aber das ist gleichwohl wahr.“</DefaultText>
-      <FemaleText>"Raima macht sich etwas vor. Der Wandelnde Gott würde uns alle opfern, um sich selbst zu retten. Raima will das nicht zugeben, aber das ist gleichwohl wahr.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
@@ -285,9 +275,7 @@ Sie lächelt dich leicht an. "Und du wirst dabei sein, stimmt's? Du bist einer v
       <DefaultText>"Vielleicht bewunderst du den Wandelnden Gott auch. Schwer, es nicht zu tun. Er ist mächtig. Jeder weiß, wer er ist.“
 
 Er sticht dir einen Finger zu. "Aber er würde dich ohne zu zögern tot, begraben und vergessen lassen. Wenn du im Geringsten so bist, wie der Rest von uns, dann versuchte er es bereits am Tag deiner Geburt.“</DefaultText>
-      <FemaleText>"Vielleicht bewunderst du den Wandelnden Gott auch. Schwer, es nicht zu tun. Er ist mächtig. Jeder weiß, wer er ist.“
-
-Er sticht dir einen Finger zu. "Aber er würde dich ohne zu zögern tot, begraben und vergessen lassen. Wenn du im Geringsten so bist, wie der Rest von uns, dann versuchte er es bereits am Tag deiner Geburt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -297,7 +285,7 @@ Er sticht dir einen Finger zu. "Aber er würde dich ohne zu zögern tot, begrabe
     <Entry>
       <ID>56</ID>
       <DefaultText>"Euer Streit war doch auf die Endlose Schlacht bezogen. Ist das warum die Schlacht weiter andauert?“</DefaultText>
-      <FemaleText>"Euer Streit war doch auf die Endlose Schlacht bezogen. Ist das warum die Schlacht weiter andauert?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
@@ -307,7 +295,7 @@ Er sticht dir einen Finger zu. "Aber er würde dich ohne zu zögern tot, begrabe
     <Entry>
       <ID>58</ID>
       <DefaultText>"Ja.“ schnaubt er. "Es ist so. Immer, wenn unser Vater die Möglichkeit dazu hat, gibt er unsere Leben aus wie eine lockere Handvoll Shin. Wir kämpfen weiter, um ihn aufzuhalten.“ Er grinst mitleidlos. "Um ihn niederzureißen.“</DefaultText>
-      <FemaleText>"Ja.“ schnaubt er. "Es ist so. Immer, wenn unser Vater die Möglichkeit dazu hat, gibt er unsere Leben aus wie eine lockere Handvoll Shin. Wir kämpfen weiter, um ihn aufzuhalten.“ Er grinst mitleidlos. "Um ihn niederzureißen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
@@ -317,22 +305,22 @@ Er sticht dir einen Finger zu. "Aber er würde dich ohne zu zögern tot, begrabe
     <Entry>
       <ID>60</ID>
       <DefaultText>"Ja.“ schnaubt er und wirft Raima einen finsteren Blick zu. "Es ist so. Immer, wenn unser Vater die Möglichkeit dazu hat, gibt er unsere Leben aus wie eine lockere Handvoll Shin. Wir kämpfen weiter, um ihn aufzuhalten.“ Er grinst mitleidlos. "Um ihn niederzureißen.“</DefaultText>
-      <FemaleText>"Ja.“ schnaubt er und wirft Raima einen finsteren Blick zu. "Es ist so. Immer, wenn unser Vater die Möglichkeit dazu hat, gibt er unsere Leben aus wie eine lockere Handvoll Shin. Wir kämpfen weiter, um ihn aufzuhalten.“ Er grinst mitleidlos. "Um ihn niederzureißen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
       <DefaultText>"Du Idiot,“ sagt sie, aber mit richtigem Hass. "Unser Vater macht nie einen Schritt, ohne zu wissen, dass er gewinnen wird. Wir sind stärker als ihr, und wir haben das Recht auf unserer Seite. Ihr werdet diesen Krieg bis auf den letzten Soldaten verlieren, *dann* wirst du einsehen, dass ich Recht habe.“</DefaultText>
-      <FemaleText>"Du Idiot,“ sagt sie, aber mit richtigem Hass. "Unser Vater macht nie einen Schritt, ohne zu wissen, dass er gewinnen wird. Wir sind stärker als ihr, und wir haben das Recht auf unserer Seite. Ihr werdet diesen Krieg bis auf den letzten Soldaten verlieren, *dann* wirst du einsehen, dass ich Recht habe.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
       <DefaultText>"Sprechen wir über etwas anderes."</DefaultText>
-      <FemaleText>"Sprechen wir über etwas anderes."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>"Sicher, warum nicht?"</DefaultText>
-      <FemaleText>"Sicher, warum nicht?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
@@ -342,26 +330,24 @@ Er sticht dir einen Finger zu. "Aber er würde dich ohne zu zögern tot, begrabe
     <Entry>
       <ID>65</ID>
       <DefaultText>"Ich habe eure Meinungen gehört. Ich bin bereit, euren Streit zu lösen.“</DefaultText>
-      <FemaleText>"Ich habe eure Meinungen gehört. Ich bin bereit, euren Streit zu lösen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
       <DefaultText>"Ich bin bereit, euren Streit zu lösen.“</DefaultText>
-      <FemaleText>"Ich bin bereit, euren Streit zu lösen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
       <DefaultText>Andronus und Raima werden still und stoisch, sie zeigen keinerlei Emotion, die sie zuvor aufgewiesen haben. In diesem Moment sehen sie sich sehr ähnlich aus.
 
 Wie Familie.</DefaultText>
-      <FemaleText>Andronus und Raima werden still und stoisch, sie zeigen keinerlei Emotion, die sie zuvor aufgewiesen haben. In diesem Moment sehen sie sich sehr ähnlich aus.
-
-Wie Familie.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
       <DefaultText>Sie spannen sich an und erwarten deine Entscheidung.</DefaultText>
-      <FemaleText>Sie spannen sich an und erwarten deine Entscheidung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
@@ -371,76 +357,74 @@ Wie Familie.</FemaleText>
     <Entry>
       <ID>70</ID>
       <DefaultText>"Raima, er hat Recht. Unser Erzeuger schert sich nicht um uns. Etwas Zeit außerhalb Miel Avest könnte dich vielleicht davon überzeugen. Geh.“</DefaultText>
-      <FemaleText>"Raima, er hat Recht. Unser Erzeuger schert sich nicht um uns. Etwas Zeit außerhalb Miel Avest könnte dich vielleicht davon überzeugen. Geh.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
       <DefaultText>"Andronus, sie hat Recht. Du hasst es eindeutig, hier zu sein. Gehe, bevor dieser Streit Gewalt annimmt.“</DefaultText>
-      <FemaleText>"Andronus, sie hat Recht. Du hasst es eindeutig, hier zu sein. Gehe, bevor dieser Streit Gewalt annimmt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>"Könnt ihr das nicht beenden? Wir sind schließlich Familie.“</DefaultText>
-      <FemaleText>"Könnt ihr das nicht beenden? Wir sind schließlich Familie.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
       <DefaultText>"Genau, Andronus,“ sagt sie und wendet sich höflich zu ihrem Gefährten. "Wir *sind* Familie. Und manche von uns sind diesem ehrwürdigen Bund hintergangen. Du musst dich *furchtbar* fühlen.“</DefaultText>
-      <FemaleText>"Genau, Andronus,“ sagt sie und wendet sich höflich zu ihrem Gefährten. "Wir *sind* Familie. Und manche von uns sind diesem ehrwürdigen Bund hintergangen. Du musst dich *furchtbar* fühlen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
       <DefaultText>"Genug!“ bellt er. "Ich kann dein Blut nicht hier vergießen, aber ich kann dich verdammt nochmal außerhalb Miel Avest niedermetzeln. Lasst uns gehen.“</DefaultText>
-      <FemaleText>"Genug!“ bellt er. "Ich kann dein Blut nicht hier vergießen, aber ich kann dich verdammt nochmal außerhalb Miel Avest niedermetzeln. Lasst uns gehen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
       <DefaultText>"Habt ihr zwei vergessen, dass der Kummer da draußen ist?“</DefaultText>
-      <FemaleText>"Habt ihr zwei vergessen, dass der Kummer da draußen ist?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
       <DefaultText>Sie gehen lassen.</DefaultText>
-      <FemaleText>Sie gehen lassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
       <DefaultText>Sie machen eine Pause. Die Wut lässt in kleine Schritten von ihren Gesichtern ab.</DefaultText>
-      <FemaleText>Sie machen eine Pause. Die Wut lässt in kleine Schritten von ihren Gesichtern ab.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
       <DefaultText>"Ich werde bald zurück sein,“ sagt er mit einer hämischen Welle.</DefaultText>
-      <FemaleText>"Ich werde bald zurück sein,“ sagt er mit einer hämischen Welle.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
       <DefaultText>"Nein. Das wirst du nicht.“</DefaultText>
-      <FemaleText>"Nein. Das wirst du nicht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
       <DefaultText>"Wollt ihr wirklich die Waffenruhe brechen, um einander zu töten, wegen einer Meinungsverschiedenheit?“</DefaultText>
-      <FemaleText>"Wollt ihr wirklich die Waffenruhe brechen, um einander zu töten, wegen einer Meinungsverschiedenheit?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
       <DefaultText>Andronus öffnet seinen Mund und schließt ihn nachdenklich. Schließlich spricht er.
 
 "Du hast Recht. Wir sind hier in Sicherheit, aber der Kummer umkreist uns wenn die Gerüchte stimmen. Ich will nicht, dass er seine Arbeit verrichtet.“</DefaultText>
-      <FemaleText>Andronus öffnet seinen Mund und schließt ihn nachdenklich. Schließlich spricht er.
-
-"Du hast Recht. Wir sind hier in Sicherheit, aber der Kummer umkreist uns wenn die Gerüchte stimmen. Ich will nicht, dass er seine Arbeit verrichtet.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
       <DefaultText>"Also gut,“ sagt sie und atmet stümperhaft aus. "Nur... lasst uns über etwas anderes reden, Andronus. Können wir das tun?“</DefaultText>
-      <FemaleText>"Also gut,“ sagt sie und atmet stümperhaft aus. "Nur... lasst uns über etwas anderes reden, Andronus. Können wir das tun?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
       <DefaultText>"Für's erste? Gern.“</DefaultText>
-      <FemaleText>"Für's erste? Gern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
@@ -450,17 +434,17 @@ Wie Familie.</FemaleText>
     <Entry>
       <ID>86</ID>
       <DefaultText>"Ich will, dass ihr diesen Streit sofort beendet. Keiner von euch hat Recht.“</DefaultText>
-      <FemaleText>"Ich will, dass ihr diesen Streit sofort beendet. Keiner von euch hat Recht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>Sie starren dich in sprachloser Überraschung an.</DefaultText>
-      <FemaleText>Sie starren dich in sprachloser Überraschung an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
       <DefaultText>"Was?“ sagt sie und erbleicht. "Wir haben keine Gesetze gebrochen!“</DefaultText>
-      <FemaleText>"Was?“ sagt sie und erbleicht. "Wir haben keine Gesetze gebrochen!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
@@ -482,42 +466,42 @@ Wie Familie.</FemaleText>
     <Entry>
       <ID>92</ID>
       <DefaultText>"Pass auf dich auf, Andronus,“ sagt sie herzig. "Ich höre, dass es da draußen gefährlich ist.“</DefaultText>
-      <FemaleText>"Pass auf dich auf, Andronus,“ sagt sie herzig. "Ich höre, dass es da draußen gefährlich ist.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
       <DefaultText>::seufz::</DefaultText>
-      <FemaleText>::seufz::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
       <DefaultText>"Und ihn lassen, um sein Gift zu verbreiten? Na schön,“ spuckt sie und wendet sich zur Brücke.</DefaultText>
-      <FemaleText>"Und ihn lassen, um sein Gift zu verbreiten? Na schön,“ spuckt sie und wendet sich zur Brücke.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
       <DefaultText>"Sei nicht sauer, Raima,“ sagt Andronus grinsend. "Viellecht wollte es der Wandelnde Gott so.“</DefaultText>
-      <FemaleText>"Sei nicht sauer, Raima,“ sagt Andronus grinsend. "Viellecht wollte es der Wandelnde Gott so.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
       <DefaultText>::murrt::</DefaultText>
-      <FemaleText>::murrt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
       <DefaultText>::kichert::</DefaultText>
-      <FemaleText>::kichert::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
       <DefaultText>"Willkommen zurück,“ sagt er nickend. "Weißt du, ich frage mich, wie es Raima da draußen geht.“</DefaultText>
-      <FemaleText>"Willkommen zurück,“ sagt er nickend. "Weißt du, ich frage mich, wie es Raima da draußen geht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
       <DefaultText>Den Blicken nach zu Urteilen, die Raima und Andronus dir geben, hast du gerade eine vielversprechende Tangente ihres Streites unterbrochen.</DefaultText>
-      <FemaleText>Den Blicken nach zu Urteilen, die Raima und Andronus dir geben, hast du gerade eine vielversprechende Tangente ihres Streites unterbrochen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
@@ -537,37 +521,37 @@ Wie Familie.</FemaleText>
     <Entry>
       <ID>106</ID>
       <DefaultText>"Du denkst, dass du alles verstehst, oder?“</DefaultText>
-      <FemaleText>"Du denkst, dass du alles verstehst, oder?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
       <DefaultText>"Natürlich tu ich das. Jeder mit einem Bisschen Vernunft tut das.“</DefaultText>
-      <FemaleText>"Natürlich tu ich das. Jeder mit einem Bisschen Vernunft tut das.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
       <DefaultText>"Ohne ihn würdest du um dein Leben laufen, statt dass du hier stehst und deinen Mund laufen lässt.“</DefaultText>
-      <FemaleText>"Ohne ihn würdest du um dein Leben laufen, statt dass du hier stehst und deinen Mund laufen lässt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
       <DefaultText>"Oh, also hat er jetzt Miel Avest ganz alleine gebaut?“</DefaultText>
-      <FemaleText>"Oh, also hat er jetzt Miel Avest ganz alleine gebaut?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
       <DefaultText>"Warum eigentlich nicht. Die Verräterin zählt nicht.“</DefaultText>
-      <FemaleText>"Warum eigentlich nicht. Die Verräterin zählt nicht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
       <DefaultText>::knurrt::</DefaultText>
-      <FemaleText>::knurrt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
       <DefaultText>"Das ist *genau*, wie sich unsere Familie benimmt,“ murmelt sie an deiner Seite. "Gewöhn dich daran.“</DefaultText>
-      <FemaleText>"Das ist *genau*, wie sich unsere Familie benimmt,“ murmelt sie an deiner Seite. "Gewöhn dich daran.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
@@ -577,42 +561,42 @@ Wie Familie.</FemaleText>
     <Entry>
       <ID>114</ID>
       <DefaultText>Mit Zähneknirschen schüttelt Andronus lediglich den Kopf.</DefaultText>
-      <FemaleText>Mit Zähneknirschen schüttelt Andronus lediglich den Kopf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
       <DefaultText>"Warum sollte ich?“ sagt Andronus mit einem bitteren Lachen. "All deine Worte sind *seine*, und von ihm habe ich mein Leben lang genug.“</DefaultText>
-      <FemaleText>"Warum sollte ich?“ sagt Andronus mit einem bitteren Lachen. "All deine Worte sind *seine*, und von ihm habe ich mein Leben lang genug.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
       <DefaultText>"Also gut,“ murmelt sie schließlich. "Sag uns, was du wissen willst.“</DefaultText>
-      <FemaleText>"Also gut,“ murmelt sie schließlich. "Sag uns, was du wissen willst.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
       <DefaultText>"Warum nicht. Ich habe nichts zu verbergen.“</DefaultText>
-      <FemaleText>"Warum nicht. Ich habe nichts zu verbergen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
       <DefaultText>"Ich muss mehr über deine Meinung hören.“</DefaultText>
-      <FemaleText>"Ich muss mehr über deine Meinung hören.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
       <DefaultText>"Sicher doch. Frag, was du willst.“</DefaultText>
-      <FemaleText>"Sicher doch. Frag, was du willst.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
       <DefaultText>Gezeit T. 124</DefaultText>
-      <FemaleText>Gezeit T. 124</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
       <DefaultText>"Ich denke, dass der Aufstand der Ersten alles Teil des größeren Plans unseres Vaters ist. Andronus kann das einfach nicht akzeptieren.“</DefaultText>
-      <FemaleText>"Ich denke, dass der Aufstand der Ersten alles Teil des größeren Plans unseres Vaters ist. Andronus kann das einfach nicht akzeptieren.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
@@ -622,7 +606,7 @@ Wie Familie.</FemaleText>
     <Entry>
       <ID>127</ID>
       <DefaultText>"Ich denke, dass unser Vater die Erste rebellieren ließ.“ Sie schüttelt den Kopf. "Es ist nicht einfach, Familie töten. Aber wenn wir keine Opfer bringen, werden wir alle verloren sein wenn der Kummer kommt.“</DefaultText>
-      <FemaleText>"Ich denke, dass unser Vater die Erste rebellieren ließ.“ Sie schüttelt den Kopf. "Es ist nicht einfach, Familie töten. Aber wenn wir keine Opfer bringen, werden wir alle verloren sein wenn der Kummer kommt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
@@ -632,12 +616,12 @@ Wie Familie.</FemaleText>
     <Entry>
       <ID>129</ID>
       <DefaultText>"Ich denke, unser Vater hat die Erste zum Rebellieren ausgetrickst, damit sie die Verräter unter uns zu sich zieht. Sobald wir mit ihnen fertig sind, werden wir bereit sein, an der Seite unseres Vaters den Kummer zu bekämpfen.“</DefaultText>
-      <FemaleText>"Ich denke, unser Vater hat die Erste zum Rebellieren ausgetrickst, damit sie die Verräter unter uns zu sich zieht. Sobald wir mit ihnen fertig sind, werden wir bereit sein, an der Seite unseres Vaters den Kummer zu bekämpfen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
       <DefaultText>Gezeit T. 130</DefaultText>
-      <FemaleText>Gezeit T. 130</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
@@ -652,7 +636,7 @@ Wie Familie.</FemaleText>
     <Entry>
       <ID>133</ID>
       <DefaultText>"Raima kann nicht zugeben, dass der Wandelnde Gott sich um keinen von uns kümmert. Er würde jeden einzelnen von uns für eine weitere Sekunde Leben eintauschen.“</DefaultText>
-      <FemaleText>"Raima kann nicht zugeben, dass der Wandelnde Gott sich um keinen von uns kümmert. Er würde jeden einzelnen von uns für eine weitere Sekunde Leben eintauschen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
@@ -662,7 +646,7 @@ Wie Familie.</FemaleText>
     <Entry>
       <ID>135</ID>
       <DefaultText>"Raima kann nicht zugeben, dass der Wandelnde Gott sich für was Besseres als jeden einzelnen von uns hält. Für ihn sind wir nur Werkzeuge. Spielzeuge.“</DefaultText>
-      <FemaleText>"Raima kann nicht zugeben, dass der Wandelnde Gott sich für was Besseres als jeden einzelnen von uns hält. Für ihn sind wir nur Werkzeuge. Spielzeuge.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
@@ -678,16 +662,12 @@ Sie belächelt Andronus. "Wenn du sein Heiligtum so sehr hasst, warum gehst du n
 "Oh, das löst natürlich alles,“ sagt sie grinsend. "Danke für deine 'Weisheit'.“
 
 Sie wendet sich wieder zu Andronus. "Und ich dachte, dass *du* naiv wärst.“</DefaultText>
-      <FemaleText>Raima findet zuerst ihre Worte.
-
-"Oh, das löst natürlich alles,“ sagt sie grinsend. "Danke für deine 'Weisheit'.“
-
-Sie wendet sich wieder zu Andronus. "Und ich dachte, dass *du* naiv wärst.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
       <DefaultText>"Gerne doch,“ schnappt sie mit gereizt erröteten Wangen.</DefaultText>
-      <FemaleText>"Gerne doch,“ schnappt sie mit nervösen Wangen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
@@ -712,12 +692,12 @@ Sie wendet sich wieder zu Andronus. "Und ich dachte, dass *du* naiv wärst.“</
     <Entry>
       <ID>150</ID>
       <DefaultText>"Zu lange.“</DefaultText>
-      <FemaleText>"Zu lange.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
       <DefaultText>"Einverstanden.“</DefaultText>
-      <FemaleText>"Einverstanden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
@@ -747,7 +727,7 @@ Sie wendet sich wieder zu Andronus. "Und ich dachte, dass *du* naiv wärst.“</
     <Entry>
       <ID>157</ID>
       <DefaultText>"Oh, ja. Sehr.“</DefaultText>
-      <FemaleText>"Oh, ja. Sehr.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
@@ -762,27 +742,27 @@ Sie wendet sich wieder zu Andronus. "Und ich dachte, dass *du* naiv wärst.“</
     <Entry>
       <ID>161</ID>
       <DefaultText>"Weil 'Keiner von uns Recht hat'.“ Sie schnauft. "Ich denke, wir haben ganug darüber geredet.“</DefaultText>
-      <FemaleText>"Weil 'Keiner von uns Recht hat'.“ Sie schnauft. "Ich denke, wir haben ganug darüber geredet.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
       <DefaultText>"Dachte Aadiriis wirklich, dass *du* das für uns lösen könntest?“</DefaultText>
-      <FemaleText>"Dachte Aadiriis wirklich, dass *du* das für uns lösen könntest?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
       <DefaultText>Sie kichert vor sich hin und streicht ihre Hand über ihr Haarboden.</DefaultText>
-      <FemaleText>Sie kichert vor sich hin und streicht ihre Hand über ihr Haarboden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
       <DefaultText>"Zunächst einmal, worüber streitet ihr euch genau?“</DefaultText>
-      <FemaleText>"Zunächst einmal, worüber streitet ihr euch genau?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
       <DefaultText>Die beiden schauen sich einen Moment lang misstrauisch an, als ob der, der zuerst redet, das Argument verliert.</DefaultText>
-      <FemaleText>Die beiden schauen sich einen Moment lang misstrauisch an, als ob der, der zuerst redet, das Argument verliert.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
@@ -794,26 +774,24 @@ Sie nickt widerwillig.</DefaultText>
     <Entry>
       <ID>170</ID>
       <DefaultText>"Bevor ich irgendeine Entscheidung fälle, was für eine Lösung würde euch beide zufriedenstellen?“</DefaultText>
-      <FemaleText>"Bevor ich irgendeine Entscheidung fälle, was für eine Lösung würde euch beide zufriedenstellen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
       <DefaultText>"Ich weiß nicht,“ sagt er und schaut auf Raima. "Nichts, was du sagen könntest, würde uns zur anderen Seite umstimmen. Und Entschuldigungen an Aadiriis *will* ich mich gar nicht mit Raima vertragen. Ich habe sie schon viel zu lange gehasst. Nichts für ungut.“</DefaultText>
-      <FemaleText>"Ich weiß nicht,“ sagt er und schaut auf Raima. "Nichts, was du sagen könntest, würde uns zur anderen Seite umstimmen. Und Entschuldigungen an Aadiriis *will* ich mich gar nicht mit Raima vertragen. Ich habe sie schon viel zu lange gehasst. Nichts für ungut.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
       <DefaultText>Ihre Lippe krümmt sich.
 
 "Stört mich ehrlich gesagt nicht.“ Sie schaut zu dir. "Und... wir brauchen eine Entscheidung. Du *kannst* uns nicht beide zufriedenstellen. Unsere Ansichtsweisen werden sich nie einreihen.“</DefaultText>
-      <FemaleText>Ihre Lippe krümmt sich.
-
-"Stört mich ehrlich gesagt nicht.“ Sie schaut zu dir. "Und... wir brauchen eine Entscheidung. Du *kannst* uns nicht beide zufriedenstellen. Unsere Ansichtsweisen werden sich nie einreihen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
       <DefaultText>Einen Moment lang spricht keiner von ihnen. Ihre Gesichter sind identische Skulpturen der Überraschung.</DefaultText>
-      <FemaleText>Einen Moment lang spricht keiner von ihnen. Ihre Gesichter sind identische Skulpturen der Überraschung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
@@ -823,12 +801,12 @@ Sie nickt widerwillig.</DefaultText>
     <Entry>
       <ID>177</ID>
       <DefaultText>"Schön zu sehen, dass ihr miteinander klarkommt.“</DefaultText>
-      <FemaleText>"Schön zu sehen, dass ihr miteinander klarkommt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
       <DefaultText>"Kommt ihr zwei immernoch miteinander klar?“</DefaultText>
-      <FemaleText>"Kommt ihr zwei immernoch miteinander klar?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
@@ -843,7 +821,7 @@ Sie nickt widerwillig.</DefaultText>
     <Entry>
       <ID>181</ID>
       <DefaultText>Sie betrachten misstrauisch, dann setzen sie ihre gemurmelte Diskussion fort.</DefaultText>
-      <FemaleText>Sie betrachten misstrauisch, dann setzen sie ihre gemurmelte Diskussion fort.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
@@ -853,12 +831,12 @@ Sie nickt widerwillig.</DefaultText>
     <Entry>
       <ID>183</ID>
       <DefaultText>::schnauf::</DefaultText>
-      <FemaleText>::schnauf::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
       <DefaultText>"Es muss schwer für dich sein, dauernd falsch zu liegen.“</DefaultText>
-      <FemaleText>"Es muss schwer für dich sein, dauernd falsch zu liegen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
@@ -868,12 +846,12 @@ Sie nickt widerwillig.</DefaultText>
     <Entry>
       <ID>187</ID>
       <DefaultText>"Wir können das lösen. Reden wir wieder über euren Streit.“</DefaultText>
-      <FemaleText>"Wir können das lösen. Reden wir wieder über euren Streit.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
       <DefaultText>"Versuchen wir es wieder, eine Lösung zu finden.“</DefaultText>
-      <FemaleText>"Versuchen wir es wieder, eine Lösung zu finden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
@@ -888,7 +866,7 @@ Sie nickt widerwillig.</DefaultText>
     <Entry>
       <ID>191</ID>
       <DefaultText>"Friede in unserer Zeit! Wer hätte es gedacht?“</DefaultText>
-      <FemaleText>"Friede in unserer Zeit! Wer hätte es gedacht?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
