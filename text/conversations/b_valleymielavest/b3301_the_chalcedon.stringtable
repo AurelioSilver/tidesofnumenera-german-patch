@@ -22,26 +22,24 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>"Wer bist du?"</DefaultText>
-      <FemaleText>"Wer bist du?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>"Wer bist du noch mal?"</DefaultText>
-      <FemaleText>"Wer seid ihr noch mal?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>"Ich bin der Kalkedon, Kommandant der Streitkräfte des Wandelnden Gottes in der Endlosen Schlacht, der Wächter seines großen Plans und sein Vorkämpfer.“ Er wirft eine selbstironische Hand hoch. "Nicht, dass unser Erzeuger wirklich meine Hilfe bräuchte, selbstverständlich. Aber manche hier - in dem Land, dass er für uns aufgebaut hat - würden lieber alles anerkennen, was er für uns getan hat.“
 
 Er schüttelt langsam den Kopf. "Manche dieser Meinungsverschiedenheiten können durch Erörterung gelöst werden. Aber natürlich nicht alle. Nicht alle.“</DefaultText>
-      <FemaleText>"Ich bin der Kalkedon, Kommandant der Streitkräfte des Wandlenden Gottes in der Endlosen Schlacht, der Wächter seines großen Plans und sein Vorkämpfer.“ Er wirft eine selbstironische Hand hoch. "Nicht, dass unser Erzeuger wirklich meine Hilfe bräuchte, selbstverständlich. Aber manche hier - in dem Land, dass er für uns aufgebaut hat - würden lieber alles anerkennen, was er für uns getan hat.“
-
-Er schüttelt langsam den Kopf. "Manche dieser Meinungsverschiedenheiten können durch Erörterung gelöst werden. Aber natürlich nicht alle. Nicht alle.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>"Der Kalkedon, Kommandant der Heere des Wandelnden Gottes in der Endlosen Schlacht.“</DefaultText>
-      <FemaleText>"Der Kalkedon, Kommandant der Heere des Wandelnden Gottes in der Endlosen Schlacht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -83,17 +81,17 @@ Er schüttelt langsam den Kopf. "Manche dieser Meinungsverschiedenheiten können
     <Entry>
       <ID>15</ID>
       <DefaultText>Follow-up PQ. 15</DefaultText>
-      <FemaleText>Follow-up PQ. 15</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>"Erzähl mir von diesem 'großen Plan' des Wandelnden Gottes.“</DefaultText>
-      <FemaleText>"Erzähl mir von diesem 'großen Plan' des Wandelnden Gottes.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"Erzähl mir nochmal von diesem großen Plan des Wandelnden Gottes.“</DefaultText>
-      <FemaleText>"Erzähl mir nochmal von diesem großen Plan des Wandelnden Gottes.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
@@ -107,12 +105,12 @@ Er legt eine Hand auf deine Schulter.</DefaultText>
     <Entry>
       <ID>19</ID>
       <DefaultText>"Er hat Jahrhunderte damit verbracht, stärkere und stärkere Korper zu kreieren, bevor er sie ih eigenes ein Bewusstsein gibt,“ sagt er, "Wir sind seine Waffen in seinem größeren Krieg gegen den Kummer.“</DefaultText>
-      <FemaleText>"Er hat Jahrhunderte damit verbracht, stärkere und stärkere Korper zu kreieren, bevor er sie ih eigenes ein Bewusstsein gibt,“ sagt er, "Wir sind seine Waffen in seinem größeren Krieg gegen den Kummer.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>"Der Kummer *wird* uns finden,“ sagt er. "Bevor das geschieht müssen wir den Konflikt gegeneinander beenden. Wir müssen unsere Verteidigungen vorbereiten. Wir müssen einen Weg finden, ihn aufzuhalten.“</DefaultText>
-      <FemaleText>"Der Kummer *wird* uns finden,“ sagt er. "Bevor das geschieht müssen wir den Konflikt gegeneinander beenden. Wir müssen unsere Verteidigungen vorbereiten. Wir müssen einen Weg finden, ihn aufzuhalten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
@@ -122,7 +120,7 @@ Er legt eine Hand auf deine Schulter.</DefaultText>
     <Entry>
       <ID>22</ID>
       <DefaultText>"Um was geht es bei der Endlosen Schlacht?“</DefaultText>
-      <FemaleText>"Um was geht es bei der Endlosen Schlacht?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -149,27 +147,27 @@ Der bellt ein Lachen. "Die Erste Verstoßene war nicht zufrieden. Sie verbreitet
     <Entry>
       <ID>27</ID>
       <DefaultText>"Und das bedeutet natürlich, dass du das am meisten entwickelte Kind von uns bist. Wir werden deine Intelligenz und dein taktisches Verständnis brauchen, um diesen Konflikt zu beenden.“</DefaultText>
-      <FemaleText>"Und das bedeutet natürlich, dass du das am meisten entwickelte Kind von uns bist. Wir werden deine Intelligenz und dein taktisches Verständnis brauchen, um diesen Konflikt zu beenden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>"Und das bedeutet natürlich, dass nicht nur das jüngste Kind von uns bist. Du bist ebenso das am meisten fortgeschrittene Kind. Wir werden deine Stärke brauchen, um diesen Konflikt zu beenden.“</DefaultText>
-      <FemaleText>"Und das bedeutet natürlich, dass nicht nur das jüngste Kind von uns bist. Du bist ebenso das am meisten fortgeschrittene Kind. Wir werden deine Stärke brauchen, um diesen Konflikt zu beenden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>"Und das bedeutet natürlich, dass du nicht nur das am weitesten entiwickelte Kind bist, sondern auch, dass allein deine Gegenwart uns alle erheblich stärker gemacht hat. Wir werden diesen Vorteil brauchen, um diesen Konflikt zu beenden.“</DefaultText>
-      <FemaleText>"Und das bedeutet natürlich, dass du nicht nur das am weitesten entiwickelte Kind bist, sondern auch, dass allein deine Gegenwart uns alle erheblich stärker gemacht hat. Wir werden diesen Vorteil brauchen, um diesen Konflikt zu beenden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>"Und das bedeutet natürlich, dass du das beste Kind von uns bist, und das am besten geeignete, um diesen Konflikt zu beenden.“</DefaultText>
-      <FemaleText>"Und das bedeutet natürlich, dass du das beste Kind von uns bist, und das am besten geeignete, um diesen Konflikt zu beenden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>"Und das bedeutet natürlich, dass du das stärkste Kind von uns bist. Das am weitesten fortgeschrittene, und unsere beste Hoffnung, diesen Konflikt zu beenden.“</DefaultText>
-      <FemaleText>"Und das bedeutet natürlich, dass du das stärkste Kind von uns bist. Das am weitesten fortgeschrittene, und unsere beste Hoffnung, diesen Konflikt zu beenden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
@@ -196,21 +194,19 @@ Er legt starke Hände auf deine Schultern. "Sprich mit Aadiriis, wenn du das noc
     <Entry>
       <ID>36</ID>
       <DefaultText>"Hast du in letzter Zeit den Wandlenden Gott gesehen?“</DefaultText>
-      <FemaleText>"Hast du in letzter Zeit den Wandlenden Gott gesehen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>"Nein, aber das ist nicht ungewöhnlich,“ sagt er. "Seine Strategien nehmen das meiste seiner Zeit ein, deswegen überlässt er die meiste Arbeit in der Endlosen Schlacht - und die Verhandlungen in Miel Avest - mir.“ Er lässt ein Grinsen aufzucken. "Und wie du dir vorstellen kannst, misst er die Zeit anders ab als wir.“
 
 Er kichert. "Es ist einige Jahre her, seitdem ich ihn gesehen habe. Ich bezweifle, dass unser Erzeuger es bemerkt hat.“</DefaultText>
-      <FemaleText>"Nein, aber das ist nicht ungewöhnlich,“ sagt er. "Seine Strategien nehmen das meiste seiner Zeit ein, deswegen überlässt er die meiste Arbeit in der Endlosen Schlacht - und die Verhandlungen in Miel Avest - mir.“ Er lässt ein Grinsen aufzucken. "Und wie du dir vorstellen kannst, misst er die Zeit anders ab als wir.“
-
-Er kichert. "Es ist einige Jahre her, seitdem ich ihn gesehen habe. Ich bezweifle, dass unser Erzeuger es bemerkt hat.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>"Lebwohl."</DefaultText>
-      <FemaleText>"Wiedersehen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
@@ -225,7 +221,7 @@ Er kichert. "Es ist einige Jahre her, seitdem ich ihn gesehen habe. Ich bezweifl
     <Entry>
       <ID>41</ID>
       <DefaultText>Du bemerkst die Unruhe hinter diesem Grinsen fast nicht. Den Schmerz.</DefaultText>
-      <FemaleText>Du bemerkst die Unruhe hinter diesem Grinsen fast nicht. Den Schmerz.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -237,7 +233,7 @@ Er kichert. "Es ist einige Jahre her, seitdem ich ihn gesehen habe. Ich bezweifl
     <Entry>
       <ID>43</ID>
       <DefaultText>Matkina schnaubt. Der Kalkedon ignoriert sie gänzlich.</DefaultText>
-      <FemaleText>Matkina schnaubt. Der Kalkedon ignoriert sie gänzlich.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
@@ -262,26 +258,24 @@ Er kichert. "Es ist einige Jahre her, seitdem ich ihn gesehen habe. Ich bezweifl
     <Entry>
       <ID>48</ID>
       <DefaultText>"Der *Zweck*? Der Zweck ist, dass unser Erzeuger sich gegen die Angriffe der Ersten verteidigt hat. Sie dachte, dass sie Anspruch auf sein Wissen hat, und sie dachte, dass sie es ihm mit Gewalt entreißt. Und nun?“ Er sieht einen Moment lang gequält aus und seine Stimme senkt sich. "Jetzt bin ich mir nicht sicher, ob wir den Endlosen Krieg beenden könnten, selbst wenn wir es wollten.“</DefaultText>
-      <FemaleText>"Der *Zweck*? Der Zweck ist, dass unser Erzeuger sich gegen die Angriffe der Ersten verteidigt hat. Sie dachte, dass sie Anspruch auf sein Wissen hat, und sie dachte, dass sie es ihm mit Gewalt entreißt. Und nun?“ Er sieht einen Moment lang gequält aus und seine Stimme senkt sich. "Jetzt bin ich mir nicht sicher, ob wir den Endlosen Krieg beenden könnten, selbst wenn wir es wollten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>"Selbstverteidigung. Wir kämpfen, um den Plan unseres Erzeugers für uns zu erhalten, während die anderen es anstreben, den Plan zu vernichten. Und ihn.“</DefaultText>
-      <FemaleText>"Selbstverteidigung. Wir kämpfen, um den Plan unseres Erzeugers für uns zu erhalten, während die anderen es anstreben, den Plan zu vernichten. Und ihn.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>Matkina kichert vor sich hin. Der große Mann wendet sich finster blickend zu ihr und sie hält seinem Blick stand. Er ist derjenige, der wegschaut.</DefaultText>
-      <FemaleText>Matkina kichert vor sich hin. Der große Mann wendet sich finster blickend zu ihr und sie hält seinem Blick stand. Er ist derjenige, der wegschaut.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>Tybir atmet aus und reibt sich die Augen. Als er bemerkt, dass du in seine Richtung schaust, winkt er seine Hand.
 
 "Nichts. Es ist nichts. Nur weiter.“</DefaultText>
-      <FemaleText>Tybir atmet aus und reibt sich die Augen. Als er bemerkt, dass du in seine Richtung schaust, winkt er seine Hand.
-
-"Nichts. Es ist nichts. Nur weiter.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
