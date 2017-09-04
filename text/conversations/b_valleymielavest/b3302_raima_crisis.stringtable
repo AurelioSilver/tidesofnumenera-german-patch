@@ -12,7 +12,7 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>Ihnen sagen, dass sie die Kummerfragmente bekämpfen sollen.</DefaultText>
-      <FemaleText>Ihnen sagen, dass sie die Kummerfragmente bekämpfen sollen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -22,22 +22,22 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>Sie überzeugen, zu fliehen uns sich selbst zu retten.</DefaultText>
-      <FemaleText>Sie überzeugen, zu fliehen uns sich selbst zu retten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Sie grinst. "Mit Vergnügen.“</DefaultText>
-      <FemaleText>Sie grinst. "Mit Vergnügen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Sie nickt kurz. "Solange du uns Deckung gibst. Auf geht's, Sandhand.“</DefaultText>
-      <FemaleText>Sie nickt kurz. "Solange du uns Deckung gibst. Auf geht's, Sandhand.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Sie wirbelt herum, um zu erwidern, dann schreckt sie angesichts der Verwüstung um sie herum zurück. "Vielleicht hast du Recht. Auf geht's, Andronus. Es gibt hier nichts mehr für uns.“</DefaultText>
-      <FemaleText>Sie wirbelt herum, um zu erwidern, dann schreckt sie angesichts der Verwüstung um sie herum zurück. "Vielleicht hast du Recht. Auf geht's, Andronus. Es gibt hier nichts mehr für uns.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -57,32 +57,32 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>"Keine Chance,“ sagt sie mürrisch.</DefaultText>
-      <FemaleText>"Keine Chance,“ sagt sie mürrisch.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>"Wir gehen. Ist das nicht, was du wolltest?“</DefaultText>
-      <FemaleText>"Wir gehen. Ist das nicht, was du wolltest?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>"Wir versuchen es, die anderen zu erreichen. Was willst du?“</DefaultText>
-      <FemaleText>"Wir versuchen es, die anderen zu erreichen. Was willst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>"Wir tun unser Bestes gegen diese Monster. Was brauchst du?“</DefaultText>
-      <FemaleText>"Wir tun unser Bestes gegen diese Monster. Was brauchst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"Ich wollte ihn töten! Du hattest kein Recht!“</DefaultText>
-      <FemaleText>"Ich wollte ihn töten! Du hattest kein Recht!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>Verlassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -92,27 +92,27 @@
     <Entry>
       <ID>20</ID>
       <DefaultText>"Sandhand! *Verdammt*!“</DefaultText>
-      <FemaleText>"Sandhand! *Verdammt*!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Die Glaive gleitet unbeeindruckt um die Gefahren um sie herum vorbei. Sie blickt dich an, "Was brauchst du?“</DefaultText>
-      <FemaleText>Die Glaive gleitet unbeeindruckt um die Gefahren um sie herum vorbei. Sie blickt dich an, "Was brauchst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>"Was willst du?"</DefaultText>
-      <FemaleText>"Was willst du?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Ihr sagen, sie soll die Kummerfragmente bekämpfen.</DefaultText>
-      <FemaleText>Ihr sagen, sie soll die Kummerfragmente bekämpfen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Sie grinst. "Mit Vergnügen.“</DefaultText>
-      <FemaleText>Sie grinst. "Mit Vergnügen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -122,52 +122,52 @@
     <Entry>
       <ID>26</ID>
       <DefaultText>Sie nickt kurz. "Verstanden. Gib mir Deckung.“</DefaultText>
-      <FemaleText>Sie nickt kurz. "Verstanden. Gib mir Deckung.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Sie überzeugen, zu fliehen uns sich selbst zu retten.</DefaultText>
-      <FemaleText>Sie überzeugen, zu fliehen uns sich selbst zu retten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Sie wirbelt herum, um zu erwidern, dann schreckt sie angesichts der Verwüstung um sie herum zurück. "Vielleicht hast du Recht. Kümmere dich um den Rest, ja?“</DefaultText>
-      <FemaleText>Sie wirbelt herum, um zu erwidern, dann schreckt sie angesichts der Verwüstung um sie herum zurück. "Vielleicht hast du Recht. Kümmere dich um den Rest, ja?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>"Keine Chance,“ sagt sie mürrisch.</DefaultText>
-      <FemaleText>"Keine Chance,“ sagt sie mürrisch.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>"Ich gehe. Ist das nicht, was du wolltest?“</DefaultText>
-      <FemaleText>"Ich gehe. Ist das nicht, was du wolltest?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>"Ich versuche es, die anderen zu erreichen. Was willst du?“</DefaultText>
-      <FemaleText>"Ich versuche es, die anderen zu erreichen. Was willst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>"Ich tu mein Bestes gegen diese Monster. Was brauchst du?“</DefaultText>
-      <FemaleText>"Ich tu mein Bestes gegen diese Monster. Was brauchst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>"Sandhand versteht gar nichts von Taktik! Wo *steckt* er?“</DefaultText>
-      <FemaleText>"Sandhand versteht gar nichts von Taktik! Wo *steckt* er?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>"Ist das dein Zuhause?"</DefaultText>
-      <FemaleText>"Ist das dein Zuhause?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>"Götter, er ist hier!“</DefaultText>
-      <FemaleText>"Götter, er ist hier!“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
