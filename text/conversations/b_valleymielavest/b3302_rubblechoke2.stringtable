@@ -44,14 +44,12 @@
       <DefaultText>Einige enrome Felsen sind auf ein Gitter aus Synthrohren gefallen. Blasse blaue Funken spurten aus dem offenen Ende einer der gebrochenen Rohre, das jedes mal aufbraust, wenn ein Stück Trümmer darauf fällt.
 
 Das wir schwerer zu entrümpeln sein als bei den anderen.</DefaultText>
-      <FemaleText>Einige enrome Felsen sind auf ein Gitter aus Synthrohren gefallen. Blasse blaue Funken spurten aus dem offenen Ende einer der gebrochenen Rohre, das jedes mal aufbraust, wenn ein Stück Trümmer darauf fällt.
-
-Das wir schwerer zu entrümpeln sein als bei den anderen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Mehrere Tonnen Gestein zerdrücken ein kaputtes Gitter aus Funken sprühenden Synthrohren.</DefaultText>
-      <FemaleText>Mehrere Tonnen Gestein zerdrücken ein kaputtes Gitter aus Funken sprühenden Synthrohren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -61,32 +59,32 @@ Das wir schwerer zu entrümpeln sein als bei den anderen.</FemaleText>
     <Entry>
       <ID>12</ID>
       <DefaultText>Während du die brutzelnde Energie vermeidest, entfernst du mehrere schwere Steine aus dem Haufen. Die freiliegenden Rohre blitzen auf, als einige der schwereren Steine in sie fallen und sich mit einem Zischen auflösen. Die verbleibenden Trümmer liegen unsicher auf einem einzelnen, runden Felsbrocken.</DefaultText>
-      <FemaleText>Während du die brutzelnde Energie vermeidest, entfernst du mehrere schwere Steine aus dem Haufen. Die freiliegenden Rohre blitzen auf, als einige der schwereren Steine in sie fallen und sich mit einem Zischen auflösen. Die verbleibenden Trümmer liegen unsicher auf einem einzelnen, runden Felsbrocken.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Du bekommst es hin, einige schwere Steine zu entfernen, bevor deine Hand ausrutscht. Das freiliegende Synthrohr blitzt auf, als sich ein Teil deines Fingers mit einem Zischen auflöst. Das verbleibende Gestein liegt unsicher auf einem einzelnen, runden Felsbrocken.</DefaultText>
-      <FemaleText>Du bekommst es hin, einige schwere Steine zu entfernen, bevor deine Hand ausrutscht. Das freiliegende Synthrohr blitzt auf, als sich ein Teil deines Fingers mit einem Zischen auflöst. Das verbleibende Gestein liegt unsicher auf einem einzelnen, runden Felsbrocken.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Die Trümmer um das Funken sprühende Rohr entrümpeln.</DefaultText>
-      <FemaleText>Die Trümmer um das Funken sprühende Rohr entrümpeln.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Erneut versuchen, die Trümmer um das Funken sprühende Rohr zu entrümpeln.</DefaultText>
-      <FemaleText>Erneut versuchen, die Trümmer um das Funken sprühende Rohr zu entrümpeln.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Tritt zurück.</DefaultText>
-      <FemaleText>Tritt zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Von kleineren Trümmern befreit, erkennst du, dass die Felsbrocken, dir den Weg blockieren, vorsichtig auf einer zerbrochenen Säule liegen. Eine zuvor vergrabene Leitung knistert mit Energie unter den Steinen.</DefaultText>
-      <FemaleText>Von kleineren Trümmern befreit, erkennst du, dass die Felsbrocken, dir den Weg blockieren, vorsichtig auf einer zerbrochenen Säule liegen. Eine zuvor vergrabene Leitung knistert mit Energie unter den Steinen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
@@ -96,22 +94,22 @@ Das wir schwerer zu entrümpeln sein als bei den anderen.</FemaleText>
     <Entry>
       <ID>19</ID>
       <DefaultText>Du setzt deine Hüften, verdrehst dich und scheuderst dich Schulter-voraus nach vorne. Der Stein dröhnt bei deinem Gewicht. Ein Moment vergeht bevor der Haufen rutscht und zusammenbricht. Die Aufschüttung kracht in das Synthgitter und zerstäubt. Der letzte Stein vergräbt das Gerät.</DefaultText>
-      <FemaleText>Du setzt deine Hüften, verdrehst dich und scheuderst dich Schulter-voraus nach vorne. Der Stein dröhnt bei deinem Gewicht. Ein Moment vergeht bevor der Haufen rutscht und zusammenbricht. Die Aufschüttung kracht in das Synthgitter und zerstäubt. Der letzte Stein vergräbt das Gerät.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Dein Körper klopft zwecklos gegen das immense Gewicht.</DefaultText>
-      <FemaleText>Dein Körper klopft zwecklos gegen das immense Gewicht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Dein gesamtes Gewicht gegen die Steine werfen.</DefaultText>
-      <FemaleText>Dein gesamtes Gewicht gegen die Steine werfen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Erneut Dein gesamtes Gewicht gegen die Steine werfen.</DefaultText>
-      <FemaleText>Erneut Dein gesamtes Gewicht gegen die Steine werfen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -121,22 +119,22 @@ Das wir schwerer zu entrümpeln sein als bei den anderen.</FemaleText>
     <Entry>
       <ID>24</ID>
       <DefaultText>Versuchen, die Steine freizuhebeln.</DefaultText>
-      <FemaleText>Versuchen, die Steine freizuhebeln.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Erneut Versuchen, die Steine freizuhebeln.</DefaultText>
-      <FemaleText>Erneut Versuchen, die Steine freizuhebeln.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Du hebst ein ein Meter langes Stück Synth auf und peilst den Massenschwerpunkt des Haufens an. Mit einem schnellen Stoß stellst du die Stange under die Steine, hüpfst hoch und drückst nach unten. Die Aufschüttung kracht in das Synthgitter und zerstäubt. Der letzte Stein vergräbt das Gerät.</DefaultText>
-      <FemaleText>Du hebst ein ein Meter langes Stück Synth auf und peilst den Massenschwerpunkt des Haufens an. Mit einem schnellen Stoß stellst du die Stange under die Steine, hüpfst hoch und drückst nach unten. Die Aufschüttung kracht in das Synthgitter und zerstäubt. Der letzte Stein vergräbt das Gerät.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Einen geeigneten Hebel in den Trümmern zu finden ist einfach, aber du kannst keinen guten Drehpunkt finden. Das Rohr dehnt sich gegen das Gewicht, aber die Felsbrocken bewegen sich nicht.</DefaultText>
-      <FemaleText>Einen geeigneten Hebel in den Trümmern zu finden ist einfach, aber du kannst keinen guten Drehpunkt finden. Das Rohr dehnt sich gegen das Gewicht, aber die Felsbrocken bewegen sich nicht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
