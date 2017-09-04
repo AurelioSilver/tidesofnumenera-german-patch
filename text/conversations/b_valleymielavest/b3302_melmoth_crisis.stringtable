@@ -11,11 +11,7 @@
 "Er ist hier,“ flüstert er. "Also ist das unser Verderben. All unsere Leben haben zu diesem Moment geführt. Wir können dem nicht entkommen.“
 
 Er winkt dich ab, ohne dich anzusehen. "Renn, wenn du es willst. Ich akzeptiere unser Schicksal.“</DefaultText>
-      <FemaleText>Melmoth knabbert an seiner Unterlippe. Blut rinnt aus seinem verwundeten Fleisch aber er schient den Schmerz nicht wahrzunehmen. Er starrt verblüfft auf die Verwüstung um ihn herum, seine Augen abwesend und matt. Er schaut dich augenblicklich an. Es scheint so, als ob er deine Anwesenheit kaum wahrnimmt.
-
-"Er ist hier,“ flüstert er. "Also ist das unser Verderben. All unsere Leben haben zu diesem Moment geführt. Wir können dem nicht entkommen.“
-
-Er winkt dich ab, ohne dich anzusehen. "Renn, wenn du es willst. Ich akzeptiere unser Schicksal.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -35,79 +31,73 @@ Er winkt dich ab, ohne dich anzusehen. "Renn, wenn du es willst. Ich akzeptiere 
     <Entry>
       <ID>5</ID>
       <DefaultText>Seine pessimistische Einstellung herausfordern.</DefaultText>
-      <FemaleText>Seine pessimistische Einstellung herausfordern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Ihn um ein Stück Fleisch bitten, das du zu den Dendra O'hur zurückbringen kannst.
 
 {SCRIPT: If we implement this (remove the Should Not Play) please assign the appropriate Task as well.}</DefaultText>
-      <FemaleText>Ihn um ein Stück Fleisch bitten, das du zu den Dendra O'hur zurückbringen kannst.
-
-{SCRIPT: If we implement this (remove the Should Not Play) please assign the appropriate Task as well.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Abwenden.</DefaultText>
-      <FemaleText>Abwenden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Ein Messer erscheint aus einer Falte in Melmoths Gewand, als ob es beschworen wäre. Mit einem Handgriff sprüht Blut aus seiner rechten Hand. Er übergibt dir einen Finger, feucht und warm. "Gib das meinen Brüdern, aufdass ich weiterleben mag.“
 
 {SCRIPT: add some body part of melmoth to inventory, turns to dust on the arrival at the Bloom}</DefaultText>
-      <FemaleText>Ein Messer erscheint aus einer Falte in Melmoths Gewand, als ob es beschworen wäre. Mit einem Handgriff sprüht Blut aus seiner rechten Hand. Er übergibt dir einen Finger, feucht und warm. "Gib das meinen Brüdern, aufdass ich weiterleben mag.“
-
-{SCRIPT: add some body part of melmoth to inventory, turns to dust on the arrival at the Bloom}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Melmoth schaut dich kurz an, dann wendet er sich wieder den Flammen. "Erinnerungen? Mein Leben war ein vergebliches Streben nach Erinnerungen. Sieh dir das an. Alles ist zu Asche und Staub, bedeutungslos. Wir vergehen unter die knirschenden Räder der Zeit.“</DefaultText>
-      <FemaleText>Melmoth schaut dich kurz an, dann wendet er sich wieder den Flammen. "Erinnerungen? Mein Leben war ein vergebliches Streben nach Erinnerungen. Sieh dir das an. Alles ist zu Asche und Staub, bedeutungslos. Wir vergehen unter die knirschenden Räder der Zeit.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>"Denkst du dir, mich abzubringen?“ Er schüttelt den Kopf. "Vergeblich.“</DefaultText>
-      <FemaleText>"Denkst du dir, mich abzubringen?“ Er schüttelt den Kopf. "Vergeblich.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Er reist seine Augen von den Flammen weg, um dich anzustarren. Er hustet ein bitteres Lachen. "Hoffnung ist die Torheit der Jugend... aber wenn solte ich hier sterben, dann war meine ganze Lebensarbeit vergebens. Warum es nicht versuchen, ist es das, was du mir sagst? Sehen, ob ich ein paar Jahre mehr auskratzen kann? Oder zumindest sicherstellen, dass jemand anderes ein paar von seinen eigenen auskratzen kann. Na gut. Lasst uns gehen.“</DefaultText>
-      <FemaleText>Er reist seine Augen von den Flammen weg, um dich anzustarren. Er hustet ein bitteres Lachen. "Hoffnung ist die Torheit der Jugend... aber wenn solte ich hier sterben, dann war meine ganze Lebensarbeit vergebens. Warum es nicht versuchen, ist es das, was du mir sagst? Sehen, ob ich ein paar Jahre mehr auskratzen kann? Oder zumindest sicherstellen, dass jemand anderes ein paar von seinen eigenen auskratzen kann. Na gut. Lasst uns gehen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Melmoth blickt dich kurz an. dann wendet er sich wieder den Flammen. "Wenn ich jetzt fliehen würde, würde der Kumer mich nicht trotzdem eines Tages finden? Mein Leben war ein vergebliches Streben nach Erinnerungen. Alles ist Asche und Staub, bedeutungslos. Wir vergehen in den Flammen der Zeit, unsere Geschichten in den gleichgültigen Himmel gestreut. Ich werde nicht gehen.“</DefaultText>
-      <FemaleText>Melmoth blickt dich kurz an. dann wendet er sich wieder den Flammen. "Wenn ich jetzt fliehen würde, würde der Kumer mich nicht trotzdem eines Tages finden? Mein Leben war ein vergebliches Streben nach Erinnerungen. Alles ist Asche und Staub, bedeutungslos. Wir vergehen in den Flammen der Zeit, unsere Geschichten in den gleichgültigen Himmel gestreut. Ich werde nicht gehen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Mit ihm zustimmen. Er liegt richtig, aufzugeben.</DefaultText>
-      <FemaleText>Mit ihm zustimmen. Er liegt richtig, aufzugeben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Seine Stimme wird schärfer. "Natürlich habe ich Recht. Ich hatte Jahre, um mir vorzustellen, was ich tun würde, wenn ich dem Kummer begegnen würde. Nicht einmal zog ich es ernsthaft in Erwägung, ihn zu *bekämpfen*.“ Er klappt seine Hand zu dir.
 
 "Geh. Sei heldenhaft. Aber wisse, dass der Tod am Ende für dich kommt. Immer. Der Beweiß ist *hier*.“</DefaultText>
-      <FemaleText>Seine Stimme wird schärfer. "Natürlich habe ich Recht. Ich hatte Jahre, um mir vorzustellen, was ich tun würde, wenn ich dem Kummer begegnen würde. Nicht einmal zog ich es ernsthaft in Erwägung, ihn zu *bekämpfen*.“ Er klappt seine Hand zu dir.
-
-"Geh. Sei heldenhaft. Aber wisse, dass der Tod am Ende für dich kommt. Immer. Der Beweiß ist *hier*.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>"Ich habe es dir schon gesagt - Ich werde nicht vor dem fliehen, wem man nicht entkommen kann.“</DefaultText>
-      <FemaleText>"Ich habe es dir schon gesagt - Ich werde nicht vor dem fliehen, wem man nicht entkommen kann.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>"Du hast mich überzeugt. Ich werde weiterkämpfen und versuchen, noch einen Tag zu leben. Ich muss es, zumindest, um sicherzustellen, dass meine Brüder einen Chance haben, von meinem Fleisch zu kosten.“</DefaultText>
-      <FemaleText>"Du hast mich überzeugt. Ich werde weiterkämpfen und versuchen, noch einen Tag zu leben. Ich muss es, zumindest, um sicherzustellen, dass meine Brüder einen Chance haben, von meinem Fleisch zu kosten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>"Lass mich in Ruhe. Unser Tod ist vom Schicksal bestimmt, und selbst du kannst das nicht ändern.“</DefaultText>
-      <FemaleText>"Lass mich in Ruhe. Unser Tod ist vom Schicksal bestimmt, und selbst du kannst das nicht ändern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -117,7 +107,7 @@ Er winkt dich ab, ohne dich anzusehen. "Renn, wenn du es willst. Ich akzeptiere 
     <Entry>
       <ID>23</ID>
       <DefaultText>"Nichts kann jetzt doch getan werden. Verschwende nicht deine Zeit. Geh los und sei jemand anderes' Held.“</DefaultText>
-      <FemaleText>"Nichts kann jetzt doch getan werden. Verschwende nicht deine Zeit. Geh los und sei jemand anderes' Held.“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
