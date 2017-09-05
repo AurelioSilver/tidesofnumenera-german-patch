@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Du hältst den kleinen Metallwürfel auf deine Handflächen. Er verteilt Wärme durch deinen Körper. Du kannst knapp eine wohltuende Stimme ermitteln, die leise Flüstert.</DefaultText>
-      <FemaleText>Du hältst den kleinen Metallwürfel auf deine Handflächen. Er verteilt Wärme durch deinen Körper. Du kannst knapp eine wohltuende Stimme ermitteln, die leise Flüstert.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -37,12 +37,12 @@
     <Entry>
       <ID>8</ID>
       <DefaultText>Der Stimme genau zuhören.</DefaultText>
-      <FemaleText>Der Stimme genau zuhören.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>Dein Ohr erneut zur Maschine halten.</DefaultText>
-      <FemaleText>Dein Ohr erneut zur Maschine halten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -54,14 +54,12 @@
       <DefaultText>Du legst dein Ohr vorsichtig gegen den Würfel und die Worte fangen an, erkennbar zu werden, wenn auch nur zerstückelt. „…mächtige Kriegsherren, doch so klein… Also sollst du mich verstehen … deine Hilfe … nicht frei, Weisheit zu schenken … wie so…“
 
 Er rasselt schnell eine Reihe von Anweisungen herunter, dann wiederholt er sie wieder. Du bist dir nicht völlig sicher, dass du ihnen befolgen könntest, oder was geschehen würde, wenn du das tätest.</DefaultText>
-      <FemaleText>Du legst dein Ohr vorsichtig gegen den Würfel und die Worte fangen an, erkennbar zu werden, wenn auch nur zerstückelt. „…mächtige Kriegsherren, doch so klein… Also sollst du mich verstehen … deine Hilfe … nicht frei, Weisheit zu schenken … wie so…“
-
-Er rasselt schnell eine Reihe von Anweisungen herunter, dann wiederholt er sie wieder. Du bist dir nicht völlig sicher, dass du ihnen befolgen könntest, oder was geschehen würde, wenn du das tätest.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Der Würfel wiederholt die Anweisungen, wie man ihn mit seiner Energiequelle verbindet, aber sie sind zu schnell gesprochen, als dass du sie verstehen könntest.</DefaultText>
-      <FemaleText>Der Würfel wiederholt die Anweisungen, wie man ihn mit seiner Energiequelle verbindet, aber sie sind zu schnell gesprochen, als dass du sie verstehen könntest.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
@@ -71,121 +69,119 @@ Er rasselt schnell eine Reihe von Anweisungen herunter, dann wiederholt er sie w
     <Entry>
       <ID>15</ID>
       <DefaultText>Versuchen, die Anweisungen des Würfels zu verstehen.</DefaultText>
-      <FemaleText>Versuchen, die Anweisungen des Würfels zu verstehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Erneut versuchen, die Anweisungen des Würfels zu verstehen.</DefaultText>
-      <FemaleText>Erneut versuchen, die Anweisungen des Würfels zu verstehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Du kannst die meisten Anweisungen verstehen, und als die Intelligenz auf sie hinweist scheinen die Verbindungen und Aktivierungsmethoden eindeutig. Aber ein paar Schritte werden auf einer unklaren Weise erklärt.</DefaultText>
-      <FemaleText>Du kannst die meisten Anweisungen verstehen, und als die Intelligenz auf sie hinweist scheinen die Verbindungen und Aktivierungsmethoden eindeutig. Aber ein paar Schritte werden auf einer unklaren Weise erklärt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>So sehr du dich auch bemühst, kannst du aus den Worten der Maschine nichts verstehen oder wie sie mit den verschiedenen Einzelteilen zusammenhängen.</DefaultText>
-      <FemaleText>So sehr du dich auch bemühst, kannst du aus den Worten der Maschine nichts verstehen oder wie sie mit den verschiedenen Einzelteilen zusammenhängen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>„Gehe zurück, um vorwärts zu kommen … rotiere die Schlüsselstelle … gehe zurück, um vorwärts zu kommen … aber dieses Mal anschließend.“</DefaultText>
-      <FemaleText>„Gehe zurück, um vorwärts zu kommen … rotiere die Schlüsselstelle … gehe zurück, um vorwärts zu kommen … aber dieses Mal anschließend.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Den Hauptkontrollknoten belasten.</DefaultText>
-      <FemaleText>Den Hauptkontrollknoten belasten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Die Energiequelle ablösen.</DefaultText>
-      <FemaleText>Die Energiequelle ablösen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Die farbige Verkabelung wechseln.</DefaultText>
-      <FemaleText>Die farbige Verkabelung wechseln.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Den Kern rotieren.</DefaultText>
-      <FemaleText>Den Kern rotieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Ein rasselndes Geräusch hallt und die Maschine brummt dir wütend zu. Sie fällt sofort zu ihrem ursprünglichen Zustand zurück.</DefaultText>
-      <FemaleText>Ein rasselndes Geräusch hallt und die Maschine brummt dir wütend zu. Sie fällt sofort zu ihrem ursprünglichen Zustand zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Den Würfel weglegen.</DefaultText>
-      <FemaleText>Den Würfel weglegen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Nichts passiert.</DefaultText>
-      <FemaleText>Nichts passiert.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Die Endergiequelle wieder anbringen.</DefaultText>
-      <FemaleText>Die Endergiequelle wieder anbringen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Den Kern rotieren.</DefaultText>
-      <FemaleText>Den Kern rotieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Der Kern rotiert mit Leichtigkeit bei deiner Berührung und rastet zu einer neuen Position ein.</DefaultText>
-      <FemaleText>Der Kern rotiert mit Leichtigkeit bei deiner Berührung und rastet zu einer neuen Position ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Die Endergiequelle wieder anbringen.</DefaultText>
-      <FemaleText>Die Endergiequelle wieder anbringen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Der Würfel wärmt sich rasch auf und gibt ein hellklingendes Geräusch von sich.</DefaultText>
-      <FemaleText>Der Würfel wärmt sich rasch auf und gibt ein hellklingendes Geräusch von sich.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Den Hauptkontrollknoten belasten.</DefaultText>
-      <FemaleText>Den Hauptkontrollknoten belasten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Der Würfel zischt und strahlt eine Art Energie nach außen durch deine Arme. Sie strömt durch deinen Körper und scheine deine Form zu erkunden.
 
 Du brauchst etwas Zeit, bis du bemerkst, dass sie neue, unbekannte Erinnerungen in deinen Verstand gelegt hat, als sie durch dich floss. Diese Erinnerungen scheinen von einem antiken Automatonhandwerker zu sein und sie erhöhen dein Verständnis von allen mechanischen Vorgängen.</DefaultText>
-      <FemaleText>Der Würfel zischt und strahlt eine Art Energie nach außen durch deine Arme. Sie strömt durch deinen Körper und scheine deine Form zu erkunden.
-
-Du brauchst etwas Zeit, bis du bemerkst, dass sie neue, unbekannte Erinnerungen in deinen Verstand gelegt hat, als sie durch dich floss. Diese Erinnerungen scheinen von einem antiken Automatonhandwerker zu sein und sie erhöhen dein Verständnis von allen mechanischen Vorgängen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>Der Würfel selber wird kalt und totenstill, dann fängt er an, in deinen Händen auseinanderzubrechen. Du erhältst einige wertvolle Stücke von diesem Gegenstand.</DefaultText>
-      <FemaleText>Der Würfel selber wird kalt und totenstill, dann fängt er an, in deinen Händen auseinanderzubrechen. Du erhältst einige wertvolle Stücke von diesem Gegenstand.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Jeder Schritt passt zu einem bestimmten Teil des Gerätes. Es scheint, dass du die Energiequelle ablösen musst, um den Kern des Gerätes zu rotieren, danach kannst du sicher die Energiequelle wieder anbringen und das Gerät einschalten.</DefaultText>
-      <FemaleText>Jeder Schritt passt zu einem bestimmten Teil des Gerätes. Es scheint, dass du die Energiequelle ablösen musst, um den Kern des Gerätes zu rotieren, danach kannst du sicher die Energiequelle wieder anbringen und das Gerät einschalten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>Das Gerät genau ansehen und erkennen, wie die verschiedenen Teile auf die seltsamen Anweisungen passen.</DefaultText>
-      <FemaleText>Das Gerät genau ansehen und erkennen, wie die verschiedenen Teile auf die seltsamen Anweisungen passen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>Den Anweisungen befolgen, um das Gerät anzuschalten.</DefaultText>
-      <FemaleText>Den Anweisungen befolgen, um das Gerät anzuschalten.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
