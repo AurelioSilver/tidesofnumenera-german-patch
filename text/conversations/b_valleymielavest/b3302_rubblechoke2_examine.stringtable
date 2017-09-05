@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Dieser Haufen Trümmer ist massiver als der Rest, doch er ist der einzige Weg, dieser Zerstörung zu entkommen.</DefaultText>
-      <FemaleText>Dieser Haufen Trümmer ist massiver als der Rest, doch er ist der einzige Weg, dieser Zerstörung zu entkommen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Die verbleibenden Trümmer sind auf ein atomisierendes Gitter aus Synthrohren gehäuft. Du wirst sie entrümpeln müssen, bevor du entkommen kannst.</DefaultText>
-      <FemaleText>Die verbleibenden Trümmer sind auf ein atomisierendes Gitter aus Synthrohren gehäuft. Du wirst sie entrümpeln müssen, bevor du entkommen kannst.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
