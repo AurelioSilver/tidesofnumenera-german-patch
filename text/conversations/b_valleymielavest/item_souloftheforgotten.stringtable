@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Du hälst eine kleine Schachtel in deinen Händen. Sie ist wie ein Sarg geformt und reich verziert, mit einer eingravierten Schrift im Deckel, Markierungen, die keiner Sprache ähneln, die du kennst. Im Gegensatz dazu ist der Sarg im Innenbereich der schlicht, sogar schmucklos. Eine einzelne Pastille liegt darin.</DefaultText>
-      <FemaleText>Du hälst eine kleine Schachtel in deinen Händen. Sie ist wie ein Sarg geformt und reich verziert, mit einer eingravierten Schrift im Deckel, Markierungen, die keiner Sprache ähneln, die du kennst. Im Gegensatz dazu ist der Sarg im Innenbereich der schlicht, sogar schmucklos. Eine einzelne Pastille liegt darin.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -17,12 +17,12 @@
     <Entry>
       <ID>3</ID>
       <DefaultText>Die Pastille nehmen.</DefaultText>
-      <FemaleText>Die Pastille nehmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Erneut versuchen, die Pastille zu nehmen.</DefaultText>
-      <FemaleText>Erneut versuchen, die Pastille zu nehmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -32,12 +32,12 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>Die Markierungen auf dem Deckel untersuchen.</DefaultText>
-      <FemaleText>Die Markierungen auf dem Deckel untersuchen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Erneut die Markierungen auf dem Deckel untersuchen.</DefaultText>
-      <FemaleText>Erneut die Markierungen auf dem Deckel untersuchen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -47,12 +47,12 @@
     <Entry>
       <ID>9</ID>
       <DefaultText>Als du in die Schachtel greifst, um die Pastille zu nehmen, wird deine Hand zurückgewiesen, Es fühlt sich nicht so an, als ob sie mit Gewalt ausgeworfen wurde, sondern als ob dich jemand beim Handgelenk gepackt hätte und deine Hand sanft, doch entschlossen wegbewegt hätte.</DefaultText>
-      <FemaleText>Als du in die Schachtel greifst, um die Pastille zu nehmen, wird deine Hand zurückgewiesen, Es fühlt sich nicht so an, als ob sie mit Gewalt ausgeworfen wurde, sondern als ob dich jemand beim Handgelenk gepackt hätte und deine Hand sanft, doch entschlossen wegbewegt hätte.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Die auswerfende Kraft ist beständig und hält dich davon ab, die Pastille zu nehmen.</DefaultText>
-      <FemaleText>Die auswerfende Kraft ist beständig und hält dich davon ab, die Pastille zu nehmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -62,87 +62,87 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>Eine erfahrene Hand hat diese Markierungen tief in den Deckel gekratzt. Die Glyphen sind kompliziert und scheinen dir ideogrammatisch, aber du kannst die nicht entziffern. Und doch scheinen sie seltsamerweise bekannt, als ob du sie schonmal gesehen hättest. Wenn nicht in diesem Leben, dann in einem anderen.</DefaultText>
-      <FemaleText>Eine erfahrene Hand hat diese Markierungen tief in den Deckel gekratzt. Die Glyphen sind kompliziert und scheinen dir ideogrammatisch, aber du kannst die nicht entziffern. Und doch scheinen sie seltsamerweise bekannt, als ob du sie schonmal gesehen hättest. Wenn nicht in diesem Leben, dann in einem anderen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Die komplizierten Glyphen sind unsinnig, aber je länger du sie anschaust desto mehr bekommst du den Eindruck, dass du sie schonmal gesehen hättest.</DefaultText>
-      <FemaleText>Die komplizierten Glyphen sind unsinnig, aber je länger du sie anschaust desto mehr bekommst du den Eindruck, dass du sie schonmal gesehen hättest.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Versuchen, dich daran zu erinnern, wo du diese Glyphen schonmal gesehen hast.</DefaultText>
-      <FemaleText>Versuchen, dich daran zu erinnern, wo du diese Glyphen schonmal gesehen hast.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Eine Erinnerung erblüht, aber es ist schwer zu verstehen, was du siehst. Es ist so, als ob sie durch die Augen eines Wesens gesehen wird, das nicht menschlich ist. Sprichst du diese Sprache oder nicht? Du siehst, wie deine Finger ein Muster auf eine Gruppe von Glyphen zeichnen, die denen auf dem Deckel des Sarges sehr ähnlich sind.Fast reflexartig wiederholst du das Muster auf dem Deckel. Der Sargdeckel öffnet sich und offenbart, dass jetzt eine kleine blaue Figur mit langen, spindeldürren Gliedmaßen erschienen ist. Sie liegt auf der Pastille und öffnet eigige von seinen vielzähligen Augen, um zu dir hinaufzuschauen.</DefaultText>
-      <FemaleText>Eine Erinnerung erblüht, aber es ist schwer zu verstehen, was du siehst. Es ist so, als ob sie durch die Augen eines Wesens gesehen wird, das nicht menschlich ist. Sprichst du diese Sprache oder nicht? Du siehst, wie deine Finger ein Muster auf eine Gruppe von Glyphen zeichnen, die denen auf dem Deckel des Sarges sehr ähnlich sind.Fast reflexartig wiederholst du das Muster auf dem Deckel. Der Sargdeckel öffnet sich und offenbart, dass jetzt eine kleine blaue Figur mit langen, spindeldürren Gliedmaßen erschienen ist. Sie liegt auf der Pastille und öffnet eigige von seinen vielzähligen Augen, um zu dir hinaufzuschauen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Eine Erinnerung erblüht, aber sie ist unglaublich verwirrend, fragmentiert - als ob sie durch die Augen eines Wesens gesehen wird, das nicht menschlich ist. Während du in der Erinnerung bist, zeichnen deine Finger unbewusst ein unbekanntes Muster auf die Gruppe von Glyphen.</DefaultText>
-      <FemaleText>Eine Erinnerung erblüht, aber sie ist unglaublich verwirrend, fragmentiert - als ob sie durch die Augen eines Wesens gesehen wird, das nicht menschlich ist. Während du in der Erinnerung bist, zeichnen deine Finger unbewusst ein unbekanntes Muster auf die Gruppe von Glyphen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Die Figur klettert hoch, um am Rand des Sarges zu sitzen. Mehrere Augen sind auf dich ausgerichtet und blinken zu unregelmäßigen Intervallen. Er fängt an, in einem hohen, heulenden Ton zu sprechen. Du kannst kein Wort verstehen, das er sagt. Bei der Erkennung dieser Tatsache hebt er die Pastille hoch und reicht sie zu dir hinauf.</DefaultText>
-      <FemaleText>Die Figur klettert hoch, um am Rand des Sarges zu sitzen. Mehrere Augen sind auf dich ausgerichtet und blinken zu unregelmäßigen Intervallen. Er fängt an, in einem hohen, heulenden Ton zu sprechen. Du kannst kein Wort verstehen, das er sagt. Bei der Erkennung dieser Tatsache hebt er die Pastille hoch und reicht sie zu dir hinauf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Du verstehst, dass das Volk, dem dieser Sarg als Denkmal gesetzt wurde, ein zurückgezogenes Volk war, nun längst verschollen, von einem verheerenden Ereignis ausradiert. Du spürst die Nautr ihrer Existenz, als ob es ein greifbares Wesen wäre. Als ihre Heimat zerbröckelte und ihre Kinder verhungerten, bestimmte sie ihr Durchhaltevermögen angesichts der Gewinnchancen.Während du sie nicht *kennst*, wirst du dich an sie erinnern.</DefaultText>
-      <FemaleText>Du verstehst, dass das Volk, dem dieser Sarg als Denkmal gesetzt wurde, ein zurückgezogenes Volk war, nun längst verschollen, von einem verheerenden Ereignis ausradiert. Du spürst die Nautr ihrer Existenz, als ob es ein greifbares Wesen wäre. Als ihre Heimat zerbröckelte und ihre Kinder verhungerten, bestimmte sie ihr Durchhaltevermögen angesichts der Gewinnchancen.Während du sie nicht *kennst*, wirst du dich an sie erinnern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Du verstehst, dass das Volk, dem dieser Sarg als Denkmal gesetzt wurde, ein zurückgezogenes Volk war, nun längst verschollen, von einem verheerenden Ereignis ausradiert. Du spürst die Nautr ihrer Existenz, als ob es ein greifbares Wesen wäre. Als ihre Heimat zerbröckelte und ihre Kinder verhungerten, bestimmte sie ihr Durchhaltevermögen angesichts der Gewinnchancen.Während du sie nicht *kennst*, wirst du dich an sie erinnern.</DefaultText>
-      <FemaleText>Du verstehst, dass das Volk, dem dieser Sarg als Denkmal gesetzt wurde, ein zurückgezogenes Volk war, nun längst verschollen, von einem verheerenden Ereignis ausradiert. Du spürst die Nautr ihrer Existenz, als ob es ein greifbares Wesen wäre. Als ihre Heimat zerbröckelte und ihre Kinder verhungerten, bestimmte sie ihr Durchhaltevermögen angesichts der Gewinnchancen.Während du sie nicht *kennst*, wirst du dich an sie erinnern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Du verstehst, dass das Volk, dem dieser Sarg als Denkmal gesetzt wurde, ein zurückgezogenes Volk war, nun längst verschollen, von einem verheerenden Ereignis ausradiert. Du spürst die Nautr ihrer Existenz, als ob es ein greifbares Wesen wäre. Sie Verzweifelten nicht, als das Ende näherkam, sie ware sicher in ihren enormen Wissensvorräte und im Glauben gewickelt, dass die Vernunft einen Weg heraus finden würde. Dieser Sarg, der ihre Erinnerungen bewahrt, wurde von ihnen gemacht. Während er sie nicht gerettet hat, bewahrt er doch einen Teil ihrer Natur.Während du sie nicht *kennst*, wirst du dich an sie erinnern.</DefaultText>
-      <FemaleText>Du verstehst, dass das Volk, dem dieser Sarg als Denkmal gesetzt wurde, ein zurückgezogenes Volk war, nun längst verschollen, von einem verheerenden Ereignis ausradiert. Du spürst die Nautr ihrer Existenz, als ob es ein greifbares Wesen wäre. Sie Verzweifelten nicht, als das Ende näherkam, sie ware sicher in ihren enormen Wissensvorräte und im Glauben gewickelt, dass die Vernunft einen Weg heraus finden würde. Dieser Sarg, der ihre Erinnerungen bewahrt, wurde von ihnen gemacht. Während er sie nicht gerettet hat, bewahrt er doch einen Teil ihrer Natur.Während du sie nicht *kennst*, wirst du dich an sie erinnern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Du verstehst, dass das Volk, dem dieser Sarg als Denkmal gesetzt wurde, ein zurückgezogenes Volk war, nun längst verschollen, von einem verheerenden Ereignis ausradiert. Du spürst die Nautr ihrer Existenz, als ob es ein greifbares Wesen wäre.Du bekommst einen vagen Eindruck ihrer Errungenschaften, aber eine fiese, dicek Fassade liegt darüber. Dieses Volk erreichte große Höhen, aber eine beanglose Eifersucht verursachte, dass sie an ihren Errungenschaften vereitelten. Das mag wohl zu ihrem Ende mitgweirkt haben.</DefaultText>
-      <FemaleText>Du verstehst, dass das Volk, dem dieser Sarg als Denkmal gesetzt wurde, ein zurückgezogenes Volk war, nun längst verschollen, von einem verheerenden Ereignis ausradiert. Du spürst die Nautr ihrer Existenz, als ob es ein greifbares Wesen wäre.Du bekommst einen vagen Eindruck ihrer Errungenschaften, aber eine fiese, dicek Fassade liegt darüber. Dieses Volk erreichte große Höhen, aber eine beanglose Eifersucht verursachte, dass sie an ihren Errungenschaften vereitelten. Das mag wohl zu ihrem Ende mitgweirkt haben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Die Pastille essen.</DefaultText>
-      <FemaleText>Die Pastille essen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Die Pastille nicht essen.</DefaultText>
-      <FemaleText>Die Pastille nicht essen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Als du die Pastille verzehrst, überwältigt ein brennender Geruch sofort all deine Sinne. Blitze von Erinnerungen versuchen es, in deinen Verstand hineinzukommen, aber sie sind zu wesendfremd, um verstanden zu werden.Nach etwas Zeit beruhigt sich dein Verstand und hinterlässt verschwommene Erinnerungen und vage Einzelheiten, doch irgendwie hast du eine volle Kenntnis des Volkes gewonnen, zu den dieser Sarg ein Denkmal ist.</DefaultText>
-      <FemaleText>Als du die Pastille verzehrst, überwältigt ein brennender Geruch sofort all deine Sinne. Blitze von Erinnerungen versuchen es, in deinen Verstand hineinzukommen, aber sie sind zu wesendfremd, um verstanden zu werden.Nach etwas Zeit beruhigt sich dein Verstand und hinterlässt verschwommene Erinnerungen und vage Einzelheiten, doch irgendwie hast du eine volle Kenntnis des Volkes gewonnen, zu den dieser Sarg ein Denkmal ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Die Kreatur schließt ihre vielen Augen und heult erneut. Als sie dich unempfänglich sieht, zerbricht sie die Pastille zwischen ihren Händen und pustet das Puder in dein Gesicht. Ein süßer Duft überwältigt deine Sinne und gibt dir ein seltsames Empfinden mentaler Erholsamkeit, als Fragmente von Erinnerungen durch deinen Verstand flitzen. Du bekommst den Eindruck, dass die Kreatur nicht so dieses Denkmal teilen wollte, aber du erhälst etwas Kenntnis über ihr Volk.</DefaultText>
-      <FemaleText>Die Kreatur schließt ihre vielen Augen und heult erneut. Als sie dich unempfänglich sieht, zerbricht sie die Pastille zwischen ihren Händen und pustet das Puder in dein Gesicht. Ein süßer Duft überwältigt deine Sinne und gibt dir ein seltsames Empfinden mentaler Erholsamkeit, als Fragmente von Erinnerungen durch deinen Verstand flitzen. Du bekommst den Eindruck, dass die Kreatur nicht so dieses Denkmal teilen wollte, aber du erhälst etwas Kenntnis über ihr Volk.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Als die Kenntnis endet, findest du, dass die Kreatur weg ist und dass der Sarg nun mit einem kalten Feuer in deinen Händen brennt. Binnen Momenten ist er nichts mehr als Asche, die durch deine Finger wegweht.</DefaultText>
-      <FemaleText>Als die Kenntnis endet, findest du, dass die Kreatur weg ist und dass der Sarg nun mit einem kalten Feuer in deinen Händen brennt. Binnen Momenten ist er nichts mehr als Asche, die durch deine Finger wegweht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Den Sarg weglegen.</DefaultText>
-      <FemaleText>Den Sarg weglegen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Der Deckel des Sarges bricht auf und eine seltsame, klumpenartige Kreatur mit spindeldürren Gliedmaßen und vielen Augen sitzt jetzt im Sarg und hält die Pastille. Sie heult sanft, zerbricht die Pastille und pustet des Puder in dein Gesicht. Ein süßer Duft überwältigt deine Sinne und gibt dir ein seltsames Empfinden mentaler Erholsamkeit, als Fragmente von Erinnerungen durch deinen Verstand flitzen. Du bekommst den Eindruck, dass die Kreatur nicht so dieses Denkmal teilen wollte, aber du erhälst etwas Kenntnis über ihr Volk.</DefaultText>
-      <FemaleText>Der Deckel des Sarges bricht auf und eine seltsame, klumpenartige Kreatur mit spindeldürren Gliedmaßen und vielen Augen sitzt jetzt im Sarg und hält die Pastille. Sie heult sanft, zerbricht die Pastille und pustet des Puder in dein Gesicht. Ein süßer Duft überwältigt deine Sinne und gibt dir ein seltsames Empfinden mentaler Erholsamkeit, als Fragmente von Erinnerungen durch deinen Verstand flitzen. Du bekommst den Eindruck, dass die Kreatur nicht so dieses Denkmal teilen wollte, aber du erhälst etwas Kenntnis über ihr Volk.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
