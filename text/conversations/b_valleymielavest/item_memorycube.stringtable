@@ -9,14 +9,12 @@
       <DefaultText>Durchsichtige Scheiben drehen sich hinter dem glatten Glas dieses Würfels, oftmals trotzen sie die Dimensionen, die sie beinhalten. Du siehst flüchtig verschiedene Gegenstände - oder Szenen - , die sich darin befinden.
 
 Du räusperst dich unabsichtlich, und das Tempo des Drehens wird noch schneller, als ob der Würfel darauf wartet, dass du etwas sagst. Oder eine Frage stellst.</DefaultText>
-      <FemaleText>Durchsichtige Scheiben drehen sich hinter dem glatten Glas dieses Würfels, oftmals trotzen sie die Dimensionen, die sie beinhalten. Du siehst flüchtig verschiedene Gegenstände - oder Szenen - , die sich darin befinden.
-
-Du räusperst dich unabsichtlich, und das Tempo des Drehens wird noch schneller, als ob der Würfel darauf wartet, dass du etwas sagst. Oder eine Frage stellst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Die wirbelnden Scheine innerhalb des Würfels drehen sich schneller, während du deinen Mund zum Sprechen öffnest.</DefaultText>
-      <FemaleText>Die wirbelnden Scheine innerhalb des Würfels drehen sich schneller, während du deinen Mund zum Sprechen öffnest.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -26,12 +24,12 @@ Du räusperst dich unabsichtlich, und das Tempo des Drehens wird noch schneller,
     <Entry>
       <ID>4</ID>
       <DefaultText>"Wer bin ich?"</DefaultText>
-      <FemaleText>"Wer bin ich?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>"Wer bin ich nochmal?"</DefaultText>
-      <FemaleText>"Wer bin ich nochmal?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -41,7 +39,7 @@ Du räusperst dich unabsichtlich, und das Tempo des Drehens wird noch schneller,
     <Entry>
       <ID>8</ID>
       <DefaultText>Die drehenden Scheiben im Würfel verlangsamen sich, dann stehen sie gänzlich still und zeigen ein einzelnes Bild im Zentrum des Würfels auf...</DefaultText>
-      <FemaleText>Die drehenden Scheiben im Würfel verlangsamen sich, dann stehen sie gänzlich still und zeigen ein einzelnes Bild im Zentrum des Würfels auf...</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -51,32 +49,32 @@ Du räusperst dich unabsichtlich, und das Tempo des Drehens wird noch schneller,
     <Entry>
       <ID>10</ID>
       <DefaultText>"Was seid Ihr?"</DefaultText>
-      <FemaleText>"Was seid Ihr?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>"Kannst du mit sagen, was du bist?"</DefaultText>
-      <FemaleText>"Kannst du mit sagen, was du bist?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Ein Fingernagel aus Goldblättern und Jadesplitter in einer sonst leeren Schublade.</DefaultText>
-      <FemaleText>Ein Fingernagel aus Goldblättern und Jadesplitter in einer sonst leeren Schublade.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Eine perfekte Kugel aus dunkler Schokolade, in einer Vogelkralle gehalten.</DefaultText>
-      <FemaleText>Eine perfekte Kugel aus dunkler Schokolade, in einer Vogelkralle gehalten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Eine geschmeidige, fellige Kreatur, sie sich auf ihre Pfote beißt.</DefaultText>
-      <FemaleText>Eine geschmeidige, fellige Kreatur, sie sich auf ihre Pfote beißt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Ein langes, lilafarbenes Gemüse irgendeiner Art, längs geschnitten, um orangene Samen aufzuzeigen.</DefaultText>
-      <FemaleText>Ein langes, lilafarbenes Gemüse irgendeiner Art, längs geschnitten, um orangene Samen aufzuzeigen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -88,14 +86,12 @@ Du räusperst dich unabsichtlich, und das Tempo des Drehens wird noch schneller,
       <DefaultText>Das Objekt schwindet, Partikel für Partikel, ohen weitere Erklärung.
 
 Entweder hast du die exacte Antwort auf deine Frage als Idiom erhalten, oder du hast keine Möglichkeit, es zu verstehen, oder der Würfel verstand dich falsch.</DefaultText>
-      <FemaleText>Das Objekt schwindet, Partikel für Partikel, ohen weitere Erklärung.
-
-Entweder hast du die exacte Antwort auf deine Frage als Idiom erhalten, oder du hast keine Möglichkeit, es zu verstehen, oder der Würfel verstand dich falsch.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Das Objekt verschwindet hinter den drehenden Scheiben, während sich der Würfel auf deine nächste Frage vorbereitet.</DefaultText>
-      <FemaleText>Das Objekt verschwindet hinter den drehenden Scheiben, während sich der Würfel auf deine nächste Frage vorbereitet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -110,91 +106,89 @@ Entweder hast du die exacte Antwort auf deine Frage als Idiom erhalten, oder du 
     <Entry>
       <ID>21</ID>
       <DefaultText>Ein dreizehn-beiniges Insekt, festgesteckt am Rand eines Buches.</DefaultText>
-      <FemaleText>Ein dreizehn-beiniges Insekt, festgesteckt am Rand eines Buches.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Eine Schüssel voll schwarzer Flüssigkeit auf einem runden Glastisch.</DefaultText>
-      <FemaleText>Eine Schüssel voll schwarzer Flüssigkeit auf einem runden Glastisch.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Ein augenloser Fisch, der aus einem Pflastersteinbrunnen springt.</DefaultText>
-      <FemaleText>Ein augenloser Fisch, der aus einem Pflastersteinbrunnen springt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Kränkliche Tiere zusammengekauert um einem verstorbenen Teich.</DefaultText>
-      <FemaleText>Kränkliche Tiere zusammengekauert um einem verstorbenen Teich.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Eine lange Reihe dicker Kerzen entlang eines dunklen und endlosen Korridors.</DefaultText>
-      <FemaleText>Eine lange Reihe dicker Kerzen entlang eines dunklen und endlosen Korridors.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Eine rost-gesprenkelte Struktur, die sich Mühe gibt, aus einem Haufen verfaulten Lappen zu kriechen.</DefaultText>
-      <FemaleText>Eine rost-gesprenkelte Struktur, die sich Mühe gibt, aus einem Haufen verfaulten Lappen zu kriechen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Eine frischgebackene Pastete, aufgeschüttet mit Sahne und glänzenden Früchten, inn zwie hohlen Händen gehalten.</DefaultText>
-      <FemaleText>Eine frischgebackene Pastete, aufgeschüttet mit Sahne und glänzenden Früchten, inn zwie hohlen Händen gehalten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Vier magere, überlange Finger, auf einem bleichen Handgelenk gelegt.</DefaultText>
-      <FemaleText>Vier magere, überlange Finger, auf einem bleichen Handgelenk gelegt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Ein brennendes Schiff bei stürmiger See.</DefaultText>
-      <FemaleText>Ein brennendes Schiff bei stürmiger See.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Ein Treppenaufgang, der in die Finsternis unter einer festgefrorenen Welle führt.</DefaultText>
-      <FemaleText>Ein Treppenaufgang, der in die Finsternis unter einer festgefrorenen Welle führt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Ein rötlicher Baum, der sich in einem sternenfreien Himmel ausstreckt.</DefaultText>
-      <FemaleText>Ein rötlicher Baum, der sich in einem sternenfreien Himmel ausstreckt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Eine Stadt, die in der Luft schwebt, auch nicht von den dünnsten Wolken gehalten.</DefaultText>
-      <FemaleText>Eine Stadt, die in der Luft schwebt, auch nicht von den dünnsten Wolken gehalten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Ein Eimer bis zum Rand mit totem Gras und Edelsteinen voll.</DefaultText>
-      <FemaleText>Ein Eimer bis zum Rand mit totem Gras und Edelsteinen voll.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Der Würfel wird einige Sekunden lang undurchlässig, dann erscheinen die Scheiben wieder.</DefaultText>
-      <FemaleText>Der Würfel wird einige Sekunden lang undurchlässig, dann erscheinen die Scheiben wieder.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>Der Würfel wird wieder undurchdichtig. Er will scheinbar schon diese Frage beantworten.
 
 Schließlich erscheinen die Scheiben wieder.</DefaultText>
-      <FemaleText>Der Würfel wird wieder undurchdichtig. Er will scheinbar schon diese Frage beantworten.
-
-Schließlich erscheinen die Scheiben wieder.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Der Würfel schaudert in deinen Händen. Obwohl sich die Schieben wie besessen drehen, bemerkst du plötzlich den Geruch von Sand an einem heißen Strand.</DefaultText>
-      <FemaleText>Der Würfel schaudert in deinen Händen. Obwohl sich die Schieben wie besessen drehen, bemerkst du plötzlich den Geruch von Sand an einem heißen Strand.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>Dieses Mal erscheint kein Bild auf den drehenden scheiben.</DefaultText>
-      <FemaleText>Dieses Mal erscheint kein Bild auf den drehenden scheiben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
@@ -204,41 +198,39 @@ Schließlich erscheinen die Scheiben wieder.</FemaleText>
     <Entry>
       <ID>40</ID>
       <DefaultText>"Bist du gebrochen?"</DefaultText>
-      <FemaleText>"Bist du gebrochen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Den Würfel schütteln.</DefaultText>
-      <FemaleText>Den Würfel schütteln.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>Der Würfel belibt fast eine Minute lang dunkel bevor die Schieben erneut auftauchen.</DefaultText>
-      <FemaleText>Der Würfel belibt fast eine Minute lang dunkel bevor die Schieben erneut auftauchen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>"Ich will wissen, was du bist."</DefaultText>
-      <FemaleText>"Ich will wissen, was du bist."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>Du erhälst keine Antwort.</DefaultText>
-      <FemaleText>Du erhälst keine Antwort.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>Von den schwindelerregenden Untiefen des Würfels hörst du deine Fragen - all deine Fragen - als Echo wieder. Der Geruch von brennendem Sand beschichtet deinen Rachen.
 
 Eine Zahl tritt aus der Spirale aus Scheiben und Licht. Neun. Du has neun Fragen gestellt. Offenbar bekommst du keine mehr.</DefaultText>
-      <FemaleText>Von den schwindelerregenden Untiefen des Würfels hörst du deine Fragen - all deine Fragen - als Echo wieder. Der Geruch von brennendem Sand beschichtet deinen Rachen.
-
-Eine Zahl tritt aus der Spirale aus Scheiben und Licht. Neun. Du has neun Fragen gestellt. Offenbar bekommst du keine mehr.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>Der Gestank röstendes Sandes steigt an, und kitzelt deine Nasenlöcher, aber du erhälst keine weitere Antwort.</DefaultText>
-      <FemaleText>Der Gestank röstendes Sandes steigt an, und kitzelt deine Nasenlöcher, aber du erhälst keine weitere Antwort.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -248,12 +240,12 @@ Eine Zahl tritt aus der Spirale aus Scheiben und Licht. Neun. Du has neun Fragen
     <Entry>
       <ID>49</ID>
       <DefaultText>"Wer tötet die Menschen in der Schattenseite?"</DefaultText>
-      <FemaleText>"Wer tötet die Menschen in der Schattenseite?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>"Ich muss wissen, wer die Menschen in der Schattenseite tötet."</DefaultText>
-      <FemaleText>"Ich muss wissen, wer die Menschen in der Schattenseite tötet."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -263,17 +255,17 @@ Eine Zahl tritt aus der Spirale aus Scheiben und Licht. Neun. Du has neun Fragen
     <Entry>
       <ID>52</ID>
       <DefaultText>"Ich suche nach jemanden namens Matkina."</DefaultText>
-      <FemaleText>"Ich suche nach jemanden namens Matkina."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>"Kannst du mit nichts über Matkina erzählen?“</DefaultText>
-      <FemaleText>"Kannst du mit nichts über Matkina erzählen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>Den Würfel weglegen.</DefaultText>
-      <FemaleText>Den Würfel weglegen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -283,12 +275,12 @@ Eine Zahl tritt aus der Spirale aus Scheiben und Licht. Neun. Du has neun Fragen
     <Entry>
       <ID>56</ID>
       <DefaultText>"Wie kann ich dem Verkrüppelten Vorarbeiter helfen?"</DefaultText>
-      <FemaleText>"Wie kann ich dem Verkrüppelten Vorarbeiter helfen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
       <DefaultText>"Kannst du mir irgendwelchen Rat geben bezüglich des Problems des Verkrüppelten Vorarbeiters?"</DefaultText>
-      <FemaleText>"Kannst du mir irgendwelchen Rat geben bezüglich des Problems des Verkrüppelten Vorarbeiters?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
@@ -298,12 +290,12 @@ Eine Zahl tritt aus der Spirale aus Scheiben und Licht. Neun. Du has neun Fragen
     <Entry>
       <ID>59</ID>
       <DefaultText>"Wieso jagt mich der Kummer?"</DefaultText>
-      <FemaleText>"Wieso jagt mich der Kummer?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
       <DefaultText>"Sag mit, warum mich der Kummer jagt."</DefaultText>
-      <FemaleText>"Sag mit, warum mich der Kummer jagt."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
@@ -313,17 +305,17 @@ Eine Zahl tritt aus der Spirale aus Scheiben und Licht. Neun. Du has neun Fragen
     <Entry>
       <ID>62</ID>
       <DefaultText>"Ich verstehe nicht, was du mir zu erzählen versuchst. Kannst du es erklären?"</DefaultText>
-      <FemaleText>"Ich verstehe nicht, was du mir zu erzählen versuchst. Kannst du es erklären?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>"Diese Antworten bedeuten mir gar nichts."</DefaultText>
-      <FemaleText>"Diese Antworten bedeuten mir gar nichts."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
       <DefaultText>"Du bist nichts zu Nutze, oder?"</DefaultText>
-      <FemaleText>"Du bist nichts zu Nutze, oder?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
