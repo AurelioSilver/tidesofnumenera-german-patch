@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Als du den Gegenstand in deine Hand nimmst, siehst du kleine rotbraune Flecken innerhalb der Weiße der Pfote. Er fühlt sich außerdem etwas pelzig an und ruft ein komisches Gefühl hervor, wenn du mit deinem Daumen darüberstreichst. Du bemerkst kleine Klauen, die wahrscheinlich eingedrückt und weiter in das Medallion geklickt werden können.</DefaultText>
-      <FemaleText>Als du den Gegenstand in deine Hand nimmst, siehst du kleine rotbraune Flecken innerhalb der Weiße der Pfote. Er fühlt sich außerdem etwas pelzig an und ruft ein komisches Gefühl hervor, wenn du mit deinem Daumen darüberstreichst. Du bemerkst kleine Klauen, die wahrscheinlich eingedrückt und weiter in das Medallion geklickt werden können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Das Medallion etwas näher untersuchen.</DefaultText>
-      <FemaleText>Das Medallion etwas näher untersuchen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -22,153 +22,145 @@
     <Entry>
       <ID>5</ID>
       <DefaultText>Die Klauen leicht mit deinem Daumen drücken.</DefaultText>
-      <FemaleText>Die Klauen leicht mit deinem Daumen drücken.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Das Medallion weglegen.</DefaultText>
-      <FemaleText>Das Medallion weglegen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>Du hast von solchen Relikten gehört. Was such immer sein ursprünglicher Zweck gewesen sein mag, dient es als Kapsel irgendeiner Erfahrung - normalerweise einer großen Emotion. Es könnte sein, dass die Gesellschaft, die es angefertigt hat, ihre hellsten Momente von Generation zu Generation weiterzubewahren suchte.
 
 Obwohl es auch lediglich eine Art Spielzeug sein könnte, oder die eingekapselte Erfahrung könnte eine ungewollter Nebeneffekt seines wahren Zweckes sein - was auch immer das sein mag.</DefaultText>
-      <FemaleText>Du hast von solchen Relikten gehört. Was such immer sein ursprünglicher Zweck gewesen sein mag, dient es als Kapsel irgendeiner Erfahrung - normalerweise einer großen Emotion. Es könnte sein, dass die Gesellschaft, die es angefertigt hat, ihre hellsten Momente von Generation zu Generation weiterzubewahren suchte.
-
-Obwohl es auch lediglich eine Art Spielzeug sein könnte, oder die eingekapselte Erfahrung könnte eine ungewollter Nebeneffekt seines wahren Zweckes sein - was auch immer das sein mag.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>Du versuchst es, zu verstehen, was sein ursprünglicher Zweck gewesen sein mag, aber er bleibt dir ein Rätsel.</DefaultText>
-      <FemaleText>Du versuchst es, zu verstehen, was sein ursprünglicher Zweck gewesen sein mag, aber er bleibt dir ein Rätsel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Als du gerade davor stehst, die Klauen zu drücken, bekommst du das komsiche Gefühl, dass du irgendwie eindringst - dass dieses Relikt nicht für dich gedacht war.</DefaultText>
-      <FemaleText>Als du gerade davor stehst, die Klauen zu drücken, bekommst du das komsiche Gefühl, dass du irgendwie eindringst - dass dieses Relikt nicht für dich gedacht war.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Das Gefühl ignorieren. Die Klauen drücken.</DefaultText>
-      <FemaleText>Das Gefühl ignorieren. Die Klauen drücken.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Du drückst beutsam die Klauen mit deinem Daumen ein und spürst, wie sie einrasten. Das Medallion zerfällt zu weichem, kristallizierten Staub.Selbst, als es das tut, überwältigt dich eine Vision.
 
 Du spürst Gras unter deine nackten Füßen, weich und kühl. Als du hinaufblickst, bemerkst du, wie die Sonne langsam hinter ein paar naheliegende Bäume schwindet. Die abendlichen Dämmerungsfarbtöne aus weichem gelb und sanftem blau verblassen sacht zusammen.</DefaultText>
-      <FemaleText>Du drückst beutsam die Klauen mit deinem Daumen ein und spürst, wie sie einrasten. Das Medallion zerfällt zu weichem, kristallizierten Staub.Selbst, als es das tut, überwältigt dich eine Vision.
-
-Du spürst Gras unter deine nackten Füßen, weich und kühl. Als du hinaufblickst, bemerkst du, wie die Sonne langsam hinter ein paar naheliegende Bäume schwindet. Die abendlichen Dämmerungsfarbtöne aus weichem gelb und sanftem blau verblassen sacht zusammen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Du scheinst in einem Garten zu sein, von einem braunen Zaum umrandet. Eine Vielfalt an farbigen Blumen schwingen wie als ob von alleine an seinen Grenzen. Deine Augen werden zu einem Schwebefeld im Zentrum gelockt, darauf ein junger Mann, der scheinbar schläft. Er trägt einfache Kleidung und eine verdunkelte Brille.
 
 Als du vom Schwebefeld wegschaust, bemerken deine Augen eine weiße Unschärfe am Ende des Gartens. Als deine Augen fokussieren, scheint sich die weiße Unschärfe in zwei Stücke zu spalten, und du siehst zwei glatte Tiere an gegenüberliegenden Seiten.</DefaultText>
-      <FemaleText>Du scheinst in einem Garten zu sein, von einem braunen Zaum umrandet. Eine Vielfalt an farbigen Blumen schwingen wie als ob von alleine an seinen Grenzen. Deine Augen werden zu einem Schwebefeld im Zentrum gelockt, darauf ein junger Mann, der scheinbar schläft. Er trägt einfache Kleidung und eine verdunkelte Brille.
-
-Als du vom Schwebefeld wegschaust, bemerken deine Augen eine weiße Unschärfe am Ende des Gartens. Als deine Augen fokussieren, scheint sich die weiße Unschärfe in zwei Stücke zu spalten, und du siehst zwei glatte Tiere an gegenüberliegenden Seiten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Dem Mann auf dem Schwebefeld nähern.</DefaultText>
-      <FemaleText>Dem Mann auf dem Schwebefeld nähern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Dich zu den Tieren bewegen.</DefaultText>
-      <FemaleText>Dich zu den Tieren bewegen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Die Vision abschütteln.</DefaultText>
-      <FemaleText>Die Vision abschütteln.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Als du ein paar Schritte zum Schwebefeld läufst, rührt sich der liegende Mann. Er blickt in deine Richtung und nimmt seine dunkle Brille ab, seine braunen Augen betrachten dich von oben nach unten. Er hat schwarze Haare und hellbraune Haut, und einen Moment lang geht ein kleines Stück sterbendes Sonnenlicht über seine gehobene Hand. Du bemerkst einen goldenen Ring an seiner Hand mit einen ovalen, schwarzen Stein. Als das Sonnenlicht auf den Stein scheint, zeigt es einen goldenen, sechszackigen Stern, der in deine Richtung zu schauen scheint.</DefaultText>
-      <FemaleText>Als du ein paar Schritte zum Schwebefeld läufst, rührt sich der liegende Mann. Er blickt in deine Richtung und nimmt seine dunkle Brille ab, seine braunen Augen betrachten dich von oben nach unten. Er hat schwarze Haare und hellbraune Haut, und einen Moment lang geht ein kleines Stück sterbendes Sonnenlicht über seine gehobene Hand. Du bemerkst einen goldenen Ring an seiner Hand mit einen ovalen, schwarzen Stein. Als das Sonnenlicht auf den Stein scheint, zeigt es einen goldenen, sechszackigen Stern, der in deine Richtung zu schauen scheint.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Der junge Mann setzt sich langsam auf und lächelt sanft, sein Gesichtsausdruck einladend. Er neigt den Kopf leicht und gestikuliert danach zum Ende des Garten. Du blickst in diese Richtung zu den geschmeidigen Tieren am Ende und als zu zurückblickst, ist das Schwebefeld leer und treibt untätig über deinen Kopf.</DefaultText>
-      <FemaleText>Der junge Mann setzt sich langsam auf und lächelt sanft, sein Gesichtsausdruck einladend. Er neigt den Kopf leicht und gestikuliert danach zum Ende des Garten. Du blickst in diese Richtung zu den geschmeidigen Tieren am Ende und als zu zurückblickst, ist das Schwebefeld leer und treibt untätig über deinen Kopf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Du schließt fest deine Augen und spürst die sanfte Brise gegen dein Gesicht. Die Gerüche des Sommers überwältigen dich und schwinden danach.Dann öffnest du deine Augen und findest dich wieder in der echten Welt.</DefaultText>
-      <FemaleText>Du schließt fest deine Augen und spürst die sanfte Brise gegen dein Gesicht. Die Gerüche des Sommers überwältigen dich und schwinden danach.Dann öffnest du deine Augen und findest dich wieder in der echten Welt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Versuchen, auf das Schwebefeld zu klettern.</DefaultText>
-      <FemaleText>Versuchen, auf das Schwebefeld zu klettern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Mit einem entscheidenden Sprung schaffst du es, hoch genug zu springen, um den Rand des Schwebefeldes zu greifen und dich hochzuziehen. Du legst dich auf das Schwebefeld hin und atmest durch und als du das tust, brummt es sanft und du bekommst ein überwältigendes Gefühl des Friedens und der Erholung. Die Düfte der Sommerbrise überwältigen dich und als du kurz deine Augen schließt, fühlst du, als ob Körper, Geist und Seele geheilt sind.
 
 Nach ein paar Momenten - oder viellecht einer Ewigkeit - sinkt das Schwebefeld ab und schaltet sich aus. Du legst deine Füße auf das Gras und steigst vom Feld auf.</DefaultText>
-      <FemaleText>Mit einem entscheidenden Sprung schaffst du es, hoch genug zu springen, um den Rand des Schwebefeldes zu greifen und dich hochzuziehen. Du legst dich auf das Schwebefeld hin und atmest durch und als du das tust, brummt es sanft und du bekommst ein überwältigendes Gefühl des Friedens und der Erholung. Die Düfte der Sommerbrise überwältigen dich und als du kurz deine Augen schließt, fühlst du, als ob Körper, Geist und Seele geheilt sind.
-
-Nach ein paar Momenten - oder viellecht einer Ewigkeit - sinkt das Schwebefeld ab und schaltet sich aus. Du legst deine Füße auf das Gras und steigst vom Feld auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Du versuchst es, zu springen und den Rand des Schwebefeldes zu greifen, aber du schaffst es nur, deine Finger in die komplexe Maschinerie an der Seite zu verwickeln. Sie beißt tief in dein Fleisch, die strömenden Energien belebend, aber schmerzhaft.</DefaultText>
-      <FemaleText>Du versuchst es, zu springen und den Rand des Schwebefeldes zu greifen, aber du schaffst es nur, deine Finger in die komplexe Maschinerie an der Seite zu verwickeln. Sie beißt tief in dein Fleisch, die strömenden Energien belebend, aber schmerzhaft.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Callisto, den sanftäugigen Ceturl nähern.</DefaultText>
-      <FemaleText>Callisto, den sanftäugigen Ceturl nähern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Engel, den Ceturl der tiefen Intelligenz nähern.</DefaultText>
-      <FemaleText>Engel, den Ceturl der tiefen Intelligenz nähern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Als du dich zum Ende des Garten bewegst, siehst du zwei Tiere - Ceturle werden sie genannt - zu gegenüberliegenden Seiten sitzen. Sie sind beide fast komplett weiß mit einigen rotbraunen Flecken. Die Rechte ist etwas größer als die Linke, ihr Fell etwas voller. Sie liegt auf dem Boden, ihre grüne Augen sanft und zart. Der Name 'Callisto' taucht dir im Kopf auf und schwindet nach einem Moment wieder.</DefaultText>
-      <FemaleText>Als du dich zum Ende des Garten bewegst, siehst du zwei Tiere - Ceturle werden sie genannt - zu gegenüberliegenden Seiten sitzen. Sie sind beide fast komplett weiß mit einigen rotbraunen Flecken. Die Rechte ist etwas größer als die Linke, ihr Fell etwas voller. Sie liegt auf dem Boden, ihre grüne Augen sanft und zart. Der Name 'Callisto' taucht dir im Kopf auf und schwindet nach einem Moment wieder.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Zur linken steht der andere Ceturl aufrecht, ihr Körper agil und geschmeidig. Sie schaut auch zu dir, ihre Augen mit einer tiefen Intelligenz leuchtend, smaragdgrün, die dich von oben nach unten betrachten. Der Name 'Engel' taucht in deinem Verstand auf.</DefaultText>
-      <FemaleText>Zur linken steht der andere Ceturl aufrecht, ihr Körper agil und geschmeidig. Sie schaut auch zu dir, ihre Augen mit einer tiefen Intelligenz leuchtend, smaragdgrün, die dich von oben nach unten betrachten. Der Name 'Engel' taucht in deinem Verstand auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Als du dich dem Katzentier zur rechten näherst, wirst du von einem tiefen Eindruck der Leibe und Beziehung zu ihr beinahe überwältigt, sie hallt die Bezeihung wieder, die sie mit dem anderen Geist gahebt haben muss, das zu diesem Gegenstand gebunden ist. Als du dich auf dem Gras vor Callisto hinsetzt, steht sie langsam auf und läuft zu dir.Sie hat eine Ausstrahlung der Reinheit um sie, der tiefen Weisheit zusammen mit tiefgründigen Gespür für Mitleid. Sie bringt ihr Gesicht zu deiner Hand und begrüßt dich mit einem Schleck, ihre Zunge zuckt sanft gegen deine Haut. Ein Gefühl der Wärme umhüllt deine Hand und fängt an, durch deinen ganzen Körper zu fließen.</DefaultText>
-      <FemaleText>Als du dich dem Katzentier zur rechten näherst, wirst du von einem tiefen Eindruck der Leibe und Beziehung zu ihr beinahe überwältigt, sie hallt die Bezeihung wieder, die sie mit dem anderen Geist gahebt haben muss, das zu diesem Gegenstand gebunden ist. Als du dich auf dem Gras vor Callisto hinsetzt, steht sie langsam auf und läuft zu dir.Sie hat eine Ausstrahlung der Reinheit um sie, der tiefen Weisheit zusammen mit tiefgründigen Gespür für Mitleid. Sie bringt ihr Gesicht zu deiner Hand und begrüßt dich mit einem Schleck, ihre Zunge zuckt sanft gegen deine Haut. Ein Gefühl der Wärme umhüllt deine Hand und fängt an, durch deinen ganzen Körper zu fließen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Du schließt deine Augen und spürst einen tiefgründigen Eindruck der Zufriedenheit, dass du die Liebe zwischen diesem Katzentier und dem jungen Mann erfahren hast. Die Verbindung, die sie teilten überschritt Welten und Zeit. Die Grasblätter unter deinen Beinen schwinden zusammen mit der warmen Sommerbrise, und bald bist du wieder in der echten Welt.</DefaultText>
-      <FemaleText>Du schließt deine Augen und spürst einen tiefgründigen Eindruck der Zufriedenheit, dass du die Liebe zwischen diesem Katzentier und dem jungen Mann erfahren hast. Die Verbindung, die sie teilten überschritt Welten und Zeit. Die Grasblätter unter deinen Beinen schwinden zusammen mit der warmen Sommerbrise, und bald bist du wieder in der echten Welt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Als du dich dem Katzentier zur linken näherst, wirst du von einer tiefen Wahrnehmung von Schutz und Fürsorge beinahe überwältigt, sie hallt die Beziehung wieder, die der Geist, der an diesen Gegenstand gebunden ist, für sie gehabt haben muss. Du setzt dich vor Engel hin und sie schaut dir vorsichtig zu.Ihre smaragdgrünen Augen scheinen sich in einer tiefen, katzenartigen Wahrnehmung des Intellektes zu stürzen, die dich bis auf den Kern schneidet, aber dann auch sanft in deinem Verstand schimmert. Als ob sie dich grüßt, klopft sie ihren Kopf gegen deinen, markiert mit einem wiederhallenden Echo, der eine tiefe Wahrnehmung der Klarheit hervorzurufen scheint.</DefaultText>
-      <FemaleText>Als du dich dem Katzentier zur linken näherst, wirst du von einer tiefen Wahrnehmung von Schutz und Fürsorge beinahe überwältigt, sie hallt die Beziehung wieder, die der Geist, der an diesen Gegenstand gebunden ist, für sie gehabt haben muss. Du setzt dich vor Engel hin und sie schaut dir vorsichtig zu.Ihre smaragdgrünen Augen scheinen sich in einer tiefen, katzenartigen Wahrnehmung des Intellektes zu stürzen, die dich bis auf den Kern schneidet, aber dann auch sanft in deinem Verstand schimmert. Als ob sie dich grüßt, klopft sie ihren Kopf gegen deinen, markiert mit einem wiederhallenden Echo, der eine tiefe Wahrnehmung der Klarheit hervorzurufen scheint.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Als du auf das Gras zurückfällst, treibt das Schwebefeld weiter aufwärts, außer Reichweite.</DefaultText>
-      <FemaleText>Als du auf das Gras zurückfällst, treibt das Schwebefeld weiter aufwärts, außer Reichweite.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Der elektrische Stich fließt von deinen Fingerspitzen zu deinem Gehirn und durch deinen ganzen Körper. Deine Sinne werden betäubt und du spürst, wie du außer Bewusstsein gleitestm als du zum Gras zurückfällst. Doch, bevor du landest, sind die beiden geschmeidigen Tiere vom Ende des Gartens unter dir angekommen und fangen dich scheinbar in einer Schutzblase sanft auf. Sie machen den Schaden ungeschehen und heilen dich sogar.</DefaultText>
-      <FemaleText>Der elektrische Stich fließt von deinen Fingerspitzen zu deinem Gehirn und durch deinen ganzen Körper. Deine Sinne werden betäubt und du spürst, wie du außer Bewusstsein gleitestm als du zum Gras zurückfällst. Doch, bevor du landest, sind die beiden geschmeidigen Tiere vom Ende des Gartens unter dir angekommen und fangen dich scheinbar in einer Schutzblase sanft auf. Sie machen den Schaden ungeschehen und heilen dich sogar.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Du landest auf deine Füße und stehst zwei Tieren Gegenüber - Ceturle werden sie genannt. Die Caturle sind beide fast komplett weiß mit einigen rotbraunen Flecken. Die Rechte ist etwas größer als die Linke, ihr Fell etwas voller. Sie liegt auf dem Boden, ihre grüne Augen sanft und zart. Der Name 'Callisto' taucht dir im Kopf auf und schwindet nach einem Moment wieder.</DefaultText>
-      <FemaleText>Du landest auf deine Füße und stehst zwei Tieren Gegenüber - Ceturle werden sie genannt. Die Caturle sind beide fast komplett weiß mit einigen rotbraunen Flecken. Die Rechte ist etwas größer als die Linke, ihr Fell etwas voller. Sie liegt auf dem Boden, ihre grüne Augen sanft und zart. Der Name 'Callisto' taucht dir im Kopf auf und schwindet nach einem Moment wieder.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
