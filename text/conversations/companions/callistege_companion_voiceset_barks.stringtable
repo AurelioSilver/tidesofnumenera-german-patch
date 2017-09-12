@@ -271,8 +271,8 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>{whispering} "Du ... enttäuschst mich,Verstoßener ..."</DefaultText>
-      <FemaleText>{whispering} "Du ... enttäuschst mich,Verstoßene ..."</FemaleText>
+      <DefaultText>{whispering} "Du ... enttäuschst mich, Verstoßener ..."</DefaultText>
+      <FemaleText>{whispering} "Du ... enttäuschst mich, Verstoßene ..."</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -941,8 +941,8 @@
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>{urgent} "Komm,Verstoßener. Der Kummer steht vor den Toren. Wir müssen fliehen, schnell!"</DefaultText>
-      <FemaleText>{urgent} "Komm,Verstoßene. Der Kummer steht vor den Toren. Wir müssen fliehen, schnell!"</FemaleText>
+      <DefaultText>{urgent} "Komm, Verstoßener. Der Kummer steht vor den Toren. Wir müssen fliehen, schnell!"</DefaultText>
+      <FemaleText>{urgent} "Komm, Verstoßene. Der Kummer steht vor den Toren. Wir müssen fliehen, schnell!"</FemaleText>
     </Entry>
     <Entry>
       <ID>189</ID>
