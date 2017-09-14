@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Was ist deine Geschichte?"</DefaultText>
+      <DefaultText>„Was ist deine Geschichte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,7 +396,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <DefaultText>„Wie geht es dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,7 +431,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ich würde gerne über unsere Begleiter sprechen."</DefaultText>
+      <DefaultText>„Ich würde gerne über unsere Begleiter sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -521,7 +521,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Ich denke, wir sollten uns trennen."</DefaultText>
+      <DefaultText>„Ich denke, wir sollten uns trennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,23 +546,23 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Gehen wir weiter."</DefaultText>
+      <DefaultText>„Gehen wir weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Ja. Tun wir das."</DefaultText>
+      <DefaultText>„Ja. Tun wir das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Ich dachte nicht, du könntest so schlimm sein, wie dein Vater. Offenbar hatte ich Unrecht."
+      <DefaultText>„Ich dachte nicht, du könntest so schlimm sein, wie dein Vater. Offenbar hatte ich Unrecht.“
 {SCRIPT: PC has sold Rhin to Tol Maguur.}{SCRIPT: Force this conversation after Tol Maguur conversation ends}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Danke, dass du Callistege losgeworden bist. Du kannst dir nicht vorstellen, was für eine Qual es ist, mit ihr unterwegs zu sein. Obwohl du in dieser kurzen Zeit bereits einen kleinen Vorgeschmack bekommen hast."</DefaultText>
+      <DefaultText>„Danke, dass du Callistege losgeworden bist. Du kannst dir nicht vorstellen, was für eine Qual es ist, mit ihr unterwegs zu sein. Obwohl du in dieser kurzen Zeit bereits einen kleinen Vorgeschmack bekommen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -577,11 +577,11 @@
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Ehrlich gesagt dachte ich sie könnten hilfreicher sein. Sie raten einfach nur. Sie wissen genauso wenig über euch wie ich." Er schnaubt. "Es tut mir leid."
+      <DefaultText>„Ehrlich gesagt dachte ich sie könnten hilfreicher sein. Sie raten einfach nur. Sie wissen genauso wenig über euch wie ich.“ Er schnaubt. „Es tut mir leid.“
 
-"Verdammt, so viel, wie sie über euch Verstoßene nachdenken, müssten sie mehr wissen als alle anderen. Zumindest haben sie uns einen Hinweis gegeben, wo wir als Nächstes suchen können."
+„Verdammt, so viel, wie sie über euch Verstoßene nachdenken, müssten sie mehr wissen als alle anderen. Zumindest haben sie uns einen Hinweis gegeben, wo wir als Nächstes suchen können.“
 
-Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
+Er zuckt mit den Schultern. „Wir suchen weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -596,7 +596,7 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Was hältst du von dem, was der Kult des Wandelnden Gottes mir gesagt hat?"</DefaultText>
+      <DefaultText>„Was hältst du von dem, was der Kult des Wandelnden Gottes mir gesagt hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -606,37 +606,37 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Ich habe es nur getan, um Tols Geheimnisse zu erfahren. Sobald ich weiß, was ich wissen muss, kaufe ich Rhin zurück."</DefaultText>
+      <DefaultText>„Ich habe es nur getan, um Tols Geheimnisse zu erfahren. Sobald ich weiß, was ich wissen muss, kaufe ich Rhin zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Ich gebe Tol nur ihr Eigentum zurück. Außerdem mag sie Rhin. Sie wird ihr nicht wehtun."</DefaultText>
+      <DefaultText>„Ich gebe Tol nur ihr Eigentum zurück. Außerdem mag sie Rhin. Sie wird ihr nicht wehtun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Du hast recht. Es war eine furchtbare Entscheidung. Ich hole Rhin sofort zurück."</DefaultText>
+      <DefaultText>„Du hast recht. Es war eine furchtbare Entscheidung. Ich hole Rhin sofort zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Ein unschuldiges Mädchen ist für dich also nur ein Werkzeug, um zu bekommen, was du willst? Wie denkst du dann erst über den Rest von uns?"</DefaultText>
+      <DefaultText>„Ein unschuldiges Mädchen ist für dich also nur ein Werkzeug, um zu bekommen, was du willst? Wie denkst du dann erst über den Rest von uns?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Das will ich hoffen."</DefaultText>
+      <DefaultText>„Das will ich hoffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Weißt du, vorhin war ich noch unsicher, aber jetzt weiß ich es: Ihr Verstoßenen seid keine Menschen."</DefaultText>
+      <DefaultText>„Weißt du, vorhin war ich noch unsicher, aber jetzt weiß ich es: Ihr Verstoßenen seid keine Menschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Mach's gut, Abschaum."</DefaultText>
+      <DefaultText>„Mach's gut, Abschaum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,17 +701,17 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Du kannst nicht ständig meine Entscheidungen in Frage stellen."</DefaultText>
+      <DefaultText>„Du kannst nicht ständig meine Entscheidungen in Frage stellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Ja."</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Ich möchte etwas über Sagusklippen wissen."</DefaultText>
+      <DefaultText>„Ich möchte etwas über Sagusklippen wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -726,7 +726,7 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Dazu kann ich nicht viel sagen. Ich kam hierher, weil ich musste. Aber es ist ein Drecksloch. Ich hasse es. Aber was sagst du dazu? Seit ich hergekommen bin, ist es meine Heimat, und ich scheine nicht mehr davon loszukommen."</DefaultText>
+      <DefaultText>„Dazu kann ich nicht viel sagen. Ich kam hierher, weil ich musste. Aber es ist ein Drecksloch. Ich hasse es. Aber was sagst du dazu? Seit ich hergekommen bin, ist es meine Heimat, und ich scheine nicht mehr davon loszukommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1501,7 +1501,7 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>"Mein Freund Orth Faung beim Orden der Wahrheit hat etwas für mich geprüft. Ich möchte da mal vorbeischauen. Problem ist, ich vertrage mich nicht mit den meisten der Priestern dort. Sie wollen womöglich nicht mit mir sprechen."
+      <DefaultText>„Mein Freund Orth Faung beim Orden der Wahrheit hat etwas für mich geprüft. Ich möchte da mal vorbeischauen. Problem ist, ich vertrage mich nicht mit den meisten der Priestern dort. Sie wollen womöglich nicht mit mir sprechen.“
 
 {SCRIPT: Force conversation when player enters Government Square or OoT for first time with Aligern}</DefaultText>
       <FemaleText />
@@ -1538,7 +1538,7 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>"Warum wollen sie nicht mit dir reden?"</DefaultText>
+      <DefaultText>„Warum wollen sie nicht mit dir reden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1548,17 +1548,17 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>"Ich bin dir keine Rechenschaft schuldig."</DefaultText>
+      <DefaultText>„Ich bin dir keine Rechenschaft schuldig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>"Das glaubst du wirklich, oder? Gut. Dann pass auf: Wenn du die Stadt verlässt, ohne Rhin aus den Händen der Sklavenhändlerin befreit zu haben, kannst du dir einen anderen Begleiter suchen."</DefaultText>
+      <DefaultText>„Das glaubst du wirklich, oder? Gut. Dann pass auf: Wenn du die Stadt verlässt, ohne Rhin aus den Händen der Sklavenhändlerin befreit zu haben, kannst du dir einen anderen Begleiter suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>"Wir werden ja sehen."</DefaultText>
+      <DefaultText>„Wir werden ja sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1568,7 +1568,7 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>"Wie gesagt, wir verstehen uns nicht. Vielleicht, weil ich sie Feiglinge genannt habe, die vor den Sklavenfamilien zu Kreuze kriechen. Aber wer weiß, vielleicht haben sie das ja mittlerweile vergessen."</DefaultText>
+      <DefaultText>„Wie gesagt, wir verstehen uns nicht. Vielleicht, weil ich sie Feiglinge genannt habe, die vor den Sklavenfamilien zu Kreuze kriechen. Aber wer weiß, vielleicht haben sie das ja mittlerweile vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1578,17 +1578,17 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>"Gut."</DefaultText>
+      <DefaultText>„Gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>"Gut. Ich rede mit ihnen."</DefaultText>
+      <DefaultText>„Gut. Ich rede mit ihnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>"Danke."</DefaultText>
+      <DefaultText>„Danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1673,7 +1673,7 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>341</ID>
-      <DefaultText>Er zuckt mit den Schultern. "Ich war ein Aeon-Priester. Ich stelle alles in Frage. Nur so lernen wir dazu. Wenn dir das nicht passt, geh zurück zu Callistege."</DefaultText>
+      <DefaultText>Er zuckt mit den Schultern. „Ich war ein Aeon-Priester. Ich stelle alles in Frage. Nur so lernen wir dazu. Wenn dir das nicht passt, geh zurück zu Callistege.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1718,22 +1718,22 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>"Dann ist das also geklärt."</DefaultText>
+      <DefaultText>„Dann ist das also geklärt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>Er scharrt mit dem Fuß im Boden und sieht zur Seite. "Ich werde das nur einmal sagen. Ich bin kein Mann großer Worte. Aber ... du weißt, dass ich mir nicht sicher bin, wer du wirklich bist. Dass du mich dennoch mitnimmst, sagt etwas über dich aus. Ich bin nicht sicher was, aber ich gebe dir einen Vertrauensvorschuss und werde helfen, wo ich kann. Alles klar?"</DefaultText>
+      <DefaultText>Er scharrt mit dem Fuß im Boden und sieht zur Seite. „Ich werde das nur einmal sagen. Ich bin kein Mann großer Worte. Aber ... du weißt, dass ich mir nicht sicher bin, wer du wirklich bist. Dass du mich dennoch mitnimmst, sagt etwas über dich aus. Ich bin nicht sicher was, aber ich gebe dir einen Vertrauensvorschuss und werde helfen, wo ich kann. Alles klar?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>"Wir werden ja sehen."</DefaultText>
+      <DefaultText>„Wir werden ja sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>Er zuckt mit den Schultern. "Mehr kann keiner verlangen. Ich erwarte ja auch keine Treue von dir. Das ist eine reine Zweckgemeinschaft, die wir haben, ja?"</DefaultText>
+      <DefaultText>Er zuckt mit den Schultern. „Mehr kann keiner verlangen. Ich erwarte ja auch keine Treue von dir. Das ist eine reine Zweckgemeinschaft, die wir haben, ja?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1743,7 +1743,7 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>"Wir haben zu tun, stimmt's? Vielleicht werde ich dich später mal um Hilfe bitten."</DefaultText>
+      <DefaultText>„Wir haben zu tun, stimmt's? Vielleicht werde ich dich später mal um Hilfe bitten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1773,7 +1773,7 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>"Ich möchte nochmal über dich sprechen."</DefaultText>
+      <DefaultText>„Ich möchte nochmal über dich sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1873,12 +1873,12 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>387</ID>
-      <DefaultText>"Warum gehst du nicht einfach?"</DefaultText>
+      <DefaultText>„Warum gehst du nicht einfach?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>388</ID>
-      <DefaultText>"Warum kümmerst du dich nicht um deine eigenen Sachen?"</DefaultText>
+      <DefaultText>„Warum kümmerst du dich nicht um deine eigenen Sachen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1958,52 +1958,52 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>407</ID>
-      <DefaultText>"Willst du wissen, was in der Nachricht von Orth drinstand? Er ist weg. Nahm den Apparat, an dem er für mich gearbeitet hat, und verschwand, ohne zu sagen wohin. Er hat nur gesagt, ich soll ganz besonders auf meine Tätowierungen achtgeben. Hat aber nicht gesagt, was er damit meint. Ob er meint, ich soll sie stärker machen, oder wegen der Art, wie ich zu ihnen gekommen bin, oder ..."</DefaultText>
+      <DefaultText>„Willst du wissen, was in der Nachricht von Orth drinstand? Er ist weg. Nahm den Apparat, an dem er für mich gearbeitet hat, und verschwand, ohne zu sagen wohin. Er hat nur gesagt, ich soll ganz besonders auf meine Tätowierungen achtgeben. Hat aber nicht gesagt, was er damit meint. Ob er meint, ich soll sie stärker machen, oder wegen der Art, wie ich zu ihnen gekommen bin, oder ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>"Wenn du sie verbessern willst, helfe ich dir dabei. Es ist wichtig, die Kontrolle über die Werkzeuge zu haben, die einem zur Verfügung stehen."</DefaultText>
+      <DefaultText>„Wenn du sie verbessern willst, helfe ich dir dabei. Es ist wichtig, die Kontrolle über die Werkzeuge zu haben, die einem zur Verfügung stehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>"Dann schlage ich vor, vorsichtig zu sein. Setze sie sie so wenig wie möglich ein."</DefaultText>
+      <DefaultText>„Dann schlage ich vor, vorsichtig zu sein. Setze sie sie so wenig wie möglich ein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>"Das Risiko ist zu groß, Aligern. Setze sie nicht weiter ein."</DefaultText>
+      <DefaultText>„Das Risiko ist zu groß, Aligern. Setze sie nicht weiter ein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>"Ha. Wenn du denkst, dass ich vorsichtig sein soll, werde ich sie nicht mehr offensiv einsetzen. Sie sind auch defensiv mächtig genug."</DefaultText>
+      <DefaultText>„Ha. Wenn du denkst, dass ich vorsichtig sein soll, werde ich sie nicht mehr offensiv einsetzen. Sie sind auch defensiv mächtig genug.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>"Das klingt vernünftig. Ich denke, du solltest aufhören. Warum denkst du so?"</DefaultText>
+      <DefaultText>„Das klingt vernünftig. Ich denke, du solltest aufhören. Warum denkst du so?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>Er seufzt. "Wenn sogar *du* dir Sorgen wegen ihrer Sicherheit machst, sollte ich wirklich niemanden mehr dieser Gefahr aussetzen." Er lächelt kläglich. "Wer weiß schon, ob der Schaden jemals wiedergutgemacht werden kann? Du sagst, ich soll vorsichtig sein. Ich sage, ich bin fertig mit diesen Tätowierungen. Endgültig."</DefaultText>
+      <DefaultText>Er seufzt. „Wenn sogar *du* dir Sorgen wegen ihrer Sicherheit machst, sollte ich wirklich niemanden mehr dieser Gefahr aussetzen.“ Er lächelt kläglich. „Wer weiß schon, ob der Schaden jemals wiedergutgemacht werden kann? Du sagst, ich soll vorsichtig sein. Ich sage, ich bin fertig mit diesen Tätowierungen. Endgültig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>414</ID>
-      <DefaultText>Er nickt. "Sicher. Mann will ja keine Unschuldigen gefährden, nicht wahr? Wir können später an den Verbesserungen arbeiten."</DefaultText>
+      <DefaultText>Er nickt. „Sicher. Mann will ja keine Unschuldigen gefährden, nicht wahr? Wir können später an den Verbesserungen arbeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>"Nie mehr ist vielleicht übertrieben. Arbeiten wir lieber daran, dass du sie besser kontrollieren kannst."</DefaultText>
+      <DefaultText>„Nie mehr ist vielleicht übertrieben. Arbeiten wir lieber daran, dass du sie besser kontrollieren kannst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>416</ID>
-      <DefaultText>"Das scheint mir zu extrem. Arbeiten wir stattdessen daran, sie besser zu kontrollieren."</DefaultText>
+      <DefaultText>„Das scheint mir zu extrem. Arbeiten wir stattdessen daran, sie besser zu kontrollieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2018,7 +2018,7 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>419</ID>
-      <DefaultText>Er nickt. "Gut. Wenn wir falsch liegen, werden wir es ohnehin bald wissen, schätze ich."</DefaultText>
+      <DefaultText>Er nickt. „Gut. Wenn wir falsch liegen, werden wir es ohnehin bald wissen, schätze ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2038,27 +2038,27 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>Er ballt die Hände zu Fäusten. Er bebt vor Wut. "Ein unschuldiges Mädchen an menschlichen Abschaum wie Tol Maguur zu verkaufen. Mir graut vor dir."</DefaultText>
+      <DefaultText>Er ballt die Hände zu Fäusten. Er bebt vor Wut. „Ein unschuldiges Mädchen an menschlichen Abschaum wie Tol Maguur zu verkaufen. Mir graut vor dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>Er schüttelt den Kopf. "Ich möchte nicht darüber reden. Frag nicht."</DefaultText>
+      <DefaultText>Er schüttelt den Kopf. „Ich möchte nicht darüber reden. Frag nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>"Gut. Du bist wach. Ich war nicht sicher, ob du je wieder aufwachen würdest, aber nachdem du auch den Sturz überlebt hast, hielt ich es zumindest für möglich. Ich habe die Dendra davon abgehalten, dich zu verspeisen, bis ich sicher war."</DefaultText>
+      <DefaultText>„Gut. Du bist wach. Ich war nicht sicher, ob du je wieder aufwachen würdest, aber nachdem du auch den Sturz überlebt hast, hielt ich es zumindest für möglich. Ich habe die Dendra davon abgehalten, dich zu verspeisen, bis ich sicher war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>"Callistege ist abgehauen. Macht nichts. Du kannst dir nicht vorstellen, was für eine Qual es ist, mit ihr unterwegs zu sein. Obwohl du in dieser kurzen Zeit bereits einen kleinen Vorgeschmack bekommen hast."</DefaultText>
+      <DefaultText>„Callistege ist abgehauen. Macht nichts. Du kannst dir nicht vorstellen, was für eine Qual es ist, mit ihr unterwegs zu sein. Obwohl du in dieser kurzen Zeit bereits einen kleinen Vorgeschmack bekommen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>"Obwohl es scheint, als wäre das gar nicht nötig gewesen", fügt er hinzu und wird kurz grün im Gesicht. "Aber egal."</DefaultText>
+      <DefaultText>„Obwohl es scheint, als wäre das gar nicht nötig gewesen“, fügt er hinzu und wird kurz grün im Gesicht. „Aber egal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2068,7 +2068,7 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>"Was?"</DefaultText>
+      <DefaultText>„Was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2083,17 +2083,17 @@ Er zuckt mit den Schultern. "Wir suchen weiter."</DefaultText>
     </Entry>
     <Entry>
       <ID>433</ID>
-      <DefaultText>"Will hier nicht darüber reden. Vielleicht draußen."</DefaultText>
+      <DefaultText>„Will hier nicht darüber reden. Vielleicht draußen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>434</ID>
-      <DefaultText>"Was stand in der Notiz, die du gefunden hast?"</DefaultText>
+      <DefaultText>„Was stand in der Notiz, die du gefunden hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>435</ID>
-      <DefaultText>"Wir müssen dich zum Kult des Wandelnden Gottes bringen. Sie lagern bei der Uhr auf dem großen Platz dort."</DefaultText>
+      <DefaultText>„Wir müssen dich zum Kult des Wandelnden Gottes bringen. Sie lagern bei der Uhr auf dem großen Platz dort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
