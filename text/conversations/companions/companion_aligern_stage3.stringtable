@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Inifere ... ein weiterer Verstoßener, ein weiterer Schandfleck. Schau, ich muss einfach fragen: Warum glaubst du, dass so viele von euch so viel Leid verursachen?“</DefaultText>
+      <DefaultText>„Inifere … ein weiterer Verstoßener, ein weiterer Schandfleck. Schau, ich muss einfach fragen: Warum glaubst du, dass so viele von euch so viel Leid verursachen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -165,7 +165,7 @@ Er atmet tief aus. „Der Punkt geht an dich.“ Er wendet sich an dich. „Was 
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Dann sollte die Frage vielleicht lauten, warum so viele Verstoßene in Situationen geraten, in denen was getan werden muss so schrecklich ist? Ich meine, einen mörderischen Kult zu gründen ... das ist extrem.“</DefaultText>
+      <DefaultText>„Dann sollte die Frage vielleicht lauten, warum so viele Verstoßene in Situationen geraten, in denen was getan werden muss so schrecklich ist? Ich meine, einen mörderischen Kult zu gründen … das ist extrem.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,11 +356,11 @@ Er lacht leise. „Von meinen Leuten ist auch nichts zurückgeblieben, das man d
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>„Aaldriis ... sie hat mir viel zum Nachdenken gegeben.“ Er schaut dich ruhig an, scheint aber etwas erschüttert.
+      <DefaultText>„Aaldriis … sie hat mir viel zum Nachdenken gegeben.“ Er schaut dich ruhig an, scheint aber etwas erschüttert.
 
 „Sie ist die Erste deiner Art, bei der ich mich nicht um mein Leben fürchte. Die Erste, bei der ich besser werden will. Und ich werde es versuchen.“
 
-Er schaut auf die Tätowierungen auf seinen Armen herab. „Soll allerdings nicht heißen, dass ich keine Antworten haben will. Aber ... Ich werde mit dir arbeiten.“</DefaultText>
+Er schaut auf die Tätowierungen auf seinen Armen herab. „Soll allerdings nicht heißen, dass ich keine Antworten haben will. Aber … Ich werde mit dir arbeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -397,7 +397,7 @@ Sein Ton wird härter. „Und ich meine.“</DefaultText>
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>„Während wir im Tal sind ... Es gibt einen Ort, den ich gern besuchen würde. Das Monument meines Dorfes. Ich war da schon lange nicht mehr, ich muss meinen Respekt zollen. Es ist nicht weit von hier, es liegt also nicht weit weg vom Weg.“
+      <DefaultText>„Während wir im Tal sind … Es gibt einen Ort, den ich gern besuchen würde. Das Monument meines Dorfes. Ich war da schon lange nicht mehr, ich muss meinen Respekt zollen. Es ist nicht weit von hier, es liegt also nicht weit weg vom Weg.“
 
 {SCRIPT: After the encounter with Ronos and Beltrax, please set Aligern Wants to Talk = True}</DefaultText>
       <FemaleText />
