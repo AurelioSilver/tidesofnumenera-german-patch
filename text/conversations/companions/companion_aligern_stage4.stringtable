@@ -6,16 +6,16 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{shaken, terrified, trying to hold it together}"Ich hasse diesen Ort."
+      <DefaultText>{shaken, terrified, trying to hold it together}„Ich hasse diesen Ort.“
 
 {SCRIPT: This should be a triggered conversation that Aligern initiates as soon as he is out of the Bloom Heart.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Und ich hasse dich. Ich … ich … ich kann nicht …" Er schließt angestrengt die Augen. "Da ist ein Loch in meinem Verstand und ich … ich weiß nicht, was dort mal drin war."
+      <DefaultText>„Und ich hasse dich. Ich … ich … ich kann nicht …“ Er schließt angestrengt die Augen. „Da ist ein Loch in meinem Verstand und ich … ich weiß nicht, was dort mal drin war.“
 
-Er dreht sich von dir weg. "Ich hoffe, dass es den Preis wert war."</DefaultText>
+Er dreht sich von dir weg. „Ich hoffe, dass es den Preis wert war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -140,46 +140,46 @@ Er dreht sich von dir weg. "Ich hoffe, dass es den Preis wert war."</DefaultText
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Es ist eine endlose Parade aus Verstößen, und du hast mich in jede hineingezwungen. Das war eine zu viel. {shivers}Du machst, dass Callistege harmlos aussieht."
+      <DefaultText>„Es ist eine endlose Parade aus Verstößen, und du hast mich in jede hineingezwungen. Das war eine zu viel. {shivers}Du machst, dass Callistege harmlos aussieht.“
 
-"Ich habe genug. {pause}Ich hoffe, du verrottest hier drin."
+„Ich habe genug. {pause}Ich hoffe, du verrottest hier drin.“
 
 {SCRIPT: Only plays if this is the third time the player has forced him into a violation of his self. (Maw and Doctors are the other two.)}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Danke, dass du mich nicht gezwungen hast, damit weiterzumachen. Warum hast du deine Meinung geändert?"</DefaultText>
+      <DefaultText>„Danke, dass du mich nicht gezwungen hast, damit weiterzumachen. Warum hast du deine Meinung geändert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Du bist mein Freund, und ich habe dich verletzt."</DefaultText>
+      <DefaultText>„Du bist mein Freund, und ich habe dich verletzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ich brauche dich in der besten Form. Ich hatte Angst, dass es dich schwächen würde."</DefaultText>
+      <DefaultText>„Ich brauche dich in der besten Form. Ich hatte Angst, dass es dich schwächen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Aligern schnaubt. "Nur eine Berechnung, was? Das werde ich im Kopf behalten."</DefaultText>
+      <DefaultText>Aligern schnaubt. „Nur eine Berechnung, was? Das werde ich im Kopf behalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Du bist nicht so stark, wie ich dachte. Es war besser, dass ich die Aufmerksamkeit der Flor hatte."</DefaultText>
+      <DefaultText>„Du bist nicht so stark, wie ich dachte. Es war besser, dass ich die Aufmerksamkeit der Flor hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Kein bestimmter Grund. Ich habs einfach gemacht."</DefaultText>
+      <DefaultText>„Kein bestimmter Grund. Ich habs einfach gemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Du willst deine Beweggründe für dich behalten? Gut."</DefaultText>
+      <DefaultText>„Du willst deine Beweggründe für dich behalten? Gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -519,7 +519,7 @@ Er dreht sich von dir weg. "Ich hoffe, dass es den Preis wert war."</DefaultText
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <DefaultText>„Wie geht es dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -554,7 +554,7 @@ Er dreht sich von dir weg. "Ich hoffe, dass es den Preis wert war."</DefaultText
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Lass uns über unsere Reisegruppe sprechen."</DefaultText>
+      <DefaultText>„Lass uns über unsere Reisegruppe sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -654,7 +654,7 @@ Er dreht sich von dir weg. "Ich hoffe, dass es den Preis wert war."</DefaultText
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Ich denke, wir sollten uns trennen."</DefaultText>
+      <DefaultText>„Ich denke, wir sollten uns trennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -689,23 +689,23 @@ Er dreht sich von dir weg. "Ich hoffe, dass es den Preis wert war."</DefaultText
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Vergiss es. Gehen wir."</DefaultText>
+      <DefaultText>„Vergiss es. Gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>{Furious, shaking with rage}"Du bist wahrlich das Kind deines Vaters. Du behandelst deine Kumpanen wie höllische Experimente, setzt Wissenschaft vor Bermherzigkeit, vor Ehre!"
+      <DefaultText>{Furious, shaking with rage}„Du bist wahrlich das Kind deines Vaters. Du behandelst deine Kumpanen wie höllische Experimente, setzt Wissenschaft vor Bermherzigkeit, vor Ehre!“
 
-"Gib mir einen guten Grund, warum ich nicht jetzt sofort gehen soll."
+„Gib mir einen guten Grund, warum ich nicht jetzt sofort gehen soll.“
 
 {SCRIPT: This should be a triggered conversation that Aligern initiates as soon as he is out of D and O's clutches.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>{Sick, furious}"Der Schlund hat zu viel genommen. Viel zu viel. Und du hast mich einfach dagelassen!"
+      <DefaultText>{Sick, furious}„Der Schlund hat zu viel genommen. Viel zu viel. Und du hast mich einfach dagelassen!“
 
-"Versuche das nie nochmal. Auch nicht etwas Ähnliches. Das ist eine Warnung."
+„Versuche das nie nochmal. Auch nicht etwas Ähnliches. Das ist eine Warnung.“
 
 {SCRIPT: This should be a triggered conversation that Aligern initiates as soon as he is out of the maw.}</DefaultText>
       <FemaleText />
@@ -732,22 +732,22 @@ Er dreht sich von dir weg. "Ich hoffe, dass es den Preis wert war."</DefaultText
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Versprochen, das werde ich nicht."</DefaultText>
+      <DefaultText>„Versprochen, das werde ich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>(Lüge) "Versprochen, das werde ich nicht."</DefaultText>
+      <DefaultText>(Lüge) „Versprochen, das werde ich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Keine Garantien. Tut mir leid."</DefaultText>
+      <DefaultText>„Keine Garantien. Tut mir leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Es tut mir leid. Lass uns über etwas anderes sprechen."</DefaultText>
+      <DefaultText>„Es tut mir leid. Lass uns über etwas anderes sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -787,7 +787,7 @@ Er dreht sich von dir weg. "Ich hoffe, dass es den Preis wert war."</DefaultText
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Ja. Tun wir das."</DefaultText>
+      <DefaultText>„Ja. Tun wir das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1032,17 +1032,17 @@ Er dreht sich von dir weg. "Ich hoffe, dass es den Preis wert war."</DefaultText
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Und keinen Moment zu früh. Viel Glück mit dem Kummer, Abgeworfener."</DefaultText>
+      <DefaultText>„Und keinen Moment zu früh. Viel Glück mit dem Kummer, Abgeworfener.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Es tut mir leid. Lass uns weitergehen."</DefaultText>
+      <DefaultText>„Es tut mir leid. Lass uns weitergehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Dann gibt es keine Garantie, dass ich bei dir bleibe. Denk daran."</DefaultText>
+      <DefaultText>„Dann gibt es keine Garantie, dass ich bei dir bleibe. Denk daran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1077,12 +1077,12 @@ Er dreht sich von dir weg. "Ich hoffe, dass es den Preis wert war."</DefaultText
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Deine Versprechen bedeuten mir gar nichts mehr nach dem, was du gerade gemacht hast. Aber … aber ich brauche dich noch. Also … halte dein Versprechen."</DefaultText>
+      <DefaultText>„Deine Versprechen bedeuten mir gar nichts mehr nach dem, was du gerade gemacht hast. Aber … aber ich brauche dich noch. Also … halte dein Versprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Solche Aufrichtigkeit. Was willst du?"</DefaultText>
+      <DefaultText>„Solche Aufrichtigkeit. Was willst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1162,14 +1162,14 @@ Er dreht sich von dir weg. "Ich hoffe, dass es den Preis wert war."</DefaultText
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>"Ein echter Freund hätte mich gar nicht erst dort hingebracht."</DefaultText>
+      <DefaultText>„Ein echter Freund hätte mich gar nicht erst dort hingebracht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Du nennst mich schwach? Du? Du hast keine Führungsqualitäten, kleine Moral … bei den Schwarzen Drei, du hast nicht mal Freunde. Du bist schwach auf alle Arten, die zählen."
+      <DefaultText>„Du nennst mich schwach? Du? Du hast keine Führungsqualitäten, kleine Moral … bei den Schwarzen Drei, du hast nicht mal Freunde. Du bist schwach auf alle Arten, die zählen.“
 
-Er hält sich eine Hand vor die Augen. " … vergiss es. Vergiss es. Ich bin müde, ich bin verletzt."</DefaultText>
+Er hält sich eine Hand vor die Augen. „ … vergiss es. Vergiss es. Ich bin müde, ich bin verletzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1199,7 +1199,7 @@ Er hält sich eine Hand vor die Augen. " … vergiss es. Vergiss es. Ich bin mü
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>"Danke. Ich wusste, dass du das nicht durchziehst."</DefaultText>
+      <DefaultText>„Danke. Ich wusste, dass du das nicht durchziehst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1209,17 +1209,17 @@ Er hält sich eine Hand vor die Augen. " … vergiss es. Vergiss es. Ich bin mü
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>Spöttisch sagt er: "Du hast deine Freundschaft auf eine tolle Art gezeigt."</DefaultText>
+      <DefaultText>Spöttisch sagt er: „Du hast deine Freundschaft auf eine tolle Art gezeigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>"Ich weiß es zu schätzen, Verstoßener. Du bist in Ordnung."</DefaultText>
-      <FemaleText>"Ich weiß es zu schätzen, Verstoßene. Du bist in Ordnung."</FemaleText>
+      <DefaultText>„Ich weiß es zu schätzen, Verstoßener. Du bist in Ordnung.“</DefaultText>
+      <FemaleText>„Ich weiß es zu schätzen, Verstoßene. Du bist in Ordnung.“</FemaleText>
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>"Hehe. Ich muss auch in meiner besten Form sein. Das ist für uns beide besser."</DefaultText>
+      <DefaultText>„Hehe. Ich muss auch in meiner besten Form sein. Das ist für uns beide besser.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1229,32 +1229,32 @@ Er hält sich eine Hand vor die Augen. " … vergiss es. Vergiss es. Ich bin mü
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Er nickt einmal scharf. "Dann solltest du dich beim nächsten Mal nicht verrechnen."</DefaultText>
+      <DefaultText>Er nickt einmal scharf. „Dann solltest du dich beim nächsten Mal nicht verrechnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>"Ich wünschte, das wäre dir früher eingefallen."</DefaultText>
+      <DefaultText>„Ich wünschte, das wäre dir früher eingefallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>"Denk beim nächsten Mal mehr nach. Lass mich nicht für deine Fehler leiden."</DefaultText>
+      <DefaultText>„Denk beim nächsten Mal mehr nach. Lass mich nicht für deine Fehler leiden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>"Tja, was immer deine Gründe waren - danke dir."</DefaultText>
+      <DefaultText>„Tja, was immer deine Gründe waren - danke dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>"Dann danke, glaube ich."</DefaultText>
+      <DefaultText>„Dann danke, glaube ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>"Nur eine Laune, he?" Er schnaubt.</DefaultText>
+      <DefaultText>„Nur eine Laune, he?“ Er schnaubt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1264,9 +1264,9 @@ Er hält sich eine Hand vor die Augen. " … vergiss es. Vergiss es. Ich bin mü
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>{sick, furious}"Du hast es mir versprochen. Du hast mir versprochen, dass du mich nie wieder gegen meinen Willen benutzen würdest."
+      <DefaultText>{sick, furious}„Du hast es mir versprochen. Du hast mir versprochen, dass du mich nie wieder gegen meinen Willen benutzen würdest.“
 
-"Na ja, Ich sagte dir, das letzte Mal sollte auch das letzte Mal sein. Und ich lüge nicht, so, wie andere hier. Wir sind fertig.{turns away} Ich hoffe du, verrottest hier drin."
+„Na ja, Ich sagte dir, das letzte Mal sollte auch das letzte Mal sein. Und ich lüge nicht, so, wie andere hier. Wir sind fertig.{turns away} Ich hoffe du, verrottest hier drin.“
 
 {SCRIPT: This should be a triggered conversation that Aligern initiates as soon as he is out of the maw.}
 {SCRIPT: Make sure to set PCPromisedNoMoreAbuse to two in the Maw conversation if PCPromisedNoMoreAbuse was already set to 1.}</DefaultText>
@@ -1274,9 +1274,9 @@ Er hält sich eine Hand vor die Augen. " … vergiss es. Vergiss es. Ich bin mü
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>{sick and furious}"Und ich hasse dich. Du hast mir versprochen, du würdest mich die wieder gegen meinen Willen benutzen."
+      <DefaultText>{sick and furious}„Und ich hasse dich. Du hast mir versprochen, du würdest mich die wieder gegen meinen Willen benutzen.“
 
-"Na ja, Ich sagte dir, das letzte Mal sollte auch das letzte Mal sein. Und ich lüge nicht, so, wie andere hier. Wir sind fertig.{pause} Ich hoffe, du verrottest hier drin."
+„Na ja, Ich sagte dir, das letzte Mal sollte auch das letzte Mal sein. Und ich lüge nicht, so, wie andere hier. Wir sind fertig.{pause} Ich hoffe, du verrottest hier drin.“
 
 {SCRIPT: leaves party.}
 {SCRIPT: This should be a triggered conversation that Aligern initiates as soon as hehas given a memory.}
@@ -1285,9 +1285,9 @@ Er hält sich eine Hand vor die Augen. " … vergiss es. Vergiss es. Ich bin mü
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>{sick, furious}"Du hast verprochen, du würdest mich rausziehen. Und du hast mich einfach verlassen!"
+      <DefaultText>{sick, furious}„Du hast verprochen, du würdest mich rausziehen. Und du hast mich einfach verlassen!“
 
-"Ein Mann kann nur so viel Missbrauch vertragen. Ich bin fertig.{turns away} Ich hoffe, du verrottest hier drin."
+„Ein Mann kann nur so viel Missbrauch vertragen. Ich bin fertig.{turns away} Ich hoffe, du verrottest hier drin.“
 
 {SCRIPT: Aligen leaves the party.}
 {SCRIPT: This should be a triggered conversation that Aligern initiates as soon as he is out of the maw.}
@@ -1336,87 +1336,87 @@ Er hält sich eine Hand vor die Augen. " … vergiss es. Vergiss es. Ich bin mü
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>"Du siehst aus, als hättest du was zu sagen."</DefaultText>
+      <DefaultText>„Du siehst aus, als hättest du was zu sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>"Lasst uns zu Orth zurückkehren, eh? Ich will wissen, was er zu diesem Rahmen sagen wird, was sein großes Geheimnis ist."</DefaultText>
+      <DefaultText>„Lasst uns zu Orth zurückkehren, eh? Ich will wissen, was er zu diesem Rahmen sagen wird, was sein großes Geheimnis ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>{hesitant, ashamed}"Ich ... ich weiß nicht, wie ich für die Hilfe mit dem Rahmen danken kann, mit den Tätowierungen ... mit meiner *Familie*. Ich weiß, ich war nicht der einfachste Kumpane, oder der vertrauensvollste."
+      <DefaultText>{hesitant, ashamed}„Ich ... ich weiß nicht, wie ich für die Hilfe mit dem Rahmen danken kann, mit den Tätowierungen ... mit meiner *Familie*. Ich weiß, ich war nicht der einfachste Kumpane, oder der vertrauensvollste.“
 
-{swallows}"Ich hoffe, du weißt jetzt, warum ich mich so benommen habe, wie ich es tat."</DefaultText>
+{swallows}„Ich hoffe, du weißt jetzt, warum ich mich so benommen habe, wie ich es tat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>{Focused, determined}"Finden wir jetzt diesen Rahmen."
+      <DefaultText>{Focused, determined}„Finden wir jetzt diesen Rahmen.“
 
-"Ich habe lang genug gewartet."</DefaultText>
+„Ich habe lang genug gewartet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>"Du hast mir geholfen, die Wahrheit über meine Familie herauszufinden. Ich wünschte, ich hätte früher damit aufgehört, diese Tätowierungen zu benutzen, aber …"
+      <DefaultText>„Du hast mir geholfen, die Wahrheit über meine Familie herauszufinden. Ich wünschte, ich hätte früher damit aufgehört, diese Tätowierungen zu benutzen, aber …“
 
-Er zuckt mit den Schultern. "Aber die Vergangenheit kann ich nicht ändern, schätze ich."</DefaultText>
+Er zuckt mit den Schultern. „Aber die Vergangenheit kann ich nicht ändern, schätze ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>"Du hast mehr gemacht, als ich von dir erwartet hätte. Ich hätte dir gegenüber nicht so argwöhnisch sein sollen. Vielen Dank."</DefaultText>
+      <DefaultText>„Du hast mehr gemacht, als ich von dir erwartet hätte. Ich hätte dir gegenüber nicht so argwöhnisch sein sollen. Vielen Dank.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>"Du hast mehr gemacht, als ich von dir erwartet hätte. Selbst wenn du der Wandelnde Gott bist. Du hast das Richtige gemacht … jedenfalls soweit du konntest."</DefaultText>
+      <DefaultText>„Du hast mehr gemacht, als ich von dir erwartet hätte. Selbst wenn du der Wandelnde Gott bist. Du hast das Richtige gemacht … jedenfalls soweit du konntest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>"Ich wünschte … ich wünschte, wir hätten es früher gewusst. Ich hätte aufgehört, die Tätowierungen zu benutzen. Wenn du und meine Familie Schaden nehmen …" Er schluckt.
+      <DefaultText>„Ich wünschte … ich wünschte, wir hätten es früher gewusst. Ich hätte aufgehört, die Tätowierungen zu benutzen. Wenn du und meine Familie Schaden nehmen …“ Er schluckt.
 
-"Ich denke, wir werden sehen, was geschieht."</DefaultText>
+„Ich denke, wir werden sehen, was geschieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>"Ich habe deinen Freund Orth getroffen. Er möchte, dass du vorbeikommst."</DefaultText>
+      <DefaultText>„Ich habe deinen Freund Orth getroffen. Er möchte, dass du vorbeikommst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>"Nein. Ich habe nur ein paar Fragen."</DefaultText>
+      <DefaultText>„Nein. Ich habe nur ein paar Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>"Nicht wirklich. Lass uns weitergehen."</DefaultText>
+      <DefaultText>„Nicht wirklich. Lass uns weitergehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>"Na gut."</DefaultText>
+      <DefaultText>„Na gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>Er seufzt und seine Augen werden schmal. "In Ordnung. Aber … sag mir Bescheid, wenn du etwas herausfindest, dass ich wissen sollte."</DefaultText>
+      <DefaultText>Er seufzt und seine Augen werden schmal. „In Ordnung. Aber … sag mir Bescheid, wenn du etwas herausfindest, dass ich wissen sollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>"Hat er gesagt warum? Nein, warte, sag es mir nicht - ich werde es aus seinem Mund hören. Lass uns jetzt hingehen. War das alles, oder hast du noch andere Fragen?"</DefaultText>
+      <DefaultText>„Hat er gesagt warum? Nein, warte, sag es mir nicht - ich werde es aus seinem Mund hören. Lass uns jetzt hingehen. War das alles, oder hast du noch andere Fragen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>"Und? Lasst und Orth Faung finden!"{Stops to collect himself}
+      <DefaultText>„Und? Lasst und Orth Faung finden!“{Stops to collect himself}
 
-"Tut mir Leid. Du hast wahrscheinlich etwas, worüber du reden willst."</DefaultText>
+„Tut mir Leid. Du hast wahrscheinlich etwas, worüber du reden willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1451,12 +1451,12 @@ Er zuckt mit den Schultern. "Aber die Vergangenheit kann ich nicht ändern, sch�
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>"Lass uns über dich und deine Geschichte reden."</DefaultText>
+      <DefaultText>„Lass uns über dich und deine Geschichte reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>"Ich möchte nochmal über dich und deine Geschichte reden."</DefaultText>
+      <DefaultText>„Ich möchte nochmal über dich und deine Geschichte reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1471,7 +1471,7 @@ Er zuckt mit den Schultern. "Aber die Vergangenheit kann ich nicht ändern, sch�
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>"Aadiriis hatte Recht über dich."</DefaultText>
+      <DefaultText>„Aadiriis hatte Recht über dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1481,7 +1481,7 @@ Er zuckt mit den Schultern. "Aber die Vergangenheit kann ich nicht ändern, sch�
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>"Aadiriis hatte Recht über dich."</DefaultText>
+      <DefaultText>„Aadiriis hatte Recht über dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1501,7 +1501,7 @@ Er zuckt mit den Schultern. "Aber die Vergangenheit kann ich nicht ändern, sch�
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>"Bei den Göttern, dieses Ding … ich wollte es nicht mal berühren. Lass es uns zu Orth bringen, bevor etwas passiert."</DefaultText>
+      <DefaultText>„Bei den Göttern, dieses Ding … ich wollte es nicht mal berühren. Lass es uns zu Orth bringen, bevor etwas passiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
