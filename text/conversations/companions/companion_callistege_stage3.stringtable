@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich möchte dich zu einem unserer Begleiter befragen."</DefaultText>
+      <DefaultText>„Ich möchte dich zu einem unserer Begleiter befragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Wir sollten uns trennen."</DefaultText>
+      <DefaultText>„Wir sollten uns trennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Das ist alles, was ich wissen wollte. Gehen wir weiter."</DefaultText>
+      <DefaultText>„Das ist alles, was ich wissen wollte. Gehen wir weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,22 +51,22 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <DefaultText>„Wie geht es dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <DefaultText>„Wie geht es dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Wie du möchtest, Liebes."</DefaultText>
+      <DefaultText>„Wie du möchtest, Liebes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ja. Tun wir das."</DefaultText>
+      <DefaultText>„Ja. Tun wir das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Kannst du mir mehr über die Dendra O'hur erzählen?"</DefaultText>
+      <DefaultText>„Kannst du mir mehr über die Dendra O'hur erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,12 +261,12 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Nicht mehr als du mir sagen kannst." Sie betrachtet dich nachdenklich. "Es gibt viele Wege, um nach Wissen zu streben, Liebes. Du solltest den Weg wählen, der deinen Bedürfnissen am besten dient."</DefaultText>
+      <DefaultText>„Nicht mehr als du mir sagen kannst.“ Sie betrachtet dich nachdenklich. „Es gibt viele Wege, um nach Wissen zu streben, Liebes. Du solltest den Weg wählen, der deinen Bedürfnissen am besten dient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Sie bewahren Wissen. Zweifellos eine wertvolle Tätigkeit. Allerdings behalten sie es auch für sich. Wir können noch keine Erinnerungen extrahieren, damit alle davon profitieren, und sie schreiben ihre Entdeckungen nicht nieder." Sie zuckt beiläufig mit einer Schulter. "Ich verurteile Leute nicht wegen dem, was sie essen oder sonst so tun."</DefaultText>
+      <DefaultText>„Sie bewahren Wissen. Zweifellos eine wertvolle Tätigkeit. Allerdings behalten sie es auch für sich. Wir können noch keine Erinnerungen extrahieren, damit alle davon profitieren, und sie schreiben ihre Entdeckungen nicht nieder.“ Sie zuckt beiläufig mit einer Schulter. „Ich verurteile Leute nicht wegen dem, was sie essen oder sonst so tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Was sollten wir deiner Meinung nach als Nächstes tun?"</DefaultText>
+      <DefaultText>„Was sollten wir deiner Meinung nach als Nächstes tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,14 +286,14 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Du solltest Aadiriis Aufgabe erfüllen. Sie hat eine wahrlich faszinierende Sicht auf die Dinge und ich würde ein paar ihrer Gedanken für mich entdecken."
+      <DefaultText>„Du solltest Aadiriis Aufgabe erfüllen. Sie hat eine wahrlich faszinierende Sicht auf die Dinge und ich würde ein paar ihrer Gedanken für mich entdecken.“
 
 {SCRIPT: The PC is on Aadiriis' quest.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Wir müssen Miel Avest erreichen. Dort warten sicherlich einige Antworten auf uns."
+      <DefaultText>„Wir müssen Miel Avest erreichen. Dort warten sicherlich einige Antworten auf uns.“
 
 {SCRIPT: PC is looking for Miel Avest and has either not encountered Motley, or has resolved that quest line and has yet to enter Miel Avest.}</DefaultText>
       <FemaleText />
@@ -365,12 +365,12 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Was ist deine Geschichte?"</DefaultText>
+      <DefaultText>„Was ist deine Geschichte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Ich möchte nochmal über dich sprechen."</DefaultText>
+      <DefaultText>„Ich möchte nochmal über dich sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -395,7 +395,7 @@
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Wir müssen uns wieder Zugang zur Nekropole verschaffen, wenn wir den Weg nach Miel Avest finden wollen."
+      <DefaultText>„Wir müssen uns wieder Zugang zur Nekropole verschaffen, wenn wir den Weg nach Miel Avest finden wollen.“
 
 {SCRIPT: PC has encountered Motley but not resolved that quest line (the teleport terminal remains locked).}</DefaultText>
       <FemaleText />
@@ -452,62 +452,62 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Dieser Mann, Phoenix. War es einfach nur das fehlende Wissen um seinen Tod, das ihn zurück ins Leben geholt hat? Oder glaubst du, dass da noch mehr dahinter steckt?"</DefaultText>
+      <DefaultText>„Dieser Mann, Phoenix. War es einfach nur das fehlende Wissen um seinen Tod, das ihn zurück ins Leben geholt hat? Oder glaubst du, dass da noch mehr dahinter steckt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Er hat nach einem Grund für seine Existenz gesucht."</DefaultText>
+      <DefaultText>„Er hat nach einem Grund für seine Existenz gesucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Das geht uns allen so. Wie unschön, dass seine Bestimmung darin bestand, herauszufinden, dass er bereits gestorben ist." Sie sieht so aus, als würde sie noch mehr sagen wollen, aber dann lacht eine ihrer Schwestern und der Moment ist vorbei.</DefaultText>
+      <DefaultText>„Das geht uns allen so. Wie unschön, dass seine Bestimmung darin bestand, herauszufinden, dass er bereits gestorben ist.“ Sie sieht so aus, als würde sie noch mehr sagen wollen, aber dann lacht eine ihrer Schwestern und der Moment ist vorbei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Er war auf der Suche nach Weisheit."</DefaultText>
+      <DefaultText>„Er war auf der Suche nach Weisheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Auf der Oberfläche, ja. Aber was nützt Weisheit einem Toten? Welchen Zweck erfüllt Wissen, wenn man einfach keinen Gebrauch davon machen kann?" Sie wird ruhig.</DefaultText>
+      <DefaultText>„Auf der Oberfläche, ja. Aber was nützt Weisheit einem Toten? Welchen Zweck erfüllt Wissen, wenn man einfach keinen Gebrauch davon machen kann?“ Sie wird ruhig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Wonach, glaubst du, hat er gesucht?"</DefaultText>
+      <DefaultText>„Wonach, glaubst du, hat er gesucht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>Für einen Moment lang ist sie still. Nach einer Weile seufzt sie. "Ich weiß nicht. Es scheint, als wäre er nur dazu in der Lage gewesen, auf die richtige Person zu warten, die ihm helfen kann. Was für eine bedauernswerte Existenz."</DefaultText>
+      <DefaultText>Für einen Moment lang ist sie still. Nach einer Weile seufzt sie. „Ich weiß nicht. Es scheint, als wäre er nur dazu in der Lage gewesen, auf die richtige Person zu warten, die ihm helfen kann. Was für eine bedauernswerte Existenz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Warum sollte hinter seinen Taten mehr stecken als Einsicht?"</DefaultText>
+      <DefaultText>„Warum sollte hinter seinen Taten mehr stecken als Einsicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Weil wir in einer Welt leben, die wir kontrollieren können, und nicht in einer, die wir einfach nur irgendwie verstehen müssen!" Einen Augenblick lang drehen sich ihre Echos zu ihr um und sehen sie an. Dann lacht eines von ihnen, leer und spottend. Callistege wird blass im Gesicht und sie geht einen kleinen Schritt zurück.</DefaultText>
+      <DefaultText>„Weil wir in einer Welt leben, die wir kontrollieren können, und nicht in einer, die wir einfach nur irgendwie verstehen müssen!“ Einen Augenblick lang drehen sich ihre Echos zu ihr um und sehen sie an. Dann lacht eines von ihnen, leer und spottend. Callistege wird blass im Gesicht und sie geht einen kleinen Schritt zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Es spielt keine Rolle. Ich habe andere Fragen an dich."</DefaultText>
+      <DefaultText>„Es spielt keine Rolle. Ich habe andere Fragen an dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Ich sehe das anders. Aber fühl dich frei und frag."</DefaultText>
+      <DefaultText>„Ich sehe das anders. Aber fühl dich frei und frag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Vergiss es. Gehen wir."</DefaultText>
+      <DefaultText>„Vergiss es. Gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -552,17 +552,17 @@
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Ich möchte gerne ein wenig alleine sein und nachdenken, wenn das für dich in Ordnung ist."</DefaultText>
+      <DefaultText>„Ich möchte gerne ein wenig alleine sein und nachdenken, wenn das für dich in Ordnung ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"Weil wir mehr sind als nur irgendwelche Monster." Sie begutachtet dich. "Wer sich seiner eigenen Motivationen nicht bewusst ist, wird schnell von den Bedürfnissen anderer vereinnahmt. Vielleicht hast du in seinem Schicksal eine größere Rolle gespielt, als du zugeben willst."</DefaultText>
+      <DefaultText>„Weil wir mehr sind als nur irgendwelche Monster.“ Sie begutachtet dich. „Wer sich seiner eigenen Motivationen nicht bewusst ist, wird schnell von den Bedürfnissen anderer vereinnahmt. Vielleicht hast du in seinem Schicksal eine größere Rolle gespielt, als du zugeben willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Wie du willst."</DefaultText>
+      <DefaultText>„Wie du willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -627,12 +627,12 @@
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>"Es fällt mir schwer, zu glauben, dass Inifere so lange in dieser Höllenlandschaft leben konnte. Vor was muss er davongelaufen sein, wenn es so viel schrecklicher ist als das, was ihm dort wiederfahren ist?"</DefaultText>
+      <DefaultText>„Es fällt mir schwer, zu glauben, dass Inifere so lange in dieser Höllenlandschaft leben konnte. Vor was muss er davongelaufen sein, wenn es so viel schrecklicher ist als das, was ihm dort wiederfahren ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>"Er hat sich vor dem Kummer versteckt."</DefaultText>
+      <DefaultText>„Er hat sich vor dem Kummer versteckt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -652,37 +652,37 @@
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>"Er hat zu sehr in vergangenen Zeiten geschwelgt. Wir sollten seinen Fehler nicht wiederholen."</DefaultText>
+      <DefaultText>„Er hat zu sehr in vergangenen Zeiten geschwelgt. Wir sollten seinen Fehler nicht wiederholen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>"Eine weise Entscheidung. Sich in seinem eigenen Elend zu suhlen, verschafft einem lediglich eine Aura der unerträglichen Selbstbeweihräucherung."</DefaultText>
+      <DefaultText>„Eine weise Entscheidung. Sich in seinem eigenen Elend zu suhlen, verschafft einem lediglich eine Aura der unerträglichen Selbstbeweihräucherung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>"Er war fernab jeglicher Realität, sein Verstand zerbrochen. Es steckt keine Logik hinter seinen Taten."</DefaultText>
+      <DefaultText>„Er war fernab jeglicher Realität, sein Verstand zerbrochen. Es steckt keine Logik hinter seinen Taten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>"Wirklich? Sogar der Wahnsinn hat seine Beweggründe. Du würdest mehr lernen, wenn du versuchen würdest zu verstehen, anstatt zu verurteilen. Aber diese Wahl liegt bei dir."</DefaultText>
+      <DefaultText>„Wirklich? Sogar der Wahnsinn hat seine Beweggründe. Du würdest mehr lernen, wenn du versuchen würdest zu verstehen, anstatt zu verurteilen. Aber diese Wahl liegt bei dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>"Es spielt keine Rolle. "Ich habe andere Fragen an dich."</DefaultText>
+      <DefaultText>„Es spielt keine Rolle. Ich habe andere Fragen an dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>"Wie du möchtest, Liebes."</DefaultText>
+      <DefaultText>„Wie du möchtest, Liebes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>"Vergiss es. Gehen wir."</DefaultText>
+      <DefaultText>„Vergiss es. Gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -692,27 +692,27 @@
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>"In der Tat."</DefaultText>
+      <DefaultText>„In der Tat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>"Ich habe einige andere Fragen an dich."</DefaultText>
+      <DefaultText>„Ich habe einige andere Fragen an dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>"Natürlich."</DefaultText>
+      <DefaultText>„Natürlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>"Er hat sich vor dem Kummer versteckt. Sein Versteck ist jetzt allerdings Geschichte."</DefaultText>
+      <DefaultText>„Er hat sich vor dem Kummer versteckt. Sein Versteck ist jetzt allerdings Geschichte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>"Der Kummer könnte doch nie schlimmer sein als das, was wir hinter diesem Tor gesehen haben." Sie schüttelt den Kopf. "Nichts aus all diesen Realitäten kommt ihm gleich. Und wo er ist gibt es nur ein Tor, das Möglichkeiten auf ewig auslöscht. Gut möglich, dass er nicht einmal mehr der Inifere ist, der in das Tor hineingegangen ist." Sie zuckt mit den Schultern. "Aber wir alle müssen hin und wieder mit dieser Unsicherheit kämpfen."</DefaultText>
+      <DefaultText>„Der Kummer könnte doch nie schlimmer sein als das, was wir hinter diesem Tor gesehen haben.“ Sie schüttelt den Kopf. „Nichts aus all diesen Realitäten kommt ihm gleich. Und wo er ist gibt es nur ein Tor, das Möglichkeiten auf ewig auslöscht. Gut möglich, dass er nicht einmal mehr der Inifere ist, der in das Tor hineingegangen ist.“ Sie zuckt mit den Schultern. „Aber wir alle müssen hin und wieder mit dieser Unsicherheit kämpfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -722,17 +722,17 @@
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>"Er hat Weisheit ohne Sinn und Zweck gesucht, und das war es, was ihn ungeschehen gemacht hat."</DefaultText>
+      <DefaultText>„Er hat Weisheit ohne Sinn und Zweck gesucht, und das war es, was ihn ungeschehen gemacht hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>Einige Augenblicke lang ist sie still. "Ich glaube, da liegst du vollkommen richtig", sagt sie schließlich. "Es beschämt mich, dass jemand so Junges mein Verständnis der Dinge übertrifft, aber ich kann nicht leugnen, dass du einige wertvolle Einsichten zu liefern hast."</DefaultText>
+      <DefaultText>Einige Augenblicke lang ist sie still. „Ich glaube, da liegst du vollkommen richtig“, sagt sie schließlich. „Es beschämt mich, dass jemand so Junges mein Verständnis der Dinge übertrifft, aber ich kann nicht leugnen, dass du einige wertvolle Einsichten zu liefern hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>"Du wolltest die Aufzeichnungen des Wandelnden Gottes über die Datosphäre? Hier. Nimm sie."</DefaultText>
+      <DefaultText>„Du wolltest die Aufzeichnungen des Wandelnden Gottes über die Datosphäre? Hier. Nimm sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -747,12 +747,12 @@
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>Ihr Lachen wird vom Geräusch der Qualen um dich herum ertränkt. "Vielleicht tun wir das, wenn du vorhast, mich *hier* zu lassen. Nein, wir werden das bis zum Ende durchstehen. *Dann* können darüber sprechen, getrennte Wege zu gehen, wenn du willst."</DefaultText>
+      <DefaultText>Ihr Lachen wird vom Geräusch der Qualen um dich herum ertränkt. „Vielleicht tun wir das, wenn du vorhast, mich *hier* zu lassen. Nein, wir werden das bis zum Ende durchstehen. *Dann* können darüber sprechen, getrennte Wege zu gehen, wenn du willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>"Es gibt keine Realität, in der das *hier* geschehen wird."</DefaultText>
+      <DefaultText>„Es gibt keine Realität, in der das *hier* geschehen wird.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
