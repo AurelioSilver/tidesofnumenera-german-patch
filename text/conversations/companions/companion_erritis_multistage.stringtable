@@ -472,14 +472,14 @@ Sein Blick wendet sich von dir ab. "Ich verabschiede mich vielleicht nicht einma
       <ID>90</ID>
       <DefaultText>"Habe ich das?" sagt er blinzelnd. "Eine seltsame Aussage. Wer hat denn etwas gegen Spiegel? Ich auf jeden Fall nicht. Moment."
 
-Er runzelt die Stirn. Seine goldene Aura versiegt, bis sie fast vollständig verschwunden ist.  
+Er runzelt die Stirn. Seine goldene Aura versiegt, bis sie fast vollständig verschwunden ist.
 
 "Ich mag Spiegel", sagt er schließlich. "Ich habe kein Problem mit ihnen. Reden wir über etwas anderes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Jetzt? Wirklich? Aber wir haben doch gerade erst angefangen!" Er sackt etwas zusammen, sein Leuchten wird schwächer. 
+      <DefaultText>"Jetzt? Wirklich? Aber wir haben doch gerade erst angefangen!" Er sackt etwas zusammen, sein Leuchten wird schwächer.
 
 "Ich werde hier in Klippenrand warten", sagt er seufzend. "Fremde treffen. Geschichten erzählen. Tricks vorführen! Ausprobieren, wie lange ich meinen Atem anhalten kann!"
 
@@ -493,7 +493,7 @@ Sein Leuchten wird wieder stärker, als er dir zuwinkt und davonläuft.</Default
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Jetzt? Wirklich? Aber wir haben doch gerade erst angefangen!" Er sackt etwas zusammen, sein Leuchten wird schwächer. 
+      <DefaultText>"Jetzt? Wirklich? Aber wir haben doch gerade erst angefangen!" Er sackt etwas zusammen, sein Leuchten wird schwächer.
 
 "Ich werde in Klippenrand warten", sagt er seufzend. "Fremde treffen. Geschichten erzählen. Tricks vorführen! Ausprobieren, wie lange ich meinen Atem anhalten kann!"
 
@@ -556,7 +556,7 @@ Er räuspert sich und trottet davon, sein Leuchten flackert dabei wie ei Glühw�
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Andere Leute reisen mit uns?", fragt er schockiert. Er dreht sich misstrauisch um und sieht Matkina offenbar zum ersten Mal. Seine Kinnlade klappt herunter. 
+      <DefaultText>"Andere Leute reisen mit uns?", fragt er schockiert. Er dreht sich misstrauisch um und sieht Matkina offenbar zum ersten Mal. Seine Kinnlade klappt herunter.
 
 "Ähm."
 {SCRIPT: General note: all Matkina/Erritis bark conversations need to be gated with g_erritis_meets_matkina=1. He needs to spot her 'for the first time' before they can have their miscellaneous banters.}</DefaultText>
@@ -676,19 +676,19 @@ Er sieht zu dir auf und nickt. "Ich war schon immer ein Held."</DefaultText>
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Dann kehrt das goldene Licht zurück, eine wuchtvolle Explosion aus Strahlen und Hitze, die dich ein Stück zurückdrängt. 
+      <DefaultText>Dann kehrt das goldene Licht zurück, eine wuchtvolle Explosion aus Strahlen und Hitze, die dich ein Stück zurückdrängt.
 
 Erritis sieht dich seelenruhig aus dem Innern der Nova an. Er ist so schön, dass es dir schwer fällt, ihn anzusehen.
 
-"Ich habe keine Ahnung, wovon du redest." 
+"Ich habe keine Ahnung, wovon du redest."
 {SCRIPT: Glow returns}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Dann kehrt das goldene Licht zurück, eine wuchtvolle Explosion aus Strahlen und Hitze, die dich ein Stück zurückdrängt. Selbst halb blind erkennst du, dass das Leuchten tief aus seinem Innern kommt - es strahlt aus seinen Poren hervor wie kleine Sterne. 
+      <DefaultText>Dann kehrt das goldene Licht zurück, eine wuchtvolle Explosion aus Strahlen und Hitze, die dich ein Stück zurückdrängt. Selbst halb blind erkennst du, dass das Leuchten tief aus seinem Innern kommt - es strahlt aus seinen Poren hervor wie kleine Sterne.
 
-Erritis sieht dich seelenruhig aus dem Inneren der Nova an. Er ist beinahe unerträglich gutaussehend.  
+Erritis sieht dich seelenruhig aus dem Inneren der Nova an. Er ist beinahe unerträglich gutaussehend.
 
 "Ich habe keine Ahnung, wovon du redest."
 {SCRIPT: Glow returns}</DefaultText>
@@ -696,7 +696,7 @@ Erritis sieht dich seelenruhig aus dem Inneren der Nova an. Er ist beinahe unert
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Lass uns über etwas anderes reden. Dich interessiert das nicht." Seine Stimme ist leer und verträumt, und sein Blick wandert über dein Gesicht, ohne dich zu sehen. 
+      <DefaultText>"Lass uns über etwas anderes reden. Dich interessiert das nicht." Seine Stimme ist leer und verträumt, und sein Blick wandert über dein Gesicht, ohne dich zu sehen.
 
 Dann geht das Leuchten zurück wie eine Welle, und Erritis blinzelt. Er bemerkt, dass du zu ihm herübersiehst, und dreht sich daraufhin um, um zu sehen, was du anstarrst.</DefaultText>
       <FemaleText />
@@ -933,7 +933,7 @@ Er starrt in die Luft. "Nein. Ich denke, ich könnte mich daran erinnern, wenn i
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>Er blickt dich finster an und schiebt dir einen Finger ins Gesicht. 
+      <DefaultText>Er blickt dich finster an und schiebt dir einen Finger ins Gesicht.
 
 "Ich bin einem guten Witz nicht abgeneigt, aber man sollte *niemals* über das Abenteuer eines Mannes scherzen!"</DefaultText>
       <FemaleText />
@@ -979,7 +979,7 @@ Er legt seinen Kopf in seinen Händen ab. "Es ist einfach nie genug."</DefaultTe
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>Erritis denkt intensiv über deine Frage nach. Der Effekt wird dadurch, dass einige seiner langen, goldenen Haare abstehen, etwas ruiniert. 
+      <DefaultText>Erritis denkt intensiv über deine Frage nach. Der Effekt wird dadurch, dass einige seiner langen, goldenen Haare abstehen, etwas ruiniert.
 
 "Überhaupt nicht", beschließt er letztlich. "Ich fühle mich vollkommen normal." Ein Funke springt von seinem Kopf aus in die Luft.</DefaultText>
       <FemaleText />
@@ -1043,7 +1043,7 @@ Er legt seinen Kopf in seinen Händen ab. "Es ist einfach nie genug."</DefaultTe
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>Erritis holt Luft und startet einen neuen Versuch. 
+      <DefaultText>Erritis holt Luft und startet einen neuen Versuch.
 
 "Äh", sagt er. Er sieht aus wie ein Ertrinkender. Seine goldene Aura pulsiert im Takt seines Herzschlages.</DefaultText>
       <FemaleText />
@@ -1060,14 +1060,14 @@ Er legt seinen Kopf in seinen Händen ab. "Es ist einfach nie genug."</DefaultTe
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Sie sieht dich finster an, während sie versucht, deine Worte zu entschlüsseln. Als sie es tut, breitet sich mit dem Verständnis auch Entsetzen in ihrem Gesicht aus. 
+      <DefaultText>Sie sieht dich finster an, während sie versucht, deine Worte zu entschlüsseln. Als sie es tut, breitet sich mit dem Verständnis auch Entsetzen in ihrem Gesicht aus.
 
 "Nicht", sagt sie zu Erritis, "Das ist keine gute Idee. Sofern ich überhaupt einen Typ *habe*, bist du es auf keinen Fall."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>Erritis schaudert, holt tief Luft und blinzelt scheinbar unter Anstrengung aller Muskeln seines Körpers, um seinen Blick von Matkina abzuwenden. 
+      <DefaultText>Erritis schaudert, holt tief Luft und blinzelt scheinbar unter Anstrengung aller Muskeln seines Körpers, um seinen Blick von Matkina abzuwenden.
 
 "Wo-Worüber haben wir geredet? Oh. Die anderen. Über wen wollen wir reden?"</DefaultText>
       <FemaleText />
@@ -1079,7 +1079,7 @@ Er legt seinen Kopf in seinen Händen ab. "Es ist einfach nie genug."</DefaultTe
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>Ihre Augen weiten sich in blankem Entsetzen. Dann wirft sie Erritis einen finsteren Blick zu. 
+      <DefaultText>Ihre Augen weiten sich in blankem Entsetzen. Dann wirft sie Erritis einen finsteren Blick zu.
 
 "Nicht", sagt sie zu Erritis, "Das ist keine gute Idee. Sofern ich überhaupt einen Typ *habe*, bist du es auf keinen Fall."</DefaultText>
       <FemaleText />
