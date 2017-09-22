@@ -347,7 +347,7 @@
     <Entry>
       <ID>77</ID>
       <DefaultText>"Wenn du mit deinen Göttern redest ... Antworten sie? Hallen ihre Worte durch deinen Verstand oder manifestieren sie sich einfach als Emotionen?"</DefaultText>
-      <FemaleText> </FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
@@ -1882,7 +1882,7 @@
     <Entry>
       <ID>412</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>413</ID>
