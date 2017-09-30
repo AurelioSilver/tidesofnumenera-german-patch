@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Gut, sag schon."</DefaultText>
+      <DefaultText>„Gut, sag schon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Du willst reden? Dann rede."</DefaultText>
+      <DefaultText>„Du willst reden? Dann rede.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Was ist deine Geschichte?"</DefaultText>
+      <DefaultText>„Was ist deine Geschichte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <DefaultText>„Wie geht es dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich denke, wir sollten uns trennen."</DefaultText>
+      <DefaultText>„Ich denke, wir sollten uns trennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich würde gerne über unsere Begleiter sprechen."</DefaultText>
+      <DefaultText>„Ich würde gerne über unsere Begleiter sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,37 +306,37 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ich dachte, unsere Partnerschaft wäre erfolgreich. Ich muss sagen, das kommt ziemlich überraschend."</DefaultText>
+      <DefaultText>„Ich dachte, unsere Partnerschaft wäre erfolgreich. Ich muss sagen, das kommt ziemlich überraschend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Das ist keine gute Idee. Wir sind ein gutes Team. Aber gut."</DefaultText>
+      <DefaultText>„Das ist keine gute Idee. Wir sind ein gutes Team. Aber gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Ich wollte gerade dasselbe sagen. Unsere Wege werden sich wohl nicht mehr kreuzen."</DefaultText>
+      <DefaultText>„Ich wollte gerade dasselbe sagen. Unsere Wege werden sich wohl nicht mehr kreuzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Wenn du mich brauchst, findest du mich in der Grotte der Letzten Worte. Ich habe noch einiges zu erledigen."</DefaultText>
+      <DefaultText>„Wenn du mich brauchst, findest du mich in der Grotte der Letzten Worte. Ich habe noch einiges zu erledigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Was denn?"</DefaultText>
+      <DefaultText>„Was denn?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Neue Verstoßene haben immer ein seltsames Verhältnis zu anderen Verstoßenen. Da wird es dir nicht anders ergehen. Du siehst mich und musst daran denken, das wir alle Gefäße für dasselbe Bewusstsein waren. Und dann fragst du dich, ob wir sonst noch etwas gemeinsam haben." Sie zuckt mit den Schultern. "Nun, wir sind ein Haufen arroganter Angeber, die sich für die Größten halten. Das ist es aber wohl schon."</DefaultText>
+      <DefaultText>„Neue Verstoßene haben immer ein seltsames Verhältnis zu anderen Verstoßenen. Da wird es dir nicht anders ergehen. Du siehst mich und musst daran denken, das wir alle Gefäße für dasselbe Bewusstsein waren. Und dann fragst du dich, ob wir sonst noch etwas gemeinsam haben.“ Sie zuckt mit den Schultern. „Nun, wir sind ein Haufen arroganter Angeber, die sich für die Größten halten. Das ist es aber wohl schon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Ich möchte nochmal über dich sprechen."</DefaultText>
+      <DefaultText>„Ich möchte nochmal über dich sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -501,7 +501,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Ich bin nicht stolz darauf, hier zu leben."</DefaultText>
+      <DefaultText>„Ich bin nicht stolz darauf, hier zu leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,7 +746,7 @@
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>"Im Moment nichts. Gehen wir weiter."</DefaultText>
+      <DefaultText>„Im Moment nichts. Gehen wir weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1091,7 +1091,7 @@
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>"Reden wir darüber, was Verstoßene gemeinsam haben. Du kannst mir eine Menge Fragen dazu beantworten."</DefaultText>
+      <DefaultText>„Reden wir darüber, was Verstoßene gemeinsam haben. Du kannst mir eine Menge Fragen dazu beantworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1121,59 +1121,59 @@
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>"Du planst nicht, Peliai diese Sticha-Eier zu geben, oder?"
+      <DefaultText>„Du planst nicht, Peliai diese Sticha-Eier zu geben, oder?“
 
 {SCRIPT: Wants to Talk}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>341</ID>
-      <DefaultText>"Warum nicht?"</DefaultText>
+      <DefaultText>„Warum nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>"Oh doch."</DefaultText>
+      <DefaultText>„Oh doch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>"Gut. Und wenn wir Waisenkinder finden, können wir die dann auch zu Geiseln machen?"</DefaultText>
+      <DefaultText>„Gut. Und wenn wir Waisenkinder finden, können wir die dann auch zu Geiseln machen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText>"Du weißt, was sie mit diesen Eiern machen werden, oder? Peliai wird sie als Faustpfand gegen die Sticha verwenden. Die Sklavenfamilien könnten auch mit den Sticha reden, ohne ihre Kinder zu bedrohen. So wie *ich*."</DefaultText>
+      <DefaultText>„Du weißt, was sie mit diesen Eiern machen werden, oder? Peliai wird sie als Faustpfand gegen die Sticha verwenden. Die Sklavenfamilien könnten auch mit den Sticha reden, ohne ihre Kinder zu bedrohen. So wie *ich*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>"Ich bedrohe bereits die Kinder der Sticha. Ich habe ihre Eier. Die Drohung ist impliziert."</DefaultText>
+      <DefaultText>„Ich bedrohe bereits die Kinder der Sticha. Ich habe ihre Eier. Die Drohung ist impliziert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText>"Die Sticha sind eine Bedrohung für die Stadt. Die Stadt soll damit umgehen, wie sie es für richtig hält."</DefaultText>
+      <DefaultText>„Die Sticha sind eine Bedrohung für die Stadt. Die Stadt soll damit umgehen, wie sie es für richtig hält.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>"Aber du kannst ihnen die Eier zurückgeben."</DefaultText>
+      <DefaultText>„Aber du kannst ihnen die Eier zurückgeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>"Ich schätze, mehr kann man nicht erwarten."</DefaultText>
+      <DefaultText>„Ich schätze, mehr kann man nicht erwarten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>"Ich denk darüber nach."</DefaultText>
+      <DefaultText>„Ich denk darüber nach.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>"Ich könnte, aber ich werde wohl nicht."</DefaultText>
+      <DefaultText>„Ich könnte, aber ich werde wohl nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1203,17 +1203,17 @@
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>"Sie sagte, sie hat bereits versucht zu verhandeln."</DefaultText>
+      <DefaultText>„Sie sagte, sie hat bereits versucht zu verhandeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>Sie seufzt. "Glaub mir – Drohungen sind nicht immer die beste Option."</DefaultText>
+      <DefaultText>Sie seufzt. „Glaub mir – Drohungen sind nicht immer die beste Option.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>"Manchmal ist es die einzige Sprache, die die Leute verstehen."</DefaultText>
+      <DefaultText>„Manchmal ist es die einzige Sprache, die die Leute verstehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1458,17 +1458,17 @@
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>"Wer hat das gesagt? *Er*? Du nimmst doch hoffentlich keinen juristischen Rat von diesem Söldner an."</DefaultText>
+      <DefaultText>„Wer hat das gesagt? *Er*? Du nimmst doch hoffentlich keinen juristischen Rat von diesem Söldner an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>"Ich weiß nicht, was ich getan habe, um eine Persönlichkeit wie dich zu beleidigen. Und um das klarzustellen, ich habe keinerlei Vorschlag dergleichen gemacht. Ich bin nur ein einfacher Begleiter in unserer Gruppe."</DefaultText>
+      <DefaultText>„Ich weiß nicht, was ich getan habe, um eine Persönlichkeit wie dich zu beleidigen. Und um das klarzustellen, ich habe keinerlei Vorschlag dergleichen gemacht. Ich bin nur ein einfacher Begleiter in unserer Gruppe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>"Bitte, Tybir. Dein Ruf eilt dir voraus. Erzähl mir nicht, dass du das nur aus reiner Herzensgüte tust."</DefaultText>
+      <DefaultText>„Bitte, Tybir. Dein Ruf eilt dir voraus. Erzähl mir nicht, dass du das nur aus reiner Herzensgüte tust.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1478,12 +1478,12 @@
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>"Ich habe einen Hinweis bezüglich der Morde in der Schattenseite gefunden – ein Kreis rund um ein Dreieck mit einem blutenden Auge und ein weiteres Dreieck, das den Kreis von rechts unterbricht."</DefaultText>
+      <DefaultText>„Ich habe einen Hinweis bezüglich der Morde in der Schattenseite gefunden – ein Kreis rund um ein Dreieck mit einem blutenden Auge und ein weiteres Dreieck, das den Kreis von rechts unterbricht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>"Igitt. Die Kinder der Endlosen Pforte. Eine Splittergruppe der Dendra O'hur. Ein vergiftetes Geschenk eines unserer Geschwister. Die Dendra selbst, so widerlich sie auch sind und so nutzlos ihr Erschaffer ist, sind im Grunde harmlos. Sie haben eine Kirche in der Schattenseite. Rede mit ihnen."</DefaultText>
+      <DefaultText>„Igitt. Die Kinder der Endlosen Pforte. Eine Splittergruppe der Dendra O'hur. Ein vergiftetes Geschenk eines unserer Geschwister. Die Dendra selbst, so widerlich sie auch sind und so nutzlos ihr Erschaffer ist, sind im Grunde harmlos. Sie haben eine Kirche in der Schattenseite. Rede mit ihnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1503,7 +1503,7 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>"Manche denken, die Morde in der Schattenseite wären dein Werk."</DefaultText>
+      <DefaultText>„Manche denken, die Morde in der Schattenseite wären dein Werk.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1933,9 +1933,9 @@
     </Entry>
     <Entry>
       <ID>546</ID>
-      <DefaultText>"Ich habe schon seit Jahren niemanden mehr in der Schattenseite umgebracht. Lohnt sich nicht." Sie verschränkt die Arme. "Ich töte mit Stil. Habe einen Ruf zu verlieren."
+      <DefaultText>„Ich habe schon seit Jahren niemanden mehr in der Schattenseite umgebracht. Lohnt sich nicht.“ Sie verschränkt die Arme. „Ich töte mit Stil. Habe einen Ruf zu verlieren.“
 
-Sie hält inne. "Aber lass mich wissen, wenn du Spuren am Tatort findest. Ich muss zugeben, ich bin neugierig, wer in diesem Loch morden *würde*."</DefaultText>
+Sie hält inne. „Aber lass mich wissen, wenn du Spuren am Tatort findest. Ich muss zugeben, ich bin neugierig, wer in diesem Loch morden *würde*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1950,27 +1950,27 @@ Sie hält inne. "Aber lass mich wissen, wenn du Spuren am Tatort findest. Ich mu
     </Entry>
     <Entry>
       <ID>549</ID>
-      <DefaultText>"Ich gehe zurück zur Grotte der Letzten Worte. Du mach weiter mit... was auch immer du tust."</DefaultText>
+      <DefaultText>„Ich gehe zurück zur Grotte der Letzten Worte. Du mach weiter mit... was auch immer du tust.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>550</ID>
-      <DefaultText>"Was sollten wir deiner Meinung nach als Nächstes tun?"</DefaultText>
+      <DefaultText>„Was sollten wir deiner Meinung nach als Nächstes tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>"Nach Miel Avest gehen. Dort wirst du deine Antworten finden."</DefaultText>
+      <DefaultText>„Nach Miel Avest gehen. Dort wirst du deine Antworten finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>"Wenn es auf diese Weise endet, hätte ich mich dir nie anschließen sollen."</DefaultText>
+      <DefaultText>„Wenn es auf diese Weise endet, hätte ich mich dir nie anschließen sollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>"Wenn du willst. Ich hab hier ohnehin einiges zu erledigen."</DefaultText>
+      <DefaultText>„Wenn du willst. Ich hab hier ohnehin einiges zu erledigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2030,9 +2030,9 @@ Sie hält inne. "Aber lass mich wissen, wenn du Spuren am Tatort findest. Ich mu
     </Entry>
     <Entry>
       <ID>566</ID>
-      <DefaultText>Sie geht halbherzig auf den Schreibtisch zu, wie um zurück an die Arbeit zu gehen. Dann verschränkt sie die Arme. "Aber ..."
+      <DefaultText>Sie geht halbherzig auf den Schreibtisch zu, wie um zurück an die Arbeit zu gehen. Dann verschränkt sie die Arme. „Aber ...“
 
-"Vergiss es. Es gibt Wichtigeres, um das wir uns kümmern müssen. Tu einfach so, als würdest du das Chaos hier nicht sehen."</DefaultText>
+„Vergiss es. Es gibt Wichtigeres, um das wir uns kümmern müssen. Tu einfach so, als würdest du das Chaos hier nicht sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2042,7 +2042,7 @@ Sie hält inne. "Aber lass mich wissen, wenn du Spuren am Tatort findest. Ich mu
     </Entry>
     <Entry>
       <ID>568</ID>
-      <DefaultText>"Ich habe noch mehr Fragen über Verstoßene."</DefaultText>
+      <DefaultText>„Ich habe noch mehr Fragen über Verstoßene.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
