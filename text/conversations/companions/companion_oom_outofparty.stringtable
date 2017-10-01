@@ -30,17 +30,17 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Das ist mein Verstand, und ich möchte, dass du von dort verschwindest."</DefaultText>
+      <DefaultText>„Das ist mein Verstand, und ich möchte, dass du von dort verschwindest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>::brlk::, erklärt dir Oom – oder versucht es zumindest.</DefaultText>
+      <DefaultText>„::brlk::“, erklärt dir Oom – oder versucht es zumindest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Wie bist du in meinen Kopf gekommen?"</DefaultText>
+      <DefaultText>„Wie bist du in meinen Kopf gekommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,12 +63,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>::blrb::, sagt Oom, anscheinend durch einen versteckten Mund. Das Geräusch ist schwer und klingt feucht, aber nicht unfreundlich.</DefaultText>
+      <DefaultText>„::blrb::“, sagt Oom, anscheinend durch einen versteckten Mund. Das Geräusch ist schwer und klingt feucht, aber nicht unfreundlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>::srssrs::, zischt Oom und schaudert – so sieht es zumindest aus.</DefaultText>
+      <DefaultText>„::srssrs::“, zischt Oom und schaudert – so sieht es zumindest aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -80,27 +80,27 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>::mrmmrmm::, sagt Oom und scheint dir damit zuzustimmen.</DefaultText>
+      <DefaultText>„::mrmmrmm::“, sagt Oom und scheint dir damit zuzustimmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Du hast ein Gefängnis gegen ein anderes eingetauscht. Das ist ungerecht."</DefaultText>
+      <DefaultText>„Du hast ein Gefängnis gegen ein anderes eingetauscht. Das ist ungerecht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Du bist ein hübsches kleines Ding, was?"</DefaultText>
+      <DefaultText>„Du bist ein hübsches kleines Ding, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ich werde einen Weg finden, dich zu befreien."</DefaultText>
+      <DefaultText>„Ich werde einen Weg finden, dich zu befreien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Was war das für ein Geräusch, das ich gehört habe, als du mich vorhin angesehen hast? Wieso haben deine Augen eine andere Farbe angenommen?"</DefaultText>
+      <DefaultText>„Was war das für ein Geräusch, das ich gehört habe, als du mich vorhin angesehen hast? Wieso haben deine Augen eine andere Farbe angenommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,12 +145,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>::mmmmm::, sagt Oom. Es scheint zufrieden zu sein.</DefaultText>
+      <DefaultText>„::mmmmm::“, sagt Oom. Es scheint zufrieden zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>::rrrmm::, sagt Oom glücklich. Oder zumindest glaubst du, dass es glücklich ist.</DefaultText>
+      <DefaultText>„::rrrmm::“, sagt Oom glücklich. Oder zumindest glaubst du, dass es glücklich ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,17 +160,17 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Was für eine Art von Kreatur bist du eigentlich?"</DefaultText>
+      <DefaultText>„Was für eine Art von Kreatur bist du eigentlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Kannst du mir sonst noch etwas darüber sagen, was du bist?"</DefaultText>
+      <DefaultText>„Kannst du mir sonst noch etwas darüber sagen, was du bist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Bis später."</DefaultText>
+      <DefaultText>„Bis später.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -180,7 +180,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>::flrsk::, erklärt Oom und streckt einen kleinen Tentakel in Richtung deines Knöchels aus.</DefaultText>
+      <DefaultText>„::flrsk::“, erklärt Oom und streckt einen kleinen Tentakel in Richtung deines Knöchels aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,12 +212,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Du bist kein Spiegelbild, oder? Du kannst meinen Geist mit mir verlassen?"</DefaultText>
+      <DefaultText>„Du bist kein Spiegelbild, oder? Du kannst meinen Geist mit mir verlassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Möchtest du mich begleiten?"</DefaultText>
+      <DefaultText>„Möchtest du mich begleiten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,7 +248,7 @@
  
  Dann platzen die Blasen auf einmal und es sind nur noch Ooms leuchtende Augen zu sehen, die dich beobachten.
  
- ::blrk::, sagt es und verstummt.</DefaultText>
+ „::blrk::“, sagt es und verstummt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -275,12 +275,12 @@
       <ID>51</ID>
       <DefaultText>Tentakel scheinen dich hinter den Augen zu kitzeln. Bilder von Leuten, die dich bereits begleiten, tauchen in deinem Kopf auf.
  
- ::ssssrl::, flüstert Oom schließlich verlegen, während sich seine Augen zusammenziehen. Offenbar will die Kreatur nicht mitkommen, wenn dich schon so viele Leute begleiten.</DefaultText>
+ „::ssssrl::“, flüstert Oom schließlich verlegen, während sich seine Augen zusammenziehen. Offenbar will die Kreatur nicht mitkommen, wenn dich schon so viele Leute begleiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>::ssssrsl::, murmelt Oom, bewegt sich aber nicht.
+      <DefaultText>„::ssssrsl::“, murmelt Oom, bewegt sich aber nicht.
  
  Du spürst wieder, dass die Kreatur nicht mit all den anderen reisen möchte, die du um dich geschart hast. Offenbar wirst du jemanden – zumindest für eine Weile – zurücklassen müssen, wenn du Oom mitnehmen willst.</DefaultText>
       <FemaleText />
@@ -292,7 +292,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>::mmrmrmm::, antwortet Oom und stürzt auf dich zu. Instinktiv blinzelst du und die Kreatur ist verschwunden.
+      <DefaultText>„::mmrmrmm::“, antwortet Oom und stürzt auf dich zu. Instinktiv blinzelst du und die Kreatur ist verschwunden.
  
  Du spürst aber weiterhin den ... Druck ihrer Anwesenheit um dich herum. Vielleicht wartet sie, dass du wieder nach draußen in die Welt zurückkehrst.</DefaultText>
       <FemaleText />
@@ -364,12 +364,12 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>::mmm::, sagt das Wesen und verschwindet vor deinen Augen. Es dürfte dich in der Welt draußen erwarten, so wie zuvor auch.</DefaultText>
+      <DefaultText>„::mmm::“, sagt das Wesen und verschwindet vor deinen Augen. Es dürfte dich in der Welt draußen erwarten, so wie zuvor auch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Die Kreatur – "Oom", flüstert dein Geist – starrt dich mit ihren Augen an, die wie strahlende, aufblühende Blumen aussehen.</DefaultText>
+      <DefaultText>Die Kreatur – „Oom“, flüstert dein Geist – starrt dich mit ihren Augen an, die wie strahlende, aufblühende Blumen aussehen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
