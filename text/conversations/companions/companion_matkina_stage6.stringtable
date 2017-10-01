@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{angry}"Warum redest du mit mir? Hast du nicht eine Verabredung mit dem Kummer?"</DefaultText>
+      <DefaultText>{angry}„Warum redest du mit mir? Hast du nicht eine Verabredung mit dem Kummer?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Deine Meinung geändert? Brauchst du Hilfe?"</DefaultText>
+      <DefaultText>„Deine Meinung geändert? Brauchst du Hilfe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Willst du mich wieder begleiten?"</DefaultText>
+      <DefaultText>„Willst du mich wieder begleiten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,32 +41,32 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Sie blickt die anderen Gefährten an und schüttelt den Kopf. "Zu viele Leute für meinen Geschmack."</DefaultText>
+      <DefaultText>Sie blickt die anderen Gefährten an und schüttelt den Kopf. „Zu viele Leute für meinen Geschmack.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Schüttel jemanden durch und frag nochmal."</DefaultText>
+      <DefaultText>„Schüttel jemanden durch und frag nochmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Anstatt darauf zu warten, allein zu sterben? Absolut."</DefaultText>
+      <DefaultText>„Anstatt darauf zu warten, allein zu sterben? Absolut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Wenigstens werden wir zusammen sterben."</DefaultText>
+      <DefaultText>„Wenigstens werden wir zusammen sterben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Jetzt nicht. Lebe wohl."</DefaultText>
-      <FemaleText>"Jetzt nicht. Lebe wohl."</FemaleText>
+      <DefaultText>„Jetzt nicht. Lebe wohl.“</DefaultText>
+      <FemaleText>„Jetzt nicht. Lebe wohl.“</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Dann dir alles Gute. Ernsthaft."</DefaultText>
+      <DefaultText>„Dann dir alles Gute. Ernsthaft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Was ist deine Geschichte?"</DefaultText>
+      <DefaultText>„Was ist deine Geschichte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,12 +86,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Du kennst meine Geschichte. Ich wurde verlassen, verstoßen, und zu einem Leben voller Kriminalität verurteilt. Oder vielleicht habe ich dieses Leben auch gewählt." Sie zuckt mit den Schultern. "Egal. Du hast mich gefunden und mir einen besseren Weg gezeigt. Ich bin bei dir bis zum Ende."</DefaultText>
+      <DefaultText>„Du kennst meine Geschichte. Ich wurde verlassen, verstoßen, und zu einem Leben voller Kriminalität verurteilt. Oder vielleicht habe ich dieses Leben auch gewählt.“ Sie zuckt mit den Schultern. „Egal. Du hast mich gefunden und mir einen besseren Weg gezeigt. Ich bin bei dir bis zum Ende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Sie lacht sanft. "Du kennst meine Geschichte."</DefaultText>
+      <DefaultText>Sie lacht sanft. „Du kennst meine Geschichte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,97 +101,97 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Sie zuckt mit den Schultern. "Du hast es bei Tashs Lebensbild gesehen. Du hast es dort unten gesehen. Die einzige Gemeinsamkeit ist Verrat. Du fragst dich, warum ich so hart zu Leuten bin? Weil ich gelernt habe, dass man ihnen nicht vertrauen kann. Das ist meine Geschichte."</DefaultText>
+      <DefaultText>Sie zuckt mit den Schultern. „Du hast es bei Tashs Lebensbild gesehen. Du hast es dort unten gesehen. Die einzige Gemeinsamkeit ist Verrat. Du fragst dich, warum ich so hart zu Leuten bin? Weil ich gelernt habe, dass man ihnen nicht vertrauen kann. Das ist meine Geschichte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Enttäuschung und Verrat, Bruder. Das ist alles."</DefaultText>
-      <FemaleText>"Enttäuschung und Verrat, Schwester. Das ist alles."</FemaleText>
+      <DefaultText>„Enttäuschung und Verrat, Bruder. Das ist alles.“</DefaultText>
+      <FemaleText>„Enttäuschung und Verrat, Schwester. Das ist alles.“</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich möchte nochmal über dich sprechen."</DefaultText>
+      <DefaultText>„Ich möchte nochmal über dich sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Wirklich? Ich kann nichts sagen, dass irgendeinen Unterschied machen würde. Lass uns das zu Ende bringen. Wir müssen unsere Antworten finden."</DefaultText>
+      <DefaultText>„Wirklich? Ich kann nichts sagen, dass irgendeinen Unterschied machen würde. Lass uns das zu Ende bringen. Wir müssen unsere Antworten finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <DefaultText>„Wie geht es dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Stark genug, um es bis zum Ende zu schaffen. Ich möchte dabei sein, wenn das hier endet."</DefaultText>
+      <DefaultText>„Stark genug, um es bis zum Ende zu schaffen. Ich möchte dabei sein, wenn das hier endet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich würde gerne über unsere Begleiter sprechen."</DefaultText>
+      <DefaultText>„Ich würde gerne über unsere Begleiter sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Sie schaut sich um. "Sie bleiben lange genug dabei. Wahrscheinlich."</DefaultText>
+      <DefaultText>Sie schaut sich um. „Sie bleiben lange genug dabei. Wahrscheinlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Was sollten wir deiner Meinung nach als Nächstes tun?"</DefaultText>
+      <DefaultText>„Was sollten wir deiner Meinung nach als Nächstes tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Geh tiefer. Finde unsere Antworten. Mach schon."</DefaultText>
+      <DefaultText>„Geh tiefer. Finde unsere Antworten. Mach schon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Warte hier auf mich."</DefaultText>
+      <DefaultText>„Warte hier auf mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Auf dich warten?" Sie schaut sich um und seufzt. "Ich denke, das hier *ist* deine Show, selbst wenn ich es nicht verstehe. Gut."</DefaultText>
+      <DefaultText>„Auf dich warten?“ Sie schaut sich um und seufzt. „Ich denke, das hier *ist* deine Show, selbst wenn ich es nicht verstehe. Gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Viel Glück."</DefaultText>
-      <FemaleText>"Viel Glück."</FemaleText>
+      <DefaultText>„Viel Glück.“</DefaultText>
+      <FemaleText>„Viel Glück.“</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Lass uns weitergehen."</DefaultText>
+      <DefaultText>„Lass uns weitergehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ich bin bei dir."</DefaultText>
+      <DefaultText>„Ich bin bei dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Stark genug, um es bis zum Ende zu schaffen. Ich möchte dabei sein, wenn das hier endet."</DefaultText>
+      <DefaultText>„Stark genug, um es bis zum Ende zu schaffen. Ich möchte dabei sein, wenn das hier endet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Sie lacht laut. "Du machst Witze, oder? Du erwartest von mir, dass ich einfach hier stehe – ohne Rückweg und ohne Aufgabe – während ich darauf warte, dass *du* mein Schicksal entscheidest? Nein. Wir machen das zusammen."</DefaultText>
+      <DefaultText>Sie lacht laut. „Du machst Witze, oder? Du erwartest von mir, dass ich einfach hier stehe – ohne Rückweg und ohne Aufgabe – während ich darauf warte, dass *du* mein Schicksal entscheidest? Nein. Wir machen das zusammen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Lass uns gehen. Ich habe genug von diesem Ort."</DefaultText>
+      <DefaultText>„Lass uns gehen. Ich habe genug von diesem Ort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Mach es einfach. Bevor einer von uns es bereut."</DefaultText>
+      <DefaultText>„Mach es einfach. Bevor einer von uns es bereut.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
