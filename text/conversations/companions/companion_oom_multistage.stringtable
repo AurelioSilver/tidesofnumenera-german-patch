@@ -487,7 +487,7 @@ Dennoch wirst du durch Stellen der *richtigen* Frage wohl keine andere Antwort a
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Die irreale Landschaft des Labyrinths verblasst, und du spürst wieder festen Boden unter deinem Kopf. Du nimmst die vermischten Gerüche der Welt außerhalb deines Verstandes wahr. Dir ist noch zu schummrig, um die Augen zu öffnen, aber du hörst eine Stimme. Jemand redet, doch nicht mit dir.
+      <DefaultText>Die irreale Landschaft des Labyrinths verblasst und du spürst wieder festen Boden unter deinem Kopf. Du nimmst die vermischten Gerüche der Welt außerhalb deines Verstandes wahr. Dir ist noch zu schummrig, um die Augen zu öffnen, aber du hörst eine Stimme. Jemand redet, doch nicht mit dir.
 
 Sondern mit Oom.</DefaultText>
       <FemaleText />
@@ -504,7 +504,7 @@ Sondern mit Oom.</DefaultText>
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>„Welch ein Vergnügen!“, sagt Tybir mit aufrichtiger Wärme in der Stimme. „Ich hatte so eine Ahnung, dass wir uns wieder begegnen würden, Junge. Hab's in meinem Unterleib gespürt, und mein Unterleib irrt sich selten.“</DefaultText>
+      <DefaultText>„Welch ein Vergnügen!“, sagt Tybir mit aufrichtiger Wärme in der Stimme. „Ich hatte so eine Ahnung, dass wir uns wieder begegnen würden, Junge. Hab's in meinem Unterleib gespürt und mein Unterleib irrt sich selten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -831,7 +831,7 @@ Ah. Du hast Oom in deinem Verstand letztlich doch gefunden. Vielleicht hat das g
       <ID>163</ID>
       <DefaultText>In diesem Augenblick *spürst* du, wie sich die Gezeiten um dich biegen und an dir ziehen. Du *spürst*, welche Auswirkungen dein Handeln auf die Leute hatte, denen du in deinem kurzen Leben bislang begegnet bist.
 
-Du legst eine Hand über deine Augen, und in diesem Moment kurzer Dunkelheit sind die Gezeiten als Ringe innerhalb von Ringen *sichtbar*, geschlungen um alles und jeden.</DefaultText>
+Du legst eine Hand über deine Augen und in diesem Moment kurzer Dunkelheit sind die Gezeiten als Ringe innerhalb von Ringen *sichtbar*, geschlungen um alles und jeden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1008,7 +1008,7 @@ Du kannst sie kaum hören.</DefaultText>
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>„Kann ich sein Auge als Nächster berühren?“, fragt Erritis und keucht dann. „Moment mal! *Ich* habe Augen, und ich habe sie *noch nie* berührt! Au. Au. Au.“
+      <DefaultText>„Kann ich sein Auge als Nächster berühren?“, fragt Erritis und keucht dann. „Moment mal! *Ich* habe Augen und ich habe sie *noch nie* berührt! Au. Au. Au.“
 
 Du kannst ihn kaum hören.</DefaultText>
       <FemaleText />
@@ -1169,7 +1169,7 @@ Es blickt hoffnungsvoll zu dir auf.</DefaultText>
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>Dir wird schwummrig und übel und du begreifst kaum etwas. Es ist eine Erinnerung, und sie wurde mit Organen gesammelt, die du nicht besitzt. Mit Leid in die Fasern und Falten von Ooms *Augen* eingeätzt. Mit Qualen. In der Ferne graben deine Zähne sich in deine Lippe, während du dich konzentrierst und dieses Erlebnis in etwas zu übersetzen versuchst, das du verstehst.</DefaultText>
+      <DefaultText>Dir wird schwummrig und übel und du begreifst kaum etwas. Es ist eine Erinnerung und sie wurde mit Organen gesammelt, die du nicht besitzt. Mit Leid in die Fasern und Falten von Ooms *Augen* eingeätzt. Mit Qualen. In der Ferne graben deine Zähne sich in deine Lippe, während du dich konzentrierst und dieses Erlebnis in etwas zu übersetzen versuchst, das du verstehst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1186,7 +1186,7 @@ Es blickt hoffnungsvoll zu dir auf.</DefaultText>
       <ID>235</ID>
       <DefaultText>Du gräbst deine Finger in die Tiefen seiner Augen, bis deine Hände zitternde Fäuste sind. Oom zuckt und schaudert, schreit aber nicht auf. Es gibt überhaupt keinen Laut von sich.
 
-Die Übelkeit legt sich, und die Erinnerung überkommt dich wie eine Welle – zusammen mit den Empfindungen in ihr.</DefaultText>
+Die Übelkeit legt sich und die Erinnerung überkommt dich wie eine Welle – zusammen mit den Empfindungen in ihr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1304,7 +1304,7 @@ Du *spürst* das Knistern des Käfigs, das Brennen, während sie dir Kraft entzi
 
 Die „Gezeiten“.
 
-Du kehrst in die Gegenwart zurück und legst Ooms Sinne ab. Erlangst deine eigenen wieder. Es sieht dich an, und seine Augen falten sich zurück an ihren Platz wie verschränkte Finger.</DefaultText>
+Du kehrst in die Gegenwart zurück und legst Ooms Sinne ab. Erlangst deine eigenen wieder. Es sieht dich an und seine Augen falten sich zurück an ihren Platz wie verschränkte Finger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1455,7 +1455,7 @@ Oom wird nie mit dir reden, aber es *möchte*, dass du es verstehst. Metaphern s
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Etwas ist jetzt anders mit Oom – oder vielleicht war es immer schon da, und du kannst es erst jetzt dank Kwherezimians Hilfe fühlen.
+      <DefaultText>Etwas ist jetzt anders mit Oom – oder vielleicht war es immer schon da und du kannst es erst jetzt dank Kwherezimians Hilfe fühlen.
 
 Du spürst, wie die Gezeiten in deinem Begleiter ansteigen und fallen. Ein kreisförmiges Wogen, wie ein Sturm auf dem Ozean, eingefangen in einer Glaskugel.</DefaultText>
       <FemaleText />
@@ -1495,14 +1495,14 @@ Die Erinnerungen verblassen und du bleibst in Dunkelheit zurück, aber allmähli
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Du verkneifst dir deine Fragen, und Ooms Dankbarkeit wärmt dir das Gesicht wie eine unsichtbare Sonne.</DefaultText>
+      <DefaultText>Du verkneifst dir deine Fragen und Ooms Dankbarkeit wärmt dir das Gesicht wie eine unsichtbare Sonne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
       <DefaultText>Dann kehren deine Sinne zurück, einer nach dem anderen. Oom starrt zu dir hoch, stolz. Bekümmert. Es ist dir nicht klar, *woher* du diese Dinge weißt. Aber du kannst sie praktisch schmecken.
 
-In Oom blühen die fünf Farben der Gezeiten auf und verblassen wieder, und du verstehst zumindest das: Dieses Wesen wurde gemacht, um den Kindern einer verlorenen Welt die Gezeiten nahezubringen. Es war ein Spielzeug, und dank deiner Bemühungen war es noch einmal erfolgreich.
+In Oom blühen die fünf Farben der Gezeiten auf und verblassen wieder und du verstehst zumindest das: Dieses Wesen wurde gemacht, um den Kindern einer verlorenen Welt die Gezeiten nahezubringen. Es war ein Spielzeug und dank deiner Bemühungen war es noch einmal erfolgreich.
 
 Vielleicht – und du schmeckst Ooms Hoffnung in dem Gedanken – zum allerletzten Mal.</DefaultText>
       <FemaleText />
@@ -1658,7 +1658,7 @@ Es fügt den Zentren der Quadrate einige unverständliche Symbole hinzu, sieht z
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>„Benimm dich, oder ich verbanne dich zurück in meinen Verstand.“</DefaultText>
+      <DefaultText>„Benimm dich oder ich verbanne dich zurück in meinen Verstand.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
