@@ -6,19 +6,19 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{fearful, but controlled}"Wir sind noch nicht in Sicherheit. Bei Weitem nicht. {pause}Ich weiß nicht, ob ich dir das schon erzählt habe, aber ... ich wurde hier geboren."
+      <DefaultText>{fearful, but controlled}„Wir sind noch nicht in Sicherheit. Bei Weitem nicht. {pause}Ich weiß nicht, ob ich dir das schon erzählt habe, aber ... ich wurde hier geboren.“
 
 Sie wirft einen Blick um den Hof und versteckt mühselig die Angst, die durch ihren Rahmen zittert. Du kannst die feste Kontrolle *spüren*, die sie über ihre Gefühle, ihre Gezeiten behält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>{angry, controlled}"Ich wusste, es gab einen Grund, warum ich mich nie mit der Memovira vertragen konnte. Warum es immer so schien, als ob sie mich verspottet. Es ist, weil sie wusste, wer ich war. Sie wusste, und sie plante ihren Verrat die ganze Zeit über, und sie *war genau neben mir*. Ich hätte ihr die Kehle durchschneiden können. Ich hätte sie an einen Schlund verfüttern sollen."</DefaultText>
+      <DefaultText>{angry, controlled}„Ich wusste, es gab einen Grund, warum ich mich nie mit der Memovira vertragen konnte. Warum es immer so schien, als ob sie mich verspottet. Es ist, weil sie wusste, wer ich war. Sie wusste, und sie plante ihren Verrat die ganze Zeit über, und sie *war genau neben mir*. Ich hätte ihr die Kehle durchschneiden können. Ich hätte sie an einen Schlund verfüttern sollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>{shocked, quiet, dismayed}"Ich sah einen Teil von mir im Rachen. Ich erkenne diesen Teil wieder. Aber du musst mir glauben, dass ich nie grundlos gemein war. Alles, was ich tat, tat ich aus gutem Grund ... Aber ... Aber ... ich bin kein Monster."</DefaultText>
+      <DefaultText>{shocked, quiet, dismayed}„Ich sah einen Teil von mir im Rachen. Ich erkenne diesen Teil wieder. Aber du musst mir glauben, dass ich nie grundlos gemein war. Alles, was ich tat, tat ich aus gutem Grund ... Aber ... Aber ... ich bin kein Monster.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,7 +28,7 @@ Sie wirft einen Blick um den Hof und versteckt mühselig die Angst, die durch ih
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Es ist ein großes Gefühl, mich mit der Flor zu binden. Es ist ... genau, wie ich es mir vorgestellt habe. Ich *kenne* die Flor. Ich kenne ihre Wege. Ich kenne ihre Ranken. Ich kenne die Orte, die sie berührt und ... herziges Geschwisterteil, du hast *keine Ahnung*, wie sich diese Macht anfühlt."
+      <DefaultText>„Es ist ein großes Gefühl, mich mit der Flor zu binden. Es ist ... genau, wie ich es mir vorgestellt habe. Ich *kenne* die Flor. Ich kenne ihre Wege. Ich kenne ihre Ranken. Ich kenne die Orte, die sie berührt und ... herziges Geschwisterteil, du hast *keine Ahnung*, wie sich diese Macht anfühlt.“
 
 
 {GEORGE: Do we want to have Matkina as a fast-travel if she's bonded?}</DefaultText>
@@ -46,7 +46,7 @@ Sie wirft einen Blick um den Hof und versteckt mühselig die Angst, die durch ih
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Stelle deine Fragen."</DefaultText>
+      <DefaultText>„Stelle deine Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,9 +81,9 @@ Sie wirft einen Blick um den Hof und versteckt mühselig die Angst, die durch ih
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Miel Avest ist verschwunden. *Tot*. Wolltest du das hören? Zu viele deiner Geschwister dazu."
+      <DefaultText>„Miel Avest ist verschwunden. *Tot*. Wolltest du das hören? Zu viele deiner Geschwister dazu.“
 
-Sie dreht sich mit in die Seiten gestützten Armen zu dir um. "Und jetzt denke ich darüber nach, wie sehr ich sie gehasst habe … und wie sehr ich ihre Bestätigung wollte."</DefaultText>
+Sie dreht sich mit in die Seiten gestützten Armen zu dir um. „Und jetzt denke ich darüber nach, wie sehr ich sie gehasst habe … und wie sehr ich ihre Bestätigung wollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,17 +113,17 @@ Sie dreht sich mit in die Seiten gestützten Armen zu dir um. "Und jetzt denke i
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Sprechen wir über dich."</DefaultText>
+      <DefaultText>„Sprechen wir über dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Reden wir nochmal von dir."</DefaultText>
+      <DefaultText>„Reden wir nochmal von dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <DefaultText>„Wie geht es dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@ Sie dreht sich mit in die Seiten gestützten Armen zu dir um. "Und jetzt denke i
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ich habe Fragen über unsere Begleiter."</DefaultText>
+      <DefaultText>„Ich habe Fragen über unsere Begleiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,7 +143,7 @@ Sie dreht sich mit in die Seiten gestützten Armen zu dir um. "Und jetzt denke i
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Ich denke, wir sollten uns trennen."</DefaultText>
+      <DefaultText>„Ich denke, wir sollten uns trennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,12 +153,12 @@ Sie dreht sich mit in die Seiten gestützten Armen zu dir um. "Und jetzt denke i
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Gehen wir."</DefaultText>
+      <DefaultText>„Gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ja."</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,7 +168,7 @@ Sie dreht sich mit in die Seiten gestützten Armen zu dir um. "Und jetzt denke i
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich möchte darüber sprechen, was in Miel Avest geschehen ist."</DefaultText>
+      <DefaultText>„Ich möchte darüber sprechen, was in Miel Avest geschehen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,11 +178,11 @@ Sie dreht sich mit in die Seiten gestützten Armen zu dir um. "Und jetzt denke i
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Sie schluckt schwer. "Ich bin aufgewacht, während ich verschlungen wurde. Ich vermute, die Flor hat gesehen, wie der Geist unseres Erzeugers mich verließ. Es hat mich fallengelassen, Neugeborene, und ich bin abgehauen. Bin nach SagusKlippen geflohen, und dieser dreifach verfluchte Kummer hätte mich da fast erwischt."
+      <DefaultText>Sie schluckt schwer. „Ich bin aufgewacht, während ich verschlungen wurde. Ich vermute, die Flor hat gesehen, wie der Geist unseres Erzeugers mich verließ. Es hat mich fallengelassen, Neugeborene, und ich bin abgehauen. Bin nach SagusKlippen geflohen, und dieser dreifach verfluchte Kummer hätte mich da fast erwischt.“
 
-Ihre Stimme fällt kaum hörbar. "Ich habe die Stadt verlassen. Habe auf dem Weg raus Leute bestohlen und verletzt. Aber wenigstens bin ich rausgekommen."
+Ihre Stimme fällt kaum hörbar. „Ich habe die Stadt verlassen. Habe auf dem Weg raus Leute bestohlen und verletzt. Aber wenigstens bin ich rausgekommen.“
 
-"Also. Du weißt, was mit den Verstoßenen geschehen ist. Was die Erste angeht, sie sei verflucht, und wir sollten sichergehen, sie zu töten, wenn wir sie finden. Auf jeden Fall. Die Flor."</DefaultText>
+„Also. Du weißt, was mit den Verstoßenen geschehen ist. Was die Erste angeht, sie sei verflucht, und wir sollten sichergehen, sie zu töten, wenn wir sie finden. Auf jeden Fall. Die Flor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -192,11 +192,11 @@ Ihre Stimme fällt kaum hörbar. "Ich habe die Stadt verlassen. Habe auf dem Weg
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Nach den Problemen mit Melmoth bin ich hier gelandet. Im Dienste des Mannes, der zum Memovira wurde, dem alten Boss dieses Ortes. Hör mir zu - die Flor belohnt Grausamkeit und Schmerz. Und sie wird auf deine Handlungen reagieren. Also … sei vorsichtig."
+      <DefaultText>„Nach den Problemen mit Melmoth bin ich hier gelandet. Im Dienste des Mannes, der zum Memovira wurde, dem alten Boss dieses Ortes. Hör mir zu - die Flor belohnt Grausamkeit und Schmerz. Und sie wird auf deine Handlungen reagieren. Also … sei vorsichtig.“
 
-"Die aktuelle Memovira und ich kommen nicht wirklich gut miteinander klar. Du musst wissen, dass es da eine gemeinsame Geschichte gibt. Eine blutige. Ich kann nicht garantieren, dass ich in ihrer Nähe höflich bin."
+„Die aktuelle Memovira und ich kommen nicht wirklich gut miteinander klar. Du musst wissen, dass es da eine gemeinsame Geschichte gibt. Eine blutige. Ich kann nicht garantieren, dass ich in ihrer Nähe höflich bin.“
 
-Sie richtet ihren Umhang. "In Ordnung. Lass uns gehen."</DefaultText>
+Sie richtet ihren Umhang. „In Ordnung. Lass uns gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,32 +306,32 @@ Sie richtet ihren Umhang. "In Ordnung. Lass uns gehen."</DefaultText>
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Ich habe dir gesagt, dass das meins ist."</DefaultText>
+      <DefaultText>„Ich habe dir gesagt, dass das meins ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Ich habe gesagt, wenn du es haben willst, kannst du es haben. Aber ich bin überrascht, dass du es genommen hast."</DefaultText>
+      <DefaultText>„Ich habe gesagt, wenn du es haben willst, kannst du es haben. Aber ich bin überrascht, dass du es genommen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Ich hoffe, es ist den Preis wert."</DefaultText>
+      <DefaultText>„Ich hoffe, es ist den Preis wert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Das ist Vergangenheit. Was wir jetzt von ihr brauchen ist die Wahrheit."</DefaultText>
+      <DefaultText>„Das ist Vergangenheit. Was wir jetzt von ihr brauchen ist die Wahrheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Du wirst deine Chance bekommen."</DefaultText>
+      <DefaultText>„Du wirst deine Chance bekommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Wenn sie sich so lange schon versteckt hält, muss sie Pläne haben. Das müssen wir berücksichtigen."</DefaultText>
+      <DefaultText>„Wenn sie sich so lange schon versteckt hält, muss sie Pläne haben. Das müssen wir berücksichtigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,66 +376,66 @@ Sie richtet ihren Umhang. "In Ordnung. Lass uns gehen."</DefaultText>
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Dein Ruf sagt anderes. Du hast mehr als hundert Leichen hinterlassen seit ich vor ein paar Jahren von dir gehört habe."</DefaultText>
+      <DefaultText>„Dein Ruf sagt anderes. Du hast mehr als hundert Leichen hinterlassen seit ich vor ein paar Jahren von dir gehört habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Ihr Lachen ist rau und spöttisch. "Du erwartest, dass wir das glauben? Du warst ein Agent der letzten Memovira. Du bist seit mehr als hundert Jahren ein Attentäter. Mein Schatz, ich verdamme deine Aktionen nicht, aber tue bitte nicht so, als ob du unschuldig wärst."</DefaultText>
+      <DefaultText>Ihr Lachen ist rau und spöttisch. „Du erwartest, dass wir das glauben? Du warst ein Agent der letzten Memovira. Du bist seit mehr als hundert Jahren ein Attentäter. Mein Schatz, ich verdamme deine Aktionen nicht, aber tue bitte nicht so, als ob du unschuldig wärst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Nun, Junge, jeder hat seine eigenen Geheimnisse,seine eigenen … ähem … unglücklichen Vorkommnisse. *Ich* glaube in diesem Fall deinen Beteuerungen."</DefaultText>
+      <DefaultText>„Nun, Junge, jeder hat seine eigenen Geheimnisse,seine eigenen … ähem … unglücklichen Vorkommnisse. *Ich* glaube in diesem Fall deinen Beteuerungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Du musst mir glauben. Ich bin nicht dieses … dieses Ding."</DefaultText>
+      <DefaultText>„Du musst mir glauben. Ich bin nicht dieses … dieses Ding.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Ganz ehrlich, das ist mir egal. Wir haben einen Job zu erledigen. Lass es uns machen."</DefaultText>
+      <DefaultText>„Ganz ehrlich, das ist mir egal. Wir haben einen Job zu erledigen. Lass es uns machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Vielleicht warst du das, Matkina. Aber das ist etwas zwischen dir und deinem Gewissen."</DefaultText>
+      <DefaultText>„Vielleicht warst du das, Matkina. Aber das ist etwas zwischen dir und deinem Gewissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Selbst wenn du das warst, jetzt bist du es nicht. Ich bin lange genug mit dir gereist, um das zu wissen."</DefaultText>
+      <DefaultText>„Selbst wenn du das warst, jetzt bist du es nicht. Ich bin lange genug mit dir gereist, um das zu wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Sie lacht mit leichtem Spott in ihrer Stimme. "Du musst nicht so tun, als ob du viel von mir hältst. Ich möchte nur klarmachen, dass ich nicht ohne Grund foltere."
+      <DefaultText>Sie lacht mit leichtem Spott in ihrer Stimme. „Du musst nicht so tun, als ob du viel von mir hältst. Ich möchte nur klarmachen, dass ich nicht ohne Grund foltere.“
 
-Sie schaut umher. "Noch mehr Kommentare? Nein. Gut. Lass uns gehen."</DefaultText>
+Sie schaut umher. „Noch mehr Kommentare? Nein. Gut. Lass uns gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Sie senkt ihren Kopf, so dass du ihr Gesicht nicht sehen kannst. "Ich versuche es. Ich bin nicht perfekt - lange nicht - aber ich *versuche* es. Und … und ich hoffe, dass du mir dabei hilfst."
+      <DefaultText>Sie senkt ihren Kopf, so dass du ihr Gesicht nicht sehen kannst. „Ich versuche es. Ich bin nicht perfekt - lange nicht - aber ich *versuche* es. Und … und ich hoffe, dass du mir dabei hilfst.“
 
-Sie hustet zart. "Genug. Lass uns weitergehen."</DefaultText>
+Sie hustet zart. „Genug. Lass uns weitergehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Es gibt jede Menge in dem Raum zwischen meinem Gewissen und mir. Es ist nur … ich wollte dich wissen lassen, dass ich nicht ohne Grund foltere." Sie räuspert sich. "Wie auch immer."</DefaultText>
+      <DefaultText>„Es gibt jede Menge in dem Raum zwischen meinem Gewissen und mir. Es ist nur … ich wollte dich wissen lassen, dass ich nicht ohne Grund foltere.“ Sie räuspert sich. „Wie auch immer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Sie nickt und ihre spitzen Gesichtszüge richten sich auf dich wie Messer. "Einverstanden. Wir werden nicht mehr darüber reden."</DefaultText>
+      <DefaultText>Sie nickt und ihre spitzen Gesichtszüge richten sich auf dich wie Messer. „Einverstanden. Wir werden nicht mehr darüber reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Das tröstet mich … fast gar nicht, Tybir. Fast gar nicht." Sie wendet sich zu dir.</DefaultText>
+      <DefaultText>„Das tröstet mich … fast gar nicht, Tybir. Fast gar nicht.“ Sie wendet sich zu dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -445,27 +445,27 @@ Sie hustet zart. "Genug. Lass uns weitergehen."</DefaultText>
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Du hast gesagt, du und die Memovira haben eine gemeinsame Geschichte."</DefaultText>
+      <DefaultText>„Du hast gesagt, du und die Memovira haben eine gemeinsame Geschichte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Erzähl mir nochmal von der Memovira."</DefaultText>
+      <DefaultText>„Erzähl mir nochmal von der Memovira.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Jetzt sind sie tot, also brauchst du dir keine Gedanken mehr um ihre Bestätigung zu machen."</DefaultText>
+      <DefaultText>„Jetzt sind sie tot, also brauchst du dir keine Gedanken mehr um ihre Bestätigung zu machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Dann hilf mir weiter und wir rächen sie."</DefaultText>
+      <DefaultText>„Dann hilf mir weiter und wir rächen sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Muss schwer sein, ein jüngeres Kind zu sein."</DefaultText>
+      <DefaultText>„Muss schwer sein, ein jüngeres Kind zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -475,40 +475,40 @@ Sie hustet zart. "Genug. Lass uns weitergehen."</DefaultText>
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Sie und ich waren Chagane für die *alte* Memovira. Verschiedene Spieler, verschiedene Länder. Aber mit ihr war es immer ein Wettbewerb. Wer mehr Shin machen konnte, wer besser den Frieden halten konnte, wer den anderen blamieren konnte. Ich hatte immer das Gefühl, dass sie ein Geheimnis hatte - etwas, dass sie vor uns allen versteckt hielt. Aber ich hatte nie einen Beweis."
+      <DefaultText>„Sie und ich waren Chagane für die *alte* Memovira. Verschiedene Spieler, verschiedene Länder. Aber mit ihr war es immer ein Wettbewerb. Wer mehr Shin machen konnte, wer besser den Frieden halten konnte, wer den anderen blamieren konnte. Ich hatte immer das Gefühl, dass sie ein Geheimnis hatte - etwas, dass sie vor uns allen versteckt hielt. Aber ich hatte nie einen Beweis.“
 
-Sie zuckt mit den Schultern. "Jedenfalls nicht bis zu dem Tag, an dem sie mächtig wurde. Sie war schnell, das muss ich ihr lassen. Kein verschwendeter Moment. Ich dachte, sie würde den Rest von uns laufen lassen. Hat sie aber nicht."</DefaultText>
+Sie zuckt mit den Schultern. „Jedenfalls nicht bis zu dem Tag, an dem sie mächtig wurde. Sie war schnell, das muss ich ihr lassen. Kein verschwendeter Moment. Ich dachte, sie würde den Rest von uns laufen lassen. Hat sie aber nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Als sie Kopfgeldjäger auf mich gehetzt hat, wusste ich, dass sie jetzt ein anderes Spiel spielt. Normalerweise bekommen die Chagane eine Wahl - Treue schwören oder abhauen -, denn Blut ist schlecht für das Geschäft. Ist doch besser, unser Wissen am Leben zu lassen, nicht? Ich hätte Treue geschworen, weil ich ihre Effizienz bewunderte, aber sie hat mir keine Wahl gelassen. Keinem von uns."</DefaultText>
+      <DefaultText>„Als sie Kopfgeldjäger auf mich gehetzt hat, wusste ich, dass sie jetzt ein anderes Spiel spielt. Normalerweise bekommen die Chagane eine Wahl - Treue schwören oder abhauen -, denn Blut ist schlecht für das Geschäft. Ist doch besser, unser Wissen am Leben zu lassen, nicht? Ich hätte Treue geschworen, weil ich ihre Effizienz bewunderte, aber sie hat mir keine Wahl gelassen. Keinem von uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Sie ist rücksichtslos und rachsüchtig. Sei vorsichtig mit ihr."</DefaultText>
+      <DefaultText>„Sie ist rücksichtslos und rachsüchtig. Sei vorsichtig mit ihr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Natürlich nicht. Aber weißt du, es wäre nett gewesen, etwas Bestätigung von den Leuten zu bekommen, die scheinbar wissen, was sie tun. Nicht, dass ich irgendeine Vorstellung hätte, was ich hier mache."
+      <DefaultText>Sie schüttelt den Kopf. „Natürlich nicht. Aber weißt du, es wäre nett gewesen, etwas Bestätigung von den Leuten zu bekommen, die scheinbar wissen, was sie tun. Nicht, dass ich irgendeine Vorstellung hätte, was ich hier mache.“
 
-Sie seufzt. "Vergiss es. Ich heule rum. Lass uns weitergehen."</DefaultText>
+Sie seufzt. „Vergiss es. Ich heule rum. Lass uns weitergehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Sie zieht ein kleines Lächeln. "Mir gefällt die Art, wie du denkst. Ich wünschte nur … ich wünschte nur, ich hätte sie wissen lassen können, was ich tun kann. Vielleicht gibt es ja die Möglichkeit, es dem Rest von ihnen zu zeigen."
+      <DefaultText>Sie zieht ein kleines Lächeln. „Mir gefällt die Art, wie du denkst. Ich wünschte nur … ich wünschte nur, ich hätte sie wissen lassen können, was ich tun kann. Vielleicht gibt es ja die Möglichkeit, es dem Rest von ihnen zu zeigen.“
 
-Sie schüttelt ihren Umhang aus. "In Ordnung. Jetzt reicht es. Lass uns weitermachen."</DefaultText>
+Sie schüttelt ihren Umhang aus. „In Ordnung. Jetzt reicht es. Lass uns weitermachen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Sie schnaubt. "Eher wie das mittlere Kind, so wie der Wandelnde Gott uns auswechselt. Es ist schwer, aus der Masse herauszuragen. Alle anderen haben herausgefunden, wo sie stehen - und ich? Seit Jahren quäle ich mich herum. Ich wollte diesen Leuten zeigen, was ich kann."
+      <DefaultText>Sie schnaubt. „Eher wie das mittlere Kind, so wie der Wandelnde Gott uns auswechselt. Es ist schwer, aus der Masse herauszuragen. Alle anderen haben herausgefunden, wo sie stehen - und ich? Seit Jahren quäle ich mich herum. Ich wollte diesen Leuten zeigen, was ich kann.“
 
-Sie zuckt mit den Schultern. "Aber jetzt ist es zu spät, denke ich. Lass uns weitermachen."</DefaultText>
+Sie zuckt mit den Schultern. „Aber jetzt ist es zu spät, denke ich. Lass uns weitermachen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -583,26 +583,26 @@ Sie zuckt mit den Schultern. "Aber jetzt ist es zu spät, denke ich. Lass uns we
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Sie hat sich nicht auf *dich* verlassen, so viel steht fest. Dein Gebinde von Lügen löst sich." Sie packt dein Hemd und zieht dich zu ihr. "Sie ist die Erzeugerin unserer Probleme. Sie hat uns in das Herz der Flor geschickt, um uns loszuwerden, weil sie wusste, dass wir entweder Mazzof finden oder sterben. Und so oder so gewinnt sie. Deshalb müssen wir jetzt diese Pläne ändern."
+      <DefaultText>„Sie hat sich nicht auf *dich* verlassen, so viel steht fest. Dein Gebinde von Lügen löst sich.“ Sie packt dein Hemd und zieht dich zu ihr. „Sie ist die Erzeugerin unserer Probleme. Sie hat uns in das Herz der Flor geschickt, um uns loszuwerden, weil sie wusste, dass wir entweder Mazzof finden oder sterben. Und so oder so gewinnt sie. Deshalb müssen wir jetzt diese Pläne ändern.“
 
-Sie lässt dich los, macht einen Schritt zurück und streicht dein Hemd glatt. "Ich habe Vertrauen in dich, Kind. Du und ich. Wir werden diese Schlampe stoppen."</DefaultText>
+Sie lässt dich los, macht einen Schritt zurück und streicht dein Hemd glatt. „Ich habe Vertrauen in dich, Kind. Du und ich. Wir werden diese Schlampe stoppen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Ihr Lachen ist breit und strahlend und es wird noch schöner dadurch, dass es so selten ist. "Ich werde dich daran messen."</DefaultText>
+      <DefaultText>Ihr Lachen ist breit und strahlend und es wird noch schöner dadurch, dass es so selten ist. „Ich werde dich daran messen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Sie schüttelt ihren Kopf, ein Mal und scharf. "Ich möchte ihre Worte nur hören, wenn sie schreit. Das hier geht nicht mehr um Wahrheit. Es geht um Gerechtigkeit."
+      <DefaultText>Sie schüttelt ihren Kopf, ein Mal und scharf. „Ich möchte ihre Worte nur hören, wenn sie schreit. Das hier geht nicht mehr um Wahrheit. Es geht um Gerechtigkeit.“
 
-Sie seufzt. "Aber jetzt gerade müssen wir nicht miteinander diskutieren. Aber du sollst wissen, dass ich eine Gelegenheit haben möchte, wenigstens ein Messer in sie zu stecken."</DefaultText>
+Sie seufzt. „Aber jetzt gerade müssen wir nicht miteinander diskutieren. Aber du sollst wissen, dass ich eine Gelegenheit haben möchte, wenigstens ein Messer in sie zu stecken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Komm mit. Los geht's."</DefaultText>
+      <DefaultText>„Komm mit. Los geht's.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -622,7 +622,7 @@ Sie seufzt. "Aber jetzt gerade müssen wir nicht miteinander diskutieren. Aber d
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>Fast unterdrückt sie ein höhnisches Lächeln. "Sieht so aus, als ob du falsch liegst. Mach dir keine Sorgen. Wir finden die Erste." Ihre Stimme wird träumerisch. "Ich habe solche großen Pläne für sie. Sie wird für eine lange, lange Zeit reden. Schwestern sollten sich nahe sein, oder?"</DefaultText>
+      <DefaultText>Fast unterdrückt sie ein höhnisches Lächeln. „Sieht so aus, als ob du falsch liegst. Mach dir keine Sorgen. Wir finden die Erste.“ Ihre Stimme wird träumerisch. „Ich habe solche großen Pläne für sie. Sie wird für eine lange, lange Zeit reden. Schwestern sollten sich nahe sein, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -632,22 +632,22 @@ Sie seufzt. "Aber jetzt gerade müssen wir nicht miteinander diskutieren. Aber d
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Es ist als ob … nun. Schließ deine Augen. Jetzt öffne eines. Du kannst zwar sehen, aber keine Tiefe. Jetzt öffne das andere Auge. Du hast wieder Tiefe. Und wenn du dann noch ein Auge öffnen würdest, und noch eins, und dann noch eins? Was würdest du dann sehen?" Sie lacht beglückt. "Ich sehe *Möglichkeiten*. Ich sehe *Realitäten*. Und ich fühle den Hunger der Flor. Jetzt." Sie klatscht in die Hände. "Wir sollten sie füttern."</DefaultText>
+      <DefaultText>„Es ist als ob … nun. Schließ deine Augen. Jetzt öffne eines. Du kannst zwar sehen, aber keine Tiefe. Jetzt öffne das andere Auge. Du hast wieder Tiefe. Und wenn du dann noch ein Auge öffnen würdest, und noch eins, und dann noch eins? Was würdest du dann sehen?“ Sie lacht beglückt. „Ich sehe *Möglichkeiten*. Ich sehe *Realitäten*. Und ich fühle den Hunger der Flor. Jetzt.“ Sie klatscht in die Hände. „Wir sollten sie füttern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Reines Vergnügen. Wer wird mich jetzt aufhalten?"</DefaultText>
+      <DefaultText>„Reines Vergnügen. Wer wird mich jetzt aufhalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Warum? Du weißt, dass ich die Erste hasse. Du kennst meine Geschichte mit diesem Ort. Wenn du mir irgendwann mal zugehört hast, hättest du dir das denken können."</DefaultText>
+      <DefaultText>„Warum? Du weißt, dass ich die Erste hasse. Du kennst meine Geschichte mit diesem Ort. Wenn du mir irgendwann mal zugehört hast, hättest du dir das denken können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Oh, das ist es. Das ist es absolut."</DefaultText>
+      <DefaultText>„Oh, das ist es. Das ist es absolut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -657,12 +657,12 @@ Sie seufzt. "Aber jetzt gerade müssen wir nicht miteinander diskutieren. Aber d
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Wie ist das, mit der Flor verbunden zu sein?"</DefaultText>
+      <DefaultText>„Wie ist das, mit der Flor verbunden zu sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Erzähl mir nochmal, wie das ist, mit der Flor verbunden zu sein."</DefaultText>
+      <DefaultText>„Erzähl mir nochmal, wie das ist, mit der Flor verbunden zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -682,12 +682,12 @@ Sie seufzt. "Aber jetzt gerade müssen wir nicht miteinander diskutieren. Aber d
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Reden wir darüber, was Verstoßene gemeinsam haben. Du kannst mir eine Menge Fragen dazu beantworten."</DefaultText>
+      <DefaultText>„Reden wir darüber, was Verstoßene gemeinsam haben. Du kannst mir eine Menge Fragen dazu beantworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Ich habe noch mehr Fragen über Verstoßene."</DefaultText>
+      <DefaultText>„Ich habe noch mehr Fragen über Verstoßene.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
