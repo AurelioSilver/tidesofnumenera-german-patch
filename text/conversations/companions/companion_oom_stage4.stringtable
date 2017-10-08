@@ -23,7 +23,7 @@
       <ID>4</ID>
       <DefaultText>Oom schaut erst an die Decke über euch, dann auf den Boden.
  
- ::rlllk::, sagt es sanft.</DefaultText>
+„::rlllk::“, sagt es sanft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Reden wir über unsere Begleiter."</DefaultText>
+      <DefaultText>„Reden wir über unsere Begleiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich glaube, wir sollten uns vorerst trennen."</DefaultText>
+      <DefaultText>„Ich glaube, wir sollten uns vorerst trennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,12 +78,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Darf ich dich untersuchen?"</DefaultText>
+      <DefaultText>„Darf ich dich untersuchen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Darf ich dich nochmal untersuchen?"</DefaultText>
+      <DefaultText>„Darf ich dich nochmal untersuchen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,17 +105,17 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Verändern wir deine Gestalt, Oom."</DefaultText>
+      <DefaultText>„Verändern wir deine Gestalt, Oom.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ich möchte nochmal deine Gestalt verändern."</DefaultText>
+      <DefaultText>„Ich möchte nochmal deine Gestalt verändern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Gehen wir weiter."</DefaultText>
+      <DefaultText>„Gehen wir weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,17 +130,17 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich möchte dich etwas fragen, Oom."</DefaultText>
+      <DefaultText>„Ich möchte dich etwas fragen, Oom.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Ich habe einige weitere Fragen an dich, Oom."</DefaultText>
+      <DefaultText>„Ich habe einige weitere Fragen an dich, Oom.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>::plrp::, sagt es schließlich. Es hört sich an, als habe die Kreatur Interesse.</DefaultText>
+      <DefaultText>„::plrp::“, sagt es schließlich. Es hört sich an, als habe die Kreatur Interesse.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
