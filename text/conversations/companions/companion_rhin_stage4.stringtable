@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>{Scared}"Woll... Wolltest du etwas?" Sie sieht bleicher aus als sonst.</DefaultText>
+      <DefaultText>{Scared}„Woll... Wolltest du etwas?“ Sie sieht bleicher aus als sonst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Was ist deine Geschichte?"</DefaultText>
+      <DefaultText>„Was ist deine Geschichte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich möchte nochmal über dich sprechen."</DefaultText>
+      <DefaultText>„Ich möchte nochmal über dich sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <DefaultText>„Wie geht es dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ich würde gerne über unsere Begleiter sprechen."</DefaultText>
+      <DefaultText>„Ich würde gerne über unsere Begleiter sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich denke, wir sollten uns trennen."</DefaultText>
+      <DefaultText>„Ich denke, wir sollten uns trennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,12 +76,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Gehen wir weiter."</DefaultText>
+      <DefaultText>„Gehen wir weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Richtig." ::zittert::</DefaultText>
+      <DefaultText>„Richtig.“ ::zittert::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,27 +161,27 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Wir kommen dafür zurück, aber das ist jetzt gerade wichtiger."</DefaultText>
+      <DefaultText>„Wir kommen dafür zurück, aber das ist jetzt gerade wichtiger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ich kann nicht. Wir wissen nicht, wie wir Aen-tozon dazu bringen können, den Schlund zu öffnen.</DefaultText>
+      <DefaultText>„Ich kann nicht. Wir wissen nicht, wie wir Aen-tozon dazu bringen können, den Schlund zu öffnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"In Ordnung. Lass uns dich nach Hause bringen, bevor wir was anderes machen."</DefaultText>
+      <DefaultText>„In Ordnung. Lass uns dich nach Hause bringen, bevor wir was anderes machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>{Anxious, almost panicked}"Warte! Wir können da nicht rein. Du musst mich zuerst nach Hause schicken!" Sie nimmt deinen Arm, und bringt dich zum Stillstand."</DefaultText>
+      <DefaultText>{Anxious, almost panicked}„Warte! Wir können da nicht rein. Du musst mich zuerst nach Hause schicken!“ Sie nimmt deinen Arm, und bringt dich zum Stillstand.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>{Panicked}"Hör auf! {Confused, almost angry}Wohin gehst du? Du sagtest, du würdest mich zuerst nach Hause bringen." Sie nimmt erneut deinen Arm. Ihr Gesicht ist eine Kombination aus Verwirrung und Wut.</DefaultText>
+      <DefaultText>{Panicked}„Hör auf! {Confused, almost angry}Wohin gehst du? Du sagtest, du würdest mich zuerst nach Hause bringen.“ Sie nimmt erneut deinen Arm. Ihr Gesicht ist eine Kombination aus Verwirrung und Wut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -199,81 +199,81 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ich habe gelogen. Ich brauche dich, Rhin."</DefaultText>
+      <DefaultText>„Ich habe gelogen. Ich brauche dich, Rhin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Du hast Recht. Lass uns das machen."</DefaultText>
+      <DefaultText>„Du hast Recht. Lass uns das machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Richtig." Sie nickt und ihr Mund verzieht sich zu einem tiefen Runzeln. "Ich gehe nicht dorthin zurück, auf gar keinen Fall, hörst du? Ich gehe *nach Hause*."</DefaultText>
+      <DefaultText>„Richtig.“ Sie nickt und ihr Mund verzieht sich zu einem tiefen Runzeln. „Ich gehe nicht dorthin zurück, auf gar keinen Fall, hörst du? Ich gehe *nach Hause*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Sie entspannt sich sichtlich. "Danke dir."</DefaultText>
+      <DefaultText>Sie entspannt sich sichtlich. „Danke dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Ich gehe nach Hause!"</DefaultText>
+      <DefaultText>„Ich gehe nach Hause!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Ich weiß, dass es wichtig ist, aber …" Sie stampft mit dem Fuß auf den Boden. "Was ist, wenn dort irgendwas passiert - dir oder mir? Was, wenn dieses *Ding* wieder hinter dir her ist, wie in diesem Heiligtum?"
+      <DefaultText>„Ich weiß, dass es wichtig ist, aber …„ Sie stampft mit dem Fuß auf den Boden. „Was ist, wenn dort irgendwas passiert - dir oder mir? Was, wenn dieses *Ding* wieder hinter dir her ist, wie in diesem Heiligtum?“
 
-Sie schaut zu dir auf mit großen und bittenden Augen. "Was, wenn ich nie wieder diese Chance kriege? Ich weiß, dass es dir wichtig ist, die Erste zu finden, aber das ... das ist mein *Zuhause*, und es ist *genau da*. Wir müssen es versuchen!"</DefaultText>
+Sie schaut zu dir auf mit großen und bittenden Augen. „Was, wenn ich nie wieder diese Chance kriege? Ich weiß, dass es dir wichtig ist, die Erste zu finden, aber das ... das ist mein *Zuhause*, und es ist *genau da*. Wir müssen es versuchen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Dann müssen wir das rausbekommen!" Ihre Augen sind groß und bittend. "Was ist, wenn dort irgendwas passiert - dir oder mir? Was, wenn dieses *Ding* wieder hinter dir her ist, wie in diesem Heiligtum?"
+      <DefaultText>„Dann müssen wir das rausbekommen!“ Ihre Augen sind groß und bittend. „Was ist, wenn dort irgendwas passiert - dir oder mir? Was, wenn dieses *Ding* wieder hinter dir her ist, wie in diesem Heiligtum?“
 
-Sie dreht sich weg und ihre Stimme zittert. "Was, wenn ich nie wieder diese Chance kriege? Ich muss das machen!"</DefaultText>
+Sie dreht sich weg und ihre Stimme zittert. „Was, wenn ich nie wieder diese Chance kriege? Ich muss das machen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich brauche dich bei mir, Rhin. Ich möchte nicht ohne dich dorthin gehen."</DefaultText>
+      <DefaultText>„Ich brauche dich bei mir, Rhin. Ich möchte nicht ohne dich dorthin gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Ich weiß, dass ich dir wichtig bin, aber … das ist mein *Zuhause*." Sie atmet tief ein, als ob sie sich auf etwas vorbereitet. Sie fängt deinen Blick, selbstsicherer als du sie jemals gesehen hast. "Ich muss es versuchen … allein, wenn es sein muss. Verstehst du mich? Ich kann hier *nicht* sitzenbleiben."</DefaultText>
+      <DefaultText>„Ich weiß, dass ich dir wichtig bin, aber … das ist mein *Zuhause*.“ Sie atmet tief ein, als ob sie sich auf etwas vorbereitet. Sie fängt deinen Blick, selbstsicherer als du sie jemals gesehen hast. „Ich muss es versuchen … allein, wenn es sein muss. Verstehst du mich? Ich kann hier *nicht* sitzenbleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Ich brauche dich nicht", sagt sie, während sie ihre Füße anstarrt. "Wenn du mir nicht hilfst, dann werde ich alleine einen Weg nach Hause finden. Ich *muss*."</DefaultText>
+      <DefaultText>„Ich brauche dich nicht“, sagt sie, während sie ihre Füße anstarrt. „Wenn du mir nicht hilfst, dann werde ich alleine einen Weg nach Hause finden. Ich *muss*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Dann geh. Und viel Glück."</DefaultText>
+      <DefaultText>„Dann geh. Und viel Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Dann geh. Wir brauchen dich nicht."</DefaultText>
+      <DefaultText>„Dann geh. Wir brauchen dich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>{Angry, betrayed}"Vergiss es! Du sagst immer, dass du mich nach Hause schickst, aber tust es nicht! Ich glaube dir nicht mehr. Ich werde ... {Suddenly uncertain, but determined to go through with it}ich werde alleine nach Hause gehen."</DefaultText>
+      <DefaultText>{Angry, betrayed}„Vergiss es! Du sagst immer, dass du mich nach Hause schickst, aber tust es nicht! Ich glaube dir nicht mehr. Ich werde ... {Suddenly uncertain, but determined to go through with it}ich werde alleine nach Hause gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Alles wird gut. Wir *werden* zurückkommen."</DefaultText>
+      <DefaultText>„Alles wird gut. Wir *werden* zurückkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Ich habe schon so viel verloren. Ich kann … ich kann diese Chance nicht verpassen. Nicht nochmal."</DefaultText>
+      <DefaultText>Sie schüttelt den Kopf. „Ich habe schon so viel verloren. Ich kann … ich kann diese Chance nicht verpassen. Nicht nochmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,12 +288,12 @@ Sie dreht sich weg und ihre Stimme zittert. "Was, wenn ich nie wieder diese Chan
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"… ob du mir hilfst oder nicht."</DefaultText>
+      <DefaultText>„… ob du mir hilfst oder nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Du … was?" Der Verrat in ihrem Gesichtsausdruck ist schmerzhaft anzusehen."Ich … nein! Nein, ich gehe nach Hause … ob du mir hilfst oder nicht."</DefaultText>
+      <DefaultText>„Du … was?“ Der Verrat in ihrem Gesichtsausdruck ist schmerzhaft anzusehen.“Ich … nein! Nein, ich gehe nach Hause … ob du mir hilfst oder nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,32 +313,32 @@ Sie dreht sich weg und ihre Stimme zittert. "Was, wenn ich nie wieder diese Chan
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Was?! Aber wir sind so nah dran. Ich *kenne* den Weg nach Hause. Wir müssen ihn nur öffnen!"</DefaultText>
+      <DefaultText>„Was?! Aber wir sind so nah dran. Ich *kenne* den Weg nach Hause. Wir müssen ihn nur öffnen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Nein! Wenn du mir nicht hilfst, dann … dann mache ich es selbst!"</DefaultText>
+      <DefaultText>„Nein! Wenn du mir nicht hilfst, dann … dann mache ich es selbst!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Du musst ihn selbst öffnen. Wir sind durch."</DefaultText>
+      <DefaultText>„Du musst ihn selbst öffnen. Wir sind durch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Du hast recht. Vergiss einfach, dass ich das gesagt habe."</DefaultText>
+      <DefaultText>„Du hast recht. Vergiss einfach, dass ich das gesagt habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Gut." Sie wischt sich mit dem Handrücken über die Nase. "Dann werd ich ..."</DefaultText>
+      <DefaultText>„Gut.“ Sie wischt sich mit dem Handrücken über die Nase. „Dann werd ich ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"… vergessen."</DefaultText>
+      <DefaultText>„… vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -358,24 +358,24 @@ Sie dreht sich weg und ihre Stimme zittert. "Was, wenn ich nie wieder diese Chan
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Ich weiß es nicht. Ich dachte …" Sie sackt zusammen. "Ich habe es mir so sehr gewünscht. Ich kann mich nicht an ihn erinnern. Ich *kann nicht* … aber ich kann mich an eine Menge Dinge nicht erinnern."
+      <DefaultText>„Ich weiß es nicht. Ich dachte …“ Sie sackt zusammen. „Ich habe es mir so sehr gewünscht. Ich kann mich nicht an ihn erinnern. Ich *kann nicht* … aber ich kann mich an eine Menge Dinge nicht erinnern.“
 
-Sie schüttelt den Kopf. "Vielleicht sollten wir nochmal mit ihm reden. Zur Sicherheit."</DefaultText>
+Sie schüttelt den Kopf. „Vielleicht sollten wir nochmal mit ihm reden. Zur Sicherheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Ich weiß … ich weiß es nicht. Ich würde mich daran erinnern, wenn ich ihn schon mal gesehen hätte, oder? Wenn ich an diesem schrecklichen Ort schon mal gewesen wäre?" Sie schüttelt den Kopf. "Aber vielleicht sollten wir sehen, was er tun kann. Zur Sicherheit."</DefaultText>
+      <DefaultText>„Ich weiß … ich weiß es nicht. Ich würde mich daran erinnern, wenn ich ihn schon mal gesehen hätte, oder? Wenn ich an diesem schrecklichen Ort schon mal gewesen wäre?“ Sie schüttelt den Kopf. „Aber vielleicht sollten wir sehen, was er tun kann. Zur Sicherheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Wir *müssen*!" Sie schaut dich aufgeregt an, offenbar sicher, dass du weißt, wovon sie spricht. "Wir müssen den … Schlund oder was auch immer in Aen-tozon öffnen. Ich kann nach Hause!"</DefaultText>
+      <DefaultText>„Wir *müssen*!“ Sie schaut dich aufgeregt an, offenbar sicher, dass du weißt, wovon sie spricht. „Wir müssen den … Schlund oder was auch immer in Aen-tozon öffnen. Ich kann nach Hause!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Ich bin froh, dass ich bei dir geblieben bin. Das war die richtige Entscheidung." Sie nickt sich selbst zu. "Wolltest du etwas?"</DefaultText>
+      <DefaultText>„Ich bin froh, dass ich bei dir geblieben bin. Das war die richtige Entscheidung.“ Sie nickt sich selbst zu. „Wolltest du etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -385,24 +385,24 @@ Sie schüttelt den Kopf. "Vielleicht sollten wir nochmal mit ihm reden. Zur Sich
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"W-was?" Sie lächelt dich nur mit ihrem halben Gesicht an. "Du machst natürlich Witze. Wir sind Familie … oder?"
+      <DefaultText>„W-was?“ Sie lächelt dich nur mit ihrem halben Gesicht an. „Du machst natürlich Witze. Wir sind Familie … oder?“
 
 Ihr Lächeln verschwindet schnell.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Sie runzelt die Stirn. "Das ist nicht mehr witzig."</DefaultText>
+      <DefaultText>Sie runzelt die Stirn. „Das ist nicht mehr witzig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Ich mache keine Witze und wir sind keine Familie. Ich muss dich hier lassen. Jetzt."</DefaultText>
+      <DefaultText>„Ich mache keine Witze und wir sind keine Familie. Ich muss dich hier lassen. Jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Es tut mir leid, das habe ich nicht so gemeint. Lass uns weitermachen."</DefaultText>
+      <DefaultText>„Es tut mir leid, das habe ich nicht so gemeint. Lass uns weitermachen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -412,17 +412,17 @@ Ihr Lächeln verschwindet schnell.</DefaultText>
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Du verhältst dich seltsam in Bezug auf Aen-tozon. Warum?"</DefaultText>
+      <DefaultText>„Du verhältst dich seltsam in Bezug auf Aen-tozon. Warum?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Warum hast du dich nochmal in Bezug auf Aen-tozon seltsam verhalten?"</DefaultText>
+      <DefaultText>„Warum hast du dich nochmal in Bezug auf Aen-tozon seltsam verhalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Ich weiß es nicht." Sie schüttelt den Kopf. "Vielleicht sollten wir uns ansehen, was er kann. Zur Sicherheit."</DefaultText>
+      <DefaultText>„Ich weiß es nicht.“ Sie schüttelt den Kopf. „Vielleicht sollten wir uns ansehen, was er kann. Zur Sicherheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -432,22 +432,22 @@ Ihr Lächeln verschwindet schnell.</DefaultText>
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Wolltest du mit mir über etwas reden?"</DefaultText>
+      <DefaultText>„Wolltest du mit mir über etwas reden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Ich habe keine Zeit dafür."</DefaultText>
+      <DefaultText>„Ich habe keine Zeit dafür.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ja. Nein." Sie schlägt ihre Hand auf ihren Mund. "Schon gut."</DefaultText>
+      <DefaultText>„Ja. Nein.“ Sie schlägt ihre Hand auf ihren Mund. „Schon gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Tut mir leid!"</DefaultText>
+      <DefaultText>„Tut mir leid!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
