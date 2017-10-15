@@ -6,24 +6,24 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ein Höllending, dein Verstand. Vielleicht hättest du Ordnung schaffen sollen, bevor du Leute einlädst."</DefaultText>
+      <DefaultText>„Ein Höllending, dein Verstand. Vielleicht hättest du Ordnung schaffen sollen, bevor du Leute einlädst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Versuch mal, nicht so fest nachzudenken. Du bereitest mir Kopfschmerzen."
+      <DefaultText>„Versuch mal, nicht so fest nachzudenken. Du bereitest mir Kopfschmerzen.“
 
-{GAVIN: Tybir should still have his other global Responses (e.g. "Tell me about you," "I'd like to ask about other people," "How you holding up," etc). Even if his answers are basically "Not now, lad," the Responses should still be there to be consistent with the other CNPCs.}</DefaultText>
+{GAVIN: Tybir should still have his other global Responses (e.g. „Tell me about you,“ „I'd like to ask about other people,“ „How you holding up,“ etc). Even if his answers are basically „Not now, lad,“ the Responses should still be there to be consistent with the other CNPCs.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich habe keine Gäste erwartet."</DefaultText>
+      <DefaultText>„Ich habe keine Gäste erwartet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Du kannst gehen, wenn du unglücklich bist."</DefaultText>
+      <DefaultText>„Du kannst gehen, wenn du unglücklich bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,29 +33,29 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Unglücklich? Nein, nicht unglücklich. Nervös ist das bessere Wort."</DefaultText>
+      <DefaultText>„Unglücklich? Nein, nicht unglücklich. Nervös ist das bessere Wort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Er presst die Finger auf seine Nasenwurzel und sagt: "Ich habe das Gefühl, als würdest du, wenn ich einen Stein wegtrete, vergessen, wie man Pudding isst. Oder du machst dir in die Hose. Keine der Optionen ist sonderlich angenehm."
+      <DefaultText>Er presst die Finger auf seine Nasenwurzel und sagt: „Ich habe das Gefühl, als würdest du, wenn ich einen Stein wegtrete, vergessen, wie man Pudding isst. Oder du machst dir in die Hose. Keine der Optionen ist sonderlich angenehm.“
 
-Er reibt sich den Nacken. "Wie dem auch sei. Brauchst du etwas?"</DefaultText>
+Er reibt sich den Nacken. „Wie dem auch sei. Brauchst du etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Nun, ich werde versuchen, nicht zu viele Blicke in deine Schränke zu werfen. Sozusagen."</DefaultText>
+      <DefaultText>„Nun, ich werde versuchen, nicht zu viele Blicke in deine Schränke zu werfen. Sozusagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Gehen wir weiter."</DefaultText>
+      <DefaultText>„Gehen wir weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Warte hier auf mich."</DefaultText>
+      <DefaultText>„Warte hier auf mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,7 +70,7 @@ Er reibt sich den Nacken. "Wie dem auch sei. Brauchst du etwas?"</DefaultText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich bin bei dir."</DefaultText>
+      <DefaultText>„Ich bin bei dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -80,44 +80,44 @@ Er reibt sich den Nacken. "Wie dem auch sei. Brauchst du etwas?"</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Du wirkst von all dem nicht sonderlich verblüfft."</DefaultText>
+      <DefaultText>„Du wirkst von all dem nicht sonderlich verblüfft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Das hier ist überhaupt nicht seltsam für dich?"</DefaultText>
+      <DefaultText>„Das hier ist überhaupt nicht seltsam für dich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Nun, nein. Ich habe viel Zeit in den Köpfen von Leuten verbracht, und zwar nicht nur im traditionellen Sinn. Ich bin mal zu einer Party im Geist einer sterbenden Freundin gegangen. War allerdings kein Spaß. Ein bisschen morbide, und die Tanzfläche wurde immer kleiner."
+      <DefaultText>„Nun, nein. Ich habe viel Zeit in den Köpfen von Leuten verbracht, und zwar nicht nur im traditionellen Sinn. Ich bin mal zu einer Party im Geist einer sterbenden Freundin gegangen. War allerdings kein Spaß. Ein bisschen morbide, und die Tanzfläche wurde immer kleiner.“
 
-Er sieht sich um. "Ihr Geist war auch ein bisschen kleiner als deiner. Nichts gegen sie, aber sie hätte auch ein paar Dekorationstipps von dir gebrauchen können."</DefaultText>
+Er sieht sich um. „Ihr Geist war auch ein bisschen kleiner als deiner. Nichts gegen sie, aber sie hätte auch ein paar Dekorationstipps von dir gebrauchen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Oh, das ist definitiv seltsam, aber nicht unnormal. Du weißt, wie das ist."</DefaultText>
+      <DefaultText>„Oh, das ist definitiv seltsam, aber nicht unnormal. Du weißt, wie das ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ah, da bist du." Er verschränkt die Arme. "Brauchst du mich bei dir?"</DefaultText>
+      <DefaultText>„Ah, da bist du.“ Er verschränkt die Arme. „Brauchst du mich bei dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Natürlich."</DefaultText>
+      <DefaultText>„Natürlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Noch nicht."</DefaultText>
-      <FemaleText>"Noch nicht."</FemaleText>
+      <DefaultText>„Noch nicht.“</DefaultText>
+      <FemaleText>„Noch nicht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Tja, du wirst erst ein paar von den anderen loswerden müssen", sagt er und verschränkt seine Arme. "Ansonsten passen wir kaum durch Türen."</DefaultText>
+      <DefaultText>„Tja, du wirst erst ein paar von den anderen loswerden müssen“, sagt er und verschränkt seine Arme. „Ansonsten passen wir kaum durch Türen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,42 +127,42 @@ Er sieht sich um. "Ihr Geist war auch ein bisschen kleiner als deiner. Nichts ge
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ich bin hier, wenn du soweit bist."</DefaultText>
+      <DefaultText>„Ich bin hier, wenn du soweit bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Lass uns losgehen. Das Tageslicht nimmt ab, sozusagen."</DefaultText>
+      <DefaultText>„Lass uns losgehen. Das Tageslicht nimmt ab, sozusagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich habe Fragen über dich."</DefaultText>
+      <DefaultText>„Ich habe Fragen über dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <DefaultText>„Wie geht es dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ich habe Fragen über unsere Begleiter."</DefaultText>
+      <DefaultText>„Ich habe Fragen über unsere Begleiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Verlockend, aber nein danke. Ich liebe es, über mich zu reden - das weißt du -, aber jetzt gerade ist nicht der beste Zeitpunkt dafür."</DefaultText>
+      <DefaultText>„Verlockend, aber nein danke. Ich liebe es, über mich zu reden - das weißt du -, aber jetzt gerade ist nicht der beste Zeitpunkt dafür.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"So gut wie erwartet." Ohne zu lächeln zuckt er mit den Schultern.</DefaultText>
+      <DefaultText>„So gut wie erwartet.“ Ohne zu lächeln zuckt er mit den Schultern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Lass uns das Gerede für später aufheben, was?"</DefaultText>
+      <DefaultText>„Lass uns das Gerede für später aufheben, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,7 +172,7 @@ Er sieht sich um. "Ihr Geist war auch ein bisschen kleiner als deiner. Nichts ge
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Er zuckt mit den Schultern. "Warum nicht? Vielleicht mache ich einen Spaziergang durch deinen Geist. Mal sehen, was für peinliche Geheimnisse du für dich behältst."
+      <DefaultText>Er zuckt mit den Schultern. „Warum nicht? Vielleicht mache ich einen Spaziergang durch deinen Geist. Mal sehen, was für peinliche Geheimnisse du für dich behältst.“
 
 Er salutiert dir leicht.</DefaultText>
       <FemaleText />
@@ -184,23 +184,23 @@ Er salutiert dir leicht.</DefaultText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Gut. Tja. Ich schätze, ich warte hier."</DefaultText>
+      <DefaultText>„Gut. Tja. Ich schätze, ich warte hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Er zwinkert dir zu. "Ich hab genausoviel Spaß an Gerangel in Türdurchgängen wie jeder andere, aber jetzt gerade ist nicht der beste Zeitpunkt dafür."</DefaultText>
+      <DefaultText>Er zwinkert dir zu. „Ich hab genausoviel Spaß an Gerangel in Türdurchgängen wie jeder andere, aber jetzt gerade ist nicht der beste Zeitpunkt dafür.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Hier? Nein", sagt er und kichert. "Ich bleibe lieber bis zum Ende dabei, statt mich in den tiefen Lagen deines Geistes zu verlaufen, vielen *herzlichen* Dank."</DefaultText>
+      <DefaultText>„Hier? Nein“, sagt er und kichert. „Ich bleibe lieber bis zum Ende dabei, statt mich in den tiefen Lagen deines Geistes zu verlaufen, vielen *herzlichen* Dank.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Komm schon, Junge. Mach, wofür du hierher gekommen bist."</DefaultText>
-      <FemaleText>"Komm schon, Mädchen. Mach, wofür du hierher gekommen bist."</FemaleText>
+      <DefaultText>„Komm schon, Junge. Mach, wofür du hierher gekommen bist.“</DefaultText>
+      <FemaleText>„Komm schon, Mädchen. Mach, wofür du hierher gekommen bist.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
