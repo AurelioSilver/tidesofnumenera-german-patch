@@ -6,21 +6,21 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Götter, Ich hasse diesen Ort. Ein Mann sieht gerne einen blauen Himmel über den Kopf, möglicherweise mit ein paar nackten Kerlen und Weibern im Weg, die einen fragen, ob man denn ein gutes Nickerchen hatte und einen ein Getränk anbieten. Nicht ... Gedärme und so Zeugs. Hoffe, du planst es nicht, lange hier zu bleiben."
+      <DefaultText>„Götter, Ich hasse diesen Ort. Ein Mann sieht gerne einen blauen Himmel über den Kopf, möglicherweise mit ein paar nackten Kerlen und Weibern im Weg, die einen fragen, ob man denn ein gutes Nickerchen hatte und einen ein Getränk anbieten. Nicht ... Gedärme und so Zeugs. Hoffe, du planst es nicht, lange hier zu bleiben.“
 
 {SCRIPT - Plays the first time the player talks to Tybir after they've entered the Bloom, and then not again.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ja, Junge?"</DefaultText>
-      <FemaleText>"Ja, Mädel?"</FemaleText>
+      <DefaultText>„Ja, Junge?“</DefaultText>
+      <FemaleText>„Ja, Mädel?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Kann nicht aufhören, über dein Miel Avest nachzudenken. Weißt du, du entwirfst einen Eindruck, wie eine Stadt voller Unsterblicher aussehen könnte. Büchereien und so. Vielleicht ein paar Teeläden."
+      <DefaultText>„Kann nicht aufhören, über dein Miel Avest nachzudenken. Weißt du, du entwirfst einen Eindruck, wie eine Stadt voller Unsterblicher aussehen könnte. Büchereien und so. Vielleicht ein paar Teeläden.“
 
-"Das war keine Stadt. Das war ein Gefängnis, gebaut von deinem Wandelnden Gott, und deine Geschwister *leben freiwillig dort*, steiten sich darüber, wem denn das Besteck gehört, während der Henker an der Tür wartet. Warum lässt ihr ihn alle damit ungestraft davonkommen?"
+„Das war keine Stadt. Das war ein Gefängnis, gebaut von deinem Wandelnden Gott, und deine Geschwister *leben freiwillig dort*, steiten sich darüber, wem denn das Besteck gehört, während der Henker an der Tür wartet. Warum lässt ihr ihn alle damit ungestraft davonkommen?“
 
 {SCRIPT: Tybir wants to talk. Currently marked as SHOULD NOT PLAY, but should trigger after the player gets to the Bloom and if Tybir was in the party and if Tybir was in the party during the Miel Avest crisis.}</DefaultText>
       <FemaleText />
@@ -37,22 +37,22 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <DefaultText>„Wie geht es dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich denke, wir sollten uns trennen."</DefaultText>
+      <DefaultText>„Ich denke, wir sollten uns trennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Gehen wir weiter."</DefaultText>
+      <DefaultText>„Gehen wir weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich habe Fragen über unsere Begleiter."</DefaultText>
+      <DefaultText>„Ich habe Fragen über unsere Begleiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -192,12 +192,12 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Nur so lange, wie es dauert, die Erste Verstoßene zu finden."</DefaultText>
+      <DefaultText>„Nur so lange, wie es dauert, die Erste Verstoßene zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Ah. Dann also der Rest eurer kurzen und schmerzvollen Leben. Gut, gut."</DefaultText>
+      <DefaultText>„Ah. Dann also der Rest eurer kurzen und schmerzvollen Leben. Gut, gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,29 +302,29 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Du bist unfair gegenüber den Verstoßenen. Jeder arbeitet mit dem Leben, das er bekommen hat."</DefaultText>
+      <DefaultText>„Du bist unfair gegenüber den Verstoßenen. Jeder arbeitet mit dem Leben, das er bekommen hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Wo kommt all das her?"</DefaultText>
+      <DefaultText>„Wo kommt all das her?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Genau das ist das Problem!", verkündet er und schlägt mit der Faust in seine Handfläche. "Du bist nahezu unsterblich. Du kommst nicht *einfach so zurecht* mit schlechten Karten, Kummer oder nicht. Du packst an! Du änderst Dinge! Du machst dir selbst einen Namen ..." Seine Stimme verhallt und er lauscht seinen eigenen Worten.
+      <DefaultText>„Genau das ist das Problem!“, verkündet er und schlägt mit der Faust in seine Handfläche. „Du bist nahezu unsterblich. Du kommst nicht *einfach so zurecht* mit schlechten Karten, Kummer oder nicht. Du packst an! Du änderst Dinge! Du machst dir selbst einen Namen ...“ Seine Stimme verhallt und er lauscht seinen eigenen Worten.
 
-"Oh", sagt er lächelnd. "Hör auf mich. Ich glaube nicht, dass dein Wandelnder Gott das viel anders gesagt hätte, oder?"</DefaultText>
+„Oh“, sagt er lächelnd. „Hör auf mich. Ich glaube nicht, dass dein Wandelnder Gott das viel anders gesagt hätte, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Das hier geht nicht um mich oder den Wandelnden Gott, oder?"</DefaultText>
+      <DefaultText>„Das hier geht nicht um mich oder den Wandelnden Gott, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Er kann sich bei mir nicht *alles* erlauben."</DefaultText>
+      <DefaultText>„Er kann sich bei mir nicht *alles* erlauben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -339,25 +339,25 @@
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Worum sollte es sonst gehen?", verkündet er und wirft die Hände in die Luft. Dort verharren sie erst und fallen dann zurück an seine Seite.
+      <DefaultText>„Worum sollte es sonst gehen?“, verkündet er und wirft die Hände in die Luft. Dort verharren sie erst und fallen dann zurück an seine Seite.
 
-"Oh", sagt er und blickt an dir vorbei. "Oh. Du hast recht. So ist es nicht." Seine Lippe verzieht sich. "Du bringst die Ehrlichkeit in mir hervor. Ich hasse es."
+„Oh“, sagt er und blickt an dir vorbei. „Oh. Du hast recht. So ist es nicht.“ Seine Lippe verzieht sich. „Du bringst die Ehrlichkeit in mir hervor. Ich hasse es.“
 
-Er massiert seine Augen. "Und ja, wenn ich ehrlich bin sehe ich keinen großen Unterschied zwischen deinem Wandelnden Gott und mir. Abgesehen von der Unsterblichkeit, natürlich."</DefaultText>
+Er massiert seine Augen. „Und ja, wenn ich ehrlich bin sehe ich keinen großen Unterschied zwischen deinem Wandelnden Gott und mir. Abgesehen von der Unsterblichkeit, natürlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Nein", sagt er mit einen kleinen Lächeln. "Nein, das tust du nicht, oder?"
+      <DefaultText>„Nein“, sagt er mit einen kleinen Lächeln. „Nein, das tust du nicht, oder?“
 
-Er fährt sich mit den Händen durch die Haare und seufzt schwer. "Es tut mir leid. Für dich ist das alles genauso neu wie für mich. Ich …" Seine Stimme verhallt und er lauscht seinen eigenen Worten.
+Er fährt sich mit den Händen durch die Haare und seufzt schwer. „Es tut mir leid. Für dich ist das alles genauso neu wie für mich. Ich …“ Seine Stimme verhallt und er lauscht seinen eigenen Worten.
 
-"Nein, das stimmt nicht, oder", sagt er. Sein Lächeln hat einen Hauch von Trauer. "Gib mir einen Körper, der nicht stirbt, und ich hätte es auch nicht anders gemacht als dein Wandelnder Gott, denke ich."</DefaultText>
+„Nein, das stimmt nicht, oder“, sagt er. Sein Lächeln hat einen Hauch von Trauer. „Gib mir einen Körper, der nicht stirbt, und ich hätte es auch nicht anders gemacht als dein Wandelnder Gott, denke ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Ich hoffe, du hast das bekommen, was du vom Herz wolltest, das ist nämlich das letzte, was du von mir bekommst."
+      <DefaultText>„Ich hoffe, du hast das bekommen, was du vom Herz wolltest, das ist nämlich das letzte, was du von mir bekommst.“
 
 {GAVIN: Write this after Heart is written.}
 {SCRIPT - Plays if the player forced him to give up his memories.}
@@ -367,21 +367,21 @@ Er fährt sich mit den Händen durch die Haare und seufzt schwer. "Es tut mir le
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Sei nicht sauer. Ich hätte es auch nicht getan, wenn es nicht absolut notwendig wäre."</DefaultText>
+      <DefaultText>„Sei nicht sauer. Ich hätte es auch nicht getan, wenn es nicht absolut notwendig wäre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Wie viele Kommandanten hatte ich, die genau das gesagt haben, als sie jeden in den Tod geschickt haben – abgesehen von sich selbst?"</DefaultText>
+      <DefaultText>„Wie viele Kommandanten hatte ich, die genau das gesagt haben, als sie jeden in den Tod geschickt haben – abgesehen von sich selbst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
       <DefaultText>Er starrt dich an.
 
-"Wie kannst du ruhig bleiben?", sagt er und schüttelt den Kopf. "Deine Brüder und Schwestern sind in diesem Tal gestorben, *abgeschlachtet* von dem Monster, das deinen Vater jagt. Dieses Blutbad war seine Schuld, und leidet er dafür? Ist er ..." Seine Stimme verhallt und er lauscht seinen eigenen Worten.
+„Wie kannst du ruhig bleiben?“, sagt er und schüttelt den Kopf. „Deine Brüder und Schwestern sind in diesem Tal gestorben, *abgeschlachtet* von dem Monster, das deinen Vater jagt. Dieses Blutbad war seine Schuld, und leidet er dafür? Ist er ...“ Seine Stimme verhallt und er lauscht seinen eigenen Worten.
 
-"Nein", sagt er leise. "Es ist ihm egal, richtig? Denn er konnte fliehen, und die Folgen kümmern ihn nicht." Er schenkt dir ein müdes Lächeln. "Ich weiß nicht, wann ich aufhören kann, über ihn zu urteilen."</DefaultText>
+„Nein“, sagt er leise. „Es ist ihm egal, richtig? Denn er konnte fliehen, und die Folgen kümmern ihn nicht.“ Er schenkt dir ein müdes Lächeln. „Ich weiß nicht, wann ich aufhören kann, über ihn zu urteilen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -886,7 +886,7 @@ Er fährt sich mit den Händen durch die Haare und seufzt schwer. "Es tut mir le
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>"Ich bin bei dir."</DefaultText>
+      <DefaultText>„Ich bin bei dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -896,7 +896,7 @@ Er fährt sich mit den Händen durch die Haare und seufzt schwer. "Es tut mir le
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>"Krieg macht Bösewichte aus uns allen, aber ... was Herja getan hat ..."</DefaultText>
+      <DefaultText>„Krieg macht Bösewichte aus uns allen, aber ... was Herja getan hat ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -911,9 +911,9 @@ Er fährt sich mit den Händen durch die Haare und seufzt schwer. "Es tut mir le
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>"Es sind tiefere Eingeweide, etwa so groß wie eine Stadt, und ich denke nicht gerne an die Zeit zurück, als wir dort lebten."
+      <DefaultText>„Es sind tiefere Eingeweide, etwa so groß wie eine Stadt, und ich denke nicht gerne an die Zeit zurück, als wir dort lebten.“
 
-Lächelnd gibt er nach. "Gut, gut. Stell deine Fragen."</DefaultText>
+Lächelnd gibt er nach. „Gut, gut. Stell deine Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -933,7 +933,7 @@ Lächelnd gibt er nach. "Gut, gut. Stell deine Fragen."</DefaultText>
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>"Kennst du Artaglio von früher?"</DefaultText>
+      <DefaultText>„Kennst du Artaglio von früher?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -953,7 +953,7 @@ Lächelnd gibt er nach. "Gut, gut. Stell deine Fragen."</DefaultText>
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
+      <DefaultText>„Ich habe noch andere Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -963,9 +963,9 @@ Lächelnd gibt er nach. "Gut, gut. Stell deine Fragen."</DefaultText>
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>"Ob ich menschenfreundlich bin?" Tybir schaut sich um. "Jeder hat ein Recht auf eine Chance zu leben. Aber dieses Biest hasst die Menschen, die in ihm leben." Er schaudert.
+      <DefaultText>„Ob ich menschenfreundlich bin?“ Tybir schaut sich um. „Jeder hat ein Recht auf eine Chance zu leben. Aber dieses Biest hasst die Menschen, die in ihm leben.“ Er schaudert.
 
-"Du kannst hier ein Vermögen machen, wenn du weißt, was du tust." Er schüttelt den Kopf. "Aber nur die härtesten Arbeiter halten es hier länger aus. Und die Flor verpasst nie eine Mahlzeit."</DefaultText>
+„Du kannst hier ein Vermögen machen, wenn du weißt, was du tust.“ Er schüttelt den Kopf. „Aber nur die härtesten Arbeiter halten es hier länger aus. Und die Flor verpasst nie eine Mahlzeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -975,9 +975,9 @@ Lächelnd gibt er nach. "Gut, gut. Stell deine Fragen."</DefaultText>
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>"Oh ja. Ich kenne ihn aus meiner kurzen Dienstzeit in der Endlosen Schlacht. Hat sich selbst nicht gerade mit Ruhm bekleckert, aber das hat keiner dort. Und selbst wenn man sich ehrenvoll verhalten hätte – kein anderer hätte es in Mitten der Schreie und des Irrsinns bemerkt."
+      <DefaultText>„Oh ja. Ich kenne ihn aus meiner kurzen Dienstzeit in der Endlosen Schlacht. Hat sich selbst nicht gerade mit Ruhm bekleckert, aber das hat keiner dort. Und selbst wenn man sich ehrenvoll verhalten hätte – kein anderer hätte es in Mitten der Schreie und des Irrsinns bemerkt.“
 
-Er runzelt die Stirn. "Er war immer ein bisschen griesgrämig und anfällig fürs Trinken. Vielleicht weil er sich kümmert. Oder sich mal gekümmert hat."</DefaultText>
+Er runzelt die Stirn. „Er war immer ein bisschen griesgrämig und anfällig fürs Trinken. Vielleicht weil er sich kümmert. Oder sich mal gekümmert hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -987,7 +987,7 @@ Er runzelt die Stirn. "Er war immer ein bisschen griesgrämig und anfällig für
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>"Er ist ein lächelnder Parasit", sagt Tybir fröhlich. "Er handelt mit Verzweiflung und er hat eine Menge Stammkunden. Ich kann den Mann nicht ausstehen."</DefaultText>
+      <DefaultText>„Er ist ein lächelnder Parasit“, sagt Tybir fröhlich. „Er handelt mit Verzweiflung und er hat eine Menge Stammkunden. Ich kann den Mann nicht ausstehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1002,7 +1002,7 @@ Er runzelt die Stirn. "Er war immer ein bisschen griesgrämig und anfällig für
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>"Die Schlunde der Flor zu öffnen klingt nicht so schwer. Wetten, ich kann das."
+      <DefaultText>„Die Schlunde der Flor zu öffnen klingt nicht so schwer. Wetten, ich kann das.“
 {SCRIPT: Should not play after this event is complete.}
 {SCRIPT: Tybir should have seen a maw.}</DefaultText>
       <FemaleText />
@@ -1044,21 +1044,21 @@ Er runzelt die Stirn. "Er war immer ein bisschen griesgrämig und anfällig für
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>"Ah, Mutanten", sagt er. "Das Leben ist für sie nicht einfach, aber bei den Geschichten, die ich von Gruppen aus Nihliesh gehört habe, würden dir die Ohren abfallen."
+      <DefaultText>„Ah, Mutanten“, sagt er. „Das Leben ist für sie nicht einfach, aber bei den Geschichten, die ich von Gruppen aus Nihliesh gehört habe, würden dir die Ohren abfallen.“
 
-Er zuckt mir den Schultern. "Aber nicht alle sind schamlose Hedonisten. Jammerschade. Mich hat mal ein Mann mit drei Armen überfallen, während seine Kniescheibe die Gasse im Auge behalten hat."</DefaultText>
+Er zuckt mir den Schultern. „Aber nicht alle sind schamlose Hedonisten. Jammerschade. Mich hat mal ein Mann mit drei Armen überfallen, während seine Kniescheibe die Gasse im Auge behalten hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>"Brusca ist für eine bezahlte Halsbrecherin ganz in Ordnung. Bei ihr weißt du wenigstens, woran du bist. Macht ihren Job, kümmert sich um Leute, hält ihr Wort." Er schnaubt. "Das ist mehr, als ich über die meisten ehrlichen Kommandanten sagen kann, die ich kennengelernt habe."</DefaultText>
+      <DefaultText>„Brusca ist für eine bezahlte Halsbrecherin ganz in Ordnung. Bei ihr weißt du wenigstens, woran du bist. Macht ihren Job, kümmert sich um Leute, hält ihr Wort.“ Er schnaubt. „Das ist mehr, als ich über die meisten ehrlichen Kommandanten sagen kann, die ich kennengelernt habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>"Er verdient seinen Lebensunterhalt als Führer durch die Flor. Er leitet Karawanen durch die verschiedenen Passagen. Seine Wunden trägt er als Beleg für seine Erfahrung. Mich persönlich füllen sie aber nicht mit Vertrauen."
+      <DefaultText>„Er verdient seinen Lebensunterhalt als Führer durch die Flor. Er leitet Karawanen durch die verschiedenen Passagen. Seine Wunden trägt er als Beleg für seine Erfahrung. Mich persönlich füllen sie aber nicht mit Vertrauen.“
 
-"Am Ende ist er nur ein harmloser, alter Geschichtenerzähler, so lange du dich nicht auf seine zitternden Hände verlässt."</DefaultText>
+„Am Ende ist er nur ein harmloser, alter Geschichtenerzähler, so lange du dich nicht auf seine zitternden Hände verlässt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1078,12 +1078,12 @@ Er zuckt mir den Schultern. "Aber nicht alle sind schamlose Hedonisten. Jammersc
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>"Denkst du darüber nach, eine denkende Stadt mit Bewusstsein in deine Liste von Eroberungen aufzunehmen?"</DefaultText>
+      <DefaultText>„Denkst du darüber nach, eine denkende Stadt mit Bewusstsein in deine Liste von Eroberungen aufzunehmen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>"Und der Krieg hat keinen Schurken aus dir gemacht?"</DefaultText>
+      <DefaultText>„Und der Krieg hat keinen Schurken aus dir gemacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1103,12 +1103,12 @@ Er zuckt mir den Schultern. "Aber nicht alle sind schamlose Hedonisten. Jammersc
     </Entry>
     <Entry>
       <ID>364</ID>
-      <DefaultText>"Noch einer?" Tybir untersucht die tropfende Decke mit einem prüfenden Auge. "Warum nicht?"</DefaultText>
+      <DefaultText>„Noch einer?“ Tybir untersucht die tropfende Decke mit einem prüfenden Auge. „Warum nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>"Natürlich, aber nicht so. Meine Verbrechen waren … nenne sie fahrlässig oder selbsterhaltend." Sein Blick ist schwer und geht an dir vorbei in die Ferne. "Aber ihr … Hass, und die Grausamkeiten, die sie deshalb zugelassen hat … nein, ich habe vieles, für das ich mich schämen muss, aber nichts, was daran heranreicht."</DefaultText>
+      <DefaultText>„Natürlich, aber nicht so. Meine Verbrechen waren … nenne sie fahrlässig oder selbsterhaltend.“ Sein Blick ist schwer und geht an dir vorbei in die Ferne. „Aber ihr … Hass, und die Grausamkeiten, die sie deshalb zugelassen hat … nein, ich habe vieles, für das ich mich schämen muss, aber nichts, was daran heranreicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2258,81 +2258,81 @@ Er zuckt mir den Schultern. "Aber nicht alle sind schamlose Hedonisten. Jammersc
     </Entry>
     <Entry>
       <ID>613</ID>
-      <DefaultText>"Bleib weg von den Schlünden, Tybir. Du bist zu wertvoll für mich."</DefaultText>
+      <DefaultText>„Bleib weg von den Schlünden, Tybir. Du bist zu wertvoll für mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>614</ID>
-      <DefaultText>"Welche deiner Betrügereien wirkt auf gigantische, weltumspannende Raubtiere?"</DefaultText>
+      <DefaultText>„Welche deiner Betrügereien wirkt auf gigantische, weltumspannende Raubtiere?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>615</ID>
-      <DefaultText>"Alle!", sagt Tybir beleidigt. "Ein wenig angepasst, natürlich."</DefaultText>
+      <DefaultText>„Alle!“, sagt Tybir beleidigt. „Ein wenig angepasst, natürlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>616</ID>
-      <DefaultText>"Sehr freundlich, dass du das sagst", stellt er fest, während seine Augenbrauen fast in seinem Haaransatz verschwinden. "Aber ich habe nur einen Witz gemacht."</DefaultText>
+      <DefaultText>„Sehr freundlich, dass du das sagst“, stellt er fest, während seine Augenbrauen fast in seinem Haaransatz verschwinden. „Aber ich habe nur einen Witz gemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>617</ID>
-      <DefaultText>"Von einem hübschen Gesicht getäuscht worden, was?"</DefaultText>
+      <DefaultText>„Von einem hübschen Gesicht getäuscht worden, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>618</ID>
-      <DefaultText>"Als ob du in einen Spiegel schauen würdest, oder?"</DefaultText>
+      <DefaultText>„Als ob du in einen Spiegel schauen würdest, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>619</ID>
-      <DefaultText>"Ich folge dir, oder nicht?" Er zwinkert dir zu.</DefaultText>
+      <DefaultText>„Ich folge dir, oder nicht?“ Er zwinkert dir zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>620</ID>
-      <DefaultText>"Das ist schwach", sagt er mit Schmerz und Zorn im Blick. "Ich habe Dinge getan, die ich bereue. Aber wenn du glaubst, dass ich irgendwie so bin, dann kannst du Menschen nur sehr schlecht einschätzen."
+      <DefaultText>„Das ist schwach“, sagt er mit Schmerz und Zorn im Blick. „Ich habe Dinge getan, die ich bereue. Aber wenn du glaubst, dass ich irgendwie so bin, dann kannst du Menschen nur sehr schlecht einschätzen.“
 
-Er schüttelt wütend den Kopf. "Ich hätte niemals ... niemals ..." Seine Augen drehen sich nach innen. "Hätte ... ich nie, oder?"</DefaultText>
+Er schüttelt wütend den Kopf. „Ich hätte niemals ... niemals ...“ Seine Augen drehen sich nach innen. „Hätte ... ich nie, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>621</ID>
-      <DefaultText>"Danke, das du mich nicht dazu gezwungen hast, diesem Ding eine meiner Erinnerungen zu geben. Ich habe viele schmerzhafte, aber ich will sie nicht weggeben. Von einem leeren Blatt kann man nichts lernen."
+      <DefaultText>„Danke, das du mich nicht dazu gezwungen hast, diesem Ding eine meiner Erinnerungen zu geben. Ich habe viele schmerzhafte, aber ich will sie nicht weggeben. Von einem leeren Blatt kann man nichts lernen.“
 
 {SCRIPT - Plays if the player did not force him to give up his memories.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>622</ID>
-      <DefaultText>"Ich konnte sehen, dass es dich töten würde. Ich konnte nicht ertragen, wie du darunter leidest."</DefaultText>
+      <DefaultText>„Ich konnte sehen, dass es dich töten würde. Ich konnte nicht ertragen, wie du darunter leidest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>623</ID>
-      <DefaultText>"Vergiss es. Wir haben einen anderen Weg gefunden."</DefaultText>
+      <DefaultText>„Vergiss es. Wir haben einen anderen Weg gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>624</ID>
-      <DefaultText>"Dein Gejammere wurde langsam unausstehlich. Was hätte ich sonst tun sollen?"</DefaultText>
+      <DefaultText>„Dein Gejammere wurde langsam unausstehlich. Was hätte ich sonst tun sollen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>625</ID>
-      <DefaultText>"Es tut mir leid. Ich wünschte, es hätte einen anderen Weg gegeben."</DefaultText>
+      <DefaultText>„Es tut mir leid. Ich wünschte, es hätte einen anderen Weg gegeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>626</ID>
-      <DefaultText>"Wenn du auf eine Entschuldigung hoffst, muss ich dich enttäuschen."</DefaultText>
+      <DefaultText>„Wenn du auf eine Entschuldigung hoffst, muss ich dich enttäuschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>627</ID>
-      <DefaultText>"Jetzt, wo ich darüber nachdenke, klingt es wie etwas, was dein Vater sagen würde."</DefaultText>
+      <DefaultText>„Jetzt, wo ich darüber nachdenke, klingt es wie etwas, was dein Vater sagen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2342,27 +2342,27 @@ Er schüttelt wütend den Kopf. "Ich hätte niemals ... niemals ..." Seine Augen
     </Entry>
     <Entry>
       <ID>629</ID>
-      <DefaultText>"Oh, da war was. Da war was. Aber es war hinter deinem Ego, deshalb konnte ich es nicht sehen."</DefaultText>
+      <DefaultText>„Oh, da war was. Da war was. Aber es war hinter deinem Ego, deshalb konnte ich es nicht sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>"Hoffnung? Nein. Aber ich gewöhne mich langsam an Enttäuschungen, während ich mit dir umherziehe."</DefaultText>
+      <DefaultText>„Hoffnung? Nein. Aber ich gewöhne mich langsam an Enttäuschungen, während ich mit dir umherziehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText>"Du bist ein besserer Dienstherr als ich es verdiene. Ich …" Er zögert und zuckt dann mit den Schultern. "Tja, einfach danke. Danke."</DefaultText>
+      <DefaultText>„Du bist ein besserer Dienstherr als ich es verdiene. Ich …“ Er zögert und zuckt dann mit den Schultern. „Tja, einfach danke. Danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>632</ID>
-      <DefaultText>"Und ich bin froh, dass wir das gemacht haben. Ich weiß nicht, was ich getan hätte, wenn du damit weitergemacht hättest."</DefaultText>
+      <DefaultText>„Und ich bin froh, dass wir das gemacht haben. Ich weiß nicht, was ich getan hätte, wenn du damit weitergemacht hättest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>633</ID>
-      <DefaultText>"Ich verstehe. Du solltest mich ermutigen, öfter zu jammern."</DefaultText>
+      <DefaultText>„Ich verstehe. Du solltest mich ermutigen, öfter zu jammern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2377,14 +2377,14 @@ Er schüttelt wütend den Kopf. "Ich hätte niemals ... niemals ..." Seine Augen
     </Entry>
     <Entry>
       <ID>636</ID>
-      <DefaultText>"Nicht viel, und das mag ich so", sagt er mit einer Grimasse. "Nun, wenn du wissen möchtest, was mit denen geschieht, die sie hintergehen, dann musst du nur den Schreien folgen."</DefaultText>
+      <DefaultText>„Nicht viel, und das mag ich so“, sagt er mit einer Grimasse. „Nun, wenn du wissen möchtest, was mit denen geschieht, die sie hintergehen, dann musst du nur den Schreien folgen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>637</ID>
-      <DefaultText>"Nicht genug", sagt Tybir und fühlt sich offensichtlich unbehaglich dabei. "Er ist nicht der erste Mann, der diesen Namen trägt, und ich habe Geschichten gehört, dass er gleichzeitig an verschiedenen Orten sein kann."
+      <DefaultText>„Nicht genug“, sagt Tybir und fühlt sich offensichtlich unbehaglich dabei. „Er ist nicht der erste Mann, der diesen Namen trägt, und ich habe Geschichten gehört, dass er gleichzeitig an verschiedenen Orten sein kann.“
 
-Zischend atmet er aus dem Mundwinkel aus. "Er bezahlt gut, aber du willst ihn nicht hintergehen. Niemals. Tu es einfach nicht."</DefaultText>
+Zischend atmet er aus dem Mundwinkel aus. „Er bezahlt gut, aber du willst ihn nicht hintergehen. Niemals. Tu es einfach nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2429,98 +2429,98 @@ Zischend atmet er aus dem Mundwinkel aus. "Er bezahlt gut, aber du willst ihn ni
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>"Genug moralisiert, Tybir. Wir alle tun das, was wir machen müssen, um in dieser Welt zu überleben."</DefaultText>
+      <DefaultText>„Genug moralisiert, Tybir. Wir alle tun das, was wir machen müssen, um in dieser Welt zu überleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>648</ID>
-      <DefaultText>"Selbstverständlich", sagt er seufzend. "Aber manchmal erwische ich mich bei dem Gedanken, ob der Preis fürs Überleben nicht manchmal zu hoch ist."
+      <DefaultText>„Selbstverständlich“, sagt er seufzend. „Aber manchmal erwische ich mich bei dem Gedanken, ob der Preis fürs Überleben nicht manchmal zu hoch ist.“
 
-Er richtet sich auf und ein Lächeln erscheint auf seinem Gesicht. "Gute Sache, dass es kaum Konkurrenz gibt, was?"</DefaultText>
+Er richtet sich auf und ein Lächeln erscheint auf seinem Gesicht. „Gute Sache, dass es kaum Konkurrenz gibt, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>649</ID>
-      <DefaultText>"Stimmt das? Seit wann lernst du aus deinen Fehlern?"</DefaultText>
+      <DefaultText>„Stimmt das? Seit wann lernst du aus deinen Fehlern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>650</ID>
-      <DefaultText>"Oh nein, nein", sagt er und schnalzt mit der Zunge. "Ich habe nie gesagt, dass es *Fehler* waren." Er verschränkt die Arme. "Jedenfalls nicht meine."
+      <DefaultText>„Oh nein, nein“, sagt er und schnalzt mit der Zunge. „Ich habe nie gesagt, dass es *Fehler* waren.“ Er verschränkt die Arme. „Jedenfalls nicht meine.“
 
 Sein Blick ist nachdenklich, als er sich umdreht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>651</ID>
-      <DefaultText>"Ich wollte nie jemandem wehtun", sagt er und stützt seine Hände in die Hüften, als ob er sich selbst festhalten will. "Aber das habe ich getan. Wollte ich nicht immer, aber so ist es."
+      <DefaultText>„Ich wollte nie jemandem wehtun“, sagt er und stützt seine Hände in die Hüften, als ob er sich selbst festhalten will. „Aber das habe ich getan. Wollte ich nicht immer, aber so ist es.“
 
-Seine Hände fassen seine Hüfte enger – Fesseln aus Fleisch und Sehnen. "Ich bereue jede Gelegenheit, bei der ich einen Freund an meiner Statt habe leiden lassen. So ist es, und ich schwöre, ich werde nie wieder weglaufen ... und dann tue ich es doch wieder."
+Seine Hände fassen seine Hüfte enger – Fesseln aus Fleisch und Sehnen. „Ich bereue jede Gelegenheit, bei der ich einen Freund an meiner Statt habe leiden lassen. So ist es, und ich schwöre, ich werde nie wieder weglaufen ... und dann tue ich es doch wieder.“
 
 Er schließt die Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>652</ID>
-      <DefaultText>"Tust du *was* wieder?"</DefaultText>
+      <DefaultText>„Tust du *was* wieder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>653</ID>
-      <DefaultText>"Es interessiert mich nicht, was mit diesen anderen Leuten geschehen ist, Tybir. Du lebst, und das zählt."</DefaultText>
+      <DefaultText>„Es interessiert mich nicht, was mit diesen anderen Leuten geschehen ist, Tybir. Du lebst, und das zählt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>654</ID>
-      <DefaultText>"Du gehst zu hart mit dir selbst um."</DefaultText>
+      <DefaultText>„Du gehst zu hart mit dir selbst um.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>655</ID>
-      <DefaultText>"Oh", sagt er unglücklich und reibt sich die Augen. "Wenn ich nur so einfach meine Fehler zählen könnte. Aber ich habe eine Menge Fehler gemacht, und ich wüsste nicht, wo ich anfangen sollte."
+      <DefaultText>„Oh“, sagt er unglücklich und reibt sich die Augen. „Wenn ich nur so einfach meine Fehler zählen könnte. Aber ich habe eine Menge Fehler gemacht, und ich wüsste nicht, wo ich anfangen sollte.“
 
-Er zieht eine Grimasse. "Sagen wir es so – ich lebe, und darüber bin ich sehr glücklich. Aber Ris war längst nicht der erste Freund, den ich zurückgelassen habe." Seine Zähne berühren seine Lippen und er fügt hastig hinzu: "Unfall oder nicht."</DefaultText>
+Er zieht eine Grimasse. „Sagen wir es so – ich lebe, und darüber bin ich sehr glücklich. Aber Ris war längst nicht der erste Freund, den ich zurückgelassen habe.“ Seine Zähne berühren seine Lippen und er fügt hastig hinzu: „Unfall oder nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>656</ID>
-      <DefaultText>"Und wirst du mich verlassen, wenn es dir passt? Willst du das sagen?"</DefaultText>
+      <DefaultText>„Und wirst du mich verlassen, wenn es dir passt? Willst du das sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>657</ID>
-      <DefaultText>"Ich hoffe nicht, Junge", sagt er mit einem müden Kopfschütteln. "Aber ich kann dir nicht versprechen, dass ich mein Versprechen halte."</DefaultText>
-      <FemaleText>"Ich hoffe nicht, Mädchen", sagt er mit einem müden Kopfschütteln. "Aber ich kann dir nicht versprechen, dass ich mein Versprechen halte."</FemaleText>
+      <DefaultText>„Ich hoffe nicht, Junge“, sagt er mit einem müden Kopfschütteln. „Aber ich kann dir nicht versprechen, dass ich mein Versprechen halte.“</DefaultText>
+      <FemaleText>„Ich hoffe nicht, Mädchen“, sagt er mit einem müden Kopfschütteln. „Aber ich kann dir nicht versprechen, dass ich mein Versprechen halte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>658</ID>
       <DefaultText>Mit deutlicher Anstrengung richtet er sich auf und schenkt dir ein Lächeln.
 
-"Aber ich sage eins, mit aller Ehrlichkeit in meinem Herzen – du bringst mich dazu, es zu versuchen. Das ist die Wahrheit. Nun, worüber wolltest du mit mir sprechen?"</DefaultText>
+„Aber ich sage eins, mit aller Ehrlichkeit in meinem Herzen – du bringst mich dazu, es zu versuchen. Das ist die Wahrheit. Nun, worüber wolltest du mit mir sprechen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>659</ID>
-      <DefaultText>"Liebenswürdig, dass du das sagst", sagt er, doch es klingt nicht so, als ob er es ernst meint. "Ich hoffe, du hast Recht."
+      <DefaultText>„Liebenswürdig, dass du das sagst“, sagt er, doch es klingt nicht so, als ob er es ernst meint. „Ich hoffe, du hast Recht.“
 
-Mit deutlicher Anstrengung richtet er sich auf und schenkt dir ein Lächeln. "Aber lass mich mein eigenes Gewissen tragen. Was brauchst du?"</DefaultText>
+Mit deutlicher Anstrengung richtet er sich auf und schenkt dir ein Lächeln. „Aber lass mich mein eigenes Gewissen tragen. Was brauchst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>660</ID>
-      <DefaultText>"Ich schätze ja", sagt er, doch es klingt nicht so, als ob er es ernst meint. "Aber weglaufen, immer weglaufen … das zermürbt einen Mann."
+      <DefaultText>„Ich schätze ja“, sagt er, doch es klingt nicht so, als ob er es ernst meint. „Aber weglaufen, immer weglaufen … das zermürbt einen Mann.“
 
-Mit deutlicher Anstrengung richtet er sich auf und schenkt dir ein Lächeln. "Aber lass mich mein eigenes Gewissen tragen. Was brauchst du?"</DefaultText>
+Mit deutlicher Anstrengung richtet er sich auf und schenkt dir ein Lächeln. „Aber lass mich mein eigenes Gewissen tragen. Was brauchst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>661</ID>
-      <DefaultText>"Was ist los? Gefällt dir der Geruch nicht?"</DefaultText>
+      <DefaultText>„Was ist los? Gefällt dir der Geruch nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>662</ID>
-      <DefaultText>"Oder die Aussicht, oder das Essen, oder die Leute." Er kaut auf seiner Lippe und denkt nach. "Ich kann keinen Teil dieses Ortes empfehlen, und das will schon etwas sagen, bei meiner großzügigen Art."</DefaultText>
+      <DefaultText>„Oder die Aussicht, oder das Essen, oder die Leute.“ Er kaut auf seiner Lippe und denkt nach. „Ich kann keinen Teil dieses Ortes empfehlen, und das will schon etwas sagen, bei meiner großzügigen Art.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2530,59 +2530,59 @@ Mit deutlicher Anstrengung richtet er sich auf und schenkt dir ein Lächeln. "Ab
     </Entry>
     <Entry>
       <ID>664</ID>
-      <DefaultText>"Ich möchte dich etwas über die Flor fragen."</DefaultText>
+      <DefaultText>„Ich möchte dich etwas über die Flor fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>665</ID>
-      <DefaultText>"Ich habe mehr Fragen über die Flor."</DefaultText>
+      <DefaultText>„Ich habe mehr Fragen über die Flor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>666</ID>
-      <DefaultText>"Nun, ich habe hier eine Weile gelebt, aber das ist schon eine Weile her. Die Flor ist kein Ort für Vergnügen."
+      <DefaultText>„Nun, ich habe hier eine Weile gelebt, aber das ist schon eine Weile her. Die Flor ist kein Ort für Vergnügen.“
 
-Er nickt dir zu. "Stelle deine Fragen und ich gebe mein Bestes."</DefaultText>
+Er nickt dir zu. „Stelle deine Fragen und ich gebe mein Bestes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>667</ID>
-      <DefaultText>"Du wirst mit ihr gut klarkommen, solange du daran denkst, dass sie dich hasst und jedes Stück von dir abbeißen will, das hervorsteht."</DefaultText>
+      <DefaultText>„Du wirst mit ihr gut klarkommen, solange du daran denkst, dass sie dich hasst und jedes Stück von dir abbeißen will, das hervorsteht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>668</ID>
-      <DefaultText>"Er ist ein guter Geschäftsmann, aber furchteinflößend auf seine eigene, besondere Art. Im Vergleich zu ihm wirkt Fulsome hinten in Sagus wie ein Ausbund an Vergebung."</DefaultText>
+      <DefaultText>„Er ist ein guter Geschäftsmann, aber furchteinflößend auf seine eigene, besondere Art. Im Vergleich zu ihm wirkt Fulsome hinten in Sagus wie ein Ausbund an Vergebung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>669</ID>
-      <DefaultText>"Er ist ein Gauner, der Grauen an die Hoffnungslosen verkauft."</DefaultText>
+      <DefaultText>„Er ist ein Gauner, der Grauen an die Hoffnungslosen verkauft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>670</ID>
-      <DefaultText>"Sie ist ein Schläger, aber man kann ihr vertrauen. Wie du es nimmst."</DefaultText>
+      <DefaultText>„Sie ist ein Schläger, aber man kann ihr vertrauen. Wie du es nimmst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>"Leute, die mit ihr Geschäfte machen, finden ein übles Ende."</DefaultText>
+      <DefaultText>„Leute, die mit ihr Geschäfte machen, finden ein übles Ende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>672</ID>
-      <DefaultText>"Er ist so ein Mann, der sich selbst aus Achtlosigkeit verletzt und seine Wunden als Beleg seiner Weisheit sieht."</DefaultText>
+      <DefaultText>„Er ist so ein Mann, der sich selbst aus Achtlosigkeit verletzt und seine Wunden als Beleg seiner Weisheit sieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>673</ID>
-      <DefaultText>"Gibt nicht viel zu erzählen. Da leben die Mutanten und verdienen ihren Lebensunterhalt. Guter Ort, außer wenn dir einer in einer falschen Gasse die Kehle durchschneidet."</DefaultText>
+      <DefaultText>„Gibt nicht viel zu erzählen. Da leben die Mutanten und verdienen ihren Lebensunterhalt. Guter Ort, außer wenn dir einer in einer falschen Gasse die Kehle durchschneidet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>675</ID>
-      <DefaultText>"Ich wusste es."
+      <DefaultText>„Ich wusste es.“
 {SCRIPT: Once Ever: Only plays during the Lost Loves quest, and before Tybir learns what happened to Auvigne.}</DefaultText>
       <FemaleText />
     </Entry>
@@ -2593,21 +2593,21 @@ Er nickt dir zu. "Stelle deine Fragen und ich gebe mein Bestes."</DefaultText>
     </Entry>
     <Entry>
       <ID>677</ID>
-      <DefaultText>"Wir müssen ihn finden. *Ich* muss ihn finden."</DefaultText>
+      <DefaultText>„Wir müssen ihn finden. *Ich* muss ihn finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>678</ID>
-      <DefaultText>"Dracogen hatte recht", sagt er mit zusammengebissenen Zähnen. "Auvigne und ich waren uns näher als nah. Die Welt hat uns mit Füßen getreten, aber wir haben es zusammen überlebt. Haben uns gegenseitig durch Kriege und noch härtere Zeiten getragen."
+      <DefaultText>„Dracogen hatte recht“, sagt er mit zusammengebissenen Zähnen. „Auvigne und ich waren uns näher als nah. Die Welt hat uns mit Füßen getreten, aber wir haben es zusammen überlebt. Haben uns gegenseitig durch Kriege und noch härtere Zeiten getragen.“
 
-Er schaut von dir weg. "Wir waren Arme eines Körpers, aber mit unterschiedlichen Geistern – zu verschieden, wie sich herausgestellt hat." Zitternd holt er tief Luft.</DefaultText>
+Er schaut von dir weg. „Wir waren Arme eines Körpers, aber mit unterschiedlichen Geistern – zu verschieden, wie sich herausgestellt hat.“ Zitternd holt er tief Luft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>679</ID>
       <DefaultText>Er umklammert seine Faust mit der anderen Hand, als ob er sie an der Stelle festhalten will.
 
-"Trotzdem", sagt er scharf, "wäre es nett, ihn wiederzusehen. Um die alten Zeiten wieder aufleben zu lassen."</DefaultText>
+„Trotzdem“, sagt er scharf, „wäre es nett, ihn wiederzusehen. Um die alten Zeiten wieder aufleben zu lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2617,22 +2617,22 @@ Er schaut von dir weg. "Wir waren Arme eines Körpers, aber mit unterschiedliche
     </Entry>
     <Entry>
       <ID>682</ID>
-      <DefaultText>"Wir werden ihn finden."</DefaultText>
+      <DefaultText>„Wir werden ihn finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>683</ID>
-      <DefaultText>"Wir haben keine Zeit dafür."</DefaultText>
+      <DefaultText>„Wir haben keine Zeit dafür.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>684</ID>
-      <DefaultText>"Ich habe ihn geliebt", sagt er ehrlich. "Wir müssen ihn finden. *Ich* muss ihn finden."</DefaultText>
+      <DefaultText>„Ich habe ihn geliebt“, sagt er ehrlich. „Wir müssen ihn finden. *Ich* muss ihn finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>685</ID>
-      <DefaultText>"Danke", sagt er und nickt. "Ich möchte nur mit ihm reden. Ein paar Dinge wiedergutmachen, wenn das überhaupt noch geht."
+      <DefaultText>„Danke“, sagt er und nickt. „Ich möchte nur mit ihm reden. Ein paar Dinge wiedergutmachen, wenn das überhaupt noch geht.“
 
 Er schluckt und schiebt den Ring auf seinen Finger.</DefaultText>
       <FemaleText />
@@ -2641,7 +2641,7 @@ Er schluckt und schiebt den Ring auf seinen Finger.</DefaultText>
       <ID>686</ID>
       <DefaultText>Er schließt die Augen.
 
-"Ich weiß", knurrt er. "Aber wenn wir … wenn du deine Meinung ändern würdest … wäre ich dir dankbar."
+„Ich weiß“, knurrt er. „Aber wenn wir … wenn du deine Meinung ändern würdest … wäre ich dir dankbar.“
 
 Ohne ein weiteres Wort schiebt er den Ring auf seinen zitternden Finger.</DefaultText>
       <FemaleText />
@@ -2650,21 +2650,21 @@ Ohne ein weiteres Wort schiebt er den Ring auf seinen zitternden Finger.</Defaul
       <ID>687</ID>
       <DefaultText>Überrascht sieht er auf.
 
-"Ich dachte, du würdest nein sagen", sagt er leise. "Danke dir."
+„Ich dachte, du würdest nein sagen“, sagt er leise. „Danke dir.“
 
 Er schluckt und schiebt den Ring auf seinen Finger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>688</ID>
-      <DefaultText>"Ich verstehe es nicht. Kannst du diese Ringe nicht benutzen, um seinen Geist zu spüren und zu sehen, wo er ist?"</DefaultText>
+      <DefaultText>„Ich verstehe es nicht. Kannst du diese Ringe nicht benutzen, um seinen Geist zu spüren und zu sehen, wo er ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>689</ID>
-      <DefaultText>"Stimmt", sagt er mit zitterndem Lachen. "Du weißt nicht, was du fragst. Früher, in den guten Tagen, war es wie Hände halten. Deine Finger um ihre schlingen, richtig? Aber mit ihren Gedanken und Gefühlen anstatt Fleisch und Knochen."
+      <DefaultText>„Stimmt“, sagt er mit zitterndem Lachen. „Du weißt nicht, was du fragst. Früher, in den guten Tagen, war es wie Hände halten. Deine Finger um ihre schlingen, richtig? Aber mit ihren Gedanken und Gefühlen anstatt Fleisch und Knochen.“
 
-Er schüttelt den Kopf. "Erstens müsste ich mich dafür konzentrieren. Und zweitens? Ich bin dort nicht mehr willkommen. Das hat er deutlich gemacht, und ich wüsste nicht, dass ich ihm da widerspreche."</DefaultText>
+Er schüttelt den Kopf. „Erstens müsste ich mich dafür konzentrieren. Und zweitens? Ich bin dort nicht mehr willkommen. Das hat er deutlich gemacht, und ich wüsste nicht, dass ich ihm da widerspreche.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2674,9 +2674,9 @@ Er schüttelt den Kopf. "Erstens müsste ich mich dafür konzentrieren. Und zwei
     </Entry>
     <Entry>
       <ID>691</ID>
-      <DefaultText>"Das ist nicht der Zeitpunkt dafür", sagt Tybir, aber er schaut dennoch zu dir auf. "Es war gegenseitig, ja? Als die Zeit verging, wollten wir unterschiedliche Dinge. Und ich wollte nicht …"
+      <DefaultText>„Das ist nicht der Zeitpunkt dafür“, sagt Tybir, aber er schaut dennoch zu dir auf. „Es war gegenseitig, ja? Als die Zeit verging, wollten wir unterschiedliche Dinge. Und ich wollte nicht …“
 
-Er hört auf zu reden und seufzt. "Lass es sein. Wir sollten uns darauf konzentrieren, ihn zu finden."</DefaultText>
+Er hört auf zu reden und seufzt. „Lass es sein. Wir sollten uns darauf konzentrieren, ihn zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2686,17 +2686,17 @@ Er hört auf zu reden und seufzt. "Lass es sein. Wir sollten uns darauf konzentr
     </Entry>
     <Entry>
       <ID>693</ID>
-      <DefaultText>"Gerade nicht wichtig", brummt er. "Wir sollten uns darauf konzentrieren, ihn zu finden."</DefaultText>
+      <DefaultText>„Gerade nicht wichtig“, brummt er. „Wir sollten uns darauf konzentrieren, ihn zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>694</ID>
-      <DefaultText>"Was ist eigentlich zwischen dir und Auvigne geschehen?"</DefaultText>
+      <DefaultText>„Was ist eigentlich zwischen dir und Auvigne geschehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>695</ID>
-      <DefaultText>"Kannst du mir irgendwas darüber erzählen, was zwischen dir und Auvigne geschehen ist?"</DefaultText>
+      <DefaultText>„Kannst du mir irgendwas darüber erzählen, was zwischen dir und Auvigne geschehen ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2711,12 +2711,12 @@ Er hört auf zu reden und seufzt. "Lass es sein. Wir sollten uns darauf konzentr
     </Entry>
     <Entry>
       <ID>698</ID>
-      <DefaultText>"Sprechen wir über dich."</DefaultText>
+      <DefaultText>„Sprechen wir über dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>699</ID>
-      <DefaultText>"Lass uns mehr über dich reden."</DefaultText>
+      <DefaultText>„Lass uns mehr über dich reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2741,12 +2741,12 @@ Er hört auf zu reden und seufzt. "Lass es sein. Wir sollten uns darauf konzentr
     </Entry>
     <Entry>
       <ID>704</ID>
-      <DefaultText>"Was glaubst du, wo Auvigne ist?"</DefaultText>
+      <DefaultText>„Was glaubst du, wo Auvigne ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>705</ID>
-      <DefaultText>"Was glaubst du, wo Auvigne jetzt ist?"</DefaultText>
+      <DefaultText>„Was glaubst du, wo Auvigne jetzt ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2756,12 +2756,12 @@ Er hört auf zu reden und seufzt. "Lass es sein. Wir sollten uns darauf konzentr
     </Entry>
     <Entry>
       <ID>707</ID>
-      <DefaultText>"Dieser Mutant hat gesagt, er hätte ihn oben beim Schrein von Chila der Großen gesehen."</DefaultText>
+      <DefaultText>„Dieser Mutant hat gesagt, er hätte ihn oben beim Schrein von Chila der Großen gesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>708</ID>
-      <DefaultText>"Der Schrein von Chila der Großen."</DefaultText>
+      <DefaultText>„Der Schrein von Chila der Großen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2771,16 +2771,16 @@ Er hört auf zu reden und seufzt. "Lass es sein. Wir sollten uns darauf konzentr
     </Entry>
     <Entry>
       <ID>711</ID>
-      <DefaultText>"Irgendwo an diesem Ort", sagt er und schaut mit einen Anflug von Verzweiflung in Klein-Nihliesh umher. Deutlich erkennbar sammelt er sich und berührt den Ring mit der anderen Hand.
+      <DefaultText>„Irgendwo an diesem Ort“, sagt er und schaut mit einen Anflug von Verzweiflung in Klein-Nihliesh umher. Deutlich erkennbar sammelt er sich und berührt den Ring mit der anderen Hand.
 
-"Alte Schmerzen", japst er. "Stinkenden Müll durchwühlend. Hunger."
+„Alte Schmerzen“, japst er. „Stinkenden Müll durchwühlend. Hunger.“
 
-Er reißt seine Hand weg, als ob er sich verbrannt hätte. "Irgendwas stimmt nicht. Er fühlt sich ... verändert an."</DefaultText>
+Er reißt seine Hand weg, als ob er sich verbrannt hätte. „Irgendwas stimmt nicht. Er fühlt sich ... verändert an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>712</ID>
-      <DefaultText>"Irgendwo an diesem Ort. Stinkenden Müll durchwühlend."</DefaultText>
+      <DefaultText>„Irgendwo an diesem Ort. Stinkenden Müll durchwühlend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2790,12 +2790,12 @@ Er reißt seine Hand weg, als ob er sich verbrannt hätte. "Irgendwas stimmt nic
     </Entry>
     <Entry>
       <ID>714</ID>
-      <DefaultText>"Er ist …", beginnt Tybir. Er berührt den Ring an seiner Hand und schließt die Augen. Seine Brauen verzerren sich in Unbehagen. Bestürzung. "Er ist irgendwo in Klein-Nihliesh."</DefaultText>
+      <DefaultText>„Er ist …“, beginnt Tybir. Er berührt den Ring an seiner Hand und schließt die Augen. Seine Brauen verzerren sich in Unbehagen. Bestürzung. „Er ist irgendwo in Klein-Nihliesh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>715</ID>
-      <DefaultText>"Er ist immernoch in Klein-Nihliesh."</DefaultText>
+      <DefaultText>„Er ist immernoch in Klein-Nihliesh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2805,7 +2805,7 @@ Er reißt seine Hand weg, als ob er sich verbrannt hätte. "Irgendwas stimmt nic
     </Entry>
     <Entry>
       <ID>717</ID>
-      <DefaultText>"Na dann. Geh voran."</DefaultText>
+      <DefaultText>„Na dann. Geh voran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2815,22 +2815,22 @@ Er reißt seine Hand weg, als ob er sich verbrannt hätte. "Irgendwas stimmt nic
     </Entry>
     <Entry>
       <ID>719</ID>
-      <DefaultText>"Wegen Auvigne …"</DefaultText>
+      <DefaultText>„Wegen Auvigne …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>720</ID>
-      <DefaultText>"Bist du sicher, dass du nicht über Auvigne sprechen willst?"</DefaultText>
+      <DefaultText>„Bist du sicher, dass du nicht über Auvigne sprechen willst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>721</ID>
-      <DefaultText>"Nicht jetzt", sagt er und sein Lächeln verblasst. "Nicht bevor wir mit Dracogen gesprochen haben."</DefaultText>
+      <DefaultText>„Nicht jetzt“, sagt er und sein Lächeln verblasst. „Nicht bevor wir mit Dracogen gesprochen haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>722</ID>
-      <DefaultText>"Lass uns erst ein paar Worte mit Dracogen wechseln."</DefaultText>
+      <DefaultText>„Lass uns erst ein paar Worte mit Dracogen wechseln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2840,64 +2840,64 @@ Er reißt seine Hand weg, als ob er sich verbrannt hätte. "Irgendwas stimmt nic
     </Entry>
     <Entry>
       <ID>724</ID>
-      <DefaultText>"Ich habe ihn ruiniert, Ich bin der, der Auvvie umgebracht hat, nicht dieser Narr beim Schrein."
-{SCRIPT: Ideally, this force-plays RIGHT after Lost Loves is complete, and isn't JUST "wants to talk". This must play before any other Tybir global information, and should be triggered in the Bloom only.}</DefaultText>
+      <DefaultText>„Ich habe ihn ruiniert, Ich bin der, der Auvvie umgebracht hat, nicht dieser Narr beim Schrein.“
+{SCRIPT: Ideally, this force-plays RIGHT after Lost Loves is complete, and isn't JUST „wants to talk“. This must play before any other Tybir global information, and should be triggered in the Bloom only.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>725</ID>
-      <DefaultText>"Also habe ich gewartet, bis er auf einer Versorgungsfahrt war, und hetzte unsere Söldner auf die Stadt, die Auvvie geschworen hatte zu beschützen." Er kichert durch seine Tränen. "Das war es. Ein Blick auf die Soldaten, die Kinder auf die Straße schubsten, und Auvvie rammte mir die Faust in den Kiefer und sagte, dass wir fertig miteinander seien."
+      <DefaultText>„Also habe ich gewartet, bis er auf einer Versorgungsfahrt war, und hetzte unsere Söldner auf die Stadt, die Auvvie geschworen hatte zu beschützen.“ Er kichert durch seine Tränen. „Das war es. Ein Blick auf die Soldaten, die Kinder auf die Straße schubsten, und Auvvie rammte mir die Faust in den Kiefer und sagte, dass wir fertig miteinander seien.“
 
 Er verdeckt sein Gesicht mit seinen Händen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>726</ID>
-      <DefaultText>"Du hattest Angst, ihn zu verlieren, und deshalb hast du ihn von dir fortgestoßen?"</DefaultText>
+      <DefaultText>„Du hattest Angst, ihn zu verlieren, und deshalb hast du ihn von dir fortgestoßen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>727</ID>
-      <DefaultText>"Ich habe ihn geliebt", sagt er und umfasst sein Gesicht mit blutleeren Händen. "Mehr als ich mich selbst geliebt habe. Und ich habe während der Endlosen Schlacht mehr als ein Dutzend Mal gefühlt, wie er gestorben ist. Ich wollte ihn aus meinem Kopf raus haben, verstehst du? Ich wollte, dass er verschwindet, damit ich nicht fühle, wenn der Tod ihn das letzte Mal erwischt." Er stößt einen sanften, rauen Seufzer aus.
+      <DefaultText>„Ich habe ihn geliebt“, sagt er und umfasst sein Gesicht mit blutleeren Händen. „Mehr als ich mich selbst geliebt habe. Und ich habe während der Endlosen Schlacht mehr als ein Dutzend Mal gefühlt, wie er gestorben ist. Ich wollte ihn aus meinem Kopf raus haben, verstehst du? Ich wollte, dass er verschwindet, damit ich nicht fühle, wenn der Tod ihn das letzte Mal erwischt.“ Er stößt einen sanften, rauen Seufzer aus.
 
-"Trotzdem wünsche ich mir, ich wäre hinter ihm hergelaufen, wie ich das wollte. Aber ich hatte Angst, und stattdessen bin ich zur Flor gerannt."</DefaultText>
+„Trotzdem wünsche ich mir, ich wäre hinter ihm hergelaufen, wie ich das wollte. Aber ich hatte Angst, und stattdessen bin ich zur Flor gerannt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>728</ID>
-      <DefaultText>"Du hast mich angelogen."</DefaultText>
+      <DefaultText>„Du hast mich angelogen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>729</ID>
-      <DefaultText>"Natürlich habe ich das", sagt er bitter. "Ich habe seit Jahren nicht aufgehört zu lügen. Und seit noch längerem habe ich keine Entscheidung getroffen, auf die ich stolz wäre." Er stößt einen sanften, rauen Seufzer aus.
+      <DefaultText>„Natürlich habe ich das“, sagt er bitter. „Ich habe seit Jahren nicht aufgehört zu lügen. Und seit noch längerem habe ich keine Entscheidung getroffen, auf die ich stolz wäre.“ Er stößt einen sanften, rauen Seufzer aus.
 
-"Ich wünsche mir, ich wäre hinter ihm hergelaufen, wie ich das wollte. Aber ich hatte Angst, und stattdessen bin ich zur Flor gerannt."</DefaultText>
+„Ich wünsche mir, ich wäre hinter ihm hergelaufen, wie ich das wollte. Aber ich hatte Angst, und stattdessen bin ich zur Flor gerannt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>730</ID>
-      <DefaultText>"Aber das hat er", sagt er und wischt sich die Tränen aus den Augen. "Ich wusste, dass er da war, und ich hatte *Angst*, ihm gegenüberzutreten. Und sieh, was mein schöner, ehrlicher Junge in meiner Abwesenheit getan hat – als ich versucht habe, mich zu retten. Ich habe ihn zu *mir* gemacht."</DefaultText>
+      <DefaultText>„Aber das hat er“, sagt er und wischt sich die Tränen aus den Augen. „Ich wusste, dass er da war, und ich hatte *Angst*, ihm gegenüberzutreten. Und sieh, was mein schöner, ehrlicher Junge in meiner Abwesenheit getan hat – als ich versucht habe, mich zu retten. Ich habe ihn zu *mir* gemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>731</ID>
-      <DefaultText>"Du bist nicht für Auvignes Entscheidungen verantwortlich."</DefaultText>
+      <DefaultText>„Du bist nicht für Auvignes Entscheidungen verantwortlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>732</ID>
-      <DefaultText>"Vielleicht nicht", sagt er und wischt mit seinem Arm die Tränen weg. "Aber so oder so ist er tot. Und ob es mir gefällt oder nicht: Ich war ein Teil davon."</DefaultText>
+      <DefaultText>„Vielleicht nicht“, sagt er und wischt mit seinem Arm die Tränen weg. „Aber so oder so ist er tot. Und ob es mir gefällt oder nicht: Ich war ein Teil davon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>733</ID>
-      <DefaultText>"Und ist das so schlimm?"</DefaultText>
+      <DefaultText>„Und ist das so schlimm?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>734</ID>
-      <DefaultText>"Ich schätze nicht", sagt er. Seine Stimme ist ernst und leiser als sonst. "Ich habe nach allen Maßstäben ein gutes Leben gelebt. Aber das hat mich alles gekostet."</DefaultText>
+      <DefaultText>„Ich schätze nicht“, sagt er. Seine Stimme ist ernst und leiser als sonst. „Ich habe nach allen Maßstäben ein gutes Leben gelebt. Aber das hat mich alles gekostet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2907,55 +2907,55 @@ Er verdeckt sein Gesicht mit seinen Händen.</DefaultText>
     </Entry>
     <Entry>
       <ID>736</ID>
-      <DefaultText>"Du hast recht. Er ist gestorben, obwohl du ihn hättest retten können. Und jetzt?"</DefaultText>
+      <DefaultText>„Du hast recht. Er ist gestorben, obwohl du ihn hättest retten können. Und jetzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>737</ID>
-      <DefaultText>"Ich weiß es nicht", sagt er leise. "Jetzt kann ich ihn nicht mehr retten. Entweder lebe ich damit … oder nicht."</DefaultText>
+      <DefaultText>„Ich weiß es nicht“, sagt er leise. „Jetzt kann ich ihn nicht mehr retten. Entweder lebe ich damit … oder nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>738</ID>
-      <DefaultText>"Er hätte dich nicht schlagen sollen."</DefaultText>
+      <DefaultText>„Er hätte dich nicht schlagen sollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>739</ID>
-      <DefaultText>"Nein", sagt Tybir bitter. "Er hätte mich töten sollen. Wenn er das getan hätte, würde er vielleicht noch leben." Er stößt einen sanften, rauen Seufzer aus.
+      <DefaultText>„Nein“, sagt Tybir bitter. „Er hätte mich töten sollen. Wenn er das getan hätte, würde er vielleicht noch leben.“ Er stößt einen sanften, rauen Seufzer aus.
 
-"Vielleicht würde er sogar noch leben, wenn ich hinter ihm hergelaufen wäre, wie ich das wollte. Aber nein. Stattdessen bin ich zur Flor gerannt."</DefaultText>
+„Vielleicht würde er sogar noch leben, wenn ich hinter ihm hergelaufen wäre, wie ich das wollte. Aber nein. Stattdessen bin ich zur Flor gerannt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>743</ID>
-      <DefaultText>"Und dann habe ich den Ring abgelegt, um mich Dracogens Rache zu entziehen", erzählt er weiter. Seine Hände zittern. "Natürlich habe ich das, und ich habe mir selbst eingeredet, dass Auvvie deswegen nicht leiden würde."</DefaultText>
+      <DefaultText>„Und dann habe ich den Ring abgelegt, um mich Dracogens Rache zu entziehen“, erzählt er weiter. Seine Hände zittern. „Natürlich habe ich das, und ich habe mir selbst eingeredet, dass Auvvie deswegen nicht leiden würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>747</ID>
-      <DefaultText>Er richtet sich auf, streicht seine Kleidung glatt und schenkt dir ein müdes Lächeln. "Manchmal denkst du, ein Tag sollte enden, weil du zu viel getragen hast. Aber er endet nicht, und du musst weitermachen, weißt du?"
+      <DefaultText>Er richtet sich auf, streicht seine Kleidung glatt und schenkt dir ein müdes Lächeln. „Manchmal denkst du, ein Tag sollte enden, weil du zu viel getragen hast. Aber er endet nicht, und du musst weitermachen, weißt du?“
 
-Tybir holt tief Luft. "Gib mir ein wenig Zeit für mich selbst, ja? Gerade habe ich genug vom Reden, um ehrlich zu sein."</DefaultText>
+Tybir holt tief Luft. „Gib mir ein wenig Zeit für mich selbst, ja? Gerade habe ich genug vom Reden, um ehrlich zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>748</ID>
-      <DefaultText>Tränen laufen unbeachtet seine Wangen hinab. "Hier kommt die Wahrheit, was uns getrennt hat – ich hatte Angst, ihn zu verlieren, und deshalb habe ich sein Herz gebrochen. Habe ihn betrogen und meinen Ring benutzt, um sicherzugehen, dass er davon erfuhr. Und es hat nicht funktioniert. Er hat mich noch immer geliebt und er konnte nicht verstehen, warum ich ihn fortstieß."</DefaultText>
+      <DefaultText>Tränen laufen unbeachtet seine Wangen hinab. „Hier kommt die Wahrheit, was uns getrennt hat – ich hatte Angst, ihn zu verlieren, und deshalb habe ich sein Herz gebrochen. Habe ihn betrogen und meinen Ring benutzt, um sicherzugehen, dass er davon erfuhr. Und es hat nicht funktioniert. Er hat mich noch immer geliebt und er konnte nicht verstehen, warum ich ihn fortstieß.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>749</ID>
-      <DefaultText>Er läuft immer hin und her, als ob er in einem Käfig ware. "Ich wusste, dass er da war, und dass er nach mir suchte. Ich hätte …"
+      <DefaultText>Er läuft immer hin und her, als ob er in einem Käfig ware. „Ich wusste, dass er da war, und dass er nach mir suchte. Ich hätte …“
 
 Seine Stimme verhallt und er zieht den Ring, den Dracogen ihm gab, aus der Tasche. Er wiegt ihn in seiner Handfläche und sucht deinen Blick.
 
-"Herzschlag", sagt er. "Sie funktionieren durch Hautkontakt, weißt du. Ich wüsste es, wenn er nicht mehr ..." Er beißt sich auf die Lippe und schließt seine Finger um den Ring.</DefaultText>
+„Herzschlag“, sagt er. „Sie funktionieren durch Hautkontakt, weißt du. Ich wüsste es, wenn er nicht mehr ...“ Er beißt sich auf die Lippe und schließt seine Finger um den Ring.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>750</ID>
-      <DefaultText>"Die Memovira ist nicht dort hingelangt, wo sie jetzt ist, indem sie nach den Regeln spielte. Nicht einmal, was nach *meinem* Buch als Regeln durchgehen. Du aus dieser Abmachung nichts Weiteres erhalten als ein Messer an einer zähen Stelle."</DefaultText>
+      <DefaultText>„Die Memovira ist nicht dort hingelangt, wo sie jetzt ist, indem sie nach den Regeln spielte. Nicht einmal, was nach *meinem* Buch als Regeln durchgehen. Du aus dieser Abmachung nichts Weiteres erhalten als ein Messer an einer zähen Stelle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2965,7 +2965,7 @@ Seine Stimme verhallt und er zieht den Ring, den Dracogen ihm gab, aus der Tasch
     </Entry>
     <Entry>
       <ID>752</ID>
-      <DefaultText>"Lass mich in Ruhe. Ich muss nachdenken."</DefaultText>
+      <DefaultText>„Lass mich in Ruhe. Ich muss nachdenken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2985,12 +2985,12 @@ Seine Stimme verhallt und er zieht den Ring, den Dracogen ihm gab, aus der Tasch
     </Entry>
     <Entry>
       <ID>757</ID>
-      <DefaultText>"Was denkst du über die Flor?"</DefaultText>
+      <DefaultText>„Was denkst du über die Flor?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>758</ID>
-      <DefaultText>"Was sind nochmal deine Meinungen über die Flor?"</DefaultText>
+      <DefaultText>„Was sind nochmal deine Meinungen über die Flor?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3000,12 +3000,12 @@ Seine Stimme verhallt und er zieht den Ring, den Dracogen ihm gab, aus der Tasch
     </Entry>
     <Entry>
       <ID>760</ID>
-      <DefaultText>"Erzähl mir, was du über Dracogen weißt."</DefaultText>
+      <DefaultText>„Erzähl mir, was du über Dracogen weißt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>761</ID>
-      <DefaultText>"Erzähl mir nochmal, was du über Dracogen weißt."</DefaultText>
+      <DefaultText>„Erzähl mir nochmal, was du über Dracogen weißt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3015,12 +3015,12 @@ Seine Stimme verhallt und er zieht den Ring, den Dracogen ihm gab, aus der Tasch
     </Entry>
     <Entry>
       <ID>763</ID>
-      <DefaultText>"Was weißt du über die Memovira?"</DefaultText>
+      <DefaultText>„Was weißt du über die Memovira?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>764</ID>
-      <DefaultText>"Was weißt du nochmal über die Memovira?"</DefaultText>
+      <DefaultText>„Was weißt du nochmal über die Memovira?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3030,12 +3030,12 @@ Seine Stimme verhallt und er zieht den Ring, den Dracogen ihm gab, aus der Tasch
     </Entry>
     <Entry>
       <ID>766</ID>
-      <DefaultText>"Erzähl mir von Klein-Nihliesh."</DefaultText>
+      <DefaultText>„Erzähl mir von Klein-Nihliesh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>767</ID>
-      <DefaultText>"Erzähl mir nochmal von Klein-Nihliesh."</DefaultText>
+      <DefaultText>„Erzähl mir nochmal von Klein-Nihliesh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3045,12 +3045,12 @@ Seine Stimme verhallt und er zieht den Ring, den Dracogen ihm gab, aus der Tasch
     </Entry>
     <Entry>
       <ID>769</ID>
-      <DefaultText>"Was ist Grisselers Geschichte?"</DefaultText>
+      <DefaultText>„Was ist Grisselers Geschichte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>770</ID>
-      <DefaultText>"Was war nochmal Grisselers Geschichte?"</DefaultText>
+      <DefaultText>„Was war nochmal Grisselers Geschichte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3060,12 +3060,12 @@ Seine Stimme verhallt und er zieht den Ring, den Dracogen ihm gab, aus der Tasch
     </Entry>
     <Entry>
       <ID>772</ID>
-      <DefaultText>"Erzähl mir von Brusca."</DefaultText>
+      <DefaultText>„Erzähl mir von Brusca.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>773</ID>
-      <DefaultText>"Erzähl mich nochmal von Brusca."</DefaultText>
+      <DefaultText>„Erzähl mich nochmal von Brusca.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3075,22 +3075,22 @@ Seine Stimme verhallt und er zieht den Ring, den Dracogen ihm gab, aus der Tasch
     </Entry>
     <Entry>
       <ID>775</ID>
-      <DefaultText>"Was weißt du über Parsim Flint?"</DefaultText>
+      <DefaultText>„Was weißt du über Parsim Flint?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>776</ID>
-      <DefaultText>"Was weißt du nochmal über Parsim Flint?`"</DefaultText>
+      <DefaultText>„Was weißt du nochmal über Parsim Flint?`“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>777</ID>
-      <DefaultText>"Weißt du, schon gut. Lass uns später reden."</DefaultText>
+      <DefaultText>„Weißt du, schon gut. Lass uns später reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>778</ID>
-      <DefaultText>"Eine gute Idee."</DefaultText>
+      <DefaultText>„Eine gute Idee.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
