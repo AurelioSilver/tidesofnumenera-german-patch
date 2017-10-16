@@ -32,7 +32,7 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>„Lass uns gehen.“</DefaultText>
-      <FemaleText>„Gehen wir.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -47,7 +47,7 @@
     <Entry>
       <ID>9</ID>
       <DefaultText>„Na gut.“</DefaultText>
-      <FemaleText>„Also gut.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -192,7 +192,7 @@
     <Entry>
       <ID>38</ID>
       <DefaultText>„Nein?“</DefaultText>
-      <FemaleText>„Nein.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
