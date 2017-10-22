@@ -114,7 +114,7 @@
     <Entry>
       <ID>22</ID>
       <DefaultText>"Wer – oder was – glaubst du, hat ihn getötet?"</DefaultText>
-      <FemaleText>"Wer – oder was – glaubst du, hat ihn getötet?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -124,7 +124,7 @@
     <Entry>
       <ID>24</ID>
       <DefaultText>"Keine Sorge. Du hast jetzt Freunde, die dir den Rücken freihalten."</DefaultText>
-      <FemaleText>"Keine Sorge. Du hast jetzt Freunde, die dir den Rücken freihalten."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -236,7 +236,7 @@ Er spuckt dir zu Füßen.</DefaultText>
     <Entry>
       <ID>44</ID>
       <DefaultText>"Viel Glück noch. Und auf Nimmerwiedersehen."</DefaultText>
-      <FemaleText>"Viel Glück noch. Und auf Nimmerwiedersehen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
@@ -256,12 +256,12 @@ Er spuckt dir zu Füßen.</DefaultText>
     <Entry>
       <ID>48</ID>
       <DefaultText>Follow-up PQ. 74</DefaultText>
-      <FemaleText>Follow-up PQ. 74</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>Follow-up T. 75</DefaultText>
-      <FemaleText>Follow-up T. 75</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
@@ -286,12 +286,12 @@ Er spuckt dir zu Füßen.</DefaultText>
     <Entry>
       <ID>54</ID>
       <DefaultText>Follow-up PQ. 102</DefaultText>
-      <FemaleText>Follow-up PQ. 102</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
       <DefaultText>Follow-up T. 114</DefaultText>
-      <FemaleText>Follow-up T. 114</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
@@ -301,12 +301,12 @@ Er spuckt dir zu Füßen.</DefaultText>
     <Entry>
       <ID>57</ID>
       <DefaultText>Follow-up PQ. 222</DefaultText>
-      <FemaleText>Follow-up PQ. 222</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
       <DefaultText>Follow-up T. 223</DefaultText>
-      <FemaleText>Follow-up T. 223</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
@@ -333,12 +333,12 @@ Er legt eine Hand auf sein Herz. "Und die Antworten dazu sind: ja, und ja. Ich w
     <Entry>
       <ID>63</ID>
       <DefaultText>Follow-up PQ. 228</DefaultText>
-      <FemaleText>Follow-up PQ. 228</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
       <DefaultText>Follow-up T. 229</DefaultText>
-      <FemaleText>Follow-up T. 229</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
@@ -365,12 +365,12 @@ Er lacht bitter. "Niemals!"</DefaultText>
     <Entry>
       <ID>69</ID>
       <DefaultText>Follow-up PQ. 234</DefaultText>
-      <FemaleText>Follow-up PQ. 234</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
       <DefaultText>Follow-up T. 235</DefaultText>
-      <FemaleText>Follow-up T. 235</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
@@ -515,12 +515,12 @@ Er spuckt angewidert auf den Boden. "Hatte nichts zu tun mit Walskar. War nicht 
     <Entry>
       <ID>95</ID>
       <DefaultText>Follow-up PQ. 105</DefaultText>
-      <FemaleText>Follow-up PQ. 105</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
       <DefaultText>Follow-up T. 117</DefaultText>
-      <FemaleText>Follow-up T. 117</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
@@ -545,12 +545,12 @@ Er spuckt angewidert auf den Boden. "Hatte nichts zu tun mit Walskar. War nicht 
     <Entry>
       <ID>101</ID>
       <DefaultText>Follow-up PQ. 108</DefaultText>
-      <FemaleText>Follow-up PQ. 108</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
       <DefaultText>Follow-up T. 120</DefaultText>
-      <FemaleText>Follow-up T. 120</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
@@ -575,12 +575,12 @@ Er spuckt angewidert auf den Boden. "Hatte nichts zu tun mit Walskar. War nicht 
     <Entry>
       <ID>107</ID>
       <DefaultText>Follow-up PQ. 111</DefaultText>
-      <FemaleText>Follow-up PQ. 111</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
       <DefaultText>Follow-up T. 123</DefaultText>
-      <FemaleText>Follow-up T. 123</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
@@ -615,12 +615,12 @@ Er spuckt angewidert auf den Boden. "Hatte nichts zu tun mit Walskar. War nicht 
     <Entry>
       <ID>115</ID>
       <DefaultText>Follow-up PQ. 80</DefaultText>
-      <FemaleText>Follow-up PQ. 80</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
       <DefaultText>Follow-up T. 81</DefaultText>
-      <FemaleText>Follow-up T. 81</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
@@ -660,12 +660,12 @@ Er spuckt angewidert auf den Boden. "Hatte nichts zu tun mit Walskar. War nicht 
     <Entry>
       <ID>124</ID>
       <DefaultText>Follow-up PQ. 88</DefaultText>
-      <FemaleText>Follow-up PQ. 88</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
       <DefaultText>Follow-up T. 89</DefaultText>
-      <FemaleText>Follow-up T. 89</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
@@ -700,12 +700,12 @@ Er spuckt angewidert auf den Boden. "Hatte nichts zu tun mit Walskar. War nicht 
     <Entry>
       <ID>132</ID>
       <DefaultText>Follow-up PQ. 96</DefaultText>
-      <FemaleText>Follow-up PQ. 96</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
       <DefaultText>Follow-up T. 97</DefaultText>
-      <FemaleText>Follow-up T. 97</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
@@ -715,7 +715,7 @@ Er spuckt angewidert auf den Boden. "Hatte nichts zu tun mit Walskar. War nicht 
     <Entry>
       <ID>135</ID>
       <DefaultText>"Weil er mein Freund ist und ich ihn in diese missliche Lage gebracht habe."</DefaultText>
-      <FemaleText>"Weil er mein Freund ist, und er steht dort oben, weil ich ihn in diese Scheiße hineingeritten habe."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
@@ -729,20 +729,18 @@ Er spuckt angewidert auf den Boden. "Hatte nichts zu tun mit Walskar. War nicht 
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Wäre es einfacher, die Menge bei der Hinrichtung davon zu überzeugen, dass sie sich erheben und Ris freilassen sollen?"</DefaultText>
-      <FemaleText>"Wäre es nicht einfacher, mit der Menge bei der Hinrichtung zu sprechen? Sie davon zu überzeugen, sich aufzulehnen und Ris zu befreien?"</FemaleText>
+      <DefaultText>"Wäre es nicht einfacher, mit der Menge bei der Hinrichtung zu sprechen? Sie davon zu überzeugen, sich aufzulehnen und Ris zu befreien?"</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
       <DefaultText>Tybir wirkt unruhig. "Nun, du kannst es gerne ausprobieren, mein Freund. Aber lass mich da raus. Die Meute von Sagus-Klippen ist berüchtig für ihre Blutlust, und die Vollstreckungsbeamten sind nicht für ihren Humor bekannt. Du wirst es später vielleicht bereuen - und du wirst dabei alleine sein."</DefaultText>
-      <FemaleText>Tybir schaut ängstlich. 
-
-"Na ja, Ihr könnt es ja gerne versuchen, mein Freund, lasst mich da aber raus. Die Menschenmengen in Sagus Klippen sind berüchtigt blutrünstig und die Hinrichtungsbeamten sind nicht gerade für ihren Sinn für Humor bekannt. Ihr könntet es später noch bereuen – und Ihr wärt alleine, wenn Ihr das tut."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
       <DefaultText>"Lass mich etwas anderes fragen."</DefaultText>
-      <FemaleText>"Lasst mich Euch eine andere Frage stellen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
@@ -965,7 +963,7 @@ Er schnaubt. "Familie, was? Wer braucht sie?"</DefaultText>
     <Entry>
       <ID>181</ID>
       <DefaultText>"Na gut."</DefaultText>
-      <FemaleText>„Also gut.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
@@ -975,7 +973,7 @@ Er schnaubt. "Familie, was? Wer braucht sie?"</DefaultText>
     <Entry>
       <ID>183</ID>
       <DefaultText>"Na klar."</DefaultText>
-      <FemaleText>"Aber sicher."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
@@ -1067,7 +1065,7 @@ Er kichert. "Wenn du ihn aus der Nachbarschaft verjagst, wirst du ihn irgendwo i
     <Entry>
       <ID>201</ID>
       <DefaultText>"Na gut."</DefaultText>
-      <FemaleText>„Also gut.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
@@ -1077,7 +1075,7 @@ Er kichert. "Wenn du ihn aus der Nachbarschaft verjagst, wirst du ihn irgendwo i
     <Entry>
       <ID>203</ID>
       <DefaultText>"Na klar."</DefaultText>
-      <FemaleText>"Aber sicher."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
@@ -1163,7 +1161,7 @@ Er grinst hämisch. "Ich glaube nicht, dass ich in letzter Zeit irgendwas gemach
     <Entry>
       <ID>219</ID>
       <DefaultText>"Na gut."</DefaultText>
-      <FemaleText>„Also gut.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
@@ -1173,7 +1171,7 @@ Er grinst hämisch. "Ich glaube nicht, dass ich in letzter Zeit irgendwas gemach
     <Entry>
       <ID>221</ID>
       <DefaultText>"Na klar."</DefaultText>
-      <FemaleText>"Aber sicher."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
@@ -1293,7 +1291,7 @@ Er grinst hämisch. "Ich glaube nicht, dass ich in letzter Zeit irgendwas gemach
     <Entry>
       <ID>245</ID>
       <DefaultText>"Na gut."</DefaultText>
-      <FemaleText>„Also gut.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
@@ -1303,7 +1301,7 @@ Er grinst hämisch. "Ich glaube nicht, dass ich in letzter Zeit irgendwas gemach
     <Entry>
       <ID>247</ID>
       <DefaultText>"Na klar."</DefaultText>
-      <FemaleText>"Aber sicher."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>248</ID>
@@ -1427,7 +1425,7 @@ Er schaudert. "Lass uns nicht dort hingehen, ja?"</DefaultText>
     <Entry>
       <ID>271</ID>
       <DefaultText>"Na gut."</DefaultText>
-      <FemaleText>„Also gut.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
@@ -1437,7 +1435,7 @@ Er schaudert. "Lass uns nicht dort hingehen, ja?"</DefaultText>
     <Entry>
       <ID>273</ID>
       <DefaultText>"Na klar."</DefaultText>
-      <FemaleText>"Aber sicher."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
@@ -1451,8 +1449,8 @@ Er schaudert. "Lass uns nicht dort hingehen, ja?"</DefaultText>
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>"Lass mich etwas anderes fragen."</DefaultText>
-      <FemaleText>"Lasst mich Euch eine andere Frage stellen."</FemaleText>
+      <DefaultText>"Lass mich Dir eine andere Frage stellen."</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>277</ID>
@@ -1467,7 +1465,7 @@ Er schaudert. "Lass uns nicht dort hingehen, ja?"</DefaultText>
     <Entry>
       <ID>279</ID>
       <DefaultText>Follow-up PQ. 153</DefaultText>
-      <FemaleText>Follow-up PQ. 153</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>280</ID>
@@ -1502,7 +1500,7 @@ Er schaudert. "Lass uns nicht dort hingehen, ja?"</DefaultText>
     <Entry>
       <ID>286</ID>
       <DefaultText>Follow-up PQ. 160</DefaultText>
-      <FemaleText>Follow-up PQ. 160</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
@@ -1537,7 +1535,7 @@ Er schaudert. "Lass uns nicht dort hingehen, ja?"</DefaultText>
     <Entry>
       <ID>293</ID>
       <DefaultText>Follow-up PQ. 167</DefaultText>
-      <FemaleText>Follow-up PQ. 167</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
@@ -1572,7 +1570,7 @@ Er schaudert. "Lass uns nicht dort hingehen, ja?"</DefaultText>
     <Entry>
       <ID>300</ID>
       <DefaultText>Follow-up PQ. 174</DefaultText>
-      <FemaleText>Follow-up PQ. 174</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
@@ -1607,7 +1605,7 @@ Er schaudert. "Lass uns nicht dort hingehen, ja?"</DefaultText>
     <Entry>
       <ID>307</ID>
       <DefaultText>Follow-up PQ. 181</DefaultText>
-      <FemaleText>Follow-up PQ. 181</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>308</ID>
@@ -1642,7 +1640,7 @@ Er schaudert. "Lass uns nicht dort hingehen, ja?"</DefaultText>
     <Entry>
       <ID>314</ID>
       <DefaultText>Follow-up PQ. 188</DefaultText>
-      <FemaleText>Follow-up PQ. 188</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>315</ID>
@@ -1677,7 +1675,7 @@ Er schaudert. "Lass uns nicht dort hingehen, ja?"</DefaultText>
     <Entry>
       <ID>321</ID>
       <DefaultText>Follow-up PQ. 195</DefaultText>
-      <FemaleText>Follow-up PQ. 195</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>322</ID>
@@ -1712,7 +1710,7 @@ Er schaudert. "Lass uns nicht dort hingehen, ja?"</DefaultText>
     <Entry>
       <ID>328</ID>
       <DefaultText>Follow-up PQ. 202</DefaultText>
-      <FemaleText>Follow-up PQ. 202</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>329</ID>
@@ -1889,13 +1887,13 @@ Er streicht seinen Bart glatt. "Vorher konnte er sich einreden, dass wir die Sch
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>"Lass mich etwas anderes fragen."</DefaultText>
-      <FemaleText>"Lasst mich Euch eine andere Frage stellen."</FemaleText>
+      <DefaultText>"Lass mich Dir eine andere Frage stellen."</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>361</ID>
       <DefaultText>"Na klar."</DefaultText>
-      <FemaleText>"Aber sicher."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>362</ID>
