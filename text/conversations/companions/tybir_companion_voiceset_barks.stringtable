@@ -12,7 +12,7 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>"Na gut."</DefaultText>
-      <FemaleText>„Also gut.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -757,7 +757,7 @@
     <Entry>
       <ID>151</ID>
       <DefaultText>"Mmm?"</DefaultText>
-      <FemaleText>"Hmm."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
