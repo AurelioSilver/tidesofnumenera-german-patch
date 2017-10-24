@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Wir sollten hier unser Lager aufschlagen. Oder unseren eigenen Handelsposten!"</DefaultText>
+      <DefaultText>„Wir sollten hier unser Lager aufschlagen. Oder unseren eigenen Handelsposten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Erinnere mich daran, dir die Geschichte des Hofes der Wiederkehr zu erzählen. Sie beginnt und endet hier."</DefaultText>
+      <DefaultText>„Erinnere mich daran, dir die Geschichte des Hofes der Wiederkehr zu erzählen. Sie beginnt und endet hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>{Huffy, to himself}"Ich frag mich, ob Dracogen noch hier ist. Und noch so dracogenisch wie eh und je. Hmpf."</DefaultText>
+      <DefaultText>{Huffy, to himself}„Ich frag mich, ob Dracogen noch hier ist. Und noch so dracogenisch wie eh und je. Hmpf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>{Grumbles}"Seht euch Dracogen an, wie hochmütig und hochwichtig er sich gibt. Hochmütig, hochwichtig und hochgewachsen."</DefaultText>
+      <DefaultText>{Grumbles}„Seht euch Dracogen an, wie hochmütig und hochwichtig er sich gibt. Hochmütig, hochwichtig und hochgewachsen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,17 +51,17 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"An den Geruch hier drin gewöhnt man sich nie."</DefaultText>
+      <DefaultText>„An den Geruch hier drin gewöhnt man sich nie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Immer wenn ich hierher zurückkomme, fällt mir nur ein Wort dafür ein."</DefaultText>
+      <DefaultText>„Immer wenn ich hierher zurückkomme, fällt mir nur ein Wort dafür ein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Wieder zurück. Wie schön."</DefaultText>
+      <DefaultText>„Wieder zurück. Wie schön.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich bin einmal mit so einem Ding gefahren. Bis nach Sada Imidu."</DefaultText>
+      <DefaultText>„Ich bin einmal mit so einem Ding gefahren. Bis nach Sada Imidu.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Schätze, alles Wertvolle wurde längst aus dem Katena geplündert ..."</DefaultText>
+      <DefaultText>„Schätze, alles Wertvolle wurde längst aus dem Katena geplündert ...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Lass mich wissen, wenn du was kaufen willst. Flint ist mir was schuldig. Ich sorge dafür, dass er dir einen guten Preis macht."</DefaultText>
+      <DefaultText>„Lass mich wissen, wenn du was kaufen willst. Flint ist mir was schuldig. Ich sorge dafür, dass er dir einen guten Preis macht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Dieser Ort ist auf jeden Fall in besserem Zustand als euer Lager der Verstoßenen."</DefaultText>
+      <DefaultText>„Dieser Ort ist auf jeden Fall in besserem Zustand als euer Lager der Verstoßenen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Was für eine Landung! Der Kapitän hat das Ding richtig elegant in die Wände der Flor gebohrt."</DefaultText>
+      <DefaultText>„Was für eine Landung! Der Kapitän hat das Ding richtig elegant in die Wände der Flor gebohrt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Welcher Teil des Luftschiffs ist das deiner Meinung nach? Der Bug? Oder das wohlgeformte Hinterteil?"</DefaultText>
+      <DefaultText>„Welcher Teil des Luftschiffs ist das deiner Meinung nach? Der Bug? Oder das wohlgeformte Hinterteil?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Narren. Wenn sie nicht so versessen darauf gewesen wären, sich einen Namen zu machen, wären sie nicht gefangen genommen worden."</DefaultText>
+      <DefaultText>„Narren. Wenn sie nicht so versessen darauf gewesen wären, sich einen Namen zu machen, wären sie nicht gefangen genommen worden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,8 +161,8 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Halte dich von der Tötungsmaschine fern, Bruder. Oder hast du noch nicht genug Narben am Körper?"</DefaultText>
-      <FemaleText>"Halte dich von der Tötungsmaschine fern, Schwester. Oder hast du noch nicht genug Narben am Körper?"</FemaleText>
+      <DefaultText>„Halte dich von der Tötungsmaschine fern, Bruder. Oder hast du noch nicht genug Narben am Körper?“</DefaultText>
+      <FemaleText>„Halte dich von der Tötungsmaschine fern, Schwester. Oder hast du noch nicht genug Narben am Körper?“</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Das ist vermutlich die unangenehmste Weise, auf die ich je in die Flor gestiegen bin."</DefaultText>
+      <DefaultText>„Das ist vermutlich die unangenehmste Weise, auf die ich je in die Flor gestiegen bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,12 +191,12 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Igitt. Ich hasse Aneen. Ich hasse Ihren Anblick. Ich hasse ihr Verhalten. Und ihren Geruch. Widerlich."</DefaultText>
+      <DefaultText>„Igitt. Ich hasse Aneen. Ich hasse Ihren Anblick. Ich hasse ihr Verhalten. Und ihren Geruch. Widerlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Schließmuskel."</DefaultText>
+      <DefaultText>„Schließmuskel.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
