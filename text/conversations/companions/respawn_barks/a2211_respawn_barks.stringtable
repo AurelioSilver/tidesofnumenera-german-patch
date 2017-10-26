@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Das gibt Punkte für risikofreudiges Trinken, schätze ich …"</DefaultText>
+      <DefaultText>„Das gibt Punkte für risikofreudiges Trinken, schätze ich …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Wenn du unbedingt mit unbekannten Substanzen experimentieren willst, dann experimentiere an *anderen*."</DefaultText>
+      <DefaultText>„Wenn du unbedingt mit unbekannten Substanzen experimentieren willst, dann experimentiere an *anderen*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,23 +51,23 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ich wünschte, ich wäre alt genug zum Trinken. Das sah lustig aus."</DefaultText>
+      <DefaultText>„Ich wünschte, ich wäre alt genug zum Trinken. Das sah lustig aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Willst du jetzt etwas aus der Kanalisation trinken?"</DefaultText>
+      <DefaultText>„Willst du jetzt etwas aus der Kanalisation trinken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Jeder weiß, dass du dir keine seltsamen Dinge in den Mund steckst. *Jeder*."</DefaultText>
+      <DefaultText>„Jeder weiß, dass du dir keine seltsamen Dinge in den Mund steckst. *Jeder*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Besser du als ich, Junge. Auch wenn es verlockend ausah."</DefaultText>
-      <FemaleText>"Besser du als ich, Mädchen. Auch wenn es verlockend ausah."</FemaleText>
+      <DefaultText>„Besser du als ich, Junge. Auch wenn es verlockend ausah.“</DefaultText>
+      <FemaleText>„Besser du als ich, Mädchen. Auch wenn es verlockend ausah.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
