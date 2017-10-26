@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"{Sniff}Hier riecht es nach Versteck. {Quick Sniff}Und nach Ärzten."</DefaultText>
+      <DefaultText>„{Sniff}Hier riecht es nach Versteck. {Quick Sniff}Und nach Ärzten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Wer...? Ich kenne dieses Banner. Hier ist Artaglio also am Ende gelandet."</DefaultText>
+      <DefaultText>„Wer...? Ich kenne dieses Banner. Hier ist Artaglio also am Ende gelandet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Überrascht mich gar nicht."</DefaultText>
+      <DefaultText>„Überrascht mich gar nicht.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
