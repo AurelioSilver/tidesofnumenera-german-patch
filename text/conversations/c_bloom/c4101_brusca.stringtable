@@ -80,7 +80,7 @@ Sie fährt sich mit der Hand durch ihre leicht ergrauten kurzen Haare. „Oh Man
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Brusca sieht zu Coty rüber. „Er ist jung ... allerdings scheint er auf sich aufpassen zu können.“</DefaultText>
+      <DefaultText>Brusca sieht zu Coty rüber. „Er ist jung … allerdings scheint er auf sich aufpassen zu können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,7 +160,7 @@ Sie fährt sich mit der Hand durch ihre leicht ergrauten kurzen Haare. „Oh Man
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>„Damit wissen wir, wo die Patrouillen sind, aber ...“ Sie reibt sich die Stirn und sieht auf den Tunnel. „Ich kann gerade keine Wachen entbehren. Ich weiß, es geht dich eigentlich nichts an, aber du hast meine Männer im Sklavenviertel gefunden. Kannst du sie auch befreien? Mein Dank wäre dir gewiss.“</DefaultText>
+      <DefaultText>„Damit wissen wir, wo die Patrouillen sind, aber …“ Sie reibt sich die Stirn und sieht auf den Tunnel. „Ich kann gerade keine Wachen entbehren. Ich weiß, es geht dich eigentlich nichts an, aber du hast meine Männer im Sklavenviertel gefunden. Kannst du sie auch befreien? Mein Dank wäre dir gewiss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,19 +170,19 @@ Sie fährt sich mit der Hand durch ihre leicht ergrauten kurzen Haare. „Oh Man
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Was? Alle beide? Aber ...“ Sie greift sich an den Kopf und dreht sich weg. „Der Blitz soll diesen Ort hier treffen.“ Ihre mächtigen Schultern erbeben einmal, dann richtet sie sich wieder auf und wendet sich wieder dir zu. „Danke dennoch für die Information. Hier ist eine kleine Belohnung für deine Mühen.“
+      <DefaultText>„Was? Alle beide? Aber …“ Sie greift sich an den Kopf und dreht sich weg. „Der Blitz soll diesen Ort hier treffen.“ Ihre mächtigen Schultern erbeben einmal, dann richtet sie sich wieder auf und wendet sich wieder dir zu. „Danke dennoch für die Information. Hier ist eine kleine Belohnung für deine Mühen.“
 
 {SCRIPT: Give small reward.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Sie lächelt schief. „Ist das so offensichtlich? Ich habe eben erst beinahe zwei Patrouillen verloren. Zum Glück kamen die meisten Männer heil zurück, aber ...“
+      <DefaultText>Sie lächelt schief. „Ist das so offensichtlich? Ich habe eben erst beinahe zwei Patrouillen verloren. Zum Glück kamen die meisten Männer heil zurück, aber …“
 
-Plötzlich mustert sie dich von Kopf bis Fuß. „Du ... Meine Patrouillen haben mir einen Mann beschrieben, der half, sie zu retten. Klang in beiden Fällen nach dem selben Mann. Klang nach dir, um ehrlich zu sein.“</DefaultText>
-      <FemaleText>Sie lächelt schief. „Ist das so offensichtlich? Ich habe eben erst beinahe zwei Patrouillen verloren. Zum Glück kamen die meisten Männer heil zurück, aber...“
+Plötzlich mustert sie dich von Kopf bis Fuß. „Du … Meine Patrouillen haben mir einen Mann beschrieben, der half, sie zu retten. Klang in beiden Fällen nach dem selben Mann. Klang nach dir, um ehrlich zu sein.“</DefaultText>
+      <FemaleText>Sie lächelt schief. „Ist das so offensichtlich? Ich habe eben erst beinahe zwei Patrouillen verloren. Zum Glück kamen die meisten Männer heil zurück, aber…“
 
-Plötzlich mustert sie dich von Kopf bis Fuß. „Du... Meine Patrouillen haben mir eine Frau beschrieben, der half, sie zu retten. Klang in beiden Fällen nach der selben Frau. Klang nach dir, um ehrlich zu sein.“</FemaleText>
+Plötzlich mustert sie dich von Kopf bis Fuß. „Du… Meine Patrouillen haben mir eine Frau beschrieben, der half, sie zu retten. Klang in beiden Fällen nach der selben Frau. Klang nach dir, um ehrlich zu sein.“</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>
@@ -278,7 +278,7 @@ Plötzlich mustert sie dich von Kopf bis Fuß. „Du... Meine Patrouillen haben 
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Sie lacht bitter und murmelt zu sich selbst: „Das fehlt mir gerade noch. Meine Patrouillen verspäten sich und ich muss hier Portier spielen...“
+      <DefaultText>Sie lacht bitter und murmelt zu sich selbst: „Das fehlt mir gerade noch. Meine Patrouillen verspäten sich und ich muss hier Portier spielen…“
 
 Sie unterbricht ihr Gemurre und sieht dich von Kopf bis Fuß an. Sie runzelt die Stirn. „Moment mal. Hast du nicht meinen Patrouillen im alten Sklavenviertel und in Klein-Nihliesh aus der Patsche geholfen? Ihre Beschreibungen passen genau auf dich.“</DefaultText>
       <FemaleText />
@@ -355,7 +355,7 @@ Sie unterbricht ihr Gemurre und sieht dich von Kopf bis Fuß an. Sie runzelt die
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>„Du meinst die Mutanten ...? Diese *verdammten* Wilden. Die nehmen sich langsam zu viel heraus.“ Sie blickt wieder auf den Tunnel, als könnte sie ihre Männer mit purer Willenskraft heil zurückbringen. „Nun, du hast zwei Männer gerettet und mir Gewissheit über den Rest verschafft. Mein Dank ist dir gewiss. Hier, nimm das bitte. Es ist nicht viel, aber mehr kann ich nicht entbehren.“
+      <DefaultText>„Du meinst die Mutanten …? Diese *verdammten* Wilden. Die nehmen sich langsam zu viel heraus.“ Sie blickt wieder auf den Tunnel, als könnte sie ihre Männer mit purer Willenskraft heil zurückbringen. „Nun, du hast zwei Männer gerettet und mir Gewissheit über den Rest verschafft. Mein Dank ist dir gewiss. Hier, nimm das bitte. Es ist nicht viel, aber mehr kann ich nicht entbehren.“
 
 {SCRIPT: Give reward.}</DefaultText>
       <FemaleText />
@@ -374,7 +374,7 @@ Sie unterbricht ihr Gemurre und sieht dich von Kopf bis Fuß an. Sie runzelt die
       <ID>111</ID>
       <DefaultText>„Ich diene der Memovira bereits seit Jahren – seit sie an die Macht gekommen ist, um genau zu sein. Mit ihr ist nicht zu spaßen, das sage ich dir. Sie zerquetscht alle, die ihr im Weg stehen – 'aufräumen' nennt sie es.“
 
-Ihr Blick wird abwesend. „Zumindest war es früher so. Heute ist alles anders. Die Flor verhält sich merkwürdig und sogar einige der Banden sind außer Kontrolle. Leg dich nicht mit der Memovira an ... aber heutzutage scheint es noch eine Menge anderer Leute zu geben, mit denen man sich besser nicht anlegt.“</DefaultText>
+Ihr Blick wird abwesend. „Zumindest war es früher so. Heute ist alles anders. Die Flor verhält sich merkwürdig und sogar einige der Banden sind außer Kontrolle. Leg dich nicht mit der Memovira an … aber heutzutage scheint es noch eine Menge anderer Leute zu geben, mit denen man sich besser nicht anlegt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -439,9 +439,9 @@ Ihr Blick wird abwesend. „Zumindest war es früher so. Heute ist alles anders.
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>„Nun, es geht dich eigentlich nichts an ... aber meine Patrouillen gingen dich auch nichts an, und ich bin dir was schuldig.“
+      <DefaultText>„Nun, es geht dich eigentlich nichts an … aber meine Patrouillen gingen dich auch nichts an, und ich bin dir was schuldig.“
 
-Sie tritt von einem Fuß auf den anderen und wirft einen verstohlenen Blick zur Tür der Festung hinüber. „Die Memovira ... du hast vermutlich gehört, dass sie die Festung nicht mehr verlässt. Das liegt daran, dass die Flor sich in letzter Zeit so seltsam verhält. Und ich denke ich weiß, was dieses Verhalten zu bedeuten hat.“</DefaultText>
+Sie tritt von einem Fuß auf den anderen und wirft einen verstohlenen Blick zur Tür der Festung hinüber. „Die Memovira … du hast vermutlich gehört, dass sie die Festung nicht mehr verlässt. Das liegt daran, dass die Flor sich in letzter Zeit so seltsam verhält. Und ich denke ich weiß, was dieses Verhalten zu bedeuten hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -550,7 +550,7 @@ Sie tritt von einem Fuß auf den anderen und wirft einen verstohlenen Blick zur 
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>„Die Memovira traut sich nicht mehr aus ihrer Festung heraus, und das liegt daran, dass die Flor sich in letzter Zeit ... seltsam verhält.“</DefaultText>
+      <DefaultText>„Die Memovira traut sich nicht mehr aus ihrer Festung heraus, und das liegt daran, dass die Flor sich in letzter Zeit … seltsam verhält.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -615,7 +615,7 @@ Sie tritt von einem Fuß auf den anderen und wirft einen verstohlenen Blick zur 
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>„Seit Monaten schon nicht mehr. Sie hat Angst davor, was die Flor mit ihr anstellen könnte. Sie denkt, das Schließen und Verschieben der Schlünde ist eine Botschaft für sie ... eine Warnung.“</DefaultText>
+      <DefaultText>„Seit Monaten schon nicht mehr. Sie hat Angst davor, was die Flor mit ihr anstellen könnte. Sie denkt, das Schließen und Verschieben der Schlünde ist eine Botschaft für sie … eine Warnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -630,7 +630,7 @@ Sie tritt von einem Fuß auf den anderen und wirft einen verstohlenen Blick zur 
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>„Ich war damals noch ein Kind, eine frischgebackene Söldnerin, grün hinter den Ohren, aber ich erinnere mich, wie die Flor sich verändert hat. Der alte Memovira konnte die Flor ... nun, nicht kontrollieren - das kann *niemand*, denke ich - aber sie zumindest dazu bringen, zu tun, was er wollte. Und dann, eines Tages, reagierte die Flor einfach nicht mehr auf ihn. Schlünde schlossen sich oder öffneten sich an furchtbaren Orten und nur wenige Wochen später war der alte Memovira verschwunden.“</DefaultText>
+      <DefaultText>„Ich war damals noch ein Kind, eine frischgebackene Söldnerin, grün hinter den Ohren, aber ich erinnere mich, wie die Flor sich verändert hat. Der alte Memovira konnte die Flor … nun, nicht kontrollieren - das kann *niemand*, denke ich - aber sie zumindest dazu bringen, zu tun, was er wollte. Und dann, eines Tages, reagierte die Flor einfach nicht mehr auf ihn. Schlünde schlossen sich oder öffneten sich an furchtbaren Orten und nur wenige Wochen später war der alte Memovira verschwunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -875,7 +875,7 @@ Sie tritt von einem Fuß auf den anderen und wirft einen verstohlenen Blick zur 
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>„Ein Soldat? Ich weiß nicht... Das klingt irgendwie *zu hart* für Coty. Können wir nicht etwas anderes für ihn finden?“</DefaultText>
+      <DefaultText>„Ein Soldat? Ich weiß nicht… Das klingt irgendwie *zu hart* für Coty. Können wir nicht etwas anderes für ihn finden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -922,7 +922,7 @@ Sie tritt von einem Fuß auf den anderen und wirft einen verstohlenen Blick zur 
       <ID>243</ID>
       <DefaultText>„Hör mal, falls dir meine vermissten Soldaten unterkommen, bin ich für jede Information dankbar. Du erkennst sie gleich, wenn du sie siehst - sie sehen aus wie ich.“ Sie deutet auf ihren beschlagenen Lederwams.
 
-„Ich würde ja selbst nach ihnen suchen, aber ...“ Sie zuckt schicksalsergeben mit den Schultern und behält den Rest für sich.</DefaultText>
+„Ich würde ja selbst nach ihnen suchen, aber …“ Sie zuckt schicksalsergeben mit den Schultern und behält den Rest für sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -977,7 +977,7 @@ Sie tritt von einem Fuß auf den anderen und wirft einen verstohlenen Blick zur 
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>„Dafür werden die verdammten Murden *bluten* ...“</DefaultText>
+      <DefaultText>„Dafür werden die verdammten Murden *bluten* …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -987,17 +987,17 @@ Sie tritt von einem Fuß auf den anderen und wirft einen verstohlenen Blick zur 
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>„Sie sollten längst wieder da sein ...“</DefaultText>
+      <DefaultText>„Sie sollten längst wieder da sein …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>„Ich muss dringend ein *ernstes* Wörtchen mit Gar-koto über seine Leute reden ...“</DefaultText>
+      <DefaultText>„Ich muss dringend ein *ernstes* Wörtchen mit Gar-koto über seine Leute reden …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>„Ich sollte losziehen und sie suchen ...“</DefaultText>
+      <DefaultText>„Ich sollte losziehen und sie suchen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1032,7 +1032,7 @@ Sie tritt von einem Fuß auf den anderen und wirft einen verstohlenen Blick zur 
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>„Mazzof ... Ich meine Ishen ... sollte nun längst den Weg zurück gefunden haben. Ist er sicher?“</DefaultText>
+      <DefaultText>„Mazzof … Ich meine Ishen … sollte nun längst den Weg zurück gefunden haben. Ist er sicher?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1106,7 +1106,7 @@ Sie deutet mit dem Griff ihres Schwerts auf das Tor. „Die Wachen werden dich b
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>Sie windet sich verlegen. „Wenn es nach mir ginge, würde ich dich einlassen. Du hast es dir verdient. Aber mein Befehl lautet, niemanden durchzulassen ... und die Memovira hört nicht mehr so auf mich wie früher.“</DefaultText>
+      <DefaultText>Sie windet sich verlegen. „Wenn es nach mir ginge, würde ich dich einlassen. Du hast es dir verdient. Aber mein Befehl lautet, niemanden durchzulassen … und die Memovira hört nicht mehr so auf mich wie früher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1128,7 +1128,7 @@ Sie deutet mit dem Griff ihres Schwerts auf das Tor. „Die Wachen werden dich b
       <ID>283</ID>
       <DefaultText>Sie wirft einen verstohlenen Blick zur anderen Wache und sagt leise zu dir: „Du solltest wissen, dass die Memovira … *wütend* zu sein schien, weil du erfolgreich warst.“
 
-Sie schüttelt den Kopf. „Ich verstehe es auch nicht, ich habe sie aber schonmal so erlebt. Mein Rat? Kümmere dich um deine unerledigten Angelegenheiten, bevor du sie triffst ... dies setzt natürlich voraus, dass du sie treffen *musst*.“</DefaultText>
+Sie schüttelt den Kopf. „Ich verstehe es auch nicht, ich habe sie aber schonmal so erlebt. Mein Rat? Kümmere dich um deine unerledigten Angelegenheiten, bevor du sie triffst … dies setzt natürlich voraus, dass du sie treffen *musst*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1142,7 +1142,7 @@ Sie schüttelt den Kopf. „Ich verstehe es auch nicht, ich habe sie aber schonm
       <ID>286</ID>
       <DefaultText>Sie wirft einen verstohlenen Blick zur anderen Wache und sagt leise zu dir: „Du solltest wissen, dass die Memovira … *wütend* zu sein schien, weil du erfolgreich warst.“
 
-Sie schüttelt den Kopf. „Ich verstehe es auch nicht, ich habe sie aber schonmal so erlebt. Mein Rat? Kümmere dich um deine unerledigten Angelegenheiten, bevor du sie triffst ... dies setzt natürlich voraus, dass du sie treffen *musst*.“</DefaultText>
+Sie schüttelt den Kopf. „Ich verstehe es auch nicht, ich habe sie aber schonmal so erlebt. Mein Rat? Kümmere dich um deine unerledigten Angelegenheiten, bevor du sie triffst … dies setzt natürlich voraus, dass du sie treffen *musst*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
