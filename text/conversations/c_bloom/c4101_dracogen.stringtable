@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Er hält es ins Licht, dreht es und bewundert das raffinierte Design des Ringes.  Mit einem breiten Grinsen sagt er: „Du kannst die Macht von diesem Ding spüren? Es dreht und windet sich, und fängt die geheimen Orte dieser Welt ein. Das wird wunderbar gehen. Oh ja.“
+      <DefaultText>Er hält es ins Licht, dreht es und bewundert das raffinierte Design des Ringes. Mit einem breiten Grinsen sagt er: „Du kannst die Macht von diesem Ding spüren? Es dreht und windet sich, und fängt die geheimen Orte dieser Welt ein. Das wird wunderbar gehen. Oh ja.“
 
 Er legt es in einen flachen Beutel an seiner Hüfte - und keine Form stört den Beutel, so als wäre er nur das Tor zu einem größeren Ort.</DefaultText>
       <FemaleText />
@@ -229,7 +229,7 @@ Er legt es in einen flachen Beutel an seiner Hüfte - und keine Form stört den 
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Er sieht fast beleidigt aus. „Auf keinen Fall. Ich bin von der Uhr von Kala zu den Standhaften Königreichen gereist und sah die Himmelsfelder der Kristallwolke. Ich reiste zur Schmiede des Nachthimmels, wich Feuerwichten und Magma-Verschüttungen aus. Ich stand auf Monden aus Metall, um auf die Erde herabzuschauen und neue Anzeichen von Leben auf den nahegelegenen Sternen zu entdecken.  Ich bin durch Raum und Zeit gereist, bog das Licht um die Nebelglocke und erlebte, wie ich kurzzeitig selbst zum reinen Gedanken wurde. Der Flor ist da nur ein kurzer Zwischenstopp. Reden wir über etwas anderes.“</DefaultText>
+      <DefaultText>Er sieht fast beleidigt aus. „Auf keinen Fall. Ich bin von der Uhr von Kala zu den Standhaften Königreichen gereist und sah die Himmelsfelder der Kristallwolke. Ich reiste zur Schmiede des Nachthimmels, wich Feuerwichten und Magma-Verschüttungen aus. Ich stand auf Monden aus Metall, um auf die Erde herabzuschauen und neue Anzeichen von Leben auf den nahegelegenen Sternen zu entdecken. Ich bin durch Raum und Zeit gereist, bog das Licht um die Nebelglocke und erlebte, wie ich kurzzeitig selbst zum reinen Gedanken wurde. Der Flor ist da nur ein kurzer Zwischenstopp. Reden wir über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,8 +239,8 @@ Er legt es in einen flachen Beutel an seiner Hüfte - und keine Form stört den 
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Ich bin  auf der Suche nach nützlichen und interessanten Numenera, mein Freund. Der Flor ist eine Kreuzung der Welten, ein Ort der Macht und der Schmerzen und viele Leute aus vielen großartigen Orten kommen hier jeden Tag durch. Ich finanziere Entdecker, Händler und andere Reisende, die ihre Sammlung erweitern wollen, und ich zahle gut.“</DefaultText>
-      <FemaleText>„Ich bin  auf der Suche nach nützlichen und interessanten Numenera, meine Gute. Der Flor ist eine Kreuzung der Welten, ein Ort der Macht und der Schmerzen und viele Leute aus vielen großartigen Orten kommen hier jeden Tag durch. Ich finanziere Entdecker, Händler und andere Reisende, die ihre Sammlung erweitern wollen, und ich zahle gut.“</FemaleText>
+      <DefaultText>„Ich bin auf der Suche nach nützlichen und interessanten Numenera, mein Freund. Der Flor ist eine Kreuzung der Welten, ein Ort der Macht und der Schmerzen und viele Leute aus vielen großartigen Orten kommen hier jeden Tag durch. Ich finanziere Entdecker, Händler und andere Reisende, die ihre Sammlung erweitern wollen, und ich zahle gut.“</DefaultText>
+      <FemaleText>„Ich bin auf der Suche nach nützlichen und interessanten Numenera, meine Gute. Der Flor ist eine Kreuzung der Welten, ein Ort der Macht und der Schmerzen und viele Leute aus vielen großartigen Orten kommen hier jeden Tag durch. Ich finanziere Entdecker, Händler und andere Reisende, die ihre Sammlung erweitern wollen, und ich zahle gut.“</FemaleText>
     </Entry>
     <Entry>
       <ID>57</ID>
@@ -249,7 +249,7 @@ Er legt es in einen flachen Beutel an seiner Hüfte - und keine Form stört den 
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Er senkt die Stimme konspirativ. „Du hast natürlich nichts dergleichen von mir gehört. Lass es mich zusammenfassen. In der Nähe des Brunnens findest du Skaydi, eine einfache Händlerin. In letzter Zeit kam sie mir verändert vor, warum kann ich aber nicht sagen. Im Kampfring in ihrer Nähe wirst du ein uraltes Tötungskonstrukt namens Beutespäher sehen.  Geh ihm aus dem Weg, wenn du nicht sterben möchtest.“</DefaultText>
+      <DefaultText>Er senkt die Stimme konspirativ. „Du hast natürlich nichts dergleichen von mir gehört. Lass es mich zusammenfassen. In der Nähe des Brunnens findest du Skaydi, eine einfache Händlerin. In letzter Zeit kam sie mir verändert vor, warum kann ich aber nicht sagen. Im Kampfring in ihrer Nähe wirst du ein uraltes Tötungskonstrukt namens Beutespäher sehen. Geh ihm aus dem Weg, wenn du nicht sterben möchtest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,7 +268,7 @@ Er schlägt mir der Hand in die Luft und beendet damit die Unterhaltung. „Rede
       <ID>61</ID>
       <DefaultText>„Was war dieser kleine silberne … Goblin?“
 
-{SCRIPT:  Need to conditionalize this to only display once the Silver Orphan shows up.}</DefaultText>
+{SCRIPT: Need to conditionalize this to only display once the Silver Orphan shows up.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -280,7 +280,7 @@ Er schlägt mir der Hand in die Luft und beendet damit die Unterhaltung. „Rede
       <ID>63</ID>
       <DefaultText>„Was war das? Dieser … fleischige Ball?“
 
-{SCRIPT:  Need to conditionalize this to only display once the Bloom Ball shows up.}</DefaultText>
+{SCRIPT: Need to conditionalize this to only display once the Bloom Ball shows up.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -292,7 +292,7 @@ Er schlägt mir der Hand in die Luft und beendet damit die Unterhaltung. „Rede
       <ID>65</ID>
       <DefaultText>„Wer war der merkwürdige aussehende Kerl, der da aus dem Schlund kam?“
 
-{SCRIPT:  Need to conditionalize this to only display once Sir Arthour shows up.}</DefaultText>
+{SCRIPT: Need to conditionalize this to only display once Sir Arthour shows up.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,7 +304,7 @@ Er schlägt mir der Hand in die Luft und beendet damit die Unterhaltung. „Rede
       <ID>67</ID>
       <DefaultText>„Was war das für eine wie ein Stock aussehende Kreatur?“
 
-{SCRIPT:  Need to conditionalize this to only display once the jurulisk shows up.}</DefaultText>
+{SCRIPT: Need to conditionalize this to only display once the jurulisk shows up.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@ Er schlägt mir der Hand in die Luft und beendet damit die Unterhaltung. „Rede
       <ID>70</ID>
       <DefaultText>Seine Stimme wird scharf und sein Blick intensiv. „Du warst mit meinen Bedingungen einverstanden. Willst du mir jetzt etwa sagen, dass du deinen Teil des Handels nicht erfüllen kannst? Ich denke nicht. Du hast Möglichkeiten.“
 
-Er runzelt die Stirn. „Ich bezweifle, dass der Handelsposten wirklich verschwunden ist.  Du musst einfach einen anderen Schlund nehmen, der dich hinführt.“</DefaultText>
+Er runzelt die Stirn. „Ich bezweifle, dass der Handelsposten wirklich verschwunden ist. Du musst einfach einen anderen Schlund nehmen, der dich hinführt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -469,10 +469,10 @@ Er hält inne. „Viel Glück, meine Freundin. Sollten dir noch andere interessa
       <ID>100</ID>
       <DefaultText>Er seufzt und dreht sich ab. Einen Augenblick später brennen sich höllische Schmerzen wie nie zuvor durch deinen Körper, abwechselnd heiß, kalt, ätzend, pochend, stechend, beißend. Als sich Dracogen wieder zu dir umdreht, hat sich sein sonst so gelassener Gesichtsausdruck in eine hässliche Fratze eines Raubtieres verwandelt. „Du warst mit meinen Bedingungen einverstanden, Verstoßener. Gib mir den Ring oder du wirst dir den Tod wünschen. Und dann *wirst* du sterben. Gib es zurück. Jetzt sofort.“
 
-{SCRIPT: Maybe make a non-modal cutscene for this?  And non-lethally injure the PC? -JF}</DefaultText>
+{SCRIPT: Maybe make a non-modal cutscene for this? And non-lethally injure the PC? -JF}</DefaultText>
       <FemaleText>Er seufzt und dreht sich ab. Einen Augenblick später brennen sich höllische Schmerzen wie nie zuvor durch deinen Körper, abwechselnd heiß, kalt, ätzend, pochend, stechend, beißend. Als sich Dracogen wieder zu dir umdreht, hat sich sein sonst gelassener Gesichtsausdruck in eine hässliche Fratze eines Raubtieres verwandelt. „Du warst mit meinen Bedingungen einverstanden, Abgeworfene. Gib mir das Annulet oder du wirst dir den Tod wünschen. Und dann *wirst* du sterben. Gib es zurück. Jetzt sofort.“
 
-{SCRIPT: Maybe make a non-modal cutscene for this?  And non-lethally injure the PC? -JF}</FemaleText>
+{SCRIPT: Maybe make a non-modal cutscene for this? And non-lethally injure the PC? -JF}</FemaleText>
     </Entry>
     <Entry>
       <ID>101</ID>
@@ -696,7 +696,7 @@ Er legt es in einen flachen Beutel an seiner Hüfte - und keine Form stört den 
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>„Deine Eskapaden im Herzen des Flors blieben nicht unbemerkt. Es gab eine … seismische Verschiebung.  Unsere Freundin im Turm, die alte Memovira, weiß, was du getan hast. Selbst jetzt bereitet sie eine Falle für dich.“</DefaultText>
+      <DefaultText>„Deine Eskapaden im Herzen des Flors blieben nicht unbemerkt. Es gab eine … seismische Verschiebung. Unsere Freundin im Turm, die alte Memovira, weiß, was du getan hast. Selbst jetzt bereitet sie eine Falle für dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1078,7 +1078,7 @@ Seine Augen suchen deine in stummer Weise, weil seine verwirrten Fragen ihm den 
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>„Ich …  Ich weiß es nicht“, sagt Tybir, und unter seiner offensichtlichen Angst vor Dracogens Anwesenheit, siehst du seine Wut. Und Schuldgefühle.</DefaultText>
+      <DefaultText>„Ich … Ich weiß es nicht“, sagt Tybir, und unter seiner offensichtlichen Angst vor Dracogens Anwesenheit, siehst du seine Wut. Und Schuldgefühle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1144,7 +1144,7 @@ Seine Augen suchen deine in stummer Weise, weil seine verwirrten Fragen ihm den 
       <ID>240</ID>
       <DefaultText>Er tippt sich auf seine Brust. „Dann stellt das kein Problem dar. Auvigne versprach mir ein Jahr seiner Dienste im Tausch gegen bestimmte Informationen und … nun, jetzt ist er ja verschwunden.“
 
-„Ich dachte daran, den Gedanken-Verbindungsring, den du mir gabst, als Schadensersatz an mich zu nehmen, um ihn zu finden, aber dann wurde mir klar, dass dem armen Mann hier im Flor *alles* passiert sein könnte … und außerdem, wer bin ich, dass ich mich zwischen zwei lange Zeit getrennte Liebhaber stelle?  Vielleicht liegt dir mehr daran, ihn zu suchen, als mir.“</DefaultText>
+„Ich dachte daran, den Gedanken-Verbindungsring, den du mir gabst, als Schadensersatz an mich zu nehmen, um ihn zu finden, aber dann wurde mir klar, dass dem armen Mann hier im Flor *alles* passiert sein könnte … und außerdem, wer bin ich, dass ich mich zwischen zwei lange Zeit getrennte Liebhaber stelle? Vielleicht liegt dir mehr daran, ihn zu suchen, als mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1197,7 +1197,7 @@ Er verschränkt die Arme. „Tybir war ein Söldner, der immer dem Höchstbieten
       <ID>250</ID>
       <DefaultText>„Dein furchtloser Freund half, die Wachen ruhig zu stellen, und er sah zu, wie seine Landsmänner die hilflosen Männer abschlachteten. Da entdeckten sie, dass die Schatzkammer *mir* gehörte. Klugerweise hat Tybir den Auftrag aufgegeben und sich meiner Gnade unterworfen, indem er mir alle Verschwörer namentlich nannte.“
 
-„Ich ließ ihnen Gerechtigkeit zuteil werden und sorgte bei ihren Kindern für ein Leben voller Albträume. Aber von Tybir verlangte ich nur ein Jahr seiner Dienste oder seinen Verbindungsring und einen noch zu nennenden  Gefallen. Er gab mir den Ring und machte sich aus dem Staub. Ich habe ihn nicht verfolgt. Ich steh zu meinem Wort.“</DefaultText>
+„Ich ließ ihnen Gerechtigkeit zuteil werden und sorgte bei ihren Kindern für ein Leben voller Albträume. Aber von Tybir verlangte ich nur ein Jahr seiner Dienste oder seinen Verbindungsring und einen noch zu nennenden Gefallen. Er gab mir den Ring und machte sich aus dem Staub. Ich habe ihn nicht verfolgt. Ich steh zu meinem Wort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1505,7 +1505,7 @@ Er lächelt. „Wenn wir unser Geschäft mit dem Ring erfüllt haben, habe ich d
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>„Ah, ja. Das wäre in der Tat ausreichend. Wenn du den erlangen kannst, wäre das ein sehr guter Ersatz für den Ring.  Aber … Ich habe meine Zweifel. Ich habe es zuvor schon versucht, aber ohne Erfolg.“</DefaultText>
+      <DefaultText>„Ah, ja. Das wäre in der Tat ausreichend. Wenn du den erlangen kannst, wäre das ein sehr guter Ersatz für den Ring. Aber … Ich habe meine Zweifel. Ich habe es zuvor schon versucht, aber ohne Erfolg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
