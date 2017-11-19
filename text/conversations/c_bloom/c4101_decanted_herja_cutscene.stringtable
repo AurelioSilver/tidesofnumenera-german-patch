@@ -6,30 +6,30 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Sie beäugt den Dekantierten kritisch von unten bis oben und sieht dich mit hochgezogener Augenbraue an, bevor sie sich wieder dem Konstrukt zuwendet. "Ich bin hier, um Buße zu tun. Wofür brauchst du mich? Ich schwinge Klingen- und Strahlenwaffen gleichermaßen geschickt. Ich bin Expertin in Sachen Aufklärung und Infiltration und taktisch mit kleinen Trupps unerreicht. Schick mich nur nicht in den Kampf gegen reinrassige Menschen."</DefaultText>
+      <DefaultText>Sie beäugt den Dekantierten kritisch von unten bis oben und sieht dich mit hochgezogener Augenbraue an, bevor sie sich wieder dem Konstrukt zuwendet. „Ich bin hier, um Buße zu tun. Wofür brauchst du mich? Ich schwinge Klingen- und Strahlenwaffen gleichermaßen geschickt. Ich bin Expertin in Sachen Aufklärung und Infiltration und taktisch mit kleinen Trupps unerreicht. Schick mich nur nicht in den Kampf gegen reinrassige Menschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Das gequälte Quietschen aus dem Lautsprechergitter des Dekantierten lässt alle in der Umgebung zusammenzucken. Du hörst Stellmotoren und Zahnräder surren und Linsen in schwindelerregender Geschwindigkeit über seine optischen Sensoren klicken und schalten.
 
-"Trotz Unterernährung und mangelhafter Hygiene ist dies ein ausgezeichnetes Exemplar. Wie geschaffen für die Optero-Suite."</DefaultText>
+„Trotz Unterernährung und mangelhafter Hygiene ist dies ein ausgezeichnetes Exemplar. Wie geschaffen für die Optero-Suite.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"... die was? Optero-Suite?" Sie wendet sich an dich. "Ich dachte, ich solle als deine Söldnerin dienen, nicht als Magd irgendeines fremden Adeligen. Ich bin nicht für das Leben zu Hofe geschaffen und habe nicht die geringste Lust, mich vor den Mächtigen zu Boden zu werfen."</DefaultText>
+      <DefaultText>„... die was? Optero-Suite?“ Sie wendet sich an dich. „Ich dachte, ich solle als deine Söldnerin dienen, nicht als Magd irgendeines fremden Adeligen. Ich bin nicht für das Leben zu Hofe geschaffen und habe nicht die geringste Lust, mich vor den Mächtigen zu Boden zu werfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Hier liegt wohl ein Missverständnis vor. Das Exemplar kommt nicht als Sklavin, sondern als Gast zu uns. Wir werden sie mit allen Ehren behandeln. Das Leisten von Diensten ist nicht vorgesehen."</DefaultText>
+      <DefaultText>„Hier liegt wohl ein Missverständnis vor. Das Exemplar kommt nicht als Sklavin, sondern als Gast zu uns. Wir werden sie mit allen Ehren behandeln. Das Leisten von Diensten ist nicht vorgesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Du hast diesen Mann zu mir geschickt, um mich zu holen und zu beurteilen, ohne je mit mir zu sprechen, und jetzt sagst du mir, ich werde dein Ehrengast sein? Für mich klingt das, als wolltest du mich zum Vergnügen reicher Freaks in einen Käfig sperren." Sie schüttelt den Kopf und weicht zurück. "Nein. Ich leiste meine Dienste aktiv und werde zu den Mutanten zurückgehen, wenn es sein muss.*Dir* traue ich nicht über den Weg, Kreatur."</DefaultText>
-      <FemaleText>"Du hast diese Frau zu mir geschickt, um mich zu holen und zu beurteilen, ohne je mit mir zu sprechen, und jetzt sagst du mir, ich werde dein Ehrengast sein? Für mich klingt das, als wolltest du mich zum Vergnügen reicher Freaks in einen Käfig sperren." Sie schüttelt den Kopf und weicht zurück. "Nein. Ich leiste meine Dienste aktiv und werde zu den Mutanten zurückgehen, wenn es sein muss.*Dir* traue ich nicht über den Weg, Kreatur."</FemaleText>
+      <DefaultText>„Du hast diesen Mann zu mir geschickt, um mich zu holen und zu beurteilen, ohne je mit mir zu sprechen, und jetzt sagst du mir, ich werde dein Ehrengast sein? Für mich klingt das, als wolltest du mich zum Vergnügen reicher Freaks in einen Käfig sperren.“ Sie schüttelt den Kopf und weicht zurück. „Nein. Ich leiste meine Dienste aktiv und werde zu den Mutanten zurückgehen, wenn es sein muss.*Dir* traue ich nicht über den Weg, Kreatur.“</DefaultText>
+      <FemaleText>„Du hast diese Frau zu mir geschickt, um mich zu holen und zu beurteilen, ohne je mit mir zu sprechen, und jetzt sagst du mir, ich werde dein Ehrengast sein? Für mich klingt das, als wolltest du mich zum Vergnügen reicher Freaks in einen Käfig sperren.“ Sie schüttelt den Kopf und weicht zurück. „Nein. Ich leiste meine Dienste aktiv und werde zu den Mutanten zurückgehen, wenn es sein muss.*Dir* traue ich nicht über den Weg, Kreatur.“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -38,14 +38,14 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Das Konstrukt beugt sich über sie und wieder surren seine Linsen. Offensichtlich zufrieden richtet es sich wieder auf. "Bedauerlich, aber notwendig. Das Gas ist harmlos. Die Rekrutin ist tatsächlich höchst geeignet."
+      <DefaultText>Das Konstrukt beugt sich über sie und wieder surren seine Linsen. Offensichtlich zufrieden richtet es sich wieder auf. „Bedauerlich, aber notwendig. Das Gas ist harmlos. Die Rekrutin ist tatsächlich höchst geeignet.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Wir nehmen zur Kenntnis, dass du solche Exemplare beschaffen kannst. Bring weitere hierher und du wirst gemäß ihrer Eignung für unsere Zwecke belohnt."</DefaultText>
+      <DefaultText>„Wir nehmen zur Kenntnis, dass du solche Exemplare beschaffen kannst. Bring weitere hierher und du wirst gemäß ihrer Eignung für unsere Zwecke belohnt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
