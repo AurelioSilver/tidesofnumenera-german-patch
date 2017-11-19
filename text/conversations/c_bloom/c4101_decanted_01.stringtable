@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Lebwohl."</DefaultText>
+      <DefaultText>„Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,47 +26,47 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich habe Coty gekauft, den jungen Mann in der Sklavengrube. Ich verkaufe ihn dir."</DefaultText>
+      <DefaultText>„Ich habe Coty gekauft, den jungen Mann in der Sklavengrube. Ich verkaufe ihn dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Coty – der junge Mann in der Sklavengrube – ist nicht mehr zu haben."</DefaultText>
+      <DefaultText>„Coty – der junge Mann in der Sklavengrube – ist nicht mehr zu haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Das Lautsprechergitter summt zornig und sprüht wieder Funken. "Bedauerlich. Eine solche Transaktion wäre für beide Seiten vorteilhaft gewesen. Vielleicht gibt es hier noch andere geeignete Exemplare. Unsere Kunden zahlen gut."</DefaultText>
+      <DefaultText>Das Lautsprechergitter summt zornig und sprüht wieder Funken. „Bedauerlich. Eine solche Transaktion wäre für beide Seiten vorteilhaft gewesen. Vielleicht gibt es hier noch andere geeignete Exemplare. Unsere Kunden zahlen gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Das Konstrukt verbeugt sich vor dir. "Dankbarkeit und Wertschätzung. Sind bereit, [Global: c4101_DecantedCotyPayout] Shin bei Übergabe des Jungen in unsere Obhut zu bezahlen. Agenten werden sichere Überstellung des Jungen an Kunden garantieren. Als Beweis, dass wir es mit der Bezahlung ernst meinen ..."
+      <DefaultText>Das Konstrukt verbeugt sich vor dir. „Dankbarkeit und Wertschätzung. Sind bereit, [Global: c4101_DecantedCotyPayout] Shin bei Übergabe des Jungen in unsere Obhut zu bezahlen. Agenten werden sichere Überstellung des Jungen an Kunden garantieren. Als Beweis, dass wir es mit der Bezahlung ernst meinen ...“
 
 Das Konstrukt öffnet ein verstecktes Seitenfach und zeigt dir einen Haufen Shin.
 
-"Bereite den Jungen so bald wie möglich für den Transport vor. Können kaum erwarten, von hier wegzukommen."
+„Bereite den Jungen so bald wie möglich für den Transport vor. Können kaum erwarten, von hier wegzukommen.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Wer ist dein Kunde und was will er mit Coty?"</DefaultText>
+      <DefaultText>„Wer ist dein Kunde und was will er mit Coty?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Unser Kunde ist ..." Ein plötzliches Kreischen vom Lautsprechergitter übertönt kurz die Stimme des Wesens "... und bereit, dem jungen Mann eine einmalige Gelegenheit anzubieten, die sein Leben für immer verändern wird."</DefaultText>
+      <DefaultText>„Unser Kunde ist ...“ Ein plötzliches Kreischen vom Lautsprechergitter übertönt kurz die Stimme des Wesens „... und bereit, dem jungen Mann eine einmalige Gelegenheit anzubieten, die sein Leben für immer verändern wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>::bsss:: "Dankbarkeit. Unsere Kundschaft wird diese Akquisition zu schätzen wissen. Die versprochene Bezahlung."
+      <DefaultText>::bsss:: „Dankbarkeit. Unsere Kundschaft wird diese Akquisition zu schätzen wissen. Die versprochene Bezahlung.“
 
 Das Konstrukt übergibt dir ein Bündel zusammengerollter Shin.
 
-"Transaktion abgeschlossen."
+„Transaktion abgeschlossen.“
 
 {MONEY}
 
@@ -75,7 +75,7 @@ Das Konstrukt übergibt dir ein Bündel zusammengerollter Shin.
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Das Lautsprechergitter summt zornig. "Wir warten ungeduldig auf die versprochene Ware. Wir schätzen es nicht, enttäuscht zu werden. Bitte überbringe uns unsere Ware schnellstmöglich."</DefaultText>
+      <DefaultText>Das Lautsprechergitter summt zornig. „Wir warten ungeduldig auf die versprochene Ware. Wir schätzen es nicht, enttäuscht zu werden. Bitte überbringe uns unsere Ware schnellstmöglich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,17 +85,17 @@ Das Konstrukt übergibt dir ein Bündel zusammengerollter Shin.
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Das kommt mir bekannt vor." Sie sieht auf ihre Hände hinunter. "Ich muss sagen, da ist mir die Methode unseres Erzeugers lieber."</DefaultText>
+      <DefaultText>„Das kommt mir bekannt vor.“ Sie sieht auf ihre Hände hinunter. „Ich muss sagen, da ist mir die Methode unseres Erzeugers lieber.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Wir bewundern Schönheit in jeder Form und streben danach, sie zu bewahren. Wir tun dies für uns und auch als Dienst an der Welt, damit künftige Generationen die Schönheit ebenso schätzen lernen können wie wir."</DefaultText>
+      <DefaultText>„Wir bewundern Schönheit in jeder Form und streben danach, sie zu bewahren. Wir tun dies für uns und auch als Dienst an der Welt, damit künftige Generationen die Schönheit ebenso schätzen lernen können wie wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Das Wesen sieht sie seltsam an und mustert sie erneut. "Gesicht zu dünn, Augen dunkel – künstlich? Egal. Entspricht nicht den ästhetischen Standards – Haut veränderbar. Inakzeptabel."
+      <DefaultText>Das Wesen sieht sie seltsam an und mustert sie erneut. „Gesicht zu dünn, Augen dunkel – künstlich? Egal. Entspricht nicht den ästhetischen Standards – Haut veränderbar. Inakzeptabel.“
 
 Das Wesen fährt mit seiner Selbstbeschreibung fort.</DefaultText>
       <FemaleText />
@@ -114,72 +114,72 @@ Der Kopf mustert dich von Kopf bis Fuß. Du fühlst eine leichte Wärme, als die
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Die krächzende Stimme, die durch ein auf dem Kopf des Konstrukts montiertes Lautsprechergitter kommt, ist flach und ausdruckslos. "Grüße. Wir werden 'Dekantierte' genannt. Wir vertreten Käufer aus unserer Gesellschaft. Unsere Kunden schätzen Schönheit und körperliche Fitness über alle Maßen ..." Seine Rede endet in einem verzerrten Heulen. "Verzeihung. Dieses Behältnis wurde in letzter Zeit nicht wie vorgeschrieben gewartet. Mit der Behebung wird in Kürze begonnen. Zusammengefasst: Wir suchen schöne Wesen, um sie zu ehren."</DefaultText>
+      <DefaultText>Die krächzende Stimme, die durch ein auf dem Kopf des Konstrukts montiertes Lautsprechergitter kommt, ist flach und ausdruckslos. „Grüße. Wir werden 'Dekantierte' genannt. Wir vertreten Käufer aus unserer Gesellschaft. Unsere Kunden schätzen Schönheit und körperliche Fitness über alle Maßen ...“ Seine Rede endet in einem verzerrten Heulen. „Verzeihung. Dieses Behältnis wurde in letzter Zeit nicht wie vorgeschrieben gewartet. Mit der Behebung wird in Kürze begonnen. Zusammengefasst: Wir suchen schöne Wesen, um sie zu ehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Beispiel: In der Sklavengrube da drüben sticht ein Exemplar aus der Masse heraus. Der junge Mann da." Das Konstrukt zeigt auf den Jungen. "Siehst du das perfekte Zusammenspiel der Muskeln an seinem Körper? Stark, aber nicht übertrieben. Schöne runde Biceps- und Brustmuskeln. Der Körper hat kaum Fett und scheint gut in Form zu sein. Solche sind bei unseren Kunden sehr beliebt. Das sind die Eigenschaften, nach denen wir suchen."</DefaultText>
+      <DefaultText>„Beispiel: In der Sklavengrube da drüben sticht ein Exemplar aus der Masse heraus. Der junge Mann da.“ Das Konstrukt zeigt auf den Jungen. „Siehst du das perfekte Zusammenspiel der Muskeln an seinem Körper? Stark, aber nicht übertrieben. Schöne runde Biceps- und Brustmuskeln. Der Körper hat kaum Fett und scheint gut in Form zu sein. Solche sind bei unseren Kunden sehr beliebt. Das sind die Eigenschaften, nach denen wir suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Zum Beispiel der junge Mann da." Das Konstrukt zeigt auf Coty. "Siehst du das perfekte Zusammenspiel der Muskeln an seinem Körper? Stark, aber nicht übertrieben. Schöne runde Biceps- und Brustmuskeln. Der Körper hat kaum Fett und scheint gut in Form zu sein. Solche sind bei unseren Kunden sehr beliebt. Das sind die Eigenschaften, nach denen wir suchen."</DefaultText>
+      <DefaultText>„Zum Beispiel der junge Mann da.“ Das Konstrukt zeigt auf Coty. „Siehst du das perfekte Zusammenspiel der Muskeln an seinem Körper? Stark, aber nicht übertrieben. Schöne runde Biceps- und Brustmuskeln. Der Körper hat kaum Fett und scheint gut in Form zu sein. Solche sind bei unseren Kunden sehr beliebt. Das sind die Eigenschaften, nach denen wir suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Kürzlich wurde hier ein junger Sklave verkauft. Unser Versuch, ihn zu erwerben, schlug fehl. Er war ein Musterbeispiel dafür, was unsere Kunden suchen: Stark und muskulös, aber nicht zu massig. Athletisch und gut in Form."
+      <DefaultText>„Kürzlich wurde hier ein junger Sklave verkauft. Unser Versuch, ihn zu erwerben, schlug fehl. Er war ein Musterbeispiel dafür, was unsere Kunden suchen: Stark und muskulös, aber nicht zu massig. Athletisch und gut in Form.“
 
-Es beäugt dich kritisch. "Ein wenig wie du, aber unbeschädigt und natürlich gewachsen. An dir erkennen wir Zeichen künstlichen Wachstums, daher können wir dir diese Ehre nicht anbieten."</DefaultText>
+Es beäugt dich kritisch. „Ein wenig wie du, aber unbeschädigt und natürlich gewachsen. An dir erkennen wir Zeichen künstlichen Wachstums, daher können wir dir diese Ehre nicht anbieten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Aus dem Lautsprechergitter kommt ein Schwall Lärm. "Verzeihung." Das Gerät nimmt eine kleine Korrektur vor. "Wir sind hier, um diese Exemplare zur Optero-Suite zu bringen. Wir bieten ihnen ein privilegiertes Leben voller Luxus, und Genüsse für jeden Körper -" ::Rauschen:: " - akzeptieren." 
+      <DefaultText>Aus dem Lautsprechergitter kommt ein Schwall Lärm. „Verzeihung.“ Das Gerät nimmt eine kleine Korrektur vor. „Wir sind hier, um diese Exemplare zur Optero-Suite zu bringen. Wir bieten ihnen ein privilegiertes Leben voller Luxus, und Genüsse für jeden Körper -“ ::Rauschen:: „ - akzeptieren.“ 
 
-Es macht eine Pause. "Wir haben einiges zu bieten. Wir suchen drei Exemplare mit ästhetisch ansprechenden Körpern."</DefaultText>
+Es macht eine Pause. „Wir haben einiges zu bieten. Wir suchen drei Exemplare mit ästhetisch ansprechenden Körpern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Vielleicht können wir uns ja gegenseitig helfen."</DefaultText>
+      <DefaultText>„Vielleicht können wir uns ja gegenseitig helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Die Murden im alten Sklavenviertel haben eine attraktive Frau gefangen. Allerdings haben sie ihr Gehirn modifiziert."</DefaultText>
+      <DefaultText>„Die Murden im alten Sklavenviertel haben eine attraktive Frau gefangen. Allerdings haben sie ihr Gehirn modifiziert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Leider wurden wir nicht für Kampfhandlungen gebaut. Das Exemplar wäre ein faszinierender Fund, aber angesichts der Anwesenheit so vieler Murden wären unsere Überlebenschancen sehr gering. Wir werden dem erst nachgehen, wenn die Murden vertrieben wurden."</DefaultText>
+      <DefaultText>„Leider wurden wir nicht für Kampfhandlungen gebaut. Das Exemplar wäre ein faszinierender Fund, aber angesichts der Anwesenheit so vieler Murden wären unsere Überlebenschancen sehr gering. Wir werden dem erst nachgehen, wenn die Murden vertrieben wurden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Wer Murden ausgesetzt war, kann langfristige Schäden davontragen. Wir werden uns mit Kollegen in Verbindung setzen, um die Eignung des Exemplars zu prüfen. Das kann ein wenig dauern."</DefaultText>
+      <DefaultText>„Wer Murden ausgesetzt war, kann langfristige Schäden davontragen. Wir werden uns mit Kollegen in Verbindung setzen, um die Eignung des Exemplars zu prüfen. Das kann ein wenig dauern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Die Murden im alten Sklavenviertel wurden vertrieben. Du kannst die Frau suchen, von der ich dir erzählt habe."</DefaultText>
+      <DefaultText>„Die Murden im alten Sklavenviertel wurden vertrieben. Du kannst die Frau suchen, von der ich dir erzählt habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Du hast vorhin von der Dolmetscherin der Unmenschen gesprochen. Wir haben sie uns angesehen und für geeignet befunden. Deine Informationen waren der Schlüssel zu dieser Akquisition und erfolgreichen Rekrutierung. Wir freuen uns, dir diesen Lohn dafür auszuhändigen."
+      <DefaultText>„Du hast vorhin von der Dolmetscherin der Unmenschen gesprochen. Wir haben sie uns angesehen und für geeignet befunden. Deine Informationen waren der Schlüssel zu dieser Akquisition und erfolgreichen Rekrutierung. Wir freuen uns, dir diesen Lohn dafür auszuhändigen.“
 
-Es übergibt dir ein Päckchen Schin. "Wir freuen uns auch, berichten zu können, dass wir nach dem Verlassen des Murdennests erfolgreich dekontaminiert worden sind."
+Es übergibt dir ein Päckchen Schin. „Wir freuen uns auch, berichten zu können, dass wir nach dem Verlassen des Murdennests erfolgreich dekontaminiert worden sind.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Deine Hilfe in dieser Sache war unbezahlbar. Wir haben unsere Norm viel schneller erreicht, als wir je gedacht hätten. Nun brauchen wir dieses Gerät hier nicht mehr."
+      <DefaultText>„Deine Hilfe in dieser Sache war unbezahlbar. Wir haben unsere Norm viel schneller erreicht, als wir je gedacht hätten. Nun brauchen wir dieses Gerät hier nicht mehr.“
 
-Es übergibt dir eine Waffe und ein weiteres Bündel Shin. "Das hält uns nur auf. Es gehört jetzt dir."
+Es übergibt dir eine Waffe und ein weiteres Bündel Shin. „Das hält uns nur auf. Es gehört jetzt dir.“
 
 {LOOT}</DefaultText>
       <FemaleText />
@@ -193,47 +193,47 @@ Als du wieder etwas sehen kannst, ist keine Spur von dem Konstrukt mehr zu sehen
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Flint hat gesagt, dass ihr eure Rekruten abschlachtet. Stimmt das?"</DefaultText>
+      <DefaultText>„Flint hat gesagt, dass ihr eure Rekruten abschlachtet. Stimmt das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Der junge Mann in der Grube ist ein Sklave, oder nicht? Warum kaufst du ihn nicht einfach?"</DefaultText>
+      <DefaultText>„Der junge Mann in der Grube ist ein Sklave, oder nicht? Warum kaufst du ihn nicht einfach?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Der Auktionator nimmt kein Geld von uns. Er will uns nicht als Kunden."</DefaultText>
+      <DefaultText>„Der Auktionator nimmt kein Geld von uns. Er will uns nicht als Kunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Warum hast du Coty nicht einfach selbst gekauft?"</DefaultText>
+      <DefaultText>„Warum hast du Coty nicht einfach selbst gekauft?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Aus dem Lautsprechergitter des Dekantierten kommt ein gedehntes Seufzen. "Wohin wir auch kommen, überall dieselben Verleumdungen. Wir behandeln unsere Exemplare gut. Ihre Körper zu schinden, bringt uns nichts. Ich wiederhole: Wir behandeln sie gut."</DefaultText>
+      <DefaultText>Aus dem Lautsprechergitter des Dekantierten kommt ein gedehntes Seufzen. „Wohin wir auch kommen, überall dieselben Verleumdungen. Wir behandeln unsere Exemplare gut. Ihre Körper zu schinden, bringt uns nichts. Ich wiederhole: Wir behandeln sie gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Das klingt vernünftig. Na dann."</DefaultText>
+      <DefaultText>„Das klingt vernünftig. Na dann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Dennoch tötet ihr sie. Verschwinde aus der Flor, bevor ich dich zerstöre."</DefaultText>
+      <DefaultText>„Dennoch tötet ihr sie. Verschwinde aus der Flor, bevor ich dich zerstöre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Die Platten seiner Rüstung scheppern, als das Konstrukt bei deiner Drohung zusammenzuckt. "Wir sind friedliche Wesen!" krächzt es. "Eines Tages wirst du -" ::Rauschen:: "- erkennen, dass wir die Wahrheit sagen. Wir werden nicht versuchen, dich hier und jetzt davon zu überzeugen. Gewaltanwendung ist nicht notwendig. Wir versichern dir unsere Friedfertigkeit. Lebwohl." Es weicht mit erhobenen Händen vor dir zurück - die universelle Geste der Kapitulation.</DefaultText>
+      <DefaultText>Die Platten seiner Rüstung scheppern, als das Konstrukt bei deiner Drohung zusammenzuckt. „Wir sind friedliche Wesen!“ krächzt es. „Eines Tages wirst du -“ ::Rauschen:: „- erkennen, dass wir die Wahrheit sagen. Wir werden nicht versuchen, dich hier und jetzt davon zu überzeugen. Gewaltanwendung ist nicht notwendig. Wir versichern dir unsere Friedfertigkeit. Lebwohl.“ Es weicht mit erhobenen Händen vor dir zurück - die universelle Geste der Kapitulation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>::Rauschen:: "- Erleichterung. Viele begreifen nicht, welch würdevolle Arbeit wir hier verrichten. Sie wollen nicht wahrhaben, dass unsere Methoden die Schönheit über die normale Lebenszeit hinaus bewahren kann. Dass wir eine Art Unsterblichkeit verleihen."</DefaultText>
+      <DefaultText>::Rauschen:: „- Erleichterung. Viele begreifen nicht, welch würdevolle Arbeit wir hier verrichten. Sie wollen nicht wahrhaben, dass unsere Methoden die Schönheit über die normale Lebenszeit hinaus bewahren kann. Dass wir eine Art Unsterblichkeit verleihen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,49 +243,49 @@ Als du wieder etwas sehen kannst, ist keine Spur von dem Konstrukt mehr zu sehen
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Ich habe es mir anders überlegt. Verlasse die Flor. Sofort."</DefaultText>
+      <DefaultText>„Ich habe es mir anders überlegt. Verlasse die Flor. Sofort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Sundermun im Enormen Inneren hat von einer wunderschönen Frau gesprochen, die er getroffen hat. Sie könnte eine geeignete Kandidatin für dich sein."</DefaultText>
+      <DefaultText>„Sundermun im Enormen Inneren hat von einer wunderschönen Frau gesprochen, die er getroffen hat. Sie könnte eine geeignete Kandidatin für dich sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Unsere Agenten können deinen Hinweisen nachgehen, für die du eine Belohnung bekommst. Solange jedoch der genaue Standort nicht bekannt ist, gibt es keine Belohnung."</DefaultText>
+      <DefaultText>„Unsere Agenten können deinen Hinweisen nachgehen, für die du eine Belohnung bekommst. Solange jedoch der genaue Standort nicht bekannt ist, gibt es keine Belohnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ich weiß, wo Sundermuns geheimnisvolle Frau steckt – in Jargolamis in den Standhaften Königreichen. Sie führt dort Restaurationsarbeiten an der Umbil-Brücke durch."</DefaultText>
+      <DefaultText>„Ich weiß, wo Sundermuns geheimnisvolle Frau steckt – in Jargolamis in den Standhaften Königreichen. Sie führt dort Restaurationsarbeiten an der Umbil-Brücke durch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Dieser Ort ist bekannt, aber relativ weit entfernt. Unsere Kollegen werden dieser Behauptung unverzüglich nachgehen. Das kann ein wenig dauern. Eine Belohnung gibt es erst nach erfolgter Bestätigung." ::Rauschen:: "-ke für die Information."</DefaultText>
+      <DefaultText>„Dieser Ort ist bekannt, aber relativ weit entfernt. Unsere Kollegen werden dieser Behauptung unverzüglich nachgehen. Das kann ein wenig dauern. Eine Belohnung gibt es erst nach erfolgter Bestätigung.“ ::Rauschen:: „-ke für die Information.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Das mechanische Krächzen aus dem Lautsprechergitter ist dir mittlerweile schon beinahe vertraut. "Das weibliche Exemplar in Jargolamis wurde gefunden und erfolgreich rekrutiert. Das Exemplar ist tauglich. Wir danken für die erfolgreiche Vermittlung." Es übergibt dir ein Bündel Shin.
+      <DefaultText>Das mechanische Krächzen aus dem Lautsprechergitter ist dir mittlerweile schon beinahe vertraut. „Das weibliche Exemplar in Jargolamis wurde gefunden und erfolgreich rekrutiert. Das Exemplar ist tauglich. Wir danken für die erfolgreiche Vermittlung.“ Es übergibt dir ein Bündel Shin.
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Warum schaust du ständig zu Rhin?"</DefaultText>
+      <DefaultText>„Warum schaust du ständig zu Rhin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Starker Muskeltonus, athletischer Körperbau, großes Potenzial für eine geeignete Rekrutin. Wenn ich sie mitnehmen darf, werden wir dafür sorgen, dass sie zu einer gesunden, aktiven Frau in bester körperlicher Verfassung heranwächst."</DefaultText>
+      <DefaultText>„Starker Muskeltonus, athletischer Körperbau, großes Potenzial für eine geeignete Rekrutin. Wenn ich sie mitnehmen darf, werden wir dafür sorgen, dass sie zu einer gesunden, aktiven Frau in bester körperlicher Verfassung heranwächst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Befinden sich unter meinen Begleitern geeignete Rekruten für dich?"</DefaultText>
+      <DefaultText>„Befinden sich unter meinen Begleitern geeignete Rekruten für dich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,63 +295,63 @@ Als du wieder etwas sehen kannst, ist keine Spur von dem Konstrukt mehr zu sehen
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Er wählt seine Worte mit Bedacht. "Die Kleine hat Potenzial. Mit der richtigen Ernährung und körperlichen Betätigung könnte sie ein ausgezeichnetes Exemplar abgeben. Sie ist nicht verstrahlt und scheint an den wichtigen Stellen keine Narben zu haben."</DefaultText>
+      <DefaultText>Er wählt seine Worte mit Bedacht. „Die Kleine hat Potenzial. Mit der richtigen Ernährung und körperlichen Betätigung könnte sie ein ausgezeichnetes Exemplar abgeben. Sie ist nicht verstrahlt und scheint an den wichtigen Stellen keine Narben zu haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Der Dekantierte lässt einen flüchtigen Blick über deine Gruppe schweifen. "Keiner von ihnen entspricht unseren Standards. Was nicht heißen soll, dass sie nicht auf ihre Weise nützlich..." Er verstummt, sichtlich darum bemüht, niemanden zu beleidigen.</DefaultText>
+      <DefaultText>Der Dekantierte lässt einen flüchtigen Blick über deine Gruppe schweifen. „Keiner von ihnen entspricht unseren Standards. Was nicht heißen soll, dass sie nicht auf ihre Weise nützlich...“ Er verstummt, sichtlich darum bemüht, niemanden zu beleidigen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Was, wenn ich dir Rhin verkaufe?"</DefaultText>
+      <DefaultText>„Was, wenn ich dir Rhin verkaufe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Oh nein, das wirst du nicht tun! Ich will nicht mit dieser dummen Maschine mitgehen. Warum kann ich nicht bei dir bleiben?"
+      <DefaultText>„Oh nein, das wirst du nicht tun! Ich will nicht mit dieser dummen Maschine mitgehen. Warum kann ich nicht bei dir bleiben?“
 
 {ADAM: Voice check!}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Das Konstrukt beginnt, an seinen Fingern die Vorteile aufzuzählen, als würde es eine Checkliste durchgehen. "In der Optero-Suite wird das kleine ... Mädchen ... bestens versorgt werden. Wir werden ihr helfen, ihren körperlichen Zenit zu erreichen. Es ist in deinem und unserem Interesse, dass sie glücklich und zufrieden das Erwachsenenalter erreicht. Es ist ein besseres Leben als das einer Entdeckerin. Wir haben leckere Süßigkeiten."</DefaultText>
+      <DefaultText>Das Konstrukt beginnt, an seinen Fingern die Vorteile aufzuzählen, als würde es eine Checkliste durchgehen. „In der Optero-Suite wird das kleine ... Mädchen ... bestens versorgt werden. Wir werden ihr helfen, ihren körperlichen Zenit zu erreichen. Es ist in deinem und unserem Interesse, dass sie glücklich und zufrieden das Erwachsenenalter erreicht. Es ist ein besseres Leben als das einer Entdeckerin. Wir haben leckere Süßigkeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Sie gräbt den Fuß in den Boden und spielt mit ihrem Gottstein. Sie ignoriert den Dekantierten völlig und sieht dich böse an. "Ich sagte doch, ich gehe nicht mit der Maschine mit. Wenn du mich dazu zwingst, laufe ich davon."
+      <DefaultText>Sie gräbt den Fuß in den Boden und spielt mit ihrem Gottstein. Sie ignoriert den Dekantierten völlig und sieht dich böse an. „Ich sagte doch, ich gehe nicht mit der Maschine mit. Wenn du mich dazu zwingst, laufe ich davon.“
 
 {ROTHFUSS: Voice check!}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Moment mal, machst du Witze? Du machst doch Witze, oder? Manchmal verstehe ich deinen Humor einfach nicht. Ich meine, ich verstehe vieles nicht, aber das ist wirklich nicht witzig."</DefaultText>
+      <DefaultText>„Moment mal, machst du Witze? Du machst doch Witze, oder? Manchmal verstehe ich deinen Humor einfach nicht. Ich meine, ich verstehe vieles nicht, aber das ist wirklich nicht witzig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Ich mache keine Witze. Ich verkaufe Rhin an den Dekantierten."</DefaultText>
+      <DefaultText>„Ich mache keine Witze. Ich verkaufe Rhin an den Dekantierten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Natürlich mache ich Witze, Erritis. Das meine ich doch nicht ernst."</DefaultText>
+      <DefaultText>„Natürlich mache ich Witze, Erritis. Das meine ich doch nicht ernst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Sie schlägt die Arme eng um den Körper. "Das dachte ich mir. Was für ein geschmackloser Scherz. Du *weißt* doch, dass ich schon mal verkauft wurde. Das weißt du *genau*."
+      <DefaultText>Sie schlägt die Arme eng um den Körper. „Das dachte ich mir. Was für ein geschmackloser Scherz. Du *weißt* doch, dass ich schon mal verkauft wurde. Das weißt du *genau*.“
 
 {ROTHFUSS: Rhin voice}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Es summt frustriert. "Bedauerlich, dass wir keine Einigung erzielen können. Wir hoffen, wir können uns dennoch gegenseitig behilflich sein." Es beugt sich zu dir vor und versucht, leiser zu sprechen. "Wir halten uns an die getroffene Abmachung bezüglich anderer Freiwilliger, denn dieses Exemplar hier ist ziemlich ... widerborstig."</DefaultText>
+      <DefaultText>Es summt frustriert. „Bedauerlich, dass wir keine Einigung erzielen können. Wir hoffen, wir können uns dennoch gegenseitig behilflich sein.“ Es beugt sich zu dir vor und versucht, leiser zu sprechen. „Wir halten uns an die getroffene Abmachung bezüglich anderer Freiwilliger, denn dieses Exemplar hier ist ziemlich ... widerborstig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,7 +361,7 @@ Als du wieder etwas sehen kannst, ist keine Spur von dem Konstrukt mehr zu sehen
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Das kannst du nicht machen! Erritis, hilf mir!"</DefaultText>
+      <DefaultText>„Das kannst du nicht machen! Erritis, hilf mir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,21 +371,21 @@ Als du wieder etwas sehen kannst, ist keine Spur von dem Konstrukt mehr zu sehen
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Unser Dank. Das ... Mädchen ... wird gut behandelt werden. Es wird ihr an nichts fehlen. Sie wird ein gesundes Leben haben. Wir werden ihre Schönheit pflegen."
+      <DefaultText>„Unser Dank. Das ... Mädchen ... wird gut behandelt werden. Es wird ihr an nichts fehlen. Sie wird ein gesundes Leben haben. Wir werden ihre Schönheit pflegen.“
 
-Er überreicht dir ein Bündel Shin. "Besten Dank."
+Er überreicht dir ein Bündel Shin. „Besten Dank.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Ich wollte schon immer mal eine Maid in Not retten!"</DefaultText>
+      <DefaultText>„Ich wollte schon immer mal eine Maid in Not retten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Er zieht theatralisch seine Waffe. "Aufgepasst, Verschlepper von Kindern und Maiden! Deine Tage als Kindes- und Maidenverschlepper sind gezählt!"
+      <DefaultText>Er zieht theatralisch seine Waffe. „Aufgepasst, Verschlepper von Kindern und Maiden! Deine Tage als Kindes- und Maidenverschlepper sind gezählt!“
 
 Mit pulsierender Aura geht er auf das Konstrukt los.</DefaultText>
       <FemaleText />
@@ -399,45 +399,45 @@ Als du wieder etwas sehen kannst, ist das Konstrukt verschwunden.</DefaultText>
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Danke, Erritis. Ich bin froh, dass ich wenigstens *irgendjemandem* nicht egal bin." Sie wirft dir einen Blick voller Verachtung und Misstrauen zu.
+      <DefaultText>„Danke, Erritis. Ich bin froh, dass ich wenigstens *irgendjemandem* nicht egal bin.“ Sie wirft dir einen Blick voller Verachtung und Misstrauen zu.
 
 {ROTHFUSS: Voice check}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Er verbeugt sich tief vor ihr. "Ein wahrer Held verteidigt stets die Unterdrückten und befreit die Sklaven von ihren Ketten. Oder verteidigt er die Sklaven und unterdrückt die Ketten? Egal. Manche Leute tun eben einfach das Richtige." Er wirft dir einen vielsagenden Blick zu. "Und Andere tun alles für Geld. Das Eine verträgt sich nicht mit dem Anderen." Er bückt sich und flüstert ihr zu: "Behalte unseren Anführer im Auge. Wer weiß, an wen er uns als nächstes verkauft?"</DefaultText>
-      <FemaleText>Er verbeugt sich tief vor ihr. "Ein wahrer Held verteidigt stets die Unterdrückten und befreit die Sklaven von ihren Ketten. Oder verteidigt er die Sklaven und unterdrückt die Ketten? Egal. Manche Leute tun eben einfach das Richtige." Er wirft dir einen vielsagenden Blick zu. "Und andere tun alles für Geld. Das eine verträgt sich nicht mit dem anderen." Er bückt sich und flüstert ihr zu: "Behalte unsere Anführerin im Auge. Wer weiß, an wen sie uns als nächstes verkauft?"</FemaleText>
+      <DefaultText>Er verbeugt sich tief vor ihr. „Ein wahrer Held verteidigt stets die Unterdrückten und befreit die Sklaven von ihren Ketten. Oder verteidigt er die Sklaven und unterdrückt die Ketten? Egal. Manche Leute tun eben einfach das Richtige.“ Er wirft dir einen vielsagenden Blick zu. „Und Andere tun alles für Geld. Das Eine verträgt sich nicht mit dem Anderen.“ Er bückt sich und flüstert ihr zu: „Behalte unseren Anführer im Auge. Wer weiß, an wen er uns als nächstes verkauft?“</DefaultText>
+      <FemaleText>Er verbeugt sich tief vor ihr. „Ein wahrer Held verteidigt stets die Unterdrückten und befreit die Sklaven von ihren Ketten. Oder verteidigt er die Sklaven und unterdrückt die Ketten? Egal. Manche Leute tun eben einfach das Richtige.“ Er wirft dir einen vielsagenden Blick zu. „Und andere tun alles für Geld. Das eine verträgt sich nicht mit dem anderen.“ Er bückt sich und flüstert ihr zu: „Behalte unsere Anführerin im Auge. Wer weiß, an wen sie uns als nächstes verkauft?“</FemaleText>
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Unten bei den Cheirurgen-Fällen gibt es einen Mann namens Bourras. Der könnte ein geeigneter Kandidat sein."</DefaultText>
+      <DefaultText>„Unten bei den Cheirurgen-Fällen gibt es einen Mann namens Bourras. Der könnte ein geeigneter Kandidat sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Prächtig. Agenten werden in Kürze losgeschickt, um diesen Bourras zu begutachten. Wir hoffen, dass dieser Kandidat entsprechen wird. Wenn ja, werden wir dich entsprechend seiner Schönheit entlohnen."</DefaultText>
+      <DefaultText>„Prächtig. Agenten werden in Kürze losgeschickt, um diesen Bourras zu begutachten. Wir hoffen, dass dieser Kandidat entsprechen wird. Wenn ja, werden wir dich entsprechend seiner Schönheit entlohnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Die Angaben zum Standort des jüngsten Exemplars – Bourras – waren hinreichend. Exemplar war akzeptabel, auch wenn sein ... Wesen ... verwässert war und umfangreiche Dekontaminierung erfordert. Doch mit ein wenig Restaurationsaufwand wird er unseren Kunden vermutlich genügen." Es überreicht dir ein Bündel Shin. "Deine Belohnung."
+      <DefaultText>„Die Angaben zum Standort des jüngsten Exemplars – Bourras – waren hinreichend. Exemplar war akzeptabel, auch wenn sein ... Wesen ... verwässert war und umfangreiche Dekontaminierung erfordert. Doch mit ein wenig Restaurationsaufwand wird er unseren Kunden vermutlich genügen.“ Es überreicht dir ein Bündel Shin. „Deine Belohnung.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Das jüngste uns geschickte Exemplar – Bourras – war zufriedenstellend. Sogar mehr als das, allerdings müssen gewisse Aspekte seiner Physis und Psyche gründlich entgiftet werden. Unsere Kunden haben dafür einen effizienten, wenn auch unangenehmen Prozess entwickelt."
+      <DefaultText>„Das jüngste uns geschickte Exemplar – Bourras – war zufriedenstellend. Sogar mehr als das, allerdings müssen gewisse Aspekte seiner Physis und Psyche gründlich entgiftet werden. Unsere Kunden haben dafür einen effizienten, wenn auch unangenehmen Prozess entwickelt.“
 
-Es überreicht dir ein Bündel Shin. "Unser Dank."
+Es überreicht dir ein Bündel Shin. „Unser Dank.“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Die Stimme des Wesens bleibt flach und ausdruckslos. "Grüße."</DefaultText>
+      <DefaultText>Die Stimme des Wesens bleibt flach und ausdruckslos. „Grüße.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -447,47 +447,47 @@ Es überreicht dir ein Bündel Shin. "Unser Dank."
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Ich fürchte, du hast keine andere Wahl, Rhin. Du gehst mit dem Dekantierten."</DefaultText>
+      <DefaultText>„Ich fürchte, du hast keine andere Wahl, Rhin. Du gehst mit dem Dekantierten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Ich bringe es nicht übers Herz. Sie bleibt bei mir."</DefaultText>
+      <DefaultText>„Ich bringe es nicht übers Herz. Sie bleibt bei mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Wenn der Moment für den Austausch gekommen ist, sorgen wir dafür, dass unsere Exemplare nichts spüren. Wir sedieren sie in einem glücklichen Moment und entfernen mittels fortschrittlicher Techniken, auf die jeder Cheirurg stolz wäre, den unnützen Kopf, damit unsere Kunden den Körper verwenden können, in den sie so viel investiert haben. Das ist auch nicht unmenschlicher als Sklaven in den Schlund zu werfen, wie es hier praktiziert wird. Fakt: Es ist humaner."</DefaultText>
+      <DefaultText>„Wenn der Moment für den Austausch gekommen ist, sorgen wir dafür, dass unsere Exemplare nichts spüren. Wir sedieren sie in einem glücklichen Moment und entfernen mittels fortschrittlicher Techniken, auf die jeder Cheirurg stolz wäre, den unnützen Kopf, damit unsere Kunden den Körper verwenden können, in den sie so viel investiert haben. Das ist auch nicht unmenschlicher als Sklaven in den Schlund zu werfen, wie es hier praktiziert wird. Fakt: Es ist humaner.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Ausgezeichnet. Wir benötigen nur noch einen Rekruten, um unsere Mission hier zu erfüllen. Wenn du uns diesen Rekruten besorgst, winkt eine großzügige Bezahlung gemäß unserer üblichen Vereinbarungen. Unsere Kunden werden entzückt sein von der Gelegenheit, diese neuen Formen zu erkunden."</DefaultText>
+      <DefaultText>„Ausgezeichnet. Wir benötigen nur noch einen Rekruten, um unsere Mission hier zu erfüllen. Wenn du uns diesen Rekruten besorgst, winkt eine großzügige Bezahlung gemäß unserer üblichen Vereinbarungen. Unsere Kunden werden entzückt sein von der Gelegenheit, diese neuen Formen zu erkunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Wir benötigen nur mehr zwei weitere Rekruten, um unsere Mission hier zu erfüllen. Wir hoffen, dass du uns weiterhin geeignete Exemplare bringst und uns hilfst, unsere Mission hier erfolgreich abzuschließen."</DefaultText>
+      <DefaultText>„Wir benötigen nur mehr zwei weitere Rekruten, um unsere Mission hier zu erfüllen. Wir hoffen, dass du uns weiterhin geeignete Exemplare bringst und uns hilfst, unsere Mission hier erfolgreich abzuschließen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Sag mir ehrlich, was genau mit denen passiert, die ich für dich rekrutiert habe. Keine Ausflüchte, keine Lügen."</DefaultText>
+      <DefaultText>„Sag mir ehrlich, was genau mit denen passiert, die ich für dich rekrutiert habe. Keine Ausflüchte, keine Lügen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Du glaubst, in der flachen Maschinenstimme eine Spur von Stolz herauszuhören. "Die Rekruten werden an einen sicheren Ort gebracht, in die Optero-Suite. Dort trennt ein Team von Spezialisten den Kopf sorgfältig vom Körper, welcher für die Nutzung durch unsere Adeligen präpariert wird. Den Kopf entsorgen wir meist, es sei denn, der Rekrut zeigt ein gewisses Geschick für Arbeiten der Art, wie ich sie hier vollbringe."</DefaultText>
+      <DefaultText>Du glaubst, in der flachen Maschinenstimme eine Spur von Stolz herauszuhören. „Die Rekruten werden an einen sicheren Ort gebracht, in die Optero-Suite. Dort trennt ein Team von Spezialisten den Kopf sorgfältig vom Körper, welcher für die Nutzung durch unsere Adeligen präpariert wird. Den Kopf entsorgen wir meist, es sei denn, der Rekrut zeigt ein gewisses Geschick für Arbeiten der Art, wie ich sie hier vollbringe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Ausgezeichnet. Wir benötigen nur noch einen Rekruten, um unsere Mission hier zu erfüllen. Wenn du uns diesen Rekruten besorgst, winkt eine großzügige Bezahlung und darüber hinaus die befriedigende Gewissheit, dass die Körper der Exemplare größere Freuden und Befriedigungen erfahren werden, als sie ihnen hier je vergönnt gewesen wären."</DefaultText>
+      <DefaultText>„Ausgezeichnet. Wir benötigen nur noch einen Rekruten, um unsere Mission hier zu erfüllen. Wenn du uns diesen Rekruten besorgst, winkt eine großzügige Bezahlung und darüber hinaus die befriedigende Gewissheit, dass die Körper der Exemplare größere Freuden und Befriedigungen erfahren werden, als sie ihnen hier je vergönnt gewesen wären.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Das ist keine Sklaverei. Du wirst dort ein besseres Leben haben. Es tut mir leid, Rhin, aber du gehst mit dem Dekantierten."</DefaultText>
+      <DefaultText>„Das ist keine Sklaverei. Du wirst dort ein besseres Leben haben. Es tut mir leid, Rhin, aber du gehst mit dem Dekantierten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -497,12 +497,12 @@ Es überreicht dir ein Bündel Shin. "Unser Dank."
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Erzähl mir etwas von dir."</DefaultText>
+      <DefaultText>„Erzähl mir etwas von dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Erzähl mir nochmal etwas über dich."</DefaultText>
+      <DefaultText>„Erzähl mir nochmal etwas über dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -512,12 +512,12 @@ Es überreicht dir ein Bündel Shin. "Unser Dank."
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Aus dem Lautsprechergitter ertönt wieder die flache Stimme. "Wir haben keine persönliche Bezeichnung, die du verstehen würdest. Ihr nennt uns gewöhnlich 'Dekantierte'. Diese Formen mit abgetrennten und präparierten Köpfen bescheren uns eine große Langlebigkeit, musst du wissen. Wir müssen unsere ursprünglichen Formen nicht beibehalten, um das Wissen zu bewahren, das wir mit uns herumtragen. Wir können diese Körper abwerfen und dennoch weiterleben. Dieser hier ist bereits hunderte Jahre alt und lebt immer noch, obwohl sein ursprünglicher Körper längst zu Staub zerfallen ist."</DefaultText>
+      <DefaultText>Aus dem Lautsprechergitter ertönt wieder die flache Stimme. „Wir haben keine persönliche Bezeichnung, die du verstehen würdest. Ihr nennt uns gewöhnlich 'Dekantierte'. Diese Formen mit abgetrennten und präparierten Köpfen bescheren uns eine große Langlebigkeit, musst du wissen. Wir müssen unsere ursprünglichen Formen nicht beibehalten, um das Wissen zu bewahren, das wir mit uns herumtragen. Wir können diese Körper abwerfen und dennoch weiterleben. Dieser hier ist bereits hunderte Jahre alt und lebt immer noch, obwohl sein ursprünglicher Körper längst zu Staub zerfallen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Ihr nennt uns gewöhnlich 'Dekantierte'. Diese Formen mit abgetrennten und präparierten Köpfen bescheren uns eine große Langlebigkeit, musst du wissen."</DefaultText>
+      <DefaultText>„Ihr nennt uns gewöhnlich 'Dekantierte'. Diese Formen mit abgetrennten und präparierten Köpfen bescheren uns eine große Langlebigkeit, musst du wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -527,28 +527,28 @@ Es überreicht dir ein Bündel Shin. "Unser Dank."
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Es ist vielleicht nicht schlimmer, aber sicher auch nicht besser."</DefaultText>
+      <DefaultText>„Es ist vielleicht nicht schlimmer, aber sicher auch nicht besser.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Es ist eine Frage der – " ::Rauschen:: " -ation. Wir müssen uns in diesem Punkt nicht einig sein. Lass uns beider mit dem Wissen um unsere Unterschiede auseinandergehen."</DefaultText>
+      <DefaultText>„Es ist eine Frage der – “ ::Rauschen:: „ -ation. Wir müssen uns in diesem Punkt nicht einig sein. Lass uns beider mit dem Wissen um unsere Unterschiede auseinandergehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Kinder verkaufen. Das ist ein neuer Tiefpunkt ... das hätte ich dir nicht zugetraut ... hätte ich aber wohl sollen. Trotz allem überrascht es mich immer wieder, wie tief wir Verstoßenen sinken können, um unsere Ziele zu erreichen."</DefaultText>
+      <DefaultText>„Kinder verkaufen. Das ist ein neuer Tiefpunkt ... das hätte ich dir nicht zugetraut ... hätte ich aber wohl sollen. Trotz allem überrascht es mich immer wieder, wie tief wir Verstoßenen sinken können, um unsere Ziele zu erreichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Ich habe dich gewarnt. Das war der Tropfen, der das Fass zum Überlaufen bringt. Ich hoffe, der Kummer löscht deine erbärmliche Existenz für immer aus."</DefaultText>
+      <DefaultText>„Ich habe dich gewarnt. Das war der Tropfen, der das Fass zum Überlaufen bringt. Ich hoffe, der Kummer löscht deine erbärmliche Existenz für immer aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Ich warne dich, Verstoßener ... wenn das Mädchen geht, gehe ich auch. Was für ein Monster bist du, dass du über so etwas überhaupt nachdenkst?"</DefaultText>
-      <FemaleText>"Ich warne dich, Verstoßene... wenn das Mädchen geht, gehe ich auch. Was für ein Monster bist du, dass du über so etwas überhaupt nachdenkst?"</FemaleText>
+      <DefaultText>„Ich warne dich, Verstoßener ... wenn das Mädchen geht, gehe ich auch. Was für ein Monster bist du, dass du über so etwas überhaupt nachdenkst?“</DefaultText>
+      <FemaleText>„Ich warne dich, Verstoßene... wenn das Mädchen geht, gehe ich auch. Was für ein Monster bist du, dass du über so etwas überhaupt nachdenkst?“</FemaleText>
     </Entry>
     <Entry>
       <ID>121</ID>
