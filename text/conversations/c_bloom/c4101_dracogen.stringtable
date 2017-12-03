@@ -470,7 +470,7 @@ Er hält inne. „Viel Glück, meine Freundin. Sollten dir noch andere interessa
       <DefaultText>Er seufzt und dreht sich ab. Einen Augenblick später brennen sich höllische Schmerzen wie nie zuvor durch deinen Körper, abwechselnd heiß, kalt, ätzend, pochend, stechend, beißend. Als sich Dracogen wieder zu dir umdreht, hat sich sein sonst so gelassener Gesichtsausdruck in eine hässliche Fratze eines Raubtieres verwandelt. „Du warst mit meinen Bedingungen einverstanden, Verstoßener. Gib mir den Ring oder du wirst dir den Tod wünschen. Und dann *wirst* du sterben. Gib es zurück. Jetzt sofort.“
 
 {SCRIPT: Maybe make a non-modal cutscene for this? And non-lethally injure the PC? -JF}</DefaultText>
-      <FemaleText>Er seufzt und dreht sich ab. Einen Augenblick später brennen sich höllische Schmerzen wie nie zuvor durch deinen Körper, abwechselnd heiß, kalt, ätzend, pochend, stechend, beißend. Als sich Dracogen wieder zu dir umdreht, hat sich sein sonst gelassener Gesichtsausdruck in eine hässliche Fratze eines Raubtieres verwandelt. „Du warst mit meinen Bedingungen einverstanden, Abgeworfene. Gib mir das Annulet oder du wirst dir den Tod wünschen. Und dann *wirst* du sterben. Gib es zurück. Jetzt sofort.“
+      <FemaleText>Er seufzt und dreht sich ab. Einen Augenblick später brennen sich höllische Schmerzen wie nie zuvor durch deinen Körper, abwechselnd heiß, kalt, ätzend, pochend, stechend, beißend. Als sich Dracogen wieder zu dir umdreht, hat sich sein sonst gelassener Gesichtsausdruck in eine hässliche Fratze eines Raubtieres verwandelt. „Du warst mit meinen Bedingungen einverstanden, Verstoßene. Gib mir das Annulet oder du wirst dir den Tod wünschen. Und dann *wirst* du sterben. Gib es zurück. Jetzt sofort.“
 
 {SCRIPT: Maybe make a non-modal cutscene for this? And non-lethally injure the PC? -JF}</FemaleText>
     </Entry>
@@ -1014,8 +1014,8 @@ Er zeigt auf die großen Tore der Festung. „Brusca, Memoviras rechte Hand und 
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>„Ist das korrekt? Ist das *gerecht*? Wir haben einen Pakt geschlossen, Abgeworfener, und du hast zugestimmt. Willst du dir wirklich den Ruf eines Eidbrechers einhandeln?“</DefaultText>
-      <FemaleText>„Ist das korrekt? Ist das *gerecht*? Wir haben einen Pakt geschlossen, Abgeworfene, und du hast zugestimmt. Willst du dir wirklich den Ruf eines Eidbrechers einhandeln?“</FemaleText>
+      <DefaultText>„Ist das korrekt? Ist das *gerecht*? Wir haben einen Pakt geschlossen, Verstoßener, und du hast zugestimmt. Willst du dir wirklich den Ruf eines Eidbrechers einhandeln?“</DefaultText>
+      <FemaleText>„Ist das korrekt? Ist das *gerecht*? Wir haben einen Pakt geschlossen, Verstoßene, und du hast zugestimmt. Willst du dir wirklich den Ruf eines Eidbrechers einhandeln?“</FemaleText>
     </Entry>
     <Entry>
       <ID>217</ID>
