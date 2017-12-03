@@ -198,7 +198,7 @@ Er verbeugt sich. „Findet es, bringt es mir, und ich garantiere Euch eine Audi
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>„Eine harte, unbarmherzige Frau. Sie kontrolliert die Flor, denn sie begünstigt sie. Diesen Vorteil nutzt sie, um die Handelsrouten und den Zugang zu den Schlünden zu kontrollieren, die in andere Welten führen. Aber die Schlünde schließen sich, und deshalb schwindet ihr Kapital.“</DefaultText>
+      <DefaultText>„Eine harte, unbarmherzige Frau. Sie kontrolliert die Flor, denn sie begünstigt sie. Diesen Vorteil nutzt sie, um die Handelsrouten und den Zugang zu den Schlünden zu kontrollieren, die in andere Welten führen. Aber die Schlünde schließen sich und deshalb schwindet ihr Kapital.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -487,8 +487,8 @@ Er wendet sich wieder zu dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>„Nicht so, mein Freund. Bitte, akzeptiert meine Entschuldigung. Mir steht nur allgemeines Wissen zur Verfügung, und das allgemeine Wissen irrt manchmal. Wenn die Erste hier *wäre*, gibt es nur eine, die das wissen würde. Die Herrscherin der Flor. Die Memovira.“</DefaultText>
-      <FemaleText>Nicht so, meine Gute. Bitte, akzeptiert  meine Entschuldigung. Mir steht nur allgemeines Wissen zur Verfügung, und das allgemeine Wissen irrt manchmal. Wenn die Erste hier *wäre*, gibt es nur eine, die das wissen würde. Die Herrscherin der Flor. Die Memovira.</FemaleText>
+      <DefaultText>„Nicht so, mein Freund. Bitte, akzeptiert meine Entschuldigung. Mir steht nur allgemeines Wissen zur Verfügung und das allgemeine Wissen irrt manchmal. Wenn die Erste hier *wäre*, gibt es nur eine, die das wissen würde. Die Herrscherin der Flor. Die Memovira.“</DefaultText>
+      <FemaleText>Nicht so, meine Gute. Bitte, akzeptiert  meine Entschuldigung. Mir steht nur allgemeines Wissen zur Verfügung und das allgemeine Wissen irrt manchmal. Wenn die Erste hier *wäre*, gibt es nur eine, die das wissen würde. Die Herrscherin der Flor. Die Memovira.</FemaleText>
     </Entry>
     <Entry>
       <ID>296</ID>
@@ -584,8 +584,8 @@ Er wendet sich wieder zu dir. „Aber lasst uns fortfahren.“</DefaultText>
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>„Es wäre besser, wenn du es selbst herausfändest, mein Freund. Die Flor ist ein hässlicher Ort, und jeder sollte seine eigenen Urteile fällen.“</DefaultText>
-      <FemaleText>„Es wäre besser, wenn Ihr selbst herausfändet, meine Gute. Der Flor ist ein hässlicher Ort, und jeder sollte seine eigenen Urteile fällen.“</FemaleText>
+      <DefaultText>„Es wäre besser, wenn du es selbst herausfändest, mein Freund. Die Flor ist ein hässlicher Ort und jeder sollte seine eigenen Urteile fällen.“</DefaultText>
+      <FemaleText>„Es wäre besser, wenn Ihr selbst herausfändet, meine Gute. Der Flor ist ein hässlicher Ort und jeder sollte seine eigenen Urteile fällen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>320</ID>
@@ -609,7 +609,7 @@ Er wendet sich wieder zu dir. „Aber lasst uns fortfahren.“</DefaultText>
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>„Ich fühle mich verpflichtet, dich daran zu erinnern, wie überrascht ich war, als ich erfahren habe, dass sie noch lebt. Das ist vermutlich die wohltätigste Reaktion, die du hier bekommen wirst. Die Bewohner der Flor tolerieren keine Narren, und du wirst ganz sicher wie einer behandelt werden. *Wenn* sie noch lebt, wie du glaubst, dann ist die Memovira deine größte Chance, die Wahrheit zu erfahren.“</DefaultText>
+      <DefaultText>„Ich fühle mich verpflichtet, dich daran zu erinnern, wie überrascht ich war, als ich erfahren habe, dass sie noch lebt. Das ist vermutlich die wohltätigste Reaktion, die du hier bekommen wirst. Die Bewohner der Flor tolerieren keine Narren und du wirst ganz sicher wie einer behandelt werden. *Wenn* sie noch lebt, wie du glaubst, dann ist die Memovira deine größte Chance, die Wahrheit zu erfahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -654,8 +654,8 @@ Er wendet sich wieder zu dir. „Aber lasst uns fortfahren.“</DefaultText>
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>„Ein Geschäftsvorschlag, mein Freund. Ich möchte dir meinen Wert beweisen, und dann kannst du mir als Gegenleistung einen Wert bieten.“</DefaultText>
-      <FemaleText>„Ein Geschäftsvorschlag, meine Gute. Ich möchte Euch meinen Wert beweisen, und dann könnt Ihr mir als Gegenleistung einen Wert bieten.“</FemaleText>
+      <DefaultText>„Ein Geschäftsvorschlag, mein Freund. Ich möchte dir meinen Wert beweisen und dann kannst du mir als Gegenleistung einen Wert bieten.“</DefaultText>
+      <FemaleText>„Ein Geschäftsvorschlag, meine Gute. Ich möchte Euch meinen Wert beweisen und dann könnt Ihr mir als Gegenleistung einen Wert bieten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>341</ID>
@@ -674,8 +674,8 @@ Er wendet sich wieder zu dir. „Aber lasst uns fortfahren.“</DefaultText>
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText>„Wer weiß das schon? Die Wege der Flor sind unergründlich, und ihre Ranken ragen durch unzählige Welten und Dimensionen. Wenn du von der Flor selbst hierher gebracht wurdest, dann könnten die anderen, von denen du sprichst, sprichwörtlich überall sein.“</DefaultText>
-      <FemaleText>„Wer weiß das schon? Die Wege der Flor sind unergründlich, und ihre Ranken ragen durch unzählige Welten und Dimensionen. Wenn du von der Flor selbst hierher gebracht wurdest, dann könnten die anderen, von denen du sprichst, sprichwörtlich überall sein.“</FemaleText>
+      <DefaultText>„Wer weiß das schon? Die Wege der Flor sind unergründlich und ihre Ranken ragen durch unzählige Welten und Dimensionen. Wenn du von der Flor selbst hierher gebracht wurdest, dann könnten die anderen, von denen du sprichst, sprichwörtlich überall sein.“</DefaultText>
+      <FemaleText>„Wer weiß das schon? Die Wege der Flor sind unergründlich und ihre Ranken ragen durch unzählige Welten und Dimensionen. Wenn du von der Flor selbst hierher gebracht wurdest, dann könnten die anderen, von denen du sprichst, sprichwörtlich überall sein.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
