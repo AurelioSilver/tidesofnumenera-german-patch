@@ -273,8 +273,8 @@ Er schlägt mir der Hand in die Luft und beendet damit die Unterhaltung. „Rede
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Das war ein silberner Orphan, mein Freund. Die arme Kreatur durchstreift diese Welt und möglicherweise auch andere auf der Suche nach künstlicher Intelligenz. Sie stoßen Werkzeuge und Waffen aus ihren Körpern aus. Sie können sehr wertvoll sein mit dem richtigen Ansporn.“</DefaultText>
-      <FemaleText>„Das war ein silberner Orphan, meine Freundin. Die arme Kreatur durchstreift diese Welt und möglicherweise auch andere auf der Suche nach künstlicher Intelligenz. Sie stoßen Werkzeuge und Waffen aus ihren Körpern aus. Sie können sehr wertvoll sein mit dem richtigen Ansporn.“</FemaleText>
+      <DefaultText>„Das war ein silberner Waise, mein Freund. Die arme Kreatur durchstreift diese Welt und möglicherweise auch andere auf der Suche nach künstlicher Intelligenz. Sie stoßen Werkzeuge und Waffen aus ihren Körpern aus. Sie können sehr wertvoll sein mit dem richtigen Ansporn.“</DefaultText>
+      <FemaleText>„Das war ein silberner Waise, meine Freundin. Die arme Kreatur durchstreift diese Welt und möglicherweise auch andere auf der Suche nach künstlicher Intelligenz. Sie stoßen Werkzeuge und Waffen aus ihren Körpern aus. Sie können sehr wertvoll sein mit dem richtigen Ansporn.“</FemaleText>
     </Entry>
     <Entry>
       <ID>63</ID>
@@ -652,7 +652,7 @@ Er legt ihn in einen flachen Beutel an seiner Hüfte – und keine Form stört d
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>„Das war ein silberner Orphan, mein Freund. Ihr lebenden Metallkörper sind vergleichbar mit der Rüstung deines Begleiters. Vielleicht kann er dir nützlich sein. Du sollst wissen: sie schätzen künstliche Intelligenz. Solltest du einer begegnen, könnte es sich für dich schicken, ihnen dein Wissen anzubieten.“
+      <DefaultText>„Das war ein silberner Waise, mein Freund. Ihr lebenden Metallkörper sind vergleichbar mit der Rüstung deines Begleiters. Vielleicht kann er dir nützlich sein. Du sollst wissen: sie schätzen künstliche Intelligenz. Solltest du einer begegnen, könnte es sich für dich schicken, ihnen dein Wissen anzubieten.“
 
 {SCRIPT Is Riastrad Nearby?}</DefaultText>
       <FemaleText />
