@@ -43,7 +43,7 @@ Er legt es in einen flachen Beutel an seiner Hüfte – und keine Form stört de
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Ich muss das Annulet noch ein wenig länger im Besitz behalten. Du wirst es früh genug bekommen.“</DefaultText>
+      <DefaultText>„Ich muss den Ring noch ein wenig länger im Besitz behalten. Du wirst ihn früh genug bekommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -75,7 +75,7 @@ Er legt es in einen flachen Beutel an seiner Hüfte – und keine Form stört de
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Er scheint ziemlich enttäuscht und voller Bedauern zu sein. „Ehrlich, ich wünschte, ich könnte das erlauben. Aber muss ich dich daran erinnern, dass wir einen Handel schlossen? Ich sagte dir wiederholt, dass ich anständig mit anderen verfahre. Und ich bestehe darauf, dass dies auch jene tun, mit denen ich handele. Das Annulet, bitte.“</DefaultText>
+      <DefaultText>Er scheint ziemlich enttäuscht und voller Bedauern zu sein. „Ehrlich, ich wünschte, ich könnte das erlauben. Aber muss ich dich daran erinnern, dass wir einen Handel schlossen? Ich sagte dir wiederholt, dass ich anständig mit anderen verfahre. Und ich bestehe darauf, dass dies auch jene tun, mit denen ich handele. Den Ring, bitte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -423,10 +423,10 @@ Er hält inne. „Viel Glück, meine Freundin. Sollten dir noch andere interessa
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Er nimmt dir das Gerät ab und lässt es in seinen Hüft-Beutel fallen. Dann holt er mit einer Handbewegung einen Sack voller Shin hervor. „Deine Belohnung, mein Freund. Aber lass uns nichts überstürzen. Glaube ja nicht, dass dich das davon freispricht, mir das Annulet zu geben.“
+      <DefaultText>Er nimmt dir das Gerät ab und lässt es in seinen Hüft-Beutel fallen. Dann holt er mit einer Handbewegung einen Sack voller Shin hervor. „Deine Belohnung, mein Freund. Aber lass uns nichts überstürzen. Glaube ja nicht, dass dich das davon freispricht, mir den Ring zu geben.“
 
 {MONEY}</DefaultText>
-      <FemaleText>Er nimmt dir das Gerät ab und lässt es in seinen Hüft-Beutel fallen. Dann holt er mit einer Handbewegung einen Sack voller Shin hervor. „Deine Belohnung, meine Freundin. Aber lass uns nichts überstürzen. Glaube ja nicht, dass dich das davon freispricht, mir das Annulet zu geben.“
+      <FemaleText>Er nimmt dir das Gerät ab und lässt es in seinen Hüft-Beutel fallen. Dann holt er mit einer Handbewegung einen Sack voller Shin hervor. „Deine Belohnung, meine Freundin. Aber lass uns nichts überstürzen. Glaube ja nicht, dass dich das davon freispricht, mir den Ring zu geben.“
 
 {MONEY}</FemaleText>
     </Entry>
@@ -470,7 +470,7 @@ Er hält inne. „Viel Glück, meine Freundin. Sollten dir noch andere interessa
       <DefaultText>Er seufzt und dreht sich ab. Einen Augenblick später brennen sich höllische Schmerzen wie nie zuvor durch deinen Körper, abwechselnd heiß, kalt, ätzend, pochend, stechend, beißend. Als sich Dracogen wieder zu dir umdreht, hat sich sein sonst so gelassener Gesichtsausdruck in eine hässliche Fratze eines Raubtieres verwandelt. „Du warst mit meinen Bedingungen einverstanden, Verstoßener. Gib mir den Ring oder du wirst dir den Tod wünschen. Und dann *wirst* du sterben. Gib es zurück. Jetzt sofort.“
 
 {SCRIPT: Maybe make a non-modal cutscene for this? And non-lethally injure the PC? -JF}</DefaultText>
-      <FemaleText>Er seufzt und dreht sich ab. Einen Augenblick später brennen sich höllische Schmerzen wie nie zuvor durch deinen Körper, abwechselnd heiß, kalt, ätzend, pochend, stechend, beißend. Als sich Dracogen wieder zu dir umdreht, hat sich sein sonst gelassener Gesichtsausdruck in eine hässliche Fratze eines Raubtieres verwandelt. „Du warst mit meinen Bedingungen einverstanden, Verstoßene. Gib mir das Annulet oder du wirst dir den Tod wünschen. Und dann *wirst* du sterben. Gib es zurück. Jetzt sofort.“
+      <FemaleText>Er seufzt und dreht sich ab. Einen Augenblick später brennen sich höllische Schmerzen wie nie zuvor durch deinen Körper, abwechselnd heiß, kalt, ätzend, pochend, stechend, beißend. Als sich Dracogen wieder zu dir umdreht, hat sich sein sonst gelassener Gesichtsausdruck in eine hässliche Fratze eines Raubtieres verwandelt. „Du warst mit meinen Bedingungen einverstanden, Verstoßene. Gib mir den Ring oder du wirst dir den Tod wünschen. Und dann *wirst* du sterben. Gib es zurück. Jetzt sofort.“
 
 {SCRIPT: Maybe make a non-modal cutscene for this? And non-lethally injure the PC? -JF}</FemaleText>
     </Entry>
@@ -481,7 +481,7 @@ Er hält inne. „Viel Glück, meine Freundin. Sollten dir noch andere interessa
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Gib ihm das Annulet.</DefaultText>
+      <DefaultText>Gib ihm den Ring.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -493,12 +493,12 @@ Er hält inne. „Viel Glück, meine Freundin. Sollten dir noch andere interessa
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Seine Haltung ändert sich auf der Stelle. „Sehr wohl, mein Freund, sehr wohl!“ Er nimmt es dir ab. Er hält es ins Licht, dreht es und bewundert das raffinierte Design des Annulets. Mit einem breiten Grinsen sagt er: „Du kannst die Macht von diesem Ding spüren? Es dreht und windet sich und fängt die geheimen Orte dieser Welt ein. Das wird wunderbar gehen. Oh ja.“
+      <DefaultText>Seine Haltung ändert sich auf der Stelle. „Sehr wohl, mein Freund, sehr wohl!“ Er nimmt ihn dir ab und hält ihn ins Licht, dreht ihn und bewundert das raffinierte Design des Rings. Mit einem breiten Grinsen sagt er: „Du kannst die Macht von diesem Ding spüren? Es dreht und windet sich und fängt die geheimen Orte dieser Welt ein. Das wird wunderbar gehen. Oh ja.“
 
-Er legt es in einen flachen Beutel an seiner Hüfte – und keine Form stört den Beutel, so als wäre er nur das Tor zu einem größeren Ort.</DefaultText>
-      <FemaleText>Seine Haltung ändert sich auf der Stelle. „Sehr wohl, meine Freundin, sehr wohl!“ Er nimmt es dir ab. Er hält es ins Licht, dreht es und bewundert das raffinierte Design des Annulets. Mit einem breiten Grinsen sagt er: „Du kannst die Macht von diesem Ding spüren? Es dreht und windet sich und fängt die geheimen Orte dieser Welt ein. Das wird wunderbar gehen. Oh ja.“
+Er legt ihn in einen flachen Beutel an seiner Hüfte – und keine Form stört den Beutel, so als wäre er nur das Tor zu einem größeren Ort.</DefaultText>
+      <FemaleText>Seine Haltung ändert sich auf der Stelle. „Sehr wohl, meine Freundin, sehr wohl!“ Er nimmt ihn dir ab und hält ihn ins Licht, dreht ihn und bewundert das raffinierte Design des Rings. Mit einem breiten Grinsen sagt er: „Du kannst die Macht von diesem Ding spüren? Es dreht und windet sich und fängt die geheimen Orte dieser Welt ein. Das wird wunderbar gehen. Oh ja.“
 
-Er legt es in einen flachen Beutel an seiner Hüfte – und keine Form stört den Beutel, so als wäre er nur das Tor zu einem größeren Ort.</FemaleText>
+Er legt ihn in einen flachen Beutel an seiner Hüfte – und keine Form stört den Beutel, so als wäre er nur das Tor zu einem größeren Ort.</FemaleText>
     </Entry>
     <Entry>
       <ID>105</ID>
@@ -1029,7 +1029,7 @@ Er zeigt auf die großen Tore der Festung. „Brusca, Memoviras rechte Hand und 
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>„Ich sagte, dass ich das Annulet behalten muss.“</DefaultText>
+      <DefaultText>„Ich sagte, dass ich den Ring behalten muss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1274,7 +1274,7 @@ Er winkt mit der Hand und schickt dich weg.</FemaleText>
       <ID>264</ID>
       <DefaultText>„Hervorragend, hervorragend.“ Er nimmt dir das Gerät ab und lässt es in seinen Hüft-Beutel fallen. Dann holt er mit einer Handbewegung ein eiförmiges Metallteil heraus und legt es in deine Hand. Das Gerät ist etwa faustgroß und hat vier sternförmige Spitzen, die auf der Oberfläche sitzen. Zwei hexagonale Löcher gehen durch das Zentrum. Es sieht fast wie ein großes Zahnrad aus.
 
-„Also … gib mir jetzt das Annulet, bitte.“</DefaultText>
+„Also … gib mir jetzt den Ring, bitte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1757,7 +1757,7 @@ Er hält inne. „Wenn du an den Cortex nicht rankommst, hast du nichts, das du 
       <ID>364</ID>
       <DefaultText>„Ihre Auswanderung ist nicht unbemerkt geblieben. Ich habe keinen Zweifel, dass unsere Wege sich wieder kreuzen werden, und vielleicht kann ich ihn dann beschaffen. In der Zwischenzeit werden wir sehen, was meine Agenten über ihre wundersame Station herausfinden können.“
 
-Er hält inne. „Wenn du den Cortex nicht beschaffen kannst, hast du leider nichts, um es gegen das Annulet einzutauschen. Ich erwarte, dass du unsere Vereinbarung ehrst.“ Er reicht dir erwartungsvoll die Hand.</DefaultText>
+Er hält inne. „Wenn du den Cortex nicht beschaffen kannst, hast du leider nichts, um es gegen den Ring einzutauschen. Ich erwarte, dass du unsere Vereinbarung ehrst.“ Er reicht dir erwartungsvoll die Hand.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
