@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Du hörst eine vertraute Stimme voller Lachen. "Das ist irgendwie nicht die Art, wie ich deine Rückkehr erwartet habe, mein Freund."
+      <DefaultText>Du hörst eine vertraute Stimme voller Lachen. „Das ist irgendwie nicht die Art, wie ich deine Rückkehr erwartet habe, mein Freund.“
 
 Eine graue Hand mit langen Klauen streckt sich dir entgegen und zieht dich auf die Füße. Als dein Blick klarer wird, siehst du Dracogens zahniges, grinsendes Gesicht.</DefaultText>
-      <FemaleText>Du hörst eine vertraute Stimme voller Lachen. "Das ist irgendwie nicht die Art, wie ich deine Rückkehr erwartet habe, meine Gute."
+      <FemaleText>Du hörst eine vertraute Stimme voller Lachen. „Das ist irgendwie nicht die Art, wie ich deine Rückkehr erwartet habe, meine Gute.“
 
 Eine graue Hand mit langen Klauen streckt sich dir entgegen und zieht dich auf die Füße. Als dein Blick klarer wird, siehst du Dracogens zahniges, grinsendes Gesicht.</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Das klingt widerlich. Wird das jedes Mal passieren, wenn ich im Flor sterbe?"</DefaultText>
+      <DefaultText>„Das klingt widerlich. Wird das jedes Mal passieren, wenn ich im Flor sterbe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich schätze schon. Lebtwohl."</DefaultText>
+      <DefaultText>„Ich schätze schon. Lebtwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"*Jedes* Mal? Wer weiß das schon? Die Flor ist ein seltsamer Ort, mein verstoßener Freund, und du bist eine seltsame Person. Deine Erfahrungen sind wahrscheinlich sehr unüblich."</DefaultText>
-      <FemaleText>*Jedes* Mal? Wer weiß das schon? Der Flor ist ein seltsamer Ort, meine verstoßene Freundin, und Ihr seid eine seltsame Person. Eure Erfahrungen sind wahrscheinlich sehr unüblich.</FemaleText>
+      <DefaultText>„*Jedes* Mal? Wer weiß das schon? Die Flor ist ein seltsamer Ort, mein verstoßener Freund, und du bist eine seltsame Person. Deine Erfahrungen sind wahrscheinlich sehr unüblich.“</DefaultText>
+      <FemaleText>„*Jedes* Mal? Wer weiß das schon? Der Flor ist ein seltsamer Ort, meine verstoßene Freundin, und Ihr seid eine seltsame Person. Eure Erfahrungen sind wahrscheinlich sehr unüblich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Der Flor scheint deinen Geschmack nicht zu mögen! Die meisten, die vom Flor absorbiert werden, bleiben das auch. Wahrscheinlich hat deine … einzigartige Physiologie etwas damit zu tun."</DefaultText>
+      <DefaultText>„Der Flor scheint deinen Geschmack nicht zu mögen! Die meisten, die vom Flor absorbiert werden, bleiben das auch. Wahrscheinlich hat deine … einzigartige Physiologie etwas damit zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Bis zum nächsten Mal, Freund."</DefaultText>
-      <FemaleText>"Bis zum nächsten Mal, Gute."</FemaleText>
+      <DefaultText>„Bis zum nächsten Mal, Freund.“</DefaultText>
+      <FemaleText>„Bis zum nächsten Mal, Gute.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
