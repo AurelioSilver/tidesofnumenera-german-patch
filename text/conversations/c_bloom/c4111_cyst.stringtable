@@ -212,7 +212,7 @@ In deinem Versteck aus Müll hörst du ihre Schritte näherkommen.</DefaultText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Die Jägerinnen treten willkürlich durch den Müll, und eine von ihnen kommt deinem Versteck so nah, dass dein Herz kurz stehen zu bleiben scheint. Du hältst deinen Atem an und bereitest dich darauf vor, loszurennen, als eine von ihnen ruft: "Mierkal! Hier drüben! Ich glaube, sie ist hier langgegangen!"
+      <DefaultText>Die Jägerinnen treten willkürlich durch den Müll, und eine von ihnen kommt deinem Versteck so nah, dass dein Herz kurz stehen zu bleiben scheint. Du hältst deinen Atem an und bereitest dich darauf vor, loszurennen, als eine von ihnen ruft: „Mierkal! Hier drüben! Ich glaube, sie ist hier langgegangen!“
 
 Du hörst Schritte davoneilen. Nachdem du gewartet hast, bis nichts mehr zu hören ist, öffnest du die Augen und steigst aus deinem fauligen Versteck hervor.</DefaultText>
       <FemaleText />
@@ -238,7 +238,7 @@ Stattdessen sehen sie deine Bewegungen im Müllhaufen und sind auf deinen Angrif
       <ID>59</ID>
       <DefaultText>Mit einem Hieb triffst du tatsächlich das Gesicht der Anführerin, wodurch sie nach hinten taumelt. Das Blut, das aus ihrer Nase läuft, ist dunkel und rot. Ihr Blick aber ist tot und kalt.
 
-Sie wirft dich in den Müllhaufen zurück und gerade, als du dich aufzurichten versuchst, mischt sich eines der anderen Mädchen ein. Das Mädchen mit den Schlangenfingern versucht, ihre Anführerin zurückzuhalten: "Bitte Mierkal – die ist es nicht wert."</DefaultText>
+Sie wirft dich in den Müllhaufen zurück und gerade, als du dich aufzurichten versuchst, mischt sich eines der anderen Mädchen ein. Das Mädchen mit den Schlangenfingern versucht, ihre Anführerin zurückzuhalten: „Bitte Mierkal – die ist es nicht wert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -340,12 +340,12 @@ Dir hat es das Leben gerettet, aber nicht ihr. Du hast gesehen, wie sie kurz vor
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Bitte", flüsterst du mit erhobenen Händen. Weißer Staub, unberührt von der Verderbnis der Flor, bedeckt deine schlanken Finger. "Ich habe jahrelang an dieser Skulptur gearbeitet. Ich habe sie mit Hammer und Meißel, und am Ende sogar mit meinen bloßen Händen bearbeitet. Sie ist das einzige, was meinem Leben einen Sinn gibt. Etwas im Stein ruft nach mir. Ich muss ihm eine Form geben!"</DefaultText>
+      <DefaultText>„Bitte“, flüsterst du mit erhobenen Händen. Weißer Staub, unberührt von der Verderbnis der Flor, bedeckt deine schlanken Finger. „Ich habe jahrelang an dieser Skulptur gearbeitet. Ich habe sie mit Hammer und Meißel, und am Ende sogar mit meinen bloßen Händen bearbeitet. Sie ist das einzige, was meinem Leben einen Sinn gibt. Etwas im Stein ruft nach mir. Ich muss ihm eine Form geben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Wenn sich mein Verhalten so verändert hat, werde ich dir nicht in die Quere kommen."</DefaultText>
+      <DefaultText>„Wenn sich mein Verhalten so verändert hat, werde ich dir nicht in die Quere kommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,29 +357,29 @@ Dann tritt er zwischen dich und die Skulptur und schwingt seinen Hammer. Beim er
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Du wirst meine Schöpfung nicht ruinieren."</DefaultText>
+      <DefaultText>„Du wirst meine Schöpfung nicht ruinieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Zur Seite. Das ist meine letzte Warnung. Ich *werde* sie zerstören, und wenn du dabei im Weg stehst auch dich."</DefaultText>
+      <DefaultText>„Zur Seite. Das ist meine letzte Warnung. Ich *werde* sie zerstören, und wenn du dabei im Weg stehst auch dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Ich werde diese Skulptur mit meinem Leben beschützen. Sie ist *meine* Schöpfung!"</DefaultText>
+      <DefaultText>„Ich werde diese Skulptur mit meinem Leben beschützen. Sie ist *meine* Schöpfung!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Wie du willst." Sein Hammer ist schneller, als du jemals geglaubt hättest. Er pulverisiert die Knochen in deiner Hand im Bruchteil einer Sekunde. Du fällst zu Boden und spürst den Schmerz einsetzen, während er sich der Statue zuwendet. Der erste Schlag erzeugt einen hohen Schrei, und du wirfst dich vor die Statue, um den nächsten Angriff abzufangen.
+      <DefaultText>„Wie du willst.“ Sein Hammer ist schneller, als du jemals geglaubt hättest. Er pulverisiert die Knochen in deiner Hand im Bruchteil einer Sekunde. Du fällst zu Boden und spürst den Schmerz einsetzen, während er sich der Statue zuwendet. Der erste Schlag erzeugt einen hohen Schrei, und du wirfst dich vor die Statue, um den nächsten Angriff abzufangen.
 
-"Zwing mich nicht--" Er beendet den Satz nicht, aber sein Werk schon. Ein weiterer Schwung mit dem Hammer folgt, und deine Schultern fallen mit einem feuchten *Knacken* zusammen.</DefaultText>
+„Zwing mich nicht--“ Er beendet den Satz nicht, aber sein Werk schon. Ein weiterer Schwung mit dem Hammer folgt, und deine Schultern fallen mit einem feuchten *Knacken* zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Du bist dir so sicher? Na gut."</DefaultText>
+      <DefaultText>„Du bist dir so sicher? Na gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -434,16 +434,16 @@ Die Einzelheiten einer bestimmten Erinnerung erscheinen erstaunlich deutlich vor
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Wo ist diese kleine Rubar hin?" fragt eine von ihnen. Sie steht direkt vor dir und atmet heftig. Du kannst den Zorn aus ihrer Stimme heraushören und den Schmerz ihrer Schläge schon im Voraus spüren. Mindestens vier von ihnen suchen nach dir. Aber tief in dir weißt du, dass sich diese Sache immer und immer wieder so abspielen wird, wenn du ihnen nicht irgendwann die Stirn bietest.</DefaultText>
+      <DefaultText>„Wo ist diese kleine Rubar hin?“ fragt eine von ihnen. Sie steht direkt vor dir und atmet heftig. Du kannst den Zorn aus ihrer Stimme heraushören und den Schmerz ihrer Schläge schon im Voraus spüren. Mindestens vier von ihnen suchen nach dir. Aber tief in dir weißt du, dass sich diese Sache immer und immer wieder so abspielen wird, wenn du ihnen nicht irgendwann die Stirn bietest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Das weiß ich", sagt der Mann, der einst dein Freund war. "Ich kann sehen, was es mit dir angerichtet hat." Er hält einen großen Hammer in seinen Händen. Seine Fäuste zittern.
+      <DefaultText>„Das weiß ich“, sagt der Mann, der einst dein Freund war. „Ich kann sehen, was es mit dir angerichtet hat.“ Er hält einen großen Hammer in seinen Händen. Seine Fäuste zittern.
 
-"Du hast dich verändert. Seit du diesen Steinbrocken aus dieser anderen Welt mitgebracht hast, bist du ein anderer Mensch. Es geht hier nicht um Kunst. Dieses Ding hat bereits Leben in sich. Und es benutzt dich dazu, auszubrechen."
+„Du hast dich verändert. Seit du diesen Steinbrocken aus dieser anderen Welt mitgebracht hast, bist du ein anderer Mensch. Es geht hier nicht um Kunst. Dieses Ding hat bereits Leben in sich. Und es benutzt dich dazu, auszubrechen.“
 
-Er hebt den Hammer hoch. "Ich bin hier, um es aufzuhalten."</DefaultText>
+Er hebt den Hammer hoch. „Ich bin hier, um es aufzuhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -482,7 +482,7 @@ Oder du kannst bleiben und kämpfen. Damit würdest du ihnen zeigen, dass du kei
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Oh ja, das ist sie", sagt Mierkal. Sie sieht ihre Freundin an und droht ihr: "Und wenn du nicht mithilfst, bist du die Nächste."
+      <DefaultText>„Oh ja, das ist sie“, sagt Mierkal. Sie sieht ihre Freundin an und droht ihr: „Und wenn du nicht mithilfst, bist du die Nächste.“
 
 Dann machen sich die vier ans Werk.
 
@@ -585,26 +585,26 @@ Das Leben, das ihr zusammen aufbauen wolltet, ist dahin. Ausgelöscht. Dir bleib
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Frage mich, wie der Abykos in der Zyste gelandet ist", murmelt er mit verschränkten Armen. "Oder wie dieses Objekt, das du da gefunden hast, in seine Klauen gelangt ist."
+      <DefaultText>„Frage mich, wie der Abykos in der Zyste gelandet ist“, murmelt er mit verschränkten Armen. „Oder wie dieses Objekt, das du da gefunden hast, in seine Klauen gelangt ist.“
 
-Er hebt eine Augenbraue. "Was auch immer es ist, es muss mächtig sein. Abykos interessieren sich in der Regel nur für transdimensionale Artefakte."</DefaultText>
+Er hebt eine Augenbraue. „Was auch immer es ist, es muss mächtig sein. Abykos interessieren sich in der Regel nur für transdimensionale Artefakte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Mich interessiert, wie die Flor den Abykos im Inneren der Zyste gefangen halten konnte", sagt er und zuckt mit den Achseln. "Aber egal. Du hast da ein feines Objekt mit transdimensionalen Kräften gefunden, weißt du das? Der Abykos muss es von seiner Energie geraubt haben."</DefaultText>
+      <DefaultText>„Mich interessiert, wie die Flor den Abykos im Inneren der Zyste gefangen halten konnte“, sagt er und zuckt mit den Achseln. „Aber egal. Du hast da ein feines Objekt mit transdimensionalen Kräften gefunden, weißt du das? Der Abykos muss es von seiner Energie geraubt haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"So etwas habe ich noch nie gesehen", murmelt sie und stützt ihre Hände auf ihren Hüften ab. "Aber wenn der Abykos sich an dieses Objekt geklammert hat, muss es von transdimensionaler Energie erfüllt sein. Oder *gewesen* sein."
+      <DefaultText>„So etwas habe ich noch nie gesehen“, murmelt sie und stützt ihre Hände auf ihren Hüften ab. „Aber wenn der Abykos sich an dieses Objekt geklammert hat, muss es von transdimensionaler Energie erfüllt sein. Oder *gewesen* sein.“
 
-Sie hält kurz inne. "Würde sich bestimmt lohnen, es genauer unter die Lupe zu nehmen."</DefaultText>
+Sie hält kurz inne. „Würde sich bestimmt lohnen, es genauer unter die Lupe zu nehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Wenn das nicht mal beeindruckend war", sagt er, während er seinen Schnäuzer streichelt. "Ich würde dieses Numenera auf jeden Fall ganz genau untersuchen. Abykos haben nämlich ein Faible für transdimensionale Artefakte."</DefaultText>
+      <DefaultText>„Wenn das nicht mal beeindruckend war“, sagt er, während er seinen Schnäuzer streichelt. „Ich würde dieses Numenera auf jeden Fall ganz genau untersuchen. Abykos haben nämlich ein Faible für transdimensionale Artefakte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
