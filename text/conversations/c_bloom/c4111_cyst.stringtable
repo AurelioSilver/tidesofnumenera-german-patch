@@ -150,7 +150,7 @@ Aber ihre Bemühungen sind vergebens, die Kreatur kann dir nicht folgen. Einige 
       <ID>44</ID>
       <DefaultText>Du drehst dich um und füllst deinen Körper mit Luft, um größer zu erscheinen.
 
-Die Bestie springt auf dich zu und zerschmettert mit einem einzigen Hieb seiner Pranke deine Wirbelsäule. Ihr Schlund umschließt daraufhin deinen Körper, und du spürst, wie einer ihrer gewaltigen Zähne deine Seite durchbohrt. Ihr Angriff dauert nur einen kurzen Moment, bevor sie dich wieder ausspuckt. Offenbar triffst du ihren Geschmack nicht.
+Die Bestie springt auf dich zu und zerschmettert mit einem einzigen Hieb seiner Pranke deine Wirbelsäule. Ihr Schlund umschließt daraufhin deinen Körper und du spürst, wie einer ihrer gewaltigen Zähne deine Seite durchbohrt. Ihr Angriff dauert nur einen kurzen Moment, bevor sie dich wieder ausspuckt. Offenbar triffst du ihren Geschmack nicht.
 
 Mit einem verwunderten Knurren verschwindet sie wieder in der Dunkelheit des Flors.</DefaultText>
       <FemaleText />
@@ -176,7 +176,7 @@ Schließlich hältst du inne, nach Luft schnappend, und dir wird klar, dass du j
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>In dem Moment, in dem du deine Abwehr aufgibst, stürzen sich deine Feinde auf dich. Sie verleiben dir Psychosen und Traumata ein, die sich von deinen Urängsten, von früheren Erfahrungen nähren. Sie zersetzen dein Bewusstsein, pflanzen dir Illusionen von vergangenen Liebschaften und Leben ein, die nicht deine eigenen sind. Empathie peitscht gegen die Barriere deines Verstandes, und du spürst, wie die Angreifer sich hinterrücks an deinen psychomotorischen Funktionen zu schaffen machen.
+      <DefaultText>In dem Moment, in dem du deine Abwehr aufgibst, stürzen sich deine Feinde auf dich. Sie verleiben dir Psychosen und Traumata ein, die sich von deinen Urängsten, von früheren Erfahrungen nähren. Sie zersetzen dein Bewusstsein, pflanzen dir Illusionen von vergangenen Liebschaften und Leben ein, die nicht deine eigenen sind. Empathie peitscht gegen die Barriere deines Verstandes und du spürst, wie die Angreifer sich hinterrücks an deinen psychomotorischen Funktionen zu schaffen machen.
 
 Es ist eine außergewöhnliche Qual. Du benutzt den Schmerz und die Wut, um den Schwächsten unter ihnen anzugreifen und dir wird dabei klar, dass deine Feinde von einem einzigen, großen Verstand gesteuert werden.</DefaultText>
       <FemaleText />
@@ -212,7 +212,7 @@ In deinem Versteck aus Müll hörst du ihre Schritte näherkommen.</DefaultText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Die Jägerinnen treten willkürlich durch den Müll, und eine von ihnen kommt deinem Versteck so nah, dass dein Herz kurz stehen zu bleiben scheint. Du hältst deinen Atem an und bereitest dich darauf vor, loszurennen, als eine von ihnen ruft: „Mierkal! Hier drüben! Ich glaube, sie ist hier langgegangen!“
+      <DefaultText>Die Jägerinnen treten willkürlich durch den Müll und eine von ihnen kommt deinem Versteck so nah, dass dein Herz kurz stehen zu bleiben scheint. Du hältst deinen Atem an und bereitest dich darauf vor, loszurennen, als eine von ihnen ruft: „Mierkal! Hier drüben! Ich glaube, sie ist hier langgegangen!“
 
 Du hörst Schritte davoneilen. Nachdem du gewartet hast, bis nichts mehr zu hören ist, öffnest du die Augen und steigst aus deinem fauligen Versteck hervor.</DefaultText>
       <FemaleText />
@@ -340,7 +340,7 @@ Dir hat es das Leben gerettet, aber nicht ihr. Du hast gesehen, wie sie kurz vor
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>„Bitte“, flüsterst du mit erhobenen Händen. Weißer Staub, unberührt von der Verderbnis der Flor, bedeckt deine schlanken Finger. „Ich habe jahrelang an dieser Skulptur gearbeitet. Ich habe sie mit Hammer und Meißel, und am Ende sogar mit meinen bloßen Händen bearbeitet. Sie ist das einzige, was meinem Leben einen Sinn gibt. Etwas im Stein ruft nach mir. Ich muss ihm eine Form geben!“</DefaultText>
+      <DefaultText>„Bitte“, flüsterst du mit erhobenen Händen. Weißer Staub, unberührt von der Verderbnis der Flor, bedeckt deine schlanken Finger. „Ich habe jahrelang an dieser Skulptur gearbeitet. Ich habe sie mit Hammer und Meißel und am Ende sogar mit meinen bloßen Händen bearbeitet. Sie ist das einzige, was meinem Leben einen Sinn gibt. Etwas im Stein ruft nach mir. Ich muss ihm eine Form geben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -372,9 +372,9 @@ Dann tritt er zwischen dich und die Skulptur und schwingt seinen Hammer. Beim er
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>„Wie du willst.“ Sein Hammer ist schneller, als du jemals geglaubt hättest. Er pulverisiert die Knochen in deiner Hand im Bruchteil einer Sekunde. Du fällst zu Boden und spürst den Schmerz einsetzen, während er sich der Statue zuwendet. Der erste Schlag erzeugt einen hohen Schrei, und du wirfst dich vor die Statue, um den nächsten Angriff abzufangen.
+      <DefaultText>„Wie du willst.“ Sein Hammer ist schneller, als du jemals geglaubt hättest. Er pulverisiert die Knochen in deiner Hand im Bruchteil einer Sekunde. Du fällst zu Boden und spürst den Schmerz einsetzen, während er sich der Statue zuwendet. Der erste Schlag erzeugt einen hohen Schrei und du wirfst dich vor die Statue, um den nächsten Angriff abzufangen.
 
-„Zwing mich nicht–“ Er beendet den Satz nicht, aber sein Werk schon. Ein weiterer Schwung mit dem Hammer folgt, und deine Schultern fallen mit einem feuchten *Knacken* zusammen.</DefaultText>
+„Zwing mich nicht–“ Er beendet den Satz nicht, aber sein Werk schon. Ein weiterer Schwung mit dem Hammer folgt und deine Schultern fallen mit einem feuchten *Knacken* zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@ Dann tritt er zwischen dich und die Skulptur und schwingt seinen Hammer. Beim er
       <ID>85</ID>
       <DefaultText>Mit dem Tod deines Wirts kehrst du in deinen eigenen Körper zurück. Du weißt, dass das, was du gefühlt … was du gesehen hast, echt war. Das Leben, das du gelebt hast, war erfüllend, reich an Erfahrungen und es hat hier in der Flor sein Ende genommen. Die letzten Momente deines Wirts waren von Schmerzen erfüllt.
 
-Deine Muskeln zucken noch immer vom Gefühl der Schmerzen, und dein Leiden scheint von der Zyste aufgesogen zu werden, wodurch sich ihre fleischigen Fasern lockern.
+Deine Muskeln zucken noch immer vom Gefühl der Schmerzen und dein Leiden scheint von der Zyste aufgesogen zu werden, wodurch sich ihre fleischigen Fasern lockern.
 
 Es scheint, dass die Flor etwas in der Zyste eingeschlossen hat, und dass dein Schmerz der Schlüssel dazu ist.</DefaultText>
       <FemaleText />
