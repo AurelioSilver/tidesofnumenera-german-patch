@@ -13,24 +13,24 @@
       <ID>1</ID>
       <DefaultText>Coty arbeitet fleißig an Sundermuns Werkbank. Er kann mit dem Händler nicht so gut mithalten wie der junge Sundermun - er missversteht Dinge und stößt sich hier und da - aber die Gegenstände, die er zusammenbastelt sind von mindestens ebenso überzeugender Qualität, wenn nicht sogar besser.
 
-"Hey!" Er sieht mit einem Leuchten in den Augen nach oben.</DefaultText>
+„Hey!“ Er sieht mit einem Leuchten in den Augen nach oben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Es freut mich, dass du wohlauf bist. Pass auf dich auf, Coty."</DefaultText>
+      <DefaultText>„Es freut mich, dass du wohlauf bist. Pass auf dich auf, Coty.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich habe etwas für dich hergestellt." Er strahlt, als er dir einen Gegenstand übergibt. "Ich weiß, dass es nichts Besonderes ist ... vor allem wenn man bedenkt, was du alles für mich getan hast, aber ... Ich musste einfach *irgendwas* tun."
+      <DefaultText>„Ich habe etwas für dich hergestellt.“ Er strahlt, als er dir einen Gegenstand übergibt. „Ich weiß, dass es nichts Besonderes ist ... vor allem wenn man bedenkt, was du alles für mich getan hast, aber ... Ich musste einfach *irgendwas* tun.“
 
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Du bist zurück!"</DefaultText>
+      <DefaultText>„Du bist zurück!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,37 +40,37 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Also magst du deine neue Arbeit?"</DefaultText>
+      <DefaultText>„Also magst du deine neue Arbeit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Erzähl mir noch einmal, ob du deine neue Arbeit magst."</DefaultText>
+      <DefaultText>„Erzähl mir noch einmal, ob du deine neue Arbeit magst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Rhins Gesichtsausdruck wird fröhlicher. "Du siehst aus, als wenn du wirklich glücklich wärst."</DefaultText>
+      <DefaultText>Rhins Gesichtsausdruck wird fröhlicher. „Du siehst aus, als wenn du wirklich glücklich wärst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Er lächelt verlegen. "Hör zu, ich bin wirklich dankbar für das, was du für mich getan hast, also habe ich nebenbei an etwas gearbeitet. Komm später noch einmal wieder, dann bin ich hoffentlich fertig und kann es dir zeigen.</DefaultText>
+      <DefaultText>Er lächelt verlegen. „Hör zu, ich bin wirklich dankbar für das, was du für mich getan hast, also habe ich nebenbei an etwas gearbeitet. Komm später noch einmal wieder, dann bin ich hoffentlich fertig und kann es dir zeigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Du bist zurück! Entschuldige, ich arbeite noch an deinem Geschenk. Es sollte aber nicht mehr so lange dauern."</DefaultText>
+      <DefaultText>„Du bist zurück! Entschuldige, ich arbeite noch an deinem Geschenk. Es sollte aber nicht mehr so lange dauern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich danke dir. Das ist mehr, als ich erwartet hatte."</DefaultText>
+      <DefaultText>„Ich danke dir. Das ist mehr, als ich erwartet hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Interessant. Nun, ich bin mir sicher, dass Sundermun dir dabei helfen kann, noch besser zu werden."</DefaultText>
+      <DefaultText>„Interessant. Nun, ich bin mir sicher, dass Sundermun dir dabei helfen kann, noch besser zu werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,80 +85,80 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ich hätte das nicht erwartet, aber du hast recht. Herr Sundermun denkt sogar, dass ich einmal meinen eigenen Stand eröffnen könnte, wenn ich alt genug bin - ein Stückchen weiter weg natürlich." Vorsichtig schielt er zum alten Sundermun herüber.
+      <DefaultText>„Ich hätte das nicht erwartet, aber du hast recht. Herr Sundermun denkt sogar, dass ich einmal meinen eigenen Stand eröffnen könnte, wenn ich alt genug bin - ein Stückchen weiter weg natürlich.“ Vorsichtig schielt er zum alten Sundermun herüber.
 
 {GEORGE/COLIN: The follow-up Node 19 feels like it should only play after a few rests.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Er lehnt sich weiter zu dir. "Mit den beiden stimmt aber irgendwas nicht. Ist dir nicht aufgefallen, dass sie fast vollkommen gleich aussehen? Nicht im Sinne von Familie, meine ich. *Vollkommen* gleich."</DefaultText>
+      <DefaultText>Er lehnt sich weiter zu dir. „Mit den beiden stimmt aber irgendwas nicht. Ist dir nicht aufgefallen, dass sie fast vollkommen gleich aussehen? Nicht im Sinne von Familie, meine ich. *Vollkommen* gleich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Es läuft besser, als ich es erwartet hatte. Vielleicht kann ich sogar irgendwann einmal meinen eigenen Laden eröffnen."</DefaultText>
+      <DefaultText>„Es läuft besser, als ich es erwartet hatte. Vielleicht kann ich sogar irgendwann einmal meinen eigenen Laden eröffnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Die Sundermuns sind eigentlich ein und dieselbe Person. Der Jüngere von beiden wird einst in die Vergangenheit zurückfallen und dann hierher zurückkehren, um diesen Laden zu eröffnen."</DefaultText>
+      <DefaultText>„Die Sundermuns sind eigentlich ein und dieselbe Person. Der Jüngere von beiden wird einst in die Vergangenheit zurückfallen und dann hierher zurückkehren, um diesen Laden zu eröffnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Du meinst ...?" Coty sieht zwischen den beiden Sundermuns hin und her, mit jedem Schwenker seines Genicks weiten sich seine Pupillen.
+      <DefaultText>„Du meinst ...?“ Coty sieht zwischen den beiden Sundermuns hin und her, mit jedem Schwenker seines Genicks weiten sich seine Pupillen.
 
-Plötzlich hört er auf und legt seinen Kopf in seine Hände. "Ich weiß nicht, was du damit meinst. Mein Kopf tut weh."</DefaultText>
+Plötzlich hört er auf und legt seinen Kopf in seine Hände. „Ich weiß nicht, was du damit meinst. Mein Kopf tut weh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Komm bald wieder!"</DefaultText>
+      <DefaultText>„Komm bald wieder!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Pass auf dich auf!"</DefaultText>
+      <DefaultText>„Pass auf dich auf!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Gerade als du dich herumdrehst, greift Rhin nach deiner Hand. "Ich bin wirklich froh, dass du das für ihn gefunden hast. Danke."
+      <DefaultText>Gerade als du dich herumdrehst, greift Rhin nach deiner Hand. „Ich bin wirklich froh, dass du das für ihn gefunden hast. Danke.“
 
 {ROTHFUSS: voice}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"So ist es das Beste für ihn. Er hat mehr verdient, als in Sklaverei zu leben."</DefaultText>
+      <DefaultText>„So ist es das Beste für ihn. Er hat mehr verdient, als in Sklaverei zu leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich bin auch froh. Danke, dass du mich bei der Entscheidung unterstützt hast."</DefaultText>
+      <DefaultText>„Ich bin auch froh. Danke, dass du mich bei der Entscheidung unterstützt hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Ich bin froh, überhaupt etwas für ihn gefunden zu haben. Er kann nicht viele Dinge wirklich gut."</DefaultText>
+      <DefaultText>„Ich bin froh, überhaupt etwas für ihn gefunden zu haben. Er kann nicht viele Dinge wirklich gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ich hatte keine große Wahl. Du hättest es nicht zugelassen, wenn ich *nichts* getan hätte."</DefaultText>
+      <DefaultText>„Ich hatte keine große Wahl. Du hättest es nicht zugelassen, wenn ich *nichts* getan hätte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Wie geht es dir? Fühlst du dich schuldig?"</DefaultText>
+      <DefaultText>„Wie geht es dir? Fühlst du dich schuldig?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Es ... geht schon. Zugegeben, in so mancher Nacht fällt es mir schwer, einzuschlafen. Wegen der Albträume." Du erkennst plötzlich etwas von seiner alten Ernsthaftigkeit in seinen Augen.
+      <DefaultText>„Es ... geht schon. Zugegeben, in so mancher Nacht fällt es mir schwer, einzuschlafen. Wegen der Albträume.“ Du erkennst plötzlich etwas von seiner alten Ernsthaftigkeit in seinen Augen.
 
-"Aber weißt du was? Die Arbeit lenkt mich ab, sie gibt mir etwas zu tun. Dinge zu bauen, manchmal anderen Menschen zu helfen - dadurch fühle ich mich irgendwie ... besser. Nicht, dass ich damit je gutmachen könnte, was ich getan habe ... aber vielleicht, vielleicht spielt das gar nicht so eine große Rolle, wie ich dachte."</DefaultText>
+„Aber weißt du was? Die Arbeit lenkt mich ab, sie gibt mir etwas zu tun. Dinge zu bauen, manchmal anderen Menschen zu helfen - dadurch fühle ich mich irgendwie ... besser. Nicht, dass ich damit je gutmachen könnte, was ich getan habe ... aber vielleicht, vielleicht spielt das gar nicht so eine große Rolle, wie ich dachte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,21 +170,21 @@ Plötzlich hört er auf und legt seinen Kopf in seine Hände. "Ich weiß nicht, 
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Pfff!" Rhin entreißt dir ihre Hand und läuft davon.
+      <DefaultText>„Pfff!“ Rhin entreißt dir ihre Hand und läuft davon.
 
 {ROTHFUSS: voice}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Das sehe ich auch so." Sie drückt deine Hand leicht und geht dann einen Schritt zur Seite.
+      <DefaultText>„Das sehe ich auch so.“ Sie drückt deine Hand leicht und geht dann einen Schritt zur Seite.
 
 {ROTHFUSS: voice}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Sie ihn dir nur mal an. Jeder kann etwas gut, solange man ihm nur die Chance dazu gibt, es herauszufinden."
+      <DefaultText>„Sie ihn dir nur mal an. Jeder kann etwas gut, solange man ihm nur die Chance dazu gibt, es herauszufinden.“
 
 {ROTHFUSS: voice}</DefaultText>
       <FemaleText />
@@ -201,14 +201,14 @@ Plötzlich hört er auf und legt seinen Kopf in seine Hände. "Ich weiß nicht, 
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Hast du die Sundermuns gefragt, warum sie gleich aussehen?"</DefaultText>
+      <DefaultText>„Hast du die Sundermuns gefragt, warum sie gleich aussehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Coty schüttelt den Kopf und senkt die Stimme. "Ich hatte nicht den Nerv dazu. Ich meine … vielleicht sind sie da empfindlich. Außerdem mache ich diese Arbeit gern und ich will ihnen keinen Grund geben, mich rauszuwerfen."
+      <DefaultText>Coty schüttelt den Kopf und senkt die Stimme. „Ich hatte nicht den Nerv dazu. Ich meine … vielleicht sind sie da empfindlich. Außerdem mache ich diese Arbeit gern und ich will ihnen keinen Grund geben, mich rauszuwerfen.“
 
-Er schaut verstohlen auf seine Arbeitgeber. "Wenn du es herausfinden könntest ... Ich würde es schon gern wissen."</DefaultText>
+Er schaut verstohlen auf seine Arbeitgeber. „Wenn du es herausfinden könntest ... Ich würde es schon gern wissen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
