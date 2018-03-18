@@ -55,8 +55,8 @@ Plötzlich lässt er dich wieder gehen, kramt kurz in seinen Taschen herum und d
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Freund des Verschlingers!“ Kritzler verneigt sich vor dir, und seine wilden Locken springen dabei auf und ab. „Wie können dir die bescheidenen Extremitäten heute dienen?“</DefaultText>
-      <FemaleText>„Freundin des Verschlingers!“ Kritzler verneigt sich vor dir, und seine wilden Locken springen dabei auf und ab. „Wie können dir die bescheidenen Extremitäten heute dienen?“</FemaleText>
+      <DefaultText>„Freund des Verschlingers!“ Kritzler verneigt sich vor dir und seine wilden Locken springen dabei auf und ab. „Wie können dir die bescheidenen Extremitäten heute dienen?“</DefaultText>
+      <FemaleText>„Freundin des Verschlingers!“ Kritzler verneigt sich vor dir und seine wilden Locken springen dabei auf und ab. „Wie können dir die bescheidenen Extremitäten heute dienen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -70,7 +70,7 @@ Plötzlich lässt er dich wieder gehen, kramt kurz in seinen Taschen herum und d
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Kritzler kritzelt wild auf einem Stück Papier herum. Er sieht zu dir hinauf, mit Augen, die vor Eifer noch mehr leuchten als je zuvor. „Der *Vermesser* Ioxu ist tot! Ich habe meine Brüder und Schwestern versammelt, und gemeinsam haben wir sein Heim angegriffen. Dieser monströse Automaton konnte uns nicht alle töten, nicht, bevor *wir* seinen Meister getötet hatten!“
+      <DefaultText>Kritzler kritzelt wild auf einem Stück Papier herum. Er sieht zu dir hinauf, mit Augen, die vor Eifer noch mehr leuchten als je zuvor. „Der *Vermesser* Ioxu ist tot! Ich habe meine Brüder und Schwestern versammelt und gemeinsam haben wir sein Heim angegriffen. Dieser monströse Automaton konnte uns nicht alle töten, nicht, bevor *wir* seinen Meister getötet hatten!“
 
 Er spuckt einen Schleimklumpen auf die Rückseite des Papierfetzens, klebt ihn sich an seine Robe und beginnt sofort, einen weiteren zu bekritzeln.</DefaultText>
       <FemaleText />
@@ -89,7 +89,7 @@ Selbst als er dich zu sich ruft, hört er nicht auf, Worte auf ein Stück Papier
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>„Ioxu möchte die Flor verstehen, ihre Impulse quantifizieren. Das fügt unserer Gottheit *Schmerzen* zu.“ Seine Augen scheinen noch größer zu werden, und dir fällt auf, dass du ihn noch nicht einmal hast blinzeln sehen. „Der Beweis dafür ist für alle deutlich zu sehen, und zwar in Form des rohen und geschwollenen Fleisches an Ioxus Haus.“
+      <DefaultText>„Ioxu möchte die Flor verstehen, ihre Impulse quantifizieren. Das fügt unserer Gottheit *Schmerzen* zu.“ Seine Augen scheinen noch größer zu werden und dir fällt auf, dass du ihn noch nicht einmal hast blinzeln sehen. „Der Beweis dafür ist für alle deutlich zu sehen, und zwar in Form des rohen und geschwollenen Fleisches an Ioxus Haus.“
 
 „Wir haben Ioxu davor gewarnt, sein Herumstochern und sein *Vermessen* fortzuführen, aber er will nicht auf uns hören. Was bleibt uns da noch übrig?“ Er lässt die Frage im Raum stehen, als eine unausgesprochene Drohung. „Vielleicht kannst du uns dabei helfen, seine Meinung zu ändern.“</DefaultText>
       <FemaleText />
@@ -432,7 +432,7 @@ Er spuckt dir einen gelben Schleimklumpen vor die Füße, bevor er seinen ehemal
       <ID>94</ID>
       <DefaultText>„Der Vermesser ist tot?“ Seine Augen werden noch größer als zuvor. „Getötet, getötet, tot, tot!“
 
-Er jubelt, und sein zermarterter Körper windet sich in einer Art, von der man nur erahnen kann, dass sie Freude ausdrücken soll. Die anderen Kultisten schließen sich ihm an, kreischend und sich windend.</DefaultText>
+Er jubelt und sein zermarterter Körper windet sich in einer Art, von der man nur erahnen kann, dass sie Freude ausdrücken soll. Die anderen Kultisten schließen sich ihm an, kreischend und sich windend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -504,12 +504,12 @@ Als er verschwindet, hörst du das erzürnte Geflüster der Flor um dich herum. 
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Du ziehst deine Waffe und bewegst dich auf Kritzler zu. Mit geweiteten Augen und gebückter Haltung weicht er zurück, kreischend. All sein Mut scheint plötzlich vergessen. Seine Kleidung ist in Urin getränkt. „Zurück, Ketzer!“, schreit er, während er die Flucht antritt. „Der Verschlinger wird meinen Tod nicht hinnehmen, und an dein Sakrileg wird er sich auf ewig erinnern!“
+      <DefaultText>Du ziehst deine Waffe und bewegst dich auf Kritzler zu. Mit geweiteten Augen und gebückter Haltung weicht er zurück, kreischend. All sein Mut scheint plötzlich vergessen. Seine Kleidung ist in Urin getränkt. „Zurück, Ketzer!“, schreit er, während er die Flucht antritt. „Der Verschlinger wird meinen Tod nicht hinnehmen und an dein Sakrileg wird er sich auf ewig erinnern!“
 
 Mit diesen Worten fliehen er und seine Anhänger in die Dunkelheit.
 
 Als sie verschwinden, hörst du das erzürnte Geflüster der Flor um dich herum. Nach einem kurzen Augenblick verklingt es.</DefaultText>
-      <FemaleText>Du ziehst deine Waffe und bewegst dich auf Kritzler zu. Mit geweiteten Augen und gebückter Haltung weicht er zurück, kreischend. All sein Mut scheint plötzlich vergessen. Seine Kleidung ist in Urin getränkt. „Zurück, Ketzer!“, schreit er, während er die Flucht antritt. „Der Verschlinger wird meinen Tod nicht hinnehmen, und an dein Sakrileg wird er sich auf ewig erinnern!“
+      <FemaleText>Du ziehst deine Waffe und bewegst dich auf Kritzler zu. Mit geweiteten Augen und gebückter Haltung weicht er zurück, kreischend. All sein Mut scheint plötzlich vergessen. Seine Kleidung ist in Urin getränkt. „Zurück, Ketzer!“, schreit er, während er die Flucht antritt. „Der Verschlinger wird meinen Tod nicht hinnehmen und an dein Sakrileg wird er sich auf ewig erinnern!“
 
 Mit diesen Worten fliehen er und seine Anhänger in die Dunkelheit.
 
@@ -707,8 +707,8 @@ Bei der Erwähnung des letzten Namens senken die anderen Kultisten kurzzeitig ih
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>„Hilf uns, Bruder!“, sagt er mit einer brodelnden und schweratmigen Stimme. „Wir sind die Extremitäten des Großen Verschlingers, und wir ersuchen deine Hilfe, um ein großes Übel von dieser Welt zu beseitigen.“</DefaultText>
-      <FemaleText>„Hilf uns, Schwester!“, sagt er mit einer brodelnden und schweratmigen Stimme. „Wir sind die Extremitäten des Großen Verschlingers, und wir ersuchen deine Hilfe, um ein großes Übel von dieser Welt zu tilgen.“</FemaleText>
+      <DefaultText>„Hilf uns, Bruder!“, sagt er mit einer brodelnden und schweratmigen Stimme. „Wir sind die Extremitäten des Großen Verschlingers und wir ersuchen deine Hilfe, um ein großes Übel von dieser Welt zu beseitigen.“</DefaultText>
+      <FemaleText>„Hilf uns, Schwester!“, sagt er mit einer brodelnden und schweratmigen Stimme. „Wir sind die Extremitäten des Großen Verschlingers und wir ersuchen deine Hilfe, um ein großes Übel von dieser Welt zu tilgen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>152</ID>
@@ -747,7 +747,7 @@ Bei der Erwähnung des letzten Namens senken die anderen Kultisten kurzzeitig ih
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Seine Augen funkeln. „Wenn sie nach uns verlangt, dann öffnet die Flor einen Schlund vor unseren Füßen oder einen Tunnel an Stellen, wo vorher keiner war. Der Weg verschließt sich hinter uns, und kein menschliches Auge wird uns je wieder erblicken. Wir folgen dem Pfad bis zum Herz der Flor und werden somit endlich eins mit dem Verschlinger … nie wieder müssen wir uns vor etwas fürchten.“</DefaultText>
+      <DefaultText>Seine Augen funkeln. „Wenn sie nach uns verlangt, dann öffnet die Flor einen Schlund vor unseren Füßen oder einen Tunnel an Stellen, wo vorher keiner war. Der Weg verschließt sich hinter uns und kein menschliches Auge wird uns je wieder erblicken. Wir folgen dem Pfad bis zum Herz der Flor und werden somit endlich eins mit dem Verschlinger … nie wieder müssen wir uns vor etwas fürchten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -839,7 +839,7 @@ Die anderen Kultisten nicken zustimmend.</DefaultText>
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>„Ich habe frohe Kunde für dich! Der *Vermesser* Ioxu ist tot! Ich habe meine Brüder und Schwestern versammelt, und gemeinsam haben wir sein Heim angegriffen. Dieser monströse Automaton konnte uns nicht alle töten, nicht, bevor *wir* seinen Meister getötet haben!“ Seine Augen leuchten voller Eifer, während er auf das tumorhafte 'Haus' weiter hinten zeigt.
+      <DefaultText>„Ich habe frohe Kunde für dich! Der *Vermesser* Ioxu ist tot! Ich habe meine Brüder und Schwestern versammelt und gemeinsam haben wir sein Heim angegriffen. Dieser monströse Automaton konnte uns nicht alle töten, nicht, bevor *wir* seinen Meister getötet haben!“ Seine Augen leuchten voller Eifer, während er auf das tumorhafte 'Haus' weiter hinten zeigt.
 
 „Ich muss diese Geschichte niederschreiben, damit jeder davon erfahren kann! Jetzt gleich!“ Er macht sich gleich an die Arbeit und kritzelt ein schmutziges Blatt Papier voll.</DefaultText>
       <FemaleText />
