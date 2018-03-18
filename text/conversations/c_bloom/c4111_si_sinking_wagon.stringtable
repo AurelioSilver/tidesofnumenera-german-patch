@@ -52,14 +52,14 @@ Aber es reicht nicht. Nach etwa zwei Minuten anstrengender Schiebeversuche brich
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Vielen Dank, Fremder", sagt der älteste der Wachen. "Wenn wir diesen Wagen verloren hätten, wäre das gleiche mit unserem Sold geschehen. Du bist verdammt viel mehr zu gebrauchen, als die meisten anderen hier. Warum gehst du nicht mal kurz zu unseren, äh, Auftraggebern und redest mit ihnen? Vielleicht haben sie was für dich."</DefaultText>
-      <FemaleText>"Vielen Dank, Fremde", sagt der älteste der Wachen. "Wenn wir diesen Wagen verloren hätten, wäre das gleiche mit unserem Sold geschehen. Du bist verdammt viel mehr zu gebrauchen, als die meisten anderen hier. Warum gehst du nicht mal kurz zu unseren, äh, Auftraggebern und redest mit ihnen? Vielleicht haben sie was für dich."</FemaleText>
+      <DefaultText>„Vielen Dank, Fremder“, sagt der älteste der Wachen. „Wenn wir diesen Wagen verloren hätten, wäre das gleiche mit unserem Sold geschehen. Du bist verdammt viel mehr zu gebrauchen, als die meisten anderen hier. Warum gehst du nicht mal kurz zu unseren, äh, Auftraggebern und redest mit ihnen? Vielleicht haben sie was für dich.“</DefaultText>
+      <FemaleText>„Vielen Dank, Fremde“, sagt der älteste der Wachen. „Wenn wir diesen Wagen verloren hätten, wäre das gleiche mit unserem Sold geschehen. Du bist verdammt viel mehr zu gebrauchen, als die meisten anderen hier. Warum gehst du nicht mal kurz zu unseren, äh, Auftraggebern und redest mit ihnen? Vielleicht haben sie was für dich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Verflucht nochmal!" flucht einer der Wachen. "Verdammt!" Er tritt gegen die Räder des Wagens und reißt die Hände in die Luft.
+      <DefaultText>„Verflucht nochmal!“ flucht einer der Wachen. „Verdammt!“ Er tritt gegen die Räder des Wagens und reißt die Hände in die Luft.
 
-Sein Anführer sieht dich an und schüttelt den Kopf. "Lass dich von Alcar nicht abschrecken. Er brauchte die Bezahlung für diesen Auftrag, und es sieht nicht danach aus, als könnten wir damit rechnen. Trotzdem danke für deine Hilfe."</DefaultText>
+Sein Anführer sieht dich an und schüttelt den Kopf. „Lass dich von Alcar nicht abschrecken. Er brauchte die Bezahlung für diesen Auftrag, und es sieht nicht danach aus, als könnten wir damit rechnen. Trotzdem danke für deine Hilfe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,8 +118,8 @@ Sein Anführer sieht dich an und schüttelt den Kopf. "Lass dich von Alcar nicht
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <DefaultText>„“</DefaultText>
+      <FemaleText>„...“</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
