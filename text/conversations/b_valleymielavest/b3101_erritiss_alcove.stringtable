@@ -228,7 +228,7 @@ Helles Licht schießt aus dem Stab und alles wird weiß. Du hörst jemanden schr
     <Entry>
       <ID>41</ID>
       <DefaultText>Du streckst vorsichtig die Hand aus, um den Stab zu nehmen.
- 
+
 Ein weißglühender Energieblitz schießt von dem Stab in deine Hand. Du spürst keinen Schmerz, aber dein ganzer Arm wird vorübergehend taub.
 
 Die Energie fließt durch deinen Körper und Geist und über deinen anderen Arm wieder zurück in den unscheinbaren Hirtenstab. Du hörst das Echo von Stimmen, zu leise, um sie zu verstehen, sodass du nur ein vages Gefühl davon hast, was sie sagen.
@@ -251,7 +251,7 @@ Die Energie fließt durch deinen Körper und Geist und über deinen anderen Arm 
     <Entry>
       <ID>45</ID>
       <DefaultText>Eine Handvoll Sinne, Gefühle, Erinnerungen und *Angst* schießt in deinen Geist ein und lässt dich einen Schritt über den staubigen Boden der Nische zurücktaumeln. Etwas in dir hat sich verändert… in dem Labyrinth. Du hörst eine Stimme in deinem Kopf – sie klingt wie die von Erritis – aber klein und verängstigt.
- 
+
 Du siehst zu ihm rüber.</DefaultText>
       <FemaleText />
     </Entry>
@@ -278,7 +278,7 @@ Du siehst zu ihm rüber.</DefaultText>
     <Entry>
       <ID>50</ID>
       <DefaultText>Erritis starrt auf die Ablage. Seine Arme hängen schlapp herunter. Vom Leuchten ist keine Spur zu sehen. Er sieht mitgenommen aus. Müde. Alt.
- 
+
 Du folgst seinem Blick. Der Hirtenstab ist verschwunden.</DefaultText>
       <FemaleText />
     </Entry>
@@ -305,14 +305,14 @@ Langsam, wie die hinter einem Berg aufgehende Sonne, kommt sein Leuchten zurück
     <Entry>
       <ID>55</ID>
       <DefaultText>„Ich war woanders“, murmelt er, ohne dich anzusehen. „Ich war hier in meinem fantastischen Heldenkörper, aber gleichzeitig war ich auch *woanders*.“
- 
+
 Ohne dass er dich ansieht, hebt sich sein Arm und zeigt auf deine Stirn. Ihm scheint nicht bewusst zu sein, was seine Hand da tut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>Dann kehrt sein Leuchten zurück, wie die hinter einem Berg aufgehende Sonne, und erfüllt ihn. Er lächelt und senkt seine eigensinnige Hand.
- 
+
 „Warum stehen wir hier herum?“, sagt er und sieht sich um. „Wir sollten kämpfen! Schlemmen! Von Dach zu Dach hüpfen! Los, lass uns Dächer suchen!“ Er keucht. „Ist *das* ein Dach?!“
  {SCRIPT: Erritis's glow returns.}</DefaultText>
       <FemaleText />
@@ -335,7 +335,7 @@ Ohne dass er dich ansieht, hebt sich sein Arm und zeigt auf deine Stirn. Ihm sch
     <Entry>
       <ID>60</ID>
       <DefaultText>„Ja, klar“, sagt er und nickt dir zu. Eine Träne kullert seine eingefallene Wange herab und um sein fröhliches Grinsen herum. „Aber wenn du schon fragst – mir ist langweilig hier. Wir sollten gehen. Wir sollten *jetzt gleich* gehen.“
- 
+
 Er pfeift leise vor sich hin und wendet den Blick ab.</DefaultText>
       <FemaleText />
     </Entry>
