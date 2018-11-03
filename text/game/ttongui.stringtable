@@ -4622,7 +4622,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>924</ID>
-      <DefaultText>[Color: Speed]Geschwindigkeit[/Color] stellt die Geschicklichkeit und Reaktionszeiten des Charakters dar. Jeder {0} Punkte in der [Color: Speed]Geschwindigkeit[/Color] erhöht auch die &lt;quad class="evasion"&gt;[Color: Speed]Ausweichung[/Color] um {1}%.</DefaultText>
+      <DefaultText>[Color: Speed]Geschwindigkeit[/Color] stellt die Geschicklichkeit und Reaktionszeiten des Charakters dar. Jeder {0}te Punkte in [Color: Speed]Geschwindigkeit[/Color] erhöht auch die &lt;quad class="evasion"&gt;[Color: Speed]Ausweichung[/Color] um {1}%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
