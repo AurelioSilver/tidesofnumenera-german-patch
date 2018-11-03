@@ -4627,7 +4627,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>925</ID>
-      <DefaultText>[Color: Intellect]Intellekt[/Color] stellt die mentalen Fähigkeiten, die Willenskraft und Persönlichkeit des Charakters dar. Jeder {0} Punkte in [Color: Intellect]Intellekt[/Color] erhöht auch die &lt;quad class="willpower"&gt;[Color: Intellect]Willenskraft[/Color] um {1}%.</DefaultText>
+      <DefaultText>[Color: Intellect]Intellekt[/Color] stellt die mentalen Fähigkeiten, die Willenskraft und die Persönlichkeit des Charakters dar. Jeder {0}te Punkt in [Color: Intellect]Intellekt[/Color] erhöht auch die &lt;quad class="willpower"&gt;[Color: Intellect]Willenskraft[/Color] um {1}%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
