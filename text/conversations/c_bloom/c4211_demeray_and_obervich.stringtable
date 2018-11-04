@@ -112,7 +112,7 @@ Schließlich versinkst du in die Dunkelheit.
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„Ähm. Also, um offen zu sein, da meine ausgedehnten Hinweise etwas zu subtil waren - Ich hätte gehofft, dass du uns lässt, *dich* zu untersuchen.“</DefaultText>
+      <DefaultText>„Ähm. Also, um offen zu sein, da meine ausgedehnten Hinweise etwas zu subtil waren – Ich hätte gehofft, dass du uns lässt, *dich* zu untersuchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,7 +147,7 @@ Schließlich versinkst du in die Dunkelheit.
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Er reicht nach Erritis. „Ein bleicher Junge? Nein, ich denke nicht… Moment… *Moment*… diese goldene Wolke, weißt du, was sie tut, Bursche? Bist du darüber im Klaren, -“ Er pausiert, wissend, dass Erritis ihn lediglich anstarrt. „Dieser Junge wäre ein fabelhaftes Versuchsobjekt.“</DefaultText>
+      <DefaultText>Er reicht nach Erritis. „Ein bleicher Junge? Nein, ich denke nicht… Moment… *Moment*… diese goldene Wolke, weißt du, was sie tut, Bursche? Bist du darüber im Klaren, –“ Er pausiert, wissend, dass Erritis ihn lediglich anstarrt. „Dieser Junge wäre ein fabelhaftes Versuchsobjekt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -187,7 +187,7 @@ Schließlich versinkst du in die Dunkelheit.
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Ich? Du willst mich diesen Metzgern überlassen? Nicht, wenn ich etwas zu sa-“ Er dreht sich zu Demeray, der sich ihm von hinten nähert, und steckt ihm seinen Finger ins Gesicht.
+      <DefaultText>„Ich? Du willst mich diesen Metzgern überlassen? Nicht, wenn ich etwas zu sa–“ Er dreht sich zu Demeray, der sich ihm von hinten nähert, und steckt ihm seinen Finger ins Gesicht.
 
 „Keinen Schritt weiter, Kurpfuscher, oder du erlebst gleich, was diese Tätowierungen können.“</DefaultText>
       <FemaleText />
@@ -221,14 +221,14 @@ Schließlich versinkst du in die Dunkelheit.
       <ID>53</ID>
       <DefaultText>Schließlich sind sie fertig, und Demeray enthüllt den Tisch, auf dem Oom sitzt. Der kleine Tropfen ist ruhig, bis du dich näherst, mit keinen Anzeichen seines urspünglichen Charakters.
 
-„Ein Erfolg!“ verkündigt Demeray. „Patient Nummer 28 war ein bewundernswerter Kunde, und sollte bald eine vollständige Genesu-“ Er pausiert und blickt vorsichtig auf Oom. „Sollte sich zum größten Teil schnell wieder erholen.“</DefaultText>
+„Ein Erfolg!“ verkündigt Demeray. „Patient Nummer 28 war ein bewundernswerter Kunde, und sollte bald eine vollständige Genesu–“ Er pausiert und blickt vorsichtig auf Oom. „Sollte sich zum größten Teil schnell wieder erholen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>Er greift ein, um seinem Partner für seine schwankende Erklärung Deckung zu geben. „Welch eine spannende Untersuchung, wenn ich das so sagen darf. Welch eine Ehre, es zu erforschen. Durchaus eine Ehre!“
 
-{SCRIPT: Reset Oom to neutral state, blobby state - the PC will have to rebuild Oom into a new shape}</DefaultText>
+{SCRIPT: Reset Oom to neutral state, blobby state – the PC will have to rebuild Oom into a new shape}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -335,7 +335,7 @@ Demerays verschmutzter Mantel ist leicht stärker beschmutzt als zuvor, und ein 
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Er wendet seinen vieläugigen Blick zu dir. „Natürlich, natürlich. Aber erst … Callistege, wir haben diese Injektion für dich vorbereitet. Entferne den Attraktor, benutze dies, und es wird deinen geist entsiegeln. Leider für immer - du wirst deinen *faszinierenden* Status als potentieller Bienenstock-Geist verlieren.“ Er schüttelt seinen Kopf und spöttelt.</DefaultText>
+      <DefaultText>Er wendet seinen vieläugigen Blick zu dir. „Natürlich, natürlich. Aber erst … Callistege, wir haben diese Injektion für dich vorbereitet. Entferne den Attraktor, benutze dies, und es wird deinen geist entsiegeln. Leider für immer – du wirst deinen *faszinierenden* Status als potentieller Bienenstock-Geist verlieren.“ Er schüttelt seinen Kopf und spöttelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -350,12 +350,12 @@ Demerays verschmutzter Mantel ist leicht stärker beschmutzt als zuvor, und ein 
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>„Doch keine Antwort auf meine Möglichkeiten. Ihr hattet Jahre, und wir brechen durch die Zeit. Die Stimmen meiner Schwestern werden lauter und ich werde lauter in ihren Gedanken. Die Situation ist nicht mehr *tolerierbar*. Ich muss wissen -kannst du uns trennen, oder findest du einen Weg uns sanft ineinander zu integrieren?“</DefaultText>
+      <DefaultText>„Doch keine Antwort auf meine Möglichkeiten. Ihr hattet Jahre, und wir brechen durch die Zeit. Die Stimmen meiner Schwestern werden lauter und ich werde lauter in ihren Gedanken. Die Situation ist nicht mehr *tolerierbar*. Ich muss wissen – kannst du uns trennen, oder findest du einen Weg uns sanft ineinander zu integrieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>„Bitte entschuldige, Calistege. Wir beginnen bald mit einer neuen Untersuchung.“ Eine Spur aus Stahl schleicht sich in seine Stimme. „Wir können die Vergangenheit nicht ändern - noch nicht, zumindest - also muss das reichen.“ Seine warme Stimme kommt wieder. „Nun, was können wir für dich tun, Reisender?“</DefaultText>
+      <DefaultText>„Bitte entschuldige, Calistege. Wir beginnen bald mit einer neuen Untersuchung.“ Eine Spur aus Stahl schleicht sich in seine Stimme. „Wir können die Vergangenheit nicht ändern – noch nicht, zumindest – also muss das reichen.“ Seine warme Stimme kommt wieder. „Nun, was können wir für dich tun, Reisender?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -380,12 +380,12 @@ Demerays verschmutzter Mantel ist leicht stärker beschmutzt als zuvor, und ein 
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Er bauscht die Brust auf. „Wir sind Cheirugen - nein, *Ärtzte* und *Entdecker* - wir versuchen, die Weite des medizinischen Wissens zu erweitern. Wir haben die Antworten auf viele Fragen gefunden, wir sezieren und vivisezieren eine Vielzahl von eigenartigen Kreaturen, und kommen noch näher, die tiefgründigeren Geheimnisse des menschlichen Daseins zu ergründen.“</DefaultText>
+      <DefaultText>Er bauscht die Brust auf. „Wir sind Cheirugen – nein, *Ärtzte* und *Entdecker* – wir versuchen, die Weite des medizinischen Wissens zu erweitern. Wir haben die Antworten auf viele Fragen gefunden, wir sezieren und vivisezieren eine Vielzahl von eigenartigen Kreaturen, und kommen noch näher, die tiefgründigeren Geheimnisse des menschlichen Daseins zu ergründen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>„Bist du sicher, dass du nicht krank bist? Vielleicht sollte wir deine Ohren untersuchen? Hmm. Es könnte auch dein Gedächtnis sein. Nur eine schnelle Untersuchung, nicht länger als ein paar Stunden. Aber lass mich dich noch einmal darauf hinweisen - Wir sind Ärzte, mein Freund, und wir sind hier, um Experimente durchzuführen, die unser Wissensfeld erweitern.“</DefaultText>
+      <DefaultText>„Bist du sicher, dass du nicht krank bist? Vielleicht sollte wir deine Ohren untersuchen? Hmm. Es könnte auch dein Gedächtnis sein. Nur eine schnelle Untersuchung, nicht länger als ein paar Stunden. Aber lass mich dich noch einmal darauf hinweisen – Wir sind Ärzte, mein Freund, und wir sind hier, um Experimente durchzuführen, die unser Wissensfeld erweitern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -395,17 +395,17 @@ Demerays verschmutzter Mantel ist leicht stärker beschmutzt als zuvor, und ein 
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>„Ich muss schnell hinzufügen, dass wir in einigen Rechtssystemen nicht lizenziert sind, und meines Wissens nach steht in vielen Gebieten ein Haftbefehl gegen uns vor.“ Er deutet auf sich. „Wir tun Anderen nichts, was wir nicht mit uns selbst tun würden. Wir suchen sogar nur spezielle Personen - wir sind sehr wählerisch, was unsere Patienten angeht.“</DefaultText>
+      <DefaultText>„Ich muss schnell hinzufügen, dass wir in einigen Rechtssystemen nicht lizenziert sind, und meines Wissens nach steht in vielen Gebieten ein Haftbefehl gegen uns vor.“ Er deutet auf sich. „Wir tun Anderen nichts, was wir nicht mit uns selbst tun würden. Wir suchen sogar nur spezielle Personen – wir sind sehr wählerisch, was unsere Patienten angeht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>„Es sieht aus, als hättest du etwas Schaden erlitten. Die Narbe auf deinem Gesicht - eine Brandnarbe? Aber sie sieht reibungsbedingt aus, und nicht… meine Güte, ja, wir würden dich liebend gerne etwas näher untersuchen.“</DefaultText>
+      <DefaultText>„Es sieht aus, als hättest du etwas Schaden erlitten. Die Narbe auf deinem Gesicht – eine Brandnarbe? Aber sie sieht reibungsbedingt aus, und nicht… meine Güte, ja, wir würden dich liebend gerne etwas näher untersuchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>„Wir nehmen nur eine kleine Zahl spezialisierter Patienten. Man nehme Patient Nummer 27 zum Beispiel … beziehungsweise Jont, wie er sich nennt. Er war ein Besucher aus einer anderen Welt - ein Außerirdischer. Unser ortsansässiger Schlund verschlang ihn und spuckte ihn ein Jahr später wieder aus, ohne seine Haut, Muskeln oder sein Gedächtnis. Aber wenn du ihn jetzt anschaust, wirst du erkennen, dass er sowohl Haut als *auch* Muskeln hat. Na gut, das sind *menschliche* Haut und Muskeln, aber das war alles, was uns zur Verfügung stand.“
+      <DefaultText>„Wir nehmen nur eine kleine Zahl spezialisierter Patienten. Man nehme Patient Nummer 27 zum Beispiel … beziehungsweise Jont, wie er sich nennt. Er war ein Besucher aus einer anderen Welt – ein Außerirdischer. Unser ortsansässiger Schlund verschlang ihn und spuckte ihn ein Jahr später wieder aus, ohne seine Haut, Muskeln oder sein Gedächtnis. Aber wenn du ihn jetzt anschaust, wirst du erkennen, dass er sowohl Haut als *auch* Muskeln hat. Na gut, das sind *menschliche* Haut und Muskeln, aber das war alles, was uns zur Verfügung stand.“
 
 Er pausiert. „Für sein Gedächtnis konnten wir nichts tun.“</DefaultText>
       <FemaleText />
@@ -467,7 +467,7 @@ Er pausiert. „Für sein Gedächtnis konnten wir nichts tun.“</DefaultText>
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>„ - und es würde bei diesem Versuch einen Teil deines Gehirns ausschöpfen. Nein, traurigerweise kann ich nicht empfehlen, das zu probieren.“</DefaultText>
+      <DefaultText>„ – und es würde bei diesem Versuch einen Teil deines Gehirns ausschöpfen. Nein, traurigerweise kann ich nicht empfehlen, das zu probieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -514,7 +514,7 @@ Er pausiert. „Für sein Gedächtnis konnten wir nichts tun.“</DefaultText>
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>„Ich bedaure, es zu sagen, aber aussprechen muss ich es - einfach nicht angemessen. Nur eine Person deiner Gruppe ist interessant genug zum untersuchen.“ Er reibt die Finger an seinem beschmutzten Ärmel ab, als er redet, und schaut dir in die Augen. „Du. Nur du.“</DefaultText>
+      <DefaultText>„Ich bedaure, es zu sagen, aber aussprechen muss ich es – einfach nicht angemessen. Nur eine Person deiner Gruppe ist interessant genug zum untersuchen.“ Er reibt die Finger an seinem beschmutzten Ärmel ab, als er redet, und schaut dir in die Augen. „Du. Nur du.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,8 +581,8 @@ Er pausiert. „Für sein Gedächtnis konnten wir nichts tun.“</DefaultText>
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>„Bedauerlicherweise, mein Freund, hat unser Kunde seinen Teil der Abmachung schon erfüllt. Außerdem, ihn nochmal zu öffnen würde ihn wahrscheinlich umbringen - und das trotz seiner bemerkenswerter Regenerationsfähigkeit, die er erwieß.“</DefaultText>
-      <FemaleText>„Bedauerlicherweise, mein Freund, hat unsere Kundin ihren Teil der Abmachung schon erfüllt. Außerdem, sie nochmal zu öffnen würde sie wahrscheinlich umbringen - und das trotz ihrer bemerkenswerter Regenerationsfähigkeit, die sie erwieß.“</FemaleText>
+      <DefaultText>„Bedauerlicherweise, mein Freund, hat unser Kunde seinen Teil der Abmachung schon erfüllt. Außerdem, ihn nochmal zu öffnen würde ihn wahrscheinlich umbringen – und das trotz seiner bemerkenswerter Regenerationsfähigkeit, die er erwieß.“</DefaultText>
+      <FemaleText>„Bedauerlicherweise, mein Freund, hat unsere Kundin ihren Teil der Abmachung schon erfüllt. Außerdem, sie nochmal zu öffnen würde sie wahrscheinlich umbringen – und das trotz ihrer bemerkenswerter Regenerationsfähigkeit, die sie erwieß.“</FemaleText>
     </Entry>
     <Entry>
       <ID>128</ID>
@@ -616,8 +616,8 @@ Er pausiert. „Für sein Gedächtnis konnten wir nichts tun.“</DefaultText>
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>„Bedauerlicherweise, mein Freund, hat unser Kunde seinen Teil der Abmachung schon erfüllt. Außerdem, ihn nochmal zu öffnen würde ihn wahrscheinlich umbringen - und das trotz seiner bemerkenswerter Regenerationsfähigkeit, die er erwieß.“</DefaultText>
-      <FemaleText>„Bedauerlicherweise, mein Freund, hat unsere Kundin ihren Teil der Abmachung schon erfüllt. Außerdem, sie nochmal zu öffnen würde sie wahrscheinlich umbringen - und das trotz ihrer bemerkenswerter Regenerationsfähigkeit, die sie erwieß.“</FemaleText>
+      <DefaultText>„Bedauerlicherweise, mein Freund, hat unser Kunde seinen Teil der Abmachung schon erfüllt. Außerdem, ihn nochmal zu öffnen würde ihn wahrscheinlich umbringen – und das trotz seiner bemerkenswerter Regenerationsfähigkeit, die er erwieß.“</DefaultText>
+      <FemaleText>„Bedauerlicherweise, mein Freund, hat unsere Kundin ihren Teil der Abmachung schon erfüllt. Außerdem, sie nochmal zu öffnen würde sie wahrscheinlich umbringen – und das trotz ihrer bemerkenswerter Regenerationsfähigkeit, die sie erwieß.“</FemaleText>
     </Entry>
     <Entry>
       <ID>135</ID>
@@ -665,7 +665,7 @@ Keine Menge Drängen scheint Aligern aufwachen zu können. Du wirst warten müss
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Nach etwa einer Stunde streckt sich Aligern und setzt sich auf. „Was zum- Was ist geschehen, als ich bewusstlos war?“, fordert er. „Wirst du versuchen, das mir zuzuschieben?“ Er nimmt seinen Oberteil und zieht ihn wieder an. „Im Ernst jetzt, was ist hier geschehen?“</DefaultText>
+      <DefaultText>Nach etwa einer Stunde streckt sich Aligern und setzt sich auf. „Was zum– Was ist geschehen, als ich bewusstlos war?“, fordert er. „Wirst du versuchen, das mir zuzuschieben?“ Er nimmt seinen Oberteil und zieht ihn wieder an. „Im Ernst jetzt, was ist hier geschehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -695,7 +695,7 @@ Keine Menge Drängen scheint Aligern aufwachen zu können. Du wirst warten müss
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Du reichst nach unten zu Obervichs verfallenem Kopf, und versuchst, den Helm von seinem Schädel abzunehmen. Es zerbricht mit deinem Ziehen, und Drahte knallen und knistern als du ihn von seinem Kopf löst. Unter dem Synth ist ein ruiniertes, zerbrochenes Durcheinander - Keine Knochen; nur Gewebe.
+      <DefaultText>Du reichst nach unten zu Obervichs verfallenem Kopf, und versuchst, den Helm von seinem Schädel abzunehmen. Es zerbricht mit deinem Ziehen, und Drahte knallen und knistern als du ihn von seinem Kopf löst. Unter dem Synth ist ein ruiniertes, zerbrochenes Durcheinander – Keine Knochen; nur Gewebe.
 
 Von den Augen auf dem Helm verbleibt nur Eines. Du befreist es und lässt die ganzen anderen liegen.</DefaultText>
       <FemaleText />
@@ -712,7 +712,7 @@ Von den Augen auf dem Helm verbleibt nur Eines. Du befreist es und lässt die ga
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>„Also! Zunächst einmal, diese Tätowierungen leben wirklich. Sie sind unabhängige, empfindende Wesen, die auf die Begehren deines Landmanns reagieren. Weiterhin scheint es so, als versuchten sie es, zu kommunizieren - nicht nur miteinander, sondern auch mit dem Träger.“</DefaultText>
+      <DefaultText>„Also! Zunächst einmal, diese Tätowierungen leben wirklich. Sie sind unabhängige, empfindende Wesen, die auf die Begehren deines Landmanns reagieren. Weiterhin scheint es so, als versuchten sie es, zu kommunizieren – nicht nur miteinander, sondern auch mit dem Träger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -739,7 +739,7 @@ Von den Augen auf dem Helm verbleibt nur Eines. Du befreist es und lässt die ga
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>„Ich schätze deine Fürsorge für andere, aber Ich glaube nicht, dass du weißt, was diese zwei Metzger tun. Wenn ich etwas zu sagen habe-“</DefaultText>
+      <DefaultText>„Ich schätze deine Fürsorge für andere, aber Ich glaube nicht, dass du weißt, was diese zwei Metzger tun. Wenn ich etwas zu sagen habe–“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1086,12 +1086,12 @@ Schließlich öffnen sie den Vorhang zu ihrem  Arbeitsbereich.</DefaultText>
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>„Oh, ähm, ich würde dagen, dass wir die Grenzen des Wissens erweitern. Jedenfalls deines Wissens. Für uns war es eher eine Auffrischung. Sehr spannend, nicht wahr? Für dich, meine ich. Älteren Fragestellungen nachzugehen ist nicht so spannend für uns, und manchmal übertreiben wir. Aber keine Sorge - dein Herz bleibt unversehrt.“</DefaultText>
+      <DefaultText>„Oh, ähm, ich würde dagen, dass wir die Grenzen des Wissens erweitern. Jedenfalls deines Wissens. Für uns war es eher eine Auffrischung. Sehr spannend, nicht wahr? Für dich, meine ich. Älteren Fragestellungen nachzugehen ist nicht so spannend für uns, und manchmal übertreiben wir. Aber keine Sorge – dein Herz bleibt unversehrt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>Er errötet ein wenig. „Oh, hast du das gehört? Ähm. Mein Kollege reagierte etwas zu enthusiastisch auf das Potenzial einer neue Fragestellung, und ich musste seinen wissenschaftlichen Eifer etwas dämpfen.“ Er hebt schnell die Hände. „Nichts ist gebrochen, das versichere ich - weder dein Herz noch… das Begehren meines Kollegen nach Wissen.“</DefaultText>
+      <DefaultText>Er errötet ein wenig. „Oh, hast du das gehört? Ähm. Mein Kollege reagierte etwas zu enthusiastisch auf das Potenzial einer neue Fragestellung, und ich musste seinen wissenschaftlichen Eifer etwas dämpfen.“ Er hebt schnell die Hände. „Nichts ist gebrochen, das versichere ich – weder dein Herz noch… das Begehren meines Kollegen nach Wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1121,10 +1121,10 @@ Schließlich öffnen sie den Vorhang zu ihrem  Arbeitsbereich.</DefaultText>
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>„Also schön, also schön. Du hast uns ertappt, wie wir etwas verschönern, wie man es auch von einer Person mit deinem mentale Kaliber erwarten würde.“ Er blickt zu seinem Kollegen. „Sagte ich nicht, dass der Intellekt unseres Freundes etwas bewundernswertes wäre?“ Er beugt sich zu dir. „Wir brauchen nicht unbedingt eine Versuchsperson, gebe ich zu. Aber ganz gelogen habe ich auch nicht - das *ist* ein teures Stück. Es zu ersetzen wird uns [Global: c4211_DemerayObervichEyeCost] Shin kosten.“
+      <DefaultText>„Also schön, also schön. Du hast uns ertappt, wie wir etwas verschönern, wie man es auch von einer Person mit deinem mentale Kaliber erwarten würde.“ Er blickt zu seinem Kollegen. „Sagte ich nicht, dass der Intellekt unseres Freundes etwas bewundernswertes wäre?“ Er beugt sich zu dir. „Wir brauchen nicht unbedingt eine Versuchsperson, gebe ich zu. Aber ganz gelogen habe ich auch nicht – das *ist* ein teures Stück. Es zu ersetzen wird uns [Global: c4211_DemerayObervichEyeCost] Shin kosten.“
 
 {MONEY}</DefaultText>
-      <FemaleText>„Also schön, also schön. Du hast uns ertappt, wie wir etwas verschönern, wie man es auch von einer Person mit deinem mentale Kaliber erwarten würde.“ Er blickt zu seinem Kollegen. „Sagte ich nicht, dass der Intellekt unserer Freundin etwas bewundernswertes wäre?“ Er beugt sich zu dir. „Wir brauchen nicht unbedingt eine Versuchsperson, gebe ich zu. Aber ganz gelogen habe ich auch nicht - das *ist* ein teures Stück. Es zu ersetzen wird uns [Global: c4211_DemerayObervichEyeCost] Shin kosten.“
+      <FemaleText>„Also schön, also schön. Du hast uns ertappt, wie wir etwas verschönern, wie man es auch von einer Person mit deinem mentale Kaliber erwarten würde.“ Er blickt zu seinem Kollegen. „Sagte ich nicht, dass der Intellekt unserer Freundin etwas bewundernswertes wäre?“ Er beugt sich zu dir. „Wir brauchen nicht unbedingt eine Versuchsperson, gebe ich zu. Aber ganz gelogen habe ich auch nicht – das *ist* ein teures Stück. Es zu ersetzen wird uns [Global: c4211_DemerayObervichEyeCost] Shin kosten.“
 
 {MONEY}</FemaleText>
     </Entry>
@@ -1322,7 +1322,7 @@ Er wendet sich zu dir. „Wir bringen sie zurück, trotz allem unbeschadet! Das 
       <ID>312</ID>
       <DefaultText>Schließlich sind sie fertig. Beide Ärtzte scheinen bemerkenswert erschüttert, wobei Callistege selbstzufrieden ist, an der Schwelle eines Lächelns.
 
-„Ein… Erfolg?“, sagt Demeray. „Patientin Nummer 28 - in dieser Realität - war eine kooperative und freundliche Klientin. Manche ihrer Echos in naheliegenden Realitäten waren unseren Anfragen nicht so offen.“
+„Ein… Erfolg?“, sagt Demeray. „Patientin Nummer 28 – in dieser Realität – war eine kooperative und freundliche Klientin. Manche ihrer Echos in naheliegenden Realitäten waren unseren Anfragen nicht so offen.“
 
 Er schaudert. Einige von Callisteges Schwestern blicken finster drein. Mindestens zwei von ihnen sind blutverschmiert, während eine andere so aussieht, als hätte sie darin gebadet.</DefaultText>
       <FemaleText />
@@ -1336,7 +1336,7 @@ Sie klopft den Ärtzten auf die Schultern, und sie schrecken zurück bei ihrer B
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>„Ähm… ja. Ja, natürlich. Wir haben entdeckt, dass jede Realität, die Callistege bewohnt, sich von Moment zu Moment wegspaltet - unbestimmbare Entscheidungen spalten die Zeitachsen, und sie ändern sich zunehmend, wenn die Zeit voranschreitet. Wir haben es geschafft, bestimmte andere Echos zu kontaktieren, und sie informierten uns, dass sie es versuchen, sich in die Datosphäre hineinzuversetzen, und sich selbst als die einzigen Anführer von Callisteges Gehirn zu installieren - “</DefaultText>
+      <DefaultText>„Ähm… ja. Ja, natürlich. Wir haben entdeckt, dass jede Realität, die Callistege bewohnt, sich von Moment zu Moment wegspaltet – unbestimmbare Entscheidungen spalten die Zeitachsen, und sie ändern sich zunehmend, wenn die Zeit voranschreitet. Wir haben es geschafft, bestimmte andere Echos zu kontaktieren, und sie informierten uns, dass sie es versuchen, sich in die Datosphäre hineinzuversetzen, und sich selbst als die einzigen Anführer von Callisteges Gehirn zu installieren – “</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
