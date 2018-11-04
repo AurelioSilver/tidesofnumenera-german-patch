@@ -823,7 +823,9 @@ Er wühlt in einem Rucksack herum, der neben ihm liegt. „Warte mal kurz. Ich h
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Er gräbt in seinem dreckigen Wams und zieht einen klirrenden Geldbeutel heraus. Er wirft ihn dir lachend zu. „Mach was Gutes damit, Verstoßener.“</DefaultText>
+      <DefaultText>Er gräbt in seinem dreckigen Wams und zieht einen klirrenden Geldbeutel heraus. Er wirft ihn dir lachend zu. „Mach was Gutes damit, Verstoßener.“
+
+{MONEY}</DefaultText>
       <FemaleText>Er gräbt in seinem dreckigen Wams und zieht einen klirrenden Geldbeutel heraus. Er wirft ihn dir lachend zu. „Mach was Gutes damit, Verstoßene.“
 
 {MONEY}</FemaleText>
