@@ -88,7 +88,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Nicht jetzt. Lebwohl.“</DefaultText>
+      <DefaultText>„Nicht jetzt. Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -245,7 +245,7 @@ Langsam breitet sich der Horror in seinem Gesicht aus. „Hast du aufgehört, di
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Lebwohl.“</DefaultText>
+      <DefaultText>„Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,12 +270,12 @@ Langsam breitet sich der Horror in seinem Gesicht aus. „Hast du aufgehört, di
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Lebwohl.“</DefaultText>
+      <DefaultText>„Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Lebwohl.“</DefaultText>
+      <DefaultText>„Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -397,7 +397,7 @@ Er reicht die eine Tasche mit einer großen Menge an Shin.
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>„Ich bringe ihn dir. Lebwohl.“</DefaultText>
+      <DefaultText>„Ich bringe ihn dir. Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -446,7 +446,7 @@ Er klappt den Rahmenr zusammen. „Ich werde nach ihm sehen. Wenn ich ihn finde,
       <ID>94</ID>
       <DefaultText>Faung winkt verlegen. „Du hast mich vor ein Rätsel gestellt, Aligern. Es war mir ein Vergnügen.“ Er runzelt die Stirn ein wenig. „Wenn du allerdings Min erklären könntest, wie hilfreich ich war und ihm sagst, dass ich das Geheimnis lüftete, das sie nicht lüften konnten, dann wäre dadurch ein Großteil der von dir erwähnten Schuld getilgt.“
 
-Er hustet künstlich, als wäre er nicht gewohnt, Gefühle zu zeigen. „Nun! Meine Arbeit ist beendet. Ich muss jetzt zu meiner Position im Orden zurückkehren. Lebwohl!“
+Er hustet künstlich, als wäre er nicht gewohnt, Gefühle zu zeigen. „Nun! Meine Arbeit ist beendet. Ich muss jetzt zu meiner Position im Orden zurückkehren. Lebe wohl!“
 
 {SCRIPT: Should quest end here?}</DefaultText>
       <FemaleText />
@@ -468,12 +468,12 @@ Er hustet künstlich, als wäre er nicht gewohnt, Gefühle zu zeigen. „Nun! Me
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>„Lebwohl.“</DefaultText>
+      <DefaultText>„Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>„Lebwohl!“
+      <DefaultText>„Lebe wohl!“
 
 {SCRIPT: Path to exit and despawn}</DefaultText>
       <FemaleText />
