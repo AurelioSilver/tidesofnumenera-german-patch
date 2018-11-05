@@ -191,7 +191,7 @@ Der Boden rumpelt unter deinen Füßen, und du spürst eine Welle der Boshaftigk
     <Entry>
       <ID>26</ID>
       <DefaultText>„“</DefaultText>
-      <FemaleText>„…“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -329,7 +329,7 @@ Sie nimmt deine Shin und führt ihn auf den verschmutzten Tisch.
     <Entry>
       <ID>48</ID>
       <DefaultText>„Vergesst es. Lebt wohl.“</DefaultText>
-      <FemaleText>„Vergesst es. Lebt wohl.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
@@ -800,8 +800,8 @@ Du machst es. Er schmeckt nach warmem Brot mit in der Kruste eingebackenem Zinn.
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Nachfassen bei PQ. 120</DefaultText>
-      <FemaleText>Follow-up PQ. 120</FemaleText>
+      <DefaultText>Follow-up PQ. 120</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
@@ -839,13 +839,13 @@ Du machst es. Er schmeckt nach warmem Brot mit in der Kruste eingebackenem Zinn.
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Nachfassen bei PQ. 128</DefaultText>
-      <FemaleText>Follow-up PQ. 128</FemaleText>
+      <DefaultText>Follow-up PQ. 128</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
       <DefaultText>Follow-up T. 135</DefaultText>
-      <FemaleText>Follow-up T. 135</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
