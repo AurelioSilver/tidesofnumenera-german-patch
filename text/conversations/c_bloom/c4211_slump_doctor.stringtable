@@ -704,7 +704,7 @@ Sie schaut von dir weg auf den Boden. „Aye. Ich vermute, du kennst die Sehnsü
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>„Eine mentaler Angriff zerstört langsam meinen Körper. Kannst du helfen?“
+      <DefaultText>„Ein mentaler Angriff zerstört langsam meinen Körper. Kannst du helfen?“
 {SCRIPT: Node 120 should only be visible so long as the PC has the Specter's Decay fettle. After it's cured, Node 120, 121, and 122 should be hidden.}
 {SCRIPT: Please note that the Specter fettle may not be in game anymore.}</DefaultText>
       <FemaleText />
