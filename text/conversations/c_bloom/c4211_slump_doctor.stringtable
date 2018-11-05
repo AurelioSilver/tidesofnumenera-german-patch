@@ -869,7 +869,7 @@ Du machst es. Er schmeckt nach warmem Brot mit in der Kruste eingebackenem Zinn.
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>„Eine mentaler Angriff zerstört langsam meinen Körper. Wirst du mir helfen?“
+      <DefaultText>„Ein mentaler Angriff zerstört langsam meinen Körper. Wirst du mir helfen?“
 {SCRIPT: Node 142 should only be visible so long as the PC has the Specter's Decay fettle.}
 {SCRIPT: Please note that the Specter fettle may not be in game anymore.}</DefaultText>
       <FemaleText />
