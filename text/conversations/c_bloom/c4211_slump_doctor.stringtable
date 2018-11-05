@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Kommst du zu Laarna, um geheilt zu werden? Ich kann dir helfen. Allerdings nur bei körperliche Schäden - gegen Flor-Fieber oder andere derartige Leiden kann ich nichts tun. Aber ich kann schneiden, graben und nähen - dann bist du im Nu wieder im Geschäft. Nur [Global: c4211_SlumpDoctorHealCost] Shin das Stück.</DefaultText>
+      <DefaultText>Kommst du zu Laarna, um geheilt zu werden? Ich kann dir helfen. Allerdings nur bei körperliche Schäden – gegen Flor-Fieber oder andere derartige Leiden kann ich nichts tun. Aber ich kann schneiden, graben und nähen – dann bist du im Nu wieder im Geschäft. Nur [Global: c4211_SlumpDoctorHealCost] Shin das Stück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,7 +229,7 @@ Der Boden rumpelt unter deinen Füßen, und du spürst eine Welle der Boshaftigk
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Laarna grinst und zeigt dabei ihre grässlichen Zähne. „Wer von euch kommt nun rauf, ha? Egal - ich kümmere mich um, die ich berühren kann.“
+      <DefaultText>Laarna grinst und zeigt dabei ihre grässlichen Zähne. „Wer von euch kommt nun rauf, ha? Egal – ich kümmere mich um, die ich berühren kann.“
 
 {SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
       <FemaleText />
@@ -340,7 +340,7 @@ Sie nimmt deine Shin und führt ihn auf den verschmutzten Tisch.
       <ID>50</ID>
       <DefaultText>Sie lacht gackernd vor Vergnügen. Sie krempelt die Ärmel hoch. Eitrige Furunkel und nässende Kratzer bedecken ihre Arme. Als du hinsiehst, schwillt eine an und platzt und spritzt zähflüssigen Eiter. Sie wischt ihn mit der bloßen Hand weg und wischt dann diese Hand an einem ihrer Werkzeuge ab.
 
-„Aye, und hat es geklappt? Der Flor gab mir diese Krankheit und ich weiß - ja ich *weiß* es - er will, dass ich dieses Geschenk auch anderen gebe. Der Große Verschlinger *teilt*! Würdest du dich etwa gegen den Flor stellen?</DefaultText>
+„Aye, und hat es geklappt? Der Flor gab mir diese Krankheit und ich weiß – ja ich *weiß* es – er will, dass ich dieses Geschenk auch anderen gebe. Der Große Verschlinger *teilt*! Würdest du dich etwa gegen den Flor stellen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -405,7 +405,7 @@ Sie nimmt deine Shin und führt ihn auf den verschmutzten Tisch.
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Die Ärztin muss vorsichtig sein, dass Riastrads Rüstung nicht ihre Instrumente beschädigt - sie scheint sich auf und ab zu bewegen, als wolle sie ihn verteidigen. Schließlich gelingt es ihr, seine schlimmsten Wunden zu versorgen und er geht wieder vom Tisch runter. Er stiefelt selbstbewusst an deine Seite.</DefaultText>
+      <DefaultText>Die Ärztin muss vorsichtig sein, dass Riastrads Rüstung nicht ihre Instrumente beschädigt – sie scheint sich auf und ab zu bewegen, als wolle sie ihn verteidigen. Schließlich gelingt es ihr, seine schlimmsten Wunden zu versorgen und er geht wieder vom Tisch runter. Er stiefelt selbstbewusst an deine Seite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -450,7 +450,7 @@ Sie nimmt deine Shin und führt ihn auf den verschmutzten Tisch.
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Die Ärztin muss vorsichtig sein, dass Riastrads Rüstung nicht ihre Instrumente beschädigt - sie scheint sich auf und ab zu bewegen, als wolle sie ihn verteidigen. Schließlich gelingt es ihr, seine schlimmsten Wunden zu versorgen und er geht wieder vom Tisch runter.
+      <DefaultText>Die Ärztin muss vorsichtig sein, dass Riastrads Rüstung nicht ihre Instrumente beschädigt – sie scheint sich auf und ab zu bewegen, als wolle sie ihn verteidigen. Schließlich gelingt es ihr, seine schlimmsten Wunden zu versorgen und er geht wieder vom Tisch runter.
 
 Er wankt ein wenig als er zu dir geht und seine Haut scheint leicht grünlich geworden zu sein.
 
