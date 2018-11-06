@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Wo ist euer Anführer?"</DefaultText>
+      <DefaultText>„Wo ist euer Anführer?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ihr müsst euren Posten verlassen. Sofort."</DefaultText>
+      <DefaultText>„Ihr müsst euren Posten verlassen. Sofort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Lebwohl."</DefaultText>
+      <DefaultText>„Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Krrrr. Hsssss."</DefaultText>
+      <DefaultText>„Krrrr. Hsssss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Würden [Global: c4221_MurdenSentryBribeAmount] Shin genügen, dass ihr einen Moment lang wegschaut?"
+      <DefaultText>„Würden [Global: c4221_MurdenSentryBribeAmount] Shin genügen, dass ihr einen Moment lang wegschaut?“
 
 {MONEY}</DefaultText>
       <FemaleText />
@@ -57,7 +57,7 @@ Entscheidung getroffen, steckt dir die Murde eine fettige Hand zu, und wartet, b
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Eure Gefangenen sind weg."</DefaultText>
+      <DefaultText>„Eure Gefangenen sind weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,8 +132,8 @@ Entscheidung getroffen, steckt dir die Murde eine fettige Hand zu, und wartet, b
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <DefaultText>„“</DefaultText>
+      <FemaleText>„…“</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -142,17 +142,17 @@ Entscheidung getroffen, steckt dir die Murde eine fettige Hand zu, und wartet, b
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Wo kann ich nochmal euren Anführer finden?"</DefaultText>
+      <DefaultText>„Wo kann ich nochmal euren Anführer finden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Sssssss."</DefaultText>
+      <DefaultText>„Sssssss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"...ssss."</DefaultText>
+      <DefaultText>„…ssss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,7 +162,7 @@ Entscheidung getroffen, steckt dir die Murde eine fettige Hand zu, und wartet, b
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ck-k-k-k!"</DefaultText>
+      <DefaultText>„Ck-k-k-k!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
