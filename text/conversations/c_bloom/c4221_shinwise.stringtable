@@ -31,9 +31,7 @@ Er versucht verzweifelt, an dir vorbeizukommen. „Lass mich hier raus, ich fleh
       <DefaultText>„Du willst, dass ich dich rauslasse? Dann musst du mir eine Schuld schwören.“
 
 {CRIT}</DefaultText>
-      <FemaleText>„Du willst, dass ich dich rauslasse? Dann musst du mir eine Schuld schwören.“
-
-{CRIT}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -62,16 +60,14 @@ Er schluckt und wirft erneut einen Blick über die Schulter. „Die Murden warfe
     <Entry>
       <ID>10</ID>
       <DefaultText>„Eine Schuld schwören? Eine *Schuld*? Wie … altbacken. Aber ich werde es tun. Ich schwöre, dass ich dir zu Diensten sein werde, wenn du mich aus diesem Gefängnis befreist. Also, bitte … bitte!“ Als du zur Seite trittst, jagt er den Gang hinunter und flüchtet in die Freiheit.</DefaultText>
-      <FemaleText>„Eine Schuld schwören? Eine *Schuld*? Wie … altbacken. Aber ich werde es tun. Ich schwöre, dass ich dir zu Diensten sein werde, wenn du mich aus diesem Gefängnis befreist. Also, bitte … bitte!“ Als du zur Seite trittst, jagt er den Gang hinunter und flüchtet in die Freiheit.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Er schaut dich an, öffnet den Mund, als wolle er schwören, und rennt plötzlich den Gang hinunter davon. Er befindet sich außer Reichweite, ehe du reagieren kannst, und dann … ist er weg.
 
 {COLIN/GEORGE: I don't understand this one. If Shinwise can just escape, why is he talking to the player at all? - Adam}</DefaultText>
-      <FemaleText>Er schaut dich an, öffnet den Mund, als wolle er schwören, und rennt plötzlich den Gang hinunter davon. Er befindet sich außer Reichweite, ehe du reagieren kannst, und dann … ist er weg.
-
-{COLIN/GEORGE: I don't understand this one. If Shinwise can just escape, why is he talking to the player at all? - Adam}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -114,9 +110,7 @@ Und an der gegenüberliegenden Wand – ein neuer Schlund; einer, der zuvor nich
       <DefaultText>„Ich erkenne das Brandzeichen auf deiner Wange. Die Justiziare in Sagus Klippen verwenden es für Mörder.“
 
 {COLIN/GEORGE: Consider making this a global flag check for the player having seen the mark in Zone A.}</DefaultText>
-      <FemaleText>„Ich erkenne das Brandzeichen auf deiner Wange. Die Justiziare in Sagus Klippen verwenden es für Mörder.“
-
-{COLIN/GEORGE: Consider making this a global flag check for the player having seen the mark in Zone A.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -126,7 +120,7 @@ Und an der gegenüberliegenden Wand – ein neuer Schlund; einer, der zuvor nich
     <Entry>
       <ID>20</ID>
       <DefaultText>Er beäugt dich schnell, dann sackt er zusammen. „Es ist wahr, ich habe ein paar Einbrecher getötet. Aber es hieß sie oder ich, ehrlich. Sie haben mich nur hier reingesteckt, weil eines der Opfer Verbindungen hatte.“</DefaultText>
-      <FemaleText>Er beäugt dich schnell, dann sackt er zusammen. „Es ist wahr, ich habe ein paar Einbrecher getötet. Aber es hieß sie oder ich, ehrlich. Sie haben mich nur hier reingesteckt, weil eines der Opfer Verbindungen hatte.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
@@ -183,16 +177,14 @@ Und an der gegenüberliegenden Wand – ein neuer Schlund; einer, der zuvor nich
     <Entry>
       <ID>47</ID>
       <DefaultText>„Ja, ja! Alles! Ich schulde dir eine Belohnung *und* einen Dienst, wenn du mich aus diesem Gefängnis befreist. Wie wäre das? Also, bitte … bitte!“ Als du zur Seite trittst, jagt er den Gang hinunter und flüchtet in die Freiheit.</DefaultText>
-      <FemaleText>„Ja, ja! Alles! Ich schulde dir eine Belohnung *und* einen Dienst, wenn du mich aus diesem Gefängnis befreist. Wie wäre das? Also, bitte … bitte!“ Als du zur Seite trittst, jagt er den Gang hinunter und flüchtet in die Freiheit.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>Er schaut auf seine Füße und öffnet den Mund, als wolle er schwören. Dann schlägt er plötzlich mit einem scharfkantigen Stein zu. Du machst vor Schmerzen einen Satz zurück. Darauf ist er außerhalb deiner Reichweite und verschwindet.
 
 {DAMAGE}</DefaultText>
-      <FemaleText>Er schaut auf seine Füße und öffnet den Mund, als wolle er schwören. Dann schlägt er plötzlich mit einem scharfkantigen Stein zu. Du machst vor Schmerzen einen Satz zurück. Darauf ist er außerhalb deiner Reichweite und verschwindet.
-
-{DAMAGE}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
