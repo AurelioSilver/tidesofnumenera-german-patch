@@ -8,12 +8,12 @@
       <ID>1</ID>
       <DefaultText>Der Mann ist klein gewachsen und dunkel, sein Gesicht ist vernarbt und entstellt. Eine seiner Verletzungen ist ein frisches Brandmal auf der Wange – eine stilisierte Klinge, von der Blut heruntertropft. Er trägt die Lumpen eines Flor-Sklaven, zerfleddert und schmutzig. 
 
-Er versucht verzweifelt, an dir vorbeizukommen. "Lass mich hier raus, ich flehe dich an. Dies ist kein Ort für einen Menschen!"</DefaultText>
+Er versucht verzweifelt, an dir vorbeizukommen. „Lass mich hier raus, ich flehe dich an. Dies ist kein Ort für einen Menschen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ehe ich dich rauslasse, beantworte mir ein paar Fragen."</DefaultText>
+      <DefaultText>„Ehe ich dich rauslasse, beantworte mir ein paar Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,15 +23,15 @@ Er versucht verzweifelt, an dir vorbeizukommen. "Lass mich hier raus, ich flehe 
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Du bist ein Mörder. Du verdienst den Tod." Schiebe ihn zurück in den Raum.</DefaultText>
+      <DefaultText>„Du bist ein Mörder. Du verdienst den Tod.“ Schiebe ihn zurück in den Raum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Du willst, dass ich dich rauslasse? Dann musst du mir eine Schuld schwören."
+      <DefaultText>„Du willst, dass ich dich rauslasse? Dann musst du mir eine Schuld schwören.“
 
 {CRIT}</DefaultText>
-      <FemaleText>"Du willst, dass ich dich rauslasse? Dann musst du mir eine Schuld schwören."
+      <FemaleText>„Du willst, dass ich dich rauslasse? Dann musst du mir eine Schuld schwören.“
 
 {CRIT}</FemaleText>
     </Entry>
@@ -39,19 +39,19 @@ Er versucht verzweifelt, an dir vorbeizukommen. "Lass mich hier raus, ich flehe 
       <ID>6</ID>
       <DefaultText>Er wirft einen Blick über die Schulter. Seine Nervosität ist mit jeder Zuckung offensichtlich und du kannst sehen, wie er darüber nachdenkt, dich umzurennen. Nachdem er diese mentale Berechnung abgeschlossen hat, rückt er ein wenig näher, doch er macht keine Anzeichen, loszustürmen. 
 
-"Also gut ... aber bitte macht schnell. Ich will nicht gefressen werden."</DefaultText>
+„Also gut … aber bitte macht schnell. Ich will nicht gefressen werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Was tust du hier?"</DefaultText>
+      <DefaultText>„Was tust du hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Kennst du diesen Auktionator bei der Festung der Memovira? Der mit den zu vielen Zähnen? Er hat mich an einen Kaufmann verkauft, angeblich, um einen Schlund zu öffnen. Dann verkaufte mich der Kaufmann an die Murden. Das ist nicht einmal *legal* – niemand darf Sklaven an die Murden verkaufen." 
+      <DefaultText>„Kennst du diesen Auktionator bei der Festung der Memovira? Der mit den zu vielen Zähnen? Er hat mich an einen Kaufmann verkauft, angeblich, um einen Schlund zu öffnen. Dann verkaufte mich der Kaufmann an die Murden. Das ist nicht einmal *legal* – niemand darf Sklaven an die Murden verkaufen.“ 
 
-Er schluckt und wirft erneut einen Blick über die Schulter. "Die Murden warfen mich in diese Zelle."</DefaultText>
+Er schluckt und wirft erneut einen Blick über die Schulter. „Die Murden warfen mich in diese Zelle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,15 +61,15 @@ Er schluckt und wirft erneut einen Blick über die Schulter. "Die Murden warfen 
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Eine Schuld schwören? Eine *Schuld*? Wie ... altbacken. Aber ich werde es tun. Ich schwöre, dass ich dir zu Diensten sein werde, wenn du mich aus diesem Gefängnis befreist. Also, bitte ... bitte!" Als du zur Seite trittst, jagt er den Gang hinunter und flüchtet in die Freiheit.</DefaultText>
-      <FemaleText>"Eine Schuld schwören? Eine *Schuld*? Wie ... altbacken. Aber ich werde es tun. Ich schwöre, dass ich dir zu Diensten sein werde, wenn du mich aus diesem Gefängnis befreist. Also, bitte ... bitte!" Als du zur Seite trittst, jagt er den Gang hinunter und flüchtet in die Freiheit.</FemaleText>
+      <DefaultText>„Eine Schuld schwören? Eine *Schuld*? Wie … altbacken. Aber ich werde es tun. Ich schwöre, dass ich dir zu Diensten sein werde, wenn du mich aus diesem Gefängnis befreist. Also, bitte … bitte!“ Als du zur Seite trittst, jagt er den Gang hinunter und flüchtet in die Freiheit.</DefaultText>
+      <FemaleText>„Eine Schuld schwören? Eine *Schuld*? Wie … altbacken. Aber ich werde es tun. Ich schwöre, dass ich dir zu Diensten sein werde, wenn du mich aus diesem Gefängnis befreist. Also, bitte … bitte!“ Als du zur Seite trittst, jagt er den Gang hinunter und flüchtet in die Freiheit.</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Er schaut dich an, öffnet den Mund, als wolle er schwören, und rennt plötzlich den Gang hinunter davon. Er befindet sich außer Reichweite, ehe du reagieren kannst, und dann ... ist er weg.
+      <DefaultText>Er schaut dich an, öffnet den Mund, als wolle er schwören, und rennt plötzlich den Gang hinunter davon. Er befindet sich außer Reichweite, ehe du reagieren kannst, und dann … ist er weg.
 
 {COLIN/GEORGE: I don't understand this one. If Shinwise can just escape, why is he talking to the player at all? - Adam}</DefaultText>
-      <FemaleText>Er schaut dich an, öffnet den Mund, als wolle er schwören, und rennt plötzlich den Gang hinunter davon. Er befindet sich außer Reichweite, ehe du reagieren kannst, und dann ... ist er weg.
+      <FemaleText>Er schaut dich an, öffnet den Mund, als wolle er schwören, und rennt plötzlich den Gang hinunter davon. Er befindet sich außer Reichweite, ehe du reagieren kannst, und dann … ist er weg.
 
 {COLIN/GEORGE: I don't understand this one. If Shinwise can just escape, why is he talking to the player at all? - Adam}</FemaleText>
     </Entry>
@@ -80,7 +80,7 @@ Er schluckt und wirft erneut einen Blick über die Schulter. "Die Murden warfen 
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Bei den Schwarzen Drei ... was ist *das*?" Sein wildes Klopfen gegen die Tür wird immer eindringlicher. "Du kannst mich nicht hier lassen! Sie dürfen nicht- *Oh Götter, nein*!"
+      <DefaultText>„Bei den Schwarzen Drei … was ist *das*?“ Sein wildes Klopfen gegen die Tür wird immer eindringlicher. „Du kannst mich nicht hier lassen! Sie dürfen nicht- *Oh Götter, nein*!“
 
 Ein kreischender, zischender Lärm lässt seine Worte untergehen. Das Geräusch ist organisch, doch merkwürdig fremdartig, und es lässt dich unfreiwillig erschaudern. 
 
@@ -89,53 +89,53 @@ Dann setzen die Schreie ein, die sich in Höhe und Schmerz steigern. Das feuchte
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Auf einmal verstummt der Lärm, als wäre er vollständig abgestellt worden. Du öffnest die Tür einen Spalt weit auf und siehst nichts außer blutigen Fleischstücken und Innereien ... die Überreste des glücklosen Sklaven.
+      <DefaultText>Auf einmal verstummt der Lärm, als wäre er vollständig abgestellt worden. Du öffnest die Tür einen Spalt weit auf und siehst nichts außer blutigen Fleischstücken und Innereien … die Überreste des glücklosen Sklaven.
 
 Und an der gegenüberliegenden Wand – ein neuer Schlund; einer, der zuvor nicht dort gewesen ist. Er öffnet sich weit und offenbart darin eine glühende Singularität.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Was ist das für ein Symbol auf deiner Wange?"</DefaultText>
+      <DefaultText>„Was ist das für ein Symbol auf deiner Wange?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ich bin ... Ich bin Shinwise. Ich wurde von den Levys erwischt, als ich für meine alte Mutter ein wenig Schlafwein stahl. Sie liegt im Sterben und ich konnte mir keinen Cheirurgen leisten, und ich habe das nie zuvor getan. Dachte, ich versuche mein Glück mit Flor-Sklaverei, um meine Schulden zu begleichen und nach Hause zu kommen. Ich hätte nie gedacht, dass ich hier landen würde."</DefaultText>
+      <DefaultText>„Ich bin … Ich bin Shinwise. Ich wurde von den Levys erwischt, als ich für meine alte Mutter ein wenig Schlafwein stahl. Sie liegt im Sterben und ich konnte mir keinen Cheirurgen leisten, und ich habe das nie zuvor getan. Dachte, ich versuche mein Glück mit Flor-Sklaverei, um meine Schulden zu begleichen und nach Hause zu kommen. Ich hätte nie gedacht, dass ich hier landen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ich erkenne das Brandzeichen auf deiner Wange. Die Justiziare in Sagus Klippen verwenden es für Mörder."
+      <DefaultText>„Ich erkenne das Brandzeichen auf deiner Wange. Die Justiziare in Sagus Klippen verwenden es für Mörder.“
 
 {COLIN/GEORGE: Consider making this a global flag check for the player having seen the mark in Zone A.}</DefaultText>
-      <FemaleText>"Ich erkenne das Brandzeichen auf deiner Wange. Die Justiziare in Sagus Klippen verwenden es für Mörder."
+      <FemaleText>„Ich erkenne das Brandzeichen auf deiner Wange. Die Justiziare in Sagus Klippen verwenden es für Mörder.“
 
 {COLIN/GEORGE: Consider making this a global flag check for the player having seen the mark in Zone A.}</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Nur eine Tätowierung, ja? Bedeutet gar nichts." Seine Augen blicken ruckartig nach links und rechts.</DefaultText>
+      <DefaultText>„Nur eine Tätowierung, ja? Bedeutet gar nichts.“ Seine Augen blicken ruckartig nach links und rechts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Er beäugt dich schnell, dann sackt er zusammen. "Es ist wahr, ich habe ein paar Einbrecher getötet. Aber es hieß sie oder ich, ehrlich. Sie haben mich nur hier reingesteckt, weil eines der Opfer Verbindungen hatte."</DefaultText>
-      <FemaleText>Er beäugt dich schnell, dann sackt er zusammen. "Es ist wahr, ich habe ein paar Einbrecher getötet. Aber es hieß sie oder ich, ehrlich. Sie haben mich nur hier reingesteckt, weil eines der Opfer Verbindungen hatte."</FemaleText>
+      <DefaultText>Er beäugt dich schnell, dann sackt er zusammen. „Es ist wahr, ich habe ein paar Einbrecher getötet. Aber es hieß sie oder ich, ehrlich. Sie haben mich nur hier reingesteckt, weil eines der Opfer Verbindungen hatte.“</DefaultText>
+      <FemaleText>Er beäugt dich schnell, dann sackt er zusammen. „Es ist wahr, ich habe ein paar Einbrecher getötet. Aber es hieß sie oder ich, ehrlich. Sie haben mich nur hier reingesteckt, weil eines der Opfer Verbindungen hatte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ich habe keine weiteren Fragen."</DefaultText>
+      <DefaultText>„Ich habe keine weiteren Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Bedeutet das, du lässt mich gehen? Bitte. *Bitte*."</DefaultText>
+      <DefaultText>„Bedeutet das, du lässt mich gehen? Bitte. *Bitte*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,24 +145,24 @@ Und an der gegenüberliegenden Wand – ein neuer Schlund; einer, der zuvor nich
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Sag mir, was in dem Raum ist. Warum hast du Angst davor?"</DefaultText>
+      <DefaultText>„Sag mir, was in dem Raum ist. Warum hast du Angst davor?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Er schaut dich ungläubig an. "Der Boden ist mit Blut bedeckt, die Knochen sind entzwei und der Geruch des Todes ist überall." Er bricht ab und sieht zurück, offensichtlich verzweifelt. 
+      <DefaultText>Er schaut dich ungläubig an. „Der Boden ist mit Blut bedeckt, die Knochen sind entzwei und der Geruch des Todes ist überall.“ Er bricht ab und sieht zurück, offensichtlich verzweifelt. 
 
-"Ich *weiß* nicht, was hier drin ist, aber ich habe Dinge gesehen ... Dinge mit Tentakeln ... die sich an den Rändern des Raums umherbewegen."</DefaultText>
+„Ich *weiß* nicht, was hier drin ist, aber ich habe Dinge gesehen … Dinge mit Tentakeln … die sich an den Rändern des Raums umherbewegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Das ist das Zeichen eines Mörders", sagt Matkina sofort. "Selbst wenn ein Mörder die Flor-Sklaverei überlebt, werden die Leute immer wissen, mit wem sie es zu tun haben. Es ist ein spezielles Brandzeichen, das durch Schminke und Verschleierungen schimmert." Sie kichert über einen Witz, den nur sie kennt.</DefaultText>
+      <DefaultText>„Das ist das Zeichen eines Mörders“, sagt Matkina sofort. „Selbst wenn ein Mörder die Flor-Sklaverei überlebt, werden die Leute immer wissen, mit wem sie es zu tun haben. Es ist ein spezielles Brandzeichen, das durch Schminke und Verschleierungen schimmert.“ Sie kichert über einen Witz, den nur sie kennt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Das?" Tybir sieht genauer hin. "Das ist das Symbol, das sie verwenden, um Mörder in der Stadt zu brandmarken. Dir wird auffallen, dass *ich* keines habe."</DefaultText>
+      <DefaultText>„Das?“ Tybir sieht genauer hin. „Das ist das Symbol, das sie verwenden, um Mörder in der Stadt zu brandmarken. Dir wird auffallen, dass *ich* keines habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,13 +177,13 @@ Und an der gegenüberliegenden Wand – ein neuer Schlund; einer, der zuvor nich
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Ich heiße Shinwise. Ich habe ein paar Schurken unten in Schattenseite getötet. Deshalb bin ich ein Flor-Sklave."</DefaultText>
+      <DefaultText>„Ich heiße Shinwise. Ich habe ein paar Schurken unten in Schattenseite getötet. Deshalb bin ich ein Flor-Sklave.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Ja, ja! Alles! Ich schulde dir eine Belohnung *und* einen Dienst, wenn du mich aus diesem Gefängnis befreist. Wie wäre das? Also, bitte ... bitte!" Als du zur Seite trittst, jagt er den Gang hinunter und flüchtet in die Freiheit.</DefaultText>
-      <FemaleText>"Ja, ja! Alles! Ich schulde dir eine Belohnung *und* einen Dienst, wenn du mich aus diesem Gefängnis befreist. Wie wäre das? Also, bitte ... bitte!" Als du zur Seite trittst, jagt er den Gang hinunter und flüchtet in die Freiheit.</FemaleText>
+      <DefaultText>„Ja, ja! Alles! Ich schulde dir eine Belohnung *und* einen Dienst, wenn du mich aus diesem Gefängnis befreist. Wie wäre das? Also, bitte … bitte!“ Als du zur Seite trittst, jagt er den Gang hinunter und flüchtet in die Freiheit.</DefaultText>
+      <FemaleText>„Ja, ja! Alles! Ich schulde dir eine Belohnung *und* einen Dienst, wenn du mich aus diesem Gefängnis befreist. Wie wäre das? Also, bitte … bitte!“ Als du zur Seite trittst, jagt er den Gang hinunter und flüchtet in die Freiheit.</FemaleText>
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -203,22 +203,22 @@ Und an der gegenüberliegenden Wand – ein neuer Schlund; einer, der zuvor nich
       <ID>50</ID>
       <DefaultText>Er schlägt wild gegen die Tür und seine Stimme verändert sich dramatisch, verglichen mit dem höflichen und nervösen Tonfall zuvor.
 
-"Du pockenäugiger Bastard! Ich werde dich abschlachten! Ich werde das Blut deiner Mutter trinken! Ich werde die Leiche deines Vaters schänden! Ich werde-" Er bricht abrupt ab.</DefaultText>
+„Du pockenäugiger Bastard! Ich werde dich abschlachten! Ich werde das Blut deiner Mutter trinken! Ich werde die Leiche deines Vaters schänden! Ich werde-“ Er bricht abrupt ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Jemand hat dich aus einem bestimmten Grund da reingesteckt." Schiebe ihn zurück in den Raum.</DefaultText>
+      <DefaultText>„Jemand hat dich aus einem bestimmten Grund da reingesteckt.“ Schiebe ihn zurück in den Raum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Ich habe gesehen, wie sie vor mir eine andere Sklavin in diesen Raum geworfen haben. Ich habe sie schreien gehört. So viel Blut." Er schaut flehend an dir vorbei. "Bitte ... lass mich hier raus."</DefaultText>
+      <DefaultText>„Ich habe gesehen, wie sie vor mir eine andere Sklavin in diesen Raum geworfen haben. Ich habe sie schreien gehört. So viel Blut.“ Er schaut flehend an dir vorbei. „Bitte … lass mich hier raus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Die Augen des kleinen Mannes schauen ruckartig nach links und nach rechts. Er leckt sich die Lippen. "Es ist wahr, ich habe ein paar Schurken in Schattenseite getötet. Aber es hieß sie oder ich, ehrlich. Gourmandus verriet mich an die Levys, weil einer von denen, die ich getötet habe, für ihn gearbeitet hatte. Ansonsten hätte es ihn nicht interessiert."</DefaultText>
+      <DefaultText>Die Augen des kleinen Mannes schauen ruckartig nach links und nach rechts. Er leckt sich die Lippen. „Es ist wahr, ich habe ein paar Schurken in Schattenseite getötet. Aber es hieß sie oder ich, ehrlich. Gourmandus verriet mich an die Levys, weil einer von denen, die ich getötet habe, für ihn gearbeitet hatte. Ansonsten hätte es ihn nicht interessiert.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
