@@ -50,7 +50,7 @@ Wenigstens ist die Tür offen.
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Du stellst dich vor die Tür und machst dich an die Arbeit. Du deaktivierst vorsichtig den Auslösemechanismus ... löst jedoch versehentlich einen anderen aus. Die Falle schnappt zu und du wirst von Kopf bis Fuß mit Säure besprüht! 
+      <DefaultText>Du stellst dich vor die Tür und machst dich an die Arbeit. Du deaktivierst vorsichtig den Auslösemechanismus … löst jedoch versehentlich einen anderen aus. Die Falle schnappt zu und du wirst von Kopf bis Fuß mit Säure besprüht! 
 
 Zum Glück beschädigt die Säure auch das Schloss und die Tür schwingt auf.</DefaultText>
       <FemaleText />
@@ -77,7 +77,7 @@ Zum Glück beschädigt die Säure auch das Schloss und die Tür schwingt auf.</D
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Du wuchtest dich gegen die Tür und irgendwie triffst du sie genau richtig. Das Schloss bricht ... und du löst die Falle aus, die fachmännisch darin verborgen war. Molekulare Säure sprüht auf deine Bekleidung und dein Fleisch. Der Schmerz ist unerträglich ... doch wenigstens ist die Tür offen.
+      <DefaultText>Du wuchtest dich gegen die Tür und irgendwie triffst du sie genau richtig. Das Schloss bricht … und du löst die Falle aus, die fachmännisch darin verborgen war. Molekulare Säure sprüht auf deine Bekleidung und dein Fleisch. Der Schmerz ist unerträglich … doch wenigstens ist die Tür offen.
 
 {DAMAGE}</DefaultText>
       <FemaleText />
@@ -226,7 +226,7 @@ Du bist nun stolzer Besitzer eines kleinen Beutels mit molekularer Säure.
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Wartet. Ich habe solche Schlösser schon einmal gesehen. Sie haben innen normalerweise versteckte Kammern. Ich wette, dass dieses hier eine angenehme Überraschung bereithält."</DefaultText>
+      <DefaultText>„Wartet. Ich habe solche Schlösser schon einmal gesehen. Sie haben innen normalerweise versteckte Kammern. Ich wette, dass dieses hier eine angenehme Überraschung bereithält.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
