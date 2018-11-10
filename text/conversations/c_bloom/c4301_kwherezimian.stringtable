@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Diese blasse, geisterhafte Gestalt trägt fremdartige Kleidung und einen gehörnten Helm. Undurchsichtige, wirre Narben von einer unbekannten Waffe winden und krümmen sich über seinen durchsichtigen Körper.
 
-"Oh", sagt er und neigt den Kopf. "Du. Hast du schon meinen Bruder gefunden?"
+„Oh“, sagt er und neigt den Kopf. „Du. Hast du schon meinen Bruder gefunden?“
 
 {GAVIN: Get someone to sanity check this.}
 {GAVIN: Test this sucker when previewer is working.}</DefaultText>
@@ -16,46 +16,46 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hallo nochmal", sagt er und salutiert vor dir. Der große Helm kippt nach vorne und verdeckt ihm die Augen. "Verdammt."</DefaultText>
+      <DefaultText>„Hallo nochmal“, sagt er und salutiert vor dir. Der große Helm kippt nach vorne und verdeckt ihm die Augen. „Verdammt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wirklich?", sagt er stöhnend. "Du hast mir gesagt, dass du ..." Er bricht ab und schlägt sich auf die Stirn. Der Aufprall lässt seinen Helm nach vorne kippen und er greift nach oben, um ihn dort festzuhalten.
+      <DefaultText>„Wirklich?“, sagt er stöhnend. „Du hast mir gesagt, dass du …“ Er bricht ab und schlägt sich auf die Stirn. Der Aufprall lässt seinen Helm nach vorne kippen und er greift nach oben, um ihn dort festzuhalten.
 
-"Natürlich. Richtig. Dies ist das erste Mal, dass wir uns treffen, richtig?"</DefaultText>
+„Natürlich. Richtig. Dies ist das erste Mal, dass wir uns treffen, richtig?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wir haben uns noch nie zuvor gesehen."</DefaultText>
+      <DefaultText>„Wir haben uns noch nie zuvor gesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Hätte ich nach ihm suchen sollen?"</DefaultText>
+      <DefaultText>„Hätte ich nach ihm suchen sollen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ha. Natürlich haben wir das", sagt er und hält den großen Helm fest. "Du … oh. Richtig. Dies ist das erste Mal, dass wir uns treffen, richtig?"</DefaultText>
+      <DefaultText>„Ha. Natürlich haben wir das“, sagt er und hält den großen Helm fest. „Du … oh. Richtig. Dies ist das erste Mal, dass wir uns treffen, richtig?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Bist du ein Geist?"</DefaultText>
+      <DefaultText>„Bist du ein Geist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"So würde ich das gerne sehen", sagt er schulterzuckend. "Ich kann mich aber nicht wirklich daran erinnern, gestorben zu sein. Nur an die Reise und die Suche. Und man sollte meinen, dieser Helm würde sich nicht hin und her bewegen, wenn ich, na ja, ein Spektralwesen wäre."
+      <DefaultText>„So würde ich das gerne sehen“, sagt er schulterzuckend. „Ich kann mich aber nicht wirklich daran erinnern, gestorben zu sein. Nur an die Reise und die Suche. Und man sollte meinen, dieser Helm würde sich nicht hin und her bewegen, wenn ich, na ja, ein Spektralwesen wäre.“
 
-Er lässt ein Grinsen aufblitzen. "Andererseits scheine ich mich daran zu erinnern, meinem Bruder versprochen zu haben, ihn heimzusuchen, wenn ich sterbe. Das ist also eher ein Beweis für das Gegenteil."</DefaultText>
+Er lässt ein Grinsen aufblitzen. „Andererseits scheine ich mich daran zu erinnern, meinem Bruder versprochen zu haben, ihn heimzusuchen, wenn ich sterbe. Das ist also eher ein Beweis für das Gegenteil.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Er richtet sich auf und hält die Hand formell hin. "Hallo. Ich bin Kwherezimian und ich reise seit Millionen Jahren auf der Suche nach meinem Bruder durch die Zeit. Schön, dich kennenzulernen."</DefaultText>
+      <DefaultText>Er richtet sich auf und hält die Hand formell hin. „Hallo. Ich bin Kwherezimian und ich reise seit Millionen Jahren auf der Suche nach meinem Bruder durch die Zeit. Schön, dich kennenzulernen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,38 +65,38 @@ Er lässt ein Grinsen aufblitzen. "Andererseits scheine ich mich daran zu erinne
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Wird meine Hand deine nicht durchdringen?"</DefaultText>
+      <DefaultText>„Wird meine Hand deine nicht durchdringen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Verdammt", sagt er grinsend. "Jedes Mal, wenn wir das tun, hoffe ich, dass du darauf reinfällst. Und du tust es fast nie."</DefaultText>
+      <DefaultText>„Verdammt“, sagt er grinsend. „Jedes Mal, wenn wir das tun, hoffe ich, dass du darauf reinfällst. Und du tust es fast nie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Wie oft haben wir schon miteinander gesprochen?"</DefaultText>
+      <DefaultText>„Wie oft haben wir schon miteinander gesprochen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Gute Frage", sagt er und konsultiert eine unsichtbare, mentale Liste direkt über deinem Kopf. "Tausend Mal, würde ich sagen. Immer ein Vergnügen, wohlgemerkt, obwohl ich nicht weiß, warum wir immer wieder aufeinandertreffen. Sonst sehe ich niemanden öfter als ein Mal."
+      <DefaultText>„Gute Frage“, sagt er und konsultiert eine unsichtbare, mentale Liste direkt über deinem Kopf. „Tausend Mal, würde ich sagen. Immer ein Vergnügen, wohlgemerkt, obwohl ich nicht weiß, warum wir immer wieder aufeinandertreffen. Sonst sehe ich niemanden öfter als ein Mal.“
 
-Er blinzelt. "Wenn ich raten müsste, liegt das an deiner Beziehung zu den Gezeiten. Aber das kümmert mich nicht. Es ist schön, ein bekanntes Gesicht zu sehen."</DefaultText>
+Er blinzelt. „Wenn ich raten müsste, liegt das an deiner Beziehung zu den Gezeiten. Aber das kümmert mich nicht. Es ist schön, ein bekanntes Gesicht zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Deine Hand gleitet direkt durch seine und er schlägt vor Vergnügen in die Luft.
 
-"Ha! Du fällst so gut wie nie darauf rein! Das wird mich wenigstens für die nächsten hundert Male, wenn du *nicht* versuchst, mir die Hand zu geben, bei Laune halten."
+„Ha! Du fällst so gut wie nie darauf rein! Das wird mich wenigstens für die nächsten hundert Male, wenn du *nicht* versuchst, mir die Hand zu geben, bei Laune halten.“
 
-Er erwidert deinen Blick und zuckt mit den Schultern. Durch die Bewegung kippt der Helm wieder nach vorne. "He. Ich mache das schon lange. Man findet überall Unterhaltung, wo man nur kann."</DefaultText>
+Er erwidert deinen Blick und zuckt mit den Schultern. Durch die Bewegung kippt der Helm wieder nach vorne. „He. Ich mache das schon lange. Man findet überall Unterhaltung, wo man nur kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Auf jeden Fall. Lass mich wissen, falls du meinen Bruder siehst, ja?"</DefaultText>
+      <DefaultText>„Auf jeden Fall. Lass mich wissen, falls du meinen Bruder siehst, ja?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,82 +106,82 @@ Er erwidert deinen Blick und zuckt mit den Schultern. Durch die Bewegung kippt d
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Wie sieht dein Bruder denn aus?"</DefaultText>
+      <DefaultText>„Wie sieht dein Bruder denn aus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Wo ist dein Bruder nochmal?"</DefaultText>
+      <DefaultText>„Wo ist dein Bruder nochmal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Nun, im Prinzip so wie ich, ohne den Helm", sagt er nachdenklich. "Und er kommt aus einer lange vergangenen Welt, seine Kleidung könnte also ..."
+      <DefaultText>„Nun, im Prinzip so wie ich, ohne den Helm“, sagt er nachdenklich. „Und er kommt aus einer lange vergangenen Welt, seine Kleidung könnte also …“
 
-Er hält inne. "Oh. Richtig. Ich mache das jedes Mal, wenn wir uns treffen. Es ist nur, dass normalweise Jahrhunderte vergehen, ehe ich auf dich treffe, und jedes Mal vergesse ich, dass du ihn unmöglich gesehen haben kannst." Er zwinkert, doch es hat einen Hauch von Kummer. "Wie auch immer, lass mich wissen, falls du ihn siehst, ja?"</DefaultText>
+Er hält inne. „Oh. Richtig. Ich mache das jedes Mal, wenn wir uns treffen. Es ist nur, dass normalweise Jahrhunderte vergehen, ehe ich auf dich treffe, und jedes Mal vergesse ich, dass du ihn unmöglich gesehen haben kannst.“ Er zwinkert, doch es hat einen Hauch von Kummer. „Wie auch immer, lass mich wissen, falls du ihn siehst, ja?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Eine Welt, lange vor dieser hier", sagt er. "Millionen Jahre wahrscheinlich. Vielleicht noch mehr. Doch ich werde ihn wiedersehen. Irgendwann."</DefaultText>
+      <DefaultText>„Eine Welt, lange vor dieser hier“, sagt er. „Millionen Jahre wahrscheinlich. Vielleicht noch mehr. Doch ich werde ihn wiedersehen. Irgendwann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Was hat es mit diesem Helm auf sich?"</DefaultText>
+      <DefaultText>„Was hat es mit diesem Helm auf sich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Bin so froh, dass du fragst", sagt er und sieht auch so aus. "Ich liebe diese Geschichte."
+      <DefaultText>„Bin so froh, dass du fragst“, sagt er und sieht auch so aus. „Ich liebe diese Geschichte.“
 
-Er zentriert den Helm auf seinem Kopf. "Einmal bin ich auf diesem Schlachtfeld aufgetaucht. Es war … nun, es war für die Seite, die diese Helme trug, nicht besonders gut gelaufen. Ich lief diesen geschwärzten Hügel hinauf, folgte den Rufen, und dann sah ich … es war wahrscheinlich einst eine Stadt gewesen. Doch sie brannte und wurde von schwarzen Flammen bedeckt."</DefaultText>
+Er zentriert den Helm auf seinem Kopf. „Einmal bin ich auf diesem Schlachtfeld aufgetaucht. Es war … nun, es war für die Seite, die diese Helme trug, nicht besonders gut gelaufen. Ich lief diesen geschwärzten Hügel hinauf, folgte den Rufen, und dann sah ich … es war wahrscheinlich einst eine Stadt gewesen. Doch sie brannte und wurde von schwarzen Flammen bedeckt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Er schüttelt den Kopf. Der Helm macht die Bewegung nicht mit.
 
-"Es waren nur zwei Kämpfer übrig – der große Mann, der diesen Helm trug, und … sie. Sie war *riesig* und bestand aus schreienden Schatten desselben schwarzen Feuers, und als der Krieger brüllend auf sie losstürmte … berührte sie ihn einfach nur. Sie berührte ihn und er fiel zuckend und brennend zu Boden."
+„Es waren nur zwei Kämpfer übrig – der große Mann, der diesen Helm trug, und … sie. Sie war *riesig* und bestand aus schreienden Schatten desselben schwarzen Feuers, und als der Krieger brüllend auf sie losstürmte … berührte sie ihn einfach nur. Sie berührte ihn und er fiel zuckend und brennend zu Boden.“
 
-Er schaut zu dir hinauf. "Als wir uns einmal trafen, sagtest du mir, dass sie 'Kummer' genannt wird. Da dies das erste Mal ist, dass wir uns treffen, schätze ich, dass du ein paar Fragen an *mich* hast."</DefaultText>
+Er schaut zu dir hinauf. „Als wir uns einmal trafen, sagtest du mir, dass sie 'Kummer' genannt wird. Da dies das erste Mal ist, dass wir uns treffen, schätze ich, dass du ein paar Fragen an *mich* hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Der Kummer zerstörte eine Stadt?"</DefaultText>
+      <DefaultText>„Der Kummer zerstörte eine Stadt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Eine große. Ungefähr von der Größe dreier Sagus und einer Flor", sagt er. "Doch, äh, die Leute in der Stadt missbrauchten irgendwie die Gezeiten."</DefaultText>
+      <DefaultText>„Eine große. Ungefähr von der Größe dreier Sagus und einer Flor“, sagt er. „Doch, äh, die Leute in der Stadt missbrauchten irgendwie die Gezeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Eigentlich will ich nur wissen, was der Helm mit dieser Geschichte zu tun hat."</DefaultText>
+      <DefaultText>„Eigentlich will ich nur wissen, was der Helm mit dieser Geschichte zu tun hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Nun, die Stadt, die ich erwähnte? Die, die in den Flammen des Kummers brannte? Sie entzogen den Gezeiten Kraft. *Sehr viel* Kraft."</DefaultText>
+      <DefaultText>„Nun, die Stadt, die ich erwähnte? Die, die in den Flammen des Kummers brannte? Sie entzogen den Gezeiten Kraft. *Sehr viel* Kraft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Deine Wahrnehmung der Zeit ist ein wenig verwirrend."</DefaultText>
+      <DefaultText>„Deine Wahrnehmung der Zeit ist ein wenig verwirrend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Hehe", lacht er. "Für mich ist es nicht viel verständlicher."</DefaultText>
+      <DefaultText>„Hehe“, lacht er. „Für mich ist es nicht viel verständlicher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Gemessen an dem, was du mir über den Kummer gesagt hast, macht sie so etwas wirklich unglücklich."
+      <DefaultText>„Gemessen an dem, was du mir über den Kummer gesagt hast, macht sie so etwas wirklich unglücklich.“
 
-Er richtet den Helm erneut. "Aber ich glaube nicht, dass sie es verdient hatten, zu verschwinden, ganz gleich, was sie getan hatten. Also nahm ich den Helm des Kriegers, als er, du weißt schon, nicht mehr so dahinschmolz. Nun trage ich ihn mit mir herum, um mich an sie zu erinnern."</DefaultText>
+Er richtet den Helm erneut. „Aber ich glaube nicht, dass sie es verdient hatten, zu verschwinden, ganz gleich, was sie getan hatten. Also nahm ich den Helm des Kriegers, als er, du weißt schon, nicht mehr so dahinschmolz. Nun trage ich ihn mit mir herum, um mich an sie zu erinnern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,68 +191,68 @@ Er richtet den Helm erneut. "Aber ich glaube nicht, dass sie es verdient hatten,
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Warte! Du weißt über die Gezeiten bescheid?"</DefaultText>
+      <DefaultText>„Warte! Du weißt über die Gezeiten bescheid?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Was hast du nochmal mit mir gemacht?"</DefaultText>
+      <DefaultText>„Was hast du nochmal mit mir gemacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Natürlich!", sagt er und hebt überdrüssig den Finger. "Entschuldigung. Ich vergaß. Das erste Mal, ich weiß."
+      <DefaultText>„Natürlich!“, sagt er und hebt überdrüssig den Finger. „Entschuldigung. Ich vergaß. Das erste Mal, ich weiß.“
 
-Er gähnt.  "Sie ziehen mich von Ort zu Ort, wie normale Gezeiten es tun. Deshalb sehe ich verschiedene Zeiten und Orte und verweile nie lange an einer Stelle. Gezeiten ruhen nicht, genauso wenig wie ich."
+Er gähnt.  „Sie ziehen mich von Ort zu Ort, wie normale Gezeiten es tun. Deshalb sehe ich verschiedene Zeiten und Orte und verweile nie lange an einer Stelle. Gezeiten ruhen nicht, genauso wenig wie ich.“
 
 Er gähnt noch stärker.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich habe es für dich einfacher gemacht, die Gezeiten in anderen Leuten zu spüren und zu kontrollieren", sagt er. "Mach dir wegen einer Bezahlung keine Gedanken. Meine Taschen funktionieren nicht."</DefaultText>
+      <DefaultText>„Ich habe es für dich einfacher gemacht, die Gezeiten in anderen Leuten zu spüren und zu kontrollieren“, sagt er. „Mach dir wegen einer Bezahlung keine Gedanken. Meine Taschen funktionieren nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Lebwohl."</DefaultText>
+      <DefaultText>„Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Bis zum nächsten Mal."</DefaultText>
+      <DefaultText>„Bis zum nächsten Mal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Wo kommen die Narben her?"</DefaultText>
+      <DefaultText>„Wo kommen die Narben her?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Das ist manchmal ein wenig ermüdend. Oder zumindest denke ich, dass ich müde bin, was wahrscheinlich auf das Gleiche hinausläuft."
+      <DefaultText>„Das ist manchmal ein wenig ermüdend. Oder zumindest denke ich, dass ich müde bin, was wahrscheinlich auf das Gleiche hinausläuft.“
 
-"He", sagt er und schaut dich konzentriert an. "Kannst du eigentlich die Gezeiten spüren, die durch mich hindurchfließen?"</DefaultText>
+„He“, sagt er und schaut dich konzentriert an. „Kannst du eigentlich die Gezeiten spüren, die durch mich hindurchfließen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>(Lüge) "Ja."</DefaultText>
+      <DefaultText>(Lüge) „Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Nein."</DefaultText>
+      <DefaultText>„Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Natürlich hast du das", antwortet er und verdreht die Augen. "Deshalb warst du überrascht, als ich sie erwähnt hatte."</DefaultText>
+      <DefaultText>„Natürlich hast du das“, antwortet er und verdreht die Augen. „Deshalb warst du überrascht, als ich sie erwähnt hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Nun, beheben wir das", sagt er und knackt mit den geisterhaften Fingerknöcheln.</DefaultText>
+      <DefaultText>„Nun, beheben wir das“, sagt er und knackt mit den geisterhaften Fingerknöcheln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,37 +261,37 @@ Er gähnt noch stärker.</DefaultText>
 
 Und du siehst, wie sie deine Schultern umrunden und zu ihm zurückströmen, wodurch ihr zusammengebunden werdet.
 
-"So", sagt er. "Jetzt sollte es einfacher für dich sein, die Gezeiten zu spüren. Denk nur daran, dass *sie* da draußen ist. Mit den Gezeiten herumzutreiben, scheint sie nicht wütend zu machen. Die Gezeiten zu missbrauchen? Ich empfehle das nicht."</DefaultText>
+„So“, sagt er. „Jetzt sollte es einfacher für dich sein, die Gezeiten zu spüren. Denk nur daran, dass *sie* da draußen ist. Mit den Gezeiten herumzutreiben, scheint sie nicht wütend zu machen. Die Gezeiten zu missbrauchen? Ich empfehle das nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Das ist manchmal ein wenig ermüdend. Oder zumindest denke ich, dass ich müde bin, was wahrscheinlich auf das Gleiche hinausläuft."</DefaultText>
+      <DefaultText>„Das ist manchmal ein wenig ermüdend. Oder zumindest denke ich, dass ich müde bin, was wahrscheinlich auf das Gleiche hinausläuft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Was weißt du nochmal über die Gezeiten?"</DefaultText>
+      <DefaultText>„Was weißt du nochmal über die Gezeiten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Sie ziehen mich umher", sagt er einfach. "Durch Welten, durch die Zeit. Es wäre überraschender, wenn ich nichts von ihnen wüsste."</DefaultText>
+      <DefaultText>„Sie ziehen mich umher“, sagt er einfach. „Durch Welten, durch die Zeit. Es wäre überraschender, wenn ich nichts von ihnen wüsste.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Narben?", fragt er und schaut an sich hinab. "Oh. Die sehen schmerzhaft aus. Keine Ahnung. Ich muss aber sagen, ich bin froh, dass ich mich nicht erinnern kann."</DefaultText>
+      <DefaultText>„Narben?“, fragt er und schaut an sich hinab. „Oh. Die sehen schmerzhaft aus. Keine Ahnung. Ich muss aber sagen, ich bin froh, dass ich mich nicht erinnern kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Du bist aus diesem Schlund gekommen. Bist du mit der Flor verbunden?"</DefaultText>
+      <DefaultText>„Du bist aus diesem Schlund gekommen. Bist du mit der Flor verbunden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Mit der was?" Er schaut sich um. "Oh. Nein, bin ich nicht. Es ist nur eine Art – nun, nennen wir es 'Schwimmen' – zwischen verschiedenen Orten. Der Strömung folgen, verstehst du? Jemand hat einen Stöpsel gezogen und hier bin ich."</DefaultText>
+      <DefaultText>„Mit der was?“ Er schaut sich um. „Oh. Nein, bin ich nicht. Es ist nur eine Art – nun, nennen wir es 'Schwimmen' – zwischen verschiedenen Orten. Der Strömung folgen, verstehst du? Jemand hat einen Stöpsel gezogen und hier bin ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,14 +311,14 @@ Und du siehst, wie sie deine Schultern umrunden und zu ihm zurückströmen, wodu
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>::mmmm::, summt Oom neben dir mit leuchtenden Augen. Du spürst das plötzliche Verlangen, deine Hände erneut auf sie zu legen.
+      <DefaultText>„::mmmm::„, summt Oom neben dir mit leuchtenden Augen. Du spürst das plötzliche Verlangen, deine Hände erneut auf sie zu legen.
 
  Du blinzelst den Drang weg und konzentrierst dich wieder auf Kwherezimian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>::mmmm::, summt Oom neben dir mit leuchtenden Augen. Du spürst das plötzliche Verlangen, deine Hände erneut auf sie zu legen.
+      <DefaultText>„::mmmm::„, summt Oom neben dir mit leuchtenden Augen. Du spürst das plötzliche Verlangen, deine Hände erneut auf sie zu legen.
 
  Du blinzelst den Drang weg und konzentrierst dich wieder auf Kwherezimian.</DefaultText>
       <FemaleText />
