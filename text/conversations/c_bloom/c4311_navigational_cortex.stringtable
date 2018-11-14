@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Kann ich den Kern dieser Maschine entfernen?"</DefaultText>
+      <DefaultText>„Kann ich den Kern dieser Maschine entfernen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich bin ein Navigations-Cortex. Ich wurde vor 3059 Zyklen von der Devabil-Vereinigung konstruiert, 2153 Zyklen verbleiben. Ich wurde hierher gebracht durch einen lokalisierten, dimensionalen Vortex hierher gebracht, der seitdem zerfallen ist. Ich werde betrieben von einer Quantum-getunnelten, interstitiellen Hovarinenmatrix. Ich interagiere sowohl mit Nutzern als auch mit Rezeptoren, um historische Informationen auf Basis von Aufzeichnungen oder Beobachten wiederzugeben. Darüber hinaus liefere ich Informationen zur Sternenfeld-Navigation, Beobachtung und grundlegender Sternenhafen-Wartung.</DefaultText>
+      <DefaultText>„Ich bin ein Navigations-Cortex. Ich wurde vor 3059 Zyklen von der Devabil-Vereinigung konstruiert, 2153 Zyklen verbleiben. Ich wurde hierher gebracht durch einen lokalisierten, dimensionalen Vortex hierher gebracht, der seitdem zerfallen ist. Ich werde betrieben von einer Quantum-getunnelten, interstitiellen Hovarinenmatrix. Ich interagiere sowohl mit Nutzern als auch mit Rezeptoren, um historische Informationen auf Basis von Aufzeichnungen oder Beobachten wiederzugeben. Darüber hinaus liefere ich Informationen zur Sternenfeld-Navigation, Beobachtung und grundlegender Sternenhafen-Wartung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Ein bläulicher Globus, aus großer Entfernung gesehen, um den viele kleinere Kugeln rotieren, erscheint vor deinen Augen, als ob er vor dir schweben würde. "Die Heimat der Lascar heißt Ishtrinu."
+      <DefaultText>Ein bläulicher Globus, aus großer Entfernung gesehen, um den viele kleinere Kugeln rotieren, erscheint vor deinen Augen, als ob er vor dir schweben würde. „Die Heimat der Lascar heißt Ishtrinu.“
 
 Du kannst es nicht begründen, aber der Anblick des Globus erfüllt dich mit einem Gefühl von großer Distanz.</DefaultText>
       <FemaleText />
@@ -53,12 +53,12 @@ Du kannst es nicht begründen, aber der Anblick des Globus erfüllt dich mit ein
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Kannst du den Helm identifizieren, den ich in der Flor gefunden habe?"</DefaultText>
+      <DefaultText>„Kannst du den Helm identifizieren, den ich in der Flor gefunden habe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"In Bearbeitung ... einen Moment. Biologisches Material ist in einige der Helmkontakte eingetreten. Bearbeitung abgeschlossen. Bericht: Jemadar Achilli wurde am Tag ihrer letzten Aufzeichnung getroffen und getötet. Ihre Akte wurde aktualisiert um diese Information zu berücksichtigen. Analyse wird fortgesetzt."</DefaultText>
+      <DefaultText>„In Bearbeitung … einen Moment. Biologisches Material ist in einige der Helmkontakte eingetreten. Bearbeitung abgeschlossen. Bericht: Jemadar Achilli wurde am Tag ihrer letzten Aufzeichnung getroffen und getötet. Ihre Akte wurde aktualisiert um diese Information zu berücksichtigen. Analyse wird fortgesetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,31 +94,31 @@ Wenn du sie genauer betrachtest, kannst du unendlich kleine Muster entlang ihrer
       <ID>20</ID>
       <DefaultText>Eine gewaltige Kugel dreht sich langsam in der Mitte des Raumes, ihre Oberfläche durchzogen von glühenden Linien. Sie gibt ein tiefes Summen ab, ein subtiles Pochen einer Energie und du kannst fühlen, wie deine Knochen anfangen zu schmerzen, da du in der Nähe der Kugel stehst. Lichtspiralen strömen von ihr aus und bewegen sich auf dich zu - aber als eine von ihnen sich dir nähert, *weißt* du aus irgendwelchen Gründen, dass sie keine böse Absicht hat. 
 
-{SOUND: We should have a low, pulsing throb here, a slow cycle that sounds a little like this, but slowed and possibly deeper: https://www.youtube.com/watch?v=-2p58DOlzLc)</DefaultText>
+{SOUND: We should have a low, pulsing throb here, a slow cycle that sounds a little like this, but slowed and possibly deeper: https://www.youtube.com/watch?v=-2p58DOlzLc }</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Sag mir, wo sich der Ankerplatz befindet."</DefaultText>
+      <DefaultText>„Sag mir, wo sich der Ankerplatz befindet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Die weiche Stimme sagt: "Die exakten Koordinaten dieser Station sind: 12.93, 476.947, 18h57z."  Diese Zahlen erscheinen nützlicherweise auch in dem blassen blauen Licht der Symbole auf dem Gerät.
+      <DefaultText>Die weiche Stimme sagt: „Die exakten Koordinaten dieser Station sind: 12.93, 476.947, 18h57z.“  Diese Zahlen erscheinen nützlicherweise auch in dem blassen blauen Licht der Symbole auf dem Gerät.
 
 Du vermutest, dass wenn du das geeignete Wissen und Kontext hättest, um die Zahlen zu verstehen, du ein besseres Bild deines Standortes haben könntest. So wie es jetzt ist, machen sie für dich keinen Sinn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Wie lange haben die Lascar auf das Schiff gewartet?"</DefaultText>
+      <DefaultText>„Wie lange haben die Lascar auf das Schiff gewartet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Auf Einträge zugreifen. Berechnung. Die Lascar warten seit ungefähr 10.091 Jahren deiner Zeitrechnung auf das Transportmittel, das sie nach Hause bringen soll."
+      <DefaultText>„Auf Einträge zugreifen. Berechnung. Die Lascar warten seit ungefähr 10.091 Jahren deiner Zeitrechnung auf das Transportmittel, das sie nach Hause bringen soll.“
 
-Deine Skepsis spürend, sagt die Stimme: "Ja. Ich habe die lokale Zeit in deinen Zeitrahmen konvertiert. Die Umrechnung ist korrekt."</DefaultText>
+Deine Skepsis spürend, sagt die Stimme: „Ja. Ich habe die lokale Zeit in deinen Zeitrahmen konvertiert. Die Umrechnung ist korrekt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,21 +128,21 @@ Deine Skepsis spürend, sagt die Stimme: "Ja. Ich habe die lokale Zeit in deinen
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Negativ. Während meines gesamten Dienstes für den Ankerplatz habe ich kein geeignetes Transportmittel gesichtet obwohl ich eine gewisse Routine habe, die durchgehender Überwachung zu verdanken ist.</DefaultText>
+      <DefaultText>„Negativ. Während meines gesamten Dienstes für den Ankerplatz habe ich kein geeignetes Transportmittel gesichtet obwohl ich eine gewisse Routine habe, die durchgehender Überwachung zu verdanken ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Den Cortex denken lassen, dass er das Schiff sieht.
 
-{COLIN: The only conventions necessary here are (1) a downside for the recipient (IIRC, there is already one basically) and (2) maybe something in the text of 29 that hints at how the PC is using the Tides for this, and why he can do it *now* and not other times. For example: "For a moment, you can feel the push and pull of the Tides strongly. Tapping into that force, you pull forth an image of a vast, metallic vessel into the Cortex's sensors..."} {TIDAL SURGE}</DefaultText>
+{COLIN: The only conventions necessary here are (1) a downside for the recipient (IIRC, there is already one basically) and (2) maybe something in the text of 29 that hints at how the PC is using the Tides for this, and why he can do it *now* and not other times. For example: „For a moment, you can feel the push and pull of the Tides strongly. Tapping into that force, you pull forth an image of a vast, metallic vessel into the Cortex's sensors…“} {TIDAL SURGE}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Das Bild eines riesigen, metallischen Transportmittels, wie du es noch niemals zuvor gesehen hast, erscheint in den Projektionen, die in dem Raum präsent sind, und ein jubelndes Hupgeräusch ertönt durch die Station.
 
-"Anmerkung: Ein Transportmittel wurde gesichtet. Ein Transportmittel wurde gesichtet. Bitte auf Docking-Prozess vorbereiten. Ein Transportmittel wurde gesichtet."
+„Anmerkung: Ein Transportmittel wurde gesichtet. Ein Transportmittel wurde gesichtet. Bitte auf Docking-Prozess vorbereiten. Ein Transportmittel wurde gesichtet.“
 
 {SCRIPT:  We may want to switch the image to that of the Ship here.}</DefaultText>
       <FemaleText />
@@ -156,7 +156,7 @@ Deine Skepsis spürend, sagt die Stimme: "Ja. Ich habe die lokale Zeit in deinen
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Eine Energiewelle mysteriösen Ursprungs hat vor Kurzem meine Abschirmung überwunden und zeitweise meine Sensoren gestört, sodass ich fälschlicherweise das Sichten eines Transportmittels gemeldet habe. Meine Systeme haben sich angepasst, um solche Energiewellen abzufangen und sollten für den Rest meines Lebenszyklus fehlerfrei bleiben."
+      <DefaultText>„Eine Energiewelle mysteriösen Ursprungs hat vor Kurzem meine Abschirmung überwunden und zeitweise meine Sensoren gestört, sodass ich fälschlicherweise das Sichten eines Transportmittels gemeldet habe. Meine Systeme haben sich angepasst, um solche Energiewellen abzufangen und sollten für den Rest meines Lebenszyklus fehlerfrei bleiben.“
 
 {SCRIPT:  Need to add a trigger or something to update the global to 2 on leaving after faking the Ship arriving.}</DefaultText>
       <FemaleText />
@@ -168,7 +168,7 @@ Deine Skepsis spürend, sagt die Stimme: "Ja. Ich habe die lokale Zeit in deinen
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Tausende von Einträgen - vielleicht zehntausende - ziehen an deinen Augen vorüber, ergänzt durch geheime Zeitmessungen, Namensänderungen, Geburts- und Todesdaten ... das gesamte Personal, das jemals gelebt, gereist oder auf andere Weise den Ankerplatz passiert hat, egal wie kurz dessen Aufenthalt auch war. Die bloße Menge an Informationen ist überwältigend.</DefaultText>
+      <DefaultText>Tausende von Einträgen - vielleicht zehntausende - ziehen an deinen Augen vorüber, ergänzt durch geheime Zeitmessungen, Namensänderungen, Geburts- und Todesdaten … das gesamte Personal, das jemals gelebt, gereist oder auf andere Weise den Ankerplatz passiert hat, egal wie kurz dessen Aufenthalt auch war. Die bloße Menge an Informationen ist überwältigend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -193,32 +193,32 @@ Deine Skepsis spürend, sagt die Stimme: "Ja. Ich habe die lokale Zeit in deinen
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Meine Einträge erstrecken sich über 10.000 Zyklen, sie wurden von meinem Vorgänger in dieser Position weitervererbt. Während dieser gesamten Zeit hat das Volk, das sich jetzt selbst die Lascar nennt, diese Station bemannt und bereits vorher existierende Aufzeichnungen legen nahe, dass sie in einer formelleren militärischen/sklavischen Kapazität hier waren, bevor sich die Schifffahrtswege zu schließen begannen."</DefaultText>
+      <DefaultText>„Meine Einträge erstrecken sich über 10.000 Zyklen, sie wurden von meinem Vorgänger in dieser Position weitervererbt. Während dieser gesamten Zeit hat das Volk, das sich jetzt selbst die Lascar nennt, diese Station bemannt und bereits vorher existierende Aufzeichnungen legen nahe, dass sie in einer formelleren militärischen/sklavischen Kapazität hier waren, bevor sich die Schifffahrtswege zu schließen begannen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Sprechen wir über etwas anderes."</DefaultText>
+      <DefaultText>„Sprechen wir über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ich erwarte deine Anweisung."</DefaultText>
+      <DefaultText>„Ich erwarte deine Anweisung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Jemadar Achilli betrat das neu geöffnete transdimensionale Tor ungefähr ..." Die Stimme hält inne, als ob sie rechnen würde: "... vor 15 Jahren deiner Zeitrechnung. Sie ist nicht zurückgekehrt."</DefaultText>
+      <DefaultText>„Jemadar Achilli betrat das neu geöffnete transdimensionale Tor ungefähr …“ Die Stimme hält inne, als ob sie rechnen würde: „… vor 15 Jahren deiner Zeitrechnung. Sie ist nicht zurückgekehrt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Jemadar Arechi hat den Ankerplatz in einer Routine-Versorgungsmission verlassen kurz bevor das transdimensionale Portal geschlossen wurde. Sie wurde begleitet von den Lascar Intanduul und Savanol."</DefaultText>
+      <DefaultText>„Jemadar Arechi hat den Ankerplatz in einer Routine-Versorgungsmission verlassen kurz bevor das transdimensionale Portal geschlossen wurde. Sie wurde begleitet von den Lascar Intanduul und Savanol.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Die Aufenthaltsorte von vier Mitarbeitern sind zur Zeit nicht bekannt."</DefaultText>
+      <DefaultText>„Die Aufenthaltsorte von vier Mitarbeitern sind zur Zeit nicht bekannt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,64 +228,64 @@ Deine Skepsis spürend, sagt die Stimme: "Ja. Ich habe die lokale Zeit in deinen
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Falls es Informationen zu zusätzlichem Personal gibt, das nicht durch diesen Zensus abgedeckt wird, dann melde das bitte sofort dem Kapitän."</DefaultText>
+      <DefaultText>„Falls es Informationen zu zusätzlichem Personal gibt, das nicht durch diesen Zensus abgedeckt wird, dann melde das bitte sofort dem Kapitän.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Kein Personal wird aktuell als vermisst gemeldet."</DefaultText>
+      <DefaultText>„Kein Personal wird aktuell als vermisst gemeldet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Die Aufenthaltsorte von drei Mitarbeitern sind zur Zeit nicht bekannt."</DefaultText>
+      <DefaultText>„Die Aufenthaltsorte von drei Mitarbeitern sind zur Zeit nicht bekannt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Ein einziger Lascar gilt nach wie vor als vermisst."</DefaultText>
+      <DefaultText>„Ein einziger Lascar gilt nach wie vor als vermisst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Erzähl mir mehr über die vermisste Jemadar Achilli."</DefaultText>
+      <DefaultText>„Erzähl mir mehr über die vermisste Jemadar Achilli.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Jemadar Achilli reiste durch das transdimensionale Portal, das geöffnet wurde ... vor 15 Jahren. Ihre Mission war, potentielle Botschaften und Handel aufzubauen. Sie sollte außerdem andere Ankerplätze suchen, über die die Einwohner dieser Station Durchgänge zu ihren Heimatwelten finden könnten. Ihre letzte Übertragung enthielt einen Bericht über ihre Untersuchung einer alternden Stadt, offenbar im Inneren einer lebendigen Kreatur.
+      <DefaultText>„Jemadar Achilli reiste durch das transdimensionale Portal, das geöffnet wurde … vor 15 Jahren. Ihre Mission war, potentielle Botschaften und Handel aufzubauen. Sie sollte außerdem andere Ankerplätze suchen, über die die Einwohner dieser Station Durchgänge zu ihren Heimatwelten finden könnten. Ihre letzte Übertragung enthielt einen Bericht über ihre Untersuchung einer alternden Stadt, offenbar im Inneren einer lebendigen Kreatur.“
 
-"Sie war 42 Jahre alt, als sie abgereist ist. Sie hinterließ eine Ehefrau und zwei Kinder."</DefaultText>
+„Sie war 42 Jahre alt, als sie abgereist ist. Sie hinterließ eine Ehefrau und zwei Kinder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Möchtest du ein Signal auslösen, um zu sehen, ob sie ausfindig gemacht werden kann?"</DefaultText>
+      <DefaultText>„Möchtest du ein Signal auslösen, um zu sehen, ob sie ausfindig gemacht werden kann?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Ja, sende das Signal."</DefaultText>
+      <DefaultText>„Ja, sende das Signal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Nein, sende es noch nicht."</DefaultText>
+      <DefaultText>„Nein, sende es noch nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Eine Pause. "Ich habe das Signal gesendet." Eine weitere Pause. "Unstimmigkeit festgestellt. Vorige Signalsendungen der letzten 15 Jahre sind gescheitert. Dieser hier sendet ein Echo zurück, aber keine menschliche Interaktion. Das Signal kehrt zurück von einem Ort, der sich nicht weit weg von dem transdimensionalen Tor befindet, durch das du gekommen bist. Empfehlung: Eine sofortiges Suchtrupp bilden, um sie auf ihren Posten zurückzubefördern."</DefaultText>
+      <DefaultText>Eine Pause. „Ich habe das Signal gesendet.“ Eine weitere Pause. „Unstimmigkeit festgestellt. Vorige Signalsendungen der letzten 15 Jahre sind gescheitert. Dieser hier sendet ein Echo zurück, aber keine menschliche Interaktion. Das Signal kehrt zurück von einem Ort, der sich nicht weit weg von dem transdimensionalen Tor befindet, durch das du gekommen bist. Empfehlung: Eine sofortiges Suchtrupp bilden, um sie auf ihren Posten zurückzubefördern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Ich erwarte deine nächste Anweisung."</DefaultText>
+      <DefaultText>„Ich erwarte deine nächste Anweisung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Ungefähr vor 15 Jahren unserer Zeitmessung öffnete sich ein ein transdimensionaler Pfad zu der Station. Das war der erste Kontakt mit anderem empfindungsfähigen Leben, den die Bewohner dieser Station seit Generationen gehabt hatten. Handel wurde aufgenommen. Dieses Portal wurde kürzlich geschlossen, aber durch den Pfad ersetzt, durch den du hereingekommen bist."</DefaultText>
+      <DefaultText>„Ungefähr vor 15 Jahren unserer Zeitmessung öffnete sich ein ein transdimensionaler Pfad zu der Station. Das war der erste Kontakt mit anderem empfindungsfähigen Leben, den die Bewohner dieser Station seit Generationen gehabt hatten. Handel wurde aufgenommen. Dieses Portal wurde kürzlich geschlossen, aber durch den Pfad ersetzt, durch den du hereingekommen bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,44 +295,44 @@ Deine Skepsis spürend, sagt die Stimme: "Ja. Ich habe die lokale Zeit in deinen
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Jamedar Arechi. Keine lebenden Verwandten. Alter ... 27 Jahre. Lascar Intanduul. Ehefrau Lascar Doruul. Zwei Kinder. Alter 33 Jahre. Lascar Savanol. Vater Jemadar Salunda. Mutter Jemadar Norala. Alter 23 Jahre."
+      <DefaultText>„Jamedar Arechi. Keine lebenden Verwandten. Alter … 27 Jahre. Lascar Intanduul. Ehefrau Lascar Doruul. Zwei Kinder. Alter 33 Jahre. Lascar Savanol. Vater Jemadar Salunda. Mutter Jemadar Norala. Alter 23 Jahre.“
 
-Die Stimme hält inne. "Ihre Mission war die Neulieferung in dem Ort namens Flor. Das transdimensionale Portal, durch das sie gegangen sind, wurde kurz danach geschlossen."</DefaultText>
+Die Stimme hält inne. „Ihre Mission war die Neulieferung in dem Ort namens Flor. Das transdimensionale Portal, durch das sie gegangen sind, wurde kurz danach geschlossen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Möchtest du ein Heimkehrsignal senden, um die vermisste Besatzung ausfindig zu machen?"</DefaultText>
+      <DefaultText>„Möchtest du ein Heimkehrsignal senden, um die vermisste Besatzung ausfindig zu machen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Ja, sende das Signal."</DefaultText>
+      <DefaultText>„Ja, sende das Signal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Jetzt noch nicht. Lebewohl."</DefaultText>
+      <DefaultText>„Jetzt noch nicht. Lebewohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Eine Pause, und dann: "Ich habe das Signal gesendet und eine Antwort erhalten. Ich habe das Signal nach Erhalt der Antwort deaktiviert. Das vermisste Personal befindet sich in geringer Entfernung zu dem transdimensionalen Portal, durch das du die Station betreten hast. Empfehlung: Entsendung eines Rettungstrupps, um sie zu ihren ordnungsgemäßen Stationen zu bringen."</DefaultText>
+      <DefaultText>Eine Pause, und dann: „Ich habe das Signal gesendet und eine Antwort erhalten. Ich habe das Signal nach Erhalt der Antwort deaktiviert. Das vermisste Personal befindet sich in geringer Entfernung zu dem transdimensionalen Portal, durch das du die Station betreten hast. Empfehlung: Entsendung eines Rettungstrupps, um sie zu ihren ordnungsgemäßen Stationen zu bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Dieser Helm gehört zu der Jemadar Achilli. Sie wird vermisst seit ... 15 Jahren. Er enthält einen visuellen Eintrag, den sie als wichtig markiert hat. Sie schlug vor, dass diese Bilder analysiert werden sollten. Das werde ich auf deinen Befehl hin tun."</DefaultText>
+      <DefaultText>„Dieser Helm gehört zu der Jemadar Achilli. Sie wird vermisst seit … 15 Jahren. Er enthält einen visuellen Eintrag, den sie als wichtig markiert hat. Sie schlug vor, dass diese Bilder analysiert werden sollten. Das werde ich auf deinen Befehl hin tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Analysiere die Informatonen, die ich auf dem kaputten Helm gefunden habe."</DefaultText>
+      <DefaultText>„Analysiere die Informatonen, die ich auf dem kaputten Helm gefunden habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ja. Ich bin ein eigenständiges Gerät, das sich Cortex nennt. Ich bin durch neuronale und physikalische Verbindungen mit dieser größeren Maschine und mit meinen Nutzern verbunden. Wenn du mich entfernen willst, musst zu zuerst die genehmigte Extraktionssequenz beantragen."
+      <DefaultText>„Ja. Ich bin ein eigenständiges Gerät, das sich Cortex nennt. Ich bin durch neuronale und physikalische Verbindungen mit dieser größeren Maschine und mit meinen Nutzern verbunden. Wenn du mich entfernen willst, musst zu zuerst die genehmigte Extraktionssequenz beantragen.“
 
 Ein kleines Bedienfeld öffnet sich an der Außenseite der Sphäre. Die blauen Symbole verschwinden aus deinem Sichtfeld und werden durch eine rote Tastatur ersetzt.</DefaultText>
       <FemaleText />
@@ -354,7 +354,7 @@ Ein kleines Bedienfeld öffnet sich an der Außenseite der Sphäre. Die blauen S
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Ich möchte gerne den Kortex aus diesem Gerät entfernen."</DefaultText>
+      <DefaultText>„Ich möchte gerne den Kortex aus diesem Gerät entfernen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -364,7 +364,7 @@ Ein kleines Bedienfeld öffnet sich an der Außenseite der Sphäre. Die blauen S
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Wie du befiehlst." Das Bedienfeld öffnet sich erneut.</DefaultText>
+      <DefaultText>„Wie du befiehlst.“ Das Bedienfeld öffnet sich erneut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -389,14 +389,14 @@ Ein kleines Bedienfeld öffnet sich an der Außenseite der Sphäre. Die blauen S
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Was tust du mit unserem Cortex?" Er starrt dich an und brüllt laut aus der Richtung der Türe. "Dieb! Hilfe! Dieb!" 
+      <DefaultText>„Was tust du mit unserem Cortex?“ Er starrt dich an und brüllt laut aus der Richtung der Türe. „Dieb! Hilfe! Dieb!“ 
 
 {SCRIPT:  Start the crisis!}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Als sich die Lichter verdunkeln, wird eine Nachricht direkt in deinem Geist angezeigt. Eine Reihe von Zahlen leuchten in einer seltsamen Schrift auf und lösen sich langsam in eine Sprache auf, die du wiedererkennst. Eine weiche, weibliche Stimme sagt: "Die Entfernung des Cortex benötigt eine automatische Benachrichtigung der Station. Flächendeckende Übertragung des Status der Cortexentfernung beginnt in 20 Sekunden ... 19 ... 18 ..."</DefaultText>
+      <DefaultText>Als sich die Lichter verdunkeln, wird eine Nachricht direkt in deinem Geist angezeigt. Eine Reihe von Zahlen leuchten in einer seltsamen Schrift auf und lösen sich langsam in eine Sprache auf, die du wiedererkennst. Eine weiche, weibliche Stimme sagt: „Die Entfernung des Cortex benötigt eine automatische Benachrichtigung der Station. Flächendeckende Übertragung des Status der Cortexentfernung beginnt in 20 Sekunden … 19 … 18 …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -424,9 +424,9 @@ Ein kleines Bedienfeld öffnet sich an der Außenseite der Sphäre. Die blauen S
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Du schaust dir den Behälter zügig an, aber du kannst nicht erkennen, wie der Alarm ausgelöst wird. Als die Sekunden vor deinen Augen heruntergezählt werden, fängst du an panisch zu werden ... eine absolut nutzlose Reaktion, die dich davon abhält eine praktikable Lösung zu finden.
+      <DefaultText>Du schaust dir den Behälter zügig an, aber du kannst nicht erkennen, wie der Alarm ausgelöst wird. Als die Sekunden vor deinen Augen heruntergezählt werden, fängst du an panisch zu werden … eine absolut nutzlose Reaktion, die dich davon abhält eine praktikable Lösung zu finden.
 
-Die Schaltuhr erreicht die 1 ... 0. Und dann ertönt die Hupe.
+Die Schaltuhr erreicht die 1 … 0. Und dann ertönt die Hupe.
 
 {SCRIPT:  Start the crisis!}</DefaultText>
       <FemaleText />
@@ -445,19 +445,19 @@ Die Schaltuhr erreicht die 1 ... 0. Und dann ertönt die Hupe.
       <ID>91</ID>
       <DefaultText>Alle Bilder, die sich in dem Helm befinden, tasten sich durch dein Sichtfeld. Die Bilder des Nachthimmels, die in dem Helm so vorherrschend waren, erscheinen jetzt und der Cortex beginnt, Sternenkarten über diese Bilder zu legen.
 
-"Die Information über den Standort dieser Welt wurde nun zu meinem Speicher hinzugefügt."</DefaultText>
+„Die Information über den Standort dieser Welt wurde nun zu meinem Speicher hinzugefügt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Warte!" Er eilt herüber und legt seine eigene Hand auf die große Kugel. Seine Lippen bewegen sich leicht, als er mit dem Cortex kommuniziert und das Bedienfeld schließt sich wieder.
+      <DefaultText>„Warte!“ Er eilt herüber und legt seine eigene Hand auf die große Kugel. Seine Lippen bewegen sich leicht, als er mit dem Cortex kommuniziert und das Bedienfeld schließt sich wieder.
 
-Sein Ton ist freundlich, aber seine Augen sind hart. "Dieser Fehler passiert wohl auch anderen. Der Cortex ist wichtig für uns. Ohne seine Anleitung wissen wir nicht, wann das Schiff kommt. Bitte - falls es notwendig ist, mit dem Cortex zu kommunizieren, dann lass ihn in der Kugel." Er lacht wenig überzeugend. "Andernfalls müssten wir annehmen, dass du den Cortex stehlen willst."</DefaultText>
+Sein Ton ist freundlich, aber seine Augen sind hart. „Dieser Fehler passiert wohl auch anderen. Der Cortex ist wichtig für uns. Ohne seine Anleitung wissen wir nicht, wann das Schiff kommt. Bitte - falls es notwendig ist, mit dem Cortex zu kommunizieren, dann lass ihn in der Kugel.“ Er lacht wenig überzeugend. „Andernfalls müssten wir annehmen, dass du den Cortex stehlen willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Seine scharfen Augen sehen, wie sich das Bedienfeld wieder öffnet und dieses Mal beeilt er sich nicht damit, es zu schließen. Stattdessen brüllt er: "Dieb! Der Fremde ist gekommen, um unseren Cortex zu stehlen!"
+      <DefaultText>Seine scharfen Augen sehen, wie sich das Bedienfeld wieder öffnet und dieses Mal beeilt er sich nicht damit, es zu schließen. Stattdessen brüllt er: „Dieb! Der Fremde ist gekommen, um unseren Cortex zu stehlen!“
 
 Eine Hupe beginnt zu ertönen.
 
@@ -467,7 +467,7 @@ Eine Hupe beginnt zu ertönen.
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Mit dem Entfernen des Cortex werden die holographischen Abbildungen in dem Raum dunkel ... und der Pilot-Major, der ganz offensichtlich den Raum nicht verlassen hat, entdeckt, dass du den Wissenskern entfernt hast, den die Lascar seit Generationen wie einen Schatz aufbewahrt hatten. Anstatt dich ruhig zu ermahnen, löst er den Alarm aus. Wächter beginnen in den Raum zu stürmen. Du scheinst die Lascar verärgert zu haben.</DefaultText>
+      <DefaultText>Mit dem Entfernen des Cortex werden die holographischen Abbildungen in dem Raum dunkel … und der Pilot-Major, der ganz offensichtlich den Raum nicht verlassen hat, entdeckt, dass du den Wissenskern entfernt hast, den die Lascar seit Generationen wie einen Schatz aufbewahrt hatten. Anstatt dich ruhig zu ermahnen, löst er den Alarm aus. Wächter beginnen in den Raum zu stürmen. Du scheinst die Lascar verärgert zu haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -487,8 +487,8 @@ Eine Hupe beginnt zu ertönen.
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Du lockerst deine Waffen, schüttelst deine Hände aus und machst dich bereit, um in deine Position zu gehen. Die Zahlen werden weiter heruntergezählt ...
-... 5 ... 4 ... 3 ... 2 ... 1.
+      <DefaultText>Du lockerst deine Waffen, schüttelst deine Hände aus und machst dich bereit, um in deine Position zu gehen. Die Zahlen werden weiter heruntergezählt …
+… 5 … 4 … 3 … 2 … 1.
 
 Eine Hupe ertönt.
 
@@ -497,7 +497,7 @@ Eine Hupe ertönt.
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Als du den Cortex aus seinem Gehäuse entfernst, verdunkeln sich die Lichter, das Pochen stoppt ... und eine Hupe beginnt zu ertönen. Offenbar hast du es nicht geschafft, den Alarm, der an der Maschine angebracht ist, zu deaktivieren.
+      <DefaultText>Als du den Cortex aus seinem Gehäuse entfernst, verdunkeln sich die Lichter, das Pochen stoppt … und eine Hupe beginnt zu ertönen. Offenbar hast du es nicht geschafft, den Alarm, der an der Maschine angebracht ist, zu deaktivieren.
 
 
 {SCRIPT:  Start the crisis!}</DefaultText>
@@ -515,7 +515,7 @@ Eine Hupe ertönt.
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Deine Hand berührt die Kugel und in diesem Moment ertönt eine weibliche Stimme. "Ah-vsiti t‘n - ", und mit einem kurzen Stottern fährt sie in der Wahrheit fort, " - würdest du gerne tun?"</DefaultText>
+      <DefaultText>Deine Hand berührt die Kugel und in diesem Moment ertönt eine weibliche Stimme. „Ah-vsiti t‘n - “, und mit einem kurzen Stottern fährt sie in der Wahrheit fort, „- würdest du gerne tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -525,12 +525,12 @@ Eine Hupe ertönt.
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Stimmen die Bilder, die ich in dem kaputten Helm gesehen habe, mit irgendwelchen in deinen Einträgen überein?"</DefaultText>
+      <DefaultText>„Stimmen die Bilder, die ich in dem kaputten Helm gesehen habe, mit irgendwelchen in deinen Einträgen überein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Basierend auf der Regressionsanalyse des Sternenfeldes und der relativen Planetenstellung stimmt nur eine mögliche Welt überein: Ishtrinu, die Welt, die die Lascar Heimat nennen."</DefaultText>
+      <DefaultText>„Basierend auf der Regressionsanalyse des Sternenfeldes und der relativen Planetenstellung stimmt nur eine mögliche Welt überein: Ishtrinu, die Welt, die die Lascar Heimat nennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -542,7 +542,7 @@ Kleine Symbole aus blassem, blauen Licht erscheinen vor dir - fast transparent, 
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Ich erfasse Informationen zu exakt 1.097.544 Welten in meinem System mit Details über Routen zwischen ihnen und inklusive bekannter transdimensionaler Durchgänge. Für jede dieser Welten verfüge ich über detaillierte Bilder ihrer Nachthimmel und projizierter Tages-Sternenfelder. Außerdem erfasse ich detaillierte Personalinformationen für diese Station, die viele Jahrhunderte zurückreichen."</DefaultText>
+      <DefaultText>„Ich erfasse Informationen zu exakt 1.097.544 Welten in meinem System mit Details über Routen zwischen ihnen und inklusive bekannter transdimensionaler Durchgänge. Für jede dieser Welten verfüge ich über detaillierte Bilder ihrer Nachthimmel und projizierter Tages-Sternenfelder. Außerdem erfasse ich detaillierte Personalinformationen für diese Station, die viele Jahrhunderte zurückreichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -554,17 +554,17 @@ Kleine Symbole aus blassem, blauen Licht erscheinen vor dir - fast transparent, 
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Deine Fassungslosigkeit spürend, sagt die weiche Stimme: "Bestimmte historische Trends können können durch die Analyse dieser Daten abgeleitet werden, aber das scheint nicht dein Fokus zu sein. Beliebte Interaktionen beinhalten kurze geschichtliche Überblicke über die Station, wichtige jüngste Ereignisse und die Standortsuche für vermisste Besatzungsmitglieder."</DefaultText>
+      <DefaultText>Deine Fassungslosigkeit spürend, sagt die weiche Stimme: „Bestimmte historische Trends können können durch die Analyse dieser Daten abgeleitet werden, aber das scheint nicht dein Fokus zu sein. Beliebte Interaktionen beinhalten kurze geschichtliche Überblicke über die Station, wichtige jüngste Ereignisse und die Standortsuche für vermisste Besatzungsmitglieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Die ursprüngliche Besatzung dieser Station hat die Station neu bevölkert und die Anzahl ihrer Nachkommen ist gewachsen. Eine Reihe von Konflikten haben sich über die Jahre hinweg ereignet - der Aufruhr der Fünf Zyklen, das Luftschleusen-Debakel und die Aktion der Schiifbrüchigen. Jeder von ihnen hat dazu beigetragen, die aktuelle Macht- und Familienstruktur der existierenden Bevölkerung festzulegen."</DefaultText>
+      <DefaultText>„Die ursprüngliche Besatzung dieser Station hat die Station neu bevölkert und die Anzahl ihrer Nachkommen ist gewachsen. Eine Reihe von Konflikten haben sich über die Jahre hinweg ereignet - der Aufruhr der Fünf Zyklen, das Luftschleusen-Debakel und die Aktion der Schiifbrüchigen. Jeder von ihnen hat dazu beigetragen, die aktuelle Macht- und Familienstruktur der existierenden Bevölkerung festzulegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Die aktuelle Struktur der Bevölkerung basiert stark auf der Marinehierarchie ihrer Vorfahren und wird dadurch beeinflusst. Sie erwarten die Ankunft eines weiteren Schiffes um die Station ordnungsgemäß schließen zu können."</DefaultText>
+      <DefaultText>„Die aktuelle Struktur der Bevölkerung basiert stark auf der Marinehierarchie ihrer Vorfahren und wird dadurch beeinflusst. Sie erwarten die Ankunft eines weiteren Schiffes um die Station ordnungsgemäß schließen zu können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -574,12 +574,12 @@ Kleine Symbole aus blassem, blauen Licht erscheinen vor dir - fast transparent, 
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Kannst du eine Sternenkarte basierend auf einer mündliche Beschreibung anzeigen?"</DefaultText>
+      <DefaultText>„Kannst du eine Sternenkarte basierend auf einer mündliche Beschreibung anzeigen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Ausgehend von einer akkuraten Beschreibung, kann ich eine Auswahl von potentiellen Systemen zur Verfügung stellen, die geeignete Kandidaten wären."</DefaultText>
+      <DefaultText>„Ausgehend von einer akkuraten Beschreibung, kann ich eine Auswahl von potentiellen Systemen zur Verfügung stellen, die geeignete Kandidaten wären.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -594,7 +594,7 @@ Kleine Symbole aus blassem, blauen Licht erscheinen vor dir - fast transparent, 
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Rhin, kannst du die Konstellationen deiner Welt beschreiben?"</DefaultText>
+      <DefaultText>„Rhin, kannst du die Konstellationen deiner Welt beschreiben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -606,7 +606,7 @@ Kleine Symbole aus blassem, blauen Licht erscheinen vor dir - fast transparent, 
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Zugriff auf Daten. Vergleichen. Lokales Volkstum korrelieren." Der Cortex ist für einen Moment lang still in deinem Geist, dann spricht er laut los. "Keine Übereinstimmungen gefunden. Bitte beschreibe die Konstellationen in ihren Positionen im Nachthimmel inklusive Richtung."</DefaultText>
+      <DefaultText>„Zugriff auf Daten. Vergleichen. Lokales Volkstum korrelieren.“ Der Cortex ist für einen Moment lang still in deinem Geist, dann spricht er laut los. „Keine Übereinstimmungen gefunden. Bitte beschreibe die Konstellationen in ihren Positionen im Nachthimmel inklusive Richtung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -618,21 +618,21 @@ Kleine Symbole aus blassem, blauen Licht erscheinen vor dir - fast transparent, 
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Der Cortex ist wieder still und du kannst fühlen, wie er in deinen Händen pulsiert, bevor er wieder laut spricht. "Projizieren. Bitte entsprechend anpassen."
+      <DefaultText>Der Cortex ist wieder still und du kannst fühlen, wie er in deinen Händen pulsiert, bevor er wieder laut spricht. „Projizieren. Bitte entsprechend anpassen.“
 
 In den nächsten paar Minuten diskutieren Rhin und der Cortex die Konstellationen ihrer Heimatwelten, ihre Hand passt die Sterne ihrer Erinnerung entsprechend an. Als Abschluss verkündet der Cortex:
 
-"Keine bekannte Welten stimmen überein. Sternenfeld wird im Speicher aufbewahrt. Wird auf Anfrage nochmals projiziert."</DefaultText>
+„Keine bekannte Welten stimmen überein. Sternenfeld wird im Speicher aufbewahrt. Wird auf Anfrage nochmals projiziert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Zeig mir Rhins Konstellation erneut."</DefaultText>
+      <DefaultText>„Zeig mir Rhins Konstellation erneut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Projizieren." Das Sternenfeld, das Rhin und der Cortex zusammen konstruiert haben, wird aus dem Gerät herausprojiziert und schwebt in der Luft.</DefaultText>
+      <DefaultText>„Projizieren.“ Das Sternenfeld, das Rhin und der Cortex zusammen konstruiert haben, wird aus dem Gerät herausprojiziert und schwebt in der Luft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -642,12 +642,12 @@ In den nächsten paar Minuten diskutieren Rhin und der Cortex die Konstellatione
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Erzähle mir mehr über das Gerät, mit dem ich interagiere."</DefaultText>
+      <DefaultText>„Erzähle mir mehr über das Gerät, mit dem ich interagiere.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Erzähl mir nochmal etwas über dich."</DefaultText>
+      <DefaultText>„Erzähl mir nochmal etwas über dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -672,12 +672,12 @@ In den nächsten paar Minuten diskutieren Rhin und der Cortex die Konstellatione
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Die Lascar sprechen von einer Heimat. Sag mir, wo sich diese Heimat befindet."</DefaultText>
+      <DefaultText>„Die Lascar sprechen von einer Heimat. Sag mir, wo sich diese Heimat befindet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Erzähle mir noch einmal von den Kristallfeldern."</DefaultText>
+      <DefaultText>„Erzähle mir noch einmal von den Kristallfeldern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -687,12 +687,12 @@ In den nächsten paar Minuten diskutieren Rhin und der Cortex die Konstellatione
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Gib mir einen kurzen geschichtlichen Überblick der Station."</DefaultText>
+      <DefaultText>„Gib mir einen kurzen geschichtlichen Überblick der Station.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Erzähl mir mehr über die Geschichte der Station."</DefaultText>
+      <DefaultText>„Erzähl mir mehr über die Geschichte der Station.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -702,12 +702,12 @@ In den nächsten paar Minuten diskutieren Rhin und der Cortex die Konstellatione
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Ist in letzter Zeit etwas Wichtiges passiert?"</DefaultText>
+      <DefaultText>„Ist in letzter Zeit etwas Wichtiges passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Erzähl mir nochmal von kürzlichen Ereignissen."</DefaultText>
+      <DefaultText>„Erzähl mir nochmal von kürzlichen Ereignissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -717,12 +717,12 @@ In den nächsten paar Minuten diskutieren Rhin und der Cortex die Konstellatione
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Lass mich die Einträge für vermisstes Personal überprüfen."</DefaultText>
+      <DefaultText>„Lass mich die Einträge für vermisstes Personal überprüfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Überprüfe nochmals die Einträge für vermisstes Personal."</DefaultText>
+      <DefaultText>„Überprüfe nochmals die Einträge für vermisstes Personal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -732,7 +732,7 @@ In den nächsten paar Minuten diskutieren Rhin und der Cortex die Konstellatione
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Erzähl mir mehr über die vermisste Jemadar Achilli."</DefaultText>
+      <DefaultText>„Erzähl mir mehr über die vermisste Jemadar Achilli.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -742,16 +742,16 @@ In den nächsten paar Minuten diskutieren Rhin und der Cortex die Konstellatione
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Erzähl mir mehr über die drei vermissten Lascar."
+      <DefaultText>„Erzähl mir mehr über die drei vermissten Lascar.“
 
 {COLIN/GEORGE:  Adding this option because it might feel odd to be able to look into the 15 year old disappearance and not this one.  It might also be fun to have a little reactivity to turning on the signal in the helmets of the living lascars.}
 
-{GEORGE: I agree it could be fun to add a "did you signal us?" node to the lascar leader. Let me know if you want that. - cmm}</DefaultText>
+{GEORGE: I agree it could be fun to add a „did you signal us?“ node to the lascar leader. Let me know if you want that. - cmm}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Erzähl mir mehr über die drei vermissten Lascar."</DefaultText>
+      <DefaultText>„Erzähl mir mehr über die drei vermissten Lascar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -761,12 +761,12 @@ In den nächsten paar Minuten diskutieren Rhin und der Cortex die Konstellatione
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Hast du das Schiff jetzt gesichtet?"</DefaultText>
+      <DefaultText>„Hast du das Schiff jetzt gesichtet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Hast du das Schiff jetzt gesichtet?"</DefaultText>
+      <DefaultText>„Hast du das Schiff jetzt gesichtet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
