@@ -666,7 +666,7 @@ Die Stimme hält inne. „Ihre Mission war die Neulieferung in dem Ort namens Fl
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Einen Bericht über die drei vermissten Lascar anfordern. {COLIN/GEORGE:  Adding this option because it might feel odd to be able to look into the 15 year old disappearance and not this one.  It might also be fun to have a little reactivity to turning on the signal in the helmets of the living lascars.}
+      <DefaultText>Einen Bericht über die drei vermissten Lascar anfordern. {COLIN/GEORGE: Adding this option because it might feel odd to be able to look into the 15 year old disappearance and not this one. It might also be fun to have a little reactivity to turning on the signal in the helmets of the living lascars.}
 
 {GEORGE: I agree it could be fun to add a „did you signal us?“ node to the lascar leader. Let me know if you want that. - cmm}</DefaultText>
       <FemaleText />
@@ -758,7 +758,7 @@ Die Stimme hält inne. „Ihre Mission war die Neulieferung in dem Ort namens Fl
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Die weiche Stimme sagt: „Die exakten Koordinaten dieser Station sind: 12.93, 476.947, 18h57z.“  Diese Zahlen erscheinen nützlicherweise auch in dem blassen blauen Licht des Bedienfeldes.
+      <DefaultText>Die weiche Stimme sagt: „Die exakten Koordinaten dieser Station sind: 12.93, 476.947, 18h57z.“ Diese Zahlen erscheinen nützlicherweise auch in dem blassen blauen Licht des Bedienfeldes.
 
 Du vermutest, dass wenn du das geeignete Wissen und Kontext hättest, um die Zahlen zu verstehen, du ein besseres Bild deines Standortes haben könntest. So wie es jetzt ist, machen sie für dich keinen Sinn.</DefaultText>
       <FemaleText />
@@ -980,7 +980,7 @@ Du vermutest, dass wenn du das geeignete Wissen und Kontext hättest, um die Zah
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>„Gewiss. Bitte warten.“ Dunkle Massen innerhalb der gewaltigen Kugel verschieben sich und ein winziger Lichtpunkt zuckt aus ihrer Mitte heraus auf und tanzt über den Helm in deinen Händen.  
+      <DefaultText>„Gewiss. Bitte warten.“ Dunkle Massen innerhalb der gewaltigen Kugel verschieben sich und ein winziger Lichtpunkt zuckt aus ihrer Mitte heraus auf und tanzt über den Helm in deinen Händen.
 
 „Bearbeitung abgeschlossen. Bericht: Jemadar Achilli wurde am Tag ihrer letzten Aufzeichnung getroffen und getötet. Ihre Akte wurde aktualisiert um diese Information zu berücksichtigen. Analyse wird fortgesetzt.“</DefaultText>
       <FemaleText />
