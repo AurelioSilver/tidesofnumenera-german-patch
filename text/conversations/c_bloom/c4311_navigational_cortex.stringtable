@@ -104,7 +104,7 @@ Wenn du sie genauer betrachtest, kannst du unendlich kleine Muster entlang ihrer
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Die weiche Stimme sagt: „Die exakten Koordinaten dieser Station sind: 12.93, 476.947, 18h57z.“  Diese Zahlen erscheinen nützlicherweise auch in dem blassen blauen Licht der Symbole auf dem Gerät.
+      <DefaultText>Die weiche Stimme sagt: „Die exakten Koordinaten dieser Station sind: 12.93, 476.947, 18h57z.“ Diese Zahlen erscheinen nützlicherweise auch in dem blassen blauen Licht der Symbole auf dem Gerät.
 
 Du vermutest, dass wenn du das geeignete Wissen und Kontext hättest, um die Zahlen zu verstehen, du ein besseres Bild deines Standortes haben könntest. So wie es jetzt ist, machen sie für dich keinen Sinn.</DefaultText>
       <FemaleText />
@@ -144,21 +144,21 @@ Deine Skepsis spürend, sagt die Stimme: „Ja. Ich habe die lokale Zeit in dein
 
 „Anmerkung: Ein Transportmittel wurde gesichtet. Ein Transportmittel wurde gesichtet. Bitte auf Docking-Prozess vorbereiten. Ein Transportmittel wurde gesichtet.“
 
-{SCRIPT:  We may want to switch the image to that of the Ship here.}</DefaultText>
+{SCRIPT: We may want to switch the image to that of the Ship here.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Für einen Moment erstarrt er, offensichtlich in einem Schock, der seinen ganzen Körper einnimmt. Er stößt einen heulenden Freudenschrei aus und stürzt aus dem Raum.
 
-{SCRIPT:  May need to cut to a cutscene of Genjes leaving.}</DefaultText>
+{SCRIPT: May need to cut to a cutscene of Genjes leaving.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>„Eine Energiewelle mysteriösen Ursprungs hat vor Kurzem meine Abschirmung überwunden und zeitweise meine Sensoren gestört, sodass ich fälschlicherweise das Sichten eines Transportmittels gemeldet habe. Meine Systeme haben sich angepasst, um solche Energiewellen abzufangen und sollten für den Rest meines Lebenszyklus fehlerfrei bleiben.“
 
-{SCRIPT:  Need to add a trigger or something to update the global to 2 on leaving after faking the Ship arriving.}</DefaultText>
+{SCRIPT: Need to add a trigger or something to update the global to 2 on leaving after faking the Ship arriving.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,7 +391,7 @@ Ein kleines Bedienfeld öffnet sich an der Außenseite der Sphäre. Die blauen S
       <ID>82</ID>
       <DefaultText>„Was tust du mit unserem Cortex?“ Er starrt dich an und brüllt laut aus der Richtung der Türe. „Dieb! Hilfe! Dieb!“ 
 
-{SCRIPT:  Start the crisis!}</DefaultText>
+{SCRIPT: Start the crisis!}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,7 +428,7 @@ Ein kleines Bedienfeld öffnet sich an der Außenseite der Sphäre. Die blauen S
 
 Die Schaltuhr erreicht die 1 … 0. Und dann ertönt die Hupe.
 
-{SCRIPT:  Start the crisis!}</DefaultText>
+{SCRIPT: Start the crisis!}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -462,7 +462,7 @@ Sein Ton ist freundlich, aber seine Augen sind hart. „Dieser Fehler passiert w
 Eine Hupe beginnt zu ertönen.
 
 {SOUND: Alarm klaxon}
-{SCRIPT:  Start crisis!}</DefaultText>
+{SCRIPT: Start crisis!}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -474,7 +474,7 @@ Eine Hupe beginnt zu ertönen.
       <ID>96</ID>
       <DefaultText>Mit dem Entfernen des Cortex werden die holographischen Abbildungen in dem Raum dunkel. Eine Stille breitet sich in dem Raum aus.
 
-{SCRIPT:  Make the holographic displays go out.}
+{SCRIPT: Make the holographic displays go out.}
 {SOUND: Make the deep humming stop}</DefaultText>
       <FemaleText />
     </Entry>
@@ -482,7 +482,7 @@ Eine Hupe beginnt zu ertönen.
       <ID>97</ID>
       <DefaultText>Auf die Konsequenzen vorbereiten.
 
-{SCRIPT:  It might be interesting to have this option give the party a free round to set up for the crisis (enemies don't start taking turns until the second round).}</DefaultText>
+{SCRIPT: It might be interesting to have this option give the party a free round to set up for the crisis (enemies don't start taking turns until the second round).}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -492,7 +492,7 @@ Eine Hupe beginnt zu ertönen.
 
 Eine Hupe ertönt.
 
-{SCRIPT:  Start the crisis!}</DefaultText>
+{SCRIPT: Start the crisis!}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -500,7 +500,7 @@ Eine Hupe ertönt.
       <DefaultText>Als du den Cortex aus seinem Gehäuse entfernst, verdunkeln sich die Lichter, das Pochen stoppt … und eine Hupe beginnt zu ertönen. Offenbar hast du es nicht geschafft, den Alarm, der an der Maschine angebracht ist, zu deaktivieren.
 
 
-{SCRIPT:  Start the crisis!}</DefaultText>
+{SCRIPT: Start the crisis!}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -744,7 +744,7 @@ In den nächsten paar Minuten diskutieren Rhin und der Cortex die Konstellatione
       <ID>160</ID>
       <DefaultText>„Erzähl mir mehr über die drei vermissten Lascar.“
 
-{COLIN/GEORGE:  Adding this option because it might feel odd to be able to look into the 15 year old disappearance and not this one.  It might also be fun to have a little reactivity to turning on the signal in the helmets of the living lascars.}
+{COLIN/GEORGE: Adding this option because it might feel odd to be able to look into the 15 year old disappearance and not this one. It might also be fun to have a little reactivity to turning on the signal in the helmets of the living lascars.}
 
 {GEORGE: I agree it could be fun to add a „did you signal us?“ node to the lascar leader. Let me know if you want that. - cmm}</DefaultText>
       <FemaleText />
