@@ -467,12 +467,12 @@ Eine Hupe beginnt zu ertönen.
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Mit dem Entfernen des Cortex werden die holographischen Abbildungen in dem Raum dunkel … und der Pilot-Major, der ganz offensichtlich den Raum nicht verlassen hat, entdeckt, dass du den Wissenskern entfernt hast, den die Lascar seit Generationen wie einen Schatz aufbewahrt hatten. Anstatt dich ruhig zu ermahnen, löst er den Alarm aus. Wächter beginnen in den Raum zu stürmen. Du scheinst die Lascar verärgert zu haben.</DefaultText>
+      <DefaultText>Mit dem Entfernen des Cortex werden die holografischen Abbildungen in dem Raum dunkel … und der Pilot-Major, der ganz offensichtlich den Raum nicht verlassen hat, entdeckt, dass du den Wissenskern entfernt hast, den die Lascar seit Generationen wie einen Schatz aufbewahrt hatten. Anstatt dich ruhig zu ermahnen, löst er den Alarm aus. Wächter beginnen in den Raum zu stürmen. Du scheinst die Lascar verärgert zu haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Mit dem Entfernen des Cortex werden die holographischen Abbildungen in dem Raum dunkel. Eine Stille breitet sich in dem Raum aus.
+      <DefaultText>Mit dem Entfernen des Cortex werden die holografischen Abbildungen in dem Raum dunkel. Eine Stille breitet sich in dem Raum aus.
 
 {SCRIPT: Make the holographic displays go out.}
 {SOUND: Make the deep humming stop}</DefaultText>
