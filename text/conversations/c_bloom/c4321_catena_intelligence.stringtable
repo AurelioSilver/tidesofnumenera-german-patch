@@ -79,7 +79,7 @@ Ein verstecktes Bedienfeld öffnet sich. In ihm liegt eine Masse aus Metalldräh
       <ID>16</ID>
       <DefaultText>Die Projektionen sprechen gleichzeitig. „Meine externen Sensoren wurden zerstört. Einige Passagiere wurden hinausgeschleudert. Berechnungen legen nahe, dass niemand einen solchen Unfall überlebt haben könnte.“
 
-{SCRIPT:  Apply an asset that makes it easier to convince the AI to upload itself into your Labyrinth.}</DefaultText>
+{SCRIPT: Apply an asset that makes it easier to convince the AI to upload itself into your Labyrinth.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,7 +110,7 @@ Du entfernst sachte die Klammern, die den aktiven Zylinder an seinem Platz halte
 
 Du stehst alleine in der Dunkelheit. Alles um dich herum ist still und regungslos.
 
-{SOUND:  We're currently shutting down the lights here, but might want some SFX to go with it.}</DefaultText>
+{SOUND: We're currently shutting down the lights here, but might want some SFX to go with it.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
