@@ -72,7 +72,7 @@ Nach einem kurzen Moment kehrt er zu seiner ursprünglichen Position und Pose zu
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Du gewinnst dein Gleichgewicht zurück und versuchst, nicht in die schmutzige Flüssigkeit zu stürzen. Aber gerade, als du wieder Boden unter den Füßen hast, taucht eine kleine Hand aus der wirbelnden Flüssigkeit auf. Sie legt sich um deinen Knöchel, und die Rückstände an Flor-Flüssigkeit, die an ihr hängen, brennen sich in dein Fleisch.
+      <DefaultText>Du gewinnst dein Gleichgewicht zurück und versuchst, nicht in die schmutzige Flüssigkeit zu stürzen. Aber gerade, als du wieder Boden unter den Füßen hast, taucht eine kleine Hand aus der wirbelnden Flüssigkeit auf. Sie legt sich um deinen Knöchel und die Rückstände an Flor-Flüssigkeit, die an ihr hängen, brennen sich in dein Fleisch.
 
 Cotys Gesicht ist so nah an deinem, dass es es fast berühren. Durch zusammengebissene Zähne zischt er: „Sie *ertrinkt*. Rette sie.“ 
 
@@ -140,14 +140,14 @@ Unter den verschmutzten Wassern des Teichs kannst du die schwache Silhouette ein
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Du versuchst mit aller Macht, dich freizukämpfen, aber ihr Griff lässt sich nicht lösen. Sie zieht dich nach unten, und die Flüssigkeit der Flor füllt bald deinen Mund. Ein Schluck davon genügt, um deinen Widerstandswillen vollständig zu brechen. Während die ätzende Flüssigkeit dein Gewebe zersetzt, legt sich der Griff des Mädchens fester um dich. Das letzte, was du wahrnimmst, ist das geballte Leid der Opfer der Flor.</DefaultText>
+      <DefaultText>Du versuchst mit aller Macht, dich freizukämpfen, aber ihr Griff lässt sich nicht lösen. Sie zieht dich nach unten und die Flüssigkeit der Flor füllt bald deinen Mund. Ein Schluck davon genügt, um deinen Widerstandswillen vollständig zu brechen. Während die ätzende Flüssigkeit dein Gewebe zersetzt, legt sich der Griff des Mädchens fester um dich. Das letzte, was du wahrnimmst, ist das geballte Leid der Opfer der Flor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Du wirbelst herum und versuchst, dich freizukämpfen. Auch, wenn es scheint, als würde sich das Mädchen dir widersetzen, kannst du dich an den Rand des Teiches vorkämpfen. Sie hält sich an deinen Beinen fest, und als du sie aus dem Teich ziehst, wird sie mitgezogen.
 
-Ihre Ähnlichkeit zu Coty ist unverkennbar. Sie lächelt dich dankbar an, und dieses Lächeln bleibt dir im Gedächtnis, während der Rest von ihr verschwindet.</DefaultText>
+Ihre Ähnlichkeit zu Coty ist unverkennbar. Sie lächelt dich dankbar an und dieses Lächeln bleibt dir im Gedächtnis, während der Rest von ihr verschwindet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,7 +162,7 @@ Ihre Ähnlichkeit zu Coty ist unverkennbar. Sie lächelt dich dankbar an, und di
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Du versuchst mit aller Macht, dich freizukämpfen, aber ihr Griff lässt sich nicht lösen. Sie zieht dich nach unten, und die Flüssigkeit der Flor füllt bald deinen Mund. Ein Schluck davon genügt, um deinen Widerstandswillen vollständig zu brechen. Während die ätzende Flüssigkeit dein Gewebe zersetzt, legt sich der Griff des Mädchens fester um dich. Das letzte, was du wahrnimmst, ist das geballte Leid der Opfer der Flor.</DefaultText>
+      <DefaultText>Du versuchst mit aller Macht, dich freizukämpfen, aber ihr Griff lässt sich nicht lösen. Sie zieht dich nach unten und die Flüssigkeit der Flor füllt bald deinen Mund. Ein Schluck davon genügt, um deinen Widerstandswillen vollständig zu brechen. Während die ätzende Flüssigkeit dein Gewebe zersetzt, legt sich der Griff des Mädchens fester um dich. Das letzte, was du wahrnimmst, ist das geballte Leid der Opfer der Flor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@ Sie liegt nach Luft schnappend auf dem Boden und sieht schließlich zu dir auf. 
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Als du nach ihrem Arm greifst, verlagerst du dein Gleichgewicht falsch … und fällst in den fauligen Teich. Die Flor-Flüssigkeit beißt sich in deine Haut, und das Mädchen im Wasser versucht, dich immer weiter nach unten zu ziehen.</DefaultText>
+      <DefaultText>Als du nach ihrem Arm greifst, verlagerst du dein Gleichgewicht falsch … und fällst in den fauligen Teich. Die Flor-Flüssigkeit beißt sich in deine Haut und das Mädchen im Wasser versucht, dich immer weiter nach unten zu ziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -374,7 +374,7 @@ Die Flor-Flüssigkeit beißt sich in deine Haut, und das Mädchen im Wasser vers
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Coty hilft dir auf die Beine und zieht dich vom Rand des Teiches weg. Er sieht dir in die Augen, und die panische Qual und Angst scheint verschwunden. Dann umarmt er dich herzlich.
+      <DefaultText>Coty hilft dir auf die Beine und zieht dich vom Rand des Teiches weg. Er sieht dir in die Augen und die panische Qual und Angst scheint verschwunden. Dann umarmt er dich herzlich.
 
 Dann löst auch er sich in Luft auf, aber du kannst seine Wärme in dir *fühlen*.</DefaultText>
       <FemaleText />
