@@ -134,7 +134,7 @@ Eine lange Zeit lang geschieht nichts, was Vostiel mit einem höhnischen Lachen 
       <ID>20</ID>
       <DefaultText>Vostiel kann seine Begeisterung nicht verbergen, als er, du und vier seiner besten Soldaten auf die gegenüberliegenden Schützengräben zustürmen.
 
-"Jetzt zeigen wir's ihnen!" schreit er. 
+"Jetzt zeigen wir's ihnen!", schreit er. 
 
 Hinter euch ziehen sich Landi und der Rest der Truppe gemeinsam mit dem unzufriedenen Priester in die Gräben auf der rechten Seite zurück. Sie gehen in Deckung und feuern Salven und surrende Strahlen in Richtung der Angreifer, um sie abzulenken. Das erlaubt deiner kleinen Truppe, linkerhand an den Schützengräben vorbei zum zerfallenen Konstrukt vorzupreschen.
 
@@ -246,7 +246,7 @@ Nach einer Weile habt ihr euch der gigantischen Mantis auf Wurfreichweite genäh
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Warum wurde ich nicht in einem Fahrzeug abgeholt?" fragt er. "Und warum werde ich von schlecht ausgerüsteten Amateuren eskortiert? Wenn es das ist, was das Oberkommando von mir hält, sollte ich meine Arbeit vielleicht besser an seine Feinde verkaufen!" {VOICE: The priest should be shrill, obviojusly. Extra sneer on "trench fodder."}
+      <DefaultText>"Warum wurde ich nicht in einem Fahrzeug abgeholt?", fragt er. "Und warum werde ich von schlecht ausgerüsteten Amateuren eskortiert? Wenn es das ist, was das Oberkommando von mir hält, sollte ich meine Arbeit vielleicht besser an seine Feinde verkaufen!" {VOICE: The priest should be shrill, obviojusly. Extra sneer on "trench fodder."}
 
 Die Frau, die neben dir marschiert, seufzt. An ihrem Uniformrock ist das Abzeichen eines Leutnants angebracht. In ihrem Gesicht prangt eine große Narbe, die sich von der Schläfe bis zum Kiefer durchzieht. "Keine Fahrzeuge übrig", sagt sie. "Und auch keine andere Truppe. Wegen des Angriffs des Kalkedons ist jede andere kampffähige Truppe auf dem direkten Weg nach Ansau."
 
@@ -333,7 +333,7 @@ Er zögert einen Augenblick lang und spricht dann leise weiter. "Es scheint, als
       <ID>52</ID>
       <DefaultText>Deine beiden Leutnants sehen dich an.
 
-"Was sagen Sie, Captain?" fragt Vostiel. "Einfach nur Befehle zu befolgen, das hat noch nie viele Medaillen eingebracht, Sie wissen das."
+"Was sagen Sie, Captain?", fragt Vostiel. "Einfach nur Befehle zu befolgen, das hat noch nie viele Medaillen eingebracht, Sie wissen das."
 
 "Aber es hat auch nie an Ehre verloren", entgegnet Landi.</DefaultText>
       <FemaleText />
@@ -355,7 +355,7 @@ Er zögert einen Augenblick lang und spricht dann leise weiter. "Es scheint, als
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Welche Einheit sollen wir zuerst in Angriff nehmen?" fragt Vostiel.
+      <DefaultText>"Welche Einheit sollen wir zuerst in Angriff nehmen?", fragt Vostiel.
 
 Ihr haltet an einer Kreuzung zweier Schützengräben an. Der Feind ist in drei Einheiten aufgeteilt. Die Einheit auf der linken Seite feuert explosive Geschosse über die Straße auf deine Truppen. Die Einheit auf der linken Seite bewegt sich durch die Schützengräben fort und wird deine Truppen auf dem Weg zu ihnen mit Sperrfeuer belegen. Die Einheit, die euch von den Schultern des gefallenen Konstrukts aus unter Beschuss nehmen wird, ist mit einem leistungsfähigen Erhitzer ausgerüstet, der die Erde und Steine in den umliegenden Schützengräben mit jeder Welle in brodelnde Schlacke verwandelt. {SOUND: Battle sounds}</DefaultText>
       <FemaleText />
@@ -1010,7 +1010,7 @@ Du neigst dich nach oben und siehst zum Konstrukt herüber. Es liegt flach auf d
 Du winkst ab und legst dich an die Spitze der Anhöhe. Während du den Lauf der Strahlenwaffe durch die Gräser schiebst, beobachtest du die Bewegungen des Konstrukts. Es ist eine Maschine. Ihre Bewegungen sind vorhersehbar. Sein Kopf dreht sich alle sieben Herzschläge zu dir. Alles, was du tun musst, ist zu zielen, zu zählen, und zu feuern. Das Schwierigste daran ist, zu wissen, dass es das Letzte sein wird was du tust.
 
 Als es seinen Kopf wieder in deine Richtung dreht, atmest du aus und drückst den Abzug. Deine Schulter und dein Torso beginnen auf der Stelle, höllisch zu brennen, als ein Strahl dich vom Schulterknochen bis zur Hüfte durchbohrt. 
-"Captain!" schreit Vostiel. Er dreht dich um. "Beim Glücksmond, er ist am Leben! Sie haben es erwischt, Captain! Das große Mistvieh ist tot! Sie haben es erwischt!" {SOUND: Robot's powerful beam weapon}</DefaultText>
+"Captain!", schreit Vostiel. Er dreht dich um. "Beim Glücksmond, er ist am Leben! Sie haben es erwischt, Captain! Das große Mistvieh ist tot! Sie haben es erwischt!" {SOUND: Robot's powerful beam weapon}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1064,7 +1064,7 @@ Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist Vostiel
 
 Unglücklicherweise *ist* es schnell genug, um noch einen letzten Schuss abzufeuern, bevor die Implosion es und alles um es herum in einem einzigen Punkt zusammenfällt. Ein tödlicher Strahl durchstößt dich von Schulterknochen bis zur Hüfte und verbrennt alles dazwischen.
 
-"Captain!" schreit Vostiel. Er dreht dich um. "Beim Glücksmond, Sie sind am Leben! Sie haben sie erwischt, Captain! Das große Mistvieh ist tot! Und der Rest unserer Feinde auch!"
+"Captain!", schreit Vostiel. Er dreht dich um. "Beim Glücksmond, Sie sind am Leben! Sie haben sie erwischt, Captain! Das große Mistvieh ist tot! Und der Rest unserer Feinde auch!"
 
 {SOUND: Two sonic booms.}
 {SCRIPT: Illustration - Blowing up the Construct}</DefaultText>
@@ -1181,7 +1181,7 @@ Vostiel flucht. "Clever, diese Mistkerle. Sie haben das Wächterkonstrukt nicht 
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Warte!" sagt der Aeon-Priester. "Das ist die perfekte Gelegenheit, um mein Gerät zu testen. Lass es mich benutzen, und ich mache dieser Sache ein Ende, noch bevor sie richtig angefangen hat!"
+      <DefaultText>"Warte!", sagt der Aeon-Priester. "Das ist die perfekte Gelegenheit, um mein Gerät zu testen. Lass es mich benutzen, und ich mache dieser Sache ein Ende, noch bevor sie richtig angefangen hat!"
 
 Vostiel keift ihn an. "Eine unerprobte Waffe in einem echten Kampf benutzen? Bist du wahnsinnig?"
 
@@ -1286,7 +1286,7 @@ Du winkst ab und legst dich an die Spitze der Anhöhe. Während du den Lauf der 
 
 Als es seinen Kopf wieder in deine Richtung dreht, atmest du aus und drückst den Abzug. Deine Schulter und dein Torso beginnen auf der Stelle, höllisch zu brennen, als ein Strahl dich vom Schulterknochen bis zur Hüfte durchbohrt.
 
-"Captain!" schreit Vostiel. Er dreht dich um. "Beim Glücksmond, er ist am Leben! Sie haben es erwischt, Captain! Das große Mistvieh ist tot! Sie haben es erwischt!" {SOUND: Robot's powerful beam weapon.}</DefaultText>
+"Captain!", schreit Vostiel. Er dreht dich um. "Beim Glücksmond, er ist am Leben! Sie haben es erwischt, Captain! Das große Mistvieh ist tot! Sie haben es erwischt!" {SOUND: Robot's powerful beam weapon.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1325,7 +1325,7 @@ Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die Sti
 
 Unglücklicherweise *ist* es schnell genug, um noch einen letzten Schuss abzufeuern, bevor die Implosion es und alles um es herum in einem einzigen Punkt zusammenfällt. Ein tödlicher Strahl durchstößt dich von Schulterknochen bis zur Hüfte und verbrennt alles dazwischen.
 
-"Captain!" schreit Vostiel. Er dreht dich um. "Beim Glücksmond, Sie sind am Leben! Sie haben sie erwischt, Captain! Das große Mistvieh ist tot! Und der Rest unserer Feinde auch!"
+"Captain!", schreit Vostiel. Er dreht dich um. "Beim Glücksmond, Sie sind am Leben! Sie haben sie erwischt, Captain! Das große Mistvieh ist tot! Und der Rest unserer Feinde auch!"
 
 {SOUND: Two sonic booms.}
 {SCRIPT: Illustration - Blowing Up the Construct}</DefaultText>

@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Brüderchen!" ruft sie und winkt dich zu ihr rüber als stünde sie mitten auf einem belebten Marktplatz. "Dich hätte ich hier nicht erwartet!"</DefaultText>
-      <FemaleText>"Schwesterchen!" ruft sie und winkt dich zu ihr rüber als stünde sie mitten auf einem belebten Marktplatz. "Dich hätte ich hier nicht erwartet!"</FemaleText>
+      <DefaultText>"Brüderchen!", ruft sie und winkt dich zu ihr rüber als stünde sie mitten auf einem belebten Marktplatz. "Dich hätte ich hier nicht erwartet!"</DefaultText>
+      <FemaleText>"Schwesterchen!", ruft sie und winkt dich zu ihr rüber als stünde sie mitten auf einem belebten Marktplatz. "Dich hätte ich hier nicht erwartet!"</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Viel los heute, nicht wahr?" sagt sie und sieht sich um. "Möchtest du was kaufen? Vielleicht eine Verbesserung? Oder ein Bett zum Rasten? Was du auch suchst, bei mir bist du richtig."</DefaultText>
+      <DefaultText>"Viel los heute, nicht wahr?", sagt sie und sieht sich um. "Möchtest du was kaufen? Vielleicht eine Verbesserung? Oder ein Bett zum Rasten? Was du auch suchst, bei mir bist du richtig."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,7 +224,7 @@ Sie strahlt ihre Hände an. "Ich habe sie schon fast so lange wie ich am Leben b
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Dauert nur ein paar Minuten" sagt Anshe und verdreht die Augen in deine Richtung. "Ich werde einige der Löcher in deiner Weste und deinem Mantel flicken und deine Kleider mit meinem selbst entwickelten Futter stopfen. Das kommt dann auf [Global: b3301_AnsheAligernUpgradeArmorCost] Shin."</DefaultText>
+      <DefaultText>"Dauert nur ein paar Minuten", sagt Anshe und verdreht die Augen in deine Richtung. "Ich werde einige der Löcher in deiner Weste und deinem Mantel flicken und deine Kleider mit meinem selbst entwickelten Futter stopfen. Das kommt dann auf [Global: b3301_AnsheAligernUpgradeArmorCost] Shin."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -312,7 +312,7 @@ Sie strahlt ihre Hände an. "Ich habe sie schon fast so lange wie ich am Leben b
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Fantastisch!" ruft Erritis. "Ich habe mir schon einige kleine Verbesserungen für meine Rüstung überlegt! Wie viel würde das hier kosten?"
+      <DefaultText>"Fantastisch!", ruft Erritis. "Ich habe mir schon einige kleine Verbesserungen für meine Rüstung überlegt! Wie viel würde das hier kosten?"
 
 Er holt ein zerknülltes Blatt Papier aus seiner Hose und hält es Lady Anshe und dir freudig vors Gesicht. 
 
@@ -384,7 +384,7 @@ Es ist eine unbeholfene Zeichnung eines Mannes, der eine strahlende Rüstung tr�
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Gerne" sagt Anshe. Sie dreht einen pulsierenden Nodus auf ihrem Daumen und streckt die Hände in Richtung Matkina aus.</DefaultText>
+      <DefaultText>"Gerne", sagt Anshe. Sie dreht einen pulsierenden Nodus auf ihrem Daumen und streckt die Hände in Richtung Matkina aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -566,7 +566,7 @@ Sie verschränkt die Arme und studiert Matkina. "Das Kettenhemd", sagt sie schli
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Ach was?" sagt sie und beäugt dich kritisch. "Ich würde sagen, was auch immer sie hier ausschenken, du hast zu viel davon gehabt."</DefaultText>
+      <DefaultText>"Ach was?", sagt sie und beäugt dich kritisch. "Ich würde sagen, was auch immer sie hier ausschenken, du hast zu viel davon gehabt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -729,7 +729,7 @@ Lady Anshe, die unternehmerische Verstoßene aus Miel Avest, weint. Sie schlägt
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Du würdest mich mit *nichts* zurücklassen!" schreit sie, und greift verzweifelt nach den imaginären Reichtümern.</DefaultText>
+      <DefaultText>"Du würdest mich mit *nichts* zurücklassen!", schreit sie, und greift verzweifelt nach den imaginären Reichtümern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -741,7 +741,7 @@ Lady Anshe, die unternehmerische Verstoßene aus Miel Avest, weint. Sie schlägt
       <ID>139</ID>
       <DefaultText>Als du näherschreitest, erkennst du Schatten dessen, was sie sieht, Flimmern am Rande deiner Wahrnehmungskraft: Luxeriöser Stoff, fabelhafte Kuriositäten und teueraussehende Geräte aller Art sind um sie angehäuft... und es gibt weitere Schatten, die ihr alles wegnehmen.
 
-Sie versucht, ihre Schätze zu greifen, bevor sie gestohlen werden können, aber ihre Hände schlagen wie Nebel hindurch. "Bitte!" schreit sie. "Ich kann dich bezahlen. Gib mir einfach etwas mehr Zeit!"</DefaultText>
+Sie versucht, ihre Schätze zu greifen, bevor sie gestohlen werden können, aber ihre Hände schlagen wie Nebel hindurch. "Bitte!", schreit sie. "Ich kann dich bezahlen. Gib mir einfach etwas mehr Zeit!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -918,7 +918,7 @@ Als sie spricht, schwinden alle Schatten wie ein Traum, und sie ist wieder bei v
       <ID>180</ID>
       <DefaultText>Sie streckt ihre geschmückte Hand heraus und schenkt ihr ihre ganze Konzentrationskraft. Plötzlich erscheinen zwei vibrierende Kristallsplitter in der Luft über ihre Hand, die einen scharfen, holzartigen Geruch von sich geben und sich gegenseitig umkreisen.
 
-"Ha!" sagt sie. "Ich liebe diesen Gegenstand. Ich importiere sie aus Haref, weißt du? Sie machen nichts außer die Dekoration ergänzen, aber ich kann sie für viel mehr verkaufen als die meisten Kuriositäten."
+"Ha!", sagt sie. "Ich liebe diesen Gegenstand. Ich importiere sie aus Haref, weißt du? Sie machen nichts außer die Dekoration ergänzen, aber ich kann sie für viel mehr verkaufen als die meisten Kuriositäten."
 
 Sie packt die Kristalle und steckt sie in ihre Tasche. "Es scheint, dass man an diesem Ort mehr tun kann, als nur Schatten verjagen, ja?"</DefaultText>
       <FemaleText />
@@ -992,7 +992,7 @@ Sie streckt ihre Hände zur Gruppe. Plötzlich schimmern die Kleider deiner Gef�
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Wahrlich ein Wunder," sagt sie, und wundert sich über ihre Hände.</DefaultText>
+      <DefaultText>"Wahrlich ein Wunder", sagt sie, und wundert sich über ihre Hände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
