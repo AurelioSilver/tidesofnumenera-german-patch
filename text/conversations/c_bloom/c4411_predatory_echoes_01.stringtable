@@ -41,19 +41,19 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Du hörst ein tiefes Einatmen, und einige der Kämpfer halten inne. Ein Mann mit einem wilden Blick dreht sich um und sieht dich an - er trägt die Gamaschen eines Schlägers der Memovira. "Jemand ist hier", zischt er. "Jemand zum Töten."
+      <DefaultText>Du hörst ein tiefes Einatmen, und einige der Kämpfer halten inne. Ein Mann mit einem wilden Blick dreht sich um und sieht dich an - er trägt die Gamaschen eines Schlägers der Memovira. „Jemand ist hier“, zischt er. „Jemand zum Töten.“
 
-Die anderen lassen voneinander ab und preschen in deine Richtung vor, ihre Gesichter vom Zorn verzerrt ...</DefaultText>
+Die anderen lassen voneinander ab und preschen in deine Richtung vor, ihre Gesichter vom Zorn verzerrt …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Du hörst ein tiefes Einatmen. Die falsche Matkina hebt ihren Kopf wie ein Hund, der eine Witterung aufnimmt. "Kleiner Bruder ..." faucht sie. Alle Kämpfer drehen sich in deine Richtung.</DefaultText>
-      <FemaleText>Du hörst ein tiefes Einatmen. Die falsche Matkina hebt ihren Kopf wie ein Hund, der eine Witterung aufnimmt. "Kleine Schwester ..." faucht sie. Alle Kämpfer drehen sich in deine Richtung.</FemaleText>
+      <DefaultText>Du hörst ein tiefes Einatmen. Die falsche Matkina hebt ihren Kopf wie ein Hund, der eine Witterung aufnimmt. „Kleiner Bruder …“, faucht sie. Alle Kämpfer drehen sich in deine Richtung.</DefaultText>
+      <FemaleText>Du hörst ein tiefes Einatmen. Die falsche Matkina hebt ihren Kopf wie ein Hund, der eine Witterung aufnimmt. „Kleine Schwester …“, faucht sie. Alle Kämpfer drehen sich in deine Richtung.</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Ein widerliches Licht tanzt in den matten, schwarzen Augen des Schattens. "Ich werde deine Zukunft in deinen Eingeweiden lesen!" Sie hebt ihre Klinge zu einem spöttischen Gruß, ihr Chamäleon-Umhang glitzert und flattert im Wind. Ihr Gesicht ist noch immer kalt und starr, eine Maske aus Alabaster, aber das unheilige Funkeln in ihren Augen ...
+      <DefaultText>Ein widerliches Licht tanzt in den matten, schwarzen Augen des Schattens. „Ich werde deine Zukunft in deinen Eingeweiden lesen!“ Sie hebt ihre Klinge zu einem spöttischen Gruß, ihr Chamäleon-Umhang glitzert und flattert im Wind. Ihr Gesicht ist noch immer kalt und starr, eine Maske aus Alabaster, aber das unheilige Funkeln in ihren Augen …
 
 *Das* ist der Weiße Tod aus den Albträumen der Stadt.</DefaultText>
       <FemaleText />
@@ -65,12 +65,12 @@ Die anderen lassen voneinander ab und preschen in deine Richtung vor, ihre Gesic
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ist das ... der Teil von mir, der verschlungen wurde? Sehen mich die Menschen etwa *so*? Bei den Göttern. Ich bin nicht sicher, ob ich mich freuen oder fürchten soll."</DefaultText>
+      <DefaultText>„Ist das … der Teil von mir, der verschlungen wurde? Sehen mich die Menschen etwa *so*? Bei den Göttern. Ich bin nicht sicher, ob ich mich freuen oder fürchten soll.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Lügen!", flüstert sie. "Ich *bin* der Weiße Tod, und du bist ... du bist ..." Sie hebt ihre Klinge, aber plötzlich scheint sie vom Zweifel überkommen zu sein. Sie sieht dich prüfend an, dein Gesicht, deine Haltung, deine Tätowierung ... und plötzlich hält sie sich zurück. Die Wut und der Hass verschwinden aus ihren Augen, und sie senkt ihre Klinge.</DefaultText>
+      <DefaultText>„Lügen!“, flüstert sie. „Ich *bin* der Weiße Tod, und du bist … du bist …“ Sie hebt ihre Klinge, aber plötzlich scheint sie vom Zweifel überkommen zu sein. Sie sieht dich prüfend an, dein Gesicht, deine Haltung, deine Tätowierung … und plötzlich hält sie sich zurück. Die Wut und der Hass verschwinden aus ihren Augen, und sie senkt ihre Klinge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,14 +82,14 @@ Die anderen Schatten starren sie an und verschwinden daraufhin auch.</DefaultTex
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Lügen!", flüstert sie. "Ich *bin* der Weiße Tod, und du bist *tot*."
+      <DefaultText>„Lügen!“, flüstert sie. „Ich *bin* der Weiße Tod, und du bist *tot*.“
 
 Sie hebt ihre Klinge und stürmt auf dich zu. Die anderen Schatten sind ihr dicht auf den Fersen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Du bist nur ein Schatten der echten Matkina. Du bist eine Projektion, ein Echo. Ein Teil der Gedanken der Flor."</DefaultText>
+      <DefaultText>„Du bist nur ein Schatten der echten Matkina. Du bist eine Projektion, ein Echo. Ein Teil der Gedanken der Flor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -129,7 +129,7 @@ Sie hebt ihre Klinge und stürmt auf dich zu. Die anderen Schatten sind ihr dich
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Noch ein Schritt, und du bist Geschichte. Ich werde jede letzte Erinnerung an dich, jeden Gedanken vernichten. Du wirst von allen vergessen werden."</DefaultText>
+      <DefaultText>„Noch ein Schritt, und du bist Geschichte. Ich werde jede letzte Erinnerung an dich, jeden Gedanken vernichten. Du wirst von allen vergessen werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,21 +146,21 @@ Sie und die anderen Schatten stürzen sich in den Kampf.</DefaultText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Sie erbleicht, als sie deine ernste Stimme hört. Zusammenzuckend weicht sie zurück, und im selben Moment verschwindet der giftige, bösartige Ausdruck auf ihrem Gesicht. "Ich bin ... Ich bin der Weiße Tod", flüstert sie. "Niemand darf ... so ... mit mir reden."
+      <DefaultText>Sie erbleicht, als sie deine ernste Stimme hört. Zusammenzuckend weicht sie zurück, und im selben Moment verschwindet der giftige, bösartige Ausdruck auf ihrem Gesicht. „Ich bin … Ich bin der Weiße Tod“, flüstert sie. „Niemand darf … so … mit mir reden.“
 
 Sie senkt ihre Waffe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Sie grinst, immer stärker und immer furchterregender. Sie flüstert. "Ich *bin* der Weiße Tod."
+      <DefaultText>Sie grinst, immer stärker und immer furchterregender. Sie flüstert. „Ich *bin* der Weiße Tod.“
 
 Sie stürzt sich auf dich. Die anderen Schatten sind ihr dicht auf den Fersen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Das ist eine Erfahrung, die man nicht jeden Tag macht. Ich meine ... sieh dich doch nur um. Sieh dir all das an." Sie schlottert.</DefaultText>
+      <DefaultText>„Das ist eine Erfahrung, die man nicht jeden Tag macht. Ich meine … sieh dich doch nur um. Sieh dir all das an.“ Sie schlottert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
