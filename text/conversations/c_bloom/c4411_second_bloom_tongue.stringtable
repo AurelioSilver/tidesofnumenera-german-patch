@@ -685,12 +685,12 @@ Die Flor scheint diesmal ohne die Hilfe des Rings zu versuchen, eine Verbindung 
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Du stellst deine Verbindung zu den Zungen wieder her, und erneut geben sie sich deinem Willen hin. Ihre Wurzeln sind mit dem Schlund in der Nähe verbunden – du kannst seinen alten, geduldigen Verstand am Rande deines Bewusstseins spüren.</DefaultText>
+      <DefaultText>Du stellst deine Verbindung zu den Zungen wieder her und erneut geben sie sich deinem Willen hin. Ihre Wurzeln sind mit dem Schlund in der Nähe verbunden – du kannst seinen alten, geduldigen Verstand am Rande deines Bewusstseins spüren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Wieder wühlen die Stimmen durch deine Erinnerungen, und der Schmerz kehrt zurück. Wieder fixieren sie sich auf einen Moment aus der Vergangenheit deines Erzeugers und sie zerren ihn hervor …</DefaultText>
+      <DefaultText>Wieder wühlen die Stimmen durch deine Erinnerungen und der Schmerz kehrt zurück. Wieder fixieren sie sich auf einen Moment aus der Vergangenheit deines Erzeugers und sie zerren ihn hervor …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -866,7 +866,7 @@ Nun winden sich die Zungen mit frischer Kraft, aber dir fällt auf, dass sie nic
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>Wieder wühlen die Stimmen durch deine Erinnerungen, und der Schmerz kehrt zurück. Wieder fixieren sie sich auf einen Moment aus der Vergangenheit deines Erzeugers. Sie beginnen, ihn an die Oberfläche zu zerren …</DefaultText>
+      <DefaultText>Wieder wühlen die Stimmen durch deine Erinnerungen und der Schmerz kehrt zurück. Wieder fixieren sie sich auf einen Moment aus der Vergangenheit deines Erzeugers. Sie beginnen, ihn an die Oberfläche zu zerren …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -876,7 +876,7 @@ Nun winden sich die Zungen mit frischer Kraft, aber dir fällt auf, dass sie nic
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Die Zungen kreischen, als dein Schmerz sie überwältigt. Sie schlagen um sich, und die Flor bebt und zittert.
+      <DefaultText>Die Zungen kreischen, als dein Schmerz sie überwältigt. Sie schlagen um sich und die Flor bebt und zittert.
 
 {SOUND: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
       <FemaleText />
@@ -916,7 +916,7 @@ Diese Station gehört so gut wie dir. Sie ist deine Bibliothek, dein Rückzugsor
       <ID>183</ID>
       <DefaultText>Durch die Erinnerung gesättigt, hängen die Flor-Zungen fast bis zum Boden.
 
-In deinem geschwächten Zustand war diese Anstrengung zu viel für dich. Du brichst neben den Zungen zusammen, und um dich herum wird alles dunkel …
+In deinem geschwächten Zustand war diese Anstrengung zu viel für dich. Du brichst neben den Zungen zusammen und um dich herum wird alles dunkel …
 
 {DAMAGE}</DefaultText>
       <FemaleText />
@@ -953,7 +953,7 @@ In deinem geschwächten Zustand war diese Anstrengung zu viel für dich. Du bric
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>Du versuchst, die flüsternden Stimmen aus deinem Kopf zu vertreiben, aber es ist zu spät. Sie schnattern und zischen in jeder Ecke deines Verstandes, und du kannst ihnen nicht entkommen … du kannst dich nicht einmal bewegen.</DefaultText>
+      <DefaultText>Du versuchst, die flüsternden Stimmen aus deinem Kopf zu vertreiben, aber es ist zu spät. Sie schnattern und zischen in jeder Ecke deines Verstandes und du kannst ihnen nicht entkommen … du kannst dich nicht einmal bewegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -968,7 +968,7 @@ In deinem geschwächten Zustand war diese Anstrengung zu viel für dich. Du bric
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>Die lockerst deinen Griff um den Ring, und die Stimmen der Flor-Zungen lassen nach.</DefaultText>
+      <DefaultText>Die lockerst deinen Griff um den Ring und die Stimmen der Flor-Zungen lassen nach.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1029,12 +1029,12 @@ Um dich herum wird es dunkel …
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>Die Erinnerung endet, und die Flor-Zungen taumeln gegeneinander, von ihrem Festmahl gesättigt. Du könntest die Kontrolle über sie erlangen, aber ohne den Ring wird es schwieriger.</DefaultText>
+      <DefaultText>Die Erinnerung endet und die Flor-Zungen taumeln gegeneinander, von ihrem Festmahl gesättigt. Du könntest die Kontrolle über sie erlangen, aber ohne den Ring wird es schwieriger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>Die Erinnerung endet, und die Flor-Zungen taumeln gegeneinander, von ihrem Festmahl gesättigt. Du spürst, dass du mithilfe des Ringes jetzt die Kontrolle über sie erlangen kannst.</DefaultText>
+      <DefaultText>Die Erinnerung endet und die Flor-Zungen taumeln gegeneinander, von ihrem Festmahl gesättigt. Du spürst, dass du mithilfe des Ringes jetzt die Kontrolle über sie erlangen kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1049,7 +1049,7 @@ Um dich herum wird es dunkel …
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>Du versuchst, die flüsternden Stimmen aus deinem Kopf zu vertreiben, aber es ist zu spät. Sie schnattern und zischen in jeder Ecke deines Verstandes, und du kannst ihnen nicht entkommen … du kannst dich nicht einmal bewegen.</DefaultText>
+      <DefaultText>Du versuchst, die flüsternden Stimmen aus deinem Kopf zu vertreiben, aber es ist zu spät. Sie schnattern und zischen in jeder Ecke deines Verstandes und du kannst ihnen nicht entkommen … du kannst dich nicht einmal bewegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1168,7 +1168,7 @@ Du kannst spüren, dass die Flor-Zungen noch immer ermüdet und faul sind, nachd
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>Du kannst außerdem die Präsenz von Dakore spüren, doch selbst mit den scharfen Sinnen der Zungen ist sie kaum spürbar … dünn verteilt sie sich über den Raum. Ein Kern aus Verzweiflung bildet sich in ihm, und alles andere ist abhanden gekommen.</DefaultText>
+      <DefaultText>Du kannst außerdem die Präsenz von Dakore spüren, doch selbst mit den scharfen Sinnen der Zungen ist sie kaum spürbar … dünn verteilt sie sich über den Raum. Ein Kern aus Verzweiflung bildet sich in ihm und alles andere ist abhanden gekommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1178,7 +1178,7 @@ Du kannst spüren, dass die Flor-Zungen noch immer ermüdet und faul sind, nachd
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>Das Flüstern kommt aus einer Ecke des Raums, und dir fällt auf, dass die Wurzeln der Masse alle in diese Richtung wachsen.</DefaultText>
+      <DefaultText>Das Flüstern kommt aus einer Ecke des Raums und dir fällt auf, dass die Wurzeln der Masse alle in diese Richtung wachsen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1193,14 +1193,14 @@ Du kannst spüren, dass die Flor-Zungen noch immer ermüdet und faul sind, nachd
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>Du flüsterst dem Schlund deinen Willen zu, und deine Stimme wandert über die Zungen und ihre Wurzeln schließlich zum Schlund selbst, wodurch du ihn deinem Willen unterwirfst. Nach einigen Augenblicken antwortet der Schlund. In einer Ecke des Raums taucht er auf …</DefaultText>
+      <DefaultText>Du flüsterst dem Schlund deinen Willen zu und deine Stimme wandert über die Zungen und ihre Wurzeln schließlich zum Schlund selbst, wodurch du ihn deinem Willen unterwirfst. Nach einigen Augenblicken antwortet der Schlund. In einer Ecke des Raums taucht er auf …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
       <DefaultText>Du kannst den Verstand des Schlundes spüren – alt, geduldig, und *stark*. Linien aus psychischer Energie gehen von ihm in alle Ecken des Raumes aus.
 
-Sein Flüstern hat einen grausamen und kläglichen Unterton. Du spürst Jahrtausende der Dunkelheit, und wie er sich von den halbverdauten Abfällen anderer Schlünde ernähren musste.</DefaultText>
+Sein Flüstern hat einen grausamen und kläglichen Unterton. Du spürst Jahrtausende der Dunkelheit und wie er sich von den halbverdauten Abfällen anderer Schlünde ernähren musste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1225,7 +1225,7 @@ Sein Flüstern hat einen grausamen und kläglichen Unterton. Du spürst Jahrtaus
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Du stellst deine Verbindung zu den Zungen wieder her, und erneut geben sie sich deinem Willen hin. Du kannst in der Nähe ein Flüstern hören.</DefaultText>
+      <DefaultText>Du stellst deine Verbindung zu den Zungen wieder her und erneut geben sie sich deinem Willen hin. Du kannst in der Nähe ein Flüstern hören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
