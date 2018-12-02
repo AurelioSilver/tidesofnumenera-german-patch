@@ -59,10 +59,10 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Tybir macht eine übertriebene Verbeugung. „Ihr Gnaden, ich stehe untertänigst zu Diensten.“ Seine Augen funkeln. „Denk nur mal daran, wie viel Geld du jetzt machen kannst. Du wirst dir alles leisten können, was du willst, alle -“ Er sieht deinen Gesichtsausdruck und hält inne. „Du bist der neue Memovira. Sprich mit der Flor, wirf ihr deine Vorgängerin zum Fraß vor … Moment, ist das etwa das Schicksal aller Memovira? Dann hast du dir ja was Schönes eingebrockt.“
+      <DefaultText>Tybir macht eine übertriebene Verbeugung. „Ihr Gnaden, ich stehe untertänigst zu Diensten.“ Seine Augen funkeln. „Denk nur mal daran, wie viel Geld du jetzt machen kannst. Du wirst dir alles leisten können, was du willst, alle –“ Er sieht deinen Gesichtsausdruck und hält inne. „Du bist der neue Memovira. Sprich mit der Flor, wirf ihr deine Vorgängerin zum Fraß vor … Moment, ist das etwa das Schicksal aller Memovira? Dann hast du dir ja was Schönes eingebrockt.“
 
 {SCRIPTER Tybir in party}</DefaultText>
-      <FemaleText>Tybir macht eine übertriebene Verbeugung. „Ihro Gnaden, ich stehe untertänigst zu Diensten.“ Seine Augen funkeln. „Denk nur mal daran, wie viel Geld du jetzt machen kannst. Du wirst dir alles leisten können, was du willst, alle -“ Er sieht deinen Gesichtsausdruck und hält inne. „Du bist die neue Memovira. Sprich mit der Flor, wirf ihr deine Vorgängerin zum Fraß vor … Moment, ist das etwa das Schicksal aller Memovira? Dann hast du dir ja was Schönes eingebrockt.“
+      <FemaleText>Tybir macht eine übertriebene Verbeugung. „Ihro Gnaden, ich stehe untertänigst zu Diensten.“ Seine Augen funkeln. „Denk nur mal daran, wie viel Geld du jetzt machen kannst. Du wirst dir alles leisten können, was du willst, alle –“ Er sieht deinen Gesichtsausdruck und hält inne. „Du bist die neue Memovira. Sprich mit der Flor, wirf ihr deine Vorgängerin zum Fraß vor … Moment, ist das etwa das Schicksal aller Memovira? Dann hast du dir ja was Schönes eingebrockt.“
 
 {SCRIPTER Tybir in party}</FemaleText>
     </Entry>
@@ -285,7 +285,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Dein Held? Was für ein Abenteuer -“ Er hält plötzlich inne, als er die Bedeutung des Gesagten begreift. „Du versuchst, mich loszuwerden, nicht wahr?“</DefaultText>
+      <DefaultText>„Dein Held? Was für ein Abenteuer –“ Er hält plötzlich inne, als er die Bedeutung des Gesagten begreift. „Du versuchst, mich loszuwerden, nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
