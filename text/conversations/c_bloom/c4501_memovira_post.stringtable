@@ -16,59 +16,59 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Aligern sieht sich um. "Kein schlechtes Zuhause, würde ich sagen. Natürlich muss man ein bisschen aufräumen, die Leichen wegschaffen ..." Er bemerkt deinen Gesichtsausdruck. "Du bist der neue Memovira. Die Flor gehört dir."
+      <DefaultText>Aligern sieht sich um. „Kein schlechtes Zuhause, würde ich sagen. Natürlich muss man ein bisschen aufräumen, die Leichen wegschaffen …“ Er bemerkt deinen Gesichtsausdruck. „Du bist der neue Memovira. Die Flor gehört dir.“
 
 {SCRIPTER Aligern in party}</DefaultText>
-      <FemaleText>Aligern sieht sich um. "Kein schlechtes Zuhause, würde ich sagen. Natürlich muss man ein bisschen aufräumen, die Leichen wegschaffen..." Er bemerkt deinen Gesichtsausdruck. "Du bist die neue Memovira. Die Flor gehört dir."
+      <FemaleText>Aligern sieht sich um. „Kein schlechtes Zuhause, würde ich sagen. Natürlich muss man ein bisschen aufräumen, die Leichen wegschaffen…“ Er bemerkt deinen Gesichtsausdruck. „Du bist die neue Memovira. Die Flor gehört dir.“
 
 {SCRIPTER Aligern in party}</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Callistege klingt *hungrig*. "Ist dir bewusst, wie viel Macht hier konzentriert ist? Dieser Ort ist ein Nexus in unzähligen Dimensionen und Realitäten ... und du hast die Macht über ihn." Sie bemerkt deinen fragenden Gesichtsausdruck. "Du bist der neue Memovira. Das ist viel mehr als nur ein Titel – du sprichst direkt zur Flor."
+      <DefaultText>Callistege klingt *hungrig*. „Ist dir bewusst, wie viel Macht hier konzentriert ist? Dieser Ort ist ein Nexus in unzähligen Dimensionen und Realitäten … und du hast die Macht über ihn.“ Sie bemerkt deinen fragenden Gesichtsausdruck. „Du bist der neue Memovira. Das ist viel mehr als nur ein Titel – du sprichst direkt zur Flor.“
 
 {SCRIPTER Callistege in party}</DefaultText>
-      <FemaleText>Callistege klingt *hungrig*. "Ist dir bewusst, wie viel Macht hier konzentriert ist? Dieser Ort ist ein Nexus in unzähligen Dimensionen und Realitäten... und du hast die Macht über ihn." Sie bemerkt deinen fragenden Gesichtsausdruck. "Du bist die neue Memovira. Das ist viel mehr als nur ein Titel – du sprichst direkt zur Flor."
+      <FemaleText>Callistege klingt *hungrig*. „Ist dir bewusst, wie viel Macht hier konzentriert ist? Dieser Ort ist ein Nexus in unzähligen Dimensionen und Realitäten… und du hast die Macht über ihn.“ Sie bemerkt deinen fragenden Gesichtsausdruck. „Du bist die neue Memovira. Das ist viel mehr als nur ein Titel – du sprichst direkt zur Flor.“
 
 {SCRIPTER Callistege in party}</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Sie ist tot. Endlich." Sie sieht dich an. "Dir ist klar, dass du jetzt der neue Memovira bist, nicht wahr? Du hast die Kontrolle über die Flor übernommen. Das ist nicht bloß ein Titel – du sprichst direkt zur Flor und sie antwortet dir. Allerdings müssen wir uns noch um unseren Erzeuger kümmern."
+      <DefaultText>„Sie ist tot. Endlich.“ Sie sieht dich an. „Dir ist klar, dass du jetzt der neue Memovira bist, nicht wahr? Du hast die Kontrolle über die Flor übernommen. Das ist nicht bloß ein Titel – du sprichst direkt zur Flor und sie antwortet dir. Allerdings müssen wir uns noch um unseren Erzeuger kümmern.“
 
 {SCRIPTER Matkina in party}</DefaultText>
-      <FemaleText>"Sie ist tot. Endlich." Sie sieht dich an. "Dir ist klar, dass du jetzt die neue Memovira bist, nicht wahr? Du hast die Kontrolle über die Flor übernommen. Das ist nicht bloß ein Titel – du sprichst direkt zur Flor und sie antwortet dir. Allerdings müssen wir uns noch um unseren Erzeuger kümmern."
+      <FemaleText>„Sie ist tot. Endlich.“ Sie sieht dich an. „Dir ist klar, dass du jetzt die neue Memovira bist, nicht wahr? Du hast die Kontrolle über die Flor übernommen. Das ist nicht bloß ein Titel – du sprichst direkt zur Flor und sie antwortet dir. Allerdings müssen wir uns noch um unseren Erzeuger kümmern.“
 
 {SCRIPTER Matkina in party}</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Satsada spricht durch Riastrads Mund mit eindringlicher Stimme: "Mein Freund, mein Anführer ... diese gottverdammte Memovira hat hier irgendwo das Gerät, das mich aus der Realität verschoben hat. Ich bitte dich, finde es, entweder an ihr oder irgendwo in diesem Turm. Ich verzehre mich danach, wieder mit meiner Liebe vereint zu werden."
+      <DefaultText>Satsada spricht durch Riastrads Mund mit eindringlicher Stimme: „Mein Freund, mein Anführer … diese gottverdammte Memovira hat hier irgendwo das Gerät, das mich aus der Realität verschoben hat. Ich bitte dich, finde es, entweder an ihr oder irgendwo in diesem Turm. Ich verzehre mich danach, wieder mit meiner Liebe vereint zu werden.“
 
 {SCRIPT Riastrad in party, no shunt in possession}</DefaultText>
-      <FemaleText>Satsada spricht durch Riastrads Mund mit eindringlicher Stimme: "Meine Freundin, meine Anführerin ... diese gottverdammte Memovira hat hier irgendwo das Gerät, das mich aus der Realität verschoben hat. Ich bitte dich, finde es, entweder an ihr oder irgendwo in diesem Turm. Ich verzehre mich danach, wieder mit meiner Liebe vereint zu werden."
+      <FemaleText>Satsada spricht durch Riastrads Mund mit eindringlicher Stimme: „Meine Freundin, meine Anführerin … diese gottverdammte Memovira hat hier irgendwo das Gerät, das mich aus der Realität verschoben hat. Ich bitte dich, finde es, entweder an ihr oder irgendwo in diesem Turm. Ich verzehre mich danach, wieder mit meiner Liebe vereint zu werden.“
 
 {SCRIPT Riastrad in party, no shunt in possession}</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Na, *das* war mal heldenhaft. Fürwahr!" Erritis sieht sich siegessicher um. Er strahlt hell. "Sag, bist du jetzt der neue Memovira? Immerhin hast du die Kontrolle über ihr Herz gewonnen und jetzt wo die alte Memovira tot ist ... müsstest du der neue Memovira sein. So läuft das doch, oder? Muss ich mich jetzt verbeugen? Ich verbeuge mich nämlich normalerweise nicht." Er flüstert dir zu: "Das ist nicht besonders heroisch."</DefaultText>
-      <FemaleText>"Na, *das* war mal heldenhaft. Fürwahr!" Erritis sieht sich siegessicher um. Er strahlt hell. "Sag, bist du jetzt die neue Memovira? Immerhin hast du die Kontrolle über ihr Herz gewonnen und jetzt wo die alte Memovira tot ist ... müsstest du die neue Memovira sein. So läuft das doch, oder? Muss ich mich jetzt verbeugen? Ich verbeuge mich nämlich normalerweise nicht." Er flüstert dir zu: "Das ist nicht besonders heroisch."
+      <DefaultText>„Na, *das* war mal heldenhaft. Fürwahr!“ Erritis sieht sich siegessicher um. Er strahlt hell. „Sag, bist du jetzt der neue Memovira? Immerhin hast du die Kontrolle über ihr Herz gewonnen und jetzt wo die alte Memovira tot ist … müsstest du der neue Memovira sein. So läuft das doch, oder? Muss ich mich jetzt verbeugen? Ich verbeuge mich nämlich normalerweise nicht.“ Er flüstert dir zu: „Das ist nicht besonders heroisch.“</DefaultText>
+      <FemaleText>„Na, *das* war mal heldenhaft. Fürwahr!“ Erritis sieht sich siegessicher um. Er strahlt hell. „Sag, bist du jetzt die neue Memovira? Immerhin hast du die Kontrolle über ihr Herz gewonnen und jetzt wo die alte Memovira tot ist … müsstest du die neue Memovira sein. So läuft das doch, oder? Muss ich mich jetzt verbeugen? Ich verbeuge mich nämlich normalerweise nicht.“ Er flüstert dir zu: „Das ist nicht besonders heroisch.“
 
 {SCRIPTER Erritis in party}</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Tybir macht eine übertriebene Verbeugung. "Ihr Gnaden, ich stehe untertänigst zu Diensten." Seine Augen funkeln. "Denk nur mal daran, wie viel Geld du jetzt machen kannst. Du wirst dir alles leisten können, was du willst, alle -" Er sieht deinen Gesichtsausdruck und hält inne. "Du bist der neue Memovira. Sprich mit der Flor, wirf ihr deine Vorgängerin zum Fraß vor ... Moment, ist das etwa das Schicksal aller Memovira? Dann hast du dir ja was Schönes eingebrockt."
+      <DefaultText>Tybir macht eine übertriebene Verbeugung. „Ihr Gnaden, ich stehe untertänigst zu Diensten.“ Seine Augen funkeln. „Denk nur mal daran, wie viel Geld du jetzt machen kannst. Du wirst dir alles leisten können, was du willst, alle -“ Er sieht deinen Gesichtsausdruck und hält inne. „Du bist der neue Memovira. Sprich mit der Flor, wirf ihr deine Vorgängerin zum Fraß vor … Moment, ist das etwa das Schicksal aller Memovira? Dann hast du dir ja was Schönes eingebrockt.“
 
 {SCRIPTER Tybir in party}</DefaultText>
-      <FemaleText>Tybir macht eine übertriebene Verbeugung. "Ihro Gnaden, ich stehe untertänigst zu Diensten." Seine Augen funkeln. "Denk nur mal daran, wie viel Geld du jetzt machen kannst. Du wirst dir alles leisten können, was du willst, alle - " Er sieht deinen Gesichtsausdruck und hält inne. "Du bist die neue Memovira. Sprich mit der Flor, wirf ihr deine Vorgängerin zum Fraß vor ... Moment, ist das etwa das Schicksal aller Memovira? Dann hast du dir ja was Schönes eingebrockt."
+      <FemaleText>Tybir macht eine übertriebene Verbeugung. „Ihro Gnaden, ich stehe untertänigst zu Diensten.“ Seine Augen funkeln. „Denk nur mal daran, wie viel Geld du jetzt machen kannst. Du wirst dir alles leisten können, was du willst, alle -“ Er sieht deinen Gesichtsausdruck und hält inne. „Du bist die neue Memovira. Sprich mit der Flor, wirf ihr deine Vorgängerin zum Fraß vor … Moment, ist das etwa das Schicksal aller Memovira? Dann hast du dir ja was Schönes eingebrockt.“
 
 {SCRIPTER Tybir in party}</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Sie scharrt mit der Zehe auf dem Boden. "Das bedeutet wohl, dass unsere Reise zu Ende ist, oder? Du musst schließlich hierbleiben und nach der Flor sehen, stimmt's? Was hältst du davon, wenn ich ein paar Götter mache, die uns helfen, hier aufzuräumen? Wir werden nettere Herrscher sein als die letzte Memovira, stimmt's?"
+      <DefaultText>Sie scharrt mit der Zehe auf dem Boden. „Das bedeutet wohl, dass unsere Reise zu Ende ist, oder? Du musst schließlich hierbleiben und nach der Flor sehen, stimmt's? Was hältst du davon, wenn ich ein paar Götter mache, die uns helfen, hier aufzuräumen? Wir werden nettere Herrscher sein als die letzte Memovira, stimmt's?“
 
 
 {SCRIPTER Rhin in party}</DefaultText>
@@ -76,36 +76,36 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Satsada spricht feierlich durch Riastrads Mund: "Meine Ehre gebietet, dass ich dir als neuem Memovira die Treue schwöre. Als erste Gunst erbitte ich, dass du uns hilfst, einige der Schäden, die deine Vorgängerin angerichtet hat, wiedergutzumachen."
+      <DefaultText>Satsada spricht feierlich durch Riastrads Mund: „Meine Ehre gebietet, dass ich dir als neuem Memovira die Treue schwöre. Als erste Gunst erbitte ich, dass du uns hilfst, einige der Schäden, die deine Vorgängerin angerichtet hat, wiedergutzumachen.“
 
 {SCRIPTER Riastrad in party, shunt in possession}</DefaultText>
-      <FemaleText>Satsada spricht feierlich durch Riastrads Mund: "Meine Ehre gebietet, dass ich dir als neuer Memovira die Treue schwöre. Als erste Gunst erbitte ich, dass du uns hilfst, einige der Schäden, die deine Vorgängerin angerichtet hat, wiedergutzumachen."
+      <FemaleText>Satsada spricht feierlich durch Riastrads Mund: „Meine Ehre gebietet, dass ich dir als neuer Memovira die Treue schwöre. Als erste Gunst erbitte ich, dass du uns hilfst, einige der Schäden, die deine Vorgängerin angerichtet hat, wiedergutzumachen.“
 
 {SCRIPTER Riastrad in party, shunt in possession}</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Du hast recht. Wir haben wichtigere Dinge zu tun."</DefaultText>
+      <DefaultText>„Du hast recht. Wir haben wichtigere Dinge zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Gut. Wir werden es finden. Gib mir ein wenig Zeit."</DefaultText>
+      <DefaultText>„Gut. Wir werden es finden. Gib mir ein wenig Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Wir sehen uns noch ein paar Minuten um. Dann haben wir Wichtigeres zu tun."</DefaultText>
+      <DefaultText>„Wir sehen uns noch ein paar Minuten um. Dann haben wir Wichtigeres zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Wir lassen die Flor sich selbst regieren. Ich habe keine Zeit dafür. Nehmen wir uns, was wir brauchen, und gehen wir."</DefaultText>
+      <DefaultText>„Wir lassen die Flor sich selbst regieren. Ich habe keine Zeit dafür. Nehmen wir uns, was wir brauchen, und gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Wenn ich hier herrschen soll, brauche ich einen Seneschall. Ich muss mich um wichtigere Dinge kümmern. Hör zu, Turm: Ich übertrage die Macht an jemand anderen."</DefaultText>
+      <DefaultText>„Wenn ich hier herrschen soll, brauche ich einen Seneschall. Ich muss mich um wichtigere Dinge kümmern. Hör zu, Turm: Ich übertrage die Macht an jemand anderen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,177 +115,177 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Lass mich dir helfen, es zu finden", antwortet sie.</DefaultText>
+      <DefaultText>„Lass mich dir helfen, es zu finden“, antwortet sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Eine weiche, mechanische Stimme ertönt aus der Luft. Sie klingt, als würde sie direkt in dein Ohr sprechen. "Der Turm erkennt vorläufig die Autorität seines Besitzers an."</DefaultText>
+      <DefaultText>Eine weiche, mechanische Stimme ertönt aus der Luft. Sie klingt, als würde sie direkt in dein Ohr sprechen. „Der Turm erkennt vorläufig die Autorität seines Besitzers an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ich bin der neue Memovira? Interessant."</DefaultText>
-      <FemaleText>"Ich bin die neue Memovira? Interessant."</FemaleText>
+      <DefaultText>„Ich bin der neue Memovira? Interessant.“</DefaultText>
+      <FemaleText>„Ich bin die neue Memovira? Interessant.“</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Die körperlose mechanische Stimme spricht erneut. "Vorläufiger Besitzer: Bitte die Identität des vorläufigen Seneschalls bestätigen. Berechtigungen werden übertragen."</DefaultText>
+      <DefaultText>Die körperlose mechanische Stimme spricht erneut. „Vorläufiger Besitzer: Bitte die Identität des vorläufigen Seneschalls bestätigen. Berechtigungen werden übertragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich ernenne Aligern zu meinem Seneschall."
+      <DefaultText>„Ich ernenne Aligern zu meinem Seneschall.“
 
 {SCRIPT Aligern in party}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich ernenne Callistege zu meiner Seneschall."
+      <DefaultText>„Ich ernenne Callistege zu meiner Seneschall.“
 
 {SCRIPT Callistege in party}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Riastrad und Satsada werden gemeinsam regieren."
+      <DefaultText>„Riastrad und Satsada werden gemeinsam regieren.“
 
 {SCRIPT Riastrad in party}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Matkina wird hier in meinem Namen regieren."
+      <DefaultText>„Matkina wird hier in meinem Namen regieren.“
 
 {SCRIPT Matkina in party}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Tybir, was meinst du?"</DefaultText>
+      <DefaultText>„Tybir, was meinst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich gebe diese Ehre an Rhin weiter."
+      <DefaultText>„Ich gebe diese Ehre an Rhin weiter.“
 
 {SCRIPTER Rhin in party}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Erritis wird mein Held in der Flor sein."
+      <DefaultText>„Erritis wird mein Held in der Flor sein.“
 
 {SCRIPTER Erritis in party}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Ich nehme alles zurück. Ich ernenne niemanden. Nehmen wir uns, was wir brauchen, und gehen wir."</DefaultText>
+      <DefaultText>„Ich nehme alles zurück. Ich ernenne niemanden. Nehmen wir uns, was wir brauchen, und gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ich ernenne Oom zu meinem Seneschall."
+      <DefaultText>„Ich ernenne Oom zu meinem Seneschall.“
 
 {SCRIPTER Oom in party}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Danke, aber kein Interesse." Er sieht dir in die Augen. "Ich habe mein eigenes Leben."</DefaultText>
+      <DefaultText>„Danke, aber kein Interesse.“ Er sieht dir in die Augen. „Ich habe mein eigenes Leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Du wirst nicht gefragt, Aligern. Du hast hier nun das Sagen."</DefaultText>
+      <DefaultText>„Du wirst nicht gefragt, Aligern. Du hast hier nun das Sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Gut, dann ernenne ich jemand anderen."</DefaultText>
+      <DefaultText>„Gut, dann ernenne ich jemand anderen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich bin nicht mit dir unterwegs, damit ich deinen Diener spielen kann, wann immer es dir genehm ist. Ich begleite dich, weil ich selbst auf der Suche bin. Ich sag's dir gleich, wenn du mich hier zurücklässt, wird dieser Ort bald keinen Herrscher mehr haben, denn ich bleibe nicht hier."</DefaultText>
+      <DefaultText>„Ich bin nicht mit dir unterwegs, damit ich deinen Diener spielen kann, wann immer es dir genehm ist. Ich begleite dich, weil ich selbst auf der Suche bin. Ich sag's dir gleich, wenn du mich hier zurücklässt, wird dieser Ort bald keinen Herrscher mehr haben, denn ich bleibe nicht hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Du *wirst* hierbleiben, Aligern."</DefaultText>
+      <DefaultText>„Du *wirst* hierbleiben, Aligern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Nein. Ich scheiße auf dich und auf deine Mission."</DefaultText>
+      <DefaultText>„Nein. Ich scheiße auf dich und auf deine Mission.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Ich hoffe, der Kummer wird dich vernichten."
+      <DefaultText>„Ich hoffe, der Kummer wird dich vernichten.“
 
 {SCRIPTER: remove Aligern from party, path him to the door, and despawn}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Die Augen jedes einzelnen ihrer Dimensionsschatten glänzen. "Das würdest du mir gewähren?"</DefaultText>
+      <DefaultText>Die Augen jedes einzelnen ihrer Dimensionsschatten glänzen. „Das würdest du mir gewähren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Ich kenne niemanden, der besser dafür geeignet wäre. In den unzähligen Pfaden der Flor solltest du eine Antwort auf deinen Zustand finden."
+      <DefaultText>„Ich kenne niemanden, der besser dafür geeignet wäre. In den unzähligen Pfaden der Flor solltest du eine Antwort auf deinen Zustand finden.“
 
 {SCRIPT: Major Improvement for Callistege}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Ihre Stimme klingt, als wäre sie den Tränen nahe. "Ich werde deine Großzügigkeit nicht vergessen."</DefaultText>
+      <DefaultText>Ihre Stimme klingt, als wäre sie den Tränen nahe. „Ich werde deine Großzügigkeit nicht vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Ich werde die Flor in all ihren Facetten erkunden."</DefaultText>
+      <DefaultText>„Ich werde die Flor in all ihren Facetten erkunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Satsada fleht dich an: "Ich denke nicht, dass wir hier unsere Antworten finden werden. Wenn du uns hier zurücklässt, werden wir für immer in unserem Zustand gefangen und verkrüppelt bleiben."</DefaultText>
+      <DefaultText>Satsada fleht dich an: „Ich denke nicht, dass wir hier unsere Antworten finden werden. Wenn du uns hier zurücklässt, werden wir für immer in unserem Zustand gefangen und verkrüppelt bleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ein Jammer. Aber ich brauche einen Seneschall und Riastrad hat bewiesen, dass er mit der Flor umzugehen weiß, während du bewiesen hast, dass du dich um die administrativen Aspekte kümmern kannst."
+      <DefaultText>„Ein Jammer. Aber ich brauche einen Seneschall und Riastrad hat bewiesen, dass er mit der Flor umzugehen weiß, während du bewiesen hast, dass du dich um die administrativen Aspekte kümmern kannst.“
 
 {SCRIPT: Major Abuse for Riastrad/Satsada}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Verstehe", sagt sie leise und resigniert.</DefaultText>
+      <DefaultText>„Verstehe“, sagt sie leise und resigniert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Ich? Aber wer hilft dir dann, die Erste zu finden? Wer wird unseren Erzeuger für seine Verbrechen zur Rechenschaft ziehen?"</DefaultText>
+      <DefaultText>„Ich? Aber wer hilft dir dann, die Erste zu finden? Wer wird unseren Erzeuger für seine Verbrechen zur Rechenschaft ziehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Er kratzt sich am Kopf. "Da verlangst du eine Menge, Junge. Ich würde dir wirklich gerne aushelfen, aber ich denke, ich bin nicht die beste Wahl für diese Position. Ich bleibe lieber an deiner Seite und halte dir den Rücken frei, wenn du verstehst."</DefaultText>
+      <DefaultText>Er kratzt sich am Kopf. „Da verlangst du eine Menge, Junge. Ich würde dir wirklich gerne aushelfen, aber ich denke, ich bin nicht die beste Wahl für diese Position. Ich bleibe lieber an deiner Seite und halte dir den Rücken frei, wenn du verstehst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Ich? Aber ich bin doch nur ein Kind. Ich weiß nichts über das Leben als Verbrecherboss oder die ekligen Dinge, die hier leben, oder die Zungen, die aus der Wand kommen. Wie bringe ich die Flor überhaupt dazu, dass sie mit mir spricht so wie mit dir?"</DefaultText>
+      <DefaultText>„Ich? Aber ich bin doch nur ein Kind. Ich weiß nichts über das Leben als Verbrecherboss oder die ekligen Dinge, die hier leben, oder die Zungen, die aus der Wand kommen. Wie bringe ich die Flor überhaupt dazu, dass sie mit mir spricht so wie mit dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Dein Held? Was für ein Abenteuer- " Er hält plötzlich inne, als er die Bedeutung des Gesagten begreift. "Du versuchst, mich loszuwerden, nicht wahr?"</DefaultText>
+      <DefaultText>„Dein Held? Was für ein Abenteuer -“ Er hält plötzlich inne, als er die Bedeutung des Gesagten begreift. „Du versuchst, mich loszuwerden, nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,77 +295,77 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Es am besten so, Oom. Ich brauche dich hier. Ich *vertraue* dir hier."</DefaultText>
+      <DefaultText>„Es am besten so, Oom. Ich brauche dich hier. Ich *vertraue* dir hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Ganz und gar nicht, Erritis. Ich brauche vielmehr einen mutigen und unerschrockenen Helden, um mit den Schurken hier fertig zu werden. Wer könnte dafür besser geeignet sein als du?"
+      <DefaultText>„Ganz und gar nicht, Erritis. Ich brauche vielmehr einen mutigen und unerschrockenen Helden, um mit den Schurken hier fertig zu werden. Wer könnte dafür besser geeignet sein als du?“
 
 {SCRIPT: Major Abuse for Erritis}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Eben weil du ein Kind bist, bist du die ideale Person für diese Aufgabe, Rhin. Vielleicht kann dein gutes Herz das Leben der Bewohner der Flor erleichtern. Und deine Unschuld wird verhindern, dass sie dich verschlingt."
+      <DefaultText>„Eben weil du ein Kind bist, bist du die ideale Person für diese Aufgabe, Rhin. Vielleicht kann dein gutes Herz das Leben der Bewohner der Flor erleichtern. Und deine Unschuld wird verhindern, dass sie dich verschlingt.“
 
 {SCRIPT: Major Abuse for Rhin }</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Ich verstehe, Tybir. Aber du kennst eine Menge Leute, und hier kannst du noch viele weitere Kontakte knüpfen. Hier bist du in deinem Element – ab sofort werden die Leute zu *dir* kommen."
+      <DefaultText>„Ich verstehe, Tybir. Aber du kennst eine Menge Leute, und hier kannst du noch viele weitere Kontakte knüpfen. Hier bist du in deinem Element – ab sofort werden die Leute zu *dir* kommen.“
 
 {SCRIPT: Minor Abuse for Tybir }</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"*Ich* werde ihn zur Rechenschaft ziehen, Matkina. Aber so baut man eine Organisation auf – ich schenke dir die Flor, Matkina. Du wirst früh genug wissen, ob ich den Kummer aufhalten konnte."
+      <DefaultText>„*Ich* werde ihn zur Rechenschaft ziehen, Matkina. Aber so baut man eine Organisation auf – ich schenke dir die Flor, Matkina. Du wirst früh genug wissen, ob ich den Kummer aufhalten konnte.“
 
 {SCRIPT: Minor Improvement for Matkina }</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Sie mustert dich sorgfältig. "Fast könnte ich glauben, dass du mich nicht einfach nur loswerden willst. Fast. Aber gut. Ich kümmere mich für dich um die Flor."</DefaultText>
+      <DefaultText>Sie mustert dich sorgfältig. „Fast könnte ich glauben, dass du mich nicht einfach nur loswerden willst. Fast. Aber gut. Ich kümmere mich für dich um die Flor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Darf ich mich dann auch Memovira nennen?"</DefaultText>
+      <DefaultText>„Darf ich mich dann auch Memovira nennen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Da hast du recht!" Er denkt kurz nach. "Dann bin ich dein Seneschall!", sagt er dann mit offenkundig gezwungener Begeisterung.</DefaultText>
+      <DefaultText>„Da hast du recht!“ Er denkt kurz nach. „Dann bin ich dein Seneschall!“, sagt er dann mit offenkundig gezwungener Begeisterung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Du kannst mir vertrauen, dass ich das gut machen werde!"</DefaultText>
+      <DefaultText>„Du kannst mir vertrauen, dass ich das gut machen werde!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Sie wendet sich von dir ab, aber nicht, bevor du die Tränen ihre Wangen herunterkullern siehst. "Ich werde es tun, auch wenn ich nicht will."</DefaultText>
+      <DefaultText>Sie wendet sich von dir ab, aber nicht, bevor du die Tränen ihre Wangen herunterkullern siehst. „Ich werde es tun, auch wenn ich nicht will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Nicht mal meinen Göttern gefällt es hier."</DefaultText>
+      <DefaultText>„Nicht mal meinen Göttern gefällt es hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Sein Leuchten verblasst ein wenig. "Ich dachte, du wärst mein Abenteuerfreund. Nicht mein Ich-lasse-Erritis-in-der-Flor-zurück-Freund. Das klingt nicht besonders freundschaftlich. *Gar nicht*."
+      <DefaultText>Sein Leuchten verblasst ein wenig. „Ich dachte, du wärst mein Abenteuerfreund. Nicht mein Ich-lasse-Erritis-in-der-Flor-zurück-Freund. Das klingt nicht besonders freundschaftlich. *Gar nicht*.“
 
 Doch dann hellt sich seine Miene auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Vielleicht kommt ja das Abenteuer zu mir! Gut, ich nehme die Stelle an!"</DefaultText>
+      <DefaultText>„Vielleicht kommt ja das Abenteuer zu mir! Gut, ich nehme die Stelle an!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,7 +375,7 @@ Doch dann hellt sich seine Miene auf.</DefaultText>
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Wir werden gehorchen."</DefaultText>
+      <DefaultText>„Wir werden gehorchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -385,47 +385,47 @@ Doch dann hellt sich seine Miene auf.</DefaultText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Das könnte ein ganz angenehmes Leben für jemanden sein. Ein echter Ruheposten. Natürlich käme man nie mehr hier weg ..."</DefaultText>
+      <DefaultText>„Das könnte ein ganz angenehmes Leben für jemanden sein. Ein echter Ruheposten. Natürlich käme man nie mehr hier weg …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Jemand darf in deinem Namen hier herrschen! Das heißt keine Abenteuer mehr für diesen jemand!" Er sieht sich um. "Klingt eigentlich ziemlich schrecklich."
+      <DefaultText>„Jemand darf in deinem Namen hier herrschen! Das heißt keine Abenteuer mehr für diesen jemand!“ Er sieht sich um. „Klingt eigentlich ziemlich schrecklich.“
 
 {SCRIPT: Erritis in party}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Du weißt, dass die Person, die du auswählst, für immer hierbleiben muss, ja?"
+      <DefaultText>„Du weißt, dass die Person, die du auswählst, für immer hierbleiben muss, ja?“
 
 {SCRIPT: Aligern in party}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Du würdest jemanden aus deiner Gruppe opfern, um der Flor zu dienen? Interessant. Ich hätte nicht gedacht, dass du das könntest."
+      <DefaultText>„Du würdest jemanden aus deiner Gruppe opfern, um der Flor zu dienen? Interessant. Ich hätte nicht gedacht, dass du das könntest.“
 
 {SCRIPT: Callistege in party}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Satsada spricht in deinem Kopf zu dir: "Du würdest einen deiner Begleiter zwingen, hierzubleiben? Diesen Dienst würde ich niemandem wünschen."
+      <DefaultText>Satsada spricht in deinem Kopf zu dir: „Du würdest einen deiner Begleiter zwingen, hierzubleiben? Diesen Dienst würde ich niemandem wünschen.“
 
 {SCRIPT: Riastrad in party}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Willst du einen von uns wirklich so sehr loswerden? Du weißt doch, diese Position hat man lebenslänglich."
+      <DefaultText>„Willst du einen von uns wirklich so sehr loswerden? Du weißt doch, diese Position hat man lebenslänglich.“
 
 {SCRIPT: Matkina in party}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Du zwingst jemanden, für immer hierzubleiben? Das klingt nicht gerade nett."
+      <DefaultText>„Du zwingst jemanden, für immer hierzubleiben? Das klingt nicht gerade nett.“
 
 {SCRIPT: Rhin in party}</DefaultText>
       <FemaleText />
