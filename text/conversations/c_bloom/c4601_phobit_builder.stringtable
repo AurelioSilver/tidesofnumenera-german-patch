@@ -32,7 +32,7 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>Die größten Kristalle pulsieren einmal und sondern ein violettes Glühen ab.</DefaultText>
-      <FemaleText>Die größten Kristalle pulsieren einmal und sondern ein violettes Glühen ab.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -130,35 +130,31 @@ Schließlich spürst du einen einzigen Kraftimpuls durch deinen Körper jagen. *
     <Entry>
       <ID>24</ID>
       <DefaultText>Das violette Licht blinkt für eine Sekunde. Du hast den Eindruck, dass er nein sagt.</DefaultText>
-      <FemaleText>Das violette Licht blinkt für eine Sekunde. Du hast den Eindruck, dass er nein sagt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>„Darf ich den Ort besuchen, an dem der Quishami gestorben ist?“</DefaultText>
-      <FemaleText>„Darf ich den Ort besuchen, an dem der Quishami gestorben ist?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>„Der Mann, der den Quishami tötete … war er einer der Menschen, die jetzt dort ihr Lager aufgeschlagen haben?“</DefaultText>
-      <FemaleText>„Der Mann, der den Quishami tötete … war er einer der Menschen, die jetzt dort ihr Lager aufgeschlagen haben?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Du spürst einen einzigen starken Impuls. *Ja.*
 
 Auf der Oberfläche der Edelsteine siehst du das Plateau. Es ist ein Bild der Gegenwart, wie du feststellst, da du das in der Nähe gelegene Lager erkennst. Plötzlich formt sich eine Kristallbrücke, die zum Plateau führt.</DefaultText>
-      <FemaleText>Du spürst einen einzigen starken Impuls. *Ja.*
-
-Auf der Oberfläche der Edelsteine siehst du das Plateau. Es ist ein Bild der Gegenwart, wie du feststellst, da du das in der Nähe gelegene Lager erkennst. Plötzlich formt sich eine Kristallbrücke, die zum Plateau führt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Das violette Licht blinkt für eine Sekunde – „Nein“. Dann, nach einer weiteren Sekunde, spürst du den Impuls, der durch deinen Körper jagt und auf ein „Ja“ hindeutet.
 
 Sonst geschieht nichts.</DefaultText>
-      <FemaleText>Das violette Licht blinkt für eine Sekunde – „Nein“. Dann, nach einer weiteren Sekunde, spürst du den Impuls, der durch deinen Körper jagt und auf ein „Ja“ hindeutet.
-
-Sonst geschieht nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
@@ -178,12 +174,12 @@ Sonst geschieht nichts.</FemaleText>
     <Entry>
       <ID>33</ID>
       <DefaultText>„Kannst du mir von den Menschen erzählen, die in der Nähe des Sprechers ihr Lager aufgeschlagen haben?“</DefaultText>
-      <FemaleText>„Kannst du mir von den Menschen erzählen, die in der Nähe des Sprechers ihr Lager aufgeschlagen haben?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>„Zeig mir nochmal, was mit dem Quishami geschehen ist.“</DefaultText>
-      <FemaleText>„Zeig mir nochmal, was mit dem Quishami geschehen ist.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
@@ -193,7 +189,7 @@ Sonst geschieht nichts.</FemaleText>
     <Entry>
       <ID>36</ID>
       <DefaultText>Du bekommst den starken Eindruck, dass der Impuls „Ja“ bedeutet. Er ist eine Art Phobit, die sich von den anderen unterscheidet. Er hat vielleicht nicht die kommunikativen Qualitäten des Sprechers, doch er versucht trotzdem, mit dir zu reden.</DefaultText>
-      <FemaleText>Du bekommst den starken Eindruck, dass der Impuls „Ja“ bedeutet. Er ist eine Art Phobit, die sich von den anderen unterscheidet. Er hat vielleicht nicht die kommunikativen Qualitäten des Sprechers, doch er versucht trotzdem, mit dir zu reden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -212,9 +208,7 @@ Große Teile von ihr leuchten und geben ein tiefes, dröhnendes Summen von sich,
       <DefaultText>Du glaubst, dies sei schon alles gewesen, als plötzlich ein neues Bild erscheint, das ein kleines Plateau neben dem Lager zeigt. Dort befindet sich eine Kreatur – deine Erinnerungen sagen dir, dass es ein Quishami ist, ein Wesen aus empfindsamem Kristall. Mit seinen messerscharfen Gliedmaßen schnitzt er etwas in den Boden.
 
 Aus den Edelsteinen in dessen Umgebung flackern wilde Lichter auf. Der Quishami fällt zusammen und eine humanoide Gestalt nähert sich ihm.</DefaultText>
-      <FemaleText>Du glaubst, dies sei schon alles gewesen, als plötzlich ein neues Bild erscheint, das ein kleines Plateau neben dem Lager zeigt. Dort befindet sich eine Kreatur – deine Erinnerungen sagen dir, dass es ein Quishami ist, ein Wesen aus empfindsamem Kristall. Mit seinen messerscharfen Gliedmaßen schnitzt er etwas in den Boden.
-
-Aus den Edelsteinen in dessen Umgebung flackern wilde Lichter auf. Der Quishami fällt zusammen und eine humanoide Gestalt nähert sich ihm.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
@@ -224,26 +218,24 @@ Aus den Edelsteinen in dessen Umgebung flackern wilde Lichter auf. Der Quishami 
     <Entry>
       <ID>42</ID>
       <DefaultText>Der Quishami kratzt in den Boden und stirbt daraufhin.</DefaultText>
-      <FemaleText>Der Quishami kratzt in den Boden und stirbt daraufhin.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>Der Quishami wirft Kristalle in die Luft – eine Warnung, während er stirbt.</DefaultText>
-      <FemaleText>Der Quishami wirft Kristalle in die Luft – eine Warnung, während er stirbt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>Der Quishami schlägt nach dem Menschen und spießt ihn auf einem Kristall auf. Doch der Schaden ist angerichtet und er stirbt ebenfalls.</DefaultText>
-      <FemaleText>Der Quishami schlägt nach dem Menschen und spießt ihn auf einem Kristall auf. Doch der Schaden ist angerichtet und er stirbt ebenfalls.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>Der Mensch kniet nieder und nimmt ein Stück von ihm. Die Stufen, die auf das Plateau führen, zerfallen, woraufhin der Jäger in der Falle sitzt. Die Bilder bewegen sich daraufhin ziemlich schnell, doch du erhaschst Einblicke auf den Jäger, der in Panik gerät, dann versucht, zu entkommen, und schließlich zusammenbricht – wahrscheinlich verhungert.
 
 Zeit vergeht – Kristalle wachsen und zerbröckeln um sie herum, bis schließlich auch beide Leichen zerfallen und zu einem Teil der Aszension werden.</DefaultText>
-      <FemaleText>Der Mensch kniet nieder und nimmt ein Stück von ihm. Die Stufen, die auf das Plateau führen, zerfallen, woraufhin der Jäger in der Falle sitzt. Die Bilder bewegen sich daraufhin ziemlich schnell, doch du erhaschst Einblicke auf den Jäger, der in Panik gerät, dann versucht, zu entkommen, und schließlich zusammenbricht – wahrscheinlich verhungert.
-
-Zeit vergeht – Kristalle wachsen und zerbröckeln um sie herum, bis schließlich auch beide Leichen zerfallen und zu einem Teil der Aszension werden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
@@ -253,7 +245,7 @@ Zeit vergeht – Kristalle wachsen und zerbröckeln um sie herum, bis schließli
     <Entry>
       <ID>47</ID>
       <DefaultText>Dann zerfallen die Stufen, die zum Plateau führen, sodass niemand mehr die Leichen belästigen kann. Zeit vergeht, und auch die beiden Leichen zerfallen und werden zu einem Teil der Aszension.</DefaultText>
-      <FemaleText>Dann zerfallen die Stufen, die zum Plateau führen, sodass niemand mehr die Leichen belästigen kann. Zeit vergeht, und auch die beiden Leichen zerfallen und werden zu einem Teil der Aszension.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -265,47 +257,41 @@ Zeit vergeht – Kristalle wachsen und zerbröckeln um sie herum, bis schließli
       <DefaultText>Einmal mehr zeigen Bilder auf der Oberfläche der Edelsteine ein kleines Plateau neben dem Lager. Der Quishami lebt hier und ritzt mit seinen messerscharfen Gliedmaßen etwas in den Boden.
 
 Aus den Edelsteinen flackern wilde Lichter auf. Der Quishami fällt zusammen und eine humanoide Gestalt nähert sich ihm.</DefaultText>
-      <FemaleText>Einmal mehr zeigen Bilder auf der Oberfläche der Edelsteine ein kleines Plateau neben dem Lager. Der Quishami lebt hier und ritzt mit seinen messerscharfen Gliedmaßen etwas in den Boden.
-
-Aus den Edelsteinen flackern wilde Lichter auf. Der Quishami fällt zusammen und eine humanoide Gestalt nähert sich ihm.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>Der Quishami kratzt in den Boden und stirbt daraufhin.</DefaultText>
-      <FemaleText>Der Quishami kratzt in den Boden und stirbt daraufhin.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>Der Quishami wirft Kristalle in die Luft – eine Warnung, während er stirbt.</DefaultText>
-      <FemaleText>Der Quishami wirft Kristalle in die Luft – eine Warnung, während er stirbt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>Der Quishami schlägt nach dem Menschen und spießt ihn auf einem Kristall auf. Doch der Schaden ist angerichtet und er stirbt ebenfalls.</DefaultText>
-      <FemaleText>Der Quishami schlägt nach dem Menschen und spießt ihn auf einem Kristall auf. Doch der Schaden ist angerichtet und er stirbt ebenfalls.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>„Ich verstehe nicht.“</DefaultText>
-      <FemaleText>„Ich verstehe nicht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>Es gibt keinen Impuls. Das Licht bleibt unverändert. Du siehst einen Moment lang deine Reflexion auf der Oberfläche des Edelsteins, dann nichts mehr.
 
 Wie es scheint, wirst du nichts mehr zu sehen bekommen.</DefaultText>
-      <FemaleText>Es gibt keinen Impuls. Das Licht bleibt unverändert. Du siehst einen Moment lang deine Reflexion auf der Oberfläche des Edelsteins, dann nichts mehr.
-
-Wie es scheint, wirst du nichts mehr zu sehen bekommen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
       <DefaultText>Die Gedanken, die du um dich herum fühlst, geben dir einen besseren Eindruck dessen, was es bedeutet. Der Jäger selbst gehörte nicht zu jenen, die derzeit ihr Lager in der Aszension aufgeschlagen haben, aber er war *wie* sie. Oder sie sind wie er. Beide sind gekommen, um von der Aszension zu stehlen.
 
 Dieser Phobit vertraut ihnen nicht mehr, als er den Jäger mochte.</DefaultText>
-      <FemaleText>Die Gedanken, die du um dich herum fühlst, geben dir einen besseren Eindruck dessen, was es bedeutet. Der Jäger selbst gehörte nicht zu jenen, die derzeit ihr Lager in der Aszension aufgeschlagen haben, aber er war *wie* sie. Oder sie sind wie er. Beide sind gekommen, um von der Aszension zu stehlen.
-
-Dieser Phobit vertraut ihnen nicht mehr, als er den Jäger mochte.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
