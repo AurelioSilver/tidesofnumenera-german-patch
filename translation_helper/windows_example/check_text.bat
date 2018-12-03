@@ -1,3 +1,7 @@
+rem Das Language tool gibt es auf: https://languagetool.org/
+rem Installiere das Tool z. B. nach: D:\test_tton
+rem 
+rem 
 rem Ersetze <drive_letter> mit dem Laufwerkbuchstaben, wo die Texte von "Torment: Tides of Numenera" liegen z. B.: d
 rem Ersetze <text_source> mit dem Pfad, wo die Texte fuer "Torment: Tides of Numenera" liegen: z. B.: tton_git
 rem Ersetze <drive_letter_helper> mit dem Laufwerkbuchstaben, wo die Helper Dateien liegen: z. B.: d
