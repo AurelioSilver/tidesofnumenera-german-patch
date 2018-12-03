@@ -140,12 +140,12 @@ Als du dich näherst, fängt der Kristall an, zu summen. Die Schwingungen lassen
     <Entry>
       <ID>26</ID>
       <DefaultText>„Ich suche nach einem Ring aus dunklem, hyalinem Material – den Magmatischen Ring.“</DefaultText>
-      <FemaleText>„Ich suche nach einem Ring aus dunklem, hyalinem Material – den Magmatischen Ring.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>„So etwas habe ich noch nie gesehen. Es tut mir leid.“</DefaultText>
-      <FemaleText>„So etwas habe ich noch nie gesehen. Es tut mir leid.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
@@ -238,7 +238,7 @@ Der Sprecher verstummt und pulsiert in Gedanken. „Doch, es *gibt* einen Weg, w
     <Entry>
       <ID>45</ID>
       <DefaultText>„Warum redest du nicht mit den anderen Menschen?“</DefaultText>
-      <FemaleText>„Warum redest du nicht mit den anderen Menschen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
@@ -250,9 +250,7 @@ Der Sprecher verstummt und pulsiert in Gedanken. „Doch, es *gibt* einen Weg, w
       <DefaultText>„Offenbarung“, fügt der Sprecher hinzu, durch einen Chor aus sprödem Knacken in seinem Körper. „Einer der Menschen in der Nähe ist in seinem eigenen Geist nicht alleine. Es gibt zwei Gedankenmuster, wo es nur eines geben sollte. Sei vorsichtig mit diesem Menschen.“
 
 Das Licht des Sprechers lässt nach. „Das Orakel hat gesprochen.“</DefaultText>
-      <FemaleText>„Offenbarung“, fügt der Sprecher hinzu, durch einen Chor aus sprödem Knacken in seinem Körper. „Einer der Menschen in der Nähe ist in seinem eigenen Geist nicht alleine. Es gibt zwei Gedankenmuster, wo es nur eines geben sollte. Sei vorsichtig mit diesem Menschen.“
-
-Das Licht des Sprechers lässt nach. „Das Orakel hat gesprochen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -267,7 +265,7 @@ Das Licht des Sprechers lässt nach. „Das Orakel hat gesprochen.“</FemaleTex
     <Entry>
       <ID>50</ID>
       <DefaultText>„Warum kannst du mir nicht helfen?“</DefaultText>
-      <FemaleText>„Warum kannst du mir nicht helfen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -279,32 +277,32 @@ Die tiefe Stimme spricht erneut. „Offenbarung. Wenn der Sprecher träumt, trä
     <Entry>
       <ID>52</ID>
       <DefaultText>„Ich war einst der Sprecher für das Orakel von Kex-Lianish. Nun ist das Orakel tot und ich kann nur für mich selbst sprechen.“</DefaultText>
-      <FemaleText>„Ich war einst der Sprecher für das Orakel von Kex-Lianish. Nun ist das Orakel tot und ich kann nur für mich selbst sprechen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>„Ähm … welchen Sinn hat ein Leben?“</DefaultText>
-      <FemaleText>„Ähm … welchen Sinn hat ein Leben?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>„Warum sind wir hier?“</DefaultText>
-      <FemaleText>„Warum sind wir hier?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
       <DefaultText>„Warum passieren guten Menschen böse Dinge?“</DefaultText>
-      <FemaleText>„Warum passieren guten Menschen böse Dinge?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>„Warum kann ich die Natur eines Menschen nicht verändern?“</DefaultText>
-      <FemaleText>„Warum kann ich die Natur eines Menschen nicht verändern?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
       <DefaultText>„Ich habe keine Ahnung!“ Er klingt darüber beinahe fröhlich. „Siehst du? Vor Äonen konnte ich dir, obwohl ich selbst keine eigenen Gedanken hatte, Antworten auf das Leben, das Universum und … du weißt schon, was auch immer, geben. Jetzt bin ich nur eine Stimme. Eine freundliche Stimme, doch trotzdem.“</DefaultText>
-      <FemaleText>„Ich habe keine Ahnung!“ Er klingt darüber beinahe fröhlich. „Siehst du? Vor Äonen konnte ich dir, obwohl ich selbst keine eigenen Gedanken hatte, Antworten auf das Leben, das Universum und … du weißt schon, was auch immer, geben. Jetzt bin ich nur eine Stimme. Eine freundliche Stimme, doch trotzdem.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
