@@ -78,12 +78,12 @@ Eine beharrliche Stimme in deinem Kopf sagt dir, dass du ihn betreten musst, um 
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Du hast Vicarianas und Endiras Lebensbildbetrachter verbunden. Sie scheinen miteinander verschmolzen und beide geben nun ein tiefes, pochendes Brummen von sich. Der Sarkophag scheint im Einklang damit seine Farbe von Rot auf Silber und zurück zu wechseln.</DefaultText>
+      <DefaultText>Du hast Vicarianes und Endiras Lebensbildbetrachter verbunden. Sie scheinen miteinander verschmolzen und beide geben nun ein tiefes, pochendes Brummen von sich. Der Sarkophag scheint im Einklang damit seine Farbe von Rot auf Silber und zurück zu wechseln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Die mit Energie versorgten Lebensbildbetrachter passen genau in die tiefe Öffnung an der Seite des Sarkophags. Vicarianas Lebensbildbetrachter steht leicht hervor und gibt einen praktischen Griff ab.</DefaultText>
+      <DefaultText>Die mit Energie versorgten Lebensbildbetrachter passen genau in die tiefe Öffnung an der Seite des Sarkophags. Vicarianes Lebensbildbetrachter steht leicht hervor und gibt einen praktischen Griff ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,14 +93,14 @@ Eine beharrliche Stimme in deinem Kopf sagt dir, dass du ihn betreten musst, um 
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Vicarianas und Endiras Lebensbildbetrachter verbinden.
+      <DefaultText>Vicarianes und Endiras Lebensbildbetrachter verbinden.
 
 {COLIN/GEORGE: The option to fuse the two Merecasters together and then put them in later feels strange to me. What if the player walks away? Won't he still have two separate Merecasters in his inventory?}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Vicarianas Lebensbildbetrachter in dieselbe Öffnung schieben.
+      <DefaultText>Vicarianes Lebensbildbetrachter in dieselbe Öffnung schieben.
 
 {SCRIPT: Remove 2nd Bloom Merecaster from inventory}</DefaultText>
       <FemaleText />
@@ -186,12 +186,12 @@ Eine beharrliche Stimme in deinem Kopf sagt dir, dass du ihn betreten musst, um 
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Die mit Energie versorgten Lebensbildbetrachter passen genau in die tiefe Öffnung an der Seite des Sarkophags. Vicarianas Lebensbildbetrachter steht leicht hervor und formt einen praktischen Griff.</DefaultText>
+      <DefaultText>Die mit Energie versorgten Lebensbildbetrachter passen genau in die tiefe Öffnung an der Seite des Sarkophags. Vicarianes Lebensbildbetrachter steht leicht hervor und formt einen praktischen Griff.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Die Spitze von Vicarianas Lebensbildbetrachter steht aus der Öffnung hervor und formt einen praktischen Griff.</DefaultText>
+      <DefaultText>Die Spitze von Vicarianes Lebensbildbetrachter steht aus der Öffnung hervor und formt einen praktischen Griff.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
