@@ -57,7 +57,7 @@ Der Stein blutet Bedürfnis, gar Hunger aus und ein telepathisches Flüstern ras
       <ID>12</ID>
       <DefaultText>&lt;Produkt. Ich allein.&gt; Es folgt eine Pause, und plötzlich siehst du ein klares Bild des alchemistischen Pulvers, das du von den beiden Kaufleuten in der Flor erhalten hattest. 
 
-Wie es scheint, ist das hier ... ihr Handelspartner.
+Wie es scheint, ist das hier … ihr Handelspartner.
 
 {LOOT}</DefaultText>
       <FemaleText />
@@ -94,7 +94,7 @@ Wie es scheint, ist das hier ... ihr Handelspartner.
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>&lt;Warum "du allein"? Kann ich nicht mit anderen handeln?&gt;</DefaultText>
+      <DefaultText>&lt;Warum „du allein“? Kann ich nicht mit anderen handeln?&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@ Während ein kleines Objekt aus dem Schlauch herausrollt, explodiert dein Geist 
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Versuche, seinen "Geist" zu lesen, um zu verstehen, was er will.</DefaultText>
+      <DefaultText>Versuche, seinen „Geist“ zu lesen, um zu verstehen, was er will.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,12 +228,12 @@ Während ein kleines Objekt aus dem Schlauch herausrollt, explodiert dein Geist 
       <ID>42</ID>
       <DefaultText>&lt;Produkt. Produkt. Du hast.&gt;
 
-Die schwebende "Stimme" des Megaliths in deinem Geist ist begierig und entschlossen.</DefaultText>
+Die schwebende „Stimme“ des Megaliths in deinem Geist ist begierig und entschlossen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>&lt;Habe ich jetzt das "Produkt", das du willst?&gt;</DefaultText>
+      <DefaultText>&lt;Habe ich jetzt das „Produkt“, das du willst?&gt;</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
