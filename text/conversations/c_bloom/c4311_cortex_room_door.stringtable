@@ -8,12 +8,12 @@
       <ID>1</ID>
       <DefaultText>Durch mehrere gut polierte Schlösser entlang der Kanten kannst du nur feststellen, dass diese Türe nicht ganz so dick ist wie die anderen, die du hier gesehen hast, und ein sanftes, surrendes Summen kommt aus ihrem Inneren.
 
-Ein komplexes Bedienfeld - oder möglicherweise ein weiteres Schloss - befindet sich in der Wand neben der Türe. Die Knöpfe sind mit Symbolen markiert, die du nicht verstehst und das Licht hinter ihnen flackert wie eine Kerze.</DefaultText>
+Ein komplexes Bedienfeld – oder möglicherweise ein weiteres Schloss – befindet sich in der Wand neben der Türe. Die Knöpfe sind mit Symbolen markiert, die du nicht verstehst und das Licht hinter ihnen flackert wie eine Kerze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hallo? Bitte berühre nicht die Türe. Außenweltler sind in dem Cortexraum nicht gestattet."</DefaultText>
+      <DefaultText>„Hallo? Bitte berühre nicht die Türe. Außenweltler sind in dem Cortexraum nicht gestattet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +43,7 @@ Ein komplexes Bedienfeld - oder möglicherweise ein weiteres Schloss - befindet 
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Du berührst wahllos die Symbole und stellst fest, dass das Licht hinter ihnen ausgeht, wenn du bestimmte Knöpfe hintereinander drückst. Klicks und mechanisches "Klacken" ertönt von der Tür, während du arbeitest, du schaust dich immer wieder um um sicherzugehen, dass du nicht entdeckt wurdest.
+      <DefaultText>Du berührst wahllos die Symbole und stellst fest, dass das Licht hinter ihnen ausgeht, wenn du bestimmte Knöpfe hintereinander drückst. Klicks und mechanisches „Klacken“ ertönt von der Tür, während du arbeitest. Du schaust dich immer wieder um, um sicherzugehen, dass du nicht entdeckt wurdest.
 
 Ohne Vorwarnung öffnet sich die Tür. Mit einem knisternden *Plopp* wird das Bedienfeld vollkommen dunkel und du nimmst den Geruch verbrannter Drähte wahr. Wie es scheint, wirst du diese Tür nicht wieder schließen.</DefaultText>
       <FemaleText />
@@ -95,12 +95,12 @@ Ohne Vorwarnung öffnet sich die Tür. Mit einem knisternden *Plopp* wird das Be
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Bitte berühre nicht die Türe. Der Cortexraum ist nicht für Außenweltler. Entschuldigung."</DefaultText>
+      <DefaultText>„Bitte berühre nicht die Türe. Der Cortexraum ist nicht für Außenweltler. Entschuldigung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Verzeihung. Bitte nicht berühren", sagt Genjes. Ein Hauch von Irritation schwingt in seiner Stimme.</DefaultText>
+      <DefaultText>„Verzeihung. Bitte nicht berühren“, sagt Genjes. Ein Hauch von Irritation schwingt in seiner Stimme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -125,8 +125,8 @@ Ohne Vorwarnung öffnet sich die Tür. Mit einem knisternden *Plopp* wird das Be
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Außenweltler! Ich habe dich gewarnt. Anhalu vor!"</DefaultText>
-      <FemaleText>"Außenweltlerin! Ich habe dich gewarnt. Anhalu vor!"</FemaleText>
+      <DefaultText>„Außenweltler! Ich habe dich gewarnt. Anhalu vor!“</DefaultText>
+      <FemaleText>„Außenweltlerin! Ich habe dich gewarnt. Anhalu vor!“</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -135,34 +135,34 @@ Ohne Vorwarnung öffnet sich die Tür. Mit einem knisternden *Plopp* wird das Be
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Genjes befindet sich dort, Kind. Sei vorsichtig."</DefaultText>
+      <DefaultText>„Genjes befindet sich dort, Kind. Sei vorsichtig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Zügele deine Neugier, Liebes", raunt sie. "Genjes beobachtet dich."</DefaultText>
+      <DefaultText>„Zügele deine Neugier, Liebes“, raunt sie. „Genjes beobachtet dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Wir sollten schauen, was sich da drin befindet", sagt Erritis nachdenklich. "Aber vielleicht nicht während Pilot-Major Genjes hier ist. Etwas sagt mir, dass wir warten sollten, bis er weg ist."
+      <DefaultText>„Wir sollten schauen, was sich da drin befindet“, sagt Erritis nachdenklich. „Aber vielleicht nicht während Pilot-Major Genjes hier ist. Etwas sagt mir, dass wir warten sollten, bis er weg ist.“
 
-Er runzelt die Stirn. "Es könnte sein, dass er uns gesagt hat, dass wir es nicht berühren sollen."</DefaultText>
+Er runzelt die Stirn. „Es könnte sein, dass er uns gesagt hat, dass wir es nicht berühren sollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Genjes beobachtet uns immer noch, Bruder. Sei vorsichtig."</DefaultText>
-      <FemaleText>"Genjes beobachtet uns immer noch, Schwester. Sei vorsichtig."</FemaleText>
+      <DefaultText>„Genjes beobachtet uns immer noch, Bruder. Sei vorsichtig.“</DefaultText>
+      <FemaleText>„Genjes beobachtet uns immer noch, Schwester. Sei vorsichtig.“</FemaleText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Pilot-Major Genjes sieht *nicht* glücklich darüber aus, dass wir der Tür wieder so nahe sind."</DefaultText>
+      <DefaultText>„Pilot-Major Genjes sieht *nicht* glücklich darüber aus, dass wir der Tür wieder so nahe sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ich dachte, dass wir unseren Weg zurück hier finden würden", murmelt Tybir. "Aber Genjes beobachtet uns. Sei vorsichtig."</DefaultText>
+      <DefaultText>„Ich dachte, dass wir unseren Weg zurück hier finden würden“, murmelt Tybir. „Aber Genjes beobachtet uns. Sei vorsichtig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,32 +177,32 @@ Er runzelt die Stirn. "Es könnte sein, dass er uns gesagt hat, dass wir es nich
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Wir werden dort nicht hinein gelangen, solange er sich in der Nähe befindet", murmelt Aligern.</DefaultText>
+      <DefaultText>„Wir werden dort nicht hineingelangen, solange er sich in der Nähe befindet“, murmelt Aligern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Diese Tür befindet sich unter seinen wachsamen Augen, Liebes", flüstert Callistege. "Wir müssen ihn irgendwie davon weglocken."</DefaultText>
+      <DefaultText>„Diese Tür befindet sich unter seinen wachsamen Augen, Liebes“, flüstert Callistege. „Wir müssen ihn irgendwie davon weglocken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Ich denke nicht, dass er uns hineinlässt", flüstert Erritis aufgebracht. "Wir sollten entweder die Türe aufbrechen, oder", er zieht eine Grimasse, "einen Weg finden, um ihn abzulenken. Mit *List*."</DefaultText>
+      <DefaultText>„Ich denke nicht, dass er uns hineinlässt“, flüstert Erritis aufgebracht. „Wir sollten entweder die Türe aufbrechen, oder“, er zieht eine Grimasse, „einen Weg finden, um ihn abzulenken. Mit *List*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Wir werden dort nicht hinein gelangen, solange er sich in der Nähe befindet", murmelt Matkina. "Wir müssen ihn irgendwie ablenken."</DefaultText>
+      <DefaultText>„Wir werden dort nicht hineingelangen, solange er sich in der Nähe befindet“, murmelt Matkina. „Wir müssen ihn irgendwie ablenken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich denke nicht, dass er uns hineinlässt", flüstert sie. "Wie schade."</DefaultText>
+      <DefaultText>„Ich denke nicht, dass er uns hineinlässt“, flüstert sie. „Wie schade.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Naja", murmelt Tybir und schaut zur Seite. "Sieht so aus als müssten wir ihn irgendwie von dieser Türe weglocken, oder nicht?"</DefaultText>
+      <DefaultText>„Naja“, murmelt Tybir und schaut zur Seite. „Sieht so aus, als müssten wir ihn irgendwie von dieser Türe weglocken, oder nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

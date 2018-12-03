@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Du kommst also zu mir, mit Fragen in den Augen. Stelle sie und ich werde sie beantworten, wenn ich kann."</DefaultText>
+      <DefaultText>„Du kommst also zu mir, mit Fragen in den Augen. Stelle sie und ich werde sie beantworten, wenn ich kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Lebwohl, Kapitän."</DefaultText>
+      <DefaultText>„Lebe wohl, Kapitän.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich habe den Standort von Ishtrinu gefunden, deiner Heimatwelt. Die Flor lebt in dieser Welt. Du musst nur durch das Portal gehen und bist dann zuhause."</DefaultText>
+      <DefaultText>„Ich habe den Standort von Ishtrinu gefunden, deiner Heimatwelt. Die Flor lebt in dieser Welt. Du musst nur durch das Portal gehen und bist dann zu Hause.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,10 +33,10 @@
       <ID>5</ID>
       <DefaultText>Diese gramerfüllte Frau ist in eine seltsame, verzierte Rüstung gekleidet. Ihr Auftreten ist militärisch steif und ihre Augen sind ständig auf der Suche, obwohl der Rest ihres Körpers streng kontrolliert ist. Sie schätzt dich mit einem einzigen Blick ab.
 
-"Außenweltler. Ist das Flor-Portal offen? Es ist gut, dass du zuerst mit mir sprichst … gesprochen hast. Nur wenige Lascar sprechen deine Sprache. Hauptsächlich Offiziere." Sie schnalzt mit der Zunge. "Wir brauchen Übung. Willkommen am Ankerplatz."</DefaultText>
+„Außenweltler. Ist das Flor-Portal offen? Es ist gut, dass du zuerst mit mir sprichst … gesprochen hast. Nur wenige Lascar sprechen deine Sprache. Hauptsächlich Offiziere.“ Sie schnalzt mit der Zunge. „Wir brauchen Übung. Willkommen am Ankerplatz.“</DefaultText>
       <FemaleText>Diese gramerfüllte Frau ist in eine seltsame, verzierte Rüstung gekleidet. Ihr Auftreten ist militärisch steif und ihre Augen sind ständig auf der Suche, obwohl der Rest ihres Körpers streng kontrolliert ist. Sie schätzt dich mit einem einzigen Blick ab.
 
-"Außenweltlerin. Ist das Flor-Portal offen? Es ist gut, dass du zuerst mit mir sprichst … gesprochen hast. Nur wenige Lascar sprechen deine Sprache. Hauptsächlich Offiziere." Sie schnalzt mit der Zunge. "Wir brauchen Übung. Willkommen am Ankerplatz."</FemaleText>
+„Außenweltlerin. Ist das Flor-Portal offen? Es ist gut, dass du zuerst mit mir sprichst … gesprochen hast. Nur wenige Lascar sprechen deine Sprache. Hauptsächlich Offiziere.“ Sie schnalzt mit der Zunge. „Wir brauchen Übung. Willkommen am Ankerplatz.“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -45,29 +45,29 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Wir lebten hier, am Ankerplatz, wie auch unsere Vorfahren seit unzähligen Generationen. Hier gefangen, wurden sie alt, heirateten sie untereinander, zogen sie Familien groß. Unsere Gesetze wurden nacheinander erlassen, während wir hier in der Isolation eine neue Gesellschaft aufbauten."</DefaultText>
+      <DefaultText>„Wir lebten hier, am Ankerplatz, wie auch unsere Vorfahren seit unzähligen Generationen. Hier gefangen, wurden sie alt, heirateten sie untereinander, zogen sie Familien groß. Unsere Gesetze wurden nacheinander erlassen, während wir hier in der Isolation eine neue Gesellschaft aufbauten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Kann ich euch helfen, den Ankerplatz zu verlassen?"</DefaultText>
+      <DefaultText>„Kann ich euch helfen, den Ankerplatz zu verlassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Sie lächelt unmerklich. "Wir sind nicht auf der Suche nach einem Hafen, der Flüchtlinge aufnimmt. Wir warten auf das Schiff, das uns holen wird. Unsere Tradition besagt, dass die Heimat uns nicht vergessen hat und dass wir eines Tages wieder ihre Luft einatmen werden. Bis wir wieder in die Heimat kommen, werden wir das nicht."
+      <DefaultText>Sie lächelt unmerklich. „Wir sind nicht auf der Suche nach einem Hafen, der Flüchtlinge aufnimmt. Wir warten auf das Schiff, das uns holen wird. Unsere Tradition besagt, dass die Heimat uns nicht vergessen hat und dass wir eines Tages wieder ihre Luft einatmen werden. Bis wir wieder in die Heimat kommen, werden wir das nicht.“
 
-Sie kichert. "Könntest du das Schiff herbeirufen oder einen Weg in unser Heimatland schaffen, wir würden mit Vergnügen gehen. Bis dahin aber nicht."</DefaultText>
+Sie kichert. „Könntest du das Schiff herbeirufen oder einen Weg in unser Heimatland schaffen, wir würden mit Vergnügen gehen. Bis dahin aber nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Was ist das für ein Lärm?"</DefaultText>
+      <DefaultText>„Was ist das für ein Lärm?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Sie sieht dich einen Moment lang seltsam an, als ob sie keine Ahnung hätte, was du gesagt hast. Doch dann versteht sie. "Ah! Das Signal! Ich habe es so lange nicht mehr gehört, dass ich es vergessen habe. Wir rufen nach dem Schiff. Vielleicht ist es verloren. Wenn ja, dann werden wir ein Leuchtfeuer in der Leere entfachen."</DefaultText>
+      <DefaultText>Sie sieht dich einen Moment lang seltsam an, als ob sie keine Ahnung hätte, was du gesagt hast. Doch dann versteht sie. „Ah! Das Signal! Ich habe es so lange nicht mehr gehört, dass ich es vergessen habe. Wir rufen nach dem Schiff. Vielleicht ist es verloren. Wenn ja, dann werden wir ein Leuchtfeuer in der Leere entfachen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,37 +82,37 @@ Sie kichert. "Könntest du das Schiff herbeirufen oder einen Weg in unser Heimat
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Sind eure Vorfahren jene, die diesen Ort aufgebaut haben?"</DefaultText>
+      <DefaultText>„Sind eure Vorfahren jene, die diesen Ort aufgebaut haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Das glaube ich nicht. Wir haben sehr viele Jahre hier gelebt, doch wenn wir den Ankerplatz gebaut haben sollten, dann sind keine Erinnerungen daran geblieben. Sie sagen uns nur, was wir verdienen. Vielleicht wurde er von unserem Volk errichtet. Vielleicht war er schon immer hier. Wir wissen es nicht."</DefaultText>
+      <DefaultText>Sie schüttelt den Kopf. „Das glaube ich nicht. Wir haben sehr viele Jahre hier gelebt, doch wenn wir den Ankerplatz gebaut haben sollten, dann sind keine Erinnerungen daran geblieben. Sie sagen uns nur, was wir verdienen. Vielleicht wurde er von unserem Volk errichtet. Vielleicht war er schon immer hier. Wir wissen es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Erzähle mir mehr über eure Gesellschaft."</DefaultText>
+      <DefaultText>„Erzähle mir mehr über eure Gesellschaft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ich führe sie an. Als Kapitän untersteht der Ankerplatz meinem Kommando. Ich genehmige Hochzeiten. Ich leite Rituale. Auf mich fällt all die Verantwortung für das Überleben." Sie lächelt. "Solche Pflichten sind aber ehrenhaft. Ich delegiere, wie es die Kapitäne vor mir taten. Wir haben Piloten, Majore, Jemadare und andere. Sie beweisen sich durch Arbeit und steigen in den Rängen auf."</DefaultText>
+      <DefaultText>„Ich führe sie an. Als Kapitän untersteht der Ankerplatz meinem Kommando. Ich genehmige Hochzeiten. Ich leite Rituale. Auf mich fällt all die Verantwortung für das Überleben.“ Sie lächelt. „Solche Pflichten sind aber ehrenhaft. Ich delegiere, wie es die Kapitäne vor mir taten. Wir haben Piloten, Majore, Jemadare und andere. Sie beweisen sich durch Arbeit und steigen in den Rängen auf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Wie lange habt ihr auf das Schiff gewartet?"</DefaultText>
+      <DefaultText>„Wie lange habt ihr auf das Schiff gewartet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Solange wie nötig, Außenweltler." Sie hält inne und übersetzt deine Worte neu. "Verzeihung. Wir haben viele Familien und viele Eltern lang gewartet. Meine Familie. Ihre Familie, und deren Familie sowie viele Familien vor ihnen. Der Cortex würde es sicher wissen. Ich glaube aber nicht, dass wir noch viel länger warten werden. Irgendetwas in der Luft am Ankerplatz … es riecht, als ob unsere Zeit hier ein Ende gefunden hätte. Das Schiff wird bald kommen."</DefaultText>
-      <FemaleText>"Solange wie nötig, Außenweltlerin." Sie hält inne und übersetzt deine Worte neu. "Verzeihung. Wir haben viele Familien und viele Eltern lang gewartet. Meine Familie. Ihre Familie, und deren Familie sowie viele Familien vor ihnen. Der Cortex würde es sicher wissen. Ich glaube aber nicht, dass wir noch viel länger warten werden. Irgendetwas in der Luft am Ankerplatz … es riecht, als ob unsere Zeit hier ein Ende gefunden hätte. Das Schiff wird bald kommen."</FemaleText>
+      <DefaultText>„Solange wie nötig, Außenweltler.“ Sie hält inne und übersetzt deine Worte neu. „Verzeihung. Wir haben viele Familien und viele Eltern lang gewartet. Meine Familie. Ihre Familie, und deren Familie sowie viele Familien vor ihnen. Der Cortex würde es sicher wissen. Ich glaube aber nicht, dass wir noch viel länger warten werden. Irgendetwas in der Luft am Ankerplatz … es riecht, als ob unsere Zeit hier ein Ende gefunden hätte. Das Schiff wird bald kommen.“</DefaultText>
+      <FemaleText>„Solange wie nötig, Außenweltlerin.“ Sie hält inne und übersetzt deine Worte neu. „Verzeihung. Wir haben viele Familien und viele Eltern lang gewartet. Meine Familie. Ihre Familie, und deren Familie sowie viele Familien vor ihnen. Der Cortex würde es sicher wissen. Ich glaube aber nicht, dass wir noch viel länger warten werden. Irgendetwas in der Luft am Ankerplatz … es riecht, als ob unsere Zeit hier ein Ende gefunden hätte. Das Schiff wird bald kommen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Ich traf einige aus deiner Mannschaft in der Flor."</DefaultText>
+      <DefaultText>„Ich traf einige aus deiner Mannschaft in der Flor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,12 +122,12 @@ Sie kichert. "Könntest du das Schiff herbeirufen oder einen Weg in unser Heimat
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Erzähl mir von eurem Schiff."</DefaultText>
+      <DefaultText>„Erzähl mir von eurem Schiff.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Kannst du mir nochmal von eurem Schiff erzählen?"</DefaultText>
+      <DefaultText>„Kannst du mir nochmal von eurem Schiff erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -137,29 +137,29 @@ Sie kichert. "Könntest du das Schiff herbeirufen oder einen Weg in unser Heimat
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Bis das Schiff aus der Leere auftaucht und uns in die Heimat bringt, dienen wir dem Ankerplatz, wie so viele unzählige Generationen vor uns. Einige fürchten, das Schiff würde niemals kommen, doch wir halten unsere Blicke voller Hoffnung in den Himmel gerichtet."
+      <DefaultText>„Bis das Schiff aus der Leere auftaucht und uns in die Heimat bringt, dienen wir dem Ankerplatz, wie so viele unzählige Generationen vor uns. Einige fürchten, das Schiff würde niemals kommen, doch wir halten unsere Blicke voller Hoffnung in den Himmel gerichtet.“
 
-Sie breitet die Hände weit aus. "Bis zu diesem Tag plagen wir uns. Wenn das Schiff kommt, und es wird bald kommen, wird es eine willkommene Anlegestelle in unserem Ankerplatz und in unseren Herzen vorfinden."</DefaultText>
+Sie breitet die Hände weit aus. „Bis zu diesem Tag plagen wir uns. Wenn das Schiff kommt, und es wird bald kommen, wird es eine willkommene Anlegestelle in unserem Ankerplatz und in unseren Herzen vorfinden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Es ist ein Bote, einst versprochen. Unser Cortex erzählt uns davon, sagt, dass er ausgesandt wurde, um uns wieder zu Ruhm zu führen. Er fiel in die Leere und wir warten auf seine Rückkehr. Wenn er kommt, wird der Ankerplatz bereit sein. Ich werde die Ehre haben, mein Volk in die Heimat zu führen. Wenn nicht ich, dann mein Nachfolger. Ich habe aber das Gefühl ... Ich habe das Gefühl, dass ich es sein werde."</DefaultText>
+      <DefaultText>„Es ist ein Bote, einst versprochen. Unser Cortex erzählt uns davon, sagt, dass er ausgesandt wurde, um uns wieder zu Ruhm zu führen. Er fiel in die Leere und wir warten auf seine Rückkehr. Wenn er kommt, wird der Ankerplatz bereit sein. Ich werde die Ehre haben, mein Volk in die Heimat zu führen. Wenn nicht ich, dann mein Nachfolger. Ich habe aber das Gefühl … Ich habe das Gefühl, dass ich es sein werde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Jemadar Arechi und ihre Mannschaft?" Sie drückt sich eine Hand auf die Brust und beugt den Kopf. "Unser Dank, Außenweltler. Von mir und von meiner Mannschaft. Solltest du sie wiedersehen, so sag ihr bitte, dass der Weg zum Ankerplatz für sie offen ist."</DefaultText>
-      <FemaleText>"Jemadar Arechi und ihre Mannschaft?" Sie drückt sich eine Hand auf die Brust und beugt den Kopf. "Unser Dank, Außenweltlerin. Von mir und von meiner Mannschaft. Solltest du sie wiedersehen, so sag ihr bitte, dass der Weg zum Ankerplatz für sie offen ist."</FemaleText>
+      <DefaultText>„Jemadar Arechi und ihre Mannschaft?“ Sie drückt sich eine Hand auf die Brust und beugt den Kopf. „Unser Dank, Außenweltler. Von mir und von meiner Mannschaft. Solltest du sie wiedersehen, so sag ihr bitte, dass der Weg zum Ankerplatz für sie offen ist.“</DefaultText>
+      <FemaleText>„Jemadar Arechi und ihre Mannschaft?“ Sie drückt sich eine Hand auf die Brust und beugt den Kopf. „Unser Dank, Außenweltlerin. Von mir und von meiner Mannschaft. Solltest du sie wiedersehen, so sag ihr bitte, dass der Weg zum Ankerplatz für sie offen ist.“</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ich habe diesen zerbrochenen Helm in der Flor gefunden."</DefaultText>
+      <DefaultText>„Ich habe diesen zerbrochenen Helm in der Flor gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Wie bist du daran gekommen? Wir haben immer wieder danach gesucht ..." Sie schaut weg und schluckt. "Wir hatten die Hoffnung aufgegeben, unsere Wanderer zu finden. Das ist ein Tag der Größe." Ihre Stimme ist heiser. "Bitte. Bring diesen Helm zum Cortex-Raum und zeige ihn dort unserem Anführer. Vielleicht werden wir einige Antworten erhalten."
+      <DefaultText>„Wie bist du daran gekommen? Wir haben immer wieder danach gesucht …“ Sie schaut weg und schluckt. „Wir hatten die Hoffnung aufgegeben, unsere Wanderer zu finden. Das ist ein Tag der Größe.“ Ihre Stimme ist heiser. „Bitte. Bring diesen Helm zum Cortex-Raum und zeige ihn dort unserem Anführer. Vielleicht werden wir einige Antworten erhalten.“
 
 {JOURNAL:  Maybe add a journal entry here? -JF}</DefaultText>
       <FemaleText />
@@ -176,7 +176,7 @@ Sie breitet die Hände weit aus. "Bis zu diesem Tag plagen wir uns. Wenn das Sch
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ayu chanasti, jemadarus!"</DefaultText>
+      <DefaultText>„Ayu chanasti, jemadarus!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,71 +186,71 @@ Sie breitet die Hände weit aus. "Bis zu diesem Tag plagen wir uns. Wenn das Sch
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Jemadar, tozint acru. Cha!"</DefaultText>
+      <DefaultText>„Jemadar, tozint acru. Cha!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ich bin Kapitän Janur. Dieser Ankerplatz untersteht meinem Kommando. Alles, was du siehst, untersteht meinem Kommando. Erkunde unsere Heimat, wenn dir danach ist, doch unsere Traditionen – respektiere sie bitte."</DefaultText>
+      <DefaultText>„Ich bin Kapitän Janur. Dieser Ankerplatz untersteht meinem Kommando. Alles, was du siehst, untersteht meinem Kommando. Erkunde unsere Heimat, wenn dir danach ist, doch unsere Traditionen – respektiere sie bitte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Wir sprechen uns wieder, da bin ich mir sicher."</DefaultText>
+      <DefaultText>„Wir sprechen uns wieder, da bin ich mir sicher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich habe den Standort von Ishtrinu gefunden, deiner Heimatwelt. Die Flor lebt in dieser Welt. Du musst nur durch das Portal gehen und bist dann zuhause."</DefaultText>
+      <DefaultText>„Ich habe den Standort von Ishtrinu gefunden, deiner Heimatwelt. Die Flor lebt in dieser Welt. Du musst nur durch das Portal gehen und bist dann zu Hause.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Welchen Beweis hast du dafür? Woher *weißt* du das? Der Cortex … der Cortex muss die Wahrheit prüfen. Entschuldige mich bitte." Sie eilt aus dem Raum.</DefaultText>
+      <DefaultText>„Welchen Beweis hast du dafür? Woher *weißt* du das? Der Cortex … der Cortex muss die Wahrheit prüfen. Entschuldige mich bitte.“ Sie eilt aus dem Raum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Ihr Gesicht ist bleich und ihre Hand zittert, als sie zurückkehrt. Eine einzelne Träne bahnt sich ihren Weg über ihre Wange. "Du … hast uns einen großartigen Dienst erwiesen, Außenweltler. Deine Weisheit, dein Wissen … sie bringen uns in die Heimat."</DefaultText>
-      <FemaleText>Ihr Gesicht ist bleich und ihre Hand zittert, als sie zurückkehrt. Eine einzelne Träne bahnt sich ihren Weg über ihre Wange. "Du … hast uns einen großartigen Dienst erwiesen, Außenweltlerin. Deine Weisheit, dein Wissen … sie bringen uns in die Heimat."</FemaleText>
+      <DefaultText>Ihr Gesicht ist bleich und ihre Hand zittert, als sie zurückkehrt. Eine einzelne Träne bahnt sich ihren Weg über ihre Wange. „Du … hast uns einen großartigen Dienst erwiesen, Außenweltler. Deine Weisheit, dein Wissen … sie bringen uns in die Heimat.“</DefaultText>
+      <FemaleText>Ihr Gesicht ist bleich und ihre Hand zittert, als sie zurückkehrt. Eine einzelne Träne bahnt sich ihren Weg über ihre Wange. „Du … hast uns einen großartigen Dienst erwiesen, Außenweltlerin. Deine Weisheit, dein Wissen … sie bringen uns in die Heimat.“</FemaleText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Wir sind Militär, Lascar, Soldaten-Seeleute. Wir haben eine Hierarchie und Stärke. Alle kennen ihren Platz. Alle haben die Möglichkeit, durch Verdienst aufzusteigen. Keine Bevorzugung. Selbst mein eigenes Kind ist kein Jemadar. Ich prüfe ihre Akten nicht – ich könnte wegen einer solchen Übertretung meine Stellung verlieren." Sie zuckt mit den Schultern. "Alle Familien haben solche Probleme."</DefaultText>
+      <DefaultText>„Wir sind Militär, Lascar, Soldaten-Seeleute. Wir haben eine Hierarchie und Stärke. Alle kennen ihren Platz. Alle haben die Möglichkeit, durch Verdienst aufzusteigen. Keine Bevorzugung. Selbst mein eigenes Kind ist kein Jemadar. Ich prüfe ihre Akten nicht – ich könnte wegen einer solchen Übertretung meine Stellung verlieren.“ Sie zuckt mit den Schultern. „Alle Familien haben solche Probleme.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Wir Lascar sind so eine Familie. Wir kämpfen gegen die Zeit, gegen die Erinnerung, während wir den Blick gen Himmel richten und stets davon träumen, diesem Ort zu entkommen. Bis dahin bewahren wir die Tradition der Zivilisation der Heimat.</DefaultText>
+      <DefaultText>„Wir Lascar sind so eine Familie. Wir kämpfen gegen die Zeit, gegen die Erinnerung, während wir den Blick gen Himmel richten und stets davon träumen, diesem Ort zu entkommen. Bis dahin bewahren wir die Tradition der Zivilisation der Heimat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>Der Bote trifft ein und kann seine Wut kaum verbergen. Er macht dem Kapitän kurz Meldung und beide schauen dich währenddessen an.
 
-Als er fertig ist, stellt er sich hinter den Kapitän. Sie prustet sich auf und sagt: "Unsere wertvollste Ressource ist verschwunden. In all diesen langen Jahrhunderten haben wir den Cortex wertgeschätzt, und in all dieser Zeit saß er in der großen Kammer. Nun – nach deiner Ankunft – ist er verschwunden."
+Als er fertig ist, stellt er sich hinter den Kapitän. Sie prustet sich auf und sagt: „Unsere wertvollste Ressource ist verschwunden. In all diesen langen Jahrhunderten haben wir den Cortex wertgeschätzt, und in all dieser Zeit saß er in der großen Kammer. Nun – nach deiner Ankunft – ist er verschwunden.“
 
-Sie sieht zu ihren Wachen hinüber. Sie nicken. Sie fährt fort: "Gib uns unseren Cortex zurück."</DefaultText>
+Sie sieht zu ihren Wachen hinüber. Sie nicken. Sie fährt fort: „Gib uns unseren Cortex zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Welchen Beweis hast du dafür? Woher *weißt* du das? Der Cortex … der Cortex muss die Wahrheit prüfen. Entschuldige mich bitte." Sie ruft einen der umstehenden Lascar herbei, flüstert ihm ins Ohr, woraufhin er aus dem Raum eilt. Janur dreht sich wieder zu dir, wobei ihr Gesicht ihre Hoffnung verrät. "Kann es denn sein? Ist dies das Ende unserer Pilgerschaft?" Sie beginnt, auf- und abzuschreiten, auf die Rückkehr des Lascar wartend.</DefaultText>
+      <DefaultText>„Welchen Beweis hast du dafür? Woher *weißt* du das? Der Cortex … der Cortex muss die Wahrheit prüfen. Entschuldige mich bitte.“ Sie ruft einen der umstehenden Lascar herbei, flüstert ihm ins Ohr, woraufhin er aus dem Raum eilt. Janur dreht sich wieder zu dir, wobei ihr Gesicht ihre Hoffnung verrät. „Kann es denn sein? Ist dies das Ende unserer Pilgerschaft?“ Sie beginnt, auf- und abzuschreiten, auf die Rückkehr des Lascar wartend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ich habe nicht erkannt, dass er für dein Volk von so großer Bedeutung war. Ich werde ihn zurückgeben und bitte um Vergebung."</DefaultText>
+      <DefaultText>„Ich habe nicht erkannt, dass er für dein Volk von so großer Bedeutung war. Ich werde ihn zurückgeben und bitte um Vergebung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>(Lüge) "Ich habe nicht erkannt, dass er für dein Volk von so großer Bedeutung war. Ich werde ihn zurückgeben und bitte um Vergebung."</DefaultText>
+      <DefaultText>(Lüge) „Ich habe nicht erkannt, dass er für dein Volk von so großer Bedeutung war. Ich werde ihn zurückgeben und bitte um Vergebung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Ich habe dir den Weg nach Hause gezeigt. Wozu brauchst du noch den Cortex? Versammle einfach deine Leute und geh."</DefaultText>
+      <DefaultText>„Ich habe dir den Weg nach Hause gezeigt. Wozu brauchst du noch den Cortex? Versammle einfach deine Leute und geh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -275,22 +275,22 @@ Sie sieht zu ihren Wachen hinüber. Sie nicken. Sie fährt fort: "Gib uns unsere
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Du bekommst ihn nur über meine Leiche. *Wenn* du das schaffst."</DefaultText>
+      <DefaultText>„Du bekommst ihn nur über meine Leiche. *Wenn* du das schaffst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Du lässt mir keine andere Wahl." Sie gibt ihren Wachen ein Zeichen und sie greifen dich an!</DefaultText>
+      <DefaultText>„Du lässt mir keine andere Wahl.“ Sie gibt ihren Wachen ein Zeichen und sie greifen dich an!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Nichtsdestotrotz müssen wir das prüfen. Begleite mich in die Cortex-Kammer. Solltest du die Wahrheit gesprochen haben, so werden wir den Ankerplatz verlassen. Der Cortex gehört dann dir."</DefaultText>
+      <DefaultText>„Nichtsdestotrotz müssen wir das prüfen. Begleite mich in die Cortex-Kammer. Solltest du die Wahrheit gesprochen haben, so werden wir den Ankerplatz verlassen. Der Cortex gehört dann dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Wir werden dies zuerst prüfen. Die Worte von Dieben sind wertlos. Gib uns den Cortex."</DefaultText>
+      <DefaultText>„Wir werden dies zuerst prüfen. Die Worte von Dieben sind wertlos. Gib uns den Cortex.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -305,24 +305,24 @@ Sie sieht zu ihren Wachen hinüber. Sie nicken. Sie fährt fort: "Gib uns unsere
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Sie beäugt dich einen langen, stillen Moment lang. 
+      <DefaultText>Sie beäugt dich einen langen, stillen Moment lang.
 
-"Vielleicht weißt du es nicht", sagt sie schließlich. "Du hast aber unser Vertrauen verspielt. Meine Wachen werden dich zum Ausgang begleiten. Kehre bitte nicht mehr zurück."</DefaultText>
+„Vielleicht weißt du es nicht“, sagt sie schließlich. „Du hast aber unser Vertrauen verspielt. Meine Wachen werden dich zum Ausgang begleiten. Kehre bitte nicht mehr zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Dies ist nicht, was Genjes gemeldet hat", schnappt sie. "Diebe sind hier nicht willkommen. Du wirst den Ankerplatz verlassen. Meine Wachen werden dich eskortieren."</DefaultText>
+      <DefaultText>„Dies ist nicht, was Genjes gemeldet hat“, schnappt sie. „Diebe sind hier nicht willkommen. Du wirst den Ankerplatz verlassen. Meine Wachen werden dich eskortieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Sehr gut."</DefaultText>
+      <DefaultText>„Sehr gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Ich denke nicht."</DefaultText>
+      <DefaultText>„Ich denke nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,27 +354,27 @@ Du kehrst zur Hauptkammer zurück.</DefaultText>
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Alle zehn Jahre können die Hochrangigen mich um meine Stellung herausfordern. Wir sprechen zum Cortex und vergleichen unsere Gedanken. Wir lösen zeitliche, mathematische und logistische Probleme. Sollte mein Herausforderer gewinnen, ziehe ich mich zurück und berate ihn. Wir können nicht ohne Zusammenarbeit überleben."</DefaultText>
+      <DefaultText>„Alle zehn Jahre können die Hochrangigen mich um meine Stellung herausfordern. Wir sprechen zum Cortex und vergleichen unsere Gedanken. Wir lösen zeitliche, mathematische und logistische Probleme. Sollte mein Herausforderer gewinnen, ziehe ich mich zurück und berate ihn. Wir können nicht ohne Zusammenarbeit überleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Lascaru, totelin cor!"</DefaultText>
+      <DefaultText>„Lascaru, totelin cor!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Sevet angus! Cha!"</DefaultText>
+      <DefaultText>„Sevet angus! Cha!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Jemadarus, orchil kaana!"</DefaultText>
+      <DefaultText>„Jemadarus, orchil kaana!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"A-sovint esca, jemadar?"</DefaultText>
+      <DefaultText>„A-sovint esca, jemadar?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -384,17 +384,17 @@ Du kehrst zur Hauptkammer zurück.</DefaultText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Erzählt mir von Eurem Volk."</DefaultText>
+      <DefaultText>„Erzählt mir von Eurem Volk.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Erzähl mir noch einmal von deinem Volk."</DefaultText>
+      <DefaultText>„Erzähl mir noch einmal von deinem Volk.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Wir sind Lascar, Soldaten-Seeleute. Wir leben gemäß den Traditionen unseres Volkes, stets von dem Tag träumend, an dem wir in die Heimat zurückkehren."</DefaultText>
+      <DefaultText>„Wir sind Lascar, Soldaten-Seeleute. Wir leben gemäß den Traditionen unseres Volkes, stets von dem Tag träumend, an dem wir in die Heimat zurückkehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -404,7 +404,7 @@ Du kehrst zur Hauptkammer zurück.</DefaultText>
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Erzähl mir mehr über diesen Ankerplatz."</DefaultText>
+      <DefaultText>„Erzähl mir mehr über diesen Ankerplatz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -419,42 +419,42 @@ Du kehrst zur Hauptkammer zurück.</DefaultText>
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Die Leere ist groß und weitläufig. Sie beinhaltet Schrecken. Der Ankerplatz ist … eine Atempause. Ein Ort des Rastens und der Sicherheit. Einst gab es viele Schiffe mit vielen Leuten. Sie kamen hierher, ruhten, tankten auf, nahmen Passagiere auf. Die Passagiere reisten zu vielen Welten, die um viele Sterne kreisen. Und dann … kamen sie nicht mehr. Doch wir blieben zurück."</DefaultText>
+      <DefaultText>„Die Leere ist groß und weitläufig. Sie beinhaltet Schrecken. Der Ankerplatz ist … eine Atempause. Ein Ort des Rastens und der Sicherheit. Einst gab es viele Schiffe mit vielen Leuten. Sie kamen hierher, ruhten, tankten auf, nahmen Passagiere auf. Die Passagiere reisten zu vielen Welten, die um viele Sterne kreisen. Und dann … kamen sie nicht mehr. Doch wir blieben zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Ein Ort des Rastens und der Sicherheit. Es gab einst viele Schiffe mit vielen Leuten, und sie kamen hierher, um zu ruhen und aufzutanken. Sie kommen seit langer Zeit nicht mehr. Wir sind geblieben."</DefaultText>
+      <DefaultText>„Ein Ort des Rastens und der Sicherheit. Es gab einst viele Schiffe mit vielen Leuten, und sie kamen hierher, um zu ruhen und aufzutanken. Sie kommen seit langer Zeit nicht mehr. Wir sind geblieben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Schließlich beendet sie ihre Ansprache. Die Lascar sammeln ihre Habseligkeiten zusammen und stellen sich außerhalb des Portals zur Flor auf. "Außenweltler, was auch immer hinter der Flor liegen mag, ist der Ort, den wir als Heimat bezeichnen. Unser Dienst ist getan. Unser Dank."
- 
+      <DefaultText>Schließlich beendet sie ihre Ansprache. Die Lascar sammeln ihre Habseligkeiten zusammen und stellen sich außerhalb des Portals zur Flor auf. „Außenweltler, was auch immer hinter der Flor liegen mag, ist der Ort, den wir als Heimat bezeichnen. Unser Dienst ist getan. Unser Dank.“
+
 Sie folgt ihrer Mannschaft durch das Portal.</DefaultText>
-      <FemaleText>Schließlich beendet sie ihre Ansprache. Die Lascar sammeln ihre Habseligkeiten zusammen und stellen sich außerhalb des Portals zur Flor auf. "Außenweltlerin, was auch immer hinter der Flor liegen mag, ist der Ort, den wir als Heimat bezeichnen. Unser Dienst ist getan. Unser Dank."
- 
+      <FemaleText>Schließlich beendet sie ihre Ansprache. Die Lascar sammeln ihre Habseligkeiten zusammen und stellen sich außerhalb des Portals zur Flor auf. „Außenweltlerin, was auch immer hinter der Flor liegen mag, ist der Ort, den wir als Heimat bezeichnen. Unser Dienst ist getan. Unser Dank.“
+
 Sie folgt ihrer Mannschaft durch das Portal.</FemaleText>
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Als sie ihre Ansprache beendet hat, stellen sich die Lascar außerhalb des Portals zur Flor auf. 
+      <DefaultText>Als sie ihre Ansprache beendet hat, stellen sich die Lascar außerhalb des Portals zur Flor auf.
 
-"Außenweltler, was auch immer hinter der Flor liegen mag, ist der Ort, den wir als Heimat bezeichnen. Unser Dienst ist getan. Unser Dank."
- 
+„Außenweltler, was auch immer hinter der Flor liegen mag, ist der Ort, den wir als Heimat bezeichnen. Unser Dienst ist getan. Unser Dank.“
+
 Sie drückt dir den Navigations-Cortex in die Hand und folgt ihrer Mannschaft aus dem Ankerplatz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Achillis Erinnerung sagte, sie müsse ihre Daten mit den Archiven des Navigations-Cortex vergleichen."</DefaultText>
+      <DefaultText>„Achillis Erinnerung sagte, sie müsse ihre Daten mit den Archiven des Navigations-Cortex vergleichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Janur klatscht mit den Händen über ihren Ohren, zögert und lässt sie anschließend fallen, wobei sie dich unheilvoll anschaut. 
+      <DefaultText>Janur klatscht mit den Händen über ihren Ohren, zögert und lässt sie anschließend fallen, wobei sie dich unheilvoll anschaut.
 
-"Gib die Erinnerungen der gefallenen Lascar nicht weiter. Er ist nicht vorbei. Verstanden?" Sie starrt nach links, wägt ihre Antwort ab und fährt fort. "Vergiss diese Erinnerung. Wir lassen nicht zu, dass Außenweltler den Cortex aufsuchen, aus welchen Gründen auch immer."</DefaultText>
+„Gib die Erinnerungen der gefallenen Lascar nicht weiter. Er ist nicht vorbei. Verstanden?“ Sie starrt nach links, wägt ihre Antwort ab und fährt fort. „Vergiss diese Erinnerung. Wir lassen nicht zu, dass Außenweltler den Cortex aufsuchen, aus welchen Gründen auch immer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -464,12 +464,12 @@ Sie drückt dir den Navigations-Cortex in die Hand und folgt ihrer Mannschaft au
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Was ist dieser Cortex, den du erwähnt hast?"</DefaultText>
+      <DefaultText>„Was ist dieser Cortex, den du erwähnt hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Was war das Cortex nochmal?"</DefaultText>
+      <DefaultText>„Was war das Cortex nochmal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -479,14 +479,14 @@ Sie drückt dir den Navigations-Cortex in die Hand und folgt ihrer Mannschaft au
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Es ist ein Apparat, der uns heilig ist", sagt sie vorsichtig, während sie Blickkontakt zu dir hält. "Es ist unsere einzige Verbindung zu unserer verlorenen Heimat."
+      <DefaultText>„Es ist ein Apparat, der uns heilig ist“, sagt sie vorsichtig, während sie Blickkontakt zu dir hält. „Es ist unsere einzige Verbindung zu unserer verlorenen Heimat.“
 
-Sie verschränkt die Arme und fügt hinzu: "Wir lassen nicht zu, dass Außenweltler ihn zu Gesicht bekommen. Das soll keine Beleidigung sein, doch frag gar nicht erst danach."</DefaultText>
+Sie verschränkt die Arme und fügt hinzu: „Wir lassen nicht zu, dass Außenweltler ihn zu Gesicht bekommen. Das soll keine Beleidigung sein, doch frag gar nicht erst danach.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Unsere heilige Verbindung zu unserer verlorenen Heimat. Außenweltler dürfen ihn nicht sehen."</DefaultText>
+      <DefaultText>„Unsere heilige Verbindung zu unserer verlorenen Heimat. Außenweltler dürfen ihn nicht sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,12 +496,12 @@ Sie verschränkt die Arme und fügt hinzu: "Wir lassen nicht zu, dass Außenwelt
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Warum kann ich den Cortex nicht sehen?"</DefaultText>
+      <DefaultText>„Warum kann ich den Cortex nicht sehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Warum nochmal kann ich den Cortex nicht sehen?"</DefaultText>
+      <DefaultText>„Warum nochmal kann ich den Cortex nicht sehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -513,14 +513,14 @@ Sie verschränkt die Arme und fügt hinzu: "Wir lassen nicht zu, dass Außenwelt
       <ID>98</ID>
       <DefaultText>Sie atmet aus, mit zusammengebissenen Zähnen, und schaut nach oben. Zorn lodert wie eine gefangene Flamme in ihren Augen.
 
-"Wir waren nicht immer so beschützend. Das war, bevor andere Außenweltler vor einigen Jahren versuchten, ihn zu stehlen."
+„Wir waren nicht immer so beschützend. Das war, bevor andere Außenweltler vor einigen Jahren versuchten, ihn zu stehlen.“
 
-Sie hebt eine Hand. "Vielleicht bist du anders. Das spielt aber keine Rolle. Kein Außenweltler wird den Cortex je wieder zu Gesicht bekommen."</DefaultText>
+Sie hebt eine Hand. „Vielleicht bist du anders. Das spielt aber keine Rolle. Kein Außenweltler wird den Cortex je wieder zu Gesicht bekommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Außenweltler versuchten einst, ihn uns zu stehlen", sagt sie durch zusammengebissene Zähne. "Dies wird nie wieder geschehen."</DefaultText>
+      <DefaultText>„Außenweltler versuchten einst, ihn uns zu stehlen“, sagt sie durch zusammengebissene Zähne. „Dies wird nie wieder geschehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -530,47 +530,47 @@ Sie hebt eine Hand. "Vielleicht bist du anders. Das spielt aber keine Rolle. Kei
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Kannst du mir etwas über die Außenweltler sagen, die versuchten, den Cortex zu stehlen?"</DefaultText>
+      <DefaultText>„Kannst du mir etwas über die Außenweltler sagen, die versuchten, den Cortex zu stehlen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Sag mir nochmal, was du über die Außenweltler erfahren hast, die versuchten, den Cortex zu stehlen."</DefaultText>
+      <DefaultText>„Sag mir nochmal, was du über die Außenweltler erfahren hast, die versuchten, den Cortex zu stehlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Sie knurrt und fährt sich mit einer Hand über den Kopf. Sie bereut eindeutig, das Thema überhaupt angesprochen zu haben. 
+      <DefaultText>Sie knurrt und fährt sich mit einer Hand über den Kopf. Sie bereut eindeutig, das Thema überhaupt angesprochen zu haben.
 
-"Wir waren Narren. Sie kamen zu uns durch ein Portal aus deiner Welt. Wir hießen sie als Gäste willkommen und zeigten ihnen den Ankerplatz. Und den Cortex."
+„Wir waren Narren. Sie kamen zu uns durch ein Portal aus deiner Welt. Wir hießen sie als Gäste willkommen und zeigten ihnen den Ankerplatz. Und den Cortex.“
 
-Ihre Hand ballt sich an der Seite zur Faust. "Einer von ihnen *bekam ihn in die Finger*. Seine Freunde griffen uns an. Den Ankerplatz. Sie brannten die Mauern mit ihrem Feuer nieder."</DefaultText>
+Ihre Hand ballt sich an der Seite zur Faust. „Einer von ihnen *bekam ihn in die Finger*. Seine Freunde griffen uns an. Den Ankerplatz. Sie brannten die Mauern mit ihrem Feuer nieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Er sagte nur ein Wort: 'Dracogen'."</DefaultText>
+      <DefaultText>„Er sagte nur ein Wort: 'Dracogen'.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Während sie den Kopf schüttelt, fährt sie fort. "Wir töteten sie natürlich. Alle, mit Ausnahme des einen, der den Cortex berührt hatte. Diesen fragten wir aus, bis er starb, wobei er immer wieder ein Wort schrie.
+      <DefaultText>Während sie den Kopf schüttelt, fährt sie fort. „Wir töteten sie natürlich. Alle, mit Ausnahme des einen, der den Cortex berührt hatte. Diesen fragten wir aus, bis er starb, wobei er immer wieder ein Wort schrie.
 
-Sie schaut dir ins Gesicht. "Das Wort war 'Dracogen'."</DefaultText>
+Sie schaut dir ins Gesicht. „Das Wort war 'Dracogen'.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
       <DefaultText>Janur klatscht mit den Händen über ihren Ohren, zögert und lässt sie anschließend fallen, wobei sie dich unheilvoll anschaut.
 
-"Gib die Erinnerungen der gefallenen Lascar nicht weiter. Das macht man nicht. Verstanden?" Sie starrt nach links, wägt ihre Antwort ab und fährt fort. "Lass ihre Geheimnisse in dir sterben. Wie ich schon sagte, Außenweltlern ist es nicht gestattet, den Cortex zu sehen."</DefaultText>
+„Gib die Erinnerungen der gefallenen Lascar nicht weiter. Das macht man nicht. Verstanden?“ Sie starrt nach links, wägt ihre Antwort ab und fährt fort. „Lass ihre Geheimnisse in dir sterben. Wie ich schon sagte, Außenweltlern ist es nicht gestattet, den Cortex zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Ihr Blick richtet sich auf den Helm in deinen Händen und wieder zurück. Sie atmet tief und kontrolliert ein.  
+      <DefaultText>Ihr Blick richtet sich auf den Helm in deinen Händen und wieder zurück. Sie atmet tief und kontrolliert ein.
 
-"Achilli. Ich wusste, dass sie verloren war, doch ich habe keine Freude daran. Danke dir, Außenweltler. Ihre Familie wird froh sein, ihn zurückzuhaben, sobald du ihn mir überlassen hast."
+„Achilli. Ich wusste, dass sie verloren war, doch ich habe keine Freude daran. Danke dir, Außenweltler. Ihre Familie wird froh sein, ihn zurückzuhaben, sobald du ihn mir überlassen hast.“
 
 Sie hebt die Augenbrauen erwartungsvoll an.</DefaultText>
       <FemaleText />
@@ -587,50 +587,50 @@ Sie hebt die Augenbrauen erwartungsvoll an.</DefaultText>
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Ich habe mir eine ihrer Erinnerungen angehört. Sie dachte, sie hätte etwas Wichtiges gefunden."</DefaultText>
+      <DefaultText>„Ich habe mir eine ihrer Erinnerungen angehört. Sie dachte, sie hätte etwas Wichtiges gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Abscheu blitzt in ihrem steinigen Gesicht auf und wird genauso schnell wieder unterdrückt. 
+      <DefaultText>Abscheu blitzt in ihrem steinigen Gesicht auf und wird genauso schnell wieder unterdrückt.
 
-"Ich möchte nichts von ihren privaten Erinnerungen hören. Ihre Gedanken gehören ihr und sollten mit ihr sterben." Der letzte Satz ist leicht gesungen, als ob Janur einen Vers rezitiere.
+„Ich möchte nichts von ihren privaten Erinnerungen hören. Ihre Gedanken gehören ihr und sollten mit ihr sterben.“ Der letzte Satz ist leicht gesungen, als ob Janur einen Vers rezitiere.
 
-Die harte Linie ihres Mundes lockert sich. "Achilli war intelligent. Abenteuerlustig. Neigte jedoch auch zu wilden Theorien. Keine Sorge über ihre 'wichtige Entdeckung'. Lass sie mit ihr verschwinden."</DefaultText>
+Die harte Linie ihres Mundes lockert sich. „Achilli war intelligent. Abenteuerlustig. Neigte jedoch auch zu wilden Theorien. Keine Sorge über ihre 'wichtige Entdeckung'. Lass sie mit ihr verschwinden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Du sagtest, du würdest den Helm Achillis Familie übergeben wollen?"</DefaultText>
+      <DefaultText>„Du sagtest, du würdest den Helm Achillis Familie übergeben wollen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Ja, aber nicht sofort. Zuerst werde ich die privaten Erinnerungen darin löschen, wie es die Tradition vorsieht. Dann werde ich ihn reinigen. Wartungsrituale durchführen. Danach wird der Helm dem ältesten ihrer Geschwister übergeben."</DefaultText>
+      <DefaultText>„Ja, aber nicht sofort. Zuerst werde ich die privaten Erinnerungen darin löschen, wie es die Tradition vorsieht. Dann werde ich ihn reinigen. Wartungsrituale durchführen. Danach wird der Helm dem ältesten ihrer Geschwister übergeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Ich möchte ihren Helm noch eine Weile behalten. Ich muss erfahren, was sie entdeckt hat."</DefaultText>
+      <DefaultText>„Ich möchte ihren Helm noch eine Weile behalten. Ich muss erfahren, was sie entdeckt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Sie schaut dich mit hartem Blick an. "Nein. Du kannst ihre Erinnerungen nicht *plündern*, da der Helm nicht auf dich abgestimmt ist. Und außerdem ist es verboten ..."
+      <DefaultText>Sie schaut dich mit hartem Blick an. „Nein. Du kannst ihre Erinnerungen nicht *plündern*, da der Helm nicht auf dich abgestimmt ist. Und außerdem ist es verboten …“
 
-Sie zögert mit offenem Mund. "Ich hatte dieses Gespräch schon einmal. Ich hatte es mit Achilli." Ihre Mundwinkel zucken, doch sie spricht einen sehr langen Moment lang nicht. 
+Sie zögert mit offenem Mund. „Ich hatte dieses Gespräch schon einmal. Ich hatte es mit Achilli.“ Ihre Mundwinkel zucken, doch sie spricht einen sehr langen Moment lang nicht.
 
-"Gut", sagt sie und fährt sich mit einer Hand über die Augen. "Sie wäre glücklich zu wissen, dass ihr Helm von jemandem getragen wird, der ihre Neugier teilt. Nimm ihn mit ihrem Segen."</DefaultText>
+„Gut“, sagt sie und fährt sich mit einer Hand über die Augen. „Sie wäre glücklich zu wissen, dass ihr Helm von jemandem getragen wird, der ihre Neugier teilt. Nimm ihn mit ihrem Segen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Ja. Ich werde das tun, wenn ich damit fertig bin, ihre privaten Erinnerungen darin zu löschen, wie es die Tradition vorsieht. Dann werde ich ihn reinigen, die notwendigen Wartungsrituale durchführen und ihn dem ältesten ihrer Geschwister übergeben."</DefaultText>
+      <DefaultText>„Ja. Ich werde das tun, wenn ich damit fertig bin, ihre privaten Erinnerungen darin zu löschen, wie es die Tradition vorsieht. Dann werde ich ihn reinigen, die notwendigen Wartungsrituale durchführen und ihn dem ältesten ihrer Geschwister übergeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Gib mir den Helm zurück. Diese Entdeckung war für sie von zu großer Bedeutung und ich will nicht, dass sie gelöscht wird."</DefaultText>
+      <DefaultText>„Gib mir den Helm zurück. Diese Entdeckung war für sie von zu großer Bedeutung und ich will nicht, dass sie gelöscht wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -645,11 +645,11 @@ Sie zögert mit offenem Mund. "Ich hatte dieses Gespräch schon einmal. Ich hatt
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>An die Decke starrend, mit der Zunge zwischen den Zähnen, dreht Janur ihr Handgelenk. Einmal. Dann zweimal. Du hörst ein sanftes, robustes *Klacken* und sie hält ihn vor sich. 
+      <DefaultText>An die Decke starrend, mit der Zunge zwischen den Zähnen, dreht Janur ihr Handgelenk. Einmal. Dann zweimal. Du hörst ein sanftes, robustes *Klacken* und sie hält ihn vor sich.
 
-"Fertig. Achillis Erinnerungen sind gelöscht. Ihre Familie kann ihn ohne Scham annehmen."
+„Fertig. Achillis Erinnerungen sind gelöscht. Ihre Familie kann ihn ohne Scham annehmen.“
 
-Sie schielt auf den verschmutzten Helm in ihren Händen und zuckt zusammen. "*Ayu*. Natürlich erst, sobald er sauber ist. Das wird einige Zeit erfordern. Was kann ich sonst noch für dich tun?"</DefaultText>
+Sie schielt auf den verschmutzten Helm in ihren Händen und zuckt zusammen. „*Ayu*. Natürlich erst, sobald er sauber ist. Das wird einige Zeit erfordern. Was kann ich sonst noch für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -674,36 +674,36 @@ Sie schielt auf den verschmutzten Helm in ihren Händen und zuckt zusammen. "*Ay
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Nun, ich denke nicht, dass wir das auf offizielle Weise schaffen", murmelt Aligern. "Du weißt, was das bedeutet."</DefaultText>
+      <DefaultText>„Nun, ich denke nicht, dass wir das auf offizielle Weise schaffen“, murmelt Aligern. „Du weißt, was das bedeutet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Nun, sie klingt gewiss unnachgiebig", murmelt Callistege. "Wie es scheint, werden wir eine andere, weniger skrupellose Möglichkeit finden müssen, in die Cortex-Kammer zu gelangen."</DefaultText>
+      <DefaultText>„Nun, sie klingt gewiss unnachgiebig“, murmelt Callistege. „Wie es scheint, werden wir eine andere, weniger skrupellose Möglichkeit finden müssen, in die Cortex-Kammer zu gelangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Das war‘s dann wohl", seufzt Erritis. "Es gibt keinen Weg in die Cortex-Kammer und wir sind nicht von der Art, die sich hineinschleicht, wenn keiner hinsieht." Dann hält er inne.
+      <DefaultText>„Das war’s dann wohl“, seufzt Erritis. „Es gibt keinen Weg in die Cortex-Kammer und wir sind nicht von der Art, die sich hineinschleicht, wenn keiner hinsieht.“ Dann hält er inne.
 
-"Das sind wir doch nicht, oder?" flüstert er besorgt.</DefaultText>
+„Das sind wir doch nicht, oder?“, flüstert er besorgt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Nun", murmelt Matkina. "Sieht aus, als müssten wir einige Regeln brechen, um hineinzugelangen."</DefaultText>
+      <DefaultText>„Nun“, murmelt Matkina. „Sieht aus, als müssten wir einige Regeln brechen, um hineinzugelangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Hmpf", murmelt Rhin. "Wir werden uns doch nicht *davon* aufhalten lassen, oder?"</DefaultText>
+      <DefaultText>„Hmpf“, murmelt Rhin. „Wir werden uns doch nicht *davon* aufhalten lassen, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Nun, schade", sagt Tybir laut. Er legt dir eine tröstende Hand auf die Schulter und fügt flüsternd hinzu:
+      <DefaultText>„Nun, schade“, sagt Tybir laut. Er legt dir eine tröstende Hand auf die Schulter und fügt flüsternd hinzu:
 
-"Schauen wir uns mal um. Vielleicht finden wir eine Möglichkeit, die Regeln etwas zu verbiegen ... oder zumindest finden wir heraus, welche Schlösser zu knacken sind."</DefaultText>
+„Schauen wir uns mal um. Vielleicht finden wir eine Möglichkeit, die Regeln etwas zu verbiegen … oder zumindest finden wir heraus, welche Schlösser zu knacken sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

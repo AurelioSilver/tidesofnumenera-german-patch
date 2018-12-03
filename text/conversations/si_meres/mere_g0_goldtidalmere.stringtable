@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Der Sonnenaufgang taucht das Meer in einen Goldschimmer und die ganze Stadt - vom fernen Hafen bis zum prächtigen Platz direkt unter dir - aalt sich in seinem Licht. Die Brise bläst frisch vom Wasser her, das Lied der Nachtvögel wird abgelöst vom Durcheinandergerede der Arbeiter und Anwerber und deine  schwarz geaderten Hände, gekrümmt wie Krallen, zittern auf der Fensterbank. 
+      <DefaultText>Der Sonnenaufgang taucht das Meer in einen Goldschimmer und die ganze Stadt - vom fernen Hafen bis zum prächtigen Platz direkt unter dir - aalt sich in seinem Licht. Die Brise bläst frisch vom Wasser her, das Lied der Nachtvögel wird abgelöst vom Durcheinandergerede der Arbeiter und Anwerber und deine  schwarz geaderten Hände, gekrümmt wie Krallen, zittern auf der Fensterbank.
 
 Hinter dir streiten Männer über Prüfungen und Shin und über eine Fäule, die Herz und Hirn erreicht hat und nicht mehr rausgeschnitten werden kann.
 
@@ -41,10 +41,10 @@ Sie unterbrechen ihre Diskussion, um zu dir zu schauen. Du erkennst sie nicht im
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Die Augen des Dieners weiten sich, zuerst eher aus Wut und dann eher aus Verständnis. Er geht etwas näher an dich heran und hebt in einer fast zärtlichen Geste eine Hand in Richtung deines Gesichts. Er hat eine Hand, einen Arm - seine andere armlose Seite ist in Seide gehüllt. 
+      <DefaultText>Die Augen des Dieners weiten sich, zuerst eher aus Wut und dann eher aus Verständnis. Er geht etwas näher an dich heran und hebt in einer fast zärtlichen Geste eine Hand in Richtung deines Gesichts. Er hat eine Hand, einen Arm - seine andere armlose Seite ist in Seide gehüllt.
 
 "Ich bin Cardogo, Ehrwürdiger. Ihr kennt mich." Und auch wenn es nicht ganz so ist, hat er recht - so vergiftet dein Körper auch ist, du spürst den leichten Rausch von Freundschaft. "Und das ist der Aram der Insel - er behandelte Euren … Zustand."
- 
+
 Der Cheirurg nickt leicht und fügt hinzu: "Meine Dienste sind erledigt, Ehrwürdiger. Die Wurzeln haben sich zu weit und zu tief ausgebreitet. Was der Wind gesät hat, muss nun geerntet werden."</DefaultText>
       <FemaleText />
     </Entry>
@@ -89,7 +89,7 @@ Die Stimme des Inselbewohners hat nichts von Cardogos Sanftheit. "Und jetzt habt
       <ID>17</ID>
       <DefaultText>Cardogo schüttelt den Kopf. "Ihr müsst wissen, Ehrwürdiger. Der Wind hat auch mich verändert, als ich versucht habe, Euch vor seiner Berührung zu schützen. Ich habe es damals nicht geschafft, so wie die Ärzte es jetzt auch nicht geschafft haben."
 
-Vielleicht sieht er, wie deine Augen über seinen unförmigen Körper huschen. "Wir haben beide einen viel zu hohen Preis bezahlt," sagt dein Diener mit leicht gebrochener Stimme.</DefaultText>
+Vielleicht sieht er, wie deine Augen über seinen unförmigen Körper huschen. "Wir haben beide einen viel zu hohen Preis bezahlt", sagt dein Diener mit leicht gebrochener Stimme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,10 +114,10 @@ Vielleicht sieht er, wie deine Augen über seinen unförmigen Körper huschen. "
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Dein Diener weicht zurück, als hättest du die Hand zum Schlag erhoben. Dann, nach einem kurzen Blick auf den Insulaner, nickt er. Knopf um Knopf öffnet er sein Hemd, zieht es dann langsam aus und dreht sich dabei ab wie eine Kurtisane, um den Horror so lang er nur kann zu verbergen. Aber es bleibt nicht verborgen: eine Ruine aus feuchtem, meliertem Fleisch, teils bedeckt mit krausen Haaren, gepunktet mit Augen und vernarbt, gesprenkelt mit halb geformten Zähnen und nässenden Fisteln. 
+      <DefaultText>Dein Diener weicht zurück, als hättest du die Hand zum Schlag erhoben. Dann, nach einem kurzen Blick auf den Insulaner, nickt er. Knopf um Knopf öffnet er sein Hemd, zieht es dann langsam aus und dreht sich dabei ab wie eine Kurtisane, um den Horror so lang er nur kann zu verbergen. Aber es bleibt nicht verborgen: eine Ruine aus feuchtem, meliertem Fleisch, teils bedeckt mit krausen Haaren, gepunktet mit Augen und vernarbt, gesprenkelt mit halb geformten Zähnen und nässenden Fisteln.
 
 Fast trotzig lässt er sich von dir anstarren, bevor er sein Hemd wieder anzieht. "Du bist nicht der Einzige, bei dem die Ärzte versagt haben."
- 
+
 "Vielleicht, Cardogo", rügt Aram "bist du einfach nur zum falschen Arzt gegangen. Nicht alle Krankheiten sind unheilbar, und auch nicht alle Cheirurgen sind wie Jalippa."
 
 {[B] SOUND: Maybe a sound of an article of clothing falling; even if that's not exactly what the action is, it's the kind of sound that we associate so strongly with "undressing" in movies, it might work.}</DefaultText>
@@ -145,17 +145,17 @@ Fast trotzig lässt er sich von dir anstarren, bevor er sein Hemd wieder anzieht
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Von ihr wirst du nichts Gutes bekommen", spuckt Aram, "es sei denn du willst übertölpelt werden." Der Cheirurg grinst Cardogo an, als er die letzten Worte sagt. 
- 
+      <DefaultText>"Von ihr wirst du nichts Gutes bekommen", spuckt Aram, "es sei denn du willst übertölpelt werden." Der Cheirurg grinst Cardogo an, als er die letzten Worte sagt.
+
 Dein Diener nickt. "Sie handelt mit Lügen, nicht mit Heilung."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Als du deine Verwirrung hervor stammelst, weiten sich die Augen des Dieners mit Verständnis. Er geht etwas näher an dich heran und hebt in einer fast zärtlichen Geste eine Hand in Richtung deines Gesichts. Er hat nur eine Hand, einen Arm - seine andere Seite ist glatt in Seide gehüllt. "Ich bin Cardogo, Ehrwürdiger. Ihr *kennt* mich." 
+      <DefaultText>Als du deine Verwirrung hervor stammelst, weiten sich die Augen des Dieners mit Verständnis. Er geht etwas näher an dich heran und hebt in einer fast zärtlichen Geste eine Hand in Richtung deines Gesichts. Er hat nur eine Hand, einen Arm - seine andere Seite ist glatt in Seide gehüllt. "Ich bin Cardogo, Ehrwürdiger. Ihr *kennt* mich."
 
-Und auch wenn es nicht ganz so ist, hat er recht: so vergiftet dein Körper auch ist, du spürst den leichten Rausch von Freundschaft. "Und das ist der Aram der Insel - er behandelte Euren … Zustand." 
- 
+Und auch wenn es nicht ganz so ist, hat er recht: so vergiftet dein Körper auch ist, du spürst den leichten Rausch von Freundschaft. "Und das ist der Aram der Insel - er behandelte Euren … Zustand."
+
 Der Cheirurg nickt ein wenig und fügt hinzu: "Meine Dienste sind erledigt, Ehrwürdiger. Die Wurzeln haben sich zu weit und zu tief ausgebreitet. Was der Wind gesät hat, muss nun geerntet werden."</DefaultText>
       <FemaleText />
     </Entry>
@@ -171,9 +171,9 @@ Der Cheirurg nickt ein wenig und fügt hinzu: "Meine Dienste sind erledigt, Ehrw
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Der Cheirurg nickt zweimal - einmal zu Cardogo, einmal zu dir - und verschwindet dann aus dem Zimmer. Cardogo wartet bis er weg ist und spricht dann. "Ehrwürdiger, es gibt noch andere Ärzte ... Vielleicht ein Aeon-Priester, vielleicht ..." 
+      <DefaultText>Der Cheirurg nickt zweimal - einmal zu Cardogo, einmal zu dir - und verschwindet dann aus dem Zimmer. Cardogo wartet bis er weg ist und spricht dann. "Ehrwürdiger, es gibt noch andere Ärzte ... Vielleicht ein Aeon-Priester, vielleicht ..."
 
-Er schaut zu dir rüber und verstummt allmählich. "Ihr solltet ruhen, Ehrwürdiger. Ich lasse Euch Eure Mahlzeit zubereiten. Und ich werde Eure Familie informieren." Er hält einen Moment länger inne, ohne zu sagen, warum. Was er wollte oder erwartet hatte bleibt unausgesprochen und als er geht, überkommt dich eine enorme Müdigkeit. 
+Er schaut zu dir rüber und verstummt allmählich. "Ihr solltet ruhen, Ehrwürdiger. Ich lasse Euch Eure Mahlzeit zubereiten. Und ich werde Eure Familie informieren." Er hält einen Moment länger inne, ohne zu sagen, warum. Was er wollte oder erwartet hatte bleibt unausgesprochen und als er geht, überkommt dich eine enorme Müdigkeit.
 
 Jenseits des Fensters ist die Sonne aufgegangen und das Meer ist wieder zu den alten grauen Wellen zurückgekehrt, die an einen verschmutzten Strand aufschlagen.</DefaultText>
       <FemaleText />
@@ -198,7 +198,7 @@ Mit einem scharfen Lächeln antwortet Aram: "Ehrwürdiger wird die Last nicht l�
 
 Der Arzt schüttelt den Kopf und geht, während Cardogo dir in den Stuhl hilft. "Ihr kämpft nicht allein, Ehrwürdiger." Er wischt dir Schweiß von deiner Augenbraue.
 
-"Jetzt müsst Ihr aber erst einmal ruhen. Ich lasse Euch eine Mahlzeit zubereiten. Und ich werde Eure Familie informieren." Er hält einen Moment länger inne, ohne zu sagen, warum. Als er geht, überkommt dich eine enorme Müdigkeit. 
+"Jetzt müsst Ihr aber erst einmal ruhen. Ich lasse Euch eine Mahlzeit zubereiten. Und ich werde Eure Familie informieren." Er hält einen Moment länger inne, ohne zu sagen, warum. Als er geht, überkommt dich eine enorme Müdigkeit.
 
 Jenseits des Fensters ist die Sonne aufgegangen und das Meer ist wieder zu den alten grauen Wellen zurückgekehrt, die an einen verschmutzten Strand aufschlagen.
 
@@ -209,9 +209,9 @@ Jenseits des Fensters ist die Sonne aufgegangen und das Meer ist wieder zu den a
       <ID>37</ID>
       <DefaultText>Die Stunden der Ruhe haben dir keine Kraft zurückgebracht und die Mahlzeit liegt dir schwer im Magen.
 
-Cardogo pudert dein Gesicht mit einem Rouge, um die Blässe zu verbergen, zieht dir Handschuhe an, verpackt dich in eine wattierte Jacke, die fehlendes Fleisch ausgleicht und die wachsenden Geschwülste verdeckt - er wickelt und faltet und knöpft zu und schließlich reicht er dir einen Spiegel. 
+Cardogo pudert dein Gesicht mit einem Rouge, um die Blässe zu verbergen, zieht dir Handschuhe an, verpackt dich in eine wattierte Jacke, die fehlendes Fleisch ausgleicht und die wachsenden Geschwülste verdeckt - er wickelt und faltet und knöpft zu und schließlich reicht er dir einen Spiegel.
 
-In deiner zitternden Hand zeigt er nicht mehr als Fäule und Krankheit: du siehst aus wie eine Leiche, die zur Bestattung vorbereitet wurde. Cardogo hat nichts verdeckt; er hat nur deinen Zustand hervorgehoben als Verschönerung, die andere nicht ertragen können. 
+In deiner zitternden Hand zeigt er nicht mehr als Fäule und Krankheit: du siehst aus wie eine Leiche, die zur Bestattung vorbereitet wurde. Cardogo hat nichts verdeckt; er hat nur deinen Zustand hervorgehoben als Verschönerung, die andere nicht ertragen können.
 
 "Sie warten", sagt er und führt deinen Stuhl nach vorne.</DefaultText>
       <FemaleText />
@@ -263,7 +263,7 @@ Der Cheirurg nickt leicht und fügt hinzu: "Meine Dienste sind erledigt, Ehrwür
       <ID>47</ID>
       <DefaultText>Der Cheirurg verneigt sich - sichtlich erfreut, dass du seine Worte vernommen hast - dann geht er. Cardogo beobachtet, wie er geht und wendet sich dann dir zu.
 
-"Es gibt viel zu tun, Ehrwürdiger. Aber Ihr müsst ruhen. Ich lasse Euch Eure Mahlzeit zubereiten. Und ich werde Eure Familie informieren." Er hält einen Moment länger inne, ohne zu sagen, warum. Was er wollte oder erwartet hatte bleibt unausgesprochen und als er geht, überkommt dich eine enorme Müdigkeit. 
+"Es gibt viel zu tun, Ehrwürdiger. Aber Ihr müsst ruhen. Ich lasse Euch Eure Mahlzeit zubereiten. Und ich werde Eure Familie informieren." Er hält einen Moment länger inne, ohne zu sagen, warum. Was er wollte oder erwartet hatte bleibt unausgesprochen und als er geht, überkommt dich eine enorme Müdigkeit.
 
 Jenseits des Fensters ist die Sonne aufgegangen und das Meer ist wieder zu den alten grauen Wellen zurückgekehrt, die an einen verschmutzten Strand aufschlagen.</DefaultText>
       <FemaleText />
@@ -424,7 +424,7 @@ Ein Schatten sitzt an deinem Bettende, illuminiert vom täuschenden Leuchten ein
       <ID>75</ID>
       <DefaultText>Salvar nickt, zu schnell und zu oft. "Es ist nicht ohne Gefahren - ich meine körperliche Gefahren, deshalb brauchen sie einen Mann, der das Schwert schwingen kann."
 
-Er wird von einem Hüsteln von Cardogo unterbrochen: "Das *Spekulationsobjekt*?" 
+Er wird von einem Hüsteln von Cardogo unterbrochen: "Das *Spekulationsobjekt*?"
 
 "Ah ja, nun, es geht um gewisse … äh … marktgängige Güter, für die es in der Oase von M'ra Jolios eine große Nachfrage gibt, natürlich beste Qualität, aber es wird hier verkauft wie Schmuck. Du siehst also, genau das, wo ein guter Händler den Markt aufkaufen würde, wie man so sagt."</DefaultText>
       <FemaleText />
@@ -446,7 +446,7 @@ Er wird von einem Hüsteln von Cardogo unterbrochen: "Das *Spekulationsobjekt*?"
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Salvar wird bleich. "Lä ... lächerlich. Das könnte nicht weiter entfernt sein von der Wahrheit. Das ist ehrlich und … und … gut!" Seine Worte rasen blind los. "Das ist ein lukratives Geschäft!" 
+      <DefaultText>Salvar wird bleich. "Lä ... lächerlich. Das könnte nicht weiter entfernt sein von der Wahrheit. Das ist ehrlich und … und … gut!" Seine Worte rasen blind los. "Das ist ein lukratives Geschäft!"
 
 Dein Diener seufzt hörbar. Der dumpfe Schmerz hinter deinen Augen, die Krallen in deinem Rücken, die absurde Täuschung deines Neffen, all das zieht dich nach unten.</DefaultText>
       <FemaleText />
@@ -458,7 +458,7 @@ Dein Diener seufzt hörbar. Der dumpfe Schmerz hinter deinen Augen, die Krallen 
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Salvar geht einen Schritt zurück, seine Augen tränen. Ich will beweisen, dass alles, was du für mich getan hast, die Schule, der Sport, meine Kommission, diese Kleidung … beweisen, dass es nicht vergebens war. Mein Leben lang musste ich so tun, als würde ich deine Liebe und deine Geschenke auch verdienen - immer wissend, dass ich es nicht tat, immer hörend, wie andere hinter vorgehaltener Hand darüber lachten. Er atmet schwer durch. 
+      <DefaultText>Salvar geht einen Schritt zurück, seine Augen tränen. Ich will beweisen, dass alles, was du für mich getan hast, die Schule, der Sport, meine Kommission, diese Kleidung … beweisen, dass es nicht vergebens war. Mein Leben lang musste ich so tun, als würde ich deine Liebe und deine Geschenke auch verdienen - immer wissend, dass ich es nicht tat, immer hörend, wie andere hinter vorgehaltener Hand darüber lachten. Er atmet schwer durch.
 
 "Jetzt kann ich beweisen, dass du recht hattest. Beweisen, dass ich es wert war. Es *mir selbst* beweisen!"
 
@@ -502,7 +502,7 @@ Als dein Diener zurückkehrt, schüttelt er den Kopf. "Du hast diesen Jungen mit
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Cardogo zuckt bei deinen Worten zurück und der Spott weicht aus seinem Gesicht. 
+      <DefaultText>Cardogo zuckt bei deinen Worten zurück und der Spott weicht aus seinem Gesicht.
 
 Nach einem kurzen stillen Augenblick fährt er deinen Stuhl wieder in deine Suite zurück. "Es war ein langer Tag, Ehrwürdiger. Ihr solltet ruhen."
 
@@ -611,7 +611,7 @@ Die Frau spuckt auf den Boden und lässt sich dann von Cardogo aus dem Zimmer f�
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Hast du dich so an das Tragen einer Maske vor unserer Familie gewöhnt, dass du glaubst, mich einfach anlügen zu können? Sie *wollen* deinen Lügen glauben." 
+      <DefaultText>"Hast du dich so an das Tragen einer Maske vor unserer Familie gewöhnt, dass du glaubst, mich einfach anlügen zu können? Sie *wollen* deinen Lügen glauben."
 
 Ein mörderisches Lächeln teilt ihr Gesicht in zwei Hälften. "Ich will etwas anderes."</DefaultText>
       <FemaleText />
@@ -674,14 +674,14 @@ Kein Todesstoß kommt aus ihrer Hand, kein Vorwurf aus ihrem Mund; da ist nur da
       <ID>122</ID>
       <DefaultText>"Richtig. Ich sollte die Sagus-Klippen mit bloßen Händen hochklettern, bis ich mit blutigen Fingern und Schrammen den Gipfel erreiche und voller Stolz über den riesigen Ozean blicke, während die untergehende Sonne alles in Gold hüllt." Die letzten Worte sagt sie mit einer spöttischen Imitation deiner Stimme. "Das ist es, ja? So *verdient* man es sich?"
 
-Sie kommt näher. "Nun, ich klettere schon mein ganzes Leben lang und ich habe viele Schrammen." Sie leuchtet mit der Cypher in ihr Gesicht, wo sich ein frischer, dunkelvioletter Fleck über ihre kantigen Gesichtszüge ausbreitet.  
+Sie kommt näher. "Nun, ich klettere schon mein ganzes Leben lang und ich habe viele Schrammen." Sie leuchtet mit der Cypher in ihr Gesicht, wo sich ein frischer, dunkelvioletter Fleck über ihre kantigen Gesichtszüge ausbreitet.
 
 "Und dennoch bin ich immer noch in der gottverdammten Schattenseite, tief genug, um den Skist auf den Wellen zu riechen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Sag mir also nicht, was mich stärker macht. Ich will nicht "stärker". Ich bin *stärker*. Ich will das hier", sagt sie und reißt dir die Decke weg. "Ich will mein eigenes Bett in meinem eigenen Haus und nichts davon mit anderen teilen müssen. Ich will genug Shin, um meine Vergangenheit zu ertränken, um sie zu *ermorden*, einen ganzen Panzer aus Shin, die Art von Panzer, die dich weich sein lässt." 
+      <DefaultText>"Sag mir also nicht, was mich stärker macht. Ich will nicht "stärker". Ich bin *stärker*. Ich will das hier", sagt sie und reißt dir die Decke weg. "Ich will mein eigenes Bett in meinem eigenen Haus und nichts davon mit anderen teilen müssen. Ich will genug Shin, um meine Vergangenheit zu ertränken, um sie zu *ermorden*, einen ganzen Panzer aus Shin, die Art von Panzer, die dich weich sein lässt."
 
 Sie lehnt sich immer noch näher zu dir. "Aber nein! De … Dein Geld war ja nur für den mutigen, schönen Salvar."</DefaultText>
       <FemaleText />
@@ -736,7 +736,7 @@ Ohne das Licht wird das Zimmer wieder komplett dunkel; es ist völlig still und 
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Ein Geräusch halb Schluchzen halb Lachen entweicht Cascas Kehle.  Sie zwingt sich, aufzuhören und verdunkelt die Cypher an ihrem Handgelenk. 
+      <DefaultText>Ein Geräusch halb Schluchzen halb Lachen entweicht Cascas Kehle.  Sie zwingt sich, aufzuhören und verdunkelt die Cypher an ihrem Handgelenk.
 
 "Du weißt nichts über Bedürfnisse", sagt sie sanft.
 
@@ -916,7 +916,7 @@ Unaufgefordert sprudelt aus dir ein gewürgtes Geräusch und Cardogo platzt here
 
 Als er geht, scheint Cardogo etwas zu sagen, aber du hörst nichts. Eine Kluft hat sich zwischen dir und der Welt geöffnet, voller schwarzer Staubpartikel, die lautlos durch den leeren Raum schwirren. Du versuchst etwas zu deinem Diener zu sagen, kannst aber die Wörter nicht formen.
 
-In diesem Moment setzt die Attacke ein, die Lähmung verwandelt sich in eine wilde, schäumende Anwandlung, als schwarzer Speichel sich auf deinem Tisch ausbreitet und Cardogo nach vorne eilt. 
+In diesem Moment setzt die Attacke ein, die Lähmung verwandelt sich in eine wilde, schäumende Anwandlung, als schwarzer Speichel sich auf deinem Tisch ausbreitet und Cardogo nach vorne eilt.
 
 Dann ist nichts mehr da, außer dem Schmerz und der Dunkelheit und du bist ganz allein.
 
@@ -1078,7 +1078,7 @@ Dann verblasst das Bild und die Dunkelheit verwandelt sich in goldene Wellen, di
 
 Schließlich ist dein ganzes Vermögen weg und Jalippa geht damit weg. Du liegst allein gelassen da, voller Schmerzen, in der Dunkelheit und wartest auf den Tod.
 
-Als die Agonie ihren Höhepunkt erreicht, kommt endlich dein Ende: dein Körper wurde von dem Wesen in dir konsumiert, das Wesen, das du nun wirst, ein Wesen aus lebender Fäule, zufällig gesät vom Eisenwind. 
+Als die Agonie ihren Höhepunkt erreicht, kommt endlich dein Ende: dein Körper wurde von dem Wesen in dir konsumiert, das Wesen, das du nun wirst, ein Wesen aus lebender Fäule, zufällig gesät vom Eisenwind.
 
 Als es schlüpft, hast du keine Stimme mehr, um zu schreien.
 

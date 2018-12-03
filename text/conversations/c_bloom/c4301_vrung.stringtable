@@ -11,29 +11,29 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Dieser junge Mann mit scharfen Gesichtszügen erinnert dich an einen großen Nager, eher geneigt, zu huschen und zu schleichen als zu rennen oder zu laufen. Schatten spielen auf seinen Gesicht, verzerren seine Züge, und du bist nicht in der Lage, ein klares Bild seines Gesichts zu gewinnen. Doch selbst so – oder vielleicht gerade deswegen – scheint er eine bemerkenswerte Ähnlichkeit mit der jungen Frau neben ihm zu haben. Ihre Gesichter wechseln in fast perfekter Zeit.</DefaultText>
+      <DefaultText>Dieser junge Mann mit scharfen Gesichtszügen erinnert dich an einen großen Nager, eher geneigt, zu huschen und zu schleichen als zu rennen oder zu laufen. Schatten spielen auf seinem Gesicht, verzerren seine Züge, und du bist nicht in der Lage, ein klares Bild seines Gesichts zu gewinnen. Doch selbst so – oder vielleicht gerade deswegen – scheint er eine bemerkenswerte Ähnlichkeit mit der jungen Frau neben ihm zu haben. Ihre Gesichter wechseln in fast perfekter Zeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Als du dich näherst, schnüffelt er laut und geifert verschleimte Spucke auf deinen Weg. Er wischt sich den Mund mit dem Handrücken ab, und obwohl du sein Gesicht nicht sehen kannst, lässt sein Tonfall ziemlich deutlich den Spott darin erkennen. "Was willst du, du Lackaffe?"
+      <DefaultText>Als du dich näherst, schnüffelt er laut und geifert verschleimte Spucke auf deinen Weg. Er wischt sich den Mund mit dem Handrücken ab, und obwohl du sein Gesicht nicht sehen kannst, lässt sein Tonfall ziemlich deutlich den Spott darin erkennen. „Was willst du, du Lackaffe?“
 
 Seine Stimme hallt auf schaurige Weise wider, mit einer leichten Verzögerung zwischen der Bewegung seiner Lippen und dem Geräusch, das deine Ohren erreicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wenn ich erfahre, dass du Qianne wieder belästigst, dann werde ich dir die Augen aus dem Kopf reißen und sie als Halskette tragen. Verstanden?"</DefaultText>
+      <DefaultText>„Wenn ich erfahre, dass du Qianne wieder belästigst, dann werde ich dir die Augen aus dem Kopf reißen und sie als Halskette tragen. Verstanden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Er macht einen Schritt zurück und beäugt dich von oben bis unten. "In Ordnung. Gut, verstanden. Ich werde sie in Ruhe lassen, versprochen."</DefaultText>
+      <DefaultText>Er macht einen Schritt zurück und beäugt dich von oben bis unten. „In Ordnung. Gut, verstanden. Ich werde sie in Ruhe lassen, versprochen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich habe gehört, dass deine Freundin hier mal anders war. Was hast du getan, um sie zu verändern?"</DefaultText>
+      <DefaultText>„Ich habe gehört, dass deine Freundin hier mal anders war. Was hast du getan, um sie zu verändern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@ Seine Stimme hallt auf schaurige Weise wider, mit einer leichten Verzögerung zw
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Du berührst den Ring und konzentrierst dich auf Vrung. Du spürst seine Gedanken, ein Nest aus Wut und Neid. Als du sie berührst, hast du das Gefühl, deine Hand in einen Sack voller sich windender, beißender Insekten zu stecken. 
+      <DefaultText>Du berührst den Ring und konzentrierst dich auf Vrung. Du spürst seine Gedanken, ein Nest aus Wut und Neid. Als du sie berührst, hast du das Gefühl, deine Hand in einen Sack voller sich windender, beißender Insekten zu stecken.
 
 Du spürst eine starke Verbindung zwischen ihm und Delny, wie ein Schraubstock, der um den Geist des Mädchens gespannt ist.</DefaultText>
       <FemaleText />
@@ -60,14 +60,14 @@ Du spürst eine starke Verbindung zwischen ihm und Delny, wie ein Schraubstock, 
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Was, wenn ich dir [Global: c4301_VrungQiannePayment] Shin gäbe, damit du Qianne in Ruhe lässt?"
+      <DefaultText>„Was, wenn ich dir [Global: c4301_VrungQiannePayment] Shin gäbe, damit du Qianne in Ruhe lässt?“
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Er lacht und seine Missachtung wird mit jedem harschen Ton deutlich. "Ich werde dein Geld nehmen. Ich werde sie in Ruhe lassen. Zumindest vorerst."
+      <DefaultText>Er lacht und seine Missachtung wird mit jedem harschen Ton deutlich. „Ich werde dein Geld nehmen. Ich werde sie in Ruhe lassen. Zumindest vorerst.“
 
 Er wendet sich ab und lässt dich stehen.
 
@@ -76,27 +76,27 @@ Er wendet sich ab und lässt dich stehen.
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Er ist weg! Er ist nicht mehr in meinem Kopf, dieses parasitäre Flüstern!" Dann blickt sie auf ihn, am Boden liegend. "Was geschieht aber, wenn er aufwacht? Er wird mich zurückfordern, oder? Was soll ich tun?"</DefaultText>
+      <DefaultText>„Er ist weg! Er ist nicht mehr in meinem Kopf, dieses parasitäre Flüstern!“ Dann blickt sie auf ihn, am Boden liegend. „Was geschieht aber, wenn er aufwacht? Er wird mich zurückfordern, oder? Was soll ich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Du musst nichts tun. Ich werde mich darum kümmern." Töte ihn.</DefaultText>
+      <DefaultText>„Du musst nichts tun. Ich werde mich darum kümmern.“ Töte ihn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Warum drehst du den Spieß nicht einfach um und brennst ihm seine psychischen Kräfte heraus? Überlädst sie oder sowas?"</DefaultText>
+      <DefaultText>„Warum drehst du den Spieß nicht einfach um und brennst ihm seine psychischen Kräfte heraus? Überlädst sie oder sowas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich werde mit ihm reden? Ich werde ihm nichts antun. Zumindest nicht körperlich. Ich will ihm aber Angst einjagen."</DefaultText>
+      <DefaultText>„Ich werde mit ihm reden? Ich werde ihm nichts antun. Zumindest nicht körperlich. Ich will ihm aber Angst einjagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Als Vrung aufwacht, liegt er auf dem Boden und du kniest neben ihm. Mit deinem Finger vor seinem Gesicht sprichst du ruhig, jedoch dringlich über sein Leben, seine Gesundheit und jedes überlebende Mitglied seiner Familie. Du bringst ihn dazu, zu schaudern und zu zittern. Er stammelt: "Ich schwöre, diesen Ort zu verlassen, niemals zurückzukehren und niemand mehr derart in Schwierigkeiten zu bringen." Als du ihn aufstehen lässt, flieht er, als versuche er, eine Sternschuppe einzuholen.
+      <DefaultText>Als Vrung aufwacht, liegt er auf dem Boden und du kniest neben ihm. Mit deinem Finger vor seinem Gesicht sprichst du ruhig, jedoch dringlich über sein Leben, seine Gesundheit und jedes überlebende Mitglied seiner Familie. Du bringst ihn dazu, zu schaudern und zu zittern. Er stammelt: „Ich schwöre, diesen Ort zu verlassen, niemals zurückzukehren und niemand mehr derart in Schwierigkeiten zu bringen.“ Als du ihn aufstehen lässt, flieht er, als versuche er, eine Sternschnuppe einzuholen.
 
 Delny lächelt.</DefaultText>
       <FemaleText />
@@ -115,51 +115,51 @@ Delny sieht zu, wie er geht, und Zufriedenheit macht sich in ihrem Gesicht breit
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Lebwohl."</DefaultText>
+      <DefaultText>„Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Ich war nie wieder in ihrer Nähe, versprochen!"</DefaultText>
+      <DefaultText>„Ich war nie wieder in ihrer Nähe, versprochen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Vrung lächelt, als du dich näherst. "Bist du gekommen, um eine weitere Einzahlung zu machen? Ich kann immer Shin gebrauchen."</DefaultText>
+      <DefaultText>Vrung lächelt, als du dich näherst. „Bist du gekommen, um eine weitere Einzahlung zu machen? Ich kann immer Shin gebrauchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Er lacht höhnisch. Die Frau an seiner Seite steigt einen Moment später mit ein.
 
-"Klar, Boss. Ich werde sie jetzt in Ruhe lassen." Sein hämisches Grinsen wandelt sich zu einem finsteren Blick. "Denk aber daran, dass du nicht ewig auf sie aufpassen kannst."</DefaultText>
+„Klar, Boss. Ich werde sie jetzt in Ruhe lassen.“ Sein hämisches Grinsen wandelt sich zu einem finsteren Blick. „Denk aber daran, dass du nicht ewig auf sie aufpassen kannst.“</DefaultText>
       <FemaleText>Er lacht höhnisch. Die Frau an seiner Seite steigt einen Moment später mit ein.
 
-"Klar, Chefin. Ich werde sie jetzt in Ruhe lassen." Sein hämisches Grinsen wandelt sich zu einem finsteren Blick. "Denk aber daran, dass du nicht ewig auf sie aufpassen kannst."</FemaleText>
+„Klar, Chefin. Ich werde sie jetzt in Ruhe lassen.“ Sein hämisches Grinsen wandelt sich zu einem finsteren Blick. „Denk aber daran, dass du nicht ewig auf sie aufpassen kannst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Was? Warum verfolgst du mich so?"</DefaultText>
+      <DefaultText>„Was? Warum verfolgst du mich so?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Seid ihr das Paar, das Qianne belästigt hat?"</DefaultText>
+      <DefaultText>„Seid ihr das Paar, das Qianne belästigt hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Er lacht. "Was, hat sie sich darüber beschwert, dass wir zu gemein seien? Zu angsteinflößend? Sie wird es schon verkraften, andernfalls werden wir jemand anderes regelmäßiger besuchen."</DefaultText>
+      <DefaultText>Er lacht. „Was, hat sie sich darüber beschwert, dass wir zu gemein seien? Zu angsteinflößend? Sie wird es schon verkraften, andernfalls werden wir jemand anderes regelmäßiger besuchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Wer ist das Mädchen, das dich begleitet?"</DefaultText>
+      <DefaultText>„Wer ist das Mädchen, das dich begleitet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Sie? Sie ist niemand. *Ich* bin Vrung."</DefaultText>
+      <DefaultText>„Sie? Sie ist niemand. *Ich* bin Vrung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -169,7 +169,7 @@ Delny sieht zu, wie er geht, und Zufriedenheit macht sich in ihrem Gesicht breit
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Er sieht dich an und Verdacht zeichnet sich in seinem Blick ab. "Was tust du da?", zischt er.
+      <DefaultText>Er sieht dich an und Verdacht zeichnet sich in seinem Blick ab. „Was tust du da?“, zischt er.
 
 Du hast jedoch die Risse in seinem mentalen Schild entdeckt und stellst dir vor, wie du sie auseinanderreißt und zerbrichst. Er erkennt zu spät, was du tust, und sein Widerstand ist schwach – vor allem im Vergleich zur Macht, die du aufbringen kannst.
 
@@ -188,7 +188,7 @@ Er versteift sich und fällt nach hinten, krümmt sich und verstummt. Die Schatt
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Warum verändert sich das Gesicht des Mädchens ständig, wenn du sprichst?"</DefaultText>
+      <DefaultText>„Warum verändert sich das Gesicht des Mädchens ständig, wenn du sprichst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -198,17 +198,17 @@ Er versteift sich und fällt nach hinten, krümmt sich und verstummt. Die Schatt
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Ich wollte wissen, wer das Mädchen ist, das dich begleitet."</DefaultText>
+      <DefaultText>„Ich wollte wissen, wer das Mädchen ist, das dich begleitet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Ich möchte etwas über das Mädchen erfahren, das dich begleitet. Erzähl mir von ihr."</DefaultText>
+      <DefaultText>„Ich möchte etwas über das Mädchen erfahren, das dich begleitet. Erzähl mir von ihr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Warum fragst du immer wieder nach *ihr*? Delny gehört *mir* und sie wird mein bleiben, bis ich anders entscheide! *Ich* bin derjenige, der interessant ist! *Ich* bin derjenige, für den du dich interessieren solltest!"</DefaultText>
+      <DefaultText>„Warum fragst du immer wieder nach *ihr*? Delny gehört *mir* und sie wird mein bleiben, bis ich anders entscheide! *Ich* bin derjenige, der interessant ist! *Ich* bin derjenige, für den du dich interessieren solltest!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,12 +230,12 @@ Mit einer offensichtlichen Willensanstrengung bringt Vrung sich – und sie – 
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Ich sagte, sie ist niemand, über den du dir Sorgen machen musst. Sie ist mein Schatten und meine verborgene Klinge und du solltest dafür sorgen, dass ich dich nicht mit ihr erdolche."</DefaultText>
+      <DefaultText>„Ich sagte, sie ist niemand, über den du dir Sorgen machen musst. Sie ist mein Schatten und meine verborgene Klinge und du solltest dafür sorgen, dass ich dich nicht mit ihr erdolche.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ich sagte, sie ist niemand, über den du dir Sorgen machen musst. Sie ist *niemand*. Lass sie in Ruhe." Die Schatten auf ihrem Gesicht verdichten sich und ziehen sich vor deinen Augen zusammen, sich wie Schlangen aus Rauch windend.</DefaultText>
+      <DefaultText>„Ich sagte, sie ist niemand, über den du dir Sorgen machen musst. Sie ist *niemand*. Lass sie in Ruhe.“ Die Schatten auf ihrem Gesicht verdichten sich und ziehen sich vor deinen Augen zusammen, sich wie Schlangen aus Rauch windend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -245,29 +245,29 @@ Mit einer offensichtlichen Willensanstrengung bringt Vrung sich – und sie – 
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Wenn du sie nicht in Ruhe lässt, werde ich dir zeigen, was Leiden wirklich bedeutet."</DefaultText>
+      <DefaultText>„Wenn du sie nicht in Ruhe lässt, werde ich dir zeigen, was Leiden wirklich bedeutet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Der junge Mann öffnet den Mund für eine sarkastische Erwiderung, erkennt jedoch, dass du es möglicherweise ernst meinst. Er nimmt die Hände beschwichtigend nach oben. "Also gut. In Ordnung. Einen Moment."
+      <DefaultText>Der junge Mann öffnet den Mund für eine sarkastische Erwiderung, erkennt jedoch, dass du es möglicherweise ernst meinst. Er nimmt die Hände beschwichtigend nach oben. „Also gut. In Ordnung. Einen Moment.“
 
 Er konzentriert sich … oder konzentriert sich eher *nicht*, und die Schatten fließen von seinem Gesicht und seinem Körper. Er ist eine viel schlankere Person als man annehmen würde, nahezu mager, und er scheint nicht allzu gefährlich oder bedrohlich zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Hast du auf der Heldenschule gelernt, so zu reden? Vielleicht hast du mich nicht gehört, als ich meinte, sie gehöre *mir*."</DefaultText>
+      <DefaultText>„Hast du auf der Heldenschule gelernt, so zu reden? Vielleicht hast du mich nicht gehört, als ich meinte, sie gehöre *mir*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Eigentlich möchte ich dich etwas anderes fragen."</DefaultText>
+      <DefaultText>„Eigentlich möchte ich dich etwas anderes fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Er kichert. "Natürlich hast du das. Leute wie du hören *immer* zu."</DefaultText>
+      <DefaultText>Er kichert. „Natürlich hast du das. Leute wie du hören *immer* zu.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,7 +302,7 @@ Er konzentriert sich … oder konzentriert sich eher *nicht*, und die Schatten 
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Sie zittert und zuckt noch eine Weile. Ihre Fersen trommeln auf den Boden, ihre Hände schlagen eine ungleichmäßiges Trommeln, als sie mit den Armen rudert und sie verdreht. Zuletzt lässt der Krampf jedoch nach und sie öffnet ihre blutunterlaufenen Augen.</DefaultText>
+      <DefaultText>Sie zittert und zuckt noch eine Weile. Ihre Fersen trommeln auf den Boden, ihre Hände schlagen ein ungleichmäßiges Trommeln, als sie mit den Armen rudert und sie verdreht. Zuletzt lässt der Krampf jedoch nach und sie öffnet ihre blutunterlaufenen Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,12 +314,12 @@ Er konzentriert sich … oder konzentriert sich eher *nicht*, und die Schatten 
       <ID>70</ID>
       <DefaultText>Sie reißt die Augen vor blankem Entsetzen auf und sucht nach einem Schutz vor den Albträumen, die sich in ihrem Kopf zu wiederholen scheinen. Dann erblickt sie dich und sie beginnt umgehend, sich zu entspannen. Ihre Muskeln entkrampfen nacheinander und sie erholt sich von dem Krampf.
 
-"Den Göttern sei Dank bist du nicht Vrung", flüstert sie.</DefaultText>
+„Den Göttern sei Dank bist du nicht Vrung“, flüstert sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Sie keucht. "Er ist weg! Es ist auch nicht mehr in meinem Kopf!" Und dann legt sich Besorgnis über ihr Gesicht. "W-wo sind denn alle hin? Es ist jetzt so *ruhig* in meinem Kopf ..."</DefaultText>
+      <DefaultText>Sie keucht. „Er ist weg! Es ist auch nicht mehr in meinem Kopf!“ Und dann legt sich Besorgnis über ihr Gesicht. „W-wo sind denn alle hin? Es ist jetzt so *ruhig* in meinem Kopf …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -329,12 +329,12 @@ Er konzentriert sich … oder konzentriert sich eher *nicht*, und die Schatten 
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Er ist … er ist wirklich weg. Ich spüre ihn nicht mehr in meinem Kopf. Du hast es geschafft ... Fahat sei gepriesen, du hast es geschafft!"</DefaultText>
+      <DefaultText>„Er ist … er ist wirklich weg. Ich spüre ihn nicht mehr in meinem Kopf. Du hast es geschafft … Fahat sei gepriesen, du hast es geschafft!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Mir gefällt dein Ton nicht." Erdrossle ihn.
+      <DefaultText>„Mir gefällt dein Ton nicht.“ Erdrossle ihn.
 
 {CRIT}</DefaultText>
       <FemaleText />
@@ -415,37 +415,37 @@ Du prüfst ihren Puls, doch das Mädchen ist tot.</DefaultText>
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Was tust du hier?"</DefaultText>
+      <DefaultText>„Was tust du hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Was könnt Ihr mir über diesen Ort erzählen?"</DefaultText>
+      <DefaultText>„Was könnt Ihr mir über diesen Ort erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Er sieht dich ungläubig an. Mit vor Sarkasmus triefender Stimme antwortet er: "Wir genießen die frische Luft. Genießen die Atmosphäre. Wir kosten unser Leben voll aus." Er schaut zur jungen Frau neben ihm und sie beginnt zu zittern.</DefaultText>
+      <DefaultText>Er sieht dich ungläubig an. Mit vor Sarkasmus triefender Stimme antwortet er: „Wir genießen die frische Luft. Genießen die Atmosphäre. Wir kosten unser Leben voll aus.“ Er schaut zur jungen Frau neben ihm und sie beginnt zu zittern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Es ist jeden Tag eine Schaustellung. Lass dich nicht von dem Aussehen beeindrucken – in Klein-Nihliesh dreht sich alles ums Lachen. Vielleicht könntest du die Flüssigkeit aus Gar-kotos Tank ablassen. Das ist ein Scherz, der niemals außer Mode gerät. Mach es, wenn die Wachen zuschauen."</DefaultText>
+      <DefaultText>„Es ist jeden Tag eine Schaustellung. Lass dich nicht von dem Aussehen beeindrucken – in Klein-Nihliesh dreht sich alles ums Lachen. Vielleicht könntest du die Flüssigkeit aus Gar-kotos Tank ablassen. Das ist ein Scherz, der niemals außer Mode gerät. Mach es, wenn die Wachen zuschauen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Kommt nicht wieder."</DefaultText>
+      <DefaultText>„Kommt nicht wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Er richtet sich auf und scheint *aufzuragen*. "Ich bin die Schatten. Ich bin der Schrecken der Nacht und der kriechende Tod. Ich bin das Aufblitzen der Klinge. Ich. Bin. VRUNG." Er wirft die Arme auf dramatische Weise weit auseinander. Einen Augenblick später macht es ihm seine Begleiterin nach, wobei die Asynchronität die Wirkung auf gewisse Weise verdirbt. Er zischt sie an und die aufragende Präsenz schwindet.</DefaultText>
+      <DefaultText>Er richtet sich auf und scheint *aufzuragen*. „Ich bin die Schatten. Ich bin der Schrecken der Nacht und der kriechende Tod. Ich bin das Aufblitzen der Klinge. Ich. Bin. VRUNG.“ Er wirft die Arme auf dramatische Weise weit auseinander. Einen Augenblick später macht es ihm seine Begleiterin nach, wobei die Asynchronität die Wirkung auf gewisse Weise verdirbt. Er zischt sie an und die aufragende Präsenz schwindet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -455,17 +455,17 @@ Du prüfst ihren Puls, doch das Mädchen ist tot.</DefaultText>
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Friss Skist, Mensch."</DefaultText>
+      <DefaultText>„Friss Skist, Mensch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Was meinst du mit 'dich zurückfordern'?"</DefaultText>
+      <DefaultText>„Was meinst du mit 'dich zurückfordern'?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Wenn er mich einmal gefangen hat, kennt er die Wege in meine Gedanken. Er versprach einst, er würde eine Hintertür schaffen und er könnte mich jederzeit mitnehmen, wenn ihm danach sei, auch wenn ich rennen würde."</DefaultText>
+      <DefaultText>„Wenn er mich einmal gefangen hat, kennt er die Wege in meine Gedanken. Er versprach einst, er würde eine Hintertür schaffen und er könnte mich jederzeit mitnehmen, wenn ihm danach sei, auch wenn ich rennen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -485,17 +485,17 @@ Du prüfst ihren Puls, doch das Mädchen ist tot.</DefaultText>
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Die psychische Verbindung, die du mit Delny hast … entferne sie."</DefaultText>
+      <DefaultText>„Die psychische Verbindung, die du mit Delny hast … entferne sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Ich sage es dir nochmal – entferne die psychische Verbindung, die du mit Delny hast."</DefaultText>
+      <DefaultText>„Ich sage es dir nochmal – entferne die psychische Verbindung, die du mit Delny hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Er lacht, eine schauernde, trübe Freude, die klingt wie brechendes Eis oder klirrendes Glas. "Sie gehört *mir*. Sie wird mir gehorchen, nicht dir."</DefaultText>
+      <DefaultText>Er lacht, eine schauernde, trübe Freude, die klingt wie brechendes Eis oder klirrendes Glas. „Sie gehört *mir*. Sie wird mir gehorchen, nicht dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -510,7 +510,7 @@ Du prüfst ihren Puls, doch das Mädchen ist tot.</DefaultText>
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

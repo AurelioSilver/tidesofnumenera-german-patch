@@ -37,14 +37,14 @@ Die Fleck dreht sich mit funkelnden Augen zu dir um, und du glaubst, ein leichte
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Du wartest, bis die Fleck einen Augenblick lang unaufmerksam ist. Dann greifst du nach dem Lebensbildbetracher und ...
+      <DefaultText>Du wartest, bis die Fleck einen Augenblick lang unaufmerksam ist. Dann greifst du nach dem Lebensbildbetracher und …
 
-"Wolltest du ihn womöglich zurückholen, Verstoßener?" Die Fleck taucht mit einem hämischen Lächeln neben deinem Ellbogen auf. "Dieses Gerät wurde als Geschenk dargebracht, also kann es nur gegen ein anderes Geschenk entwendet werden." 
+„Wolltest du ihn womöglich zurückholen, Verstoßener?“ Die Fleck taucht mit einem hämischen Lächeln neben deinem Ellbogen auf. „Dieses Gerät wurde als Geschenk dargebracht, also kann es nur gegen ein anderes Geschenk entwendet werden.“ 
 
 Noch während sie spricht bemerkst du, wie wuchtige Tentakeln aus Flor-Fleisch aus dem Boden und einige kleine aus dem Stein hervordringen und den Lebensbildbetrachter fest umschlingen.</DefaultText>
-      <FemaleText>Du wartest, bis die Fleck einen Augenblick lang unaufmerksam ist. Dann greifst du nach dem Lebensbildbetracher und ...
+      <FemaleText>Du wartest, bis die Fleck einen Augenblick lang unaufmerksam ist. Dann greifst du nach dem Lebensbildbetracher und …
 
-"Wolltest du ihn womöglich zurückholen, Verstoßene?" Die Fleck taucht mit einem hämischen Lächeln neben deinem Ellbogen auf. "Dieses Gerät wurde als Geschenk dargebracht, also kann es nur gegen ein anderes Geschenk entwendet werden." 
+„Wolltest du ihn womöglich zurückholen, Verstoßene?“ Die Fleck taucht mit einem hämischen Lächeln neben deinem Ellbogen auf. „Dieses Gerät wurde als Geschenk dargebracht, also kann es nur gegen ein anderes Geschenk entwendet werden.“ 
 
 Noch während sie spricht bemerkst du, wie wuchtige Tentakeln aus Flor-Fleisch aus dem Boden und einige Kleine aus dem Stein hervordringen und den Lebensbildbetrachter fest umschlingen.</FemaleText>
     </Entry>
@@ -73,7 +73,7 @@ Du hast den Lebensbildbetrachter, den der Wandelnde Gott zurückgelassen hat, be
     <Entry>
       <ID>11</ID>
       <DefaultText>Follow-up PQ. 11</DefaultText>
-      <FemaleText>Follow-up PQ. 11</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -99,25 +99,25 @@ Du hast den Lebensbildbetrachter, den der Wandelnde Gott zurückgelassen hat, be
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Eine Weile lang hältst du nach besonderen Dingen auf dem Haufen Ausschau, aber du kannst nichts entdecken. Plötzlich taucht die Fleck neben deinem Ellbogen auf. "Die Opfergabe deines alten Herren ist dort drüben", flüstert sie, und zeigt auf eine Stelle am unteren Ende des Haufens.</DefaultText>
+      <DefaultText>Eine Weile lang hältst du nach besonderen Dingen auf dem Haufen Ausschau, aber du kannst nichts entdecken. Plötzlich taucht die Fleck neben deinem Ellbogen auf. „Die Opfergabe deines alten Herren ist dort drüben“, flüstert sie, und zeigt auf eine Stelle am unteren Ende des Haufens.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Willst du es zurückhaben, Verstoßener? Dieses Gerät war ein Geschenk, also braucht es im Gegenzug ein anderes Geschenk." Noch während sie spricht bemerkst du, wie wuchtige Tentakeln aus Flor-Fleisch aus dem Boden und einige kleine aus dem Stein hervordringen und den Lebensbildbetrachter fest umschlingen.</DefaultText>
-      <FemaleText>"Willst du es zurückhaben, Verstoßene? Dieses Gerät war ein Geschenk, also braucht es im Gegenzug ein anderes Geschenk." Noch während sie spricht bemerkst du, wie wuchtige Tentakeln aus Flor-Fleisch aus dem Boden und einige kleine aus dem Stein hervordringen und den Lebensbildbetrachter fest umschlingen.</FemaleText>
+      <DefaultText>„Willst du es zurückhaben, Verstoßener? Dieses Gerät war ein Geschenk, also braucht es im Gegenzug ein anderes Geschenk.“ Noch während sie spricht bemerkst du, wie wuchtige Tentakeln aus Flor-Fleisch aus dem Boden und einige kleine aus dem Stein hervordringen und den Lebensbildbetrachter fest umschlingen.</DefaultText>
+      <FemaleText>„Willst du es zurückhaben, Verstoßene? Dieses Gerät war ein Geschenk, also braucht es im Gegenzug ein anderes Geschenk.“ Noch während sie spricht bemerkst du, wie wuchtige Tentakeln aus Flor-Fleisch aus dem Boden und einige kleine aus dem Stein hervordringen und den Lebensbildbetrachter fest umschlingen.</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Die Gegenstände auf der Platte sind ein bizarres Sammelsurium aus Trophäen, die die Besucher des Schreins hier hinterlassen haben. Viele der Opfergaben scheinen "Nahrung" im entferntesten Sinne des Wortes zu sein ... kandierte Augäpfel, amputierte Finger und Klauen auf kleinen Küchlein, sowie Pudding aus allerlei unidentifizierbaren Organen – vermutlich alles Trophäen besiegter Feinde. 
+      <DefaultText>Die Gegenstände auf der Platte sind ein bizarres Sammelsurium aus Trophäen, die die Besucher des Schreins hier hinterlassen haben. Viele der Opfergaben scheinen „Nahrung“ im entferntesten Sinne des Wortes zu sein … kandierte Augäpfel, amputierte Finger und Klauen auf kleinen Küchlein, sowie Pudding aus allerlei unidentifizierbaren Organen – vermutlich alles Trophäen besiegter Feinde. 
 
-Du kannst außerdem zerbrochene Waffen, abgetrennte Körperteile und eine Auswahl an silbernen Gegenständen – kleine Töpfe, Besteck, Knöpfe und andere Metallstücke - sehen.</DefaultText>
+Du kannst außerdem zerbrochene Waffen, abgetrennte Körperteile und eine Auswahl an silbernen Gegenständen – kleine Töpfe, Besteck, Knöpfe und andere Metallstücke – sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Addend. 25</DefaultText>
-      <FemaleText>Addend. 25</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -131,7 +131,7 @@ Du kannst außerdem zerbrochene Waffen, abgetrennte Körperteile und eine Auswah
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Die Gegenstände auf der Tafel setzen sich aus fragwürdiger "Nahrung", zerbrochenen Waffen, abgetrennten Körperteilen und verschiedenen Schmuckstücken aus Silber zusammen.</DefaultText>
+      <DefaultText>Die Gegenstände auf der Tafel setzen sich aus fragwürdiger „Nahrung“, zerbrochenen Waffen, abgetrennten Körperteilen und verschiedenen Schmuckstücken aus Silber zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,9 +141,9 @@ Du kannst außerdem zerbrochene Waffen, abgetrennte Körperteile und eine Auswah
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Du greifst nach dem metallischen Gerät und wirfst der Fleck instinktiv einen Blick zu. Sie nickt. "Nimm es, Memovira. Alles hier gehört dir."
+      <DefaultText>Du greifst nach dem metallischen Gerät und wirfst der Fleck instinktiv einen Blick zu. Sie nickt. „Nimm es, Memovira. Alles hier gehört dir.“
 
-Du hebst es hoch und siehst es dir genauer an ...</DefaultText>
+Du hebst es hoch und siehst es dir genauer an …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,9 +153,9 @@ Du hebst es hoch und siehst es dir genauer an ...</DefaultText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Als du die Gegenstände auf der Tafel zu untersuchen beginnst, taucht die Fleck neben deinem Ellbogen auf. Sie zeigt auf ein metallisches Gerät, das halb unter dem Haufen vergraben liegt. "Danach suchst du doch, oder etwa nicht? Die Opfergabe, die dein alter Herr hiergelassen hat?" 
+      <DefaultText>Als du die Gegenstände auf der Tafel zu untersuchen beginnst, taucht die Fleck neben deinem Ellbogen auf. Sie zeigt auf ein metallisches Gerät, das halb unter dem Haufen vergraben liegt. „Danach suchst du doch, oder etwa nicht? Die Opfergabe, die dein alter Herr hiergelassen hat?“ 
 
-Sie wirft dir einen kritischen Blick zu. "Etwas an dir erinnert mich an ihn ... und an *Chila* ... das silberne Leuchten, das ich manchmal in meinen Augenwinkeln sehe. Du hast es auch an dir, wenn auch nicht ganz so ausgeprägt wie sie. Noch nicht."</DefaultText>
+Sie wirft dir einen kritischen Blick zu. „Etwas an dir erinnert mich an ihn … und an *Chila* … das silberne Leuchten, das ich manchmal in meinen Augenwinkeln sehe. Du hast es auch an dir, wenn auch nicht ganz so ausgeprägt wie sie. Noch nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,26 +170,26 @@ Sie wirft dir einen kritischen Blick zu. "Etwas an dir erinnert mich an ihn ... 
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Da die Fleck verschwunden ist und die Kultisten sich nicht für dich zu interessieren scheinen, schaust du dir die Opfergaben in aller Ruhe an. Die meisten von ihnen sind vollkommen wertlos. Eines aber sticht aus der Menge hervor, oder zumindest seine scharfe, metallene Kante. Seine ungewöhnliche Form kommt dir sofort vertraut vor. Du bist dir sicher, dass dieser Gegenstand dem Wandelnden Gott gehört hat ... und dass es sich um einen Lebensbildbetrachter handeln muss.</DefaultText>
+      <DefaultText>Da die Fleck verschwunden ist und die Kultisten sich nicht für dich zu interessieren scheinen, schaust du dir die Opfergaben in aller Ruhe an. Die meisten von ihnen sind vollkommen wertlos. Eines aber sticht aus der Menge hervor, oder zumindest seine scharfe, metallene Kante. Seine ungewöhnliche Form kommt dir sofort vertraut vor. Du bist dir sicher, dass dieser Gegenstand dem Wandelnden Gott gehört hat … und dass es sich um einen Lebensbildbetrachter handeln muss.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Sie hat sich entschieden und nickt mit dem Kopf. "Nimm das Gerät - es gehört dir. Mir ist es lieber, du hast es, als dass es hier irgendwo vergraben und vergessen ist." 
+      <DefaultText>Sie hat sich entschieden und nickt mit dem Kopf. „Nimm das Gerät – es gehört dir. Mir ist es lieber, du hast es, als dass es hier irgendwo vergraben und vergessen ist.“ 
 
 Sie zieht es aus dem Haufen mit den Opfergaben und gibt es dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Dir fällt es schwer, das Gerät mit seiner zylindrischen Form aus azurblauem Stahl und seinen gekrümmten, scharfen Vorsprüngen an allen Seiten zu halten. Es fühlt sich "bekannt" an, wie ein Familienerbstück, dass du nie selbst in den Händen gehalten, aber schon immer in deinem Verstand erträumt, hast. Irgendwie weißt du einfach, dass es ein Lebensbildbetrachter ist.</DefaultText>
+      <DefaultText>Dir fällt es schwer, das Gerät mit seiner zylindrischen Form aus azurblauem Stahl und seinen gekrümmten, scharfen Vorsprüngen an allen Seiten zu halten. Es fühlt sich „bekannt“ an, wie ein Familienerbstück, dass du nie selbst in den Händen gehalten, aber schon immer in deinem Verstand erträumt, hast. Irgendwie weißt du einfach, dass es ein Lebensbildbetrachter ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Als du das Skalpell auf die Platte legst, rankt sich eine Horde winziger Flor-Tentakel duch die vielen Opfergaben hindurch aus seiner Oberfläche. Sie wickeln sich wieder und wieder um die Klinge, werden dabei größer und dicker, bis das Fleisch sie schließlich vollkommen umschlungen hat. In Sekundenschnelle ist das Skalpell verschwunden. Du kannst ein wildes Schnattern in deinen Ohren vernehmen und kannst vage spüren, dass die Flor zufrieden mit dir ist.
+      <DefaultText>Als du das Skalpell auf die Platte legst, rankt sich eine Horde winziger Flor-Tentakel durch die vielen Opfergaben hindurch aus seiner Oberfläche. Sie wickeln sich wieder und wieder um die Klinge, werden dabei größer und dicker, bis das Fleisch sie schließlich vollkommen umschlungen hat. In Sekundenschnelle ist das Skalpell verschwunden. Du kannst ein wildes Schnattern in deinen Ohren vernehmen und kannst vage spüren, dass die Flor zufrieden mit dir ist.
 
-Die Tentakel um den Lebensbildbetrachter herum lösen sich, sodass du es von der Tafel nehmen kannst ...</DefaultText>
+Die Tentakel um den Lebensbildbetrachter herum lösen sich, sodass du es von der Tafel nehmen kannst …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -199,7 +199,7 @@ Die Tentakel um den Lebensbildbetrachter herum lösen sich, sodass du es von der
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Nur ein Ende des Geräts ragt aus den anderen Opfergaben empor, und seine scharfen Kanten leuchten azurblau im flackernden Licht des Schreins. Du bist dir sicher, dass dieser Gegenstand dem Wandelnden Gott gehört hat ... und dass es sich um einen Lebensbildbetrachter handeln muss.</DefaultText>
+      <DefaultText>Nur ein Ende des Geräts ragt aus den anderen Opfergaben empor, und seine scharfen Kanten leuchten azurblau im flackernden Licht des Schreins. Du bist dir sicher, dass dieser Gegenstand dem Wandelnden Gott gehört hat … und dass es sich um einen Lebensbildbetrachter handeln muss.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -209,14 +209,14 @@ Die Tentakel um den Lebensbildbetrachter herum lösen sich, sodass du es von der
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Dank deines scharfen Blicks kannst du erkennen, wie winzige Flor-Tentakel auf der Oberfläche der Tafel entlangkriechen und sich an die Opfergaben heften. Sie winden sich auf ihnen, als würden sie von ihren Zehren, aber keine der Opfergaben trägt sichtbare Spuren der Abnutzung.</DefaultText>
+      <DefaultText>Dank deines scharfen Blicks kannst du erkennen, wie winzige Flor-Tentakel auf der Oberfläche der Tafel entlangkriechen und sich an die Opfergaben heften. Sie winden sich auf ihnen, als würden sie von ihnen zehren, aber keine der Opfergaben trägt sichtbare Spuren der Abnutzung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Die alte Frau schließt ihre Augen und lauscht der Stimme der Flor. "Eine Waffe ... eine Waffe, mit der man einen Schlund aufschneiden kann ... das ist es, was sie will. Eine transdimensionale Klinge. Je weniger davon im Umlauf sind, desto besser für sie."
+      <DefaultText>Die alte Frau schließt ihre Augen und lauscht der Stimme der Flor. „Eine Waffe … eine Waffe, mit der man einen Schlund aufschneiden kann … das ist es, was sie will. Eine transdimensionale Klinge. Je weniger davon im Umlauf sind, desto besser für sie.“
 
-Sie öffnet ihre Augen. "Biete ihr die Klinge auf dem Opfertisch an, und die Flor wird das Gerät deines alten Herrn freigeben. Ein fairer Tausch, sehr fair."</DefaultText>
+Sie öffnet ihre Augen. „Biete ihr die Klinge auf dem Opfertisch an, und die Flor wird das Gerät deines alten Herrn freigeben. Ein fairer Tausch, sehr fair.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,18 +231,18 @@ Sie öffnet ihre Augen. "Biete ihr die Klinge auf dem Opfertisch an, und die Flo
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Willst du es wiederhaben, Verstoßener?"
+      <DefaultText>„Willst du es wiederhaben, Verstoßener?“
 
-Die alte Frau wirft dir einen kritischen Blick zu. "Etwas an dir erinnert mich an ihn ... und an *Chila* ... das silberne Leuchten, das ich manchmal in meinen Augenwinkeln sehe. Du hast es auch an dir, wenn auch nicht ganz so ausgeprägt wie sie. Noch nicht."</DefaultText>
-      <FemaleText>"Willst du es wiederhaben, Verstoßene?"
+Die alte Frau wirft dir einen kritischen Blick zu. „Etwas an dir erinnert mich an ihn … und an *Chila* … das silberne Leuchten, das ich manchmal in meinen Augenwinkeln sehe. Du hast es auch an dir, wenn auch nicht ganz so ausgeprägt wie sie. Noch nicht.“</DefaultText>
+      <FemaleText>„Willst du es wiederhaben, Verstoßene?“
 
-Die alte Frau wirft dir einen kritischen Blick zu. "Etwas an dir erinnert mich an ihn ... und an *Chila* ... das silberne Leuchten, das ich manchmal in meinen Augenwinkeln sehe. Du hast es auch an dir, wenn auch nicht ganz so ausgeprägt wie sie. Noch nicht."</FemaleText>
+Die alte Frau wirft dir einen kritischen Blick zu. „Etwas an dir erinnert mich an ihn … und an *Chila* … das silberne Leuchten, das ich manchmal in meinen Augenwinkeln sehe. Du hast es auch an dir, wenn auch nicht ganz so ausgeprägt wie sie. Noch nicht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Nimm es, Memovira", flüstert die Fleck nickend. "Alles hier gehört dir."
+      <DefaultText>„Nimm es, Memovira“, flüstert die Fleck nickend. „Alles hier gehört dir.“
 
-Du hebst es von der Platte auf ...</DefaultText>
+Du hebst es von der Platte auf …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -257,35 +257,35 @@ Du hebst es von der Platte auf ...</DefaultText>
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Nimm es, Memovira", flüstert die Fleck nickend. "Alles hier gehört dir."
+      <DefaultText>„Nimm es, Memovira“, flüstert die Fleck nickend. „Alles hier gehört dir.“
 
-Du hebst es von der Platte auf ...</DefaultText>
+Du hebst es von der Platte auf …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Du untersuchst die Opfergaben sorgfältig. Die meisten von ihnen sind vollkommen wertlos. Eines aber sticht aus der Menge hervor, oder zumindest seine scharfe, metallene Kante. Seine ungewöhnliche Form kommt dir sofort vertraut vor. Du bist dir sicher, dass dieser Gegenstand dem Wandelnden Gott gehört hat ... und dass es sich um einen Lebensbildbetrachter handeln muss.</DefaultText>
+      <DefaultText>Du untersuchst die Opfergaben sorgfältig. Die meisten von ihnen sind vollkommen wertlos. Eines aber sticht aus der Menge hervor, oder zumindest seine scharfe, metallene Kante. Seine ungewöhnliche Form kommt dir sofort vertraut vor. Du bist dir sicher, dass dieser Gegenstand dem Wandelnden Gott gehört hat … und dass es sich um einen Lebensbildbetrachter handeln muss.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
       <DefaultText>Du greifst nach dem metallischen Gerät und wirfst der Fleck instinktiv einen Blick zu. Sie steht zusammengekauert und mit benebelten Augen nahe der Wand des Schreins, ihr scheint überhaupt nicht bewusst zu sein, was du tust.
 
-Du hebst das Gerät von der Platte auf ...</DefaultText>
+Du hebst das Gerät von der Platte auf …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Du wartest, bis die Fleck einen Augenblick lang unaufmerksam ist. Dann greifst du nach dem Lebensbildbetracher und ...
+      <DefaultText>Du wartest, bis die Fleck einen Augenblick lang unaufmerksam ist. Dann greifst du nach dem Lebensbildbetracher und …
 
-"Wolltest du ihn womöglich zurückholen, Verstoßener?" Die Fleck taucht neben deinem Ellbogen auf.</DefaultText>
-      <FemaleText>Du wartest, bis die Fleck einen Augenblick lang unaufmerksam ist. Dann greifst du nach dem Lebensbildbetracher und ...
+„Wolltest du ihn womöglich zurückholen, Verstoßener?“ Die Fleck taucht neben deinem Ellbogen auf.</DefaultText>
+      <FemaleText>Du wartest, bis die Fleck einen Augenblick lang unaufmerksam ist. Dann greifst du nach dem Lebensbildbetracher und …
 
-"Wolltest du ihn womöglich zurückholen, Verstoßene?" Die Fleck taucht neben deinem Ellbogen auf.</FemaleText>
+„Wolltest du ihn womöglich zurückholen, Verstoßene?“ Die Fleck taucht neben deinem Ellbogen auf.</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Die alte Frau schaut dich lang und scharfsinnig an. "Etwas an dir erinnert mich an ihn … und an *Chila* … das silberne Funkeln, das ich manchmal in meinem Augenwinkel habe. Du hast es auch, auch wenn es nicht so brillant ist wie ihres, noch nicht."</DefaultText>
+      <DefaultText>Die alte Frau schaut dich lang und scharfsinnig an. „Etwas an dir erinnert mich an ihn … und an *Chila* … das silberne Funkeln, das ich manchmal in meinem Augenwinkel habe. Du hast es auch, auch wenn es nicht so brillant ist wie ihres, noch nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -300,7 +300,7 @@ Du hebst das Gerät von der Platte auf ...</DefaultText>
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Seine ungewöhnliche Form kommt dir sofort vertraut vor. Du bist dir sicher, dass diese Opfergabe vom Wandelnden Gott stammt ... und du vermutest, dass es ein Lebensbildbetrachter ist.</DefaultText>
+      <DefaultText>Seine ungewöhnliche Form kommt dir sofort vertraut vor. Du bist dir sicher, dass diese Opfergabe vom Wandelnden Gott stammt … und du vermutest, dass es ein Lebensbildbetrachter ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -310,7 +310,7 @@ Du hebst das Gerät von der Platte auf ...</DefaultText>
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Jetzt kannst du es erkennen – die scharfe Kante eines metallischen Geräts, halb vergraben unter silbernen Schmuckstücken und dem verfaulten Arm irgendeiner Bestie. Seine ungewöhnliche Form kommt dir sofort vertraut vor. Du bist dir sicher, dass diese Opfergabe vom Wandelnden Gott stammt ... und du vermutest, dass es ein Lebensbildbetrachter ist.</DefaultText>
+      <DefaultText>Jetzt kannst du es erkennen – die scharfe Kante eines metallischen Geräts, halb vergraben unter silbernen Schmuckstücken und dem verfaulten Arm irgendeiner Bestie. Seine ungewöhnliche Form kommt dir sofort vertraut vor. Du bist dir sicher, dass diese Opfergabe vom Wandelnden Gott stammt … und du vermutest, dass es ein Lebensbildbetrachter ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

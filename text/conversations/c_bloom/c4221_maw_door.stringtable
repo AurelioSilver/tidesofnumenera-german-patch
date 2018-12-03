@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Als du an der schweren Tür ziehst, ruft eine panische, männliche Stimme zu euch. "Hallo? Ist da jemand? Ich weiß, dass ihr keine Murden seid - Ich kann ihren verfluchten Mentallärm nicht hören, und bei all den Göttern! Ihr müsst mir helfen! Um alles, was euch lieb ist, bitte öffnet diese Tür!"</DefaultText>
+      <DefaultText>Als du an der schweren Tür ziehst, ruft eine panische, männliche Stimme zu euch. „Hallo? Ist da jemand? Ich weiß, dass ihr keine Murden seid – Ich kann ihren verfluchten Mentallärm nicht hören, und bei all den Göttern! Ihr müsst mir helfen! Um alles, was euch lieb ist, bitte öffnet diese Tür!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Mit den Schlüssel, dem du vom Murdenhäuptling genommen hast, die Tür aufschließen.</DefaultText>
+      <DefaultText>Mit dem Schlüssel, den du vom Murdenhäuptling genommen hast, die Tür aufschließen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Meine Freunde nennen mich Shinwise. Bitte... Ich will nicht sterben. Öffnet die Tür!"</DefaultText>
+      <DefaultText>„Meine Freunde nennen mich Shinwise. Bitte… Ich will nicht sterben. Öffnet die Tür!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Was versucht denn, dich zu töten?"</DefaultText>
+      <DefaultText>„Was versucht denn, dich zu töten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Du rammst die Tür mit aller Kraft ... einmal, zweimal, und nochmal. Endlich hörst du, wie das Verriegelungssystem durchbricht. Du greifst die Tür, sie öffnet sich brummend und enthüllt einen abgemagerten Mann in zerfetzten Lappen, mit einer Miene aus tiefgreifender Angst und Erschütterung.
+      <DefaultText>Du rammst die Tür mit aller Kraft … einmal, zweimal, und nochmal. Endlich hörst du, wie das Verriegelungssystem durchbricht. Du greifst die Tür, sie öffnet sich brummend und enthüllt einen abgemagerten Mann in zerfetzten Lappen, mit einer Miene aus tiefgreifender Angst und Erschütterung.
 
 Hinter ihm ist der Boden mit Blut und Knochen übersät.</DefaultText>
       <FemaleText />
@@ -68,7 +68,7 @@ Hinter ihm ist der Boden mit Blut und Knochen übersät.</DefaultText>
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ich weiß nicht - Ich *weiß* nicht! Irgendwelche mit Tentakeln versehene Dinger, die an den Rändern des Zimmers hängen. Überall auf dem Boden sind Knochen und Blut. Die Murden warfen mich hier rein und verschlossen die Tür von außen. Ich denke, ich soll irgendeine Art Opfergabe sein."</DefaultText>
+      <DefaultText>„Ich weiß nicht – Ich *weiß* nicht! Irgendwelche mit Tentakeln versehene Dinger, die an den Rändern des Zimmers hängen. Überall auf dem Boden sind Knochen und Blut. Die Murden warfen mich hier rein und verschlossen die Tür von außen. Ich denke, ich soll irgendeine Art Opfergabe sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,17 +83,17 @@ Hinter ihm ist der Boden mit Blut und Knochen übersät.</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ich kann hören, wie sich etwas in den Wänden bewegt. Es kommt näher!"</DefaultText>
+      <DefaultText>„Ich kann hören, wie sich etwas in den Wänden bewegt. Es kommt näher!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ich kann euch da draußen hören! Bitte!"</DefaultText>
+      <DefaultText>„Ich kann euch da draußen hören! Bitte!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Hallo? Hallo?!"</DefaultText>
+      <DefaultText>„Hallo? Hallo?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -155,12 +155,12 @@ Hinter ihm ist der Boden mit Blut und Knochen übersät.</DefaultText>
       <ID>34</ID>
       <DefaultText>Du hörst hektisches Gescharre jenseits der Tür.
 
-"Du bist zurück! Bitte lass mich hier raus!"</DefaultText>
+„Du bist zurück! Bitte lass mich hier raus!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Bitte! Lass mich nicht hier drin!"</DefaultText>
+      <DefaultText>„Bitte! Lass mich nicht hier drin!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -190,7 +190,7 @@ Hinter ihm ist der Boden mit Blut und Knochen übersät.</DefaultText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Hilfe! Lass mich hier raus!"</DefaultText>
+      <DefaultText>„Hilfe! Lass mich hier raus!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

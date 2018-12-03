@@ -20,7 +20,7 @@ Jedes Mal, wenn du dich ihr näherst, hält sie dich mit einem statischen Feld f
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Du packst das zerlumpte Bündel aus, dass die Murde vor dir verstecken wollte. Darin findest du ein Objekt, das wie ein Ei aussieht und aus perlweißem Synth gefertigt ist. Wenn deine Hände es berühren, gibt es fröhliche Klänge von sich.  Außerdem findest du etwas, das wie ein bezaubernder Kopf auf einem Metallzylinder aussieht. Der Kopf lebt und scheint zu dösen.
+      <DefaultText>Du packst das zerlumpte Bündel aus, dass die Murde vor dir verstecken wollte. Darin findest du ein Objekt, das wie ein Ei aussieht und aus perlweißem Synth gefertigt ist. Wenn deine Hände es berühren, gibt es fröhliche Klänge von sich. Außerdem findest du etwas, das wie ein bezaubernder Kopf auf einem Metallzylinder aussieht. Der Kopf lebt und scheint zu dösen.
 
 Du nimmst beides mit.</DefaultText>
       <FemaleText />
@@ -32,7 +32,7 @@ Du nimmst beides mit.</DefaultText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Den Magmatischen Ring berührern.</DefaultText>
+      <DefaultText>Den Magmatischen Ring berühren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -47,7 +47,7 @@ Du nimmst beides mit.</DefaultText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Du legst deine Hand auf den Ring, und die Murde beginnt sofort, erbärmlich zu schreien und ihren Kopf festzuhalten. Das mentale Rauschen schallt zwischen der Murde und dem Ring hin und her und wird dadurch intensiviert. Auch für dich werden die Schmerzen schlimmer, und gerade in dem Moment, in dem du den Ring loslassen willst, stöhnt die Murde und bricht zusammen.</DefaultText>
+      <DefaultText>Du legst deine Hand auf den Ring und die Murde beginnt sofort, erbärmlich zu schreien und ihren Kopf festzuhalten. Das mentale Rauschen schallt zwischen der Murde und dem Ring hin und her und wird dadurch intensiviert. Auch für dich werden die Schmerzen schlimmer und gerade in dem Moment, in dem du den Ring loslassen willst, stöhnt die Murde und bricht zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -99,14 +99,14 @@ Die Murde kreischt siegreich.</DefaultText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Du hältst die Kreatur an den fettigen Federn ihres Nackens hoch und schlägst ihr gezielt und schnell auf den Schädel. Das mentale Rauschen hört sofort auf, und die Murde wird in deinen Händen bewusstlos. Ihr Griff um das zerlumpte Bündel, das sie zu verstecken versucht hat, löst sich.</DefaultText>
+      <DefaultText>Du hältst die Kreatur an den fettigen Federn ihres Nackens hoch und schlägst ihr gezielt und schnell auf den Schädel. Das mentale Rauschen hört sofort auf und die Murde wird in deinen Händen bewusstlos. Ihr Griff um das zerlumpte Bündel, das sie zu verstecken versucht hat, löst sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Im Gegensatz zu den anderen Murden, die du bisher getroffen hast, ist das mentale Rauschen dieses Exemplares nicht nur lästig, sondern geradezu schmerzhaft. 
+      <DefaultText>Im Gegensatz zu den anderen Murden, die du bisher getroffen hast, ist das mentale Rauschen dieses Exemplars nicht nur lästig, sondern geradezu schmerzhaft. 
 
-Es ist offensichtlich, dass sie sich in einer wilden, aussichtslosen Verfassung befindet. Ihre glasigen Augen sprechen für ihr Delirium, oder Wahnsinn. Vielleicht hat das irgendwie zu einer Verstärkung ihrer psychischen Fähigkeit geführt.</DefaultText>
+Es ist offensichtlich, dass sie sich in einer wilden, aussichtslosen Verfassung befindet. Ihre glasigen Augen sprechen für ihr Delirium oder Wahnsinn. Vielleicht hat das irgendwie zu einer Verstärkung ihrer psychischen Fähigkeit geführt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@ Es ist offensichtlich, dass sie sich in einer wilden, aussichtslosen Verfassung 
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Du legst deine Hände um ihren Hals und drückst zu. Schwächlich versucht sie, dich wegzudrücken, aber die Kreatur ist noch schwächer, als du gedacht hattest - dünn, blutig und am verhungern. Mit einem lauten Knacken brichst du der Murde das Genick, und sie baumelt leblos zwischen deinen Händen. Die plötzliche mentale Stille verwirrt dich beinahe.</DefaultText>
+      <DefaultText>Du legst deine Hände um ihren Hals und drückst zu. Schwächlich versucht sie, dich wegzudrücken, aber die Kreatur ist noch schwächer, als du gedacht hattest – dünn, blutig und am Verhungern. Mit einem lauten Knacken brichst du der Murde das Genick und sie baumelt leblos zwischen deinen Händen. Die plötzliche mentale Stille verwirrt dich beinahe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,22 +191,22 @@ Es ist offensichtlich, dass sie sich in einer wilden, aussichtslosen Verfassung 
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Wie bist du hierhergekommen?"</DefaultText>
+      <DefaultText>„Wie bist du hierhergekommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Was hast du da für ein Bündel?"</DefaultText>
+      <DefaultText>„Was hast du da für ein Bündel?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Der Murden schüttelt wütend seinen Kopf, als wollte er dir zeigen, dass er es nicht weißt ... oder es ihn nicht interessiert. Er spuckt und zischt, um dich davor zu warnen, näherzukommen.</DefaultText>
+      <DefaultText>Der Murden schüttelt wütend seinen Kopf, als wollte er dir zeigen, dass er es nicht weiß … oder es ihn nicht interessiert. Er spuckt und zischt, um dich davor zu warnen, näherzukommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Der Murden winkt ab, und schnappt mit seinem Schnabel zu, um dich zu vertreiben. Dann drückt er das Bündel nur noch fester an seinen Körper.</DefaultText>
+      <DefaultText>Der Murden winkt ab und schnappt mit seinem Schnabel zu, um dich zu vertreiben. Dann drückt er das Bündel nur noch fester an seinen Körper.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@ Es ist offensichtlich, dass sie sich in einer wilden, aussichtslosen Verfassung 
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Die Taschen der Murde sind mit angekauten Brocken aus rohem Flor-Fleisch gefüllt. Diese widerlichen Fleischstreifen liegen zwischen einigen wertlosen Schmuckstücken die niemand - außer einer Murde - aufheben würde.</DefaultText>
+      <DefaultText>Die Taschen der Murde sind mit angekauten Brocken aus rohem Flor-Fleisch gefüllt. Diese widerlichen Fleischstreifen liegen zwischen einigen wertlosen Schmuckstücken die niemand – außer einer Murde – aufheben würde.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

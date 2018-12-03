@@ -6,9 +6,9 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Die Metallränder dieser mit Gravuren versehenen Kugel drücken gegen deine Handfläche. Ineinander verschränkte Spiralen wirbeln über seine Oberfläche und ziehen an deinen Gedanken. An Orten in deinem Geist. 
+      <DefaultText>Die Metallränder dieser mit Gravuren versehenen Kugel drücken gegen deine Handfläche. Ineinander verschränkte Spiralen wirbeln über seine Oberfläche und ziehen an deinen Gedanken. An Orten in deinem Geist.
 
-Vor deinen Augen erheben sich Teile der Spiralen mit leisen Klicks von der Kugel und bilden detaillierte Siegel. 
+Vor deinen Augen erheben sich Teile der Spiralen mit leisen Klicks von der Kugel und bilden detaillierte Siegel.
 
 Knöpfe.</DefaultText>
       <FemaleText />
@@ -77,7 +77,7 @@ Callistege. Callistege und ihre Schwestern.</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Hmm?" sagt Callisteges Stimme in deinem Kopf. "Oh, du bist es, Liebes. Natürlich! Ich bin gleich da."
+      <DefaultText>"Hmm?", sagt Callisteges Stimme in deinem Kopf. "Oh, du bist es, Liebes. Natürlich! Ich bin gleich da."
 {CALLISTEGE}</DefaultText>
       <FemaleText />
     </Entry>
@@ -98,20 +98,20 @@ Callistege. Callistege und ihre Schwestern.</DefaultText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Du drückst auf den Knopf und hörst Erritis' Stimme in deinem Kopf. 
+      <DefaultText>Du drückst auf den Knopf und hörst Erritis' Stimme in deinem Kopf.
 
 "Ich frag mich, was wohl passiert, wenn ich ein Duell mit mir selbst ausfechten würde?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Bist das wirklich*du*?" ruft Erritis in deinem Kopf. "Ja! Hundertmal rufe ich laut 'Ja'!"
+      <DefaultText>"Bist das wirklich*du*?", ruft Erritis in deinem Kopf. "Ja! Hundertmal rufe ich laut 'Ja'!"
 {ERRITIS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Du besuchst erneut Erritis' Geist. Er scheint sich Vorwürfe zu machen, bei einem Duell gegen sich selbst betrogen zu haben. 
+      <DefaultText>Du besuchst erneut Erritis' Geist. Er scheint sich Vorwürfe zu machen, bei einem Duell gegen sich selbst betrogen zu haben.
 {ERRITIS}</DefaultText>
       <FemaleText />
     </Entry>
@@ -137,9 +137,9 @@ Callistege. Callistege und ihre Schwestern.</DefaultText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Du drückst den Knopf mit einem Finger und hörst ein leies Knurren... in deinem Kopf. 
+      <DefaultText>Du drückst den Knopf mit einem Finger und hörst ein leies Knurren... in deinem Kopf.
 
-Es ist Matkina. Du kennst ihre Flüche mittlerweile. 
+Es ist Matkina. Du kennst ihre Flüche mittlerweile.
 {MATKINA}</DefaultText>
       <FemaleText />
     </Entry>
@@ -210,14 +210,14 @@ Es ist Matkina. Du kennst ihre Flüche mittlerweile.
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Der Knopf lässt sich mit deinem Daumen leicht drücken. Du hörst Tybir in deinem Kopf kichern. 
+      <DefaultText>Der Knopf lässt sich mit deinem Daumen leicht drücken. Du hörst Tybir in deinem Kopf kichern.
 
 Hm. Klingt, als würden eine Menge Leute um ihn herum keuchen, seufzen und stöhnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Klar, mein Junge" sagt Tybir. Scheinbar hat er keinerlei Problem damit, plötzlich eine Stimme in seinem Kopf zu hören. "Ich suche nur eben meine Hosen und bin gleich da."</DefaultText>
+      <DefaultText>"Klar, mein Junge", sagt Tybir. Scheinbar hat er keinerlei Problem damit, plötzlich eine Stimme in seinem Kopf zu hören. "Ich suche nur eben meine Hosen und bin gleich da."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -247,7 +247,7 @@ Hm. Klingt, als würden eine Menge Leute um ihn herum keuchen, seufzen und stöh
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Du drückst mit dem Daumen auf das Käfig-Siegel und vernimmst wie aus großer Entfernung Aligerns Stimme in deinem Kopf. 
+      <DefaultText>Du drückst mit dem Daumen auf das Käfig-Siegel und vernimmst wie aus großer Entfernung Aligerns Stimme in deinem Kopf.
 
 "Das ergibt keinen Sinn", hörst du ihn über dem Klimpern von Werkzeug murmeln. "Als ob dieses Ding *absichtlich* kaputt wäre.?
 {ALIGERN}</DefaultText>
@@ -255,7 +255,7 @@ Hm. Klingt, als würden eine Menge Leute um ihn herum keuchen, seufzen und stöh
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Hä?" fragt Aligern in deinem Geist. "Oh, du bist es. Klar, Kid."</DefaultText>
+      <DefaultText>"Hä?", fragt Aligern in deinem Geist. "Oh, du bist es. Klar, Kid."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -566,8 +566,8 @@ Ein plötzlicher Energiestoß trifft dir schmerzhaft hinter den Augen und die Ve
     <Entry>
       <ID>198</ID>
       <DefaultText>Du streichst mit dem Daumen über den Knopf und spürst, wie sich die Aufmerksamkeit von jemandem auf dich richtet ... und zwar in deinem Kopf.
- 
- Es ist Oom, und die Kreatur weiß, dass du an sie denkst.</DefaultText>
+
+Es ist Oom, und die Kreatur weiß, dass du an sie denkst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -587,8 +587,8 @@ Ein plötzlicher Energiestoß trifft dir schmerzhaft hinter den Augen und die Ve
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Du spürst, wie Oom nervös herumzappelt, und Bilder von den Leuten, die dich bereits begleiten, schießen vor deinem inneren Auge vorbei. 
- 
+      <DefaultText>Du spürst, wie Oom nervös herumzappelt, und Bilder von den Leuten, die dich bereits begleiten, schießen vor deinem inneren Auge vorbei.
+
  Dann springt der Knopf unter deinem Daumen zurück in seine Ausgangsposition.</DefaultText>
       <FemaleText />
     </Entry>

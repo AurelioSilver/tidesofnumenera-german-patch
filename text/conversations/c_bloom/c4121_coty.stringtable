@@ -13,107 +13,107 @@
       <ID>1</ID>
       <DefaultText>Coty fegt mit einem Besen und trägt seltsame neue Kleidung. Sie stehen ihm nicht besonders, aber zumindest ist er nicht tot.
 
-Er blickt auf. "Hey, du bist zurückgekehrt."</DefaultText>
+Er blickt auf. „Hey, du bist zurückgekehrt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Coty blickt zwischen ihr und dir hin und her. "Warum?"</DefaultText>
+      <DefaultText>Coty blickt zwischen ihr und dir hin und her. „Warum?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Es war schön, dich wiederzusehen, Coty. Lebwohl."</DefaultText>
+      <DefaultText>„Es war schön, dich wiederzusehen, Coty. Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Hey." Coty winkt dich heran. "Ich hörte Fräulein Fleck sagen, der Schlund wolle eine Art Jäger. Das ist dieser ... Kerl, ich vermute drüben auf dem Hof. Ich habe die anderen Sklaven über ihn reden gehört. Sie nennen ihn Beutespäher."
+      <DefaultText>„Hey.“ Coty winkt dich heran. „Ich hörte Fräulein Fleck sagen, der Schlund wolle eine Art Jäger. Das ist dieser … Kerl, ich vermute drüben auf dem Hof. Ich habe die anderen Sklaven über ihn reden gehört. Sie nennen ihn Beutespäher.“
 
 {SKRIPT: Should this conditional be KnowWhatSecretMawWants == 0? And then does this node need to set it to 1?}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Er zuckt mit den Schultern. "Ist in Ordnung, schätze ich. Ich muss nicht auf der Straße schlafen oder mein Essen stehlen."
+      <DefaultText>Er zuckt mit den Schultern. „Ist in Ordnung, schätze ich. Ich muss nicht auf der Straße schlafen oder mein Essen stehlen.“
 
-Er beugt sich vor. "Aber diese Leute sind seltsam, und Fräulein Fleck beobachtet mich *ständig*. Und die Gestalten, die zu Besuch kommen, sind noch seltsamer. Sie riechen nicht gut. Überhaupt nicht."</DefaultText>
+Er beugt sich vor. „Aber diese Leute sind seltsam, und Fräulein Fleck beobachtet mich *ständig*. Und die Gestalten, die zu Besuch kommen, sind noch seltsamer. Sie riechen nicht gut. Überhaupt nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Glaubst du, er ist Jäger genug für diesen Schlund?"</DefaultText>
+      <DefaultText>„Glaubst du, er ist Jäger genug für diesen Schlund?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Bei dem Namen? Das muss er einfach sein, oder?"</DefaultText>
+      <DefaultText>„Bei dem Namen? Das muss er einfach sein, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich will etwas vom Tisch nehmen."</DefaultText>
+      <DefaultText>„Ich will etwas vom Tisch nehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>(Lüge) "Ich will eine anonyme Opfergabe hinterlassen."</DefaultText>
+      <DefaultText>(Lüge) „Ich will eine anonyme Opfergabe hinterlassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Sie wird mich *nicht* erwischen, wenn du sie ablenkst."</DefaultText>
+      <DefaultText>„Sie wird mich *nicht* erwischen, wenn du sie ablenkst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Was?" Er kann nur mühsam seine Stimme dämpfen. "Du willst die *Opfergaben* stehlen? Du hast für mich gebürgt. Was, wenn sie dich erwischt und glaubt, dass wir zusammenarbeiten?"</DefaultText>
+      <DefaultText>„Was?“ Er kann nur mühsam seine Stimme dämpfen. „Du willst die *Opfergaben* stehlen? Du hast für mich gebürgt. Was, wenn sie dich erwischt und glaubt, dass wir zusammenarbeiten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Er blickt auf den Gabentisch. Seine Augen weiten sich und er flüstert: "Du willst etwas *wegnehmen*, nicht wahr? Was, wenn sie dich erwischt? Sie wird glauben, dass wir beide zusammenarbeiten!"</DefaultText>
+      <DefaultText>Er blickt auf den Gabentisch. Seine Augen weiten sich und er flüstert: „Du willst etwas *wegnehmen*, nicht wahr? Was, wenn sie dich erwischt? Sie wird glauben, dass wir beide zusammenarbeiten!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Wir *arbeiten* zusammen. Ich habe dir eine Arbeit besorgt und du hilfst mir, etwas anderes zu besorgen."</DefaultText>
+      <DefaultText>„Wir *arbeiten* zusammen. Ich habe dir eine Arbeit besorgt und du hilfst mir, etwas anderes zu besorgen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Was, wenn sie herausfindet, dass du einmal ein Dieb warst?"</DefaultText>
+      <DefaultText>„Was, wenn sie herausfindet, dass du einmal ein Dieb warst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Ach, na gut. Warte." Er wendet sich der alten Frau zu. "Fräulein Fleck?"
+      <DefaultText>„Ach, na gut. Warte.“ Er wendet sich der alten Frau zu. „Fräulein Fleck?“
 
 {SKRIPT: Fleck ist abgelenkt durch das Gespräch mit Coty. Eventuell in dieser Szene zeigen.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Du sagtest mir, die Flor ist keine Göttin, obwohl ich ihr mein Leben anvertraute. Da wusste ich, dass du recht hattest. Aber ich bin nicht sicher, ob *sie* es wissen."
+      <DefaultText>„Du sagtest mir, die Flor ist keine Göttin, obwohl ich ihr mein Leben anvertraute. Da wusste ich, dass du recht hattest. Aber ich bin nicht sicher, ob *sie* es wissen.“
 
-Er weicht zurück und flüstert nicht mehr. "Aber ich schätze, ich bin dankbar. Ich war auf gewisse Weise wie sie, und du sahst es und hast es mir gezeigt. Ich muss mich wohl bedanken."</DefaultText>
+Er weicht zurück und flüstert nicht mehr. „Aber ich schätze, ich bin dankbar. Ich war auf gewisse Weise wie sie, und du sahst es und hast es mir gezeigt. Ich muss mich wohl bedanken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Wie geht es dir? Fühlst du dich schuldig?"</DefaultText>
+      <DefaultText>„Wie geht es dir? Fühlst du dich schuldig?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Coty blickt dich an und du siehst wieder die Resignation in seinen Augen. "Ich kann nicht sagen, dass es aufgehört hat. In manchen Nächten liege ich stundenlang wach, weil ich Angst davor habe, sie in meinen Träumen zu sehen."
+      <DefaultText>Coty blickt dich an und du siehst wieder die Resignation in seinen Augen. „Ich kann nicht sagen, dass es aufgehört hat. In manchen Nächten liege ich stundenlang wach, weil ich Angst davor habe, sie in meinen Träumen zu sehen.“
 
-Er schaudert und fügt dann hinzu: "Aber es gibt genug zu tun, sodass ich meistens nicht daran denken muss. Manchmal denke ich sogar, dass alles gut wird."</DefaultText>
+Er schaudert und fügt dann hinzu: „Aber es gibt genug zu tun, sodass ich meistens nicht daran denken muss. Manchmal denke ich sogar, dass alles gut wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Lebwohl. Schätze ich."</DefaultText>
+      <DefaultText>„Lebe wohl. Schätze ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,27 +123,27 @@ Er schaudert und fügt dann hinzu: "Aber es gibt genug zu tun, sodass ich meiste
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Also, wie gefällt dir deine neue Arbeit?"</DefaultText>
+      <DefaultText>„Also, wie gefällt dir deine neue Arbeit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Sag mir noch mal, wie dir die Arbeit gefällt."</DefaultText>
+      <DefaultText>„Sag mir noch mal, wie dir die Arbeit gefällt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Sie ist in Ordnung. Nicht toll, aber in Ordnung."</DefaultText>
+      <DefaultText>„Sie ist in Ordnung. Nicht toll, aber in Ordnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"In Ordnung, vergiss es."</DefaultText>
+      <DefaultText>„In Ordnung, vergiss es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Bist du immer noch darauf aus? Ich sagte doch schon, wenn du erwischt wirst, denkt sie vielleicht, wir arbeiten zusammen."</DefaultText>
+      <DefaultText>„Bist du immer noch darauf aus? Ich sagte doch schon, wenn du erwischt wirst, denkt sie vielleicht, wir arbeiten zusammen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,12 +153,12 @@ Er schaudert und fügt dann hinzu: "Aber es gibt genug zu tun, sodass ich meiste
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Könntest du die alte Frau kurz ablenken?"</DefaultText>
+      <DefaultText>„Könntest du die alte Frau kurz ablenken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Du musst unbedingt die alte Frau für mich ablenken."</DefaultText>
+      <DefaultText>„Du musst unbedingt die alte Frau für mich ablenken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,12 +168,12 @@ Er schaudert und fügt dann hinzu: "Aber es gibt genug zu tun, sodass ich meiste
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Also gefällt dir die Arbeit nicht?'</DefaultText>
+      <DefaultText>„Also gefällt dir die Arbeit nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Oh, nein, sie ist völlig in Ordnung!" Er wirft einen kurzen Blick auf Fleck, deren Aufmerksamkeit im Moment offenbar durch etwas anderes beansprucht wird. "Ich meine, es ist halt Arbeit, oder? Es könnte schlimmer sein." Er holt tief Luft. "Es könnte *viel* schlimmer sein. D-danke. Ehrlich."</DefaultText>
+      <DefaultText>„Oh, nein, sie ist völlig in Ordnung!“ Er wirft einen kurzen Blick auf Fleck, deren Aufmerksamkeit im Moment offenbar durch etwas anderes beansprucht wird. „Ich meine, es ist halt Arbeit, oder? Es könnte schlimmer sein.“ Er holt tief Luft. „Es könnte *viel* schlimmer sein. D-danke. Ehrlich.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

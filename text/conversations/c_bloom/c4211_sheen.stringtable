@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Sie weicht deinem Blick aus, als sie dich begrüßt, aber ihre Augen schweifen über deinen Körper, beobachtend und abwägend. "Reisender. Sheens Laden steht dir offen. Destillierte Essenzen. Schlucke zum Zechen. Gelieferte Erfahrungen, mundgerecht."
+      <DefaultText>Sie weicht deinem Blick aus, als sie dich begrüßt, aber ihre Augen schweifen über deinen Körper, beobachtend und abwägend. „Reisender. Sheens Laden steht dir offen. Destillierte Essenzen. Schlucke zum Zechen. Gelieferte Erfahrungen, mundgerecht.“
 
 Ihre Stimme ist flach, allerdings singt ein Unterton in ihrer Stimme auf einer für dich nicht wahrnehmbaren Tonhöhe.</DefaultText>
       <FemaleText />
@@ -33,43 +33,43 @@ Ihre Stimme ist flach, allerdings singt ein Unterton in ihrer Stimme auf einer f
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Lebe wohl."</DefaultText>
+      <DefaultText>„Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Lebe wohl, Reisender."</DefaultText>
-      <FemaleText>"Lebe wohl, Reisende."</FemaleText>
+      <DefaultText>„Lebe wohl, Reisender.“</DefaultText>
+      <FemaleText>„Lebe wohl, Reisende.“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ich habe eine Haarsträhne von Artaglio."</DefaultText>
+      <DefaultText>„Ich habe eine Haarsträhne von Artaglio.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Alles in Ordnung, alles gut. Gib Sheen die Haare."
+      <DefaultText>„Alles in Ordnung, alles gut. Gib Sheen die Haare.“
 
-Sie nimmt die die Haare aus den Händen und beginnt unmelodisch und tonlos zu summen, während sie die Hebel und Schalter an ihrem merkwürdigen Gerät bedient. Sie schiebt Artaglios Haare hinein, das sofort zu leuchten beginnt. Es pulsiert regelmäßig wie ein Herzschlag, und sie legt ihre Hände an die Seiten.</DefaultText>
+Sie nimmt dir die Haare aus den Händen und beginnt unmelodisch und tonlos zu summen, während sie die Hebel und Schalter an ihrem merkwürdigen Gerät bedient. Sie schiebt Artaglios Haare hinein, das sofort zu leuchten beginnt. Es pulsiert regelmäßig wie ein Herzschlag, und sie legt ihre Hände an die Seiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Zeig mir, was du verkaufst."
+      <DefaultText>„Zeig mir, was du verkaufst.“
 
 {LADEN}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Hast du vielleicht eine Essenz, die einem das Gefühl verleiht, ein Luftraubtier zu sein?"</DefaultText>
+      <DefaultText>„Hast du vielleicht eine Essenz, die einem das Gefühl verleiht, ein Luftraubtier zu sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Ihr hageres Gesicht verwandelt sich einen Augenblick lang und du kannst die Schönheit ihrer Freude sehen. "Die Essenz der Hontri! Eine ganz neue Kreation. Eine Feder und ein Schnabel kamen zu meiner Tür, die kleinen Maschinen darin windeten sich immer noch und versuchten, alles wieder zu richten.
+      <DefaultText>Ihr hageres Gesicht verwandelt sich einen Augenblick lang und du kannst die Schönheit ihrer Freude sehen. „Die Essenz der Hontri! Eine ganz neue Kreation. Eine Feder und ein Schnabel kamen zu meiner Tür, die kleinen Maschinen darin windeten sich immer noch und versuchten, alles wieder zu richten.“
 
-Sie greift in ihren höhlenartigen Raum und zieht ein milchiges Fläschchen raus und setzt es neben die anderen Essenzen auf ihre Ablage. "Suche unter den Fläschchen nach dem, was du brauchst."
+Sie greift in ihren höhlenartigen Raum und zieht ein milchiges Fläschchen raus und setzt es neben die anderen Essenzen auf ihre Ablage. „Suche unter den Fläschchen nach dem, was du brauchst.“
 
 {SCRIPT: Still need to actually create the HontriEssence item.}</DefaultText>
       <FemaleText />
@@ -86,58 +86,58 @@ Sie greift in ihren höhlenartigen Raum und zieht ein milchiges Fläschchen raus
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Was wolltest du mit 'Destillierte Essenzen und gelieferte Erfahrungen' sagen?"</DefaultText>
+      <DefaultText>„Was wolltest du mit 'Destillierte Essenzen und gelieferte Erfahrungen' sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Unangenehme Horizonte, in den Tiefen menschlicher Erfahrungen. Manche suchen Aufmunterung durch Schmerz oder Beherrschung oder ungewöhnliche Praktiken. Wenn der Reisende Sheen ein Geschenk einer einzigartigen Erfahrung macht, eine Transfusion von Energie, dann könnten Vereinbarungen getroffen werden."</DefaultText>
+      <DefaultText>„Unangenehme Horizonte, in den Tiefen menschlicher Erfahrungen. Manche suchen Aufmunterung durch Schmerz oder Beherrschung oder ungewöhnliche Praktiken. Wenn der Reisende Sheen ein Geschenk einer einzigartigen Erfahrung macht, eine Transfusion von Energie, dann könnten Vereinbarungen getroffen werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ich habe viele einzigartige Erfahrungen. Ich kann das Gefühl vermitteln, den Geist eines anderen mit einer Welle mentaler Energie überwältigt zu haben."
+      <DefaultText>„Ich habe viele einzigartige Erfahrungen. Ich kann das Gefühl vermitteln, den Geist eines anderen mit einer Welle mentaler Energie überwältigt zu haben.“
 
 {TIDES}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Zeig mir, was du verkaufst."
+      <DefaultText>„Zeig mir, was du verkaufst.“
 
 {LADEN}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich hatte noch andere Fragen."</DefaultText>
+      <DefaultText>„Ich hatte noch andere Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Hast du etwas in deinem Laden, das einen schüchternen Jungen in einen Soldaten verwandelt?"</DefaultText>
+      <DefaultText>„Hast du etwas in deinem Laden, das einen schüchternen Jungen in einen Soldaten verwandelt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Als sie sich umdreht wird dir klar, dass du irrtümlich eine Frau für einen Haufen aus Stöcken und Garn hieltest - eine unfassbar magere Frau, ihr Gesicht ist eingefallen und knochig, ihre Arme sind wie dünne Zweige. Ihre Kleider hängen an ihr wie ein schlaffes Segeltuch und obwohl ihr Gesicht noch jung ist, sind ihre Augen sehr sehr alt.
+      <DefaultText>Als sie sich umdreht wird dir klar, dass du irrtümlich eine Frau für einen Haufen aus Stöcken und Garn hieltest – eine unfassbar magere Frau, ihr Gesicht ist eingefallen und knochig, ihre Arme sind wie dünne Zweige. Ihre Kleider hängen an ihr wie ein schlaffes Segeltuch und obwohl ihr Gesicht noch jung ist, sind ihre Augen sehr sehr alt.
 
 Ihre Hände sind geschunden und voller Narben von chemischen Prozessen, die Apparate dafür stehen in verwirrender Hülle und Fülle hinter ihr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Der Reisende steht wieder an meiner Tür. Was bringt dich dieses Mal her?"</DefaultText>
-      <FemaleText>"Die Reisende steht wieder an meiner Tür. Was bringt dich dieses Mal her?"</FemaleText>
+      <DefaultText>„Der Reisende steht wieder an meiner Tür. Was bringt dich dieses Mal her?“</DefaultText>
+      <FemaleText>„Die Reisende steht wieder an meiner Tür. Was bringt dich dieses Mal her?“</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Ihre Augen weiten sich erwartungsvoll. "Sheen hat von solchen wie dir schon gehört. Beherrscher und Manipulatoren. Sheen bietet Essenzen im Tausch gegen diese Energien. Dein Angebot senkt meine Preise. Nimmt der Reisende an?"</DefaultText>
-      <FemaleText>Ihre Augen weiten sich erwartungsvoll. "Sheen hat von solchen wie dir schon gehört. Beherrscher und Manipulatoren. Sheen bietet Essenzen im Tausch gegen diese Energien. Dein Angebot senkt meine Preise. Nimmt die Reisende an?"</FemaleText>
+      <DefaultText>Ihre Augen weiten sich erwartungsvoll. „Sheen hat von solchen wie dir schon gehört. Beherrscher und Manipulatoren. Sheen bietet Essenzen im Tausch gegen diese Energien. Dein Angebot senkt meine Preise. Nimmt der Reisende an?“</DefaultText>
+      <FemaleText>Ihre Augen weiten sich erwartungsvoll. „Sheen hat von solchen wie dir schon gehört. Beherrscher und Manipulatoren. Sheen bietet Essenzen im Tausch gegen diese Energien. Dein Angebot senkt meine Preise. Nimmt die Reisende an?“</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Sie schließt die Augen, als würde sie sich Artaglio in Gedanken vorstellen. "Der Mann trägt die schwarze Maske der Furcht, aber er trägt auch die Zeichen eines Helden. Er trägt die *Essenz* eines Soldaten bei sich, aber er hat dessen Gesicht vergessen." Sie sieht in schräg an und hält zwei knochige Finger in die Höhe. "Zwei Wege, um das zu tun."</DefaultText>
+      <DefaultText>Sie schließt die Augen, als würde sie sich Artaglio in Gedanken vorstellen. „Der Mann trägt die schwarze Maske der Furcht, aber er trägt auch die Zeichen eines Helden. Er trägt die *Essenz* eines Soldaten bei sich, aber er hat dessen Gesicht vergessen.“ Sie sieht in schräg an und hält zwei knochige Finger in die Höhe. „Zwei Wege, um das zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -152,32 +152,32 @@ Ihre Hände sind geschunden und voller Narben von chemischen Prozessen, die Appa
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Sie hält inne, um nachzudenken, ihre Finger tippen einen komplizierten Rhythmus auf ihren Oberschenkeln, als würde sie ihren Bestand durchgehen. Schließlich sagt sie: "Nein. Aber Gewalt, Brutalität … Setze deine Unschuld diesen aus und das Wissen wird sie oder ihn unempfindlich machen. Der Geschmack dieser Erfahrung zeigte Wut, Leichen, Gedärme. Träume in dieser Nacht waren erfüllt mit verschlungenen Körpern. Die Morgendämmerung hatte die Farbe von Blutergüssen und Wunden und die Sterblichen sahen aus wie wandelndes Fleisch."</DefaultText>
+      <DefaultText>Sie hält inne, um nachzudenken, ihre Finger tippen einen komplizierten Rhythmus auf ihren Oberschenkeln, als würde sie ihren Bestand durchgehen. Schließlich sagt sie: „Nein. Aber Gewalt, Brutalität … Setze deine Unschuld diesen aus und das Wissen wird sie oder ihn unempfindlich machen. Der Geschmack dieser Erfahrung zeigte Wut, Leichen, Gedärme. Träume in dieser Nacht waren erfüllt mit verschlungenen Körpern. Die Morgendämmerung hatte die Farbe von Blutergüssen und Wunden und die Sterblichen sahen aus wie wandelndes Fleisch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Weißt du, wonach es verlangt?"</DefaultText>
+      <DefaultText>„Weißt du, wonach es verlangt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Es will Artaglio verschlingen."</DefaultText>
+      <DefaultText>„Es will Artaglio verschlingen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Ich habe keine Ahnung."</DefaultText>
+      <DefaultText>„Ich habe keine Ahnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ich will dich etwas Anderes fragen."</DefaultText>
+      <DefaultText>„Ich will dich etwas Anderes fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Ich nicht. Lebe wohl."</DefaultText>
+      <DefaultText>„Ich nicht. Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -187,34 +187,34 @@ Ihre Hände sind geschunden und voller Narben von chemischen Prozessen, die Appa
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ich warte."</DefaultText>
+      <DefaultText>„Ich warte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Vergiss es. Lebe wohl."</DefaultText>
+      <DefaultText>„Vergiss es. Lebe wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Das, was wir essen, das, was wir trinken - das ist nicht die einzige Nahrung in unserem Leben. Ohne Freude, Frieden, Glück oder Mut wird die Existenz selbst inhaltslos. Diese Zustände erschaffe ich wieder und in ödes Leben bringe ich die Pracht zurück." Einen Moment lang sieht sie stolz aus. "Kunden kommen aus dem ganzen Protektorat zu mir - sie haben das Verlangen, sich neuen Gefühlen hinzugeben, auch wenn sie unangenehm sein können. Warum? Ich frage nicht."</DefaultText>
+      <DefaultText>„Das, was wir essen, das, was wir trinken – das ist nicht die einzige Nahrung in unserem Leben. Ohne Freude, Frieden, Glück oder Mut wird die Existenz selbst inhaltslos. Diese Zustände erschaffe ich wieder und in ödes Leben bringe ich die Pracht zurück.“ Einen Moment lang sieht sie stolz aus. „Kunden kommen aus dem ganzen Protektorat zu mir – sie haben das Verlangen, sich neuen Gefühlen hinzugeben, auch wenn sie unangenehm sein können. Warum? Ich frage nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Sie blickt schnell auf dein Kinn und sieht dann wieder weg. "Der Reisende weiß von meinem Wunsch, die finsteren Bereiche zu destillieren. Die Schattenseite zu erkunden, den Eingang zu den Gefühlen des Verwüsters."</DefaultText>
-      <FemaleText>Sie blickt schnell auf dein Kinn und sieht dann wieder weg. "Die Reisende weiß von meinem Wunsch, die finsteren Bereiche zu destillieren. Die Schattenseite zu erkunden, den Eingang zu den Gefühlen des Verwüsters."</FemaleText>
+      <DefaultText>Sie blickt schnell auf dein Kinn und sieht dann wieder weg. „Der Reisende weiß von meinem Wunsch, die finsteren Bereiche zu destillieren. Die Schattenseite zu erkunden, den Eingang zu den Gefühlen des Verwüsters.“</DefaultText>
+      <FemaleText>Sie blickt schnell auf dein Kinn und sieht dann wieder weg. „Die Reisende weiß von meinem Wunsch, die finsteren Bereiche zu destillieren. Die Schattenseite zu erkunden, den Eingang zu den Gefühlen des Verwüsters.“</FemaleText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Sie blickt kurz auf deine Nase, bevor sie ihren Blick wieder auf ihre Arbeit richtet. "Der Schluck der Beherrschung ist fertig. Der Reisende öffnete diese Augen und für meine Studien öffnete sich dadurch auch ein Weg."</DefaultText>
-      <FemaleText>Sie blickt kurz auf deine Nase, bevor sie ihren Blick wieder auf ihre Arbeit richtet. "Der Schluck der Beherrschung ist fertig. Die Reisende öffnete diese Augen und für meine Studien öffnete sich dadurch auch ein Weg."</FemaleText>
+      <DefaultText>Sie blickt kurz auf deine Nase, bevor sie ihren Blick wieder auf ihre Arbeit richtet. „Der Schluck der Beherrschung ist fertig. Der Reisende öffnete diese Augen und für meine Studien öffnete sich dadurch auch ein Weg.“</DefaultText>
+      <FemaleText>Sie blickt kurz auf deine Nase, bevor sie ihren Blick wieder auf ihre Arbeit richtet. „Der Schluck der Beherrschung ist fertig. Die Reisende öffnete diese Augen und für meine Studien öffnete sich dadurch auch ein Weg.“</FemaleText>
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Eins." Sie hält einen Finger hoch. "Bring mir seine Haut oder seine Haare, dann kann ich die Wahrheit über den Mann herausfinden. Eine Warnung - der Freischarführer wird keine Veränderung bemerken, wenn du ihm die Essenz gibst. Du musst einen anderen Gegenstand liefern. Ich will damit sagen, ein anderer muss seine Essenz einnehmen." 
+      <DefaultText>„Eins.“ Sie hält einen Finger hoch. „Bring mir seine Haut oder seine Haare, dann kann ich die Wahrheit über den Mann herausfinden. Eine Warnung – der Freischarführer wird keine Veränderung bemerken, wenn du ihm die Essenz gibst. Du musst einen anderen Gegenstand liefern. Ich will damit sagen, ein anderer muss seine Essenz einnehmen.“ 
 
-Für einen kurzen Moment treffen sich eure Blicke. "Die Flor ist nicht sanft. Nur wenige würden dein Angebot annehmen, wenn sie das wüssten. Nur die wahrlich Verzweifelten lassen sich darauf ein.</DefaultText>
+Für einen kurzen Moment treffen sich eure Blicke. „Die Flor ist nicht sanft. Nur wenige würden dein Angebot annehmen, wenn sie das wüssten. Nur die wahrlich Verzweifelten lassen sich darauf ein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,26 +229,26 @@ Für einen kurzen Moment treffen sich eure Blicke. "Die Flor ist nicht sanft. Nu
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Zwei." Sie hebt den zweiten Finger. "Du musst in ihm die Tapferkeit wecken. Der Schluck in deinem Besitz, meinem letzten - gib ihn ihm und stell ihn damit wieder her, wie er war.
+      <DefaultText>„Zwei.“ Sie hebt den zweiten Finger. „Du musst in ihm die Tapferkeit wecken. Der Schluck in deinem Besitz, meinem letzten – gib ihn ihm und stell ihn damit wieder her, wie er war.“
 
-Sie macht eine Faust. "Was erfordert sonst noch deine Aufmerksamkeit?"</DefaultText>
+Sie macht eine Faust. „Was erfordert sonst noch deine Aufmerksamkeit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Zwei." Sie hebt den zweiten Finger. "Die Tapferkeit ist ausverkauft. Aber leider hat das nicht geklappt und ich habe nichts mehr. Dieser Weg, den Schlund zu sättigen ist geschlossen. Es muss der Mann selbst sein."
+      <DefaultText>„Zwei.“ Sie hebt den zweiten Finger. „Die Tapferkeit ist ausverkauft. Aber leider hat das nicht geklappt und ich habe nichts mehr. Dieser Weg, den Schlund zu sättigen ist geschlossen. Es muss der Mann selbst sein.“
 
-Sie macht eine Faust. "Was erfordert sonst noch deine Aufmerksamkeit?"</DefaultText>
+Sie macht eine Faust. „Was erfordert sonst noch deine Aufmerksamkeit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Zwei. Sie hebt den zweiten Finger. "Ich kann ihn an seine Wahrheit erinnern. Ich sage dir, der Flor wird ihn wahrscheinlich verschlingen. Schau dir einfach meine Waren an, dann findest du die Tapferkeit, der er benötigt."</DefaultText>
+      <DefaultText>Zwei. Sie hebt den zweiten Finger. „Ich kann ihn an seine Wahrheit erinnern. Ich sage dir, der Flor wird ihn wahrscheinlich verschlingen. Schau dir einfach meine Waren an, dann findest du die Tapferkeit, der er benötigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Sie hält kurz den Atem an und platzt dann weiter heraus: "Derartig Schmerz in diesem Leben! Derartige Traurigkeit! Eine kleine Probe passierte diese Lippen und Leere fegte über sie hinweg, ein Ort, an dem sich Silber in Blitzen entzündete, sich mit einem Kern vereinigte und seinen Willen einem anderen aufzwang. Ein wundervoller Schluck. Ein Meisterwerk. Eine Essenz, die ein Studienabschluss ist. Ich danke dir."</DefaultText>
+      <DefaultText>Sie hält kurz den Atem an und platzt dann weiter heraus: „Derartig Schmerz in diesem Leben! Derartige Traurigkeit! Eine kleine Probe passierte diese Lippen und Leere fegte über sie hinweg, ein Ort, an dem sich Silber in Blitzen entzündete, sich mit einem Kern vereinigte und seinen Willen einem anderen aufzwang. Ein wundervoller Schluck. Ein Meisterwerk. Eine Essenz, die ein Studienabschluss ist. Ich danke dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,7 +258,7 @@ Sie macht eine Faust. "Was erfordert sonst noch deine Aufmerksamkeit?"</DefaultT
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Kannst du mir noch einmal sagen, was du machst?"</DefaultText>
+      <DefaultText>„Kannst du mir noch einmal sagen, was du machst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -272,12 +272,12 @@ Sie macht eine Faust. "Was erfordert sonst noch deine Aufmerksamkeit?"</DefaultT
 
 Sie schnappt sich eine kleine Flasche auf ihrer Arbeitsfläche und ein Strahl mit dünnem, gelbem Schleim schießt aus ihrem Mund. Sie fängt es virtuos ein, nicht ein Tropfen geht daneben und erhebt sich wieder aus ihrer gebeugten Haltung.
 
-Sie reicht es an dich weiter. "Stell dich vor den Schlund und trinke die Essenz des Soldaten. Wenn es ihm gefällt, wirst du an seiner Stelle dienen."</DefaultText>
+Sie reicht es an dich weiter. „Stell dich vor den Schlund und trinke die Essenz des Soldaten. Wenn es ihm gefällt, wirst du an seiner Stelle dienen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Sie spricht weiter, ruhiger. "Ich ging lieber an diesen Ort, um nicht ins Exil verbannt zu werden. Die Flor wollte einen Teil meines Geistes, also nahm ich einen Teil von ihm und diese Verbindung ermöglicht es mir, Essenzen zu entnehmen. Kunden kommen zu mir und suchen mein Wissen, ihnen ist egal, ob meine Modifikationen mich in Gefahr bringen. Glückseligkeit." Der wütende Blick in ihren Augen lässt vermuten, dass diese Erinnerungen alles andere sind. Sie dreht sich um und spuckt in eine Flasche neben ihren seltsamen Apparaten.</DefaultText>
+      <DefaultText>Sie spricht weiter, ruhiger. „Ich ging lieber an diesen Ort, um nicht ins Exil verbannt zu werden. Die Flor wollte einen Teil meines Geistes, also nahm ich einen Teil von ihm und diese Verbindung ermöglicht es mir, Essenzen zu entnehmen. Kunden kommen zu mir und suchen mein Wissen, ihnen ist egal, ob meine Modifikationen mich in Gefahr bringen. Glückseligkeit.“ Der wütende Blick in ihren Augen lässt vermuten, dass diese Erinnerungen alles andere sind. Sie dreht sich um und spuckt in eine Flasche neben ihren seltsamen Apparaten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,12 +287,12 @@ Sie reicht es an dich weiter. "Stell dich vor den Schlund und trinke die Essenz 
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Erzähl mir über dich."</DefaultText>
+      <DefaultText>„Erzähl mir über dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Kannst du mir noch einmal von dir erzählen?"</DefaultText>
+      <DefaultText>„Kannst du mir noch einmal von dir erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,39 +302,39 @@ Sie reicht es an dich weiter. "Stell dich vor den Schlund und trinke die Essenz 
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Der Ausdruck weicht aus ihrem Gesicht. "Von der Uhr von Kala grüße ich, Gestalt gewordene Überlegenheit. Die Stadt Sada Emidu, das Haus über dem Indygel war mein Geburtsort. Von Geburt an wollte ich erkunden, forschen, *verstehen*. Doch der Zealitor in seiner *Weisheit*, mit seinen *Implantaten*, sagte meiner Familie, dass *meine* Forschungen mich in Gefahr bringen und reduzierte mich vom Auguren zum bloßen Menschen!" Ihre Stimme hebt sich zu einem Schreien und sie sammelt sich.</DefaultText>
+      <DefaultText>Der Ausdruck weicht aus ihrem Gesicht. „Von der Uhr von Kala grüße ich, Gestalt gewordene Überlegenheit. Die Stadt Sada Emidu, das Haus über dem Indygel war mein Geburtsort. Von Geburt an wollte ich erkunden, forschen, *verstehen*. Doch der Zealitor in seiner *Weisheit*, mit seinen *Implantaten*, sagte meiner Familie, dass *meine* Forschungen mich in Gefahr bringen und reduzierte mich vom Auguren zum bloßen Menschen!“ Ihre Stimme hebt sich zu einem Schreien und sie sammelt sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Du bittest mich, mein Leiden erneut zu durchleben? Ich habe schon einmal Erinnerungen für den Reisenden herbeigerufen. Einmal habe ich meinen Schmerz gerettet."</DefaultText>
+      <DefaultText>„Du bittest mich, mein Leiden erneut zu durchleben? Ich habe schon einmal Erinnerungen für den Reisenden herbeigerufen. Einmal habe ich meinen Schmerz gerettet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Frag etwas anderes. Dieser Brunnen trocknet aus."</DefaultText>
+      <DefaultText>„Frag etwas anderes. Dieser Brunnen trocknet aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Sheen hat andere Antworten."</DefaultText>
+      <DefaultText>„Sheen hat andere Antworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Ja."</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Noch nicht. Ich hatte noch andere Fragen."</DefaultText>
+      <DefaultText>„Noch nicht. Ich hatte noch andere Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Dann komm rein."
+      <DefaultText>„Dann komm rein.“
 
-Sie greift nach dir, während sie ihre Apparate einschaltet. Ihre Hand berührt dich und eine Regenbogenaura breitet sich über euch beiden aus. Du spürst eine Verbindung mit ihrer Seele - flüchtige Bilder eines großen Palastes, der sich über einen Fluss wölbt, ein verrückter Flug über verseuchtes Sumpfland und riesige Räuber der Lüfte, die sich auf unvorsichtige Reisende in einem nicht enden wollenden Grasland stürzen. 
+Sie greift nach dir, während sie ihre Apparate einschaltet. Ihre Hand berührt dich und eine Regenbogenaura breitet sich über euch beiden aus. Du spürst eine Verbindung mit ihrer Seele – flüchtige Bilder eines großen Palastes, der sich über einen Fluss wölbt, ein verrückter Flug über verseuchtes Sumpfland und riesige Räuber der Lüfte, die sich auf unvorsichtige Reisende in einem nicht enden wollenden Grasland stürzen. 
 
 Du spürst tief in dir drin den vertrauten Strudel der Gezeitenenergien.</DefaultText>
       <FemaleText />
@@ -352,12 +352,12 @@ Schließlich lässt sie deinen Arm mit einem Schrei los und tastet nach einem Be
 
 Der Apparat fährt herunter und der Regenbogenglanz verblasst. 
 
-Sheen schaut dir lange in die Augen. "Lass uns das nie wieder machen. Stöbere die Waren durch. Die Kosten sind überschaubar."</DefaultText>
+Sheen schaut dir lange in die Augen. „Lass uns das nie wieder machen. Stöbere die Waren durch. Die Kosten sind überschaubar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Solch eine Erfahrung müsste ausreichen - ein Leben lang Wut und Träume aus Blut, destilliert in einen Augenblick sollten deinen Soldaten erschaffen. Sie greift in ihren höhlenartigen Raum und zieht ein Fläschchen hervor und platziert es neben den anderen. "Schau dir alles in Ruhe an."</DefaultText>
+      <DefaultText>Solch eine Erfahrung müsste ausreichen – ein Leben lang Wut und Träume aus Blut, destilliert in einen Augenblick sollten deinen Soldaten erschaffen. Sie greift in ihren höhlenartigen Raum und zieht ein Fläschchen hervor und platziert es neben den anderen. „Schau dir alles in Ruhe an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -372,8 +372,8 @@ Sheen schaut dir lange in die Augen. "Lass uns das nie wieder machen. Stöbere d
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <DefaultText>„“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
@@ -382,12 +382,12 @@ Sheen schaut dir lange in die Augen. "Lass uns das nie wieder machen. Stöbere d
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Kannst du etwas mischen, das den Schlund in der Grube öffnet?"</DefaultText>
+      <DefaultText>„Kannst du etwas mischen, das den Schlund in der Grube öffnet?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Ich will noch einmal darüber reden, wie ich den Schlund hier in der Grube öffnen kann."</DefaultText>
+      <DefaultText>„Ich will noch einmal darüber reden, wie ich den Schlund hier in der Grube öffnen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -397,27 +397,27 @@ Sheen schaut dir lange in die Augen. "Lass uns das nie wieder machen. Stöbere d
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Ich kann jede Essenz erschaffen, die du dir ersehnst … wenn deine Sehnsucht danach fest in deinem Verstand verankert ist. Ansonsten ..." Sie pustet sich über die Finger. "...Ephemera. Ich frage noch einmal, weißt du es?"</DefaultText>
+      <DefaultText>„Ich kann jede Essenz erschaffen, die du dir ersehnst … wenn deine Sehnsucht danach fest in deinem Verstand verankert ist. Ansonsten …“ Sie pustet sich über die Finger. „… Ephemera. Ich frage noch einmal, weißt du es?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Dann kann ich dir nicht helfen."</DefaultText>
+      <DefaultText>„Dann kann ich dir nicht helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Weißt du, wonach es verlangt? Alle Kreaturen leben in der Sehnsucht. Dann muss auch der Schlund eine Sehnsucht haben."</DefaultText>
+      <DefaultText>„Weißt du, wonach es verlangt? Alle Kreaturen leben in der Sehnsucht. Dann muss auch der Schlund eine Sehnsucht haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ich tausche *Erfahrung* gegen *Gefühle*. Jeder Zustand, jedes Gefühl, wenn ich die Mittel dazu habe."</DefaultText>
+      <DefaultText>„Ich tausche *Erfahrung* gegen *Gefühle*. Jeder Zustand, jedes Gefühl, wenn ich die Mittel dazu habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Natürlich."</DefaultText>
+      <DefaultText>„Natürlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,12 +426,12 @@ Sheen schaut dir lange in die Augen. "Lass uns das nie wieder machen. Stöbere d
 
 Der Apparat fährt herunter und der Regenbogenglanz verblasst. 
 
-Sheen schaut dir lange in die Augen. "Du bringst mir eine Vertrautheit. Geistesverwandtschaft." Sie neigt leicht ihren Kopf. "Meine Waren - sie kosten dich so viel, wie sie mich kosten. Dankbarkeit."</DefaultText>
+Sheen schaut dir lange in die Augen. „Du bringst mir eine Vertrautheit. Geistesverwandtschaft.“ Sie neigt leicht ihren Kopf. „Meine Waren – sie kosten dich so viel, wie sie mich kosten. Dankbarkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Zeigt mir, was du verkaufst."
+      <DefaultText>„Zeigt mir, was du verkaufst.“
 
 {LADEN}</DefaultText>
       <FemaleText />
@@ -448,7 +448,7 @@ Sheen schaut dir lange in die Augen. "Du bringst mir eine Vertrautheit. Geistesv
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ich habe über dein Angebot nachgedacht. Ich werde dir helfen, eine Essenz zu erschaffen, im Tausch gegen niedrigere Preise bei deinen Waren."</DefaultText>
+      <DefaultText>„Ich habe über dein Angebot nachgedacht. Ich werde dir helfen, eine Essenz zu erschaffen, im Tausch gegen niedrigere Preise bei deinen Waren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

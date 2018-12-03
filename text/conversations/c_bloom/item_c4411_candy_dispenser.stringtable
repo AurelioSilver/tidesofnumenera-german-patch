@@ -8,19 +8,19 @@
       <ID>1</ID>
       <DefaultText>Dies ist ein rechteckiges Gerät und an einem Ende befindet sich der Kopf einer felligen katzenartigen Kreatur. Es könnte ein Spielzeug sein oder-
 
-Das Gerät wird warm in deiner Hand und die Kreatur öffnet übergroße Augen und schaut dich voller Liebe aber ehrfürchtig an. 
+Das Gerät wird warm in deiner Hand und die Kreatur öffnet übergroße Augen und schaut dich voller Liebe aber ehrfürchtig an.
 
 "Mrrr?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Mrrr!" sagt die Kreatur oben auf dem Gerät, voller Freude, dass sie wieder Licht sieht. Die Hände, die an jeder Seite herausstehen, wackeln ein klein wenig.</DefaultText>
+      <DefaultText>"Mrrr!", sagt die Kreatur oben auf dem Gerät, voller Freude, dass sie wieder Licht sieht. Die Hände, die an jeder Seite herausstehen, wackeln ein klein wenig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Du nimmst noch einmal den Spender zurück. Der vertrocknete Kopf der Kreatur hängt schlaff auf eine Seite und verdeckt fast eine Hand, die seitlich aus dem Gerät heraussteht. 
+      <DefaultText>Du nimmst noch einmal den Spender zurück. Der vertrocknete Kopf der Kreatur hängt schlaff auf eine Seite und verdeckt fast eine Hand, die seitlich aus dem Gerät heraussteht.
 {GAVIN: Is item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
       <FemaleText />
     </Entry>
@@ -41,25 +41,25 @@ Das Gerät wird warm in deiner Hand und die Kreatur öffnet übergroße Augen un
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Du drückst die Hände an die Seiten des Geräts. 
+      <DefaultText>Du drückst die Hände an die Seiten des Geräts.
 
 "Eee", sagt die Kreatur, seine Augen weiten sich. Eine winzige Wölbung geht in seinem noch winzigeren Hals hoch. "Eee! Eee! BLARF."
 
 Es spuckt eine rechteckige Tablette mit einem winzigen *Pfut* aus.
 
-{SOUND: High-pitched, cute versions of the barfing above.} 
+{SOUND: High-pitched, cute versions of the barfing above.}
 {SCRIPT: Player gets tablet.}
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Du drückst noch einmal die Hände des Geräts. 
+      <DefaultText>Du drückst noch einmal die Hände des Geräts.
 
 "Eee", murmelt die Kreatur und sieht bang aus. "Eee! Eeerg. Eeeragh." Ganze Fellstücke fallen ihr aus, aber sie macht unbeirrt weiter. "MrrraaaaaBLARF."
 
-Sie spuckt eine zweite Tablette mit einem *Pfut* aus, starrt dich großäugig mit blankem Entsetzen an und stirbt in deinen Händen. 
-{SOUND: High-pitched, cute versions of the barfing above.} 
+Sie spuckt eine zweite Tablette mit einem *Pfut* aus, starrt dich großäugig mit blankem Entsetzen an und stirbt in deinen Händen.
+{SOUND: High-pitched, cute versions of the barfing above.}
 {SCRIPT: Player gets tablet.}
 {LOOT}</DefaultText>
       <FemaleText />
@@ -97,16 +97,16 @@ Sie spuckt eine zweite Tablette mit einem *Pfut* aus, starrt dich großäugig mi
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Du nimmst den Gegenstand hoch. Er riecht nach Früchten und lässt deine Haut prickeln. Du schaust zurück auf die Kreatur. 
+      <DefaultText>Du nimmst den Gegenstand hoch. Er riecht nach Früchten und lässt deine Haut prickeln. Du schaust zurück auf die Kreatur.
 
-"Mrrr!" sagt sie, ihre Augen schießen zwischen der Tablette und deinem Mund hin und her. 
+"Mrrr!", sagt sie, ihre Augen schießen zwischen der Tablette und deinem Mund hin und her.
 
 Offensichtlich sollst du sie essen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Du drehst das Gerät auf den Kopf, um dir das Gehäuse anzusehen. Die Kreatur gurrt interessiert, als es den Boden sieht.  
+      <DefaultText>Du drehst das Gerät auf den Kopf, um dir das Gehäuse anzusehen. Die Kreatur gurrt interessiert, als es den Boden sieht.
 
 Unten, gegenüber vom Kopf, findest du die Gravur einer Sonne mit einem Loch in der Mitte. Dir ist das Symbol gänzlich unbekannt, und du weißt auch nicht, ob es eine Herstellermarke oder etwas ganz anderes ist.</DefaultText>
       <FemaleText />
@@ -132,11 +132,11 @@ Ohne Warnung *bricht* das Gerät auseinander und heraus strömt eine rosa Flüss
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Du fingerst halbherzig an den Nähten des Geräts rum bis du ein sprödes Schnappen von innen hörst. 
+      <DefaultText>Du fingerst halbherzig an den Nähten des Geräts rum bis du ein sprödes Schnappen von innen hörst.
 
-"Ak", sagt die tote Kreatur. Ihr kleiner Mund bewegt sich nicht. "Ak", sagt sie lauter.  
+"Ak", sagt die tote Kreatur. Ihr kleiner Mund bewegt sich nicht. "Ak", sagt sie lauter.
 
-Dann schreit sie. "Ak! Ak! Ak! Ak!" Du hast gerade noch Zeit, darüber nachzudenken, was das Wort bedeutet, als das Gerät in deiner Hand explodiert. Es war offensichtlich ein Alarmsignal. 
+Dann schreit sie. "Ak! Ak! Ak! Ak!" Du hast gerade noch Zeit, darüber nachzudenken, was das Wort bedeutet, als das Gerät in deiner Hand explodiert. Es war offensichtlich ein Alarmsignal.
 {SOUND: "Ak" rising in volume and tempo}
 {SCRIPT: Increases character Might pool by one}
 {SCRIPT: Removes dispenser from inventory.}
@@ -170,21 +170,21 @@ Dann schreit sie. "Ak! Ak! Ak! Ak!" Du hast gerade noch Zeit, darüber nachzuden
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Du drehst das Gerät auf den Kopf, um dir die eingravierte Sonne auf der Unterseite anzusehen. Du kannst immer noch nichts damit anfangen. 
+      <DefaultText>Du drehst das Gerät auf den Kopf, um dir die eingravierte Sonne auf der Unterseite anzusehen. Du kannst immer noch nichts damit anfangen.
 {GAVIN: Is item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Du drehst das Gerät, um dir das Gehäuse anzusehen. Der Kopf der toten Kreatur baumelt knochenlos, wie ein Pendel aus Fleisch.   
+      <DefaultText>Du drehst das Gerät, um dir das Gehäuse anzusehen. Der Kopf der toten Kreatur baumelt knochenlos, wie ein Pendel aus Fleisch.
 
-Unten, gegenüber vom Kopf, findest du die Gravur einer Sonne mit einem Loch in der Mitte. Dir ist das Symbol gänzlich unbekannt, und du weißt auch nicht, ob es eine Herstellermarke oder etwas ganz anderes ist. 
+Unten, gegenüber vom Kopf, findest du die Gravur einer Sonne mit einem Loch in der Mitte. Dir ist das Symbol gänzlich unbekannt, und du weißt auch nicht, ob es eine Herstellermarke oder etwas ganz anderes ist.
 {GAVIN: Is item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Du bemerkst winzige Markierungen unter den herausstehenden Händen. Sie scheinen mehr als nur einfach Verzierungen zu sein. 
+      <DefaultText>Du bemerkst winzige Markierungen unter den herausstehenden Händen. Sie scheinen mehr als nur einfach Verzierungen zu sein.
 
 Du fährst mit deinen Fingern darüber, vorsichtig untersuchend. Rippen. Sie scheinen die Rippen der Kreatur zu sein, die durch die warme Haut des Geräts drücken.</DefaultText>
       <FemaleText />
@@ -205,14 +205,14 @@ Du hast keine Ahnung, warum. Und jetzt wirst du es auch nie mehr erfahren.</Defa
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Als du das geronnene Blut durchsuchst, entdeckst du ein winziges blinkendes Knötchen. Vielleicht hielt das die Kreatur die ganze Zeit am Leben. 
+      <DefaultText>Als du das geronnene Blut durchsuchst, entdeckst du ein winziges blinkendes Knötchen. Vielleicht hielt das die Kreatur die ganze Zeit am Leben.
 {SCRIPT: Conversation disabled after this node.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Als die Blendung nachlässt, fühlst du dich kräftiger. Stärker. Scheinbar wurde die Kreatur in diesem Gerät von einer Art organischer Batterie am Leben gehalten, die du bei deinem Experiment beschädigt hast. 
-Warum sie dich bei der Explosion stärker machte, statt dich zu töten, ist allen ein Rätsel. 
+      <DefaultText>Als die Blendung nachlässt, fühlst du dich kräftiger. Stärker. Scheinbar wurde die Kreatur in diesem Gerät von einer Art organischer Batterie am Leben gehalten, die du bei deinem Experiment beschädigt hast.
+Warum sie dich bei der Explosion stärker machte, statt dich zu töten, ist allen ein Rätsel.
 {SCRIPT: Increases character Might pool by one}
 {SCRIPT: Conversation disabled after this node.}</DefaultText>
       <FemaleText />
@@ -264,7 +264,7 @@ Warum sie dich bei der Explosion stärker machte, statt dich zu töten, ist alle
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Kopf am Stiel, hm?" sagt Tybir und beugt sich näher ran. "So was hab ich mal auf einer Party gesehen. Allerdings war es da keine entzückende kleine Kreatur ..."
+      <DefaultText>"Kopf am Stiel, hm?", sagt Tybir und beugt sich näher ran. "So was hab ich mal auf einer Party gesehen. Allerdings war es da keine entzückende kleine Kreatur ..."
 
 Er denkt zurück, versucht, sich zu erinnern.</DefaultText>
       <FemaleText />
@@ -286,7 +286,7 @@ Er denkt zurück, versucht, sich zu erinnern.</DefaultText>
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Ah ja. Es war eine Art fleischiger Stiel mit sieben Gesichtern. Es öffnete seine Münder und schrie: 'Befriedigt meine Atemlöcher!'" 
+      <DefaultText>"Ah ja. Es war eine Art fleischiger Stiel mit sieben Gesichtern. Es öffnete seine Münder und schrie: 'Befriedigt meine Atemlöcher!'"
 
 Tybir räuspert sich. "Es gibt Tausende Wege, um die Stimmung bei einer Orgie zu ruinieren. Das ist einer davon."</DefaultText>
       <FemaleText />
@@ -303,19 +303,19 @@ Tybir räuspert sich. "Es gibt Tausende Wege, um die Stimmung bei einer Orgie zu
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Callistege seufzt. 
+      <DefaultText>Callistege seufzt.
 
 "Nun, eine wertvolle Lektion für alle Anwesenden, denke ich. Ausgenommen der Kreatur vermutlich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Oh nein" sagt Erritis niedergeschlagen. "Du hast es zu Tode gedrückt."</DefaultText>
+      <DefaultText>"Oh nein", sagt Erritis niedergeschlagen. "Du hast es zu Tode gedrückt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Matkina kichert. 
+      <DefaultText>Matkina kichert.
 
 "Abscheulich", sagt sie genüsslich.</DefaultText>
       <FemaleText />

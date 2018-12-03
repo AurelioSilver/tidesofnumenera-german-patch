@@ -8,12 +8,12 @@
       <ID>1</ID>
       <DefaultText>Diese kleine Nische hat kaum einen eigenen Schlund verdient. Sie ist eine abgestandene Stelle aus gerissenem, gehärtetem Fleisch.
 
-Die Ecke enthält ein einziges menschliches Skelett, dessen Beine teilweise von der Wand der Flor verschlungen sind. Die Knochen haben einen metallischen Glanz, und eine feine Schicht silberner Schuppen umgibt sie. Sie sehen Fisch- oder Echsenschuppen ähnlich.</DefaultText>
+Die Ecke enthält ein einziges menschliches Skelett, dessen Beine teilweise von der Wand der Flor verschlungen sind. Die Knochen haben einen metallischen Glanz und eine feine Schicht silberner Schuppen umgibt sie. Sie sehen Fisch- oder Echsenschuppen ähnlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Dieses Skelett hat einen metallischen Glanz, und es ist von einer feinen Schicht silberner Schuppen umgeben. Seine Beine stecken in der fleischigen Wand.</DefaultText>
+      <DefaultText>Dieses Skelett hat einen metallischen Glanz und es ist von einer feinen Schicht silberner Schuppen umgeben. Seine Beine stecken in der fleischigen Wand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,7 +23,7 @@ Die Ecke enthält ein einziges menschliches Skelett, dessen Beine teilweise von 
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Du hebst das Skelett etwas an - es ist viel schwerer, als du erwartet hast, und es fühlt sich so an, als würdest du nicht Knochen, sondern Metall anheben. Unter ihm liegt ein aufwändig gestalteter Hammer. Der Kopf leuchtet etwas, und eine goldene Kette baumelt von seinem Stiel.</DefaultText>
+      <DefaultText>Du hebst das Skelett etwas an – es ist viel schwerer, als du erwartet hast, und es fühlt sich so an, als würdest du nicht Knochen, sondern Metall anheben. Unter ihm liegt ein aufwendig gestalteter Hammer. Der Kopf leuchtet etwas und eine goldene Kette baumelt von seinem Stiel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,16 +43,16 @@ Die Ecke enthält ein einziges menschliches Skelett, dessen Beine teilweise von 
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Du erkennst, dass die Knochenstruktur von einem weiblichen Menschen stammt... obwohl diese Frau ungewöhnlich groß, stämmig und wahrscheinlich sehr stark war. Die Knochen waren an mehreren Stellen gebrochen, aber wurden von einer silbernen Substanz repariert, die sie wieder miteinander verschmolz, stärker als zuvor.
+      <DefaultText>Du erkennst, dass die Knochenstruktur von einem weiblichen Menschen stammt… obwohl diese Frau ungewöhnlich groß, stämmig und wahrscheinlich sehr stark war. Die Knochen waren an mehreren Stellen gebrochen, aber wurden von einer silbernen Substanz repariert, die sie wieder miteinander verschmolz, stärker als zuvor.
 
 Es hat den Anschein, dass die silberne Substanz aus dem *Inneren* des Skeletts kam und nach und nach einen Großteil der ursprünglichen Knochenstruktur ersetzte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Er kniet neben dem Skelett nieder, sein geübtes Auge streift darüber. "Weiblicher Mensch. Das kann man an den Hüften sehen. Aber schau her, sie war stark - ihre Schultern sind breit, und die Verschleißmuster lassen darauf schließen, dass sie eine Kriegerin war. Ich sehe viele Brüche, aber die Knochen wurden von diesem... silbernen Metall repariert. Und das ist interessant. Das Metall kam aus dem *Inneren* der Knochen." Er richtet sich ächzend auf.
+      <DefaultText>Er kniet neben dem Skelett nieder, sein geübtes Auge streift darüber. „Weiblicher Mensch. Das kann man an den Hüften sehen. Aber schau her, sie war stark – ihre Schultern sind breit, und die Verschleißmuster lassen darauf schließen, dass sie eine Kriegerin war. Ich sehe viele Brüche, aber die Knochen wurden von diesem… silbernen Metall repariert. Und das ist interessant. Das Metall kam aus dem *Inneren* der Knochen.“ Er richtet sich ächzend auf.
 
-"Wer auch immer sie war, ich hätte ihr nicht in die Quere kommen wollen."</DefaultText>
+„Wer auch immer sie war, ich hätte ihr nicht in die Quere kommen wollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@ Es hat den Anschein, dass die silberne Substanz aus dem *Inneren* des Skeletts k
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Als du den Hammer aufhebst, fühlst du, wie eine Präsenz deinen Verstand berührt, ein Ruf von Ruhm und Macht. Der Kopf des Hammers scheint ein wenig heller zu leuchten, und er knistert vor Elektrizität.</DefaultText>
+      <DefaultText>Als du den Hammer aufhebst, fühlst du, wie eine Präsenz deinen Verstand berührt, ein Ruf von Ruhm und Macht. Der Kopf des Hammers scheint ein wenig heller zu leuchten und er knistert vor Elektrizität.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,7 +77,7 @@ Es hat den Anschein, dass die silberne Substanz aus dem *Inneren* des Skeletts k
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Dieses Skelett hat einen metallischen Glanz, und es ist von einer feinen Schicht silberner Schuppen umgeben. Seine Beine stecken in der fleischigen Wand fest.
+      <DefaultText>Dieses Skelett hat einen metallischen Glanz und es ist von einer feinen Schicht silberner Schuppen umgeben. Seine Beine stecken in der fleischigen Wand fest.
 
 Unterhalb des Leichnams kannst du immer noch einen schwach leuchtenden Hammer sehen.</DefaultText>
       <FemaleText />

@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Ein blasses, blaues Licht pulsiert sachte. Die Luft in diesem Raum fühlt sich geladen an, beinahe fassbar. Ein kleines Bedienfeld aus Glas - offenbar in der Luft schwebend - blinkt und füllt sie mit winzigen Bildern.</DefaultText>
+      <DefaultText>Ein blasses, blaues Licht pulsiert sachte. Die Luft in diesem Raum fühlt sich geladen an, beinahe fassbar. Ein kleines Bedienfeld aus Glas – offenbar in der Luft schwebend – blinkt und füllt sie mit winzigen Bildern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Der beinahe transparente Varjellen spricht. "Was beabsichtigst du hiermit? Leiden wird entstehen, wenn du nicht aufgibst."</DefaultText>
+      <DefaultText>Der beinahe transparente Varjellen spricht. „Was beabsichtigst du hiermit? Leiden wird entstehen, wenn du nicht aufgibst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,28 +36,28 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Die Frau zeigt auf sich selbst und sagt: "Ahn. Die anderen sind Torcra, der Varjellen. Bndari und ihre Gefährtin, Methanwi." Sie gestikuliert.
+      <DefaultText>Die Frau zeigt auf sich selbst und sagt: „Ahn. Die anderen sind Torcra, der Varjellen. Bndari und ihre Gefährtin, Methanwi.“ Sie gestikuliert.
 
-"Wir existieren nicht, weil wir tot sind, in dem Unfall zu Tode zerquetscht. Wir sind Projektionen ..." (und jetzt ändert sich die Stimme) " ... meiner Erinnerung. Ich bin die Intelligenz des Katena. Diese Projektionen sind das Mahnmal meines Versagens, meinen Passagieren zu dienen."</DefaultText>
+„Wir existieren nicht, weil wir tot sind, in dem Unfall zu Tode zerquetscht. Wir sind Projektionen …“ (und jetzt ändert sich die Stimme) „… meiner Erinnerung. Ich bin die Intelligenz des Katena. Diese Projektionen sind das Mahnmal meines Versagens, meinen Passagieren zu dienen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Deine Macht wird hier nicht für immer andauern. Dein Wissen in meinen Geist zu übertragen, wird das Überleben deiner Erinnerungen sichern."</DefaultText>
+      <DefaultText>„Deine Macht wird hier nicht für immer andauern. Dein Wissen in meinen Geist zu übertragen, wird das Überleben deiner Erinnerungen sichern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Ceredigs Geist reflektiert. "Du ... du könntest recht haben. Der Verlust physischen Platzes könnte durch einen länger anhaltenden und persönlicheren Speicherplatz behoben werden. Ich führe ein neutrales Netzwerk mit mir. Lass uns eine direkte Verbindung herstellen. Ich besitze das notwendige Instrument."
+      <DefaultText>Ceredigs Geist reflektiert. „Du … du könntest recht haben. Der Verlust physischen Platzes könnte durch einen länger anhaltenden und persönlicheren Speicherplatz behoben werden. Ich führe ein neutrales Netzwerk mit mir. Lass uns eine direkte Verbindung herstellen. Ich besitze das notwendige Instrument.“
 
 Ein verstecktes Bedienfeld öffnet sich. In ihm liegt eine Masse aus Metalldrähten, die leicht an einen Kopf erinnert, mit Spitzen und Kanten.
 
-"Setze das auf deinen Kopf", murmelt er. "Ein paar Augenblicke noch, dann können wir den Datentransfer starten."</DefaultText>
+„Setze das auf deinen Kopf“, murmelt er. „Ein paar Augenblicke noch, dann können wir den Datentransfer starten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Ahn tritt nach vorne. "Das Verfahren erscheint gefährlich. Die Möglichkeit, dass Fehler während des Transfers auftreten, ist groß. Wir kennen wenige Fälle, in denen solch eine Verbindung erfolgreich war. Vielleicht ist es das beste, wenn wir ablehnen."</DefaultText>
+      <DefaultText>Ahn tritt nach vorne. „Das Verfahren erscheint gefährlich. Die Möglichkeit, dass Fehler während des Transfers auftreten, ist groß. Wir kennen wenige Fälle, in denen solch eine Verbindung erfolgreich war. Vielleicht ist es das beste, wenn wir ablehnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,24 +72,24 @@ Ein verstecktes Bedienfeld öffnet sich. In ihm liegt eine Masse aus Metalldräh
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Weißt du, dass einer der Passagiere überlebt hat? Eine Frau namens Qianne lebt noch ganz in der Nähe."</DefaultText>
+      <DefaultText>„Weißt du, dass einer der Passagiere überlebt hat? Eine Frau namens Qianne lebt noch ganz in der Nähe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Die Projektionen sprechen gleichzeitig. "Meine externen Sensoren wurden zerstört. Einige Passagiere wurden hinausgeschleudert. Berechnungen legen nahe, dass niemand einen solchen Unfall überlebt haben könnte."
+      <DefaultText>Die Projektionen sprechen gleichzeitig. „Meine externen Sensoren wurden zerstört. Einige Passagiere wurden hinausgeschleudert. Berechnungen legen nahe, dass niemand einen solchen Unfall überlebt haben könnte.“
 
-{SCRIPT:  Apply an asset that makes it easier to convince the AI to upload itself into your Labyrinth.}</DefaultText>
+{SCRIPT: Apply an asset that makes it easier to convince the AI to upload itself into your Labyrinth.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Warum errichtest du ein Mahnmal für deine Passagiere?"</DefaultText>
+      <DefaultText>„Warum errichtest du ein Mahnmal für deine Passagiere?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Ein anderer Geist tritt nach vorne. "Ich speichere Erinnerungen der Handlungen meiner Passagiere. Ich habe gesehen, wie sie leben. Ich habe in mir gespürt, wie sie sterben. Was könnte ich anderes tun, als ihnen ein Mahnmal zu widmen? Sie hätten noch viele Jahre leben können, wenn mir nicht dieser Fehler passiert wäre."</DefaultText>
+      <DefaultText>Ein anderer Geist tritt nach vorne. „Ich speichere Erinnerungen der Handlungen meiner Passagiere. Ich habe gesehen, wie sie leben. Ich habe in mir gespürt, wie sie sterben. Was könnte ich anderes tun, als ihnen ein Mahnmal zu widmen? Sie hätten noch viele Jahre leben können, wenn mir nicht dieser Fehler passiert wäre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,12 +110,12 @@ Du entfernst sachte die Klammern, die den aktiven Zylinder an seinem Platz halte
 
 Du stehst alleine in der Dunkelheit. Alles um dich herum ist still und regungslos.
 
-{SOUND:  We're currently shutting down the lights here, but might want some SFX to go with it.}</DefaultText>
+{SOUND: We're currently shutting down the lights here, but might want some SFX to go with it.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Du untersuchst sorgfältig das Bedienfeld. Du vermutest, dass wenn der Katena in Bewegung wäre, er viel mehr Informationen übermitteln würde, als zur Zeit verfügbar ist. So wie es jetzt ist, kannst du sehen, dass er entlang einer Route, die spezifischen, transdimensionalen Wegen folgt, zu tausenden von Zielen gereist ist, auf einer Umlaufbahn, die - wenn du das richtig liest - bis zu den Sternen reicht.</DefaultText>
+      <DefaultText>Du untersuchst sorgfältig das Bedienfeld. Du vermutest, dass wenn der Katena in Bewegung wäre, er viel mehr Informationen übermitteln würde, als zurzeit verfügbar ist. So wie es jetzt ist, kannst du sehen, dass er entlang einer Route, die spezifischen, transdimensionalen Wegen folgt, zu tausenden von Zielen gereist ist, auf einer Umlaufbahn, die – wenn du das richtig liest – bis zu den Sternen reicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -135,14 +135,14 @@ Du stehst alleine in der Dunkelheit. Alles um dich herum ist still und regungslo
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Es scheint so, als ob die Bögen nach einem komplizierten Muster auftreten, aber einige Momente, in denen du das Muster beobachtest, klären es in deinem Geist. Deine Finger greifen hinein und hinaus, bis du es endlich schaffst, den Prozess abzuschließen. 
+      <DefaultText>Es scheint so, als ob die Bögen nach einem komplizierten Muster auftreten, aber einige Momente, in denen du das Muster beobachtest, klären es in deinem Geist. Deine Finger greifen hinein und hinaus, bis du es endlich schaffst, den Prozess abzuschließen.
 
 Der Leistungskern wurde aus der Konstruktion entfernt. Jetzt musst du ihn in das Gehäuse einfügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Nach einigen intensiven Untersuchungen kommst du zu dem Schluss, dass die Symbole auf dem Bedienfeld anzeigen, dass der Leistungskern sich außerhalb seines Gehäuses befindet. Du wirst den Kern in sein Gehäuse transferieren müssen, bevor du ihn entfernen kannst. 
+      <DefaultText>Nach einigen intensiven Untersuchungen kommst du zu dem Schluss, dass die Symbole auf dem Bedienfeld anzeigen, dass der Leistungskern sich außerhalb seines Gehäuses befindet. Du wirst den Kern in sein Gehäuse transferieren müssen, bevor du ihn entfernen kannst.
 
 Ein winziges Bild erscheint im oberen rechten Eck des Bedienfeldes. Es zeigt eine unterbrochene Verbindung zwischen dem Bedienfeld und seiner Energiequelle an. Du wirst den Transfer nicht durchführen können, solange das Bedienfeld nicht genug Energie bekommt.</DefaultText>
       <FemaleText />
@@ -161,7 +161,7 @@ Du imitierst seine Bewegungen und das Bedienfeld erhält wieder volle Funktional
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Jetzt, da die Energiequelle wieder hergestellt wurde, kannst du den Transfer des Kerns beenden, es scheint - zumindest laut der Anleitung - dass die letzte Aufgabe ist, das Gehäuse zu entfernen.
+      <DefaultText>Jetzt, da die Energiequelle wieder hergestellt wurde, kannst du den Transfer des Kerns beenden, es scheint – zumindest laut der Anleitung – dass die letzte Aufgabe ist, das Gehäuse zu entfernen.
 
 Leider scheint das Gehäuse zu klemmen. Eine Lichtsäule hält das Gerät fest in seinem Gehäuse.
 
@@ -185,9 +185,9 @@ Es scheint, dass der Katena gegen dich arbeitet, um dich aufzuhalten.</DefaultTe
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Es ist, als ob du hinunterblickst auf eine Milliarde Sterne, die um Löcher reiner *Leere* wirbeln, eine Dunkelheit, die tiefer ist, als alles was du bisher gesehen hast. Du siehst rote Linien, die sich in Infrarot und dann in Schwärze verwandeln und dann brechen die Löcher auf in einen brilliantweißen Brunnen. Das Fundament gibt Sterne frei, die um neue Löcher kreisen, schwarz werden und der Kreislauf beginnt von vorne. 
+      <DefaultText>Es ist, als ob du hinunterblickst auf eine Milliarde Sterne, die um Löcher reiner *Leere* wirbeln, eine Dunkelheit, die tiefer ist, als alles was du bisher gesehen hast. Du siehst rote Linien, die sich in Infrarot und dann in Schwärze verwandeln und dann brechen die Löcher auf in einen brilliantweißen Brunnen. Das Fundament gibt Sterne frei, die um neue Löcher kreisen, schwarz werden und der Kreislauf beginnt von vorne.
 
-Der Kartena scheint von kollabierenden Singularitäten betrieben zu werden.
+Der Katena scheint von kollabierenden Singularitäten betrieben zu werden.
 
 {DP}</DefaultText>
       <FemaleText />
@@ -273,12 +273,12 @@ Du stellst fest, dass die Geister die ganze Zeit still waren. Sie starren fest a
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Ich könnte einen Weg gefunden haben, deinen Passagieren ein länger anhaltendes Denkmal zu geben. Ich trage einen geteilten Erinnerungsspeicher in meinem Geist. Wenn wir unseren Geist miteinander verbinden können, könnten wir die Erinnerungen deiner Passagiere bewahren."</DefaultText>
+      <DefaultText>„Ich könnte einen Weg gefunden haben, deinen Passagieren ein länger anhaltendes Denkmal zu geben. Ich trage einen geteilten Erinnerungsspeicher in meinem Geist. Wenn wir unseren Geist miteinander verbinden können, könnten wir die Erinnerungen deiner Passagiere bewahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Einer der Geister - du denkst es ist Bndari - sagt: "In deinem Geist." Es ist keine Frage. "Keine meiner medizinischen Aufzeichnungen geben einen Hinweis darauf, dass so etwas möglich ist."</DefaultText>
+      <DefaultText>Einer der Geister – du denkst es ist Bndari – sagt: „In deinem Geist.“ Es ist keine Frage. „Keine meiner medizinischen Aufzeichnungen geben einen Hinweis darauf, dass so etwas möglich ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,7 +293,7 @@ Du stellst fest, dass die Geister die ganze Zeit still waren. Sie starren fest a
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Die Mutanten werden diesen Ort nach Teilen durchsuchen und plündern. Früher oder später werden sie deine Energiequelle nehmen ... und deine Passagiere werden für immer verloren sein."</DefaultText>
+      <DefaultText>„Die Mutanten werden diesen Ort nach Teilen durchsuchen und plündern. Früher oder später werden sie deine Energiequelle nehmen … und deine Passagiere werden für immer verloren sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,7 +313,7 @@ Du stellst fest, dass die Geister die ganze Zeit still waren. Sie starren fest a
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Telemetrie, Ziel, Zugang zu alten Aufzeichnungen, Umgebungstemperaturen ... es ist beinahe zu viel, um es zu verarbeiten, aber du schaffst es, den überwältigenden Strom zu bündeln und in den Hintergrund zu drängen.
+      <DefaultText>Telemetrie, Ziel, Zugang zu alten Aufzeichnungen, Umgebungstemperaturen … es ist beinahe zu viel, um es zu verarbeiten, aber du schaffst es, den überwältigenden Strom zu bündeln und in den Hintergrund zu drängen.
 
 Einer nach dem anderen beginnen die Geister um dich herum zu verschwinden. Du kannst fühlen, wie sie in dir erwachen.
 
@@ -322,11 +322,11 @@ Einer nach dem anderen beginnen die Geister um dich herum zu verschwinden. Du ka
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Du platzierst das Netz nochmal auf deinem Kopf. Dieses Mal wappnest du dich gegen die aufdringlichen Drähte und sie tasten sich hinter deine Augen vor. Sie treffen deine optischen Nerven und der Schmerz ist unerträglich. 
+      <DefaultText>Du platzierst das Netz nochmal auf deinem Kopf. Dieses Mal wappnest du dich gegen die aufdringlichen Drähte und sie tasten sich hinter deine Augen vor. Sie treffen deine optischen Nerven und der Schmerz ist unerträglich.
 
-Du fängst das Flackern seltsamer stellarer Formationen ein, ein Wurmloch, das ein dunkles und violettes Feld im Himmel durchbohrt, eine gigantische Explosion von Leben hinter dem rasenden Katena ...
+Du fängst das Flackern seltsamer stellarer Formationen ein, ein Wurmloch, das ein dunkles und violettes Feld im Himmel durchbohrt, eine gigantische Explosion von Leben hinter dem rasenden Katena …
 
-... aber die Belastung deines Versuches, diesen Geist mit deinem zu verbinden, wird deutlich - ein durchdringender Blitz von Schmerz zerreißt deine Konzentration auseinander. Du gibst keuchend auf.</DefaultText>
+… aber die Belastung deines Versuches, diesen Geist mit deinem zu verbinden, wird deutlich – ein durchdringender Blitz von Schmerz zerreißt deine Konzentration auseinander. Du gibst keuchend auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,7 +356,7 @@ Du fängst das Flackern seltsamer stellarer Formationen ein, ein Wurmloch, das e
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Die Lichter in dem Katena flackern und verdunkeln sich, erlöschen langsam, als die verbleibende Energie in ihnen zuneige geht. Die weiter entfernten Lichter erlöschen zuerst, Dunkelheit breitet sich dem Katena entlang in Richtung der Energiequelle aus. 
+      <DefaultText>Die Lichter in dem Katena flackern und verdunkeln sich, erlöschen langsam, als die verbleibende Energie in ihnen zur Neige geht. Die weiter entfernten Lichter erlöschen zuerst, Dunkelheit breitet sich dem Katena entlang in Richtung der Energiequelle aus.
 
 {SOUND: This could use a powering down sound played here.}</DefaultText>
       <FemaleText />
@@ -423,17 +423,17 @@ Du fängst das Flackern seltsamer stellarer Formationen ein, ein Wurmloch, das e
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ich bin ... dankbar ... für diese Information." Die Stimme des Katena ist gedämpft, beinahe nachdenklich.</DefaultText>
+      <DefaultText>„Ich bin … dankbar … für diese Information.“ Die Stimme des Katena ist gedämpft, beinahe nachdenklich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Der andere Mann nimmt den Gesprächsfaden auf. "Ich bin Ceredig und gehöre dem Handelsadel an. Ich war auf einer Vergnügungsreise mit der Absicht, mein Geschäft auszubauen. Auch ich existiere nicht."</DefaultText>
+      <DefaultText>Der andere Mann nimmt den Gesprächsfaden auf. „Ich bin Ceredig und gehöre dem Handelsadel an. Ich war auf einer Vergnügungsreise mit der Absicht, mein Geschäft auszubauen. Auch ich existiere nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Ich wurde mit einem Verlangen ausgestattet, den Katena zu steuern und dafür zu sorgen, dass meine Passagiere sicher ankommen. Das wird mir verwehrt. Mein zweitrangiges Ziel ist, das Wissen und die Erinnerung an die Umstände zu bewahren, die zu ihrem Tod geführt haben damit zusammenhängen. Das wird dabei behilflich sein, die Ereignisse des Unfalls zu rekonstruieren und könnte den Überlebenden Trost spenden."</DefaultText>
+      <DefaultText>„Ich wurde mit einem Verlangen ausgestattet, den Katena zu steuern und dafür zu sorgen, dass meine Passagiere sicher ankommen. Das wird mir verwehrt. Mein zweitrangiges Ziel ist, das Wissen und die Erinnerung an die Umstände zu bewahren, die zu ihrem Tod geführt haben damit zusammenhängen. Das wird dabei behilflich sein, die Ereignisse des Unfalls zu rekonstruieren und könnte den Überlebenden Trost spenden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -443,12 +443,12 @@ Du fängst das Flackern seltsamer stellarer Formationen ein, ein Wurmloch, das e
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Wer *seid* Ihr überhaupt?"</DefaultText>
+      <DefaultText>„Wer *seid* Ihr überhaupt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Erzähle mir noch einmal von diesen Geistern."</DefaultText>
+      <DefaultText>„Erzähle mir noch einmal von diesen Geistern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -458,22 +458,22 @@ Du fängst das Flackern seltsamer stellarer Formationen ein, ein Wurmloch, das e
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Einer der Männer, dessen feine Kleidung leicht ungepflegt und schmutzig aussieht, schaut dich einen Moment lang an, als ob er abwägen würde, ob er dir die Wahrheit sagen soll. Schließlich sagt er: "Ich bin Anstoll. Ich existiere nicht."</DefaultText>
+      <DefaultText>Einer der Männer, dessen feine Kleidung leicht ungepflegt und schmutzig aussieht, schaut dich einen Moment lang an, als ob er abwägen würde, ob er dir die Wahrheit sagen soll. Schließlich sagt er: „Ich bin Anstoll. Ich existiere nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Der Varjellen beantwortet deine Frage. "Wir haben es dir schon einmal gesagt. Wir sind die Projektionen - ", die Stimmt verändert sich und fährt fort, " - meines Maschinengeistes. Sie existieren jetzt als ein Denkmal für die gefallenen Passagiere, ein Beleg für mein Versagen, sie zu retten."</DefaultText>
+      <DefaultText>Der Varjellen beantwortet deine Frage. „Wir haben es dir schon einmal gesagt. Wir sind die Projektionen –“, die Stimmt verändert sich und fährt fort, „– meines Maschinengeistes. Sie existieren jetzt als ein Denkmal für die gefallenen Passagiere, ein Beleg für mein Versagen, sie zu retten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Bis eine solche Zeit als qualifizierter Diagnostiker für mich gekommen ist, kann ich meinem Kern nicht erlauben zu ruhen. Stattdessen betreibt die Emotion, die ich als 'Trauer' identifiziere, meinen Bildschirm."</DefaultText>
+      <DefaultText>„Bis eine solche Zeit als qualifizierter Diagnostiker für mich gekommen ist, kann ich meinem Kern nicht erlauben zu ruhen. Stattdessen betreibt die Emotion, die ich als 'Trauer' identifiziere, meinen Bildschirm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Ihre Partnerin Mathanwi fügt hinzu: "Allerdings gebe ich zu, dass mein Wissen unvollständig ist. Falls das möglich ist ... aber nein. Meine Pflicht ist es, die Erinnerungen der Passagiere hier am Leben zu erhalten."</DefaultText>
+      <DefaultText>Ihre Partnerin Methanwi fügt hinzu: „Allerdings gebe ich zu, dass mein Wissen unvollständig ist. Falls das möglich ist … aber nein. Meine Pflicht ist es, die Erinnerungen der Passagiere hier am Leben zu erhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -488,14 +488,14 @@ Du fängst das Flackern seltsamer stellarer Formationen ein, ein Wurmloch, das e
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Ein Sturm aus Bildern rast in deinen Kopf. Telemetrie, Ziel, Zugang zu alten Aufzeichnungen, Umgebungstemperaturen ... es ist beinahe zu viel, um es zu verarbeiten, aber du schaffst es, den überwältigenden Strom zu bündeln und in den Hintergrund zu drängen.
+      <DefaultText>Ein Sturm aus Bildern rast in deinen Kopf. Telemetrie, Ziel, Zugang zu alten Aufzeichnungen, Umgebungstemperaturen … es ist beinahe zu viel, um es zu verarbeiten, aber du schaffst es, den überwältigenden Strom zu bündeln und in den Hintergrund zu drängen.
 
 Einer nach dem anderen beginnen die Geister um dich herum zu verschwinden. Du kannst fühlen, wie sie in dir erwachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Die Lichter in dem Katena flackern und verdunkeln sich, erlöschen langsam, als die verbleibende Energie in ihnen zuneige geht. Die weiter entfernten Lichter erlöschen zuerst, Dunkelheit breitet sich dem Katena entlang in Richtung der Energiequelle aus. Als die langsame Welle von Dunkelheit wächst, reißt sie auch die Geister in die Vergessenheit.
+      <DefaultText>Die Lichter in dem Katena flackern und verdunkeln sich, erlöschen langsam, als die verbleibende Energie in ihnen zur Neige geht. Die weiter entfernten Lichter erlöschen zuerst, Dunkelheit breitet sich dem Katena entlang in Richtung der Energiequelle aus. Als die langsame Welle von Dunkelheit wächst, reißt sie auch die Geister in die Vergessenheit.
 
 {SOUND: This could use a powering down sound played here.}</DefaultText>
       <FemaleText />
@@ -522,17 +522,17 @@ Einer nach dem anderen beginnen die Geister um dich herum zu verschwinden. Du ka
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Der Varjellengeist schaltet sich ein. "Wir sind besorgt. Wir bitten dich darum, es nochmal zu überdenken."</DefaultText>
+      <DefaultText>Der Varjellengeist schaltet sich ein. „Wir sind besorgt. Wir bitten dich darum, es nochmal zu überdenken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
       <DefaultText>Die Geister kehren zurück, drängen sich um dich und versuchen deine Aufmerksamkeit von dem Bedienfeld wegzulenken.
 
-"Nein."
-"Stop."
-"Was wird aus uns werden?"
-"Lass uns in Frieden."</DefaultText>
+„Nein.“
+„Stop.“
+„Was wird aus uns werden?“
+„Lass uns in Frieden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -572,43 +572,43 @@ Einer nach dem anderen beginnen die Geister um dich herum zu verschwinden. Du ka
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Nun, Liebes, du bist gewiss voller Überraschungen. Lass mich wissen, wenn dein Geist ein bisschen zu voll wird, ja?"</DefaultText>
+      <DefaultText>„Nun, Liebes, du bist gewiss voller Überraschungen. Lass mich wissen, wenn dein Geist ein bisschen zu voll wird, ja?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Du schließt deine Augen und hörst dem übersinnlichen Gerede der Geister zu ... und dann realisierst du, dass sie keine eigenen Gedanken haben. Sie werden von einem zentralen Punkt aus kontrolliert.
+      <DefaultText>Du schließt deine Augen und hörst dem übersinnlichen Gerede der Geister zu … und dann realisierst du, dass sie keine eigenen Gedanken haben. Sie werden von einem zentralen Punkt aus kontrolliert.
 
 Du fokussierst deine Gedanken auf den Kern, aber dessen übernatürliche Abwehr ist undurchdringlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Wir müssen uns verweigern." Die Stimme scheint aus der Luft um dich herum zu kommen.</DefaultText>
+      <DefaultText>„Wir müssen uns verweigern.“ Die Stimme scheint aus der Luft um dich herum zu kommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>Du platzierst das Netz auf deinem Kopf und das Metall schneidet sich in deine Kopfhaut. Du spürst eine Kälte, als Blut hinunter in das Gerät tropft. Dünne Drähte dringen in dein peripheres Sehen ein und rutschen hinter deine Augen. Sie schneiden in deine optischen Nerven und der Schmerz lässt dich Sterne sehen. Die zerrissenen Formen von Schmerz lösen sich in die Welt um dich herum auf - in die Welt, wie sie der Katena sieht. 
+      <DefaultText>Du platzierst das Netz auf deinem Kopf und das Metall schneidet sich in deine Kopfhaut. Du spürst eine Kälte, als Blut hinunter in das Gerät tropft. Dünne Drähte dringen in dein peripheres Sehen ein und rutschen hinter deine Augen. Sie schneiden in deine optischen Nerven und der Schmerz lässt dich Sterne sehen. Die zerrissenen Formen von Schmerz lösen sich in die Welt um dich herum auf – in die Welt, wie sie der Katena sieht.
 
-"Verbindung hergestellt", verkündet der Katena.</DefaultText>
+„Verbindung hergestellt“, verkündet der Katena.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Du schaffst es nicht, die Verbindung herzustellen - dein Geist und der des Katena gehen aneinander vorbei und du gibst frustriert auf.</DefaultText>
+      <DefaultText>Du schaffst es nicht, die Verbindung herzustellen – dein Geist und der des Katena gehen aneinander vorbei und du gibst frustriert auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
       <DefaultText>Du ziehst den Käfig über deinen Kopf und die gezackten Stellen schneiden in deine Haut. Das Netz nimmt dein Blut auf. Am Rande deines Sichtfeldes siehst du zwei dünne Drähte. Du schaffst es gerade noch deine Hände rechtzeitig zu heben, bevor sie deine Augen durchstechen. Du schüttelst das Netz von deinem Kopf ab.
 
-Der Ton des Katena ist tadelnd. "Du hast die Verbindung verwehrt. Ich versichere dir, dass dir nichts passiert, wenn du dem ordnungsgemäßen Vorgang folgst."</DefaultText>
+Der Ton des Katena ist tadelnd. „Du hast die Verbindung verwehrt. Ich versichere dir, dass dir nichts passiert, wenn du dem ordnungsgemäßen Vorgang folgst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Die Geister um dich herum verdichten sich. "Du wirst uns in die Vergessenheit verdammen."
+      <DefaultText>Die Geister um dich herum verdichten sich. „Du wirst uns in die Vergessenheit verdammen.“
 
 Zwischen ihren Stimmen erklingt ein stärkerer Unterton, ein Ultraschallpuls, der in deinem Bauch vibriert.</DefaultText>
       <FemaleText />
@@ -630,7 +630,7 @@ Zwischen ihren Stimmen erklingt ein stärkerer Unterton, ein Ultraschallpuls, de
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Bitte hör auf", flüstern die Geister einstimmig. "Bitte."</DefaultText>
+      <DefaultText>„Bitte hör auf“, flüstern die Geister einstimmig. „Bitte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
