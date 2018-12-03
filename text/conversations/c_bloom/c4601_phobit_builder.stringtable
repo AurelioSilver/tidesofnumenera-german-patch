@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Bist du ein Phobit?"</DefaultText>
+      <DefaultText>„Bist du ein Phobit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Kannst du sprechen?"</DefaultText>
+      <DefaultText>„Kannst du sprechen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Was ist deine Funktion?"</DefaultText>
+      <DefaultText>„Was ist deine Funktion?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Erläutere mir nochmal deine Funktion."</DefaultText>
+      <DefaultText>„Erläutere mir nochmal deine Funktion.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,7 +70,7 @@ Innerhalb von Sekunden bildet sich in dem Bild vor dir diese gesamte Region der 
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich suche nach einem Ring aus dunklem, hyalinem Material – den Magmatischen Ring. Hast du ihn gesehen?"</DefaultText>
+      <DefaultText>„Ich suche nach einem Ring aus dunklem, hyalinem Material – den Magmatischen Ring. Hast du ihn gesehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,12 +87,12 @@ Nach einer Weile verlässt er die Höhle. Die Bilder bewegen sich daraufhin schn
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Warum hat sich die Höhle verschlossen?"</DefaultText>
+      <DefaultText>„Warum hat sich die Höhle verschlossen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Zeig mir nochmal die Kreatur in der Höhle."</DefaultText>
+      <DefaultText>„Zeig mir nochmal die Kreatur in der Höhle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,7 +112,7 @@ Nach einer Weile verlässt er die Höhle. Die Bilder bewegen sich daraufhin schn
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"*Du* hast die Höhle verschlossen, nicht wahr? Kannst du sie für mich wieder öffnen?"</DefaultText>
+      <DefaultText>„*Du* hast die Höhle verschlossen, nicht wahr? Kannst du sie für mich wieder öffnen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,13 +134,13 @@ Schließlich spürst du einen einzigen Kraftimpuls durch deinen Körper jagen. *
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Darf ich den Ort besuchen, an dem der Quishami gestorben ist?"</DefaultText>
-      <FemaleText>"Darf ich den Ort besuchen, an dem der Quishami gestorben ist?"</FemaleText>
+      <DefaultText>„Darf ich den Ort besuchen, an dem der Quishami gestorben ist?“</DefaultText>
+      <FemaleText>„Darf ich den Ort besuchen, an dem der Quishami gestorben ist?“</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Der Mann, der den Quishami tötete ... war er einer der Menschen, die jetzt dort ihr Lager aufgeschlagen haben?"</DefaultText>
-      <FemaleText>"Der Mann, der den Quishami tötete ... war er einer der Menschen, die jetzt dort ihr Lager aufgeschlagen haben?"</FemaleText>
+      <DefaultText>„Der Mann, der den Quishami tötete … war er einer der Menschen, die jetzt dort ihr Lager aufgeschlagen haben?“</DefaultText>
+      <FemaleText>„Der Mann, der den Quishami tötete … war er einer der Menschen, die jetzt dort ihr Lager aufgeschlagen haben?“</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -153,16 +153,16 @@ Auf der Oberfläche der Edelsteine siehst du das Plateau. Es ist ein Bild der Ge
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Das violette Licht blinkt für eine Sekunde – "Nein". Dann, nach einer weiteren Sekunde, spürst du den Impuls, der durch deinen Körper jagt und auf ein "Ja" hindeutet.
+      <DefaultText>Das violette Licht blinkt für eine Sekunde – „Nein“. Dann, nach einer weiteren Sekunde, spürst du den Impuls, der durch deinen Körper jagt und auf ein „Ja“ hindeutet.
 
 Sonst geschieht nichts.</DefaultText>
-      <FemaleText>Das violette Licht blinkt für eine Sekunde – "Nein". Dann, nach einer weiteren Sekunde, spürst du den Impuls, der durch deinen Körper jagt und auf ein "Ja" hindeutet.
+      <FemaleText>Das violette Licht blinkt für eine Sekunde – „Nein“. Dann, nach einer weiteren Sekunde, spürst du den Impuls, der durch deinen Körper jagt und auf ein „Ja“ hindeutet.
 
 Sonst geschieht nichts.</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Wiedersehen."</DefaultText>
+      <DefaultText>„Wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,13 +177,13 @@ Sonst geschieht nichts.</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Kannst du mir von den Menschen erzählen, die in der Nähe des Sprechers ihr Lager aufgeschlagen haben?"</DefaultText>
-      <FemaleText>"Kannst du mir von den Menschen erzählen, die in der Nähe des Sprechers ihr Lager aufgeschlagen haben?"</FemaleText>
+      <DefaultText>„Kannst du mir von den Menschen erzählen, die in der Nähe des Sprechers ihr Lager aufgeschlagen haben?“</DefaultText>
+      <FemaleText>„Kannst du mir von den Menschen erzählen, die in der Nähe des Sprechers ihr Lager aufgeschlagen haben?“</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Zeig mir nochmal, was mit dem Quishami geschehen ist."</DefaultText>
-      <FemaleText>"Zeig mir nochmal, was mit dem Quishami geschehen ist."</FemaleText>
+      <DefaultText>„Zeig mir nochmal, was mit dem Quishami geschehen ist.“</DefaultText>
+      <FemaleText>„Zeig mir nochmal, was mit dem Quishami geschehen ist.“</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
@@ -192,12 +192,12 @@ Sonst geschieht nichts.</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Du bekommst den starken Eindruck, dass der Impuls "Ja" bedeutet. Er ist eine Art Phobit, die sich von den anderen unterscheidet. Er hat vielleicht nicht die kommunikativen Qualitäten des Sprechers, doch er versucht trotzdem, mit dir zu reden.</DefaultText>
-      <FemaleText>Du bekommst den starken Eindruck, dass der Impuls "Ja" bedeutet. Er ist eine Art Phobit, die sich von den anderen unterscheidet. Er hat vielleicht nicht die kommunikativen Qualitäten des Sprechers, doch er versucht trotzdem, mit dir zu reden.</FemaleText>
+      <DefaultText>Du bekommst den starken Eindruck, dass der Impuls „Ja“ bedeutet. Er ist eine Art Phobit, die sich von den anderen unterscheidet. Er hat vielleicht nicht die kommunikativen Qualitäten des Sprechers, doch er versucht trotzdem, mit dir zu reden.</DefaultText>
+      <FemaleText>Du bekommst den starken Eindruck, dass der Impuls „Ja“ bedeutet. Er ist eine Art Phobit, die sich von den anderen unterscheidet. Er hat vielleicht nicht die kommunikativen Qualitäten des Sprechers, doch er versucht trotzdem, mit dir zu reden.</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Diese Kristallstruktur unterscheidet sich von den anderen. Sie sieht älter ... fundamentaler aus, doch keineswegs primitiv – sie ist eine der komplexesten Strukturen, die du an diesem Ort gesehen hast.
+      <DefaultText>Diese Kristallstruktur unterscheidet sich von den anderen. Sie sieht älter … fundamentaler aus, doch keineswegs primitiv – sie ist eine der komplexesten Strukturen, die du an diesem Ort gesehen hast.
 
 Große Teile von ihr leuchten und geben ein tiefes, dröhnendes Summen von sich, das du in deiner Brust spüren kannst. Verschwommene Lichter huschen über die Oberfläche ihrer größten Edelsteine.</DefaultText>
       <FemaleText />
@@ -286,8 +286,8 @@ Aus den Edelsteinen flackern wilde Lichter auf. Der Quishami fällt zusammen und
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Ich verstehe nicht."</DefaultText>
-      <FemaleText>"Ich verstehe nicht."</FemaleText>
+      <DefaultText>„Ich verstehe nicht.“</DefaultText>
+      <FemaleText>„Ich verstehe nicht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
@@ -311,7 +311,7 @@ Dieser Phobit vertraut ihnen nicht mehr, als er den Jäger mochte.</FemaleText>
       <ID>56</ID>
       <DefaultText>Die Kristalle geben einen weiteren einzelnen Impuls ab, der deinen Körper durchrüttelt.
 
-Du bekommst den starken Eindruck, dass der Impuls "Ja" bedeutet. Dieser Phobit ist nicht wie die anderen, die du bisher gesehen hast. Er hat vielleicht nicht die kommunikativen Qualitäten des Sprechers, doch er versucht trotzdem, mit dir zu reden.</DefaultText>
+Du bekommst den starken Eindruck, dass der Impuls „Ja“ bedeutet. Dieser Phobit ist nicht wie die anderen, die du bisher gesehen hast. Er hat vielleicht nicht die kommunikativen Qualitäten des Sprechers, doch er versucht trotzdem, mit dir zu reden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
