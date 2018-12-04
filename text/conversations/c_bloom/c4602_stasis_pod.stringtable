@@ -233,7 +233,7 @@ Die Stimme bricht ab. Der Eintrag endet hier.</DefaultText>
     <Entry>
       <ID>43</ID>
       <DefaultText>Eine männliche Stimme schallt durch den Raum.</DefaultText>
-      <FemaleText>Eine männliche Stimme schallt durch den Raum.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
@@ -260,7 +260,7 @@ Die Stimme sagt nichts mehr. Wenn das ein Hinweis gewesen sein soll, dann ist di
     <Entry>
       <ID>49</ID>
       <DefaultText>Es ist die gleiche Stimme wie bei den anderen Einträgen, doch sie klingt anders – zittrig und unsicher.</DefaultText>
-      <FemaleText>Es ist die gleiche Stimme wie bei den anderen Einträgen, doch sie klingt anders – zittrig und unsicher.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
