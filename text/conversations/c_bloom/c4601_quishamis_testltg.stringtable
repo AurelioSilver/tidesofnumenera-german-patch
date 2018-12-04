@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Auf dem ersten Blick ist der Quishami regungslos. Eine kristalline Struktur, die über drei Meter hoch ist. Daraufhin *entfaltet* er sich aus dem Inneren, während du dabei zusiehst – wie eine Blume, die sich in voller Blüte öffnet. Er bewegt sich unter dem Rasseln und Quietschen von knirschendem Kristall vorwärts, wobei sich sein Mittelteil endlos in einem unmöglichen, hypnotischen Fluss nach außen faltet.</DefaultText>
-      <FemaleText>Auf dem ersten Blick ist der Quishami regungslos. Eine kristalline Struktur, die über drei Meter hoch ist. Daraufhin *entfaltet* er sich aus dem Inneren, während du dabei zusiehst – wie eine Blume, die sich in voller Blüte öffnet. Er bewegt sich unter dem Rasseln und Quietschen von knirschendem Kristall vorwärts, wobei sich sein Mittelteil endlos in einem unmöglichen, hypnotischen Fluss nach außen faltet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Die Überreste des Quishami sind dort, wo du ihn zurückgelassen hattest, seine Motive so undurchdringlich wie eh und je. Seine Anwesenheit lässt sich in deinem Geist wie die Anfänge eines Gähnens nieder.</DefaultText>
-      <FemaleText>Die Überreste des Quishami sind dort, wo du ihn zurückgelassen hattest, seine Motive so undurchdringlich wie eh und je. Seine Anwesenheit lässt sich in deinem Geist wie die Anfänge eines Gähnens nieder.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -27,12 +27,12 @@
     <Entry>
       <ID>5</ID>
       <DefaultText>Studiere die Bewegungen des Quishami.</DefaultText>
-      <FemaleText>Studiere die Bewegungen des Quishami.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Studiere die Zeichnungen des Quishami.</DefaultText>
-      <FemaleText>Studiere die Zeichnungen des Quishami.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -141,13 +141,13 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>[gehen]</FemaleText>
+      <DefaultText>Gehen.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Greife an.</DefaultText>
-      <FemaleText>Greife an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -199,14 +199,12 @@
       <DefaultText>Gebannt kannst du deinen Blick nicht davon ablassen. Im Herzen des Kristalls, der den Körper des Quishami bildet, verbiegt sich das Licht merkwürdig und spiegelt und bricht sich um einen einzelnen, reinen Punkt der Stille.
 
 Als du einige Minuten später endlich wieder zu Sinnen kommst, verspürst du einen merkwürdigen Schmerz hinten in deiner Kehle, als hättest du geweint.</DefaultText>
-      <FemaleText>Gebannt kannst du deinen Blick nicht davon ablassen. Im Herzen des Kristalls, der den Körper des Quishami bildet, verbiegt sich das Licht merkwürdig und spiegelt und bricht sich um einen einzelnen, reinen Punkt der Stille.
-
-Als du einige Minuten später endlich wieder zu Sinnen kommst, verspürst du einen merkwürdigen Schmerz hinten in deiner Kehle, als hättest du geweint.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>Dir wird auch ein ungewöhnliches Gewicht in deinem Geist bewusst. Gezackte Linien jagen durch dein Sichtfeld, krümmen sich um den Quishami, der weiter seinem Pfad folgt und sich deiner Anwesenheit offenbar nicht bewusst ist.</DefaultText>
-      <FemaleText>Dir wird auch ein ungewöhnliches Gewicht in deinem Geist bewusst. Gezackte Linien jagen durch dein Sichtfeld, krümmen sich um den Quishami, der weiter seinem Pfad folgt und sich deiner Anwesenheit offenbar nicht bewusst ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
@@ -231,7 +229,7 @@ Als du einige Minuten später endlich wieder zu Sinnen kommst, verspürst du ein
     <Entry>
       <ID>54</ID>
       <DefaultText>Nach einigen Minuten kannst du im Chaos der Bewegungen des Quishami ein Muster ausmachen. Sein nächster Bogen wird ihn nahe an deine Seite des Plateaus bringen, solltest du seine Aufmerksamkeit erregen wollen.</DefaultText>
-      <FemaleText>Nach einigen Minuten kannst du im Chaos der Bewegungen des Quishami ein Muster ausmachen. Sein nächster Bogen wird ihn nahe an deine Seite des Plateaus bringen, solltest du seine Aufmerksamkeit erregen wollen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
@@ -246,17 +244,17 @@ Als du einige Minuten später endlich wieder zu Sinnen kommst, verspürst du ein
     <Entry>
       <ID>58</ID>
       <DefaultText>Du wendest deinen Blick von dem Quishami ab und die Welt richtet sich wieder ein. In der Klarheit des wiedererlangten Bewusstseins siehst du, dass das Plateau mit tiefen Rinnen durchzogen ist, die sich in seltsamen Winkeln treffen und ein Muster bilden, das sowohl erhaben als auch irgendwie obszön ist.</DefaultText>
-      <FemaleText>Du wendest deinen Blick von dem Quishami ab und die Welt richtet sich wieder ein. In der Klarheit des wiedererlangten Bewusstseins siehst du, dass das Plateau mit tiefen Rinnen durchzogen ist, die sich in seltsamen Winkeln treffen und ein Muster bilden, das sowohl erhaben als auch irgendwie obszön ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
       <DefaultText>„He! Du!“</DefaultText>
-      <FemaleText>„He! Du!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
       <DefaultText>Der Druck auf deinen Geist steigert sich für den Bruchteil einer Sekunde, dann lässt er nach. Der Quishami zeigt keine Anzeichen, dich gehört zu haben.</DefaultText>
-      <FemaleText>Der Druck auf deinen Geist steigert sich für den Bruchteil einer Sekunde, dann lässt er nach. Der Quishami zeigt keine Anzeichen, dich gehört zu haben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
@@ -268,9 +266,7 @@ Als du einige Minuten später endlich wieder zu Sinnen kommst, verspürst du ein
       <DefaultText>Du gehst mit gezogenen Waffen auf den Quishami zu.
 
 {SCRIPT: This would start a Tussle with the Quishami.}</DefaultText>
-      <FemaleText>Du gehst mit gezogenen Waffen auf den Quishami zu.
-
-{SCRIPT: This would start a Tussle with the Quishami.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
@@ -320,17 +316,17 @@ Als du einige Minuten später endlich wieder zu Sinnen kommst, verspürst du ein
     <Entry>
       <ID>74</ID>
       <DefaultText>Versuche, den Sinn der Zeichnungen des Quishami zu begreifen.</DefaultText>
-      <FemaleText>Versuche, den Sinn der Zeichnungen des Quishami zu begreifen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
       <DefaultText>Versuche erneut, den Sinn der Zeichnungen des Quishami zu begreifen.</DefaultText>
-      <FemaleText>Versuche erneut, den Sinn der Zeichnungen des Quishami zu begreifen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
       <DefaultText>Du starrst das Muster an, doch nach einiger Zeit begreifst du noch immer nicht, was der Quishami versucht, damit zu erreichen. Du hast jedoch festgestellt, dass jede Linie tatsächlich eine Reihe von Schnitten ist und nicht eine einzelne Kerbe, die in den Boden geritzt wurde. Wie es scheint, arbeitet der Quishami schon eine ganze Weile daran.</DefaultText>
-      <FemaleText>Du starrst das Muster an, doch nach einiger Zeit begreifst du noch immer nicht, was der Quishami versucht, damit zu erreichen. Du hast jedoch festgestellt, dass jede Linie tatsächlich eine Reihe von Schnitten ist und nicht eine einzelne Kerbe, die in den Boden geritzt wurde. Wie es scheint, arbeitet der Quishami schon eine ganze Weile daran.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
@@ -342,9 +338,7 @@ Als du einige Minuten später endlich wieder zu Sinnen kommst, verspürst du ein
       <DefaultText>Du starrst gefühlt stundenlang auf das Muster. Jedes Mal, wenn du blinzelst, haben sich die Linien und Windungen der Arbeit des Quishami auf den Innenseiten deiner Augenlieder nachgebildet. Schließlich, in einem kurzen Moment überraschender Klarheit, verstehst du es.
 
 Der Quishami zeichnet ein Portal, um sich nach Hause zu befördern. Du weißt nicht, warum du es weißt, auch nicht, warum du weißt, dass die Zeichnung – das Schaltbild! – durch Bewegen *dieses* Steins und die Vervollständigung *dieser* Linie vervollständigen würde.</DefaultText>
-      <FemaleText>Du starrst gefühlt stundenlang auf das Muster. Jedes Mal, wenn du blinzelst, haben sich die Linien und Windungen der Arbeit des Quishami auf den Innenseiten deiner Augenlieder nachgebildet. Schließlich, in einem kurzen Moment überraschender Klarheit, verstehst du es.
-
-Der Quishami zeichnet ein Portal, um sich nach Hause zu befördern. Du weißt nicht, warum du es weißt, auch nicht, warum du weißt, dass die Zeichnung – das Schaltbild! – durch Bewegen *dieses* Steins und die Vervollständigung *dieser* Linie vervollständigen würde.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
@@ -394,7 +388,7 @@ Der Quishami zeichnet ein Portal, um sich nach Hause zu befördern. Du weißt ni
     <Entry>
       <ID>88</ID>
       <DefaultText>Trage den Quishami zu der kleinen, umschlossenen Stelle, die du vorhin bemerkt hast.</DefaultText>
-      <FemaleText>Trage den Quishami zu der kleinen, umschlossenen Stelle, die du vorhin bemerkt hast.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
@@ -404,26 +398,24 @@ Der Quishami zeichnet ein Portal, um sich nach Hause zu befördern. Du weißt ni
     <Entry>
       <ID>90</ID>
       <DefaultText>Tritt zur Seite und lass den Quishami weitermachen.</DefaultText>
-      <FemaleText>Tritt zur Seite und lass den Quishami weitermachen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
       <DefaultText>Sobald du zur Seite trittst, setzt der Quishami seine Patrouille fort. Der Druck in deinem Geist lässt nach.</DefaultText>
-      <FemaleText>Sobald du zur Seite trittst, setzt der Quishami seine Patrouille fort. Der Druck in deinem Geist lässt nach.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
       <DefaultText>Trage den Quishami an den Rand des Plateaus und lass ihn fallen.</DefaultText>
-      <FemaleText>Trage den Quishami an den Rand des Plateaus und lass ihn fallen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
       <DefaultText>Der Quishami wird kleiner, während er fällt, und ist schließlich nichts weiter als ein glänzender, taumelnder Staubfleck. Du siehst, wie er weit unten auf dem Boden aufschlägt, doch kein Ton begleitet den Einschlag. Von hier aus ist schwer auszumachen, ob der Quishami sich bewegt oder ob der Einschlag auf dem Boden eine Reihe kleiner funkelnder Beben ausgelöst hat.
 
 {SCRIPT: Quest complete!}</DefaultText>
-      <FemaleText>Der Quishami wird kleiner, während er fällt, und ist schließlich nichts weiter als ein glänzender, taumelnder Staubfleck. Du siehst, wie er weit unten auf dem Boden aufschlägt, doch kein Ton begleitet den Einschlag. Von hier aus ist schwer auszumachen, ob der Quishami sich bewegt oder ob der Einschlag auf dem Boden eine Reihe kleiner funkelnder Beben ausgelöst hat.
-
-{SCRIPT: Quest complete!}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
@@ -435,9 +427,7 @@ Der Quishami zeichnet ein Portal, um sich nach Hause zu befördern. Du weißt ni
       <DefaultText>Du trägst den Quishami zu der umschlossenen Stelle. Als du ihn vorsichtig loslässt und zurücktrittst, bleibt er regungslos stehen. Du wartest eine Weile und begibst dich sogar außer Sichtweite, um festzustellen, ob der Quishami deine Abwesenheit registriert.
 
 Nichts passiert. Der Quishami bleibt erstarrt, so still wie die Kristallspate, die ihn umgeben.</DefaultText>
-      <FemaleText>Du trägst den Quishami zu der umschlossenen Stelle. Als du ihn vorsichtig loslässt und zurücktrittst, bleibt er regungslos stehen. Du wartest eine Weile und begibst dich sogar außer Sichtweite, um festzustellen, ob der Quishami deine Abwesenheit registriert.
-
-Nichts passiert. Der Quishami bleibt erstarrt, so still wie die Kristallspate, die ihn umgeben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
@@ -447,7 +437,7 @@ Nichts passiert. Der Quishami bleibt erstarrt, so still wie die Kristallspate, d
     <Entry>
       <ID>97</ID>
       <DefaultText>Lass den Quishami, wo er ist.</DefaultText>
-      <FemaleText>Lass den Quishami, wo er ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
@@ -472,17 +462,17 @@ Nichts passiert. Der Quishami bleibt erstarrt, so still wie die Kristallspate, d
     <Entry>
       <ID>103</ID>
       <DefaultText>Doch du siehst auch, dass jede Linie eine Reihe von Schnitten ist, jeder ein wenig tiefer als der vorherige. Wenn du das Muster in der rechten Nische löschen würdest, wäre der Quishami gezwungen, sich dorthin zu begeben und seinen eigenen Pfad wochen-, wenn nicht jahrelang zurückzuverfolgen, ehe er sich wieder auf das Plateau begeben könnte.</DefaultText>
-      <FemaleText>Doch du siehst auch, dass jede Linie eine Reihe von Schnitten ist, jeder ein wenig tiefer als der vorherige. Wenn du das Muster in der rechten Nische löschen würdest, wäre der Quishami gezwungen, sich dorthin zu begeben und seinen eigenen Pfad wochen-, wenn nicht jahrelang zurückzuverfolgen, ehe er sich wieder auf das Plateau begeben könnte.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
       <DefaultText>Vervollständige die Zeichnung des Quishami.</DefaultText>
-      <FemaleText>Vervollständige die Zeichnung des Quishami.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
       <DefaultText>Der Luftdruck verändert sich, als würden sich Sturmwolken dicht über deinem Kopf zusammenbrauen, doch am Himmel ist nichts zu sehen. Der Quishami pausiert, und trotz seiner fremdartigen Erscheinung hast du den Eindruck, dass er nach oben schaut.</DefaultText>
-      <FemaleText>Der Luftdruck verändert sich, als würden sich Sturmwolken dicht über deinem Kopf zusammenbrauen, doch am Himmel ist nichts zu sehen. Der Quishami pausiert, und trotz seiner fremdartigen Erscheinung hast du den Eindruck, dass er nach oben schaut.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
@@ -492,7 +482,7 @@ Nichts passiert. Der Quishami bleibt erstarrt, so still wie die Kristallspate, d
     <Entry>
       <ID>107</ID>
       <DefaultText>Lösche die Zeichnung des Quishami an der umschlossenen Stelle.</DefaultText>
-      <FemaleText>Lösche die Zeichnung des Quishami an der umschlossenen Stelle.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
@@ -501,25 +491,19 @@ Nichts passiert. Der Quishami bleibt erstarrt, so still wie die Kristallspate, d
 Der Gedanke rammt sich in deinen Geist, im gleichen Moment, als der Quishami verschwindet. Die Risse im Boden beben und reißen sich in einem unmöglichen, Übelkeit erregenden Muster gegenseitig durch. Nach ein paar unerträglichen Momenten hält die Bewegung inne und die Zeichnung – sowie der Quishami – sind fort.
 
 {SCRIPT: Quest complete!}</DefaultText>
-      <FemaleText>Zuhause? 
-
-Der Gedanke rammt sich in deinen Geist, im gleichen Moment, als der Quishami verschwindet. Die Risse im Boden beben und reißen sich in einem unmöglichen, Übelkeit erregenden Muster gegenseitig durch. Nach ein paar unerträglichen Momenten hält die Bewegung inne und die Zeichnung – sowie der Quishami – sind fort.
-
-{SCRIPT: Quest complete!}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
       <DefaultText>Der umschlossene Raum auf der rechten Seite wäre ein idealer Ort, an den sich der Quishami begeben könnte – sicher außer Reichweite, doch nah genug, damit Sarissa und ihre Gruppe den Quishami studieren könnten, wenn sie wollten. Es würde den Quishami wahrscheinlich mehrere Monate, wenn nicht Jahre kosten, die Zeichnungen in diesem Teil wiederherzustellen.</DefaultText>
-      <FemaleText>Der umschlossene Raum auf der rechten Seite wäre ein idealer Ort, an den sich der Quishami begeben könnte – sicher außer Reichweite, doch nah genug, damit Sarissa und ihre Gruppe den Quishami studieren könnten, wenn sie wollten. Es würde den Quishami wahrscheinlich mehrere Monate, wenn nicht Jahre kosten, die Zeichnungen in diesem Teil wiederherzustellen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
       <DefaultText>Du lässt den Quishami in der Nische und kehrst zu Sarissas Lager zurück.
 
 {SCRIPT: Quest complete!}</DefaultText>
-      <FemaleText>Du lässt den Quishami in der Nische und kehrst zu Sarissas Lager zurück.
-
-{SCRIPT: Quest complete!}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
@@ -529,59 +513,53 @@ Der Gedanke rammt sich in deinen Geist, im gleichen Moment, als der Quishami ver
     <Entry>
       <ID>114</ID>
       <DefaultText>Versuche, den Sinn der Zeichnungen des Quishami zu begreifen.</DefaultText>
-      <FemaleText>Versuche, den Sinn der Zeichnungen des Quishami zu begreifen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
       <DefaultText>Du verbringst etwas Zeit damit, die Zeichnungen zu studieren, doch du bist erfolglos. Als du jedoch kurz davor bist, aufzugeben, bekommst du eine Inspiration. Du öffnest das rechte Auge und erlaubst einer anderen, fragmentierten Realität, in deinen Geist einzudringen.</DefaultText>
-      <FemaleText>Du verbringst etwas Zeit damit, die Zeichnungen zu studieren, doch du bist erfolglos. Als du jedoch kurz davor bist, aufzugeben, bekommst du eine Inspiration. Du öffnest das rechte Auge und erlaubst einer anderen, fragmentierten Realität, in deinen Geist einzudringen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
       <DefaultText>Farben und Töne bersten in gleichwertigem Chaos durch deinen Geist und vertreiben alle bewussten Gedanken aus deinem Körper, wie der Schlag von kaltem Wasser, der die Luft aus der Lunge presst. Du kämpfst damit, dich zu erheben, nur um von dem verwirrten Sog der dich umgebenden Energie heruntergezogen zu werden. Du keuchst, als er dich nach unten zieht und erstickt.
 
 Unter der Oberfläche hörst du etwas Leises, wie ein Lied aus einer geliehenen Erinnerung.</DefaultText>
-      <FemaleText>Farben und Töne bersten in gleichwertigem Chaos durch deinen Geist und vertreiben alle bewussten Gedanken aus deinem Körper, wie der Schlag von kaltem Wasser, der die Luft aus der Lunge presst. Du kämpfst damit, dich zu erheben, nur um von dem verwirrten Sog der dich umgebenden Energie heruntergezogen zu werden. Du keuchst, als er dich nach unten zieht und erstickt.
-
-Unter der Oberfläche hörst du etwas Leises, wie ein Lied aus einer geliehenen Erinnerung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
       <DefaultText>Schwimme in Richtung des Tons.</DefaultText>
-      <FemaleText>Schwimme in Richtung des Tons.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
       <DefaultText>Versuche, dich zu befreien.</DefaultText>
-      <FemaleText>Versuche, dich zu befreien.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
       <DefaultText>Gib dich dem Energiefluss hin.</DefaultText>
-      <FemaleText>Gib dich dem Energiefluss hin.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
       <DefaultText>Zieh dich in dein Inneres zurück.</DefaultText>
-      <FemaleText>Zieh dich in dein Inneres zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
       <DefaultText>Die Verwirrung dort draußen zieht sich in ein Spektakel aus Licht zurück und hämmert endlos auf den Kokon, den du für dich erschaffen hast. Du behältst die Ruhe, selbst, als die Gedanken des Quishami durchzubrechen scheinen. Schließlich ziehen sie sich zurück.
 
 Stattdessen hörst du ein Geräusch wie das Weinen eines Kindes, verletzt und allein. Du drehst den Kopf, um die Richtung zu erfassen, doch es ist immer hinter dir, egal, in welche Richtung du schaust. Eine nagende und fremdartige Angst erfasst dein Herz mit eiskalten Händen.</DefaultText>
-      <FemaleText>Die Verwirrung dort draußen zieht sich in ein Spektakel aus Licht zurück und hämmert endlos auf den Kokon, den du für dich erschaffen hast. Du behältst die Ruhe, selbst, als die Gedanken des Quishami durchzubrechen scheinen. Schließlich ziehen sie sich zurück.
-
-Stattdessen hörst du ein Geräusch wie das Weinen eines Kindes, verletzt und allein. Du drehst den Kopf, um die Richtung zu erfassen, doch es ist immer hinter dir, egal, in welche Richtung du schaust. Eine nagende und fremdartige Angst erfasst dein Herz mit eiskalten Händen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
       <DefaultText>Du findest dich in einem höhlenartigen Raum wieder, der so dunkel wie eine sternenlose Nacht ist. Eine kalte Brise bläst dir die Haare aus dem Gesicht, während dir die Ungeheuerlichkeit deiner Umgebung durch aurale Fetzen bewusst wird, so wie Wellen, die eine weit entfernte Küste reflektieren.
 
 Dir ist am ganzen Körper kalt und eine Wärmequelle ist gerade außer Reichweite. Jedes Mal, wenn du dich zu ihr wendest, bewegt sie sich, verschwindet und erscheint sie wie Fetzen von Sonnenlicht an einem regnerischen Tag.</DefaultText>
-      <FemaleText>Du findest dich in einem höhlenartigen Raum wieder, der so dunkel wie eine sternenlose Nacht ist. Eine kalte Brise bläst dir die Haare aus dem Gesicht, während dir die Ungeheuerlichkeit deiner Umgebung durch aurale Fetzen bewusst wird, so wie Wellen, die eine weit entfernte Küste reflektieren.
-
-Dir ist am ganzen Körper kalt und eine Wärmequelle ist gerade außer Reichweite. Jedes Mal, wenn du dich zu ihr wendest, bewegt sie sich, verschwindet und erscheint sie wie Fetzen von Sonnenlicht an einem regnerischen Tag.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
@@ -603,57 +581,51 @@ Dir ist am ganzen Körper kalt und eine Wärmequelle ist gerade außer Reichweit
       <DefaultText>Du hast ein merkwürdiges Gefühl, das dich überkommt, teilweise visuell, teilweise aus Tönen bestehend, und teilweise etwas ganz anderes. Du konzentrierst dich auf das Gefühl, folgst ihm tiefer in dein Unterbewusstsein, wo der Großteil wie eine gewundene Schlange zwischen deinen eigenen Gedanken liegt.
 
 Zögernd streckst du dich danach aus.</DefaultText>
-      <FemaleText>Du hast ein merkwürdiges Gefühl, das dich überkommt, teilweise visuell, teilweise aus Tönen bestehend, und teilweise etwas ganz anderes. Du konzentrierst dich auf das Gefühl, folgst ihm tiefer in dein Unterbewusstsein, wo der Großteil wie eine gewundene Schlange zwischen deinen eigenen Gedanken liegt.
-
-Zögernd streckst du dich danach aus.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
       <DefaultText>Er reagiert nicht, wenn du ihn mit der Hand berührst, obwohl der Druck in deinem Geist etwas ansteigt. Als du ihn zögernd drückst und ziehst, stellst du fest, dass der Quishami leichter ist als er aussieht. Du könntest ihn wahrscheinlich mit Leichtigkeit tragen.</DefaultText>
-      <FemaleText>Er reagiert nicht, wenn du ihn mit der Hand berührst, obwohl der Druck in deinem Geist etwas ansteigt. Als du ihn zögernd drückst und ziehst, stellst du fest, dass der Quishami leichter ist als er aussieht. Du könntest ihn wahrscheinlich mit Leichtigkeit tragen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
       <DefaultText>Bring den Quishami dorthin zurück, wo du ihn gefunden hast.</DefaultText>
-      <FemaleText>Bring den Quishami dorthin zurück, wo du ihn gefunden hast.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
       <DefaultText>Du suchst nach dem Rand des Tumults, Gedanken und Erinnerungen fließen in deinem Kielwasser davon, wie Blasen, die aus dem Mund einer Leiche entweichen.
 
 Die Oberfläche befindet sich knapp vor dir und glitzert in aktinischem Licht. Dann befindet sie sich plötzlich unter dir und du hast dich die ganze Zeit von ihr wegbewegt. Dort, rechts, erscheint es wieder, ein halogenes Leuchten wie die Mittagssonne, durch das turbulente Gewässer von seiner Wildheit befreit.</DefaultText>
-      <FemaleText>Du suchst nach dem Rand des Tumults, Gedanken und Erinnerungen fließen in deinem Kielwasser davon, wie Blasen, die aus dem Mund einer Leiche entweichen.
-
-Die Oberfläche befindet sich knapp vor dir und glitzert in aktinischem Licht. Dann befindet sie sich plötzlich unter dir und du hast dich die ganze Zeit von ihr wegbewegt. Dort, rechts, erscheint es wieder, ein halogenes Leuchten wie die Mittagssonne, durch das turbulente Gewässer von seiner Wildheit befreit.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
       <DefaultText>Das Gefühl des Kampfes lässt nach. Du treibst in ruhigen und beruhigenden Gewässern dahin, die Gedanken wirbeln nicht mehr um dich herum, sondern durch dich hindurch. Jeder neue Strang führt zu einem Schwindelanfall, wie das Einschlafen in langsamen, empfindlichen Phasen, während sich die Vergessenheit Ebene um zarte Ebene über dein Bewusstsein legt.
 
 Etwas später wird dir eine läutende Fanfare bewusst, die dir die Haut erzittern lässt und einen Schauer über deinen Rücken jagt. Doch ganz gleich, in welche Richtung du schaust, bleibt der Ton stets gerade außerhalb deiner Reichweite.</DefaultText>
-      <FemaleText>Das Gefühl des Kampfes lässt nach. Du treibst in ruhigen und beruhigenden Gewässern dahin, die Gedanken wirbeln nicht mehr um dich herum, sondern durch dich hindurch. Jeder neue Strang führt zu einem Schwindelanfall, wie das Einschlafen in langsamen, empfindlichen Phasen, während sich die Vergessenheit Ebene um zarte Ebene über dein Bewusstsein legt.
-
-Etwas später wird dir eine läutende Fanfare bewusst, die dir die Haut erzittern lässt und einen Schauer über deinen Rücken jagt. Doch ganz gleich, in welche Richtung du schaust, bleibt der Ton stets gerade außerhalb deiner Reichweite.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
       <DefaultText>Greife hinter dich und halte fest.</DefaultText>
-      <FemaleText>Greife hinter dich und halte fest.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
       <DefaultText>Zwinge ihm dazu, an Ort und Stelle zu bleiben.</DefaultText>
-      <FemaleText>Zwinge ihm dazu, an Ort und Stelle zu bleiben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
       <DefaultText>Ignoriere das Gefühl vollständig.</DefaultText>
-      <FemaleText>Ignoriere das Gefühl vollständig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
       <DefaultText>Öffne die Augen und nimm ihn auf.</DefaultText>
-      <FemaleText>Öffne die Augen und nimm ihn auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
@@ -678,26 +650,24 @@ Etwas später wird dir eine läutende Fanfare bewusst, die dir die Haut erzitter
     <Entry>
       <ID>140</ID>
       <DefaultText>Du ergreifst den Gedanken und zerrst ihn vor dich. In dem Moment, bevor die Idee zu Fäden aus warmem Honig zerläuft, erhaschst du einen Blick auf das, was dir die ganze Zeit entgangen war:</DefaultText>
-      <FemaleText>Du ergreifst den Gedanken und zerrst ihn vor dich. In dem Moment, bevor die Idee zu Fäden aus warmem Honig zerläuft, erhaschst du einen Blick auf das, was dir die ganze Zeit entgangen war:</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
       <DefaultText>Durch pure Willenskraft hältst du die Idee fest, bis deine fragenden Hände sie ergreifen können. Glitschig und kalt klammert sich der Gedanke wie trockenes Blut an dich und füllt die Risse in deiner Haut mit einem Eindruck seines Inhalts:</DefaultText>
-      <FemaleText>Durch pure Willenskraft hältst du die Idee fest, bis deine fragenden Hände sie ergreifen können. Glitschig und kalt klammert sich der Gedanke wie trockenes Blut an dich und füllt die Risse in deiner Haut mit einem Eindruck seines Inhalts:</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
       <DefaultText>Du riegelst deine Sinne einen nach dem anderen ab, bis du an einem einzigen, stillen Punkt deines Selbst zur Ruhe kommst. Langsam wird dir bewusst, wie die Idee sich in dir aufbläht, wie Gletscherwasser an einer nicht angezapften Quelle:</DefaultText>
-      <FemaleText>Du riegelst deine Sinne einen nach dem anderen ab, bis du an einem einzigen, stillen Punkt deines Selbst zur Ruhe kommst. Langsam wird dir bewusst, wie die Idee sich in dir aufbläht, wie Gletscherwasser an einer nicht angezapften Quelle:</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
       <DefaultText>Die Vision eines wolkenlosen Himmels, das Blau so scharf, dass es Schatten in Streifen schneidet. Überall Reflexionen, wie Wachposten, die den Glanz der Sonne bewachen. Und in alledem, tief verwurzelt, ein einzelnes Wort, ein einziges allumfassendes Gefühl.
 
 Zuhause.</DefaultText>
-      <FemaleText>Die Vision eines wolkenlosen Himmels, das Blau so scharf, dass es Schatten in Streifen schneidet. Überall Reflexionen, wie Wachposten, die den Glanz der Sonne bewachen. Und in alledem, tief verwurzelt, ein einzelnes Wort, ein einziges allumfassendes Gefühl.
-
-Zuhause.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
@@ -712,41 +682,39 @@ Zuhause.</FemaleText>
     <Entry>
       <ID>147</ID>
       <DefaultText>Sprich mit dem Quishami über das Zuhause.</DefaultText>
-      <FemaleText>Sprich mit dem Quishami über das Zuhause.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
       <DefaultText>Du spürst, wie die Gedanken des Quishami dich umwirbeln und schnell an den Punkt einer gemeinsamen Erfahrung zurückkehren.
 
 „Zuhause?“, fragt der Quishami, der Gedanke mit Sehnsucht verflochten.</DefaultText>
-      <FemaleText>Du spürst, wie die Gedanken des Quishami dich umwirbeln und schnell an den Punkt einer gemeinsamen Erfahrung zurückkehren.
-
-„Zuhause?“, fragt der Quishami, der Gedanke mit Sehnsucht verflochten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
       <DefaultText>Stell dir das Portal vor, dass du genutzt hast, um hierher zu kommen, indem du deine Schritte durch die Flor und raus in den endlosen Himmel zurückverfolgst. „Zuhause.“</DefaultText>
-      <FemaleText>Stell dir das Portal vor, dass du genutzt hast, um hierher zu kommen, indem du deine Schritte durch die Flor und raus in den endlosen Himmel zurückverfolgst. „Zuhause.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
       <DefaultText>Stell dir die rechte Nische vor, abgelegen von Sarissa und ihren Gefährten. „Zuhause.“</DefaultText>
-      <FemaleText>Stell dir die rechte Nische vor, abgelegen von Sarissa und ihren Gefährten. „Zuhause.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
       <DefaultText>Lüge: Stell dir die rechte Nische vor, abgelegen von Sarissa und ihren Gefährten. „Zuhause.“</DefaultText>
-      <FemaleText>Lüge: Stell dir die rechte Nische vor, abgelegen von Sarissa und ihren Gefährten. „Zuhause.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>[gehen]</FemaleText>
+      <DefaultText>Gehen.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
       <DefaultText>Du ziehst deinen Geist aus den Gedanken des Quishami zurück.</DefaultText>
-      <FemaleText>Du ziehst deinen Geist aus den Gedanken des Quishami zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
@@ -755,34 +723,26 @@ Zuhause.</FemaleText>
 Das Gefühl ist wild und fröhlich und der Quishami ist sofort bereit, abzureisen.
 
 Doch du weißt aus deiner eigenen Erfahrung über die Flor, dass die Reise des Quishami nicht einfach sein wird, wenn er es überhaupt schafft. Es gibt auf dem Pfad, den du angeboten hast, viele, die er verletzten könnte – und viele, die ihn verletzen würden.</DefaultText>
-      <FemaleText>Zuhause!
-
-Das Gefühl ist wild und fröhlich und der Quishami ist sofort bereit, abzureisen.
-
-Doch du weißt aus deiner eigenen Erfahrung über die Flor, dass die Reise des Quishami nicht einfach sein wird, wenn er es überhaupt schafft. Es gibt auf dem Pfad, den du angeboten hast, viele, die er verletzten könnte – und viele, die ihn verletzen würden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Nicht darauf eingehen.</DefaultText>
-      <FemaleText>Lass es sein.</FemaleText>
+      <DefaultText>Lass ihn gehen.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
       <DefaultText>Der Quishami rast an dir vorbei, die Kristallstufen hinab. Du hörst Sarissas Angstschrei, als der Quishami durch das Lager zieht, darauf das dumpfe Brummen, als das Portal aktiviert wird. Der Quishami ist weg, auf dem Weg zur Flor.
 
 {SCRIPT: Quest complete!}</DefaultText>
-      <FemaleText>Der Quishami rast an dir vorbei, die Kristallstufen hinab. Du hörst Sarissas Angstschrei, als der Quishami durch das Lager zieht, darauf das dumpfe Brummen, als das Portal aktiviert wird. Der Quishami ist weg, auf dem Weg zur Flor.
-
-{SCRIPT: Quest complete!}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
       <DefaultText>Zuhause? 
 
 Der Quishami scheint Zweifel zu haben. Er bewegt sich nicht auf die Nische zu.</DefaultText>
-      <FemaleText>Zuhause? 
-
-Der Quishami scheint Zweifel zu haben. Er bewegt sich nicht auf die Nische zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
@@ -793,41 +753,31 @@ Der Quishami scheint von deinem Beharren nicht sonderlich inspiriert zu sein, do
 Sarissa sollte zumindest erfreut sein.
 
 {SCRIPT: Quest complete!}</DefaultText>
-      <FemaleText>Zuhause?
-
-Der Quishami scheint von deinem Beharren nicht sonderlich inspiriert zu sein, doch er bewegt sich in die Nische. Er verharrt dort und sucht wie ein Hund nach einem Zeichen seines abwesenden Herrchens – und wartet. Nichts, was du sagst oder tust, scheint ihn zu erreichen, doch er sieht auch nicht aus als würde er bald wieder zum Plateau zurückkehren.
-
-Sarissa sollte zumindest erfreut sein.
-
-{SCRIPT: Quest complete!}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
       <DefaultText>Nein. Nicht.
 
 Der Quishami wird durch deinen Vorschlag in Aufregung versetzt und bewegt sich schneller über das Plateau, wobei er sein Muster wild in den darunterliegenden Kristall kratzt.</DefaultText>
-      <FemaleText>Nein. Nicht.
-
-Der Quishami wird durch deinen Vorschlag in Aufregung versetzt und bewegt sich schneller über das Plateau, wobei er sein Muster wild in den darunterliegenden Kristall kratzt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
       <DefaultText>In dem vermischten, verdrehten, mehrstufigen Bild, das folgt, erkennst du schnell zwei Tatsachen, ehe du gezwungen wirst, beide Augen zu schließen, um dem Wahnsinn vorzubeugen: Die Zeichnung des Quishami erschafft ein Portal, das an irgendeinen anderen Ort führt, und es könnte nach wenigen Linien vollendet sein … oder mit ein paar anderen Linien deaktiviert werden.</DefaultText>
-      <FemaleText>In dem vermischten, verdrehten, mehrstufigen Bild, das folgt, erkennst du schnell zwei Tatsachen, ehe du gezwungen wirst, beide Augen zu schließen, um dem Wahnsinn vorzubeugen: Die Zeichnung des Quishami erschafft ein Portal, das an irgendeinen anderen Ort führt, und es könnte nach wenigen Linien vollendet sein … oder mit ein paar anderen Linien deaktiviert werden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
       <DefaultText>Mit einem hohen Wehklagen, wie das Kreischen eines Mahlwerks, eilt der Quishami in die Nische und versucht, die Überreste seines Entwurfs zu retten. Die neuen Linien sind jedoch tief und wahr und die Höhe des Klagelauts des Quishami steigt mit jedem neuen Zeichen, das er entdeckt, bis dich deine schmerzenden Ohren zum Rückzug zwingen.
 
 {SCRIPT: Quest complete!}</DefaultText>
-      <FemaleText>Mit einem hohen Wehklagen, wie das Kreischen eines Mahlwerks, eilt der Quishami in die Nische und versucht, die Überreste seines Entwurfs zu retten. Die neuen Linien sind jedoch tief und wahr und die Höhe des Klagelauts des Quishami steigt mit jedem neuen Zeichen, das er entdeckt, bis dich deine schmerzenden Ohren zum Rückzug zwingen.
-
-{SCRIPT: Quest complete!}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
       <DefaultText>Die Zeichnung zu zerstören, ist so einfach wie die Schaffung neuer Linien im Kristall und überwältigt die zarten Zeichnungen der bisherigen Arbeit des Quishami völlig.</DefaultText>
-      <FemaleText>Die Zeichnung zu zerstören, ist so einfach wie die Schaffung neuer Linien im Kristall und überwältigt die zarten Zeichnungen der bisherigen Arbeit des Quishami völlig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
@@ -842,31 +792,29 @@ Der Quishami wird durch deinen Vorschlag in Aufregung versetzt und bewegt sich s
     <Entry>
       <ID>167</ID>
       <DefaultText>Du starrst auf das Muster und versuchst zwanghaft, einen Sinn darin zu erkennen. Doch je mehr du versuchst, den unmöglichen Winkeln und sich überlappenden Linien zu folgen, desto mehr spürst du, wie dein Geist sich entwirrt. Du stellst fest, dass du die Augen geschlossen hast und das Bild wegwischt, bis nur noch Dunkelheit übrig bleibt.</DefaultText>
-      <FemaleText>Du starrst auf das Muster und versuchst zwanghaft, einen Sinn darin zu erkennen. Doch je mehr du versuchst, den unmöglichen Winkeln und sich überlappenden Linien zu folgen, desto mehr spürst du, wie dein Geist sich entwirrt. Du stellst fest, dass du die Augen geschlossen hast und das Bild wegwischt, bis nur noch Dunkelheit übrig bleibt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
       <DefaultText>Deine Augen fangen an zu tränen, sobald du auf die Zeichnung schaust, wodurch die Linien unverständlich verschwommen werden.</DefaultText>
-      <FemaleText>Deine Augen fangen an zu tränen, sobald du auf die Zeichnung schaust, wodurch die Linien unverständlich verschwommen werden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
       <DefaultText>Hebe den Quishami erneut hoch.</DefaultText>
-      <FemaleText>Hebe den Quishami erneut hoch.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
       <DefaultText>Wieder wartest du im Weg des Quishami. Wieder erträgst du das stechende Beißen von Kristallen. Du kannst den Quishami nach Belieben bewegen.
 
 {SCRIPT: The Player would take minor damage here.}</DefaultText>
-      <FemaleText>Wieder wartest du im Weg des Quishami. Wieder erträgst du das stechende Beißen von Kristallen. Du kannst den Quishami nach Belieben bewegen.
-
-{SCRIPT: The Player would take minor damage here.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
       <DefaultText>(Hinweis: Ich habe hier einen Schritt ausgelassen. Idealerweise ist der Spieler an diesem Punkt in der Lage, zwischen allen Orten, die er bisher im Spiel besucht hat, auszusuchen, um dem Quishami zu zeigen, dass er das Konzept von 'Zuhause' verstanden hat. Diese Wahl würde sich dann auch auf den Gezeitenanstieg am Ende auswirken. Für diesen Test dachte ich jedoch, dass eine kurze Erklärung ausreichen würde.)</DefaultText>
-      <FemaleText>(Hinweis: Ich habe hier einen Schritt ausgelassen. Idealerweise ist der Spieler an diesem Punkt in der Lage, zwischen allen Orten, die er bisher im Spiel besucht hat, auszusuchen, um dem Quishami zu zeigen, dass er das Konzept von 'Zuhause' verstanden hat. Diese Wahl würde sich dann auch auf den Gezeitenanstieg am Ende auswirken. Für diesen Test dachte ich jedoch, dass eine kurze Erklärung ausreichen würde.)</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
@@ -876,44 +824,38 @@ Der Quishami wird durch deinen Vorschlag in Aufregung versetzt und bewegt sich s
     <Entry>
       <ID>173</ID>
       <DefaultText>Stelle dich dem Quishami in den Weg.</DefaultText>
-      <FemaleText>Stelle dich dem Quishami in den Weg.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
       <DefaultText>Stelle dich erneut dem Quishami in den Weg.</DefaultText>
-      <FemaleText>Stelle dich erneut dem Quishami in den Weg.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
       <DefaultText>Als sich der Quishami nähert, spürst du das Stechen tausender kleiner Kristalle, die in dein Fleisch beißen. Du hältst die Stellung, knirscht vor Schmerz mit den Zähnen, bis der Quishami vor dir stehenbleibt. Aus solcher Nähe betrachtet, ist seine Erhabenheit erschreckend.
 
 {SCRIPT: The Player would take minor damage here.}</DefaultText>
-      <FemaleText>Als sich der Quishami nähert, spürst du das Stechen tausender kleiner Kristalle, die in dein Fleisch beißen. Du hältst die Stellung, knirscht vor Schmerz mit den Zähnen, bis der Quishami vor dir stehenbleibt. Aus solcher Nähe betrachtet, ist seine Erhabenheit erschreckend.
-
-{SCRIPT: The Player would take minor damage here.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
       <DefaultText>Du stehst so lange vor dem Quishami, wie du es aushältst, und hörst und fühlst, wie die kleinen Kristallscherben in dein Fleisch schneiden. Der Schmerz wird schließlich zu viel und du musst zur Seite treten. Der Quishami setzt seinen Weg fort, ohne zu zögern.
 
 {SCRIPT: The Player would take minor damage here.}</DefaultText>
-      <FemaleText>Du stehst so lange vor dem Quishami, wie du es aushältst, und hörst und fühlst, wie die kleinen Kristallscherben in dein Fleisch schneiden. Der Schmerz wird schließlich zu viel und du musst zur Seite treten. Der Quishami setzt seinen Weg fort, ohne zu zögern.
-
-{SCRIPT: The Player would take minor damage here.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
       <DefaultText>Du stehst im Weg des Quishami, während er sich auf dich zubewegt. Du regst dich nicht, selbst als das Stechen von unsichtbarem Kristall anfängt, dich zu umhüllen.</DefaultText>
-      <FemaleText>Du stehst im Weg des Quishami, während er sich auf dich zubewegt. Du regst dich nicht, selbst als das Stechen von unsichtbarem Kristall anfängt, dich zu umhüllen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
       <DefaultText>Plötzlich sticht ein heftiger Schmerz in deinem rechten Auge. Du taumelst zur Seite und der Quishami geht an dir vorbei und setzt seinen Gang fort. Als du zögerlich das Auge öffnest, um den Schaden zu beurteilen, siehst du die Landschaft in hunderten Schwindel erregenden Blickwinkeln gebrochen.
 
 {SCRIPT: Player takes moderate damage here.}</DefaultText>
-      <FemaleText>Plötzlich sticht ein heftiger Schmerz in deinem rechten Auge. Du taumelst zur Seite und der Quishami geht an dir vorbei und setzt seinen Gang fort. Als du zögerlich das Auge öffnest, um den Schaden zu beurteilen, siehst du die Landschaft in hunderten Schwindel erregenden Blickwinkeln gebrochen.
-
-{SCRIPT: Player takes moderate damage here.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
@@ -924,13 +866,7 @@ Der Quishami bewegt sich eifrig in die Nische und verharrt in der Mitte wie ein 
 Sarissa sollte zumindest erfreut sein.
 
 {SCRIPT: Quest complete!}</DefaultText>
-      <FemaleText>Zuhause?
-
-Der Quishami bewegt sich eifrig in die Nische und verharrt in der Mitte wie ein Hund, der auf ein Leckerbissen wartet. Nichts, was du sagst oder tust, scheint ihn zu erreichen, doch er sieht auch nicht aus als würde er bald wieder zum Plateau zurückkehren.
-
-Sarissa sollte zumindest erfreut sein.
-
-{SCRIPT: Quest complete!}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
@@ -939,11 +875,7 @@ Sarissa sollte zumindest erfreut sein.
 Die Luft um den Quishami füllt sich mit kleinen Kristallsplittern, wie regungslose Schneeflocken. Ein paar von ihnen peitschen auf dich zu und prasseln mit unmöglicher Kraft gegen deine Rüstung.
 
 Der Quishami bewegt sich von dir weg. Er verweigert weitere Kommunikationsversuche und ertränkt dich in einem Regen psychischen Rauschens, der dich vor Schmerzen krümmen lässt.</DefaultText>
-      <FemaleText>Nein.
-
-Die Luft um den Quishami füllt sich mit kleinen Kristallsplittern, wie regungslose Schneeflocken. Ein paar von ihnen peitschen auf dich zu und prasseln mit unmöglicher Kraft gegen deine Rüstung.
-
-Der Quishami bewegt sich von dir weg. Er verweigert weitere Kommunikationsversuche und ertränkt dich in einem Regen psychischen Rauschens, der dich vor Schmerzen krümmen lässt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
@@ -952,11 +884,7 @@ Der Quishami bewegt sich von dir weg. Er verweigert weitere Kommunikationsversuc
 Bei diesem Anblick bist du so gebannt, dass du kaum bemerkst, wie die Kristallscherben in dein Fleisch schneiden, zumindest solange, bis der Quishami vor dir zum Stehen kommt, schweigend und plötzlich erschreckend.
 
 {SCRIPT: The Player would take minor damage here.}</DefaultText>
-      <FemaleText>Du stehst im Weg des Quishami und studierst ihn. Aus der Nähe betrachtet kannst du sehen, dass seine Bewegung tatsächlich eine Art ständige Rekonstruktion ist: Der Quishami bewegt sich nicht wirklich, stattdessen wächst und löst er sich durch den linearen Raum auf.
-
-Bei diesem Anblick bist du so gebannt, dass du kaum bemerkst, wie die Kristallscherben in dein Fleisch schneiden, zumindest solange, bis der Quishami vor dir zum Stehen kommt, schweigend und plötzlich erschreckend.
-
-{SCRIPT: The Player would take minor damage here.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
@@ -968,43 +896,39 @@ Bei diesem Anblick bist du so gebannt, dass du kaum bemerkst, wie die Kristallsc
       <DefaultText>Du starrst auf das Muster, bis die Linien sich ineinander verdrehen und fremdartige Winkel sich in einem sinnlichen, verfallenden Tanz durchkreuzen. Du verlierst dich in dem nicht-euklidischen Chaos, dein Geist spult sich in den Abgrund des *Dazwischen* ab.
 
 Du gelangst zu vollem Bewusstsein deines Körpers zurück, um dich heftig und unerbittlich für gefühlte Stunden zu übergeben. Mit noch immer von schweren Krämpfen schmerzendem Magen stehst du schließlich auf und bemühst dich, die Zeichen unter deinen Füßen zu betrachten.</DefaultText>
-      <FemaleText>Du starrst auf das Muster, bis die Linien sich ineinander verdrehen und fremdartige Winkel sich in einem sinnlichen, verfallenden Tanz durchkreuzen. Du verlierst dich in dem nicht-euklidischen Chaos, dein Geist spult sich in den Abgrund des *Dazwischen* ab.
-
-Du gelangst zu vollem Bewusstsein deines Körpers zurück, um dich heftig und unerbittlich für gefühlte Stunden zu übergeben. Mit noch immer von schweren Krämpfen schmerzendem Magen stehst du schließlich auf und bemühst dich, die Zeichen unter deinen Füßen zu betrachten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
       <DefaultText>Als du dich erneut auf die Zeichnungen konzentrierst, ist deine Reaktion überwältigend und unmittelbar. Du stürzt vor Schrecken lallend zu Boden und umarmst die angezogenen Knie, während du wie ein verängstigtes Kind hin und her wiegst, bis der Schrecken dich verlässt und der Erschöpfung Platz macht.
 
 Du torkelst auf die Füße und schirmst dein unteres Sichtfeld mit einer Hand ab, sodass du die Arbeit des Quishami nie wieder sehen musst.</DefaultText>
-      <FemaleText>Als du dich erneut auf die Zeichnungen konzentrierst, ist deine Reaktion überwältigend und unmittelbar. Du stürzt vor Schrecken lallend zu Boden und umarmst die angezogenen Knie, während du wie ein verängstigtes Kind hin und her wiegst, bis der Schrecken dich verlässt und der Erschöpfung Platz macht.
-
-Du torkelst auf die Füße und schirmst dein unteres Sichtfeld mit einer Hand ab, sodass du die Arbeit des Quishami nie wieder sehen musst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
       <DefaultText>Versuche erneut, den Sinn der Zeichnungen des Quishami zu begreifen.</DefaultText>
-      <FemaleText>Versuche erneut, den Sinn der Zeichnungen des Quishami zu begreifen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
       <DefaultText>Zuerst fühlst du nichts. Doch dann umhüllt dich mit einem halb gefühlten, halb gehörten Geräusch die Idee und wiegt dich in sonniger Wärme, während du langsam und verschlungen auf ein gemeinsames Verständnis zutreibst:</DefaultText>
-      <FemaleText>Zuerst fühlst du nichts. Doch dann umhüllt dich mit einem halb gefühlten, halb gehörten Geräusch die Idee und wiegt dich in sonniger Wärme, während du langsam und verschlungen auf ein gemeinsames Verständnis zutreibst:</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
       <DefaultText>Konzentriere dich auf das Gewicht in deinem Geist.</DefaultText>
-      <FemaleText>Konzentriere dich auf das Gewicht in deinem Geist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
       <DefaultText>Noch nicht.</DefaultText>
-      <FemaleText>Noch nicht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
       <DefaultText>Der Quishami schwankt zwischen dir und den Stufen, doch schließlich verharrt er auf halber Strecke und gibt Wellen qualvoller Sehnsucht von sich.</DefaultText>
-      <FemaleText>Der Quishami schwankt zwischen dir und den Stufen, doch schließlich verharrt er auf halber Strecke und gibt Wellen qualvoller Sehnsucht von sich.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
