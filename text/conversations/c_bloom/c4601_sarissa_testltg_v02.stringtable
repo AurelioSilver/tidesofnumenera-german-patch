@@ -7,12 +7,12 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>"Du hast der Konvergenz einen großen Dienst erwiesen. Wir vergessen diejenigen nicht, denen wir etwas schulden."</DefaultText>
-      <FemaleText>"Du hast der Konvergenz einen großen Dienst erwiesen. Wir vergessen diejenigen nicht, denen wir etwas schulden."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Im kleinen Lager siehst du eine Gruppe von Forschern, die sich heftig streiten. Als du dich näherst, löst sich eine große Frau in figurenbetonter schwarzer Rüstung von der Diskussion und kommt auf dich zu. Sie führt einen langen Speer mit lockerem Griff, der irgendwie Gewalt impliziert.</DefaultText>
-      <FemaleText>Im kleinen Lager siehst du eine Gruppe von Forschern, die sich heftig streiten. Als du dich näherst, löst sich eine große Frau in figurenbetonter schwarzer Rüstung von der Diskussion und kommt auf dich zu. Sie führt einen langen Speer mit lockerem Griff, der irgendwie Gewalt impliziert.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -22,32 +22,32 @@
     <Entry>
       <ID>29</ID>
       <DefaultText>"Du da!" Sie bleibt vor dir stehen, betrachtet dich von Kopf bis Fuß, während ihre Gefährten sich weiter streiten. Nach einem Moment schenkt sie dir ein umwerfendes Lächeln. "Lust auf ein paar leicht verdiente Shin?"</DefaultText>
-      <FemaleText>"Du da!" Sie bleibt vor dir stehen, betrachtet dich von Kopf bis Fuß, während ihre Gefährten sich weiter streiten. Nach einem Moment schenkt sie dir ein umwerfendes Lächeln. "Lust auf ein paar leicht verdiente Shin?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Verschmiertes Blut unter ihrem Kinn und Schrammen auf ihrer Rüstung deuten darauf hin, dass sie vor Kurzem in einen Kampf verwickelt war Kleine Kristallscherben ragen aus dem Handrücken ihrer linken Hand heraus und sie ballt sie unbewusst, während sie spricht.</DefaultText>
-      <FemaleText>Verschmiertes Blut unter ihrem Kinn und Schrammen auf ihrer Rüstung deuten darauf hin, dass sie vor Kurzem in einen Kampf verwickelt war Kleine Kristallscherben ragen aus dem Handrücken ihrer linken Hand heraus und sie ballt sie unbewusst, während sie spricht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>"Sicher. Was brauchst du?"</DefaultText>
-      <FemaleText>"Sicher. Was brauchst du?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>"Das hängt von der Aufgabe ab."</DefaultText>
-      <FemaleText>"Das hängt von der Aufgabe ab."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>"Ich habe festgestellt, dass 'leicht verdient' oft mehr Ärger bedeutet als es wert ist."</DefaultText>
-      <FemaleText>"Ich habe festgestellt, dass 'leicht verdient' oft mehr Ärger bedeutet als es wert ist."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>"Es sieht nicht so leicht aus, wenn man die Kampfwunden bedenkt, die du hast."</DefaultText>
-      <FemaleText>"Es sieht nicht so leicht aus, wenn man die Kampfwunden bedenkt, die du hast."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
@@ -61,7 +61,7 @@
     <Entry>
       <ID>36</ID>
       <DefaultText>"Willkommen zurück." Ihre linke Hand verstärkt den Griff um den Speer ein wenig mehr. Irritierenderweise streiten sich ihre Gefährten noch immer. "Hast du den Quishami verlegt?"</DefaultText>
-      <FemaleText>"Willkommen zurück." Ihre linke Hand verstärkt den Griff um den Speer ein wenig mehr. Irritierenderweise streiten sich ihre Gefährten noch immer. "Hast du den Quishami verlegt?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -71,16 +71,14 @@
     <Entry>
       <ID>40</ID>
       <DefaultText>"Da ist dieses *Ding*, an dem wir versucht haben, vorbeizukommen, das sich aber weigert, sich zu rühren." Sie wirft einen Blick über die rechte Schulter auf eine Treppe, die in die Kristallwand geschlagen wurde. "Achor sagt, das sei ein 'Quishami', was auch immer das heißen soll."</DefaultText>
-      <FemaleText>"Da ist dieses *Ding*, an dem wir versucht haben, vorbeizukommen, das sich aber weigert, sich zu rühren." Sie wirft einen Blick über die rechte Schulter auf eine Treppe, die in die Kristallwand geschlagen wurde. "Achor sagt, das sei ein 'Quishami', was auch immer das heißen soll."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>"Alles was ich weiß ist, dass er dort seit langer Zeit steht. Das, und er nicht besonders mag, wenn man an ihm herumspielt." Sie lächelt kurz. "Das erklärt jedenfalls, warum Achor ihn mag. Beide sind gleichermaßen starrköpfig."
 
 {SCRIPT: Starts Sarissa's Quest.}</DefaultText>
-      <FemaleText>"Alles was ich weiß ist, dass er dort seit langer Zeit steht. Das, und er nicht besonders mag, wenn man an ihm herumspielt." Sie lächelt kurz. "Das erklärt jedenfalls, warum Achor ihn mag. Beide sind gleichermaßen starrköpfig."
-
-{SCRIPT: Starts Sarissa's Quest.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
@@ -90,12 +88,12 @@
     <Entry>
       <ID>51</ID>
       <DefaultText>"Kannst du mir mehr über den Quishami erzählen?"</DefaultText>
-      <FemaleText>"Kannst du mir mehr über den Quishami erzählen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>"Kannst du mir nochmal sagen, was du über den Quishami weißt?"</DefaultText>
-      <FemaleText>"Kannst du mir nochmal sagen, was du über den Quishami weißt?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
@@ -105,7 +103,7 @@
     <Entry>
       <ID>54</ID>
       <DefaultText>"Ich kann den Quishami für dich töten."</DefaultText>
-      <FemaleText>"Ich kann den Quishami für dich töten."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -120,12 +118,12 @@
     <Entry>
       <ID>57</ID>
       <DefaultText>"Hast du versucht, mit dem Quishami zu reden, um herauszufinden, was er will?"</DefaultText>
-      <FemaleText>"Hast du versucht, mit dem Quishami zu reden, um herauszufinden, was er will?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
       <DefaultText>"Sag mir nochmal, ob du versucht hast, mit dem Quishami zu kommunizieren."</DefaultText>
-      <FemaleText>"Sag mir nochmal, ob du versucht hast, mit dem Quishami zu kommunizieren."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
@@ -136,27 +134,19 @@
 "Danke. Morgen hätte ich sicher gewusst, dass sie da sind." Sie verzieht das Gesicht. "Hör zu – "
 
 {SCRIPT: Raise Sarissa's state to Hale/remove a Bleeding fettle. This will make the Tussle later more difficult if the player chooses not to hand over the Quishami heart.}</DefaultText>
-      <FemaleText>Sie dreht das linke Handgelenk um und schielt auf die Kristalle, die in ihrer Haut stecken.
-
-"Ich dachte, ich hätte alle." Sie reißt die Splitter schnell heraus und lässt sie fallen, während Blut aus den Stichwunden fließt. Mit einer schnellen Bewegung ihrer rechten Hand erscheint ein Stoffstreifen zwischen ihren Fingern, der sich aus der Rüstung abspult. Sie verbindet ihre linke Hand und betrachtet ihre Arbeit kurz, ehe sie ihre Aufmerksamkeit wieder dir widmet.
-
-"Danke. Morgen hätte ich sicher gewusst, dass sie da sind." Sie verzieht das Gesicht. "Hör zu – "
-
-{SCRIPT: Raise Sarissa's state to Hale/remove a Bleeding fettle. This will make the Tussle later more difficult if the player chooses not to hand over the Quishami heart.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
       <DefaultText>Sie hebt beschwichtigend die Hand.
 
 "Hör mir einfach zu, ja?"</DefaultText>
-      <FemaleText>Sie hebt beschwichtigend die Hand.
-
-"Hör mir einfach zu, ja?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
       <DefaultText>Sie nickt zustimmend und ihr Lächeln wird grimmig.</DefaultText>
-      <FemaleText>Sie nickt zustimmend und ihr Lächeln wird grimmig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
@@ -196,7 +186,7 @@
     <Entry>
       <ID>72</ID>
       <DefaultText>"Hast du in Erwägung gezogen, den Quishami einfach in Ruhe zu lassen?"</DefaultText>
-      <FemaleText>"Hast du in Erwägung gezogen, den Quishami einfach in Ruhe zu lassen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
@@ -206,21 +196,19 @@
     <Entry>
       <ID>82</ID>
       <DefaultText>Sie neigt den Kopf zur Seite. "Er ist eine kristalline Einheit, doppelt so groß wie du oder ich. So wie er sich bewegt ... Nun." Sie lacht unbequem. "Es ist, als würde er ständig an den Nähten auseinanderbrechen und sich selbst wieder zusammennähen."</DefaultText>
-      <FemaleText>Sie neigt den Kopf zur Seite. "Er ist eine kristalline Einheit, doppelt so groß wie du oder ich. So wie er sich bewegt ... Nun." Sie lacht unbequem. "Es ist, als würde er ständig an den Nähten auseinanderbrechen und sich selbst wieder zusammennähen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
       <DefaultText>Sie nickt.
 
 "Er ist kristallin, er könnte intelligent sein, und er mag keine Gesellschaft."</DefaultText>
-      <FemaleText>Sie nickt.
-
-"Er ist kristallin, er könnte intelligent sein, und er mag keine Gesellschaft."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
       <DefaultText>Sie öffnet den Mund, um zu antworten, dann lächelt sie stattdessen. "Danke, aber das ist nicht nötig. Wir wollen nur, dass er aus dem Weg ist, während wir vorbeiziehen, und im Idealfall, bis wir zurückkommen. Dann kann er den ganzen Ort wieder für sich haben, ohne Diskussion."</DefaultText>
-      <FemaleText>Sie öffnet den Mund, um zu antworten, dann lächelt sie stattdessen. "Danke, aber das ist nicht nötig. Wir wollen nur, dass er aus dem Weg ist, während wir vorbeiziehen, und im Idealfall, bis wir zurückkommen. Dann kann er den ganzen Ort wieder für sich haben, ohne Diskussion."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
@@ -230,12 +218,12 @@
     <Entry>
       <ID>86</ID>
       <DefaultText>"Ich kommuniziere", sagt sie ohne eine Spur von Bescheidenheit, "doch er scheint keine der Sprachen zu verstehen, die wir kennen, und er reagiert auf keine Numenera, die wir besitzen. Ich habe sogar versucht, Piktogramme in den Boden zu zeichnen, um ihn zu bitten, uns durchzulassen. Er fegte nur über meine Zeichnungen und löschte sie, als hätten sie nie existiert." Sie verzieht das Gesicht. "Ganz schöne Kritik."</DefaultText>
-      <FemaleText>"Ich kommuniziere", sagt sie ohne eine Spur von Bescheidenheit, "doch er scheint keine der Sprachen zu verstehen, die wir kennen, und er reagiert auf keine Numenera, die wir besitzen. Ich habe sogar versucht, Piktogramme in den Boden zu zeichnen, um ihn zu bitten, uns durchzulassen. Er fegte nur über meine Zeichnungen und löschte sie, als hätten sie nie existiert." Sie verzieht das Gesicht. "Ganz schöne Kritik."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>"Wir haben gesprochene Sprache, Numenera und Piktogramme versucht. Er mochte meine Zeichnungen nicht, doch das war das einzige Mal, dass er unsere Anwesenheit wirklich anerkannte."</DefaultText>
-      <FemaleText>"Wir haben gesprochene Sprache, Numenera und Piktogramme versucht. Er mochte meine Zeichnungen nicht, doch das war das einzige Mal, dass er unsere Anwesenheit wirklich anerkannte."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
@@ -245,12 +233,12 @@
     <Entry>
       <ID>89</ID>
       <DefaultText>"Was soll ich für dich tun?"</DefaultText>
-      <FemaleText>"Was soll ich für dich tun?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
       <DefaultText>"Sag mir nochmal, was ich für dich tun soll."</DefaultText>
-      <FemaleText>"Sag mir nochmal, was ich für dich tun soll."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
@@ -270,12 +258,12 @@
     <Entry>
       <ID>94</ID>
       <DefaultText>"Du kannst den Quishami für eine Weile aus dem Weg schaffen." Sie betrachtet dich für einen Augenblick und fällt eine Art Entscheidung. "Mein Team und ich sind hier, um die Gegend zu erkunden und zu sehen, ob es sich lohnt, hier ein dauerhaftes Lager zu errichten. Hier könnte es mächtige Numenera geben, und es ist ein Ort, den man nur schwer erreicht. Aber das weißt du ja alles schon."</DefaultText>
-      <FemaleText>"Du kannst den Quishami für eine Weile aus dem Weg schaffen." Sie betrachtet dich für einen Augenblick und fällt eine Art Entscheidung. "Mein Team und ich sind hier, um die Gegend zu erkunden und zu sehen, ob es sich lohnt, hier ein dauerhaftes Lager zu errichten. Hier könnte es mächtige Numenera geben, und es ist ein Ort, den man nur schwer erreicht. Aber das weißt du ja alles schon."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
       <DefaultText>"Bewege den Quishami irgendwie – lenk ihn ab, fang ihn ein, spiel mit ihm Karten." Sie lächelt, um die Spitze aus ihrem Tonfall zu nehmen. "Ich bin mir sicher, dir fällt etwas ein."</DefaultText>
-      <FemaleText>"Bewege den Quishami irgendwie – lenk ihn ab, fang ihn ein, spiel mit ihm Karten." Sie lächelt, um die Spitze aus ihrem Tonfall zu nehmen. "Ich bin mir sicher, dir fällt etwas ein."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
@@ -345,7 +333,7 @@
     <Entry>
       <ID>110</ID>
       <DefaultText>"Natürlich haben wir das." Sie schließt die Augen und einen Moment lang sieht sie zehn Jahre älter aus. Dann begegnen sich eure Blicke wieder und die Jahre fallen von ihr ab.  "Doch wir sind hierhergekommen, um eine Aufgabe zu erledigen. Wir würden wie Narren aussehen, wenn wir nur halb verrichteter Dinge zurückkehrten." Sie lächelt reumütig. "Darum geht es mir nicht wirklich. Ich habe einen Ruf, den ich wahren muss."</DefaultText>
-      <FemaleText>"Natürlich haben wir das." Sie schließt die Augen und einen Moment lang sieht sie zehn Jahre älter aus. Dann begegnen sich eure Blicke wieder und die Jahre fallen von ihr ab.  "Doch wir sind hierhergekommen, um eine Aufgabe zu erledigen. Wir würden wie Narren aussehen, wenn wir nur halb verrichteter Dinge zurückkehrten." Sie lächelt reumütig. "Darum geht es mir nicht wirklich. Ich habe einen Ruf, den ich wahren muss."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
@@ -460,7 +448,7 @@
     <Entry>
       <ID>135</ID>
       <DefaultText>"Nein, danke."</DefaultText>
-      <FemaleText>"Nein, danke."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
@@ -650,17 +638,17 @@
     <Entry>
       <ID>179</ID>
       <DefaultText>Sie lacht darüber. "He, ich wiederhole nur, was mir gesagt wurde, als ich unterschrieben habe. Du hast nicht Unrecht, aber ich hoffe, du wirst mich dennoch anhören."</DefaultText>
-      <FemaleText>Sie lacht darüber. "He, ich wiederhole nur, was mir gesagt wurde, als ich unterschrieben habe. Du hast nicht Unrecht, aber ich hoffe, du wirst mich dennoch anhören."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
       <DefaultText>"Er mag es auch, schöne Muster auf den Boden zu zeichnen." Sie verfolgt ein arkanes Symbol in der Luft und verengt die Augen, als würde sie versuchen, ihre eigenen Bewegungen zu verstehen. "Wir konnten nicht herausfinden, was er versucht, uns zu sagen, wenn er überhaupt etwas sagen will." Sie schüttelt den Kopf und richtet ihre Aufmerksamkeit wieder auf dich.</DefaultText>
-      <FemaleText>"Er mag es auch, schöne Muster auf den Boden zu zeichnen." Sie verfolgt ein arkanes Symbol in der Luft und verengt die Augen, als würde sie versuchen, ihre eigenen Bewegungen zu verstehen. "Wir konnten nicht herausfinden, was er versucht, uns zu sagen, wenn er überhaupt etwas sagen will." Sie schüttelt den Kopf und richtet ihre Aufmerksamkeit wieder auf dich.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
       <DefaultText>"Achor sagt mir, Quishamis würden gewöhnlich in den Wolkenkristall-Himmelfeldern gesehen, was bedeutet, dass dieser hier ziemlich weit davon entfernt ist." Sie wendet kurz den Blick ab, als etwas wie Traurigkeit über ihr Gesicht huscht. "Ich weiß, wie sich das anfühlt."</DefaultText>
-      <FemaleText>"Achor sagt mir, Quishamis würden gewöhnlich in den Wolkenkristall-Himmelfeldern gesehen, was bedeutet, dass dieser hier ziemlich weit davon entfernt ist." Sie wendet kurz den Blick ab, als etwas wie Traurigkeit über ihr Gesicht huscht. "Ich weiß, wie sich das anfühlt."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
@@ -680,12 +668,12 @@
     <Entry>
       <ID>185</ID>
       <DefaultText>"Und du."</DefaultText>
-      <FemaleText>"Und du."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
       <DefaultText>"Bist du so weit von deinem eigenen Ziel entfernt?"</DefaultText>
-      <FemaleText>"Bist du so weit von deinem eigenen Ziel entfernt?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
@@ -694,69 +682,61 @@
 "Wir sind seit ein paar Jahren hier", sagt sie leichtfertig, als wäre es die natürlichste Sache der Welt. "Man gewöhnt sich daran, von der Zivilisation abgeschnitten zu sein. Ich hoffe nur, dass die Welt mich nicht vergessen hat." Wenn ihr Lachen ertönt, ist es brüchig. Sie fährt sich mit der rechten Hand schnell über die Augen, ehe sie deinem Blick wieder begegnet.
 
 {SCRIPT: Increment a global value here raising Sarissa's friendliness toward the player - a bonus on the task to convince her later on?}</DefaultText>
-      <FemaleText>Sie schaut etwas aufgeschreckt wieder zu dir, und dieses Mal kann ihr Lächeln den Schmerz nicht ganz verbergen.
-
-"Wir sind seit ein paar Jahren hier", sagt sie leichtfertig, als wäre es die natürlichste Sache der Welt. "Man gewöhnt sich daran, von der Zivilisation abgeschnitten zu sein. Ich hoffe nur, dass die Welt mich nicht vergessen hat." Wenn ihr Lachen ertönt, ist es brüchig. Sie fährt sich mit der rechten Hand schnell über die Augen, ehe sie deinem Blick wieder begegnet.
-
-{SCRIPT: Increment a global value here raising Sarissa's friendliness toward the player - a bonus on the task to convince her later on?}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
       <DefaultText>Sarissa trifft dich unten an der Treppe.
 
 "Ich habe Kampfgeräusche gehört", sagt sie und versucht verstohlen, an dir vorbeizusehen, während sie spricht. "Was ist passiert?"</DefaultText>
-      <FemaleText>Sarissa trifft dich unten an der Treppe.
-
-"Ich habe Kampfgeräusche gehört", sagt sie und versucht verstohlen, an dir vorbeizusehen, während sie spricht. "Was ist passiert?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
       <DefaultText>"Der Quishami ist weg."</DefaultText>
-      <FemaleText>"Der Quishami ist weg."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
       <DefaultText>"Der Quishami ist tot."</DefaultText>
-      <FemaleText>"Der Quishami ist tot."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
       <DefaultText>"Der Quishami ist aus dem Weg."</DefaultText>
-      <FemaleText>"Der Quishami ist aus dem Weg."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
       <DefaultText>"Noch nicht."</DefaultText>
-      <FemaleText>"Noch nicht."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
       <DefaultText>Sie lächelt entwaffnend.
 
 "Hattest du also Fragen?"</DefaultText>
-      <FemaleText>Sie lächelt entwaffnend.
-
-"Hattest du also Fragen?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
       <DefaultText>Ihr Ton ist schärfer als du bisher wahrgenommen hattest. "Weg? Was meinst du mit *weg*?"</DefaultText>
-      <FemaleText>Ihr Ton ist schärfer als du bisher wahrgenommen hattest. "Weg? Was meinst du mit *weg*?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
       <DefaultText>"Er hat versucht, nach Hause zu kommen, also schickte ich ihn durch das Portal zurück, das ich verwendet habe, um herzukommen."</DefaultText>
-      <FemaleText>"Er hat versucht, nach Hause zu kommen, also schickte ich ihn durch das Portal zurück, das ich verwendet habe, um herzukommen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
       <DefaultText>"Ich habe ihn einfach über den Rand des Plateaus fallengelassen."</DefaultText>
-      <FemaleText>"Ich habe ihn einfach über den Rand des Plateaus fallengelassen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
       <DefaultText>"Die Zeichnung war eine Art Numenera. Ich habe das Muster vervollständigt und der Quishami ist verschwunden. Nach Hause, glaube ich."</DefaultText>
-      <FemaleText>"Die Zeichnung war eine Art Numenera. Ich habe das Muster vervollständigt und der Quishami ist verschwunden. Nach Hause, glaube ich."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
@@ -783,34 +763,32 @@
       <DefaultText>Du bemerkst auf einmal, dass Sarissas Gefährten den Streit beenden haben.
 
 "Oh." Sie seufzt, als würde die Bürde der Welt plötzlich auf ihren Schultern lasten. "Doch bedaure ich, dass ich dich darum bitten muss, mir sein Herz zu übergeben."</DefaultText>
-      <FemaleText>Du bemerkst auf einmal, dass Sarissas Gefährten den Streit beenden haben.
-
-"Oh." Sie seufzt, als würde die Bürde der Welt plötzlich auf ihren Schultern lasten. "Doch bedaure ich, dass ich dich darum bitten muss, mir sein Herz zu übergeben."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
       <DefaultText>Ihr Ausdruck wird neutral, höflich interessiert. "Ich möchte nur sichergehen, dass ich dich richtig verstehe. Mit 'aus dem Weg' meinst du ...?"</DefaultText>
-      <FemaleText>Ihr Ausdruck wird neutral, höflich interessiert. "Ich möchte nur sichergehen, dass ich dich richtig verstehe. Mit 'aus dem Weg' meinst du ...?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
       <DefaultText>"Ich habe ihn zur Seite getragen und er ist stehengeblieben. Ich glaube nicht, dass er euch in nächster Zeit belästigen wird."</DefaultText>
-      <FemaleText>"Ich habe ihn zur Seite getragen und er ist stehengeblieben. Ich glaube nicht, dass er euch in nächster Zeit belästigen wird."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
       <DefaultText>"Ich habe ihn dazu überredet, aus dem Weg zu gehen. Er wird sich nicht wieder bewegen, ehe ich es ihm sage."</DefaultText>
-      <FemaleText>"Ich habe ihn dazu überredet, aus dem Weg zu gehen. Er wird sich nicht wieder bewegen, ehe ich es ihm sage."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
       <DefaultText>"Ich habe einen Teil seiner Zeichnungen gelöscht und er bewegte sich aus dem Weg, um sie wiederherzustellen. Er sollte eine Weile dort bleiben."</DefaultText>
-      <FemaleText>"Ich habe einen Teil seiner Zeichnungen gelöscht und er bewegte sich aus dem Weg, um sie wiederherzustellen. Er sollte eine Weile dort bleiben."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
       <DefaultText>"Ich meine, du hast mich gebeten, mich um ihn zu kümmern, und das habe ich getan."</DefaultText>
-      <FemaleText>"Ich meine, du hast mich gebeten, mich um ihn zu kümmern, und das habe ich getan."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
@@ -824,11 +802,7 @@
 "Du hast uns einen Dienst erwiesen und wir bezahlen unsere Schulden." Ihr Lächeln wird ein wenig matt. "Danke."
 
 {LOOT: Something interesting, but not unique.}</DefaultText>
-      <FemaleText>Sarissa schließt die Augen, als sei sie plötzlich krank. Schließlich sieht sie dich wieder an und lächelt.
-
-"Du hast uns einen Dienst erwiesen und wir bezahlen unsere Schulden." Ihr Lächeln wird ein wenig matt. "Danke."
-
-{LOOT: Something interesting, but not unique.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
@@ -837,16 +811,12 @@
 "Danke. Wir kommen jetzt selbst zurecht. Bitte, nimm dies als Zahlung für die Freundlichkeit, die du uns erwiesen hast."
 
 {LOOT: Something interesting, but not unique.}</DefaultText>
-      <FemaleText>Sie prüft dein Gesicht, als versuche sie, deine Motive einzuschätzen. Schließlich neigt sie mit einem winzigen Schulterzucken und einem Lächeln den Kopf.
-
-"Danke. Wir kommen jetzt selbst zurecht. Bitte, nimm dies als Zahlung für die Freundlichkeit, die du uns erwiesen hast."
-
-{LOOT: Something interesting, but not unique.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
       <DefaultText>"Ich habe ihn getötet."</DefaultText>
-      <FemaleText>"Ich habe ihn getötet."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
@@ -855,11 +825,7 @@
 "Danke. Und ich bin sicher, wo auch immer der Quishami ist, er dankt dir auch. Bitte, nimm das."
 
 {LOOT: Something interesting, but not unique.}</DefaultText>
-      <FemaleText>"Du hast ihn nach Hause geschickt?" Ehe sie den Blick abwenden kann, siehst du, wie sich in ihren Augenwinkeln Tränen sammeln. Sie blinzelt einige Male und lächelt dich dann mit überraschender Wärme an.
-
-"Danke. Und ich bin sicher, wo auch immer der Quishami ist, er dankt dir auch. Bitte, nimm das."
-
-{LOOT: Something interesting, but not unique.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
@@ -869,12 +835,12 @@
     <Entry>
       <ID>220</ID>
       <DefaultText>"Du meinst, du hast mit ihm gesprochen? Und ..." Unbewusst wirft sie mit einem merkwürdigen Ausdruck auf dem Gesicht einen Blick auf das Plateau.</DefaultText>
-      <FemaleText>"Du meinst, du hast mit ihm gesprochen? Und ..." Unbewusst wirft sie mit einem merkwürdigen Ausdruck auf dem Gesicht einen Blick auf das Plateau.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
       <DefaultText>"Du hast einen Weg gefunden, mit ihm zu reden?" Ihre Überraschung ist beinahe komisch. "Und ... Und du hast ihm gesagt, es solle einfach stehenbleiben?"</DefaultText>
-      <FemaleText>"Du hast einen Weg gefunden, mit ihm zu reden?" Ihre Überraschung ist beinahe komisch. "Und ... Und du hast ihm gesagt, es solle einfach stehenbleiben?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
@@ -883,35 +849,29 @@
 "Ich würde an deiner Stelle nicht gegen uns kämpfen", sagt sie im Plauderton. "Wir konnten den Quishami nicht besiegen, aber wir haben mehr Erfahrung mit Menschen."
 
 {SCRIPT: For the purposes of this conversation, I'm assuming the player hasn't yet crafted the Quishami heart into any other item, but would provide a different branch if they had.}</DefaultText>
-      <FemaleText>Die Männer aus dem Lager nähern sich und machen subtil Numenera und Waffen bereit. Sarissa hebt ihren Speer.
-
-"Ich würde an deiner Stelle nicht gegen uns kämpfen", sagt sie im Plauderton. "Wir konnten den Quishami nicht besiegen, aber wir haben mehr Erfahrung mit Menschen."
-
-{SCRIPT: For the purposes of this conversation, I'm assuming the player hasn't yet crafted the Quishami heart into any other item, but would provide a different branch if they had.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
       <DefaultText>Übergib das Herz des Quishami.</DefaultText>
-      <FemaleText>Übergib das Herz des Quishami.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
       <DefaultText>"Ich würde die Chancen bedenken, wenn ich du wäre. Du hast keine Ahnung, wozu ich in der Lage bin."</DefaultText>
-      <FemaleText>"Ich würde die Chancen bedenken, wenn ich du wäre. Du hast keine Ahnung, wozu ich in der Lage bin."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
       <DefaultText>"Du hast recht, ihr konntet den Quishami nicht töten. Ich aber schon. Sein Herz gehört rechtmäßig mir."</DefaultText>
-      <FemaleText>"Du hast recht, ihr konntet den Quishami nicht töten. Ich aber schon. Sein Herz gehört rechtmäßig mir."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
       <DefaultText>Greife an.
 
 {SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
-      <FemaleText>Greife an.
-
-{SCRIPT: Start a Tussle with Sarissa and her companions.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
@@ -920,80 +880,64 @@
 "Danke", sagt sie einfach. "Ich wollte nicht, dass das böse für dich endet." Sie lächelt wie nach einem Witz, den ihr beide gemacht habt. "Nimm das als Entschädigung."
 
 {LOOT: Something interesting, but not unique.}</DefaultText>
-      <FemaleText>Es scheint, als ob die Spannung aus Sarissa entweiche, als du einem ihrer Gefährten das Herz übergibst. Alle drei treten zurück und haben den gleichen Ausdruck von Habgier auf dem Gesicht.
-
-"Danke", sagt sie einfach. "Ich wollte nicht, dass das böse für dich endet." Sie lächelt wie nach einem Witz, den ihr beide gemacht habt. "Nimm das als Entschädigung."
-
-{LOOT: Something interesting, but not unique.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
       <DefaultText>Sarissa sieht nach oben. Du brauchst einen Augenblick, ehe du erkennst, dass sie lautlos mit ihren Gefährten kommuniziert, dann ruht ihr Blick wieder auf dir.
 
 "Also gut", sagt sie.</DefaultText>
-      <FemaleText>Sarissa sieht nach oben. Du brauchst einen Augenblick, ehe du erkennst, dass sie lautlos mit ihren Gefährten kommuniziert, dann ruht ihr Blick wieder auf dir.
-
-"Also gut", sagt sie.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
       <DefaultText>"Ein Jammer", sagt sie, ihren Speer hochhievend. Sie betrachtet dich mit ehrlichem Mitgefühl. "Du hättest eine große Bereicherung für die Konvergenz sein können, lebendig jedenfalls."
 
 {SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
-      <FemaleText>"Ein Jammer", sagt sie, ihren Speer hochhievend. Sie betrachtet dich mit ehrlichem Mitgefühl. "Du hättest eine große Bereicherung für die Konvergenz sein können, lebendig jedenfalls."
-
-{SCRIPT: Start a Tussle with Sarissa and her companions.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
       <DefaultText>Sarissa betrachtet dich. Ihr Ausdruck ist undurchschaubar. Schließlich gewährt sie dir ein kleines, ehrliches Lächeln.
 
 "Also gut." Sie senkt den Speer. Murrend senken ihre Gefährten die eigenen Hände und Waffen, obwohl sie dich noch immer mit Verachtung beobachten.</DefaultText>
-      <FemaleText>Sarissa betrachtet dich. Ihr Ausdruck ist undurchschaubar. Schließlich gewährt sie dir ein kleines, ehrliches Lächeln.
-
-"Also gut." Sie senkt den Speer. Murrend senken ihre Gefährten die eigenen Hände und Waffen, obwohl sie dich noch immer mit Verachtung beobachten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
       <DefaultText>"Dann finden wir es heraus." Ihre Stimme ist flach und hässlich, und der Ausdruck der Verachtung, den sie dir zeigt, macht ihr Gesicht unerkennbar. Ihre Gefährten heben ihre Waffen und treten vor.
 
 {SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
-      <FemaleText>"Dann finden wir es heraus." Ihre Stimme ist flach und hässlich, und der Ausdruck der Verachtung, den sie dir zeigt, macht ihr Gesicht unerkennbar. Ihre Gefährten heben ihre Waffen und treten vor.
-
-{SCRIPT: Start a Tussle with Sarissa and her companions.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>233</ID>
       <DefaultText>"Doch du schuldest uns in Zukunft einen Gefallen. Abgemacht?" Sie streckt dir als Zeichen des guten Willens die Hand entgegen und du ergreifst sie. Einen Augenblick später beginnt die Numenera ihre Arbeit, doch sie umgreift deine Finger mit überraschender Stärke, bis das Brennen zu einem tauben Schmerz verflacht ist.</DefaultText>
-      <FemaleText>"Doch du schuldest uns in Zukunft einen Gefallen. Abgemacht?" Sie streckt dir als Zeichen des guten Willens die Hand entgegen und du ergreifst sie. Einen Augenblick später beginnt die Numenera ihre Arbeit, doch sie umgreift deine Finger mit überraschender Stärke, bis das Brennen zu einem tauben Schmerz verflacht ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
       <DefaultText>Sie schaut teilnahmslos zu, wie du das kleine schwarze Zeichen untersuchst, das wie ein umgedrehtes Komma aussieht und in der Beuge zwischen deinem Daumen und dem Zeigefinger aufgetaucht ist. Sie und ihre Gefährten wenden sich ab und gehen weg.</DefaultText>
-      <FemaleText>Sie schaut teilnahmslos zu, wie du das kleine schwarze Zeichen untersuchst, das wie ein umgedrehtes Komma aussieht und in der Beuge zwischen deinem Daumen und dem Zeigefinger aufgetaucht ist. Sie und ihre Gefährten wenden sich ab und gehen weg.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
       <DefaultText>"Das ist süß", sagt sie lächelnd. "Ich hoffe, du kämpfst, wie du redest."
 
 {SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
-      <FemaleText>"Das ist süß", sagt sie lächelnd. "Ich hoffe, du kämpfst, wie du redest."
-
-{SCRIPT: Start a Tussle with Sarissa and her companions.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
       <DefaultText>"Ich weiß nicht, wie du überlebt hast, doch ich werde sicherstellen, dass das nicht wieder passiert!"
 
 {SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
-      <FemaleText>"Ich weiß nicht, wie du überlebt hast, doch ich werde sicherstellen, dass das nicht wieder passiert!"
-
-{SCRIPT: Start a Tussle with Sarissa and her companions.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
       <DefaultText>"Keine Sorge. Wenn wir dich wollen, wirst du es wissen."</DefaultText>
-      <FemaleText>"Keine Sorge. Wenn wir dich wollen, wirst du es wissen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
@@ -1003,7 +947,7 @@
     <Entry>
       <ID>240</ID>
       <DefaultText>"Wir bleiben in Verbindung."</DefaultText>
-      <FemaleText>"Wir bleiben in Verbindung."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
@@ -1013,31 +957,29 @@
     <Entry>
       <ID>242</ID>
       <DefaultText>Sie starrt einen Augenblick durch dich hindurch. Ihr Ausdruck ist scharf, die Nasenflügel geweitet und weiß. Dann kehrt ihr leichtes Auftreten zurück und sie hebt die Schultern und lächelt reumütig.</DefaultText>
-      <FemaleText>Sie starrt einen Augenblick durch dich hindurch. Ihr Ausdruck ist scharf, die Nasenflügel geweitet und weiß. Dann kehrt ihr leichtes Auftreten zurück und sie hebt die Schultern und lächelt reumütig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
       <DefaultText>"Ich nehme an, wir haben dich nicht gebeten, einen vollständigen Bericht abzuliefern, wenn ich darüber nachdenke. Hier. Für die erbrachten Leistungen."
 
 {LOOT: Something interesting, but not unique.}</DefaultText>
-      <FemaleText>"Ich nehme an, wir haben dich nicht gebeten, einen vollständigen Bericht abzuliefern, wenn ich darüber nachdenke. Hier. Für die erbrachten Leistungen."
-
-{LOOT: Something interesting, but not unique.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
       <DefaultText>Du spürst, wie dich ihr Blick verfolgt, während du fortgehst. Als du zurückblickst, wartet sie noch immer, mit einem hungrigen Gesichtsausdruck.</DefaultText>
-      <FemaleText>Du spürst, wie dich ihr Blick verfolgt, während du fortgehst. Als du zurückblickst, wartet sie noch immer, mit einem hungrigen Gesichtsausdruck.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>245</ID>
       <DefaultText>Du spürst, wie dich ihr Blick verfolgt, während du fortgehst. Als du zurückblickst, winkt sie dir kurz zu, bevor sie sich ihren Begleitern zuwendet.</DefaultText>
-      <FemaleText>Du spürst, wie dich ihr Blick verfolgt, während du fortgehst. Als du zurückblickst, winkt sie dir kurz zu, bevor sie sich ihren Begleitern zuwendet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
       <DefaultText>"Wir kommen ab hier alleine zurecht. Danke."</DefaultText>
-      <FemaleText>"Wir kommen ab hier alleine zurecht. Danke."</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
