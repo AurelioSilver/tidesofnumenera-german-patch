@@ -56,7 +56,7 @@
 "Hallo nochmal, mein Freund."</DefaultText>
       <FemaleText>Sie lächelt, als du dich näherst.
 
-"Hallo nochmal, mein Freund."</FemaleText>
+"Hallo nochmal, meine Freundin."</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -942,7 +942,7 @@
     <Entry>
       <ID>239</ID>
       <DefaultText>"Man sieht sich, Reisender."</DefaultText>
-      <FemaleText>"Man sieht sich, Reisender."</FemaleText>
+      <FemaleText>"Man sieht sich, Reisende."</FemaleText>
     </Entry>
     <Entry>
       <ID>240</ID>
@@ -952,7 +952,7 @@
     <Entry>
       <ID>241</ID>
       <DefaultText>"Erledigt ihn!"</DefaultText>
-      <FemaleText>"Erledigt ihn!"</FemaleText>
+      <FemaleText>"Erledigt sie!"</FemaleText>
     </Entry>
     <Entry>
       <ID>242</ID>
