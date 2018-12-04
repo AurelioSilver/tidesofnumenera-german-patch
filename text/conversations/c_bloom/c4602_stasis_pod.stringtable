@@ -50,7 +50,7 @@
       <ID>9</ID>
       <DefaultText>Ein Bild des Sockels erscheint. Der Deckel auf dem Bild ist geschlossen und blinkt rot. Mehrere andere Stellen auf dem Bild des Sockels blinken ebenfalls rot.
 
-Du kannst Folgendes lesen: "Stasissockel leer. Fehler: Selbstdiagnose fehlgeschlagen. Stasissockel kann nicht geöffnet werden. Primäre Funktionen offline. Datenintegrität: 67 %."
+Du kannst Folgendes lesen: „Stasissockel leer. Fehler: Selbstdiagnose fehlgeschlagen. Stasissockel kann nicht geöffnet werden. Primäre Funktionen offline. Datenintegrität: 67 %.“
 
 {GEORGE: The text is written such that the player doesn't get any ideas about opening or using it, HOWEVER if we ever have need of a stasis pod in a side quest, we could open this up to be of use elsewhere. Alternatively, this thing could actually have been used to incubate synthetic living crystals, or even to hatch the crystalvores. -JF/AH}</DefaultText>
       <FemaleText />
@@ -59,7 +59,7 @@ Du kannst Folgendes lesen: "Stasissockel leer. Fehler: Selbstdiagnose fehlgeschl
       <ID>10</ID>
       <DefaultText>Es erscheint ein Bild des Sockels, wobei mehrere Bereiche rot blinken.
 
-Es wird wieder der gleiche Text angezeigt: "Stasissockel leer. Fehler: Selbstdiagnose fehlgeschlagen. Stasissockel kann nicht geöffnet werden. Primäre Funktionen offline. Datenintegrität: 67 %."</DefaultText>
+Es wird wieder der gleiche Text angezeigt: „Stasissockel leer. Fehler: Selbstdiagnose fehlgeschlagen. Stasissockel kann nicht geöffnet werden. Primäre Funktionen offline. Datenintegrität: 67 %.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@ Es gibt jedoch auch eine Reihe funktionierender, datierter Einträge mit der Ken
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Vorläufige Untersuchungen zeigen, dass Mazzof richtig lag. Die Kristalle der Aszension haben die Eigenschaften, die wir benötigen, um die Resonanzkammer fertigzustellen. Der Ring erwies sich auf der Suche nach diesem Ort von unschätzbarem Wert und kann daneben auch für andere Zwecke genutzt werden. Er wird demnach einige Zeit dauern, bis ich wieder zu Dracogen zurückkehren kann. Es sind viele weitere Experimente notwendig, bevor ich mit Sicherheit sagen kann, ob die Aszension hält, was sie verspricht."</DefaultText>
+      <DefaultText>„Vorläufige Untersuchungen zeigen, dass Mazzof richtig lag. Die Kristalle der Aszension haben die Eigenschaften, die wir benötigen, um die Resonanzkammer fertigzustellen. Der Ring erwies sich auf der Suche nach diesem Ort von unschätzbarem Wert und kann daneben auch für andere Zwecke genutzt werden. Er wird demnach einige Zeit dauern, bis ich wieder zu Dracogen zurückkehren kann. Es sind viele weitere Experimente notwendig, bevor ich mit Sicherheit sagen kann, ob die Aszension hält, was sie verspricht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@ Es gibt jedoch auch eine Reihe funktionierender, datierter Einträge mit der Ken
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Die Sekrete der Kristallvore sind einige der wenigen Substanzen, die ich gefunden habe, die sich durch den lebenden Kristall der Aszension fressen können. Ich habe mehrere Larven zu diesem Zweck hierher bringen lassen. Dracogen zeigt Geduld in Hinsicht auf den Ring, ich habe jedoch schon vorher mit anderen Dracogens zu tun gehabt. Er wird nur so lange Geduld zeigen, bis er beschließt, dass ich ihn hintergangen habe. Egal. Ich fürchte den Kummer mehr als *sie*."</DefaultText>
+      <DefaultText>„Die Sekrete der Kristallvore sind einige der wenigen Substanzen, die ich gefunden habe, die sich durch den lebenden Kristall der Aszension fressen können. Ich habe mehrere Larven zu diesem Zweck hierher bringen lassen. Dracogen zeigt Geduld in Hinsicht auf den Ring, ich habe jedoch schon vorher mit anderen Dracogens zu tun gehabt. Er wird nur so lange Geduld zeigen, bis er beschließt, dass ich ihn hintergangen habe. Egal. Ich fürchte den Kummer mehr als *sie*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@ Es gibt jedoch auch eine Reihe funktionierender, datierter Einträge mit der Ken
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Es laufen derzeit mehrere Versuche gleichzeitig, während ich darauf warte, dass der Kristall wächst. Wie ihr Name schon sagt, haben sich die Kristallvoren ziemlich gut dieser Umgebung anpassen können und für diesen Teil des Prozesses von unschätzbarem Wert erwiesen."</DefaultText>
+      <DefaultText>„Es laufen derzeit mehrere Versuche gleichzeitig, während ich darauf warte, dass der Kristall wächst. Wie ihr Name schon sagt, haben sich die Kristallvoren ziemlich gut dieser Umgebung anpassen können und für diesen Teil des Prozesses von unschätzbarem Wert erwiesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,9 +166,9 @@ Es gibt jedoch auch eine Reihe funktionierender, datierter Einträge mit der Ken
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Mehrere der Kristallvorenlarven sind vorzeitig geschlüpft und entlaufen. Es ist nicht klar, wie das geschehen konnte, ich vermute jedoch, dass *jemand* auf der Suche nach dem Ring war, als ich Vorräte in Sagus besorgte. Sie haben auf ihrer Suche nach dem Ring zweifelsohne an meinen Maschinen herumgespielt."
+      <DefaultText>„Mehrere der Kristallvorenlarven sind vorzeitig geschlüpft und entlaufen. Es ist nicht klar, wie das geschehen konnte, ich vermute jedoch, dass *jemand* auf der Suche nach dem Ring war, als ich Vorräte in Sagus besorgte. Sie haben auf ihrer Suche nach dem Ring zweifelsohne an meinen Maschinen herumgespielt.“
 
-Die Stimme seufzt. "Um weitere Sabotage zu verhindern, habe ich den Ring und die restlichen Larven hinter ein Energiefeld gesetzt. Der Stromgenerator kann das Feld öffnen, doch nun ist ein Passcode erforderlich, um alle weiteren Manipulationen zu verhindern."</DefaultText>
+Die Stimme seufzt. „Um weitere Sabotage zu verhindern, habe ich den Ring und die restlichen Larven hinter ein Energiefeld gesetzt. Der Stromgenerator kann das Feld öffnen, doch nun ist ein Passcode erforderlich, um alle weiteren Manipulationen zu verhindern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,9 +188,9 @@ Die Stimme seufzt. "Um weitere Sabotage zu verhindern, habe ich den Ring und die
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Die entlaufenen Kristallvoren wachsen und *brüten*. Sie stellen nun eine ernsthafte Bedrohung für meine Arbeit dar."
+      <DefaultText>„Die entlaufenen Kristallvoren wachsen und *brüten*. Sie stellen nun eine ernsthafte Bedrohung für meine Arbeit dar.“
 
-Er hält inne. "Ich habe ein Gerät gebaut, das Schallwellen auf einer ganz besonderen Frequenz erzeugt, welche die Kreaturen in einen Schlafzustand versetzen. Bisher scheint dies eine effektive Gegenmaßnahme zu sein, ich sollte jedoch wachsam sein, um auf Nummer sicher zu gehen. Ich muss auch sicherstellen, dass der Stromgenerator *keine* Unterbrechungen erfährt, damit sich nicht wieder erwachen."</DefaultText>
+Er hält inne. „Ich habe ein Gerät gebaut, das Schallwellen auf einer ganz besonderen Frequenz erzeugt, welche die Kreaturen in einen Schlafzustand versetzen. Bisher scheint dies eine effektive Gegenmaßnahme zu sein, ich sollte jedoch wachsam sein, um auf Nummer sicher zu gehen. Ich muss auch sicherstellen, dass der Stromgenerator *keine* Unterbrechungen erfährt, damit sich nicht wieder erwachen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@ Er hält inne. "Ich habe ein Gerät gebaut, das Schallwellen auf einer ganz beso
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Die Stimme spricht zwischen unterbrochenen Atemzügen. "Dies wird mein letzter Eintrag sein. Dracogens Geduld ist zu Ende, wie ich bereits befürchtet hatte. Seine Agenten sind draußen und werden ohne Zweifel jeden Augenblick durch meine Verteidigungsvorrichtungen brechen. Wenn dies geschieht, muss ich diesen Körper aufgeben. Ich weiß nicht, wann ich wieder zurückkehren werde, doch ich bin - "
+      <DefaultText>Die Stimme spricht zwischen unterbrochenen Atemzügen. „Dies wird mein letzter Eintrag sein. Dracogens Geduld ist zu Ende, wie ich bereits befürchtet hatte. Seine Agenten sind draußen und werden ohne Zweifel jeden Augenblick durch meine Verteidigungsvorrichtungen brechen. Wenn dies geschieht, muss ich diesen Körper aufgeben. Ich weiß nicht, wann ich wieder zurückkehren werde, doch ich bin -“
 
 Die Stimme bricht ab. Der Eintrag endet hier.</DefaultText>
       <FemaleText />
@@ -247,7 +247,7 @@ Die Stimme bricht ab. Der Eintrag endet hier.</DefaultText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Ich bin nicht so dumm, als dass ich diese Sequenz hier aufzuzeichnen würde, doch sollte mir etwas passieren, wodurch ich sie vergesse ... so sind die drei Geodäten durch das Baryzentrum der Schlüssel."
+      <DefaultText>„Ich bin nicht so dumm, als dass ich diese Sequenz hier aufzuzeichnen würde, doch sollte mir etwas passieren, wodurch ich sie vergesse … so sind die drei Geodäten durch das Baryzentrum der Schlüssel.“
 
 Die Stimme sagt nichts mehr. Wenn das ein Hinweis gewesen sein soll, dann ist dir die Bedeutung nicht klar. Vielleicht würde es mehr Sinn ergeben, wenn du einen Blick auf den Generator selbst wirfst.</DefaultText>
       <FemaleText />
@@ -264,12 +264,12 @@ Die Stimme sagt nichts mehr. Wenn das ein Hinweis gewesen sein soll, dann ist di
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Ich ... Ich weiß nicht, was hier vor sich geht. Ich bin in dieser Höhle aufgewacht, umzingelt von wütenden Männern, die etwas von einem 'Ring' schwafelten. Ich weiß nicht, was das sein soll, sie ... haben mich aber angegriffen. Ich wusste nicht, was ich tun soll, daher habe ich ... mich gewehrt. Ich habe sie *getötet*. Das Blut ... es ist überall. Etwas davon ist mein Blut, das meiste davon aber ..."</DefaultText>
+      <DefaultText>„Ich … Ich weiß nicht, was hier vor sich geht. Ich bin in dieser Höhle aufgewacht, umzingelt von wütenden Männern, die etwas von einem 'Ring' schwafelten. Ich weiß nicht, was das sein soll, sie … haben mich aber angegriffen. Ich wusste nicht, was ich tun soll, daher habe ich … mich gewehrt. Ich habe sie *getötet*. Das Blut … es ist überall. Etwas davon ist mein Blut, das meiste davon aber …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Ich habe danach diese Aufzeichnungen gefunden, als ich versuchte, herauszufinden, was mit mir geschehen war. Ich konnte nicht herausfinden, wie ich den Ring finden kann, diese Männer waren jedoch von einem gewissen 'Dracogen' geschickt worden. Ich weiß nicht, was all das zu bedeuten hat. Ich werde es herausfinden, ich hinterlasse aber diese Nachricht, für den Fall, dass ich es nicht zurückschaffe. Ich weiß nicht, wer diese Nachricht hören wird, aber ... nun ja, ich sollte etwas von *mir* hier zurücklassen. Irgendwo. Für den Fall, dass ich nicht weit komme."</DefaultText>
+      <DefaultText>„Ich habe danach diese Aufzeichnungen gefunden, als ich versuchte, herauszufinden, was mit mir geschehen war. Ich konnte nicht herausfinden, wie ich den Ring finden kann, diese Männer waren jedoch von einem gewissen 'Dracogen' geschickt worden. Ich weiß nicht, was all das zu bedeuten hat. Ich werde es herausfinden, ich hinterlasse aber diese Nachricht, für den Fall, dass ich es nicht zurückschaffe. Ich weiß nicht, wer diese Nachricht hören wird, aber … nun ja, ich sollte etwas von *mir* hier zurücklassen. Irgendwo. Für den Fall, dass ich nicht weit komme.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,12 +314,12 @@ Die Stimme sagt nichts mehr. Wenn das ein Hinweis gewesen sein soll, dann ist di
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Die Einheimischen der Aszension mögen sich auch als nützlich erweisen. Ich hatte sie ursprünglich ignoriert, denn obwohl ihre Sprecherin zur stichhaltigen Kommunikation fähig war, so konnte sie doch keine wahren Informationen liefern. Ich habe seitdem jedoch erlebt, wie andere Einheimische einige bemerkenswerte Taten mit dem Kristall selbst vollbrachten, weshalb ich einen für meine Studien beschaffte. Mal sehen, ob wir mehr darüber erfahren können."</DefaultText>
+      <DefaultText>„Die Einheimischen der Aszension mögen sich auch als nützlich erweisen. Ich hatte sie ursprünglich ignoriert, denn obwohl ihre Sprecherin zur stichhaltigen Kommunikation fähig war, so konnte sie doch keine wahren Informationen liefern. Ich habe seitdem jedoch erlebt, wie andere Einheimische einige bemerkenswerte Taten mit dem Kristall selbst vollbrachten, weshalb ich einen für meine Studien beschaffte. Mal sehen, ob wir mehr darüber erfahren können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Ich bin nicht so dumm, als dass ich diese Sequenz hier aufzuzeichnen würde, doch sollte mir etwas passieren, wodurch ich sie vergesse ... so sind die drei Geodäten durch das Baryzentrum der Schlüssel."</DefaultText>
+      <DefaultText>„Ich bin nicht so dumm, als dass ich diese Sequenz hier aufzuzeichnen würde, doch sollte mir etwas passieren, wodurch ich sie vergesse … so sind die drei Geodäten durch das Baryzentrum der Schlüssel.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
