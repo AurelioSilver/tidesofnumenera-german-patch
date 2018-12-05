@@ -76,12 +76,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>{As a loving child to her parent}"Wir sind so weit gekommen. Ich bleibe bei dir." Sie schaut zu dir hinauf und nimmt deine Hand in Ihre. Ihre Hand scheint größer, als sie war, als du ihr begegnet bist.</DefaultText>
+      <DefaultText>{As a loving child to her parent}„Wir sind so weit gekommen. Ich bleibe bei dir.“ Sie schaut zu dir hinauf und nimmt deine Hand in Ihre. Ihre Hand scheint größer, als sie war, als du ihr begegnet bist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>{As a loving child to her parent}"Ich brauche immer noch ein Zuhause, stimmt's? Ich bleibe bei dir, bis ich eins finde." Sie legt ihre Hand in deine. Ihre Hand scheint größer, als sie war, als du ihr begegnet bist.</DefaultText>
+      <DefaultText>{As a loving child to her parent}„Ich brauche immer noch ein Zuhause, stimmt's? Ich bleibe bei dir, bis ich eins finde.“ Sie legt ihre Hand in deine. Ihre Hand scheint größer, als sie war, als du ihr begegnet bist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,59 +96,59 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>{Sad and uncertain; she used to love the PC but because of his actions she's changed her mind about him}"Ich denke ... Ich denke es ist an der Zeit, dass ich wieder nach Hause gehe. Ich gehe zurück zu Aen-Tozon. Es tut mir Leid. Wir haben schon so viel zusammen durchgemacht, aber ... es ist einfach Zeit. Es tut mir Leid." Sie hält ihren Ellenbbogen in ihre andere Hand und wendet sich ab.</DefaultText>
+      <DefaultText>{Sad and uncertain; she used to love the PC but because of his actions she's changed her mind about him}„Ich denke … Ich denke es ist an der Zeit, dass ich wieder nach Hause gehe. Ich gehe zurück zu Aen-Tozon. Es tut mir Leid. Wir haben schon so viel zusammen durchgemacht, aber … es ist einfach Zeit. Es tut mir Leid.“ Sie hält ihren Ellenbbogen in ihre andere Hand und wendet sich ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>{Sad and uncertain; she used to love the PC but because of his actions she's changed her mind about him}"Ich weiß nicht. Ich habe bei dir viel gelernt, aber ... Ich denke, es ist an der Zeit, dass ich alleine aufbreche. Ich muss den Weg nach Hause finden und du bist nicht ... Na ja, du bist nicht sicherer, als wenn ich alleine sein würde, schätze ich."
+      <DefaultText>{Sad and uncertain; she used to love the PC but because of his actions she's changed her mind about him}„Ich weiß nicht. Ich habe bei dir viel gelernt, aber … Ich denke, es ist an der Zeit, dass ich alleine aufbreche. Ich muss den Weg nach Hause finden und du bist nicht … Na ja, du bist nicht sicherer, als wenn ich alleine sein würde, schätze ich.“
 
 Sie hält ihr Haar von ihrer Narbe zurück und gibt dir ein kleines Lächeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>{Sighs}"Es gibt jetzt für mich nichts mehr hier. Ich gehe zurück zu diesem Aen-Tozon Typ. Ich gehe zurück nach Hause."</DefaultText>
+      <DefaultText>{Sighs}„Es gibt jetzt für mich nichts mehr hier. Ich gehe zurück zu diesem Aen-Tozon Typ. Ich gehe zurück nach Hause.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>{Sighs}"Ich muss, schätze ich, immer noch den Weg nach Hause finden. Ich habe viel von ihm gelernt. Ich bin dankbar."</DefaultText>
-      <FemaleText>{Sighs}"Ich muss, schätze ich, immer noch den Weg nach Hause finden. Ich habe viel von ihr gelernt. Ich bin dankbar."</FemaleText>
+      <DefaultText>{Sighs}„Ich muss, schätze ich, immer noch den Weg nach Hause finden. Ich habe viel von ihm gelernt. Ich bin dankbar.“</DefaultText>
+      <FemaleText>{Sighs}„Ich muss, schätze ich, immer noch den Weg nach Hause finden. Ich habe viel von ihr gelernt. Ich bin dankbar.“</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Er wollte mir helfen, einen Weg nach Hause zu finden." Sie legt den Kopf zur Seite. "Aber du bist nicht ... er. Oder?"</DefaultText>
-      <FemaleText>"Sie wollte mir helfen, einen Weg nach Hause zu finden." Sie legt den Kopf zur Seite. "Aber du bist nicht... sie. Oder?"</FemaleText>
+      <DefaultText>„Er wollte mir helfen, einen Weg nach Hause zu finden.“ Sie legt den Kopf zur Seite. „Aber du bist nicht … er. Oder?“</DefaultText>
+      <FemaleText>„Sie wollte mir helfen, einen Weg nach Hause zu finden.“ Sie legt den Kopf zur Seite. „Aber du bist nicht… sie. Oder?“</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Nein. Aber vielleicht kann ich dir dennoch helfen."</DefaultText>
+      <DefaultText>„Nein. Aber vielleicht kann ich dir dennoch helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Nein, das bin ich nicht."</DefaultText>
+      <DefaultText>„Nein, das bin ich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Nein. Ich bin nicht an seine Versprechungen gebunden. Ich habe jetzt mein eigenes Leben."</DefaultText>
-      <FemaleText>"Nein. Ich bin nicht an ihre Versprechungen gebunden. Ich habe jetzt mein eigenes Leben."</FemaleText>
+      <DefaultText>„Nein. Ich bin nicht an seine Versprechungen gebunden. Ich habe jetzt mein eigenes Leben.“</DefaultText>
+      <FemaleText>„Nein. Ich bin nicht an ihre Versprechungen gebunden. Ich habe jetzt mein eigenes Leben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>{Sweet, happy}"Das würde mir gefallen." Sie lächelt, und legt ihre Hand in Miikas.</DefaultText>
+      <DefaultText>{Sweet, happy}„Das würde mir gefallen.“ Sie lächelt, und legt ihre Hand in Miikas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Er war ... meine Familie, schätze ich." Sie legt den Kopf zur Seite. "Aber du bist nicht ... er. Oder?"</DefaultText>
-      <FemaleText>"Sie war... meine Familie, schätze ich." Sie legt den Kopf zur Seite. "Aber du bist nicht... sie. Oder?"</FemaleText>
+      <DefaultText>„Er war … meine Familie, schätze ich.“ Sie legt den Kopf zur Seite. „Aber du bist nicht … er. Oder?“</DefaultText>
+      <FemaleText>„Sie war… meine Familie, schätze ich.“ Sie legt den Kopf zur Seite. „Aber du bist nicht… sie. Oder?“</FemaleText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Nein. Aber vielleicht könnte ich dennoch seinen Platz einnehmen."</DefaultText>
+      <DefaultText>„Nein. Aber vielleicht könnte ich dennoch seinen Platz einnehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
