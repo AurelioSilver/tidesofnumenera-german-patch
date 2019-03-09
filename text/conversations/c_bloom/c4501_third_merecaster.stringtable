@@ -48,12 +48,12 @@ Eine beharrliche Stimme in deinem Kopf sagt dir, dass du ihn betreten musst, um 
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Meine Erinnerungen durchsuchen ... oder die des Wandelnden Gottes.</DefaultText>
+      <DefaultText>Meine Erinnerungen durchsuchen … oder die des Wandelnden Gottes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Es ist aus einem seltsamen Metal gefertigt, genau wie die beiden anderen Lebensbildbetrachter, die die Verstoßenen von Miel Avest der Memovira anvertraut haben. Bei genauerem Hinsehen fällt dir auf, dass die tiefste Öffnung hier praktisch die gleiche Form hat wie Endiras Lebensbildbetrachter.</DefaultText>
+      <DefaultText>Es ist aus einem seltsamen Metall gefertigt, genau wie die beiden anderen Lebensbildbetrachter, die die Verstoßenen von Miel Avest der Memovira anvertraut haben. Bei genauerem Hinsehen fällt dir auf, dass die tiefste Öffnung hier praktisch die gleiche Form hat wie Endiras Lebensbildbetrachter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,12 +78,12 @@ Eine beharrliche Stimme in deinem Kopf sagt dir, dass du ihn betreten musst, um 
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Du hast Vicarianas und Endiras Lebensbildbetrachter verbunden. Sie scheinen miteinander verschmolzen und beide geben nun ein tiefes, pochendes Brummen von sich. Der Sarkophag scheint im Einklang damit seine Farbe von Rot auf Silber und zurück zu wechseln.</DefaultText>
+      <DefaultText>Du hast Vicarianes und Endiras Lebensbildbetrachter verbunden. Sie scheinen miteinander verschmolzen und beide geben nun ein tiefes, pochendes Brummen von sich. Der Sarkophag scheint im Einklang damit seine Farbe von Rot auf Silber und zurück zu wechseln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Die mit Energie versorgten Lebensbildbetrachter passen genau in die tiefe Öffnung an der Seite des Sarkophags. Vicarianas Lebensbildbetrachter steht leicht hervor und gibt einen praktischen Griff ab.</DefaultText>
+      <DefaultText>Die mit Energie versorgten Lebensbildbetrachter passen genau in die tiefe Öffnung an der Seite des Sarkophags. Vicarianes Lebensbildbetrachter steht leicht hervor und gibt einen praktischen Griff ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,14 +93,14 @@ Eine beharrliche Stimme in deinem Kopf sagt dir, dass du ihn betreten musst, um 
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Vicarianas und Endiras Lebensbildbetrachter verbinden.
+      <DefaultText>Vicarianes und Endiras Lebensbildbetrachter verbinden.
 
 {COLIN/GEORGE: The option to fuse the two Merecasters together and then put them in later feels strange to me. What if the player walks away? Won't he still have two separate Merecasters in his inventory?}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Vicarianas Lebensbildbetrachter in dieselbe Öffnung schieben.
+      <DefaultText>Vicarianes Lebensbildbetrachter in dieselbe Öffnung schieben.
 
 {SCRIPT: Remove 2nd Bloom Merecaster from inventory}</DefaultText>
       <FemaleText />
@@ -127,7 +127,7 @@ Eine beharrliche Stimme in deinem Kopf sagt dir, dass du ihn betreten musst, um 
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Ja ... ja. Diese Maschine gehört zu den Lebensbildbetrachtern von Endira und Vicariane. Du musst die beiden verbinden, in eine Öffnung stecken und dann das Gerät aktivieren. Das müsste den Sarkophag öffnen.</DefaultText>
+      <DefaultText>Ja … ja. Diese Maschine gehört zu den Lebensbildbetrachtern von Endira und Vicariane. Du musst die beiden verbinden, in eine Öffnung stecken und dann das Gerät aktivieren. Das müsste den Sarkophag öffnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,17 +186,17 @@ Eine beharrliche Stimme in deinem Kopf sagt dir, dass du ihn betreten musst, um 
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Die mit Energie versorgten Lebensbildbetrachter passen genau in die tiefe Öffnung an der Seite des Sarkophags. Vicarianas Lebensbildbetrachter steht leicht hervor und formt einen praktischen Griff.</DefaultText>
+      <DefaultText>Die mit Energie versorgten Lebensbildbetrachter passen genau in die tiefe Öffnung an der Seite des Sarkophags. Vicarianes Lebensbildbetrachter steht leicht hervor und formt einen praktischen Griff.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Die Spitze von Vicarianas Lebensbildbetrachter steht aus der Öffnung hervor und formt einen praktischen Griff.</DefaultText>
+      <DefaultText>Die Spitze von Vicarianes Lebensbildbetrachter steht aus der Öffnung hervor und formt einen praktischen Griff.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Leider besitzt du Vicarianes Lebensbildbetrachter nicht ...</DefaultText>
+      <DefaultText>Leider besitzt du Vicarianes Lebensbildbetrachter nicht …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

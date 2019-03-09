@@ -55,9 +55,9 @@ Der Stein blutet Bedürfnis, gar Hunger aus und ein telepathisches Flüstern ras
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>&lt;Produkt. Ich allein.&gt; Es folgt eine Pause, und plötzlich siehst du ein klares Bild des alchemistischen Pulvers, das du von den beiden Kaufleuten in der Flor erhalten hattest. 
+      <DefaultText>&lt;Produkt. Ich allein.&gt; Es folgt eine Pause und plötzlich siehst du ein klares Bild des alchemistischen Pulvers, das du von den beiden Kaufleuten in der Flor erhalten hattest. 
 
-Wie es scheint, ist das hier ... ihr Handelspartner.
+Wie es scheint, ist das hier … ihr Handelspartner.
 
 {LOOT}</DefaultText>
       <FemaleText />
@@ -94,7 +94,7 @@ Wie es scheint, ist das hier ... ihr Handelspartner.
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>&lt;Warum "du allein"? Kann ich nicht mit anderen handeln?&gt;</DefaultText>
+      <DefaultText>&lt;Warum „du allein“? Kann ich nicht mit anderen handeln?&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,25 +118,25 @@ Wie es scheint, ist das hier ... ihr Handelspartner.
       <ID>24</ID>
       <DefaultText>Etwas, das beinahe wie Verschlossenheit ist, strahlt von dem Stein aus, und die Gedanken, die sich in deinem Kopf formen, scheinen so gut wie schmeichlerisch zu sein. &lt;Zu witzig! Helfe Ausgebrüteten. Gute Gerüche alle. Ich allein.&gt;
 
-Nach einer Weile fügt er hinzu &lt;Nicht immer. Nur manche Umdrehungen. Viele glückliche Blasen für Ausgebrütete, und ich viel Produkt.&gt;
+Nach einer Weile fügt er hinzu &lt;Nicht immer. Nur manche Umdrehungen. Viele glückliche Blasen für Ausgebrütete und ich viel Produkt.&gt;
 
 Was auch immer die Vereinbarung ist, es ist unklar, wie dieses Ding sie durchsetzen könnte.</DefaultText>
       <FemaleText>Etwas, das beinahe wie Verschlossenheit ist, strahlt von dem Stein aus, und die Gedanken, die sich in deinem Kopf formen, scheinen so gut wie schmeichlerisch zu sein. &lt;Zu witzig! Helfe Ausgebrüteter. Gute Gerüche alle. Ich allein.&gt;
 
-Nach einer Weile fügt er hinzu &lt;Nicht immer. Nur manche Umdrehungen. Viele glückliche Blasen für Ausgebrütete, und ich viel Produkt.&gt;
+Nach einer Weile fügt er hinzu &lt;Nicht immer. Nur manche Umdrehungen. Viele glückliche Blasen für Ausgebrütete und ich viel Produkt.&gt;
 
 Was auch immer die Vereinbarung ist, es ist unklar, wie dieses Ding sie durchsetzen könnte.</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Eine der Schuppen schiebt sich zur Seite und der Megalith schlürft das Pulver mit einem schnellen Sog ein. Einen Moment lang brechen seine telepathischen Sendungen ab, und dann strahlt sein Vergnügen durch dich.
+      <DefaultText>Eine der Schuppen schiebt sich zur Seite und der Megalith schlürft das Pulver mit einem schnellen Sog ein. Einen Moment lang brechen seine telepathischen Sendungen ab und dann strahlt sein Vergnügen durch dich.
 
 &lt;Guter Ausgebrüteter. Viele glückliche Blasen zu teilen. Genieße die Soße.&gt;
 
 Eine weitere Schuppe gleitet zurück und mehrere Objekte fallen heraus. Du kannst sie gerade so auffangen, ehe sie zu Boden fallen.
 
 {LOOT: Zero Sum Engine + Collection of Crystals.}</DefaultText>
-      <FemaleText>Eine der Schuppen schiebt sich zur Seite und der Megalith schlürft das Pulver mit einem schnellen Sog ein. Einen Moment lang brechen seine telepathischen Sendungen ab, und dann strahlt sein Vergnügen durch dich.
+      <FemaleText>Eine der Schuppen schiebt sich zur Seite und der Megalith schlürft das Pulver mit einem schnellen Sog ein. Einen Moment lang brechen seine telepathischen Sendungen ab und dann strahlt sein Vergnügen durch dich.
 
 &lt;Gute Ausgebrütete. Viele glückliche Blasen zu teilen. Genieße die Soße.&gt;
 
@@ -216,7 +216,7 @@ Während ein kleines Objekt aus dem Schlauch herausrollt, explodiert dein Geist 
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Versuche, seinen "Geist" zu lesen, um zu verstehen, was er will.</DefaultText>
+      <DefaultText>Versuche, seinen „Geist“ zu lesen, um zu verstehen, was er will.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,12 +228,12 @@ Während ein kleines Objekt aus dem Schlauch herausrollt, explodiert dein Geist 
       <ID>42</ID>
       <DefaultText>&lt;Produkt. Produkt. Du hast.&gt;
 
-Die schwebende "Stimme" des Megaliths in deinem Geist ist begierig und entschlossen.</DefaultText>
+Die schwebende „Stimme“ des Megaliths in deinem Geist ist begierig und entschlossen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>&lt;Habe ich jetzt das "Produkt", das du willst?&gt;</DefaultText>
+      <DefaultText>&lt;Habe ich jetzt das „Produkt“, das du willst?&gt;</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
