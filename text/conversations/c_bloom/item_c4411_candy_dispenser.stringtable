@@ -10,12 +10,12 @@
 
 Das Gerät wird warm in deiner Hand und die Kreatur öffnet übergroße Augen und schaut dich voller Liebe aber ehrfürchtig an.
 
-"Mrrr?"</DefaultText>
+„Mrrr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Mrrr!", sagt die Kreatur oben auf dem Gerät, voller Freude, dass sie wieder Licht sieht. Die Hände, die an jeder Seite herausstehen, wackeln ein klein wenig.</DefaultText>
+      <DefaultText>„Mrrr!“, sagt die Kreatur oben auf dem Gerät, voller Freude, dass sie wieder Licht sieht. Die Hände, die an jeder Seite herausstehen, wackeln ein klein wenig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +43,7 @@ Das Gerät wird warm in deiner Hand und die Kreatur öffnet übergroße Augen un
       <ID>7</ID>
       <DefaultText>Du drückst die Hände an die Seiten des Geräts.
 
-"Eee", sagt die Kreatur, seine Augen weiten sich. Eine winzige Wölbung geht in seinem noch winzigeren Hals hoch. "Eee! Eee! BLARF."
+„Eee“, sagt die Kreatur, seine Augen weiten sich. Eine winzige Wölbung geht in seinem noch winzigeren Hals hoch. „Eee! Eee! BLARF.“
 
 Es spuckt eine rechteckige Tablette mit einem winzigen *Pfut* aus.
 
@@ -56,7 +56,7 @@ Es spuckt eine rechteckige Tablette mit einem winzigen *Pfut* aus.
       <ID>8</ID>
       <DefaultText>Du drückst noch einmal die Hände des Geräts.
 
-"Eee", murmelt die Kreatur und sieht bang aus. "Eee! Eeerg. Eeeragh." Ganze Fellstücke fallen ihr aus, aber sie macht unbeirrt weiter. "MrrraaaaaBLARF."
+„Eee“, murmelt die Kreatur und sieht bang aus. „Eee! Eeerg. Eeeragh.“ Ganze Fellstücke fallen ihr aus, aber sie macht unbeirrt weiter. „MrrraaaaaBLARF.“
 
 Sie spuckt eine zweite Tablette mit einem *Pfut* aus, starrt dich großäugig mit blankem Entsetzen an und stirbt in deinen Händen.
 {SOUND: High-pitched, cute versions of the barfing above.}
@@ -99,7 +99,7 @@ Sie spuckt eine zweite Tablette mit einem *Pfut* aus, starrt dich großäugig mi
       <ID>17</ID>
       <DefaultText>Du nimmst den Gegenstand hoch. Er riecht nach Früchten und lässt deine Haut prickeln. Du schaust zurück auf die Kreatur.
 
-"Mrrr!", sagt sie, ihre Augen schießen zwischen der Tablette und deinem Mund hin und her.
+„Mrrr!“, sagt sie, ihre Augen schießen zwischen der Tablette und deinem Mund hin und her.
 
 Offensichtlich sollst du sie essen.</DefaultText>
       <FemaleText />
@@ -134,10 +134,10 @@ Ohne Warnung *bricht* das Gerät auseinander und heraus strömt eine rosa Flüss
       <ID>28</ID>
       <DefaultText>Du fingerst halbherzig an den Nähten des Geräts rum bis du ein sprödes Schnappen von innen hörst.
 
-"Ak", sagt die tote Kreatur. Ihr kleiner Mund bewegt sich nicht. "Ak", sagt sie lauter.
+„Ak“, sagt die tote Kreatur. Ihr kleiner Mund bewegt sich nicht. „Ak“, sagt sie lauter.
 
-Dann schreit sie. "Ak! Ak! Ak! Ak!" Du hast gerade noch Zeit, darüber nachzudenken, was das Wort bedeutet, als das Gerät in deiner Hand explodiert. Es war offensichtlich ein Alarmsignal.
-{SOUND: "Ak" rising in volume and tempo}
+Dann schreit sie. „Ak! Ak! Ak! Ak!“ Du hast gerade noch Zeit, darüber nachzudenken, was das Wort bedeutet, als das Gerät in deiner Hand explodiert. Es war offensichtlich ein Alarmsignal.
+{SOUND: „Ak“ rising in volume and tempo}
 {SCRIPT: Increases character Might pool by one}
 {SCRIPT: Removes dispenser from inventory.}
 {SCRIPT: Flash of light centered on PC.}</DefaultText>
@@ -150,17 +150,17 @@ Dann schreit sie. "Ak! Ak! Ak! Ak!" Du hast gerade noch Zeit, darüber nachzuden
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Wer heißt du?"</DefaultText>
+      <DefaultText>„Wer heißt du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Kannst du sprechen?"</DefaultText>
+      <DefaultText>„Kannst du sprechen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Mrrr", antwortet die Kreatur, und reibt seinen felligen Kopf gegen deinen Daumen.</DefaultText>
+      <DefaultText>„Mrrr“, antwortet die Kreatur, und reibt seinen felligen Kopf gegen deinen Daumen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,7 +229,7 @@ Warum sie dich bei der Explosion stärker machte, statt dich zu töten, ist alle
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Dir fällt auf, dass der pelzige Kopf eine bemerkenswerte Ähnlichkeit mit den kleinen Kreaturen aufweist, die du in dem Synth-'Ei' gesehen hast. Vielleicht stammen beide Objekte aus derselben Periode in der Vergangenheit ... oder wurden von derselben fremden Welt in die Flor gebracht.</DefaultText>
+      <DefaultText>Dir fällt auf, dass der pelzige Kopf eine bemerkenswerte Ähnlichkeit mit den kleinen Kreaturen aufweist, die du in dem Synth-'Ei' gesehen hast. Vielleicht stammen beide Objekte aus derselben Periode in der Vergangenheit … oder wurden von derselben fremden Welt in die Flor gebracht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,56 +239,56 @@ Warum sie dich bei der Explosion stärker machte, statt dich zu töten, ist alle
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Wie putzig ", sagt Aligern. Er betrachtet das Ding mit Abneigung.</DefaultText>
+      <DefaultText>„Wie putzig “, sagt Aligern. Er betrachtet das Ding mit Abneigung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Was für ein charmantes kleines Ding", sagt Callistege kühl. Er betrachtet das Ding mit Abneigung.</DefaultText>
+      <DefaultText>„Was für ein charmantes kleines Ding“, sagt Callistege kühl. Er betrachtet das Ding mit Abneigung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Es ist entzückend!" haucht Erritis. "Lass es uns für immer behalten. Gib mir ein paar Monate und ich stricke ihm ein kleines Decklein!"</DefaultText>
+      <DefaultText>„Es ist entzückend!“ haucht Erritis. „Lass es uns für immer behalten. Gib mir ein paar Monate und ich stricke ihm ein kleines Decklein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Wie süß", sagt Matkina. Ihre Stimme trieft vor Abneigung.</DefaultText>
+      <DefaultText>„Wie süß“, sagt Matkina. Ihre Stimme trieft vor Abneigung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Er ist total süß ", sagt Rhin und beugt sich näher ran. "Warum kann nicht mehr in dieser Welt so sein wie er?"</DefaultText>
+      <DefaultText>„Er ist total süß “, sagt Rhin und beugt sich näher ran. „Warum kann nicht mehr in dieser Welt so sein wie er?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Kopf am Stiel, hm?", sagt Tybir und beugt sich näher ran. "So was hab ich mal auf einer Party gesehen. Allerdings war es da keine entzückende kleine Kreatur ..."
+      <DefaultText>„Kopf am Stiel, hm?“, sagt Tybir und beugt sich näher ran. „So was hab ich mal auf einer Party gesehen. Allerdings war es da keine entzückende kleine Kreatur …“
 
 Er denkt zurück, versucht, sich zu erinnern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ah ja. Es war eine Art fleischiger Stiel mit sieben Gesichtern. Es öffnete seine Münder und ..." Er bemerkt Rhin neben sich und hält kurz inne. "Sang. Genau. Es hat gesungen. Harmlose kleine Liedchen. Und alle sind herumgesessen und haben zugehört. Den Liedchen."</DefaultText>
+      <DefaultText>„Ah ja. Es war eine Art fleischiger Stiel mit sieben Gesichtern. Es öffnete seine Münder und …“ Er bemerkt Rhin neben sich und hält kurz inne. „Sang. Genau. Es hat gesungen. Harmlose kleine Liedchen. Und alle sind herumgesessen und haben zugehört. Den Liedchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Ich werde wohl nie eine von deinen *richtigen* Geschichten hören, oder?"</DefaultText>
+      <DefaultText>„Ich werde wohl nie eine von deinen *richtigen* Geschichten hören, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Das wollen wir um unser beider Willen hoffen."</DefaultText>
+      <DefaultText>„Das wollen wir um unser beider Willen hoffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Ah ja. Es war eine Art fleischiger Stiel mit sieben Gesichtern. Es öffnete seine Münder und schrie: 'Befriedigt meine Atemlöcher!'"
+      <DefaultText>„Ah ja. Es war eine Art fleischiger Stiel mit sieben Gesichtern. Es öffnete seine Münder und schrie: 'Befriedigt meine Atemlöcher!'“
 
-Tybir räuspert sich. "Es gibt Tausende Wege, um die Stimmung bei einer Orgie zu ruinieren. Das ist einer davon."</DefaultText>
+Tybir räuspert sich. „Es gibt Tausende Wege, um die Stimmung bei einer Orgie zu ruinieren. Das ist einer davon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -305,29 +305,29 @@ Tybir räuspert sich. "Es gibt Tausende Wege, um die Stimmung bei einer Orgie zu
       <ID>61</ID>
       <DefaultText>Callistege seufzt.
 
-"Nun, eine wertvolle Lektion für alle Anwesenden, denke ich. Ausgenommen der Kreatur vermutlich."</DefaultText>
+„Nun, eine wertvolle Lektion für alle Anwesenden, denke ich. Ausgenommen der Kreatur vermutlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Oh nein", sagt Erritis niedergeschlagen. "Du hast es zu Tode gedrückt."</DefaultText>
+      <DefaultText>„Oh nein“, sagt Erritis niedergeschlagen. „Du hast es zu Tode gedrückt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>Matkina kichert.
 
-"Abscheulich", sagt sie genüsslich.</DefaultText>
+„Abscheulich“, sagt sie genüsslich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Rhin stöhnt und hält sich die Hand vor Augen. "Ist denn *alles* in dieser Welt abscheulich?"</DefaultText>
+      <DefaultText>Rhin stöhnt und hält sich die Hand vor Augen. „Ist denn *alles* in dieser Welt abscheulich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Nun, das war unschön."</DefaultText>
+      <DefaultText>„Nun, das war unschön.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
