@@ -38,7 +38,7 @@ Aus seinem Inneren spricht eine weibliche Stimme leise in einer fremden Sprache,
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Obwohl die Worte in der Sprache der Wahrheit gesprochen werden, sind sie seltsam betont ... und erfüllt von wachsender Besorgnis. Während du die Worte hörst, kannst du dir die letzten Augenblicke im Leben der Sprecherin zusammenreimen: Wie sie einen Fremden – oder eine Gruppe Fremder – begrüßt und dann ihre mörderischen Absichten erkennt. Mit gebrochenem Schädel verblutete sie langsam, versteckt in einem der Müllberge der Flor. Kein Wunder, dass bis heute niemand diesen Helm gefunden hat.</DefaultText>
+      <DefaultText>Obwohl die Worte in der Sprache der Wahrheit gesprochen werden, sind sie seltsam betont … und erfüllt von wachsender Besorgnis. Während du die Worte hörst, kannst du dir die letzten Augenblicke im Leben der Sprecherin zusammenreimen: Wie sie einen Fremden – oder eine Gruppe Fremder – begrüßt und dann ihre mörderischen Absichten erkennt. Mit gebrochenem Schädel verblutete sie langsam, versteckt in einem der Müllberge der Flor. Kein Wunder, dass bis heute niemand diesen Helm gefunden hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,12 +123,12 @@ Das erste Bild zeigt die gewaltige innere Kammer, ihre Wege und Ranken, die sich
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Die letzten Bilder in dieser Sammlung zeigen Klein-Nihliesh ... aber nicht so, wie du es kennst. Die meisten Leute auf den Bildern sind gewöhnliche Menschen. Von Gar-kotos großem Tank ist nichts zu sehen. Die Müllhaufen sind kleiner und die alten steinernen Gebäude noch bewohnt. Obwohl auch hier schon der Hauch von Elend und Verfall über dem Ort liegt und du den Müll beinahe riechen kannst, ist es dennoch fast idyllisch im Vergleich zur gegenwärtigen Realität. Diese Bilder müssen mindestens zehn Jahre alt sein.</DefaultText>
+      <DefaultText>Die letzten Bilder in dieser Sammlung zeigen Klein-Nihliesh … aber nicht so, wie du es kennst. Die meisten Leute auf den Bildern sind gewöhnliche Menschen. Von Gar-kotos großem Tank ist nichts zu sehen. Die Müllhaufen sind kleiner und die alten steinernen Gebäude noch bewohnt. Obwohl auch hier schon der Hauch von Elend und Verfall über dem Ort liegt und du den Müll beinahe riechen kannst, ist es dennoch fast idyllisch im Vergleich zur gegenwärtigen Realität. Diese Bilder müssen mindestens zehn Jahre alt sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Als du das erste Bild betrachtest, breitet es sich weiter aus und zeigt ein ausgedehntes Raster weiterer Ansichten. Offensichtlich hat die Besitzerin dieses Helms die Bilder des Himmels der Neunten Welt mit großer Sorgfalt aufgenommen. Entweder liebte sie die Sterne über alles ... oder sie sammelte diese Aufnahmen, um sie mit anderen zu vergleichen.</DefaultText>
+      <DefaultText>Als du das erste Bild betrachtest, breitet es sich weiter aus und zeigt ein ausgedehntes Raster weiterer Ansichten. Offensichtlich hat die Besitzerin dieses Helms die Bilder des Himmels der Neunten Welt mit großer Sorgfalt aufgenommen. Entweder liebte sie die Sterne über alles … oder sie sammelte diese Aufnahmen, um sie mit anderen zu vergleichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,7 +222,7 @@ Und zweitens bemerkst du, dass dieses Bild von dem Ort aufgenommen wurde, wo heu
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Habe etwas gefunden", sagt die frühere Besitzerin des Helms. "Muss sichergehen. Muss zurück zum Ankerplatz und die neuen Daten mit den Archiven des Navigations-Cortex vergleichen."</DefaultText>
+      <DefaultText>„Habe etwas gefunden“, sagt die frühere Besitzerin des Helms. „Muss sichergehen. Muss zurück zum Ankerplatz und die neuen Daten mit den Archiven des Navigations-Cortex vergleichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -234,36 +234,36 @@ Und zweitens bemerkst du, dass dieses Bild von dem Ort aufgenommen wurde, wo heu
       <ID>46</ID>
       <DefaultText>Ein dumpfes Kichern aus Aligern Richtung lässt dich den Kopf wenden.
 
-"Sorry, Kid. Aber du hättest dein Gesicht sehen sollen."</DefaultText>
+„Sorry, Kid. Aber du hättest dein Gesicht sehen sollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>Du drehst dich gerade rechtzeitig um, um zu sehen, wie Callistege die Hand vor den Mund hält, um ihr Grinsen zu verbergen.
 
-"Tut mir leid, Liebes, aber... du hättest dein Gesicht eben sehen sollen."</DefaultText>
+„Tut mir leid, Liebes, aber… du hättest dein Gesicht eben sehen sollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Was für ein seltsamer Ort, um seine Knochen- und Müllsammlung aufzubewahren", sagt er, während er in das Innere des Helms späht.</DefaultText>
+      <DefaultText>„Was für ein seltsamer Ort, um seine Knochen- und Müllsammlung aufzubewahren“, sagt er, während er in das Innere des Helms späht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Nun ja, es war ohnehin höchste Zeit, dass du mal ein Bad nimmst. Nimm's mir nicht übel."</DefaultText>
+      <DefaultText>„Nun ja, es war ohnehin höchste Zeit, dass du mal ein Bad nimmst. Nimm's mir nicht übel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Was *war* das? Warte. Sag's mir nicht. Ich möchte es eigentlich gar nicht wissen."</DefaultText>
+      <DefaultText>„Was *war* das? Warte. Sag's mir nicht. Ich möchte es eigentlich gar nicht wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Du meine Güte", sagt er und tritt vor. "Hier, lass mich... du hast da eine Menge... *Zeug* hinter deinem Ohr."
+      <DefaultText>„Du meine Güte“, sagt er und tritt vor. „Hier, lass mich… du hast da eine Menge… *Zeug* hinter deinem Ohr.“
 
-Er kratzt es weg und wischt sich dann die Hände an seinen Hosen ab. "Da. Fast so gut wie neu."</DefaultText>
+Er kratzt es weg und wischt sich dann die Hände an seinen Hosen ab. „Da. Fast so gut wie neu.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,7 +273,7 @@ Er kratzt es weg und wischt sich dann die Hände an seinen Hosen ab. "Da. Fast s
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>::mmm::, sagt Oom, während es aus sicherer Entfernung deinen Knöchel mit einem besonders langen Tentakel tätschelt.</DefaultText>
+      <DefaultText>„::mmm::“, sagt Oom, während es aus sicherer Entfernung deinen Knöchel mit einem besonders langen Tentakel tätschelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

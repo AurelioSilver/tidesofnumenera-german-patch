@@ -49,14 +49,14 @@ Zwei Orientierungspunkte sind in der Ferne sichtbar: gewaltige Obsidian-Formatio
 
 Zerian trägt einen schwarzen, eng anliegenden Anzug, der ihn größtenteils vor der Hitze schützt. Er trägt eine Peitsche und verschiedene nekromantische Ornamente.
 
-Zerian war dabei, einen Auftrag für jemanden zu erfüllen, der sich "die Chimäre" nennt. Er wurde hergeschickt, um eine Art Sphäre aufzuspüren.
+Zerian war dabei, einen Auftrag für jemanden zu erfüllen, der sich „die Chimäre“ nennt. Er wurde hergeschickt, um eine Art Sphäre aufzuspüren.
 
 {SOUND: "Had a memory" stinger}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Du kannst dir keine Erinnerungen ins Gedächtnis rufen, die dieser Körper einst hatte, aber du weißt, dass sein Name Zerian Tagesläufer war. Du erinnerst dich an einen anderen Namen, auch wenn du seine Bedeutung nicht kennst:  die Chimäre.
+      <DefaultText>Du kannst dir keine Erinnerungen ins Gedächtnis rufen, die dieser Körper einst hatte, aber du weißt, dass sein Name Zerian Tagesläufer war. Du erinnerst dich an einen anderen Namen, auch wenn du seine Bedeutung nicht kennst: die Chimäre.
 
 Zerian trägt einen schwarzen, anliegenden Anzug, der gegen die schlimmste Hitze schützt. Er trägt eine Peitsche und verschiedene Ornamente, die dich an die Toten erinnern.
 
@@ -77,7 +77,7 @@ Als du die Ornamente siehst, begreifst du, dass sie nicht nur dekorativ sind. Du
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Die Spähre ist ein Artefakt, das man "Urlimnion" nennt. Und die Chimäre wäre ziemlich verärgert, wenn Zerian ohne es zurückkehren würde.</DefaultText>
+      <DefaultText>Die Spähre ist ein Artefakt, das man „Urlimnion“ nennt. Und die Chimäre wäre ziemlich verärgert, wenn Zerian ohne es zurückkehren würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -109,7 +109,7 @@ Endlich stößt du auf etwas Vielversprechendes.</DefaultText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Du hast Glück! Der erste Turm, auf den du stößt, enthält einige Relikte aus den früheren Welten. Die meisten davon sind tot und nutzlos - die besten wurden vor Jahrhunderten geplündert - aber du stößt auf etwas Vielversprechendes.</DefaultText>
+      <DefaultText>Du hast Glück! Der erste Turm, auf den du stößt, enthält einige Relikte aus den früheren Welten. Die meisten davon sind tot und nutzlos – die besten wurden vor Jahrhunderten geplündert – aber du stößt auf etwas Vielversprechendes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -119,13 +119,13 @@ Endlich stößt du auf etwas Vielversprechendes.</DefaultText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Du befindest dich an einem Ort namens "Felder von Ossiphagan". Viele haben hier gelebt und sind hier gestorben, obwohl es ein furchtbarer Ort zu leben zu sein scheint.
+      <DefaultText>Du befindest dich an einem Ort namens „Felder von Ossiphagan“. Viele haben hier gelebt und sind hier gestorben, obwohl es ein furchtbarer Ort zu leben zu sein scheint.
 
 Plünderer der Sagusklippen sind in den letzten Jahrhunderten hier durchgereist, auf der Suche nach Schätzen der Vergangenheit. Noch davor waren es Mutanten, die vor unzähligen blutigen Revolutionen an einem Ort namens Haref geflohen sind. Davor Flüchtlinge aus einem Dorf namens Shuenha.
 
 Und wiederum vor ihnen die Menschen aus Ossiphagan selbst.
 
-Du siehst einen Schimmer eines machtvollen Artefaktes. Vor Hunderten von Jahren gab es hier einen Kampf. Viele starben. Zwei Figuren - eine Frau mittleren Alters und ein jugendliches Mädchen - kämpften auf der Spitze des leuchtenden Knochenturms um eine Kupfersphäre.
+Du siehst einen Schimmer eines machtvollen Artefaktes. Vor Hunderten von Jahren gab es hier einen Kampf. Viele starben. Zwei Figuren – eine Frau mittleren Alters und ein jugendliches Mädchen – kämpften auf der Spitze des leuchtenden Knochenturms um eine Kupfersphäre.
 
 {SOUND: Had a memory stinger or else some other "ability use" sound}</DefaultText>
       <FemaleText />
@@ -134,7 +134,7 @@ Du siehst einen Schimmer eines machtvollen Artefaktes. Vor Hunderten von Jahren 
       <ID>21</ID>
       <DefaultText>Du bist auf der Spitze des gebrochenen Knochenturmes. Zerklüftete Knochenwände dienen als eine Art Geländer.
 
-Von hier aus kannst du die Felder von Ossiphagan noch besser  sehen: die Wirbelsäule unter dir, die Obsidian-Formationen auf der einen Seite und die glühenden Felder vor dem Gebirgspass auf der anderen.
+Von hier aus kannst du die Felder von Ossiphagan noch besser sehen: die Wirbelsäule unter dir, die Obsidian-Formationen auf der einen Seite und die glühenden Felder vor dem Gebirgspass auf der anderen.
 
 Direkt neben dem Turm schwebt eine Kapsel aus Azurstahl. Eine Rampe führt von der Brüstung in den Transporter.
 
@@ -158,7 +158,7 @@ Direkt neben dem Turm schwebt eine Kapsel aus Azurstahl. Eine Rampe führt von d
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Es ist hier wenig geschehen, bis auf ein Ereignis, das sofort offenkundig wird. Du siehst eine Frau mittleren Alters - du weißt, dass ihr Name Ama ist - die sich einem jungen Mädchen namens Thiza gegenüberstellt. Ama schwebt in der Luft, wie auch das Transportmittel. Sie hält eine Kupfersphäre, die in einem goldenen Licht schimmert.
+      <DefaultText>Es ist hier wenig geschehen, bis auf ein Ereignis, das sofort offenkundig wird. Du siehst eine Frau mittleren Alters – du weißt, dass ihr Name Ama ist – die sich einem jungen Mädchen namens Thiza gegenüberstellt. Ama schwebt in der Luft, wie auch das Transportmittel. Sie hält eine Kupfersphäre, die in einem goldenen Licht schimmert.
 
 Wütende Worte werden ausgetauscht und plötzlich springt Thiya von dem Turm und greift Ama an. Die beiden schnellen empor in die Luft und bewegen sich auf die Obsidian-Formationen in der Ferne zu.
 
@@ -167,7 +167,7 @@ Wütende Worte werden ausgetauscht und plötzlich springt Thiya von dem Turm und
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Als du dich dem Transporter näherst, spürst du ein Kribbeln deinen Rücken hinaufwandern. Du hast das tiefgreifende Gefühl, dass eine Aufgabe nicht beendet wurde und dass dich Schwierigkeiten erwarten - oder zumindest den Körper, in dem du dich befindest - wenn du jetzt gehst. Ist es das, was Aadiriis meinte, als sie gesagt hat, dass man mit Zerians Leben vorsichtig sein soll?
+      <DefaultText>Als du dich dem Transporter näherst, spürst du ein Kribbeln deinen Rücken hinaufwandern. Du hast das tiefgreifende Gefühl, dass eine Aufgabe nicht beendet wurde und dass dich Schwierigkeiten erwarten – oder zumindest den Körper, in dem du dich befindest – wenn du jetzt gehst. Ist es das, was Aadiriis meinte, als sie gesagt hat, dass man mit Zerians Leben vorsichtig sein soll?
 
 {SOUND: "Had a memory" stinger}</DefaultText>
       <FemaleText />
@@ -176,7 +176,7 @@ Wütende Worte werden ausgetauscht und plötzlich springt Thiya von dem Turm und
       <ID>27</ID>
       <DefaultText>Du gehst an Bord. Der Transporter scheint nicht mit dem Gedanken an erwachsene Menschen gemacht worden zu sein. Es ist nur genug Raum um sich auf den Boden zu legen, und selbst dann musst du dich auf deine Seite rollen und deine Beine eng anziehen. Sobald du dies getan hast, bildet sich die Rampe zurück und die Türöffnung verschwindet. Dein Magen dreht sich um, als der Transporter in den Himmel abhebt.
 
-Anfangs versuchst du aus den kleinen Bullaugen zu spähen, aber alles was du siehst, ist stockfinster - vermutlich die schwarzen Wolken des Vulkans. Schließlich werden sie durch das Schwarz eines Sternenhimmels ersetzt. Du versuchst das Land unter dir zu sehen, aber es ist auf diesem engsten Raum unmöglich.
+Anfangs versuchst du aus den kleinen Bullaugen zu spähen, aber alles was du siehst, ist stockfinster – vermutlich die schwarzen Wolken des Vulkans. Schließlich werden sie durch das Schwarz eines Sternenhimmels ersetzt. Du versuchst das Land unter dir zu sehen, aber es ist auf diesem engsten Raum unmöglich.
 
 Stunden vergehen. Endlich verlangsamt sich der Transporter. Sein Brummen verstummt und die Türe erscheint wieder.
 
@@ -206,7 +206,7 @@ Ihr Name schießt dir plötzlich in den Sinn: die Chimäre.
       <ID>30</ID>
       <DefaultText>Du überquerst die Vulkanebenen und erreichst die Obsidian-Formationen. Gewaltige Strukturen aus ausgekühltem, glänzenden Stein ragen aus dem Boden und winden sich in unmögliche Formen. Eine riesige schwarze Wand umringt die meisten Formationen, sich hunderte Meter aus dem Boden erhebend.
 
-Die Obsidian-Formationen sind dunkel, still und verlassen. Ein heißer Wind weht fernab, bei den Magmaströmen - doch hier weht und lebt nichts.
+Die Obsidian-Formationen sind dunkel, still und verlassen. Ein heißer Wind weht fernab, bei den Magmaströmen – doch hier weht und lebt nichts.
 
 In der Ferne kannst du die Wirbelsäule und die Knochentürme sehen, und in der anderen Richtung enden die Ebenen an einer steilen Felswand, die von einem Gebirgspass durchzogen wird.
 
@@ -305,7 +305,7 @@ Bevor du entscheiden kannst, was du als nächstes tun wirst, macht der Gemorrn e
       <ID>49</ID>
       <DefaultText>Du zielst mit dem verkohlten Ende des Stabes auf die Mitte des Gemorrn und drückst den Knopf auf der Seite. Blitze zucken durch die Luft, und ein gleißender Lichtstrahl durchbohrt eines der Gesichter des Gemorrn.
 
-Der Gemorrn heult auf vor Schmerz. Sein Zorn war vorher nicht auf dich gerichtet, jetzt ist er es allerdings. Er greift dich an. 
+Der Gemorrn heult auf vor Schmerz. Sein Zorn war vorher nicht auf dich gerichtet, jetzt ist er es allerdings. Er greift dich an.
 
 Du versuchst den Stab nochmals abzufeuern, aber nichts passiert. Der Stab ist nutzlos.
 
@@ -315,7 +315,7 @@ Du versuchst den Stab nochmals abzufeuern, aber nichts passiert. Der Stab ist nu
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Seine Geschwindigkeit und Kraft abmessend, knallst du aus sicherer Entfernung mit deiner Peitsche. Er brüllt. Du spürst das Gewicht hunderter Menschen, die deinen Kopf zermalmen, aber du hörst nicht auf.  Du wirfst Steine auf ihn, beleidigst ihn in mehreren Sprachen.
+      <DefaultText>Seine Geschwindigkeit und Kraft abmessend, knallst du aus sicherer Entfernung mit deiner Peitsche. Er brüllt. Du spürst das Gewicht hunderter Menschen, die deinen Kopf zermalmen, aber du hörst nicht auf. Du wirfst Steine auf ihn, beleidigst ihn in mehreren Sprachen.
 
 Nichts was du tust, fügt ihm Schmerzen zu, und er versteht vermutlich deine Worte nichts, aber dein Vorhaben umso besser. Er rast mit großer Geschwindigkeit und der Absicht zu töten auf dich zu.
 
@@ -370,9 +370,9 @@ Bevor du etwas tun kannst, macht der Gemorrn einen Satz und drückt dich mit üb
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Deine letzte Erinnerung, bevor du das Bewusstsein verlierst, ist von Zerian - nicht du - der etwas beschwört. Dann werden die Schmerzen zu groß und überwältigen dich.
+      <DefaultText>Deine letzte Erinnerung, bevor du das Bewusstsein verlierst, ist von Zerian – nicht du – der etwas beschwört. Dann werden die Schmerzen zu groß und überwältigen dich.
 
-Als du erwachst, liegst du  in einer kleinen Metallkapsel - der Transporter, den du von der Wirbelsäule aus gesehen hast. Eine Leiche liegt zerstört auf dem Boden und du begreifst, dass Zerian sie beschwört haben muss um deinen Körper hierher zu bringen, nachdem du getötet worden bist.
+Als du erwachst, liegst du in einer kleinen Metallkapsel – der Transporter, den du von der Wirbelsäule aus gesehen hast. Eine Leiche liegt zerstört auf dem Boden und du begreifst, dass Zerian sie beschwört haben muss um deinen Körper hierher zu bringen, nachdem du getötet worden bist.
 
 Du siehst nichts außerhalb der Kapsel bis auf die Dunkelheit und es gibt keine Kontrollmöglichkeiten oder Kontaktflächen. Endlich spürst du, wie der Transporter langsamer wird und dann anhält. Ein Teil der Wand verschwindet, die Leiche fällt hinaus.</DefaultText>
       <FemaleText />
@@ -443,7 +443,7 @@ Du weißt, dass diese Kreaturen Feuerwichte genannt werden. In diesem Moment sch
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Du suchst eine Zeit lang, aber es gibt nicht viel hier in den Feldern.  Im nahegelegenen geschmolzenen Gestein findest du einen großen Schild. Du *spürst*, eher als dass du sie sehen kannst, die starke Präsenz des Todes hier.
+      <DefaultText>Du suchst eine Zeit lang, aber es gibt nicht viel hier in den Feldern. Im nahegelegenen geschmolzenen Gestein findest du einen großen Schild. Du *spürst*, eher als dass du sie sehen kannst, die starke Präsenz des Todes hier.
 
 Du versuchst weiterzusuchen, aber eine Gruppe von Feuerwichten taucht auf und bedroht dich. Es wird schwierig werden, an ihnen vorbeizukommen.</DefaultText>
       <FemaleText />
@@ -495,9 +495,9 @@ Tatsächlich, sobald du das herausgefunden hast, kannst du sehen wie sie die Luf
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Du erkennst fast unmittelbar, dass die Veränderungen der Lufttemperatur weder zufällig, noch natürlich sind. Die Wichte selbst sind Grund dafür. Sie nutzen die Lufttemperatur irgendwie als eine Art Kommunikationsmittel untereinander - vielleicht versuchen sie sogar mit dir zu kommunizieren.
+      <DefaultText>Du erkennst fast unmittelbar, dass die Veränderungen der Lufttemperatur weder zufällig, noch natürlich sind. Die Wichte selbst sind Grund dafür. Sie nutzen die Lufttemperatur irgendwie als eine Art Kommunikationsmittel untereinander – vielleicht versuchen sie sogar mit dir zu kommunizieren.
 
-Du kannst nicht einmal ein Hunderstel dessen verstehen, was sie zueinander sagen, aber du erkennst die allgemeine Tendenz, dass je kühler die Luft ist, desto mehr Gefahr für dich droht. Der Trend trifft nicht immer zu - es scheint für die Wichte unterschiedliche Arten von Kälte zu geben  - aber vielleicht könntest du diese Information nutzen, um an ihnen vorbeizukommen.</DefaultText>
+Du kannst nicht einmal ein Hunderstel dessen verstehen, was sie zueinander sagen, aber du erkennst die allgemeine Tendenz, dass je kühler die Luft ist, desto mehr Gefahr für dich droht. Der Trend trifft nicht immer zu – es scheint für die Wichte unterschiedliche Arten von Kälte zu geben – aber vielleicht könntest du diese Information nutzen, um an ihnen vorbeizukommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -507,7 +507,7 @@ Du kannst nicht einmal ein Hunderstel dessen verstehen, was sie zueinander sagen
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Du beobachtest sie noch etwas länger, aber du kannst immer noch kein Muster in ihrem Verhalten erkennen - jedenfalls nichts, was du nutzen kannst.</DefaultText>
+      <DefaultText>Du beobachtest sie noch etwas länger, aber du kannst immer noch kein Muster in ihrem Verhalten erkennen – jedenfalls nichts, was du nutzen kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,7 +591,7 @@ Die Luft wird eisig kalt, durchbrochen von unregelmäßigen Wellen intensiver Hi
       <ID>93</ID>
       <DefaultText>Obwohl es keine Körper auf der Oberfläche gibt, kannst du die Toten unterhalb des Felsens spüren, konserviert durch das Magma, das über die Jahrhunderte über diesen Ort geflossen ist. Einer davon ist eine Frau mittleren Alters namens Ama. Das andere ist ein Mädchen, aber sie ist eigenartig still. Selbst mit deinen seltsamen Kräften gibt es hier nichts, womit man sprechen könnte.
 
-"Frieden", sagt Ama. "Ist es besser? Ja, besser. Besser vergessen."
+„Frieden“, sagt Ama. „Ist es besser? Ja, besser. Besser vergessen.“
 
 {SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
       <FemaleText />
@@ -744,7 +744,7 @@ WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Der Wicht folgt dir eine Zeit lang, während du ihn auf einer weitläufigen Route führst - nahe der Sphäre, aber nicht zu nah. Schließlich scheint er sich zu langweilen und entfernt sich. Du schaffst es, den Abstand zu der Sphäre um weitere hundert Meter zu verringern.
+      <DefaultText>Der Wicht folgt dir eine Zeit lang, während du ihn auf einer weitläufigen Route führst – nahe der Sphäre, aber nicht zu nah. Schließlich scheint er sich zu langweilen und entfernt sich. Du schaffst es, den Abstand zu der Sphäre um weitere hundert Meter zu verringern.
 
 {SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
 WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
@@ -769,7 +769,7 @@ Die Luft wechselt plötzlich in einem schwindelerregenden Muster aus intensiver 
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Hervorragend!" Die Stimme der Chimäre ist metallisch und künstlich und verändert sich so oft wie die Züge ihres Gesichtes. Ihre Gesichtsausdrücke verschieben und verändern sich, aber alle von ihnen lächeln, als sie nach vorne greift und dir die Sphäre abnimmt. "Ich wusste doch, dass deine besonderen Gaben gelegen kommen würden, Zerian. Ich bin beeindruckt, dass du die Urlimnion so schnell gefunden hast."
+      <DefaultText>„Hervorragend!“ Die Stimme der Chimäre ist metallisch und künstlich und verändert sich so oft wie die Züge ihres Gesichtes. Ihre Gesichtsausdrücke verschieben und verändern sich, aber alle von ihnen lächeln, als sie nach vorne greift und dir die Sphäre abnimmt. „Ich wusste doch, dass deine besonderen Gaben gelegen kommen würden, Zerian. Ich bin beeindruckt, dass du die Urlimnion so schnell gefunden hast.“
 
 Die Chimäre stellt die Urlimnion mit einem dumpfen *Schlag* auf den nahegelegenen Tisch. Sie ergreift sofort einige verschiedene Untersuchungsinstrumente, eins nach dem anderen, die Urlimnion und ihre Geheimnisse erforschend.
 
@@ -778,7 +778,7 @@ Sie scheint dich vergessen zu haben. Du schaust dich in der Höhle um, aber es g
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Das hat ja lange genug gedauert." Die Stimme der Chimäre ist metallisch und künstlich und verändert sich so oft wie die Züge ihres Gesichtes. Ihre Gesichtsausdrücke verschieben und verändern sich, aber alle von ihnen missbilligend, als sie nach vorne greift und dir die Sphäre abnimmt. "Ich dachte, es wäre einfacher, ein totes Relikt mit deinen besonderen Gaben zu finden."
+      <DefaultText>„Das hat ja lange genug gedauert.“ Die Stimme der Chimäre ist metallisch und künstlich und verändert sich so oft wie die Züge ihres Gesichtes. Ihre Gesichtsausdrücke verschieben und verändern sich, aber alle von ihnen missbilligend, als sie nach vorne greift und dir die Sphäre abnimmt. „Ich dachte, es wäre einfacher, ein totes Relikt mit deinen besonderen Gaben zu finden.“
 
 Die Chimäre stellt die Urlimnion mit einem dumpfen *Schlag* auf den nahegelegenen Tisch. Sie ergreift sofort einige verschiedene Untersuchungsinstrumente, eins nach dem anderen, die Urlimnion und ihre Geheimnisse erforschend.
 
@@ -789,7 +789,7 @@ Sie scheint dich vergessen zu haben. Du schaust dich in der Höhle um, aber es g
       <ID>132</ID>
       <DefaultText>Die Chimäre mustert dich von oben bis unten. Ausgehend von seinem Gesichtsausdruck musst du furchtbar aussehen.
 
-"Du hast versagt." Die Stimme der Chimäre ist metallisch und künstlich und verändert sich so oft wie die Züge seines Gesichtes. Seine Gesichtsausdrücke verschieben und verändern sich, aber alle sind missbilligend. "Ich dachte, du wärst klüger, Zerian. Nächstes Mal sollte ich vielleicht einen robusteren Verstoßenen finden."
+„Du hast versagt.“ Die Stimme der Chimäre ist metallisch und künstlich und verändert sich so oft wie die Züge seines Gesichtes. Seine Gesichtsausdrücke verschieben und verändern sich, aber alle sind missbilligend. „Ich dachte, du wärst klüger, Zerian. Nächstes Mal sollte ich vielleicht einen robusteren Verstoßenen finden.“
 
 Er macht eine verächtliche Geste, die dir deutet, ihn alleine zu lassen, dann wendet er sich einem der Relikte zu und beginnt an seinen Innereien zu spielen.
 
@@ -798,7 +798,7 @@ Er scheint dich vergessen zu haben. Du schaust dich in der Höhle um, aber es gi
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Du hast versagt." Die Stimme der Chimäre ist metallisch und künstlich und verändert sich so oft wie die Züge seines Gesichtes. Seine Gesichtsausdrücke verschieben und verändern sich, aber alle sind missbilligend. "Und schlimmer noch, du bist *abgehauen*. Bist du nicht ein Verstoßener? Solltest du nicht eher bei dem Versuch sterben als aufzugeben? Das wird nicht ohne Folgen bleiben, Zerian. Wir sprechen ein anderes Mal über die Bestrafung für dein Versagen. Verschwinde."
+      <DefaultText>„Du hast versagt.“ Die Stimme der Chimäre ist metallisch und künstlich und verändert sich so oft wie die Züge seines Gesichtes. Seine Gesichtsausdrücke verschieben und verändern sich, aber alle sind missbilligend. „Und schlimmer noch, du bist *abgehauen*. Bist du nicht ein Verstoßener? Solltest du nicht eher bei dem Versuch sterben als aufzugeben? Das wird nicht ohne Folgen bleiben, Zerian. Wir sprechen ein anderes Mal über die Bestrafung für dein Versagen. Verschwinde.“
 
 Er macht eine verächtliche Geste, die dir deutet, ihn alleine zu lassen, dann wendet er sich einem der Relikte zu und beginnt, an seinen Innereien zu spielen.
 
@@ -807,12 +807,12 @@ Er scheint dich vergessen zu haben. Du schaust dich in der Höhle um, aber es gi
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Wo ist Mazzof? Ich muss mit ihm sprechen."</DefaultText>
+      <DefaultText>„Wo ist Mazzof? Ich muss mit ihm sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>(Lüge) "Ich will mit Mazzof über das Artefakt sprechen, das ich gefunden habe."</DefaultText>
+      <DefaultText>(Lüge) „Ich will mit Mazzof über das Artefakt sprechen, das ich gefunden habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -827,7 +827,7 @@ Er scheint dich vergessen zu haben. Du schaust dich in der Höhle um, aber es gi
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Du machst zwei Schritte auf den Käfig zu, aber in dem Moment, in dem du mit deiner Hand nach ihm greifst, stoppt dich die Chimäre mit einem Bellen. "Was denkst du, was du da tust? Dein Mission ist beendet. Ich habe keine Verwendung für dich da draußen."</DefaultText>
+      <DefaultText>Du machst zwei Schritte auf den Käfig zu, aber in dem Moment, in dem du mit deiner Hand nach ihm greifst, stoppt dich die Chimäre mit einem Bellen. „Was denkst du, was du da tust? Dein Mission ist beendet. Ich habe keine Verwendung für dich da draußen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -842,7 +842,7 @@ Die Chimäre stürzt nach vorne um dich anzugreifen, aber du schlägst nochmal m
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Mazzof?" Die schwankende Stimme der Chimäre wechselt von Bariton zu Falsett in einer schnellen Folge von Tönen. Ein Dutzend verschiedener Augen, verengt von Misstrauen. "Ich bin mir nicht sicher, dass Tüftler dir etwas *Nützliches* sagen könnten... aber ich habe keinen Grund, es dir zu verwehren."
+      <DefaultText>„Mazzof?“ Die schwankende Stimme der Chimäre wechselt von Bariton zu Falsett in einer schnellen Folge von Tönen. Ein Dutzend verschiedener Augen, verengt von Misstrauen. „Ich bin mir nicht sicher, dass Tüftler dir etwas *Nützliches* sagen könnten… aber ich habe keinen Grund, es dir zu verwehren.“
 
 Die Chimäre dreht sich um und bewegt eine Hand über eine der Metallranken. Obwohl keine erkennbare Oberfläche erscheint, drückt er seinen Finger zweimal gegen das Metall und der Käfig beginnt zu glühen.
 
@@ -853,12 +853,12 @@ Die Chimäre wendet ihre Aufmerksamkeit wieder der Sphäre zu, dir mit einem abs
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Wo ist Mazzof? Ich muss mit ihm sprechen."</DefaultText>
+      <DefaultText>„Wo ist Mazzof? Ich muss mit ihm sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Ich will mit Mazzof über diese Mission sprechen."</DefaultText>
+      <DefaultText>„Ich will mit Mazzof über diese Mission sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -868,12 +868,12 @@ Die Chimäre wendet ihre Aufmerksamkeit wieder der Sphäre zu, dir mit einem abs
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Du machst zwei Schritte auf den Käfig zu, aber in dem Moment, in dem du mit deiner Hand nach ihm greifst, stoppt dich die Chimäre mit einem Bellen. "Was denkst du, was du da tust? Dein Mission ist beendet. Ich habe keine Verwendung für dich da draußen."</DefaultText>
+      <DefaultText>Du machst zwei Schritte auf den Käfig zu, aber in dem Moment, in dem du mit deiner Hand nach ihm greifst, stoppt dich die Chimäre mit einem Bellen. „Was denkst du, was du da tust? Dein Mission ist beendet. Ich habe keine Verwendung für dich da draußen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Fünf unterschiedliche Ausdrücke spiegeln sich auf dem Gesicht der Chimäre, alle davon misstrauisch. "Dafür gibt es keine Notwendigkeit. Geh und warte auf weitere Anweisungen."</DefaultText>
+      <DefaultText>Fünf unterschiedliche Ausdrücke spiegeln sich auf dem Gesicht der Chimäre, alle davon misstrauisch. „Dafür gibt es keine Notwendigkeit. Geh und warte auf weitere Anweisungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -892,7 +892,7 @@ Die Chimäre wendet ihre Aufmerksamkeit wieder der Sphäre zu, dir mit einem abs
 
 Eines seiner Augen ist künstlich. Es projiziert abwechselnd das Abbild eines menschlichen Auges, eines Schlangenauges und eines noch fremdartigeres, während er dich mustert. Er sieht aus wie der Überlebende eines Schiffbruchs: mit nacktem Oberkörper, zerfetzten Hosen, zotteligem Bart. Falls es so ist, ist er wohlgenährter als du erwarten würdest.
 
-"Zerian?", sagt er, wobei sein menschliches Auge im Licht aufblitzt. "Was zur Hölle willst denn *du*?" Er tritt nach vorne, als wollte er versuchen, in die Höhle zu schauen.
+„Zerian?“, sagt er, wobei sein menschliches Auge im Licht aufblitzt. „Was zur Hölle willst denn *du*?“ Er tritt nach vorne, als wollte er versuchen, in die Höhle zu schauen.
 
 {ART: Talking with Mazzof}
 {SOUND: Small waves lapping on a beach. Possibly an ambient sound.}</DefaultText>
@@ -985,12 +985,12 @@ Eines seiner Augen ist künstlich. Es projiziert abwechselnd das Abbild eines me
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Wo bist du?"</DefaultText>
+      <DefaultText>„Wo bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Du bist nicht im Versteck der Chimäre.  Was ist das für ein Ort?"</DefaultText>
+      <DefaultText>„Du bist nicht im Versteck der Chimäre. Was ist das für ein Ort?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1000,9 +1000,9 @@ Eines seiner Augen ist künstlich. Es projiziert abwechselnd das Abbild eines me
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Er breitet seine Arme aus, dich spöttisch willkommen heißend. "Ich bin an einem gottverdammten Strand und genieße mein Leben. Wonach sieht es denn aus?"
+      <DefaultText>Er breitet seine Arme aus, dich spöttisch willkommen heißend. „Ich bin an einem gottverdammten Strand und genieße mein Leben. Wonach sieht es denn aus?“
 
-Er verschränkt seine Arme vor der Brust. "Was zur Hölle willst du?"</DefaultText>
+Er verschränkt seine Arme vor der Brust. „Was zur Hölle willst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1012,59 +1012,59 @@ Er verschränkt seine Arme vor der Brust. "Was zur Hölle willst du?"</DefaultTe
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Bist du wirklich Mazzof? Der, der mit Maschinen spricht?"</DefaultText>
+      <DefaultText>„Bist du wirklich Mazzof? Der, der mit Maschinen spricht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>Seine Brauen ziehen sich zusammen während seine künstliche Augenhöhle ungefähr ein Dutzend verschiedener Augenarten innerhalb von zwei Sekunden durchläuft. Seine Stimme wird gefährlich tief. "Wer bist du?"</DefaultText>
+      <DefaultText>Seine Brauen ziehen sich zusammen während seine künstliche Augenhöhle ungefähr ein Dutzend verschiedener Augenarten innerhalb von zwei Sekunden durchläuft. Seine Stimme wird gefährlich tief. „Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Und wo ist unser geliebter Anführer? Die Art, wie er "geliebter Anführer" sagt, zeigt dir, dass er alles andere als das ist. "Ich kann mir nicht vorstellen, dass du das Tor ohne Überwachung betätigen dürftest."</DefaultText>
+      <DefaultText>Und wo ist unser geliebter Anführer? Die Art, wie er „geliebter Anführer“ sagt, zeigt dir, dass er alles andere als das ist. „Ich kann mir nicht vorstellen, dass du das Tor ohne Überwachung betätigen dürftest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Ich habe sie angegriffen. Ich bin alleine hier."</DefaultText>
+      <DefaultText>„Ich habe sie angegriffen. Ich bin alleine hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Sie? Die Chimäre." Eine Art Ausdruck des Verstehens erscheint auf seinem Gesicht. "Sie ist schon eine sehr lange Zeit hier, Sohn. Nicht so einfach, so etwas loszuwerden."</DefaultText>
+      <DefaultText>„Sie? Die Chimäre.“ Eine Art Ausdruck des Verstehens erscheint auf seinem Gesicht. „Sie ist schon eine sehr lange Zeit hier, Sohn. Nicht so einfach, so etwas loszuwerden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Die Resonanzkammer wurde zerstört. Ich muss wissen, wie man sie repariert."</DefaultText>
+      <DefaultText>„Die Resonanzkammer wurde zerstört. Ich muss wissen, wie man sie repariert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Er legt eine Hand an sein Kinn, sämtliche Wut und Misstrauen sind verschwunden in dem verworrenen Gesicht. "Naja, das ist nicht so schwer wenn man die Grundlagen kennt. Die Kammer ist aus Kristall, ja? Also ist sie gewachsen, nicht erbaut. Solange der Kern der Kammer intakt ist, sollte sie wissen, wie sie wieder wächst. Du brauchst nur einen Katalysator, um..."
+      <DefaultText>Er legt eine Hand an sein Kinn, sämtliche Wut und Misstrauen sind verschwunden in dem verworrenen Gesicht. „Naja, das ist nicht so schwer wenn man die Grundlagen kennt. Die Kammer ist aus Kristall, ja? Also ist sie gewachsen, nicht erbaut. Solange der Kern der Kammer intakt ist, sollte sie wissen, wie sie wieder wächst. Du brauchst nur einen Katalysator, um…“
 
-Er bricht ab und schaut dich erneut an. "*Warum* willst du das wissen? Die Resonanzkammer ist nur gut für..." Er wirft dir einen wütenden Blick zu. "Wer hat dich geschickt? Warum bist du hinter diesen Informationen her?"</DefaultText>
+Er bricht ab und schaut dich erneut an. „*Warum* willst du das wissen? Die Resonanzkammer ist nur gut für…“ Er wirft dir einen wütenden Blick zu. „Wer hat dich geschickt? Warum bist du hinter diesen Informationen her?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Ich versuche den Kummer davon abzuhalten, uns zu jagen."</DefaultText>
+      <DefaultText>„Ich versuche den Kummer davon abzuhalten, uns zu jagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Der Geist, ah, ah... ist... in meinem Kopf. Er hat mir gesagt, dass wenn ich sie repariere, ich den Kummer aufhalten könnte uns zu jagen."</DefaultText>
+      <DefaultText>„Der Geist, ah, ah… ist… in meinem Kopf. Er hat mir gesagt, dass wenn ich sie repariere, ich den Kummer aufhalten könnte uns zu jagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Mach dir darüber keine Sorgen. Beantworte einfach die Frage."</DefaultText>
+      <DefaultText>„Mach dir darüber keine Sorgen. Beantworte einfach die Frage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>Mazzof stößt ein kurzes, bitteres Lachen hervor. "Ich bezweifle nicht, dass es den Kummer aufhalten würde, und viele andere Dinge. Ich weiß nicht wie, aber der Wandelnde Gott versucht dich zu benutzen. Wenn die Kammer repariert wird, profitiert außer ihm niemand davon. Du kannst nicht einem verdammten Wort trauen, das dieser Bastard sagt."</DefaultText>
+      <DefaultText>Mazzof stößt ein kurzes, bitteres Lachen hervor. „Ich bezweifle nicht, dass es den Kummer aufhalten würde, und viele andere Dinge. Ich weiß nicht wie, aber der Wandelnde Gott versucht dich zu benutzen. Wenn die Kammer repariert wird, profitiert außer ihm niemand davon. Du kannst nicht einem verdammten Wort trauen, das dieser Bastard sagt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1074,27 +1074,27 @@ Er bricht ab und schaut dich erneut an. "*Warum* willst du das wissen? Die Reson
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Mazzof schaut finster. "Ich verrate dir nicht eine verdammte Sache. Die einzige Person, die von der Kammer profitiert, ist der Wandelnde Gott, und *ihm* werde ich nicht mehr helfen. Er wird uns alle zerstören."</DefaultText>
+      <DefaultText>Mazzof schaut finster. „Ich verrate dir nicht eine verdammte Sache. Die einzige Person, die von der Kammer profitiert, ist der Wandelnde Gott, und *ihm* werde ich nicht mehr helfen. Er wird uns alle zerstören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Warum würde der Wandelnde Gott mich anlügen?"</DefaultText>
+      <DefaultText>„Warum würde der Wandelnde Gott mich anlügen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Es war nicht der Wandelnde Gott, der mir das erzählt hat."</DefaultText>
+      <DefaultText>„Es war nicht der Wandelnde Gott, der mir das erzählt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Wie sollte der Wandelnde Gott von der Resonanzkammer profitieren?"</DefaultText>
+      <DefaultText>„Wie sollte der Wandelnde Gott von der Resonanzkammer profitieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Was macht die Resonanzkammer?"</DefaultText>
+      <DefaultText>„Was macht die Resonanzkammer?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1104,12 +1104,12 @@ Er bricht ab und schaut dich erneut an. "*Warum* willst du das wissen? Die Reson
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Warum denkst du das?" Mazzof zieht seine zerschlissenen Hosen hoch. "Warum tut er etwas? Um zu bekommen was *er* will."</DefaultText>
+      <DefaultText>„Warum denkst du das?“ Mazzof zieht seine zerschlissenen Hosen hoch. „Warum tut er etwas? Um zu bekommen was *er* will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"Unser Erzeuger hat einen neuen Körper eines Verstoßenen, den er als Katalysator für die Kammer zu benutzen plant. Aber die Erste hat einen besseren Plan - etwas, dass nicht jeden von uns das Leben kosten wird. Such sie in ... in der Flor", sagt er grimmig. "Pass nur darauf auf, dass du nicht -"
+      <DefaultText>„Unser Erzeuger hat einen neuen Körper eines Verstoßenen, den er als Katalysator für die Kammer zu benutzen plant. Aber die Erste hat einen besseren Plan – etwas, dass nicht jeden von uns das Leben kosten wird. Such sie in … in der Flor“, sagt er grimmig. „Pass nur darauf auf, dass du nicht –“
 
 Noch bevor er seinen Satz beenden kann, spürst du ein erdrückendes Gefühl im Zentrum deines Körpers, als würde jemand dein Herz auswringen. Deine Sicht verdunkelt sich und du fühlst dich als würde dein Körper durch ein Stahlrohr gequetscht. Du wirst aus dem Lebensbild gerissen, aber es ist weitaus schmerzvoller als jemals zuvor.
 
@@ -1127,7 +1127,7 @@ Dann verschwinden Mazzof, die Höhle und alles andere.</DefaultText>
 
 Während sich deine Augen an die Lichtverhältnisse anpassen, wird dir klar, dass du dich draußen befindest, aber der Himmel ist verdunkelt von pechschwarzen Wolken. Das rötliche Leuchten kommt von Lavaströmen, die von entfernten Bergen bis zu den Feldern um dich herum fließen.
 
-Scharfe Türme durchspießen den Himmel, zugespitzt wie die Knochen eines Brustkorbes. Tatsächlich, sie sehen in jeder Hinsicht aus wie Knochen, ebenso wie der Boden unter dir. Du scheinst auf der Wirbelsäule eines gewaltigen Ungeheuers zu stehen - der Unterteil seines Kiefers kann man weit in der Ferne sehen, halb begraben unter einer Schicht von erkalteter Lava.
+Scharfe Türme durchspießen den Himmel, zugespitzt wie die Knochen eines Brustkorbes. Tatsächlich, sie sehen in jeder Hinsicht aus wie Knochen, ebenso wie der Boden unter dir. Du scheinst auf der Wirbelsäule eines gewaltigen Ungeheuers zu stehen – der Unterteil seines Kiefers kann man weit in der Ferne sehen, halb begraben unter einer Schicht von erkalteter Lava.
 
 {ART: The Spine}
 {SOUND: Volcanic rumblings (should this be a constant ambient sound?)}</DefaultText>
@@ -1135,7 +1135,7 @@ Scharfe Türme durchspießen den Himmel, zugespitzt wie die Knochen eines Brustk
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Die meisten der Knochentürme sehen identisch aus, aber einer sondert von innen heraus ein sonderbares, blaues Licht ab. Die Spitze des glühenden Turmes ist abgebrochen und etwas, das aussieht wie ein Transporter, schwebt neben seiner Spitze. Es ist *dein* Transporter. Du wurdest hierher geschickt, um etwas zu finden...
+      <DefaultText>Die meisten der Knochentürme sehen identisch aus, aber einer sondert von innen heraus ein sonderbares, blaues Licht ab. Die Spitze des glühenden Turmes ist abgebrochen und etwas, das aussieht wie ein Transporter, schwebt neben seiner Spitze. Es ist *dein* Transporter. Du wurdest hierher geschickt, um etwas zu finden…
 
 Gewundene Brücken verbunden die Wirbelsäule mit den Vulkanfeldern um dich herum. Auf einer Seite liegen gewaltige Obsidian-Formationen: Gewölbe, Türme, eine Wand. Auf der anderen Seite ist ein schmaler Pass in die Bergwand eingekerbt. Das Feld, das zu der Schlucht führt, wird von Hunderten von glühenden Lichtern beleuchtet.
 
@@ -1144,7 +1144,7 @@ Du weißt, dass dieser Körper nicht geschickt wurde, um Mazzof zu finden, aber 
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>Du findest einen Stab, der vollständig aus einem Metall aus einer der früheren Welten angefertigt wurde. Es fühlt sich kühl an - ungewöhnlich hinsichtlich der extremen Temperatur der Luft selbst - und Brandspuren schwärzen ein Ende.
+      <DefaultText>Du findest einen Stab, der vollständig aus einem Metall aus einer der früheren Welten angefertigt wurde. Es fühlt sich kühl an – ungewöhnlich hinsichtlich der extremen Temperatur der Luft selbst – und Brandspuren schwärzen ein Ende.
 
 Mit großer Wahrscheinlichkeit wurde er als Waffe benutzt. Es könnte wieder funktionieren, aber wahrscheinlich nur einmal. Du nimmst den Stab an dich.</DefaultText>
       <FemaleText />
@@ -1177,7 +1177,7 @@ Als du den Kreis drückst, wird der Käfig aktiviert und du trittst hinein.
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Ein anderes Ereignis hat hier stattgefunden. Die Feuerwichte haben viele Menschen über hunderte - sogar tausende - von Jahren getötet. Diese Tode gipfelten in der Erschaffung von etwas, das ein Gemorrn genannt wird, eine Kreatur des reinen Zorns. Der Gemorrn hat seither mit unersättlichen Rachegelüsten, meistens gegen die Wichte, die ihn erschaffen haben, diese Vulkanfelder durchwandert.</DefaultText>
+      <DefaultText>Ein anderes Ereignis hat hier stattgefunden. Die Feuerwichte haben viele Menschen über hunderte – sogar tausende – von Jahren getötet. Diese Tode gipfelten in der Erschaffung von etwas, das ein Gemorrn genannt wird, eine Kreatur des reinen Zorns. Der Gemorrn hat seither mit unersättlichen Rachegelüsten, meistens gegen die Wichte, die ihn erschaffen haben, diese Vulkanfelder durchwandert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1287,26 +1287,26 @@ Sie sind offensichtlich daran interessiert, die Kugel aus irgendeinem Grund zu b
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>Sie schrecken zurück als du den Stab erneut erhebst. Du drückst den Knopf auf der Seite... nichts passiert.
+      <DefaultText>Sie schrecken zurück als du den Stab erneut erhebst. Du drückst den Knopf auf der Seite… nichts passiert.
 
-Zum Glück scheinen die Wichte nicht bemerkt zu haben, dass deine Waffe nur einen Schuss hatte - zumindest noch nicht.
+Zum Glück scheinen die Wichte nicht bemerkt zu haben, dass deine Waffe nur einen Schuss hatte – zumindest noch nicht.
 
 {SOUND: Ineffective weapon click}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
-      <FemaleText>"Wer bist du?"</FemaleText>
+      <DefaultText>„Wer bist du?“</DefaultText>
+      <FemaleText>„Wer bist du?“</FemaleText>
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"Was ist mit dir passiert?"</DefaultText>
+      <DefaultText>„Was ist mit dir passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"Warum kann ich nicht mit dem Mädchen sprechen?"</DefaultText>
+      <DefaultText>„Warum kann ich nicht mit dem Mädchen sprechen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1321,21 +1321,21 @@ Zum Glück scheinen die Wichte nicht bemerkt zu haben, dass deine Waffe nur eine
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Ama?" Die körperlosen Stimmen scheinen nicht ihren Namen zu nennen, sondern Ama zu rufen. "Nein, nicht Ama. Eingeschlossen. Verstoßen. Gefressen, lebendig, und wieder gefressen. Nicht Ama. Futter für Wichte."</DefaultText>
+      <DefaultText>„Ama?“ Die körperlosen Stimmen scheinen nicht ihren Namen zu nennen, sondern Ama zu rufen. „Nein, nicht Ama. Eingeschlossen. Verstoßen. Gefressen, lebendig, und wieder gefressen. Nicht Ama. Futter für Wichte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"Zu Tode begraben. Davor, gelebt. Und davor, gestorben. Und davor gelebt, gestorben, gelebt, gestorben ... So viele Zyklen. So viele Tode."
+      <DefaultText>„Zu Tode begraben. Davor, gelebt. Und davor, gestorben. Und davor gelebt, gestorben, gelebt, gestorben … So viele Zyklen. So viele Tode.“
 
-Die Luft lädt sich auf. Ihre Stimme wird gefährlich leise. "Zuvor jemand anders. Aufgewacht, erinnert. Ein Kampf. Ein Mädchen. Urlimnion."
+Die Luft lädt sich auf. Ihre Stimme wird gefährlich leise. „Zuvor jemand anders. Aufgewacht, erinnert. Ein Kampf. Ein Mädchen. Urlimnion.“
 
 Obwohl du Ama nicht sehen kannst, durchdringt dich ihre Präsenz, bis ins Innerste deines Schädels. Du kannst die weiten Felder erkennen, von denen sie spricht. Das Urlimnion. Eine Sphäre aus poliertem Metall liegt zwischen den Steinen. Und du *weißt*, dass du hier bist, um sie zu finden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Weg. Weg, aber nicht weg." Du zitterst, aber es scheint jemand anders in dir zu sein, der es auslöst. "Sie hat etwas erweckt. Vergeltung. Aber es ist keine in ihr."
+      <DefaultText>„Weg. Weg, aber nicht weg.“ Du zitterst, aber es scheint jemand anders in dir zu sein, der es auslöst. „Sie hat etwas erweckt. Vergeltung. Aber es ist keine in ihr.“
 
 Du spürst, wie Amas Präsenz auf die entfernten Obsidian-Formationen blickt. Dort glüht etwas, nein, es *bewegt* sich etwas.</DefaultText>
       <FemaleText />
@@ -1360,16 +1360,16 @@ Also ziehst du dich in den leuchtenden Turm zurück, der zurück zum Transporter
 
 Der Körper vor dir gehört einer Frau mittleren Alters namens Ama. Die Tote unter der Erde ist ein Mädchen, aber sie ist eigenartig still. Selbst mit deinen seltsamen Kräften gibt es hier nichts, womit man sprechen könnte.
 
-"Frieden", sagt Ama. "Ist es besser? Ja, besser. Besser vergessen."
+„Frieden“, sagt Ama. „Ist es besser? Ja, besser. Besser vergessen.“
 
 {SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Zu Tode begraben. Davor, gelebt. Und davor, gestorben. Und davor gelebt, gestorben, gelebt, gestorben ... So viele Zyklen. So viele Tode."
+      <DefaultText>„Zu Tode begraben. Davor, gelebt. Und davor, gestorben. Und davor gelebt, gestorben, gelebt, gestorben … So viele Zyklen. So viele Tode.“
 
-Die Luft lädt sich auf. Ihre Stimme wird gefährlich leise. "Zuvor jemand anders. Aufgewacht, erinnert. Ein Kampf. Ein Mädchen. Urlimnion."
+Die Luft lädt sich auf. Ihre Stimme wird gefährlich leise. „Zuvor jemand anders. Aufgewacht, erinnert. Ein Kampf. Ein Mädchen. Urlimnion.“
 
 Auch wenn Amas Leiche sich nicht bewegt, spürst du, wie ihre Präsenz dich durchdringt. Sie spricht von der Sphäre, in deren Besitz du mit ihrer Hilfe kommen wolltest.</DefaultText>
       <FemaleText />
@@ -1386,7 +1386,7 @@ Auch wenn Amas Leiche sich nicht bewegt, spürst du, wie ihre Präsenz dich durc
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>Es ist wie eine Lichtsäule mit Klauen. Hunderte von Gesichtern winden sich in seinem Körper – sie dringen heraus, heulen auf und verschmelzen dann wieder mit dem wirbelnden Feuer. Die Kreatur ist gute drei Meter breit und mindestens doppelt so groß. Das Wort "Gemorrn" brodelt in deinem Verstand auf.</DefaultText>
+      <DefaultText>Es ist wie eine Lichtsäule mit Klauen. Hunderte von Gesichtern winden sich in seinem Körper – sie dringen heraus, heulen auf und verschmelzen dann wieder mit dem wirbelnden Feuer. Die Kreatur ist gute drei Meter breit und mindestens doppelt so groß. Das Wort „Gemorrn“ brodelt in deinem Verstand auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1399,9 +1399,9 @@ Auch wenn Amas Leiche sich nicht bewegt, spürst du, wie ihre Präsenz dich durc
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>"Zu Tode begraben. Davor, gelebt. Und davor, gestorben. Und davor gelebt, gestorben, gelebt, gestorben ... So viele Zyklen. So viele Tode."
+      <DefaultText>„Zu Tode begraben. Davor, gelebt. Und davor, gestorben. Und davor gelebt, gestorben, gelebt, gestorben … So viele Zyklen. So viele Tode.“
 
-Die Luft lädt sich auf. Ihre Stimme wird gefährlich leise. "Zuvor jemand anders. Aufgewacht, erinnert. Ein Kampf. Ein Mädchen. Urlimnion."
+Die Luft lädt sich auf. Ihre Stimme wird gefährlich leise. „Zuvor jemand anders. Aufgewacht, erinnert. Ein Kampf. Ein Mädchen. Urlimnion.“
 
 Auch wenn Amas Leiche sich nicht bewegt, spürst du, wie ihre Präsenz dich durchdringt. Plötzlich wird dir klar, dass sie über die Sphäre redet, die sie für dich aufgespürt hat.</DefaultText>
       <FemaleText />
@@ -1423,7 +1423,7 @@ Auch wenn Amas Leiche sich nicht bewegt, spürst du, wie ihre Präsenz dich durc
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>Du machst zwei Schritte auf den Käfig zu, aber in dem Moment, in dem du mit deiner Hand nach ihm greifst, stoppt dich die Chimäre mit einem Bellen. "Was denkst du, was du da tust? Deine Mission ist fehlgeschlagen. Das letzte, was ich will, ist dass du mir da draußen Ärger machst."</DefaultText>
+      <DefaultText>Du machst zwei Schritte auf den Käfig zu, aber in dem Moment, in dem du mit deiner Hand nach ihm greifst, stoppt dich die Chimäre mit einem Bellen. „Was denkst du, was du da tust? Deine Mission ist fehlgeschlagen. Das letzte, was ich will, ist dass du mir da draußen Ärger machst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1462,11 +1462,11 @@ TimerVariableLimit = [Global: MB1_TimerVariable_TooLong]</DefaultText>
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>"Die Resonanzkammer ist nur für eine Sache zu gebrauchen." Er streckt einen Finger aus. "Und zwar um uns auszuspionieren. Der Wandelnde Gott hat vor, sie dazu zu benutzen, um uns alle – alle Verstoßenen, die noch am Leben sind –  wieder mit seinem Körper zu verschmelzen. *Damit* will er den Kummer aufhalten."
+      <DefaultText>„Die Resonanzkammer ist nur für eine Sache zu gebrauchen.“ Er streckt einen Finger aus. „Und zwar um uns auszuspionieren. Der Wandelnde Gott hat vor, sie dazu zu benutzen, um uns alle – alle Verstoßenen, die noch am Leben sind – wieder mit seinem Körper zu verschmelzen. *Damit* will er den Kummer aufhalten.“
 
-Er legt seine fettverschmierte Hand auf deine Schulter. "Pass auf. Ich weiß nicht, wer du bist, oder was du mit dieser Sache zu tun hast ... aber du *kannst* ihn diese Kammer nicht aktivieren lassen. Du musst ..." Sein Blick schweift plötzlich über deine Schultern hinweg in die Höhle. Als du dich umdrehst, kannst du nichts erkennen.
+Er legt seine fettverschmierte Hand auf deine Schulter. „Pass auf. Ich weiß nicht, wer du bist, oder was du mit dieser Sache zu tun hast … aber du *kannst* ihn diese Kammer nicht aktivieren lassen. Du musst …“ Sein Blick schweift plötzlich über deine Schultern hinweg in die Höhle. Als du dich umdrehst, kannst du nichts erkennen.
 
-"Die Erste ist *am Leben*", flüstert er, um deine Aufmerksamkeit wieder zu erlangen. "Und sie hat ihre eigenen Pläne für die Kämmer. Mit denen sie uns nicht umbringen wird."</DefaultText>
+„Die Erste ist *am Leben*“, flüstert er, um deine Aufmerksamkeit wieder zu erlangen. „Und sie hat ihre eigenen Pläne für die Kämmer. Mit denen sie uns nicht umbringen wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1486,22 +1486,22 @@ Er legt seine fettverschmierte Hand auf deine Schulter. "Pass auf. Ich weiß nic
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>Die Chimäre legt einen eisernen Griff um deinen Arm. "Nein."</DefaultText>
+      <DefaultText>Die Chimäre legt einen eisernen Griff um deinen Arm. „Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>Ein Dutzend verschiedener Augen, verengt von Misstrauen. "Nein", sagt er endlich. "Das kann ich nicht erlauben. Ruh dich aus und warte auf weitere Anweisungen."</DefaultText>
+      <DefaultText>Ein Dutzend verschiedener Augen, verengt von Misstrauen. „Nein“, sagt er endlich. „Das kann ich nicht erlauben. Ruh dich aus und warte auf weitere Anweisungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>"Ich bin nicht wirklich Zerian. Ich bin ein neuer Verstoßener und verwende einen Lebensbildbetrachter, um mich hierher zu projizieren. Man hat mir erzählt, dass du die Resonanzkammer reparieren kannst."</DefaultText>
+      <DefaultText>„Ich bin nicht wirklich Zerian. Ich bin ein neuer Verstoßener und verwende einen Lebensbildbetrachter, um mich hierher zu projizieren. Man hat mir erzählt, dass du die Resonanzkammer reparieren kannst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Mazzofs menschliches Auge weitet sich bis zum Anschlag. Sein anderes Auge wechselt blitzartig durch verschiedene Bilder, bis es schließlich bei einem roten Auge mit drei Pupillen stehen bleibt, die dich von oben bis unten betrachten. "Das übertrifft meine Fähigkeiten, und das soll was heißen", sagt er. "Was aber die Resonanzkammer betrifft ... nur der Wandelnde Gott könnte von ihr profitieren. Dieser Bastard hat nur seine eigenen Interessen im Sinn. Du tätest gut daran, keinen Shin auf sein Geschwätz zu geben."</DefaultText>
+      <DefaultText>Mazzofs menschliches Auge weitet sich bis zum Anschlag. Sein anderes Auge wechselt blitzartig durch verschiedene Bilder, bis es schließlich bei einem roten Auge mit drei Pupillen stehen bleibt, die dich von oben bis unten betrachten. „Das übertrifft meine Fähigkeiten, und das soll was heißen“, sagt er. „Was aber die Resonanzkammer betrifft … nur der Wandelnde Gott könnte von ihr profitieren. Dieser Bastard hat nur seine eigenen Interessen im Sinn. Du tätest gut daran, keinen Shin auf sein Geschwätz zu geben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
