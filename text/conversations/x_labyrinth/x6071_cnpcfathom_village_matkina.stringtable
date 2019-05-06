@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Matkina hält ihre Waffen fest und schreit.
 
-Als du dich näherst, festigen sich die Schatten um sie herum. Sie erlebt wieder die Schrecken des Überfalls auf Kholn, und einen Moment lang bist du mit ihr dort. Die Miliz der Erstenschlägt mit ihren Waffen um sich und die Dorfbewohner verwandeln sich wider in monströse Formen. Ihre Waffen haben keine Wirkung, und ihre sterbenden Freunde verlieren Blut, das um ihre Stiefel fließt.</DefaultText>
+Als du dich näherst, festigen sich die Schatten um sie herum. Sie erlebt wieder die Schrecken des Überfalls auf Kholn, und einen Moment lang bist du mit ihr dort. Die Miliz der Ersten schlägt mit ihren Waffen um sich und die Dorfbewohner verwandeln sich wider in monströse Formen. Ihre Waffen haben keine Wirkung, und ihre sterbenden Freunde verlieren Blut, das um ihre Stiefel fließt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@ Sie murmelt und winseln, als ob sie in einem lebendigen Traum gefangen wäre, un
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ich brauche so viel Hilfe, wie ich bekommen kann, für das, was als nächstes kommt."</DefaultText>
+      <DefaultText>"Ich brauche so viel Hilfe, wie ich bekommen kann, für das, was als Nächstes kommt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,7 +178,7 @@ Sie lacht. "Von mir aus."</DefaultText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Ihre Augen focussieren auf die Geister ihrer Vergangenheit, und sie füllen sich mit Wut. "Ja. Wir werden sie ausweiden und für die Laaks zurücklassen."</DefaultText>
+      <DefaultText>Ihre Augen fokussieren auf die Geister ihrer Vergangenheit, und sie füllen sich mit Wut. "Ja. Wir werden sie ausweiden und für die Laaks zurücklassen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,7 +188,7 @@ Sie lacht. "Von mir aus."</DefaultText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Uns aufteilen und das Gebiet durchsuchen? Guter Plan. Wenn ... wenn ich dich nicht wiedersehe ... lebewohl."</DefaultText>
+      <DefaultText>"Uns aufteilen und das Gebiet durchsuchen? Guter Plan. Wenn... wenn ich dich nicht wiedersehe... Lebewohl."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -285,12 +285,12 @@ Sie lacht. "Von mir aus."</DefaultText>
       <ID>57</ID>
       <DefaultText>Du legst deine Hand auf ihre Schulter, um sie zu schubsen, und sie schlägt aus, schnell wie ein Blitz. Du ziehst gerade schnell genug deine Hand zurück.
 
-"Kommt schon, ihr Feiglinge!" scheit sie. "Kommt und kämpft! Kommt und *sterbt* für das, was ihr getan habt!"</DefaultText>
+"Kommt schon, ihr Feiglinge!", schreit sie. "Kommt und kämpft! Kommt und *sterbt* für das, was ihr getan habt!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Du schreckt dich nochmal aus, und ziehst dich gerade schnell genug zurück, um ihrer Klinge zu entwischen. Das funktioniert nicht. Du brauchst vielleicht noch zusätzlich Hilfe, um sie da herauszubekommen.</DefaultText>
+      <DefaultText>Du schreckst dich nochmal aus, und ziehst dich gerade schnell genug zurück, um ihrer Klinge zu entwischen. Das funktioniert nicht. Du brauchst vielleicht noch zusätzlich Hilfe, um sie da herauszubekommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -355,12 +355,12 @@ Sie schaut um sich zu den Schatten, die du kaum sehen kannst. "Sie sind alle tot
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Nein!" Er schlägt nach dir aus - nicht annähernd genug, um dir zu Schaden, aber genung, um dich dacon abzuhalten, was du zu tun versuchst. "Verschwinde! Du bist *nicht ich!*"</DefaultText>
+      <DefaultText>"Nein!" Er schlägt nach dir aus - nicht annähernd genug, um dir zu Schaden, aber genug, um dich davon abzuhalten, was du zu tun versuchst. "Verschwinde! Du bist *nicht ich!*"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Er schlägt erneut aus, und hält dich davon ab, näher an Matkina heran zu kommen. Du wirst zuerst mit ihm fertig werden müssen.</DefaultText>
+      <DefaultText>Er schlägt erneut aus, und hält dich davon ab, näher an Matkina heranzukommen. Du wirst zuerst mit ihm fertig werden müssen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -432,7 +432,7 @@ Vielleicht musst du zu einem ihrer Gegner werden.</DefaultText>
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Tash ist fort," murmelt sie vor sich hin. "Ich habe ihn getötet. Da bin ich mir *sicher*... *Warum ist er also immer noch hier?*"
+      <DefaultText>"Tash ist fort", murmelt sie vor sich hin. "Ich habe ihn getötet. Da bin ich mir *sicher*... *Warum ist er also immer noch hier?*"
 
 Sie ist sich deiner Worte nur kaum bewusst, nicht genug, um das zu ändern, was sie sieht. Ihre Qual ist besonders stark. Du wirst mehr Hilfe brauchen, um sie da herauszubekommen.</DefaultText>
       <FemaleText />

@@ -63,7 +63,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Jetzt erkennst du, dass es sich um einen gewaltigen Mega-Kontinent handeln muss, nur eine nennenswerte Landmasse, jedenfalls auf dieser Seite der Welt. Große Seen und Flüsse durchziehen das Land, und Bergketten, die auf sonderbare Weise gleichförmig wirken. Es scheint, als fielest du auf eine große Bucht zu, an ihre nördliche Küste schmiegt sich eine ausladende Stadt.</DefaultText>
+      <DefaultText>Jetzt erkennst du, dass es sich um einen gewaltigen Mega-Kontinent handeln muss, nur eine nennenswerte Landmasse, jedenfalls auf dieser Seite der Welt. Große Seen und Flüsse durchziehen das Land und Bergketten, die auf sonderbare Weise gleichförmig wirken. Es scheint, als fielest du auf eine große Bucht zu, an ihre nördliche Küste schmiegt sich eine ausladende Stadt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,7 +93,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Etwas Uraltes und Kaltes, seine zusammengerollte Macht ein Versprechen: Vergessen. Seine schattenhaften Ranken schnappten nach dir; wo sie einschlugen, rissen sie die Wand auseinander, Zerstörung ohne jede Hoffnung, ohne jede Aussicht auf eine Reparatur. Du bist in eine Fluchtkapsel gesprungen und dann gefallen … vom Mond? … und dann warst du leer. Aber wer warst du? Und was war diese Kreatur? Ein Wort steigt in deinen Gedanken auf, und du greifst danach, bevor es verschwinden kann: Kummer.</DefaultText>
+      <DefaultText>Etwas Uraltes und Kaltes, seine zusammengerollte Macht ein Versprechen: Vergessen. Seine schattenhaften Ranken schnappten nach dir; wo sie einschlugen, rissen sie die Wand auseinander, Zerstörung ohne jede Hoffnung, ohne jede Aussicht auf eine Reparatur. Du bist in eine Fluchtkapsel gesprungen und dann gefallen … vom Mond? … und dann warst du leer. Aber wer warst du? Und was war diese Kreatur? Ein Wort steigt in deinen Gedanken auf und du greifst danach, bevor es verschwinden kann: Kummer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Du breitest deine Arme und Beine aus, und sie reagieren geschmeidig - es ist ein seltsames Gefühl, als dir bewusst wird, dass dieser Körper neu für dich ist. Du drehst und wirbelst dich nicht mehr. Der Wind heult immer noch in deinen Ohren, ein gewaltiges Brüllen, das einen Teil deines neugeborenen Verstandes betäubt. Unwillkürlich treten dir Tränen in die Augen, die gleich vom Wind davongerissen werden. Die Feuchtigkeit verschleiert deine Sehkraft, aber mit etwas Anstrengung könntest du in der Lage sein, mehr Details dieser Welt zu erkennen.</DefaultText>
+      <DefaultText>Du breitest deine Arme und Beine aus und sie reagieren geschmeidig - es ist ein seltsames Gefühl, als dir bewusst wird, dass dieser Körper neu für dich ist. Du drehst und wirbelst dich nicht mehr. Der Wind heult immer noch in deinen Ohren, ein gewaltiges Brüllen, das einen Teil deines neugeborenen Verstandes betäubt. Unwillkürlich treten dir Tränen in die Augen, die gleich vom Wind davongerissen werden. Die Feuchtigkeit verschleiert deine Sehkraft, aber mit etwas Anstrengung könntest du in der Lage sein, mehr Details dieser Welt zu erkennen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,7 +128,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Du presst die Arme an deine Hüfte, und der monströse Wind wirft dir die Füße über den Kopf. Noch ein kleiner Purzelbaum, dann kannst du dich wieder orientieren, schießt wie ein Pfeil der Erde entgegen. Die unglaubliche Kälte des Windes krallt sich in deine Haut, und die Geschwindigkeit zwingt dich dazu, deine Augen geschlossen zu halten.</DefaultText>
+      <DefaultText>Du presst die Arme an deine Hüfte und der monströse Wind wirft dir die Füße über den Kopf. Noch ein kleiner Purzelbaum, dann kannst du dich wieder orientieren, schießt wie ein Pfeil der Erde entgegen. Die unglaubliche Kälte des Windes krallt sich in deine Haut und die Geschwindigkeit zwingt dich dazu, deine Augen geschlossen zu halten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,7 +178,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Dein ausgestreckter Körper trägt etwas, das wie ein Anzug aussieht, schwarz und eng anliegend. Deine Haut ist hellbraun, und du hast offenbar fünf Finger an jeder Hand. Du spürst gute Muskeln - trainiert, nicht massig -, sie helfen dir dabei, den Fall zu kontrollieren. Noch genauer kannst du diesen Körper nicht betrachten, ohne jene geringe Stabilität zu verlieren, die du gerade erst erlangt hast.</DefaultText>
+      <DefaultText>Dein ausgestreckter Körper trägt etwas, das wie ein Anzug aussieht, schwarz und eng anliegend. Deine Haut ist hellbraun und du hast offenbar fünf Finger an jeder Hand. Du spürst gute Muskeln - trainiert, nicht massig -, sie helfen dir dabei, den Fall zu kontrollieren. Noch genauer kannst du diesen Körper nicht betrachten, ohne jene geringe Stabilität zu verlieren, die du gerade erst erlangt hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -517,7 +517,7 @@ Du fällst.
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Du erhebst deinen Kopf, ein schweres Gewicht drückt auf deinen Nacken und du kämpfst darum deine Augen offen zu halten. Dein neues Bewusstsein *flackert*, und du hast das Gefühl das Zeit verstrichen ist. Es ist schwierig, so schwierig, wach zu bleiben.</DefaultText>
+      <DefaultText>Du erhebst deinen Kopf, ein schweres Gewicht drückt auf deinen Nacken und du kämpfst darum deine Augen offenzuhalten. Dein neues Bewusstsein *flackert*, und du hast das Gefühl, dass Zeit verstrichen ist. Es ist schwierig, so schwierig, wach zu bleiben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

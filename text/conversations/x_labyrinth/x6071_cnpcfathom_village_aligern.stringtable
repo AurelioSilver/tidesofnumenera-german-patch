@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Als du dich näherst, siehst du Aligern, wie er in einem endlosen Zyklus einer sich ewig wiederholenden Folter gesperrt ist. Der Schatten eines schwarzen, metallernen Rahmens ragt hinter ihm, und eine Flut aus nachtschwarzen Monster gießen sich davon aus, mit roten Augen und Zähnen. Schattenhaftige Dorfbewohner taumeln und scheien, als die Monster sich auf sei heften. Ihre Gesichter werden einen Moment lang deutlich, Qual und Furcht sind ihre entscheidenden Züge.
+      <DefaultText>Als du dich näherst, siehst du Aligern, wie er in einem endlosen Zyklus einer sich ewig wiederholenden Folter gesperrt ist. Der Schatten eines schwarzen, metallenen Rahmens ragt hinter ihm, und eine Flut aus nachtschwarzen Monster gießen sich davon aus, mit roten Augen und Zähnen. Schattenhafte Dorfbewohner taumeln und schreien, als die Monster sich auf sie heften. Ihre Gesichter werden einen Moment lang deutlich, Qual und Furcht sind ihre entscheidenden Züge.
 
 Zwei fallen auf - eine Frau und ihre Tochter.
 
@@ -17,7 +17,7 @@ Aligern schluchzt, hilflos. Die Kreaturen rücken näher.</DefaultText>
       <ID>2</ID>
       <DefaultText>Er steht auf und öffnet seine Augen, und die tiefschwarzen Kreaturen schwinden. Die Dorfbewohner verschwinden. Als letztes verschwinden seine Frau und seine Tochter. Er streckt die Hand zu ihnen aus, als ob der Rauch berühren könnte, und die Tätowierungen auf seinem Arm brennen und fauchen. Sobald die Vision gänzlich schwindet, lässt er seine Hand fallen und weint.
 
-Nach einer Zeit trocknet er sein Gesicht, und die altbekannte Verbitterung sind wieder seinen Platz ein. "Danke, schätze ich. Was nun?"</DefaultText>
+Nach einer Zeit trocknet er sein Gesicht, und die altbekannte Verbitterung ist wieder seinen Platz ein. "Danke, schätze ich. Was nun?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,7 +123,7 @@ Er lacht erfreut. "Ich kenne euch alle!" Er reicht in seine Haut hinein und hebt
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Du kannst zu einem Ort namens die Stille reisen, Dort solltest du in Sicherheit sein."</DefaultText>
+      <DefaultText>"Du kannst zu einem Ort namens die Stille reisen, dort solltest du in Sicherheit sein."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,7 +200,7 @@ Er wendet sich und pirscht davon.</DefaultText>
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"... Es tut mir Leid, dass ich es nicht früher wusste. Ich hätte einen Weg finden sollen. Ich..."</DefaultText>
+      <DefaultText>"... Es tut mir leid, dass ich es nicht früher wusste. Ich hätte einen Weg finden sollen. Ich..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -259,7 +259,7 @@ Er schluckt tief. "Danke dir, Freund. Danke. Also. Was nun?"</DefaultText>
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ich leide," krächzt er. "Ich leide in der Hölle, die ich mir selber gebaut habe."</DefaultText>
+      <DefaultText>"Ich leide", krächzt er. "Ich leide in der Hölle, die ich mir selber gebaut habe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -13,13 +13,13 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich glaube nicht." Die zweite Gestalt ist groß gewachsen und ganz in schwarz gekleidet. Ein Kamm an ihrem Kopf, wie Fische ihn auch haben, lässt ihn noch größer wirken. Er kneift die großen gelben Augen zusammen und sieht sich um. "Da war ein Mann *vor* der Uhr, aber es war nicht -"</DefaultText>
+      <DefaultText>"Ich glaube nicht." Die zweite Gestalt ist groß gewachsen und ganz in Schwarz gekleidet. Ein Kamm an ihrem Kopf, wie Fische ihn auch haben, lässt ihn noch größer wirken. Er kneift die großen gelben Augen zusammen und sieht sich um. "Da war ein Mann *vor* der Uhr, aber es war nicht -"</DefaultText>
       <FemaleText>"Ich glaube nicht." Die zweite Gestalt ist groß gewachsen und ganz in Schwarz gekleidet. Ein Kamm an ihrem Kopf, wie Fische ihn auch haben, lässt ihn noch größer wirken. Er kneift die großen gelben Augen zusammen und sieht sich um. "Da war eine Frau *vor* der Uhr, aber es war nicht -"</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Er war's." Die dritte Gestalt zeigt auf dich. Er ist ein drahtiger kleiner Mann, der sich bückt als drohe Gefahr. Er trägt einen Schild. "Er ist ein Verstoßener", sagt er mit einem Blick auf deine Tätowierung. "Allerdings kenne ich ihn nicht."</DefaultText>
-      <FemaleText>"Sie war's." Die dritte Gestalt zeigt auf dich. Er ist ein drahtiger kleiner Mann, der sich bückt als drohe Gefahr. Er trägt einen Schild. "Sie ist eine Verstoßene", sagt er mit einem Blick auf deine Tätowierung. "Allerdings kenne ich sie nicht."</FemaleText>
+      <DefaultText>"Er war's." Die dritte Gestalt zeigt auf dich. Er ist ein drahtiger kleiner Mann, der sich bückt, als drohe Gefahr. Er trägt einen Schild. "Er ist ein Verstoßener", sagt er mit einem Blick auf deine Tätowierung. "Allerdings kenne ich ihn nicht."</DefaultText>
+      <FemaleText>"Sie war's." Die dritte Gestalt zeigt auf dich. Er ist ein drahtiger kleiner Mann, der sich bückt, als drohe Gefahr. Er trägt einen Schild. "Sie ist eine Verstoßene", sagt er mit einem Blick auf deine Tätowierung. "Allerdings kenne ich sie nicht."</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -93,7 +93,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Moment mal. Jahrhunderte? Ich dachte es wäre erst Tage her, dass er uns in der Uhr eingeschlossen hat."</DefaultText>
+      <DefaultText>"Moment mal. Jahrhunderte? Ich dachte, es wäre erst Tage her, dass er uns in der Uhr eingeschlossen hat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -187,8 +187,8 @@ Er packt dich bei den Schultern. "*Du* hast das getan. Wenn das dein Geist ist, 
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Hallo Bruder. Hast du etwas Neues über unsere missliche Lage in Erfahrung bringen können?"</DefaultText>
-      <FemaleText>"Hallo Schwester. Hast du etwas Neues über unsere missliche Lage in Erfahrung bringen können?"</FemaleText>
+      <DefaultText>"Hallo, Bruder. Hast du etwas Neues über unsere missliche Lage in Erfahrung bringen können?"</DefaultText>
+      <FemaleText>"Hallo, Schwester. Hast du etwas Neues über unsere missliche Lage in Erfahrung bringen können?"</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -204,7 +204,7 @@ Er packt dich bei den Schultern. "*Du* hast das getan. Wenn das dein Geist ist, 
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Damit will er sagen, dass dieser Ort für deinen Körper gemacht wurde - oder vielleicht *von* deinem Körper. Unser Erzeuger hat uns allen einzigartige Talente und Fähigkeiten mitgegeben. Ich habe zum Beispiel noch nie von einem Verstoßenen gehört, der Geister einfangen kann wie du es kannst."
+      <DefaultText>"Damit will er sagen, dass dieser Ort für deinen Körper gemacht wurde - oder vielleicht *von* deinem Körper. Unser Erzeuger hat uns allen einzigartige Talente und Fähigkeiten mitgegeben. Ich habe zum Beispiel noch nie von einem Verstoßenen gehört, der Geister einfangen kann, wie du es kannst."
 
 Sie schenkt dir ein warmes Lächeln. "Er hätte diesen Ort nicht für dich geschaffen, ohne dir die Mittel zu geben, um dich hier zu bewegen. Denk nach. Welche Talente hat unser Schöpfer dir *noch* mitgegeben?"</DefaultText>
       <FemaleText />
@@ -221,7 +221,7 @@ Sie schenkt dir ein warmes Lächeln. "Er hätte diesen Ort nicht für dich gesch
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ich seh mich noch ein wenig um. Lebt wohl."</DefaultText>
+      <DefaultText>"Ich sehe mich noch ein wenig um. Lebt wohl."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@ Sie schenkt dir ein warmes Lächeln. "Er hätte diesen Ort nicht für dich gesch
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Sie lacht breit und freundlich. "Natürlich.  Man sieht sofort, dass wir vom selben Schlag sind."</DefaultText>
+      <DefaultText>Sie lacht breit und freundlich. "Natürlich. Man sieht sofort, dass wir vom selben Schlag sind."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,7 +295,7 @@ Sie schenkt dir ein warmes Lächeln. "Er hätte diesen Ort nicht für dich gesch
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Diviaticu schüttelt den Kopf. "Ich sehe, wovon du sprichst", sagt er und du hast für einen Moment das Gefühl, als könnte er in dein *Innerstes* sehen. "Dieser Aspekt beschreibt dich bloß - so wie ich Varjellen bin, Villon aufmerksam und Kamose töricht."</DefaultText>
+      <DefaultText>Diviaticu schüttelt den Kopf. "Ich sehe, wovon du sprichst", sagt er und du hast für einen Moment das Gefühl, als könnte er in dein *innerstes* sehen. "Dieser Aspekt beschreibt dich bloß - so wie ich Varjellen bin, Villon aufmerksam und Kamose töricht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -317,12 +317,12 @@ Er sieht ihren verletzten Blick und hebt beschwichtigend die Hände. "Es ist die
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Ich fürchte ich habe die Fähigkeit nicht, von der ihr sprecht."</DefaultText>
+      <DefaultText>"Ich fürchte, ich habe die Fähigkeit nicht, von der ihr sprecht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Sie legt aufmunternd die Hand auf deine Schulter. "Die Gabe steckt in dir. Vielleicht hast du sie nur vergessen. Unser Erzeuger hätte diesen Ort nicht für dich geschaffen, ohne dir die Fähigkeit zu geben, ihm zu entkommen. Konzentrier dich. Finde die Antwort in dir."</DefaultText>
+      <DefaultText>Sie legt aufmunternd die Hand auf deine Schulter. "Die Gabe steckt in dir. Vielleicht hast du sie nur vergessen. Unser Erzeuger hätte diesen Ort nicht für dich geschaffen, ohne dir die Fähigkeit zu geben, ihm zu entkommen. Konzentriere dich. Finde die Antwort in dir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,12 +351,12 @@ Sie hält sich die Hand an die Brust. "Mir sagt man zum Beispiel nach, dass ich 
       <ID>67</ID>
       <DefaultText>Du durchkämmst deine Erinnerungen - nicht nur jene, an die *du* dich erinnerst, sondern auch jene, die nicht von dir selbst stammen. Es muss darin einen Schlüssel oder eine Tür geben - irgendetwas, das dir hilft, aus dieser Tiefe deines Geistes zu entkommen.
 
-Als du schon kurz davor bist, aufzugeben, findest du etwas: Eine Ansammlung von Funken, aufkeimende Fähigkeiten tief im Kern deines Geistes. Du fühlst die Fähigkeiten der eloquenten Rede, der Meisterschaft mit dem Schild und des Zuhauseseins in den Schatten...</DefaultText>
+Als du schon kurz davor bist, aufzugeben, findest du etwas: Eine Ansammlung von Funken, aufkeimende Fähigkeiten tief im Kern deines Geistes. Du fühlst die Fähigkeiten der eloquenten Rede, der Meisterschaft mit dem Schild und des Zuhause seins in den Schatten...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Keine dieser Fähigkeiten scheint speziell dafür geeignet zu sein, dir einen Ausweg aus diesem Ort zu bahnen. Doch als du sie durchgehst, *weißt* du, dass deine Gefangenschaft hier kein Rätsel ist, das dein Erzeuger dir zu lösen gegeben hat, sondern daran liegt, dass du noch *unvollständig* bist. Dies ist ein weiterer Teil - der letzte -, der bestimmt, wer du bist. Indem du deine Persönlichkeit vervollständigst, wirst du in der Lage sein, dir einen Weg zurück zur Sille deines Geistes zu bahnen.
+      <DefaultText>Keine dieser Fähigkeiten scheint speziell dafür geeignet zu sein, dir einen Ausweg aus diesem Ort zu bahnen. Doch als du sie durchgehst, *weißt* du, dass deine Gefangenschaft hier kein Rätsel ist, das dein Erzeuger dir zu lösen gegeben hat, sondern daran liegt, dass du noch *unvollständig* bist. Dies ist ein weiterer Teil - der letzte -, der bestimmt, wer du bist. Indem du deine Persönlichkeit vervollständigst, wirst du in der Lage sein, dir einen Weg zurück zur Stille deines Geistes zu bahnen.
 
 {Unlock first set of Foci}
 {Open Character screen to choose Focus}
@@ -411,10 +411,10 @@ Als du schon kurz davor bist, aufzugeben, findest du etwas: Eine Ansammlung von 
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Sie legt eine Hand auf deine Schulter. Du kannst sie spüren, aber kaum noch sehen. "Lebwohl, Freund Bruder. Ich weiß nicht, wann wir uns wiedersehen, aber bis dahin-"
+      <DefaultText>Sie legt eine Hand auf deine Schulter. Du kannst sie spüren, aber kaum noch sehen. "Lebewohl, Freund Bruder. Ich weiß nicht, wann wir uns wiedersehen, aber bis dahin-"
 
 Dann sind sie verschwunden und du bist allein.</DefaultText>
-      <FemaleText>Sie legt eine Hand auf deine Schulter. Du kannst sie spüren, aber kaum noch sehen. "Lebwohl, Freundin Schwester. Ich weiß nicht, wann wir uns wiedersehen, aber bis dahin-"
+      <FemaleText>Sie legt eine Hand auf deine Schulter. Du kannst sie spüren, aber kaum noch sehen. "Lebewohl, Freundin Schwester. Ich weiß nicht, wann wir uns wiedersehen, aber bis dahin-"
 
 Dann sind sie verschwunden und du bist allein.</FemaleText>
     </Entry>
@@ -617,13 +617,13 @@ Und dann sind sie verschwunden und du bist allein.</DefaultText>
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Was ist uns widerfahren?" Die Frau ist in einer starkaussehenden Rüstung gekleidet. Ihr Gesicht hält mehrere Narben, doch ihre Augen haben die Unschuld eines Kindes. "Hat *er* etwas getan? Sind wir immer noch in der Uhr?"</DefaultText>
+      <DefaultText>"Was ist uns widerfahren?" Die Frau ist in einer stark aussehenden Rüstung gekleidet. Ihr Gesicht hält mehrere Narben, doch ihre Augen haben die Unschuld eines Kindes. "Hat *er* etwas getan? Sind wir immer noch in der Uhr?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Hallo Bruder. Hast du etwas Neues über unsere missliche Lage in Erfahrung bringen können?"</DefaultText>
-      <FemaleText>"Hallo Schwester. Hast du etwas Neues über unsere missliche Lage in Erfahrung bringen können?"</FemaleText>
+      <DefaultText>"Hallo, Bruder. Hast du etwas Neues über unsere missliche Lage in Erfahrung bringen können?"</DefaultText>
+      <FemaleText>"Hallo, Schwester. Hast du etwas Neues über unsere missliche Lage in Erfahrung bringen können?"</FemaleText>
     </Entry>
     <Entry>
       <ID>117</ID>

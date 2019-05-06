@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Du setzt deine Hände auf den eisigen Boden und stemmst dich auf die Füße. Jeder Teil deines Körpers schmerzt, als würdest du von einer massiven Hand zerdrückt.
 
-Der Geist steht vor dir, teilnahmslos. Es könnte nur Einbildung sein, aber er schein solider als zuvor.
+Der Geist steht vor dir, teilnahmslos. Es könnte nur Einbildung sein, aber er scheint solider als zuvor.
 
 {GAVIN: Polish task: Consider adding options to the battle that the Specter can turn against you, strengthening him.}</DefaultText>
       <FemaleText />
@@ -82,7 +82,7 @@ Du hörst ihn kaum durch den Schmerz.</DefaultText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich bin nicht überrascht", sagt er, und sein Umriss flackert. "Manche von ihnen machen skeptische Laute, aber sie *wollten* immer glauben, dass ich zu ihnen zurückkehre. Jeder Scharlatan mit einer hastiggemalten Tätowierung und einer glaubwürdigen Geschichte könnte sie davon überzeugen, dass sie ich seien."
+      <DefaultText>"Ich bin nicht überrascht", sagt er, und sein Umriss flackert. "Manche von ihnen machen skeptische Laute, aber sie *wollten* immer glauben, dass ich zu ihnen zurückkehre. Jeder Scharlatan mit einer hastig gemalten Tätowierung und einer glaubwürdigen Geschichte könnte sie davon überzeugen, dass sie ich seien."
 
 Er gibt dir ein freundliches Lächeln. "Aber wir wissen beide, dass du *nicht* der Wandelnde Gott bist, stimmt's?"</DefaultText>
       <FemaleText />
@@ -99,7 +99,7 @@ Er gibt dir ein freundliches Lächeln. "Aber wir wissen beide, dass du *nicht* d
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Vielleicht nicht," gibt er zu. "Aber als du im Labyrinth landetest, brauchte ich dich zum *handeln*, nicht zum Fragen stellen. Der Kummer war genau hinter dir."
+      <DefaultText>"Vielleicht nicht", gibt er zu. "Aber als du im Labyrinth landetest, brauchte ich dich zum *handeln*, nicht zum Fragen stellen. Der Kummer war genau hinter dir."
 
 Er zuckt mit den Schultern. "Aber jetzt bleiben wir bei der Wahrheit, egal, wie unfair es dir erscheint. Ich *bin* der Wandelnde Gott."</DefaultText>
       <FemaleText />
@@ -111,7 +111,7 @@ Er zuckt mit den Schultern. "Aber jetzt bleiben wir bei der Wahrheit, egal, wie 
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Aber das ist *dein* Verstand, in deinem Duell mit Malaise gehont. Zu einer glänzenden Klinge geschärft.
+      <DefaultText>Aber das ist *dein* Verstand, in deinem Duell mit Malaise geschliffen. Zu einer glänzenden Klinge geschärft.
 
 Du atmest ein, beseitigst den Schmerz von deinen Gliedmaßen, und sammelst deine Gedanken zu dir. Fokussierend öffnest du deine Augen.
 
@@ -120,7 +120,7 @@ Der Geist, nun leicht durchsichtig, spricht wieder.</DefaultText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Aber das ist *dein* Verstand, in der psychischen Schlacht, die du zusammen mit den Kriegern des Fünften Auges gekämpft hast, gehont. Zu einer glänzenden Klinge geschärft.
+      <DefaultText>Aber das ist *dein* Verstand, in der psychischen Schlacht, die du zusammen mit den Kriegern des Fünften Auges gekämpft hast, geschärft. Zu einer glänzenden Klinge geschärft.
 
 Du atmest ein, beseitigst den Schmerz von deinen Gliedmaßen, und sammelst deine Gedanken zu dir. Fokussierend öffnest du deine Augen.
 
@@ -159,7 +159,7 @@ Der Geist, nun leicht durchsichtig, spricht wieder.</DefaultText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Das könnten sie," erlaubt der Geist, und sein Umriss festigt sich. "Aber ich denke auch nicht, dass sie glauben, dass *du* der Wandelnde Gott bist, oder?"
+      <DefaultText>"Das könnten sie", erlaubt der Geist, und sein Umriss festigt sich. "Aber ich denke auch nicht, dass sie glauben, dass *du* der Wandelnde Gott bist, oder?"
 
 Er fokussiert seinen Blick in die Luft, ein bedauerndes Lächeln auf seinen Lippen. "Ach herrje. Sie haben deine dürftigen Lügen durchschaut, nicht wahr?"</DefaultText>
       <FemaleText />
@@ -208,7 +208,7 @@ Er breitet seine Hände aus. "Und das wär's schon. Nun. Gib mir meinen Körper 
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Er hat gelogen. Der Schmerz ist furchtbar. Weltzerbrechend. Jede Erinnerung, die du in deinem kurzen Leben dir angeeignet hast wird untersucht, auseinandergerissen und weggeschmissen. Du schwindest, während er expandiert, und die Ecken deines Körpers füllt, die einst dein war.
+      <DefaultText>Er hat gelogen. Der Schmerz ist furchtbar. Welt zerbrechend. Jede Erinnerung, die du in deinem kurzen Leben dir angeeignet hast, wird untersucht, auseinandergerissen und weggeschmissen. Du schwindest, während er expandiert, und die Ecken deines Körpers füllt, die einst dein war.
 
 Und ja, er hat gelogen. Du bist nicht mit ihm verschmolzen. Du hast nicht Vergessenheit gefunden. Du lebst weiter, mundlos, verstandlos, ein hilfloser Zeuge der Verbrechen, die er mit deinen Händen begeht.
 {SOUND: Spell effects. See above.}</DefaultText>
@@ -346,7 +346,7 @@ Die Augen des Geistes verengen sich.</DefaultText>
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ich fand das Buch der Singenden Dornen und las die Inschrift. Du bist weit davon abgefallen, wo du begonnen hast."</DefaultText>
+      <DefaultText>"Ich fand das Buch der singenden Dornen und las die Inschrift. Du bist weit davon abgefallen, wo du begonnen hast."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -403,7 +403,7 @@ Die Augen des Geistes verengen sich.</DefaultText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Deine Füße freizerren.</DefaultText>
+      <DefaultText>Deine Füße frei zerren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -413,7 +413,7 @@ Die Augen des Geistes verengen sich.</DefaultText>
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Von der Vertiefung deines Verstandes nochmal nach der geisterhafte Frau ausrufen.</DefaultText>
+      <DefaultText>Von der Vertiefung deines Verstandes nochmal nach der geisterhaften Frau ausrufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -442,7 +442,7 @@ Die Augen des Geistes verengen sich.</DefaultText>
       <ID>82</ID>
       <DefaultText>Die Augen des Geistes weiten sich während dich aufrichtest, und die Fäden der Gezeiten in deinen Händen sammelst. Du streckst sie empor.
 
-"Tu es nicht," brummt der Geist, aber du ignorierst ihn und reißt die Fäden auseinander. Qual explodiert in deinem Verstand und schlägt durch deinen Körper, was essentielle Teile von dir schadet...
+"Tu es nicht", brummt der Geist, aber du ignorierst ihn und reißt die Fäden auseinander. Qual explodiert in deinem Verstand und schlägt durch deinen Körper, was essenzielle Teile von dir schadet...
 
 ...und dem Geist ebenfalls.</DefaultText>
       <FemaleText />
@@ -471,7 +471,7 @@ Mürrisch schnippt der Geist in einer abweisenden Geste seine Hand zur Seite. Si
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Ihre Prophezeihung erblüht in deinem Verstand, ein glänzendes, silbernes Netz aus Leben und Möglichkeiten. Gewissheit füllt die wie Rüstung. Dieser Moment ist kein Zufall. Das der Ort und die Zeit, wofür du bestimmt warst.
+      <DefaultText>Ihre Prophezeiung erblüht in deinem Verstand, ein glänzendes, silbernes Netz aus Leben und Möglichkeiten. Gewissheit füllt die wie Rüstung. Dieser Moment ist kein Zufall. Das ist der Ort und die Zeit, für die du bestimmt warst.
 
 Dir gegenüber schreckt der Geist zurück.</DefaultText>
       <FemaleText />
@@ -522,7 +522,7 @@ Dann blickt er hinauf, überrascht, dass du ihn gehört hast. Dieser Moment der 
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Eine Lüge", sagt er während sein Umriss flackert. "Ich bin nicht einfach nur eine Reflektion. Ich *verbarg* meine Gedanken vor dir."</DefaultText>
+      <DefaultText>"Eine Lüge", sagt er, während sein Umriss flackert. "Ich bin nicht einfach nur eine Reflexion. Ich *verbarg* meine Gedanken vor dir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -557,7 +557,7 @@ Dann blickt er hinauf, überrascht, dass du ihn gehört hast. Dieser Moment der 
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Du schließt deine Augen, und einen Moment lang - eine herrliche, flüchtige Sekunde lang - spürst du, wie der Druck nachlässt, als ob der Verstand des Geistes ein Sturm ist, der gegen die Wände einer hastiggebauten Unterkunft schlägt.
+      <DefaultText>Du schließt deine Augen, und einen Moment lang - eine herrliche, flüchtige Sekunde lang - spürst du, wie der Druck nachlässt, als ob der Verstand des Geistes ein Sturm ist, der gegen die Wände einer hastig gebauten Unterkunft schlägt.
 
 Du denkst zurück, wanderst durch die Entscheidungen, die du trafst, seitdem du mitten in der Luft geboren wurdest, und bemerkst zwei Sachen - es waren die richtigen Entscheidungen für die Zeit, und keine von ihnen wird dir hier und jetzt weiterhelfen.
 
@@ -571,14 +571,14 @@ Und damit durchdringt der Verstand des Geistes wieder deine Verteidigungen.</Def
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Sein Gesichtsaudruck festigt sich.
+      <DefaultText>Sein Gesichtsausdruck festigt sich.
 
 "So lange wirst du nicht mehr leben. In ein paar Minuten bleibt von deinem Verstand nichts mehr als Gedankenfetzen, die in der Luft verschwimmen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Oder vielleicht denkst du, dass meine Erste Verstoßene einen besseren Weg hat, hmm? Irgendeine magische Lösung, ohne Preis deine falsche Existenz auszuleben? Ich verspreche dir, so etwas gibt es nicht. Sie hat schon immer nur geötetet, um das zu bekommen, was sie will. Ihr Selbstinteresse ist genauso stark wie unserer. Der einzige Unterschied zwischen uns dreien ist, dass *ich* echt bin."</DefaultText>
+      <DefaultText>"Oder vielleicht denkst du, dass meine Erste Verstoßene einen besseren Weg hat, hmm? Irgendeine magische Lösung, ohne Preis deine falsche Existenz auszuleben? Ich verspreche dir, so etwas gibt es nicht. Sie hat schon immer nur getötet, um das zu bekommen, was sie will. Ihr Selbstinteresse ist genauso stark wie unserer. Der einzige Unterschied zwischen uns dreien ist, dass *ich* echt bin."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

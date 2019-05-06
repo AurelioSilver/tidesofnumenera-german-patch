@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Brüderchen!", ruft sie und winkt dich zu ihr rüber als stünde sie mitten auf einem belebten Marktplatz. "Dich hätte ich hier nicht erwartet!"</DefaultText>
-      <FemaleText>"Schwesterchen!", ruft sie und winkt dich zu ihr rüber als stünde sie mitten auf einem belebten Marktplatz. "Dich hätte ich hier nicht erwartet!"</FemaleText>
+      <DefaultText>"Brüderchen!", ruft sie und winkt dich zu ihr rüber, als stünde sie mitten auf einem belebten Marktplatz. "Dich hätte ich hier nicht erwartet!"</DefaultText>
+      <FemaleText>"Schwesterchen!", ruft sie und winkt dich zu ihr rüber, als stünde sie mitten auf einem belebten Marktplatz. "Dich hätte ich hier nicht erwartet!"</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -176,7 +176,7 @@ Sie zuckt mit den Schultern. "Seitdem bin ich Lady Anshe. Das hat mir im Laufe d
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Erfindungen von mir", sagt sie. "Zusammengeflickt aus allem Möglichen, wie auch alles andere hier. Diese Prachtstücke hier sind mit meinem Kopf verdrahtet - nun, nicht wirklich, mehr im übertragenen Sinn. Ich benutze sie, um wirklich wirklich winzige Dinge zu bauen und zu reparieren."
+      <DefaultText>"Erfindungen von mir", sagt sie. "Zusammengeflickt aus allem Möglichen, wie auch alles andere hier. Diese Prachtstücke hier sind mit meinem Kopf verdrahtet - nun, nicht wirklich, mehr im übertragenen Sinn. Ich benutze sie, um wirklich winzige Dinge zu bauen und zu reparieren."
 
 Sie strahlt ihre Hände an. "Ich habe sie schon fast so lange wie ich am Leben bin."</DefaultText>
       <FemaleText />
@@ -414,7 +414,7 @@ Es ist eine unbeholfene Zeichnung eines Mannes, der eine strahlende Rüstung tr�
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Ich? Ich hab keine Rüstung. Ich will nicht mal kämpfen."
+      <DefaultText>"Ich? Ich habe keine Rüstung. Ich will nicht mal kämpfen."
 {RHIN}</DefaultText>
       <FemaleText />
     </Entry>
@@ -556,7 +556,7 @@ Sie verschränkt die Arme und studiert Matkina. "Das Kettenhemd", sagt sie schli
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>(Lüge) "Nein, ich hab auch nicht drauf geachtet."</DefaultText>
+      <DefaultText>(Lüge) "Nein, ich habe auch nicht drauf geachtet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -688,7 +688,7 @@ Sie betrachtet Callisteges Robe mit geübtem Blick. "Ein paar Nähte hier und da
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Wie schade. Vielleicht ein ander Mal."</DefaultText>
+      <DefaultText>"Wie schade. Vielleicht ein anderes Mal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -724,7 +724,7 @@ Diese Verstoßene weint. Sie schlägt ihre verzierten Hände verzweifelt durch d
       <ID>136</ID>
       <DefaultText>"Nein! Lasst mich in Ruhe, ihr *Geier*!"
 
-Lady Anshe, die unternehmerische Verstoßene aus Miel Avest, weint. Sie schlägt ihre verzeirten Hände verzweifelt durch die Luft, ihr Gesicht mit Kummer und Reue überdeckt.</DefaultText>
+Lady Anshe, die unternehmerische Verstoßene aus Miel Avest, weint. Sie schlägt ihre verzierten Hände verzweifelt durch die Luft, ihr Gesicht mit Kummer und Reue überdeckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -739,7 +739,7 @@ Lady Anshe, die unternehmerische Verstoßene aus Miel Avest, weint. Sie schlägt
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Als du näherschreitest, erkennst du Schatten dessen, was sie sieht, Flimmern am Rande deiner Wahrnehmungskraft: Luxeriöser Stoff, fabelhafte Kuriositäten und teueraussehende Geräte aller Art sind um sie angehäuft... und es gibt weitere Schatten, die ihr alles wegnehmen.
+      <DefaultText>Als du näher schreitest, erkennst du Schatten dessen, was sie sieht, Flimmern am Rande deiner Wahrnehmungskraft: Luxusiöser Stoff, fabelhafte Kuriositäten und teuer aussehende Geräte aller Art sind um sie angehäuft... und es gibt weitere Schatten, die ihr alles wegnehmen.
 
 Sie versucht, ihre Schätze zu greifen, bevor sie gestohlen werden können, aber ihre Hände schlagen wie Nebel hindurch. "Bitte!", schreit sie. "Ich kann dich bezahlen. Gib mir einfach etwas mehr Zeit!"</DefaultText>
       <FemaleText />
@@ -882,10 +882,10 @@ Sie schleißt ihre Augen, und deine Augen schließen sich plötzlich auch. Du sc
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Natürlich, du hast Recht. Habt ihr ihn gehört? Nehmt doch alles, ihr Blutegel. Ich habe es alles schonmal verdient. Ich werde es erneut verdienen."
+      <DefaultText>"Natürlich, du hast recht. Habt ihr ihn gehört? Nehmt doch alles, ihr Blutegel. Ich habe es alles schonmal verdient. Ich werde es erneut verdienen."
 
 Als sie spricht, schwinden alle Schatten wie ein Traum, und sie ist wieder bei vollem Verstand.</DefaultText>
-      <FemaleText>"Natürlich, du hast Recht. Habt ihr sie gehört? Nehmt doch alles, ihr Blutegel. Ich habe schonmal alles verdient. Ich werde es wieder verdienen."
+      <FemaleText>"Natürlich, du hast recht. Habt ihr sie gehört? Nehmt doch alles, ihr Blutegel. Ich habe schonmal alles verdient. Ich werde es wieder verdienen."
 
 Als sie spricht, schwinden alle Schatten wie ein Traum, und sie ist wieder bei vollem Verstand.</FemaleText>
     </Entry>
@@ -911,7 +911,7 @@ Als sie spricht, schwinden alle Schatten wie ein Traum, und sie ist wieder bei v
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Tatsächlich?" Sie hat ein seltsames Funklen in ihrem Auge." Eine Mental-Landschaft vielleicht? Und wir konnten diese Visionen mit reinem Glauben ausblenden. Ich frage mich..."</DefaultText>
+      <DefaultText>"Tatsächlich?" Sie hat ein seltsames Funkeln in ihrem Auge." Eine Mental-Landschaft vielleicht? Und wir konnten diese Visionen mit reinem Glauben ausblenden. Ich frage mich..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -940,7 +940,7 @@ Sie packt die Kristalle und steckt sie in ihre Tasche. "Es scheint, dass man an 
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>Sie tippt mit einem beschmückten Finger auf ihren Kinn. "Weißt du?" sag sie, "In der echten Welt bin ich recht begabt, was Kleidungs- und Ausrüstungsverbesserungen angeht. Ich frage mich..."
+      <DefaultText>Sie tippt mit einem beschmückten Finger auf ihrem Kinn. "Weißt du?" sag sie, "In der echten Welt bin ich recht begabt, was Kleidungs- und Ausrüstungsverbesserungen angeht. Ich frage mich..."
 
 Sie streckt ihre Hände zur Gruppe. Plötzlich schimmern die Kleider deiner Gefährten leuchten und verändern sich, sie werden stärker als zuvor.</DefaultText>
       <FemaleText />
