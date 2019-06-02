@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Du befindest dich in einer Kuppel aus Glas, mehrere Kilometer über der Erde. Wohin du auch blickst siehst du den blauen Himmel. Unter dir glänzt ein Boden aus goldenem Metall. Das ohrenbetäubende Heulen einer Sirene warnt dich ... vor irgendetwas.
+      <DefaultText>Du befindest dich in einer Kuppel aus Glas, mehrere Kilometer über der Erde. Wohin du auch blickst siehst du den blauen Himmel. Unter dir glänzt ein Boden aus goldenem Metall. Das ohrenbetäubende Heulen einer Sirene warnt dich … vor irgendetwas.
 
 In der Mitte der Kuppel befindet sich eine Stasiskammer, die dir unheimlich bekannt vorkommt. Direkt daneben befindet sich eine Truhe aus Synth und hellem Eisen. Hinter der Kapsel schwebt ein Diamant in der Luft und bricht das Licht wie ein Prisma. Neben deiner Hand glüht ein tiefblauer Sockel. 
 
@@ -52,14 +52,14 @@ Nichts hier scheint einen Grund für das Aufheulen der Sirene zu liefern, und do
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Plötzlich erscheint die Figur eines Mannes zwischen dir und der Kammer. Er ist nicht vollständig da – du kannst die Wolken und die Szenerie des Ortes, an dem er sich tatsächlich befindet, hinter ihm erkennen. Seine Hände hat er demonstrativ vor sich gestreckt. "Hey, was machst du da? Wenn du das tust, wird Miika sterben!"
+      <DefaultText>Plötzlich erscheint die Figur eines Mannes zwischen dir und der Kammer. Er ist nicht vollständig da – du kannst die Wolken und die Szenerie des Ortes, an dem er sich tatsächlich befindet, hinter ihm erkennen. Seine Hände hat er demonstrativ vor sich gestreckt. „Hey, was machst du da? Wenn du das tust, wird Miika sterben!“
 
 Sein Verhalten erinnert dich an das Phantom aus dem Labyrinth, auch wenn sein Gesicht, seine Kleidung und seine Stimme völlig anders sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Die Figur des spektralen Mannes erscheint zwischen dir und der Kammer. Seine Hände hat er demonstrativ vor sich gestreckt. "Hey, was machst du da? Wenn du das tust, wird Miika sterben!"</DefaultText>
+      <DefaultText>Die Figur des spektralen Mannes erscheint zwischen dir und der Kammer. Seine Hände hat er demonstrativ vor sich gestreckt. „Hey, was machst du da? Wenn du das tust, wird Miika sterben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,14 +212,14 @@ In der Entfernung kannst du ein leichtes Summen vernehmen, und außerhalb der Ku
       <ID>40</ID>
       <DefaultText>Sobald du dich dem Diamanten näherst öffnet sich seine Spitze. Eine schemenhafte Kugel erscheint darin – Wörter und Bilder huschen über ihre Oberfläche.
 
-Die Stimme einer Frau dringt direkt in deinen Verstand ein. "Willkommen zurück. Wie kann ich heute behilflich sein?"
+Die Stimme einer Frau dringt direkt in deinen Verstand ein. „Willkommen zurück. Wie kann ich heute behilflich sein?“
 
 Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde Gott hat diesen Diamanten als Archiv verwendet. Hier hat er Aufzeichnungen seiner Gedanken und Experimente aufbewahrt. Bestimmte Aufzeichnungen können abgerufen werden, indem man ein Suchwort ausspricht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Der Diamant öffnet sich, und eine Frauenstimme hallt durch deinen Kopf. "Willkommen zurück. Wie kann ich heute behilflich sein?"</DefaultText>
+      <DefaultText>Der Diamant öffnet sich, und eine Frauenstimme hallt durch deinen Kopf. „Willkommen zurück. Wie kann ich heute behilflich sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,7 +229,7 @@ Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Der Wandelnde Gott."</DefaultText>
+      <DefaultText>„Der Wandelnde Gott.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,17 +239,17 @@ Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Berater."</DefaultText>
+      <DefaultText>„Berater.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Tochter."</DefaultText>
+      <DefaultText>„Tochter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Kontrollstab."</DefaultText>
+      <DefaultText>„Kontrollstab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -264,12 +264,12 @@ Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Die Gezeiten."</DefaultText>
+      <DefaultText>„Die Gezeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Noch einmal den Eintrag zu "die Gezeiten" anhören.</DefaultText>
+      <DefaultText>Noch einmal den Eintrag zu „die Gezeiten“ anhören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -279,12 +279,12 @@ Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Flucht."</DefaultText>
+      <DefaultText>„Flucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Noch einmal den Eintrag zu "Flucht" anhören.</DefaultText>
+      <DefaultText>Noch einmal den Eintrag zu „Flucht“ anhören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -294,12 +294,12 @@ Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Der Kummer."</DefaultText>
+      <DefaultText>„Der Kummer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Noch einmal den Eintrag zu "der Kummer" anhören.</DefaultText>
+      <DefaultText>Noch einmal den Eintrag zu „der Kummer“ anhören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -309,12 +309,12 @@ Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Wandprojektor."</DefaultText>
+      <DefaultText>„Wandprojektor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Noch einmal den Eintrag zu "Wandprojektor" anhören.</DefaultText>
+      <DefaultText>Noch einmal den Eintrag zu „Wandprojektor“ anhören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -324,12 +324,12 @@ Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Miika."</DefaultText>
+      <DefaultText>„Miika.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Noch einmal den Eintrag zu "Miika" anhören.</DefaultText>
+      <DefaultText>Noch einmal den Eintrag zu „Miika“ anhören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -339,12 +339,12 @@ Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Bewusstseinsübertragung."</DefaultText>
+      <DefaultText>„Bewusstseinsübertragung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Noch einmal den Eintrag zu "Bewusstseinsübertragung" anhören.</DefaultText>
+      <DefaultText>Noch einmal den Eintrag zu „Bewusstseinsübertragung“ anhören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,12 +354,12 @@ Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Surrimen-Kristall."</DefaultText>
+      <DefaultText>„Surrimen-Kristall.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Noch einmal den Eintrag zu "Surrimen-Kristall" anhören.</DefaultText>
+      <DefaultText>Noch einmal den Eintrag zu „Surrimen-Kristall“ anhören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -369,12 +369,12 @@ Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Die Tabaht."</DefaultText>
+      <DefaultText>„Die Tabaht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Noch einmal den Eintrag zu "die Tabaht" anhören.</DefaultText>
+      <DefaultText>Noch einmal den Eintrag zu „die Tabaht“ anhören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -384,12 +384,12 @@ Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Die Belagerung der Sagus-Klippen."</DefaultText>
+      <DefaultText>„Die Belagerung der Sagus-Klippen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Noch einmal den Eintrag zu "die Belagerung der Sagus-Klippen" anhören.</DefaultText>
+      <DefaultText>Noch einmal den Eintrag zu „die Belagerung der Sagus-Klippen“ anhören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -399,12 +399,12 @@ Plötzlich wirst du von einem Gefühl der Vertrautheit übermannt. Der Wandelnde
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Dalad."</DefaultText>
+      <DefaultText>„Dalad.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Noch einmal den Eintrag zu "Dalad" anhören.</DefaultText>
+      <DefaultText>Noch einmal den Eintrag zu „Dalad“ anhören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@ Dieses Labor - dieser *Körper* - muss dem Wandelnden Gott gehören.</DefaultTex
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Die Stimme sagt: "Die Gezeiten haben sich als äußerst fruchtbares Forschungsobjekt erwiesen. Die Tabaht wissen nicht, auf was sie da gestoßen sind. Für sie waren diese Gegenstände nichts als weitere Numenera, aber ihre Kräfte könnten sogar dazu dienen, den Tod selbst ungeschehen zu machen. Ich hoffe, dass das so ist – für sie."</DefaultText>
+      <DefaultText>Die Stimme sagt: „Die Gezeiten haben sich als äußerst fruchtbares Forschungsobjekt erwiesen. Die Tabaht wissen nicht, auf was sie da gestoßen sind. Für sie waren diese Gegenstände nichts als weitere Numenera, aber ihre Kräfte könnten sogar dazu dienen, den Tod selbst ungeschehen zu machen. Ich hoffe, dass das so ist – für sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -461,66 +461,66 @@ Dieses Labor - dieser *Körper* - muss dem Wandelnden Gott gehören.</DefaultTex
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Deine Stimme sagt: "Ich werde mit diesem neuen Körper keine Risiken eingehen. Ich habe einen Sicherungsmechanismus in Gang gesetzt, der mich von hier wegbringen wird, sobald etwas mit mir oder dem Labor passiert. Sollten sich irgendwelche unvorhergesehenen Gefahren zeigen, müsste ich mich problemlos an einen sicheren Ort zurückziehen können."</DefaultText>
+      <DefaultText>Deine Stimme sagt: „Ich werde mit diesem neuen Körper keine Risiken eingehen. Ich habe einen Sicherungsmechanismus in Gang gesetzt, der mich von hier wegbringen wird, sobald etwas mit mir oder dem Labor passiert. Sollten sich irgendwelche unvorhergesehenen Gefahren zeigen, müsste ich mich problemlos an einen sicheren Ort zurückziehen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Die Stimme sagt: "Ich weiß nicht genau, was der Kummer ist – nur, dass er sehr alt ist. *Außerordentlich* alt. Außerdem interessiert er sich nicht besonders für die üblichen Gesetze von Raum und Zeit - ich frage mich, wie viel Gültigkeit diese Gesetze überhaupt haben. Jedenfalls bin ich das erste Mal über ihren Namen gestolpert, als ich die Gezeiten erforscht habe. Er scheint eine Art Wächter gegen den Missbrauch der Gezeiten gewesen zu sein. Es gibt einige Hinweise darauf, dass er allein für die Zerstörung einer der früheren Welten verantwortlich ist."
+      <DefaultText>Die Stimme sagt: „Ich weiß nicht genau, was der Kummer ist – nur, dass er sehr alt ist. *Außerordentlich* alt. Außerdem interessiert er sich nicht besonders für die üblichen Gesetze von Raum und Zeit - ich frage mich, wie viel Gültigkeit diese Gesetze überhaupt haben. Jedenfalls bin ich das erste Mal über ihren Namen gestolpert, als ich die Gezeiten erforscht habe. Er scheint eine Art Wächter gegen den Missbrauch der Gezeiten gewesen zu sein. Es gibt einige Hinweise darauf, dass er allein für die Zerstörung einer der früheren Welten verantwortlich ist.“
 
-Die Stimme seufzt. "Meine Experimente zur Bewusstseinsübertragung scheinen ihn geweckt zu haben. Ich glaube nicht, dass er es auf *mich* im Speziellen abgesehen hat, aber ich bin nun der Überzeugung, dass er für die Zerstörung meines vorherigen Labors verantwortlich ist."</DefaultText>
+Die Stimme seufzt. „Meine Experimente zur Bewusstseinsübertragung scheinen ihn geweckt zu haben. Ich glaube nicht, dass er es auf *mich* im Speziellen abgesehen hat, aber ich bin nun der Überzeugung, dass er für die Zerstörung meines vorherigen Labors verantwortlich ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
       <DefaultText>Eine Abbildung der Kuppel aus Azurstahl erscheint auf der Kugel im Diamanten.
 
-Die Stimme sagt: "Die Armatur war nicht einfach zu finden - es gibt keine sichtbaren Übergange - aber wenn man erst einmal weiß, wo sie sich befindet, dann ist es einfach. Nachdem ich ihn gefunden hatte, zögerte ich nicht lange, den transdimensionalen Wandprojektor in das neue Labor zu überführen. Ich weiß nicht genau, was das alte Labor zerstört hat, aber ich bin mir sicher, dass es transdimensionaler Natur war. Der Projektor sollte eine Barriere erzeugen, die groß genug ist, um die gesamte Kuppel zu umgeben. Für den Fall, dass dieses etwas zurückkehren sollte."</DefaultText>
+Die Stimme sagt: „Die Armatur war nicht einfach zu finden - es gibt keine sichtbaren Übergange - aber wenn man erst einmal weiß, wo sie sich befindet, dann ist es einfach. Nachdem ich ihn gefunden hatte, zögerte ich nicht lange, den transdimensionalen Wandprojektor in das neue Labor zu überführen. Ich weiß nicht genau, was das alte Labor zerstört hat, aber ich bin mir sicher, dass es transdimensionaler Natur war. Der Projektor sollte eine Barriere erzeugen, die groß genug ist, um die gesamte Kuppel zu umgeben. Für den Fall, dass dieses etwas zurückkehren sollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Deine Stimme sagt: "Miikas Zustand hat sich nach der Bewusstseinsübertragung nicht verbessert. Wenn sich überhaupt etwas verändert hat, dann zum Schlechten. Ich konnte diesen Umstand auf die Waffe zurückführen, die ich von den Tabaht nach ihrer misslungenen Belagerung der Sagus-Klippen erhalten habe. Jetzt muss ich nur noch herausfinden, wie ich ihre Wirkung aufheben kann."
+      <DefaultText>Deine Stimme sagt: „Miikas Zustand hat sich nach der Bewusstseinsübertragung nicht verbessert. Wenn sich überhaupt etwas verändert hat, dann zum Schlechten. Ich konnte diesen Umstand auf die Waffe zurückführen, die ich von den Tabaht nach ihrer misslungenen Belagerung der Sagus-Klippen erhalten habe. Jetzt muss ich nur noch herausfinden, wie ich ihre Wirkung aufheben kann.“
 
-Eine schmerzerfüllte Pause folgt. "Ich verstehe es nicht. Eigentlich müsste ich das herausfinden können. Ich *werde* es herausfinden! Alles, was ich brauche, sind mehr Daten. Ich habe bereits in der Theorie einen Prozess herausgearbeitet, durch den ich mein Bewusstsein mit ihrem verschmelzen kann, aber ... Ich brauche einfach mehr Daten. Mit etwas Glück kann ich in den nächsten Tagen bereits Experimente durchführen."</DefaultText>
+Eine schmerzerfüllte Pause folgt. „Ich verstehe es nicht. Eigentlich müsste ich das herausfinden können. Ich *werde* es herausfinden! Alles, was ich brauche, sind mehr Daten. Ich habe bereits in der Theorie einen Prozess herausgearbeitet, durch den ich mein Bewusstsein mit ihrem verschmelzen kann, aber … Ich brauche einfach mehr Daten. Mit etwas Glück kann ich in den nächsten Tagen bereits Experimente durchführen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Es gibt nur einen einzigen Eintrag für dieses Wort, und es ist derselbe Eintrag wie der für das Wort "Miika". Dem Eintrag zufolge würde er es in den darauffolgenden Tagen durchführen, aber dieser Eintrag ist mehrere Monate alt. Sollte er es wirklich versucht haben, hat er nie einen Eintrag dazu erstellt.
+      <DefaultText>Es gibt nur einen einzigen Eintrag für dieses Wort, und es ist derselbe Eintrag wie der für das Wort „Miika“. Dem Eintrag zufolge würde er es in den darauffolgenden Tagen durchführen, aber dieser Eintrag ist mehrere Monate alt. Sollte er es wirklich versucht haben, hat er nie einen Eintrag dazu erstellt.
 
 Vielleicht weiß der spektrale Berater mehr darüber.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>Deine Stimme sagt: "Der Bewusstseinstransfer war ein Erfolg! Zunächst habe ich Miika in einen neuen Körper transferiert - ein Klon des Originals. Es scheinen keine schädlichen Nebenwirkungen aufgetreten zu sein, also habe ich den Prozess an mir selbst durchgeführt. Ich werde uns beide über die nächsten Tage sehr genau beobachten, aber zumindest für den Moment konnte ich wieder Hoffnung schöpfen. Ich bin mir sicher, dass es unvorhergesehene Langzeiteffekte geben wir, aber fürs Erste habe ich tatsächlich einen Weg gefunden, durch den ich den Tod selbst aufhalten kann. Ich kann mir keinen Langzeiteffekt vorstellen, der diesen Vorteil zunichte machen könnte."</DefaultText>
+      <DefaultText>Deine Stimme sagt: „Der Bewusstseinstransfer war ein Erfolg! Zunächst habe ich Miika in einen neuen Körper transferiert - ein Klon des Originals. Es scheinen keine schädlichen Nebenwirkungen aufgetreten zu sein, also habe ich den Prozess an mir selbst durchgeführt. Ich werde uns beide über die nächsten Tage sehr genau beobachten, aber zumindest für den Moment konnte ich wieder Hoffnung schöpfen. Ich bin mir sicher, dass es unvorhergesehene Langzeiteffekte geben wir, aber fürs Erste habe ich tatsächlich einen Weg gefunden, durch den ich den Tod selbst aufhalten kann. Ich kann mir keinen Langzeiteffekt vorstellen, der diesen Vorteil zunichte machen könnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
       <DefaultText>Das Bild eines hölzernen Stabs mit einem Kristall am Ende erscheint auf der Kugel im Innern des Diamants.
 
-Deine Stimme sagt: "Ein Befehlswort! Ich hätte es wissen müssen ... auch wenn ich einfach nicht verstehe, wie die Tabaht das herausgefunden haben. Es muss etwas mit diesem Untergrat zu tun haben. Alles, was man tun muss, ist sein Ziel mit dem Kristall zu berühren und das Wort "Kadishtu" auszusprechen, und seine Kräfte werden entfesselt. Ich habe den Kristall in das neue Labor gebracht, um ihn näher zu untersuchen."</DefaultText>
+Deine Stimme sagt: „Ein Befehlswort! Ich hätte es wissen müssen … auch wenn ich einfach nicht verstehe, wie die Tabaht das herausgefunden haben. Es muss etwas mit diesem Untergrat zu tun haben. Alles, was man tun muss, ist sein Ziel mit dem Kristall zu berühren und das Wort ‚Kadishtu‘ auszusprechen, und seine Kräfte werden entfesselt. Ich habe den Kristall in das neue Labor gebracht, um ihn näher zu untersuchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Deine Stimme sagt: "Die Tabaht waren zwar Dummköpfe, aber gleichzeitig auch begabte Plünderer und Glückspilze. Nur so konnten sie den Untergrat entdecken. Ich weiß immer noch nicht *genau*, was der Untergrat ist, aber ich bin der Überzeugung, dass er von den Dalad stammt - dasselbe Volk, von denen ich über die Gezeiten und die Funktionsweise der Bewusstseinsübertragung gelernt habe. Das ist die beste Erklärung für den Erfolg der Tabaht. Ohne den Untergrat sind sie nichts weiter als simple Wesen mit mittelmäßiger Intelligenz."</DefaultText>
+      <DefaultText>Deine Stimme sagt: „Die Tabaht waren zwar Dummköpfe, aber gleichzeitig auch begabte Plünderer und Glückspilze. Nur so konnten sie den Untergrat entdecken. Ich weiß immer noch nicht *genau*, was der Untergrat ist, aber ich bin der Überzeugung, dass er von den Dalad stammt - dasselbe Volk, von denen ich über die Gezeiten und die Funktionsweise der Bewusstseinsübertragung gelernt habe. Das ist die beste Erklärung für den Erfolg der Tabaht. Ohne den Untergrat sind sie nichts weiter als simple Wesen mit mittelmäßiger Intelligenz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Deine Stimme sagt: "Heute jährt sich die Belagerung der Sagus-Klippen zum 28. Mal. 28 Jahre, seit ihre Krankheit ausgebrochen ist. Es war einfach, sie zu besiegen - die Stadt aus der Gegenwart zu reißen und alle, die darin gefangen waren, ihrer Numenera zu berauben. Es hat sich als weniger einfach erwiesen, die Auswirkungen ihres Terrors ungeschehen zu machen. Ich weiß immer noch nicht, wie der Surrimen-Kristall funktioniert, oder was er mit seinen Opfern macht. Ich bezweifle, dass sie es wussten, aber sie waren Plünderer und keine Priester. Für sie war es nur eine Waffe."
+      <DefaultText>Deine Stimme sagt: „Heute jährt sich die Belagerung der Sagus-Klippen zum 28. Mal. 28 Jahre, seit ihre Krankheit ausgebrochen ist. Es war einfach, sie zu besiegen - die Stadt aus der Gegenwart zu reißen und alle, die darin gefangen waren, ihrer Numenera zu berauben. Es hat sich als weniger einfach erwiesen, die Auswirkungen ihres Terrors ungeschehen zu machen. Ich weiß immer noch nicht, wie der Surrimen-Kristall funktioniert, oder was er mit seinen Opfern macht. Ich bezweifle, dass sie es wussten, aber sie waren Plünderer und keine Priester. Für sie war es nur eine Waffe.“
 
-Die Stimme seufzt. "Ich frage mich, ob sie um das Ausmaß seiner Macht wussten. Dass sie damit das Leben einer jungen Frau und ihres Vaters über mehrere Leben hinweg zerstören würden."</DefaultText>
+Die Stimme seufzt. „Ich frage mich, ob sie um das Ausmaß seiner Macht wussten. Dass sie damit das Leben einer jungen Frau und ihres Vaters über mehrere Leben hinweg zerstören würden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
       <DefaultText>Im Gegensatz zu den anderen Einträgen hörst du nicht deine Stimme, sondern die weibliche Stimme, die dem Archiv-Diamanten gehört.
 
-"Man geht davon aus, dass das Volk der Dalad lang vor der Neunten Welt existiert hat. Vermutlich kannten sie sich selbst nicht unter dem Namen "Dalad". Ihr richtiger Name ist nicht bekannt. Sie haben sich eine Kraft zunutze gemacht, die in diesen Archiven als "die Gezeiten" zu finden ist, um damit die Psyche eines Individuums zu beeinflussen. Die Zivilisation der Dalad ist nicht untergegangen, sondern wurde vollständig ausgelöscht, und zwar von einer Kreatur namens Kummer."</DefaultText>
+„Man geht davon aus, dass das Volk der Dalad lang vor der Neunten Welt existiert hat. Vermutlich kannten sie sich selbst nicht unter dem Namen ,Dalad‘. Ihr richtiger Name ist nicht bekannt. Sie haben sich eine Kraft zunutze gemacht, die in diesen Archiven als ,die Gezeiten‘ zu finden ist, um damit die Psyche eines Individuums zu beeinflussen. Die Zivilisation der Dalad ist nicht untergegangen, sondern wurde vollständig ausgelöscht, und zwar von einer Kreatur namens Kummer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -547,7 +547,7 @@ Wenn das stimmt, gibt es vielleicht eine Möglichkeit für dich, sie aufzuheben.
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Der Sockel wird dunkler, und vor dir erscheint die Figur eines Mannes. Er ist nicht vollständig da – du kannst die Wolken und die Szenerie des Ortes, an dem er sich tatsächlich befindet, hinter ihm erkennen. Er sieht besorgt aus. "Wir haben ein Problem - es ist hier."
+      <DefaultText>Der Sockel wird dunkler, und vor dir erscheint die Figur eines Mannes. Er ist nicht vollständig da – du kannst die Wolken und die Szenerie des Ortes, an dem er sich tatsächlich befindet, hinter ihm erkennen. Er sieht besorgt aus. „Wir haben ein Problem - es ist hier.“
 
 Sein Verhalten erinnert dich an das Phantom aus dem Labyrinth, auch wenn sein Gesicht, seine Kleidung und seine Stimme völlig anders sind.</DefaultText>
       <FemaleText />
@@ -564,12 +564,12 @@ Sein Verhalten erinnert dich an das Phantom aus dem Labyrinth, auch wenn sein Ge
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Was bist du?"</DefaultText>
+      <DefaultText>„Was bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Was bist du noch mal?"</DefaultText>
+      <DefaultText>„Was bist du noch mal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -579,12 +579,12 @@ Sein Verhalten erinnert dich an das Phantom aus dem Labyrinth, auch wenn sein Ge
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Er wirft dir einen fragenden Blick zu. "Das ist jetzt wirklich nicht die richtige Zeit, um schon wieder darauf einzugehen. Ich bin eine künstliche Intelligenz, geschaffen, um dieses Labor zu überwachen - entweder aus deinem Wissen oder deiner Persönlichkeit entstanden. Als dein Berater weigere ich mich, über das Wesen meiner Existenz zu diskutieren, bevor wir diesen Schlamassel überwunden haben."</DefaultText>
+      <DefaultText>Er wirft dir einen fragenden Blick zu. „Das ist jetzt wirklich nicht die richtige Zeit, um schon wieder darauf einzugehen. Ich bin eine künstliche Intelligenz, geschaffen, um dieses Labor zu überwachen - entweder aus deinem Wissen oder deiner Persönlichkeit entstanden. Als dein Berater weigere ich mich, über das Wesen meiner Existenz zu diskutieren, bevor wir diesen Schlamassel überwunden haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Ich bin dein *Berater*", sagt er bevormundend, "und deshalb *rate* ich dir, die genaueren Umstände meiner Existenz für den Moment außen vor zu lassen und dich auf wichtigere Dinge zu konzentrieren."</DefaultText>
+      <DefaultText>„Ich bin dein *Berater*“, sagt er bevormundend, „und deshalb *rate* ich dir, die genaueren Umstände meiner Existenz für den Moment außen vor zu lassen und dich auf wichtigere Dinge zu konzentrieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -594,12 +594,12 @@ Sein Verhalten erinnert dich an das Phantom aus dem Labyrinth, auch wenn sein Ge
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Was ist da los? Warum wurde der Alarm ausgelöst?"</DefaultText>
+      <DefaultText>„Was ist da los? Warum wurde der Alarm ausgelöst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Was greift uns noch gleich an?"</DefaultText>
+      <DefaultText>„Was greift uns noch gleich an?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -609,22 +609,22 @@ Sein Verhalten erinnert dich an das Phantom aus dem Labyrinth, auch wenn sein Ge
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Seine Mimik verfinstert sich. "Der Kummer ist hier. Er hat uns irgendwie gefunden, und jetzt versucht er, in das Labor einzudringen. Wir müssen dich hier herausbekommen."</DefaultText>
+      <DefaultText>Seine Mimik verfinstert sich. „Der Kummer ist hier. Er hat uns irgendwie gefunden, und jetzt versucht er, in das Labor einzudringen. Wir müssen dich hier herausbekommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Der Kummer. Er verarbeitet unsere Abwehranlagen zu Schrott. Es ist nur eine Frage der Zeit, bis er hier ankommt." Der Boden der Kuppel bebt furchteinflößend, als wolle er die Dringlichkeit der Worte untermalen.</DefaultText>
+      <DefaultText>„Der Kummer. Er verarbeitet unsere Abwehranlagen zu Schrott. Es ist nur eine Frage der Zeit, bis er hier ankommt.“ Der Boden der Kuppel bebt furchteinflößend, als wolle er die Dringlichkeit der Worte untermalen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Kannst du den Alarm abschalten?"</DefaultText>
+      <DefaultText>„Kannst du den Alarm abschalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Sicher, ähm ... vergiss aber bitte nicht, dass es einen *Grund* für den Alarm gibt. Und der befindet sich auf dem Weg hierher."
+      <DefaultText>„Sicher, ähm … vergiss aber bitte nicht, dass es einen *Grund* für den Alarm gibt. Und der befindet sich auf dem Weg hierher.“
 
 Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpeln und ab und an das Krachen von Metall.
 
@@ -634,12 +634,12 @@ Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpe
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Alarm."</DefaultText>
+      <DefaultText>„Alarm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Die illusorische Kugel wird komplett leer. Die Stimme spricht zu deinem Verstand. "Es gibt keine passenden Einträge. Kann ich mit einer anderen Frage behilflich sein?"</DefaultText>
+      <DefaultText>Die illusorische Kugel wird komplett leer. Die Stimme spricht zu deinem Verstand. „Es gibt keine passenden Einträge. Kann ich mit einer anderen Frage behilflich sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -649,22 +649,22 @@ Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpe
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Kontrollierst du den Notfall-Teleportmechanismus?"</DefaultText>
+      <DefaultText>„Kontrollierst du den Notfall-Teleportmechanismus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Ich will noch einmal über den Notfall-Teleportmechanismus sprechen."</DefaultText>
+      <DefaultText>„Ich will noch einmal über den Notfall-Teleportmechanismus sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Ja! Das ist doch eine gute Idee. Das Problem ist nur, dass nur eine einzige Person teleportiert werden kann. Das Mädchen, das Archiv und deine gesamte Ausrüstung wird verloren gehen. Natürlich kannst du mich einfach erneut aus deinem Bewusstsein erschaffen, also werde ich nicht *vollständig* verloren gehen. Warum fragst du?"</DefaultText>
+      <DefaultText>„Ja! Das ist doch eine gute Idee. Das Problem ist nur, dass nur eine einzige Person teleportiert werden kann. Das Mädchen, das Archiv und deine gesamte Ausrüstung wird verloren gehen. Natürlich kannst du mich einfach erneut aus deinem Bewusstsein erschaffen, also werde ich nicht *vollständig* verloren gehen. Warum fragst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Was ist damit? Hast du dich dazu entschlossen, meinen Rat anzunehmen und von hier zu verschwinden?"</DefaultText>
+      <DefaultText>„Was ist damit? Hast du dich dazu entschlossen, meinen Rat anzunehmen und von hier zu verschwinden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -674,7 +674,7 @@ Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpe
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Ich möchte dich etwas anderes fragen."</DefaultText>
+      <DefaultText>„Ich möchte dich etwas anderes fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -684,7 +684,7 @@ Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpe
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Was brauchst du?"</DefaultText>
+      <DefaultText>„Was brauchst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -694,12 +694,12 @@ Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpe
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Kannst du ihn so einrichten, dass an meiner Stelle das Mädchen teleportiert wird?"</DefaultText>
+      <DefaultText>„Kannst du ihn so einrichten, dass an meiner Stelle das Mädchen teleportiert wird?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Das Mädchen ist wichtiger. Stell den Mechanismus so ein, dass sie herausteleportiert wird."</DefaultText>
+      <DefaultText>„Das Mädchen ist wichtiger. Stell den Mechanismus so ein, dass sie herausteleportiert wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -709,12 +709,12 @@ Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpe
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Kannst du den Mechanismus abschalten?"</DefaultText>
+      <DefaultText>„Kannst du den Mechanismus abschalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Schalte den Mechanismus ab. Ich werde nicht fliehen, solange sie hier festsitzt."</DefaultText>
+      <DefaultText>„Schalte den Mechanismus ab. Ich werde nicht fliehen, solange sie hier festsitzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -724,12 +724,12 @@ Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpe
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Er hebt seine illusorische Augenbraue. "Das könnte ich, aber was würde das nützen? Außerhalb der Stasiskammer würde sie innerhalb weniger Monate, maximal einiger Jahre, sterben. Es ist besser, wenn du am Leben bleibst, damit wir einen Weg finden können, sie zu retten."</DefaultText>
+      <DefaultText>Er hebt seine illusorische Augenbraue. „Das könnte ich, aber was würde das nützen? Außerhalb der Stasiskammer würde sie innerhalb weniger Monate, maximal einiger Jahre, sterben. Es ist besser, wenn du am Leben bleibst, damit wir einen Weg finden können, sie zu retten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Er runzelt die Stirn. "Na gut. Es ist vollbracht. Ich sage es noch einmal ganz deutlich: ich halte das für eine Dummheit. Damit wirfst du nur dein Leben weg, falls der Kummer uns erreicht."</DefaultText>
+      <DefaultText>Er runzelt die Stirn. „Na gut. Es ist vollbracht. Ich sage es noch einmal ganz deutlich: ich halte das für eine Dummheit. Damit wirfst du nur dein Leben weg, falls der Kummer uns erreicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -739,32 +739,32 @@ Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpe
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Er blickt finster drein. "Warum würdest du so etwas wollen? Nicht, dass ich dir nicht zutrauen würde, einen Weg hier heraus zu finden ... aber *irgendjemand* sollte unser Wissen mit sich nehmen. Was bringt es, wenn wir alle sterben?"</DefaultText>
+      <DefaultText>Er blickt finster drein. „Warum würdest du so etwas wollen? Nicht, dass ich dir nicht zutrauen würde, einen Weg hier heraus zu finden … aber *irgendjemand* sollte unser Wissen mit sich nehmen. Was bringt es, wenn wir alle sterben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Der Berater verschränkt seine Arme vor der Brust. Er sieht aus, als wollte er ablehnen, aber sagt dann: "In Ordnung. Es ist vollbracht. Ich halte das allerdings für Schwachsinn. Es ist ein *Sicherungsmechanismus*. Er würde nur dann aktiv werden, wenn alles andere schief geht."</DefaultText>
+      <DefaultText>Der Berater verschränkt seine Arme vor der Brust. Er sieht aus, als wollte er ablehnen, aber sagt dann: „In Ordnung. Es ist vollbracht. Ich halte das allerdings für Schwachsinn. Es ist ein *Sicherungsmechanismus*. Er würde nur dann aktiv werden, wenn alles andere schief geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Ich habe meine Meinung geändert. Stell den Teleporter darauf ein, mich wegzuteleportieren, falls etwas schiefgehen sollte."</DefaultText>
+      <DefaultText>„Ich habe meine Meinung geändert. Stell den Teleporter darauf ein, mich wegzuteleportieren, falls etwas schiefgehen sollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Ha!" Ein breites Grinsen legt sich über sein Gesicht. "So gefällt mir das schon besser. Ich wusste, dass du nicht wahnsinnig bist."</DefaultText>
+      <DefaultText>„Ha!“ Ein breites Grinsen legt sich über sein Gesicht. „So gefällt mir das schon besser. Ich wusste, dass du nicht wahnsinnig bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Erzähl mir mehr über das Mädchen in der Kammer."</DefaultText>
+      <DefaultText>„Erzähl mir mehr über das Mädchen in der Kammer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Meinst du Miika?" Er sieht zur Kammer herüber. Es ist schwierig, seinen Gesichtsausdruck zu interpretieren, aber er sieht traurig aus. "Ihr geht es nicht besser als zuvor. Eigentlich sogar schlechter. Ich sage das nicht gerne, aber ich glaube nicht, dass wir sie retten können."</DefaultText>
+      <DefaultText>„Meinst du Miika?“ Er sieht zur Kammer herüber. Es ist schwierig, seinen Gesichtsausdruck zu interpretieren, aber er sieht traurig aus. „Ihr geht es nicht besser als zuvor. Eigentlich sogar schlechter. Ich sage das nicht gerne, aber ich glaube nicht, dass wir sie retten können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -774,12 +774,12 @@ Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpe
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Wie nah ist der Kummer?"</DefaultText>
+      <DefaultText>„Wie nah ist der Kummer?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Wo ist der Kummer jetzt?"</DefaultText>
+      <DefaultText>„Wo ist der Kummer jetzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -789,12 +789,12 @@ Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpe
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Warum ist der Kummer hier? Was will er von uns?"</DefaultText>
+      <DefaultText>„Warum ist der Kummer hier? Was will er von uns?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Ich kann dir nicht sagen, was er will. Aber vielleicht findest du etwas in deinen Archiven. Du hast mir erzählt, dass wir ihn durch die Bewusstseinsübertragung aufgeweckt haben, irgendwie."</DefaultText>
+      <DefaultText>„Ich kann dir nicht sagen, was er will. Aber vielleicht findest du etwas in deinen Archiven. Du hast mir erzählt, dass wir ihn durch die Bewusstseinsübertragung aufgeweckt haben, irgendwie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -809,17 +809,17 @@ Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpe
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Ich will es tun. Lass uns mein Bewusstsein mit ihrem verschmelzen."</DefaultText>
+      <DefaultText>„Ich will es tun. Lass uns mein Bewusstsein mit ihrem verschmelzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Was ist passiert, als ich versucht habe, mein Bewusstsein mit dem von Miika zu verschmelzen?"</DefaultText>
+      <DefaultText>„Was ist passiert, als ich versucht habe, mein Bewusstsein mit dem von Miika zu verschmelzen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Bewusstsein verschmelzen."</DefaultText>
+      <DefaultText>„Bewusstsein verschmelzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -839,16 +839,16 @@ Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpe
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Ich glaube, Miikas Krankheit rührt von den Gezeiten her, möglicherweise eine Gezeitenwelle."</DefaultText>
+      <DefaultText>„Ich glaube, Miikas Krankheit rührt von den Gezeiten her, möglicherweise eine Gezeitenwelle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Wenn das wahr ist ... Ja, das würde einiges erklären, unter anderem warum ihre Krankheit ihr vom einen in den anderen Körper gefolgt ist. Ha! Du bist ein Genie, wenn ich das sagen darf."
+      <DefaultText>„Wenn das wahr ist … Ja, das würde einiges erklären, unter anderem warum ihre Krankheit ihr vom einen in den anderen Körper gefolgt ist. Ha! Du bist ein Genie, wenn ich das sagen darf.“
 
-Der spektrale Berater geht auf und ab, auch wenn seine Füße nie wirklich den Boden berühren. "Könnte eine ähnlich starke Gezeitenwelle die Wirkung aufheben? Nein, das würde mehr Kraft benötigen, als eure beiden Körper erzeugen können."
+Der spektrale Berater geht auf und ab, auch wenn seine Füße nie wirklich den Boden berühren. „Könnte eine ähnlich starke Gezeitenwelle die Wirkung aufheben? Nein, das würde mehr Kraft benötigen, als eure beiden Körper erzeugen können.“
 
-Er hält inne und sieht dich aufgeregt an. "Aber ich glaube, du hast da einen sehr interessanten Gedankengang. Es könnte einige Jahre dauern, aber ..." Das Labor wackelt und rumpelt, während der Kummer weiter unten wütet. "Wie dem auch sei. Wir haben keine Jahre. Vermutlich haben wir sogar nur noch wenige Minuten."</DefaultText>
+Er hält inne und sieht dich aufgeregt an. „Aber ich glaube, du hast da einen sehr interessanten Gedankengang. Es könnte einige Jahre dauern, aber …“ Das Labor wackelt und rumpelt, während der Kummer weiter unten wütet. „Wie dem auch sei. Wir haben keine Jahre. Vermutlich haben wir sogar nur noch wenige Minuten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -863,34 +863,34 @@ Er hält inne und sieht dich aufgeregt an. "Aber ich glaube, du hast da einen se
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Kannst du den Teleporter sofort aktivieren?"</DefaultText>
+      <DefaultText>„Kannst du den Teleporter sofort aktivieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Aktivere den Teleporter. Bring mich sofort hier raus."</DefaultText>
+      <DefaultText>„Aktivere den Teleporter. Bring mich sofort hier raus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"Um dich hier rauszubringen? Natürlich. Um ehrlich zu sein, ist das vermutlich die sicherste Lösung. Ein Wort genügt." Er kratzt sich am Kopf. "Bedenke aber, dass es sich um einen Sicherheitsmechanismus handelt. Wenn du bis zur letzten Minute warten oder zumindest versuchen willst, etwas für sie zu tun, dann kannst du das. Wahrscheinlich."</DefaultText>
+      <DefaultText>„Um dich hier rauszubringen? Natürlich. Um ehrlich zu sein, ist das vermutlich die sicherste Lösung. Ein Wort genügt.“ Er kratzt sich am Kopf. „Bedenke aber, dass es sich um einen Sicherheitsmechanismus handelt. Wenn du bis zur letzten Minute warten oder zumindest versuchen willst, etwas für sie zu tun, dann kannst du das. Wahrscheinlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>Er nickt mit einem ernsten Ausdruck auf dem Gesicht. "Gute Idee. Glaub mir, das fällt auch mir schwer, aber ich denke ..." Er sieht wehmütig zur Kammer herüber. "Wir finden einen Weg, um sie zurückzuholen. Auf jeden Fall."
+      <DefaultText>Er nickt mit einem ernsten Ausdruck auf dem Gesicht. „Gute Idee. Glaub mir, das fällt auch mir schwer, aber ich denke …“ Er sieht wehmütig zur Kammer herüber. „Wir finden einen Weg, um sie zurückzuholen. Auf jeden Fall.“
 
 Dein Körper verschwindet augenblicklich und taucht an einem anderen Ort wieder auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Aktiviere den Teleporter, um Miika hier rauszuholen, sofort."</DefaultText>
+      <DefaultText>„Aktiviere den Teleporter, um Miika hier rauszuholen, sofort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>"Nein." Er schüttelt nachdrücklich den Kopf. "Wenn es dir so wichtig ist, werde ich den Teleporter so einstellen, dass sie an deiner Stelle erfasst wird. Aber nur als ein *Sicherheitsmechanismus*. Ich werde jetzt nicht unser aller Leben aufs Spiel setzen, egal, wie viel Angst du hast."</DefaultText>
+      <DefaultText>„Nein.“ Er schüttelt nachdrücklich den Kopf. „Wenn es dir so wichtig ist, werde ich den Teleporter so einstellen, dass sie an deiner Stelle erfasst wird. Aber nur als ein *Sicherheitsmechanismus*. Ich werde jetzt nicht unser aller Leben aufs Spiel setzen, egal, wie viel Angst du hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -926,7 +926,7 @@ Last Barrier at [Global: MBG2_SorrowTimerExpire03].</DefaultText>
       <ID>200</ID>
       <DefaultText>Du hörst einen donnernden Knall. Der Boden unter dir wird geschüttelt, wodurch du den Halt verlierst. Außerhalb der Kuppel siehst du den Horizont vor- und zurückschnellen, dir wird schwindelig.
 
-Der spektrale Mann erscheint plötzlich vor dir, sein Gesicht vor Schrecken verzerrt. "Er ist in den Turm eingedrungen! Jetzt ist es nur noch eine Frage der Zeit, bis er hier ankommt. Wir müssen etwas unternehmen, schnell!"
+Der spektrale Mann erscheint plötzlich vor dir, sein Gesicht vor Schrecken verzerrt. „Er ist in den Turm eingedrungen! Jetzt ist es nur noch eine Frage der Zeit, bis er hier ankommt. Wir müssen etwas unternehmen, schnell!“
 
 {SOUND: Thunderous distant crash. The Sorrow has smashed through a heavy door at the bottom of a very tall tower. The crash reverberates all the way to the top.}</DefaultText>
       <FemaleText />
@@ -935,9 +935,9 @@ Der spektrale Mann erscheint plötzlich vor dir, sein Gesicht vor Schrecken verz
       <ID>201</ID>
       <DefaultText>Plötzlich hörst du einen ohrenbetäubenden Knall. Die Luft scheint geladen und bringt jedes Haar deines Körpers dazu, sich aufzustellen. Tatsächlich scheint die Elektrizität deinen gesamten Körper zu erfüllen.
 
-Der spektrale Mann erscheint wieder vor dir. Er legt seine Hände auf deine Schultern, aber du spürst nichts. "Er hat die elektrostatische Barriere *zerbrochen*! Wenn er dasselbe mit dem Plasma-Fenster macht, sind wir verloren."
+Der spektrale Mann erscheint wieder vor dir. Er legt seine Hände auf deine Schultern, aber du spürst nichts. „Er hat die elektrostatische Barriere *zerbrochen*! Wenn er dasselbe mit dem Plasma-Fenster macht, sind wir verloren.“
 
-Er sieht durch die Klappe am Boden, als könnte er durch sie hindurchsehen. "Wie sieht der Plan aus? Du hast doch einen, oder?"
+Er sieht durch die Klappe am Boden, als könnte er durch sie hindurchsehen. „Wie sieht der Plan aus? Du hast doch einen, oder?“
 
 {SOUND: Sharp sizzle and loud pop. The Sorrow has broken through a powerful electrostatic barrier.}</DefaultText>
       <FemaleText />
@@ -961,7 +961,7 @@ Aus dem Wolkengewulst dringt ein Gesicht hervor. Es untersucht dich und wendet s
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>Du drückst den Kristall tief in das Innere des Kummers und rufst dann laut das Befehlswort. Strahlen aus Licht dringen in alle Richtungen aus dem Kummer heraus. Er schreit vor Schmerz und Wut auf. Eines seiner Tentakel schlägt nach dir und teilt dabei sowohl die Wand als auch den Stahlboden entzwei. Es erreicht dein Gesicht und ...
+      <DefaultText>Du drückst den Kristall tief in das Innere des Kummers und rufst dann laut das Befehlswort. Strahlen aus Licht dringen in alle Richtungen aus dem Kummer heraus. Er schreit vor Schmerz und Wut auf. Eines seiner Tentakel schlägt nach dir und teilt dabei sowohl die Wand als auch den Stahlboden entzwei. Es erreicht dein Gesicht und …
 
 Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird klar, dass die Kuppel - nein, dein Körper selbst sich auflöst, von einem Gerät an einen anderen Ort transportiert.
 
@@ -970,12 +970,12 @@ Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird kl
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Lass sie in Ruhe! Ich bin derjenige, der die Bewusstseinsübertragung in Gang gesetzt hat. Nimm mich!"</DefaultText>
+      <DefaultText>„Lass sie in Ruhe! Ich bin derjenige, der die Bewusstseinsübertragung in Gang gesetzt hat. Nimm mich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>Der Kummer richtet seine furchterregende Aufmerksamkeit auf dich. Eines seiner Tentakel schlägt nach dir und teilt dabei sowohl die Wand als auch den Stahlboden entzwei. Es erreicht dein Gesicht und ...
+      <DefaultText>Der Kummer richtet seine furchterregende Aufmerksamkeit auf dich. Eines seiner Tentakel schlägt nach dir und teilt dabei sowohl die Wand als auch den Stahlboden entzwei. Es erreicht dein Gesicht und …
 
 Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird klar, dass die Kuppel - nein, dein Körper selbst sich auflöst, von einem Gerät an einen anderen Ort transportiert.
 
@@ -1000,19 +1000,19 @@ Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird kl
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>Dem Berater zurufen: "Bring mich hier raus!"</DefaultText>
+      <DefaultText>Dem Berater zurufen: „Bring mich hier raus!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>Dem Berater zurufen: "Bring Miika hier raus!"</DefaultText>
+      <DefaultText>Dem Berater zurufen: „Bring Miika hier raus!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
       <DefaultText>Das Heulen des Kummers wird zu einem Kreischen.
 
-Obwohl der spektrale Berater nicht da ist, hörst du seine Stimme in deinem Kopf. "Ich widersetze mich deinem Befehl. Wir haben immer gesagt, dass wir uns nicht von Emotionen übermannen lassen würden. Wenn sie stirbt, stirbt sie. Aber wenn du stirbst, sind wir beide verloren, sowie unser gesamtes Vermächtnis."
+Obwohl der spektrale Berater nicht da ist, hörst du seine Stimme in deinem Kopf. „Ich widersetze mich deinem Befehl. Wir haben immer gesagt, dass wir uns nicht von Emotionen übermannen lassen würden. Wenn sie stirbt, stirbt sie. Aber wenn du stirbst, sind wir beide verloren, sowie unser gesamtes Vermächtnis.“
 
 Vor Wut wirbelt der Kummer mit seinen Tentakeln durch das Labor. Dabei zerfetzt sie die Truhe und den Diamanten. Die Kammer geht in einem purpurnen Flammenball auf, und das letzte, was du sehen kannst, bevor dein Verstand diesen Körper verlässt, ist das Gesicht des jungen Mädchens, das dahinschmilzt und in Asche verglüht.
 
@@ -1024,7 +1024,7 @@ Vor Wut wirbelt der Kummer mit seinen Tentakeln durch das Labor. Dabei zerfetzt 
       <ID>213</ID>
       <DefaultText>Das Heulen des Kummers wird zu einem Kreischen.
 
-Obwohl der spektrale Berater nicht da ist, hörst du seine Stimme in deinem Kopf. "Gut, dass der Sicherheitsmechanismus funktioniert. Du bist in Sicherheit - im Gegensatz zu mir und dem Mädchen. Ich werde mich sicher erholen können, aber sie ... Ich bin mir sicher, dass-"
+Obwohl der spektrale Berater nicht da ist, hörst du seine Stimme in deinem Kopf. „Gut, dass der Sicherheitsmechanismus funktioniert. Du bist in Sicherheit - im Gegensatz zu mir und dem Mädchen. Ich werde mich sicher erholen können, aber sie … Ich bin mir sicher, dass-“
 
 Er wird durch die herumwirbelnden Tentakeln des Kummers unterbrochen. Die Truhe und der Diamanten werden von ihnen zerfetzt. Die Kammer geht in einem purpurnen Flammenball auf, und das letzte, was du sehen kannst, bevor dein Verstand diesen Körper verlässt, ist das Gesicht des jungen Mädchens, das dahinschmilzt und in Asche verglüht.
 
@@ -1039,24 +1039,24 @@ Er wird durch die herumwirbelnden Tentakeln des Kummers unterbrochen. Die Truhe 
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Erzähl mir von der Truhe."</DefaultText>
+      <DefaultText>„Erzähl mir von der Truhe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Erzähl mir von dem Diamanten."</DefaultText>
+      <DefaultText>„Erzähl mir von dem Diamanten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"Was ist damit? Das Letzte, woran ich mich erinnern kann, ist, dass du einige Dinge dort verstaut hast, während ich deaktiviert war. Deshalb kann ich dir auch nicht sagen, was genau sich darin befindet." Er verschränkt die Arme. "Ich weiß wirklich nicht, wie ich dich vernünftig beraten soll, wenn du etwas vor mir verheimlichst."</DefaultText>
+      <DefaultText>„Was ist damit? Das Letzte, woran ich mich erinnern kann, ist, dass du einige Dinge dort verstaut hast, während ich deaktiviert war. Deshalb kann ich dir auch nicht sagen, was genau sich darin befindet.“ Er verschränkt die Arme. „Ich weiß wirklich nicht, wie ich dich vernünftig beraten soll, wenn du etwas vor mir verheimlichst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Deine Archive? Das Interface des Archivs ist mit meinem nicht direkt verbunden. Ich weiß nur über etwas Bescheid, wenn du es in *meine* Datenbank einspeist - was du übrigens seit Jahren nicht mehr getan hast. Ansonsten bleiben das Notizen an dich selbst."
+      <DefaultText>„Deine Archive? Das Interface des Archivs ist mit meinem nicht direkt verbunden. Ich weiß nur über etwas Bescheid, wenn du es in *meine* Datenbank einspeist - was du übrigens seit Jahren nicht mehr getan hast. Ansonsten bleiben das Notizen an dich selbst.“
 
-Plötzlich greift er mit einer Hand nach dir. "Solltest du nach einer Lösung für unsere Situation suchen, dann muss ich dich warnen. Wir haben nicht viel Zeit, und du hast sehr viele Notizen hinterlassen."</DefaultText>
+Plötzlich greift er mit einer Hand nach dir. „Solltest du nach einer Lösung für unsere Situation suchen, dann muss ich dich warnen. Wir haben nicht viel Zeit, und du hast sehr viele Notizen hinterlassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1098,12 +1098,12 @@ Nichts passiert.</DefaultText>
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Was sollen wir tun?"</DefaultText>
+      <DefaultText>„Was sollen wir tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>"Erzähl mir noch einmal, was wir tun sollen."</DefaultText>
+      <DefaultText>„Erzähl mir noch einmal, was wir tun sollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1113,16 +1113,16 @@ Nichts passiert.</DefaultText>
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>"Ich rate dir sehr dazu, dich selbst zu retten. Damit rettest du nämlich uns beide. Leider würde das bedeuten, *sie* zurückzulassen." Er sieht zur Kammer herüber und runzelt die Stirn.
+      <DefaultText>„Ich rate dir sehr dazu, dich selbst zu retten. Damit rettest du nämlich uns beide. Leider würde das bedeuten, *sie* zurückzulassen.“ Er sieht zur Kammer herüber und runzelt die Stirn.
 
-"Mir gefällt das genauso wenig wie dir. Aber die einzigen anderen Optionen wären, den Kummer irgendwie gewaltsam aufzuhalten, oder herauszufinden, was er will. Ersteres halte ich für sehr unwahrscheinlich." Er schüttelt seinen durchsichtigen Kopf. "Ich glaube nicht, dass wir genug Zeit für beide Optionen haben. Es sei denn, du weißt etwas, dass ich nicht weiß."
+„Mir gefällt das genauso wenig wie dir. Aber die einzigen anderen Optionen wären, den Kummer irgendwie gewaltsam aufzuhalten, oder herauszufinden, was er will. Ersteres halte ich für sehr unwahrscheinlich.“ Er schüttelt seinen durchsichtigen Kopf. „Ich glaube nicht, dass wir genug Zeit für beide Optionen haben. Es sei denn, du weißt etwas, dass ich nicht weiß.“
 
-Er zeigt auf den schwebenden Diamanten. "Vielleicht kannst du in den Archiven etwas finden, das uns hilft. Aber sei vorsichtig, wonach du suchst. Wir haben keine Zeit zu verlieren."</DefaultText>
+Er zeigt auf den schwebenden Diamanten. „Vielleicht kannst du in den Archiven etwas finden, das uns hilft. Aber sei vorsichtig, wonach du suchst. Wir haben keine Zeit zu verlieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Nun, wenn du darauf bestehst, unser beider Leben aufs Spiel zu setzen und bis zur letzten Sekunde zu warten, dann kann ich dir nur raten, dass du etwas findest, mit dem du uns beschützen kannst. Oder du findest heraus, auf was es der Kummer abgesehen hat. Aber sei vorsichtig, wonach du in den Archiven suchst. Du verschwindest gerne in Sticha-Löchern, und dafür haben wir jetzt keine Zeit."</DefaultText>
+      <DefaultText>„Nun, wenn du darauf bestehst, unser beider Leben aufs Spiel zu setzen und bis zur letzten Sekunde zu warten, dann kann ich dir nur raten, dass du etwas findest, mit dem du uns beschützen kannst. Oder du findest heraus, auf was es der Kummer abgesehen hat. Aber sei vorsichtig, wonach du in den Archiven suchst. Du verschwindest gerne in Sticha-Löchern, und dafür haben wir jetzt keine Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1132,37 +1132,37 @@ Er zeigt auf den schwebenden Diamanten. "Vielleicht kannst du in den Archiven et
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Das Plasma-Fenster gibt nach! Er wird jede Sekunde hier sein!"</DefaultText>
+      <DefaultText>„Das Plasma-Fenster gibt nach! Er wird jede Sekunde hier sein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>"Er ist direkt unter uns! Zwischen uns und unserer Vernichtung steht nur noch dieses Plasma-Fenster."</DefaultText>
+      <DefaultText>„Er ist direkt unter uns! Zwischen uns und unserer Vernichtung steht nur noch dieses Plasma-Fenster.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>"Er hat fast die elektrostatische Barriere überwunden! Wir haben keine Zeit zu verlieren."</DefaultText>
+      <DefaultText>„Er hat fast die elektrostatische Barriere überwunden! Wir haben keine Zeit zu verlieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>"Er ist im Innern des Turms! Wenn er an der elektrostatischen Barriere vorbeikommt, schützt uns nur noch das Plasma-Fenster."</DefaultText>
+      <DefaultText>„Er ist im Innern des Turms! Wenn er an der elektrostatischen Barriere vorbeikommt, schützt uns nur noch das Plasma-Fenster.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>"Er ist fast in die unterste Ebene des Turms vorgedrungen - es ist nur noch eine Frage von Minuten."</DefaultText>
+      <DefaultText>„Er ist fast in die unterste Ebene des Turms vorgedrungen - es ist nur noch eine Frage von Minuten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>"Er befindet sich am Fuß des Turms und versucht, sich seinen Weg freizubrechen. Ich würde nicht davon ausgehen, dass die Tür aus Synthstahl das verhindern kann. Sobald er durch ist, müssen wir hoffen, dass die elektrostatische Barriere oder das Plasma-Fenster ihn aufhalten wird." Er reibt mit einer Hand seinen Nacken. Offenbar scheint er nicht viel Vertrauen in diese beiden Abwehrmechanismen zu haben.</DefaultText>
+      <DefaultText>„Er befindet sich am Fuß des Turms und versucht, sich seinen Weg freizubrechen. Ich würde nicht davon ausgehen, dass die Tür aus Synthstahl das verhindern kann. Sobald er durch ist, müssen wir hoffen, dass die elektrostatische Barriere oder das Plasma-Fenster ihn aufhalten wird.“ Er reibt mit einer Hand seinen Nacken. Offenbar scheint er nicht viel Vertrauen in diese beiden Abwehrmechanismen zu haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>"Der transdimensionale Wandprojektor, den du gefunden hast, wird uns ein wenig mehr Zeit verschaffen. Vermutlich aber nicht so viel, wie wir gerne hätten."</DefaultText>
+      <DefaultText>„Der transdimensionale Wandprojektor, den du gefunden hast, wird uns ein wenig mehr Zeit verschaffen. Vermutlich aber nicht so viel, wie wir gerne hätten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1180,7 +1180,7 @@ Last Barrier at [Global: MBG2_SorrowTimerExpire03].</DefaultText>
       <ID>246</ID>
       <DefaultText>Du hörst einen donnernden Knall. Der Boden unter dir wird geschüttelt, wodurch du den Halt verlierst. Außerhalb der Kuppel siehst du den Horizont vor- und zurückschnellen, dir wird schwindelig.
 
-Plötzlich erscheint ein Mann vor dir. Er ist nicht vollständig da – du kannst die Wolken und die Szenerie des Ortes, an dem er sich tatsächlich befindet, hinter ihm erkennen. Sein Gesicht ist von schrecklicher Angst gezeichnet. "Er ist in den Turm eingedrungen! Jetzt ist es nur noch eine Frage der Zeit, bis er hier ankommt. Wir müssen etwas unternehmen, schnell!"
+Plötzlich erscheint ein Mann vor dir. Er ist nicht vollständig da – du kannst die Wolken und die Szenerie des Ortes, an dem er sich tatsächlich befindet, hinter ihm erkennen. Sein Gesicht ist von schrecklicher Angst gezeichnet. „Er ist in den Turm eingedrungen! Jetzt ist es nur noch eine Frage der Zeit, bis er hier ankommt. Wir müssen etwas unternehmen, schnell!“
 
 Sein Verhalten erinnert dich an das Phantom aus dem Labyrinth, auch wenn sein Gesicht, seine Kleidung und seine Stimme völlig anders sind.
 
@@ -1189,7 +1189,7 @@ Sein Verhalten erinnert dich an das Phantom aus dem Labyrinth, auch wenn sein Ge
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>Du hast nur zwei Schritte gemacht, bevor der Kummer dir seine furchterregende Aufmerksamkeit widmet. Eines seiner Tentakel schlägt nach dir und teilt dabei sowohl die Wand als auch den Stahlboden entzwei. Es erreicht dein Gesicht und ...
+      <DefaultText>Du hast nur zwei Schritte gemacht, bevor der Kummer dir seine furchterregende Aufmerksamkeit widmet. Eines seiner Tentakel schlägt nach dir und teilt dabei sowohl die Wand als auch den Stahlboden entzwei. Es erreicht dein Gesicht und …
 
 Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird klar, dass die Kuppel - nein, dein Körper selbst sich auflöst, von einem Gerät an einen anderen Ort transportiert.
 
@@ -1300,12 +1300,12 @@ Endlich findest du, wonach du gesucht hast. Eine männliche Stimme - die Stimme 
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>"Erinnerst du dich nicht? Ich schätze, deshalb hast du mich erschaffen." Er lacht. Dann wird er schlagartig ernst. "Du hast nie versucht, dein Bewusstsein mit ihrem zu verschmelzen. Unsere Nachforschungen hatten ergeben, dass dadurch deine Persönlichkeit ausgelöscht werden würde - und du warst nicht zufrieden damit, dass nur ich von uns beiden übrig geblieben wäre. Also haben wir diese Option ausgeschlossen und einen anderen Weg gesucht."</DefaultText>
+      <DefaultText>„Erinnerst du dich nicht? Ich schätze, deshalb hast du mich erschaffen.“ Er lacht. Dann wird er schlagartig ernst. „Du hast nie versucht, dein Bewusstsein mit ihrem zu verschmelzen. Unsere Nachforschungen hatten ergeben, dass dadurch deine Persönlichkeit ausgelöscht werden würde - und du warst nicht zufrieden damit, dass nur ich von uns beiden übrig geblieben wäre. Also haben wir diese Option ausgeschlossen und einen anderen Weg gesucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>Er schüttelt den Kopf. "Ich fürchte, das können wir nicht. Du hast die Idee abgelehnt, noch bevor wir irgendwelche Experimente durchführen konnten. Wir bräuchten eine Art psychisches Substrat, in dem sowohl deines als auch ihr Bewusstsein gleichzeitig existieren können. Dann brauchen wir einen Katalysator, der eine passende Resonanz erzeugen kann, um euch beide zu verschmelzen. Mit genügend Zeit wäre es sicherlich machbar, aber der Kummer steht direkt vor der Tür!"</DefaultText>
+      <DefaultText>Er schüttelt den Kopf. „Ich fürchte, das können wir nicht. Du hast die Idee abgelehnt, noch bevor wir irgendwelche Experimente durchführen konnten. Wir bräuchten eine Art psychisches Substrat, in dem sowohl deines als auch ihr Bewusstsein gleichzeitig existieren können. Dann brauchen wir einen Katalysator, der eine passende Resonanz erzeugen kann, um euch beide zu verschmelzen. Mit genügend Zeit wäre es sicherlich machbar, aber der Kummer steht direkt vor der Tür!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1330,7 +1330,7 @@ Endlich findest du, wonach du gesucht hast. Eine männliche Stimme - die Stimme 
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>"Nein." Er schüttelt nachdrücklich den Kopf. "Ich habe den Sicherheitsmechanismus bereits darauf eingestellt, sie an deiner Stelle wegzuteleportieren - was ich übrigens für eine *schlechte* Idee halte. Aber ich werde jetzt nicht unser aller Leben aufs Spiel setzen, egal, wie viel Angst du hast."</DefaultText>
+      <DefaultText>„Nein.“ Er schüttelt nachdrücklich den Kopf. „Ich habe den Sicherheitsmechanismus bereits darauf eingestellt, sie an deiner Stelle wegzuteleportieren - was ich übrigens für eine *schlechte* Idee halte. Aber ich werde jetzt nicht unser aller Leben aufs Spiel setzen, egal, wie viel Angst du hast.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
