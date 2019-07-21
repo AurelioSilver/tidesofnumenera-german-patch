@@ -25,7 +25,7 @@ Die raue Stimme ihres Oberhauptes fährt mit dem Ritual fort: „Sei befreit vom
 
 Er wirft eine Handvoll Pulver in das Feuer – vielleicht metallische Salze – und ein Geysir aus leuchtender Glut steigt in den Nachthimmel. Manche Funken leuchten golden, manche grün, einige violett.
 
-„Sei befreit vom Zorn.“ Sie wiederholen die Worte des Oberhaupts.  {VOICE: This is the headman speaking this quoted line.}
+„Sei befreit vom Zorn.“ Sie wiederholen die Worte des Oberhaupts. {VOICE: This is the headman speaking this quoted line.}
 
 Während die Funken hinaus in die Weite der Einöde schweben und zwischen den Lichtern der Sterne und der Lagerfeuer erlöschen, hörst du Matkina andachtsvoll flüstern: „Sei befreit.“
 
@@ -517,7 +517,7 @@ Er schnüffelt in der Luft herum und nickt dann noch einmal mit seinem schweren 
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>„Nein“, antwortet Neng. „Nein, es ist kein Paradies. Und nein, ich habe es niemals verlassen. Aber  wie ich schon sage, so einfach ist das nicht.“
+      <DefaultText>„Nein“, antwortet Neng. „Nein, es ist kein Paradies. Und nein, ich habe es niemals verlassen. Aber wie ich schon sage, so einfach ist das nicht.“
 
 Er kratzt sich am Kinn und sieht kurz danach aus, als wollte er noch mehr sagen, doch dann verkneift er es sich sichtlich. Nach einer Weile aber spricht er *doch*, allerdings über ein anderes Thema.
 
@@ -626,7 +626,7 @@ Nachdem sie sich von alleine aufrichtet, murmelt sie: „Danke für die Hilfe, T
 
 Hinter ihnen, in der Ferne, kannst du das Dorf Kholn erkennen. Die Sandritter haben es erreicht und sie scheinen sich mit Neng und den übrigen Bewohnern zu unterhalten.
 
-Ohne Vorwarnung richtet einer der Leibwächter seine Waffe auf Matkina und feuert. Aber sie ist bereits in Bewegung und wird nur gestreift. Mit der Klinge in der Hand nähert sie sich einem weiteren Glaive, der ein anderes Gerät einsatzbereit macht.  Noch bevor Matkina zum Schwung ausholen kann, ist sie wie eingefroren. Gefangen in einer Zelle aus schimmernder Energie.
+Ohne Vorwarnung richtet einer der Leibwächter seine Waffe auf Matkina und feuert. Aber sie ist bereits in Bewegung und wird nur gestreift. Mit der Klinge in der Hand nähert sie sich einem weiteren Glaive, der ein anderes Gerät einsatzbereit macht. Noch bevor Matkina zum Schwung ausholen kann, ist sie wie eingefroren. Gefangen in einer Zelle aus schimmernder Energie.
 
 Paj zielt mit einem kleinen Cypher auf das Jahk. Die anderen sehen zu und beachten dich so gut wie gar nicht.
 
@@ -646,7 +646,7 @@ Ohne dich umzudrehen sprintest du den Hügel hinauf und auf der flacheren Seite 
 
 Aber eine plötzliche Verwirrung macht sich in einem Verstand breit und erspart dir die Sorge über die Reise. Du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel …
 
-{SOUND [A]: Scrambling sound of running up a hillside, can recycle the other climbing sound if there's not time for  a new one.}</DefaultText>
+{SOUND [A]: Scrambling sound of running up a hillside, can recycle the other climbing sound if there's not time for a new one.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -739,7 +739,7 @@ Du versteckst dich zwischen Felsen und beobachtet aus der Deckung heraus, wie Pa
 
 Matkina schaut zitternd und hilflos aus ihrem Energiegefängnis heraus zu. Paj nickt, woraufhin zwei ihrer Leibwächter sie von der Klippe in das Chaos weiter unten werfen. Nach getaner Arbeit eilen Paj und ihre Truppe davon.
 
-{SOUND [A]: Scramblign sound, followed by… Some kind of techno-shot firing, followed by something shattering. A moment later, a distant but terrifying shriek – I'm thinking like the fell beasts in LOTR. Then the sound of gunfire, distant, like pops. Perhaps some very faint and indistinct shouts.  Maybe fainter in this version than elsewhere when this sound is used, since the MPC is farther off.}</DefaultText>
+{SOUND [A]: Scramblign sound, followed by… Some kind of techno-shot firing, followed by something shattering. A moment later, a distant but terrifying shriek – I'm thinking like the fell beasts in LOTR. Then the sound of gunfire, distant, like pops. Perhaps some very faint and indistinct shouts. Maybe fainter in this version than elsewhere when this sound is used, since the MPC is farther off.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
