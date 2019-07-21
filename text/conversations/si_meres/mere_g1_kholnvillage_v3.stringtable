@@ -10,7 +10,7 @@
 
 Tashs Körper – der nun dir gehört – klebt an dir wie ein nasses Tuch. Die Welt ist zu hell, als dass es Nacht sein könnte. Alles um dich herum ist zu deutlich, die Ferne zu nah, Kanten zu scharf. Die Erinnerungen schwirren wie Blutfliegen durch deinen Kopf und surren davon, bevor du eine von ihnen greifen kannst.
 
-Abgeplagte Aneen heben hinter dir unter Schnauben ihre Glieder. Sie haben schon zu lange keine Pause mehr eingelegt, so wie du. Und dann ist da noch Matkina. Eine viel *neuere* Matkina, so als hätte sie ein eifriger Maler erschaffen. Zu weich, zu lebhaft, zu ... schön. Einfach nicht richtig. {VOICE: To be clear, "And there's Matkina" is meant to be "there is also Matkina" not "And over there is Matkina." I would put a slight pause before, and a slight emphasis on, "pretty."}
+Abgeplagte Aneen heben hinter dir unter Schnauben ihre Glieder. Sie haben schon zu lange keine Pause mehr eingelegt, so wie du. Und dann ist da noch Matkina. Eine viel *neuere* Matkina, so als hätte sie ein eifriger Maler erschaffen. Zu weich, zu lebhaft, zu … schön. Einfach nicht richtig. {VOICE: To be clear, „And there's Matkina“ is meant to be „there is also Matkina“ not „And over there is Matkina.“ I would put a slight pause before, and a slight emphasis on, „pretty.“}
 
 In der Einöde erkennst du das Licht von Lagerfeuern. Aber ein noch größeres Feuer brennt in dem kleinen Dorf, das vor dir liegt. {VOICE: This could end slightly ominously in tone.}
 
@@ -21,21 +21,21 @@ In der Einöde erkennst du das Licht von Lagerfeuern. Aber ein noch größeres F
       <ID>2</ID>
       <DefaultText>Es ist ein Scheiterhaufen. Auf ihm brennt langsam ein übergroßer Körper. Dunkle Rauchschwaden erheben sich von ihm ausgehend in den Nachthimmel. Einige Dorfbewohner umkreisen zitternd und klagend den Scheiterhaufen.
 
-Die raue Stimme ihres Oberhauptes fährt mit dem Ritual fort: "Sei befreit vom Exil." Unter den Trauernden sind einige, die einstimmen. "Sei befreit." {VOICE: Probably obvious, the headman should have a deeper, more sonorous voice than the others.}
+Die raue Stimme ihres Oberhauptes fährt mit dem Ritual fort: „Sei befreit vom Exil.“ Unter den Trauernden sind einige, die einstimmen. „Sei befreit.“ {VOICE: Probably obvious, the headman should have a deeper, more sonorous voice than the others.}
 
 Er wirft eine Handvoll Pulver in das Feuer – vielleicht metallische Salze – und ein Geysir aus leuchtender Glut steigt in den Nachthimmel. Manche Funken leuchten golden, manche grün, einige violett.
 
-"Sei befreit vom Zorn." Sie wiederholen die Worte des Oberhaupts.  {VOICE: This is the headman speaking this quoted line.}
+„Sei befreit vom Zorn.“ Sie wiederholen die Worte des Oberhaupts.  {VOICE: This is the headman speaking this quoted line.}
 
-Während die Funken hinaus in die Weite der Einöde schweben und zwischen den Lichtern der Sterne und der Lagerfeuer erlöschen, hörst du Matkina andachtsvoll flüstern: "Sei befreit."
+Während die Funken hinaus in die Weite der Einöde schweben und zwischen den Lichtern der Sterne und der Lagerfeuer erlöschen, hörst du Matkina andachtsvoll flüstern: „Sei befreit.“
 
-{SOUND [A]: Continued crackling of a pyre, followed by a kind of "whoosh" for when the metal salts are flung onto it.}</DefaultText>
+{SOUND [A]: Continued crackling of a pyre, followed by a kind of „whoosh“ for when the metal salts are flung onto it.}</DefaultText>
       <FemaleText>{SOUND: All sounds fade except the rain.}</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Was geht hier vor sich, Matkina?"</DefaultText>
-      <FemaleText>{SCRIPT: Illustration - Dead Captain}"</FemaleText>
+      <DefaultText>„Was geht hier vor sich, Matkina?“</DefaultText>
+      <FemaleText>{SCRIPT: Illustration - Dead Captain}</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -54,12 +54,12 @@ Während die Funken hinaus in die Weite der Einöde schweben und zwischen den Li
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Matkina, hör mir zu – wir müssen das Jahk finden und deine Erinnerungen beschützen."</DefaultText>
+      <DefaultText>„Matkina, hör mir zu – wir müssen das Jahk finden und deine Erinnerungen beschützen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Matkina, das hier ist ernst. *Du*hast mich hierher geschickt."</DefaultText>
+      <DefaultText>„Matkina, das hier ist ernst. *Du*hast mich hierher geschickt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -69,9 +69,9 @@ Während die Funken hinaus in die Weite der Einöde schweben und zwischen den Li
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"*Was* finden?" Matkina sieht dich ratlos an und schüttelt dann den Kopf. "Zeig ein bisschen Respekt, Tash. Das hier ist mein Zuhause. Wir sind hier, um Menschen zu retten, die ich schon jahrelang kenne."
+      <DefaultText>„*Was* finden?“ Matkina sieht dich ratlos an und schüttelt dann den Kopf. „Zeig ein bisschen Respekt, Tash. Das hier ist mein Zuhause. Wir sind hier, um Menschen zu retten, die ich schon jahrelang kenne.“
 
-Einen Augenblick später fügt sie hinzu: "Einmal ganz abgesehen davon, dass *du* hier die einzige Gefahr für meine Erinnerungen bist, Tash. Versuch ein Mal, deine Gezeitenwelle an mir auszuprobieren, und ich brenne dir deine schicken Augen geradewegs aus dem Schädel."
+Einen Augenblick später fügt sie hinzu: „Einmal ganz abgesehen davon, dass *du* hier die einzige Gefahr für meine Erinnerungen bist, Tash. Versuch ein Mal, deine Gezeitenwelle an mir auszuprobieren, und ich brenne dir deine schicken Augen geradewegs aus dem Schädel.“
 
 Sie lächelt, als wäre es nicht das erste Mal, dass Tash sie aufgezogen und dafür das Versprechen einer grausigen Bestrafung erhalten hat.</DefaultText>
       <FemaleText />
@@ -80,45 +80,45 @@ Sie lächelt, als wäre es nicht das erste Mal, dass Tash sie aufgezogen und daf
       <ID>13</ID>
       <DefaultText>Jetzt ist das Lachen in ihren Augen verschwunden, und es bleibt nur der kalte Blick der Frau, die dich hierher geschickt hat.
 
-"Tash, das *reicht*", faucht sie. "Sie trauern um einen Mann, der ermordet wurde. Und der dort?" Sie zeigt auf das Oberhaupt, "Er war fast sowas wie ein Vater für mich. Ich kenne diese Leute. Sie *bedeuten* mir etwas, auch wenn die ganze Welt und alles, was mit ihr falsch läuft, für dich nur ein einziger Scherz ist."
+„Tash, das *reicht*“, faucht sie. „Sie trauern um einen Mann, der ermordet wurde. Und der dort?“ Sie zeigt auf das Oberhaupt, „Er war fast sowas wie ein Vater für mich. Ich kenne diese Leute. Sie *bedeuten* mir etwas, auch wenn die ganze Welt und alles, was mit ihr falsch läuft, für dich nur ein einziger Scherz ist.“
 
 Sie wendet sich von dir ab und dem Scheiterhaufen zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Matkina antwortet, ohne dich anzusehen. Ihre Blick ist auf das Feuer und das darin brennende Fleisch fixiert. "Das machen sie immer, wenn einer der Hügelmenschen stirbt. Niemals unter die Erde. Immer nach oben."
+      <DefaultText>Matkina antwortet, ohne dich anzusehen. Ihre Blick ist auf das Feuer und das darin brennende Fleisch fixiert. „Das machen sie immer, wenn einer der Hügelmenschen stirbt. Niemals unter die Erde. Immer nach oben.“
 
-"Flachlandmenschen wie ich dürfen Feuerholz bringen und mit ihnen trauern, aber wir dürfen nicht mitsprechen." Sie hält kurz inne und fügt dann hinzu: "An den Geruch konnte ich mich nie gewöhnen. Selbst, wenn sie Wacholder oder Balsam mitverbrennen. Am Ende ist es am schlimmsten."
+„Flachlandmenschen wie ich dürfen Feuerholz bringen und mit ihnen trauern, aber wir dürfen nicht mitsprechen.“ Sie hält kurz inne und fügt dann hinzu: „An den Geruch konnte ich mich nie gewöhnen. Selbst, wenn sie Wacholder oder Balsam mitverbrennen. Am Ende ist es am schlimmsten.“
 
-Sie zuckt mit den Schultern. "Wenn alles vorüber ist, gibt es keine Trauer mehr. Für sie ist das wirklich wie eine Erlösung." Sie sieht nachdenklich aus, sagt aber nichts mehr.</DefaultText>
+Sie zuckt mit den Schultern. „Wenn alles vorüber ist, gibt es keine Trauer mehr. Für sie ist das wirklich wie eine Erlösung.“ Sie sieht nachdenklich aus, sagt aber nichts mehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Du gehst an Matkina vorbei und bahnst dir deinen Weg in das Licht, dass der brennende Körper um den Scheiterhaufen wirft. Das Oberhaupt schenkt dir keinerlei Aufmerksamkeit, und noch bevor du ein Wort sagen kannst, zieht dich Matkina ruckartig zurück. "Du Laakfresser! Diese Sache hier ist wichtig. Für sie. Für *mich*!"
+      <DefaultText>Du gehst an Matkina vorbei und bahnst dir deinen Weg in das Licht, dass der brennende Körper um den Scheiterhaufen wirft. Das Oberhaupt schenkt dir keinerlei Aufmerksamkeit, und noch bevor du ein Wort sagen kannst, zieht dich Matkina ruckartig zurück. „Du Laakfresser! Diese Sache hier ist wichtig. Für sie. Für *mich*!“
 
-Als das Ritual schließlich abgeschlossen ist und die Trauernden weiterziehen, führt sie dich zu dem glühenden Scheiterhaufen, an dem nun nur noch das Oberhaupt steht. Er schnüffelt, während ihr euch nähert. "Kina", sagt er. "Und ein Fremder." Seine Augen sehen aus wie runde, milchige Murmeln. Er legt seine Hände auf Matkinas Schultern. "Du kehrst zu einem ungünstigen Zeitpunkt zurück."
+Als das Ritual schließlich abgeschlossen ist und die Trauernden weiterziehen, führt sie dich zu dem glühenden Scheiterhaufen, an dem nun nur noch das Oberhaupt steht. Er schnüffelt, während ihr euch nähert. „Kina“, sagt er. „Und ein Fremder.“ Seine Augen sehen aus wie runde, milchige Murmeln. Er legt seine Hände auf Matkinas Schultern. „Du kehrst zu einem ungünstigen Zeitpunkt zurück.“
 
-Sie berührt sein Kinn. "Ich bin zurückgekehrt, *weil* der Zeitpunkt ungünstig ist, Neng." Ohne weiteren Wortwechsel bewegt ihr drei euch vom Feuer weg und betretet Nengs Heim.</DefaultText>
+Sie berührt sein Kinn. „Ich bin zurückgekehrt, *weil* der Zeitpunkt ungünstig ist, Neng.“ Ohne weiteren Wortwechsel bewegt ihr drei euch vom Feuer weg und betretet Nengs Heim.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Während der Leichnam brennt und die Trauernden singen, wartest du geduldig in den Schatten am Rand des Dorfs. Als er endlich vollständig von den Flammen verzehrt wurde, ruft das Oberhaupt die letzten Worte hinaus: "Sei befreit und gehe hin in die ferne Dunkelheit." Die Dorfbewohner wiederholen seine Worte und verschwinden dann in den Winkeln der Häuser. Schließlich steht das Oberhaupt alleine vor dem glühenden Scheiterhaufen.
+      <DefaultText>Während der Leichnam brennt und die Trauernden singen, wartest du geduldig in den Schatten am Rand des Dorfs. Als er endlich vollständig von den Flammen verzehrt wurde, ruft das Oberhaupt die letzten Worte hinaus: „Sei befreit und gehe hin in die ferne Dunkelheit.“ Die Dorfbewohner wiederholen seine Worte und verschwinden dann in den Winkeln der Häuser. Schließlich steht das Oberhaupt alleine vor dem glühenden Scheiterhaufen.
 
-Matkina ruft dich mit einem Zischen und einer Geste zu sich. Während ihr euch nähert, schnüffelt er in die Luft, und als er euch schließlich sieht, ruft er mit einem breiten Lächeln auf dem Gesicht: "Kina!" Seine Augen sehen aus wie runde, milchige Murmeln. Er legt seine Hände auf Matkinas Schultern. "Du kehrst zu einem ungünstigen Zeitpunkt zurück."
+Matkina ruft dich mit einem Zischen und einer Geste zu sich. Während ihr euch nähert, schnüffelt er in die Luft, und als er euch schließlich sieht, ruft er mit einem breiten Lächeln auf dem Gesicht: „Kina!“ Seine Augen sehen aus wie runde, milchige Murmeln. Er legt seine Hände auf Matkinas Schultern. „Du kehrst zu einem ungünstigen Zeitpunkt zurück.“
 
-Sie berührt sein Kinn. "Ich bin zurückgekehrt, *weil* der Zeitpunkt ungünstig ist, Neng." Ohne weiteren Wortwechsel bewegt ihr drei euch vom Feuer weg und betretet Nengs Heim.</DefaultText>
+Sie berührt sein Kinn. „Ich bin zurückgekehrt, *weil* der Zeitpunkt ungünstig ist, Neng.“ Ohne weiteren Wortwechsel bewegt ihr drei euch vom Feuer weg und betretet Nengs Heim.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Nengs Behausung wirkt klein und bescheiden, es sind kaum Möbel oder Dekorationen vorhanden. Nachdem ihr eingetreten seid, senkt er seinen müden Körper auf ein Sitzkissen und gestikuliert euch zu, dass ihr beiden es ihm gleichtun sollt. Dann beginnt er ohne Vorwort, zu erzählen.
 
-"Haben ihn an einem Baum aufgeknüpft. Den alten Gareb. Haben sich mit ihren Dolchen an ihm vergangen. "Reinigung" nennen sie es." Seine Blindheit versteckt die Mimik anderer vor ihm und hat wohl dazu geführt, dass er seine eigenen, von Wut und Schmerz verzerrten Gesichtsausdrücken nun offen trägt.
+„Haben ihn an einem Baum aufgeknüpft. Den alten Gareb. Haben sich mit ihren Dolchen an ihm vergangen. "Reinigung" nennen sie es.“ Seine Blindheit versteckt die Mimik anderer vor ihm und hat wohl dazu geführt, dass er seine eigenen, von Wut und Schmerz verzerrten Gesichtsausdrücken nun offen trägt.
 
-Mit einem Grummeln fährt er fort. "In einem Netz haben sie ihn nach Hause geschickt, zusammen mit diesem "Vertrag", den sie mit den Flachlandmenschen geschlossen haben." Er zeigt auf das zerknitterte Papier auf dem Boden. "Tik hat es mir vorgelesen."</DefaultText>
+Mit einem Grummeln fährt er fort. „In einem Netz haben sie ihn nach Hause geschickt, zusammen mit diesem "Vertrag", den sie mit den Flachlandmenschen geschlossen haben.“ Er zeigt auf das zerknitterte Papier auf dem Boden. „Tik hat es mir vorgelesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,7 +134,7 @@ Dieser Körper gehört – *du* bist Tash. Das war dir zwar bereits klar, aber j
 
 Du bist eine Art Soldat, im Dienst der Miliz unter dem Kommando von Paj Rekken. Du bist ein Späher. Matkinas Späher. Ihr zwei seid keine Krieger; ihr seid Spezialisten, präzische Tötungsmaschinen.
 
-Aber ihr seid nicht hier, um zu töten. Ihr seid hier, um den Dorfbewohnern etwas zu versprechen, und um ein Objekt zu finden, so etwas wie eine Flöte. Das Jahk. Die Antwort auf die Frage nach dem "warum" entgleitet dir genauso wie deine anderen Erinnerungen.</DefaultText>
+Aber ihr seid nicht hier, um zu töten. Ihr seid hier, um den Dorfbewohnern etwas zu versprechen, und um ein Objekt zu finden, so etwas wie eine Flöte. Das Jahk. Die Antwort auf die Frage nach dem „warum“ entgleitet dir genauso wie deine anderen Erinnerungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,12 +146,12 @@ Doch es steckt noch mehr dahinter. Etwas beharrt darauf, dass du dich an es erin
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Die Welt ist voll von *Orten*, Neng. Euer Hügel hier ist nichts Besonderes."</DefaultText>
+      <DefaultText>„Die Welt ist voll von *Orten*, Neng. Euer Hügel hier ist nichts Besonderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Du musst Paj Rekken nicht vertrauen. Vertraue einfach "Kina"."</DefaultText>
+      <DefaultText>„Du musst Paj Rekken nicht vertrauen. Vertraue einfach "Kina".“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,134 +161,134 @@ Doch es steckt noch mehr dahinter. Etwas beharrt darauf, dass du dich an es erin
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Vergessen wir das Gerede über Vertrauen, Neng, und reden wir über den Tod. Wenn die Sandritter mit diesem Dorf fertig sind, wird niemand mehr übrig sein, um den Scheiterhaufen anzuzünden."</DefaultText>
+      <DefaultText>„Vergessen wir das Gerede über Vertrauen, Neng, und reden wir über den Tod. Wenn die Sandritter mit diesem Dorf fertig sind, wird niemand mehr übrig sein, um den Scheiterhaufen anzuzünden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Er schüttelt seinen großen Kopf. "Da liegst du falsch, Fremder." Er schnüffelt, so als ob er deinen Geruch aufnehmen würde. "Wirklich. Du hast keine Ahnung, wovon du redest."
+      <DefaultText>Er schüttelt seinen großen Kopf. „Da liegst du falsch, Fremder.“ Er schnüffelt, so als ob er deinen Geruch aufnehmen würde. „Wirklich. Du hast keine Ahnung, wovon du redest.“
 
-Matkina unterbricht ihn mit sanfter aber bestimmender Stimme. "Neng, ich weiß, dass das hier deine Heimat ist. Es war auch einmal *meine* Heimat. Aber hier ist es nicht sicher. Paj Rekken hat für euch alle ein Stückchen Land reserviert. Tief in unserem Territorium. Wo wir euch beschützen können."
+Matkina unterbricht ihn mit sanfter aber bestimmender Stimme. „Neng, ich weiß, dass das hier deine Heimat ist. Es war auch einmal *meine* Heimat. Aber hier ist es nicht sicher. Paj Rekken hat für euch alle ein Stückchen Land reserviert. Tief in unserem Territorium. Wo wir euch beschützen können.“
 
-"So einfach ist das nicht", sagt er. "Nicht so einfach. Flachlandmenschen können das nicht verstehen."
+„So einfach ist das nicht“, sagt er. „Nicht so einfach. Flachlandmenschen können das nicht verstehen.“
 
 Matkina zischt frustriert und sieht in deine Richtung – offenbar hofft sie, dass du den sturen alten Mann überzeugen kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Neng neigt seinen Kopf zur Seite und schnäuft. "Die Sandritter nennen uns "Teratomorphs"." Beim letzten Wort rümpft er die Nase. "Monster. Aber wann haben wir je einen der Flachlandmenschen an einem Baum aufgehängt und ihm die Glieder abgehackt?" Er spuckt. "*Sie* sind die Monster, nur in besseren Häuten gekleidet."
+      <DefaultText>Neng neigt seinen Kopf zur Seite und schnäuft. „Die Sandritter nennen uns "Teratomorphs".“ Beim letzten Wort rümpft er die Nase. „Monster. Aber wann haben wir je einen der Flachlandmenschen an einem Baum aufgehängt und ihm die Glieder abgehackt?“ Er spuckt. „*Sie* sind die Monster, nur in besseren Häuten gekleidet.“
 
-Matkina unterbricht ihn schnell und bestimmt. "Hör mir zu: Paj Rekken hat für euch alle ein Stückchen Land reserviert. Tief in unserem Territorium. Ihr werdet dort sicher sein."
+Matkina unterbricht ihn schnell und bestimmt. „Hör mir zu: Paj Rekken hat für euch alle ein Stückchen Land reserviert. Tief in unserem Territorium. Ihr werdet dort sicher sein.“
 
-"So einfach ist das nicht", sagt er. "Nicht so einfach. Flachlandmenschen können das nicht verstehen."
+„So einfach ist das nicht“, sagt er. „Nicht so einfach. Flachlandmenschen können das nicht verstehen.“
 
 Matkina zischt frustriert und sieht in deine Richtung – offenbar hofft sie, dass du den sturen alten Mann überzeugen kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Neng neigt seinen Kopf zur Seite und schnäuft. "Das ist nicht das, worauf sie Sandritter geschworen haben. Sie haben geschworen, nie wieder einen Übergriff durch die "Teratomorphs" zuzulassen." Er rümpft die Nase, als er das Wort ausspricht. "Wir müssen nur den Frieden bewahren."
+      <DefaultText>Neng neigt seinen Kopf zur Seite und schnäuft. „Das ist nicht das, worauf sie Sandritter geschworen haben. Sie haben geschworen, nie wieder einen Übergriff durch die "Teratomorphs" zuzulassen.“ Er rümpft die Nase, als er das Wort ausspricht. „Wir müssen nur den Frieden bewahren.“
 
-Matkina unterbricht ihn schnell und bestimmt. "Neng, du hast *immer* versucht, den Frieden zu bewahren, aber es musste immer ein Blutpreis gezahlt werden." Sie nimmt seine Hand. "Paj Rekken hat für euch alle ein Stückchen Land reserviert. Tief in unserem Territorium. Ihr werdet dort sicher sein."
+Matkina unterbricht ihn schnell und bestimmt. „Neng, du hast *immer* versucht, den Frieden zu bewahren, aber es musste immer ein Blutpreis gezahlt werden.“ Sie nimmt seine Hand. „Paj Rekken hat für euch alle ein Stückchen Land reserviert. Tief in unserem Territorium. Ihr werdet dort sicher sein.“
 
-"So einfach ist das nicht", sagt er. "Nicht so einfach. Flachlandmenschen können das nicht verstehen."
+„So einfach ist das nicht“, sagt er. „Nicht so einfach. Flachlandmenschen können das nicht verstehen.“
 
 Matkina zischt frustriert und sieht in deine Richtung – offenbar hofft sie, dass du den sturen alten Mann überzeugen kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Neng neigt seinen großen Kopf. "Warum sollte ich sie anzweifeln?" Er lächelt. "Es gab da Mal einen süßen kleinen Jungen, ein Flachlandmensch. Ist viel zu weit in die Einöde rausgegangen und war verschwunden. Wir alle hatten ihn schon aufgegeben. Aber Kina?" Er legt seine Hände auf Matkinas Schultern.
+      <DefaultText>Neng neigt seinen großen Kopf. „Warum sollte ich sie anzweifeln?“ Er lächelt. „Es gab da Mal einen süßen kleinen Jungen, ein Flachlandmensch. Ist viel zu weit in die Einöde rausgegangen und war verschwunden. Wir alle hatten ihn schon aufgegeben. Aber Kina?“ Er legt seine Hände auf Matkinas Schultern.
 
-"Sie ist noch in der Nacht mit einem Messer, einer Lampe und einem Seil aufgebrochen. Hat nur gesagt: ‚Ich bringe ihn zurück.' Hat damals sonst kaum geredet, unsere Kina."
+„Sie ist noch in der Nacht mit einem Messer, einer Lampe und einem Seil aufgebrochen. Hat nur gesagt: ‚Ich bringe ihn zurück.' Hat damals sonst kaum geredet, unsere Kina.“
 
-Sie seufzt. "So war es leichter."
+Sie seufzt. „So war es leichter.“
 
-"Eine Woche später kommt sie mit dem jungen auf ihren Schultern zurück! Und hinter sich zieht sie ein Seil mit Chirog-Schädeln her." Seine blinden Augen starren dich an. "Wenn sie spricht, vertraue ich ihr. Aber selbst wenn Paj Rekken uns Land anbietet, können wir nicht einfach verschwinden. So einfach ist das nicht. Flachlandmenschen können das nicht verstehen."</DefaultText>
+„Eine Woche später kommt sie mit dem jungen auf ihren Schultern zurück! Und hinter sich zieht sie ein Seil mit Chirog-Schädeln her.“ Seine blinden Augen starren dich an. „Wenn sie spricht, vertraue ich ihr. Aber selbst wenn Paj Rekken uns Land anbietet, können wir nicht einfach verschwinden. So einfach ist das nicht. Flachlandmenschen können das nicht verstehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>Matkina sieht dich frustriert an und erwartet offensichtlich, dass du ihr unter die Arme greifst.
 
-"Hör zu, Neng. Paj Rekken hat für euch alle ein Stückchen Land reserviert. Tief in unserem Territorium. Ihr werdet dort sicher sein."
+„Hör zu, Neng. Paj Rekken hat für euch alle ein Stückchen Land reserviert. Tief in unserem Territorium. Ihr werdet dort sicher sein.“
 
-"So einfach ist das nicht", sagt er. "Nicht so einfach. Flachlandmenschen können das nicht verstehen."
+„So einfach ist das nicht“, sagt er. „Nicht so einfach. Flachlandmenschen können das nicht verstehen.“
 
 Matkina zischt frustriert und sieht dich an. Es scheint, als hoffte sie darauf, dass du den alten Dickkopf umstimmen kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Er gibt einen tiefen Seufzer von sich. "Das mag stimmen, Fremder. Dieser Hügel, dieses Dorf – all das ist nicht mehr Heimat als irgendwo sonst in der Welt." Dann schüttelt er den Kopf. "Aber wir können nicht einfach gehen."
+      <DefaultText>Er gibt einen tiefen Seufzer von sich. „Das mag stimmen, Fremder. Dieser Hügel, dieses Dorf – all das ist nicht mehr Heimat als irgendwo sonst in der Welt.“ Dann schüttelt er den Kopf. „Aber wir können nicht einfach gehen.“
 
-Matkina antwortet mit sanfter aber bestimmter Stimme. "Neng, ich weiß, dass das hier deine Heimat ist. Es war auch einmal *meine* Heimat. Aber hier ist es nicht sicher. Paj Rekken hat für euch alle ein Stückchen Land reserviert. Tief in unserem Territorium. Wo wir euch beschützen können."
+Matkina antwortet mit sanfter aber bestimmter Stimme. „Neng, ich weiß, dass das hier deine Heimat ist. Es war auch einmal *meine* Heimat. Aber hier ist es nicht sicher. Paj Rekken hat für euch alle ein Stückchen Land reserviert. Tief in unserem Territorium. Wo wir euch beschützen können.“
 
-"So einfach ist das nicht", sagt er. "Nicht so einfach. Flachlandmenschen können das nicht verstehen."
+„So einfach ist das nicht“, sagt er. „Nicht so einfach. Flachlandmenschen können das nicht verstehen.“
 
 Matkina zischt frustriert und sieht in deine Richtung – offenbar hofft sie, dass du den sturen alten Mann überzeugen kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Was können wir denn nicht verstehen?"</DefaultText>
+      <DefaultText>„Was können wir denn nicht verstehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Neng, nur wenige Stunden zu Pferd von hier kampiert eine Hundertschaft Sandritter. Du musst eine Entscheidung treffen."</DefaultText>
+      <DefaultText>„Neng, nur wenige Stunden zu Pferd von hier kampiert eine Hundertschaft Sandritter. Du musst eine Entscheidung treffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Es ist nur dann zu spät, ein neues Leben zu beginnen, wenn man tot ist. Gib deinem Volk die Chance, zu überleben!"</DefaultText>
+      <DefaultText>„Es ist nur dann zu spät, ein neues Leben zu beginnen, wenn man tot ist. Gib deinem Volk die Chance, zu überleben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Wenn du zu stur bist, um das Geschenk der Miliz anzunehmen, dann verdienst du wohl die Seile und Dolche, die die Sandritter mitbringen werden."</DefaultText>
+      <DefaultText>„Wenn du zu stur bist, um das Geschenk der Miliz anzunehmen, dann verdienst du wohl die Seile und Dolche, die die Sandritter mitbringen werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Eine ganze Weile lang wandert der tote Blick von Neng zwischen dir und Matkina hin und her. "Was es bedeutet, ein Hügelmensch zu sein", sagt er schließlich. "Wie es ist, sich jeden Tag selbst in Ketten zu legen." Er seufzt.
+      <DefaultText>Eine ganze Weile lang wandert der tote Blick von Neng zwischen dir und Matkina hin und her. „Was es bedeutet, ein Hügelmensch zu sein“, sagt er schließlich. „Wie es ist, sich jeden Tag selbst in Ketten zu legen.“ Er seufzt.
 
-"Aber vielleicht bin ich nur ein alter Narr. Du bist nicht die Kina, die uns verlassen hat. Und du, Fremder ..." Er unterbricht sich selbst. "Ihr seid Soldaten. Vielleicht habt ihr begonnen, zu verstehen, wie es ist, sich zurückhalten zu müssen."
+„Aber vielleicht bin ich nur ein alter Narr. Du bist nicht die Kina, die uns verlassen hat. Und du, Fremder …“ Er unterbricht sich selbst. „Ihr seid Soldaten. Vielleicht habt ihr begonnen, zu verstehen, wie es ist, sich zurückhalten zu müssen.“
 
-Matkina antwortet deutlich. "Neng, ich habe mich mein ganzes Leben lang zurückhalten müssen. Aber nicht in der Miliz. Sie bedeutet *Freiheit*, Neng. Die Freiheit, zu wissen, dass das was ich tue das Richtige ist und ich mich deshalb *nicht* mehr zurückhalten muss."
+Matkina antwortet deutlich. „Neng, ich habe mich mein ganzes Leben lang zurückhalten müssen. Aber nicht in der Miliz. Sie bedeutet *Freiheit*, Neng. Die Freiheit, zu wissen, dass das was ich tue das Richtige ist und ich mich deshalb *nicht* mehr zurückhalten muss.“
 
-Der alte Mann zuckt mit den Schultern. "Dann habe ich richtig gelegen – du kannst es nicht verstehen."</DefaultText>
+Der alte Mann zuckt mit den Schultern. „Dann habe ich richtig gelegen – du kannst es nicht verstehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Neng schüttelt den Kopf. "Manchmal kommt es einfach nicht zum Schlimmsten. Wir haben *hier* Generation für Generation überlebt – vielleicht überleben wir auch die Sandritter. Und wie ich schon sagte, es ist nicht so, als könnten wir einfach umziehen."</DefaultText>
+      <DefaultText>Neng schüttelt den Kopf. „Manchmal kommt es einfach nicht zum Schlimmsten. Wir haben *hier* Generation für Generation überlebt – vielleicht überleben wir auch die Sandritter. Und wie ich schon sagte, es ist nicht so, als könnten wir einfach umziehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Er ist *dein* Freund, Matkina. Du musst ihn überzeugen."</DefaultText>
+      <DefaultText>„Er ist *dein* Freund, Matkina. Du musst ihn überzeugen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Matkina bittet Neng, seine Hand auszustrecken. Dann zückt sie ein Messer und schneidet sich quer über die Handfläche. Ein tiefer Schnitt. Blut strömt aus der Wunde hinaus in Nengs Hände wie in einen Becher. "Ich würde selbst den letzten Tropfen davon geben, um diesen Ort zu retten."
+      <DefaultText>Matkina bittet Neng, seine Hand auszustrecken. Dann zückt sie ein Messer und schneidet sich quer über die Handfläche. Ein tiefer Schnitt. Blut strömt aus der Wunde hinaus in Nengs Hände wie in einen Becher. „Ich würde selbst den letzten Tropfen davon geben, um diesen Ort zu retten.“
 
-Der alte Mann flucht und lässt das Blut auf den Boden platschen. "Verbinde das", murmelt er. Doch dann sagt er: "Wir können nicht ohne das Jahk gehen."
+Der alte Mann flucht und lässt das Blut auf den Boden platschen. „Verbinde das“, murmelt er. Doch dann sagt er: „Wir können nicht ohne das Jahk gehen.“
 
-"Was?", fragt Matikina.
+„Was?“, fragt Matikina.
 
-"Oben auf dem Hügel, hinter dem Tor. Die Höhle dort ist schon seit Generationen versiegelt. In ihr befindet sich das Jahk. Es hilft uns dabei, unsere schlimmsten Instinkte tief in uns zu verschließen. Wenn wir sein Lied erklingen lassen ..." Er schweift ab und zeigt auf den Scheiterhaufen außerhalb seines Behausung.
+„Oben auf dem Hügel, hinter dem Tor. Die Höhle dort ist schon seit Generationen versiegelt. In ihr befindet sich das Jahk. Es hilft uns dabei, unsere schlimmsten Instinkte tief in uns zu verschließen. Wenn wir sein Lied erklingen lassen …“ Er schweift ab und zeigt auf den Scheiterhaufen außerhalb seines Behausung.
 
-Nach einer kurzen Pause lehnt er sich zu Matkina und flüstert ihr etwas ins Ohr. "Also", sagt er, "du bist der einzige Flachlandmensch, der weiß, wie man das Tor öffnen kann."</DefaultText>
+Nach einer kurzen Pause lehnt er sich zu Matkina und flüstert ihr etwas ins Ohr. „Also“, sagt er, „du bist der einzige Flachlandmensch, der weiß, wie man das Tor öffnen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>Ihr überlasst es Neng, das Vorhaben seinem Volk zu erklären und macht euch auf den Weg zur Anhöhe des Hügels. In der Ferne könnt ihr die Truppen der Sandritter erkennen, die erbarmungslos auf das Dorf Kholn zumarschieren. Neng wird sich auch vor ihnen erklären müssen.
 
-Als ihr an der Höhle ankommt und vor dem riesigen, uralten Tor steht, schüttelt Matkina den Kopf. "Ich frage mich sich Jahren, was das sein soll", sagt sie. "Eine Sage der Hügelmenschen erzählt davon, dass die ersten Männer und Frauen aus dieser Höhle gekommen sind. Sie besagt, dass das Tor sich erst dann öffnen würde, wenn es Zeit für die Menschen ist, zu verschwinden." Sie zuckt mit den Schultern. "Eignet sich wohl gut dazu, Kinder von diesem Ort fernzuhalten, damit sie nicht zu viel herumschnüffeln und das Jahk stören, schätze ich."
+Als ihr an der Höhle ankommt und vor dem riesigen, uralten Tor steht, schüttelt Matkina den Kopf. „Ich frage mich sich Jahren, was das sein soll“, sagt sie. „Eine Sage der Hügelmenschen erzählt davon, dass die ersten Männer und Frauen aus dieser Höhle gekommen sind. Sie besagt, dass das Tor sich erst dann öffnen würde, wenn es Zeit für die Menschen ist, zu verschwinden.“ Sie zuckt mit den Schultern. „Eignet sich wohl gut dazu, Kinder von diesem Ort fernzuhalten, damit sie nicht zu viel herumschnüffeln und das Jahk stören, schätze ich.“
 
 Etwas, dass Matkina gesagt hat, lässt deinen Verstand aufhorchen, und deine Erinnerungen klingeln wie ein Windspiel.
 
@@ -297,13 +297,13 @@ Etwas, dass Matkina gesagt hat, lässt deinen Verstand aufhorchen, und deine Eri
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Neng nickt bedächtig. "Du hast natürlich recht, aber außerdem auch die Manieren eines Margr." Einen Augenblick später wendet er seine blinden Augen Matkina zu. "Wir können nicht ohne das Jahk gehen."
+      <DefaultText>Neng nickt bedächtig. „Du hast natürlich recht, aber außerdem auch die Manieren eines Margr.“ Einen Augenblick später wendet er seine blinden Augen Matkina zu. „Wir können nicht ohne das Jahk gehen.“
 
-"Das was?", fragt Matkina.
+„Das was?“, fragt Matkina.
 
-"Oben auf dem Hügel, hinter dem Tor. Die Höhle dort ist schon seit Generationen versiegelt. In ihr befindet sich das Jahk. Es hilft uns dabei, unsere schlimmsten Instinkte tief in uns zu verschließen. Wenn wir sein Lied erklingen lassen ..." Mit einer schweifenden Bewegung zeigt er auf den Scheiterhaufen außerhalb seiner Behausung.
+„Oben auf dem Hügel, hinter dem Tor. Die Höhle dort ist schon seit Generationen versiegelt. In ihr befindet sich das Jahk. Es hilft uns dabei, unsere schlimmsten Instinkte tief in uns zu verschließen. Wenn wir sein Lied erklingen lassen …“ Mit einer schweifenden Bewegung zeigt er auf den Scheiterhaufen außerhalb seiner Behausung.
 
-Nach einer kurzen Pause lehnt er sich zu Matkina und flüstert ihr etwas ins Ohr. "Also", sagt er, "du bist der einzige Flachlandmensch, der weiß, wie man das Tor öffnen kann."</DefaultText>
+Nach einer kurzen Pause lehnt er sich zu Matkina und flüstert ihr etwas ins Ohr. „Also“, sagt er, „du bist der einzige Flachlandmensch, der weiß, wie man das Tor öffnen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,28 +313,28 @@ Nach einer kurzen Pause lehnt er sich zu Matkina und flüstert ihr etwas ins Ohr
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Neng nickt bedächtig. "Du hast natürlich recht, aber außerdem auch die Manieren eines Margr." Einen Augenblick später wendet er seine blinden Augen Matkina zu. "Wir können nicht ohne das Jahk gehen."
+      <DefaultText>Neng nickt bedächtig. „Du hast natürlich recht, aber außerdem auch die Manieren eines Margr.“ Einen Augenblick später wendet er seine blinden Augen Matkina zu. „Wir können nicht ohne das Jahk gehen.“
 
-"Das was?", fragt Matikina.
+„Das was?“, fragt Matikina.
 
-"Oben auf dem Hügel, hinter dem Tor. Die Höhle dort ist schon seit Generationen versiegelt. In ihr befindet sich das Jahk. Es hilft uns dabei, unsere schlimmsten Instinkte tief in uns zu verschließen. Wenn wir sein Lied erklingen lassen ..." Er schweift ab und zeigt auf den Scheiterhaufen außerhalb seines Behausung.
+„Oben auf dem Hügel, hinter dem Tor. Die Höhle dort ist schon seit Generationen versiegelt. In ihr befindet sich das Jahk. Es hilft uns dabei, unsere schlimmsten Instinkte tief in uns zu verschließen. Wenn wir sein Lied erklingen lassen …“ Er schweift ab und zeigt auf den Scheiterhaufen außerhalb seines Behausung.
 
-Er schnüffelt in der Luft herum und nickt dann noch einmal. "Ich werde euch jetzt erzählen, wie man das Tor öffnen kann." Er beschreibt, wie jedes der Schlösser geöffnet werden muss und wiederholt es so lange, bis er sicher ist, dass ihr es euch beide gut eingeprägt habt.
+Er schnüffelt in der Luft herum und nickt dann noch einmal. „Ich werde euch jetzt erzählen, wie man das Tor öffnen kann.“ Er beschreibt, wie jedes der Schlösser geöffnet werden muss und wiederholt es so lange, bis er sicher ist, dass ihr es euch beide gut eingeprägt habt.
 
-"Also", sagt er, "du bist der einzige Flachlandmensch, der weiß, wie man das Tor öffnen kann."</DefaultText>
+„Also“, sagt er, „du bist der einzige Flachlandmensch, der weiß, wie man das Tor öffnen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Vielleicht sind es die Details deiner Worte - vielleicht aber auch die Bilder von seinen Leuten, erhängt und "gereinigt" - aber etwas in Neng scheint zerbrochen zu sein. Er sackt ein wenig zusammen und erscheint dir nicht mehr ganz so groß.
+      <DefaultText>Vielleicht sind es die Details deiner Worte - vielleicht aber auch die Bilder von seinen Leuten, erhängt und „gereinigt“ - aber etwas in Neng scheint zerbrochen zu sein. Er sackt ein wenig zusammen und erscheint dir nicht mehr ganz so groß.
 
-"Du hast recht", sagt er, beinahe flüsternd. Doch dann fügt er hinzu: "Wir können nicht ohne das Jahk gehen."
+„Du hast recht“, sagt er, beinahe flüsternd. Doch dann fügt er hinzu: „Wir können nicht ohne das Jahk gehen.“
 
-"Das was?", fragt Matikina.
+„Das was?“, fragt Matikina.
 
-"Oben auf dem Hügel, hinter dem Tor. Die Höhle dort ist schon seit Generationen versiegelt. In ihr befindet sich das Jahk. Es hilft uns dabei, unsere schlimmsten Instinkte tief in uns zu verschließen. Wenn wir sein Lied erklingen lassen ..." Er schweift ab und zeigt auf den Scheiterhaufen außerhalb seines Behausung.
+„Oben auf dem Hügel, hinter dem Tor. Die Höhle dort ist schon seit Generationen versiegelt. In ihr befindet sich das Jahk. Es hilft uns dabei, unsere schlimmsten Instinkte tief in uns zu verschließen. Wenn wir sein Lied erklingen lassen …“ Er schweift ab und zeigt auf den Scheiterhaufen außerhalb seines Behausung.
 
-Nach einer kurzen Pause lehnt er sich zu Matkina und flüstert ihr etwas ins Ohr. "Also", sagt er, "du bist der einzige Flachlandmensch, der weiß, wie man das Tor öffnen kann."</DefaultText>
+Nach einer kurzen Pause lehnt er sich zu Matkina und flüstert ihr etwas ins Ohr. „Also“, sagt er, „du bist der einzige Flachlandmensch, der weiß, wie man das Tor öffnen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -349,7 +349,7 @@ Nach einer kurzen Pause lehnt er sich zu Matkina und flüstert ihr etwas ins Ohr
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Nach dir."</DefaultText>
+      <DefaultText>„Nach dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -360,7 +360,7 @@ Du bist nicht hier, um Paj Rekken dabei zu helfen, das Dorf Kholn zu retten. Du 
 
 Sie wusste von den Teratomorphs. Von dem Jahk. Und noch viel wichtiger - sie wusste, dass die Sandritter kommen würden,
 
-Der Plan lautet nicht, die Dorfbewohner aus der zerstörerischen Schneise der Sandritter zu entfernen. Tatsächlich läuft er darauf hinaus, gerade *den* Kampf herbeizuführen, von dem Matkina versprochen hat, dass er verhindert werden würde. Wenn die Ritter im Dorf ankommen, wird Paj das Jahk zerstören und die "Hügelmenschen" in ihren wilden Zustand zurückversetzen, um sie dann auf die Sandritter loszulassen. Sie sollen den Feind der Miliz schwächen.
+Der Plan lautet nicht, die Dorfbewohner aus der zerstörerischen Schneise der Sandritter zu entfernen. Tatsächlich läuft er darauf hinaus, gerade *den* Kampf herbeizuführen, von dem Matkina versprochen hat, dass er verhindert werden würde. Wenn die Ritter im Dorf ankommen, wird Paj das Jahk zerstören und die „Hügelmenschen“ in ihren wilden Zustand zurückversetzen, um sie dann auf die Sandritter loszulassen. Sie sollen den Feind der Miliz schwächen.
 
 Und Paj wird persönlich erscheinen, um sicher zu gehen, dass alles nach Plan läuft.</DefaultText>
       <FemaleText />
@@ -374,38 +374,38 @@ Du bist dir sicher, dass sich etwas Grausiges in diesem Nebel versteckt, aber es
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Matkina, wir dürfen das Tor nicht öffnen. Paj Rekken will das Jahk und damit das gesamte Dorf zerstören."</DefaultText>
+      <DefaultText>„Matkina, wir dürfen das Tor nicht öffnen. Paj Rekken will das Jahk und damit das gesamte Dorf zerstören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Ich schwöre, das ist die Wahrheit! Paj wird dich hintergehen!"</DefaultText>
+      <DefaultText>„Ich schwöre, das ist die Wahrheit! Paj wird dich hintergehen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>Zügig erläuterst du den Ablauf von Pajs Plan - wie sie und eine bewaffnete Truppe nur darauf warten, das Jahk an sich zu reißen und es zu zerstören, um die Teratomorphs als lebende Waffe auf die Sandritter loszulassen. In gewisser Hinsicht ist dieser Verrat so dreist, der Plan so hinterlistig, dass er unglaublich zu sein scheint. Und zunächst glaubt dir Matkina nicht.
 
-Doch dann verhärtet sich ihr Gesichtsausdruck und Wut flackert in ihren Augen auf. "Du meinst es ernst, nicht wahr?" Sie sucht den Horizont nach Paj, und du tust es ihr gleich, aber ihr entdeckt nichts.
+Doch dann verhärtet sich ihr Gesichtsausdruck und Wut flackert in ihren Augen auf. „Du meinst es ernst, nicht wahr?“ Sie sucht den Horizont nach Paj, und du tust es ihr gleich, aber ihr entdeckt nichts.
 
-"Wir müssen soweit weg von hier wie möglich", sagt sie entschieden. "Paj von hier weglocken. Neng Zeit verschaffen, mit den Sandrittern zu verhandeln. Und sie vom Jahk fernhalten."</DefaultText>
+„Wir müssen soweit weg von hier wie möglich“, sagt sie entschieden. „Paj von hier weglocken. Neng Zeit verschaffen, mit den Sandrittern zu verhandeln. Und sie vom Jahk fernhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Matkina schüttelt den Kopf. "Warum ist für dich alles nur ein Scherz, Tash? Auch, wenn dir das hier nichts bedeutet, bedeutet es doch *mir* etwas."
+      <DefaultText>Matkina schüttelt den Kopf. „Warum ist für dich alles nur ein Scherz, Tash? Auch, wenn dir das hier nichts bedeutet, bedeutet es doch *mir* etwas.“
 
 Sie wendet sich wieder dem Tor zu und scheint bereit zu sein, es zu öffnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Matkina, wir dürfen das Tor nicht öffnen. Paj Rekken will das Jahk und damit das gesamte Dorf zerstören."</DefaultText>
+      <DefaultText>„Matkina, wir dürfen das Tor nicht öffnen. Paj Rekken will das Jahk und damit das gesamte Dorf zerstören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Matkina sieht dich mit Verachtung an. Sie ist offensichtlich nicht überzeugt. "Begreifst du denn überhaupt, was das Dorf Kholn mir bedeutet? Was die *Miliz* mir bedeutet?"
+      <DefaultText>Matkina sieht dich mit Verachtung an. Sie ist offensichtlich nicht überzeugt. „Begreifst du denn überhaupt, was das Dorf Kholn mir bedeutet? Was die *Miliz* mir bedeutet?“
 
 Ohne auf deine Antwort zu warten schließt sie die Schlösser auf, öffnet das Tor und betritt eilig das Innere. Du folgst ihr.
 
@@ -413,7 +413,7 @@ Im Inneren befindet sich kein Höhlengang. Stattdessen findet ihr einen glatten 
 
 Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, der sich immer weiter nach Innen schlängelt, als befändet ihr euch in einem gigantischen Schneckenhaus. Hier und da sind die Wände mit leblosen Cyphern verziert, mysteriöse Zeichnungen, manchmal sogar verkohlte Stellen, die von einem Kampf stammen können. Allesamt unverständlich.
 
-{SOUND [A]: A series of "clunks" for each lock turning, followed by a gasp of air as the gate opens, then a groaning of metal as it swings wider.}</DefaultText>
+{SOUND [A]: A series of „clunks“ for each lock turning, followed by a gasp of air as the gate opens, then a groaning of metal as it swings wider.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,7 +422,7 @@ Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, de
 
 Das Keramik-Podest darunter - als einziges Gerät in dieser 'Höhle' - pulsiert noch vor Lebensenergie. Diese Energie lässt das Jahk wenige Zentimeter in der Luft schweben. Es liegt nicht auf dem Podest, sondern hängt darüber.
 
-"Also", sagt Matikina, "hier ist es."
+„Also“, sagt Matikina, „hier ist es.“
 
 {ART: The Jahk}
 
@@ -442,7 +442,7 @@ Im Inneren befindet sich kein Höhlengang. Tatsächlich kannst du überhaupt kei
 
 Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, der sich immer weiter nach Innen schlängelt, als befändet ihr euch in einem gigantischen Schneckenhaus. Hier und da sind die Wände mit leblosen Cyphern verziert, mysteriöse Zeichnungen, manchmal sogar verkohlte Stellen, die von einem Kampf stammen können. Für deine Ohren sind sie stumm.
 
-{SOUND [A]: A series of "clunks" for each lock turning, followed by a gasp of air as the gate opens, then a groaning of metal as it swings wider.}</DefaultText>
+{SOUND [A]: A series of „clunks“ for each lock turning, followed by a gasp of air as the gate opens, then a groaning of metal as it swings wider.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -453,7 +453,7 @@ Im Innern befindet sich kein Höhlengang. Tatsächlich kannst du überhaupt kein
 
 Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, der sich immer weiter nach Innen schlängelt, als befändet ihr euch in einem gigantischen Schneckenhaus. Hier und da sind die Wände mit leblosen Cyphern verziert, mysteriöse Zeichnungen, manchmal sogar verkohlte Stellen, die von einem Kampf stammen können. Für deine Ohren sind sie stumm.
 
-{SOUND [A]: A series of "clunks" for each lock turning, followed by a gasp of air as the gate opens, then a groaning of metal as it swings wider.}</DefaultText>
+{SOUND [A]: A series of „clunks“ for each lock turning, followed by a gasp of air as the gate opens, then a groaning of metal as it swings wider.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,54 +476,54 @@ Solange Matkina tobt ist alle Aufmerksamkeit offensichtlich auf sie gerichtet, w
       <ID>81</ID>
       <DefaultText>Du kneifst deine unnatürlichen Augen zusammen und fokussierst sie auf die Ferne, bis der Scheiterhaufen, das Dorf und alles andere langsam verschwindet. Endlich werden die verschwommenen Lagerfeuer zu etwas deutlich Erkennbarem, und du siehst die Schatten von Männern mit langen Mänteln und breiten Hüten, die ihre Jezail-Gewehre und Dolche mit höchster Sorgfalt im Licht des Feuers reinigen. Da sind vielleicht einige hundert von ihnen.
 
-Matkina bemerkt, wie du sie anstarrst, und grummelt: "Sandritter". Ihre Tonlage gibt zu erkennen, dass sie weder Freunde von ihr noch von dir sein dürften.</DefaultText>
+Matkina bemerkt, wie du sie anstarrst, und grummelt: „Sandritter“. Ihre Tonlage gibt zu erkennen, dass sie weder Freunde von ihr noch von dir sein dürften.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
       <DefaultText>Selbst mit deinen übermenschlichen Augen kannst du nicht mehr als dein verschwommenes Flackern erkennen.
 
-Matkina bemerkt, wie du zu den Feuern herüberstarrst, und grummelt: "Sandritter". Ihre Tonlage gibt zu erkennen, dass sie weder Freunde von ihr noch von dir sein dürften.</DefaultText>
+Matkina bemerkt, wie du zu den Feuern herüberstarrst, und grummelt: „Sandritter“. Ihre Tonlage gibt zu erkennen, dass sie weder Freunde von ihr noch von dir sein dürften.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Neng nickt bedächtig. "Du hast natürlich recht, aber außerdem auch die Manieren eines Margr." Einen Augenblick später wendet er seine blinden Augen Matkina zu. "Wir können nicht ohne das Jahk gehen."
+      <DefaultText>Neng nickt bedächtig. „Du hast natürlich recht, aber außerdem auch die Manieren eines Margr.“ Einen Augenblick später wendet er seine blinden Augen Matkina zu. „Wir können nicht ohne das Jahk gehen.“
 
-"Das was?", fragt Matikina.
+„Das was?“, fragt Matikina.
 
-"Oben auf dem Hügel, hinter dem Tor. Die Höhle dort ist schon seit Generationen versiegelt. In ihr befindet sich das Jahk. Es hilft uns dabei, unsere schlimmsten Instinkte tief in uns zu verschließen. Wenn wir sein Lied erklingen lassen ..." Er schweift ab und zeigt auf den Scheiterhaufen außerhalb seines Behausung.
+„Oben auf dem Hügel, hinter dem Tor. Die Höhle dort ist schon seit Generationen versiegelt. In ihr befindet sich das Jahk. Es hilft uns dabei, unsere schlimmsten Instinkte tief in uns zu verschließen. Wenn wir sein Lied erklingen lassen …“ Er schweift ab und zeigt auf den Scheiterhaufen außerhalb seines Behausung.
 
-Nach einer kurzen Pause lehnt er sich zu Matkina und flüstert ihr etwas ins Ohr. "Also", sagt er, "du bist der einzige Flachlandmensch, der weiß, wie man das Tor öffnen kann."</DefaultText>
+Nach einer kurzen Pause lehnt er sich zu Matkina und flüstert ihr etwas ins Ohr. „Also“, sagt er, „du bist der einzige Flachlandmensch, der weiß, wie man das Tor öffnen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Neng nickt bedächtig. "Du hast recht, natürlich hast du das." Er reibt sich die Stirn und macht dabei eine unbestimmte Streckbewegung. Dann erklärt er schließlich: "Wir können nicht ohne das Jahk gehen."
+      <DefaultText>Neng nickt bedächtig. „Du hast recht, natürlich hast du das.“ Er reibt sich die Stirn und macht dabei eine unbestimmte Streckbewegung. Dann erklärt er schließlich: „Wir können nicht ohne das Jahk gehen.“
 
-"Das was?", fragt Matikina.
+„Das was?“, fragt Matikina.
 
-"Oben auf dem Hügel, hinter dem Tor. Die Höhle dort ist schon seit Generationen versiegelt. In ihr befindet sich das Jahk. Es hilft uns dabei, unsere schlimmsten Instinkte tief in uns zu verschließen. Wenn wir sein Lied erklingen lassen ..." Er schweift ab und zeigt auf den Scheiterhaufen außerhalb seines Behausung.
+„Oben auf dem Hügel, hinter dem Tor. Die Höhle dort ist schon seit Generationen versiegelt. In ihr befindet sich das Jahk. Es hilft uns dabei, unsere schlimmsten Instinkte tief in uns zu verschließen. Wenn wir sein Lied erklingen lassen …“ Er schweift ab und zeigt auf den Scheiterhaufen außerhalb seines Behausung.
 
-Er schnüffelt in der Luft herum und nickt dann noch einmal mit seinem schweren Kopf. "Ich werde euch jetzt erzählen, wie man das Tor öffnen kann." Er beschreibt, wie jedes der Schlösser geöffnet werden muss und wiederholt es so lange, bis er sicher ist, dass ihr es euch beide gut eingeprägt habt.
+Er schnüffelt in der Luft herum und nickt dann noch einmal mit seinem schweren Kopf. „Ich werde euch jetzt erzählen, wie man das Tor öffnen kann.“ Er beschreibt, wie jedes der Schlösser geöffnet werden muss und wiederholt es so lange, bis er sicher ist, dass ihr es euch beide gut eingeprägt habt.
 
-"Also", sagt er, "du bist der einzige Flachlandmensch, der weiß, wie man das Tor öffnen kann."</DefaultText>
+„Also“, sagt er, „du bist der einzige Flachlandmensch, der weiß, wie man das Tor öffnen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Warst du je schon einmal außerhalb dieses Dorfes? Das ist nicht gerade das Paradies."</DefaultText>
+      <DefaultText>„Warst du je schon einmal außerhalb dieses Dorfes? Das ist nicht gerade das Paradies.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Nein", antwortet Neng. "Nein, es ist kein Paradies. Und nein, ich habe es niemals verlassen. Aber  wie ich schon sage, so einfach ist das nicht."
+      <DefaultText>„Nein“, antwortet Neng. „Nein, es ist kein Paradies. Und nein, ich habe es niemals verlassen. Aber  wie ich schon sage, so einfach ist das nicht.“
 
 Er kratzt sich am Kinn und sieht kurz danach aus, als wollte er noch mehr sagen, doch dann verkneift er es sich sichtlich. Nach einer Weile aber spricht er *doch*, allerdings über ein anderes Thema.
 
-"Vor ein paar Jahren ist ein reisender Händler an unserem Dorf vorbeigekommen, der bewegliche Bilder von Städten, die er bereist hatte, verkauft hat. Die Häfen der Sagus-Klippen, die Spitzen von Xakarl oder die glitzernde Oase von M'ra Jolios. Aber unter all diesen Orten war keiner, den wir Heimat nennen können."
+„Vor ein paar Jahren ist ein reisender Händler an unserem Dorf vorbeigekommen, der bewegliche Bilder von Städten, die er bereist hatte, verkauft hat. Die Häfen der Sagus-Klippen, die Spitzen von Xakarl oder die glitzernde Oase von M'ra Jolios. Aber unter all diesen Orten war keiner, den wir Heimat nennen können.“
 
-Er zuckt mit den Schultern. "Aber du hast sicher recht; keiner davon ist schlechter als diese Felsen hier."</DefaultText>
+Er zuckt mit den Schultern. „Aber du hast sicher recht; keiner davon ist schlechter als diese Felsen hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -547,7 +547,7 @@ Er zuckt mit den Schultern. "Aber du hast sicher recht; keiner davon ist schlech
 
 Mit geübtem Auge und gewandten Fingern machst du dir die Funktionen des Geräts zu eigen und entschärfst die Falle. Die Schwerelosigkeit des Jahks hat ein Ende, und zwei Schläge ertönen: als das Jahk auf das Podest fällt, und als es auf dem Keramikboden aufschlägt. Matkina verleiht ihrer Abneigung durch ein Kopfschütteln Ausdruck und hebt es dann auf.
 
-"Wir haben, was wir wollten", sagt sie und zeigt in die Richtung, aus der ihr gekommen seid. "Gehen wir."
+„Wir haben, was wir wollten“, sagt sie und zeigt in die Richtung, aus der ihr gekommen seid. „Gehen wir.“
 
 {SOUND [A]: Tinkering with machinery, followed by two clank/bang noises as the jahk falls.}</DefaultText>
       <FemaleText />
@@ -558,9 +558,9 @@ Mit geübtem Auge und gewandten Fingern machst du dir die Funktionen des Geräts
 
 Plötzlich fährt dir ein Schaudern durch den Körper - der physische Vorbote der Qualen, die nur einen Augenblick später folgen. Während brutale Energieströme durch deinen Körper wüten bist du völlig unfähig, andere Bewegungen durchzuführen als zu zittern.
 
-"Tash!" Matkina ruft nach dir. Sie reagiert im Bruchteil einer Sekunde, der dir dennoch vorkommt wie eine Ewigkeit - die fast von dir Besitz ergriffen hätte, wären Matkinas Reflexe nicht so gut. Sie schubst dich weg und unterbricht damit den Stromkreis. Dabei durchfließt der Strom auch ihren Körper.
+„Tash!“ Matkina ruft nach dir. Sie reagiert im Bruchteil einer Sekunde, der dir dennoch vorkommt wie eine Ewigkeit - die fast von dir Besitz ergriffen hätte, wären Matkinas Reflexe nicht so gut. Sie schubst dich weg und unterbricht damit den Stromkreis. Dabei durchfließt der Strom auch ihren Körper.
 
-Schließlich liegt ihr beiden zitternd und qualmend auf dem Keramikboden. Matkina richtet sich zuerst auf, zieht dich hoch und nimmt das Jahk. "Gehen wir."
+Schließlich liegt ihr beiden zitternd und qualmend auf dem Keramikboden. Matkina richtet sich zuerst auf, zieht dich hoch und nimmt das Jahk. „Gehen wir.“
 
 {SOUND [A]: Electrocution followed by a thud as Matkina knocks MPC aside.}</DefaultText>
       <FemaleText />
@@ -588,9 +588,9 @@ Während du über seine innere Mechanik nachdenkst, bemerkst du noch etwas ander
 
 Du kannst das Jahk weder loslassen noch vom Podest nehmen. Tatsächlich kannst du dich überhaupt nicht bewegen, sondern zitterst unkontrolliert, während brutale Energieströme in dir wüten.
 
-"Tash!" Matkina ruft nach dir. Sie reagiert im Bruchteil einer Sekunde, der dir dennoch vorkommt wie eine Ewigkeit - die fast von dir Besitz ergriffen hätte, wären Matkinas Reflexe nicht so gut. Sie schubst dich weg und unterbricht damit den Stromkreis. Dabei durchfließt der Strom auch ihren Körper.
+„Tash!“ Matkina ruft nach dir. Sie reagiert im Bruchteil einer Sekunde, der dir dennoch vorkommt wie eine Ewigkeit - die fast von dir Besitz ergriffen hätte, wären Matkinas Reflexe nicht so gut. Sie schubst dich weg und unterbricht damit den Stromkreis. Dabei durchfließt der Strom auch ihren Körper.
 
-Schließlich liegt ihr beiden zitternd und qualmend auf dem Keramikboden. Matkina richtet sich zuerst auf, zieht dich hoch und nimmt das Jahk. "Gehen wir", grummelt sie.
+Schließlich liegt ihr beiden zitternd und qualmend auf dem Keramikboden. Matkina richtet sich zuerst auf, zieht dich hoch und nimmt das Jahk. „Gehen wir“, grummelt sie.
 
 {SOUND [A]: Electrocution followed by a thud as Matkina knocks MPC aside.}</DefaultText>
       <FemaleText />
@@ -599,23 +599,23 @@ Schließlich liegt ihr beiden zitternd und qualmend auf dem Keramikboden. Matkin
       <ID>96</ID>
       <DefaultText>Es ist nur eine Frage von Timing und Konzentration: blitzschnell bewegst du deine Hand zum Jahk und reißt es vom Podest. Kurz darauf schießt ein Energieblitz hervor.
 
-Matkina sieht dich an und zieht eine Augenbraue hoch. "Wir leben heute gerne gefährlich, was, Tash?" Sie nimmt das Jahk und zeigt in Richtung des Weges, aus dem ihr gekommen seid. "Wir sind hier fertig. Gehen wir."
+Matkina sieht dich an und zieht eine Augenbraue hoch. „Wir leben heute gerne gefährlich, was, Tash?“ Sie nimmt das Jahk und zeigt in Richtung des Weges, aus dem ihr gekommen seid. „Wir sind hier fertig. Gehen wir.“
 
 {SOUND [B]: Some kind of swiping sound.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Also? Willst du es nicht nehmen?"</DefaultText>
+      <DefaultText>„Also? Willst du es nicht nehmen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Matkina sieht dich mit einem Blick an, der so bedrohlich ist wie ihre Klingen. Dann tritt sie zum Podest vor. Sie begutachtet es einen Moment lang und greift dann blitzschnell nach dem Jahk. Ihre Bewegungen sind so grazil und schnell, dass sie beinahe unheimlich erscheinen ... aber sie sind nicht genug.
+      <DefaultText>Matkina sieht dich mit einem Blick an, der so bedrohlich ist wie ihre Klingen. Dann tritt sie zum Podest vor. Sie begutachtet es einen Moment lang und greift dann blitzschnell nach dem Jahk. Ihre Bewegungen sind so grazil und schnell, dass sie beinahe unheimlich erscheinen … aber sie sind nicht genug.
 
 Im selben Moment, in dem ihre Hand über dem Podest steht, zuckt ein Energieblitz nach oben und fährt durch ihren Körper. Einen Augenblick lang ist sie gelähmt - so wie du, bei diesem Anblick - doch dann gelingt es ihr, sich zu befreien. Der Schmerz steht ihr ins Gesicht geschrieben. Sie geht zu Boden, qualmend und stöhnend, aber am Leben. Das Jahk hält sie in ihren verbrannten Händen.
 
-Nachdem sie sich von alleine aufrichtet, murmelt sie: "Danke für die Hilfe, Tash." Dann zeigt sie in die Richtung, aus der ihr gekommen seid. "Gehen wir."
+Nachdem sie sich von alleine aufrichtet, murmelt sie: „Danke für die Hilfe, Tash.“ Dann zeigt sie in die Richtung, aus der ihr gekommen seid. „Gehen wir.“
 
 {SOUND [A]: Electrocution followed by a thud as Matkina breaks free; can be the same as the other electrocution sound.}</DefaultText>
       <FemaleText />
@@ -644,7 +644,7 @@ Paj zielt mit einem kleinen Cypher auf das Jahk. Die anderen sehen zu und beacht
 
 Ohne dich umzudrehen sprintest du den Hügel hinauf und auf der flacheren Seite wieder herunter, um zwischen zwei riesigen Felsen Schutz zu suchen. Kurz darauf schwebt ein getarntes Luftschiff durch den Himmel über dir - die transparenten Wellenbewegungen erinnern an eine Fata Morgana. Das muss Pajs Transportschiff sein, kein Zweifel. Dir bleibt solch ein Luxus verwehrt: nicht einmal dein Aneen dürfte dir nach der Ankunft der Sandritter in Kholn noch zur Verfügung stehen. Du wirst dich zu Fuß fortbewegen müssen.
 
-Aber eine plötzliche Verwirrung macht sich in einem Verstand breit und erspart dir die Sorge über die Reise. Du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel ...
+Aber eine plötzliche Verwirrung macht sich in einem Verstand breit und erspart dir die Sorge über die Reise. Du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel …
 
 {SOUND [A]: Scrambling sound of running up a hillside, can recycle the other climbing sound if there's not time for  a new one.}</DefaultText>
       <FemaleText />
@@ -655,7 +655,7 @@ Aber eine plötzliche Verwirrung macht sich in einem Verstand breit und erspart 
 
 Aber es scheint, als wäre Paj noch nicht dazu bereit, dich töten zu lassen - noch nicht. Der Leibwächter entwaffnet dich lediglich und schleppt dich zu den anderen zurück. Dort stehen Matkina, gefangen in ihrem Energiefeld, und Paj, die dich mit einer Mischung aus Abscheu und Verdruss ansieht.
 
-"Ich weiß nicht, was für ein Spiel du spielst, Tash", warnt sie dich. "Und es interessiert mich auch nicht besonders. Ich will nur das Jahk. Erzähl mir, wie man die Höhle öffnet, dann sehen wir weiter."
+„Ich weiß nicht, was für ein Spiel du spielst, Tash“, warnt sie dich. „Und es interessiert mich auch nicht besonders. Ich will nur das Jahk. Erzähl mir, wie man die Höhle öffnet, dann sehen wir weiter.“
 
 Sie macht sich nicht einmal die Mühe, dich zu bedrohen oder zu bestechen. Trotz ihrer weichen, fast schon mütterlichen Merkmale hat sie es nicht nötig, aufbrausend zu werden. Ihr Blick genügt.
 
@@ -664,34 +664,34 @@ Sie macht sich nicht einmal die Mühe, dich zu bedrohen oder zu bestechen. Trotz
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>(Bluffen) "Was hast du getan?!"</DefaultText>
+      <DefaultText>(Bluffen) „Was hast du getan?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Was hast du getan?!"</DefaultText>
+      <DefaultText>„Was hast du getan?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Ich habe mich schon gefragt, wann du auftauchen würdest."</DefaultText>
+      <DefaultText>„Ich habe mich schon gefragt, wann du auftauchen würdest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Paj wirft dir einen ungläubigen Blick zu, schielt zu Matkina herüber und schüttelt dann den Kopf. "Du weißt sehr genau, was ich getan habe und auch, warum, Tash. Es ist nicht nötig, sich zu verstellen."
+      <DefaultText>Paj wirft dir einen ungläubigen Blick zu, schielt zu Matkina herüber und schüttelt dann den Kopf. „Du weißt sehr genau, was ich getan habe und auch, warum, Tash. Es ist nicht nötig, sich zu verstellen.“
 
-Sie sieht erneut zu Matkina herüber, die in ihrer Blase aus Energie einen stummen Schrei von sich gibt. "Sogar Matkina weiß, warum." Paj nähert sich dem Energiefeld und greift mit einer Hand danach, als wollte sie es berühren, als wollte sie *Matkina* berühren. "Die Liebe ist eine wilde Bestie, die gezähmt werden muss, Matkina. Gezähmt und trainiert, damit sie dienen kann. Lass sie sich bocken, wenn es nicht anders geht. Aber letzten Endes musst du ihren Willen brechen, bevor sie dich zerbricht."</DefaultText>
+Sie sieht erneut zu Matkina herüber, die in ihrer Blase aus Energie einen stummen Schrei von sich gibt. „Sogar Matkina weiß, warum.“ Paj nähert sich dem Energiefeld und greift mit einer Hand danach, als wollte sie es berühren, als wollte sie *Matkina* berühren. „Die Liebe ist eine wilde Bestie, die gezähmt werden muss, Matkina. Gezähmt und trainiert, damit sie dienen kann. Lass sie sich bocken, wenn es nicht anders geht. Aber letzten Endes musst du ihren Willen brechen, bevor sie dich zerbricht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Lass Matkina frei."</DefaultText>
+      <DefaultText>„Lass Matkina frei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Natürlich", antwortet Paj. "Wie wir es geplant hatten. Aber zuerst löschst du ihre Erinnerungen aus. Dann lassen wir sie frei, und wir werden sehen, ob sie ihren Weg zu uns nach Hause findet. Dorthin, wo sie hingehört."
+      <DefaultText>„Natürlich“, antwortet Paj. „Wie wir es geplant hatten. Aber zuerst löschst du ihre Erinnerungen aus. Dann lassen wir sie frei, und wir werden sehen, ob sie ihren Weg zu uns nach Hause findet. Dorthin, wo sie hingehört.“
 
 Das sollte in deiner Macht liegen - in *Tashs* Macht, besser gesagt. Wenn die Gezeitenenergien durch ihn strömen, kann er Erinnerungen auslöschen, so wie du die Gezeiten dazu genutzt hast, um dem Kummer in deinem Verstand zu entkommen.
 
@@ -700,13 +700,13 @@ Aber auch, wenn du dich daran gewöhnt hast, in diesem Körper zu wohnen, kannst
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Im Dorf bricht das Chaos aus. Wo einst Neng und seine Hügelmenschen waren, windet sich jetzt eine wütende Masse aus "Tentakelwesen", die über die Sandritter herfallen. Der überraschende Angriff tötet viele von ihnen. Andere eröffnen das Feuer.
+      <DefaultText>Im Dorf bricht das Chaos aus. Wo einst Neng und seine Hügelmenschen waren, windet sich jetzt eine wütende Masse aus „Tentakelwesen“, die über die Sandritter herfallen. Der überraschende Angriff tötet viele von ihnen. Andere eröffnen das Feuer.
 
 Matkinas Augen flackern vor lodernder Wut, während sie aus dem Energiefeld heraus zwischen dir und Paj hin- und hersieht.
 
-Paj seufzt. "Es ist natürlich unfair, seine Freunde so zu behandeln", sagt Paj. "Aber das Wichtigste kommt zuerst, und das ist der Sieg. Streitereien können später beigelegt werden."
+Paj seufzt. „Es ist natürlich unfair, seine Freunde so zu behandeln“, sagt Paj. „Aber das Wichtigste kommt zuerst, und das ist der Sieg. Streitereien können später beigelegt werden.“
 
-Sie zeigt auf das Schlachten am Fuß des Hügels. "Diese Sandritter dort sind unersetzlich. Mit einem einzigen Schlag haben wir das Gleichgewicht der Macht in der Vexulianischen Einöde verändert und den eisernen Griff unserer Feinde von zwei Duzend Dörfern gelöst. Du hast der Miliz heute einen guten Dienst erwiesen."
+Sie zeigt auf das Schlachten am Fuß des Hügels. „Diese Sandritter dort sind unersetzlich. Mit einem einzigen Schlag haben wir das Gleichgewicht der Macht in der Vexulianischen Einöde verändert und den eisernen Griff unserer Feinde von zwei Duzend Dörfern gelöst. Du hast der Miliz heute einen guten Dienst erwiesen.“
 
 {SOUND [A] A distant but terrifying shriek - I'm thinking like the fell beasts in LOTR. Then the sound of gunfire, distant, like pops. Perhaps some very faint and indistinct shouts.}</DefaultText>
       <FemaleText />
@@ -728,7 +728,7 @@ Sie zeigt auf das Schlachten am Fuß des Hügels. "Diese Sandritter dort sind un
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Was tut ihr?"</DefaultText>
+      <DefaultText>„Was tut ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -739,7 +739,7 @@ Du versteckst dich zwischen Felsen und beobachtet aus der Deckung heraus, wie Pa
 
 Matkina schaut zitternd und hilflos aus ihrem Energiegefängnis heraus zu. Paj nickt, woraufhin zwei ihrer Leibwächter sie von der Klippe in das Chaos weiter unten werfen. Nach getaner Arbeit eilen Paj und ihre Truppe davon.
 
-{SOUND [A]: Scramblign sound, followed by... Some kind of techno-shot firing, followed by something shattering. A moment later, a distant but terrifying shriek - I'm thinking like the fell beasts in LOTR. Then the sound of gunfire, distant, like pops. Perhaps some very faint and indistinct shouts.  Maybe fainter in this version than elsewhere when this sound is used, since the MPC is farther off.}</DefaultText>
+{SOUND [A]: Scramblign sound, followed by… Some kind of techno-shot firing, followed by something shattering. A moment later, a distant but terrifying shriek - I'm thinking like the fell beasts in LOTR. Then the sound of gunfire, distant, like pops. Perhaps some very faint and indistinct shouts.  Maybe fainter in this version than elsewhere when this sound is used, since the MPC is farther off.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -753,7 +753,7 @@ Matkina schaut zitternd und hilflos aus ihrem Energiegefängnis heraus zu. Paj n
 
 Ohne einen weiteren Blick zurück sprintest du auf der flacheren Seite des Hügels wieder herunter. Hinter dir zerschellen die Geräusche des tosenden Kampfes an den Steinen. Kurz darauf schwebt ein getarntes Luftschiff durch den Himmel über dir - die transparenten Wellenbewegungen erinnern an eine Fata Morgana. Das muss Pajs Transportschiff sein, kein Zweifel. Dir bleibt solch ein Luxus verwehrt: nicht einmal dein Aneen dürfte dir nach dem Gemetzel im Dorf Kholn zur Verfügung stehen. Du wirst dich zu Fuß fortbewegen müssen.
 
-Aber eine plötzliche Verwirrung macht sich in einem Verstand breit und erspart dir die Sorge über die Reise. Du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel ...
+Aber eine plötzliche Verwirrung macht sich in einem Verstand breit und erspart dir die Sorge über die Reise. Du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel …
 
 {SOUND [A]: Scrambling sound followed by shriek of airship.}</DefaultText>
       <FemaleText />
@@ -764,7 +764,7 @@ Aber eine plötzliche Verwirrung macht sich in einem Verstand breit und erspart 
 
 Diese Augenblicke sind kürzer als du erwartet hattest, und das Letzte, was du erfährst. Schmerzen hüllen dich ein. Dein Körper wird rückwärts an das Tor geworfen, ein qualmendes Überbleibsel, das gerade einmal noch über genügend Bewusstsein verfügt, um zu erkennen, dass dies das Ende ist.
 
-Dann ist es vorbei, und du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel ...
+Dann ist es vorbei, und du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel …
 
 {SOUND: Zapping sound.}</DefaultText>
       <FemaleText />
@@ -780,14 +780,14 @@ Das Jahk löst sich einfach in Luft auf.
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Paj lächelt und zeigt gen Himmel, wo du etwas ausmachen kannst, das wie die transparenten Wellenbewegungen einer Fata Morgana aussieht und selbst deinen übermenschlichen Augen größtenteils verborgen bleibt: ein getarntes Luftschiff. "Wir haben hier fast den ganzen Tag lang auf Sie gewartet."
+      <DefaultText>Paj lächelt und zeigt gen Himmel, wo du etwas ausmachen kannst, das wie die transparenten Wellenbewegungen einer Fata Morgana aussieht und selbst deinen übermenschlichen Augen größtenteils verborgen bleibt: ein getarntes Luftschiff. „Wir haben hier fast den ganzen Tag lang auf Sie gewartet.“
 
 Matkina scheint vor Wut überzuschäumen, während sie von ihrem schimmernden Gefängnis aus Pajs Lächeln und eure seichte Unterhaltung beobachtet. Aber sie kann nichts weiter tun, als euch mit einem mörderischen Blick anzustarren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Und jetzt?"</DefaultText>
+      <DefaultText>„Und jetzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -801,57 +801,57 @@ Aber auch, wenn du dich daran gewöhnt hast, in diesem Körper zu wohnen, kannst
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Ich glaube nicht, dass ich das kann."</DefaultText>
+      <DefaultText>„Ich glaube nicht, dass ich das kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"So kannst du Matkina nicht behandeln. Ich werde dir nicht helfen."</DefaultText>
+      <DefaultText>„So kannst du Matkina nicht behandeln. Ich werde dir nicht helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
       <DefaultText>Pajs Mimik verfinstert sich, und die Körpersprache ihrer Leibwächter macht deutlich, dass sie kurz davor stehen, einzugreifen. Sie haben zweifellos gelernt, ihre Gedanken zu lesen und vorherzusehen, was sie von ihnen verlangen wird. Zu töten, noch bevor sie den Befehl dazu gib.
 
-"Du *kannst* nicht oder du *willst* nicht?", fragt sie vorsichtig.</DefaultText>
+„Du *kannst* nicht oder du *willst* nicht?“, fragt sie vorsichtig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Beides. So können Sie Matkina nicht behandeln. Selbst wenn ich könnte, würde ich Ihnen nicht helfen."</DefaultText>
+      <DefaultText>„Beides. So können Sie Matkina nicht behandeln. Selbst wenn ich könnte, würde ich Ihnen nicht helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Ich kann nicht. Ich kann den Gezeitenstrom nicht heraufbeschwören. Wenn ich könnte, würde ich es tun."</DefaultText>
+      <DefaultText>„Ich kann nicht. Ich kann den Gezeitenstrom nicht heraufbeschwören. Wenn ich könnte, würde ich es tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Paj schüttelt den Kopf. "Das ist nicht der Tash, den ich kenne", sagt sie und macht einen Schritt nach vorne - nicht, um dich zu bedrohen, sondern um die Distanz zwischen euch zu verringern. "Ich habe zu viel von dir verlangt. Es ist viel verlangt, eine Partnerin, eine Freundin nur als Abstraktion zu sehen, das weiß ich."
+      <DefaultText>Paj schüttelt den Kopf. „Das ist nicht der Tash, den ich kenne“, sagt sie und macht einen Schritt nach vorne - nicht, um dich zu bedrohen, sondern um die Distanz zwischen euch zu verringern. „Ich habe zu viel von dir verlangt. Es ist viel verlangt, eine Partnerin, eine Freundin nur als Abstraktion zu sehen, das weiß ich.“
 
-Sie schüttelt den Kopf. "Wir kämpfen hier um unsere Existenz, Tash. Für unseren Traum. Nicht jeder für sein eigenes Leben, für seinen eigenen Vorteil: für unser aller Leben, für einen gemeinsamen Traum. Wir müssen zusammenstehen, Schulter an Schulter, und standhaft sein."
+Sie schüttelt den Kopf. „Wir kämpfen hier um unsere Existenz, Tash. Für unseren Traum. Nicht jeder für sein eigenes Leben, für seinen eigenen Vorteil: für unser aller Leben, für einen gemeinsamen Traum. Wir müssen zusammenstehen, Schulter an Schulter, und standhaft sein.“
 
-"Ich habe dieselbe Stimme gehört, die du gerade hörst, Tash. Sie erzählt dir, deinem Herzen zu vertrauen und das zu tun, von dem du *weißt*, dass es richtig ist. Sie singt ein wunderschönes Lied, und nichts fühlt sich so gut an wie Selbstgerechtigkeit ... ganz bestimmt nicht so gut, wie das Gefühl, eine schwierige Aufgabe gut erledigt zu haben."</DefaultText>
+„Ich habe dieselbe Stimme gehört, die du gerade hörst, Tash. Sie erzählt dir, deinem Herzen zu vertrauen und das zu tun, von dem du *weißt*, dass es richtig ist. Sie singt ein wunderschönes Lied, und nichts fühlt sich so gut an wie Selbstgerechtigkeit … ganz bestimmt nicht so gut, wie das Gefühl, eine schwierige Aufgabe gut erledigt zu haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Das ist es nicht, wofür die Miliz steht!"</DefaultText>
+      <DefaultText>„Das ist es nicht, wofür die Miliz steht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Paj rollt mit den Augen. "Nur, weil Matkina nicht für sich selbst sprechen kann, bedeutet dass nicht, dass sie auf dich als ihre Marionette angewiesen ist, Tash."
+      <DefaultText>Paj rollt mit den Augen. „Nur, weil Matkina nicht für sich selbst sprechen kann, bedeutet dass nicht, dass sie auf dich als ihre Marionette angewiesen ist, Tash.“
 
-Sie deutet auf die andauernde Schlacht weiter unten und lächelt betrübt, als ein Teratomorph einen Sandritter in zwei Teile reißt. "Ohne ein paar Siege "steht" die Miliz bald überhaupt nicht mehr. Unsere Feinde würden uns in die Knie zwischen. Aber nur so lange, bis sie uns mit den Köpfen voran in unsere Gräber befördern."
+Sie deutet auf die andauernde Schlacht weiter unten und lächelt betrübt, als ein Teratomorph einen Sandritter in zwei Teile reißt. „Ohne ein paar Siege "steht" die Miliz bald überhaupt nicht mehr. Unsere Feinde würden uns in die Knie zwischen. Aber nur so lange, bis sie uns mit den Köpfen voran in unsere Gräber befördern.“
 
-Sie wirft ihre aufgebrauchte Cypher in die Schlacht weiter unten. "Hinter der Miliz steht ein Ideal, Tash. Aber du und ich - wir sind nicht dieses Ideal. Wir sind diejenigen, die für das Ideal *kämpfen*. Wir sind diejenigen, die dafür sorgen, dass es das Licht dieser Welt erblickt. Und einer Geburt gehen stets Blut und Schreie voran."</DefaultText>
+Sie wirft ihre aufgebrauchte Cypher in die Schlacht weiter unten. „Hinter der Miliz steht ein Ideal, Tash. Aber du und ich - wir sind nicht dieses Ideal. Wir sind diejenigen, die für das Ideal *kämpfen*. Wir sind diejenigen, die dafür sorgen, dass es das Licht dieser Welt erblickt. Und einer Geburt gehen stets Blut und Schreie voran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Na gut, ich werde es tun."</DefaultText>
+      <DefaultText>„Na gut, ich werde es tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -867,44 +867,44 @@ Ganz gleich, ob deine Darbietung tatsächlich überzeugend ist oder Paj einen so
 
 Wie dem auch sei, sie hebt lediglich einen Finger und noch bevor du überhaupt reagieren kannst, zerschlitzt dich einer ihrer Leibwächter. Während du zerfetzt und unbeweglich zu Boden gehst, siehst du dabei zu, wie sie Matkina von der Klippe schleudern. In ihrem Energiefeld gefangen hört man sie nicht einmal schreien.
 
-Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel ...
+Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …
 
 {SOUND [A]: Sound of flesh being sliced open by a very sharp sword.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Wirf sie doch einfach von den Klippen. Glaube mir, diese Sache solltest du sie nicht überleben lassen." Matkina könnte den Sturz im Innern des Schilds überleben - es ist ihre beste Option.
+      <DefaultText>„Wirf sie doch einfach von den Klippen. Glaube mir, diese Sache solltest du sie nicht überleben lassen.“ Matkina könnte den Sturz im Innern des Schilds überleben - es ist ihre beste Option.
 
 {ADAM: I'm torn as to whether Matkina should perceive this as a betrayal. I think so.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Paj nickt. "Du kennst sie besser als ich." Nicht ihren kalten, tödlichen Blick, fügt sie hinzu. "Und es ist dein Genick, das sie von allen am liebsten brechen würde." Sie winkt ihren Leibwächtern zu, und ohne ein weiteres Wort heben sie Matkina in ihrem Schild hoch und schleudern sie von der Klippe. Noch immer im Energiefeld gefangen hört man sie nicht einmal schreien, als sie auf den Felsen weiter unten aufschlägt.
+      <DefaultText>Paj nickt. „Du kennst sie besser als ich.“ Nicht ihren kalten, tödlichen Blick, fügt sie hinzu. „Und es ist dein Genick, das sie von allen am liebsten brechen würde.“ Sie winkt ihren Leibwächtern zu, und ohne ein weiteres Wort heben sie Matkina in ihrem Schild hoch und schleudern sie von der Klippe. Noch immer im Energiefeld gefangen hört man sie nicht einmal schreien, als sie auf den Felsen weiter unten aufschlägt.
 
 In der Schlacht, die im Dorf zwischen den monströsen "Hügelmenschen" und den eingekesselten Sandrittern tobt, hat keine Seite die Oberhand. Es gibt kein Erbarmen und keine Rücksicht auf Verluste. Ein reines Blutvergießen, nicht weniger.
 
-"Es ist Zeit, nach Hause zu gehen", sagt Paj. "Das Luftschiff wartet." Sie gestikuliert und führt ihre Leibwächter fort. Offensichtlich geht sie davon aus, dass du ihr folgst.</DefaultText>
+„Es ist Zeit, nach Hause zu gehen“, sagt Paj. „Das Luftschiff wartet.“ Sie gestikuliert und führt ihre Leibwächter fort. Offensichtlich geht sie davon aus, dass du ihr folgst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Paj schüttelt den Kopf, sie ist nicht überzeugt. "Wir können keinen unserer Verbündeten entbehren. Und wenn jemand eine zweite Chance verdient hat, dann ist es Matkina."
+      <DefaultText>Paj schüttelt den Kopf, sie ist nicht überzeugt. „Wir können keinen unserer Verbündeten entbehren. Und wenn jemand eine zweite Chance verdient hat, dann ist es Matkina.“
 
 Sie legt ihre Hand auf das Energiefeld, in dem Matkina gefangen ist. Der Zorn in ihrem Blick verrät dir, dass sie von dieser Geste nicht viel zu halten scheint.
 
-"Also", sagt Paj, "jetzt befreie unsere Freundin von der Last dieser Erinnerungen."</DefaultText>
+„Also“, sagt Paj, „jetzt befreie unsere Freundin von der Last dieser Erinnerungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Niemals."</DefaultText>
+      <DefaultText>„Niemals.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Ich sage dir doch: ich kann das nicht."</DefaultText>
+      <DefaultText>„Ich sage dir doch: ich kann das nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -915,23 +915,23 @@ Während du zerfetzt und unbeweglich zu Boden gehst, siehst du dabei zu, wie sie
 
 Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen.
 
-Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel ...
+Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …
 
 {SOUND [A]: Sound of flesh being sliced open by a very sharp sword.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Paj beäugt dich für eine Weile kritisch und nickt dann. "Das kommt vor." Sie winkt ihren Leibwächtern zu, und ohne ein weiteres Wort heben sie Matkina in ihrem Schild hoch und schleudern sie von der Klippe. Noch immer im Energiefeld gefangen hört man sie nicht einmal schreien, als sie auf den Felsen weiter unten aufschlägt.
+      <DefaultText>Paj beäugt dich für eine Weile kritisch und nickt dann. „Das kommt vor.“ Sie winkt ihren Leibwächtern zu, und ohne ein weiteres Wort heben sie Matkina in ihrem Schild hoch und schleudern sie von der Klippe. Noch immer im Energiefeld gefangen hört man sie nicht einmal schreien, als sie auf den Felsen weiter unten aufschlägt.
 
 In der Schlacht, die im Dorf zwischen den monströsen "Hügelmenschen" und den eingekesselten Sandrittern tobt, hat keine Seite die Oberhand. Es gibt kein Erbarmen und keine Rücksicht auf Verluste. Ein reines Blutvergießen, nicht weniger.
 
-"Es ist Zeit, nach Hause zu gehen", sagt Paj. "Das Luftschiff wartet." Sie gestikuliert und führt ihre Leibwächter fort. Offensichtlich geht sie davon aus, dass du ihr folgst.</DefaultText>
+„Es ist Zeit, nach Hause zu gehen“, sagt Paj. „Das Luftschiff wartet.“ Sie gestikuliert und führt ihre Leibwächter fort. Offensichtlich geht sie davon aus, dass du ihr folgst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Gibt es auf dem Luftschiff noch Platz für ein paar Dorfbewohner? Selbst, wenn wir nur einige wenige von ihnen retten, könnten wir damit beweisen, dass wir keine Lügner sind."</DefaultText>
+      <DefaultText>„Gibt es auf dem Luftschiff noch Platz für ein paar Dorfbewohner? Selbst, wenn wir nur einige wenige von ihnen retten, könnten wir damit beweisen, dass wir keine Lügner sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,7 +941,7 @@ In der Schlacht, die im Dorf zwischen den monströsen "Hügelmenschen" und den e
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Ich bin hier noch nicht fertig."</DefaultText>
+      <DefaultText>„Ich bin hier noch nicht fertig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -957,7 +957,7 @@ So wie Matkina, die zertrümmert irgendwo zwischen den Ruinen liegt.
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Pajs Geduld lässt sichtlich nach. "Ich werde dir nicht noch eine Gelegenheit zur Rückkehr geben, Tash. Komm mit uns, und du wirst ein Soldat der Miliz sein, Diener einer guten Sache. Bleib hier, und du bist nichts weiter als ein Mörder."
+      <DefaultText>Pajs Geduld lässt sichtlich nach. „Ich werde dir nicht noch eine Gelegenheit zur Rückkehr geben, Tash. Komm mit uns, und du wirst ein Soldat der Miliz sein, Diener einer guten Sache. Bleib hier, und du bist nichts weiter als ein Mörder.“
 
 Sie wartet nicht darauf, bis du deine Antwort durchdacht hast, und sie hat offenbar kein Interesse an einem Wortwechsel. Während sie sich immer weiter dem wartenden, getarnten Luftschiff näher, wird dir ihre unausgesprochene Nachricht bewusst: es ist Zeit, eine Entscheidung zu treffen.</DefaultText>
       <FemaleText />
@@ -974,7 +974,7 @@ Sie wartet nicht darauf, bis du deine Antwort durchdacht hast, und sie hat offen
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Paj seufzt verbittert. "Bitte, wenn es dir bei deiner Entscheidung hilft."
+      <DefaultText>Paj seufzt verbittert. „Bitte, wenn es dir bei deiner Entscheidung hilft.“
 
 Sie selbst führt euren Trupp den Hang des Hügels hinunter, umgeben von ihren Leibwächtern und gefolgt von dir. Mittlerweile ist der Dorf vom beißenden Geruch der abgefeuerten Jezail-Gewehre und
 
@@ -987,9 +987,9 @@ Zusammen sprintet den Hügel hinauf zum Luftschiff, während das Dorf hinter euc
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Paj seufzt leicht. "Wir *sind* Lügner, Tash. Und das Luftschiff ist nicht irgendein Transporter für Flüchtlinge."
+      <DefaultText>Paj seufzt leicht. „Wir *sind* Lügner, Tash. Und das Luftschiff ist nicht irgendein Transporter für Flüchtlinge.“
 
-Sie hält kurz inne und seufzt dann noch einmal. "Die Leben, die du retten würdest ... sie würden keine Rolle spielen. Das Dorf Kholn ist nicht mehr. Es kann nicht gerettet werden. Es *hätte* nicht gerettet werden können. Die Teratomorphs sind tot - auch sie hätten nicht gerettet werden können. Die Dorfbewohner hier sind nicht anders als zehntausend andere, die über die Verxulianische Einöde verteilt leben. Sie sterben alle irgendwann und irgendwie. Wir können sie nicht retten. Das Beste, was wir tun können, ist ihrem Tod eine Bedeutung zu geben."
+Sie hält kurz inne und seufzt dann noch einmal. „Die Leben, die du retten würdest … sie würden keine Rolle spielen. Das Dorf Kholn ist nicht mehr. Es kann nicht gerettet werden. Es *hätte* nicht gerettet werden können. Die Teratomorphs sind tot - auch sie hätten nicht gerettet werden können. Die Dorfbewohner hier sind nicht anders als zehntausend andere, die über die Verxulianische Einöde verteilt leben. Sie sterben alle irgendwann und irgendwie. Wir können sie nicht retten. Das Beste, was wir tun können, ist ihrem Tod eine Bedeutung zu geben.“
 
 Sie dreht sich um, um zu gehen, da sie das Gespräch für beendet hält.</DefaultText>
       <FemaleText />
@@ -1010,7 +1010,7 @@ Sie dreht sich um, um zu gehen, da sie das Gespräch für beendet hält.</Defaul
 
 Während du zerfetzt und unbeweglich zu Boden gehst, siehst du dabei zu, wie sie Matkina von der Klippe schleudern. Noch immer im Energiefeld gefangen hört man sie nicht einmal schreien, als sie auf den Felsen weiter unten aufschlägt. Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen.
 
-Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel ...
+Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …
 
 {SOUND [A]: Sound of flesh being sliced open by a very sharp sword.}</DefaultText>
       <FemaleText />
@@ -1019,11 +1019,11 @@ Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen 
       <ID>165</ID>
       <DefaultText>Du bist nicht sicher, ob sie deine Lippen oder deine Gedanken lesen kann, aber Matkina spielt mit: Erst erstarrt sie, ihr Gesicht gezeichnet von Schmerzen, dann sackt sie zusammen und fällt gegen die Wand des Energiefelds. Es verbiegt sich, um sie aufrecht zu halten.
 
-"Gut", sagt Paj. "Lasst sie hier. Wir werden sehen, ob unser verlorenes Schaf wieder zur Herde findet."
+„Gut“, sagt Paj. „Lasst sie hier. Wir werden sehen, ob unser verlorenes Schaf wieder zur Herde findet.“
 
 Sie wendet sich der Szenerie am Fuß des Hügels zu. In der Schlacht, die im Dorf zwischen den monströsen "Hügelmenschen" und den eingekesselten Sandrittern tobt, hat keine Seite die Oberhand. Es gibt kein Erbarmen und keine Rücksicht auf Verluste. Ein reines Blutvergießen, nicht weniger.
 
-"Es ist Zeit, nach Hause zu gehen", sagt Paj. "Das Luftschiff wartet." Sie führt ihre Leibwächter fort und geht offensichtlich davon aus, dass du ihr folgst.</DefaultText>
+„Es ist Zeit, nach Hause zu gehen“, sagt Paj. „Das Luftschiff wartet.“ Sie führt ihre Leibwächter fort und geht offensichtlich davon aus, dass du ihr folgst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1039,21 +1039,21 @@ Auf dem Hügel steht Matkina, fürs Erste noch gefangen im Energiefeld. Ihr Vers
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Ich will bleiben und im Dorf helfen."</DefaultText>
+      <DefaultText>„Ich will bleiben und im Dorf helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
       <DefaultText>Paj bleibt stehen, dreht sich um und wirft dir einen kühlen Blick zu. Vielleicht war dein Schauspiel mit Matkina nicht ganz so überzeugend, wie du dachtest.
 
-"Das Werk der Miliz ist hier getan. Das Dorf kann nicht gerettet werden, und Matkina ist auf sich allein gestellt. Du hast ihr mit deinen Augen eine lange Zeit gedient, aber jetzt muss sie ihren Weg alleine finden. Eine Art Loyalitätstest."
+„Das Werk der Miliz ist hier getan. Das Dorf kann nicht gerettet werden, und Matkina ist auf sich allein gestellt. Du hast ihr mit deinen Augen eine lange Zeit gedient, aber jetzt muss sie ihren Weg alleine finden. Eine Art Loyalitätstest.“
 
 Es ist nicht eindeutig, ob sie damit dich oder Matkina meint, und offenbar hat sie auch nicht die Absicht, näher darauf einzugehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Ich bleibe."</DefaultText>
+      <DefaultText>„Ich bleibe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1062,7 +1062,7 @@ Es ist nicht eindeutig, ob sie damit dich oder Matkina meint, und offenbar hat s
 
 Wie dem auch sei, sie hebt lediglich einen Finger und noch bevor du überhaupt reagieren kannst, zerschlitzt dich einer ihrer Leibwächter. Während du zerfetzt und unbeweglich zu Boden gehst, siehst du zwischen Paj und ihren Leibwächtern und Matkina hin- und her. Matkina erwidert den Blick. Doch sie kann nichts tun. Selbst wenn sie sich bewegen könnte, würde sie nur mit dir in den Tod gehen, wenn sie die Scharade jetzt durchbrechen würde.
 
-Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel ...
+Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …
 
 {SOUND [A]: Sound of flesh being sliced open by a very sharp sword.}</DefaultText>
       <FemaleText />
@@ -1141,7 +1141,7 @@ Du dringst weiter durch das Dorf vor, mit brennenden Augen und Lugen, bis du ein
       <ID>182</ID>
       <DefaultText>Du hast gerade einmal genug Zeit, deinen Mund zu öffnen, bevor eine der Leibwächer mit übernatürlicher Geschwindigkeit vorprescht und ihre Faust in deinem Magen vergräbt. Als du zu Boden gehst, setzt sie noch einen Tritt auf deinen Kopf drauf. Während dein Kopf sich dreht, legt sie dich auf den Rücken, entwaffnet dich und stellt dich dann wieder auf.
 
-Obwohl beide von euch wehrlos vor ihr stehen, scheint Paj weniger glücklich zu sein. "Ich weiß nicht, was für ein Spiel du spielst, Tash", warnt sie dich. "Und es interessiert mich auch nicht besonders. Ich will nur das Jahk. Erzähl mir, wie man die Höhle öffnet, dann sehen wir weiter."
+Obwohl beide von euch wehrlos vor ihr stehen, scheint Paj weniger glücklich zu sein. „Ich weiß nicht, was für ein Spiel du spielst, Tash“, warnt sie dich. „Und es interessiert mich auch nicht besonders. Ich will nur das Jahk. Erzähl mir, wie man die Höhle öffnet, dann sehen wir weiter.“
 
 Sie macht sich nicht einmal die Mühe, dich zu bedrohen oder zu bestechen. Trotz ihrer weichen, fast schon mütterlichen Merkmale hat sie es nicht nötig, aufbrausend zu werden. Ihr Blick genügt.
 
@@ -1150,12 +1150,12 @@ Sie macht sich nicht einmal die Mühe, dich zu bedrohen oder zu bestechen. Trotz
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Ich werde nicht zulassen, dass Sie Matkinas Heimat zerstören."</DefaultText>
+      <DefaultText>„Ich werde nicht zulassen, dass Sie Matkinas Heimat zerstören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Lassen Sie Matkina gehen, dann können wir reden."</DefaultText>
+      <DefaultText>„Lassen Sie Matkina gehen, dann können wir reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1165,32 +1165,32 @@ Sie macht sich nicht einmal die Mühe, dich zu bedrohen oder zu bestechen. Trotz
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Nein." Trotz des harten Worts klingt Pajs Stimme sanft. "Warum sollte ich einem Mann, der mein Vertrauen schon einmal missbraucht hat, einen Gefallen tun?"
+      <DefaultText>„Nein.“ Trotz des harten Worts klingt Pajs Stimme sanft. „Warum sollte ich einem Mann, der mein Vertrauen schon einmal missbraucht hat, einen Gefallen tun?“
 
-Angesichts deines Schweigens fügt sie hinzu: "Möglicherweise fragst du dich jetzt, was ich tun werde, um deinen Willen zu brechen?" Sie schüttelt den Kopf. "Gar nichts. Ich kenne dich, Tash, und ich kenne Matkina. Ich habe euch *trainiert*. Selbst Folter würde deine Zunge nicht lockern, sonst hätte ich schon lange eins deiner Augen zwischen meinen Fingern."
+Angesichts deines Schweigens fügt sie hinzu: „Möglicherweise fragst du dich jetzt, was ich tun werde, um deinen Willen zu brechen?“ Sie schüttelt den Kopf. „Gar nichts. Ich kenne dich, Tash, und ich kenne Matkina. Ich habe euch *trainiert*. Selbst Folter würde deine Zunge nicht lockern, sonst hätte ich schon lange eins deiner Augen zwischen meinen Fingern.“
 
-"Nein", sagt sie. "Ich werde dir einfach die Wahl lassen und dann meine Entscheidung treffen."</DefaultText>
+„Nein“, sagt sie. „Ich werde dir einfach die Wahl lassen und dann meine Entscheidung treffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Bitte verschonen Sie uns, Sie wissen doch, wie wertvoll wir für die Miliz sind."</DefaultText>
+      <DefaultText>„Bitte verschonen Sie uns, Sie wissen doch, wie wertvoll wir für die Miliz sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>Paj setzt zum Sprechen an, hält kurz inne, und beginnt wieder von vorne. "Das Dorf kann nicht gerettet werden, Tash. Nicht von dir, Matkina, mir oder der Miliz. Der Krieg wird es verschlingen. Die Sandritter werden immer irgendeinen Grund finden, um es niederzubrennen. Das Chaos hat es bereits für sich beansprucht, noch bevor wir unsere Entscheidungen getroffen haben."
+      <DefaultText>Paj setzt zum Sprechen an, hält kurz inne, und beginnt wieder von vorne. „Das Dorf kann nicht gerettet werden, Tash. Nicht von dir, Matkina, mir oder der Miliz. Der Krieg wird es verschlingen. Die Sandritter werden immer irgendeinen Grund finden, um es niederzubrennen. Das Chaos hat es bereits für sich beansprucht, noch bevor wir unsere Entscheidungen getroffen haben.“
 
 Sie zeigt mit dem Finger in die Ferne, und als du ihm mit deinem Blick folgst, siehst du, dass die Sandritter angekommen sind und sich mit Neng am Rand des Dorfes unterhalten.
 
-"Alles, was ich will, ist dieser Zerstörung einen Sinn und Zweck zu geben. Was ich will, ist unsere Sache weiterzubringen, sodass ich eines Tages, wenn der Krieg gewonnen ist, wieder hierher zurückkehren kann. Dann werde ich einen Baum in dieser mit Leichen übersäten, geschundenen Erde pflanzen und den Leuten hier für ihr Opfer danken."
+„Alles, was ich will, ist dieser Zerstörung einen Sinn und Zweck zu geben. Was ich will, ist unsere Sache weiterzubringen, sodass ich eines Tages, wenn der Krieg gewonnen ist, wieder hierher zurückkehren kann. Dann werde ich einen Baum in dieser mit Leichen übersäten, geschundenen Erde pflanzen und den Leuten hier für ihr Opfer danken.“
 
-"Das ist das Beste, was wir tun können."</DefaultText>
+„Das ist das Beste, was wir tun können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"Nur Matkina weiß, wie man hineinkommt."</DefaultText>
+      <DefaultText>„Nur Matkina weiß, wie man hineinkommt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1204,23 +1204,23 @@ Sie zeigt mit dem Finger in die Ferne, und als du ihm mit deinem Blick folgst, s
 
 Paj seufzt und hebt einen Finger in die Luft. Noch bevor du überhaupt reagieren kannst, zerschlitzt dich einer von Pajs Leibwächtern. Während du zu Boden gehst, siehst du dabei zu, wie sie Matkina von der Klippe schleudern. In ihrem Energiefeld gefangen hört man sie nicht einmal schreien.
 
-Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel ...
+Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …
 
 {SOUND [A]: Sound of flesh being sliced open by a very sharp sword.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Paj sieht von dir zu Matkina hinüber, die vor Verachtung dir gegenüber bereits zu kochen scheint. "Du wirst nicht reden, oder, Matkina? An dieser Stelle hier solltest du nämlich eine Grenze ziehen: nicht bei all dem Blut, dass du schon für die Miliz vergossen hast, aber bei einem Tropfen des Blutes deiner Freunde." Sie beobachtet, wie Matkina tobt, und zuckt dann mit den Schultern. "Aber jeder Tod hat denselben Preis, Matkina. Die Frage ist nur, ob das, was du damit erkauft hast, es wert ist."
+      <DefaultText>Paj sieht von dir zu Matkina hinüber, die vor Verachtung dir gegenüber bereits zu kochen scheint. „Du wirst nicht reden, oder, Matkina? An dieser Stelle hier solltest du nämlich eine Grenze ziehen: nicht bei all dem Blut, dass du schon für die Miliz vergossen hast, aber bei einem Tropfen des Blutes deiner Freunde.“ Sie beobachtet, wie Matkina tobt, und zuckt dann mit den Schultern. „Aber jeder Tod hat denselben Preis, Matkina. Die Frage ist nur, ob das, was du damit erkauft hast, es wert ist.“
 
-Sie dreht sich zu dir. "Und du. Wenn du doch nur Gedanken lesen und nicht nur auslöschen könntest."</DefaultText>
+Sie dreht sich zu dir. „Und du. Wenn du doch nur Gedanken lesen und nicht nur auslöschen könntest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
       <DefaultText>Paj lässt dich die Schritte langsam und einen nach dem anderen wiederholen, bevor sie zwei ihrer Leibwächter in die Höhle schickt. Während du die Reihenfolge erklärst, sieht dich Matkina mit mörderischer Wut an.
 
-Solange ihr auf die Sandritter wartet, zeigt Paj hinunter zum Dorf, wie die Sandritter gerade eine hitzige Diskussion mit Neng führen. "Und so", sagt sie, "nimmt der Plan seinen Lauf."
+Solange ihr auf die Sandritter wartet, zeigt Paj hinunter zum Dorf, wie die Sandritter gerade eine hitzige Diskussion mit Neng führen. „Und so“, sagt sie, „nimmt der Plan seinen Lauf.“
 
 Nach einer Weile, die dir sehr lange vorkommt, treten die Leibwächter wieder aus der Höhle. Einer von ihnen ist verwundert, aber sie haben ein Artefakt bei sich: Eine Art Flöte aus Schilf, die von alleine Klänge zu erzeugen scheint. Das muss das Jahk sein.
 
@@ -1229,79 +1229,79 @@ Die Wache übergibt es Paj, die es in ihren Händen dreht und dann auf den Boden
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Warten Sie! Sie haben doch, was Sie wollten! Lassen Sie Matkina gehen."</DefaultText>
+      <DefaultText>„Warten Sie! Sie haben doch, was Sie wollten! Lassen Sie Matkina gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>"Wir sind jetzt quitt, oder?"</DefaultText>
+      <DefaultText>„Wir sind jetzt quitt, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Paj, tun Sie das nicht! Verschonen Sie das Dorf - das ist Matkinas Heimat!"</DefaultText>
+      <DefaultText>„Paj, tun Sie das nicht! Verschonen Sie das Dorf - das ist Matkinas Heimat!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>Paj sieht dich mit aufrichtiger Traurigkeit an. "Du *warst* wertvoll für mich, Tash. Aber ein Soldat, der seine Befehle nicht befolgt, ist nicht wertvoll. Er ist eine Gefahr. Es gab eine Zeit, da hätte ich meine Hände dafür gegeben, dich und Matkina wieder nach Hause zu holen. Aber jetzt?" Sie zuckt mit den Schultern. "Die Miliz ist nicht länger euer Zuhause."
+      <DefaultText>Paj sieht dich mit aufrichtiger Traurigkeit an. „Du *warst* wertvoll für mich, Tash. Aber ein Soldat, der seine Befehle nicht befolgt, ist nicht wertvoll. Er ist eine Gefahr. Es gab eine Zeit, da hätte ich meine Hände dafür gegeben, dich und Matkina wieder nach Hause zu holen. Aber jetzt?“ Sie zuckt mit den Schultern. „Die Miliz ist nicht länger euer Zuhause.“
 
-Sie zeigt auf das Tor. "Jetzt bist du nur so lange wertvoll für mich, bis wir dieses Tor geöffnet haben."</DefaultText>
+Sie zeigt auf das Tor. „Jetzt bist du nur so lange wertvoll für mich, bis wir dieses Tor geöffnet haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Etwas stimmt ganz und gar nicht, Matkina. Ich spüre es."</DefaultText>
+      <DefaultText>„Etwas stimmt ganz und gar nicht, Matkina. Ich spüre es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>Sie wirft dir einen strengen Blick zu. "Vielleicht ist das, was du spürst, die Armee von Sandrittern, die auf dem Weg zum Dorf Kholn ist, um es zu zerstören. Vielleicht ist es aber auch Paj Rekken, die sich wundert, warum zwei Elitesoldaten eine simple Extraktion wie diese hier nicht durchführen können."
+      <DefaultText>Sie wirft dir einen strengen Blick zu. „Vielleicht ist das, was du spürst, die Armee von Sandrittern, die auf dem Weg zum Dorf Kholn ist, um es zu zerstören. Vielleicht ist es aber auch Paj Rekken, die sich wundert, warum zwei Elitesoldaten eine simple Extraktion wie diese hier nicht durchführen können.“
 
-Sie zischt und schüttelt den Kopf. "Hör auf, dich wie ein Anfänger zu benehmen."</DefaultText>
+Sie zischt und schüttelt den Kopf. „Hör auf, dich wie ein Anfänger zu benehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Was ist mit deinen Augen geschehen?"</DefaultText>
+      <DefaultText>„Was ist mit deinen Augen geschehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Matkina wirft dir einen strengend Blick zu, aber Neng zuckt nur leicht mit den Schultern. "Ein Unfall. Längst vergessen." Er reibt die blinden Sphären mit seinen dicken, dreckigen Fingern und schüttelt den Kopf. "Es ist nicht so eine große Sache, wie du denkst."</DefaultText>
+      <DefaultText>Matkina wirft dir einen strengend Blick zu, aber Neng zuckt nur leicht mit den Schultern. „Ein Unfall. Längst vergessen.“ Er reibt die blinden Sphären mit seinen dicken, dreckigen Fingern und schüttelt den Kopf. „Es ist nicht so eine große Sache, wie du denkst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Was genau sind nun diese "Hügelmenschen", Matkina?"</DefaultText>
+      <DefaultText>„Was genau sind nun diese "Hügelmenschen", Matkina?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>Matkina sieht dich abschätzig an. "*Was* sie sind? Die einzige Familie, die ich jemals hatte."
+      <DefaultText>Matkina sieht dich abschätzig an. „*Was* sie sind? Die einzige Familie, die ich jemals hatte.“
 
 Mehr als diese Erklärung bietet sie dir nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Meine Familie."
+      <DefaultText>„Meine Familie.“
 
-Matkina seufzt und stapft ungeduldig mit den Füßen auf - ungeduldig mit sich selbst, denn kurz darauf spricht sie weiter: "Ein Aeon-Priester hat ihnen den Namen "Teratomorph" gegeben, aber solche Namen benutzen sie nicht selbst. Sie haben jahrelang hier auf diesem Hügel gelebt. Und sie beschützen alle Flachlandmenschen, die Schutz in ihrem Dorf suchen."</DefaultText>
+Matkina seufzt und stapft ungeduldig mit den Füßen auf - ungeduldig mit sich selbst, denn kurz darauf spricht sie weiter: „Ein Aeon-Priester hat ihnen den Namen "Teratomorph" gegeben, aber solche Namen benutzen sie nicht selbst. Sie haben jahrelang hier auf diesem Hügel gelebt. Und sie beschützen alle Flachlandmenschen, die Schutz in ihrem Dorf suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Was, denkst du, ist das für ein Ort?"</DefaultText>
+      <DefaultText>„Was, denkst du, ist das für ein Ort?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>Matkina zuckt mit den Schultern. "Könnte alles mögliche sein. Du bist doch derjenige, der immer sagt, dass man verrückt wird, wenn man versucht, die Welt zu verstehen."
+      <DefaultText>Matkina zuckt mit den Schultern. „Könnte alles mögliche sein. Du bist doch derjenige, der immer sagt, dass man verrückt wird, wenn man versucht, die Welt zu verstehen.“
 
 Aber daran, dass sie am Ende des Satzes kurz inne hält, ist erkennbar, dass sie es dabei nicht belassen kann: verrückt oder nicht, sie *will* dass er etwas bedeutet.
 
-"Ich denke, die Hügelmenschen stammen von hier", sagt sie. "Oder ... sind hier *durchgereist*." Dann zuckt sie noch einmal mit den Schultern. "Aber wir sind nicht hier, um nach Antworten zu suchen, sondern um *das* zu finden." Sie zeigt auf das Jahk.</DefaultText>
+„Ich denke, die Hügelmenschen stammen von hier“, sagt sie. „Oder … sind hier *durchgereist*.“ Dann zuckt sie noch einmal mit den Schultern. „Aber wir sind nicht hier, um nach Antworten zu suchen, sondern um *das* zu finden.“ Sie zeigt auf das Jahk.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1326,16 +1326,16 @@ Aber daran, dass sie am Ende des Satzes kurz inne hält, ist erkennbar, dass sie
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Matkina, wir dürfen das Tor nicht öffnen. Paj Rekken will das Jahk und damit das gesamte Dorf zerstören."</DefaultText>
+      <DefaultText>„Matkina, wir dürfen das Tor nicht öffnen. Paj Rekken will das Jahk und damit das gesamte Dorf zerstören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
       <DefaultText>Zügig erläuterst du den Ablauf von Pajs Plan - wie sie und eine bewaffnete Truppe nur darauf warten, das Jahk an sich zu reißen und es zu zerstören, um die Teratomorphs als lebende Waffe auf die Sandritter loszulassen. In gewisser Hinsicht ist dieser Verrat so dreist, der Plan so hinterlistig, dass er unglaublich zu sein scheint. Und zunächst glaubt dir Matkina nicht.
 
-Aber dann verhärtet sich ihr Gesichtsausdruck. "Etwas in dir hat sich verändert, Tash. Zum Besseren. Dir *bedeutet* diese Sache etwas." Sie nimmt deine Hand. "Ich danke dir." Dann sucht sie den Horizont nach Paj, und du tust es ihr gleich, aber ihr entdeckt nichts.
+Aber dann verhärtet sich ihr Gesichtsausdruck. „Etwas in dir hat sich verändert, Tash. Zum Besseren. Dir *bedeutet* diese Sache etwas.“ Sie nimmt deine Hand. „Ich danke dir.“ Dann sucht sie den Horizont nach Paj, und du tust es ihr gleich, aber ihr entdeckt nichts.
 
-"Wir müssen soweit weg von hier wie möglich", sagt sie entschieden. "Paj von hier weglocken. Neng Zeit verschaffen, mit den Sandrittern zu verhandeln. Und sie vom Jahk fernhalten."</DefaultText>
+„Wir müssen soweit weg von hier wie möglich“, sagt sie entschieden. „Paj von hier weglocken. Neng Zeit verschaffen, mit den Sandrittern zu verhandeln. Und sie vom Jahk fernhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1349,13 +1349,13 @@ Das Jahk löst sich einfach in Luft auf.
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Aber das ist die Stimme des Stolzes, Tash. Der Selbstsucht. Des Egoismus. Oh, sie hört sich süß, nobel und gerecht an. Aber das ist sie nicht."
+      <DefaultText>„Aber das ist die Stimme des Stolzes, Tash. Der Selbstsucht. Des Egoismus. Oh, sie hört sich süß, nobel und gerecht an. Aber das ist sie nicht.“
 
-Sie legt eine Hand auf deine Schulter. "Bescheidenheit, Tash, bedeutet, zu akzeptieren, dass andere etwas besser wissen als du selbst. Ein Opfer zu bringen bedeutet nicht, sein Leben zu geben, weil man weiß, dass es das Richtige ist - das ist nur Selbstsucht. Ein Opfer zu bringen bedeutet, das Falsche zu tun, weil es deine Pflicht ist."
+Sie legt eine Hand auf deine Schulter. „Bescheidenheit, Tash, bedeutet, zu akzeptieren, dass andere etwas besser wissen als du selbst. Ein Opfer zu bringen bedeutet nicht, sein Leben zu geben, weil man weiß, dass es das Richtige ist - das ist nur Selbstsucht. Ein Opfer zu bringen bedeutet, das Falsche zu tun, weil es deine Pflicht ist.“
 
-Sie zeigt auf Matkina. "Wie viele Duzend Feinde habt ihr beiden getötet? Glaubst du, sie alle hatten es verdient? Ich versichere dir, dass das nicht so ist. Aber es war *notwendig*. So wie das hier."
+Sie zeigt auf Matkina. „Wie viele Duzend Feinde habt ihr beiden getötet? Glaubst du, sie alle hatten es verdient? Ich versichere dir, dass das nicht so ist. Aber es war *notwendig*. So wie das hier.“
 
-"Ein Soldat, der seine Befehle befolgt, ist eine Bereicherung. Ein Soldat, der das nicht tut, eine Gefahr. Also befehle ich dir jetzt, Soldat: zerstöre ihre Erinnerungen."</DefaultText>
+„Ein Soldat, der seine Befehle befolgt, ist eine Bereicherung. Ein Soldat, der das nicht tut, eine Gefahr. Also befehle ich dir jetzt, Soldat: zerstöre ihre Erinnerungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1382,7 +1382,7 @@ Sie presst den Knochen zurück an seine Stelle und verbindest die Wunde, so gut 
 
 Der Hut und Mantel des Sandritters, zu dem es gehört, sind verschwunden. Er sieht mehr nach einem verschrockenen jungen Mann aus, als nach einem Mörder. Aber seine Waffe ist scharf, und das Blut an seiner Kleidung gehört nicht ihm.
 
-Er feuert ohne ein Wort. Der gezielte Schuss durchbohrt dein Herz. Nein. Tashs Herz. Denn du spürst bereits, wie dir Tashs Körper und Verstand langsam entgleitet und du durch die Dunkelheit hindurch zurückfällst ...
+Er feuert ohne ein Wort. Der gezielte Schuss durchbohrt dein Herz. Nein. Tashs Herz. Denn du spürst bereits, wie dir Tashs Körper und Verstand langsam entgleitet und du durch die Dunkelheit hindurch zurückfällst …
 
 {SOUND [A]: Single gunshot.}</DefaultText>
       <FemaleText />
@@ -1395,7 +1395,7 @@ Ohne eine Warnung kehrst du zum Dorf zurück. Die Rauchschwaden werden immer dic
 
 Sein Hut und Mantel fehlen, und er sieht mehr nach einem verschrockenen jungen Mann aus, als nach einem Mörder. Aber seine Waffe ist scharf, und das Blut an seiner Kleidung gehört nicht ihm.
 
-Er feuert ohne ein Wort. Der gezielte Schuss durchbohrt dein Herz. Nein. *Tashs* Herz. Denn *du* spürst bereits, wie dir Tashs Körper und Verstand langsam entgleitet und du durch die Dunkelheit hindurch zurückfällst ...
+Er feuert ohne ein Wort. Der gezielte Schuss durchbohrt dein Herz. Nein. *Tashs* Herz. Denn *du* spürst bereits, wie dir Tashs Körper und Verstand langsam entgleitet und du durch die Dunkelheit hindurch zurückfällst …
 
 {SOUND [A]: Single gunshot.}</DefaultText>
       <FemaleText />
@@ -1404,7 +1404,7 @@ Er feuert ohne ein Wort. Der gezielte Schuss durchbohrt dein Herz. Nein. *Tashs*
       <ID>224</ID>
       <DefaultText>Paj sieht stoisch vom Luftschiff herab. Ohne deine übernatürlichen Augen sieht sie womöglich nicht die einzelnen Individuen, die hier durch ihr Handeln vernichtet wurden, sondern nur einen strategischen Punkt und die Zahlen, für die er in ihrem großen Plan steht. Oder sie hat einfach nur gelernt, ihren Untergebenen in der Miliz ein Vorbild zu sein.
 
-Sie bemerkt, wie du sie ansiehst, und wirft dir ein Lächeln zu - ein herzliches Lächeln, so es denn echt ist, frei von jeglicher Ironie und Grausamkeit. "Ich bin stolz auf dich", sagt sie, und verschwindet dann in ihre Kabine, um die nächste Schlacht zu planen.
+Sie bemerkt, wie du sie ansiehst, und wirft dir ein Lächeln zu - ein herzliches Lächeln, so es denn echt ist, frei von jeglicher Ironie und Grausamkeit. „Ich bin stolz auf dich“, sagt sie, und verschwindet dann in ihre Kabine, um die nächste Schlacht zu planen.
 
 Mit ihren Worten spürst du, wie dir Tashs Körper entgleitet und dein Verstand sich von ihr löst - wieder einmal fällst du durch den Raum, durch Raum und Zeit. Nach Hause.</DefaultText>
       <FemaleText />
@@ -1413,19 +1413,19 @@ Mit ihren Worten spürst du, wie dir Tashs Körper entgleitet und dein Verstand 
       <ID>225</ID>
       <DefaultText>Sie hebt lediglich einen Finger und noch bevor du überhaupt reagieren kannst, zerschlitzt dich einer ihrer Leibwächter. Während du zerfetzt und unbeweglich zu Boden gehst, siehst du dabei zu, wie sie Matkina von der Klippe schleudern. In ihrem Energiefeld gefangen hört man sie nicht einmal schreien.
 
-Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel ...
+Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …
 
 {SOUND [A]: Sound of flesh being sliced open by a very sharp sword.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Nur Matkina weiß, wie man hineinkommt."</DefaultText>
+      <DefaultText>„Nur Matkina weiß, wie man hineinkommt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Paj wirft dir einen ungläubigen Blick zu und schüttelt dann den Kopf. "Das war nicht die schlechteste deine Lügen, Tash, aber du hättest wissen müssen, dass meine Geduld langsam an ihre Grenzen gerät."</DefaultText>
+      <DefaultText>Paj wirft dir einen ungläubigen Blick zu und schüttelt dann den Kopf. „Das war nicht die schlechteste deine Lügen, Tash, aber du hättest wissen müssen, dass meine Geduld langsam an ihre Grenzen gerät.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1434,9 +1434,9 @@ Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre T
 
 Im Dorf bricht das Chaos aus. Wo einst Neng und seine Hügelmenschen waren, windet sich jetzt eine wütende Masse aus "Tentakelwesen", die über die Sandritter herfallen. Der überraschende Angriff tötet viele von ihnen. Andere eröffnen das Feuer.
 
-Matkina schaut wütend zitternd und hilflos aus ihrem Energiegefängnis heraus zu. "Ich verstehe dich", sagt Paj. "Aber diese Sandritter dort sind unersetzlich. Sie sieht sich das Gemetzel am Fuß des Hügels an. "Mit einem einzigen Schlag haben wir das Gleichgewicht der Macht in der Einöde verändert und den eisernen Griff unserer Feinde von zwei Duzend Dörfern gelöst.
+Matkina schaut wütend zitternd und hilflos aus ihrem Energiegefängnis heraus zu. „Ich verstehe dich“, sagt Paj. „Aber diese Sandritter dort sind unersetzlich.“ Sie sieht sich das Gemetzel am Fuß des Hügels an. „Mit einem einzigen Schlag haben wir das Gleichgewicht der Macht in der Einöde verändert und den eisernen Griff unserer Feinde von zwei Duzend Dörfern gelöst.“
 
-Sie dreht sich um und fügt hinzu: "Und ich verspreche, dass du nicht lange leiden musst."
+Sie dreht sich um und fügt hinzu: „Und ich verspreche, dass du nicht lange leiden musst.“
 
 {SOUND [A]: Some kind of techno-shot firing, followed by something shattering. A moment later, a distant but terrifying shriek - I'm thinking like the fell beasts in LOTR. Then the sound of gunfire, distant, like pops. Perhaps some very faint and indistinct shouts.}</DefaultText>
       <FemaleText />
@@ -1466,29 +1466,29 @@ Aber was für Wünsche auch immer in deinen Blicken wohnen, es geschieht nichts.
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>Sie schluckt, schließt ihre Augen und trifft eine Entscheidung. "Sie sind keine Menschen. Manchmal verwandeln sie sich, werden wild - üblicherweise passiert das den Jungen oder Alten. Die Menschen in den anderen Dörfern nennen es "Hautwandlung". Und sie nennen die Hügelmenschen Monster."
+      <DefaultText>Sie schluckt, schließt ihre Augen und trifft eine Entscheidung. „Sie sind keine Menschen. Manchmal verwandeln sie sich, werden wild - üblicherweise passiert das den Jungen oder Alten. Die Menschen in den anderen Dörfern nennen es "Hautwandlung". Und sie nennen die Hügelmenschen Monster.“
 
-Sie schüttelt den Kopf. "Irgendwann ist es vorüber und sie verwandeln sich zurück. Aber manchmal ... manchmal verlassen sie das Dorf und kehren nie zurück. Sie verlieren die Kontrolle. Verletzen jemanden."
+Sie schüttelt den Kopf. „Irgendwann ist es vorüber und sie verwandeln sich zurück. Aber manchmal … manchmal verlassen sie das Dorf und kehren nie zurück. Sie verlieren die Kontrolle. Verletzen jemanden.“
 
-Mit einem beschützerischen Unterton schließt sie ab: "Familie. Das sind sie für mich. Familie, Menschen."</DefaultText>
+Mit einem beschützerischen Unterton schließt sie ab: „Familie. Das sind sie für mich. Familie, Menschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>"Sie haben versprochen, unserer "Bedrohung" ein Ende zu machen, Kina." Er schüttelt den Kopf. "Warum? Wir haben immer den Blutpreis bezahlt, für jeden Schaden, den wir angerichtet haben. Das weißt du. Sie wissen es."
+      <DefaultText>„Sie haben versprochen, unserer "Bedrohung" ein Ende zu machen, Kina.“ Er schüttelt den Kopf. „Warum? Wir haben immer den Blutpreis bezahlt, für jeden Schaden, den wir angerichtet haben. Das weißt du. Sie wissen es.“
 
-"Ja", sagt Matkina mit sanfter Stimme. "Aber die Sandritter nehmen keine Shin an. *Das* weißt *du*." Er grummelt.
+„Ja“, sagt Matkina mit sanfter Stimme. „Aber die Sandritter nehmen keine Shin an. *Das* weißt *du*.“ Er grummelt.
 
-"Die Miliz ist hier, um euch zu helfen, Neng. Ihr seid die, für die wir stehen - die Kleinen, die Bedrohten, die Gejagten. Das sind auch wir." Sie nimmt seine Hand. "Komm mit uns. Wenn ihr den Rittern erzählt, dass ihr verschwindet, werden sie keinen Kampf erzwingen. Sie haben größere Kämpfe vor sich, glaub mir."
+„Die Miliz ist hier, um euch zu helfen, Neng. Ihr seid die, für die wir stehen - die Kleinen, die Bedrohten, die Gejagten. Das sind auch wir.“ Sie nimmt seine Hand. „Komm mit uns. Wenn ihr den Rittern erzählt, dass ihr verschwindet, werden sie keinen Kampf erzwingen. Sie haben größere Kämpfe vor sich, glaub mir.“
 
-"Dieses Fleckchen Erde gehört *uns*, Kina."
+„Dieses Fleckchen Erde gehört *uns*, Kina.“
 
-"Paj Rekken wird euch eine neue Heimat geben. Du kannst ihr vertrauen." Neng schweigt.</DefaultText>
+„Paj Rekken wird euch eine neue Heimat geben. Du kannst ihr vertrauen.“ Neng schweigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>Paj sieht dich ungeduldig an. "Das ist nicht die richtige Zeit, um herumzutrödeln und Spielchen zu spielen, Tash. Wir müssen verschwinden, bevor die Sandritter mit den Dorfbewohnern fertig sind und ihre Waffen gegen uns richten."</DefaultText>
+      <DefaultText>Paj sieht dich ungeduldig an. „Das ist nicht die richtige Zeit, um herumzutrödeln und Spielchen zu spielen, Tash. Wir müssen verschwinden, bevor die Sandritter mit den Dorfbewohnern fertig sind und ihre Waffen gegen uns richten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
