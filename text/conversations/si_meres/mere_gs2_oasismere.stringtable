@@ -16,9 +16,9 @@ Dunkle Männer und Frauen in bunten Roben drängen sich an dir vorbei und wirbel
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Die Bettlerin ist eine ausgemergelte Frau mit rotbrauner Haut, die aussieht, als hätte sie einen permanenten Sonnenbrand. Ihr Haar ist so ausgebleicht, dass es beinahe weiß erscheint, und ihre Augen sind grün mit leichten Blautönen. Ihr Halsband aus glattem, polierten Metall glitzert in der Sonne. {The spoken text is said like a chant, almost sing-song}"Eine Gabe für mein Wissen", singt sie rhythmisch in einer angenehmen Stimme, während sie sanft vor und zurück schaukelt. "Eine Gabe aus Mitgefühl. Eine Gabe für mein Lied."​
+      <DefaultText>Die Bettlerin ist eine ausgemergelte Frau mit rotbrauner Haut, die aussieht, als hätte sie einen permanenten Sonnenbrand. Ihr Haar ist so ausgebleicht, dass es beinahe weiß erscheint, und ihre Augen sind grün mit leichten Blautönen. Ihr Halsband aus glattem, polierten Metall glitzert in der Sonne. {The spoken text is said like a chant, almost sing-song}„Eine Gabe für mein Wissen“, singt sie rhythmisch in einer angenehmen Stimme, während sie sanft vor und zurück schaukelt. „Eine Gabe aus Mitgefühl. Eine Gabe für mein Lied.“​
 
-Sie bemerkt, wie du sie anstarrst. "Dich kenne ich", sagt sie. Ihre normale Stimme ist beinahe so melodiös wie ihre Singstimme. Sie deutet auf die Seite deines Kopfes. "Ich kenne diese Tätowierung und diese Uniform. Du bist eines der hohen Tiere aus der Endlosen Schlacht, nicht wahr? Ein Abgeworfener? Was hast *du* in der Oase zu suchen?"
+Sie bemerkt, wie du sie anstarrst. „Dich kenne ich“, sagt sie. Ihre normale Stimme ist beinahe so melodiös wie ihre Singstimme. Sie deutet auf die Seite deines Kopfes. „Ich kenne diese Tätowierung und diese Uniform. Du bist eines der hohen Tiere aus der Endlosen Schlacht, nicht wahr? Ein Abgeworfener? Was hast *du* in der Oase zu suchen?“
 
 {SOUND: Stop woman singing.}</DefaultText>
       <FemaleText />
@@ -58,84 +58,84 @@ Von deinem Gürtel hängen verschiedene Ornamente – eine Metallhand, ein elekt
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ich wurde verbannt, weil ich einen direkten Befehl meiner Kommandantin verweigerte."</DefaultText>
+      <DefaultText>„Ich wurde verbannt, weil ich einen direkten Befehl meiner Kommandantin verweigerte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich wurde verbannt. Ich weiß nicht, warum."</DefaultText>
+      <DefaultText>„Ich wurde verbannt. Ich weiß nicht, warum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>(Lüge) "Ich wurde verbannt, weil ich zu gut war. Meine Kommandantin fürchtete mich als Konkurrenz."</DefaultText>
+      <DefaultText>(Lüge) „Ich wurde verbannt, weil ich zu gut war. Meine Kommandantin fürchtete mich als Konkurrenz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich weiß nicht."</DefaultText>
-      <FemaleText>"Ich weiß nicht."</FemaleText>
+      <DefaultText>„Ich weiß nicht.“</DefaultText>
+      <FemaleText>„Ich weiß nicht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>(Lüge) "Ich bin hier, um mir die Sehenswürdigkeiten anzusehen."</DefaultText>
+      <DefaultText>(Lüge) „Ich bin hier, um mir die Sehenswürdigkeiten anzusehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Was ich hier tue, geht dich gar nichts an."</DefaultText>
-      <FemaleText>"Meine Angelegenheiten gehen dich nichts an."</FemaleText>
+      <DefaultText>„Was ich hier tue, geht dich gar nichts an.“</DefaultText>
+      <FemaleText>„Meine Angelegenheiten gehen dich nichts an.“</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Ein seltsames Lächeln umspielt ihre Lippen. "Das du verbannt wurdest, ist offensichtlich an deinem abgerissenen Rangabzeichen. Überrascht mich, dass du die Uniform immer noch trägst. Was mich jedoch mehr interessiert, sind die Kurios an deinem Gürtel." Sie deutet auf die Trophäen, die du von besiegten Automatons gesammelt hast.
+      <DefaultText>Ein seltsames Lächeln umspielt ihre Lippen. „Das du verbannt wurdest, ist offensichtlich an deinem abgerissenen Rangabzeichen. Überrascht mich, dass du die Uniform immer noch trägst. Was mich jedoch mehr interessiert, sind die Kurios an deinem Gürtel.“ Sie deutet auf die Trophäen, die du von besiegten Automatons gesammelt hast.
 
-Sie deutet dir, näherzukommen und flüstert dir ins Ohr: "Ich habe einen Job für jemanden wie dich. Du must mir helfen, mich in die Oase reinzuschmuggeln."</DefaultText>
+Sie deutet dir, näherzukommen und flüstert dir ins Ohr: „Ich habe einen Job für jemanden wie dich. Du must mir helfen, mich in die Oase reinzuschmuggeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Ihr Lachen klingt wie ein Arpeggio auf einer perfekt gestimmten Harfe. "Das ist keine besonders überzeugende Lüge, mein Hübscher." Sie winkt mit der Hand. "Entschuldige. Deine Vergangenheit geht mich nichts an."
+      <DefaultText>Ihr Lachen klingt wie ein Arpeggio auf einer perfekt gestimmten Harfe. „Das ist keine besonders überzeugende Lüge, mein Hübscher.“ Sie winkt mit der Hand. „Entschuldige. Deine Vergangenheit geht mich nichts an.“
 
 {SOUND: [B] Neme's laughter in unnatural discrete tones (again, like the Fifth Element Diva).}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Ihr Lachen klingt wie ein Arpeggio auf einer perfekt gestimmten Harfe."Natürlich nicht. Und ich vermute, du bist bestimmt unschuldig, egal, was man dir vorwirft." Sie winkt mit der Hand. "Entschuldige. Die Details deiner Vergangenheit gehen mich nichts an."
+      <DefaultText>Ihr Lachen klingt wie ein Arpeggio auf einer perfekt gestimmten Harfe.„Natürlich nicht. Und ich vermute, du bist bestimmt unschuldig, egal, was man dir vorwirft.“ Sie winkt mit der Hand. „Entschuldige. Die Details deiner Vergangenheit gehen mich nichts an.“
 
 {SOUND: [B] Neme's laughter in unnatural discrete tones (again, like the Fifth Element Diva).}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Sie macht große Augen. "Was für eine faszinierende Geschichte! Du könntest genau der Mann sein, den ich suche. Ich brauche dringend Hilfe und mit deinem Hintergrund scheinst du genau der Richtige für die Aufgabe zu sein."
+      <DefaultText>Sie macht große Augen. „Was für eine faszinierende Geschichte! Du könntest genau der Mann sein, den ich suche. Ich brauche dringend Hilfe und mit deinem Hintergrund scheinst du genau der Richtige für die Aufgabe zu sein.“
 
-Sie deutet dir, näherzukommen und flüstert dir ins Ohr: "Du must mir helfen, mich in die Oase reinzuschmuggeln."</DefaultText>
+Sie deutet dir, näherzukommen und flüstert dir ins Ohr: „Du must mir helfen, mich in die Oase reinzuschmuggeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Warum musst dich in die Oase *einschmuggeln*"</DefaultText>
+      <DefaultText>„Warum musst dich in die Oase *einschmuggeln*“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Du bist wohl zum ersten Mal hier in M'ra Jolios. Klar, für eine Handvoll Shin kann ich auch einen Tag lang die Touristin spielen – und glaub mir, das tue ich, wann immer ich kann. Aber ich will – nein, ich muss – dort *dauerhaft* sein. In ihrem Wasser leben."
+      <DefaultText>„Du bist wohl zum ersten Mal hier in M'ra Jolios. Klar, für eine Handvoll Shin kann ich auch einen Tag lang die Touristin spielen – und glaub mir, das tue ich, wann immer ich kann. Aber ich will – nein, ich muss – dort *dauerhaft* sein. In ihrem Wasser leben.“
 
-Sie lässt die Schultern hängen. "Aber die Gibber lassen mich nicht einfach rein. Sie fürchten äußere Einflüsse auf ihre Kultur und schränken die Einreise streng ein. Sie patrouillieren die Grenzen und überwachen den Verkauf von Lufthaut-Armbändern in Jerboa. Um in die Oase reinzukommen, braucht man Beziehungen oder Geld. Ich hab weder das eine noch das andere."</DefaultText>
+Sie lässt die Schultern hängen. „Aber die Gibber lassen mich nicht einfach rein. Sie fürchten äußere Einflüsse auf ihre Kultur und schränken die Einreise streng ein. Sie patrouillieren die Grenzen und überwachen den Verkauf von Lufthaut-Armbändern in Jerboa. Um in die Oase reinzukommen, braucht man Beziehungen oder Geld. Ich hab weder das eine noch das andere.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Warum musst du unbedingt in die Oasen?"</DefaultText>
+      <DefaultText>„Warum musst du unbedingt in die Oasen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Sie lehnt sich zurück und faltet die Hände im Schoß. "Willst du meine ganze Geschichte hören? Nein, natürlich nicht. Also erzähl ich dir nur die bittersüße Kurzversion. Siehst du das hier?" Sie berührt das Metallband um ihren Hals. "Ich habe es vor einiger Zeit erworben, als ich noch in Sagusklippen lebte. Ich weiß nicht, was mich dazu bewogen hat, es zu tragen, aber ..."
+      <DefaultText>Sie lehnt sich zurück und faltet die Hände im Schoß. „Willst du meine ganze Geschichte hören? Nein, natürlich nicht. Also erzähl ich dir nur die bittersüße Kurzversion. Siehst du das hier?“ Sie berührt das Metallband um ihren Hals. „Ich habe es vor einiger Zeit erworben, als ich noch in Sagusklippen lebte. Ich weiß nicht, was mich dazu bewogen hat, es zu tragen, aber …“
 
-Sie lacht über ihre eigene Dummheit. "Ich hab es getan. Es gab mir die schönste Singstimme und, als kuriose Draufgabe, die Fähigkeit, unter Wasser zu atmen. Bald nannte man mich "Gezeitensängerin"."</DefaultText>
+Sie lacht über ihre eigene Dummheit. „Ich hab es getan. Es gab mir die schönste Singstimme und, als kuriose Draufgabe, die Fähigkeit, unter Wasser zu atmen. Bald nannte man mich "Gezeitensängerin".“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,30 +145,30 @@ Sie lacht über ihre eigene Dummheit. "Ich hab es getan. Es gab mir die schönst
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Hast du einen Plan?"</DefaultText>
+      <DefaultText>„Hast du einen Plan?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Wie war noch mal dein Plan?"</DefaultText>
-      <FemaleText>"Erläutert mir nochmal Euren Plan."</FemaleText>
+      <DefaultText>„Wie war noch mal dein Plan?“</DefaultText>
+      <FemaleText>„Erläutert mir nochmal Euren Plan.“</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Sie klopft auf den Boden und wartet, bis du dich neben sie gesetzt hast. "Die Besuchergruppen sind unser Weg in die Oase hinein. Die Gibber-Wachen lassen alle durch, die einem Führer hinterherlaufen. Natürlich gibt es das *kleine* Problem, dass die Fremdenführer an dir kleben wie..." Sie sucht nach der richtigen Metapher und lässt schließlich eine Handvoll Sand durch ihre Finger rieseln. "Wie Staub."
+      <DefaultText>Sie klopft auf den Boden und wartet, bis du dich neben sie gesetzt hast. „Die Besuchergruppen sind unser Weg in die Oase hinein. Die Gibber-Wachen lassen alle durch, die einem Führer hinterherlaufen. Natürlich gibt es das *kleine* Problem, dass die Fremdenführer an dir kleben wie…“ Sie sucht nach der richtigen Metapher und lässt schließlich eine Handvoll Sand durch ihre Finger rieseln. „Wie Staub.“
 
-Sie hebt einen Finger. "*Außer* in der Menagerie. Das ist eine Art Unterwassermuseum, aber so überfüllt, dass die Fremdenführer am Eingang zurückbleiben. Wir betreten M'ra Jolios also mit einer Besuchergruppe, setzen uns in der Menagerie von der Gruppe ab und verstecken uns dort bis zum Einbruch der Dunkelheit."</DefaultText>
+Sie hebt einen Finger. „*Außer* in der Menagerie. Das ist eine Art Unterwassermuseum, aber so überfüllt, dass die Fremdenführer am Eingang zurückbleiben. Wir betreten M'ra Jolios also mit einer Besuchergruppe, setzen uns in der Menagerie von der Gruppe ab und verstecken uns dort bis zum Einbruch der Dunkelheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Wir gehen als Touristen rein und warten, bis sie uns zur Menagerie bringen. Dort verstecken wir uns bis zum Einbruch der Dunkelheit. Dann erledigst du den Menagerie-Dämon und wir verschwinden in die Nacht." Sie sieht deinen Gesichtsausdruck. "Du kannst natürlich auch nach Jerboa zurückgehen, wenn du willst. Wer die Oase *verlässt*, ist ihnen egal."</DefaultText>
+      <DefaultText>„Wir gehen als Touristen rein und warten, bis sie uns zur Menagerie bringen. Dort verstecken wir uns bis zum Einbruch der Dunkelheit. Dann erledigst du den Menagerie-Dämon und wir verschwinden in die Nacht.“ Sie sieht deinen Gesichtsausdruck. „Du kannst natürlich auch nach Jerboa zurückgehen, wenn du willst. Wer die Oase *verlässt*, ist ihnen egal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"In Ordnung, ich werde Euch helfen."</DefaultText>
-      <FemaleText>"In Ordnung, ich werde Euch helfen."</FemaleText>
+      <DefaultText>„In Ordnung, ich werde Euch helfen.“</DefaultText>
+      <FemaleText>„In Ordnung, ich werde Euch helfen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -182,26 +182,26 @@ Sie hebt einen Finger. "*Außer* in der Menagerie. Das ist eine Art Unterwasserm
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Das klingt gefährlich. Was springt für mich dabei raus?"</DefaultText>
+      <DefaultText>„Das klingt gefährlich. Was springt für mich dabei raus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Was springt noch mal für mich dabei raus?"</DefaultText>
+      <DefaultText>„Was springt noch mal für mich dabei raus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich dachte schon, du würdest nie fragen!" Sie rückt näher an dich ran. "Du wurdest aus der Endlosen Schlacht verstoßen, nicht wahr? Von der Seite der Ersten, hab ich recht?" 
+      <DefaultText>„Ich dachte schon, du würdest nie fragen!“ Sie rückt näher an dich ran. „Du wurdest aus der Endlosen Schlacht verstoßen, nicht wahr? Von der Seite der Ersten, hab ich recht?“ 
 
-Sie lächelt angesichts deines verblüfften Gesichts. "Du würdest dich wundern, was man selbst in den Straßen von Jerboa so alles mitbekommt. Ich hab so einiges aufgeschnappt, darunter auch etwas äußerst Interessantes über deine Miliz, das das Risiko für dich auf jeden Fall wert sein wird."
+Sie lächelt angesichts deines verblüfften Gesichts. „Du würdest dich wundern, was man selbst in den Straßen von Jerboa so alles mitbekommt. Ich hab so einiges aufgeschnappt, darunter auch etwas äußerst Interessantes über deine Miliz, das das Risiko für dich auf jeden Fall wert sein wird.“
 
- Sie lehnt sich zurück und deutet auf deine zerlumpte Uniform. "Und außerdem: Was hast du zu verlieren?"</DefaultText>
+ Sie lehnt sich zurück und deutet auf deine zerlumpte Uniform. „Und außerdem: Was hast du zu verlieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Informationen", flüstert sie. Dann sagt sie lauter: "Und das befriedigende Gefühl, einer jungen Dame in Not geholfen zu haben. Was könnte wertvoller sein als das?"</DefaultText>
+      <DefaultText>„Informationen“, flüstert sie. Dann sagt sie lauter: „Und das befriedigende Gefühl, einer jungen Dame in Not geholfen zu haben. Was könnte wertvoller sein als das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,17 +211,17 @@ Sie lächelt angesichts deines verblüfften Gesichts. "Du würdest dich wundern,
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Vergiss es."</DefaultText>
+      <DefaultText>„Vergiss es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Nein. Es ist zu riskant. Damit verbrenne ich mir nicht die Finger. Lebwohl."</DefaultText>
+      <DefaultText>„Nein. Es ist zu riskant. Damit verbrenne ich mir nicht die Finger. Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Ich kann dich auch bezahlen – nicht jetzt gleich natürlich, aber sobald ich mal drin bin. Bitte! Ich tue alles, was du willst, aber du musst mir einfach helfen."</DefaultText>
+      <DefaultText>„Ich kann dich auch bezahlen – nicht jetzt gleich natürlich, aber sobald ich mal drin bin. Bitte! Ich tue alles, was du willst, aber du musst mir einfach helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -235,9 +235,9 @@ Dein Weg führt dich wieder an Nemes Straße vorbei. Sie ist nicht mehr da. Niem
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Ihr Lächeln ist so strahlend wie ihre Stimme klar war. "Danke. Danke! Für jemanden wie dich ist das ein Kinderspiel, versprochen. Wir betreten die Oase als Touristen und verstecken uns in einem unbeobachteten Moment irgendwo in der Menagerie. Nachts wird die Menagerie von einem Automaton bewacht, aber ich denke, der wird für dich kein Problem sein."
+      <DefaultText>Ihr Lächeln ist so strahlend wie ihre Stimme klar war. „Danke. Danke! Für jemanden wie dich ist das ein Kinderspiel, versprochen. Wir betreten die Oase als Touristen und verstecken uns in einem unbeobachteten Moment irgendwo in der Menagerie. Nachts wird die Menagerie von einem Automaton bewacht, aber ich denke, der wird für dich kein Problem sein.“
 
-Sie lächelt. "Du wirst es nicht bereuen. Besorg dir, was du brauchst. Wir treffen uns in einer Stunde den Toren der Oase." Dann steht sie auf und schlurft davon.</DefaultText>
+Sie lächelt. „Du wirst es nicht bereuen. Besorg dir, was du brauchst. Wir treffen uns in einer Stunde den Toren der Oase.“ Dann steht sie auf und schlurft davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +246,7 @@ Sie lächelt. "Du wirst es nicht bereuen. Besorg dir, was du brauchst. Wir treff
 
 Im Wasser schimmert ein Energienetz mit einer einzigen Öffnung, an der mehrere mit gezackten leuchtenden Speeren bewaffnete Ghibra alle Luftatmer, die die Oase betreten wollen, genau kontrollieren. Nur jene mit Armbändern und Fremdenführern dürfen passieren. Der Rest wird wieder weggeschickt.
 
-Plötzlich bindet dir Neme ein Lufthaut-Armband um das Handgelenk. Du spürst ein leichtes Kribbeln, sonst nichts. Sie deutet auf eine Gruppe Jerboaner neben einer lächelnden Ghibra. "Bereit? Gehen wir."
+Plötzlich bindet dir Neme ein Lufthaut-Armband um das Handgelenk. Du spürst ein leichtes Kribbeln, sonst nichts. Sie deutet auf eine Gruppe Jerboaner neben einer lächelnden Ghibra. „Bereit? Gehen wir.“
 
 {SOUND: [B] Increase the ambient crowd noise, but cut the beggars from it (if they were implemented).}</DefaultText>
       <FemaleText />
@@ -259,7 +259,7 @@ In der Oase führt die Fremdenführerin euch durch die gesamte weitläufige Stad
 
 Endlich kommt ihr zur Menagerie. Sie ist genauso überfüllt wie Neme gesagt hat, und vollgestopft mit Lebewesen und Kurios, als könnte sie sich nicht entscheiden, ob sie ein Museum oder ein Zoo sein will. Die Menagerie überwältigt beinahe die Sinne und du weißt nicht, wo du zuerst hinschauen sollst.
 
-"Denk dran", sagt Neme, während sie deinen Arm hält, "warum wir hier sind."
+„Denk dran“, sagt Neme, während sie deinen Arm hält, „warum wir hier sind.“
 
 {SOUND: [B] The crowd noise should still be ambient here (but without the beggars, if they were implemented). If possible, some effect should be played over it to show that it's underwater (not necessarily muffled, but some feeling that the sound is getting refracted through the water somehow).}
 {SOUND: [B] Add other ambient underwater noises.}</DefaultText>
@@ -335,24 +335,24 @@ Natürlich machst er nur dasselbe wie du – aber was ist *sein* Motiv dafür?</
       <ID>56</ID>
       <DefaultText>Leuchtende Runen scheinen den Kopf dieses großen, schlanken Mannes zu umkreisen. Er trägt dunkle, fein bestickte Roben und einen kurzen Umhang, hauptsächlich in Blau und Lila gehalten. Er wirkt konzentriert, aber du kannst nicht sagen worauf. Als er dich bemerkt, hast du beinahe das Gefühl, als würde er jedes Detail deiner Erscheinung mental festhalten.
 
-Er wirft einen Blick auf Neme hinter dir. "Die Bettelnde und der Abgeworfene. Was wollt ihr von diesem hier wissen?"</DefaultText>
+Er wirft einen Blick auf Neme hinter dir. „Die Bettelnde und der Abgeworfene. Was wollt ihr von diesem hier wissen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Hallo, Sucher. Was willst du diesmal von diesem hier wissen?"</DefaultText>
+      <DefaultText>„Hallo, Sucher. Was willst du diesmal von diesem hier wissen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Mir ist aufgefallen, dass dich die Besucher mehr interessieren als die Exponate. Warum?"</DefaultText>
+      <DefaultText>„Mir ist aufgefallen, dass dich die Besucher mehr interessieren als die Exponate. Warum?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Unsere Antwort auf diese Frage ist die gleiche wie deine, Sucher. Man will jene abschütteln, die einen beobachten." Er wirft einen Blick auf den Eingang, wo die Ghibra-Fremdenführer sich untereinander unterhalten, während die Touristen die Menagerie besichtigen.
+      <DefaultText>„Unsere Antwort auf diese Frage ist die gleiche wie deine, Sucher. Man will jene abschütteln, die einen beobachten.“ Er wirft einen Blick auf den Eingang, wo die Ghibra-Fremdenführer sich untereinander unterhalten, während die Touristen die Menagerie besichtigen.
 
-"Dieser hier ist Dämmerungswächter Iarmid, ein Auge der Bruderschaft der Chronik. Es ist unsere Aufgabe, Schlüsselmomente in der Geschichte zu beobachten und aufzuzeichnen. Wir glauben, dass ein solcher Moment kurz bevorsteht, doch dieser hier fürchtet, das Ereignis zu verpassen. Die Kuratoren dieses Ortes lassen einen niemals aus den Augen."</DefaultText>
+„Dieser hier ist Dämmerungswächter Iarmid, ein Auge der Bruderschaft der Chronik. Es ist unsere Aufgabe, Schlüsselmomente in der Geschichte zu beobachten und aufzuzeichnen. Wir glauben, dass ein solcher Moment kurz bevorsteht, doch dieser hier fürchtet, das Ereignis zu verpassen. Die Kuratoren dieses Ortes lassen einen niemals aus den Augen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -362,36 +362,36 @@ Er wirft einen Blick auf Neme hinter dir. "Die Bettelnde und der Abgeworfene. Wa
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Erzähl mir von der Bruderschaft der Chronik."</DefaultText>
+      <DefaultText>„Erzähl mir von der Bruderschaft der Chronik.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Erzähl mir noch mal von der Bruderschaft der Chronik."</DefaultText>
+      <DefaultText>„Erzähl mir noch mal von der Bruderschaft der Chronik.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Dieser hier hat es bereits erklärt, wird jedoch versuchen, es noch verständlicher auszuführen." Er nickt dir förmlich zu. "Es ist unsere Aufgabe, Schlüsselmomente in der Geschichte zu beobachten und aufzuzeichnen, wenn sie sich abspielen. Dieser hier ist ein Auge und ein Dämmerungswächter und seine Aufgabe ist es, tragische Ereignisse oder Personen mit finstereren Absichten zu beobachten. Das Auge sieht und gibt seine Beobachtungen über das Gehirn an die Hände weiter, welche das Geschehen für die Chronik der Bruderschaft schriftlich festhalten."</DefaultText>
+      <DefaultText>„Dieser hier hat es bereits erklärt, wird jedoch versuchen, es noch verständlicher auszuführen.“ Er nickt dir förmlich zu. „Es ist unsere Aufgabe, Schlüsselmomente in der Geschichte zu beobachten und aufzuzeichnen, wenn sie sich abspielen. Dieser hier ist ein Auge und ein Dämmerungswächter und seine Aufgabe ist es, tragische Ereignisse oder Personen mit finstereren Absichten zu beobachten. Das Auge sieht und gibt seine Beobachtungen über das Gehirn an die Hände weiter, welche das Geschehen für die Chronik der Bruderschaft schriftlich festhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Es ist unsere Aufgabe, Schlüsselmomente Momente in der Geschichte zu beobachten und aufzuzeichnen. Dieser hier hat die Aufgabe, tragische Ereignisse oder Personen mit finstereren Absichten zu beobachten und darüber zu berichten."</DefaultText>
+      <DefaultText>„Es ist unsere Aufgabe, Schlüsselmomente Momente in der Geschichte zu beobachten und aufzuzeichnen. Dieser hier hat die Aufgabe, tragische Ereignisse oder Personen mit finstereren Absichten zu beobachten und darüber zu berichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Welches Ereignis willst du hier miterleben?"</DefaultText>
+      <DefaultText>„Welches Ereignis willst du hier miterleben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Von dem Ereignis selbst können wir nicht sprechen. Dieser hier soll nur beobachten, nicht eingreifen. Ich kann nur sagen, dass es tragisch ist – oder wahrscheinlich sein wird. Doch wie auch immer es ausgeht, es wird Wellen in der Geschichte schlagen."
+      <DefaultText>„Von dem Ereignis selbst können wir nicht sprechen. Dieser hier soll nur beobachten, nicht eingreifen. Ich kann nur sagen, dass es tragisch ist – oder wahrscheinlich sein wird. Doch wie auch immer es ausgeht, es wird Wellen in der Geschichte schlagen.“
 
-Er presst die Lippen zusammen. "Dieser hier *muss* das Ereignis beobachten, doch das Zeitfenster dafür schließt sich." Er schließt die Augen und neue Falten bilden sich in seinem Gesicht.
+Er presst die Lippen zusammen. „Dieser hier *muss* das Ereignis beobachten, doch das Zeitfenster dafür schließt sich.“ Er schließt die Augen und neue Falten bilden sich in seinem Gesicht.
 
-Dann öffnet er unvermittelt die Augen wieder und sieht dich direkt an. "Ihr trachtet danach, euch bis zum Einbruch der Nacht zu verstecken. Dieser hier hat den gleichen Wunsch. Dieser hier kennt einen Weg, wie wir uns ohne großes Risiko verstecken können. Im Gegenzug für diese Information und eure Bereitschaft, euch mit diesem hier zu verstecken, erlaubt die Bruderschaft es diesem hier, eine einzige Frage zu beantworten."</DefaultText>
+Dann öffnet er unvermittelt die Augen wieder und sieht dich direkt an. „Ihr trachtet danach, euch bis zum Einbruch der Nacht zu verstecken. Dieser hier hat den gleichen Wunsch. Dieser hier kennt einen Weg, wie wir uns ohne großes Risiko verstecken können. Im Gegenzug für diese Information und eure Bereitschaft, euch mit diesem hier zu verstecken, erlaubt die Bruderschaft es diesem hier, eine einzige Frage zu beantworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,28 +406,28 @@ Dann öffnet er unvermittelt die Augen wieder und sieht dich direkt an. "Ihr tra
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Wie kann man den Kummer stoppen?"</DefaultText>
+      <DefaultText>„Wie kann man den Kummer stoppen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
       <DefaultText>Neme sieht dich seltsam an. Offensichtlich versteht sie deine Frage nicht.
 
-Iarmid ist sprachlos. Er schließt nachdenklich die Augen. Als er sie wieder öffnet, sagt er: "Wir wissen vom Kummer, auch wenn er wesentlich älter ist als unsere Bruderschaft. Es befinden jedoch in unseren Aufzeichnungen jedoch keinerlei Hinweise darauf, wie man ein solches Wesen aufhalten könnte."
+Iarmid ist sprachlos. Er schließt nachdenklich die Augen. Als er sie wieder öffnet, sagt er: „Wir wissen vom Kummer, auch wenn er wesentlich älter ist als unsere Bruderschaft. Es befinden jedoch in unseren Aufzeichnungen jedoch keinerlei Hinweise darauf, wie man ein solches Wesen aufhalten könnte.“
 
-Er verbeugt sich. "Wir entschuldigen uns dafür. Du darfst dafür noch etwas anderes fragen."</DefaultText>
+Er verbeugt sich. „Wir entschuldigen uns dafür. Du darfst dafür noch etwas anderes fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Wie kann unser Vorhaben heute nacht gelingen?"</DefaultText>
+      <DefaultText>„Wie kann unser Vorhaben heute nacht gelingen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Ihr müsst euch verstecken und dem Dämon entkommen. Der zweite Teil eurer Aufgabe ist der schwierigere." Er legt das Kinn auf die Brust und spricht so leise weiter, dass du dich vorbeugen musst, um ihn noch zu verstehen. "Der Dämon stellt die größte Gefahr für euch dar. Dieser hier rät euch, vor ihm davonzulaufen. Doch erst müsst ihr ihn daran hindern, euch zu verfolgen. Du hast die nötigen Fähigkeiten dafür. Wenn ihr so vorgeht, werdet ihr Erfolg haben."
+      <DefaultText>„Ihr müsst euch verstecken und dem Dämon entkommen. Der zweite Teil eurer Aufgabe ist der schwierigere.“ Er legt das Kinn auf die Brust und spricht so leise weiter, dass du dich vorbeugen musst, um ihn noch zu verstehen. „Der Dämon stellt die größte Gefahr für euch dar. Dieser hier rät euch, vor ihm davonzulaufen. Doch erst müsst ihr ihn daran hindern, euch zu verfolgen. Du hast die nötigen Fähigkeiten dafür. Wenn ihr so vorgeht, werdet ihr Erfolg haben.“
 
-Er hebt den Kopf wieder. "Der Kodex des Ordens verbietet es diesem hier, euch beim zweiten Teil eurer Aufgabe behilflich zu sein. Dieser hier kann euch jedoch beim ersten Teil helfen."</DefaultText>
+Er hebt den Kopf wieder. „Der Kodex des Ordens verbietet es diesem hier, euch beim zweiten Teil eurer Aufgabe behilflich zu sein. Dieser hier kann euch jedoch beim ersten Teil helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -442,24 +442,24 @@ Er hebt den Kopf wieder. "Der Kodex des Ordens verbietet es diesem hier, euch be
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Wird die sogenannte Endlose Schlacht jemals enden?"</DefaultText>
+      <DefaultText>„Wird die sogenannte Endlose Schlacht jemals enden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Alle Schlachten enden irgendwann, Soldat, selbst jene zwischen Unsterblichen. Die Bruderschaft der Chronik kann natürlich nicht vorhersehen, *wann* diese Schlacht enden wird – dafür sind zu viele Variablen im Spiel. Wir können dir jedoch sagen, dass die Ereignisse, die dieser hier heute Nacht beobachten wird, dazu beitragen könnten, dass die Schlacht eher früher als später endet – vielleicht sogar noch innerhalb der Lebenszeit von diesem hier."
+      <DefaultText>„Alle Schlachten enden irgendwann, Soldat, selbst jene zwischen Unsterblichen. Die Bruderschaft der Chronik kann natürlich nicht vorhersehen, *wann* diese Schlacht enden wird – dafür sind zu viele Variablen im Spiel. Wir können dir jedoch sagen, dass die Ereignisse, die dieser hier heute Nacht beobachten wird, dazu beitragen könnten, dass die Schlacht eher früher als später endet – vielleicht sogar noch innerhalb der Lebenszeit von diesem hier.“
 
-Er nickt. "Das ist nicht die Antwort, die du gesucht hast, aber es ist jene, die wir geben müssen. Dieser hier kann dir auch bei deiner gegenwärtigen Aufgabe behilflich sein."</DefaultText>
+Er nickt. „Das ist nicht die Antwort, die du gesucht hast, aber es ist jene, die wir geben müssen. Dieser hier kann dir auch bei deiner gegenwärtigen Aufgabe behilflich sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Lebwohl fürs Erste."</DefaultText>
+      <DefaultText>„Lebwohl fürs Erste.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Lebwohl, Sucher."</DefaultText>
+      <DefaultText>„Lebwohl, Sucher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -495,12 +495,12 @@ Das Habitat er Lorub erinnert an felsige Untiefen mit zahlreichen Löchern und H
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ja. Lass uns reingehen."</DefaultText>
+      <DefaultText>„Ja. Lass uns reingehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Noch nicht. Ich möchte mich noch ein wenig umsehen."</DefaultText>
+      <DefaultText>„Noch nicht. Ich möchte mich noch ein wenig umsehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -568,13 +568,13 @@ Die Zelle ist mit Luft gefüllt, leer und dunkel. Sie wäre das perfekte Verstec
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Du deutest auf die Spalte und Neme versteht sofort. Sie nickt. "Warte hier." 
+      <DefaultText>Du deutest auf die Spalte und Neme versteht sofort. Sie nickt. „Warte hier.“ 
 
 Sie schwimmt in einen der hinteren Gänge. Du kannst sie nicht mehr sehen, aber kurz darauf erfüllt langsamer, engelsgleicher Gesang die Menagerie. Die Touristen spitzen die Ohren und bald sind alle entweder in die Richtung davongeschwommen, aus der die Klänge kamen, oder haben sich zumindest dorthin umgedreht. Du nutzt die Gelegenheit, um hochzuschwimmen und dich in der Spalte zu verstecken.
 
 Neme beendet ihr Lied und bedankt sich bei ihrem Publikum. Sie schlendert noch zwei oder drei Stunden durch die Menagerie, bevor sich die Gelegenheit ergibt, dass sie unbemerkt zu dir raufschwimmen kann. 
 
-{SOUND: [A] Neme singing her song (the same song she sings in the opening of the Mere.}</DefaultText>
+{SOUND: [A] Neme singing her song (the same song she sings in the opening of the Mere.)}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -694,7 +694,7 @@ Der Dämon macht ein gurgelndes Geräusch – möglicherweise verflucht er dich.
 
 Er trifft den Dämon mitten im Gesicht. Sein Kopf wird zurückgeworfen. Als er den Kopf wieder aufrichtet, ist sein Gesicht verschmort und das Licht in seinen Augen geht aus.
 
-"Denkst du etwa, ich muss dich *sehen*, um dich zu töten? Komm her!"
+„Denkst du etwa, ich muss dich *sehen*, um dich zu töten? Komm her!“
 
 {SOUND: [A] Beam weapon firing.}
 {SOUND: [A] Metal demon making wounded grunt.}</DefaultText>
@@ -785,7 +785,7 @@ Die Menagerie wird schwarz. Der Schmerz hält an, viel zu lange. Schließlich ko
       <ID>137</ID>
       <DefaultText>Die Sterne und der Vollmond leuchten über der Kuppel der Oase über euren Köpfen. In der Ferne erheben sich dunkle Berge am Rande des Tals. Unter euch liegt wie ein großer schwarzer Fleck M'ra Jolios.
 
-Neme reißt das Armband herunter und saugt das Wasser auf. "Danke", sagt sie. Ohne die Lufthaut klingt ihre Stimme sogar noch klarer.</DefaultText>
+Neme reißt das Armband herunter und saugt das Wasser auf. „Danke“, sagt sie. Ohne die Lufthaut klingt ihre Stimme sogar noch klarer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -795,12 +795,12 @@ Neme reißt das Armband herunter und saugt das Wasser auf. "Danke", sagt sie. Oh
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Schätze, Iarmid hat es nicht geschafft. Sie wirft einen Blick zurück über ihre Schulter, doch die in Roben gehüllten Figur ist nicht mit euch entkommen. "Vielleicht beobachtet er ja gerade sein "Ereignis"."</DefaultText>
+      <DefaultText>Schätze, Iarmid hat es nicht geschafft. Sie wirft einen Blick zurück über ihre Schulter, doch die in Roben gehüllten Figur ist nicht mit euch entkommen. „Vielleicht beobachtet er ja gerade sein "Ereignis".“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Sie zuckt verlegen mit den Schultern. "Das ist alles, was ich dir geben kann. Tut mir leid. Vielleicht kann es dir irgendwie nützlich sein." Sie gibt dir einen schnellen Kuss auf die Wange. Dann schwimmt sie in die Dunkelheit davon.
+      <DefaultText>Sie zuckt verlegen mit den Schultern. „Das ist alles, was ich dir geben kann. Tut mir leid. Vielleicht kann es dir irgendwie nützlich sein.“ Sie gibt dir einen schnellen Kuss auf die Wange. Dann schwimmt sie in die Dunkelheit davon.
 
 Du schwimmst alleine zurück an die Oberfläche. Dabei bemerkst du zwei dunkle Gestalten im Wasser über dir. Für einen Moment scheint der Mond auf sie und du siehst flüchtig zwei Tätowierungen von Abgeworfenen und ein künstliches Auge. Mazzof? Die Gestalten verschwinden in der Menagerie.
 
@@ -854,27 +854,27 @@ Du überlegst kurz, ihnen zu folgen, doch da spürst du bereits ein schmerzhafte
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Gut. Wir können zusammenarbeiten, wenn du mir eine Frage beantworten kannst."</DefaultText>
+      <DefaultText>„Gut. Wir können zusammenarbeiten, wenn du mir eine Frage beantworten kannst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Ich würde nun gerne eine Frage stellen, und dafür hilfst du uns, uns zu verstecken."</DefaultText>
+      <DefaultText>„Ich würde nun gerne eine Frage stellen, und dafür hilfst du uns, uns zu verstecken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Wie lautet deine Frage?"</DefaultText>
+      <DefaultText>„Wie lautet deine Frage?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Sprechen wir über etwas anderes."</DefaultText>
-      <FemaleText>"Reden wir über etwas anderes."</FemaleText>
+      <DefaultText>„Sprechen wir über etwas anderes.“</DefaultText>
+      <FemaleText>„Reden wir über etwas anderes.“</FemaleText>
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Wie du willst."</DefaultText>
+      <DefaultText>„Wie du willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -963,54 +963,54 @@ Du schwimmst sofort los, doch bevor du weit kommst, taucht der Dämon wieder vor
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Ich beobachte, Sucher. Wenn du meinen Rat befolgst, werde ich mich dir anschließen."</DefaultText>
+      <DefaultText>„Ich beobachte, Sucher. Wenn du meinen Rat befolgst, werde ich mich dir anschließen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Wo ist die Erste Abgeworfene?"</DefaultText>
+      <DefaultText>„Wo ist die Erste Abgeworfene?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Er schließt gedankenverloren die Augen. Dann sagt er: "Ihr Name ist Maralel, die Eine, von der man annimmt, dass sie die Erste war und nicht mehr ist. Beides ist falsch. Sie hat ihren Tod vorgetäuscht, um sich vor eurem Erzeuger zu verbergen. Selbst der Wandelnde Gott weiß nicht, dass sie noch am Leben ist, und wenn es nach ihr geht, soll es auch so bleiben, bis es zu spät ist." 
+      <DefaultText>Er schließt gedankenverloren die Augen. Dann sagt er: „Ihr Name ist Maralel, die Eine, von der man annimmt, dass sie die Erste war und nicht mehr ist. Beides ist falsch. Sie hat ihren Tod vorgetäuscht, um sich vor eurem Erzeuger zu verbergen. Selbst der Wandelnde Gott weiß nicht, dass sie noch am Leben ist, und wenn es nach ihr geht, soll es auch so bleiben, bis es zu spät ist.“ 
 
-Er öffnet die Augen wieder. "Wir bedauern, aber ihr derzeitiger Aufenthaltsort ist uns nicht bekannt. Wir hoffen, dass diese Informationen ausreichend sind für dich. Dieser hier kann dir außerdem bei deinem Unterfangen hier behilflich sein."</DefaultText>
+Er öffnet die Augen wieder. „Wir bedauern, aber ihr derzeitiger Aufenthaltsort ist uns nicht bekannt. Wir hoffen, dass diese Informationen ausreichend sind für dich. Dieser hier kann dir außerdem bei deinem Unterfangen hier behilflich sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Welches Ereignis sollst du hier speziell beobachten?"</DefaultText>
+      <DefaultText>„Welches Ereignis sollst du hier speziell beobachten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Iarmid zieht eine Augenbraue hoch. "Eine kluge Frage. Es ist uns gestattet, ausschließlich für diesen Zweck einige Informationen weiterzugeben. Wir müssen jedoch darauf bestehen, dass ihr diese Informationen *nicht* nutzt, um einzugreifen."
+      <DefaultText>Iarmid zieht eine Augenbraue hoch. „Eine kluge Frage. Es ist uns gestattet, ausschließlich für diesen Zweck einige Informationen weiterzugeben. Wir müssen jedoch darauf bestehen, dass ihr diese Informationen *nicht* nutzt, um einzugreifen.“
 
-Sein Blick wandert von dir zu einem Punkt hinter deiner Schulter. "Zwei von deinesgleichen planen, den Talisman von Scorgil zu stehlen. Es ist nicht bekannt, ob sie Erfolg haben und was aus ihnen wird, doch wir denken, dass dieses Ereignis nur tragische Folgen haben kann. Darum ist dieser Dämmerungswächter hier, um es zu beobachten. Die Art dieser Tragödie und ihre Auswirkungen auf die Zukunft müssen aufgezeichnet werden."
+Sein Blick wandert von dir zu einem Punkt hinter deiner Schulter. „Zwei von deinesgleichen planen, den Talisman von Scorgil zu stehlen. Es ist nicht bekannt, ob sie Erfolg haben und was aus ihnen wird, doch wir denken, dass dieses Ereignis nur tragische Folgen haben kann. Darum ist dieser Dämmerungswächter hier, um es zu beobachten. Die Art dieser Tragödie und ihre Auswirkungen auf die Zukunft müssen aufgezeichnet werden.“
 
-Er sieht dich wieder an. "Wir bedauern, dass wir nicht mehr darüber sagen können. Dieser hier kann dir jedoch bei deinem Unterfangen hier behilflich sein."</DefaultText>
+Er sieht dich wieder an. „Wir bedauern, dass wir nicht mehr darüber sagen können. Dieser hier kann dir jedoch bei deinem Unterfangen hier behilflich sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Wird Neme in der Oase bleiben können?"</DefaultText>
+      <DefaultText>„Wird Neme in der Oase bleiben können?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>Plötzlich wird sein Blick sanfter. "Ich kann nicht vorhersagen, ob ihr heute Nacht Erfolg haben werdet – das hängt von *deinen* Entscheidungen ab – doch wenn Neme diese Nacht überlebt, ist es sehr wahrscheinlich, dass sie hier eine neue Heimat findet. Ihr Plan ist klug und die Ghibra wird es kaum kümmern, wenn sie erst mal hier ist."
+      <DefaultText>Plötzlich wird sein Blick sanfter. „Ich kann nicht vorhersagen, ob ihr heute Nacht Erfolg haben werdet – das hängt von *deinen* Entscheidungen ab – doch wenn Neme diese Nacht überlebt, ist es sehr wahrscheinlich, dass sie hier eine neue Heimat findet. Ihr Plan ist klug und die Ghibra wird es kaum kümmern, wenn sie erst mal hier ist.“
 
-Die alte Eindringlichkeit kehrt in sein Gesicht zurück. "Dieser hier hat Informationen über eure aktuelle Aufgabe, die zum Gelingen eures Plans beitragen können."</DefaultText>
+Die alte Eindringlichkeit kehrt in sein Gesicht zurück. „Dieser hier hat Informationen über eure aktuelle Aufgabe, die zum Gelingen eures Plans beitragen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Er deutet mit dem Kinn auf den Tank mit den gefährlich aussehenden Wesen. "Die Lorub-Zelle ist groß und bietet mehrere Plätze, wo wir uns bis zum Einbruch der Dunkelheit verstecken könnten. Leider werden die Lorub jedoch jeden Luftatmer, der es wagt, ihr Habitat zu betreten, sofort töten."
+      <DefaultText>Er deutet mit dem Kinn auf den Tank mit den gefährlich aussehenden Wesen. „Die Lorub-Zelle ist groß und bietet mehrere Plätze, wo wir uns bis zum Einbruch der Dunkelheit verstecken könnten. Leider werden die Lorub jedoch jeden Luftatmer, der es wagt, ihr Habitat zu betreten, sofort töten.“
 
-Er nickt Neme zu. "Du hast jedoch eine ganz besondere Gabe. Mithilfe deines Numenera kannst du jeden Ton und jeden Klang nachmachen. Hör den Lorub gut zu. Wenn du ihren Gesang nachmachen kannst, werden sie euch in Ruhe lassen. Wenn du ihr euch in der Lorub-Zelle versteckt, wird dieser hier einen Weg finden, um zu euch zu stoßen."
+Er nickt Neme zu. „Du hast jedoch eine ganz besondere Gabe. Mithilfe deines Numenera kannst du jeden Ton und jeden Klang nachmachen. Hör den Lorub gut zu. Wenn du ihren Gesang nachmachen kannst, werden sie euch in Ruhe lassen. Wenn du ihr euch in der Lorub-Zelle versteckt, wird dieser hier einen Weg finden, um zu euch zu stoßen.“
 
-Er hält sich die Hand ans Gesicht und macht eine seltsame Geste mit seinen Fingern. "Dieser hier ist für jede Hilfe dankbar, die ihr ihm geben könnt."</DefaultText>
+Er hält sich die Hand ans Gesicht und macht eine seltsame Geste mit seinen Fingern. „Dieser hier ist für jede Hilfe dankbar, die ihr ihm geben könnt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1022,7 +1022,7 @@ Er hält sich die Hand ans Gesicht und macht eine seltsame Geste mit seinen Fing
       <ID>178</ID>
       <DefaultText>Du zielst mit der Lanze auf seinen Kopf und schießt. Der Strahl streift das Gesicht des Dämons und richtet einigen Schaden an, blendet ihn jedoch nicht.
 
-Er dreht den Kopf wieder zu dir und grinst grausam. "Ich wurde für das hier *gemacht*. Konstruiert, um dich zu töten. Du hast keine Chance, das zu überleben."
+Er dreht den Kopf wieder zu dir und grinst grausam. „Ich wurde für das hier *gemacht*. Konstruiert, um dich zu töten. Du hast keine Chance, das zu überleben.“
 
 {SOUND: [A] Beam weapon firing.}</DefaultText>
       <FemaleText />
@@ -1044,7 +1044,7 @@ Er dreht den Kopf wieder zu dir und grinst grausam. "Ich wurde für das hier *ge
       <ID>181</ID>
       <DefaultText>Du schwimmst näher ran und durchtrennst kritische Systemkomponenten an der Seite des Dämons. Gerade als du denkst, du hast es geschafft, lenkt einer seiner klingenbewehrten Arme deinen Schlag jedoch ab. Er ist beschädigt, aber nicht besiegt.
 
-"Ich habe den Tabaht zu ihren Glanzzeiten gedient. Ich habe Völker gejagt, von denen ihr noch nie gehört hat. Denkst du wirklich, ich würde mich so einfach von jemandem wie *dir* besiegen lassen?"
+„Ich habe den Tabaht zu ihren Glanzzeiten gedient. Ich habe Völker gejagt, von denen ihr noch nie gehört hat. Denkst du wirklich, ich würde mich so einfach von jemandem wie *dir* besiegen lassen?“
 
 {SOUND: [A] Blade slicing.}</DefaultText>
       <FemaleText />
@@ -1082,77 +1082,77 @@ An deinem Unterarm hast du eine Schiene, die eine Strahlenlanze verschießt, abe
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Aber jede Gabe kommt mit einem Preis, nicht wahr?" Sie sieht wehmütig zu der blauen Kuppel. "Bei mir ist es ein überwältigendes Verlangen danach, in Wasser einzutauchen. Ich *brauche* es. Ich *verzehre* mich danach." Sie ballt die Fäuste zusammen, bis Fingerknöchel weiß werden.
+      <DefaultText>„Aber jede Gabe kommt mit einem Preis, nicht wahr?“ Sie sieht wehmütig zu der blauen Kuppel. „Bei mir ist es ein überwältigendes Verlangen danach, in Wasser einzutauchen. Ich *brauche* es. Ich *verzehre* mich danach.“ Sie ballt die Fäuste zusammen, bis Fingerknöchel weiß werden.
 
-Mit einem Seufzen öffnet sie die Hände wieder. "Ich kam in der Hoffnung hierher, dass ich in der Oase leben kann, doch ihre Gesetze sind streng, was Einwanderung betrifft. Jetzt singe ich hier in Jerboa für Geld und wann immer ich genug Geld beisammen hab, verbringe ich einen Tag in M'ra Jolios. Aber das reicht nicht. Ich brauche *mehr*."</DefaultText>
+Mit einem Seufzen öffnet sie die Hände wieder. „Ich kam in der Hoffnung hierher, dass ich in der Oase leben kann, doch ihre Gesetze sind streng, was Einwanderung betrifft. Jetzt singe ich hier in Jerboa für Geld und wann immer ich genug Geld beisammen hab, verbringe ich einen Tag in M'ra Jolios. Aber das reicht nicht. Ich brauche *mehr*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Allerdings", sagt sie hoffnungsvoll und beugt sich zu dir vor, "*ist* es möglich, wenn man ihren Patrouillen entwischen und ohne Armband unter Wasser atmen kann. So wie ich. Ein Gibber-Freund von mir sagt, es ist für sie den Aufwand nicht wert, jeden illegalen Luftatmer herauszufischen, der durch ihr Netz schlüpft. Ich muss also nur durch das Netz kommen."</DefaultText>
+      <DefaultText>„Allerdings“, sagt sie hoffnungsvoll und beugt sich zu dir vor, „*ist* es möglich, wenn man ihren Patrouillen entwischen und ohne Armband unter Wasser atmen kann. So wie ich. Ein Gibber-Freund von mir sagt, es ist für sie den Aufwand nicht wert, jeden illegalen Luftatmer herauszufischen, der durch ihr Netz schlüpft. Ich muss also nur durch das Netz kommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>Ihre Miene verfinstert sich. "Das ist das Problem. Die Menagerie wird von einem Dämon bewacht – einem Automaton aus einer früheren Welt."
+      <DefaultText>Ihre Miene verfinstert sich. „Das ist das Problem. Die Menagerie wird von einem Dämon bewacht – einem Automaton aus einer früheren Welt.“
 
-Sie gibt einem von deiner Jacke hängenden Konstruktauge einen verspielten Klaps. "Aber ich denke, du weißt, wie man mit Konstrukten fertig wird, nicht wahr? Mit deinen Fähigkeiten sollten wir ohne Probleme an dem Dämon vorbeikommen."</DefaultText>
+Sie gibt einem von deiner Jacke hängenden Konstruktauge einen verspielten Klaps. „Aber ich denke, du weißt, wie man mit Konstrukten fertig wird, nicht wahr? Mit deinen Fähigkeiten sollten wir ohne Probleme an dem Dämon vorbeikommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>Ihr Lächeln ist so strahlend wie ihre Stimme klar war. "Danke. Danke! Für jemanden wie dich wird das ein Kinderspiel, versprochen. Besorg dir, was du brauchst. Wir treffen uns in einer Stunde bei den Toren der Oase."
+      <DefaultText>Ihr Lächeln ist so strahlend wie ihre Stimme klar war. „Danke. Danke! Für jemanden wie dich wird das ein Kinderspiel, versprochen. Besorg dir, was du brauchst. Wir treffen uns in einer Stunde bei den Toren der Oase.“
 
 Dann steht sie auf und schwebt förmlich davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Woher kennst du uns?"</DefaultText>
+      <DefaultText>„Woher kennst du uns?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Geschichte und Beobachtung können uns eine Menge lehren. Sie hier", er nickt Neme zu, "ist eine Bettlerin, die M'ra Jolios in weniger als zwei Jahren wenigstens siebenundachtzig Mal besucht hat. Du bist eine abgeworfene Hülle desjenigen, der sich der Wandelnde Gott nennt. Dich verrät deine Markierung, sie ihr Verhalten. Es läuft auf dasselbe heraus."
+      <DefaultText>„Geschichte und Beobachtung können uns eine Menge lehren. Sie hier“, er nickt Neme zu, „ist eine Bettlerin, die M'ra Jolios in weniger als zwei Jahren wenigstens siebenundachtzig Mal besucht hat. Du bist eine abgeworfene Hülle desjenigen, der sich der Wandelnde Gott nennt. Dich verrät deine Markierung, sie ihr Verhalten. Es läuft auf dasselbe heraus.“
 
-Er schließt für einen Moment gedankenversunken die Augen. Als er sie wieder öffnet, sagt er: "Ja. Wir können auch deinen Zweck erahnen."</DefaultText>
+Er schließt für einen Moment gedankenversunken die Augen. Als er sie wieder öffnet, sagt er: „Ja. Wir können auch deinen Zweck erahnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>Neme wurde mit jedem Wort sichtlich immer verängstigter. Sie zischt: "Hast du das wem erzählt? Warum tust du das?"
+      <DefaultText>Neme wurde mit jedem Wort sichtlich immer verängstigter. Sie zischt: „Hast du das wem erzählt? Warum tust du das?“
 
-Der Mann sieht auf sie herab. Sein eindringlicher Blick wird nur geringfügig milder. "Von diesem hier habt ihr nichts zu befürchten. Er wird eure Geheimnisse nicht verraten. Tatsächlich könnten wir sogar ein Stück eures Weges gemeinsam gehen. Wir werden sehen."</DefaultText>
+Der Mann sieht auf sie herab. Sein eindringlicher Blick wird nur geringfügig milder. „Von diesem hier habt ihr nichts zu befürchten. Er wird eure Geheimnisse nicht verraten. Tatsächlich könnten wir sogar ein Stück eures Weges gemeinsam gehen. Wir werden sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Warum sollte ich dich etwas fragen wollen?"</DefaultText>
+      <DefaultText>„Warum sollte ich dich etwas fragen wollen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Die Bruderschaft verfügt über umfassende Aufzeichnungen. Wir können jede Frage beantworten, über die Daten vorliegen, und kurzfristig sogar den Verlauf von Ereignissen voraussagen. Die Antworten der Bruderschaft können sehr wertvoll sein."</DefaultText>
+      <DefaultText>„Die Bruderschaft verfügt über umfassende Aufzeichnungen. Wir können jede Frage beantworten, über die Daten vorliegen, und kurzfristig sogar den Verlauf von Ereignissen voraussagen. Die Antworten der Bruderschaft können sehr wertvoll sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Du musst keine Fragen beantworten. Wir können auch so zusammenarbeiten."</DefaultText>
+      <DefaultText>„Du musst keine Fragen beantworten. Wir können auch so zusammenarbeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>Er verbeugt sich tief. "Dieser hier weiß deine Hilfe und Freimütigkeit zu schätzen."</DefaultText>
+      <DefaultText>Er verbeugt sich tief. „Dieser hier weiß deine Hilfe und Freimütigkeit zu schätzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Uns zu verstecken ist bereits zu zweit riskant. Zu dritt findet uns der Dämon doch noch leichter, oder nicht?"</DefaultText>
+      <DefaultText>„Uns zu verstecken ist bereits zu zweit riskant. Zu dritt findet uns der Dämon doch noch leichter, oder nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Vielleicht." Er nickt zustimmend. "Das muss man natürlich berücksichtigen."</DefaultText>
+      <DefaultText>„Vielleicht.“ Er nickt zustimmend. „Das muss man natürlich berücksichtigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1169,7 +1169,7 @@ Der Mann sieht auf sie herab. Sein eindringlicher Blick wird nur geringfügig mi
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>Neme hört ihrem Gesang aufmerksam zu und summt ihn dann versuchsweise nach. Die Lorub reagieren sofort darauf, schwimmen auf sie zu und dann friedlich wieder weg. Sie lacht. "Iarmid hatte recht!", sagt sie. "Ich denke, das wird funktionieren. Wollen wir es tun?"
+      <DefaultText>Neme hört ihrem Gesang aufmerksam zu und summt ihn dann versuchsweise nach. Die Lorub reagieren sofort darauf, schwimmen auf sie zu und dann friedlich wieder weg. Sie lacht. „Iarmid hatte recht!“, sagt sie. „Ich denke, das wird funktionieren. Wollen wir es tun?“
 
 {SOUND: [A] Continue Lorub song for this node.}
 {SOUND: [B] Neme experimentally trying to match the Lorub's song.}</DefaultText>
@@ -1177,7 +1177,7 @@ Der Mann sieht auf sie herab. Sein eindringlicher Blick wird nur geringfügig mi
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Hast du es dir anders überlegt? Sollen wir es machen?"
+      <DefaultText>„Hast du es dir anders überlegt? Sollen wir es machen?“
 
 {SOUND: [A] Continue Lorub song for this node.}</DefaultText>
       <FemaleText />
@@ -1205,14 +1205,14 @@ Der Mann sieht auf sie herab. Sein eindringlicher Blick wird nur geringfügig mi
 
 Die Menagerie ist leer und dunkel. Durch die durchsichtigen Steine in der Decke fällt kein Sonnenlicht mehr herein. Nur einige Fische und Steine leuchten noch in der Dunkelheit.
 
-Ihr kommt so leise wie möglich aus eurem Versteck hervor. Doch kaum seid ihr im Hauptgang, ertönt eine metallische Stimme aus der Richtung des Vordereingangs. "Habt ihr gedacht, ich würde nicht sehen? Nicht wissen? Ihr werdet heute Nacht hier sterben."
+Ihr kommt so leise wie möglich aus eurem Versteck hervor. Doch kaum seid ihr im Hauptgang, ertönt eine metallische Stimme aus der Richtung des Vordereingangs. „Habt ihr gedacht, ich würde nicht sehen? Nicht wissen? Ihr werdet heute Nacht hier sterben.“
 
 {SOUND: The Menagerie is empty and eerir. End ambient crowd noise. Any ambient underwater noises can continue.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>Sie legt eine Hand auf deine Wange und flüstert dir zu: "Ich schulde dir was – mehr, als du denkst. Ich kann dir nicht viel geben, aber ich weiß etwas, das dir helfen könnte: Deine Kommandantin, Paj Rekken, ist nicht, was sie zu sein scheint. Es gibt jemand *anderen*, der im Hintergrund die Fäden zieht."</DefaultText>
+      <DefaultText>Sie legt eine Hand auf deine Wange und flüstert dir zu: „Ich schulde dir was – mehr, als du denkst. Ich kann dir nicht viel geben, aber ich weiß etwas, das dir helfen könnte: Deine Kommandantin, Paj Rekken, ist nicht, was sie zu sein scheint. Es gibt jemand *anderen*, der im Hintergrund die Fäden zieht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
