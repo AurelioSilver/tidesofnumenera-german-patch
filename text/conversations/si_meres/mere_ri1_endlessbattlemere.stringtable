@@ -35,16 +35,16 @@ Er schüttelt den Kopf. „Noch nie seit dem Tod der Ersten standen wir so kurz 
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Ausgezeichnet“, sagt Lovac und wendet sich seinen Beratern zu – alle Abgeworfene, wie du feststellst. „Freunde, was schlagt ihr vor? Wie können wir ungeschehen machen, was mit dem Versöhner geschehen ist… ohne ihn zu *benutzen*?“
+      <DefaultText>„Ausgezeichnet“, sagt Lovac und wendet sich seinen Beratern zu – alle Verstoßene, wie du feststellst. „Freunde, was schlagt ihr vor? Wie können wir ungeschehen machen, was mit dem Versöhner geschehen ist… ohne ihn zu *benutzen*?“
 
-Eine vernarbte Abgeworfene in roter Rüstung meldet sich zu Wort. „Ich schlage einen Frontalangriff auf den Standort der Himmelserwiderung vor. Der Angriff wird natürlich fehlschlagen, aber er wird es Bericael erlauben, durch die Weißen Nester zu schlüpfen und die Erwiderung von der Rückseite zu erreichen. Dann kann sie alles zurücksetzen… und sie dann zerstören.“
+Eine vernarbte Verstoßene in roter Rüstung meldet sich zu Wort. „Ich schlage einen Frontalangriff auf den Standort der Himmelserwiderung vor. Der Angriff wird natürlich fehlschlagen, aber er wird es Bericael erlauben, durch die Weißen Nester zu schlüpfen und die Erwiderung von der Rückseite zu erreichen. Dann kann sie alles zurücksetzen… und sie dann zerstören.“
 
 Sie haut auf den Tisch. „Und dann sind *wir* die Einzigen, die die Geschichte verändern können!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Als dein Bewusstsein wieder zusammenkommt, findest du dich in einem unterirdischen Bunker wieder, der von einem Angriff weit über ihm erschüttert wird. Du stehst salutierend vor einem in einen kunstvollen Metallpanzer gehüllten Abgeworfenen. Er ist dünn wie ein Skelett und du bezweifelst, dass er sich ohne den Panzer überhaupt bewegen könnte. Du erinnerst dich an ihn: Es ist Lovac, Paj Rekkens Stellvertreter in der Endlosen Schlacht. Hinter ihm sitzen drei Berater.
+      <DefaultText>Als dein Bewusstsein wieder zusammenkommt, findest du dich in einem unterirdischen Bunker wieder, der von einem Angriff weit über ihm erschüttert wird. Du stehst salutierend vor einem in einen kunstvollen Metallpanzer gehüllten Verstoßenen. Er ist dünn wie ein Skelett und du bezweifelst, dass er sich ohne den Panzer überhaupt bewegen könnte. Du erinnerst dich an ihn: Es ist Lovac, Paj Rekkens Stellvertreter in der Endlosen Schlacht. Hinter ihm sitzen drei Berater.
 
 Lovac schüttelt seinen in Synthstahl gefassten Kopf und wendet sich dir zu. „Mach dir keine Gedanken wegen der Nachricht, Bericael. Das hat sich mittlerweile erledigt. Wir müssen froh sein, dass Kommandantin Rekken es heil aus Miel Avest geschafft hat. Sie ist der Zerstörung des Heiligtums im letzten Moment entkommen.“
 
@@ -93,9 +93,9 @@ Er zuckt mit den Schultern. „Das stellt zwar nur den Status Quo wieder her, ab
       <ID>14</ID>
       <DefaultText>Lovac nickt und sieht dann die anderen an. „Hat irgendjemand Einwände gegen Bericaels Wahl?“
 
-Der Abgeworfene mit den zwei Mündern zuckt mit den Schultern. „Wenn sie mutig genug ist, es mit den Faltern aufzunehmen, dann sind wir mutig genug, unsere Truppen gegen die Himmelserwiderung loszuschicken.“
+Der Verstoßene mit den zwei Mündern zuckt mit den Schultern. „Wenn sie mutig genug ist, es mit den Faltern aufzunehmen, dann sind wir mutig genug, unsere Truppen gegen die Himmelserwiderung loszuschicken.“
 
-„Und mit etwas Glück“, sagt die Abgeworfene in der roten Rüstung, „wird die Schlacht nie stattgefunden haben, sobald sie die Erwiderung zurückgesetzt hat, und unsere Truppen werden wieder in Sicherheit sein.“
+„Und mit etwas Glück“, sagt die Verstoßene in der roten Rüstung, „wird die Schlacht nie stattgefunden haben, sobald sie die Erwiderung zurückgesetzt hat, und unsere Truppen werden wieder in Sicherheit sein.“
 
 „Gut.“ Lovac erhebt sich. „Bereiten wir alles vor. Es geht los, sobald du bereit bist.“</DefaultText>
       <FemaleText />
@@ -639,7 +639,7 @@ Auf einem ummauerten wilden Hang wirbeln immer noch die Splitter des Realitätss
       <ID>118</ID>
       <DefaultText>Auf einem vom Regen in Schlamm verwandelten und mit Leichen und zerstörten Mantis-Kriegskonstrukten übersäten Schlachtfeld steht der Kalkedon mit dem Rest seines Kommandos. Vor ihm knien Paj Rekken und ihre Generäle. Sie übergibt ihm ihr Schwert.
 
-Rundherum führen die Soldaten des Kalkedon Paj Rekkens verbliebene Truppen ab – Abgeworfene und Menschen gleichermaßen. Viele haben nicht überlebt. Die meisten liegen tot auf dem Schlachtfeld und werden von Murden-Plünderern um ihre letzten Habseligkeiten erleichtert. Hinter ihnen kannst du gerade noch die Wellen ausmachen, die der Realitätssturm schlägt.
+Rundherum führen die Soldaten des Kalkedon Paj Rekkens verbliebene Truppen ab – Verstoßene und Menschen gleichermaßen. Viele haben nicht überlebt. Die meisten liegen tot auf dem Schlachtfeld und werden von Murden-Plünderern um ihre letzten Habseligkeiten erleichtert. Hinter ihnen kannst du gerade noch die Wellen ausmachen, die der Realitätssturm schlägt.
 
 Du läufst darauf zu. Als du näherkommst, erscheinen drei Splitter vielversprechender als der Rest: Ein glitzernder Sumpf, eine Ebene, auf der gewaltig aufgetürmte Feuer lodern, und eine erbitterte Schlacht.</DefaultText>
       <FemaleText />
@@ -700,7 +700,7 @@ Eine Lanzenreiterin wird mitten ins Herz getroffen und fällt dir tot vor die F�
       <ID>129</ID>
       <DefaultText>Du stehst auf der Tribüne einer großen Arena inmitten einer jubelnden, betrunkenen Menschenmenge. Auf dem Rasen der Arena tragen zwei Mannschaften aus Männern und Frauen in schwerer gepolsterter Schutzkleidung eine Art Spiel aus, bei dem sie mit Holzschlägern auf eine schwebende Kugel eindreschen und sich gegenseitig umhauen.
 
-Die Fans jubeln und trinken bei jedem Zusammenprall. „Götter vor!“, rufen die einen. „Hier regieren die Abgeworfenen!“, rufen die anderen.</DefaultText>
+Die Fans jubeln und trinken bei jedem Zusammenprall. „Götter vor!“, rufen die einen. „Hier regieren die Verstoßenen!“, rufen die anderen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -765,7 +765,7 @@ Als du dich an ihn heranschleichst, wirbelt er erschrocken herum und streckt fle
       <ID>140</ID>
       <DefaultText>„Du weißt, dass der Kummer Miel Avest angegriffen und zerstört hat, ja? Hör zu – es war deine eigene Kommandantin, Paj Rekken, die die Schilde deaktiviert und dem Kummer ermöglicht hat, in das Heiligtum einzudringen. Deshalb war sie dort und deshalb konnte sie "rechtzeitig" entkommen.“ Er zischt von Gefühlen überwältigt: „Miel Avest war immer ein Ort des Friedens. Paj hat diesen Frieden gebrochen und unzählige unserer Brüder und Schwestern auf dem Gewissen – mehr, als in diesem törichten Krieg je gestorben sind…“
 
-Er sieht dir in die Augen. „Ich kenne und schätze dich als ehrenwerte Gegnerin, Brunna, aber deine Anführerin ist grausam und verrückt. Wenn dir irgendetwas an der Zukunft der Abgeworfenen liegt, musst du sie aufsuchen und zur Rede stellen. Verhindere, dass sie noch mehr von uns tötet.“</DefaultText>
+Er sieht dir in die Augen. „Ich kenne und schätze dich als ehrenwerte Gegnerin, Brunna, aber deine Anführerin ist grausam und verrückt. Wenn dir irgendetwas an der Zukunft der Verstoßenen liegt, musst du sie aufsuchen und zur Rede stellen. Verhindere, dass sie noch mehr von uns tötet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -947,7 +947,7 @@ Er wird bleich. „Dieser Weg ist weniger tödlich als der andere, aber in einem
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>„Stimmt“, sagt der Abgeworfene mit den zwei Mündern. „Aber jemand, der weiß, durch welche Realitäten der, den sie verfolgt, gekommen ist, könnte ihm folgen.“
+      <DefaultText>„Stimmt“, sagt der Verstoßene mit den zwei Mündern. „Aber jemand, der weiß, durch welche Realitäten der, den sie verfolgt, gekommen ist, könnte ihm folgen.“
 
 Er legt eine Hand auf deine Schulter. „Der Saboteur und du, ihr seid euch ähnlich. Euch treibt das gemeinsame Verlangen an, der Gerechtigkeit und dem größeren Ganzen zu dienen. *Nutze* das. Hör auf deinen Körper und auf die Gezeiten und du müsstest den Weg des Saboteurs nachvollziehen können.“ Er zuckt mit den Schultern. „Oder zumindest die Möglichkeiten einengen.“</DefaultText>
       <FemaleText />
@@ -1013,9 +1013,9 @@ Der Mann ist dünn und klein und hat dunkelbraune Augen und einen freundlichen B
       <ID>185</ID>
       <DefaultText>Lovac nickt und sieht die anderen an. „Irgendwelche Einwände gegen Bericaels Entscheidung?“
 
-„Ich stimme zu“, sagt der Abgeworfene mit den beiden Mündern. „Es kann schnell erledigt werden und das Risiko ist gering.“
+„Ich stimme zu“, sagt der Verstoßene mit den beiden Mündern. „Es kann schnell erledigt werden und das Risiko ist gering.“
 
-„Und wenn wir Bericael verlieren“, sagt die Abgeworfene in der roten Rüstung, „können wir immer noch auf meinen Vorschlag mit dem Frontalangriff zurückkommen und jemand anderen durch die Weißen Nester schicken.“
+„Und wenn wir Bericael verlieren“, sagt die Verstoßene in der roten Rüstung, „können wir immer noch auf meinen Vorschlag mit dem Frontalangriff zurückkommen und jemand anderen durch die Weißen Nester schicken.“
 
 „Gut“, sagt Lovac und erhebt sich. „Bericael, dies sind die Handschuhe des Saboteurs. Benutze ihren Geruch und ihre Gezeiten, um deinen Mann durch die Splitter zu verfolgen.“</DefaultText>
       <FemaleText />
@@ -1047,7 +1047,7 @@ Der Splittersturm wirbelt auf einem Tafelberg in der Mitte der Schlucht. Du läu
       <ID>189</ID>
       <DefaultText>Auf einem vom Regen in Schlamm verwandelten und mit Leichen und zerstörten Mantis-Kriegskonstrukten übersäten Schlachtfeld steht der Kalkedon mit dem Rest seines Kommandos. Vor ihm knien Paj Rekken und ihre Generäle. Sie übergibt ihm ihr Schwert.
 
-Rundherum führen die Soldaten des Kalkedon Paj Rekkens verbliebene Truppen ab – Abgeworfene und Menschen gleichermaßen. Viele haben nicht überlebt. Die meisten liegen tot auf dem Schlachtfeld und werden von Murden-Plünderern um ihre letzten Habseligkeiten erleichtert. Hinter ihnen kannst du gerade noch die Wellen ausmachen, die der Realitätssturm schlägt.
+Rundherum führen die Soldaten des Kalkedon Paj Rekkens verbliebene Truppen ab – Verstoßene und Menschen gleichermaßen. Viele haben nicht überlebt. Die meisten liegen tot auf dem Schlachtfeld und werden von Murden-Plünderern um ihre letzten Habseligkeiten erleichtert. Hinter ihnen kannst du gerade noch die Wellen ausmachen, die der Realitätssturm schlägt.
 
 Du läufst darauf zu. Als du näherkommst, erscheinen zwei Splitter vielversprechender als der Rest: Ein glitzernder Sumpf und eine erbitterte Schlacht.</DefaultText>
       <FemaleText />
@@ -1184,7 +1184,7 @@ Paj starrt sie an. „Du… du hast sie dafür geopfert? Unsere Geschwister? Aad
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>[Angriff] „Du hast die Abgeworfenen verraten. Dafür wirst du sterben!“</DefaultText>
+      <DefaultText>[Angriff] „Du hast die Verstoßenen verraten. Dafür wirst du sterben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2406,7 +2406,7 @@ Du hast es geschafft. Du hast dich hinter die feindlichen Linien geschlichen und
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>Ein Zug von Transportschlitten hält vor einem völlig verwüsteten Schlachtfeld. Paj Rekken steigt mit ihren kommandierenden Offizieren aus und sieht sich um. Soweit das Auge reicht, ist das Feld mit Leichen von verbrannten Abgeworfenen und Menschen gleichermaßen übersät. Es hat niemand überlebt. Das einzige, was sich hier noch bewegt, ist der Rauch, der aus den Rümpfen zerstörter Kriegsmaschinen aufsteigt
+      <DefaultText>Ein Zug von Transportschlitten hält vor einem völlig verwüsteten Schlachtfeld. Paj Rekken steigt mit ihren kommandierenden Offizieren aus und sieht sich um. Soweit das Auge reicht, ist das Feld mit Leichen von verbrannten Verstoßenen und Menschen gleichermaßen übersät. Es hat niemand überlebt. Das einzige, was sich hier noch bewegt, ist der Rauch, der aus den Rümpfen zerstörter Kriegsmaschinen aufsteigt
 
 Der Anblick schnürt Paj die Kehle zu. „Sieht so etwa unser Sieg aus?“, fragt sie und lässt den Kopf hängen. „Was haben wir getan? Was haben wir nur getan?“</DefaultText>
       <FemaleText />
@@ -2618,7 +2618,7 @@ Die Flieger attackieren einander mit langen, mit Klingen besetzten Stäben und v
       <ID>481</ID>
       <DefaultText>Auf einem vom Regen in Schlamm verwandelten und mit Leichen und zerstörten Mantis-Kriegskonstrukten übersäten Schlachtfeld steht der Kalkedon mit dem Rest seines Kommandos. Vor ihm knien Paj Rekken und ihre Generäle. Sie übergibt ihm ihr Schwert.
 
-Rundherum führen die Soldaten des Kalkedon Paj Rekkens verbliebene Truppen ab – Abgeworfene und Menschen gleichermaßen. Viele haben nicht überlebt. Die meisten liegen tot auf dem Schlachtfeld und werden von Murden-Plünderern um ihre letzten Habseligkeiten erleichtert. Hinter ihnen kannst du gerade noch die Wellen ausmachen, die der Realitätssturm schlägt.</DefaultText>
+Rundherum führen die Soldaten des Kalkedon Paj Rekkens verbliebene Truppen ab – Verstoßene und Menschen gleichermaßen. Viele haben nicht überlebt. Die meisten liegen tot auf dem Schlachtfeld und werden von Murden-Plünderern um ihre letzten Habseligkeiten erleichtert. Hinter ihnen kannst du gerade noch die Wellen ausmachen, die der Realitätssturm schlägt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
