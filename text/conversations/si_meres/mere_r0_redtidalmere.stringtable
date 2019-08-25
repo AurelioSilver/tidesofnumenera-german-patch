@@ -28,7 +28,7 @@ Du kannst es riechen, das Blut *und* ihren Abscheu. Der ist übler als Sucyas An
 
 Sucya will sagen, dass sie es nicht war, aber der Mann tritt ihr ins Gesicht.
 
-„Ihr alle macht das!“ Er spuckt ihr ins Gesicht. „Glaubt ja nicht, wir sehen nicht, dass ihr euch jeden Tag mehr nimmt als die täglich erlaubte Tasse. Das ist für jeden dreckigen Mutanten genug, aber nein, jetzt habt ihr den Burgraven dazu gebracht, über eine Änderung der verdammten Gesetze nachzudenken!“ Er tritt sie erneut, um seinen Standpunkt durchzusetzen.
+„Ihr alle macht das!“ Er spuckt ihr ins Gesicht. „Glaubt ja nicht, wir sehen nicht, dass ihr euch jeden Tag mehr nimmt als die täglich erlaubte Tasse. Das ist für jeden dreckigen Mutanten genug, aber nein, jetzt habt ihr den Burggrafen dazu gebracht, über eine Änderung der verdammten Gesetze nachzudenken!“ Er tritt sie erneut, um seinen Standpunkt durchzusetzen.
 
 Der andere tritt nach vorne und schaut auf dich herab. „Ich wette, du verdienst auch so viel wie ein Mensch, nicht wahr? Du hältst dich wohl für etwas Besseres?“</DefaultText>
       <FemaleText />
@@ -202,7 +202,7 @@ Ihr Kopf neigt sich zur Seite. „Mir fehlen deine Lieder.“</DefaultText>
 
 „Ich kann das bald nicht mehr ertragen“, murmelt sie. „Ich meine, wir alle. Scheinbar kommt jetzt jede Woche jemand her und sorgt für Ärger. Als wäre das Leben in der Grotto der Verwandlung nicht schon schwer genug.“
 
-Sie schmettert drei Cyphern gleichzeitig auf den Boden und sieht dich finster an. „Wir *sollten* mit dem Burgraven reden. Er könnte vielleicht etwas dagegen tun.“
+Sie schmettert drei Cyphern gleichzeitig auf den Boden und sieht dich finster an. „Wir *sollten* mit dem Burggrafen reden. Er könnte vielleicht etwas dagegen tun.“
 
 Sie kehrt stöhnend zu Sucya zurück. „Er würde es wahrscheinlich nicht tun. Und von uns könnte keiner ohne Schwierigkeiten zu ihm gelangen. Aber es ist wohl die einzige Chance, die wir haben.“</DefaultText>
       <FemaleText />
@@ -218,7 +218,7 @@ Er schaut dich direkt an. „Zel verlangt Blut zum Regieren.“</DefaultText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Verlasse die Grotto, um Hilfe durch Burgrave zu bekommen.</DefaultText>
+      <DefaultText>Verlasse die Grotto, um Hilfe durch Burggrafen zu bekommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,7 +466,7 @@ Je näher du der großen Stadt kommst, desto mehr Menschen kreuzen deinen Weg. J
 
 Auf dem großen Platz in der Stadt wirst du willkürlich umhergestoßen und geschubst. Jeder, der dir nichts Böses will, scheint sich bewusst von dir fernzuhalten.
 
-Schließlich erreichst du den Turm des Burgrave. {SOUND: Busy city street. Ideally the occasional jeer from the crowd.}</DefaultText>
+Schließlich erreichst du den Turm des Burggrafen. {SOUND: Busy city street. Ideally the occasional jeer from the crowd.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -553,7 +553,7 @@ Ein Funkeln in seinen Händen lässt dich darauf schließen, dass sie diesmal me
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>„Ich habe gerade mit dem Burgrave gesprochen. Tötet mich, und er wird wissen was Sache ist und sich um euch kümmern.“</DefaultText>
+      <DefaultText>„Ich habe gerade mit dem Burggrafen gesprochen. Tötet mich, und er wird wissen was Sache ist und sich um euch kümmern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -575,12 +575,12 @@ Ein Funkeln in seinen Händen lässt dich darauf schließen, dass sie diesmal me
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Sie brechen in grausamem Gelächter aus. „Glaubst du ernsthaft, derselbe Trick funktioniert bei uns zwei Mal? Der Burgrave sitzt in seinem Turm, und du bist hier draußen, allein. Niemand schert sich um *dich*.“</DefaultText>
+      <DefaultText>Sie brechen in grausamem Gelächter aus. „Glaubst du ernsthaft, derselbe Trick funktioniert bei uns zwei Mal? Der Burggraf sitzt in seinem Turm, und du bist hier draußen, allein. Niemand schert sich um *dich*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Einer von ihnen sieht seinen Kumpanen besorgt an, aber dieser schüttelt nur den Kopf. „Keine Chance“, sagt er zu ihm. „Der Burgrave sitzt oben in seinem Turm. Wir sind hier in einer einsamen, dunklen Straße. Niemand schert sich um *die*.“</DefaultText>
+      <DefaultText>Einer von ihnen sieht seinen Kumpanen besorgt an, aber dieser schüttelt nur den Kopf. „Keine Chance“, sagt er zu ihm. „Der Burggraf sitzt oben in seinem Turm. Wir sind hier in einer einsamen, dunklen Straße. Niemand schert sich um *die*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1099,16 +1099,16 @@ Die Cheirurgin injiziert etwas in ihren Nacken. Schließlich öffnen sich ihre A
       <ID>175</ID>
       <DefaultText>Im Zentrum des Platzes steht der Turm. Er ist ganz offensichtlich nicht in der Neunten Welt entstanden. Stattdessen wurde er aus viel älterem Material gebaut, dass ihn so schief hat werden lassen, dass er kurz davor steht, umzustürzen.
 
-Der Burgrave ist leicht zu finden. Er steht direkt vor dem Turm, eine Figur in farbenfrohem Gewand – viel mehr Farben, als die meisten Jerboaner zu tragen pflegen. Seine Kleidung ist mit vielfältigen glänzenden Perlen versehen, und mit Scheiben, die auf seine Position schließen lassen.
+Der Burggraf ist leicht zu finden. Er steht direkt vor dem Turm, eine Figur in farbenfrohem Gewand – viel mehr Farben, als die meisten Jerboaner zu tragen pflegen. Seine Kleidung ist mit vielfältigen glänzenden Perlen versehen, und mit Scheiben, die auf seine Position schließen lassen.
 
-Gerade unterhält er sich mit einem Mann und einer Frau, die ihrer Kleidung nach zu urteilen gut betucht sein dürften. Auch wenn der Burgrave deine Anwesenheit nicht bemerkt, so tut es das Paar, mit dem er sich unterhält. Sie sind sichtlich angewidert von deinem Anblick.
+Gerade unterhält er sich mit einem Mann und einer Frau, die ihrer Kleidung nach zu urteilen gut betucht sein dürften. Auch wenn der Burggraf deine Anwesenheit nicht bemerkt, so tut es das Paar, mit dem er sich unterhält. Sie sind sichtlich angewidert von deinem Anblick.
 
 {SOUND: Same busy city street as node 82, but softer.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Deine Tentakel-Hand auf die Schulter des Burgrave legen, um seine Aufmerksamkeit zu bekommen.</DefaultText>
+      <DefaultText>Deine Tentakel-Hand auf die Schulter des Burggrafen legen, um seine Aufmerksamkeit zu bekommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1118,14 +1118,14 @@ Gerade unterhält er sich mit einem Mann und einer Frau, die ihrer Kleidung nach
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Geduldig abwarten, bis der Burgrave seine Unterhaltung mit dem Paar beendet hat.</DefaultText>
+      <DefaultText>Geduldig abwarten, bis der Burggraf seine Unterhaltung mit dem Paar beendet hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>Der Burgrave widmet dir sofort seine Aufmerksamkeit. „Oh“, sagt er. „Ich war so in meine Unterhaltung vertieft …“ Er sieht dich von oben bis unten an. Dabei lässt er den angewiderten Blick missen, dem seine Gesprächspartner dir entgegengebracht haben. „Was führt einen Mutanten wie dich zu mir?“
+      <DefaultText>Der Burggraf widmet dir sofort seine Aufmerksamkeit. „Oh“, sagt er. „Ich war so in meine Unterhaltung vertieft …“ Er sieht dich von oben bis unten an. Dabei lässt er den angewiderten Blick missen, dem seine Gesprächspartner dir entgegengebracht haben. „Was führt einen Mutanten wie dich zu mir?“
 
-Du erklärst ihm die Situation, erzählst ihm vom Überfall auf Sucya und seinen Folgen und lässt nicht aus, dass die Schläger angedroht haben, zurückzukehren. Das Paar ist schon bald fort, aber der Burgrave wartet geduldig darauf, dass du deine Geschichte zu Ende erzählst.
+Du erklärst ihm die Situation, erzählst ihm vom Überfall auf Sucya und seinen Folgen und lässt nicht aus, dass die Schläger angedroht haben, zurückzukehren. Das Paar ist schon bald fort, aber der Burggraf wartet geduldig darauf, dass du deine Geschichte zu Ende erzählst.
 
 „Das muss sehr wichtig für dich sein“, sagt er, „wenn du diesen weiten Weg auf dich nimmst und dich sogar traust, das Gespräch dreier der hochrangigsten Beamten in Jerboa zu unterbrechen.“ „Nun gut, ich werde dafür sorgen, dass das untersucht wird. Schließlich ist die Grotte auch Teil der Stadt.“
 
@@ -1139,16 +1139,16 @@ Du bedankst dich bei ihm und kehrst nach Hause zurück.</DefaultText>
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>Das Gespräch zieht sich sehr lange hin. Es scheint, als wäre das Paar erfreut darüber, dass der Burgrave deine Präsenz offensichtlich nicht wahrnimmt.
+      <DefaultText>Das Gespräch zieht sich sehr lange hin. Es scheint, als wäre das Paar erfreut darüber, dass der Burggraf deine Präsenz offensichtlich nicht wahrnimmt.
 
-Endlich verlassen sie den Platz. Der Burgrave wendet sich dir zu und ist sichtlich überrascht, dich zu entdecken. „Was bringt einen Mutanten zu mir?“
+Endlich verlassen sie den Platz. Der Burggraf wendet sich dir zu und ist sichtlich überrascht, dich zu entdecken. „Was bringt einen Mutanten zu mir?“
 
 Du erklärst ihm die Situation, erzählst ihm vom Überfall auf Sucya und seinen Folgen und lässt nicht aus, dass die Schläger angedroht haben, zurückzukehren. Er wartet geduldig, bis du deine Geschichte zu Ende erzählt hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>(Lügen) „Ich habe gerade mit dem Burgrave gesprochen. Tötet mich, und er wird wissen was Sache ist und sich um euch kümmern.“</DefaultText>
+      <DefaultText>(Lügen) „Ich habe gerade mit dem Burggraf gesprochen. Tötet mich, und er wird wissen was Sache ist und sich um euch kümmern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
