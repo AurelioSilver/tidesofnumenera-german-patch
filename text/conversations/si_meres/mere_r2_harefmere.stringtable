@@ -215,7 +215,7 @@ Die Nil sammeln ihr Putzzeug zusammen und lassen dich alleine auf dem Balkon zur
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Coi seufzt. „Ich mache dir keinen Vorwurf, dass du Angst hast, aber ohne dich sind wir verloren, Rem. Denk noch mal darüber nach, ja?“
+      <DefaultText>Coi seufzt. „Ich mach dir keinen Vorwurf, dass du Angst hast, aber ohne dich sind wir verloren, Rem. Denk noch mal darüber nach, ja?“
 
 Die Nil sammeln ihr Putzzeug zusammen und lassen dich alleine auf dem Balkon zurück. Du starrst in den Schlund der Bohrung. Wäre die Sache ein wenig anders gelaufen, wärst vielleicht du hineingeworfen worden. In dem Fall würdest du immer noch fallen.</DefaultText>
       <FemaleText />
@@ -1622,7 +1622,7 @@ Eines davon scheinen Notizen zu sein – deine eigenen? –, in denen verschiede
 
 *Neben ihm umarmte Fora ihren Ran. „Oh Liebling! Ich wusste doch, dass du eines Tages der Herr über Sommari sein würdest! Und das alles verdanken wir dem Lachenden Tausendsassa!“*
 
-</DefaultText>
+{SCRIPT: Sets read the Laughing Jack conditional.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1636,7 +1636,7 @@ Eines davon scheinen Notizen zu sein – deine eigenen? –, in denen verschiede
 
 *Dann hatte Gerrisae die zündende Idee. Wir alle haben Hyrnhal schon darüber jammern hören, dass seine Frau ihn verlassen hat, und unsere Oberen ebenfalls. Wenn wir einen Abschiedsbrief in seiner Handschrift fälschten, der besagt, dass er ohne sie nicht leben kann – wer würde an seinem Selbstmord zweifeln?*
 
-</DefaultText>
+{SCRIPT: Sets read the Jaws of Victory conditional.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1648,7 +1648,7 @@ Eines davon scheinen Notizen zu sein – deine eigenen? –, in denen verschiede
       <ID>356</ID>
       <DefaultText>*Der Schlüssel zum Frieden ist Empathie. Wenn wir alle eine Zeit lang die Welt mit den Augen unserer Feinde sehen könnten – und sie sie mit unseren – wären Krieg und Gewalt zwischen uns undenkbar, denn sie verstünden unseren Schmerz und wir den ihren. Wir würden unsere Erfahrungen miteinander teilen. Wir wären eine Familie. Mehr als das. Wir wären eins. Und nur ein Verrückter würde Krieg gegen sich selbst führen.*
 
-</DefaultText>
+{SCRIPT: Sets read Another Man's Mirror conditional.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2453,7 +2453,7 @@ Veresterios steht über seinem Sohn. „Ich sehe jetzt, dass du genauso bist, wi
       <ID>510</ID>
       <DefaultText>Als Gurek dich wieder auf die Füße stellt, verschwimmen er, Veresterios und Lanalton und alles um dich herum zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Die Bibliothek, der Sonnenschein, der Gesang der Motte, alles verschwindet in stummer Dunkelheit.
 
-</DefaultText>
+{MERE ENDS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2474,7 +2474,7 @@ Veresterios steht über seinem Sohn. „Ich sehe jetzt, dass du genauso bist, wi
       <ID>513</ID>
       <DefaultText>Als Gurek deine kleine Hand in seine riesige Pranke nimmt und dir aufhilft, verschwimmen er, Veresterios und Lanalton und alles um dich herum zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Die Bibliothek, der Sonnenschein, der Gesang der Motte, alles verschwindet in stummer Dunkelheit.
 
-</DefaultText>
+{MERE ENDS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2510,7 +2510,7 @@ Veresterios steht über seinem Sohn. „Ich sehe jetzt, dass du genauso bist, wi
       <ID>519</ID>
       <DefaultText>Als Gurek deine kleine Hand in seine riesige Pranke nimmt und dir aufhilft, verschwimmen er, Veresterios und Lanalton und alles um dich herum zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Die Bibliothek, der Sonnenschein, der Gesang der Motte, alles verschwindet in stummer Dunkelheit.
 
-</DefaultText>
+{MERE ENDS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2647,7 +2647,7 @@ Doch als die Gruppe der Nil sich auflöst, läuft es dir kalt den Rücken hinunt
       <ID>542</ID>
       <DefaultText>Als du dich auf den Weg zurück zur Bibliothek machst, verschwimmen die Wände und alles um dich herum zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Die Bücher, der Mondschein, das Zwitschern der Motte, sie alle verschwinden in stummer Dunkelheit, doch die Zweifel in deinem Herzen bleiben.
 
-</DefaultText>
+{MERE ENDS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2698,7 +2698,7 @@ Du hast die Nil von seiner Tyrannei befreit, doch es hat dein Leben gekostet –
       <ID>549</ID>
       <DefaultText>Als du immer tiefer in das Bohrloch hinabstürzt, verschwimmen die Gerüste und Planken um dich herum zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Aurigan, das Bohrloch, ganz Hare, verschwinden in stummer Dunkelheit, doch die Zweifel in deinem Herzen bleiben.
 
-</DefaultText>
+{MERE ENDS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2870,7 +2870,7 @@ Du nimmst ihm das Gerät ab und schleichst zur Tür, in der Hoffnung, dass dein 
 
 Als er dich packt und zum offenen Fenster trägt, verschwimmen die Wände seines Zimmers zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Aurigan, der rosa Morgenhimmel und das Bohrloch, in dessen klaffenden Abgrund er dich wirft, verschwinden in stummer Dunkelheit.
 
-</DefaultText>
+{MERE ENDS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2900,7 +2900,7 @@ Du nimmst ihm das Gerät ab und schleichst zur Tür, in der Hoffnung, dass dein 
 
 Er verbeugt sich vor dir. In diesem Moment verschwimmen die Wände seines Zimmers zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Aurigan und der rosa Morgenhimmel vor seinen Fenstern verschwinden in stummer Dunkelheit.
 
-</DefaultText>
+{MERE ENDS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2958,7 +2958,7 @@ Er schreit wieder, schnappt sich einen Dolch von seinem Nachttisch und stürzt z
       <ID>596</ID>
       <DefaultText>Als du den Entschluss fasst, nichts zu tun, verschwimmen die Wände um dich herum zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Die Bibliothek, der Sonnenschein, das Zwitschern der Motte, sie alle verschwinden in stummer Dunkelheit.
 
-</DefaultText>
+{MERE ENDS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2977,7 +2977,7 @@ Er schreit wieder, schnappt sich einen Dolch von seinem Nachttisch und stürzt z
 
 Als du ihm nachsiehst, verschwimmen die Wände von Aurigans Zimmer zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Aurigans Bett und der rosa Morgenhimmel vor seinen Fenstern verschwinden in stummer Dunkelheit.
 
-</DefaultText>
+{MERE ENDS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
