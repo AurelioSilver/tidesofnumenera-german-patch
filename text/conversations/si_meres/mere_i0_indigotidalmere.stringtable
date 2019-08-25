@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Indigoblaue Wellen erheben sich als ein riesiger Martel-Wal auf Sagus-Klippen zu schwimmt. Seine Flanke blockt die Sonne; sein Schatten huscht über dein dürftiges Dhau und ein großes Stück des Meeres.
 
-Ganz oben auf dem Rücken des Riesen lehnt sich ein Ausgucker herunter. "Plage!", schreit er, mit einer Stimme, die viel zu schwach ist, angesichts der großen Entfernung. Seine Warnung ist überflüssig: die Quarantäneflagge auf dem Masten ist von der ganzen Stadt aus gut sichtbar.
+Ganz oben auf dem Rücken des Riesen lehnt sich ein Ausgucker herunter. „Plage!“, schreit er, mit einer Stimme, die viel zu schwach ist, angesichts der großen Entfernung. Seine Warnung ist überflüssig: die Quarantäneflagge auf dem Masten ist von der ganzen Stadt aus gut sichtbar.
 
 Als der Ausgucker direkt in dein Dhau blickt, schüttelt er fragend seinen Kopf und reibt sich verwundert die Augen, weil er niemanden in dem Boot entdeckt. Der Lichtbeuger an deinem Gürtel leistet gute Dienste … solange die Ladung reicht.
 
@@ -226,7 +226,7 @@ Die meisten Stummen laufen davon, aber einige kämpfen sich durch die Öffnung. 
 
 Aber bis du drinnen bist, ist der Kampf bereits zu Ende. Die Stummen sind tot, und auch einige der Verteidiger. Ein Heiler behandelt die Verwundeten mit Cyphern. Aus einer Ecke jagt ein Numenera Energie aus einem Fenster.
 
-Ein Frau kommt näher. "Willkommen in der Zuflucht des Volkes, Abgesandter", sagt sie. "Ich bin die Sprecherin. Wir müssen in deiner Stadt andocken - wir brauchen dringend Heilung wie diese Stummen zeigen." {[A] SOUND: Crystal explosion.}</DefaultText>
+Ein Frau kommt näher. „Willkommen in der Zuflucht des Volkes, Abgesandter“, sagt sie. „Ich bin die Sprecherin. Wir müssen in deiner Stadt andocken - wir brauchen dringend Heilung wie diese Stummen zeigen.“ {[A] SOUND: Crystal explosion.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,17 +243,17 @@ Ein Frau kommt näher. "Willkommen in der Zuflucht des Volkes, Abgesandter", sag
 
 Die Halle hat nur wenig Interessantes zu bieten, außer einer großen Numenera, die Energie aus einem Fenster strömen lässt, die ein Kraftfeld am Kopf des Wales speist.
 
-Die Anführerin der Verteidiger spricht dich mit einem seltsamen Akzent an. "Willkommen in der Zuflucht des Volkes, Abgesandter", sagt sie sanft. "Ich spreche für das Volk. Wir müssen in deiner Stadt andocken - wir brauchen dringend Heilung wie du sicher bemerkt hast, als du diesen Stummen gegenüber standst. Wir bitten um deine Hilfe in diesen schweren Zeiten."</DefaultText>
+Die Anführerin der Verteidiger spricht dich mit einem seltsamen Akzent an. „Willkommen in der Zuflucht des Volkes, Abgesandter“, sagt sie sanft. „Ich spreche für das Volk. Wir müssen in deiner Stadt andocken - wir brauchen dringend Heilung wie du sicher bemerkt hast, als du diesen Stummen gegenüber standst. Wir bitten um deine Hilfe in diesen schweren Zeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Wer seid ihr?"</DefaultText>
+      <DefaultText>„Wer seid ihr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Vergiss die Heilung. Wir zerstören diesen Wal, wenn ihr nicht auf der Stelle umkehrt. Eure Plage wird Sagus-Klippen nicht erreichen."</DefaultText>
+      <DefaultText>„Vergiss die Heilung. Wir zerstören diesen Wal, wenn ihr nicht auf der Stelle umkehrt. Eure Plage wird Sagus-Klippen nicht erreichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,12 +263,12 @@ Die Anführerin der Verteidiger spricht dich mit einem seltsamen Akzent an. "Wil
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Kein Gesetz und keine anständige Person würde so ein Verbrechen gegen ein Kind erlauben."</DefaultText>
+      <DefaultText>„Kein Gesetz und keine anständige Person würde so ein Verbrechen gegen ein Kind erlauben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Nun gut. Das Überleben deines Volkes ist viel wichtiger als das Leben des Jungen."</DefaultText>
+      <DefaultText>„Nun gut. Das Überleben deines Volkes ist viel wichtiger als das Leben des Jungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -283,7 +283,7 @@ Die Anführerin der Verteidiger spricht dich mit einem seltsamen Akzent an. "Wil
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ich brauche zuerst Heilung."</DefaultText>
+      <DefaultText>„Ich brauche zuerst Heilung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,7 +304,7 @@ Das Energieband, das vorher von der Maschine durch das Fenster zur entfernten S�
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich kann euch nicht leben lassen, sonst warnt ihr den Walsänger."</DefaultText>
+      <DefaultText>„Ich kann euch nicht leben lassen, sonst warnt ihr den Walsänger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,7 +320,7 @@ Nachdem deine Arbeit getan ist, verlässt du das Heckkastell und machst dich auf
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Deine Halskette summt und eine Stimme warnt: "Mach schnell. Der Wal ist in die Bucht geschwommen." Du hörst auf sein Kommando.
+      <DefaultText>Deine Halskette summt und eine Stimme warnt: „Mach schnell. Der Wal ist in die Bucht geschwommen.“ Du hörst auf sein Kommando.
 
 Während du dich durch die engen Wege und Gassen bewegst, durchbrechen schwache Geräusche die Stille: Schritte und schweres Atmen. Mit einem wachen Auge und so leise wie möglich gehst du weiter, und bleibst so gut es geht außer Sicht.</DefaultText>
       <FemaleText />
@@ -355,43 +355,43 @@ Die ganze Zeit sitzt der Geschenkte da, sanftmütig. Es gibt keinen Grund, ihn z
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Die Sprecherin kommt wieder auf die Beine und klopft sich die Knie ab. "Ich habe nichts gegen jene, die für deine Stadt sprechen. Wir taten das hier auch, um die Nicht-Infizierten innerhalb dieser Mauern zu schützten."
+      <DefaultText>Die Sprecherin kommt wieder auf die Beine und klopft sich die Knie ab. „Ich habe nichts gegen jene, die für deine Stadt sprechen. Wir taten das hier auch, um die Nicht-Infizierten innerhalb dieser Mauern zu schützten.“
 
-"Aber wir können von hier aus den Kurs nicht ändern." Sie zeigt auf das Fenster, durch das das Numenera Energie sendet. "Der Walsänger führt den Wal von dessen Kopf aus. Er muss gegen die Plage geschützt werden - verliert er seine Stimme, gibt es niemanden mehr, der uns steuern kann." 
+„Aber wir können von hier aus den Kurs nicht ändern.“ Sie zeigt auf das Fenster, durch das das Numenera Energie sendet. „Der Walsänger führt den Wal von dessen Kopf aus. Er muss gegen die Plage geschützt werden - verliert er seine Stimme, gibt es niemanden mehr, der uns steuern kann.“ 
 
-Ein grimmiges, falsches Lächeln teilt ihr Gesicht. "Aber es gibt einen Weg. Ein Geschenkter kam zu uns, mit ihm kann der Heiler eine Schutzimpfung gegen den Stillen Tod zubereiten. Das hat seinen Preis, einen den unsere Stadt uns zahlen lässt."</DefaultText>
+Ein grimmiges, falsches Lächeln teilt ihr Gesicht. „Aber es gibt einen Weg. Ein Geschenkter kam zu uns, mit ihm kann der Heiler eine Schutzimpfung gegen den Stillen Tod zubereiten. Das hat seinen Preis, einen den unsere Stadt uns zahlen lässt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>Sie zeigt auf einen Jungen, der in der Nähe kauert und ruft ihn zu sich. 
 
-"Der Geschenkte", sagt sie. "Der Einzige, der erkrankt ist und verstummte, der aber nicht wahnsinnig wurde." Sie streichelt ihm den Kopf. "Aus der Flüssigkeit in seinem Rückenmark wird der Heiler einen Schutz gegen den Tod dekantieren." Sie deutet ihm, sich hinzusetzen. "Keine Heilung. Und auch nur für höchstens 20 Impfungen." 
+„Der Geschenkte“, sagt sie. „Der Einzige, der erkrankt ist und verstummte, der aber nicht wahnsinnig wurde.“ Sie streichelt ihm den Kopf. „Aus der Flüssigkeit in seinem Rückenmark wird der Heiler einen Schutz gegen den Tod dekantieren.“ Sie deutet ihm, sich hinzusetzen. „Keine Heilung. Und auch nur für höchstens 20 Impfungen.“ 
 
 Du zählst mehr Personen, die in der Halle sind.
 
-"Mit 20 Personen kann das Volk wieder wachsen, so wie wir es nach dem Sinken taten." Sie lächelt den Jungen an. "Der Geschenkte wird sich nicht widersetzen oder weinen. Er wird seinen Tod in aller Stille ertragen." 
+„Mit 20 Personen kann das Volk wieder wachsen, so wie wir es nach dem Sinken taten.“ Sie lächelt den Jungen an. „Der Geschenkte wird sich nicht widersetzen oder weinen. Er wird seinen Tod in aller Stille ertragen.“ 
 
-Sie nimmt dich an der Hand. "Wir werden den Schild ausschalten und du bringst dem Walsänger einen Impfstoff. Der Wal wird umkehren und wir alle werden überleben."</DefaultText>
+Sie nimmt dich an der Hand. „Wir werden den Schild ausschalten und du bringst dem Walsänger einen Impfstoff. Der Wal wird umkehren und wir alle werden überleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Mit ritueller Miene rollt die Sprecherin ihre Schultern zurück, dabei schimmern ihre Glitzergar-Schuppen. "Wir sind das Volk: Walfahrer und Wahrsager, Überlebende eines Landes, das im Meer für unsere Sünden untergegangenen ist.
+      <DefaultText>Mit ritueller Miene rollt die Sprecherin ihre Schultern zurück, dabei schimmern ihre Glitzergar-Schuppen. „Wir sind das Volk: Walfahrer und Wahrsager, Überlebende eines Landes, das im Meer für unsere Sünden untergegangenen ist.“
 
-Sie spricht weiter in einem etwas weniger formellen Ton. "Seit sieben Generationen befahren wir die Meere und halten uns obenauf dank des Könnens des Walsängers, wir wuchsen nie über die Grenzen dieses Zufluchtsorts hinaus -  er ist klein genug, dass hier jeder jeden kennt und alle ihren Platz kennen, von der Sprecherin bis zum Ährenleser, vom Zuschauer bis zum Lehrer."
+Sie spricht weiter in einem etwas weniger formellen Ton. „Seit sieben Generationen befahren wir die Meere und halten uns obenauf dank des Könnens des Walsängers, wir wuchsen nie über die Grenzen dieses Zufluchtsorts hinaus -  er ist klein genug, dass hier jeder jeden kennt und alle ihren Platz kennen, von der Sprecherin bis zum Ährenleser, vom Zuschauer bis zum Lehrer.“
 
-Sie deutet auf die Verteidiger, die in der Halle kauern. "Jetzt sind wir nur noch wenige. Vielleicht haben einige auf die alte, eigensinnige Art und Weise gesündigt und so den Zorn der Götter über uns gebracht. Sie zuckt die Achseln. "Aber wir sollen durchhalten."</DefaultText>
+Sie deutet auf die Verteidiger, die in der Halle kauern. „Jetzt sind wir nur noch wenige. Vielleicht haben einige auf die alte, eigensinnige Art und Weise gesündigt und so den Zorn der Götter über uns gebracht.“ Sie zuckt die Achseln. „Aber wir sollen durchhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Der Cheirurg schaut kurz von seiner Arbeit hoch, aber nur so lang, um mit den Kopf zu schütteln. "Zu viele Verletzte brauchen mich dringender."</DefaultText>
+      <DefaultText>Der Cheirurg schaut kurz von seiner Arbeit hoch, aber nur so lang, um mit den Kopf zu schütteln. „Zu viele Verletzte brauchen mich dringender.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Der Cheirurg nickt und winkt dich zu sich. "Nimm Platz", sagt er und deutet auf einen einfachen Holzstuhl.
+      <DefaultText>Der Cheirurg nickt und winkt dich zu sich. „Nimm Platz“, sagt er und deutet auf einen einfachen Holzstuhl.
 
 Während du dich etwas ausruhst, beginnt er seine Arbeit mit Cyphern, die viel einfacher sind; vielleicht Relikte aus einer besseren Zeit. Die Behandlung, die dir zuteil wird, ist schnell, aber wirkungsvoll und zumindest einige deiner Wunden sind verschwunden.
 
@@ -400,18 +400,18 @@ Während du dich etwas ausruhst, beginnt er seine Arbeit mit Cyphern, die viel e
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Die Sprecherin ist von deinem harten Vorgehen unbeeindruckt. "Das Gesetz ist, was ich sage, die Stimme des Volkswillen.  Ich sage, was gesagt werden muss, auch wenn es mancher nicht hören will. Der Geschenkte ist einer und das Volk sind viele, und so ist das nun mal."
+      <DefaultText>Die Sprecherin ist von deinem harten Vorgehen unbeeindruckt. „Das Gesetz ist, was ich sage, die Stimme des Volkswillen.  Ich sage, was gesagt werden muss, auch wenn es mancher nicht hören will. Der Geschenkte ist einer und das Volk sind viele, und so ist das nun mal.“
 
-Dann, als würde sie in deinem Gesicht etwas lesen, legt die Sprecherin ihre Hand auf die Schulter des Jungen. "Ich trug diesen Jungen in meinem Körper und gab ihm die Brust. Man gibt seinem Leben nicht mehr Gewicht als ich es tue, aber dem Volk gibt man viel weniger." Sie streichelt ihm die Haare und er schaut sie schweigend an.
+Dann, als würde sie in deinem Gesicht etwas lesen, legt die Sprecherin ihre Hand auf die Schulter des Jungen. „Ich trug diesen Jungen in meinem Körper und gab ihm die Brust. Man gibt seinem Leben nicht mehr Gewicht als ich es tue, aber dem Volk gibt man viel weniger.“ Sie streichelt ihm die Haare und er schaut sie schweigend an.
 
-"Eure Kanonen lassen uns keine andere Wahl."</DefaultText>
+„Eure Kanonen lassen uns keine andere Wahl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
       <DefaultText>Sie sprach die Wahrheit. Als der Junge auf dem Tisch des Cheirurgen liegt und die Cyphern sich in seinen Rücken bohren, gibt er keinen Laut von sich. Mit seinem Leben werden 23 gerettet, jedes davon mit einem amberfarbenen Versprechen, das in einem Injektionsfläschchen wabert.
 
-Der Heiler reicht dir ein Fläschchen, zusammen mit einer Cypher, die es in den Walsänger injizieren wird.  Die Sprecherin gibt dir eine Flagge - halb gelb, halb blau. "Schwenke mit der Fahne, wenn du den Schild erreicht hast. Wir öffnen dir einen Weg und der Sänger wird dich als Freund erkennen."
+Der Heiler reicht dir ein Fläschchen, zusammen mit einer Cypher, die es in den Walsänger injizieren wird.  Die Sprecherin gibt dir eine Flagge - halb gelb, halb blau. „Schwenke mit der Fahne, wenn du den Schild erreicht hast. Wir öffnen dir einen Weg und der Sänger wird dich als Freund erkennen.“
 
 Dann spricht das Volk ein Segenswort und du wirst zu einem Tunnel geführt - gegraben durch das Walfleisch - dadurch hast du einen einfachen Start. Dein Weg wird nicht einfach; das Dorf ist überlaufen. Aber das ist der einzige Weg.
 
@@ -422,26 +422,26 @@ Und so gehst du los.
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Wer sind diese ‚Stummen'?"</DefaultText>
+      <DefaultText>„Wer sind diese ‚Stummen'?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Drei unseres Volkes zogen einen verdorbenen Fang an Land - ein Wesen das teils Fisch teils Frau war, aber lang und kahlköpfig und mit Klauen, hochschwanger und ein leuchtendes Ding in den Krallen haltend, eine Art Meeres-Cypher. Sie schüttelt den Kopf. "So wurde mir das erzählt."
+      <DefaultText>„Drei unseres Volkes zogen einen verdorbenen Fang an Land - ein Wesen das teils Fisch teils Frau war, aber lang und kahlköpfig und mit Klauen, hochschwanger und ein leuchtendes Ding in den Krallen haltend, eine Art Meeres-Cypher. Sie schüttelt den Kopf. „So wurde mir das erzählt.“
 
-"Sie warfen das verdorbene Wesen wieder zurück ins Wasser, aber es muss irgendwie in ihren Geist eingedrungen sein. Die drei waren die ersten, die verstummt sind."
+„Sie warfen das verdorbene Wesen wieder zurück ins Wasser, aber es muss irgendwie in ihren Geist eingedrungen sein. Die drei waren die ersten, die verstummt sind.“
 
-Ihre Stimme ist leise aber kräftig als sie fortsetzt. "Die Plage breitete sich über die Straße der Fischer aus, dann über die Fischfabrik, und so nahm sie immer mehr Stimmen weg. Ihren Worten beraubt sind die Kranken von den Bindungen abgeschnitten, die unser Volk zusammenhalten. Verloren und allein werden sie wahnsinnig und zu Stummen, bis sie schließlich der Stille Tod holt.</DefaultText>
+Ihre Stimme ist leise aber kräftig als sie fortsetzt. „Die Plage breitete sich über die Straße der Fischer aus, dann über die Fischfabrik, und so nahm sie immer mehr Stimmen weg. Ihren Worten beraubt sind die Kranken von den Bindungen abgeschnitten, die unser Volk zusammenhalten. Verloren und allein werden sie wahnsinnig und zu Stummen, bis sie schließlich der Stille Tod holt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Es muss noch einen anderen Weg geben, wie man die Krankheit stoppen kann."</DefaultText>
+      <DefaultText>„Es muss noch einen anderen Weg geben, wie man die Krankheit stoppen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Einige Momente lang sagt die Sprecherin nichts mehr und als sie schließlich antwortet, ist ihre Stimme gefasst. "Du kannst mir schon vertrauen, ich würde niemals über das Töten eines Kindes so leicht reden, wenn es einen besseren Weg gäbe."</DefaultText>
+      <DefaultText>Einige Momente lang sagt die Sprecherin nichts mehr und als sie schließlich antwortet, ist ihre Stimme gefasst. „Du kannst mir schon vertrauen, ich würde niemals über das Töten eines Kindes so leicht reden, wenn es einen besseren Weg gäbe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -524,7 +524,7 @@ Du bist ihnen beim Sterben nur einen kleinen Schritt voraus.
       <ID>80</ID>
       <DefaultText>Du eilst zu der Stelle, an der du dein Dhau festgemacht hattest und steigst, den Jungen auf dem Rücken tragend, nach unten.  Mit einem geschickten Hieb trennst du das Seil zur Harpune und stößt dich vom Wal weg.
 
-Sofort summt deine Halskette wie wild und eine Stimme in deinem Schädel schreit: "Ich weiß nicht, was du auf dem Wal gemacht hast, aber du musst wissen, dass *niemand*, der auf ihm war, die Stadt erreichen kann."
+Sofort summt deine Halskette wie wild und eine Stimme in deinem Schädel schreit: „Ich weiß nicht, was du auf dem Wal gemacht hast, aber du musst wissen, dass *niemand*, der auf ihm war, die Stadt erreichen kann.“
 
 Es ist unmöglich, darauf zu antworten; die Halskette spricht, hört aber nicht zu. Du kannst nicht von dem Blut erzählen, das du und andere vergossen haben, um den Jungen zu retten.</DefaultText>
       <FemaleText />
@@ -537,7 +537,7 @@ In dem Pavillon steht ein untersetzter Mann, breitbrüstig und rötlich. Der Wal
 
 Hinter ihm ragen Tuben mit großen Öffnungen aus der Walhaut und dahinter ist eine große ebene Fläche, die Walstirn. Und nicht so weit entfernt siehst du die Klippen, die Kanonen und die Stadt.
 
-Die Stimme des Walsängers dröhnt, wenn er spricht, seine Worte sind aber akzentuiert wie die der Sprecherin. "Ich kenne dich nicht, Fremder, aber du hast dich gegen die Stummen durchgesetzt und kommst mit dem Segen der Sprecherin. Ich höre."
+Die Stimme des Walsängers dröhnt, wenn er spricht, seine Worte sind aber akzentuiert wie die der Sprecherin. „Ich kenne dich nicht, Fremder, aber du hast dich gegen die Stummen durchgesetzt und kommst mit dem Segen der Sprecherin. Ich höre.“
 
 {ART: Howdah.}</DefaultText>
       <FemaleText />
@@ -548,7 +548,7 @@ Die Stimme des Walsängers dröhnt, wenn er spricht, seine Worte sind aber akzen
 
 Hinter ihm ragen Bronchien mit großen Öffnungen aus der Walhaut und dahinter ist eine große ebene Fläche, die Walstirn. Und nicht so weit entfernt siehst du die Klippen, die Kanonen und die Stadt.
 
-Die Stimme des Walsängers dröhnt, wenn er spricht, seine Worte sind aber akzentuiert wie die der Sprecherin." Ich kenne dich nicht, Fremder, und mich schaudert zu sehen, wie du gekommen bist. Was willst du?"</DefaultText>
+Die Stimme des Walsängers dröhnt, wenn er spricht, seine Worte sind aber akzentuiert wie die der Sprecherin.“ Ich kenne dich nicht, Fremder, und mich schaudert zu sehen, wie du gekommen bist. Was willst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -558,21 +558,21 @@ Die Stimme des Walsängers dröhnt, wenn er spricht, seine Worte sind aber akzen
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Auf den Jungen starrend, der halb verborgen hinter dir ist, fügt er hinzu: "Es gibt mir kein gutes Gefühl, wenn ich den Sohn der Sprecherin an deiner Seite sehe."</DefaultText>
+      <DefaultText>Auf den Jungen starrend, der halb verborgen hinter dir ist, fügt er hinzu: „Es gibt mir kein gutes Gefühl, wenn ich den Sohn der Sprecherin an deiner Seite sehe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>Du rennst den Walkopf hinunter und springst in deine Dhau. Mit einem geschickten Hieb trennst du das Seil zur Harpune. Wenige Augenblicke später verschwindet der Wal in der Ferne. Was immer für ein Schicksal das Volk und die Stummen erwartet, es wird auf See ausgefochten, weit weg von der Stadt, zu deren Schutz du entsandt wurdest. Als du aus seinem Schatten kommst, verwandeln sich die indigoblauen Wellen in azurblau.
 
-Deine Halskette zittert und die Stimme kehrt zurück: "Gut gemacht. Sauber gemacht. Richtig gemacht." Dann, Stille.
+Deine Halskette zittert und die Stimme kehrt zurück: „Gut gemacht. Sauber gemacht. Richtig gemacht.“ Dann, Stille.
 
 Der Wind trägt dich nach Hause zurück. Du hast keine Lust, dich nach dem verschwindenden Wal mit dem sterbenden Dorf auf dem Rücken noch einmal umzudrehen, denn vor dir siehst du die wunderbare Stadt Sagus-Klippen, ihre Gebäude und die Menschen, die langsam in Sichtnähe kommen. Sie sind in Sicherheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"100.000 Menschen leben in Sagus-Klippen. So muss es sein." Wirf den Jungen über Bord und komm nach Hause.</DefaultText>
+      <DefaultText>„100.000 Menschen leben in Sagus-Klippen. So muss es sein.“ Wirf den Jungen über Bord und komm nach Hause.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -630,7 +630,7 @@ Auch die Stummen werden dich nicht mehr wiedersehen. Dieselben Hütten, die die 
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Wie steuerst du den Wal?"</DefaultText>
+      <DefaultText>„Wie steuerst du den Wal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -655,16 +655,16 @@ Auch die Stummen werden dich nicht mehr wiedersehen. Dieselben Hütten, die die 
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Der Walsänger zeigt mit einer Hand auf die trompeten-artigen bronzenen Tuben, die aus der Haut des Wals wachsen. "Wenn ich singe, übertragen die Tuben mein Lied in ihr Gehirn. Die Nerven werden stimuliert, als wäre meine Stimme die ihre. Was ich singe, muss sie tun."
+      <DefaultText>Der Walsänger zeigt mit einer Hand auf die trompeten-artigen bronzenen Tuben, die aus der Haut des Wals wachsen. „Wenn ich singe, übertragen die Tuben mein Lied in ihr Gehirn. Die Nerven werden stimuliert, als wäre meine Stimme die ihre. Was ich singe, muss sie tun.“
 
-Er kniet hin und legt eine Hand auf den riesigen Kopf unter ihm. "Es ist eine Pflicht und zugleich Ehre, sich mit dem Verstand der Großen zu vereinen. Ich tröste sie, wenn sie sich allein fühlt und halte sie zurück, wenn die Männchen ihre Paarungsschreie durchs Meer brüllen. So habe ich und viele Sänger vor mir die Zuflucht des Volkes vor dem Versinken im Meer bewahrt."</DefaultText>
+Er kniet hin und legt eine Hand auf den riesigen Kopf unter ihm. „Es ist eine Pflicht und zugleich Ehre, sich mit dem Verstand der Großen zu vereinen. Ich tröste sie, wenn sie sich allein fühlt und halte sie zurück, wenn die Männchen ihre Paarungsschreie durchs Meer brüllen. So habe ich und viele Sänger vor mir die Zuflucht des Volkes vor dem Versinken im Meer bewahrt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
       <DefaultText>Du erklärst eilig, was dir der Heiler mitgab und gibst dem Walsänger den Impfstoff. Er sticht mit der Nadel in seine Haut und vermengt das Serum mit seinem Blut.
 
-Durch die Injektion tritt keine Veränderung oder Verwunderung ein: hinter dieser Behandlung steckt keine Esoterie, sondern nur das Leben eines Kindes. Immerhin nickt der Walsänger und bedankt sich. "Du hast mein Lied abgesichert und somit die Zuflucht."
+Durch die Injektion tritt keine Veränderung oder Verwunderung ein: hinter dieser Behandlung steckt keine Esoterie, sondern nur das Leben eines Kindes. Immerhin nickt der Walsänger und bedankt sich. „Du hast mein Lied abgesichert und somit die Zuflucht.“
 
 {[B] SOUND: High-tech auto-injector sound sound, maybe more of a hiss sound than anything, like the injectors on Babylon 5.}</DefaultText>
       <FemaleText />
@@ -705,9 +705,9 @@ Im Vertrauen auf die Flagge der Sprecherin und der Wahrheit deiner Worte, nickt 
 
 Es ist ein unheimliches Lied, das er singt und gleichzeitig ist es schmerzhaft intim. Auf der Stelle beginnt der Wal, sich zu drehen und steuert seine Masse weg von der Stadt und zurück ins offene Meer. Und dann endet das Lied und der Walsänger gönnt sich einen kräftigen Schluck aus seiner Trinkflasche am Gürtel.
 
-"Es ist erledigt."
+„Es ist erledigt.“
 
-Sekunden später summt die Halskette und eine Stimme flüstert zu dir allein: "Lass ihn nicht umdrehen."
+Sekunden später summt die Halskette und eine Stimme flüstert zu dir allein: „Lass ihn nicht umdrehen.“
 
 {[A] SOUND: The Whalesinger's song.  I'm not exactly sure how it should sound.  One idea I had was overtone singing in this style: https://youtu.be/7zZainT9v6Q?t=69
 It's not exactly "heart-achingly intimate" but I do think it hits a lot of the right concepts (otherworldly, plausibly like a whale song, possible for a human to produce, etc.).}</DefaultText>
@@ -726,12 +726,12 @@ Glücklicherweise ist der Weg von der Sänfte zu deiner Dhau kurz und frei von F
       <ID>115</ID>
       <DefaultText>Die Augen des Sängers verengen sich ein wenig. Auch wenn er viel Zeit seines Lebens nur damit verbrachte, einen Wal zu betören, er ist ganz sicher nicht dumm. 
 
-"Die Sprecherin wies mich an, unsere Zuflucht zu dieser Stadt zu führen, von wo wir uns ein Heilmittel gegen den Stillen Tod erhoffen. Ich kann jetzt nicht umkehren und das Volk ohne Beistand lassen." Er blickt auf dein Schwert und fügt hinzu: "Welchen Preis auch immer ich persönlich dafür zahlen muss."</DefaultText>
+„Die Sprecherin wies mich an, unsere Zuflucht zu dieser Stadt zu führen, von wo wir uns ein Heilmittel gegen den Stillen Tod erhoffen. Ich kann jetzt nicht umkehren und das Volk ohne Beistand lassen.“ Er blickt auf dein Schwert und fügt hinzu: „Welchen Preis auch immer ich persönlich dafür zahlen muss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Die Kanonen unmittelbar vor uns werden den Wal zerstören, es sei denn, du änderst noch den Kurs weg von Sagus-Klippen."</DefaultText>
+      <DefaultText>„Die Kanonen unmittelbar vor uns werden den Wal zerstören, es sei denn, du änderst noch den Kurs weg von Sagus-Klippen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -743,41 +743,41 @@ Glücklicherweise ist der Weg von der Sänfte zu deiner Dhau kurz und frei von F
       <ID>122</ID>
       <DefaultText>Der Walsänger schüttelt den Kopf, aus Trauer, nicht aus Dummheit. 
 
-"Die Sprecherin wies mich an, unsere Zuflucht zu dieser Stadt zu führen, von wo wir uns ein Heilmittel gegen den Stillen Tod erhoffen. Ich kann jetzt nicht umkehren und das Volk ohne Beistand lassen. Das schulde ich meinem Volk."
+„Die Sprecherin wies mich an, unsere Zuflucht zu dieser Stadt zu führen, von wo wir uns ein Heilmittel gegen den Stillen Tod erhoffen. Ich kann jetzt nicht umkehren und das Volk ohne Beistand lassen. Das schulde ich meinem Volk.“
 
-Er blickt auf dein Schwert und fügt hinzu: "Welchen Preis auch immer ich persönlich dafür zahlen muss. Welchen Preis auch immer die anderen schon zahlen mussten."</DefaultText>
+Er blickt auf dein Schwert und fügt hinzu: „Welchen Preis auch immer ich persönlich dafür zahlen muss. Welchen Preis auch immer die anderen schon zahlen mussten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Du darfst eure Plage nicht nach Sagus-Klippen bringen. Dort leben 100.000 Menschen. Lass den Wal wenden - es ist zum Besten, für beide Völker."</DefaultText>
+      <DefaultText>„Du darfst eure Plage nicht nach Sagus-Klippen bringen. Dort leben 100.000 Menschen. Lass den Wal wenden - es ist zum Besten, für beide Völker.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Alle in der Zuflucht des Volkes werden den Preis zahlen, wenn die Kanonen den Wal vernichten."</DefaultText>
+      <DefaultText>„Alle in der Zuflucht des Volkes werden den Preis zahlen, wenn die Kanonen den Wal vernichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Die Sprecherin wollte diesen Jungen foltern und töten, nur weil eine Chance bestand, dass dies die Ausweitung der Plage verhindert. Sie hat damit jegliche Autorität verspielt, die sie über dich hatte."</DefaultText>
+      <DefaultText>„Die Sprecherin wollte diesen Jungen foltern und töten, nur weil eine Chance bestand, dass dies die Ausweitung der Plage verhindert. Sie hat damit jegliche Autorität verspielt, die sie über dich hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Ich nehme dich mit, wenn du es tust! Es wäre nur gerecht, wenn du überlebst."</DefaultText>
+      <DefaultText>„Ich nehme dich mit, wenn du es tust! Es wäre nur gerecht, wenn du überlebst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Der Walsänger schüttelt seinen großen Kopf. "Selbst wenn es 100 Millionen Menschen wären, den Wal würde ich nicht umdrehen lassen. Ich gehorche meinem Volk, so wie du deiner Stadt."
+      <DefaultText>Der Walsänger schüttelt seinen großen Kopf. „Selbst wenn es 100 Millionen Menschen wären, den Wal würde ich nicht umdrehen lassen. Ich gehorche meinem Volk, so wie du deiner Stadt.“
 
-Er scheint sich gegen deinen Angriff, mit dem er fest rechnet, zu wappnen. "Mach jetzt, was du tun musst."</DefaultText>
+Er scheint sich gegen deinen Angriff, mit dem er fest rechnet, zu wappnen. „Mach jetzt, was du tun musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Sei kein Dummkopf!"</DefaultText>
+      <DefaultText>„Sei kein Dummkopf!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -792,22 +792,22 @@ Er scheint sich gegen deinen Angriff, mit dem er fest rechnet, zu wappnen. "Mach
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Seine Stimme poltert als er antwortet. "Ich habe nur ein Lied, und das ist nur für hier. Würde ich gehen, wäre ich nicht mehr der Walsänger. Du bietest mir also nicht die Flucht vor der Vernichtung."
+      <DefaultText>Seine Stimme poltert als er antwortet. „Ich habe nur ein Lied, und das ist nur für hier. Würde ich gehen, wäre ich nicht mehr der Walsänger. Du bietest mir also nicht die Flucht vor der Vernichtung.“
 
-Der Walsänger scheint sich gegen deinen Angriff, mit dem er fest rechnet, zu wappnen. "Mach jetzt, was du tun musst."</DefaultText>
+Der Walsänger scheint sich gegen deinen Angriff, mit dem er fest rechnet, zu wappnen. „Mach jetzt, was du tun musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Der Walsänger nicht langsam. "Deine Worte klingen ehrlich. Ich weiß nicht, was du getan hast oder was die Plage anrichten wird, aber ein unsicheres Meer ist allemal besser als gewisse Untiefen."
+      <DefaultText>Der Walsänger nicht langsam. „Deine Worte klingen ehrlich. Ich weiß nicht, was du getan hast oder was die Plage anrichten wird, aber ein unsicheres Meer ist allemal besser als gewisse Untiefen.“
 
 Danach dreht er sich um zu den Tuben, die aus dem Walfleisch nach oben ragen und macht sich an sein Handwerk.
 
 Es ist ein unheimliches Lied, das er singt und gleichzeitig ist es schmerzhaft intim. Auf der Stelle beginnt der Wal, sich zu drehen und steuert seine Masse weg von der Stadt und zurück ins offene Meer. Und dann endet das Lied und der Walsänger gönnt sich einen kräftigen Schluck aus seiner Trinkflasche am Gürtel.
 
-"Es ist erledigt."
+„Es ist erledigt.“
 
-Sekunden später summt die Halskette und eine Stimme flüstert zu dir allein: "Lass ihn nicht umdrehen."
+Sekunden später summt die Halskette und eine Stimme flüstert zu dir allein: „Lass ihn nicht umdrehen.“
 
 {[A] SOUND: The Whalesinger's song.  I'm not exactly sure how it should sound.  One idea I had was overtone singing in this style: https://youtu.be/7zZainT9v6Q?t=69
 It's not exactly "heart-achingly intimate" but I do think it hits a lot of the right concepts (otherworldly, plausibly like a whale song, possible for a human to produce, etc.).}</DefaultText>
@@ -815,9 +815,9 @@ It's not exactly "heart-achingly intimate" but I do think it hits a lot of the r
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Der Walsänger zuckt mit seinen kräftigen Schultern. "Das mag so sein oder auch nicht. Ich kann den Wahrheitsgehalt deiner Worte nicht beurteilen. Aber ich verlasse mich auf das, was die Sprecherin sagte. Daher werde ich den Wal nicht wenden lassen."
+      <DefaultText>Der Walsänger zuckt mit seinen kräftigen Schultern. „Das mag so sein oder auch nicht. Ich kann den Wahrheitsgehalt deiner Worte nicht beurteilen. Aber ich verlasse mich auf das, was die Sprecherin sagte. Daher werde ich den Wal nicht wenden lassen.“
 
-Er scheint sich gegen deinen Angriff, mit dem er fest rechnet, zu wappnen. "Mach jetzt, was du tun musst."</DefaultText>
+Er scheint sich gegen deinen Angriff, mit dem er fest rechnet, zu wappnen. „Mach jetzt, was du tun musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -893,7 +893,7 @@ Du hast vielleicht versagt, aber die Plage der Zuflucht wird niemals die Stadt e
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Plötzlich summt deine Halskette und eine Stimme warnt: "Du hast zu lang gebraucht. Viel zu lang."
+      <DefaultText>Plötzlich summt deine Halskette und eine Stimme warnt: „Du hast zu lang gebraucht. Viel zu lang.“
 
 Kaum sind die Worte ausgesprochen, eröffnen auch schon die Kanonen auf den Klippen das Feuer. Du spürst keinen Schmerz, nur einen Augenblick der Feststellung und dann Vernichtung. Weder von dir noch vom Wal wird es eine Spur geben, die der Stadt noch einmal Ärger machen könnte.
 
@@ -936,21 +936,21 @@ Kaum sind die Worte ausgesprochen, eröffnen auch schon die Kanonen auf den Klip
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Was ist, wenn die Sache schiefgeht? Dann hast du den einzigen deines Volkes getötet, der gegen die Krankheit immun ist!"</DefaultText>
+      <DefaultText>„Was ist, wenn die Sache schiefgeht? Dann hast du den einzigen deines Volkes getötet, der gegen die Krankheit immun ist!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Die Sprecherin schüttelt den Kopf. "Wir sind keine Dummköpfe, Fremder, und wir haben unsere wenigen Optionen lang abgewägt. Selbst wenn der Geschenkte überlebt, wird das Volk sterben; er vermag nicht unsere Geschichten zu erzählen und unsere Gebräuche am Leben zu erhalten."
+      <DefaultText>Die Sprecherin schüttelt den Kopf. „Wir sind keine Dummköpfe, Fremder, und wir haben unsere wenigen Optionen lang abgewägt. Selbst wenn der Geschenkte überlebt, wird das Volk sterben; er vermag nicht unsere Geschichten zu erzählen und unsere Gebräuche am Leben zu erhalten.“
 
-Sie nickt zum Cheirurg. "Außerdem weiß der Heiler genau, was er tut. Er hat gesagt, dass er nicht versagen wird und ich wiederhole seine Worte voller Vertrauen."</DefaultText>
+Sie nickt zum Cheirurg. „Außerdem weiß der Heiler genau, was er tut. Er hat gesagt, dass er nicht versagen wird und ich wiederhole seine Worte voller Vertrauen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
       <DefaultText>Du rennst den Walkopf hinunter und springst in deine Dhau. Mit einem geschickten Hieb trennst du das Seil zur Harpune. Wenige Augenblicke später verschwindet der Wal bereits in der Ferne. Was immer für ein Schicksal das Volk und die Stummen erwartet, es wird auf See ausgefochten, weit weg von der Stadt, zu deren Schutz du entsandt wurdest. Als du aus seinem Schatten kommst, verwandeln sich die indigoblauen Wellen in azurblau.
 
-Deine Halskette zittert und die Stimme kehrt zurück: "Gut gemacht. Sauber gemacht. Richtig gemacht." Dann, Stille.
+Deine Halskette zittert und die Stimme kehrt zurück: „Gut gemacht. Sauber gemacht. Richtig gemacht.“ Dann, Stille.
 
 Der Wind trägt dich nach Hause zurück. Du hast keine Lust, dich nach dem verschwindenden Wal mit dem sterbenden Dorf auf dem Rücken noch einmal umzudrehen, denn vor dir siehst du die wunderbare Stadt Sagus-Klippen, ihre Gebäude und die Menschen, die langsam in Sichtnähe kommen.
 
@@ -1013,11 +1013,11 @@ Deine Sinne kehren zurück und es zeigt sich, dass deine Bemühungen nichts gebr
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>Du entscheidest, dass es zu viel ist, alles zu lesen, öffnest das Buch und blätterst auf eine zufällige Seite. Mit akribischer Schrift ist ein Datum eingetragen und darunter steht: "Drei, für das übergeordnete Wohl." Du blätterst zu einer anderen Seite und auch das steht nur ein Datum und ein knapper Eintrag: "Einer, für das übergeordnete Wohl. Einer, gezwungenermaßen." 
+      <DefaultText>Du entscheidest, dass es zu viel ist, alles zu lesen, öffnest das Buch und blätterst auf eine zufällige Seite. Mit akribischer Schrift ist ein Datum eingetragen und darunter steht: „Drei, für das übergeordnete Wohl.“ Du blätterst zu einer anderen Seite und auch das steht nur ein Datum und ein knapper Eintrag: „Einer, für das übergeordnete Wohl. Einer, gezwungenermaßen.“ 
 
 Als du weiterblätterst, ändern sich immer nur die Daten und die Anzahl.
 
-Jegliches Nachdenken wird vom Summen deiner Halskette und einer scharfen Stimme in deinem Kopf jäh unterbrochen: "Zögere nicht."
+Jegliches Nachdenken wird vom Summen deiner Halskette und einer scharfen Stimme in deinem Kopf jäh unterbrochen: „Zögere nicht.“
 
 {[C] SOUND: Opening a book.}</DefaultText>
       <FemaleText />
@@ -1041,9 +1041,9 @@ Während du kämpfst, scheint Sagus-Klippen immer größer zu werden und näher 
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Die Stahlhalskette, die um deinen Hals liegt, summt und eine Stimme flüstert in deinem Kopf: "Beeilung. Unsere seewärts gerichteten Batterien können den Wal zu Staub werden lassen, wenn es sein muss, aber wir möchten uns die Munition für dunklere Tage aufheben."
+      <DefaultText>Die Stahlhalskette, die um deinen Hals liegt, summt und eine Stimme flüstert in deinem Kopf: „Beeilung. Unsere seewärts gerichteten Batterien können den Wal zu Staub werden lassen, wenn es sein muss, aber wir möchten uns die Munition für dunklere Tage aufheben.“
 
-Kurz danach summt die Halskette erneut und die Stimme fügt hinzu: "Die Ansteckungsgefahr zu eliminieren ist Sache von Ärzten und kein Arzt würde eine Säge nehmen, wenn auch ein Skalpell ausreicht. Geh los und schneide durch, was sein muss und sorge dafür, dass die Krankheit nicht unsere Stadt erreicht." Schließlich sagt die Stimme: "Und mach dir keine Gedanken, deinem Körper kann die Krankheit nichts anhaben." {VOICE: I'd add a sneer on "contagion."}
+Kurz danach summt die Halskette erneut und die Stimme fügt hinzu: „Die Ansteckungsgefahr zu eliminieren ist Sache von Ärzten und kein Arzt würde eine Säge nehmen, wenn auch ein Skalpell ausreicht. Geh los und schneide durch, was sein muss und sorge dafür, dass die Krankheit nicht unsere Stadt erreicht.“ Schließlich sagt die Stimme: „Und mach dir keine Gedanken, deinem Körper kann die Krankheit nichts anhaben.“ {VOICE: I'd add a sneer on "contagion."}
 
 Die Halskette verstummt. Die ledrige Walseite ragt über dir auf wie eine lebendige Klippe. Irgendwo da oben sind die Männer und Frauen, die den Tod in deine Heimat tragen.</DefaultText>
       <FemaleText />
@@ -1060,16 +1060,16 @@ Die Halskette verstummt. Die ledrige Walseite ragt über dir auf wie eine lebend
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Warum kommunizieren die Stummen nicht einfach schriftlich?"</DefaultText>
+      <DefaultText>„Warum kommunizieren die Stummen nicht einfach schriftlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Viele des Volkes zucken angewidert zurück, nur die Sprecherin bleibt gelassen. "Natürlich kann ein Fremder unsere Art der Weisheit nicht kennen." Sie macht eine Bewegung, die deutlich macht, was sie über deine Ignoranz denkt.
+      <DefaultText>Viele des Volkes zucken angewidert zurück, nur die Sprecherin bleibt gelassen. „Natürlich kann ein Fremder unsere Art der Weisheit nicht kennen.“ Sie macht eine Bewegung, die deutlich macht, was sie über deine Ignoranz denkt.
 
-"Eine gesprochene Lüge hält nur einen Atemzug lang und jene, die sie hören, können mit der Wahrheit antworten. Aber eine geschriebene Lüge hat noch Bestand, wenn jene nicht mehr Leben, die wussten, dass es eine solche ist und so können sie später eine gesamte Rasse auf den Irrweg leiten."
+„Eine gesprochene Lüge hält nur einen Atemzug lang und jene, die sie hören, können mit der Wahrheit antworten. Aber eine geschriebene Lüge hat noch Bestand, wenn jene nicht mehr Leben, die wussten, dass es eine solche ist und so können sie später eine gesamte Rasse auf den Irrweg leiten.“
 
-Sie nickt entschlossen. "So sprach der Erste des Volkes, die das Sinken überlebt haben und seit dem leben wir nur nach deren Worten, frei von den Gefahren durch Stift und Papier."</DefaultText>
+Sie nickt entschlossen. „So sprach der Erste des Volkes, die das Sinken überlebt haben und seit dem leben wir nur nach deren Worten, frei von den Gefahren durch Stift und Papier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1084,23 +1084,23 @@ Sie nickt entschlossen. "So sprach der Erste des Volkes, die das Sinken überleb
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>Der Walsänger sieht den Jungen und seufzt. "Als ich jung war, wollten Seeräuber die Zuflucht des Volkes erobern. Ihre Boote hatten keine Chance, mit der Geschwindigkeit des Wals mitzuhalten und so suchten sie einen Weg, wie sie uns stoppen können: sie bauten kleine Lederflöße, auf denen sie Kinder als Geisel setzten und sie wie Minen im Meer vor uns verteilten. 
+      <DefaultText>Der Walsänger sieht den Jungen und seufzt. „Als ich jung war, wollten Seeräuber die Zuflucht des Volkes erobern. Ihre Boote hatten keine Chance, mit der Geschwindigkeit des Wals mitzuhalten und so suchten sie einen Weg, wie sie uns stoppen können: sie bauten kleine Lederflöße, auf denen sie Kinder als Geisel setzten und sie wie Minen im Meer vor uns verteilten.“
 
-Er streichelt die Tuben neben ihm. "Der Walsänger zu der Zeit war ein pflichtbewusster Mann, und unbeeindruckt von der List, pflügte er durch die Falle der Seeräuber. Wir ließen sie weit hinter uns."
+Er streichelt die Tuben neben ihm. „Der Walsänger zu der Zeit war ein pflichtbewusster Mann, und unbeeindruckt von der List, pflügte er durch die Falle der Seeräuber. Wir ließen sie weit hinter uns.“
 
-Mit einem traurigen Lächeln für den Jungen sagt er: "Die Sprecherin ist ebenfalls pflichtbewusst. Und weder sie noch ich werden abweichen.
+Mit einem traurigen Lächeln für den Jungen sagt er: „Die Sprecherin ist ebenfalls pflichtbewusst. Und weder sie noch ich werden abweichen.“
 
-Er scheint sich gegen deinen Angriff, mit dem er fest rechnet, zu wappnen. "Dann mach jetzt, was du tun musst."</DefaultText>
+Er scheint sich gegen deinen Angriff, mit dem er fest rechnet, zu wappnen. „Dann mach jetzt, was du tun musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Ich will deinen Leuten helfen, aber du musst von Sagus-Klippen abdrehen, sonst zerstören die Kanonen den Wal."</DefaultText>
+      <DefaultText>„Ich will deinen Leuten helfen, aber du musst von Sagus-Klippen abdrehen, sonst zerstören die Kanonen den Wal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Erzähl mir mehr über den Wal."</DefaultText>
+      <DefaultText>„Erzähl mir mehr über den Wal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1110,7 +1110,7 @@ Er scheint sich gegen deinen Angriff, mit dem er fest rechnet, zu wappnen. "Dann
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>Der Walsänger schüttelt seinen Kopf. "Jeder Walsänger lehrt seine Kunst einem Liedschüler, der dann dafür lebt, selbst Walsänger zu werden." Eine Traurigkeit huscht über sein Gesicht. "Auch wenn der Schüler tot ist, du bist keiner vom Volk und kannst daher nicht seinen Platz einnehmen."</DefaultText>
+      <DefaultText>Der Walsänger schüttelt seinen Kopf. „Jeder Walsänger lehrt seine Kunst einem Liedschüler, der dann dafür lebt, selbst Walsänger zu werden.“ Eine Traurigkeit huscht über sein Gesicht. „Auch wenn der Schüler tot ist, du bist keiner vom Volk und kannst daher nicht seinen Platz einnehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1177,31 +1177,31 @@ Bevor noch mehr Stumme sich einfinden, gehst du schnell weiter.
       <ID>200</ID>
       <DefaultText>Die Sprecherin ist einen Moment lang sprachlos. Die Verteidiger schauen alle zu ihr und ihr Gesicht ist bleich vor Horror und Übelkeit. Mit sichtbarer Anstrengung beruhigt sie sich wieder.
 
-"Du hast gesprochen und ich habe es gehört." Sie geht auf ihre Knie nieder. "Dennoch will ich dich und deine weit bekannte Stadt noch einmal inständig bitten, uns in der Stunde der Not zu helfen. Das Leben des Volkes und das Schicksal der Zuflucht hängen von deinem Wort ab."
+„Du hast gesprochen und ich habe es gehört.“ Sie geht auf ihre Knie nieder. „Dennoch will ich dich und deine weit bekannte Stadt noch einmal inständig bitten, uns in der Stunde der Not zu helfen. Das Leben des Volkes und das Schicksal der Zuflucht hängen von deinem Wort ab.“
 
 In der Halle wird es in Erwartung deiner Antwort still.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"100.000 Menschen leben in Sagus-Klippen. Sie dürfen nicht einer solchen Gefahr ausgesetzt werden, um euer winziges Dorf zu retten."</DefaultText>
+      <DefaultText>„100.000 Menschen leben in Sagus-Klippen. Sie dürfen nicht einer solchen Gefahr ausgesetzt werden, um euer winziges Dorf zu retten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Wenn ich euch andocken lassen könnte, um euer Leute zu retten, würde ich es tun. Aber das habe nicht *ich* zu entscheiden. Die Entscheidung ist längst gefallen."</DefaultText>
+      <DefaultText>„Wenn ich euch andocken lassen könnte, um euer Leute zu retten, würde ich es tun. Aber das habe nicht *ich* zu entscheiden. Die Entscheidung ist längst gefallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Ich muss an meine Stadt und an euer Dorf denken. Ich werde alles tun, was ich kann, damit ihr nicht mein Volk in Gefahr bringt."</DefaultText>
+      <DefaultText>„Ich muss an meine Stadt und an euer Dorf denken. Ich werde alles tun, was ich kann, damit ihr nicht mein Volk in Gefahr bringt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
       <DefaultText>Du rennst den Walkopf hinunter und springst in deine Dhau. Mit einem geschickten Hieb trennst du das Seil zur Harpune. Wenige Augenblicke später verschwindet der Wal bereits in der Ferne. Was immer für ein Schicksal das Volk und die Stummen erwartet, es wird auf See ausgefochten, weit weg von der Stadt, zu deren Schutz du entsandt wurdest. Als du aus seinem Schatten kommst, verwandeln sich die indigoblauen Wellen in azurblau.
 
-Deine Halskette zittert und die Stimme kehrt zurück: "Du hättest tiefer schneiden müssen." Dann, Stille.
+Deine Halskette zittert und die Stimme kehrt zurück: „Du hättest tiefer schneiden müssen.“ Dann, Stille.
 
 Der Wind trägt dich nach Hause zurück. Du hast keine Lust, dich nach dem verschwindenden Wal mit dem sterbenden Dorf auf dem Rücken noch einmal umzudrehen, denn vor dir siehst du die wunderbare Stadt Sagus-Klippen, ihre Gebäude und die Menschen, die langsam in Sichtnähe kommen. Vorerst sind sie sicher.</DefaultText>
       <FemaleText />
