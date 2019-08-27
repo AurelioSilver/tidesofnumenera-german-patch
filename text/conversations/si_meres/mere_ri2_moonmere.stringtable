@@ -365,7 +365,7 @@
 
 Eine holografische Karte des Mondes schwebt an der hinteren Wand neben einer kleinen, leuchtenden Kapsel.
 
-Eine Stimme spricht wie aus der Luft. {This is the Specter's voice, but more formal than the friendly version the player meets in the Calm.}"Bist du sicher, dass diese Prozedur dir die endgültige Kontrolle über die Verstoßenen geben wird? Wenn du dich irrst, könnte die Kammer versagen – oder schlimmer noch, mit dir in ihr explodieren."
+Eine Stimme spricht wie aus der Luft. {This is the Specter's voice, but more formal than the friendly version the player meets in the Calm.}„Bist du sicher, dass diese Prozedur dir die endgültige Kontrolle über die Verstoßenen geben wird? Wenn du dich irrst, könnte die Kammer versagen – oder schlimmer noch, mit dir in ihr explodieren.“
 
 Die Stimme kommt dir bekannt vor, auch wenn dir das Gesicht dazu nicht einfällt.</DefaultText>
       <FemaleText />
@@ -377,22 +377,22 @@ Die Stimme kommt dir bekannt vor, auch wenn dir das Gesicht dazu nicht einfällt
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Wo bist du?"</DefaultText>
+      <DefaultText>„Wo bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Wovon redest du?"</DefaultText>
+      <DefaultText>„Wovon redest du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Natürlich bin ich mir sicher! Also los!"</DefaultText>
+      <DefaultText>„Natürlich bin ich mir sicher! Also los!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Wenn da unten etwas passieren sollte, signalisiere ich dir, zum nächsten Gefäß zu wechseln. Und wenn du nicht rechtzeitig rauskommst... hast du immer noch mich. Gelobt sei die Redundanz. Und nun mach es dir in der Kapsel bequem und wir stellen sicher, dass dieser Körper für uns funktioniert."
+      <DefaultText>„Wenn da unten etwas passieren sollte, signalisiere ich dir, zum nächsten Gefäß zu wechseln. Und wenn du nicht rechtzeitig rauskommst… hast du immer noch mich. Gelobt sei die Redundanz. Und nun mach es dir in der Kapsel bequem und wir stellen sicher, dass dieser Körper für uns funktioniert.“
 
 Du weißt jetzt, woher die Stimme kommt: Von dem Stab in deinen Händen, in dessen Kopf du eine geisterhaft leuchtende menschliche Gestalt sehen kannst.
 
@@ -401,33 +401,33 @@ Und damit hast du das Gesicht zu der Stimme und weißt, woher du sie kennst: Die
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Wenn da unten etwas passieren sollte, signalisiere ich dir, zum nächsten Gefäß zu wechseln. Und wenn du nicht rechtzeitig rauskommst... hast du immer noch mich. Gelobt sei die Redundanz. Und nun mach es dir in der Kapsel bequem und wir stellen sicher, dass dieser Körper für uns funktioniert."
+      <DefaultText>„Wenn da unten etwas passieren sollte, signalisiere ich dir, zum nächsten Gefäß zu wechseln. Und wenn du nicht rechtzeitig rauskommst… hast du immer noch mich. Gelobt sei die Redundanz. Und nun mach es dir in der Kapsel bequem und wir stellen sicher, dass dieser Körper für uns funktioniert.“
 
 Du weißt jetzt, woher die Stimme kommt: Von dem Stab in deinen Händen. Du siehst ihn dir genauer an und erkennst eine leuchtende, geisterhafte Gestalt – der holografische Berater aus dem anderen Lebensbild.
 
-Nein... dieser Berater sieht anders aus. Augmentiert. Er hat die geisterhafte, blau-dunstige Gestalt des Geistes. Es *ist* der Geist.</DefaultText>
+Nein… dieser Berater sieht anders aus. Augmentiert. Er hat die geisterhafte, blau-dunstige Gestalt des Geistes. Es *ist* der Geist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"An deiner Seite, wie immer. Ich beobachte. Protokolliere. Die Resonanzkammer ist in Sagus bereit. Wir müssen nur sicherstellen, dass dieser Körper als Katalysator taugt."</DefaultText>
+      <DefaultText>„An deiner Seite, wie immer. Ich beobachte. Protokolliere. Die Resonanzkammer ist in Sagus bereit. Wir müssen nur sicherstellen, dass dieser Körper als Katalysator taugt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Du hast mich die Berechnung durchführen lassen, schon vergessen? Ich sagte dir, dass es eine geringe Wahrscheinlichkeit gibt, dass die Kammer mit dir in ihr explodieren könnte, obwohl die Chancen dafür verschwindend gering sind... also wirklich. Das war doch erst gestern. Mir ist klar, dass du eine Menge um die Ohren hast, aber wir müssen konzentriert bleiben. Wir arbeiten bereits seit Jahren an dieser Sache. Seit Jahrhunderten. Die Resonanzkammer ist in Sagus bereit. Wir müssen nur sicherstellen, dass dieser Körper als Katalysator taugt."</DefaultText>
+      <DefaultText>„Du hast mich die Berechnung durchführen lassen, schon vergessen? Ich sagte dir, dass es eine geringe Wahrscheinlichkeit gibt, dass die Kammer mit dir in ihr explodieren könnte, obwohl die Chancen dafür verschwindend gering sind… also wirklich. Das war doch erst gestern. Mir ist klar, dass du eine Menge um die Ohren hast, aber wir müssen konzentriert bleiben. Wir arbeiten bereits seit Jahren an dieser Sache. Seit Jahrhunderten. Die Resonanzkammer ist in Sagus bereit. Wir müssen nur sicherstellen, dass dieser Körper als Katalysator taugt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Kein Grund zur Aufregung. Hast du vergessen, wen du vor dir hast? Beruhigen wir uns beide wieder. Ich weiß, dass das nicht leicht ist, aber wenn es funktioniert... haben wir den Kummer endgültig besiegt."
+      <DefaultText>„Kein Grund zur Aufregung. Hast du vergessen, wen du vor dir hast? Beruhigen wir uns beide wieder. Ich weiß, dass das nicht leicht ist, aber wenn es funktioniert… haben wir den Kummer endgültig besiegt.“
 
-"Mir ist klar, dass du eine Menge um die Ohren hast, aber wir müssen konzentriert bleiben. Wir arbeiten bereits seit Jahren an dieser Sache. Seit Jahrhunderten. Die Resonanzkammer ist in Sagus bereit. Wir müssen nur sicherstellen, dass dieser Körper als Katalysator taugt."</DefaultText>
+„Mir ist klar, dass du eine Menge um die Ohren hast, aber wir müssen konzentriert bleiben. Wir arbeiten bereits seit Jahren an dieser Sache. Seit Jahrhunderten. Die Resonanzkammer ist in Sagus bereit. Wir müssen nur sicherstellen, dass dieser Körper als Katalysator taugt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Ich kenne dich!"
+      <DefaultText>„Ich kenne dich!“
 
 {ADAM: I included the "I'm not TCG" branch here. We can delete it if necessary, but it does feel like a thing players would want to say}</DefaultText>
       <FemaleText />
@@ -439,12 +439,12 @@ Nein... dieser Berater sieht anders aus. Augmentiert. Er hat die geisterhafte, b
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Sag mir noch mal, wie der Prozess funktioniert."</DefaultText>
+      <DefaultText>„Sag mir noch mal, wie der Prozess funktioniert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Ich möchte noch mal über den Prozess sprechen."</DefaultText>
+      <DefaultText>„Ich möchte noch mal über den Prozess sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -454,7 +454,7 @@ Nein... dieser Berater sieht anders aus. Augmentiert. Er hat die geisterhafte, b
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Das will ich hoffen, nachdem du mich vor weniger als einer Woche von deinem eigenen Geist kopiert hast. Leg dich jetzt in die Kammer und ... wie fühlst du dich?"</DefaultText>
+      <DefaultText>„Das will ich hoffen, nachdem du mich vor weniger als einer Woche von deinem eigenen Geist kopiert hast. Leg dich jetzt in die Kammer und … wie fühlst du dich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -464,7 +464,7 @@ Nein... dieser Berater sieht anders aus. Augmentiert. Er hat die geisterhafte, b
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Wir führen die letzten Tests mit diesem Körper durch. Vollständige Scans, Untersuchungen, Gezeitenanpassung, falls nötig. Wir stellen sicher, dass sämtliche Parameter im Toleranzbereich liegen. Mach es dir in der Kapsel bequem und ich erledige den Rest."</DefaultText>
+      <DefaultText>„Wir führen die letzten Tests mit diesem Körper durch. Vollständige Scans, Untersuchungen, Gezeitenanpassung, falls nötig. Wir stellen sicher, dass sämtliche Parameter im Toleranzbereich liegen. Mach es dir in der Kapsel bequem und ich erledige den Rest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -478,7 +478,7 @@ Nein... dieser Berater sieht anders aus. Augmentiert. Er hat die geisterhafte, b
 
 Neben dem großen externen Bedienpanel schwebt stumm eine Reihe schwammiger scharlachroter Scheiben, die dich an überdimensionierte Blutplättchen oder gerinnenden Schorf über einer Wunde erinnern.
 
-Du holst tief Luft und steigst in die Kapsel. Der Stab in deiner Hand vibriert leicht und du spürst, wie du in Energien gebadet wirst. "Kein Grund zur Aufregung. Das ist alles innerhalb der normalen Parameter."
+Du holst tief Luft und steigst in die Kapsel. Der Stab in deiner Hand vibriert leicht und du spürst, wie du in Energien gebadet wirst. „Kein Grund zur Aufregung. Das ist alles innerhalb der normalen Parameter.“
 
 Die folgende kleine Explosion ist es dagegen bestimmt nicht. Plötzlich ertönen Sirenen.</DefaultText>
       <FemaleText />
@@ -487,13 +487,13 @@ Die folgende kleine Explosion ist es dagegen bestimmt nicht. Plötzlich ertönen
       <ID>94</ID>
       <DefaultText>Die Plättchen in deiner Nähe vibrieren wie verrückt und der Arm des deaktivierten Konstrukts beginnt, Funken zu sprühen.
 
-"Raus! Der Kummer wird dich vernichten!"
+„Raus! Der Kummer wird dich vernichten!“
 
 Dein Todfeind erscheint in dem großen Saal. Seine Form ist zunächst noch vage und durchsichtig, doch stoßweise gewinnt er an Festigkeit. Die internen Verteidigungsmechanismen des Mondes halten ihn ein wenig auf, aber sie werden ihn nicht dauerhaft draußen halten können. Vor deinen Augen windet sich der Kummer durch eine weitere Verteidigungslinie und wird zuckend immer realer und schrecklicher.
 
 Sein Fokus richtet sich auf dich. Er windet und krümmt sich im brennenden Verlangen, dich zu vernichten.
 
-"Flieh in einen anderen Körper! Wir können immer einen neuen Katalysator bauen. Los!"</DefaultText>
+„Flieh in einen anderen Körper! Wir können immer einen neuen Katalysator bauen. Los!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -503,7 +503,7 @@ Sein Fokus richtet sich auf dich. Er windet und krümmt sich im brennenden Verla
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Wie entfliehe ich diesem Körper?"</DefaultText>
+      <DefaultText>„Wie entfliehe ich diesem Körper?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -518,18 +518,18 @@ Sein Fokus richtet sich auf dich. Er windet und krümmt sich im brennenden Verla
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Auf der anderen Seite der Station. Lass diesen Körper einfach fallen und hau lauf. Dieser Verstoßene wird kein Leben haben. Schade, aber – flute deinen Geist dort hinein!"</DefaultText>
+      <DefaultText>„Auf der anderen Seite der Station. Lass diesen Körper einfach fallen und hau lauf. Dieser Verstoßene wird kein Leben haben. Schade, aber – flute deinen Geist dort hinein!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
       <DefaultText>Du bleibst stehen und konzentrierst dich. Versuchst, dich von den Gezeiten tragen zu lassen, ein williges Gefäß zu finden. Doch da ist nichts als Leere und die drohende Vergessenheit.
 
-"Neue Lage. Du musst fliehen. Der Kummer hat deinen Kandidaten Nummer eins zerstört und die anderen sind noch nicht ber... Oh Skist! Die anderen sind auch hinüber. Der Kummer hat alle Körper zerstört, die du hattest."
+„Neue Lage. Du musst fliehen. Der Kummer hat deinen Kandidaten Nummer eins zerstört und die anderen sind noch nicht ber… Oh Skist! Die anderen sind auch hinüber. Der Kummer hat alle Körper zerstört, die du hattest.“
 
 Der Geist spricht so gefasst und professionell, dass du die Panik in seiner Stimme beinahe überhören könntest.
 
-"In den Fluchtkokon. Sofort. Der Mond ist verloren. Nimm mit, was du kannst, aber *beeil dich*, oder du bist verloren. Lauf. *Jetzt.*"</DefaultText>
+„In den Fluchtkokon. Sofort. Der Mond ist verloren. Nimm mit, was du kannst, aber *beeil dich*, oder du bist verloren. Lauf. *Jetzt.*“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -549,12 +549,12 @@ Der Geist spricht so gefasst und professionell, dass du die Panik in seiner Stim
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Haben wir irgendetwas, um den Kummer zu stoppen?"</DefaultText>
+      <DefaultText>„Haben wir irgendetwas, um den Kummer zu stoppen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Der Geist lacht – ein halbes Schluchzen. "Stoppen? Nein. Aufhalten? Vielleicht. Sieh dich um. Ich versuche, ihn so gut es geht mit den Verteidigungsanlagen der Station zu beschäftigen."</DefaultText>
+      <DefaultText>Der Geist lacht – ein halbes Schluchzen. „Stoppen? Nein. Aufhalten? Vielleicht. Sieh dich um. Ich versuche, ihn so gut es geht mit den Verteidigungsanlagen der Station zu beschäftigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -576,14 +576,14 @@ Der Geist spricht so gefasst und professionell, dass du die Panik in seiner Stim
       <ID>109</ID>
       <DefaultText>Dies ist *dein* Körper. Du kannst seine verborgenen Fähigkeiten mit einem Gedanken aufrufen und sie werden dir so selbstverständlich von der Hand gehen wie Atmen oder Gehen.
 
-In den anderen Lebensbildern, in die du eingetaucht bist, haben die Gezeiten dich eingeschränkt und zurückgehalten. Dich beherrscht. Hier, in deinem eigenen Körper, beherrscht du sie. Du kannst sie rufen... vielleicht sogar mit ihnen den Kummer aufhalten.</DefaultText>
+In den anderen Lebensbildern, in die du eingetaucht bist, haben die Gezeiten dich eingeschränkt und zurückgehalten. Dich beherrscht. Hier, in deinem eigenen Körper, beherrscht du sie. Du kannst sie rufen… vielleicht sogar mit ihnen den Kummer aufhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
       <DefaultText>Der Geist, der vor dir hier existierte, war verworren in seinen Gedanken, ein Labyrinth der Möglichkeiten und Erfahrungen. Seine Denkprozesse sind undurchsichtig für dich, doch als du innehältst, tief durchatmest und dich konzentriert, kommt dir die Antwort.
 
-In den anderen Lebensbildern, in die du eingetaucht bist, haben die Gezeiten dich eingeschränkt und zurückgehalten. Dich beherrscht. Hier, in deinem eigenen Körper, beherrscht du sie. Du kannst sie rufen... vielleicht sogar mit ihnen den Kummer aufhalten.</DefaultText>
+In den anderen Lebensbildern, in die du eingetaucht bist, haben die Gezeiten dich eingeschränkt und zurückgehalten. Dich beherrscht. Hier, in deinem eigenen Körper, beherrscht du sie. Du kannst sie rufen… vielleicht sogar mit ihnen den Kummer aufhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -626,7 +626,7 @@ Sie ist jedoch alles andere als leicht abzunehmen. Du musst langsam und gründli
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Du läufst durch die feuchte Mondluft den weiten Korridor entlang. Du hörst die Verteidigungsmechanismen des Mondes gegen den Kummer kämpfen... und verlieren. Stück für Stück wird die Station zermürbt und der endgültige Sieg deines Feindes scheint gewiss. Du hast einen kleinen Vorsprung vor ihm, aber du weißt nicht, wie lange er reichen wird.
+      <DefaultText>Du läufst durch die feuchte Mondluft den weiten Korridor entlang. Du hörst die Verteidigungsmechanismen des Mondes gegen den Kummer kämpfen… und verlieren. Stück für Stück wird die Station zermürbt und der endgültige Sieg deines Feindes scheint gewiss. Du hast einen kleinen Vorsprung vor ihm, aber du weißt nicht, wie lange er reichen wird.
 
 Du läufst noch schneller. Du hast keine Sekunde Zeit zu verlieren.</DefaultText>
       <FemaleText />
@@ -682,7 +682,7 @@ Du hast keine Wahl. Du musst fliehen.</DefaultText>
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Du untersuchst den Stab und es fühlt sich an, als würdest du nach Hause kommen. Er ist ein alter Freund und treuer Verbündeter. Er ist ein Eckpfeiler dieses Mondes, der Schlüssel zu jedem Schloss hier. Du weißt, dass du mit ihm die Verteidiger der Station gegen äußere Bedrohungen aktivieren kannst... und dass er wöchentlich eine Kopie deines Geistes erstellt, die als Sicherheitskopie und als Vertrauter dient, als ein Bewusstsein, dass dir ganz selbstverständlich zur Seite steht.
+      <DefaultText>Du untersuchst den Stab und es fühlt sich an, als würdest du nach Hause kommen. Er ist ein alter Freund und treuer Verbündeter. Er ist ein Eckpfeiler dieses Mondes, der Schlüssel zu jedem Schloss hier. Du weißt, dass du mit ihm die Verteidiger der Station gegen äußere Bedrohungen aktivieren kannst… und dass er wöchentlich eine Kopie deines Geistes erstellt, die als Sicherheitskopie und als Vertrauter dient, als ein Bewusstsein, dass dir ganz selbstverständlich zur Seite steht.
 
 Wenn er spricht, spricht er mit der Stimme des Geistes, und wenn sich sein Bewusstsein manifestieren muss, kann es eine geisterhafte Abbildung des 'originalen' Körpers des Wandelnden Gottes projizieren.
 
@@ -710,15 +710,15 @@ Er ist dir Verbündeter und Vertrauter, wie ein lange vermisster Freund, und er 
       <ID>134</ID>
       <DefaultText>Du drückst deine Stirn in das Gel. Deine Haut saugt es auf und zurück bleibt eine trockene, viridiangrüne Paste.
 
-... du baust den Stab, den du in der Hand hältst. Der Geist spricht über deine Schulter zu dir. "Seltsam, nicht wahr? Zu wissen, dass ich dir dabei zusehe, wie du mein Zuhause konstruierst, dass ich in einer Woche mit deinen neuesten Erfahrungen aktualisiert werde, dass mein Bewusstsein diesen Mond erfüllen wird, und damit auch du, in einer ungebrochenen und unendlichen Abfolge." 
+… du baust den Stab, den du in der Hand hältst. Der Geist spricht über deine Schulter zu dir. „Seltsam, nicht wahr? Zu wissen, dass ich dir dabei zusehe, wie du mein Zuhause konstruierst, dass ich in einer Woche mit deinen neuesten Erfahrungen aktualisiert werde, dass mein Bewusstsein diesen Mond erfüllen wird, und damit auch du, in einer ungebrochenen und unendlichen Abfolge.“ 
 
-Du sagst: "Ich mache mir keine Illusionen über die Unantastbarkeit des Geistes. Aber das weißt du ja bereits. "
+Du sagst: „Ich mache mir keine Illusionen über die Unantastbarkeit des Geistes. Aber das weißt du ja bereits.“
 
-Er lacht laut auf. "Wer das hört, könnte uns noch für einen Solipisten halten."
+Er lacht laut auf. „Wer das hört, könnte uns noch für einen Solipisten halten.“
 
-Du lächelst. "Wir wurden schon schlimmeres genannt."
+Du lächelst. „Wir wurden schon schlimmeres genannt.“
 
-... die Erinnerung verblasst.
+… die Erinnerung verblasst.
 
 {ADAM: Do you want a flag for this somewhere?}</DefaultText>
       <FemaleText />
@@ -798,21 +798,21 @@ Langsam gleitet der Kummer durch den Korridor. Er hat keine Eile – als wüsste
       <ID>149</ID>
       <DefaultText>Du fokussierst deinen Geist und die Gezeiten erheben sich auf dein Kommando, als hätte sie die Nähe des Kummers noch zusätzlich verstärkt. Sie fluten aus dir heraus, so hell und stark, dass du sie beinahe sehen kannst.
 
-Sie prallen mit voller Wucht gegen den Kummer. Ihre Energie spritzt wie Gischt... und dann sind sie verschwunden. Den Kummer hat das kaum aufgehalten. Du hörst ein Grollen von der Kreatur, das wohl Gelächter sein muss.</DefaultText>
+Sie prallen mit voller Wucht gegen den Kummer. Ihre Energie spritzt wie Gischt… und dann sind sie verschwunden. Den Kummer hat das kaum aufgehalten. Du hörst ein Grollen von der Kreatur, das wohl Gelächter sein muss.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
       <DefaultText>Du schleuderst das Plättchen den Korridor entlang. In dem Moment, wo es deine Finger verlässt, beginnt es, seine Form zu verändern. Es wird zu einem Tuch, einem Schleier, der sich über den Kummer legt und deinen Feind vollständig einhüllt. Es überzieht die Kreatur wie ein riesiger Schorf und hält sie fest.
 
-Einen Augenblick lang wagst du zu hoffen, dass du ihn gestoppt hast... doch dann wird der Schorf brüchig, zerbricht und fällt in einem Haufen organischer Schuppen zu Boden.</DefaultText>
+Einen Augenblick lang wagst du zu hoffen, dass du ihn gestoppt hast… doch dann wird der Schorf brüchig, zerbricht und fällt in einem Haufen organischer Schuppen zu Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
       <DefaultText>Du schlüpfst mit deiner Hand in den Fehdehandschuh und streckst sie in einer abwehrenden Geste aus. Der Energiestoß, der aus dem Handschuh fährt, reißt den Kummer auseinander, desintegriert ihn völlig und löst deinen Feind in seine einzelnen Filamente auf.
 
-"Ehrlich, ich hätte nicht gedacht, dass das funktioniert", murmelt der Geist.
+„Ehrlich, ich hätte nicht gedacht, dass das funktioniert“, murmelt der Geist.
 
 Für einen Moment herrscht Stille in dem Korridor.</DefaultText>
       <FemaleText />
@@ -843,7 +843,7 @@ Der Kummer gleitet durch den Raum mit den Rettungskapseln. Er bewegt sich jetzt 
       <ID>156</ID>
       <DefaultText>Du fokussierst deinen Geist und die Gezeiten erheben sich auf dein Kommando, als hätte sie die Nähe des Kummers noch zusätzlich verstärkt. Sie fluten aus dir heraus, so hell und stark, dass du sie beinahe sehen kannst.
 
-Sie prallen mit voller Wucht gegen den Kummer. Ihre Energie spritzt wie Gischt... und dann sind sie verschwunden. Den Kummer hat das kaum aufgehalten. Du hörst ein Grollen von der Kreatur, das wohl Gelächter sein muss.</DefaultText>
+Sie prallen mit voller Wucht gegen den Kummer. Ihre Energie spritzt wie Gischt… und dann sind sie verschwunden. Den Kummer hat das kaum aufgehalten. Du hörst ein Grollen von der Kreatur, das wohl Gelächter sein muss.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -855,7 +855,7 @@ Sie prallen mit voller Wucht gegen den Kummer. Ihre Energie spritzt wie Gischt..
       <ID>158</ID>
       <DefaultText>Du schleuderst das Plättchen durch den Raum mit den Rettungskapseln. In dem Moment, wo es deine Finger verlässt, beginnt es, seine Form zu verändern. Es wird zu einem Tuch, einem Schleier, der sich über den Kummer legt und deinen Feind vollständig einhüllt. Es überzieht die Kreatur wie ein riesiger Schorf und hält sie fest.
 
-Einen Augenblick lang wagst du zu hoffen, dass du ihn gestoppt hast... doch dann wird der Schorf brüchig, zerbricht und fällt in einem Haufen organischer Schuppen zu Boden.</DefaultText>
+Einen Augenblick lang wagst du zu hoffen, dass du ihn gestoppt hast… doch dann wird der Schorf brüchig, zerbricht und fällt in einem Haufen organischer Schuppen zu Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -867,11 +867,11 @@ Einen Augenblick lang wagst du zu hoffen, dass du ihn gestoppt hast... doch dann
       <ID>160</ID>
       <DefaultText>Du schlüpfst mit deiner Hand in den Fehdehandschuh und streckst sie in einer abwehrenden Geste aus. Der Energiestoß, der aus dem Handschuh fährt, reißt den Kummer auseinander, desintegriert ihn völlig und löst deinen Feind in seine einzelnen Filamente auf.
 
-"Ehrlich, ich hatte meine Zweifel, dass das funktioniert", murmelt der Geist.
+„Ehrlich, ich hatte meine Zweifel, dass das funktioniert“, murmelt der Geist.
 
 Für einen Moment herrscht Stille… und dann manifestiert sich der Kummer erneut, als sich Fäden beißenden Rauchs miteinander verbinden.
 
-"Wohl zurecht."</DefaultText>
+„Wohl zurecht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -907,7 +907,7 @@ Du schließt die Türen hinter dir. Das bringt vielleicht ein paar Sekunden. Meh
       <ID>168</ID>
       <DefaultText>Du sprintest durch den Raum und reißt die Spritze aus ihrer Hülle. Ein Blick auf das Etikett verrät dir, dass es sich um ein spezielles Aufputschmittel für Verstoßene handelt. Es erhöht Wahrnehmung, Schmerzresistenz, Präzision und Fokus.
 
-Und wenn du es jetzt benutzt, wirkt es in deinem eigenen Körper. Du könntest auch in der Zukunft davon profitieren... wenn du die Gegenwart überlebst.
+Und wenn du es jetzt benutzt, wirkt es in deinem eigenen Körper. Du könntest auch in der Zukunft davon profitieren… wenn du die Gegenwart überlebst.
 
 Du rammst dir die Spritze in den Oberschenkel und sofort fühlst du dich ruhiger. Die Welt um dich herum ist heller. Du hörst laut und deutlich den unaufhaltsamen Fortschritt des Kummers. Du hast noch wenige kostbare Momente, bevor er da ist.</DefaultText>
       <FemaleText />
@@ -943,7 +943,7 @@ Der Kummer taucht schimmernd neben dir auf und macht sich bereit, zuzuschlagen.<
       <ID>174</ID>
       <DefaultText>Du fokussierst deinen Geist und die Gezeiten erheben sich auf dein Kommando, als hätte sie die Nähe des Kummers noch zusätzlich verstärkt. Sie fluten aus dir heraus, so hell und stark, dass du sie beinahe sehen kannst.
 
-Sie prallen mit voller Wucht gegen den Kummer. Ihre Energie spritzt wie Gischt... und dann sind sie verschwunden. Den Kummer hat das kaum aufgehalten. Du hörst ein Grollen von der Kreatur, das wohl Gelächter sein muss.
+Sie prallen mit voller Wucht gegen den Kummer. Ihre Energie spritzt wie Gischt… und dann sind sie verschwunden. Den Kummer hat das kaum aufgehalten. Du hörst ein Grollen von der Kreatur, das wohl Gelächter sein muss.
 
 Der Kummer taucht schimmernd neben dir auf und macht sich bereit, zuzuschlagen.</DefaultText>
       <FemaleText />
@@ -957,7 +957,7 @@ Der Kummer taucht schimmernd neben dir auf und macht sich bereit, zuzuschlagen.<
       <ID>176</ID>
       <DefaultText>Du schleuderst das Plättchen gegen die Tür. In dem Moment, wo es deine Finger verlässt, beginnt es, seine Form zu verändern. Es wird zu einem Tuch, einem Schleier, der sich über den Kummer legt und deinen Feind vollständig einhüllt. Es überzieht die Kreatur wie ein riesiger Schorf und hält sie fest.
 
-Einen Augenblick lang wagst du zu hoffen, dass du ihn gestoppt hast... doch dann wird der Schorf brüchig, zerbricht und fällt in einem Haufen organischer Schuppen zu Boden.
+Einen Augenblick lang wagst du zu hoffen, dass du ihn gestoppt hast… doch dann wird der Schorf brüchig, zerbricht und fällt in einem Haufen organischer Schuppen zu Boden.
 
 Der Kummer taucht schimmernd neben dir auf und macht sich bereit, zuzuschlagen.</DefaultText>
       <FemaleText />
@@ -971,7 +971,7 @@ Der Kummer taucht schimmernd neben dir auf und macht sich bereit, zuzuschlagen.<
       <ID>178</ID>
       <DefaultText>Du schlüpfst mit deiner Hand in den Fehdehandschuh und streckst sie in einer abwehrenden Geste aus. Der Energiestoß, der aus dem Handschuh fährt, reißt den Kummer auseinander, desintegriert ihn völlig und löst deinen Feind in seine einzelnen Filamente auf.
 
-"Ehrlich, ich hatte meine Zweifel, dass das funktioniert", murmelt der Geist.
+„Ehrlich, ich hatte meine Zweifel, dass das funktioniert“, murmelt der Geist.
 
 Für einen Moment herrscht Stille… und dann manifestiert sich der Kummer erneut, als sich Fäden beißenden Rauchs miteinander verbinden. Er holt zum Schlag aus.</DefaultText>
       <FemaleText />
@@ -1011,7 +1011,7 @@ Du hast nur mehr die eine und keine Zeit, um ihre Effektivität zu testen. Deine
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Verdammt! Wir haben keine Zeit für-" Der wütende Protest des Geistes wird kurzerhand abgewürgt, als ein Strang des Kummers sich um den Stab wickelt. Beißend grünes Licht läuft den Stab rauf und runter und du lässt ihn fallen, als er sich zu Staub auflöst.
+      <DefaultText>„Verdammt! Wir haben keine Zeit für-“ Der wütende Protest des Geistes wird kurzerhand abgewürgt, als ein Strang des Kummers sich um den Stab wickelt. Beißend grünes Licht läuft den Stab rauf und runter und du lässt ihn fallen, als er sich zu Staub auflöst.
 
 Du strampelst vergeblich, als der Kummer dich an sich heranzieht wie eine Mutter ihr Baby an ihre Brust. Eine große Müdigkeit überkommt dich, als er dich berührt. Du spürst keinen Schmerz und keine Furcht mehr und das Licht verschwindet aus der Welt. 
 
@@ -1030,12 +1030,12 @@ Das Letzte, was du hörst, ist wie der Mond um dich herum implodiert.</DefaultTe
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>Die Aussicht kommt dir bekannt vor, doch deine Erinnerung daran ist verschwommen, als wäre sie gefiltert oder verschwommen, wie durch Tränen...</DefaultText>
+      <DefaultText>Die Aussicht kommt dir bekannt vor, doch deine Erinnerung daran ist verschwommen, als wäre sie gefiltert oder verschwommen, wie durch Tränen…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>Du zuckst zusammen, als du begreifst, dass das Panorama vor dir praktisch ident ist mit der Welt, die du gesehen hast, als du auf die Erde gestürzt bist... nur von etwas höher oben gesehen.</DefaultText>
+      <DefaultText>Du zuckst zusammen, als du begreifst, dass das Panorama vor dir praktisch ident ist mit der Welt, die du gesehen hast, als du auf die Erde gestürzt bist… nur von etwas höher oben gesehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1050,127 +1050,127 @@ Das Letzte, was du hörst, ist wie der Mond um dich herum implodiert.</DefaultTe
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Ja, ja, mir geht's gut. Machen wir weiter."</DefaultText>
+      <DefaultText>„Ja, ja, mir geht's gut. Machen wir weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Ich mache mir nur ein wenig Sorgen."</DefaultText>
+      <DefaultText>„Ich mache mir nur ein wenig Sorgen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>"Ich bin ein Verstoßener. Aber ich bin in eine Art Zeitschleife geraten und bin in meinem Körper... bevor ich überhaupt geboren wurde."</DefaultText>
-      <FemaleText>"Ich bin eine Verstoßene. Aber ich bin in eine Art Zeitschleife geraten und bin in meinem Körper... bevor ich überhaupt geboren wurde."</FemaleText>
+      <DefaultText>„Ich bin ein Verstoßener. Aber ich bin in eine Art Zeitschleife geraten und bin in meinem Körper… bevor ich überhaupt geboren wurde.“</DefaultText>
+      <FemaleText>„Ich bin eine Verstoßene. Aber ich bin in eine Art Zeitschleife geraten und bin in meinem Körper… bevor ich überhaupt geboren wurde.“</FemaleText>
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Gut. Ich möchte das ebenso schnell hinter mich bringen wie du."</DefaultText>
+      <DefaultText>„Gut. Ich möchte das ebenso schnell hinter mich bringen wie du.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Ha! Angesichts unserer jeweiligen Natur musst du *mir* das nicht sagen. Mein Vorteil ist, dass ich derzeit keine körperliche Form habe, aber hätte ich eine, wüsste ich, wie mein Körper sich jetzt fühlen würde. Von uns beiden hast du definitiv den härteren Job."
+      <DefaultText>„Ha! Angesichts unserer jeweiligen Natur musst du *mir* das nicht sagen. Mein Vorteil ist, dass ich derzeit keine körperliche Form habe, aber hätte ich eine, wüsste ich, wie mein Körper sich jetzt fühlen würde. Von uns beiden hast du definitiv den härteren Job.“
 
-"Du weißt doch, wir machen es aus gutem Grund auf diese Weise, ja? Ich werde alles mit dir durchgehen. Kein Grund zur Sorge. Ich habe - *wir* haben alles unter Kontrolle."</DefaultText>
+„Du weißt doch, wir machen es aus gutem Grund auf diese Weise, ja? Ich werde alles mit dir durchgehen. Kein Grund zur Sorge. Ich habe - *wir* haben alles unter Kontrolle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"... ein Verstoßener? Wirklich? Das bedeutet... Moment mal. Du sagst, du hast deinen Geist durch die Zeit zurück in deinen Körper transportiert?" Triumph liegt in seiner Stimme. "Das bedeutet, dieser Körper *ist* der richtige Katalysator. Wir können die Resonanzkammer aktivieren! Gut. Hör mir gut zu. Dein Körper ist der Schlüssel dazu, den Kummer zu stoppen. Du musst nur in die Kammer steigen und unser Kampf wird zu Ende sein. Ich weiß deine Ehrlichkeit zu schätzen."
+      <DefaultText>„… ein Verstoßener? Wirklich? Das bedeutet… Moment mal. Du sagst, du hast deinen Geist durch die Zeit zurück in deinen Körper transportiert?“ Triumph liegt in seiner Stimme. „Das bedeutet, dieser Körper *ist* der richtige Katalysator. Wir können die Resonanzkammer aktivieren! Gut. Hör mir gut zu. Dein Körper ist der Schlüssel dazu, den Kummer zu stoppen. Du musst nur in die Kammer steigen und unser Kampf wird zu Ende sein. Ich weiß deine Ehrlichkeit zu schätzen.“
 
-Sein Ton wird schroff. "Warte. Wenn du ein Verstoßener bist und dies bereits dein Körper war, heißt das, dass wir es in deiner Zeitlinie nicht in die Resonanzkammer geschafft haben. Wenn du nun hier die Geschichte veränderst, riskierst du, dich selbst zu zerstören. Also was passiert hier?"</DefaultText>
-      <FemaleText>"... eine Verstoßene? Wirklich? Das bedeutet... Moment mal. Du sagst, du hast deinen Geist durch die Zeit zurück in deinen Körper transportiert?" Triumph liegt in seiner Stimme. "Das bedeutet, dieser Körper *ist* der richtige Katalysator. Wir können die Resonanzkammer aktivieren! Gut. Hör mir gut zu. Dein Körper ist der Schlüssel dazu, den Kummer zu stoppen. Du musst nur in die Kammer steigen und unser Kampf wird zu Ende sein. Ich weiß deine Ehrlichkeit zu schätzen."
+Sein Ton wird schroff. „Warte. Wenn du ein Verstoßener bist und dies bereits dein Körper war, heißt das, dass wir es in deiner Zeitlinie nicht in die Resonanzkammer geschafft haben. Wenn du nun hier die Geschichte veränderst, riskierst du, dich selbst zu zerstören. Also was passiert hier?“</DefaultText>
+      <FemaleText>„… eine Verstoßene? Wirklich? Das bedeutet… Moment mal. Du sagst, du hast deinen Geist durch die Zeit zurück in deinen Körper transportiert?“ Triumph liegt in seiner Stimme. „Das bedeutet, dieser Körper *ist* der richtige Katalysator. Wir können die Resonanzkammer aktivieren! Gut. Hör mir gut zu. Dein Körper ist der Schlüssel dazu, den Kummer zu stoppen. Du musst nur in die Kammer steigen und unser Kampf wird zu Ende sein. Ich weiß deine Ehrlichkeit zu schätzen.“
 
-Sein Ton wird schroff. "Warte. Wenn du eine Verstoßene bist und dies bereits dein Körper war, heißt das, dass wir es in deiner Zeitlinie nicht in die Resonanzkammer geschafft haben. Wenn du nun hier die Geschichte veränderst, riskierst du, dich selbst zu zerstören. Also was passiert hier?"</FemaleText>
+Sein Ton wird schroff. „Warte. Wenn du eine Verstoßene bist und dies bereits dein Körper war, heißt das, dass wir es in deiner Zeitlinie nicht in die Resonanzkammer geschafft haben. Wenn du nun hier die Geschichte veränderst, riskierst du, dich selbst zu zerstören. Also was passiert hier?“</FemaleText>
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>"Der Kummer zerstört diesen Mond."</DefaultText>
+      <DefaultText>„Der Kummer zerstört diesen Mond.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Ich bin nicht sicher. Ich bin in einem Rettungskokon aufgewacht."</DefaultText>
+      <DefaultText>„Ich bin nicht sicher. Ich bin in einem Rettungskokon aufgewacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Ich vertraue dir nicht. Du hast versucht, die Kontrolle über meinen Geist zu übernehmen."</DefaultText>
+      <DefaultText>„Ich vertraue dir nicht. Du hast versucht, die Kontrolle über meinen Geist zu übernehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Dann müssen wir dich von hier fortbringen, und zwar schnell. Wenn du nicht rechtzeitig flüchten kannst, bevor der Kummer diesen Ort zerstört, sind wir verloren. Dies hier ist ein Archiv all unserer Weisheit, all unseres Wissens, und sein Verlust wäre eine Katastrophe, aber wenn wir den Kummer schon nicht aufhalten können, können wir zumindest dein Leben retten. Und meines. Los, in die Kapsel."</DefaultText>
+      <DefaultText>„Dann müssen wir dich von hier fortbringen, und zwar schnell. Wenn du nicht rechtzeitig flüchten kannst, bevor der Kummer diesen Ort zerstört, sind wir verloren. Dies hier ist ein Archiv all unserer Weisheit, all unseres Wissens, und sein Verlust wäre eine Katastrophe, aber wenn wir den Kummer schon nicht aufhalten können, können wir zumindest dein Leben retten. Und meines. Los, in die Kapsel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Dann wird es hier eine Katastrophe geben und das kann eigentlich nur der Kummer sein. Wir müssen dich von diesem Mond fortbringen, und zwar schnell. Wenn du nicht rechtzeitig flüchten kannst, bevor der Kummer diesen Ort zerstört, sind wir verloren. Dies hier ist ein Archiv all unserer Weisheit, all unseres Wissens, und sein Verlust wäre eine Katastrophe, aber wenn wir den Kummer schon nicht aufhalten können, können wir zumindest dein Leben retten. Und meines. Los, in die Kapsel."</DefaultText>
+      <DefaultText>„Dann wird es hier eine Katastrophe geben und das kann eigentlich nur der Kummer sein. Wir müssen dich von diesem Mond fortbringen, und zwar schnell. Wenn du nicht rechtzeitig flüchten kannst, bevor der Kummer diesen Ort zerstört, sind wir verloren. Dies hier ist ein Archiv all unserer Weisheit, all unseres Wissens, und sein Verlust wäre eine Katastrophe, aber wenn wir den Kummer schon nicht aufhalten können, können wir zumindest dein Leben retten. Und meines. Los, in die Kapsel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"War wirklich ich das? Oder war es der Mann, in dessen Körper du jetzt bist, der versucht hat, die Kontrolle darüber zurückzugewinnen? Hast du seinen Geist ersetzt, als du geboren wurdest, oder nur zur Seite gedrängt?" Der Geist spricht ruhig und beschwichtigend auf dich ein.
+      <DefaultText>„War wirklich ich das? Oder war es der Mann, in dessen Körper du jetzt bist, der versucht hat, die Kontrolle darüber zurückzugewinnen? Hast du seinen Geist ersetzt, als du geboren wurdest, oder nur zur Seite gedrängt?“ Der Geist spricht ruhig und beschwichtigend auf dich ein.
 
-"Ich versichere dir, niemand hat die Absicht, dich zu ersetzen. Unser einziges Anliegen ist es, die Resonanzkammer zu aktivieren."</DefaultText>
+„Ich versichere dir, niemand hat die Absicht, dich zu ersetzen. Unser einziges Anliegen ist es, die Resonanzkammer zu aktivieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Jetzt gerade muss ich einen Weg finden, wie ich von hier entkommen kann. Der Kummer wird diesen Ort zerstören."</DefaultText>
+      <DefaultText>„Jetzt gerade muss ich einen Weg finden, wie ich von hier entkommen kann. Der Kummer wird diesen Ort zerstören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Ich habe gehört, dass die Resonanzkammer alle Abgeworfenen töten wird."</DefaultText>
+      <DefaultText>„Ich habe gehört, dass die Resonanzkammer alle Abgeworfenen töten wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Wie mache ich das?"</DefaultText>
+      <DefaultText>„Wie mache ich das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Es wird euch nicht töten. Es wird euch vereinen. Es wird den Kummer stoppen und das Leiden beenden, das wir hinter uns herschleppen. Hör mal, wir können das später besprechen. Wenn du ein Abgeworfener aus der Zukunft bist, bedeutet das, dass in Kürze hier etwas Furchtbares passieren wird. Ich muss die Kontinuität unserer Erfahrung und unseres Wissens sicherstellen. Also sag mir, und zwar ehrlich – was wird passieren?"</DefaultText>
-      <FemaleText>"Es wird euch nicht töten. Es wird euch vereinen. Es wird den Kummer stoppen und das Leiden beenden, das wir hinter uns herschleppen. Hör mal, wir können das später besprechen. Wenn du eine Abgeworfene aus der Zukunft bist, bedeutet das, dass in Kürze hier etwas Furchtbares passieren wird. Ich muss die Kontinuität unserer Erfahrung und unseres Wissens sicherstellen. Also sag mir, und zwar ehrlich – was wird passieren?"</FemaleText>
+      <DefaultText>„Es wird euch nicht töten. Es wird euch vereinen. Es wird den Kummer stoppen und das Leiden beenden, das wir hinter uns herschleppen. Hör mal, wir können das später besprechen. Wenn du ein Abgeworfener aus der Zukunft bist, bedeutet das, dass in Kürze hier etwas Furchtbares passieren wird. Ich muss die Kontinuität unserer Erfahrung und unseres Wissens sicherstellen. Also sag mir, und zwar ehrlich – was wird passieren?“</DefaultText>
+      <FemaleText>„Es wird euch nicht töten. Es wird euch vereinen. Es wird den Kummer stoppen und das Leiden beenden, das wir hinter uns herschleppen. Hör mal, wir können das später besprechen. Wenn du eine Abgeworfene aus der Zukunft bist, bedeutet das, dass in Kürze hier etwas Furchtbares passieren wird. Ich muss die Kontinuität unserer Erfahrung und unseres Wissens sicherstellen. Also sag mir, und zwar ehrlich – was wird passieren?“</FemaleText>
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Du bist eine Kopie meines Geistes?"</DefaultText>
+      <DefaultText>„Du bist eine Kopie meines Geistes?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Ja." Ein Hauch Besorgnis liegt in seiner geisterhaften Stimme. "Einen Moment bitte."
+      <DefaultText>„Ja.“ Ein Hauch Besorgnis liegt in seiner geisterhaften Stimme. „Einen Moment bitte.“
 
 Ein leichtes Summen geht von dem Stab aus. Es durchdringt dein Wesen und umhüllt deinen Geist.
 
-"Ah, verstehe! Du bist ein neuer Geist in diesem Körper. Wie bist du hierhergekommen? Warte. Du bist ein Verstoßener. Das bedeutet, dieser Körper *ist* der Katalysator. Wir können die Resonanzkammer aktivieren... Du musst mir gut zuhören. Dein Körper ist der Schlüssel dazu, den Kummer zu stoppen. Wir müssen dich nur in die Kammer bringen und unser Kampf wird zu Ende sein."
+„Ah, verstehe! Du bist ein neuer Geist in diesem Körper. Wie bist du hierhergekommen? Warte. Du bist ein Verstoßener. Das bedeutet, dieser Körper *ist* der Katalysator. Wir können die Resonanzkammer aktivieren… Du musst mir gut zuhören. Dein Körper ist der Schlüssel dazu, den Kummer zu stoppen. Wir müssen dich nur in die Kammer bringen und unser Kampf wird zu Ende sein.“
 
-"Offensichtlich haben wir es in deiner Zeitlinie nicht in die Resonanzkammer geschafft. Wenn du nun hier die Geschichte veränderst, riskierst du, dich selbst zu zerstören. Also was passiert hier?"</DefaultText>
-      <FemaleText>"Ja." Ein Hauch Besorgnis liegt in seiner geisterhaften Stimme. "Einen Moment bitte."
+„Offensichtlich haben wir es in deiner Zeitlinie nicht in die Resonanzkammer geschafft. Wenn du nun hier die Geschichte veränderst, riskierst du, dich selbst zu zerstören. Also was passiert hier?“</DefaultText>
+      <FemaleText>„Ja.“ Ein Hauch Besorgnis liegt in seiner geisterhaften Stimme. „Einen Moment bitte.“
 
 Ein leichtes Summen geht von dem Stab aus. Es durchdringt dein Wesen und umhüllt deinen Geist.
 
-"Ah, verstehe! Du bist ein neuer Geist in diesem Körper. Wie bist du hierhergekommen? Warte. Du bist eine Verstoßene.  Das bedeutet, dieser Körper *ist* der Katalysator. Wir können die Resonanzkammer aktivieren... Du musst mir gut zuhören. Dein Körper ist der Schlüssel dazu, den Kummer zu stoppen. Wir müssen dich nur in die Kammer bringen und unser Kampf wird zu Ende sein."
+„Ah, verstehe! Du bist ein neuer Geist in diesem Körper. Wie bist du hierhergekommen? Warte. Du bist eine Verstoßene.  Das bedeutet, dieser Körper *ist* der Katalysator. Wir können die Resonanzkammer aktivieren… Du musst mir gut zuhören. Dein Körper ist der Schlüssel dazu, den Kummer zu stoppen. Wir müssen dich nur in die Kammer bringen und unser Kampf wird zu Ende sein.“
 
-"Offensichtlich haben wir es in deiner Zeitlinie nicht in die Resonanzkammer geschafft. Wenn du nun hier die Geschichte veränderst, riskierst du, dich selbst zu zerstören. Also was passiert hier?"</FemaleText>
+„Offensichtlich haben wir es in deiner Zeitlinie nicht in die Resonanzkammer geschafft. Wenn du nun hier die Geschichte veränderst, riskierst du, dich selbst zu zerstören. Also was passiert hier?“</FemaleText>
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Steig einfach in die Kapsel. Ich erledige den Rest."</DefaultText>
+      <DefaultText>„Steig einfach in die Kapsel. Ich erledige den Rest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Wie bereits gesagt wissen wir, dass dein Körper bereit ist, die Resonanzkammer zu benutzen. Ich will aber sichergehen, dass alle Parameter innerhalb der Toleranzwerte liegen. Möglicherweise hat sich die Varianz deiner Gezeiten geändert. Wenn ja, können wir versuchen, sie innerhalb die von deinem Schöpfer und mir festgelegten Vorgaben zurück zu schmiegen. Steig einfach in die Kapsel und ich beginne mit der Analyse."</DefaultText>
+      <DefaultText>„Wie bereits gesagt wissen wir, dass dein Körper bereit ist, die Resonanzkammer zu benutzen. Ich will aber sichergehen, dass alle Parameter innerhalb der Toleranzwerte liegen. Möglicherweise hat sich die Varianz deiner Gezeiten geändert. Wenn ja, können wir versuchen, sie innerhalb die von deinem Schöpfer und mir festgelegten Vorgaben zurück zu schmiegen. Steig einfach in die Kapsel und ich beginne mit der Analyse.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Ich beginne mit der Analyse, sobald du in die Kapsel hier gestiegen bist. Ich werde dich in Gezeitenenergien baden und danach werden wir unsere nächsten Schritte festlegen."</DefaultText>
+      <DefaultText>„Ich beginne mit der Analyse, sobald du in die Kapsel hier gestiegen bist. Ich werde dich in Gezeitenenergien baden und danach werden wir unsere nächsten Schritte festlegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1228,12 +1228,12 @@ The illustration for this can carry some of the weight as well.}</DefaultText>
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"Ich will damit nichts zu tun haben. Ich habe versucht, zu *verhindern*, dass das passiert."</DefaultText>
+      <DefaultText>„Ich will damit nichts zu tun haben. Ich habe versucht, zu *verhindern*, dass das passiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"Also schön-" Eine unsichtbare Kraft *wischt* dich gegen deinen Willen in die Kapsel. Der Stab in deiner Hand vibriert leicht und du spürst, wie du in Energien gebadet wirst. "Kein Grund zur Aufregung. Das ist alles innerhalb der normalen Parameter."
+      <DefaultText>„Also schön-“ Eine unsichtbare Kraft *wischt* dich gegen deinen Willen in die Kapsel. Der Stab in deiner Hand vibriert leicht und du spürst, wie du in Energien gebadet wirst. „Kein Grund zur Aufregung. Das ist alles innerhalb der normalen Parameter.“
 
 Die folgende kleine Explosion ist es dagegen bestimmt nicht. Plötzlich ertönen Sirenen.</DefaultText>
       <FemaleText />
@@ -1264,7 +1264,7 @@ Er ist unaufhaltsam. Das Beste, worauf du hoffen kannst, ist, ihn zu verlangsame
       <ID>232</ID>
       <DefaultText>Die Plättchen in der Nähe vibrieren wild und der deaktivierte Arm des Konstrukts beginnt zu funken und zu flackern.
 
-"Hau ab! Der Kummer wird dich vernichten!"
+„Hau ab! Der Kummer wird dich vernichten!“
 
 Dein Untergang offenbart sich in der Großen Halle.  Seine Form ist schwach und zart als er erstarrt. Er gewinnt sporadisch an Festigkeit. Die interne Verteidigung des Mondes bremst ihn, aber sie wird nicht reichen, um ihn fernzuhalten. Du siehst, wie Kummer sich an einer weiteren Verteidigung vorbei stiehlt und sich in eine noch viel schlimmere Realität zwängt.
 
