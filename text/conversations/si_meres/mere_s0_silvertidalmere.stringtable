@@ -1296,7 +1296,7 @@ Als es seinen Kopf wieder in deine Richtung dreht, atmest du aus und drückst de
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText />
+      <DefaultText>„Captain!“, schreit Vostiel. Er dreht dich um. „Beim Glücksmond, er ist am Leben! Sie haben es erwischt, Captain! Das große Mistvieh ist tot! Sie haben es erwischt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1307,7 +1307,7 @@ Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die Sti
 
 {SOUND: All sounds fade except the rain.}
 {SCRIPT: Illustration - Dead Captain}</DefaultText>
-      <FemaleText>Du kannst nicht antworten. Die Welt schrumpft zu einem winzigen Loch zusammen, aber du kannst noch spüren, wie Vostiel dir die Strahlenkanone abnimmt und deinen Arm drückt. „Wir übernehmen jetzt, Captain. Müssen nur noch den Rest aufräumen. Bleiben Sie bei uns. Sie haben den Tag gerettet! Und die Ehre gebührt ganz Ihnen. Kümmer dich um ihn, Priester, ich flehe dich an!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
@@ -1317,7 +1317,7 @@ Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die Sti
     <Entry>
       <ID>195</ID>
       <DefaultText>Vostiel und die Überlebenden der Truppe sind von der Entscheidung nicht begeistert, aber sie befolgen deine Befehle. Zur Erleichterung des Aeon-Priesters bist du nach einer halben Stunde bereits mit Landi und dem Haupttrupp zurück auf der Straße und wieder auf dem Weg zum Hauptquartier.</DefaultText>
-      <FemaleText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die Stimme des Priesters. Der silberfarbene Regen trommelt auf dein Gesicht. „Sie wären noch am Leben, wenn ich meine Waffe hätte benutzen dürfen. Aber ich schätze, Sie sind lieber eine tragische Heldin. Verdammte Närrin.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
@@ -1343,7 +1343,7 @@ Unglücklicherweise *ist* es schnell genug, um noch einen letzten Schuss abzufeu
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText />
+      <DefaultText>„Captain!“, schreit Vostiel. Er dreht dich um. „Beim Glücksmond, Sie sind am Leben! Sie haben sie erwischt, Captain! Das große Mistvieh ist tot! Und der Rest unserer Feinde auch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1354,7 +1354,7 @@ Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die nah
 
 {SOUND: All sounds fade except the rain.}
 {SCRIPT: Illustration - Dead Captain}</DefaultText>
-      <FemaleText>{SOUND: All sounds fade except the rain.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
@@ -1369,7 +1369,7 @@ Er macht auf der Anhöhe Halt, untersucht die leblosen Körper der Patrouille un
 
 {SOUND: Robot Movement.}
 {SCRIPT: Illustration - The Construct Scanning}</DefaultText>
-      <FemaleText>{SCRIPT: Illustration - Dead Captain}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
@@ -1387,7 +1387,7 @@ Du feuerst noch einmal und versuchst, sein tödliches Auge auszuschalten – abe
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText />
+      <DefaultText>Du feuerst noch einmal und versuchst, sein tödliches Auge auszuschalten – aber das Konstrukt ist schneller, viel schneller, und so durchbohrt dich ein tödlicher Lichtstrahl von der Schulter bis zur Hüfte und verbrennt alles dazwischen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1402,7 +1402,7 @@ Du feuerst noch einmal und versuchst, sein tödliches Auge auszuschalten – abe
     <Entry>
       <ID>207</ID>
       <DefaultText>Einen Singularitätsdetonator auf sie werfen.</DefaultText>
-      <FemaleText>„Du kannst nicht antworten. Die Welt schrumpft zu einem winzigen Loch zusammen, aber du kannst noch spüren, wie Vostiel deinen Arm drückt. „Wir übernehmen jetzt, Captain. Nur noch die Patrouillen sind übrig. Bleiben Sie bei uns. Sie haben den Tag gerettet! Und die Ehre gebührt ganz Ihnen. Kümmer dich um ihn, Priester, ich flehe dich an!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
@@ -1420,7 +1420,7 @@ Das Letzte, was du hören kannst, ist das hoffnungslose Winseln des Aeon-Prieste
 
 {SOUND: All sounds fade except the rain.}
 {SCRIPT: Illustration - Dead Captain}</DefaultText>
-      <FemaleText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die nahende Stimme des Priesters. „Sie hätten überlegt, wenn Sie mich meine Waffe hätten einsetzen lassen.“  Aber ich schätze, Sie sind lieber eine tragische Heldin. Verdammte Närrin.“ Der silberfarbene Regen trommelt auf dein Gesicht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
@@ -1433,7 +1433,7 @@ Das Letzte, was du hören kannst, ist das hoffnungslose Winseln des Aeon-Prieste
 
 {SOUND: Robot's powerful beam weapon.}
 {SCRIPT: Illustration - Run Away}</DefaultText>
-      <FemaleText>{SOUND: All sounds fade except the rain.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
@@ -1443,7 +1443,7 @@ Das Letzte, was du hören kannst, ist das hoffnungslose Winseln des Aeon-Prieste
 
 {SOUND: All sounds fade except the rain.}
 {SCRIPT: Illustration - Dead Captain}</DefaultText>
-      <FemaleText>{SCRIPT: Illustration - Dead Captain}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
@@ -1499,7 +1499,11 @@ Vostiel schwebt auf einem kleinen Fahrzeug vor. Er hält direkt vor dir an, zieh
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText />
+      <DefaultText>Nur einen kurzen Augenblick später, als der Abend den silbernen Regen in einen grauen Schleier verwandelt und die endlose Landschaft von Schützengräben und zerstörten Konstrukten auf beiden Seiten jenseits eurer Lichter verschwindet, ertönt eine Warnung deines Spähers durch den Aether-Funk. Sie bricht abrupt ab.
+
+„Klingt nach Ärger“, sagt Vostiel. „Ich gehe vor.“
+
+„Du wartest gefälligst auf einen Befehl, verdammt.“ greift Landi ein. „Captain, was sollen wir tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1512,7 +1516,7 @@ Vostiel schwebt auf einem kleinen Fahrzeug vor. Er hält direkt vor dir an, zieh
     <Entry>
       <ID>220</ID>
       <DefaultText>„Wir kriegen nicht genug bezahlt, um unser Leben für die Haut dieses Priesters aufs Spiel zu setzen. Packt seine Sachen.“</DefaultText>
-      <FemaleText>Im langsamen Vergehen deines Bewusstseins hörst du die donnernde Implosion des Singularitätsdetonators, der die eine Hälfte deiner Einheit auslöscht, und das Surren des tödlichen Lichtstrahls, mit dem das Konstrukt die zweite Hälfte auf der Flucht erledigt. Der nachtschwarze Regen trommelt auf die Seite deines Gesichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
@@ -1522,7 +1526,7 @@ Vostiel schwebt auf einem kleinen Fahrzeug vor. Er hält direkt vor dir an, zieh
     <Entry>
       <ID>222</ID>
       <DefaultText>„Tut mir leid, Priester. Wenn es hier und heute Ruhm zu ernten gibt, dann wird er uns gehören. Vostial, Landi, macht eure Truppen einsatzbereit.“</DefaultText>
-      <FemaleText>Das Letzte, was du hören kannst, ist das hoffnungslose Winseln des Aeon-Priesters in seinem Versteck. „Sie sind eine Närrin“, sagt er. „Ich habe es Ihnen gesagt. Ich habe es Ihnen doch gesagt!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
@@ -1541,12 +1545,12 @@ Vostiel schwebt auf einem kleinen Fahrzeug vor. Er hält direkt vor dir an, zieh
     <Entry>
       <ID>225</ID>
       <DefaultText>Welche Darstellung möchtest du sehen?</DefaultText>
-      <FemaleText>{SOUND: All sounds fade except the rain.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
       <DefaultText>Der erste Ausblick.</DefaultText>
-      <FemaleText>{SCRIPT: Illustration - Dead Captain}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
@@ -1561,7 +1565,7 @@ Vostiel schwebt auf einem kleinen Fahrzeug vor. Er hält direkt vor dir an, zieh
     <Entry>
       <ID>229</ID>
       <DefaultText>Der Priester und sein Gerät.</DefaultText>
-      <FemaleText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins siehst, ist der Priester, der neben dir im Schlamm liegt. Er zeigt auf dich und formt mit seinen Lippen ein Wort:</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
@@ -1571,7 +1575,7 @@ Vostiel schwebt auf einem kleinen Fahrzeug vor. Er hält direkt vor dir an, zieh
     <Entry>
       <ID>231</ID>
       <DefaultText>Zurück zum Lebensbildbetrachter.</DefaultText>
-      <FemaleText>„Närrin.“ Der nachtschwarze Regen trommelt auf die Seite deines Gesichts.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
