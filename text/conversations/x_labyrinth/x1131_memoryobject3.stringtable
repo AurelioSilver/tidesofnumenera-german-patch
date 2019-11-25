@@ -38,7 +38,7 @@ Deine Begleiterin weicht zurück - sie ist zu jung, um dir hier eine Hilfe zu se
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Es mit dem Riesen aufnehmen. Du kannst es mit ihm aufnehmen... zumindest für einen Schlag oder zwei.</DefaultText>
+      <DefaultText>Es mit dem Riesen aufnehmen. Du kannst es mit ihm aufnehmen… zumindest für einen Schlag oder zwei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,7 +72,7 @@ Du greifst sie an, als sie gerade zu einem weiteren Hieb ausholt. Du rammst sie 
       <ID>11</ID>
       <DefaultText>Du duckst dich unter seinem Axtwirbel weg. Er ist vollkommen seines Sieges überzeugt und spielt mit dir, ohne ernsthaft anzugreifen.
 
-Ja, er ist schnell, aber nicht so schnell wie du... und als er zum tödlichen Hieb ausholend die Axt hebt, kannst du ihm dein Schwert unter den Brustharnisch rammen bis die Klinge bei seinem Nacken wieder herauskommt. Sein Blut ergießt sich über deine Hände und er kippt zu Boden, dein Schwert noch im Körper. Du hast keine Waffe mehr und seine Begleiterin greift an!</DefaultText>
+Ja, er ist schnell, aber nicht so schnell wie du… und als er zum tödlichen Hieb ausholend die Axt hebt, kannst du ihm dein Schwert unter den Brustharnisch rammen bis die Klinge bei seinem Nacken wieder herauskommt. Sein Blut ergießt sich über deine Hände und er kippt zu Boden, dein Schwert noch im Körper. Du hast keine Waffe mehr und seine Begleiterin greift an!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -120,7 +120,7 @@ Ihr Blut sammelt sich in einer Pfütze im Gang.</DefaultText>
       <ID>19</ID>
       <DefaultText>Du stürmst durch die Schatten und die Tür und rammst den erstbesten Soldaten, der dir im Weg steht. Er geht zu Boden und du löst du dich elegant von ihm, nur um einen direkten Treffer von der Klinge seines Kameraden einzustecken. Aber das war Teil deines Plans, denn auch wenn dir der Schlag den Schädel brummen lässt, befördert er dich gleichzeitig den Gang entlang.
   
-Du kommst auf die Füße und läufst weiter, ohne auf den leichten Schmerz in deiner Brust zu achten. Geschosse prasseln auf die Wände rund um dich ein, doch nur ein einziger Bolzen trifft dich und prallt von deinem verstärkten Brustharnisch ab ...</DefaultText>
+Du kommst auf die Füße und läufst weiter, ohne auf den leichten Schmerz in deiner Brust zu achten. Geschosse prasseln auf die Wände rund um dich ein, doch nur ein einziger Bolzen trifft dich und prallt von deinem verstärkten Brustharnisch ab …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@ Ein Beben erschüttert den Boden unter deinen Füßen, als ob eine gewaltige Fau
       <ID>24</ID>
       <DefaultText>Dein Selbstvertrauen wächst. Leise rufst du einen schlanken Schatten zum Glas, in das Licht. Es ist eine junge Frau, in Ketten des Kummers gelegt.
 
- Sie spricht leise von einer Erinnerung. Du beugst dich zu ihr vor, immer näher, bis ihr Flüstern deinen Geist ausfüllt...
+ Sie spricht leise von einer Erinnerung. Du beugst dich zu ihr vor, immer näher, bis ihr Flüstern deinen Geist ausfüllt…
 
 {SOUND:  Wordless whisper.}</DefaultText>
       <FemaleText />
@@ -160,7 +160,7 @@ Ein Beben erschüttert den Boden unter deinen Füßen, als ob eine gewaltige Fau
       <ID>25</ID>
       <DefaultText>Du hämmerst mit deinen Fäusten auf die Kugel ein, bis sich Sprünge im Glas bilden, die sich ausdehnen und miteinander verbinden. Du spürst, wie du dabei stärker wirst.
 
-Licht fließt wie Blut durch die Sprünge im Glas. Es blendet deine Augen mit dem hellen Licht der Kugel und erfüllt deinen Geist mit einer weiteren Erinnerung...
+Licht fließt wie Blut durch die Sprünge im Glas. Es blendet deine Augen mit dem hellen Licht der Kugel und erfüllt deinen Geist mit einer weiteren Erinnerung…
 
 {SOUND: Fists hitting glass, followed by cracking.}</DefaultText>
       <FemaleText />
@@ -184,14 +184,14 @@ Licht fließt wie Blut durch die Sprünge im Glas. Es blendet deine Augen mit de
       <ID>29</ID>
       <DefaultText>Du brüllst die Kugel an, bis ein riesiger Schatten sich schwerfällig zum Glas bewegt. Es ist eine abscheuliche riesige Kreatur, und sie grinst dich an. Ihre blutbefleckten Klauen stoßen durch die Oberfläche des Glases und verfehlen deinen Kopf nur knapp.
 
-Doch selbst bei diesem Versuch spürst du, wie dein Selbstvertrauen wächst, und aus der beklemmenden Dunkelheit steigt eine Erinnerung an die Oberfläche...</DefaultText>
+Doch selbst bei diesem Versuch spürst du, wie dein Selbstvertrauen wächst, und aus der beklemmenden Dunkelheit steigt eine Erinnerung an die Oberfläche…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Dein Selbstvertrauen wächst. Leise rufst du einen schlanken Schatten zum Glas, in das Licht. Es ist eine junge Frau, in Ketten des Kummers gelegt. Bevor sie dir in die Augen blickt, hast du dich beinahe an ihren Namen erinnert.
 
- Sie spricht leise von einer Erinnerung. Du beugst dich zu ihr vor, immer näher, bis ihr Flüstern deinen Geist ausfüllt...
+ Sie spricht leise von einer Erinnerung. Du beugst dich zu ihr vor, immer näher, bis ihr Flüstern deinen Geist ausfüllt…
 
 {SOUND:  Wordless whisper.}</DefaultText>
       <FemaleText />
@@ -202,21 +202,21 @@ Doch selbst bei diesem Versuch spürst du, wie dein Selbstvertrauen wächst, und
 
 Blicke - die Blicke derer, die du verloren hast - halten dich fest, erstarrt und hilflos. Riesige Schatten greifen nach deiner Kehle. Schmale Klingen zerschneiden deine Füße und du versinkst immer tiefer in der Dunkelheit.
 
-Selbst im Sinken spürst du dein Selbstvertrauen wachsen und eine vielleicht besser vergessen gebliebene Erinnerung kommt ans Licht...</DefaultText>
+Selbst im Sinken spürst du dein Selbstvertrauen wachsen und eine vielleicht besser vergessen gebliebene Erinnerung kommt ans Licht…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Du schlägst auf die Kugel ein, kannst die leuchtende Oberfläche aber nur eindellen, nicht zerbrechen. Dennoch fühlst du, wie du dabei stärker wirkst.
 
-Vom der Mitte der Kugel fließen Schatten hervor, die mit den Einbuchtungen in der Kugel Bilder formen, die deinen Geist mit einer weiteren Erinnerung erfüllen...
+Vom der Mitte der Kugel fließen Schatten hervor, die mit den Einbuchtungen in der Kugel Bilder formen, die deinen Geist mit einer weiteren Erinnerung erfüllen…
 
 {SOUND: Fists dully hitting glass, no crack.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Mit deiner neu gewonnenen Stärke zerschmetterst du das Glas mit einem einzigen Schlag. Licht schlängelt sich um deinen Arm, stößt in dein Herz hinein und erfüllt es mit einer weiteren Erinnerung...
+      <DefaultText>Mit deiner neu gewonnenen Stärke zerschmetterst du das Glas mit einem einzigen Schlag. Licht schlängelt sich um deinen Arm, stößt in dein Herz hinein und erfüllt es mit einer weiteren Erinnerung…
 
 {SOUND: Shatter.}</DefaultText>
       <FemaleText />
@@ -227,7 +227,7 @@ Vom der Mitte der Kugel fließen Schatten hervor, die mit den Einbuchtungen in d
 
 Du siehst, wie seltsame Schatten aus der Mitte der Kugel hervorschwärmen, vielleicht angelockt von dem Radau, den du gemacht hast.
 
-Sie verbiegen und verknoten sich und bilden auf der Oberfläche der Kugel Formen, die deinen Geist mit einer weiteren Erinnerung erfüllen...
+Sie verbiegen und verknoten sich und bilden auf der Oberfläche der Kugel Formen, die deinen Geist mit einer weiteren Erinnerung erfüllen…
 
 {SOUND: Fists dully hitting glass, no crack.}</DefaultText>
       <FemaleText />
