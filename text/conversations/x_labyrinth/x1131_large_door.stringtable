@@ -39,7 +39,7 @@ Selbst in diesem schwachen Licht *leuchtet* das Rad unten an der Tür geradezu. 
     <Entry>
       <ID>9</ID>
       <DefaultText>Tritt von der Tür zurück.</DefaultText>
-      <FemaleText>Tritt von der Tür zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -140,7 +140,7 @@ Nein. Es klingt wie das Flüstern einer Menschenmenge am anderen Ende eines dunk
     <Entry>
       <ID>33</ID>
       <DefaultText>Tritt von der Tür zurück.</DefaultText>
-      <FemaleText>Tritt von der Tür zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
