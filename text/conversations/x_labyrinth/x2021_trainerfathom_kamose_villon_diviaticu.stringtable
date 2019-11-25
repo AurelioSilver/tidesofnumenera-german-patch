@@ -190,9 +190,7 @@ Er packt dich bei den Schultern. "*Du* hast das getan. Wenn das dein Geist ist, 
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich sehe keinen Ausweg."
-
-{SCRIPT: Possibly require the player to have clicked on a certain examinable before he can say this.}</DefaultText>
+      <DefaultText>"Ich sehe keinen Ausweg."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,9 +284,7 @@ Sie schenkt dir ein warmes Lächeln. "Er hätte diesen Ort nicht für dich gesch
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Bei meiner Geburt habe ich einen Aspekt meines Selbst gewählt, tief im Herzen dieses Labyrinths. Ist es das?"
-
-{SCRIPT: If we want to really go nuts, we can give the player an option for his unique Descriptor, just like we do for the classes below. It would require a conditional script for that, though.}</DefaultText>
+      <DefaultText>"Bei meiner Geburt habe ich einen Aspekt meines Selbst gewählt, tief im Herzen dieses Labyrinths. Ist es das?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,12 +350,7 @@ Als du schon kurz davor bist, aufzugeben, findest du etwas: Eine Ansammlung von 
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Keine dieser Fähigkeiten scheint speziell dafür geeignet zu sein, dir einen Ausweg aus diesem Ort zu bahnen. Doch als du sie durchgehst, *weißt* du, dass deine Gefangenschaft hier kein Rätsel ist, das dein Erzeuger dir zu lösen gegeben hat, sondern daran liegt, dass du noch *unvollständig* bist. Dies ist ein weiterer Teil - der letzte -, der bestimmt, wer du bist. Indem du deine Persönlichkeit vervollständigst, wirst du in der Lage sein, dir einen Weg zurück zur Stille deines Geistes zu bahnen.
-
-{Unlock first set of Foci}
-{Open Character screen to choose Focus}
-
-{SCRIPT: After the player chooses his Focus in the character screen, reveal the walkway exit and start this conversation again.}</DefaultText>
+      <DefaultText>Keine dieser Fähigkeiten scheint speziell dafür geeignet zu sein, dir einen Ausweg aus diesem Ort zu bahnen. Doch als du sie durchgehst, *weißt* du, dass deine Gefangenschaft hier kein Rätsel ist, das dein Erzeuger dir zu lösen gegeben hat, sondern daran liegt, dass du noch *unvollständig* bist. Dies ist ein weiterer Teil - der letzte -, der bestimmt, wer du bist. Indem du deine Persönlichkeit vervollständigst, wirst du in der Lage sein, dir einen Weg zurück zur Stille deines Geistes zu bahnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
