@@ -1,9 +1,12 @@
 # Namen
+Arxalin/S
+Neng/S
 Gurian
 Dorden
 Paelus
 Fenne
 Elia
+Paj/S
 Aadiriis
 Abykos
 Achilli/S
@@ -21,8 +24,13 @@ Aldeia
 ALIGERN
 Aligern/S
 Almas
-Alvoosh
+Alvoosh/S
 Andronus
+Erynthgrask
+Harrows
+Hreese
+Iarmid
+Automaton/S
 Aneen
 Angulische/N
 Anshe
@@ -39,7 +47,9 @@ Avina
 Barant/S
 Beleazar/S
 Beltrax
-Bericael
+Bericael/S
+Igratch
+Zerronth
 Bndari
 Bourras
 Brusca/S
@@ -113,7 +123,7 @@ Jerboa
 Jernaugh
 Jherem/S
 Kalaghat
-Kalkedon
+Kalkedon/S
 Kamose
 Katena/S
 Kellenor/S
@@ -131,6 +141,7 @@ Laarma
 Laarna/S
 Lanchan
 Landi
+Iom/S
 Lascar
 Leto/S
 Leviarm
@@ -144,7 +155,7 @@ Manth Pa
 Maralel/S
 Marcysa/S
 Mard
-Marit
+Marit/S
 Matikina
 MATKINA
 Matkina/S
@@ -164,7 +175,7 @@ Motley/S
 Murde/N
 Murden
 Nevajin
-Numenera
+Numenera/S
 Nychthemeron/S
 Nym/S
 Obervich/S
@@ -176,7 +187,6 @@ Ornus
 Orseolo
 Orth
 Otero/S
-Paj
 Paja/S
 Parsim
 Peliai/S
@@ -194,7 +204,7 @@ Quijano
 Quishami/S
 Raima/S
 Ranard/S
-Rekken
+Rekken/S
 Rennio/S
 RHIN
 Rhin/S
@@ -244,7 +254,7 @@ TYBIR
 Tybir/S
 Unagran
 Uralau
-Ushrov
+Ushrov/S
 Vallon
 Vander/S
 Varjellen
@@ -253,7 +263,7 @@ Verschlinger
 Vicariane/S
 Villon
 Vonetian
-Vostiel
+Vostiel/S
 Vrung/S
 Vuntgen
 Wheedle
@@ -261,13 +271,22 @@ Yeen/S
 Yollen
 Yovok
 Ysg
-Zaofi
-Zaofis
+Zaofi/S
+Misha
+Aurigan/S
+Veresterios
+Gurek/S
+Lanalton/S
+Lovac/S
 Zebb/S
 Zebbak/S
 Zerian/S
 Ziobe/S
+Sucya/S
 # Gegenstand
+Dhau
+Walhaut
+Windschlitzer
 Datosphäre
 Jahk
 Shin
@@ -299,6 +318,9 @@ Sada
 Sagus
 Sagus-Klippen
 # Diverses
+Aether-Funk
+Walsänger/S
+Arpeggio
 Mendikant
 Mendikanten
 Cenotaph
@@ -310,6 +332,7 @@ Gemorrn
 Gezeitenenergien
 Gezeitenverbindung
 Gezeitenverbindungen
+Kragenbaul/E
 Pestschiff/S
 Phobit/S
 Memorialist
@@ -370,7 +393,7 @@ lt
 # Hyphenated compound words containing words listed here will be accepted, too:
 # If this file contains "Au-pair", then "Au-pair-Agentur" will not be marked as incorrect.
 # Compound words starting with words listed here will be accepted, too:
-# If this file contains "Secondhand" or "Helizität", then "Secondhandladen" 
+# If this file contains "Secondhand" or "Helizität", then "Secondhandladen"
 #  or "Helizitätsoperator" will not be marked as incorrect.
 # (For words ending with "tum", "ling", "ion", "tät", "keit", "schaft", "sicht", "ung", or "en"
 #  a Fugen-S will be inserted internally, such as in 'HelizitätSoperator')
@@ -385,6 +408,7 @@ Aalborg/S #name
 Aarhus #name
 Aarwangen/S #name
 Achau/S #name
+Accenture/S #name
 Acolon #name
 Adalbertstr. #name
 Adalbertstraße #name
@@ -433,6 +457,7 @@ Antoine/S #name
 Antonie #name
 Antonie/S #name
 Antoniusquartier/S #name
+AP #abk
 Apenrade/S #name
 apoBank #name
 Apuleius #name
@@ -450,6 +475,7 @@ Arturo/S #name
 Aschach/S #name
 Asgardia #name
 Asimov/S #name
+Aston Martin #name
 Aßling/S #name
 Auma-Weidatal #name
 AutoHotkey #name
@@ -526,7 +552,6 @@ Brüderkrankenhaus #name
 Brüderkrankenhauses #name
 Bruhn/S #name
 Brünhild/S #name
-Buderus #name
 Bühler/S #name
 Buonarroti/S #name
 Burak/S #name
@@ -622,6 +647,7 @@ Dorota/S #name
 Dörte/S #name
 Dorthe/S #name
 Dossenheim/S #name
+Douglas #name
 Downpatrick/S #name
 Drake/S #name
 Dudweiler/S #name
@@ -707,7 +733,6 @@ Foxconn #name
 Framatome #name
 Franciacorta #name
 Francis #name
-Franzi/S #name
 Fred/S #name
 Frederik/S #name
 Frielendorf/S #name
@@ -773,6 +798,7 @@ Guderian/S #name
 Gundbert/S #name
 Günding/S #name
 Gurtenfestival/S #name
+Habeck/S #name
 Hadersleben/S #name
 Hagebau #name
 Hahnenviertel/S #name
@@ -835,7 +861,7 @@ Horsthemke #name
 Hösbach/S #name
 Houdini/S #name
 Huchenfeld/S #name
-Hugenottenallee #name
+Hünfeld/S #name
 Hyparschale #name
 Ibuflam #name
 Ickern/S #name
@@ -850,6 +876,7 @@ Immensee #name
 Incheon #name
 Infanteriestraße #name
 Ingold #name
+Inkscape/S #name
 Inkwilersee/S #name
 Innotec #name
 Inzersdorf #name
@@ -895,6 +922,7 @@ Jesper/S #name
 Jesse/S #name
 Jihlava/S #name
 Jimmy/S #name
+Jira/S #name
 Johanneskirchen/S #name
 Johannsen/S #name
 Jöhstadt/S #name
@@ -1004,7 +1032,6 @@ Levy/S #name
 Lidia/S #name
 Liebenberg/S #name
 Liebenberger #name
-Liliane/S #name
 Lilja/S #name
 Lilli/S #name
 Lily/S #name
@@ -1234,6 +1261,7 @@ Phillip/S #name
 Philosophenweg/S #name
 Piaggio #name
 Pienza/S #name
+Pipedrive/S #name
 Planksee/S #name
 Plaszow/S #name
 Pockau-Lengefeld #name
@@ -1247,7 +1275,6 @@ Puebla #name
 Rabea/S #name
 Rademacher/S #name
 Radka/S #name
-Radkersburg/S #name
 Radtke/S #name
 Raguhn-Jeßnitz #name
 Raiffeisenstraße #name
@@ -1287,8 +1314,6 @@ Rodenberg/S #name
 Rodewisch #name
 Roigheim/S #name
 Romana/S #name
-Rosbach/S #name
-Roßdorf/S #name
 Rosemann/S #name
 Rosendahl/S #name
 Rosi/S #name
@@ -1306,6 +1331,7 @@ Sababurger #name
 Sabri #name
 Sacharow/S #name
 Sailauf/S #name
+Salesforce/S #name
 Salim/S #name
 Salvacyl #name
 Salzschlirf/S #name
@@ -1340,7 +1366,6 @@ Seifert/S #name
 Seifhennersdorf/S #name
 Seifried/S #name
 Selin/S #name
-Semmenstedt/S #name
 Serkan/S #name
 Sevelen/S #name
 Shadowhunter #name
@@ -1383,6 +1408,7 @@ Storchenweg/S #name
 Storkow/S #name
 Stowasser/S #name
 Stralau/S #name
+Stripe/S #name
 Subaru #name
 Subway #name
 Sudeck #name
@@ -1398,6 +1424,7 @@ Taira/S #name
 Talea/S #name
 Tambach-Dietharz #name
 Tania/S #name
+Tatiana/S #name
 Targobank #name
 Tartaros #name
 Techem #name
@@ -1581,7 +1608,7 @@ Abonnierung
 Abo-Nr. #abk
 Abosystem/S
 abrechnungstechnisch/A
-absandte/N   # Vergangenheit von "absenden"
+absandte/N # Vergangenheit von "absenden"
 absandtest
 absandtet
 Abschlepp-LKW/S
@@ -1621,8 +1648,6 @@ AC-Schalter/NS
 Active Directory
 AC-Verkabelung
 adagio
-Adalbertstr. #name
-Adalbertstraße #name
 Additivierung
 Add-on-Einstellungen
 Add-on-Entwickler/NS
@@ -2189,7 +2214,6 @@ beraterisch/A
 Beräumtwerden/S
 Beräumung
 Beredung
-Berenike/S #name
 Berstdruck/S
 Berufsmaturitätsschule/N
 Besamungsmethode/N
@@ -2336,7 +2360,6 @@ BMZ #abk
 BNE #abk
 boah #ugs
 Boardinghouse
-Bobingen/S #name
 Bodenbeschichtungssystem/S
 Bodenbeschichtungssysteme/N
 Bodenversatz
@@ -2449,9 +2472,7 @@ Cavaletti
 Cavendish/S #name
 CC
 CE
-Cedrik/S #name
 CEFR #abk
-Center Court/S
 Ceresheiligtum/S
 CES
 CFO #abk
@@ -2489,7 +2510,6 @@ Cineastik
 cisgender
 Citratpuffer/NS
 Citrix #name
-Claudio/S #name
 Clickertraining/S
 Clickworker/NS
 Clostridium/S
@@ -2577,6 +2597,7 @@ Datenleak/S
 Datenlieferer/NS
 Datensenke/N
 Daumenausschub/S
+DAZN
 Dazugehörigkeit
 de luxe
 Deadlock/S
@@ -2713,7 +2734,6 @@ Distinktionspraktiken
 Divertikulitis
 Diwali
 DJs
-DJs
 DKK
 DLC
 DLK
@@ -2740,6 +2760,7 @@ Doppler-Reflektometrie
 Dorint
 Dorothea-Neff-Preis
 Dorothea-Neff-Preise/NS
+Dödel/S
 Dörrgut/S
 Dosierungsempfehlung
 Dosierungsempfehlungen
@@ -2776,6 +2797,7 @@ Druckschmerzhaftigkeiten
 Druckspüler/NS
 Drumming
 Drumriser
+Drupal/S #name
 Dschinns
 DSM
 Dual Use
@@ -2807,7 +2829,6 @@ durchtropfend/A
 durchwurfhemmend/A
 Dürrephase/N
 Duschbrause/N
-Dustin/S #name
 DVAG #abk
 DVB
 DVB-C
@@ -2842,7 +2863,6 @@ Eigentümerwohnung
 Eigentümerwohnungen
 Einbauspüle/N
 Einbeck/S #name
-Einbürgerungszusicherung
 Einbürgerungszusicherung
 Einbürgerungszusicherungen
 Eindämmungsplan/S
@@ -2949,8 +2969,6 @@ Elektroskop/S
 Elektroskope/N
 Elephantiasis
 Elferratsmitglied/S
-Elferratsmitglied/S
-Elferratsmitglieder/N
 Elferratsmitglieder/N
 Elferratspräsident
 Elferratspräsidenten
@@ -3132,7 +3150,6 @@ Ertrinkungsunfälle/N
 Erwiderungsfrist
 Erwiderungsfristen
 Erythrit
-Erythrit
 Erzählanalyse
 Erzählkompetenz
 Erzählsprache/N
@@ -3171,10 +3188,9 @@ Eventtechnik
 Eventualposition
 Eventveranstalter/NS
 Evernote #name
-ex nunc
-ex tunc
 Exajoule
 Excelliste/N
+Exchange/S
 Exemplarität
 exergetisch/A
 Exkavation
@@ -3323,8 +3339,7 @@ firmen
 firmend/A
 Firmreise/N
 firmst
-firmt
-firmte
+firmt/E
 firmten
 firmtest
 Firmvorbereitung
@@ -3413,7 +3428,6 @@ französiert/A
 Französischtest/S
 Fraport #name
 Fraternisierungsverbot/S
-Fred/S #name
 Freewriting
 Freibadwetter/S
 freikünstlerisch/A
@@ -3478,7 +3492,7 @@ Fußballenbereich/S
 Fußpulse
 Fußschalterunterstützung
 FuStW
-Futonbett
+Futonbett/S
 Futonbetten
 Fütterungsanlage/N
 Gabapentin/S
@@ -3516,7 +3530,6 @@ Gasströmungswächter/NS
 Gastrobedarf/S
 Gasverdichtungsanlage/N
 Gaubenfenster/NS
-Gauland/S #name
 GDPR #abk
 Gebäckpresse/N
 Gebärdensprachgemeinschaft
@@ -3531,7 +3544,6 @@ gebrainstormt
 gecrimpt/A
 gedartet
 gedenkstättenpädagogisch/A
-gefirmt/A
 gefirmt/A
 gefittet/A
 geflasht
@@ -3823,7 +3835,6 @@ Heißsiegelmaschine/N
 Heißwasseraquifere/N
 Helferteam/S
 Heliostaten
-Helma/S #name
 Hemmhof/S
 Hemmhöfe/N
 Hendrike/S #name
@@ -4011,10 +4022,9 @@ hippem
 hipper
 Hirninsult
 Hirsutismus
-Hirzenhain/S #name
 History
 Hi-Tech
-hlfswissenschaftlich/A
+hilfswissenschaftlich/A
 HLG
 hm
 Hochaltrigkeit
@@ -4078,8 +4088,6 @@ Hospizmitarbeiterinnen
 Hospizräumlichkeiten
 Hoverboard/S
 HRB # Handelsregister Abteilung B, sehr häufig im Impressum
-HRB-Auszug/S
-HRB-Auszüge/N
 HRD
 HRIS
 Hücker-Aschen #name
@@ -4129,7 +4137,6 @@ ILN
 Imaginationstraining/S
 Imaginierung
 Imjin-Krieg/S
-Imke/S #name
 Immigrationsrecht/S
 immobilisiere/N
 immobilisierend/A
@@ -4347,10 +4354,8 @@ JC #abk
 Jeansgröße/N
 Jedermannsrecht/S
 Jedermannsrechtes
-Jeff/S #name
 Jelinek/S #name
 Jemeinigkeit
-Jesper/S #name
 Jesse James
 Jesustyp
 Jesustypen
@@ -4360,7 +4365,6 @@ Jimdo #name
 Jimmy Carter/S
 Jinping/S #name
 JKU #abk
-Johannsen/S #name
 Joint Venture/S
 Jokus
 Jöllenbeck #name
@@ -4442,7 +4446,6 @@ kastig/A
 Katalogisierungsaufwand/S
 Katalogsprache/N
 Katalogverwaltung
-Katastervermessung
 Katastervermessung
 Katastervermessungen
 Kategorientheorie
@@ -4629,13 +4632,9 @@ kontiere
 kontiere/N
 kontieren
 kontierend/A
-kontierend/A
 Kontierens
 kontierst
-kontierst
 kontiert/A
-kontiert/A
-kontiertest
 kontiertest
 Kontierungen
 Kontierungsstempel/NS
@@ -4778,8 +4777,7 @@ KWK #abk
 KWKG #abk
 Labelprinter/NS
 laber
-Labour #name
-Labour-Partei #name
+Labour #name (if 'Labour' is allowed, so is 'Labour-*')
 Lacan/S #name
 Lacearbeiten
 Lacegarn/S
@@ -4790,7 +4788,6 @@ Lachszuchtfarm
 Lachszuchtfarmen
 Lackierbetrieb/S
 Lackierbetriebe/N
-Lackierkabine/N
 Lackierkabine/N
 Lackschichtendicke/N
 ladungsfähig/A
@@ -4925,7 +4922,6 @@ Lieferungsfristen
 Lieferungsvertrag/S
 Lieferungsverträge/N
 Lieferungsverzug/S
-Lieferungsverzug/S
 Liegenschaftsbewertung
 Liegenschaftsbewertungen
 Liegenschaftskarte/N
@@ -4936,7 +4932,6 @@ Liegenschaftszins
 Liegenschaftszinsen
 Liegenschaftszinssatz
 Liegenschaftszinssatzes
-Lifehack/S
 Lifehack/S
 Lightroom
 Liliane/S #name
@@ -5123,7 +5118,6 @@ Materialdisponent
 Materialdisponenten
 Materialdisponentin
 Materialdisponentinnen
-Matilda/S #name
 Matratzenschoner/NS
 Matriarchin
 Matriarchinnen
@@ -5133,10 +5127,10 @@ Mattenlänge/N
 mausbraun/A
 Mäusegruppe/N
 mc²
+MC/S
 MCP #abk
 MDF #abk
 Mechanisierungsverfahren/S
-Mechernich/S #name
 Medenspiel/S
 Medenspiele/N
 Medenspieler/NS
@@ -5238,7 +5232,6 @@ Mikrofonhalterung
 Mikrofonhalterungen
 Mikrofonierung
 mikroorganisch/A
-mikropolitisch/A
 mikropolitisch/A
 Milgram/S
 Milieuschutzgebiet/S
@@ -5346,7 +5339,6 @@ Molekültransport/S
 Momentengleichgewicht/S
 monatl. #abk
 Mondregolith/S
-Moni/S #name
 Monoamin/S
 Monoamine/N
 Monoprodukt
@@ -5506,6 +5498,7 @@ Napola
 Napoli/S
 Narbung
 Narrhalla
+Nasa
 Nash-Gleichgewicht
 Nash-Gleichgewichte/NS
 Nässeschutz
@@ -5658,7 +5651,7 @@ Obliquität
 Octavia #name
 Offenbarungspflicht
 Offenbarungsverbot/S
-Offenbarungsverbotes
+Offenbarungsverbote/NS
 Öffentlichkeitsarbeitsfähigkeiten
 öffentlichkeitsfähig/A
 Öffentlichmachung
@@ -5703,13 +5696,8 @@ Online-Retourencenter
 Onlinestore/S
 onshore
 Onychomykose
+Opec
 Open Source
-Open-Source-CMS
-Open-Source-Lösung
-Open-Source-Lösungen
-Open-Source-Skriptsprache/N
-Open-Source-Version
-Open-Source-Versionen
 Opex
 Opportunitätszins
 Opportunitätszinssatz
@@ -6109,6 +6097,7 @@ Privatsphärenschutz
 Privatsphärenschutzes
 Proaktivität
 Produzentenfamilie/N
+Professional/S
 Professionalisierungsprozess
 Professionalisierungsprozesse/NS
 Professionsentwicklung
@@ -6178,7 +6167,6 @@ Psychiatrieaufenthalte/N
 Psychiatrietage/N
 Psycho-Doc/S
 Psychoregulation
-Psychoregulation
 Psychotiker/NS
 Psychotikerin
 Psychotikerinnen
@@ -6233,7 +6221,6 @@ quasiisotrop/A
 Quasselstrippe/N
 Queensize-Bett
 Queensize-Betten
-Queerness
 Queerness
 Quernheim/S #name
 Querschnittsdenken/S
@@ -6408,7 +6395,6 @@ Regieberichte/NS
 Regiohotel/S #name
 Registrierungsaktion
 Registrierungsaktionen
-Registrierungsseite/N
 Registrierungsseite/N
 reglementarisch/A
 Regolith/S
@@ -6753,6 +6739,7 @@ Säkularität
 Salbungsstein/S
 Salbungssteines
 Saldenabstimmung
+Sale/S
 Salutschießen/S
 Samana/S
 Sammlungsinhalte/N
@@ -6800,12 +6787,12 @@ Schaftriemen/S
 Schälanschnitt/S
 Schalensiegler/NS
 schallschutztechnisch/A
+Schaltwippe/N
 Schalungsplan/S
 Schalungspläne/N
 Schalungstyp/S
 Schalungstypen
-Schamott
-Schamotte
+Schamott/E
 Schandfarbe/N
 Schandstrafe/N
 Schärfenverlagerung
@@ -7028,7 +7015,6 @@ Showeffekt/S
 Showeffekte/NS
 Showreel/S
 Showtanz
-Showtanz
 Showtänze/N
 Showtanzes
 Showtruck/S
@@ -7097,7 +7083,6 @@ Skriptentwürfe/N
 Skulpturengiebel/NS
 Skulpturenzyklus
 SkyTrain
-Slack #name
 Slam #eng
 slicen
 Slipanlage/N
@@ -7289,7 +7274,6 @@ Staplerverkehr/S
 Starfahrer/NS
 Starfahrerin
 Starfahrerinnen
-stärkebasiert/A
 stärkebasiert/A
 stärkenorientiert/A
 Stärkungstrank/S
@@ -7601,7 +7585,6 @@ TG-Platzes
 TH #abk
 Thalassämie/N
 Thames Clipper
-Thasos #name
 THB
 Theaterplastiker/NS
 Theaterplastikerin
@@ -7751,10 +7734,7 @@ traumaassoziiert/A
 Travis #name
 Trazodon
 Treckerfahrer/NS
-Treckerfahrer/NS
 Treckerfahrerin
-Treckerfahrerin
-Treckerfahrerinnen
 Treckerfahrerinnen
 Treffwahrscheinlichkeit
 Treffwahrscheinlichkeiten
@@ -8376,7 +8356,6 @@ Votivkerze/N
 VPI
 vRack/S
 VStGB
-VStGB
 VwGH #abk
 VwGVG
 wachgeküsst/A
@@ -8404,7 +8383,6 @@ Waldorfschülerinnen
 walkstabil/A
 Wallberg/S #name
 Walletsoftware
-Wälzkörper/NS
 Wälzkörper/NS
 Wälzlagerstahl/S
 Wälzlagerstähle/N
@@ -9008,7 +8986,6 @@ hineinfüllt
 hineingefüllt/A
 hineinfüllte/N
 hineinfülltest
-hineingefüllt/A
 hineinzufüllen
 hineinzufüllende
 hineinzufüllendem
@@ -9217,11 +9194,6 @@ Situationsgespräche/N
 Sit-up/S
 Slim Fit
 Snus
-Social Collaboration
-Social Engineering
-Social Learning
-Social Network/S
-Social Software
 Soft-Close
 Software-as-a-Service
 Softwarelokalisierungsprojekt/S
@@ -9307,11 +9279,9 @@ Verrundung
 Verschleimung
 Verschleimungen
 Verselbständigungsschritte/NS
-Verwaltertätigkeit
 verwendungsbezogen/A
 Virtual Console
 Virtual Network
-Virtual Reality
 vollgemüllt/A
 Vollkaskotarif/S
 Vollkaskoversicherungen
@@ -9407,3 +9377,451 @@ herumzuchauffierendes
 herumzudirigieren
 herumzudiskutieren
 herumzudösen
+vorwärtsstreben
+vorwärtsstrebend/A
+Erstsemesterstudentin
+Erstsemesterstudentinnen
+Backend #eng
+sags #ugs
+erzähls #ugs
+zeigs #ugs
+hols #ugs
+wirds #ugs
+wills #ugs
+werds #ugs
+wärs #ugs
+versuchs #ugs
+probiers #ugs
+tuts #ugs
+stimmts #ugs
+solls #ugs
+schreibs #ugs
+schmeckts #ugs
+scheints #ugs
+schauts #ugs
+sagts #ugs
+riechts #ugs
+regnets #ugs
+nimms #ugs
+machts #ugs
+kümmerts #ugs
+kommts #ugs
+hilfts #ugs
+hättens #ugs
+habs #ugs
+gings #ugs
+gabs #ugs
+gibts #ugs
+läufts #ugs
+springts #ugs
+passts #ugs
+Blu-Ray-Player/NS #eng
+Rundenziele/N
+fängig/A
+Eduardo/S
+Hypnopädie
+Taststock/S
+Taststöcke/N
+Abholungsauftrag/S
+Abholungsaufträge/N
+Lampertheim/S
+Kaubelastungen
+Mörtelwespe/N
+Lwiw/S
+Gravitonen
+Midijob/S
+Dermokosmetik
+Funnel/S
+Hartzer/NS
+Ambitionsniveau/S
+Ron/S
+Koi/S
+Bezahlcode/S
+rangeht
+rangehst
+Forist
+Foristen
+Feedbackbearbeitung
+Werker
+Bakterienschüttler/S
+Fixleintuch/S
+Fixleintücher/N
+Hostwechsel/S
+Stationsarbeit
+dekonnektieren
+Bourbon
+Nachvornefallen/S
+rumdenken
+Chondrogenese
+AW #abk
+HH #abk
+PT #abk
+ASIN/S #abk
+Basti/S #name
+Thunberg/S #name
+Germany #name
+Bruce/S #name
+Lead/S #eng
+Leadagentur
+Leadagenturen
+Sendungsstatus
+GIF-Datei
+GIF-Dateien
+Comdirect/S #name
+Technoklub/S
+Real Estate #eng
+Arial/S #name
+Nachladefunktion
+Nachladefunktionen
+browserseitig/A
+Statista/S #name
+PhpMyAdmin/S #name
+WeChat/S #name
+Conversion/S #eng
+Corporate/S #eng
+Ads #eng
+Benefit/S #eng
+Daily/S #eng
+Case/S #eng
+Battle/S #eng
+cheers #eng
+Elektro
+Change/S #eng
+Engineer/S #eng
+Group/S #eng
+Executive/S #eng
+Error/S #eng
+Mathematikum/S #name
+Rinderkraftbrühe/N
+Spieletest/S
+tracken
+World/S #eng
+Beschädigungsspur
+Beschädigungsspuren
+Sea-Watch #name
+Schmarrn/S #regional
+Fleischpflanzerl/N #regional
+Pull-Faktor/S
+Pull-Faktoren
+Push-Faktor/S
+Push-Faktoren
+Isabell/S #name
+DeepL/S #name
+Selenium/S #name
+GoPro/S #name
+FileVault/S #name
+Guadalajara/S #name
+Käsereibe/N
+Kotlin/S #name
+Wehrmachtsmanöver/S
+Maynard
+hochautomatisiert/A
+Maschsee/S #name
+Geschwisterbeziehung
+Geschwisterbeziehungen
+Guangdong/S #name
+Oppositionen
+Voxel/S
+empathielos/A
+Rheinsberg/S #name
+Prequel/NS #eng
+Risperidon/S
+Probeabo/S
+Androidgerät/S
+Androidgeräten
+Premiuminhalt/S
+Premiuminhalte/N
+Katakana
+biobasiert/A
+Iron Man/S #name
+Gradationskurve/N
+Rotorsteuerung
+Rotorsteuerungen
+Hebeanlage/N
+Shawn/S
+Sally/S
+rumhüpfen
+rumhüpfend/A
+Übermittlungskosten
+Palliativpflege
+Whg.
+teilw.
+vlt.
+etw.
+zurückändern
+zurückändere
+zurückänderst
+zurückändert
+zurückgeändert
+Alistair/S #name
+Eiergraupe/N
+Gerstengraupe/N
+Obergraupe/N
+Zinngraupe/N
+Alexithymie
+architekturbezogen/A
+aufsichtsähnlich/A
+Beachparty/S
+Betreiberpflicht
+bovis
+Colbitz #name
+Daueroppositionelle/N
+DFS #abk
+eichrechtskonform/A
+entgegengelacht
+entgegenlache/N
+entgegenlachend/A
+entgegenlachst
+entgegenlacht
+entgegenlachte/N
+entgegenlachtest
+entgegenzulachen
+Erlebbarkeit
+Erlebnisgutschein/S
+Erlebnisgutscheine/NS
+Fashionartikel/NS
+FCI #abk
+Hookah/S
+insolvenzgefährdet/A
+investiv/A
+kalkähnlich/A
+Kautionsversicherung
+Kautionsversicherungen
+Krallenzange/N
+Kreativbranche
+Kynologe/N
+Kynologie
+Kynologin
+Kynologinnen
+Lieferando #name
+Lifelong Learning
+Lodron #name
+Minecraftserver/NS
+Mobilitätsabfrage/N
+Nahkauf #name
+Neutralisierungsstrategie/N
+Paddlerin
+Paddlerinnen
+Palace #eng
+Peridotit
+Pizzagenuss
+Pizzagenusses
+Pokerwoche/N
+politökonomisch/A
+Portierungsstelle
+PTA #abk
+PTB #abk
+Schlössle-Galerie #name
+Solidarność #name
+Spargelköpfe/N
+Sparringspartnerin
+Sparringspartnerinnen
+Staplertätigkeiten
+sturköpfig/A
+Thekenaufsteller/NS
+Thymos
+Tremmelberg/S #name
+Trockenkauartikel/NS
+Umarex #name
+Ungetier/S
+Unglücklichsein/S
+VN #abk
+wasservermalbar/A
+Wegrutscher/NS
+Wender/NS
+Dick Cheney #name
+autom #abk
+miteinkalkulieren
+miteinkalkuliert/A
+punktelos/A
+Körnerbrötchen
+selbstjustierend/A
+TinyMCE/S #name
+CKEditor/S #name
+JS #abk
+Unwettergefahr
+Unwettergefahren
+DWD-Meteorologe/NS
+DWD #abk
+GetYourGuide/S
+SEPA/S
+Wattpad/S #name
+Aladdin/S #name
+Betreiberüberwachung
+Fridays for Future #name
+auseinandergeschrieben/A
+Resignationsformel/N
+Telekomvertrag
+Swiffer #name
+on-premise #eng
+on-premises #eng
+Websitenutzung
+Poolparty/S
+Mittelklasseauto/S
+übermotiviert/A
+Saharahitze
+Wulf/S #name
+Thies #name
+Limited #eng
+Kultkneipe/N
+Nespresso/S #name
+Fußgängerkollision
+Fußgängerkollisionen
+Ariana/S #name
+MyHammer/S #name
+Fiete/S #name
+False Positive/S #eng
+HTTP-API #eng
+Pull Request/S #eng
+Asset/S #eng
+Anfrageformular/E
+Bezahloption
+Bezahloptionen
+United Internet/S #name
+Coutinho/S #name
+Adobe Acrobat #name
+Air France/S #name
+Air India/S #name
+Air Canada/S #name
+Bestell-Nr.
+Dipl.-Päd.
+Atletico Madrid/S #name
+Caddy/S #name
+Aileen/S #name
+algorithmisiert/A
+Arbeitsortmodell/S
+Arbeitsortmodelle/N
+Attribution
+Attributionen
+behämmert/A
+biotitreich/A
+Birte/S #name
+Brakel/S #name
+E-Commerce-System/S
+E-Commerce-Systeme/N
+endabzurechnen
+eskalativ/A
+Fußgängerverhalten/S
+Gliederheizkörper/NS
+Griffigkeitsverhalten/S
+Harzsystem/S
+Harzsysteme/N
+Hobbock/S
+Italia #name
+Kautionsverträge/N
+Kautionsvertrag/S
+Kingsbury/S #name
+Kirmesfan/S
+konfrontationsscheu/A
+Lüftungskonvektor/S
+Lüftungskonvektoren
+Laurussia/S #name
+Lichternächte/N
+Lichternacht
+Lunchzeit
+Lunchzeiten
+Männeken/S #ugs
+Micra #name
+Mobilitätssektor/S
+nachzutrainieren
+Nutzenargumentation
+Nutzenargumentationen
+optimierungsfähig/A
+Piesteritz #name
+Präparand
+Präparanden
+Präparandin
+Präparandinnen
+Primärdatenaufbereitung
+Rentensplitting/S
+Reservierungsformular/S
+Reservierungsformulare/N
+rissgefährdet/A
+Semestereröffnung
+Semestereröffnungen
+Sendungsverantwortliche/N
+Sendungsverantwortlicher
+Stationsreihenfolge/N
+Stiftungsfamilie/N
+Tourguide/S
+Unruhepol/S
+untergrundverfestigend/A
+Versetzungsschreiben/S
+Löschungsersuchen/S
+Feuchtnasenprimat
+Feuchtnasenprimaten
+Schokopudding/S
+Lennox #name
+Kleingetier/S
+Globalismus
+Jänschwalde/S #name
+Normenpyramide
+Kollimation
+kollimiert/A
+Stefaniensaal/S #name
+Strahlhöhe/N
+Frustessen/S
+Axtkämpfer/NS
+eigtl. #abk
+easyJet/S #name
+Citavi/S #name
+Niederschlagung
+Niederschlagungen
+zimmermannsmäßig/A
+Rückwärtsplanung
+Rückwärtsplanungen
+Festsetzungsmöglichkeit
+Festsetzungsmöglichkeiten
+Nackenfell/S
+MRI-Untersuchung
+MRI-Untersuchungen
+Kopfkratzen/S
+Stehtischhusse/N
+Ablaufrinne/N
+Verleihzentrum/S
+Auenpflanze/N
+Dekoteller/NS
+Zickchen/S
+Economy #eng
+Economy Class #eng
+Hetzner/S #name
+AV/S #abk
+WeWork/S #name
+Klickpreis/E
+Bezahlkunde/N
+PoC/S #abk
+Dipl.-Päd. #abk
+Dongle/S #eng
+Bluetooth-Dongle/S #eng
+USB-Dongle/S #eng
+Acrobat/S #name
+Atletico/S #name
+Yo-Yos
+kreieret
+kreier
+kreierest
+Apartheit
+AGBs #ugs
+georedundant/A
+Georedundanz
+gleichzubehandeln
+gleichzubehandelnde
+gleichzubehandelnden
+gleichzubehandelndem
+gleichzubehandelnder
+gleichzubehandelndes
+anmorsen
+anmorsende
+anmorsenden
+anmorsendem
+anmorsender
+anmorsendes
+anmorste
+anmorsten
+anzumorsen
+anzumorsende
+anzumorsenden
+anzumorsendem
+anzumorsender
+anzumorsendes
+angemorst/A
