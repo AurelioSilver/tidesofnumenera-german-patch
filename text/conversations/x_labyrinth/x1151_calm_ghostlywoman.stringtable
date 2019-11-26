@@ -65,7 +65,7 @@ Sie sieht auf und sich um, als könnte sie im Dunkel über euch etwas sehen, das
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Sie sieht dich an, als würde sie dich zum ersten Mal überhaupt erst bemerken. „Ich denke … ich bin mehr als das. Ich weiß nicht genau was, aber Erinnerungen kommen an die Oberfläche - viel mehr als zuvor. Ich bin jedoch nicht sicher, ob alle davon meine sind.“</DefaultText>
+      <DefaultText>Sie sieht dich an, als würde sie dich zum ersten Mal überhaupt erst bemerken. „Ich denke … ich bin mehr als das. Ich weiß nicht genau was, aber Erinnerungen kommen an die Oberfläche – viel mehr als zuvor. Ich bin jedoch nicht sicher, ob alle davon meine sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,21 +105,21 @@ Sie sieht auf und sich um, als könnte sie im Dunkel über euch etwas sehen, das
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Nein. Du hast die Kammer aktiviert und daher hast du hier mehr Macht als die anderen - mehr Klarheit und Kontrolle.“
+      <DefaultText>„Nein. Du hast die Kammer aktiviert und daher hast du hier mehr Macht als die anderen – mehr Klarheit und Kontrolle.“
 
 {SCRIPT: PC activated the chamber in the Sorrow Crisis.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Nein. Als die Erste die Kammer aktiviert hat, gab es ihr hier größere Macht als den anderen - nicht mehr als dir, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass ihr das nichts helfen wird, wenn du sie nicht finden kannst.“
+      <DefaultText>„Nein. Als die Erste die Kammer aktiviert hat, gab es ihr hier größere Macht als den anderen – nicht mehr als dir, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass ihr das nichts helfen wird, wenn du sie nicht finden kannst.“
 
 {SCRIPT: The First activated the chamber in the Sorrow Crisis.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Nein. Als deine Freundin die Kammer aktiviert hat, gab es ihr hier größere Macht als den anderen - nicht mehr als dir, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass ihr das nichts helfen wird, wenn du sie nicht finden kannst.“
+      <DefaultText>„Nein. Als deine Freundin die Kammer aktiviert hat, gab es ihr hier größere Macht als den anderen – nicht mehr als dir, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass ihr das nichts helfen wird, wenn du sie nicht finden kannst.“
 
 {SCRIPT: Matkina activated the chamber in the Sorrow Crisis.}</DefaultText>
       <FemaleText />
@@ -145,7 +145,7 @@ Mit geschlossenen Augen zeigt sie auf die Luke dir gegenüber, wo du herauskanns
       <ID>24</ID>
       <DefaultText>Sie reißt die Augen auf und keucht. Hält sich eine durchsichtige Hand vor den Mund. „Nein. Der Wandelnde Gott. Er ist hier! Er versucht, sich mit Gewalt seinen Weg in die Resonanz zu bahnen. Wenn er genug Zeit bekommt, wird er Erfolg haben.“
 
-Sie packt dich am Arm. „Du musst ihn aufhalten. Sonst wird er euer aller Geister in *seinem* Körper vereinen und euch für immer auslöschen - so sagen es mir alle meine Erinnerungen. Er muss gestoppt werden.“</DefaultText>
+Sie packt dich am Arm. „Du musst ihn aufhalten. Sonst wird er euer aller Geister in *seinem* Körper vereinen und euch für immer auslöschen – so sagen es mir alle meine Erinnerungen. Er muss gestoppt werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@ Sie packt dich am Arm. „Du musst ihn aufhalten. Sonst wird er euer aller Geist
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>„Als deine Geschwister und du hierhergebracht wurden, haben Teile ihrer Erinnerungen Lücken in meiner aufgefüllt. Vieles ist mir immer noch unklar, aber ich spüre die Gefahr, in der du bist - in der wir *alle* sind.“</DefaultText>
+      <DefaultText>„Als deine Geschwister und du hierhergebracht wurden, haben Teile ihrer Erinnerungen Lücken in meiner aufgefüllt. Vieles ist mir immer noch unklar, aber ich spüre die Gefahr, in der du bist – in der wir *alle* sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,7 +230,7 @@ Sie packt dich am Arm. „Du musst ihn aufhalten. Sonst wird er euer aller Geist
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Sie schließt erneut die Augen. Als sie sie wieder öffnet, sagt sie: „Sie sind hier - oder zumindest ihre Geister. Sie sind auf irgendeine Weise… mit dir verbunden. Sie wurden ebenso wie du zu dem Labyrinth hingezogen. Sie sind hier gefangen, so wie die anderen Verstoßenen.“</DefaultText>
+      <DefaultText>Sie schließt erneut die Augen. Als sie sie wieder öffnet, sagt sie: „Sie sind hier – oder zumindest ihre Geister. Sie sind auf irgendeine Weise… mit dir verbunden. Sie wurden ebenso wie du zu dem Labyrinth hingezogen. Sie sind hier gefangen, so wie die anderen Verstoßenen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,8 +265,8 @@ Sie packt dich am Arm. „Du musst ihn aufhalten. Sonst wird er euer aller Geist
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Sie legt den Kopf zur Seite. „Weil du der letzte Verstoßene bist“, sagt sie - so als wäre das völlig offensichtlich. „Alle Verstoßenen, die dich getroffen haben, sagen dasselbe über dich: Du bist die neueste Version. Dein Körper wurde hierfür *geschaffen*. Hast du dich nie gefragt, warum du als einziger unter den Verstoßenen dich an das Labyrinth erinnern und es kontrollieren kannst?“</DefaultText>
-      <FemaleText>Sie legt den Kopf zur Seite. „Weil du die letzte Verstoßene bist“, sagt sie - so als wäre das völlig offensichtlich. „Alle Verstoßenen, die dich getroffen haben, sagen dasselbe über dich: Du bist die neueste Version. Dein Körper wurde für dies hier *geschaffen*. Hast du dich nie gefragt, warum du als einziger unter den Verstoßenen dich an das Labyrinth erinnern und es kontrollieren kannst?“</FemaleText>
+      <DefaultText>Sie legt den Kopf zur Seite. „Weil du der letzte Verstoßene bist“, sagt sie – so als wäre das völlig offensichtlich. „Alle Verstoßenen, die dich getroffen haben, sagen dasselbe über dich: Du bist die neueste Version. Dein Körper wurde hierfür *geschaffen*. Hast du dich nie gefragt, warum du als einziger unter den Verstoßenen dich an das Labyrinth erinnern und es kontrollieren kannst?“</DefaultText>
+      <FemaleText>Sie legt den Kopf zur Seite. „Weil du die letzte Verstoßene bist“, sagt sie – so als wäre das völlig offensichtlich. „Alle Verstoßenen, die dich getroffen haben, sagen dasselbe über dich: Du bist die neueste Version. Dein Körper wurde für dies hier *geschaffen*. Hast du dich nie gefragt, warum du als einziger unter den Verstoßenen dich an das Labyrinth erinnern und es kontrollieren kannst?“</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
@@ -285,7 +285,7 @@ Sie packt dich am Arm. „Du musst ihn aufhalten. Sonst wird er euer aller Geist
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Sie sieht dich an, als würde sie dich zum ersten Mal überhaupt erst bemerken. „Wenn ich die Situation richtig verstehe - was alles andere als sicher ist - hat das *Ende* begonnen.“</DefaultText>
+      <DefaultText>Sie sieht dich an, als würde sie dich zum ersten Mal überhaupt erst bemerken. „Wenn ich die Situation richtig verstehe – was alles andere als sicher ist – hat das *Ende* begonnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -297,7 +297,7 @@ Sie packt dich am Arm. „Du musst ihn aufhalten. Sonst wird er euer aller Geist
       <ID>57</ID>
       <DefaultText>Sie senkt nachdenklich den Kopf. Ohne aufzusehen sagt sie: „Das Labyrinth ist eine Traumlandschaft, die sich der Wandelnde Gott mit all seinen Verstoßenen teilt. Es wird von euer *aller* Geister geformt.“
 
-Sie sieht dir in die Augen. „Ich vermute, dass das plötzliche Auftauchen von hunderten Verstoßenen - alle mit eigenem Leben und eigenen Erinnerungen - das Labyrinth unberechenbar gemacht hat und immer mehr Veränderungen verursacht, während sie es durchstreifen.“</DefaultText>
+Sie sieht dir in die Augen. „Ich vermute, dass das plötzliche Auftauchen von hunderten Verstoßenen – alle mit eigenem Leben und eigenen Erinnerungen – das Labyrinth unberechenbar gemacht hat und immer mehr Veränderungen verursacht, während sie es durchstreifen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -322,17 +322,17 @@ Sie sieht dir in die Augen. „Ich vermute, dass das plötzliche Auftauchen von 
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Das Labyrinth - und damit die psychische Verbindung zwischen euch allen - kann immer noch zerstört werden.“</DefaultText>
+      <DefaultText>„Das Labyrinth – und damit die psychische Verbindung zwischen euch allen – kann immer noch zerstört werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>„Es ist immer noch möglich, es zu zerstören - und damit zu verhindern, dass seine Macht genutzt werden kann.“</DefaultText>
+      <DefaultText>„Es ist immer noch möglich, es zu zerstören – und damit zu verhindern, dass seine Macht genutzt werden kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Der Kummer kann immer noch gestoppt werden -“</DefaultText>
+      <DefaultText>„Der Kummer kann immer noch gestoppt werden –“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -342,7 +342,7 @@ Sie sieht dir in die Augen. „Ich vermute, dass das plötzliche Auftauchen von 
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Warte. Eines musst du noch wissen: Das Labyrinth ist instabil geworden - alles verändert sich. Selbst in diesem Moment fühle ich, wie die Luke zu den Tiefen versucht, sich zu schließen. Vergewissere dich, dass du alles hast, was du brauchst, bevor du hinabsteigst. Wenn du einmal mit dem Abstieg begonnen hast, kannst du vielleicht nicht mehr zurückkehren.“</DefaultText>
+      <DefaultText>„Warte. Eines musst du noch wissen: Das Labyrinth ist instabil geworden – alles verändert sich. Selbst in diesem Moment fühle ich, wie die Luke zu den Tiefen versucht, sich zu schließen. Vergewissere dich, dass du alles hast, was du brauchst, bevor du hinabsteigst. Wenn du einmal mit dem Abstieg begonnen hast, kannst du vielleicht nicht mehr zurückkehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -362,7 +362,7 @@ Sie sieht dir in die Augen. „Ich vermute, dass das plötzliche Auftauchen von 
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>„Nein. Der Verstoßene, der die Kammer aktiviert, hat hier größere Macht als die anderen - nicht mehr als du, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass dir das nicht helfen wird, die Resonanz zu erreichen.“</DefaultText>
+      <DefaultText>„Nein. Der Verstoßene, der die Kammer aktiviert, hat hier größere Macht als die anderen – nicht mehr als du, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass dir das nicht helfen wird, die Resonanz zu erreichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
