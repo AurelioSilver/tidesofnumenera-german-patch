@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Hallo? Oh Skist. Du bist tot, nicht wahr?  {muttering to himself}Nein, das kann nicht sein. Wenn er tot wäre, wäre ich es ja auch. {beat}Kannst du mich hören?"</DefaultText>
-      <FemaleText>"Hallo? Oh Skist. Du bist tot, nicht wahr?  {muttering to himself}Nein, das kann nicht sein. Wenn sie tot wäre, wäre ich es ja auch. {beat}Kannst du mich hören?"</FemaleText>
+      <DefaultText>„Hallo? Oh Skist. Du bist tot, nicht wahr? {muttering to himself}Nein, das kann nicht sein. Wenn er tot wäre, wäre ich es ja auch. {beat}Kannst du mich hören?“</DefaultText>
+      <FemaleText>„Hallo? Oh Skist. Du bist tot, nicht wahr? {muttering to himself}Nein, das kann nicht sein. Wenn sie tot wäre, wäre ich es ja auch. {beat}Kannst du mich hören?“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich höre überhaupt nichts. Bist du überhaupt da? Na, wenn du mich hören kannst, musst du ja noch am Leben sein. {muttering to himself}Aber das weißt du bereits, nicht wahr? {louder, to the PC}Ich werde einfach mal annehmen, dass wir beide am Leben sind und es auch gerne bleiben würden, okay?"</DefaultText>
+      <DefaultText>„Ich höre überhaupt nichts. Bist du überhaupt da? Na, wenn du mich hören kannst, musst du ja noch am Leben sein. {muttering to himself}Aber das weißt du bereits, nicht wahr? {louder, to the PC}Ich werde einfach mal annehmen, dass wir beide am Leben sind und es auch gerne bleiben würden, okay?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Pass auf, ich kann nicht zu dir, daher musst du einen Weg zu mir rauf bauen... Ich weiß aber nicht wie. Immerhin ist das dein Geist hier. Ist nicht so, dass ich eine Karte dafür hätte."</DefaultText>
+      <DefaultText>„Pass auf, ich kann nicht zu dir, daher musst du einen Weg zu mir rauf bauen… Ich weiß aber nicht wie. Immerhin ist das dein Geist hier. Ist nicht so, dass ich eine Karte dafür hätte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ah!  Das ist *dein* Geist! Ich wette, deine Erinnerungen sind da unten. Finde sie und repariere den Weg zu mir.  {beat} Bist... du überhaupt da? Puh, ich rede mit mir selbst."</DefaultText>
+      <DefaultText>„Ah! Das ist *dein* Geist! Ich wette, deine Erinnerungen sind da unten. Finde sie und repariere den Weg zu mir. {beat} Bist… du überhaupt da? Puh, ich rede mit mir selbst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Was war das? Ich weiß hier nie, was real ist und was nicht. Bau einen Weg *hinauf*. Dann können wir uns diesem Schlamassel gemeinsam stellen und du musst nicht allein sein. Und *ich* auch nicht."</DefaultText>
+      <DefaultText>„Was war das? Ich weiß hier nie, was real ist und was nicht. Bau einen Weg *hinauf*. Dann können wir uns diesem Schlamassel gemeinsam stellen und du musst nicht allein sein. Und *ich* auch nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Hallo? Lebst du noch da unten? Wir sind hier oben. Baue einen Weg zu uns herauf und *sei vorsichtig*."</DefaultText>
+      <DefaultText>„Hallo? Lebst du noch da unten? Wir sind hier oben. Baue einen Weg zu uns herauf und *sei vorsichtig*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
