@@ -6,9 +6,9 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Vor dir steht eine geisterhafte Erscheinung, aber es ist nicht der Geist. Sie sieht irgendwie bekannt aus, aber du weißt nicht ... doch! Es ist die geisterhafte Frau aus dem fünften Auge! Sie sieht sich mit einem verwirrten Gesichtsausdruck um.
+      <DefaultText>Vor dir steht eine geisterhafte Erscheinung, aber es ist nicht der Geist. Sie sieht irgendwie bekannt aus, aber du weißt nicht … doch! Es ist die geisterhafte Frau aus dem fünften Auge! Sie sieht sich mit einem verwirrten Gesichtsausdruck um.
 
-Plötzlich kommt ihr eine Erkenntnis und sie hebt die Augenbrauen. "Es hat begonnen."
+Plötzlich kommt ihr eine Erkenntnis und sie hebt die Augenbrauen. „Es hat begonnen.“
 
 {SCRIPT: Has not started "Right to Exist" Quest}</DefaultText>
       <FemaleText />
@@ -17,85 +17,85 @@ Plötzlich kommt ihr eine Erkenntnis und sie hebt die Augenbrauen. "Es hat begon
       <ID>2</ID>
       <DefaultText>Die vertraute Figur der Geisterfrau sieht sich um, scheinbar noch verwirrter als beim ersten Mal, als du ihr hier in deinem Geist begegnet bist.
 
-Plötzlich kommt ihr eine Erkenntnis und sie hebt die Augenbrauen. "Es hat begonnen."</DefaultText>
+Plötzlich kommt ihr eine Erkenntnis und sie hebt die Augenbrauen. „Es hat begonnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Vor dir steht eine geisterhafte Erscheinung, aber es ist nicht der Geist. Sie sieht sich mit einem verwirrten Gesichtsausdruck um.
 
-Plötzlich kommt ihr eine Erkenntnis und sie hebt die Augenbrauen. "Es hat begonnen."
+Plötzlich kommt ihr eine Erkenntnis und sie hebt die Augenbrauen. „Es hat begonnen.“
 
 {SCRIPT: Has not started "Right to Exist" Quest}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Du musst dich beeilen. Der Wandelnde Gott ist bereits am Tor der Resonanz und versucht, sie mit Gewalt zu öffnen. Wenn du ihn nicht aufhältst, wirst du sterben. Und alle anderen Verstoßenen auch."</DefaultText>
+      <DefaultText>„Du musst dich beeilen. Der Wandelnde Gott ist bereits am Tor der Resonanz und versucht, sie mit Gewalt zu öffnen. Wenn du ihn nicht aufhältst, wirst du sterben. Und alle anderen Verstoßenen auch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Was ist passiert?"</DefaultText>
+      <DefaultText>„Was ist passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ich dachte, du wärst eine Erinnerung oder eine Kopie. Warum bist du hier?"</DefaultText>
+      <DefaultText>„Ich dachte, du wärst eine Erinnerung oder eine Kopie. Warum bist du hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Sie sieht dich an, als würde sie dich zum ersten Mal überhaupt erst bemerken. "Du bist *hier*. Das bedeutet..." Sie schüttelt den Kopf. "So viele Erinnerungen. Nicht alle davon meine. Schwierig, da nicht durcheinanderzukommen."</DefaultText>
+      <DefaultText>Sie sieht dich an, als würde sie dich zum ersten Mal überhaupt erst bemerken. „Du bist *hier*. Das bedeutet…“ Sie schüttelt den Kopf. „So viele Erinnerungen. Nicht alle davon meine. Schwierig, da nicht durcheinanderzukommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Du bist ein Verstoßener!", sagt sie, wie zu sich selbst. "Ein Funken Leben, der übrigblieb, als dein Körper verlassen wurde."
+      <DefaultText>„Du bist ein Verstoßener!“, sagt sie, wie zu sich selbst. „Ein Funken Leben, der übrigblieb, als dein Körper verlassen wurde.“
 
-Sie sieht auf und sich um, als könnte sie im Dunkel über euch etwas sehen, das dir verborgen bleibt. "Sie *alle* sind hier. Die Lebensfunken, die Geister aller lebenden Verstoßenen sind nun in diesem Labyrinth hier. Die Resonanzkammer hat sie angezogen."</DefaultText>
-      <FemaleText>"Du bist eine Verstoßene!", sagt sie, wie zu sich selbst. "Ein Funken Leben, der übrigblieb, als dein Körper verlassen wurde."
+Sie sieht auf und sich um, als könnte sie im Dunkel über euch etwas sehen, das dir verborgen bleibt. „Sie *alle* sind hier. Die Lebensfunken, die Geister aller lebenden Verstoßenen sind nun in diesem Labyrinth hier. Die Resonanzkammer hat sie angezogen.“</DefaultText>
+      <FemaleText>„Du bist eine Verstoßene!“, sagt sie, wie zu sich selbst. „Ein Funken Leben, der übrigblieb, als dein Körper verlassen wurde.“
 
-Sie sieht auf und sich um, als könnte sie im Dunkel über euch etwas sehen, das dir verborgen bleibt. "Sie *alle* sind hier. Die Lebensfunken, die Geister aller lebenden Verstoßenen sind nun in diesem Labyrinth hier. Die Resonanzkammer hat sie angezogen."</FemaleText>
+Sie sieht auf und sich um, als könnte sie im Dunkel über euch etwas sehen, das dir verborgen bleibt. „Sie *alle* sind hier. Die Lebensfunken, die Geister aller lebenden Verstoßenen sind nun in diesem Labyrinth hier. Die Resonanzkammer hat sie angezogen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Sie sieht dich an, als würde sie dich zum ersten Mal überhaupt erst bemerken. "Ich denke ... ich bin mehr als das. Ich weiß nicht genau was, aber Erinnerungen kommen an die Oberfläche - viel mehr als zuvor. Ich bin jedoch nicht sicher, ob alle davon meine sind."</DefaultText>
+      <DefaultText>Sie sieht dich an, als würde sie dich zum ersten Mal überhaupt erst bemerken. „Ich denke … ich bin mehr als das. Ich weiß nicht genau was, aber Erinnerungen kommen an die Oberfläche - viel mehr als zuvor. Ich bin jedoch nicht sicher, ob alle davon meine sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Sie sieht dich an, als würde sie dich zum ersten Mal überhaupt erst bemerken. "Ich bin weder Spiegelbild noch Erinnerung. Ich weiß nicht genau, was ich bin, aber zahlreiche Erinnerungen kommen an die Oberfläche. Allerdings sind nicht alle davon meine."</DefaultText>
+      <DefaultText>Sie sieht dich an, als würde sie dich zum ersten Mal überhaupt erst bemerken. „Ich bin weder Spiegelbild noch Erinnerung. Ich weiß nicht genau, was ich bin, aber zahlreiche Erinnerungen kommen an die Oberfläche. Allerdings sind nicht alle davon meine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich dachte, die Kammer würde alle Verstoßenen in einem Körper vereinen, nicht im Labyrinth."</DefaultText>
+      <DefaultText>„Ich dachte, die Kammer würde alle Verstoßenen in einem Körper vereinen, nicht im Labyrinth.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich dachte, die Kammer würde die Verbindung zwischen den Verstoßenen trennen."</DefaultText>
+      <DefaultText>„Ich dachte, die Kammer würde die Verbindung zwischen den Verstoßenen trennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ich habe versucht, die Kammer zu zerstören."</DefaultText>
+      <DefaultText>„Ich habe versucht, die Kammer zu zerstören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ich dachte, die Kammer würde den Kummer aufhalten."</DefaultText>
+      <DefaultText>„Ich dachte, die Kammer würde den Kummer aufhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Die Kammer war nur ein Hebel", sagt sie. Sie klingt, als würde sie das selbst gerade erst erfahren.</DefaultText>
+      <DefaultText>„Die Kammer war nur ein Hebel“, sagt sie. Sie klingt, als würde sie das selbst gerade erst erfahren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,21 +105,21 @@ Sie sieht auf und sich um, als könnte sie im Dunkel über euch etwas sehen, das
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Nein. Du hast die Kammer aktiviert und daher hast du hier mehr Macht als die anderen - mehr Klarheit und Kontrolle."
+      <DefaultText>„Nein. Du hast die Kammer aktiviert und daher hast du hier mehr Macht als die anderen - mehr Klarheit und Kontrolle.“
 
 {SCRIPT: PC activated the chamber in the Sorrow Crisis.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Nein. Als die Erste die Kammer aktiviert hat, gab es ihr hier größere Macht als den anderen - nicht mehr als dir, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass ihr das nichts helfen wird, wenn du sie nicht finden kannst."
+      <DefaultText>„Nein. Als die Erste die Kammer aktiviert hat, gab es ihr hier größere Macht als den anderen - nicht mehr als dir, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass ihr das nichts helfen wird, wenn du sie nicht finden kannst.“
 
 {SCRIPT: The First activated the chamber in the Sorrow Crisis.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Nein. Als deine Freundin die Kammer aktiviert hat, gab es ihr hier größere Macht als den anderen - nicht mehr als dir, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass ihr das nichts helfen wird, wenn du sie nicht finden kannst."
+      <DefaultText>„Nein. Als deine Freundin die Kammer aktiviert hat, gab es ihr hier größere Macht als den anderen - nicht mehr als dir, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass ihr das nichts helfen wird, wenn du sie nicht finden kannst.“
 
 {SCRIPT: Matkina activated the chamber in the Sorrow Crisis.}</DefaultText>
       <FemaleText />
@@ -131,21 +131,21 @@ Sie sieht auf und sich um, als könnte sie im Dunkel über euch etwas sehen, das
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Soll das heißen, dass die Kammer zu aktivieren gar nichts gebracht hat?"</DefaultText>
+      <DefaultText>„Soll das heißen, dass die Kammer zu aktivieren gar nichts gebracht hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Sie schließt die Augen. "Es gibt einen Ort, der Resonanz genannt wird", erklärt sie. "Eine Tür in den tiefsten Tiefen."
+      <DefaultText>Sie schließt die Augen. „Es gibt einen Ort, der Resonanz genannt wird“, erklärt sie. „Eine Tür in den tiefsten Tiefen.“
 
-Mit geschlossenen Augen zeigt sie auf die Luke dir gegenüber, wo du herauskannst, nachdem du dich an die Gezeiten angepasst hast. Die Tür, die bis jetzt verschlossen war. "Du musst die Resonanz finden. *Dein* Körper ist der Schlüssel dazu. Öffne sie. Tritt in sie ein. Dann kannst du den Kummer besiegen und frei sein."</DefaultText>
+Mit geschlossenen Augen zeigt sie auf die Luke dir gegenüber, wo du herauskannst, nachdem du dich an die Gezeiten angepasst hast. Die Tür, die bis jetzt verschlossen war. „Du musst die Resonanz finden. *Dein* Körper ist der Schlüssel dazu. Öffne sie. Tritt in sie ein. Dann kannst du den Kummer besiegen und frei sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Sie reißt die Augen auf und keucht. Hält sich eine durchsichtige Hand vor den Mund. "Nein. Der Wandelnde Gott. Er ist hier! Er versucht, sich mit Gewalt seinen Weg in die Resonanz zu bahnen. Wenn er genug Zeit bekommt, wird er Erfolg haben."
+      <DefaultText>Sie reißt die Augen auf und keucht. Hält sich eine durchsichtige Hand vor den Mund. „Nein. Der Wandelnde Gott. Er ist hier! Er versucht, sich mit Gewalt seinen Weg in die Resonanz zu bahnen. Wenn er genug Zeit bekommt, wird er Erfolg haben.“
 
-Sie packt dich am Arm. "Du musst ihn aufhalten. Sonst wird er euer aller Geister in *seinem* Körper vereinen und euch für immer auslöschen - so sagen es mir alle meine Erinnerungen. Er muss gestoppt werden."</DefaultText>
+Sie packt dich am Arm. „Du musst ihn aufhalten. Sonst wird er euer aller Geister in *seinem* Körper vereinen und euch für immer auslöschen - so sagen es mir alle meine Erinnerungen. Er muss gestoppt werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -180,22 +180,22 @@ Sie packt dich am Arm. "Du musst ihn aufhalten. Sonst wird er euer aller Geister
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Wer bist du überhaupt?"</DefaultText>
+      <DefaultText>„Wer bist du überhaupt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Wer bist du noch mal?"</DefaultText>
+      <DefaultText>„Wer bist du noch mal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Ich bin weder Spiegelbild noch Erinnerung. Ich weiß nicht genau, was ich bin, aber zahlreiche Erinnerungen kommen an die Oberfläche. Nicht alle sind meine."</DefaultText>
+      <DefaultText>Sie schüttelt den Kopf. „Ich bin weder Spiegelbild noch Erinnerung. Ich weiß nicht genau, was ich bin, aber zahlreiche Erinnerungen kommen an die Oberfläche. Nicht alle sind meine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ich dachte einst, dass ich das weiß. Ich dachte, ich wäre eine Kopie oder eine Erinnerung von jemand anderem. Jetzt... bin ich nicht mehr sicher."</DefaultText>
+      <DefaultText>„Ich dachte einst, dass ich das weiß. Ich dachte, ich wäre eine Kopie oder eine Erinnerung von jemand anderem. Jetzt… bin ich nicht mehr sicher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,22 +205,22 @@ Sie packt dich am Arm. "Du musst ihn aufhalten. Sonst wird er euer aller Geister
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Sie runzelt die Stirn. "Das frage ich mich auch. Als deine Geschwister und du hierher gebracht wurden, haben Teile ihrer Erinnerungen Lücken in meiner aufgefüllt. Ich weiß, wie du hierhergekommen bist. Ich verstehe, was jetzt gerade passiert. Und... ich *weiß*, wo der Wandelnde Gott ist und was er vorhat."</DefaultText>
+      <DefaultText>Sie runzelt die Stirn. „Das frage ich mich auch. Als deine Geschwister und du hierher gebracht wurden, haben Teile ihrer Erinnerungen Lücken in meiner aufgefüllt. Ich weiß, wie du hierhergekommen bist. Ich verstehe, was jetzt gerade passiert. Und… ich *weiß*, wo der Wandelnde Gott ist und was er vorhat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Als deine Geschwister und du hierhergebracht wurden, haben Teile ihrer Erinnerungen Lücken in meiner aufgefüllt. Vieles ist mir immer noch unklar, aber ich spüre die Gefahr, in der du bist - in der wir *alle* sind."</DefaultText>
+      <DefaultText>„Als deine Geschwister und du hierhergebracht wurden, haben Teile ihrer Erinnerungen Lücken in meiner aufgefüllt. Vieles ist mir immer noch unklar, aber ich spüre die Gefahr, in der du bist - in der wir *alle* sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Woher weißt du das alles?"</DefaultText>
+      <DefaultText>„Woher weißt du das alles?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Woher weißt du das alles noch mal?"</DefaultText>
+      <DefaultText>„Woher weißt du das alles noch mal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,22 +230,22 @@ Sie packt dich am Arm. "Du musst ihn aufhalten. Sonst wird er euer aller Geister
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Sie schließt erneut die Augen. Als sie sie wieder öffnet, sagt sie: "Sie sind hier - oder zumindest ihre Geister. Sie sind auf irgendeine Weise... mit dir verbunden. Sie wurden ebenso wie du zu dem Labyrinth hingezogen. Sie sind hier gefangen, so wie die anderen Verstoßenen."</DefaultText>
+      <DefaultText>Sie schließt erneut die Augen. Als sie sie wieder öffnet, sagt sie: „Sie sind hier - oder zumindest ihre Geister. Sie sind auf irgendeine Weise… mit dir verbunden. Sie wurden ebenso wie du zu dem Labyrinth hingezogen. Sie sind hier gefangen, so wie die anderen Verstoßenen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Hier in dem Labyrinth gefangen, wie die anderen Verstoßenen. Ihre Verbindung zu dir ist stark. Du kannst sie retten, aber je mehr Zeit du dafür aufwendest, desto näher kommt der Wandelnde Gott seinem Ziel."</DefaultText>
+      <DefaultText>„Hier in dem Labyrinth gefangen, wie die anderen Verstoßenen. Ihre Verbindung zu dir ist stark. Du kannst sie retten, aber je mehr Zeit du dafür aufwendest, desto näher kommt der Wandelnde Gott seinem Ziel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Wo sind meine Begleiter? Sind sie noch in der realen Welt? Sind sie tot?"</DefaultText>
+      <DefaultText>„Wo sind meine Begleiter? Sind sie noch in der realen Welt? Sind sie tot?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Wo sind meine Begleiter noch mal?"</DefaultText>
+      <DefaultText>„Wo sind meine Begleiter noch mal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,39 +265,39 @@ Sie packt dich am Arm. "Du musst ihn aufhalten. Sonst wird er euer aller Geister
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Sie legt den Kopf zur Seite. "Weil du der letzte Verstoßene bist", sagt sie - so als wäre das völlig offensichtlich. "Alle Verstoßenen, die dich getroffen haben, sagen dasselbe über dich: Du bist die neueste Version. Dein Körper wurde hierfür *geschaffen*. Hast du dich nie gefragt, warum du als einziger unter den Verstoßenen dich an das Labyrinth erinnern und es kontrollieren kannst?"</DefaultText>
-      <FemaleText>Sie legt den Kopf zur Seite. "Weil du die letzte Verstoßene bist", sagt sie - so als wäre das völlig offensichtlich. "Alle Verstoßenen, die dich getroffen haben, sagen dasselbe über dich: Du bist die neueste Version. Dein Körper wurde für dies hier *geschaffen*. Hast du dich nie gefragt, warum du als einziger unter den Verstoßenen dich an das Labyrinth erinnern und es kontrollieren kannst?"</FemaleText>
+      <DefaultText>Sie legt den Kopf zur Seite. „Weil du der letzte Verstoßene bist“, sagt sie - so als wäre das völlig offensichtlich. „Alle Verstoßenen, die dich getroffen haben, sagen dasselbe über dich: Du bist die neueste Version. Dein Körper wurde hierfür *geschaffen*. Hast du dich nie gefragt, warum du als einziger unter den Verstoßenen dich an das Labyrinth erinnern und es kontrollieren kannst?“</DefaultText>
+      <FemaleText>Sie legt den Kopf zur Seite. „Weil du die letzte Verstoßene bist“, sagt sie - so als wäre das völlig offensichtlich. „Alle Verstoßenen, die dich getroffen haben, sagen dasselbe über dich: Du bist die neueste Version. Dein Körper wurde für dies hier *geschaffen*. Hast du dich nie gefragt, warum du als einziger unter den Verstoßenen dich an das Labyrinth erinnern und es kontrollieren kannst?“</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Ich werde versuchen, ihn aufzuhalten. Lebewohl."</DefaultText>
+      <DefaultText>„Ich werde versuchen, ihn aufzuhalten. Lebewohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Viel Glück."</DefaultText>
+      <DefaultText>„Viel Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Was hat begonnen?"</DefaultText>
+      <DefaultText>„Was hat begonnen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Sie sieht dich an, als würde sie dich zum ersten Mal überhaupt erst bemerken. "Wenn ich die Situation richtig verstehe - was alles andere als sicher ist - hat das *Ende* begonnen."</DefaultText>
+      <DefaultText>Sie sieht dich an, als würde sie dich zum ersten Mal überhaupt erst bemerken. „Wenn ich die Situation richtig verstehe - was alles andere als sicher ist - hat das *Ende* begonnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Warum ist nun alles anders? Wo ist das Portal zurück zu meinem Körper? Was sind diese anderen Portale?"</DefaultText>
+      <DefaultText>„Warum ist nun alles anders? Wo ist das Portal zurück zu meinem Körper? Was sind diese anderen Portale?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Sie senkt nachdenklich den Kopf. Ohne aufzusehen sagt sie: "Das Labyrinth ist eine Traumlandschaft, die sich der Wandelnde Gott mit all seinen Verstoßenen teilt. Es wird von euer *aller* Geister geformt."
+      <DefaultText>Sie senkt nachdenklich den Kopf. Ohne aufzusehen sagt sie: „Das Labyrinth ist eine Traumlandschaft, die sich der Wandelnde Gott mit all seinen Verstoßenen teilt. Es wird von euer *aller* Geister geformt.“
 
-Sie sieht dir in die Augen. "Ich vermute, dass das plötzliche Auftauchen von hunderten Verstoßenen - alle mit eigenem Leben und eigenen Erinnerungen - das Labyrinth unberechenbar gemacht hat und immer mehr Veränderungen verursacht, während sie es durchstreifen."</DefaultText>
+Sie sieht dir in die Augen. „Ich vermute, dass das plötzliche Auftauchen von hunderten Verstoßenen - alle mit eigenem Leben und eigenen Erinnerungen - das Labyrinth unberechenbar gemacht hat und immer mehr Veränderungen verursacht, während sie es durchstreifen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -317,57 +317,57 @@ Sie sieht dir in die Augen. "Ich vermute, dass das plötzliche Auftauchen von hu
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Die Geister der Verstoßenen können immer noch in einem einzigen Körper vereint werden.</DefaultText>
+      <DefaultText>„Die Geister der Verstoßenen können immer noch in einem einzigen Körper vereint werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Das Labyrinth - und damit die psychische Verbindung zwischen euch allen - kann immer noch zerstört werden.</DefaultText>
+      <DefaultText>„Das Labyrinth - und damit die psychische Verbindung zwischen euch allen - kann immer noch zerstört werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Es ist immer noch möglich, es zu zerstören - und damit zu verhindern, dass seine Macht genutzt werden kann.</DefaultText>
+      <DefaultText>„Es ist immer noch möglich, es zu zerstören - und damit zu verhindern, dass seine Macht genutzt werden kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Der Kummer kann immer noch gestoppt werden -</DefaultText>
+      <DefaultText>„Der Kummer kann immer noch gestoppt werden -“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Aber nicht, indem du einen Schalter in der realen Welt umlegst. Dein Schicksal und das deiner Geschwister wird hier im Labyrinth entschieden werden."</DefaultText>
+      <DefaultText>„Aber nicht, indem du einen Schalter in der realen Welt umlegst. Dein Schicksal und das deiner Geschwister wird hier im Labyrinth entschieden werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Warte. Eines musst du noch wissen: Das Labyrinth ist instabil geworden - alles verändert sich. Selbst in diesem Moment fühle ich, wie die Luke zu den Tiefen versucht, sich zu schließen. Vergewissere dich, dass du alles hast, was du brauchst, bevor du hinabsteigst. Wenn du einmal mit dem Abstieg begonnen hast, kannst du vielleicht nicht mehr zurückkehren."</DefaultText>
+      <DefaultText>„Warte. Eines musst du noch wissen: Das Labyrinth ist instabil geworden - alles verändert sich. Selbst in diesem Moment fühle ich, wie die Luke zu den Tiefen versucht, sich zu schließen. Vergewissere dich, dass du alles hast, was du brauchst, bevor du hinabsteigst. Wenn du einmal mit dem Abstieg begonnen hast, kannst du vielleicht nicht mehr zurückkehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Wie kann ich den Geist noch mal aufhalten?"</DefaultText>
+      <DefaultText>„Wie kann ich den Geist noch mal aufhalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Du findest ihn in den tiefsten Tiefen des Labyrinths, an der Schwelle zur Resonanz. Jetzt gerade versucht er, sich seinen Weg hinein zu bahnen. Beeil dich, oder es wird ihm gelingen."</DefaultText>
+      <DefaultText>„Du findest ihn in den tiefsten Tiefen des Labyrinths, an der Schwelle zur Resonanz. Jetzt gerade versucht er, sich seinen Weg hinein zu bahnen. Beeil dich, oder es wird ihm gelingen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Und doch gibt es so vieles, dass ich *nicht* weiß. Wer bin ich? Warum weiß *ich* das alles und du nicht? Es fühlt sich an, als *kenne* ich das Labyrinth. Warum..." Sie beißt sich auf die Lippe, kann keine weiteren Fragen mehr aussprechen.</DefaultText>
+      <DefaultText>Sie schüttelt den Kopf. „Und doch gibt es so vieles, dass ich *nicht* weiß. Wer bin ich? Warum weiß *ich* das alles und du nicht? Es fühlt sich an, als *kenne* ich das Labyrinth. Warum…“ Sie beißt sich auf die Lippe, kann keine weiteren Fragen mehr aussprechen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Nein. Der Verstoßene, der die Kammer aktiviert, hat hier größere Macht als die anderen - nicht mehr als du, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass dir das nicht helfen wird, die Resonanz zu erreichen."</DefaultText>
+      <DefaultText>„Nein. Der Verstoßene, der die Kammer aktiviert, hat hier größere Macht als die anderen - nicht mehr als du, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass dir das nicht helfen wird, die Resonanz zu erreichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Und was die anderen Portale betrifft..." Sie blickt auf die schimmernden Tore, die eben noch nicht da waren. Dann zeigt sie auf die Treppe gegenüber. "Ich weiß es nicht. Ich weiß nur, dass die Treppe da hinunter zur Resonanz führt. Und dass das der Weg ist, den du gehen musst, wenn du überleben willst."</DefaultText>
+      <DefaultText>„Und was die anderen Portale betrifft…“ Sie blickt auf die schimmernden Tore, die eben noch nicht da waren. Dann zeigt sie auf die Treppe gegenüber. „Ich weiß es nicht. Ich weiß nur, dass die Treppe da hinunter zur Resonanz führt. Und dass das der Weg ist, den du gehen musst, wenn du überleben willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -377,32 +377,32 @@ Sie sieht dir in die Augen. "Ich vermute, dass das plötzliche Auftauchen von hu
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Wenn alle lebenden Verstoßenen hierher gebracht wurden, müssten dann nicht hunderte Leute hier sein?"</DefaultText>
+      <DefaultText>„Wenn alle lebenden Verstoßenen hierher gebracht wurden, müssten dann nicht hunderte Leute hier sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Wenn alle in einer Illusion gefangen sind, warum ich nicht?"</DefaultText>
+      <DefaultText>„Wenn alle in einer Illusion gefangen sind, warum ich nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Sie schüttelt traurig den Kopf. "Sie sind verloren. Die Kammer hat ihre Geister angezogen und dann in einer aus ihrer jeweiligen Angst und Reue geschaffenen Illusion gefangen. Ich kann sie spüren." Sie schließt fest die Augen und beißt sich auf die Lippe. "Ihren Schmerz. Ihre Qual. Sie begreifen nicht, wo sie sind, und sie können nicht entkommen. Nicht ohne Hilfe."</DefaultText>
+      <DefaultText>Sie schüttelt traurig den Kopf. „Sie sind verloren. Die Kammer hat ihre Geister angezogen und dann in einer aus ihrer jeweiligen Angst und Reue geschaffenen Illusion gefangen. Ich kann sie spüren.“ Sie schließt fest die Augen und beißt sich auf die Lippe. „Ihren Schmerz. Ihre Qual. Sie begreifen nicht, wo sie sind, und sie können nicht entkommen. Nicht ohne Hilfe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Du kannst sie retten, wenn du sie finden kannst. Aber du musst wissen, dass du damit dem Wandelnden Gott die Zeit gibst, die er braucht, um seinem Ziel näherzukommen."</DefaultText>
+      <DefaultText>„Du kannst sie retten, wenn du sie finden kannst. Aber du musst wissen, dass du damit dem Wandelnden Gott die Zeit gibst, die er braucht, um seinem Ziel näherzukommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Plötzlich ist die Luft mit dröhnendem Lachen gefüllt. Es ist der Geist, und es hört sich so an, als ob er überall um dich herum fliegt. "Du bist zu spät, Verstoßener. Ich bin schon an der Schwelle der Resonanz. In ein paar Momenten werde ich all deine zerspaltenen Verstände dorthin zurückschicken, wo sie hingehören, und wir werden wieder ganz sein."
+      <DefaultText>Plötzlich ist die Luft mit dröhnendem Lachen gefüllt. Es ist der Geist, und es hört sich so an, als ob er überall um dich herum fliegt. „Du bist zu spät, Verstoßener. Ich bin schon an der Schwelle der Resonanz. In ein paar Momenten werde ich all deine zerspaltenen Verstände dorthin zurückschicken, wo sie hingehören, und wir werden wieder ganz sein.“
 
-Die Luft grollt wie Donner. "Ich sagte doch, dass ich meinen Körper zurückbekomme."</DefaultText>
-      <FemaleText>Plötzlich ist die Luft mit dröhnendem Lachen gefüllt. Es ist der Geist, und es hört sich so an, als ob er überall um dich herum fliegt. "Du bist zu spät, Verstoßene. Ich bin schon an der Schwelle der Resonanz. In ein paar Momenten werde ich all deine zerspaltenen Verstände dorthin zurückschicken, wo sie hingehören, und wir werden wieder ganz sein."
+Die Luft grollt wie Donner. „Ich sagte doch, dass ich meinen Körper zurückbekomme.“</DefaultText>
+      <FemaleText>Plötzlich ist die Luft mit dröhnendem Lachen gefüllt. Es ist der Geist, und es hört sich so an, als ob er überall um dich herum fliegt. „Du bist zu spät, Verstoßene. Ich bin schon an der Schwelle der Resonanz. In ein paar Momenten werde ich all deine zerspaltenen Verstände dorthin zurückschicken, wo sie hingehören, und wir werden wieder ganz sein.“
 
-Die Luft grollt wie Donner. "Ich sagte doch, dass ich meinen Körper zurückbekomme."</FemaleText>
+Die Luft grollt wie Donner. „Ich sagte doch, dass ich meinen Körper zurückbekomme.“</FemaleText>
     </Entry>
     <Entry>
       <ID>81</ID>
@@ -411,12 +411,12 @@ Die Luft grollt wie Donner. "Ich sagte doch, dass ich meinen Körper zurückbeko
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Ich habe Matkina gefunden, aber ich konnte ihre Illusion nicht zerbrechen. Kennst du eine Möglichkeit, sie zu befreien?"</DefaultText>
+      <DefaultText>„Ich habe Matkina gefunden, aber ich konnte ihre Illusion nicht zerbrechen. Kennst du eine Möglichkeit, sie zu befreien?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Wie befreie ich nochmal Matkina von ihrer Illusion?"</DefaultText>
+      <DefaultText>„Wie befreie ich nochmal Matkina von ihrer Illusion?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,12 +426,12 @@ Die Luft grollt wie Donner. "Ich sagte doch, dass ich meinen Körper zurückbeko
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Das tu ich nicht. Es tut mir leid, aber das Wesen dieser Illusionen ist mir ein Rätsel." Als sie dein Gesichtsausdruck sieht, fügt sie hinzu, "Aber such weiter. *All* deine Geschwister sind hier. Womöglich hat einer von ihnen das Wesen der Illusionen studiert und kann dir helfen."</DefaultText>
+      <DefaultText>„Das tu ich nicht. Es tut mir leid, aber das Wesen dieser Illusionen ist mir ein Rätsel.“ Als sie dein Gesichtsausdruck sieht, fügt sie hinzu, „Aber such weiter. *All* deine Geschwister sind hier. Womöglich hat einer von ihnen das Wesen der Illusionen studiert und kann dir helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ich weiß es nicht, aber such weiter. Deine Geschwister verfügen über ein Reichtum an Wissen. Vielleicht versteht einer von ihnen diese Illusionen besser als ich."</DefaultText>
+      <DefaultText>„Ich weiß es nicht, aber such weiter. Deine Geschwister verfügen über ein Reichtum an Wissen. Vielleicht versteht einer von ihnen diese Illusionen besser als ich.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
