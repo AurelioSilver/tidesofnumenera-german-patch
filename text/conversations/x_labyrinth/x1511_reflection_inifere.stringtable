@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Addend. 1</DefaultText>
-      <FemaleText>Addend. 1</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -194,7 +194,7 @@ Allerdings nimmt diese Verbindung eine ganze Ecke deines Geistes ein. Du kannst 
     <Entry>
       <ID>41</ID>
       <DefaultText>"Wie bist du hierhergekommen?"</DefaultText>
-      <FemaleText>„Wie seid Ihr hierhergekommen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -347,7 +347,7 @@ Inifere schürzt die Lippen in ein Grinsen, das mehr ein Knurren ist. "Aber das 
     <Entry>
       <ID>72</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
