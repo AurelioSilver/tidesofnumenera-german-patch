@@ -6,18 +6,18 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bin mir nicht sicher, was *Ich* hier mache, aber es ist schön, nicht tot zu sein. Ähm, du wießt, was ich meine."
+      <DefaultText>„Bin mir nicht sicher, was *Ich* hier mache, aber es ist schön, nicht tot zu sein. Ähm, du wießt, was ich meine.“
 {SCRIPT: Only visible here if Quest_TheSorrowsPrey_SeriaRevivedAndHow=1. Otherwise, she never got revived or the player really did something horrible to her and she's double dead.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Wäre schön, wenn Orseolo hier wäre."</DefaultText>
+      <DefaultText>„Wäre schön, wenn Orseolo hier wäre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Kein besonderes Nachleben, aber ich schätze, es ist besser als die Alternative."</DefaultText>
+      <DefaultText>„Kein besonderes Nachleben, aber ich schätze, es ist besser als die Alternative.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
