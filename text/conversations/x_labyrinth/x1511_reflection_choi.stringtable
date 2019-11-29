@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Addend. 1</DefaultText>
-      <FemaleText>Addend. 1</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -208,7 +208,7 @@ Allerdings nimmt diese Verbindung eine ganze Ecke deines Geistes ein. Du kannst 
     <Entry>
       <ID>50</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>"..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
