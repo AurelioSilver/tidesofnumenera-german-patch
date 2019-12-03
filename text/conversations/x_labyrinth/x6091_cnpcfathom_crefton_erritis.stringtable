@@ -75,7 +75,7 @@ Er sackt in sich zusammen, senkt den Kopf und seine Aura umschließt ihn wie Was
     <Entry>
       <ID>13</ID>
       <DefaultText>Sag nichts.</DefaultText>
-      <FemaleText>Sag nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
@@ -191,7 +191,7 @@ Er verstummt voller Hoffnung.</DefaultText>
     <Entry>
       <ID>33</ID>
       <DefaultText>„Lass uns gehen.“</DefaultText>
-      <FemaleText>„Gehen wir.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
@@ -226,7 +226,7 @@ Er verstummt voller Hoffnung.</DefaultText>
     <Entry>
       <ID>40</ID>
       <DefaultText>::grummelt::</DefaultText>
-      <FemaleText>::grummelt::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
