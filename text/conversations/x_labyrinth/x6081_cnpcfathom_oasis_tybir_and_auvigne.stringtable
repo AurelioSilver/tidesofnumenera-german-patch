@@ -75,7 +75,7 @@ Seine Augen schweifen über die brennenden Hütten, die nur ihr drei sehen könn
     <Entry>
       <ID>13</ID>
       <DefaultText>Bleib ruhig.</DefaultText>
-      <FemaleText>Bleibt ruhig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -88,8 +88,8 @@ Er hebt die Augen. „Aber du hast mich gebrochen. Du hast mich gelehrt, meine I
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Was ist hier los?“</DefaultText>
-      <FemaleText>„Was geht hier vor?“</FemaleText>
+      <DefaultText>„Was geht hier vor?“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
