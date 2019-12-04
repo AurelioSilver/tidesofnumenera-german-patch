@@ -8,9 +8,9 @@
       <ID>1</ID>
       <DefaultText>Als du dich dem Philetis näherst, bemerkst du, dass seine Glasmaske - oder sein Gesicht - mit einem Netz von Frakturen überzogen ist, das identisch ist mit jenem, das du dem Philetis vor dem Uhrenturm zugefügt hast. Ein septischer Nebel zischt aus den Rissen, und er sinkt eher als dass er aufsteigt, während er sich langsam auslöst.
 
-Der Philetis sagt nur ein einziges Wort: "Weinrot." Ohne weitere Erklärung scheint es sich gegen sich selbst zu wenden und ist im Nu verschwunden.
+Der Philetis sagt nur ein einziges Wort: „Weinrot.“ Ohne weitere Erklärung scheint es sich gegen sich selbst zu wenden und ist im Nu verschwunden.
 
-{WORDPLAY: "Maroon" here conjures the off-red color, the sense of castaway, and the slang term for "idiot." I doubt this will be replicable in any foreign language, so maybe just go for a reddish color that carries *some* secondary meaning.}</DefaultText>
+{WORDPLAY: „Maroon“ here conjures the off-red color, the sense of castaway, and the slang term for „idiot.“ I doubt this will be replicable in any foreign language, so maybe just go for a reddish color that carries *some* secondary meaning.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -19,7 +19,7 @@ Der Philetis sagt nur ein einziges Wort: "Weinrot." Ohne weitere Erklärung sche
 
 Als du dich näherst, scheint sein versteckter Körper tief Luft zu holen, aber dann kommt nichts aus ihm heraus: keine Worte, kein Geräusch, kein Ausatmen.
 
-Seine Glasmaske scheint auf dich fixiert zu sein, aber er könnte darin genauso gut am Schlafen sein. Das Ding steht einfach da, als wäre es nicht anders, bis es plötzlich spricht: "Wie viele Lichtpartikel ergossen sich auf dem Boden, bis du das Becken versetzt hast?"</DefaultText>
+Seine Glasmaske scheint auf dich fixiert zu sein, aber er könnte darin genauso gut am Schlafen sein. Das Ding steht einfach da, als wäre es nicht anders, bis es plötzlich spricht: „Wie viele Lichtpartikel ergossen sich auf dem Boden, bis du das Becken versetzt hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -59,28 +59,28 @@ Seine Glasmaske scheint auf dich fixiert zu sein, aber er könnte darin genauso 
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Keine."</DefaultText>
+      <DefaultText>„Keine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Eins."</DefaultText>
+      <DefaultText>„Eins.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ein paar."</DefaultText>
+      <DefaultText>„Ein paar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Viele."</DefaultText>
+      <DefaultText>„Viele.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ich weiß nicht."</DefaultText>
-      <FemaleText>"Ich weiß nicht."</FemaleText>
+      <DefaultText>„Ich weiß nicht.“</DefaultText>
+      <FemaleText>„Ich weiß nicht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -89,17 +89,17 @@ Seine Glasmaske scheint auf dich fixiert zu sein, aber er könnte darin genauso 
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ja.</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Nein.</DefaultText>
+      <DefaultText>„Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Das Yol-Kalb bekommt saure Milch aus den Zitzen seiner Mutter. Jene, die Süßeres wollen, versauern, aber weinen nie. Der Yol-Hirte vergießt Salztränen, aber die Erde durstet ohne zu probieren." Seine Maske verdunkelt sich, aber seine Stimme spricht weiter mit einer flauen Teilnahmslosigkeit. "Hast du das Licht getrunken?"</DefaultText>
+      <DefaultText>„Das Yol-Kalb bekommt saure Milch aus den Zitzen seiner Mutter. Jene, die Süßeres wollen, versauern, aber weinen nie. Der Yol-Hirte vergießt Salztränen, aber die Erde durstet ohne zu probieren.“ Seine Maske verdunkelt sich, aber seine Stimme spricht weiter mit einer flauen Teilnahmslosigkeit. „Hast du das Licht getrunken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -109,52 +109,52 @@ Seine Glasmaske scheint auf dich fixiert zu sein, aber er könnte darin genauso 
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Was meinst du?"</DefaultText>
+      <DefaultText>„Was meinst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ich ließ es im Becken."</DefaultText>
+      <DefaultText>„Ich ließ es im Becken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ich trank im Licht."</DefaultText>
+      <DefaultText>„Ich trank im Licht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich weiß nicht."</DefaultText>
-      <FemaleText>"Ich weiß nicht."</FemaleText>
+      <DefaultText>„Ich weiß nicht.“</DefaultText>
+      <FemaleText>„Ich weiß nicht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Ein knisterndes Zischen ist zu hören, egal was der Philethis sagen will. Schließlich, ohne Vorwurf und Unterweisung sagte er einfach: "Du weißt schon."</DefaultText>
+      <DefaultText>Ein knisterndes Zischen ist zu hören, egal was der Philethis sagen will. Schließlich, ohne Vorwurf und Unterweisung sagte er einfach: „Du weißt schon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Der Philetis lehnt sich ganz leicht zu dir. "Nein. Du kennst das Licht nicht. Frag."</DefaultText>
+      <DefaultText>Der Philetis lehnt sich ganz leicht zu dir. „Nein. Du kennst das Licht nicht. Frag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Der Philetis lehnt sich ganz leicht zu dir. "Nein. Du wirst das Licht verbrennen. Frag."</DefaultText>
+      <DefaultText>Der Philetis lehnt sich ganz leicht zu dir. „Nein. Du wirst das Licht verbrennen. Frag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Der Philetis lehnt sich ganz leicht zu dir. "Du tust es. Aber frag."</DefaultText>
+      <DefaultText>Der Philetis lehnt sich ganz leicht zu dir. „Du tust es. Aber frag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Was hatte das Licht zu bedeuten? Was haben deine Fragen zu bedeuten?"</DefaultText>
+      <DefaultText>„Was hatte das Licht zu bedeuten? Was haben deine Fragen zu bedeuten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Warum bist du hier? *Wie* bist du hier?"</DefaultText>
+      <DefaultText>„Warum bist du hier? *Wie* bist du hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,12 +164,12 @@ Seine Glasmaske scheint auf dich fixiert zu sein, aber er könnte darin genauso 
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Was kannst du mir über diesen Ort erzählen?"</DefaultText>
+      <DefaultText>„Was kannst du mir über diesen Ort erzählen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Lass es mich noch einmal versuchen: Was *willst* du mir über diesen Ort sagen?</DefaultText>
+      <DefaultText>„Lass es mich noch einmal versuchen: Was *willst* du mir über diesen Ort sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,22 +179,22 @@ Seine Glasmaske scheint auf dich fixiert zu sein, aber er könnte darin genauso 
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Fast mit einem Seufzen antwortet er: "Alles".</DefaultText>
+      <DefaultText>Fast mit einem Seufzen antwortet er: „Alles“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Nichts."</DefaultText>
+      <DefaultText>„Nichts.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Was bist du eigentlich?"</DefaultText>
+      <DefaultText>„Was bist du eigentlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Warum treffe ich dich immer wieder?"</DefaultText>
+      <DefaultText>„Warum treffe ich dich immer wieder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,49 +204,49 @@ Seine Glasmaske scheint auf dich fixiert zu sein, aber er könnte darin genauso 
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Kannst du mir helfen?"</DefaultText>
+      <DefaultText>„Kannst du mir helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"In dieser Lage nehme ich jede Hilfe, die ich kriegen kann, ob klamm oder sonst wie."</DefaultText>
+      <DefaultText>„In dieser Lage nehme ich jede Hilfe, die ich kriegen kann, ob klamm oder sonst wie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Du wirst mir nicht helfen?"</DefaultText>
+      <DefaultText>„Du wirst mir nicht helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Wie lautet die Frage?"</DefaultText>
+      <DefaultText>„Wie lautet die Frage?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Lebwohl."</DefaultText>
+      <DefaultText>„Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Die Stimme des Dings trällert als hätte sie ein Echo, das den Geräuschen vorausgeht. Schließlich sind auch Worte zu hören. "Wenn die Frage bekannt ist, ist die Antwort alles andere als eine Folgerung."</DefaultText>
+      <DefaultText>Die Stimme des Dings trällert als hätte sie ein Echo, das den Geräuschen vorausgeht. Schließlich sind auch Worte zu hören. „Wenn die Frage bekannt ist, ist die Antwort alles andere als eine Folgerung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Der Philetis zieht seinen kreisrunden Kopf ein und antwortet emotionslos. "Ich war schon immer hier."</DefaultText>
+      <DefaultText>Der Philetis zieht seinen kreisrunden Kopf ein und antwortet emotionslos. „Ich war schon immer hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Nein, das werden wir nicht."
+      <DefaultText>„Nein, das werden wir nicht.“
 
 Einen Moment später scheinen sich seine Roben nach innen zu kehren und er verschwindet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Das ist nicht die Frage."</DefaultText>
+      <DefaultText>„Das ist nicht die Frage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@ Einen Moment später scheinen sich seine Roben nach innen zu kehren und er versc
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Das Gesicht des Philetis leuchtet perlmuttartig und seine Stimme ist zum ersten Mal erleichtert. "Jetzt verstehst du es."
+      <DefaultText>Das Gesicht des Philetis leuchtet perlmuttartig und seine Stimme ist zum ersten Mal erleichtert. „Jetzt verstehst du es.“
 
 Einen Moment später scheinen sich seine Roben nach innen zu kehren und er verschwindet.</DefaultText>
       <FemaleText />
@@ -288,12 +288,12 @@ Einen Moment später scheinen sich seine Roben nach innen zu kehren und er versc
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Ein langes Stöhnen ist aus den schweren Roben des Philetis zu hören. Die Stimme, die folgt, ist dagegen hoch und piepsend. "Ein Lüstling, erschöpft von seinen sonstigen Ablenkungen, suchte die klamme Umarmung eines Nychthemeron. Die Romanze endete geschmackvoll wie auch der Freigeist."</DefaultText>
+      <DefaultText>Ein langes Stöhnen ist aus den schweren Roben des Philetis zu hören. Die Stimme, die folgt, ist dagegen hoch und piepsend. „Ein Lüstling, erschöpft von seinen sonstigen Ablenkungen, suchte die klamme Umarmung eines Nychthemeron. Die Romanze endete geschmackvoll wie auch der Freigeist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Die Roben heben und senken sich, und lassen die Bewegung kleinerer Dinge darunter vermuten. Dann antwortet er. "In ihrem Elfenbeinturm hört die Dame das Heulen aus den Beobachtungszellen. Notizen werden gemacht. Aber keine Handlungen."</DefaultText>
+      <DefaultText>Die Roben heben und senken sich, und lassen die Bewegung kleinerer Dinge darunter vermuten. Dann antwortet er. „In ihrem Elfenbeinturm hört die Dame das Heulen aus den Beobachtungszellen. Notizen werden gemacht. Aber keine Handlungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,7 +313,7 @@ Einen Moment später scheinen sich seine Roben nach innen zu kehren und er versc
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ich verstehe immer noch nicht, wieso du diesen Philetis so verabscheust."</DefaultText>
+      <DefaultText>„Ich verstehe immer noch nicht, wieso du diesen Philetis so verabscheust.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
