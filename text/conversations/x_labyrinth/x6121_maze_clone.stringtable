@@ -8,29 +8,29 @@
       <ID>1</ID>
       <DefaultText>Die Gestalt vor dir sieht fast exakt so aus wie du, nur dass sie eine Frau ist und kein Mann. Sie trägt nicht deine Narben, aber ansonsten ist ihr Gesicht wie ein Spiegel.
 
-"Hallo", sagt sie freundlich. "Du musst ich sein."</DefaultText>
+„Hallo“, sagt sie freundlich. „Du musst ich sein.“</DefaultText>
       <FemaleText>Die Gestalt vor dir sieht fast exakt so aus wie du, nur dass sie ein Mann ist und keine Frau. Er trägt nicht deine Narben, aber ansonsten ist sein Gesicht wie ein Spiegel.
 
-"Hallo", sagt er freundlich. "Du musst ich sein."</FemaleText>
+„Hallo“, sagt er freundlich. „Du musst ich sein.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hallo nochmal, Bruder. Kann ich dir mit etwas helfen?"</DefaultText>
-      <FemaleText>"Hallo nochmal, Schwester. Kann ich dir mit etwas helfen?"</FemaleText>
+      <DefaultText>„Hallo nochmal, Bruder. Kann ich dir mit etwas helfen?“</DefaultText>
+      <FemaleText>„Hallo nochmal, Schwester. Kann ich dir mit etwas helfen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Lebwohl."</DefaultText>
+      <DefaultText>„Lebwohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Naja, ich bin eine kurzlebige Version von dir." Sie mustert dich von oben bis unten. "Im Grunde genommen. Unser Erschaffer hat diese Klonstationen dazu verwendet, möglichst schnell verschiedene Körpertypen und Eigenschaften auszutesten, bevor er sich für eine endgültige Hülle für ein Bewusstsein entschieden hat." Sie schaut auf das Bedienpult. "Die sehen anders aus, als die Pulte, an die ich mich erinnern kann. Sieht aus, als wäre ich auf die letzten Einstellungen beschränkt."
+      <DefaultText>„Naja, ich bin eine kurzlebige Version von dir.“ Sie mustert dich von oben bis unten. „Im Grunde genommen. Unser Erschaffer hat diese Klonstationen dazu verwendet, möglichst schnell verschiedene Körpertypen und Eigenschaften auszutesten, bevor er sich für eine endgültige Hülle für ein Bewusstsein entschieden hat.“ Sie schaut auf das Bedienpult. „Die sehen anders aus, als die Pulte, an die ich mich erinnern kann. Sieht aus, als wäre ich auf die letzten Einstellungen beschränkt.“
 
-Sie wirft dir ein Lächeln zu. "Nicht, dass das eine schlechte Sache wäre, natürlich. Ich bin mir sicher, dass es *dir* nichts ausmachen würde."</DefaultText>
-      <FemaleText>"Naja, ich bin eine kurzlebige Version von dir." Er mustert dich von oben bis unten. "Im Grunde genommen. Unser Erschaffer hat diese Klonstationen dazu verwendet, möglichst schnell verschiedene Körpertypen und Eigenschaften auszutesten, bevor er sich für eine endgültige Hülle für ein Bewusstsein entschieden hat." Er schaut auf das Bedienpult. "Die sehen anders aus, als die Pulte, an die ich mich erinnern kann. Sieht aus, als wäre ich auf die letzten Einstellungen beschränkt."
+Sie wirft dir ein Lächeln zu. „Nicht, dass das eine schlechte Sache wäre, natürlich. Ich bin mir sicher, dass es *dir* nichts ausmachen würde.“</DefaultText>
+      <FemaleText>„Naja, ich bin eine kurzlebige Version von dir.“ Er mustert dich von oben bis unten. „Im Grunde genommen. Unser Erschaffer hat diese Klonstationen dazu verwendet, möglichst schnell verschiedene Körpertypen und Eigenschaften auszutesten, bevor er sich für eine endgültige Hülle für ein Bewusstsein entschieden hat.“ Er schaut auf das Bedienpult. „Die sehen anders aus, als die Pulte, an die ich mich erinnern kann. Sieht aus, als wäre ich auf die letzten Einstellungen beschränkt.“
 
-Er wirft dir ein Lächeln zu. "Nicht, dass das eine schlechte Sache wäre, natürlich. Ich bin mir sicher, dass es *dir* nichts ausmachen würde."</FemaleText>
+Er wirft dir ein Lächeln zu. „Nicht, dass das eine schlechte Sache wäre, natürlich. Ich bin mir sicher, dass es *dir* nichts ausmachen würde.“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -39,17 +39,17 @@ Er wirft dir ein Lächeln zu. "Nicht, dass das eine schlechte Sache wäre, natü
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Wer bist du noch mal?"</DefaultText>
+      <DefaultText>„Wer bist du noch mal?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ich war ein Modell von dir, bevor unser Erschaffer es auf deinen Körper übertragen hat. Er hat Klone wie mich als schnelle, kurzlebige Prototypen kreiert, bevor er sich für das Aussehen und Empfinden für das nächste Selbst entschieden hat.</DefaultText>
+      <DefaultText>„Ich war ein Modell von dir, bevor unser Erschaffer es auf deinen Körper übertragen hat. Er hat Klone wie mich als schnelle, kurzlebige Prototypen kreiert, bevor er sich für das Aussehen und Empfinden für das nächste Selbst entschieden hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -59,22 +59,22 @@ Er wirft dir ein Lächeln zu. "Nicht, dass das eine schlechte Sache wäre, natü
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Wie lange bleibst du bestehen?"</DefaultText>
+      <DefaultText>„Wie lange bleibst du bestehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Wenn du nur eine kurze Zeit lebst, wie kannst du all das wissen?"</DefaultText>
+      <DefaultText>„Wenn du nur eine kurze Zeit lebst, wie kannst du all das wissen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Nur ein paar Minuten, mehr oder weniger." Deinen Blick erhaschend, fügt sie hinzu: "Es ist nicht so schlimm. Es tut nicht weh - zumindest *erinnere* ich mich nicht daran, dass es wehtut ..."</DefaultText>
-      <FemaleText>"Nur ein paar Minuten, mehr oder weniger." Deinen Blick erhaschend, fügt er hinzu: "Es ist nicht so schlimm. Es tut nicht weh - zumindest *erinnere* ich mich nicht daran, dass es wehtut ..."</FemaleText>
+      <DefaultText>„Nur ein paar Minuten, mehr oder weniger.“ Deinen Blick erhaschend, fügt sie hinzu: „Es ist nicht so schlimm. Es tut nicht weh - zumindest *erinnere* ich mich nicht daran, dass es wehtut …“</DefaultText>
+      <FemaleText>„Nur ein paar Minuten, mehr oder weniger.“ Deinen Blick erhaschend, fügt er hinzu: „Es ist nicht so schlimm. Es tut nicht weh - zumindest *erinnere* ich mich nicht daran, dass es wehtut …“</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Oh! Das ist der interessanteste Teil. Unser Erschaffer mochte es schon immer, Dinge extern durchzuführen, um jemanden zu haben, mit dem er sprechen kann. Sie haben ständig Assistenten erschaffen. *Mir* wurde ermöglicht, meine Erinnerungen von Version zu Version zu behalten. Dadurch konnte ich nützlicheres Feedback darüber, wie sich ein Körper im Vergleich zu einem anderen bewegt oder angefühlt hat, zur Verfügung stellen. Unser Stammvater hat mich sogar ab und zu Aufgaben ausführen lassen - manchmal banale, manchmal gefährliche. Die Tatsache, dass ich aus meinen Fehlern lernen konnte, war eine große Hilfe."</DefaultText>
+      <DefaultText>„Oh! Das ist der interessanteste Teil. Unser Erschaffer mochte es schon immer, Dinge extern durchzuführen, um jemanden zu haben, mit dem er sprechen kann. Sie haben ständig Assistenten erschaffen. *Mir* wurde ermöglicht, meine Erinnerungen von Version zu Version zu behalten. Dadurch konnte ich nützlicheres Feedback darüber, wie sich ein Körper im Vergleich zu einem anderen bewegt oder angefühlt hat, zur Verfügung stellen. Unser Stammvater hat mich sogar ab und zu Aufgaben ausführen lassen - manchmal banale, manchmal gefährliche. Die Tatsache, dass ich aus meinen Fehlern lernen konnte, war eine große Hilfe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -84,26 +84,26 @@ Er wirft dir ein Lächeln zu. "Nicht, dass das eine schlechte Sache wäre, natü
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Sie lacht. "Unser Stammvater hatte seine Eigenarten. Das Geschlecht für das nächste Selbst war immer eine Entscheidung in letzter Minute. Unser Erschaffer war nie zufrieden mit einem - oder sogar zwei! - Geschlechtern. Es war eine austauschbare Sache. Sie haben laufend erforscht und experimentiert, haben sogar Körper von Varjellen, Ghibra und Diruk ausprobiert.
+      <DefaultText>Sie lacht. „Unser Stammvater hatte seine Eigenarten. Das Geschlecht für das nächste Selbst war immer eine Entscheidung in letzter Minute. Unser Erschaffer war nie zufrieden mit einem - oder sogar zwei! - Geschlechtern. Es war eine austauschbare Sache. Sie haben laufend erforscht und experimentiert, haben sogar Körper von Varjellen, Ghibra und Diruk ausprobiert.“
 
-Sie hält mit einem nachdenklicheren Ausdruck auf dem Gesicht inne. "Weißt du, sogar nach Jahrhunderten mit unserem Erschaffer kann ich die Mäkelei über Geschlechter nicht erklären. Sie sind einfach wie sie sind."</DefaultText>
-      <FemaleText>Er lacht. "Unser Stammvater hatte seine Eigenarten. Das Geschlecht für das nächste Selbst war immer eine Entscheidung in letzter Minute. Unser Erschaffer war nie zufrieden mit einem - oder sogar zwei! - Geschlechtern. Es war eine austauschbare Sache. Sie haben laufend erforscht und experimentiert, haben sogar Körper von Varjellen, Ghibra und Diruk ausprobiert.
+Sie hält mit einem nachdenklicheren Ausdruck auf dem Gesicht inne. „Weißt du, sogar nach Jahrhunderten mit unserem Erschaffer kann ich die Mäkelei über Geschlechter nicht erklären. Sie sind einfach wie sie sind.“</DefaultText>
+      <FemaleText>Er lacht. „Unser Stammvater hatte seine Eigenarten. Das Geschlecht für das nächste Selbst war immer eine Entscheidung in letzter Minute. Unser Erschaffer war nie zufrieden mit einem - oder sogar zwei! - Geschlechtern. Es war eine austauschbare Sache. Sie haben laufend erforscht und experimentiert, haben sogar Körper von Varjellen, Ghibra und Diruk ausprobiert.“
 
-Er hält mit einem nachdenklicheren Ausdruck auf dem Gesicht inne. "Weißt du, sogar nach Jahrhunderten mit unserem Erschaffer kann ich die Ansprüche durch Geschlechter nicht erklären. Sie sind einfach wie sie sind."</FemaleText>
+Er hält mit einem nachdenklicheren Ausdruck auf dem Gesicht inne. „Weißt du, sogar nach Jahrhunderten mit unserem Erschaffer kann ich die Ansprüche durch Geschlechter nicht erklären. Sie sind einfach wie sie sind.“</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Unser Erschaffer hat immer bis zur letzten Minute gewartet, um das Geschlecht des nächsten Selbsts zu entscheiden, und sie hatten immer Probleme mit der Entscheidung. Wahrscheinlich hat er mich als Prototyp weiblich erschaffen und dann wieder in letzter Minute umgesattelt, als er dich gemacht hat."</DefaultText>
-      <FemaleText>"Unser Erschaffer hat immer bis zur letzten Minute gewartet, um das Geschlecht des nächsten Selbsts zu entscheiden, und er hatte immer Probleme mit der Entscheidung. Wahrscheinlich hat er mich als Prototyp männlich erschaffen und dann wieder in letzter Minute umgesattelt, als er dich gemacht hat."</FemaleText>
+      <DefaultText>„Unser Erschaffer hat immer bis zur letzten Minute gewartet, um das Geschlecht des nächsten Selbsts zu entscheiden, und sie hatten immer Probleme mit der Entscheidung. Wahrscheinlich hat er mich als Prototyp weiblich erschaffen und dann wieder in letzter Minute umgesattelt, als er dich gemacht hat.“</DefaultText>
+      <FemaleText>„Unser Erschaffer hat immer bis zur letzten Minute gewartet, um das Geschlecht des nächsten Selbsts zu entscheiden, und er hatte immer Probleme mit der Entscheidung. Wahrscheinlich hat er mich als Prototyp männlich erschaffen und dann wieder in letzter Minute umgesattelt, als er dich gemacht hat.“</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Wenn du ich bist, warum bist du dann eine Frau?"</DefaultText>
-      <FemaleText>"Wenn du ich bist, warum bist du dann ein Mann?"</FemaleText>
+      <DefaultText>„Wenn du ich bist, warum bist du dann eine Frau?“</DefaultText>
+      <FemaleText>„Wenn du ich bist, warum bist du dann ein Mann?“</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Erzähl mir nochmal, warum unsere Geschlechter vertauscht sind."</DefaultText>
+      <DefaultText>„Erzähl mir nochmal, warum unsere Geschlechter vertauscht sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,42 +113,42 @@ Er hält mit einem nachdenklicheren Ausdruck auf dem Gesicht inne. "Weißt du, s
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Sie schaut sich um. "Ich *dachte* es wäre das Klonlabor, in dem Prototypen-Körper getestet wurden, aber das hier sieht ganz und gar nicht richtig aus. Wo ist der Boden? Die Wände? Die ganze Ausstattung ist hier, aber ..."
+      <DefaultText>Sie schaut sich um. „Ich *dachte* es wäre das Klonlabor, in dem Prototypen-Körper getestet wurden, aber das hier sieht ganz und gar nicht richtig aus. Wo ist der Boden? Die Wände? Die ganze Ausstattung ist hier, aber …“
 
-Sie schaut dich wieder an. "Es ist wie eine Albtraum-Version des Labores, das ich kenne - als ob jemand das Labor einem Gast beschrieben hätte, der es nicht so ganz verstanden hat, und dieser Gast dann versucht hätte, es nachzubilden." Sie schüttelt den Kopf. "Ich weiß es nicht."</DefaultText>
-      <FemaleText>Er schaut sich um. "Ich *dachte* es wäre das Klonlabor, in dem Prototypen-Körper getestet wurden, aber das hier sieht ganz und gar nicht richtig aus. Wo ist der Boden? Die Wände? Die ganze Ausstattung ist hier, aber ..."
+Sie schaut dich wieder an. „Es ist wie eine Albtraum-Version des Labores, das ich kenne - als ob jemand das Labor einem Gast beschrieben hätte, der es nicht so ganz verstanden hat, und dieser Gast dann versucht hätte, es nachzubilden.“ Sie schüttelt den Kopf. „Ich weiß es nicht.“</DefaultText>
+      <FemaleText>Er schaut sich um. „Ich *dachte* es wäre das Klonlabor, in dem Prototypen-Körper getestet wurden, aber das hier sieht ganz und gar nicht richtig aus. Wo ist der Boden? Die Wände? Die ganze Ausstattung ist hier, aber …“
 
-Er schaut dich wieder an. "Es ist wie eine Albtraum-Version des Labores, das ich kenne - als ob jemand das Labor einem Gast beschrieben hätte, der es nicht so ganz verstanden hat, und dieser Gast dann versucht hätte, es nachzubilden." Er schüttelt den Kopf. "Ich weiß es nicht."</FemaleText>
+Er schaut dich wieder an. „Es ist wie eine Albtraum-Version des Labores, das ich kenne - als ob jemand das Labor einem Gast beschrieben hätte, der es nicht so ganz verstanden hat, und dieser Gast dann versucht hätte, es nachzubilden.“ Er schüttelt den Kopf. „Ich weiß es nicht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Es ist *wie* das Klonlabor, in dem Prototypen-Körper für das nächste Selbst erschaffen wurden. Die ganze Ausstattung ist hier, aber alles andere ist ... *falsch*."</DefaultText>
+      <DefaultText>„Es ist *wie* das Klonlabor, in dem Prototypen-Körper für das nächste Selbst erschaffen wurden. Die ganze Ausstattung ist hier, aber alles andere ist … *falsch*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Weißt du, was das für ein Ort ist?"</DefaultText>
+      <DefaultText>„Weißt du, was das für ein Ort ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Erzähl mir nochmal, was du denkst, was das für ein Ort ist."</DefaultText>
+      <DefaultText>„Erzähl mir nochmal, was du denkst, was das für ein Ort ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Pass gut auf diesen Körper auf."</DefaultText>
+      <DefaultText>„Pass gut auf diesen Körper auf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Könntest du etwas für mich erledigen? Zum Beispiel zu dieser anderen Station laufen und die Böden umschalten?"</DefaultText>
+      <DefaultText>„Könntest du etwas für mich erledigen? Zum Beispiel zu dieser anderen Station laufen und die Böden umschalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Sie schaut dich komisch an, aber sagt: "Natürlich. Das kann ich tun."</DefaultText>
-      <FemaleText>Er schaut dich komisch an, aber sagt: "Natürlich. Das kann ich tun."</FemaleText>
+      <DefaultText>Sie schaut dich komisch an, aber sagt: „Natürlich. Das kann ich tun.“</DefaultText>
+      <FemaleText>Er schaut dich komisch an, aber sagt: „Natürlich. Das kann ich tun.“</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -157,13 +157,13 @@ Er schaut dich wieder an. "Es ist wie eine Albtraum-Version des Labores, das ich
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Du musst die Böden an der anderen Station noch einmal für mich umschalten."</DefaultText>
+      <DefaultText>„Du musst die Böden an der anderen Station noch einmal für mich umschalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Sie zuckt mit den Schultern. "Klar. Warum nicht?"</DefaultText>
-      <FemaleText>Er zuckt mit den Schultern. "Klar. Warum nicht?"</FemaleText>
+      <DefaultText>Sie zuckt mit den Schultern. „Klar. Warum nicht?“</DefaultText>
+      <FemaleText>Er zuckt mit den Schultern. „Klar. Warum nicht?“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
