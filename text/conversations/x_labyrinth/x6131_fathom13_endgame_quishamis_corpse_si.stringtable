@@ -77,7 +77,7 @@ Da ist keiner. Die Kreatur hat dich nicht verletzt. Stattdessen scheint das Blut
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Du greifst in die feuchten, gefrorenen Eingeweiden des Quishamis und findest die rauen Ränder eines fremden Objektes. Mit einem Grunzen reißt du es los und etwas *schnappt* in der Leichte der Kreatur. 
+      <DefaultText>Du greifst in die feuchten, gefrorenen Eingeweiden des Quishamis und findest die rauen Ränder eines fremden Objektes. Mit einem Grunzen reißt du es los und etwas *schnappt* in der Leiche der Kreatur. 
 {LOOT}
 {SCRIPT: Player gets item from corpse.}
 {SCRIPT: This path disables the SI.}</DefaultText>
