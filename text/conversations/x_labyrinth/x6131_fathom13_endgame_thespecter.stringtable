@@ -6,45 +6,45 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich hatte gehofft, dass du mir das öffnen würdest. Und jetzt sind wir alle hier", sagt der Geist. Seine Stimme ist nicht an seinen Körper gebunden. Sie kommt aus den Wänden um dich herum, aus dem sich wandelnden Boden unter deinen Füßen.
+      <DefaultText>„Ich hatte gehofft, dass du mir das öffnen würdest. Und jetzt sind wir alle hier“, sagt der Geist. Seine Stimme ist nicht an seinen Körper gebunden. Sie kommt aus den Wänden um dich herum, aus dem sich wandelnden Boden unter deinen Füßen.
 
-"Es ist Zeit für die harte Wahrheit, Kind."
+„Es ist Zeit für die harte Wahrheit, Kind.“
 
 {SCRIPT: After finishing both Meres, the main door glows and opens. The cage remains, however, and the Specter arrives, walking to the player.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich habe dich gebraucht, um die Tür zu öffnen, und das hast du getan. Um den Käfig kann ich mich selbst kümmern."
+      <DefaultText>„Ich habe dich gebraucht, um die Tür zu öffnen, und das hast du getan. Um den Käfig kann ich mich selbst kümmern.“
 
-Seine Stimme drückt dich nieder wie eine Hand, die versucht, dich in die Knie zu zwingen. "Wenn ich in die Resonanz eingehe, werde ich meine herumirrenden Kinder in meinen Verstand zurückbringen, denn dort gehören sie hin. Überlass es mir und wir werden kein weiteres Problem miteinander haben. Was sagst du?"</DefaultText>
+Seine Stimme drückt dich nieder wie eine Hand, die versucht, dich in die Knie zu zwingen. „Wenn ich in die Resonanz eingehe, werde ich meine herumirrenden Kinder in meinen Verstand zurückbringen, denn dort gehören sie hin. Überlass es mir und wir werden kein weiteres Problem miteinander haben. Was sagst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Man sollte glauben, dass jemand, der sich der Wandelnde Gott nennt, aus seinen Fehlern lernen sollte."</DefaultText>
+      <DefaultText>„Man sollte glauben, dass jemand, der sich der Wandelnde Gott nennt, aus seinen Fehlern lernen sollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ich denke darüber nach. Das war kein einfacher Weg."</DefaultText>
+      <DefaultText>„Ich denke darüber nach. Das war kein einfacher Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich würde eher sterben, als dich dort hineinzulassen."</DefaultText>
+      <DefaultText>„Ich würde eher sterben, als dich dort hineinzulassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wenn du mich fragst, habe ich versucht dich zu warnen", sagt er. "Und du warst nur für einen winzigen Bruchteil meines Lebens. Stell dir vor, was ich über die Jahrhunderte erleiden musste, um an diesen Ort zu kommen. An diesen *Moment*."</DefaultText>
+      <DefaultText>„Wenn du mich fragst, habe ich versucht dich zu warnen“, sagt er. „Und du warst nur für einen winzigen Bruchteil meines Lebens. Stell dir vor, was ich über die Jahrhunderte erleiden musste, um an diesen Ort zu kommen. An diesen *Moment*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Irritation spiegelt sich auf seinem transparenten Gesicht wider.
 
-"Ich bin nicht hier um zu erörtern, wer ich bin oder was ich getan habe. Ich bin hier um einzufordern, was mir gehört!" Der Boden unter deinen Füßen rumort bedrohlich.
+„Ich bin nicht hier um zu erörtern, wer ich bin oder was ich getan habe. Ich bin hier um einzufordern, was mir gehört!“ Der Boden unter deinen Füßen rumort bedrohlich.
 
 
 {SOUND: Metallic rumble.}</DefaultText>
@@ -52,17 +52,17 @@ Seine Stimme drückt dich nieder wie eine Hand, die versucht, dich in die Knie z
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Bitte", brummelt der Geist. "Es ist nicht nötig, Ultimaten auszusprechen und zu drohen. Du wurdest für diesen Moment geschaffen. Und sag mir, ist dein Plan, wie man mit dem Kummer umgehen sollte, auch nur einen Deut besser? *Hast* du überhaupt einen?"</DefaultText>
+      <DefaultText>„Bitte“, brummelt der Geist. „Es ist nicht nötig, Ultimaten auszusprechen und zu drohen. Du wurdest für diesen Moment geschaffen. Und sag mir, ist dein Plan, wie man mit dem Kummer umgehen sollte, auch nur einen Deut besser? *Hast* du überhaupt einen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Nicht alles dreht sich um dich."</DefaultText>
+      <DefaultText>„Nicht alles dreht sich um dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Achja?" Sie hat nichts mehr zu sagen, aber ihre Augenbraue zieht sich ganz leicht zusammen. Sie ist verwirrt, als ob sie diesen Geist nicht als ihren Vater erkennen würde.</DefaultText>
+      <DefaultText>„Achja?“ Sie hat nichts mehr zu sagen, aber ihre Augenbraue zieht sich ganz leicht zusammen. Sie ist verwirrt, als ob sie diesen Geist nicht als ihren Vater erkennen würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,7 +77,7 @@ Seine Stimme drückt dich nieder wie eine Hand, die versucht, dich in die Knie z
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Du hast recht. Das hast du verdient."</DefaultText>
+      <DefaultText>„Du hast recht. Das hast du verdient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,27 +97,27 @@ Seine Stimme drückt dich nieder wie eine Hand, die versucht, dich in die Knie z
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Du hast recht. Es wäre töricht, ihn uns alle zerstören zu lassen, aus welchem Grund auch immer."</DefaultText>
+      <DefaultText>„Du hast recht. Es wäre töricht, ihn uns alle zerstören zu lassen, aus welchem Grund auch immer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ich habe meine Entscheidung getroffen. Ich stehe an der Seite des Wandelnden Gottes."</DefaultText>
+      <DefaultText>„Ich habe meine Entscheidung getroffen. Ich stehe an der Seite des Wandelnden Gottes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Gut", sagt er, nicht im geringsten überrascht. "Schön zu sehen, dass einer von euch zu Vernunft gekommen ist."</DefaultText>
+      <DefaultText>„Gut“, sagt er, nicht im geringsten überrascht. „Schön zu sehen, dass einer von euch zu Vernunft gekommen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Dafür wirst du sterben. Das werdet ihr beide."</DefaultText>
+      <DefaultText>„Dafür wirst du sterben. Das werdet ihr beide.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Was tust du da?" Matkina zischt. "Du wirst uns alle *ihm* ausliefern?"</DefaultText>
+      <DefaultText>„Was tust du da?“ Matkina zischt. „Du wirst uns alle *ihm* ausliefern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,33 +132,33 @@ Seine Stimme drückt dich nieder wie eine Hand, die versucht, dich in die Knie z
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Matkina, steh uns nicht im Weg. Bitte."</DefaultText>
+      <DefaultText>„Matkina, steh uns nicht im Weg. Bitte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Du hast recht. Ich weiß nicht, was ich mir dabei gedacht habe."</DefaultText>
+      <DefaultText>„Du hast recht. Ich weiß nicht, was ich mir dabei gedacht habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Uns im Weg. *Uns* im Weg." Sie schüttelt in trauriger Verwunderung den Kopf, dann seufzt sie. "Gut. Macht weiter."</DefaultText>
+      <DefaultText>„Uns im Weg. *Uns* im Weg.“ Sie schüttelt in trauriger Verwunderung den Kopf, dann seufzt sie. „Gut. Macht weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Uns im Weg. *Uns* im Weg." Verwundert distanziert sie sich von dir. "Nach allem, was du getan hast, wirfst du ihm uns vor."
+      <DefaultText>„Uns im Weg. *Uns* im Weg.“ Verwundert distanziert sie sich von dir. „Nach allem, was du getan hast, wirfst du ihm uns vor.“
 
-Abscheu - und Schmerz - verhärten ihre Mimik. "Ich kann dich nicht besiegen. Ich würde nur mein Leben wegwerfen. Wobei das wohl das ist, was du letzten Endes auch tun wirst." Sie winkt ab. "Tu was du willst, aber ich werde mich nicht daran beteiligen."
+Abscheu - und Schmerz - verhärten ihre Mimik. „Ich kann dich nicht besiegen. Ich würde nur mein Leben wegwerfen. Wobei das wohl das ist, was du letzten Endes auch tun wirst.“ Sie winkt ab. „Tu was du willst, aber ich werde mich nicht daran beteiligen.“
 
-Im Fortgehen sagt sie: "Ich hoffe, er hintergeht dich. *Erneut*."</DefaultText>
+Im Fortgehen sagt sie: „Ich hoffe, er hintergeht dich. *Erneut*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ihr Verstoßenen wart schon immer zu leicht zu beeinflussen", sagt er mit verhärtetem Gesichtsausdruck. "Zu anfällig für die Worte der falschen Leute."
+      <DefaultText>„Ihr Verstoßenen wart schon immer zu leicht zu beeinflussen“, sagt er mit verhärtetem Gesichtsausdruck. „Zu anfällig für die Worte der falschen Leute.“
 
-Er sieht zur Tür hinter dem Käfig. "Was dann? Was nun?"</DefaultText>
+Er sieht zur Tür hinter dem Käfig. „Was dann? Was nun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,7 +175,7 @@ Er sieht zur Tür hinter dem Käfig. "Was dann? Was nun?"</DefaultText>
       <ID>31</ID>
       <DefaultText>Der Geist atmet tief ein. Es hört sich an wie ein Windzug, der durch die Wipfel hoher Bäume fährt.
 
-"Ja", sagt er und nickt dir zu. "Das habe ich."</DefaultText>
+„Ja“, sagt er und nickt dir zu. „Das habe ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -250,7 +250,7 @@ Er sieht zur Tür hinter dem Käfig. "Was dann? Was nun?"</DefaultText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Aber was hat sich verändert? Was hat deine Meinung geändert?"</DefaultText>
+      <DefaultText>„Aber was hat sich verändert? Was hat deine Meinung geändert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,101 +270,101 @@ Er sieht zur Tür hinter dem Käfig. "Was dann? Was nun?"</DefaultText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[Angreifen] "Eigentlich wollte ich dich nur ablenken."</DefaultText>
+      <DefaultText>[Angreifen] „Eigentlich wollte ich dich nur ablenken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Nein ... nein. Ich will dir nicht helfen. Ich habe meine Meinung geändert."</DefaultText>
+      <DefaultText>„Nein … nein. Ich will dir nicht helfen. Ich habe meine Meinung geändert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Du hast mich vorhin überrascht. Jetzt, wo ich darüber nachgedacht habe, erscheint es mir als die einzige logische Lösung."</DefaultText>
+      <DefaultText>„Du hast mich vorhin überrascht. Jetzt, wo ich darüber nachgedacht habe, erscheint es mir als die einzige logische Lösung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Folge mir."
+      <DefaultText>„Folge mir.“
 
 {SCRIPT: End of conversation. Specter opens cage to Resonance.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Hier?", fragt der Geist. Die Pylonen surren unter deinen Füßen, im gleichen Rhythmus wie seine Stimme. "Unmöglich."</DefaultText>
+      <DefaultText>„Hier?“, fragt der Geist. Die Pylonen surren unter deinen Füßen, im gleichen Rhythmus wie seine Stimme. „Unmöglich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Sein Gesichtsausdruck verhärtet sich. "Was dann? Was nun?"</DefaultText>
+      <DefaultText>Sein Gesichtsausdruck verhärtet sich. „Was dann? Was nun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Es gibt eine andere Möglichkeit. Das ist das vollständige Bewusstsein deiner Tochter. Wenn wir alle Verstoßenen mit ihr verschmelzen, kann sie endlich gerettet werden."</DefaultText>
+      <DefaultText>„Es gibt eine andere Möglichkeit. Das ist das vollständige Bewusstsein deiner Tochter. Wenn wir alle Verstoßenen mit ihr verschmelzen, kann sie endlich gerettet werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Die Resonanz gehört nicht dir. Der echte Wandelnde Gott ist gestorben, als ich geboren wurde. Du bist nur eine Sicherungskopie seiner Erinnerungen."</DefaultText>
+      <DefaultText>„Die Resonanz gehört nicht dir. Der echte Wandelnde Gott ist gestorben, als ich geboren wurde. Du bist nur eine Sicherungskopie seiner Erinnerungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
       <DefaultText>Der Geist ist vollkommen erstarrt und wendet sich vom Blick der geisterhaften Frau ab.
 
-"Nein", sagt er. "Sie ist nicht echt. Ich wünschte, sie wäre es, aber Wünschen ändert nichts an der Realität. Meine Tochter ist tot."</DefaultText>
+„Nein“, sagt er. „Sie ist nicht echt. Ich wünschte, sie wäre es, aber Wünschen ändert nichts an der Realität. Meine Tochter ist tot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Willst du es wirklich darauf anlegen, dass das nicht deine Tochter ist? Du könntest sie damit in den Tod schicken. Du könntest uns *alle* damit in den Tod schicken."</DefaultText>
+      <DefaultText>„Willst du es wirklich darauf anlegen, dass das nicht deine Tochter ist? Du könntest sie damit in den Tod schicken. Du könntest uns *alle* damit in den Tod schicken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Sieh ihr in die Augen. Erkennst du sie nicht?"</DefaultText>
+      <DefaultText>„Sieh ihr in die Augen. Erkennst du sie nicht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Ich erzähle dir hier nichts Neues. Du hättest sie vor Jahrtausenden schon retten können, wenn du mit ihrem Verstand verschmolzen wärst. Du hattest Angst, zu sterben."</DefaultText>
+      <DefaultText>„Ich erzähle dir hier nichts Neues. Du hättest sie vor Jahrtausenden schon retten können, wenn du mit ihrem Verstand verschmolzen wärst. Du hattest Angst, zu sterben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Verwende dein Wissen, um deiner Tochter zu helfen, so, wie es ursprünglich gedacht war. Die letzte große Tat eines großen Mannes."</DefaultText>
+      <DefaultText>„Verwende dein Wissen, um deiner Tochter zu helfen, so, wie es ursprünglich gedacht war. Die letzte große Tat eines großen Mannes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Du willst sie zurückholen. Deine Experimente mit der Wahrscheinlichkeitsmaschine in Sagus sprechen dafür. Und das ist deine Gelegenheit!"</DefaultText>
+      <DefaultText>„Du willst sie zurückholen. Deine Experimente mit der Wahrscheinlichkeitsmaschine in Sagus sprechen dafür. Und das ist deine Gelegenheit!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Das ist eine Falle, Herr. Es *muss* eine Falle sein." Der Kalkedon schüttelt langsam seinen Kopf. "Ich würde mein Leben jederzeit für dich geben, aber sie? Wer ist *sie*?"</DefaultText>
+      <DefaultText>„Das ist eine Falle, Herr. Es *muss* eine Falle sein.“ Der Kalkedon schüttelt langsam seinen Kopf. „Ich würde mein Leben jederzeit für dich geben, aber sie? Wer ist *sie*?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Wir sollen unser Bewusstsein gegen ihres eintauschen?" Tash schnauft. "Ich denke nicht."</DefaultText>
+      <DefaultText>„Wir sollen unser Bewusstsein gegen ihres eintauschen?“ Tash schnauft. „Ich denke nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Du hast sie sterben lassen. Jetzt hast du die Gelegenheit, es wiedergutzumachen."</DefaultText>
+      <DefaultText>„Du hast sie sterben lassen. Jetzt hast du die Gelegenheit, es wiedergutzumachen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Du hattest die Gelegenheit doch auch, oder? Im Lebensbild." Sein Blick schweift über deine Schulter hinweg. Sein Mund verformt sich zu einem wütenden Ausdruck. "Und als du dich entscheiden musstest, hast du dich gegen sie und für dein eigenes Überleben entschieden. Heuchler."</DefaultText>
+      <DefaultText>„Du hattest die Gelegenheit doch auch, oder? Im Lebensbild.“ Sein Blick schweift über deine Schulter hinweg. Sein Mund verformt sich zu einem wütenden Ausdruck. „Und als du dich entscheiden musstest, hast du dich gegen sie und für dein eigenes Überleben entschieden. Heuchler.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Du hattest die Gelegenheit doch auch, oder? Im Lebensbild." Sein Blick schweift über deine Schulter hinweg. Er zieht die Augenbrauen hoch. "Und du hast dich anders entschieden als ich." Seine Lippen bilden eine gerade Linie.</DefaultText>
+      <DefaultText>„Du hattest die Gelegenheit doch auch, oder? Im Lebensbild.“ Sein Blick schweift über deine Schulter hinweg. Er zieht die Augenbrauen hoch. „Und du hast dich anders entschieden als ich.“ Seine Lippen bilden eine gerade Linie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -379,14 +379,14 @@ Er sieht zur Tür hinter dem Käfig. "Was dann? Was nun?"</DefaultText>
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Genug Gerede", sagt er, und winkt alle weiteren Diskussionen mit einer Hand ab. "Es ist offensichtlich, dass du auf der Stelle trittst. Beenden wir das."</DefaultText>
+      <DefaultText>„Genug Gerede“, sagt er, und winkt alle weiteren Diskussionen mit einer Hand ab. „Es ist offensichtlich, dass du auf der Stelle trittst. Beenden wir das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Genug davon", murmelt er. Die kannst keine Wut mehr in seiner Stimme erkennen. Kein Feuer, nur eine große Müdigkeit. Sein Blick gleitet von dir über die anderen im Raum. "Du ... hast recht. Ich werde es tun."
+      <DefaultText>„Genug davon“, murmelt er. Die kannst keine Wut mehr in seiner Stimme erkennen. Kein Feuer, nur eine große Müdigkeit. Sein Blick gleitet von dir über die anderen im Raum. „Du … hast recht. Ich werde es tun.“
 
-Er sieht zu seiner Tochter herüber, wendet sich blitzschnell wieder ab, so als würde ihr Anblick ihn verletzen, und wendet sich ihr dann mit neugefundener Kraft wieder zu. "Ich bringe dich zurück, wie ich es versprochen habe."</DefaultText>
+Er sieht zu seiner Tochter herüber, wendet sich blitzschnell wieder ab, so als würde ihr Anblick ihn verletzen, und wendet sich ihr dann mit neugefundener Kraft wieder zu. „Ich bringe dich zurück, wie ich es versprochen habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,45 +396,45 @@ Er sieht zu seiner Tochter herüber, wendet sich blitzschnell wieder ab, so als 
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Genug davon", murmelt er. Die kannst keine Wut mehr in seiner Stimme erkennen. Kein Feuer, nur eine große Müdigkeit. "Du ... hast recht. Ich werde es tun."
+      <DefaultText>„Genug davon“, murmelt er. Die kannst keine Wut mehr in seiner Stimme erkennen. Kein Feuer, nur eine große Müdigkeit. „Du … hast recht. Ich werde es tun.“
 
-Er sieht zu seiner Tochter herüber, wendet sich blitzschnell wieder ab, so als würde ihr Anblick ihn verletzen, und wendet sich ihr dann mit neugefundener Kraft wieder zu. "Ich bringe dich zurück, das verspreche ich."</DefaultText>
+Er sieht zu seiner Tochter herüber, wendet sich blitzschnell wieder ab, so als würde ihr Anblick ihn verletzen, und wendet sich ihr dann mit neugefundener Kraft wieder zu. „Ich bringe dich zurück, das verspreche ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Der Tod", knurrt der Geist. "Ihr Schöpfungen und Abbilder habt so eine hohe Achtung vor der eigenen Existenz."
+      <DefaultText>„Der Tod“, knurrt der Geist. „Ihr Schöpfungen und Abbilder habt so eine hohe Achtung vor der eigenen Existenz.“
 
-Er durchschneidet mit seiner Hand die Luft. "Das führt zu nichts. Wenn das meine Tochter wäre, würde ich es wissen."</DefaultText>
+Er durchschneidet mit seiner Hand die Luft. „Das führt zu nichts. Wenn das meine Tochter wäre, würde ich es wissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Das ist absurd. Ich ..." Der Blick des Geistes fällt auf sie, und dann wird er ruhig. Sein Kinn zuckt kurz, und er zwingt sich dazu, nicht zu ihr zu sehen.</DefaultText>
+      <DefaultText>„Das ist absurd. Ich …“ Der Blick des Geistes fällt auf sie, und dann wird er ruhig. Sein Kinn zuckt kurz, und er zwingt sich dazu, nicht zu ihr zu sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
       <DefaultText>Er blinzelt, und für einen kurzen Augenblick kannst du etwas Ungewohntes in seinen Augen erkennen - Schuld.
 
-"Ich habe die Struktur der Realität verändert, um zu zurückzubringen. Türen geöffnet, die man nie hätte öffnen dürfen. Und jedes Mal habe ich versagt." Er sieht dich wütend an. "Auch diesmal wird sich nichts ändern."
+„Ich habe die Struktur der Realität verändert, um zu zurückzubringen. Türen geöffnet, die man nie hätte öffnen dürfen. Und jedes Mal habe ich versagt.“ Er sieht dich wütend an. „Auch diesmal wird sich nichts ändern.“
 
 Aber sein Blick spricht gegen seine Zweifel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Schau den Tatsachen ins Auge. Das ist deine Tochter."</DefaultText>
+      <DefaultText>„Schau den Tatsachen ins Auge. Das ist deine Tochter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Du hast lange genug gelebt. Jetzt ist sie an der Reihe."</DefaultText>
+      <DefaultText>„Du hast lange genug gelebt. Jetzt ist sie an der Reihe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"So hat dein Lebenswerk begonnen. Hilf mir, dein Erbe zu bewahren."</DefaultText>
+      <DefaultText>„So hat dein Lebenswerk begonnen. Hilf mir, dein Erbe zu bewahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -444,33 +444,33 @@ Aber sein Blick spricht gegen seine Zweifel.</DefaultText>
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Warum sollte ich mich selbst opfern, wenn ich nicht einmal sicher bin, ob es sich für sie lohnt?"</DefaultText>
+      <DefaultText>„Warum sollte ich mich selbst opfern, wenn ich nicht einmal sicher bin, ob es sich für sie lohnt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Ich habe noch nie verstanden, wie ihr Verstoßenen denkt", sagt er, aber sieht dabei nachdenklich aus.</DefaultText>
+      <DefaultText>„Ich habe noch nie verstanden, wie ihr Verstoßenen denkt“, sagt er, aber sieht dabei nachdenklich aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Lange genug?" wiederholt der Geist. "Und was habe ich an Schlechtem getan, dass meine guten Taten so überwiegt?" Er schüttelt den Kopf. "Nein. Ich bin noch nicht fertig."
+      <DefaultText>„Lange genug?“ wiederholt der Geist. „Und was habe ich an Schlechtem getan, dass meine guten Taten so überwiegt?“ Er schüttelt den Kopf. „Nein. Ich bin noch nicht fertig.“
 
-Er sieht dich verurteilend an. "Jetzt ist *sie* an der Reihe."</DefaultText>
+Er sieht dich verurteilend an. „Jetzt ist *sie* an der Reihe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Ich hatte *keine* Angst", schnauzt er. "Ich wollte da sein, als sie aufgewacht ist. Warum sollte ich mich selbst opfern, wenn es eine Chance gibt, uns beide zu retten?"
+      <DefaultText>„Ich hatte *keine* Angst“, schnauzt er. „Ich wollte da sein, als sie aufgewacht ist. Warum sollte ich mich selbst opfern, wenn es eine Chance gibt, uns beide zu retten?“
 
 Aber er wendet seinen Blick besorgt ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Weil ich es so will?", sagt er kühl. "Weil du ein Echo von ihr zu mir bringst, während ich an der Spitze meiner Schöpfung stehe?"
+      <DefaultText>„Weil ich es so will?“, sagt er kühl. „Weil du ein Echo von ihr zu mir bringst, während ich an der Spitze meiner Schöpfung stehe?“
 
-Seine Augen schmälern sich. "Du vertraust auf mein Mitgefühl, doch ich habe keins."</DefaultText>
+Seine Augen schmälern sich. „Du vertraust auf mein Mitgefühl, doch ich habe keins.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -515,7 +515,7 @@ Seine Augen schmälern sich. "Du vertraust auf mein Mitgefühl, doch ich habe ke
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Die Gezeiten machen sie krank. Sie werden sie auch heilen. Du *weißt* es."</DefaultText>
+      <DefaultText>„Die Gezeiten machen sie krank. Sie werden sie auch heilen. Du *weißt* es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -527,27 +527,27 @@ Oder auch gegen sich selbst.</DefaultText>
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>[Angreifen] "Du wirst diese Tür *nicht* betreten. Dafür werde ich sorgen."</DefaultText>
+      <DefaultText>[Angreifen] „Du wirst diese Tür *nicht* betreten. Dafür werde ich sorgen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Dann lass es uns beenden", sagt er, aber auch Erleichterung ist in seinen Augen zu sehen.</DefaultText>
+      <DefaultText>„Dann lass es uns beenden“, sagt er, aber auch Erleichterung ist in seinen Augen zu sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Ich würde diesen Bastard jederzeit wiedererkennen, egal, in welchem Körper er sich versteckt. Das ist unser Erzeuger, kein Zweifel."</DefaultText>
+      <DefaultText>„Ich würde diesen Bastard jederzeit wiedererkennen, egal, in welchem Körper er sich versteckt. Das ist unser Erzeuger, kein Zweifel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Absurd", grummelt der Kalkedon. "Ich habe unserem Erzeuger jahrhundertelang gedient. Es ist er."</DefaultText>
+      <DefaultText>„Absurd“, grummelt der Kalkedon. „Ich habe unserem Erzeuger jahrhundertelang gedient. Es ist er.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Mit angezogener Augenbraue sagt der Geist: "Du drückst dich simpel aus. Aber du bist nicht dumm, selbst für einen meiner Verstoßenen. Ich bin der Wandelnde Gott, und du stehst mir im Weg."</DefaultText>
+      <DefaultText>Mit angezogener Augenbraue sagt der Geist: „Du drückst dich simpel aus. Aber du bist nicht dumm, selbst für einen meiner Verstoßenen. Ich bin der Wandelnde Gott, und du stehst mir im Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -562,22 +562,22 @@ Oder auch gegen sich selbst.</DefaultText>
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Ein Bewusstsein muss kontinuierlich sein. Du bist eine Kopie dessen, was der Wandelne Gott einst war."</DefaultText>
+      <DefaultText>„Ein Bewusstsein muss kontinuierlich sein. Du bist eine Kopie dessen, was der Wandelne Gott einst war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Ich weiß, wer ich bin!", blafft der Geist, aber er sieht durch dein Argument beunruhigt aus. "Das ist töricht!"</DefaultText>
+      <DefaultText>„Ich weiß, wer ich bin!“, blafft der Geist, aber er sieht durch dein Argument beunruhigt aus. „Das ist töricht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Und nach dieser Vorstellung wäre jeder, der eine Nacht im Delirium erlebt hat, auch eine Kopie seines alten Ichs", antwortet der Geist, ohne nachdenken zu müssen. "Erspare mir deine philosophischen Ausführungen, Verstoßener."</DefaultText>
-      <FemaleText>"Und nach dieser Vorstellung wäre jeder, der eine Nacht im Delirium erlebt hat, auch eine Kopie seines alten Ichs", antwortet der Geist, ohne nachdenken zu müssen. "Erspare mir deine philosophischen Ausführungen, Verstoßene."</FemaleText>
+      <DefaultText>„Und nach dieser Vorstellung wäre jeder, der eine Nacht im Delirium erlebt hat, auch eine Kopie seines alten Ichs“, antwortet der Geist, ohne nachdenken zu müssen. „Erspare mir deine philosophischen Ausführungen, Verstoßener.“</DefaultText>
+      <FemaleText>„Und nach dieser Vorstellung wäre jeder, der eine Nacht im Delirium erlebt hat, auch eine Kopie seines alten Ichs“, antwortet der Geist, ohne nachdenken zu müssen. „Erspare mir deine philosophischen Ausführungen, Verstoßene.“</FemaleText>
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Das ist die Tochter des Wandelnden Gottes, und doch erkennt sie dich nicht."</DefaultText>
+      <DefaultText>„Das ist die Tochter des Wandelnden Gottes, und doch erkennt sie dich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -587,7 +587,7 @@ Oder auch gegen sich selbst.</DefaultText>
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Genug Gerede", sagt er, und winkt alle weiteren Diskussionen mit einer Hand ab. "Es ist offensichtlich, dass du auf der Stelle trittst. Beenden wir das."</DefaultText>
+      <DefaultText>„Genug Gerede“, sagt er, und winkt alle weiteren Diskussionen mit einer Hand ab. „Es ist offensichtlich, dass du auf der Stelle trittst. Beenden wir das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -597,9 +597,9 @@ Oder auch gegen sich selbst.</DefaultText>
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Es reicht", murmelt er. Die kannst keine Wut mehr in seiner Stimme erkennen. Kein Feuer, nur eine große Müdigkeit. Sein Blick gleitet von dir über die anderen im Raum. "Du ... hast recht. Am Anfang habe ich mich davon überzeugt, dass ich einfach nicht vollständig war. Dass etwas in mehr zerbrochen, oder sogar verloren war."
+      <DefaultText>„Es reicht“, murmelt er. Die kannst keine Wut mehr in seiner Stimme erkennen. Kein Feuer, nur eine große Müdigkeit. Sein Blick gleitet von dir über die anderen im Raum. „Du … hast recht. Am Anfang habe ich mich davon überzeugt, dass ich einfach nicht vollständig war. Dass etwas in mehr zerbrochen, oder sogar verloren war.“
 
-Er starrt auf seine Hand – oder durch sie hindurch. "Aber das alles ergibt Sinn. Ich bin nicht er. Ich bin nah dran, näher dran als andere, aber der Wandelnde Gott ist tot."</DefaultText>
+Er starrt auf seine Hand – oder durch sie hindurch. „Aber das alles ergibt Sinn. Ich bin nicht er. Ich bin nah dran, näher dran als andere, aber der Wandelnde Gott ist tot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,9 +611,9 @@ Er starrt auf seine Hand – oder durch sie hindurch. "Aber das alles ergibt Sin
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Es reicht", murmelt er. Die kannst keine Wut mehr in seiner Stimme erkennen. Kein Feuer, nur eine große Müdigkeit. "Du ... hast recht. Am Anfang habe ich mich davon überzeugt, dass ich einfach nicht vollständig war. Dass etwas in mehr zerbrochen, oder sogar verloren war."
+      <DefaultText>„Es reicht“, murmelt er. Die kannst keine Wut mehr in seiner Stimme erkennen. Kein Feuer, nur eine große Müdigkeit. „Du … hast recht. Am Anfang habe ich mich davon überzeugt, dass ich einfach nicht vollständig war. Dass etwas in mehr zerbrochen, oder sogar verloren war.“
 
-Er starrt auf seine Hand – oder durch sie hindurch. "Aber das alles ergibt Sinn. Ich bin nicht er. Ich bin nah dran, näher dran als andere, aber der Wandelnde Gott ist tot."</DefaultText>
+Er starrt auf seine Hand – oder durch sie hindurch. „Aber das alles ergibt Sinn. Ich bin nicht er. Ich bin nah dran, näher dran als andere, aber der Wandelnde Gott ist tot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -638,140 +638,140 @@ Er starrt auf seine Hand – oder durch sie hindurch. "Aber das alles ergibt Sin
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Sie erwidert seinen Blick, blinzelt ein einziges Mal ... Und schüttelt den Kopf.</DefaultText>
+      <DefaultText>Sie erwidert seinen Blick, blinzelt ein einziges Mal … Und schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Du bist nicht sie", sagt er. Dann wiederholt er sich, diesmal mit mehr Nachdruck. "Du bist nicht sie. Natürlich kennst du mich nicht."
+      <DefaultText>„Du bist nicht sie“, sagt er. Dann wiederholt er sich, diesmal mit mehr Nachdruck. „Du bist nicht sie. Natürlich kennst du mich nicht.“
 
 Er wendet sich vollständig von ihr ab und starrt in die Dunkelheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Du brauchst mich auf eine Art und Weise, auf die der Wandelnde Gott mich nicht braucht. Du konntest die Resonanzkammer nicht ohne mich aktivieren. Du könntest nicht einmal diese Tür öffnen."</DefaultText>
+      <DefaultText>„Du brauchst mich auf eine Art und Weise, auf die der Wandelnde Gott mich nicht braucht. Du konntest die Resonanzkammer nicht ohne mich aktivieren. Du könntest nicht einmal diese Tür öffnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Sie erwidert seinen Blick, blinzelt ein einziges Mal ... und schüttelt den Kopf.</DefaultText>
+      <DefaultText>Sie erwidert seinen Blick, blinzelt ein einziges Mal … und schüttelt den Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Wenn es einen Erben des Wandelnden Gottes gibt, bin das ich. Ich konnte die Vergangenheit durch die Lebensbilder verändern, seit ich erwacht bin."</DefaultText>
+      <DefaultText>„Wenn es einen Erben des Wandelnden Gottes gibt, bin das ich. Ich konnte die Vergangenheit durch die Lebensbilder verändern, seit ich erwacht bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Ich habe etliche Kämpfe verloren", sagt er mit angehobener Augenbraue. "Und ich bin noch immer am Leben, weil ich weiß, wann es besser ist, sich zurückzuziehen. Unbesiegbarkeit ist reine Fiktion, und dafür habe ich keine Verwendung."</DefaultText>
+      <DefaultText>„Ich habe etliche Kämpfe verloren“, sagt er mit angehobener Augenbraue. „Und ich bin noch immer am Leben, weil ich weiß, wann es besser ist, sich zurückzuziehen. Unbesiegbarkeit ist reine Fiktion, und dafür habe ich keine Verwendung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Bitte", grummelt er. "Du hast um Ehrlichkeit gebeten, und ich habe sie dir gegeben. Und noch etwas - Ich werde meinen Körper und mein Leben zurückbekommen, selbst wenn ich dich aus meinen Verstand herausbrennen muss."</DefaultText>
+      <DefaultText>„Bitte“, grummelt er. „Du hast um Ehrlichkeit gebeten, und ich habe sie dir gegeben. Und noch etwas - Ich werde meinen Körper und mein Leben zurückbekommen, selbst wenn ich dich aus meinen Verstand herausbrennen muss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Du hast keine Ahnung davon, wie du erwacht bist", sagt er. Man sieht ihm an, dass er die Geduld verliert. "Du bist nichts weiter als ein organisches Echo. Übriggebliebene Gedanken, die einen Verstand formen. Das hier ist zwecklos."</DefaultText>
+      <DefaultText>„Du hast keine Ahnung davon, wie du erwacht bist“, sagt er. Man sieht ihm an, dass er die Geduld verliert. „Du bist nichts weiter als ein organisches Echo. Übriggebliebene Gedanken, die einen Verstand formen. Das hier ist zwecklos.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Du wurdest nicht einmal *geboren*", sagt er mit gerümpfter Nase. "Ist das also deine Definition von Leben? Willst du uns beiden die Existenz wegargumentieren?"</DefaultText>
+      <DefaultText>„Du wurdest nicht einmal *geboren*“, sagt er mit gerümpfter Nase. „Ist das also deine Definition von Leben? Willst du uns beiden die Existenz wegargumentieren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Du wurdest nicht geboren. Du wurdest vom Wandelnden Gott erschaffen."</DefaultText>
+      <DefaultText>„Du wurdest nicht geboren. Du wurdest vom Wandelnden Gott erschaffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Ich bin erwacht, als der Wandelnde Gott meinen Körper verlassen hat. Ich bin real. Du nicht."</DefaultText>
+      <DefaultText>„Ich bin erwacht, als der Wandelnde Gott meinen Körper verlassen hat. Ich bin real. Du nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Gib es zu. Du bist nicht der Wandelnde Gott."</DefaultText>
+      <DefaultText>„Gib es zu. Du bist nicht der Wandelnde Gott.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Der Wandelnde Gott hätte in einem Kampf nicht verloren."</DefaultText>
+      <DefaultText>„Der Wandelnde Gott hätte in einem Kampf nicht verloren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Natürlich. Deine rücksichtslose Schöpfung hat *mich* hier gefangen gehalten. Ich musste mir jedes bisschen Kontrolle erkämpfen."
+      <DefaultText>„Natürlich. Deine rücksichtslose Schöpfung hat *mich* hier gefangen gehalten. Ich musste mir jedes bisschen Kontrolle erkämpfen.“
 
 Er wendet sich mit einem düsteren Blick der Finsternis über ihm zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Du vereinfachst das zu sehr. Der Unfall hat mich zu einem Gefangenen gemacht. Und jetzt, nur kurze Zeit später, habe ich die Kontrolle, an der Wurzel deines Verstandes."
+      <DefaultText>„Du vereinfachst das zu sehr. Der Unfall hat mich zu einem Gefangenen gemacht. Und jetzt, nur kurze Zeit später, habe ich die Kontrolle, an der Wurzel deines Verstandes.“
 
 Aber du erkennst jetzt etwas Neues in seinen Augen - Angst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Ich weiß nicht, *was* du bist, aber ich weiß, wer *ich* bin", sagt er abschätzig. Es ist allerdings offensichtlich, dass ihn dieses Problem beschäftigt.</DefaultText>
+      <DefaultText>„Ich weiß nicht, *was* du bist, aber ich weiß, wer *ich* bin“, sagt er abschätzig. Es ist allerdings offensichtlich, dass ihn dieses Problem beschäftigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Das ist nicht mehr dein Körper."</DefaultText>
+      <DefaultText>„Das ist nicht mehr dein Körper.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Ja."</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Nein."</DefaultText>
-      <FemaleText>"Nein."</FemaleText>
+      <DefaultText>„Nein.“</DefaultText>
+      <FemaleText>„Nein.“</FemaleText>
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Ich bin mir nicht sicher!"</DefaultText>
+      <DefaultText>„Ich bin mir nicht sicher!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Ich verstehe das als ein 'Nein'", sagt der Geist trocken. Sein Seufzen hört sich wie ein entferntes Donnern an. "Gut. Das spielt jetzt nicht mehr wirklich eine Rolle, oder?"</DefaultText>
+      <DefaultText>„Ich verstehe das als ein 'Nein'“, sagt der Geist trocken. Sein Seufzen hört sich wie ein entferntes Donnern an. „Gut. Das spielt jetzt nicht mehr wirklich eine Rolle, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Ich bin nicht sicher, ob ich das glauben kann", sagt der Geist nüchtern. "Selbst in den ersten paar Minuten warst du sehr erpicht darauf, zu leben. Dich daran zu hängen, was du als dein Eigentum wähnst."
+      <DefaultText>„Ich bin nicht sicher, ob ich das glauben kann“, sagt der Geist nüchtern. „Selbst in den ersten paar Minuten warst du sehr erpicht darauf, zu leben. Dich daran zu hängen, was du als dein Eigentum wähnst.“
 
 
-Sein Seufzen klingt wie entferntes Donnern. "Gut. Das spielt jetzt nicht mehr wirklich eine Rolle, oder?"</DefaultText>
+Sein Seufzen klingt wie entferntes Donnern. „Gut. Das spielt jetzt nicht mehr wirklich eine Rolle, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Das hatte ich auch nicht erwartet", sagt der Geist. Sein Seufzen hört sich wie ein entferntes Donnern an. "Gut. Das spielt jetzt nicht mehr wirklich eine Rolle, oder?"</DefaultText>
+      <DefaultText>„Das hatte ich auch nicht erwartet“, sagt der Geist. Sein Seufzen hört sich wie ein entferntes Donnern an. „Gut. Das spielt jetzt nicht mehr wirklich eine Rolle, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Das bin ich. Selbst in den ersten paar Minuten warst du sehr erpicht darauf, zu leben. Dich daran zu hängen, was du als dein Eigentum wähntest."
+      <DefaultText>„Das bin ich. Selbst in den ersten paar Minuten warst du sehr erpicht darauf, zu leben. Dich daran zu hängen, was du als dein Eigentum wähntest.“
 
-Sein Seufzen klingt wie entferntes Donnern. "Gut. Das spielt jetzt nicht mehr wirklich eine Rolle, oder?"</DefaultText>
+Sein Seufzen klingt wie entferntes Donnern. „Gut. Das spielt jetzt nicht mehr wirklich eine Rolle, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
       <DefaultText>Er sieht die geisterhafte Gestalt der Tochter des Wandelnden Gottes an, als sähe er sie zum ersten Mal. Seine Überraschung ist wie ein kurzer, kalter Luftstoß, der durch die Dunkelheit zwischen euch fährt.
 
-"Du", murmelt er, "Du bist ihr Geist! Der, der mich verfolgt. Meine Tochter ist *tot*, hörst du? Ich kann sie nicht zurückbringen, egal, wie sehr ich mich bemühe."</DefaultText>
+„Du“, murmelt er, „Du bist ihr Geist! Der, der mich verfolgt. Meine Tochter ist *tot*, hörst du? Ich kann sie nicht zurückbringen, egal, wie sehr ich mich bemühe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -781,7 +781,7 @@ Sein Seufzen klingt wie entferntes Donnern. "Gut. Das spielt jetzt nicht mehr wi
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Wenn du ihm nachgibst, werde ich dich aufhalten", sagt Matkina mit bestimmter, aber ruhiger Stimme. "Tu das nicht. *Zwinge* mich nicht dazu, gegen dich zu kämpfen. Ich will nicht auf der Seite der Ersten kämpfen müssen."</DefaultText>
+      <DefaultText>„Wenn du ihm nachgibst, werde ich dich aufhalten“, sagt Matkina mit bestimmter, aber ruhiger Stimme. „Tu das nicht. *Zwinge* mich nicht dazu, gegen dich zu kämpfen. Ich will nicht auf der Seite der Ersten kämpfen müssen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -791,7 +791,7 @@ Sein Seufzen klingt wie entferntes Donnern. "Gut. Das spielt jetzt nicht mehr wi
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Wie ergreifend", sagt er naserümpfend. "Wenn es keine *anderen* Beschwerden gibt, bringen wir das hier zuende."
+      <DefaultText>„Wie ergreifend“, sagt er naserümpfend. „Wenn es keine *anderen* Beschwerden gibt, bringen wir das hier zuende.“
 
 Der Geist geht auf die Resonanz zu. Du gehst ihm schweigend nach.
 
@@ -840,12 +840,12 @@ Der Geist geht auf die Resonanz zu. Du gehst ihm schweigend nach.
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Endlich", sagt der Geist mit einem Seufzer. "Endlich zeigt einer von euch Verstoßenen Einsicht."</DefaultText>
+      <DefaultText>„Endlich“, sagt der Geist mit einem Seufzer. „Endlich zeigt einer von euch Verstoßenen Einsicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Ich bewundere, was du hier alles erreicht hast, aber das beweist nicht, dass du *er* bist."</DefaultText>
+      <DefaultText>„Ich bewundere, was du hier alles erreicht hast, aber das beweist nicht, dass du *er* bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -855,45 +855,45 @@ Der Geist geht auf die Resonanz zu. Du gehst ihm schweigend nach.
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Er blickt zu dir hinauf. "Ist er das? Du bist ihm ... mir sehr ähnlich. Es ist möglich, dass der Kummer dich nicht getötet hat. Vielleicht hat er nur deine Erinnerung ausgelöscht. Selbst, wenn das nicht der Fall ist, hast du mich bei jeder Gelegenheit ausgespielt und übertrumpft. Wenn du es noch willst, werde ich dir folgen und dir dabei helfen, deine verlorengegangene Erinnerung wiederherzustellen."</DefaultText>
+      <DefaultText>Er blickt zu dir hinauf. „Ist er das? Du bist ihm … mir sehr ähnlich. Es ist möglich, dass der Kummer dich nicht getötet hat. Vielleicht hat er nur deine Erinnerung ausgelöscht. Selbst, wenn das nicht der Fall ist, hast du mich bei jeder Gelegenheit ausgespielt und übertrumpft. Wenn du es noch willst, werde ich dir folgen und dir dabei helfen, deine verlorengegangene Erinnerung wiederherzustellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Ich erinnere mich daran, mit dir auf dem Mond gesprochen zu haben. Du bist nicht der Wandelnde Gott. Du bist ein Berater - ein Update."</DefaultText>
+      <DefaultText>„Ich erinnere mich daran, mit dir auf dem Mond gesprochen zu haben. Du bist nicht der Wandelnde Gott. Du bist ein Berater - ein Update.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Er antwortet langsam. "Und ich sagte, dass die Konversation uns in einen Solipsisten verwandeln würde. Und wir haben gesagt, dass wir schon schlimmer beschimpft wurden."
+      <DefaultText>Er antwortet langsam. „Und ich sagte, dass die Konversation uns in einen Solipsisten verwandeln würde. Und wir haben gesagt, dass wir schon schlimmer beschimpft wurden.“
 
-Seine Stimme wird bestimmter. "Aber wir haben auch gesagt, dass wir uns keine Illusionen über die Heiligkeit des Bewusstseins machen. Und das ist immer noch wahr."</DefaultText>
+Seine Stimme wird bestimmter. „Aber wir haben auch gesagt, dass wir uns keine Illusionen über die Heiligkeit des Bewusstseins machen. Und das ist immer noch wahr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Ja. Ich werde mich deiner Erinnerungen annehmen."</DefaultText>
+      <DefaultText>„Ja. Ich werde mich deiner Erinnerungen annehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Ist das ein Trick? Nein. Weg mit dir. Verschwinde."</DefaultText>
+      <DefaultText>„Ist das ein Trick? Nein. Weg mit dir. Verschwinde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Er nickt traurig. "Ich hoffe ... Ich hoffe, deine Wünsche werden sich erfüllen. Mach uns stolz. Halte den Kummer auf, und ... Nein. Vergiss es. Das ist dein Verstand. Dein Leben. Lebe wohl." Kurz möchte er nach dir greifen, unterlässt es dann aber doch.</DefaultText>
+      <DefaultText>Er nickt traurig. „Ich hoffe … Ich hoffe, deine Wünsche werden sich erfüllen. Mach uns stolz. Halte den Kummer auf, und … Nein. Vergiss es. Das ist dein Verstand. Dein Leben. Lebe wohl.“ Kurz möchte er nach dir greifen, unterlässt es dann aber doch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Streck deine Hand aus."
+      <DefaultText>„Streck deine Hand aus.“
 
 Er legt seine Hand auf deiner ab, und eine Flut aus Erinnerungen überkommt deinen Verstand. Du erinnerst dich an deine Tochter. Die Tabaht, ihre Streitkräfte, die die Stadt belagern. Die schreckliche Krankheit, die sie mit sich gebracht haben, der psychische Krieg um die Stadt.
 
 Du erinnerst dich daran, wie du deine Tochter in eine Stasis versetzt hast, die hektischen Forschungen, die Entdeckung der Gezeiten.
 
-... der Kummer.</DefaultText>
+… der Kummer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -903,7 +903,7 @@ Du erinnerst dich daran, wie du deine Tochter in eine Stasis versetzt hast, die 
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Du erinnerst dich an die Wut, die sie in der ausgelöst hat, die Angst davor, dass sie dich zerstören könnte ... und an den Stolz, der bei jedem gelungenen Versuch aufkam, weil du gemerkt hast, dass du noch über viel mehr Potenzial verfügst. Jeder deiner Verstoßenen war eine neue Facette deines brillianten Kopfes, der die Welt verändern würde.
+      <DefaultText>Du erinnerst dich an die Wut, die sie in der ausgelöst hat, die Angst davor, dass sie dich zerstören könnte … und an den Stolz, der bei jedem gelungenen Versuch aufkam, weil du gemerkt hast, dass du noch über viel mehr Potenzial verfügst. Jeder deiner Verstoßenen war eine neue Facette deines brillianten Kopfes, der die Welt verändern würde.
 
 Und dir ist klar geworden, wie tragisch es wäre, wenn all dies zerstört werden würde. Du weißt jetzt, warum der Geist so verzweifelt versucht hat, dieses Erbe – *dein* Erbe zu bewahren.
 
@@ -915,17 +915,17 @@ Als du deine Augen wieder öffnest, ist der Geist verschwunden. Aber er wird fü
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Du wolltest sie so verzweifelt wieder zurückbringen, dass du die Wahrscheinlichkeitsmaschine immer wieder benutzt hast, in dem Wissen, dass du damit unschuldige Frauen töten würdest."</DefaultText>
+      <DefaultText>„Du wolltest sie so verzweifelt wieder zurückbringen, dass du die Wahrscheinlichkeitsmaschine immer wieder benutzt hast, in dem Wissen, dass du damit unschuldige Frauen töten würdest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Sei verdammt. Dafür sollst du verdammt sein."</DefaultText>
+      <DefaultText>„Sei verdammt. Dafür sollst du verdammt sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Wenn du ihm nachgibst, werde ich dich aufhalten", sagt Matkina mit bestimmter, aber ruhiger Stimme. "Tu das nicht. Ich *werde* dich töten."</DefaultText>
+      <DefaultText>„Wenn du ihm nachgibst, werde ich dich aufhalten“, sagt Matkina mit bestimmter, aber ruhiger Stimme. „Tu das nicht. Ich *werde* dich töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -945,24 +945,24 @@ Als du deine Augen wieder öffnest, ist der Geist verschwunden. Aber er wird fü
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Nein", sagt er. Ihre Stimme ist eisern, gebunden durch ihre Maske. "Ich habe nicht Jahrtausende seiner Arroganz, seiner Quälereien ertragen, damit du ihn triumphieren lassen kannst, als hätte er es *verdient*."</DefaultText>
+      <DefaultText>„Nein“, sagt er. Ihre Stimme ist eisern, gebunden durch ihre Maske. „Ich habe nicht Jahrtausende seiner Arroganz, seiner Quälereien ertragen, damit du ihn triumphieren lassen kannst, als hätte er es *verdient*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"Du bist *unfähig*, die Wahrheit zu erzählen." Die Stimme hinter der Maske hört sich ermüdet und kalt an. "Wann hast du das jemals getan?"</DefaultText>
+      <DefaultText>„Du bist *unfähig*, die Wahrheit zu erzählen.“ Die Stimme hinter der Maske hört sich ermüdet und kalt an. „Wann hast du das jemals getan?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>Sein Lächeln ist beunruhigend. "Wie wäre es mit jetzt?"
+      <DefaultText>Sein Lächeln ist beunruhigend. „Wie wäre es mit jetzt?“
 
 Er dreht sich zu dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Das wird aber auch Zeit." Sie schlägt eifrig mit einer Faust in ihre Hand. "Du bist am Zug, alter Mann."</DefaultText>
+      <DefaultText>„Das wird aber auch Zeit.“ Sie schlägt eifrig mit einer Faust in ihre Hand. „Du bist am Zug, alter Mann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1012,24 +1012,24 @@ Er dreht sich zu dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Sie *ist* deine Tochter. Das hat sie mir gesagt."</DefaultText>
+      <DefaultText>„Sie *ist* deine Tochter. Das hat sie mir gesagt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Tatsächlich?" Aber sie hat ihm offensichtlich nichts mehr zu sagen.</DefaultText>
+      <DefaultText>„Tatsächlich?“ Aber sie hat ihm offensichtlich nichts mehr zu sagen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>Er schüttelt den Kopf. "Genug. Ich will nicht gegen dich kämpfen, Verstoßener, aber du wirst mich nicht davon abhalten können. Wofür entscheidest du dich also?"</DefaultText>
-      <FemaleText>Er schüttelt den Kopf. "Genug. Ich will nicht gegen dich kämpfen, Verstoßene, aber du wirst mich nicht davon abhalten können. Wofür entscheidest du dich also?"</FemaleText>
+      <DefaultText>Er schüttelt den Kopf. „Genug. Ich will nicht gegen dich kämpfen, Verstoßener, aber du wirst mich nicht davon abhalten können. Wofür entscheidest du dich also?“</DefaultText>
+      <FemaleText>Er schüttelt den Kopf. „Genug. Ich will nicht gegen dich kämpfen, Verstoßene, aber du wirst mich nicht davon abhalten können. Wofür entscheidest du dich also?“</FemaleText>
     </Entry>
     <Entry>
       <ID>205</ID>
       <DefaultText>Der Geist sieht sie kaum an.
 
-"Nein", sagt er. "Sie ist nicht echt. Ich wünschte, sie wäre es, aber Wünsche ändert nichts an der Realität. Meine Tochter ist tot. Würdest du mich jetzt in Frieden die Resonanz betreten lassen, oder muss ich mir meinen Weg freikämpfen?"</DefaultText>
+„Nein“, sagt er. „Sie ist nicht echt. Ich wünschte, sie wäre es, aber Wünsche ändert nichts an der Realität. Meine Tochter ist tot. Würdest du mich jetzt in Frieden die Resonanz betreten lassen, oder muss ich mir meinen Weg freikämpfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1054,48 +1054,48 @@ Er dreht sich zu dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>"Sie? Du suchst dir den Auslöser dieser ganzen Situation, um zu überleben? Sie trägt genauso Schuld wie wir. Ohne sie hätten wir nie die Aufmerksamkeit des Kummers auf uns gezogen! Sie ist schon seit Jahrtausenden tot, du Narr."</DefaultText>
-      <FemaleText>"Sie? Du suchst dir den Auslöser dieser ganzen Situation, um zu überleben? Sie trägt genauso Schuld wie wir. Ohne sie hätten wir nie die Aufmerksamkeit des Kummers auf uns gezogen! Sie ist schon seit Jahrtausenden tot, du Närrin."</FemaleText>
+      <DefaultText>„Sie? Du suchst dir den Auslöser dieser ganzen Situation, um zu überleben? Sie trägt genauso Schuld wie wir. Ohne sie hätten wir nie die Aufmerksamkeit des Kummers auf uns gezogen! Sie ist schon seit Jahrtausenden tot, du Narr.“</DefaultText>
+      <FemaleText>„Sie? Du suchst dir den Auslöser dieser ganzen Situation, um zu überleben? Sie trägt genauso Schuld wie wir. Ohne sie hätten wir nie die Aufmerksamkeit des Kummers auf uns gezogen! Sie ist schon seit Jahrtausenden tot, du Närrin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Du liegst falsch. Sieh dir nur an, was du mit deinem Leben angefangen hast. Und sieh dir an, was *ich* vollbracht habe. Denkst du wirklich, dass du einige zusätzliche Jahre für etwas anderes benutzen würdest, als dich selbst? Bezweifle ich."</DefaultText>
+      <DefaultText>Sie schüttelt den Kopf. „Du liegst falsch. Sieh dir nur an, was du mit deinem Leben angefangen hast. Und sieh dir an, was *ich* vollbracht habe. Denkst du wirklich, dass du einige zusätzliche Jahre für etwas anderes benutzen würdest, als dich selbst? Bezweifle ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>"Die Erste hat recht. Du kennst diese tote Tochter nicht, du weißt nicht, wozu sie im Stande ist. Wenn sie auch nur im geringsten so ist wie *er*, dann wird sie alles nur noch schlimmer machen."</DefaultText>
+      <DefaultText>„Die Erste hat recht. Du kennst diese tote Tochter nicht, du weißt nicht, wozu sie im Stande ist. Wenn sie auch nur im geringsten so ist wie *er*, dann wird sie alles nur noch schlimmer machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>"Nein. Er hat recht, verstehst du das nicht? Miika ist der Grund für das alles - sie ist der Grund für deine Existenz. Du und ich, wir haben alle unsere Leben gelebt, und was haben wir nicht alles getan! Miika hingegen hat nichts getan. Sie hatte nie die Chance dazu, etwas zu tun."
+      <DefaultText>„Nein. Er hat recht, verstehst du das nicht? Miika ist der Grund für das alles - sie ist der Grund für deine Existenz. Du und ich, wir haben alle unsere Leben gelebt, und was haben wir nicht alles getan! Miika hingegen hat nichts getan. Sie hatte nie die Chance dazu, etwas zu tun.“
 
-Er wendet sich seiner Tochter zu. "Ich habe versucht, dir ein guter Vater zu sein, und ich habe versagt. Bei den Verstoßenen habe ich es noch nicht einmal versucht. Aber mein Versagen endet hier und heute."</DefaultText>
+Er wendet sich seiner Tochter zu. „Ich habe versucht, dir ein guter Vater zu sein, und ich habe versagt. Bei den Verstoßenen habe ich es noch nicht einmal versucht. Aber mein Versagen endet hier und heute.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>"Deine Geschwister sind weiser als du und Ich , Maralel. Was auch immer wir mit unseren Lippen gesagt haben, von welcher Sache wir unsere Begleiter auch immer überzeugt haben - am Ende haben wir doch nur versucht, uns selbst zu retten."</DefaultText>
+      <DefaultText>„Deine Geschwister sind weiser als du und Ich , Maralel. Was auch immer wir mit unseren Lippen gesagt haben, von welcher Sache wir unsere Begleiter auch immer überzeugt haben - am Ende haben wir doch nur versucht, uns selbst zu retten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>Sie tippt mit der flachen Seite ihrer Klinge auf ihre Lippen. Du weißt nicht, wie lange sie das Messer schon in der Hand hat. "Wir haben ein ganz schönes Durcheinander angerichtet, oder?"
+      <DefaultText>Sie tippt mit der flachen Seite ihrer Klinge auf ihre Lippen. Du weißt nicht, wie lange sie das Messer schon in der Hand hat. „Wir haben ein ganz schönes Durcheinander angerichtet, oder?“
 
-Ihre Augen schmälern sich. "Was lässt dich glauben, dass sie sich besser schlägt?  Ich meine, abgesehen davon, sich mit dem ganzen Rest zu messen und vor dem Kummer wegzulaufen ... okay. Das sehe ich ein. Sie hat zumindest eine Gelegenheit, sich zu beweisen. Und ihre Fehler werden ihre eigenen sein."
+Ihre Augen schmälern sich. „Was lässt dich glauben, dass sie sich besser schlägt?  Ich meine, abgesehen davon, sich mit dem ganzen Rest zu messen und vor dem Kummer wegzulaufen … okay. Das sehe ich ein. Sie hat zumindest eine Gelegenheit, sich zu beweisen. Und ihre Fehler werden ihre eigenen sein.“
 
-Sie wirft die Klinge auf den Boden. "Gut. Tun wir's."</DefaultText>
+Sie wirft die Klinge auf den Boden. „Gut. Tun wir's.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Sie sagt abschätzig: "Du kennst diese tote Tochter nicht, du weißt nicht, wozu sie im Stande ist. Wenn sie auch nur im geringsten so ist wie *er*, dann wird sie alles nur noch schlimmer machen."</DefaultText>
+      <DefaultText>Sie sagt abschätzig: „Du kennst diese tote Tochter nicht, du weißt nicht, wozu sie im Stande ist. Wenn sie auch nur im geringsten so ist wie *er*, dann wird sie alles nur noch schlimmer machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>Er streckt seine Hand nach dir aus. "Komm. Öffne die Resonanz, und wir beenden das gemeinsam."</DefaultText>
+      <DefaultText>Er streckt seine Hand nach dir aus. „Komm. Öffne die Resonanz, und wir beenden das gemeinsam.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1105,68 +1105,68 @@ Sie wirft die Klinge auf den Boden. "Gut. Tun wir's."</DefaultText>
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>"Öffne sie. Meine Tochter sollte nicht länger als nötig warten müssen."</DefaultText>
+      <DefaultText>„Öffne sie. Meine Tochter sollte nicht länger als nötig warten müssen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>"Gut. Na gut!" Sie winkt mit einer Hand ab und dreht sich um.</DefaultText>
+      <DefaultText>„Gut. Na gut!“ Sie winkt mit einer Hand ab und dreht sich um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>"Und das wäre?"</DefaultText>
+      <DefaultText>„Und das wäre?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>"Immerhin handelt er im Sinne von anderen."</DefaultText>
-      <FemaleText>"Immerhin handelt sie im Sinne von anderen."</FemaleText>
+      <DefaultText>„Immerhin handelt er im Sinne von anderen.“</DefaultText>
+      <FemaleText>„Immerhin handelt sie im Sinne von anderen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>"Lügen!" Sie wendet sich dir zu. "Ich weiß nicht, warum du ihm plötzlich zustimmst, aber ich bin nicht den ganzen Weg gekommen, um jetzt zuzusehen, wie du dich ihm beugst."
+      <DefaultText>„Lügen!“ Sie wendet sich dir zu. „Ich weiß nicht, warum du ihm plötzlich zustimmst, aber ich bin nicht den ganzen Weg gekommen, um jetzt zuzusehen, wie du dich ihm beugst.“
 
-Sie zeigt mit einem Finger entschieden auf den Geist. "Ich habe genug davon gesehen, was du anderen und deinen Schöpfungen angetan hast, um zu wissen, dass dich nur deine eigenen Motive interessieren. Ich weiß besser als jeder andere, dass deine Verstoßenen nicht immer die tollsten Menschen sind. Aber sie sind *Menschen*. Sie verdienen es, zu leben und eine Wahl zu haben."
+Sie zeigt mit einem Finger entschieden auf den Geist. „Ich habe genug davon gesehen, was du anderen und deinen Schöpfungen angetan hast, um zu wissen, dass dich nur deine eigenen Motive interessieren. Ich weiß besser als jeder andere, dass deine Verstoßenen nicht immer die tollsten Menschen sind. Aber sie sind *Menschen*. Sie verdienen es, zu leben und eine Wahl zu haben.“
 
-Sie zieht ihre Waffe. "Du nimmst heute niemanden mit dir."</DefaultText>
+Sie zieht ihre Waffe. „Du nimmst heute niemanden mit dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>Sie lacht und zieht ihre eigenen Klingen. "Das könnte ich nicht besser sagen, Schwester."</DefaultText>
+      <DefaultText>Sie lacht und zieht ihre eigenen Klingen. „Das könnte ich nicht besser sagen, Schwester.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>"Es scheint, als hätte dein Freund sich für dich entschieden. So sei es!"</DefaultText>
+      <DefaultText>„Es scheint, als hätte dein Freund sich für dich entschieden. So sei es!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>"Sieh sie an!", sagt sie, und verlangt nach seiner Aufmerksamkeit. "Sieh ihr in die Augen und sag, dass sie nicht deine Tochter ist."</DefaultText>
+      <DefaultText>„Sieh sie an!“, sagt sie, und verlangt nach seiner Aufmerksamkeit. „Sieh ihr in die Augen und sag, dass sie nicht deine Tochter ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>"Wenn du wirklich dieser 'Wandelnde Gott' wärst, dann wäre diese Frau ..." Sie zeigt auf die Tochter des Wandelnden Gottes. "Selbst wenn diese Frau nur eine Erinnerung wäre, würde sie dich als ihren Vater anerkennen. Denkst du nicht?"
+      <DefaultText>„Wenn du wirklich dieser 'Wandelnde Gott' wärst, dann wäre diese Frau …“ Sie zeigt auf die Tochter des Wandelnden Gottes. „Selbst wenn diese Frau nur eine Erinnerung wäre, würde sie dich als ihren Vater anerkennen. Denkst du nicht?“
 
-Rhin sieht die geisterhafte Frau freundlich an, und dann wieder den Geist. "Aber ich habe es gesehen - ihr Ausdruck, als du sie herausgefordert hast ... Du bist ihr *fremd*."</DefaultText>
+Rhin sieht die geisterhafte Frau freundlich an, und dann wieder den Geist. „Aber ich habe es gesehen - ihr Ausdruck, als du sie herausgefordert hast … Du bist ihr *fremd*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>Die Stimme von Callistege hallt durch den Raum. "Dieses Kind hat alles für mich aufs Spiel gesetzt, damit ich etwas vollbringen konnte, was kein Mensch in tausend Jahren vollbracht hat. Denkst du, er würde sein Leben noch einmal aufs Spiel setzen, wenn dieses Mädchen es nicht wert wäre?"</DefaultText>
-      <FemaleText>Die Stimme von Callistege hallt durch den Raum. "Dieses Kind hat alles für mich aufs Spiel gesetzt, damit ich etwas vollbringen konnte, was kein Mensch in tausend Jahren vollbracht hat. Denkst du, sie würde ihr Leben noch einmal aufs Spiel setzen, wenn dieses Mädchen es nicht wert wäre?"</FemaleText>
+      <DefaultText>Die Stimme von Callistege hallt durch den Raum. „Dieses Kind hat alles für mich aufs Spiel gesetzt, damit ich etwas vollbringen konnte, was kein Mensch in tausend Jahren vollbracht hat. Denkst du, er würde sein Leben noch einmal aufs Spiel setzen, wenn dieses Mädchen es nicht wert wäre?“</DefaultText>
+      <FemaleText>Die Stimme von Callistege hallt durch den Raum. „Dieses Kind hat alles für mich aufs Spiel gesetzt, damit ich etwas vollbringen konnte, was kein Mensch in tausend Jahren vollbracht hat. Denkst du, sie würde ihr Leben noch einmal aufs Spiel setzen, wenn dieses Mädchen es nicht wert wäre?“</FemaleText>
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>Die Stimme von Callistege hallt durch den Raum. "Narr. Wenn jemand das Erbe des Wandelnden Gottes antreten kann, dann dieses Kind! Er hat Dinge vollbracht, die ich und schon gar nicht du niemals selbst erreichen könnten."
+      <DefaultText>Die Stimme von Callistege hallt durch den Raum. „Narr. Wenn jemand das Erbe des Wandelnden Gottes antreten kann, dann dieses Kind! Er hat Dinge vollbracht, die ich und schon gar nicht du niemals selbst erreichen könnten.“
 
-Du hörst den lauten Widerhall ihres Lachens in der Kammer. "Dank ihm bin ich nun selbst ein Gott!"</DefaultText>
-      <FemaleText>Die Stimme von Callistege hallt durch den Raum. "Narr. Wenn jemand das Erbe des Wandelnden Gottes antreten kann, dann dieses Kind! Sie hat Dinge vollbracht, die ich und schon gar nicht du niemals selbst erreichen könnten."
+Du hörst den lauten Widerhall ihres Lachens in der Kammer. „Dank ihm bin ich nun selbst ein Gott!“</DefaultText>
+      <FemaleText>Die Stimme von Callistege hallt durch den Raum. „Narr. Wenn jemand das Erbe des Wandelnden Gottes antreten kann, dann dieses Kind! Sie hat Dinge vollbracht, die ich und schon gar nicht du niemals selbst erreichen könnten.“
 
-Du hörst den lauten Widerhall ihres Lachens in der Kammer. "Dank ihr bin ich nun selbst ein Gott!"</FemaleText>
+Du hörst den lauten Widerhall ihres Lachens in der Kammer. „Dank ihr bin ich nun selbst ein Gott!“</FemaleText>
     </Entry>
     <Entry>
       <ID>278</ID>
