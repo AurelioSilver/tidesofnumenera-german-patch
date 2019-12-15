@@ -7,27 +7,27 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>[Die Öffnung in diesem Schacht führt nach unten in die Dunkelheit.]</DefaultText>
-      <FemaleText>[Die Öffnung in diesem Schacht führt nach unten in die Dunkelheit.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>[Du glaubst, durch die kleine Öffnung klettern und die darunter liegende Plattform erreichen zu können.]</DefaultText>
-      <FemaleText>[Du glaubst, durch die kleine Öffnung klettern und die darunter liegende Plattform erreichen zu können.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Follow-up PQ. 2</DefaultText>
-      <FemaleText>Follow-up PQ. 2</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>[Du rutschst vorsichtig durch den Schacht und tauchst sicher auf der anderen Seite auf.]</DefaultText>
-      <FemaleText>[Du rutschst vorsichtig durch den Schacht und tauchst sicher auf der anderen Seite auf.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Als du den Schacht durchquerst, bleibt deine Hand an einem verbogene Blech hängen und wird aufgeschlitzt. Du kommst etwas mitgenommen auf der anderen Seite heraus.]</DefaultText>
-      <FemaleText>[Als du den Schacht durchquerst, bleibt deine Hand an einem verbogene Blech hängen und wird aufgeschlitzt. Du kommst etwas mitgenommen auf der anderen Seite heraus.]</FemaleText>
+      <DefaultText>[Als du den Schacht durchquerst, bleibt deine Hand an einem verbogenen Blech hängen und wird aufgeschlitzt. Du kommst etwas mitgenommen auf der anderen Seite heraus.]</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -41,27 +41,27 @@
     <Entry>
       <ID>7</ID>
       <DefaultText>[Als du den Schacht durchquerst, bleibst du mit dem Körper an einem verbogenen Blech hängen, wobei du dir die Seite aufreißt. Du kommst heraus, mit der Hand auf einer blutenden Wunde.]</DefaultText>
-      <FemaleText>[Als du den Schacht durchquerst, bleibst du mit dem Körper an einem verbogenen Blech hängen, wobei du dir die Seite aufreißt. Du kommst heraus, mit der Hand auf einer blutenden Wunde.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>[Klettere hindurch.]</DefaultText>
-      <FemaleText>[Klettere hindurch.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>[Klettere erneut hindurch.]</DefaultText>
-      <FemaleText>[Klettere erneut hindurch.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>[Verlasse den Ort.]</DefaultText>
-      <FemaleText>[Verlasse den Ort.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>[Der Schacht bleibt offen.]</DefaultText>
-      <FemaleText>[Der Schacht bleibt offen.]</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
