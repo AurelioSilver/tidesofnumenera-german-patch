@@ -67,22 +67,22 @@
     <Entry>
       <ID>13</ID>
       <DefaultText>"Wenn du den Teleporter betrittst, dann wirst du zu weit von der Kreatur entfernt sein, um dich darauf einzustimmen! Kehre zurück!"</DefaultText>
-      <FemaleText>"Wenn du den Teleporter betrittst, dann wirst du zu weit von der Kreatur entfernt sein, um dich darauf einzustimmen! Kehre zurück!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Ignoriere den Geist. Betritt den Teleporter.</DefaultText>
-      <FemaleText>Ignoriere den Geist. Betritt den Teleporter.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Tritt vom Teleporter zurück.</DefaultText>
-      <FemaleText>Tritt vom Teleporter zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>"Noch einmal: Stell dich auf die Kreatur ein, bevor du den Teleporter nutzt! Beeil dich!"</DefaultText>
-      <FemaleText>"Noch einmal: Stell dich auf die Kreatur ein, bevor du den Teleporter nutzt! Beeil dich!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
