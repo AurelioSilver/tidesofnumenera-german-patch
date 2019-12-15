@@ -12,7 +12,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Ein riesiges, verstaubtes Buch liegt auf seinem marmornen Lesepult. Sein Einband ist aus merkwürdigem Stahl, und animierte Szenen tanzen tief in seiner Patina. Eine massive, sorgfältig gearbeitete Kette verbindet es mit dem Lesepult ... und hält den Einband zufällig durch ein komplexes Schloss verschlossen.</DefaultText>
-      <FemaleText>Ein riesiges, verstaubtes Buch liegt auf seinem marmornen Lesepult. Sein Einband ist aus merkwürdigem Stahl, und animierte Szenen tanzen tief in seiner Patina. Eine massive, sorgfältig gearbeitete Kette verbindet es mit dem Lesepult ... und hält den Einband zufällig durch ein komplexes Schloss verschlossen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -22,102 +22,102 @@
     <Entry>
       <ID>3</ID>
       <DefaultText>Du betrachtest den merkwürdigen Mechanismus, der als Schloss dient, und du *weißt* einfach, dass was auch immer auf diesen Seiten zu entdecken ist, die Mühe wert ist.</DefaultText>
-      <FemaleText>Du betrachtest den merkwürdigen Mechanismus, der als Schloss dient, und du *weißt* einfach, dass was auch immer auf diesen Seiten zu entdecken ist, die Mühe wert ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Lass das Buch in Ruhe.</DefaultText>
-      <FemaleText>Lass das Buch in Ruhe.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Die fremdartigen Flammen des Kummers haben das marmorne Lesepult erreicht! Du kannst sehen, wie die Seiten dieses massiven, metallischen Buches zu versengen beginnen, und eine kleine Stimme in dir schreit ob des Wissensverlustes auf, der mit jeder Brandspur einhergeht, ganz gleich, wie klein sie ist.</DefaultText>
-      <FemaleText>Die fremdartigen Flammen des Kummers haben das marmorne Lesepult erreicht! Du kannst sehen, wie die Seiten dieses massiven, metallischen Buches zu versengen beginnen, und eine kleine Stimme in dir schreit ob des Wissensverlustes auf, der mit jeder Brandspur einhergeht, ganz gleich, wie klein sie ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Die Flammen haben damit begonnen, dieses uralte Buch zu verschlingen, und obwohl der Einband aus einem fremdartigen Metall besteht, kannst du Flammen sehen, die von innen austreten. Du kannst nur hoffen, dass ein Teil seines Wissens erhalten werden kann.</DefaultText>
-      <FemaleText>Die Flammen haben damit begonnen, dieses uralte Buch zu verschlingen, und obwohl der Einband aus einem fremdartigen Metall besteht, kannst du Flammen sehen, die von innen austreten. Du kannst nur hoffen, dass ein Teil seines Wissens erhalten werden kann.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>Asche, Schlacke und ein paar verkohlte Seiten sind alles, was von diesem unschätzbaren Wissensband übriggeblieben ist. Du könntest immer noch ein paar dieser Seiten retten – vielleicht werden sie irgendwie nützlich sein.</DefaultText>
-      <FemaleText>Asche, Schlacke und ein paar verkohlte Seiten sind alles, was von diesem unschätzbaren Wissensband übriggeblieben ist. Du könntest immer noch ein paar dieser Seiten retten – vielleicht werden sie irgendwie nützlich sein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>Das marmorne Lesepult steht alleine im Raum.</DefaultText>
-      <FemaleText>Das marmorne Lesepult steht alleine im Raum.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Sammle die Stücke ein.</DefaultText>
-      <FemaleText>Sammle die Stücke ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Lass das Lesepult in Ruhe.</DefaultText>
-      <FemaleText>Lass das Lesepult in Ruhe.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Als du deine Hand auf das Lesepult legst, kannst du spüren, wie die Worte aus den zerstörten Seiten in deine Haut dringen, und als du auf deine Hand schaust, siehst du Worte, die kurz aufleuchten und dann in deinem Fleisch verschwinden.</DefaultText>
-      <FemaleText>Als du deine Hand auf das Lesepult legst, kannst du spüren, wie die Worte aus den zerstörten Seiten in deine Haut dringen, und als du auf deine Hand schaust, siehst du Worte, die kurz aufleuchten und dann in deinem Fleisch verschwinden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Du arrangierst die Teile der vier blauen Objekte auf dem Tisch und nach einem Augenblick sorgfältiger Überlegung verwendest du die Teile der anderen Gegenstände, um deine Eindrücke des Buchs zu skizzieren ... Während du das tust, setzt sich das Buch unter deinen Fingerspitzen wieder zusammen. Obwohl riesige Lücken verbleiben, konntest du einen großen Teil seines Wissens wiederherstellen.</DefaultText>
-      <FemaleText>Du arrangierst die Teile der vier blauen Objekte auf dem Tisch und nach einem Augenblick sorgfältiger Überlegung verwendest du die Teile der anderen Gegenstände, um deine Eindrücke des Buchs zu skizzieren ... Während du das tust, setzt sich das Buch unter deinen Fingerspitzen wieder zusammen. Obwohl riesige Lücken verbleiben, konntest du einen großen Teil seines Wissens wiederherstellen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Verwende die Stücke der Kugel der Einsicht, um zu versuchen, das Große Buch zu restaurieren.</DefaultText>
-      <FemaleText>Verwende die Stücke der Kugel der Einsicht, um zu versuchen, das Große Buch zu restaurieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Das Licht der Kugel wird dichter, stärker, und als du es an das Buch hältst, reifizieren sich seine Strahlen und nehmen die Gestalt einiger der fehlenden Seiten an.</DefaultText>
-      <FemaleText>Das Licht der Kugel wird dichter, stärker, und als du es an das Buch hältst, reifizieren sich seine Strahlen und nehmen die Gestalt einiger der fehlenden Seiten an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Wie sehr du dich auch konzentrierst, es gelingt dir nicht, die nötige Einsicht aufzurufen, und die Seiten versengen weiter. Du solltest etwas anderes versuchen.</DefaultText>
-      <FemaleText>Wie sehr du dich auch konzentrierst, es gelingt dir nicht, die nötige Einsicht aufzurufen, und die Seiten versengen weiter. Du solltest etwas anderes versuchen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Versuche mithilfe der Teile der Erinnerungskoralle, dich daran zu erinnern, wie ein Buch restauriert wird.</DefaultText>
-      <FemaleText>Versuche mithilfe der Teile der Erinnerungskoralle, dich daran zu erinnern, wie ein Buch restauriert wird.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Mithilfe von Erinnerungen, die du aus einem nicht verwendeten Teil deines Geistes beschworen hast, glättest du die Korallenfragmente irgendwie zu Papierseiten, die in die Bindung des Buchs kriechen. Schrift erscheint auf der Oberfläche der Seiten, wie Wasser, das aus einer unterirdischen Quelle austritt.</DefaultText>
-      <FemaleText>Mithilfe von Erinnerungen, die du aus einem nicht verwendeten Teil deines Geistes beschworen hast, glättest du die Korallenfragmente irgendwie zu Papierseiten, die in die Bindung des Buchs kriechen. Schrift erscheint auf der Oberfläche der Seiten, wie Wasser, das aus einer unterirdischen Quelle austritt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Deine Erinnerung gerät ins Wanken. Wusstest du einst, wie das geht? Du glaubst, dieses Wissen mal besessen zu haben, doch du greifst danach und es verschwindet.</DefaultText>
-      <FemaleText>Deine Erinnerung gerät ins Wanken. Wusstest du einst, wie das geht? Du glaubst, dieses Wissen mal besessen zu haben, doch du greifst danach und es verschwindet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Vielleicht genügen die verbliebenen Stücke des Kelchs, um das Buch zu restaurieren.</DefaultText>
-      <FemaleText>Vielleicht genügen die verbliebenen Stücke des Kelchs, um das Buch zu restaurieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Dein Atem überzieht die Buchseiten und das Feuer flackert auf und erstirbt. Unglaublicherweise bilden sich einige der verbrannten Seiten wieder zurück.</DefaultText>
-      <FemaleText>Dein Atem überzieht die Buchseiten und das Feuer flackert auf und erstirbt. Unglaublicherweise bilden sich einige der verbrannten Seiten wieder zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Du glaubst es nicht, und die Brisen entweichen deinen Lungen zusammen mit deinem Atem.</DefaultText>
-      <FemaleText>Du glaubst es nicht, und die Brisen entweichen deinen Lungen zusammen mit deinem Atem.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>Untersuche das Schloss.</DefaultText>
-      <FemaleText>Untersuche das Schloss.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -127,132 +127,132 @@
     <Entry>
       <ID>39</ID>
       <DefaultText>Das Metall ist bei Berührung so hart wie Diamant. Die Schrift auf dem Einband verschwimmt einen Augenblick vor deinen Augen, ehe sie sich zu einem einzelnen Wort formt: "Wissen."</DefaultText>
-      <FemaleText>Das Metall ist bei Berührung so hart wie Diamant. Die Schrift auf dem Einband verschwimmt einen Augenblick vor deinen Augen, ehe sie sich zu einem einzelnen Wort formt: "Wissen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Doch das Buch bleibt stur verschlossen. Die Kette und das Schloss scheinen sich vor deinen Augen zu entwickeln.</DefaultText>
-      <FemaleText>Doch das Buch bleibt stur verschlossen. Die Kette und das Schloss scheinen sich vor deinen Augen zu entwickeln.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Es ist dir gelungen, das Buch aufzuschließen. Nun musst du es einfach nur verstehen.</DefaultText>
-      <FemaleText>Es ist dir gelungen, das Buch aufzuschließen. Nun musst du es einfach nur verstehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>Das Buch liegt offen vor dir, doch die Schrift darin sagt dir nichts. Wie kann das sein, wenn doch das Buch selbst ein Produkt deines eigenen Geistes ist?</DefaultText>
-      <FemaleText>Das Buch liegt offen vor dir, doch die Schrift darin sagt dir nichts. Wie kann das sein, wenn doch das Buch selbst ein Produkt deines eigenen Geistes ist?</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>Nun, da du die Natur der Schrift begreifst, bist du in der Lage, seine Inhalte besser zu erfassen.</DefaultText>
-      <FemaleText>Nun, da du die Natur der Schrift begreifst, bist du in der Lage, seine Inhalte besser zu erfassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>Lies das Buch.</DefaultText>
-      <FemaleText>Lies das Buch.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>Lies das Buch mithilfe der neu erschaffenen Linse ...</DefaultText>
-      <FemaleText>Lies das Buch mithilfe der neu erschaffenen Linse ...</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>Lies das Buch zu Ende.</DefaultText>
-      <FemaleText>Lies das Buch zu Ende.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>Das Schloss besteht aus lebendigem Metall. Seine Konfiguration schlittert umher, so dass nie ein einzelnes Schlüsselloch darin zu erkennen ist. Es sieht aus wie eine Schlange ohne Kopf und Schwanz, die endlos in sich verknotet ist. Du wirst dieses Schloss nicht knacken können.</DefaultText>
-      <FemaleText>Das Schloss besteht aus lebendigem Metall. Seine Konfiguration schlittert umher, so dass nie ein einzelnes Schlüsselloch darin zu erkennen ist. Es sieht aus wie eine Schlange ohne Kopf und Schwanz, die endlos in sich verknotet ist. Du wirst dieses Schloss nicht knacken können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>Nun, da das Schloss sich geöffnet hat, kannst du sehen, dass die Kette sich auch von der Basis des Pults gelöst hat. Als du sie aufhebst, um sie näher zu untersuchen, windet sich die Kette von deinen Fingern auf das Pult und etwas an ihrem Anblick nagt an dir. Die äußeren Ränder der Kette ähneln den Schuppen einer Schlange, als würden sie ineinandergreifen und sich überlappen.</DefaultText>
-      <FemaleText>Nun, da das Schloss sich geöffnet hat, kannst du sehen, dass die Kette sich auch von der Basis des Pults gelöst hat. Als du sie aufhebst, um sie näher zu untersuchen, windet sich die Kette von deinen Fingern auf das Pult und etwas an ihrem Anblick nagt an dir. Die äußeren Ränder der Kette ähneln den Schuppen einer Schlange, als würden sie ineinandergreifen und sich überlappen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>Du öffnest den Einband, doch die Schrift ist in einer Sprache, die du nicht verstehst. Alleine ihr Anblick bereitet dir Kopfschmerzen. Du wirst eine Art Übersetzungsapparat benötigen. Aber was kannst du dafür verwenden?</DefaultText>
-      <FemaleText>Du öffnest den Einband, doch die Schrift ist in einer Sprache, die du nicht verstehst. Alleine ihr Anblick bereitet dir Kopfschmerzen. Du wirst eine Art Übersetzungsapparat benötigen. Aber was kannst du dafür verwenden?</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
       <DefaultText>Gib die glasige Schmiere, die einst das Schloss gewesen ist, in die Schale.</DefaultText>
-      <FemaleText>Gib die glasige Schmiere, die einst das Schloss gewesen ist, in die Schale.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
       <DefaultText>Versuche, dich durch den Schmerz hindurch zu konzentrieren – ich bin fast fertig mit dem Buch.</DefaultText>
-      <FemaleText>Versuche, dich durch den Schmerz hindurch zu konzentrieren – ich bin fast fertig mit dem Buch.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
       <DefaultText>Du schaust dir die Kette kurz an; es scheint eine einfache Lösung zu geben. Du nimmst einfach die Kette und wickelst sie dann in etwa so zusammen, und die Teile greifen ineinander ... doch als du es probierst, zerfällt die Kette zu einem wirren Haufen.</DefaultText>
-      <FemaleText>Du schaust dir die Kette kurz an; es scheint eine einfache Lösung zu geben. Du nimmst einfach die Kette und wickelst sie dann in etwa so zusammen, und die Teile greifen ineinander ... doch als du es probierst, zerfällt die Kette zu einem wirren Haufen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
       <DefaultText>Zerstöre die Kette.</DefaultText>
-      <FemaleText>Zerstöre die Kette.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
       <DefaultText>Obwohl die Kette unglaublich robust aussieht, kannst du sie in ihre Einzelteile zerlegen. Gerade, als du die Kette zerstörst, merkst du, dass das Buch zerbröckelt, und es ist zu spät, seine völlige Zerstörung aufzuhalten. Es bleiben lediglich Fragmente übrig.</DefaultText>
-      <FemaleText>Obwohl die Kette unglaublich robust aussieht, kannst du sie in ihre Einzelteile zerlegen. Gerade, als du die Kette zerstörst, merkst du, dass das Buch zerbröckelt, und es ist zu spät, seine völlige Zerstörung aufzuhalten. Es bleiben lediglich Fragmente übrig.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
       <DefaultText>Du schabst die glasige Schmiere in die Schale und sie haftet an den Seiten, wodurch auf der Unterseite des Kettenhaufens eine perfekte Linse entsteht.</DefaultText>
-      <FemaleText>Du schabst die glasige Schmiere in die Schale und sie haftet an den Seiten, wodurch auf der Unterseite des Kettenhaufens eine perfekte Linse entsteht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
       <DefaultText>Die Worte fließen schneller in deinen Geist, als du es dir vorstellen kannst. Was du liest, ist unglaublich. Das darin enthaltene Wissen ist verblüffend. Du liest über alternative Welten, über das Betreten von Orten, an denen die Zeit anders verläuft, und über wunderbare Maschinen, die auf deine Befehle hören. Du liest Legenden von Helden und Bösewichten, und du kommst langsam zu der Erkenntnis, dass diese Leben nicht deine eigenen gewesen sind ... doch du hast trotzdem eine Erinnerung an sie. Dein Geist brennt, während die Informationen hineinfließen.</DefaultText>
-      <FemaleText>Die Worte fließen schneller in deinen Geist, als du es dir vorstellen kannst. Was du liest, ist unglaublich. Das darin enthaltene Wissen ist verblüffend. Du liest über alternative Welten, über das Betreten von Orten, an denen die Zeit anders verläuft, und über wunderbare Maschinen, die auf deine Befehle hören. Du liest Legenden von Helden und Bösewichten, und du kommst langsam zu der Erkenntnis, dass diese Leben nicht deine eigenen gewesen sind ... doch du hast trotzdem eine Erinnerung an sie. Dein Geist brennt, während die Informationen hineinfließen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
       <DefaultText>Du wehrst die äußeren Ablenkungen ab, den Schmerz, der sich in deinem Schädel aufbaut, und das Wissen kommt mit einem schwindelerregenden Ausbruch, mit einem Schwall konzentrierter Informationen. Du weißt jetzt, warum du sprechen, denken und schlussfolgern kannst, obwohl du nur wenige Tage alt bist: Aufgrund der Muster, die in diesem Körper erschaffen wurden, bevor du ihn getragen hast. Du vermutest, dass du später ungesehene Reserven mentaler Stärke abrufen kannst. Du hast das Große Buch des Wissens gerettet.</DefaultText>
-      <FemaleText>Du wehrst die äußeren Ablenkungen ab, den Schmerz, der sich in deinem Schädel aufbaut, und das Wissen kommt mit einem schwindelerregenden Ausbruch, mit einem Schwall konzentrierter Informationen. Du weißt jetzt, warum du sprechen, denken und schlussfolgern kannst, obwohl du nur wenige Tage alt bist: Aufgrund der Muster, die in diesem Körper erschaffen wurden, bevor du ihn getragen hast. Du vermutest, dass du später ungesehene Reserven mentaler Stärke abrufen kannst. Du hast das Große Buch des Wissens gerettet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
       <DefaultText>Du versuchst, dich zu konzentrieren, doch deine Konzentration entgleitet aufgrund des schwindelerregenden Wissens, das du absorbierst. Du brauchst einen Augenblick, um deinen Kopf freizumachen.</DefaultText>
-      <FemaleText>Du versuchst, dich zu konzentrieren, doch deine Konzentration entgleitet aufgrund des schwindelerregenden Wissens, das du absorbierst. Du brauchst einen Augenblick, um deinen Kopf freizumachen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
       <DefaultText>Du hast eine Möglichkeit gefunden, dieses lebendige Buch loszuketten. Es windet sich noch immer auf dem Tisch und scheint zu einer Art dicken, durchsichtigen, glasigen *Schmiere* zu werden.</DefaultText>
-      <FemaleText>Du hast eine Möglichkeit gefunden, dieses lebendige Buch loszuketten. Es windet sich noch immer auf dem Tisch und scheint zu einer Art dicken, durchsichtigen, glasigen *Schmiere* zu werden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
       <DefaultText>Versuche, mit der Schmiere zu arbeiten, die zuvor das Schloss gewesen ist.</DefaultText>
-      <FemaleText>Versuche, mit der Schmiere zu arbeiten, die zuvor das Schloss gewesen ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
       <DefaultText>Sie ist beinahe vollständig durchsichtig, ohne eine Spur des Metalls, das sie einst gewesen ist. Das Material des Lesepults darunter scheint jedoch sein Aussehen zu ändern. Seine kleinen Unregelmäßigkeiten wirken beinahe wie eine Schrift. Das dickflüssige Gel gleitet reibungslos durch deine Finger. Du kannst es herumschieben, doch nach einer Weile stellst du fest, dass du einen Behälter benötigst, um das Zeug aufzunehmen.</DefaultText>
-      <FemaleText>Sie ist beinahe vollständig durchsichtig, ohne eine Spur des Metalls, das sie einst gewesen ist. Das Material des Lesepults darunter scheint jedoch sein Aussehen zu ändern. Seine kleinen Unregelmäßigkeiten wirken beinahe wie eine Schrift. Das dickflüssige Gel gleitet reibungslos durch deine Finger. Du kannst es herumschieben, doch nach einer Weile stellst du fest, dass du einen Behälter benötigst, um das Zeug aufzunehmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
       <DefaultText>Untersuche die Überreste des Schlosses.</DefaultText>
-      <FemaleText>Untersuche die Überreste des Schlosses.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
       <DefaultText>Untersuche die Kette.</DefaultText>
-      <FemaleText>Untersuche die Kette.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
       <DefaultText>Die Kettenglieder sind merkwürdig. Sie sehen beinahe wie Schuppen aus, die mit Nanofasern miteinander verbunden sind. Die Kette ist jedoch unzerbrechlich. Wenn du es nur aufschließen könntest, wärst du vielleicht in der Lage, es weiter zu untersuchen.</DefaultText>
-      <FemaleText>Die Kettenglieder sind merkwürdig. Sie sehen beinahe wie Schuppen aus, die mit Nanofasern miteinander verbunden sind. Die Kette ist jedoch unzerbrechlich. Wenn du es nur aufschließen könntest, wärst du vielleicht in der Lage, es weiter zu untersuchen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
@@ -262,17 +262,17 @@
     <Entry>
       <ID>99</ID>
       <DefaultText>Nur noch Ruß und Brandspuren deuten darauf hin, wo das Große Buch des Wissens einst lag.</DefaultText>
-      <FemaleText>Nur noch Ruß und Brandspuren deuten darauf hin, wo das Große Buch des Wissens einst lag.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
       <DefaultText>Plötzlich erkennst du, dass die Fragmente der vier Gegenstände im Raum zusammengelegt werden können, um einen einzigen Gegenstand zu bilden. Du kannst dir die Kugel, das Buch, die Koralle und den Kelch zusammen vorstellen ... vielleicht lässt sich daraus irgendetwas herstellen.</DefaultText>
-      <FemaleText>Plötzlich erkennst du, dass die Fragmente der vier Gegenstände im Raum zusammengelegt werden können, um einen einzigen Gegenstand zu bilden. Du kannst dir die Kugel, das Buch, die Koralle und den Kelch zusammen vorstellen ... vielleicht lässt sich daraus irgendetwas herstellen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
       <DefaultText>Versuche erneut, die Schuppen der Kette zusammenzustecken.</DefaultText>
-      <FemaleText>Versuche erneut, die Schuppen der Kette zusammenzustecken.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
@@ -282,100 +282,96 @@
     <Entry>
       <ID>118</ID>
       <DefaultText>Du schaffst es einfach nicht. Du *weißt*, dass es passen sollte, doch das Muster erschließt sich dir nicht.</DefaultText>
-      <FemaleText>Du schaffst es einfach nicht. Du *weißt*, dass es passen sollte, doch das Muster erschließt sich dir nicht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
       <DefaultText>Mach eine Pause und versuche es erneut mit freiem Kopf.</DefaultText>
-      <FemaleText>Mach eine Pause und versuche es erneut mit freiem Kopf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
       <DefaultText>Versuche, ein Muster in der Krümmung des Schlosses zu erkennen.</DefaultText>
-      <FemaleText>Versuche, ein Muster in der Krümmung des Schlosses zu erkennen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
       <DefaultText>Du beruhigst deinen Geist und betrachtest das aufgewickelte Schloss leidenschaftslos. Nach einem Augenblick kannst du sehen, dass in einer inneren Schleife eine kleine Kerbe ist, die zu einer kleinen Kerbe auf einer äußeren Schleife passt. Als sich die Kerben wieder einander nähern, berührst du das Schloss an diesen beiden Kerben und das Schloss löst sich vom Buch und bleibt auf dem Lesepult liegen. Die Kette fällt zu Boden.</DefaultText>
-      <FemaleText>Du beruhigst deinen Geist und betrachtest das aufgewickelte Schloss leidenschaftslos. Nach einem Augenblick kannst du sehen, dass in einer inneren Schleife eine kleine Kerbe ist, die zu einer kleinen Kerbe auf einer äußeren Schleife passt. Als sich die Kerben wieder einander nähern, berührst du das Schloss an diesen beiden Kerben und das Schloss löst sich vom Buch und bleibt auf dem Lesepult liegen. Die Kette fällt zu Boden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
       <DefaultText>Du studierst es gefühlt minutenlang, obwohl du die subjektive Qualität der Zeit erkennst, doch du bist nicht in der Lage, dem Muster irgendeinen Sinn zu verleihen.</DefaultText>
-      <FemaleText>Du studierst es gefühlt minutenlang, obwohl du die subjektive Qualität der Zeit erkennst, doch du bist nicht in der Lage, dem Muster irgendeinen Sinn zu verleihen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
       <DefaultText>Fahre sanft über das Schloss, in der Hoffnung, dass es seinen Griff lockert.</DefaultText>
-      <FemaleText>Fahre sanft über das Schloss, in der Hoffnung, dass es seinen Griff lockert.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
       <DefaultText>Obwohl das Schloss kein Lebewesen ist, reagiert es überraschenderweise auf deine Berührung. Es gibt sanft nach, entknotet sich und löst sich von der Haspe des Buchs. Es liegt auf dem Lesepult, während die Kette sich zu einem Haufen am Boden abwickelt. Du machst einen Schritt zurück, um die Situation einzuschätzen.</DefaultText>
-      <FemaleText>Obwohl das Schloss kein Lebewesen ist, reagiert es überraschenderweise auf deine Berührung. Es gibt sanft nach, entknotet sich und löst sich von der Haspe des Buchs. Es liegt auf dem Lesepult, während die Kette sich zu einem Haufen am Boden abwickelt. Du machst einen Schritt zurück, um die Situation einzuschätzen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
       <DefaultText>Eine gute Idee, doch obwohl das Schloss animiert ist, ist es nicht lebendig. Es reagiert nicht auf deine Berührung.</DefaultText>
-      <FemaleText>Eine gute Idee, doch obwohl das Schloss animiert ist, ist es nicht lebendig. Es reagiert nicht auf deine Berührung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
       <DefaultText>Versuche, das Schloss mit Gewalt zu öffnen.</DefaultText>
-      <FemaleText>Versuche, das Schloss mit Gewalt zu öffnen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
       <DefaultText>Du sammelst deine Kraft und schlägst auf das Schloss ein, so fest du kannst. Mit einem scharfen Knacken zerfällt es in zwei Teile, und die Kette wickelt sich ab und fällt zu Boden.</DefaultText>
-      <FemaleText>Du sammelst deine Kraft und schlägst auf das Schloss ein, so fest du kannst. Mit einem scharfen Knacken zerfällt es in zwei Teile, und die Kette wickelt sich ab und fällt zu Boden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
       <DefaultText>Du schlägst darauf ein, doch verletzt dir lediglich die Hand.</DefaultText>
-      <FemaleText>Du schlägst darauf ein, doch verletzt dir lediglich die Hand.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
       <DefaultText>Du schaust dir die Kette kurz an; es scheint eine einfache Lösung zu geben. Du nimmst einfach die Kette und wickelst sie dann in etwa so zusammen, und die Teile greifen ineinander, wobei sie eine Schüssel ohne Boden bilden. Aber was nun?</DefaultText>
-      <FemaleText>Du schaust dir die Kette kurz an; es scheint eine einfache Lösung zu geben. Du nimmst einfach die Kette und wickelst sie dann in etwa so zusammen, und die Teile greifen ineinander, wobei sie eine Schüssel ohne Boden bilden. Aber was nun?</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
       <DefaultText>Bilde eine richtige Schlange aus der Kette.</DefaultText>
-      <FemaleText>Bilde eine richtige Schlange aus der Kette.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
       <DefaultText>Nach vorsichtigem Falten und weiterer Manipulation bist du in der Lage, die geschuppte Kette zu einer real anmutenden Viper zu wickeln. Als du einen Schritt zurück machst, erwacht sie zum Leben und zischt dich wütend an. Ein massiver Klumpen bildet sich in ihrer Kehle und tritt aus ihrem Maul aus. Dann fällt sie wieder in ihre ursprüngliche Form zusammen.
 
 {SCRIPT: Gain some small egg-like cypher.}</DefaultText>
-      <FemaleText>Nach vorsichtigem Falten und weiterer Manipulation bist du in der Lage, die geschuppte Kette zu einer real anmutenden Viper zu wickeln. Als du einen Schritt zurück machst, erwacht sie zum Leben und zischt dich wütend an. Ein massiver Klumpen bildet sich in ihrer Kehle und tritt aus ihrem Maul aus. Dann fällt sie wieder in ihre ursprüngliche Form zusammen.
-
-{SCRIPT: Gain some small egg-like cypher.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
       <DefaultText>Du beschwatzt sie und gibst der Kette einen Stoß, doch vergeblich. Du kannst sie nicht richtig zusammensetzen.</DefaultText>
-      <FemaleText>Du beschwatzt sie und gibst der Kette einen Stoß, doch vergeblich. Du kannst sie nicht richtig zusammensetzen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
       <DefaultText>Zwinge die Kette, einen Reifen zu formen.</DefaultText>
-      <FemaleText>Zwinge die Kette, einen Reifen zu formen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
       <DefaultText>Durch pure Anstrengung und Kraft kannst aus dieser geschuppten Kette eine lange, dünne Röhre bilden. Es fühlt sich an, als hättest du ein paar Verbindungen verbogen ... doch du hörst ein merkwürdiges Knacken, und eines der Bindeglieder fällt ab. Der Rest der Kette schüttelt sich zurück in einen unorganisierten aufgewickelten Haufen.
 
 {SCRIPT: Gain some small cypher that could represent a chain link.}</DefaultText>
-      <FemaleText>Durch pure Anstrengung und Kraft kannst aus dieser geschuppten Kette eine lange, dünne Röhre bilden. Es fühlt sich an, als hättest du ein paar Verbindungen verbogen ... doch du hörst ein merkwürdiges Knacken, und eines der Bindeglieder fällt ab. Der Rest der Kette schüttelt sich zurück in einen unorganisierten aufgewickelten Haufen.
-
-{SCRIPT: Gain some small cypher that could represent a chain link.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
       <DefaultText>Deine Anstrengungen sind zwecklos. Sie will einfach nicht zusammenhalten.</DefaultText>
-      <FemaleText>Deine Anstrengungen sind zwecklos. Sie will einfach nicht zusammenhalten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
@@ -385,7 +381,7 @@
     <Entry>
       <ID>156</ID>
       <DefaultText>Versuche, die Schuppen der Kette zusammenzustecken.</DefaultText>
-      <FemaleText>Versuche, die Schuppen der Kette zusammenzustecken.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
@@ -395,7 +391,7 @@
     <Entry>
       <ID>165</ID>
       <DefaultText>Eine starke, sorgfältig gearbeitete Kette verbindet das Schloss am Buchdeckel mit dem Lesepult.</DefaultText>
-      <FemaleText>Eine starke, sorgfältig gearbeitete Kette verbindet das Schloss am Buchdeckel mit dem Lesepult.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
@@ -405,7 +401,7 @@
     <Entry>
       <ID>167</ID>
       <DefaultText>Die Flamme scheint keine Wirkung auf die starke, sorgfältig gearbeitete Kette zu haben, die sowohl am Lesepult als auch am Schloss des Einbands befestigt ist.</DefaultText>
-      <FemaleText>Die Flamme scheint keine Wirkung auf die starke, sorgfältig gearbeitete Kette zu haben, die sowohl am Lesepult als auch am Schloss des Einbands befestigt ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
@@ -415,41 +411,39 @@
     <Entry>
       <ID>169</ID>
       <DefaultText>Du beruhigst deinen Geist, entspannst dich, und versuchst, das Wissen des Buchs erneut zu retten.</DefaultText>
-      <FemaleText>Du beruhigst deinen Geist, entspannst dich, und versuchst, das Wissen des Buchs erneut zu retten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
       <DefaultText>Das Buch bleibt stur verschlossen. Die Kette und das Schloss scheinen sich vor deinen Augen zu entwickeln.</DefaultText>
-      <FemaleText>Das Buch bleibt stur verschlossen. Die Kette und das Schloss scheinen sich vor deinen Augen zu entwickeln.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
       <DefaultText>Es ist dir gelungen, das Buch aufzuschließen. Nun musst du es einfach nur verstehen.</DefaultText>
-      <FemaleText>Es ist dir gelungen, das Buch aufzuschließen. Nun musst du es einfach nur verstehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
       <DefaultText>Das Buch liegt offen vor dir, doch die Schrift darin sagt dir nichts. Wie kann das sein, wenn doch das Buch selbst ein Produkt deines eigenen Geistes ist?</DefaultText>
-      <FemaleText>Das Buch liegt offen vor dir, doch die Schrift darin sagt dir nichts. Wie kann das sein, wenn doch das Buch selbst ein Produkt deines eigenen Geistes ist?</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
       <DefaultText>Nun, da du die Natur der Schrift begreifst, bist du in der Lage, seine Inhalte besser zu erfassen.</DefaultText>
-      <FemaleText>Nun, da du die Natur der Schrift begreifst, bist du in der Lage, seine Inhalte besser zu erfassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
       <DefaultText>Du versuchst, die Kette mit deinen bloßen Händen zu zerschlagen, doch sie ist stabiler, als sie aussieht.</DefaultText>
-      <FemaleText>Du versuchst, die Kette mit deinen bloßen Händen zu zerschlagen, doch sie ist stabiler, als sie aussieht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
       <DefaultText>Du stellst außerdem fest, dass du mehr als nur die Überbleibsel der Worte erhalten hast.
 
 {SCRIPT: Recover small # of Intellect Pool, or some other cool, minor reward like a healing cypher.}</DefaultText>
-      <FemaleText>Du stellst außerdem fest, dass du mehr als nur die Überbleibsel der Worte erhalten hast.
-
-{SCRIPT: Recover small # of Intellect Pool, or some other cool, minor reward like a healing cypher.}</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
