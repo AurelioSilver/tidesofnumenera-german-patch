@@ -9,52 +9,46 @@
       <DefaultText>Dies ist ein glattes Synth-Becken, das so geformt wurde, dass es auf die Konturen eines menschlichen Kopfes passt. Lichter pulsieren entlang der Innenseite, begleitet von einem energischen Summen.
 
 Ein schweres Kabel verbindet es mit der beistehenden Überwachungsstation.</DefaultText>
-      <FemaleText>Dies ist ein glattes Synth-Becken, das so geformt wurde, dass es auf die Konturen eines menschlichen Kopfes passt. Lichter pulsieren entlang der Innenseite, begleitet von einem energischen Summen.
-
-Ein schweres Kabel verbindet es mit der beistehenden Überwachungsstation.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Der pulsierende Helm liegt auf der Konsole vor dir.</DefaultText>
-      <FemaleText>Der pulsierende Helm liegt auf der Konsole vor dir.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Du hast bereits die relevantesten Daten aus diesem Gerät erhalten: das Nevajin ist ein Wissenssuchender, der von einer tiefen Ruhe besessen ist.</DefaultText>
-      <FemaleText>Du hast bereits die relevantesten Daten aus diesem Gerät erhalten: das Nevajin ist ein Wissenssuchender, der von einer tiefen Ruhe besessen ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Setz den Helm auf.</DefaultText>
-      <FemaleText>Setz den Helm auf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>[gehen]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Als der Helm deinen Kopf berührt, entwickelt sich ein Tunnelblick und verschwimmt deine Sicht. Einen Augenblick später gewinnst du in einem dunklen, gewölbten Raum das Augenlicht wieder. Das gefrorene Bild einer Bestie im nächsten Tank erscheint in der Kammermitte und ist mit dem Wort "Nevajin" untertitelt. 
 
 Es ist ein humanoides Wesen mit einem totenschädelähnlichen Kopf, der auf einem massigen Körper mit faserartigen Ranken sitzt. Laut diesen Unterlagen stammt der Kopf von einem anderen Lebewesen als der Körper.</DefaultText>
-      <FemaleText>Als der Helm deinen Kopf berührt, entwickelt sich ein Tunnelblick und verschwimmt deine Sicht. Einen Augenblick später gewinnst du in einem dunklen, gewölbten Raum das Augenlicht wieder. Das gefrorene Bild einer Bestie im nächsten Tank erscheint in der Kammermitte und ist mit dem Wort "Nevajin" untertitelt. 
-
-Es ist ein humanoides Wesen mit einem totenschädelähnlichen Kopf, der auf einem massigen Körper mit faserartigen Ranken sitzt. Laut diesen Unterlagen stammt der Kopf von einem anderen Lebewesen als der Körper.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>Eine Stimme ertönt laut: "Trotz seiner unstillbaren Neugier strahlt das Nevajin eine unheimliche Ruhe und Gelassenheit aus. Es wird Wissen gegen neue Cyphern oder Artefakte tauschen, die es untersuchen kann, jedoch ohne Anzeichen von Gier oder eines Ziels. Sie scheinen zielstrebig, jedoch so im Reinen mit ihrer Suche, dass sie sich von Fehlschlägen niemals aus der Ruhe bringen lassen."
 
 Nach einer Pause fügt die Stimme hinzu: "Es ist eine Massenmelodie-Synchronisierung erforderlich, um die Verbindung mit den gemeinsamen Sinnen des Nevajins herzustellen."</DefaultText>
-      <FemaleText>Eine Stimme ertönt laut: "Trotz seiner unstillbaren Neugier strahlt das Nevajin eine unheimliche Ruhe und Gelassenheit aus. Es wird Wissen gegen neue Cyphern oder Artefakte tauschen, die es untersuchen kann, jedoch ohne Anzeichen von Gier oder eines Ziels. Sie scheinen zielstrebig, jedoch so im Reinen mit ihrer Suche, dass sie sich von Fehlschlägen niemals aus der Ruhe bringen lassen."
-
-Nach einer Pause fügt die Stimme hinzu: "Es ist eine Massenmelodie-Synchronisierung erforderlich, um die Verbindung mit den gemeinsamen Sinnen des Nevajins herzustellen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Das Bild des Gewölbes in deinem Kopf verengt sich und das Labor blinkt wieder ins Bild.</DefaultText>
-      <FemaleText>Das Bild des Gewölbes in deinem Kopf verengt sich und das Labor blinkt wieder ins Bild.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
