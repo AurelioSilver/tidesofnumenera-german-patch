@@ -7,7 +7,7 @@
     <Entry>
       <ID>18</ID>
       <DefaultText>Eine Kummerscherbe hat diese Maschine befallen. Eine greifbare Welle des Zorns strömt von den verworrenen Kabeln, die in den beistehenden Tank führen. Dies scheint den Stress der Kreatur im Inneren zu verursachen.</DefaultText>
-      <FemaleText>Eine Kummerscherbe hat diese Maschine befallen. Eine greifbare Welle des Zorns strömt von den verworrenen Kabeln, die in den beistehenden Tank führen. Dies scheint den Stress der Kreatur im Inneren zu verursachen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -19,58 +19,54 @@
       <DefaultText>Die Kabel lassen sich nicht so einfach herausziehen. Die bösartige Spannung, die sich durch die Kabel windet, kämpft um jeden Millimeter und dreht und spannt sich gegen jeden Versuch, sie zu entwirren.
 
 Schließlich liegen die Kabel gerade auf dem Boden und der Kampf der Kreatur lässt nach, als sie in einen friedvollen Schlummer zurückfällt. Das Wesen ist bereit, sich nun mit dir zu verbinden.</DefaultText>
-      <FemaleText>Die Kabel lassen sich nicht so einfach herausziehen. Die bösartige Spannung, die sich durch die Kabel windet, kämpft um jeden Millimeter und dreht und spannt sich gegen jeden Versuch, sie zu entwirren.
-
-Schließlich liegen die Kabel gerade auf dem Boden und der Kampf der Kreatur lässt nach, als sie in einen friedvollen Schlummer zurückfällt. Das Wesen ist bereit, sich nun mit dir zu verbinden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Die Kabel schnappen zu und pressen in dem Moment zusammen, in dem du nach ihnen greifst. Sie klammern sich fest, wobei die Kreatur im Inneren jedem Versuch widersteht, sie zu entwirren. Schließlich lässt es nach und stürmt aus der Maschine. Als sich die Kabel straff ziehen, fliegt die Bestie vorbei, wobei sich ihre Stacheln in deinen Gedanken festkrallen.</DefaultText>
-      <FemaleText>Die Kabel schnappen zu und pressen in dem Moment zusammen, in dem du nach ihnen greifst. Sie klammern sich fest, wobei die Kreatur im Inneren jedem Versuch widersteht, sie zu entwirren. Schließlich lässt es nach und stürmt aus der Maschine. Als sich die Kabel straff ziehen, fliegt die Bestie vorbei, wobei sich ihre Stacheln in deinen Gedanken festkrallen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Entwirre die Kabel, indem du sie gerade ziehst.</DefaultText>
-      <FemaleText>Entwirre die Kabel, indem du sie gerade ziehst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Versuche erneut, die Kabel gerade zu ziehen.</DefaultText>
-      <FemaleText>Versuche erneut, die Kabel gerade zu ziehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>Verlassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Die vom Kummer befallenen Kabel, die zur Maschine führen, sind noch immer verworren und verursachen großen Stress für die beistehende Kreatur.</DefaultText>
-      <FemaleText>Die vom Kummer befallenen Kabel, die zur Maschine führen, sind noch immer verworren und verursachen großen Stress für die beistehende Kreatur.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Es ist nicht nötig, weiter an dieser Maschine herumzuspielen. Die Kreatur schwebt still in dem beistehenden Tank, von dem Kummer unbeeindruckt.</DefaultText>
-      <FemaleText>Es ist nicht nötig, weiter an dieser Maschine herumzuspielen. Die Kreatur schwebt still in dem beistehenden Tank, von dem Kummer unbeeindruckt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Die Kabel, die aus dieser Maschine verlaufen, vibrieren stetig und befördern *etwas* zur der Kreatur im beistehenden Tank.</DefaultText>
-      <FemaleText>Die Kabel, die aus dieser Maschine verlaufen, vibrieren stetig und befördern *etwas* zur der Kreatur im beistehenden Tank.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Das Gewirr springt mit einem wütenden Schrei auseinander, nicht in der Lage, zu widerstehen.
 
 Der Kampf des Wesens lässt nach, als es wieder ein einen friedvollen Schlummer fällt. Das Wesen ist bereit, sich nun mit dir zu verbinden.</DefaultText>
-      <FemaleText>Das Gewirr springt mit einem wütenden Schrei auseinander, nicht in der Lage, zu widerstehen.
-
-Der Kampf des Wesens lässt nach, als es wieder ein einen friedvollen Schlummer fällt. Das Wesen ist bereit, sich nun mit dir zu verbinden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Eine Schleife eines vom Kummer befallenen Kabels bäumt sich wie ein angreifendes Tier nach hinten auf und peitscht bei jedem Versuch, sie zu entwirren, bösartig nach vorne. Es ist sinnlos.</DefaultText>
-      <FemaleText>Eine Schleife eines vom Kummer befallenen Kabels bäumt sich wie ein angreifendes Tier nach hinten auf und peitscht bei jedem Versuch, sie zu entwirren, bösartig nach vorne. Es ist sinnlos.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
@@ -150,12 +146,12 @@ Der Kampf des Wesens lässt nach, als es wieder ein einen friedvollen Schlummer 
     <Entry>
       <ID>45</ID>
       <DefaultText>Die Kummerscherbe hat diese Maschine verlassen, wodurch sich die Kabel selbst entwirren.</DefaultText>
-      <FemaleText>Die Kummerscherbe hat diese Maschine verlassen, wodurch sich die Kabel selbst entwirren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>Die Kummerscherbe, welche dieses Gerät befallen hatte, nimmt mit einem zischenden Knurren Form an.</DefaultText>
-      <FemaleText>Die Kummerscherbe, welche dieses Gerät befallen hatte, nimmt mit einem zischenden Knurren Form an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
@@ -165,12 +161,12 @@ Der Kampf des Wesens lässt nach, als es wieder ein einen friedvollen Schlummer 
     <Entry>
       <ID>50</ID>
       <DefaultText>Als sich die Fasern in Position bringen, fällt eine gebogene Metallstange, die darunter ruhte, auf den Boden. Die Maschine scheint sie nicht mehr zu benötigen. Irgendeine Art von Daten-Trichter, der hier nicht sehr nützlich ist. Er könnte jedoch als praktischer Einweg-Teleporter dienen, wenn man die beiden offen liegenden Drähte an einem Ende kreuzt.</DefaultText>
-      <FemaleText>Als sich die Fasern in Position bringen, fällt eine gebogene Metallstange, die darunter ruhte, auf den Boden. Die Maschine scheint sie nicht mehr zu benötigen. Irgendeine Art von Daten-Trichter, der hier nicht sehr nützlich ist. Er könnte jedoch als praktischer Einweg-Teleporter dienen, wenn man die beiden offen liegenden Drähte an einem Ende kreuzt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>Als sich die Fasern in Position bringen, springt eine schimmernde Hartglaskuppel aus einem Sockel heraus. Im Inneren der Kuppel wirbeln leuchtende Energien. Dies ist möglicherweise eine nützliche Waffe gegen die Kummerscherben.</DefaultText>
-      <FemaleText>Als sich die Fasern in Position bringen, springt eine schimmernde Hartglaskuppel aus einem Sockel heraus. Im Inneren der Kuppel wirbeln leuchtende Energien. Dies ist möglicherweise eine nützliche Waffe gegen die Kummerscherben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
