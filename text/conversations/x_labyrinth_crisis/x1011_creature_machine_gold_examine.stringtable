@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Kreischende Dampfwolken verschleiern diese defekte Maschine. Solange sie nicht repariert wird, wirst du keine Verbindung zu der Kreatur im beistehenden Tank herstellen können.</DefaultText>
-      <FemaleText>Kreischende Dampfwolken verschleiern diese defekte Maschine. Solange sie nicht repariert wird, wirst du keine Verbindung zu der Kreatur im beistehenden Tank herstellen können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Wasser fließt zum beistehenden Tank mit der Kreatur. Du solltest nun eine Verbindung zu ihr herstellen können.</DefaultText>
-      <FemaleText>Wasser fließt zum beistehenden Tank mit der Kreatur. Du solltest nun eine Verbindung zu ihr herstellen können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Die Bestie taucht aus der Maschine auf, um dich zu verfolgen. Du kannst nun mit der Kreatur in dem Tank kommunizieren.</DefaultText>
-      <FemaleText>Die Bestie taucht aus der Maschine auf, um dich zu verfolgen. Du kannst nun mit der Kreatur in dem Tank kommunizieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Diese Leitungen füllen den beistehenden Tank mit einem stetigen Fluss frischen, ungetrübten Wassers.</DefaultText>
-      <FemaleText>Diese Leitungen füllen den beistehenden Tank mit einem stetigen Fluss frischen, ungetrübten Wassers.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
