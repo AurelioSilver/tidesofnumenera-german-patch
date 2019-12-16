@@ -54,9 +54,7 @@
       <DefaultText>Eine Aura aus verletztem Licht klammert sich an diese rasselnde Maschine. Wasser plätschert durch die Leitungen, die zum beistehenden Tank führen, erreicht diesen jedoch nicht. Die Kreatur ist zu sehr gestresst, um eine Verbindung herstellen zu können, solange die Kummerscherbe im Inneren der Maschine nicht herausgetrieben und der Wasserfluss nicht wiederhergestellt wurde. 
 
 Es gibt keine externe Steuerung oder Zugangsklappen an der Maschine, du siehst jedoch etwas Ungewöhnliches in den aufbauschenden Wolken leuchtenden Dampfes: die Umrisse eines transparenten Rads, welches in der Luft hängt.</DefaultText>
-      <FemaleText>Eine Aura aus verletztem Licht klammert sich an diese rasselnde Maschine. Wasser plätschert durch die Leitungen, die zum beistehenden Tank führen, erreicht diesen jedoch nicht. Die Kreatur ist zu sehr gestresst, um eine Verbindung herstellen zu können, solange die Kummerscherbe im Inneren der Maschine nicht herausgetrieben und der Wasserfluss nicht wiederhergestellt wurde. 
-
-Es gibt keine externe Steuerung oder Zugangsklappen an der Maschine, du siehst jedoch etwas Ungewöhnliches in den aufbauschenden Wolken leuchtenden Dampfes: die Umrisse eines transparenten Rads, welches in der Luft hängt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -96,41 +94,39 @@ Es gibt keine externe Steuerung oder Zugangsklappen an der Maschine, du siehst j
     <Entry>
       <ID>18</ID>
       <DefaultText>Follow-up PQ. 30</DefaultText>
-      <FemaleText>Follow-up PQ. 30</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Mit einem Krachen löst sich etwas in der keuchenden Maschine. Nach einem Moment der Stille und einem fettigen Husten springt die Pumpe selbstständig wieder an und klares Wasser rauscht durch die Leitungen in den Tank des Wesens. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</DefaultText>
-      <FemaleText>Mit einem Krachen löst sich etwas in der keuchenden Maschine. Nach einem Moment der Stille und einem fettigen Husten springt die Pumpe selbstständig wieder an und klares Wasser rauscht durch die Leitungen in den Tank des Wesens. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Das Gehäuse hallt mit einem hohlen *BLANG* und die Kreatur im Inneren zischt und windet sich. Tentakel peitschen aus dem Inneren der Maschine und greifen nach deinem Kopf. Während du deine Hände an die Schläfen presst, hörst du, wie der Dampf durch die Maschine keucht. Die Bestie beginnt, sich zu regen.</DefaultText>
-      <FemaleText>Das Gehäuse hallt mit einem hohlen *BLANG* und die Kreatur im Inneren zischt und windet sich. Tentakel peitschen aus dem Inneren der Maschine und greifen nach deinem Kopf. Während du deine Hände an die Schläfen presst, hörst du, wie der Dampf durch die Maschine keucht. Die Bestie beginnt, sich zu regen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Die Quelle des grauenhaften Klirren erschauert bei dem Schlag. Irgendetwas kitzelt leicht und ein sanftes Schwirren setzt ein und wird immer schneller ...
 
 Klares Wasser rauscht durch die Leitungen in den Tank des Wesens, viel schneller als zuvor. Es ist durchaus denkbar, dass diese Maschine mit einem schnellen Tritt verbessert wurde. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</DefaultText>
-      <FemaleText>Die Quelle des grauenhaften Klirren erschauert bei dem Schlag. Irgendetwas kitzelt leicht und ein sanftes Schwirren setzt ein und wird immer schneller ...
-
-Klares Wasser rauscht durch die Leitungen in den Tank des Wesens, viel schneller als zuvor. Es ist durchaus denkbar, dass diese Maschine mit einem schnellen Tritt verbessert wurde. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Die Maschine macht ein trauriges *Knacken*, als der Tritt einen unerwartet robusten Teil des Maschinengehäuses trifft. Der Wasserfluss bleibt aus.</DefaultText>
-      <FemaleText>Die Maschine macht ein trauriges *Knacken*, als der Tritt einen unerwartet robusten Teil des Maschinengehäuses trifft. Der Wasserfluss bleibt aus.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Entferne die Kummerscherbe und stelle den Wasserfluss wieder her, indem du gegen die Maschine trittst. Hart.</DefaultText>
-      <FemaleText>Entferne die Kummerscherbe und stelle den Wasserfluss wieder her, indem du gegen die Maschine trittst. Hart.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Tritt erneut gegen die Maschine.</DefaultText>
-      <FemaleText>Tritt erneut gegen die Maschine.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -170,36 +166,34 @@ Klares Wasser rauscht durch die Leitungen in den Tank des Wesens, viel schneller
     <Entry>
       <ID>32</ID>
       <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>Verlassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Ein feuchtes Klirren verstärkt sich in den Eingeweiden der vom Kummer befallenen Maschine. Ein durchsichtiges Rad hängt zwischen den prallen Wolken leuchtenden Dampfes in der Luft.
 
 Die brennende Kreatur im beistehenden Tank schwindet und erinnert nun mehr an eine Wolke aus Kerzenlicht als an einen Menschen.</DefaultText>
-      <FemaleText>Ein feuchtes Klirren verstärkt sich in den Eingeweiden der vom Kummer befallenen Maschine. Ein durchsichtiges Rad hängt zwischen den prallen Wolken leuchtenden Dampfes in der Luft.
-
-Die brennende Kreatur im beistehenden Tank schwindet und erinnert nun mehr an eine Wolke aus Kerzenlicht als an einen Menschen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Die Kummerscherbe wurde herausgetrieben und die Wasserzufuhr zur Kreatur im beistehenden Tank wiederhergestellt. Die Kreatur dürfte nun bereit sein, um sich mit ihr verbinden zu können.</DefaultText>
-      <FemaleText>Die Kummerscherbe wurde herausgetrieben und die Wasserzufuhr zur Kreatur im beistehenden Tank wiederhergestellt. Die Kreatur dürfte nun bereit sein, um sich mit ihr verbinden zu können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>Diese Maschine versorgt den beistehenden Tank mit einem stetigen Strom frischen, ungetrübten Wassers. Statt in öligem Rauch zu verschwinden, scheint die glühende Kreatur das Wasser über sein Fleisch zu absorbieren.</DefaultText>
-      <FemaleText>Diese Maschine versorgt den beistehenden Tank mit einem stetigen Strom frischen, ungetrübten Wassers. Statt in öligem Rauch zu verschwinden, scheint die glühende Kreatur das Wasser über sein Fleisch zu absorbieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Die Bestie taucht zum Angriff aus der Maschine auf. Wasser fließt ungehindert durch die Maschine zum beistehenden Tank mit der Kreatur.</DefaultText>
-      <FemaleText>Die Bestie taucht zum Angriff aus der Maschine auf. Wasser fließt ungehindert durch die Maschine zum beistehenden Tank mit der Kreatur.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>Die Kummerscherbe prescht mit einem knisternden Brüllen aus der Seite des Geräts.</DefaultText>
-      <FemaleText>Die Kummerscherbe prescht mit einem knisternden Brüllen aus der Seite des Geräts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -209,51 +203,49 @@ Die brennende Kreatur im beistehenden Tank schwindet und erinnert nun mehr an ei
     <Entry>
       <ID>39</ID>
       <DefaultText>Dreh das Rad aus Dampf.</DefaultText>
-      <FemaleText>Dreh das Rad aus Dampf.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Versuche erneut, das Rad aus Dampf zu drehen.</DefaultText>
-      <FemaleText>Versuche erneut, das Rad aus Dampf zu drehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Es ist beinahe unsichtbar, doch es fühlt sich wie warmes Metall an. Es dreht sich schnell. Schließlich löst sich die Dampfwolke auf und das grauenhafte Klirren innerhalb der Maschine verstummt. Reines Wasser schießt durch die Leitungen in den Tank der Kreatur, als sich das Rad zu einem immateriellen Nebel auflöst. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</DefaultText>
-      <FemaleText>Es ist beinahe unsichtbar, doch es fühlt sich wie warmes Metall an. Es dreht sich schnell. Schließlich löst sich die Dampfwolke auf und das grauenhafte Klirren innerhalb der Maschine verstummt. Reines Wasser schießt durch die Leitungen in den Tank der Kreatur, als sich das Rad zu einem immateriellen Nebel auflöst. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>Ein unerwarteter Dampfstrahl stößt aus der Wolke und macht es unmöglich, sich dem Rad weiter zu nähern. Knapp dahinter schießt die Kummerscherbe mit sich windenden Ranken heraus. Ihre Tentakeln schlitzen deinen Verstand auf, wobei Haut und Knochen unberührt bleiben.</DefaultText>
-      <FemaleText>Ein unerwarteter Dampfstrahl stößt aus der Wolke und macht es unmöglich, sich dem Rad weiter zu nähern. Knapp dahinter schießt die Kummerscherbe mit sich windenden Ranken heraus. Ihre Tentakeln schlitzen deinen Verstand auf, wobei Haut und Knochen unberührt bleiben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>Das Rad ist beinahe unsichtbar, doch es fühlt sich wie warmes Metall an. Nach drei schnellen Drehungen zieht sich die Dampfwolke in die Maschine zurück, woraufhin das grauenhafte Klirren aus dem Inneren wieder zu vernehmen ist. Auch das Rad scheint zu schwinden.
 
 Reines Wasser schießt durch die Leitungen in den Tank der Kreatur. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</DefaultText>
-      <FemaleText>Das Rad ist beinahe unsichtbar, doch es fühlt sich wie warmes Metall an. Nach drei schnellen Drehungen zieht sich die Dampfwolke in die Maschine zurück, woraufhin das grauenhafte Klirren aus dem Inneren wieder zu vernehmen ist. Auch das Rad scheint zu schwinden.
-
-Reines Wasser schießt durch die Leitungen in den Tank der Kreatur. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>Ein bösartiger, kochender Dampfstrahl schießt dir aus der Wolke heraus schmerzvoll ins Gesicht. Es ist unmöglich, sich weiter zu nähern.</DefaultText>
-      <FemaleText>Ein bösartiger, kochender Dampfstrahl schießt dir aus der Wolke heraus schmerzvoll ins Gesicht. Es ist unmöglich, sich weiter zu nähern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>Cascade 49</DefaultText>
-      <FemaleText>Cascade 49</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>Als das Wasser sanft fließt, fällt eine gebogene Metallstange unterhalb des Wassers zu Boden. Die Maschine scheint sie nicht mehr zu benötigen. Irgendeine Art von Daten-Trichter, der hier nicht sehr nützlich ist. Er könnte jedoch als praktischer Einweg-Teleporter dienen, wenn man die beiden offen liegenden Drähte an einem Ende kreuzt.</DefaultText>
-      <FemaleText>Als das Wasser sanft fließt, fällt eine gebogene Metallstange unterhalb des Wassers zu Boden. Die Maschine scheint sie nicht mehr zu benötigen. Irgendeine Art von Daten-Trichter, der hier nicht sehr nützlich ist. Er könnte jedoch als praktischer Einweg-Teleporter dienen, wenn man die beiden offen liegenden Drähte an einem Ende kreuzt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>Als das Wasser sanft fließt, springt eine schimmernde Hartglaskuppel aus einem Sockel im Inneren der Maschine heraus. Im Inneren der Kuppel wirbeln leuchtende Energien. Dies ist möglicherweise eine nützliche Waffe gegen die Kummerscherben.</DefaultText>
-      <FemaleText>Als das Wasser sanft fließt, springt eine schimmernde Hartglaskuppel aus einem Sockel im Inneren der Maschine heraus. Im Inneren der Kuppel wirbeln leuchtende Energien. Dies ist möglicherweise eine nützliche Waffe gegen die Kummerscherben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
