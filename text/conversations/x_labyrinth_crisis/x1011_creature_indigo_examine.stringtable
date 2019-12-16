@@ -7,27 +7,27 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Der Tank knarrt auf seinem Fundament, als sich die Kreatur darin im Schlaf windet.</DefaultText>
-      <FemaleText>Der Tank knarrt auf seinem Fundament, als sich die Kreatur darin im Schlaf windet.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Nachdem die Kummerscherben nun aus den Maschinen sind, solltest du eine Verbindung zu dem Wesen in diesem Tank herstellen können.</DefaultText>
-      <FemaleText>Nachdem die Kummerscherben nun aus den Maschinen sind, solltest du eine Verbindung zu dem Wesen in diesem Tank herstellen können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Die Kreatur im Inneren kratzt wie wahnsinnig am Glas. Irgendetwas scheint mit der Maschine, die mit diesem Tank verbunden ist, nicht in Ordnung zu sein.</DefaultText>
-      <FemaleText>Die Kreatur im Inneren kratzt wie wahnsinnig am Glas. Irgendetwas scheint mit der Maschine, die mit diesem Tank verbunden ist, nicht in Ordnung zu sein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Sauerstoff fließt ungehindert in diesen Tank. Du solltest nun eine Verbindung zu dem Wesen herstellen können.</DefaultText>
-      <FemaleText>Sauerstoff fließt ungehindert in diesen Tank. Du solltest nun eine Verbindung zu dem Wesen herstellen können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Das Nchalsik hat dir nichts mehr mitzuteilen.</DefaultText>
-      <FemaleText>Das Nchalsik hat dir nichts mehr mitzuteilen.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

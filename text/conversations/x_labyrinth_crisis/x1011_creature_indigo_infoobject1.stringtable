@@ -9,48 +9,44 @@
       <DefaultText>Ein Paar zylindrischer Leitungen ruht eine Armlänge voneinander und ist teilweise in das Gehäuse dieser Maschine eingelassen. Irgendeine Art flüssiges Glas dehnt sich dazwischen aus, darin sind edelsteinartige Luftblasen eingeschlossen. Ein Lichtstrahl läuft über das Glas und zieht dabei gezackte, ungleichmäßig Linien ober- und unterhalb eines geraden Vektors durch die Mitte.
 
 Immer wieder dehnt und zieht sich das Glas wieder zusammen, wobei sich die Linien nach rechts abrollen. Dies scheint irgendeine Art von Kurvensystem zu sein.</DefaultText>
-      <FemaleText>Ein Paar zylindrischer Leitungen ruht eine Armlänge voneinander und ist teilweise in das Gehäuse dieser Maschine eingelassen. Irgendeine Art flüssiges Glas dehnt sich dazwischen aus, darin sind edelsteinartige Luftblasen eingeschlossen. Ein Lichtstrahl läuft über das Glas und zieht dabei gezackte, ungleichmäßig Linien ober- und unterhalb eines geraden Vektors durch die Mitte.
-
-Immer wieder dehnt und zieht sich das Glas wieder zusammen, wobei sich die Linien nach rechts abrollen. Dies scheint irgendeine Art von Kurvensystem zu sein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Versuche, den Ausgangszustand der Kurve zu lesen.</DefaultText>
-      <FemaleText>Versuche, den Ausgangszustand der Kurve zu lesen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Du zögerst einen Augenblick und legst dann deine Hand direkt auf das Flüssigglas. Mit einem Dreh des Handgelenks rollst du es zurück nach links und es rollt sich mit unglaublicher Geschwindigkeit auf. 
 
 Die Nadel folgt den gezogenen Linien. Ein träges, matschiges Geräusch – als ob man etwas aus dickem Schlamm zieht – wird über die Maschine wiedergegeben. Die Geräusche passen zu dem gezackten Muster auf der Rolle.</DefaultText>
-      <FemaleText>Du zögerst einen Augenblick und legst dann deine Hand direkt auf das Flüssigglas. Mit einem Dreh des Handgelenks rollst du es zurück nach links und es rollt sich mit unglaublicher Geschwindigkeit auf. 
-
-Die Nadel folgt den gezogenen Linien. Ein träges, matschiges Geräusch – als ob man etwas aus dickem Schlamm zieht – wird über die Maschine wiedergegeben. Die Geräusche passen zu dem gezackten Muster auf der Rolle.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Nach nur wenigen Sekunden wandeln sich die Geräusche zu Worten der Wahrheit. Die Stimme ist nicht menschlich, durch das schlammige Geräusch der eingravierten Spitzen verzerrt. Folgendes ist zu hören: "Für alle und jeden. Wir jagen für das Rudel. Sterben für das Rudel. Das Rudel lebt, damit das Rudel leben kann."</DefaultText>
-      <FemaleText>Nach nur wenigen Sekunden wandeln sich die Geräusche zu Worten der Wahrheit. Die Stimme ist nicht menschlich, durch das schlammige Geräusch der eingravierten Spitzen verzerrt. Folgendes ist zu hören: "Für alle und jeden. Wir jagen für das Rudel. Sterben für das Rudel. Das Rudel lebt, damit das Rudel leben kann."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Eine menschliche Stimme übertönt die feuchten Geräusche: "Das Nchalsik stellt seine Gemeinschaft nicht nur über sein eigenen Wohlergehen. Es stellt das Kollektiv über das Wohlergehen *jedes* Nchalsiks, wobei das Prinzip der Gemeinnützigkeit aufs Äußerste gelebt wird. Es kann eine beliebige Anzahl von ihnen geopfert werden, um eine existenzielle Bedrohung für die Gruppe zu beseitigen. Nur Nchalsik-Älteste unterliegen gelegentlich einem zügellosen Stolz." Die Stimme verstummt, als die Rolle den leeren Abschnitt erreicht, der vor deiner Ankunft gefüllt wurde.</DefaultText>
-      <FemaleText>Eine menschliche Stimme übertönt die feuchten Geräusche: "Das Nchalsik stellt seine Gemeinschaft nicht nur über sein eigenen Wohlergehen. Es stellt das Kollektiv über das Wohlergehen *jedes* Nchalsiks, wobei das Prinzip der Gemeinnützigkeit aufs Äußerste gelebt wird. Es kann eine beliebige Anzahl von ihnen geopfert werden, um eine existenzielle Bedrohung für die Gruppe zu beseitigen. Nur Nchalsik-Älteste unterliegen gelegentlich einem zügellosen Stolz." Die Stimme verstummt, als die Rolle den leeren Abschnitt erreicht, der vor deiner Ankunft gefüllt wurde.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>Verlassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Die Lichtnadel graviert weiter gezackte Linien in das Glas.</DefaultText>
-      <FemaleText>Die Lichtnadel graviert weiter gezackte Linien in das Glas.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>Das Gerät ätzt weiterhin die Aufzeichnungen der Gehirnströme in das Glas, liefert jedoch keine neuen Übersetzungen.</DefaultText>
-      <FemaleText>Das Gerät ätzt weiterhin die Aufzeichnungen der Gehirnströme in das Glas, liefert jedoch keine neuen Übersetzungen.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
