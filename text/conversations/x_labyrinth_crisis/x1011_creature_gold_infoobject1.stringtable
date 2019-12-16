@@ -7,46 +7,44 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Eine Hartglasplatte bedeckt die Vorderseite dieses gebogenen, verzweigten Geheges. Im Inneren hastet eine kleine, pelzige Kreatur mit sechs mehrgelenkigen Gliedern, einem langen, biegsamen Hals und tellerförmigen Augen umher. Ein Lederbeutel, in dem sich glühende Pellets befinden, hängt an der Oberseite.</DefaultText>
-      <FemaleText>Eine Hartglasplatte bedeckt die Vorderseite dieses gebogenen, verzweigten Geheges. Im Inneren hastet eine kleine, pelzige Kreatur mit sechs mehrgelenkigen Gliedern, einem langen, biegsamen Hals und tellerförmigen Augen umher. Ein Lederbeutel, in dem sich glühende Pellets befinden, hängt an der Oberseite.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Wirf ein paar Pellets in das Gehege.</DefaultText>
-      <FemaleText>Wirf ein paar Pellets in das Gehege.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Die Kreatur schnappt die Pellets aus der Luft, als sie an den Seiten des Geheges herunterrollen, und schaufelt sie sich so schnell wie möglich ins Maul.
 
 Die großen Pupillen ihrer tiefschwarzen Augen weiten sich und ein unglaublich tiefes Brummen steigt aus seinem Maul auf. Eine tiefe, gebieterische Stimme pulsiert aus dem Brummen heraus, als ob Wellen von Luft zu einer Sprache komprimiert würden.</DefaultText>
-      <FemaleText>Die Kreatur schnappt die Pellets aus der Luft, als sie an den Seiten des Geheges herunterrollen, und schaufelt sie sich so schnell wie möglich ins Maul.
-
-Die großen Pupillen ihrer tiefschwarzen Augen weiten sich und ein unglaublich tiefes Brummen steigt aus seinem Maul auf. Eine tiefe, gebieterische Stimme pulsiert aus dem Brummen heraus, als ob Wellen von Luft zu einer Sprache komprimiert würden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Die Feuergeschöpfe von Ossiphagan sind Wesen, die hauptsächlich aus Licht bestehen. Jene, die Ossiphagan bereisen, halten sie für wilde Killer, in Wahrheit unterscheiden sie sich jedoch so stark von organischen Lebewesen, dass sie diese nicht als Lebensform betrachten. Unter ihrer eigenen Art geben sie freizügig. Ein sterbendes Geschöpf erhält den letzten Tropfen Wasser (welchen sie zu Energie katalysieren können) von einem gesünderen Wesen, auch wenn sich der Geber dadurch selbst in Gefahr bringt."</DefaultText>
-      <FemaleText>"Die Feuergeschöpfe von Ossiphagan sind Wesen, die hauptsächlich aus Licht bestehen. Jene, die Ossiphagan bereisen, halten sie für wilde Killer, in Wahrheit unterscheiden sie sich jedoch so stark von organischen Lebewesen, dass sie diese nicht als Lebensform betrachten. Unter ihrer eigenen Art geben sie freizügig. Ein sterbendes Geschöpf erhält den letzten Tropfen Wasser (welchen sie zu Energie katalysieren können) von einem gesünderen Wesen, auch wenn sich der Geber dadurch selbst in Gefahr bringt."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Die Kreatur hört auf zu sprechen. Es blinzelt langsam mit den Augen, dann wird es von einer plötzlichen Welle der Erschöpfung überrollt, woraufhin es zum Boden des Geheges kriecht, sich zu einem Ball zusammenrollt und umgehend in einen Schlaf fällt.</DefaultText>
-      <FemaleText>Die Kreatur hört auf zu sprechen. Es blinzelt langsam mit den Augen, dann wird es von einer plötzlichen Welle der Erschöpfung überrollt, woraufhin es zum Boden des Geheges kriecht, sich zu einem Ball zusammenrollt und umgehend in einen Schlaf fällt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>Verlassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Der sechsbeinige Primat flitzt weiter durch sein Gehege. Er zeigt nicht mehr auf den Beutel voller Pellets und wendet dir seinen flehenden Blick zu.</DefaultText>
-      <FemaleText>Der sechsbeinige Primat flitzt weiter durch sein Gehege. Er zeigt nicht mehr auf den Beutel voller Pellets und wendet dir seinen flehenden Blick zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>Die Kreatur fällt in einen raschen Schlaf. Du vernimmst ein leises, murmelndes Schnarchen.</DefaultText>
-      <FemaleText>Die Kreatur fällt in einen raschen Schlaf. Du vernimmst ein leises, murmelndes Schnarchen.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
