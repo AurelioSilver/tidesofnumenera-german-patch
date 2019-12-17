@@ -59,9 +59,7 @@
       <DefaultText>Ein abscheuliches, fleischiges *Reißen* ist hinter der Luke zu hören, die in die Vorderseite dieser Maschine eingelassen ist. Das Geräusch klimpert durch die Kabel zum beistehenden Tank, in dem sich das Durcheinander eines wolkigen Kristalls dreht – die Kreatur im Tank, die wie wahnsinnig über die unnachgiebigen Wände kratzt. 
 
 Wenn du die Kummerscherbe aus dieser Maschine zwingen kannst, solltest du das unablässige, ekelerregende Geschrei unterbinden, das die Kreatur quält.</DefaultText>
-      <FemaleText>Ein abscheuliches, fleischiges *Reißen* ist hinter der Luke zu hören, die in die Vorderseite dieser Maschine eingelassen ist. Das Geräusch klimpert durch die Kabel zum beistehenden Tank, in dem sich das Durcheinander eines wolkigen Kristalls dreht – die Kreatur im Tank, die wie wahnsinnig über die unnachgiebigen Wände kratzt. 
-
-Wenn du die Kummerscherbe aus dieser Maschine zwingen kannst, solltest du das unablässige, ekelerregende Geschrei unterbinden, das die Kreatur quält.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -171,32 +169,32 @@ Wenn du die Kummerscherbe aus dieser Maschine zwingen kannst, solltest du das un
     <Entry>
       <ID>38</ID>
       <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>Verlassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>Die kristalline Kreatur scharrt in ihrem geräuschlosen Gefängnis, als das abscheuliche, reißende Geräusch durch die Kabel strömt, die aus dieser Maschine führen.</DefaultText>
-      <FemaleText>Die kristalline Kreatur scharrt in ihrem geräuschlosen Gefängnis, als das abscheuliche, reißende Geräusch durch die Kabel strömt, die aus dieser Maschine führen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Die Kummerscherbe wurde aus dieser Maschine getrieben. Die Kreatur im Tank dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</DefaultText>
-      <FemaleText>Die Kummerscherbe wurde aus dieser Maschine getrieben. Die Kreatur im Tank dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Summende Kabel erstrecken sich zwischen dieser Maschine und dem beistehenden Tank und senden sanfte Wellen durch die silbrige Flüssigkeit im Tank.</DefaultText>
-      <FemaleText>Summende Kabel erstrecken sich zwischen dieser Maschine und dem beistehenden Tank und senden sanfte Wellen durch die silbrige Flüssigkeit im Tank.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>Nachdem die Kummerscherbe diese Maschine nun verlassen hat, schwingt ein schwaches, angenehmes Summen durch die Leitungen, die zum beistehenden Tank führen.</DefaultText>
-      <FemaleText>Nachdem die Kummerscherbe diese Maschine nun verlassen hat, schwingt ein schwaches, angenehmes Summen durch die Leitungen, die zum beistehenden Tank führen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>Der böswillige Jäger gleitet zu Boden, wobei er eine Spur von Funken hinter sich herzieht.</DefaultText>
-      <FemaleText>Der böswillige Jäger gleitet zu Boden, wobei er eine Spur von Funken hinter sich herzieht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
@@ -206,12 +204,12 @@ Wenn du die Kummerscherbe aus dieser Maschine zwingen kannst, solltest du das un
     <Entry>
       <ID>46</ID>
       <DefaultText>Suche nach einer Möglichkeit, die Maschine zu öffnen und die Kummerscherbe herauszulocken.</DefaultText>
-      <FemaleText>Suche nach einer Möglichkeit, die Maschine zu öffnen und die Kummerscherbe herauszulocken.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>Versuche erneut, die Maschine zu öffnen.</DefaultText>
-      <FemaleText>Versuche erneut, die Maschine zu öffnen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -220,16 +218,12 @@ Wenn du die Kummerscherbe aus dieser Maschine zwingen kannst, solltest du das un
 Plötzlich *prescht* sie hervor und fliegt mit unglaublicher Geschwindigkeit durch und aus dem Tunnel.
 
 Als die Kummerscherbe flieht, schmilzt die Kreatur im Tank in ein stilles, silbriges Becken aus Flüssigkeit. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</DefaultText>
-      <FemaleText>Auf einer Seite der Luke befindet sich eine kleine Kerbe. Es ist schwierig, doch mit einigem Aufwand springt die Luke endlich auf und gibt einen mit glühender Asche geäderten Tunnel frei, der weitaus länger ist, als die Maschine zulässt. Die Kummerscherbe befindet sich an dessen äußersten Ende und beißt dampfende Stücke aus den Wänden.
-
-Plötzlich *prescht* sie hervor und fliegt mit unglaublicher Geschwindigkeit durch und aus dem Tunnel.
-
-Als die Kummerscherbe flieht, schmilzt die Kreatur im Tank in ein stilles, silbriges Becken aus Flüssigkeit. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>Die Luke erzittert bei der ersten Berührung, doch es scheint keine Möglichkeit zu geben, sie zu öffnen. Direkt hinter dem Synth-Feld vernimmst du ein Wetzen und Kratzen. Die tintenschwarze Kreatur, welche die Maschine korrumpierte, prescht heraus und entriegelt das Schloss. Als sie schreiend vorbeieilt, quetschen ihre wurmartigen Gliedmaßen dein Nervensystem.</DefaultText>
-      <FemaleText>Die Luke erzittert bei der ersten Berührung, doch es scheint keine Möglichkeit zu geben, sie zu öffnen. Direkt hinter dem Synth-Feld vernimmst du ein Wetzen und Kratzen. Die tintenschwarze Kreatur, welche die Maschine korrumpierte, prescht heraus und entriegelt das Schloss. Als sie schreiend vorbeieilt, quetschen ihre wurmartigen Gliedmaßen dein Nervensystem.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
@@ -238,31 +232,27 @@ Als die Kummerscherbe flieht, schmilzt die Kreatur im Tank in ein stilles, silbr
 Als sie sieht, wie die Luke sich öffnet, *prescht* sie hervor und fliegt mit unglaublicher Geschwindigkeit durch und aus dem Tunnel.
 
 Als die Kummerscherbe über deinen Kopf hinweg stürzt, schmilzt die Kreatur im Tank in ein stilles, silbriges Becken aus Flüssigkeit. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</DefaultText>
-      <FemaleText>Als du an einer Kerbe an der Seite der Luke zerrst, öffnet sich diese umgehend. Im Inneren führt ein mit glühender Asche geäderter Tunnel weitaus tiefer in die Maschine hinein, als es möglich wäre. Die Kummerscherbe befindet sich an dessen äußersten Ende und beißt riesige, dampfende Stücke aus den Wänden.
-
-Als sie sieht, wie die Luke sich öffnet, *prescht* sie hervor und fliegt mit unglaublicher Geschwindigkeit durch und aus dem Tunnel.
-
-Als die Kummerscherbe über deinen Kopf hinweg stürzt, schmilzt die Kreatur im Tank in ein stilles, silbriges Becken aus Flüssigkeit. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>Bei der ersten Berührung schlägt die Kummerscherbe im Inneren an die Innenseite der Luke, wodurch du unmöglich herausfinden kannst, wie sich diese öffnen lässt.</DefaultText>
-      <FemaleText>Bei der ersten Berührung schlägt die Kummerscherbe im Inneren an die Innenseite der Luke, wodurch du unmöglich herausfinden kannst, wie sich diese öffnen lässt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>Cascade 52</DefaultText>
-      <FemaleText>Cascade 52</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>Bevor sich die Luke schließt, fällt eine gebogene Metallstange, die sich mehrere Armlängen weit im Tunnel befand, zu Boden. Die Maschine scheint sie nicht mehr zu benötigen. Irgendeine Art von Daten-Trichter, der hier nicht sehr nützlich ist. Er könnte jedoch als praktischer Einweg-Teleporter dienen, wenn man die beiden offen liegenden Drähte an einem Ende kreuzt.</DefaultText>
-      <FemaleText>Bevor sich die Luke schließt, fällt eine gebogene Metallstange, die sich mehrere Armlängen weit im Tunnel befand, zu Boden. Die Maschine scheint sie nicht mehr zu benötigen. Irgendeine Art von Daten-Trichter, der hier nicht sehr nützlich ist. Er könnte jedoch als praktischer Einweg-Teleporter dienen, wenn man die beiden offen liegenden Drähte an einem Ende kreuzt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
       <DefaultText>Bevor sich die Luke schließt, springt eine schimmernde Hartglaskuppel aus einem Sockel direkt unterhalb des Scharniers heraus. Du greifst danach, bevor sie fällt, und siehst, wie leuchtende Energien in ihrem Kern wirbeln. Dies ist möglicherweise eine nützliche Waffe gegen die Kummerscherben.</DefaultText>
-      <FemaleText>Bevor sich die Luke schließt, springt eine schimmernde Hartglaskuppel aus einem Sockel direkt unterhalb des Scharniers heraus. Du greifst danach, bevor sie fällt, und siehst, wie leuchtende Energien in ihrem Kern wirbeln. Dies ist möglicherweise eine nützliche Waffe gegen die Kummerscherben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>

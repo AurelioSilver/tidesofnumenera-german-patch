@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Ein harsches, würgendes Geräusch kommt aus dieser Maschine. Du musst sie reparieren, bevor du eine Verbindung zu der Gezeitenkreatur im beistehenden Tank herstellen kannst.</DefaultText>
-      <FemaleText>Ein harsches, würgendes Geräusch kommt aus dieser Maschine. Du musst sie reparieren, bevor du eine Verbindung zu der Gezeitenkreatur im beistehenden Tank herstellen kannst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Luft fließt ungehindert in den beistehenden Tank der Kreatur. Du solltest nun eine Verbindung zu ihr herstellen können.</DefaultText>
-      <FemaleText>Luft fließt ungehindert in den beistehenden Tank der Kreatur. Du solltest nun eine Verbindung zu ihr herstellen können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Die Kummerscherbe, welche dieses Gerät abwürgte, ist aufgetaucht, um dich zu verfolgen, wodurch die Sauerstoffzufuhr zum beistehenden Tank der Kreatur wiederhergestellt wurde.</DefaultText>
-      <FemaleText>Die Kummerscherbe, welche dieses Gerät abwürgte, ist aufgetaucht, um dich zu verfolgen, wodurch die Sauerstoffzufuhr zum beistehenden Tank der Kreatur wiederhergestellt wurde.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Sauerstoffblasen fließen aus dieser Maschine zum beistehenden Tank mit der Kreatur.</DefaultText>
-      <FemaleText>Sauerstoffblasen fließen aus dieser Maschine zum beistehenden Tank mit der Kreatur.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
