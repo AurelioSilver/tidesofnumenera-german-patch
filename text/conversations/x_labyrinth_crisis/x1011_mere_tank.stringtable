@@ -9,14 +9,12 @@
       <DefaultText>Sobald deine Hand das Glas berührt, fließt eine Energiewelle in deinen Körper – die Kraft aus jeder der fünf Gezeitenkreaturen und den Entscheidungen, die du getroffen hast.
 
 So sehr du es auch versuchst, du kannst die riesige Kraftwelle nicht aufnehmen.</DefaultText>
-      <FemaleText>Sobald deine Hand das Glas berührt, fließt eine Energiewelle in deinen Körper – die Kraft aus jeder der fünf Gezeitenkreaturen und den Entscheidungen, die du getroffen hast.
-
-So sehr du es auch versuchst, du kannst die riesige Kraftwelle nicht aufnehmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>In diesem Tank befindet sich nichts außer einem dicken Nebel. Kabel verbinden ihn mit den anderen Tanks in der Kammer.</DefaultText>
-      <FemaleText>In diesem Tank befindet sich nichts außer einem dicken Nebel. Kabel verbinden ihn mit den anderen Tanks in der Kammer.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -28,9 +26,7 @@ So sehr du es auch versuchst, du kannst die riesige Kraftwelle nicht aufnehmen.<
       <DefaultText>Mehr und mehr Wellen fließen durch dich hindurch und überwältigen dich.
 
 Denn wendet sich die Gezeiten. Die Energie schiebt nicht mehr sondern *zieht*. Sie zieht dich unaufhaltsam auf die Kammer zu. Dann zieht sie dich irgendwie *durch* das Glas und filtert deine Essenz wie ein psychisches Sieb. Ein blendendes Licht scheint am Ende wie ein Tunnel und dann ...</DefaultText>
-      <FemaleText>Mehr und mehr Wellen fließen durch dich hindurch und überwältigen dich.
-
-Denn wendet sich die Gezeiten. Die Energie schiebt nicht mehr sondern *zieht*. Sie zieht dich unaufhaltsam auf die Kammer zu. Dann zieht sie dich irgendwie *durch* das Glas und filtert deine Essenz wie ein psychisches Sieb. Ein blendendes Licht scheint am Ende wie ein Tunnel und dann ...</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -65,7 +61,7 @@ Denn wendet sich die Gezeiten. Die Energie schiebt nicht mehr sondern *zieht*. S
     <Entry>
       <ID>12</ID>
       <DefaultText>"Ich kann den Einstimmungsprozess nicht für dich abschließen, Kind. Du musst es selbst tun!"</DefaultText>
-      <FemaleText>"Ich kann den Einstimmungsprozess nicht für dich abschließen, Kind. Du musst es selbst tun!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
@@ -75,61 +71,59 @@ Denn wendet sich die Gezeiten. Die Energie schiebt nicht mehr sondern *zieht*. S
     <Entry>
       <ID>14</ID>
       <DefaultText>"Du musst dich zuerst mit den Kreaturen abstimmen. Und *du* musst es sein, der die Kammer aktiviert, nicht ich."</DefaultText>
-      <FemaleText>"Du musst dich zuerst mit den Kreaturen abstimmen. Und *du* musst es sein, der die Kammer aktiviert, nicht ich."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>Verlassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Funkelnde Farben krümmen sich entlang der Facetten der kristallinen Kammer. Sie scheint bereit zu sein, von dir betreten zu werden.</DefaultText>
-      <FemaleText>Funkelnde Farben krümmen sich entlang der Facetten der kristallinen Kammer. Sie scheint bereit zu sein, von dir betreten zu werden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Lege deine Hand auf die Oberfläche des Tanks.</DefaultText>
-      <FemaleText>Lege deine Hand auf die Oberfläche des Tanks.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Wende deine Aufmerksamkeit wieder den Kummerscherben zu.</DefaultText>
-      <FemaleText>Wende deine Aufmerksamkeit wieder den Kummerscherben zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Der Tank fließt weiter mit brillanter, farbenfroher Energie. Ein tiefes Summen hallt in deinem Geist nach und zieht dich an.</DefaultText>
-      <FemaleText>Der Tank fließt weiter mit brillanter, farbenfroher Energie. Ein tiefes Summen hallt in deinem Geist nach und zieht dich an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Lass die Kraft fließen.</DefaultText>
-      <FemaleText>Lass die Kraft fließen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Versuche, die Kraft auf die Kummerscherben zu leiten.</DefaultText>
-      <FemaleText>Versuche, die Kraft auf die Kummerscherben zu leiten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Ein Kraftstoß strömt durch deinen Arm, in deinen Kopf und nach außen. Die Kummerscherben kreischen vor Schmerz und fliehen in alle Richtungen aus dem Labor.
 
 {SCRIPT: When more fathoms are designed, this choice might have reactivity. For example this way there are more fragments in the Fathoms but they are weaker, while the other way has fewer but stronger fragments. Just as an example.}</DefaultText>
-      <FemaleText>Ein Kraftstoß strömt durch deinen Arm, in deinen Kopf und nach außen. Die Kummerscherben kreischen vor Schmerz und fliehen in alle Richtungen aus dem Labor.
-
-{SCRIPT: When more fathoms are designed, this choice might have reactivity. For example this way there are more fragments in the Fathoms but they are weaker, while the other way has fewer but stronger fragments. Just as an example.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Ein Kraftstoß strömt durch deinen Arm, in deinen Kopf und nach außen. Du richtest ihn auf die Kummerscherben. Einige zerstörst du, andere fliehen vor Schmerz kreischend so schnell sie können aus dem Labor.</DefaultText>
-      <FemaleText>Ein Kraftstoß strömt durch deinen Arm, in deinen Kopf und nach außen. Du richtest ihn auf die Kummerscherben. Einige zerstörst du, andere fliehen vor Schmerz kreischend so schnell sie können aus dem Labor.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>[Standard-Mere betreten]</DefaultText>
-      <FemaleText>[Standard-Mere betreten]</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
