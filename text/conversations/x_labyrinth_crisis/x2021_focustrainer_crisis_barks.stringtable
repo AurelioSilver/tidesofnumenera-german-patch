@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Es funktioniert! Die Kraft der Kummerscherbe lässt nach!"</DefaultText>
-      <FemaleText>"Es funktioniert! Die Kraft der Kummerscherbe lässt nach!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Wir haben es fast geschafft, meine Freunde. Wir schaffen das!"</DefaultText>
-      <FemaleText>"Wir haben es fast geschafft, meine Freunde. Wir schaffen das!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Das Ritual ist fast abgeschlossen! Halte ihn fern!"</DefaultText>
-      <FemaleText>"Das Ritual ist fast abgeschlossen! Halte ihn fern!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Noch eins und die Kummerscherbe wird vertrieben sein!"</DefaultText>
-      <FemaleText>"Noch eins und die Kummerscherbe wird vertrieben sein!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -32,22 +32,22 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>"Es ist verletzt! Vielleicht klappt das ja *doch*."</DefaultText>
-      <FemaleText>"Es ist verletzt! Vielleicht klappt das ja *doch*."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>"Ja! Es ist jetzt sichtbar verletzt."</DefaultText>
-      <FemaleText>"Ja! Es ist jetzt sichtbar verletzt."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>"Es ist fast vollbracht, Freunde. Bleibt jetzt wachsam."</DefaultText>
-      <FemaleText>"Es ist fast vollbracht, Freunde. Bleibt jetzt wachsam."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>"Wir können es besiegen! Erledige es jetzt!"</DefaultText>
-      <FemaleText>"Wir können es besiegen! Erledige es jetzt!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -57,22 +57,22 @@
     <Entry>
       <ID>11</ID>
       <DefaultText>"Es ist verletzt, Freunde! Wir *können* es besiegen!"</DefaultText>
-      <FemaleText>"Es ist verletzt, Freunde! Wir *können* es besiegen!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>"Ha! Es ist jetzt sichtbar schwächer. Wir können es überwinden, wenn wir zusammenarbeiten!"</DefaultText>
-      <FemaleText>"Ha! Es ist jetzt sichtbar schwächer. Wir können es überwinden, wenn wir zusammenarbeiten!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>"Der Vorteil ist jetzt auf unserer Seite. Zögert jetzt nicht!"</DefaultText>
-      <FemaleText>"Der Vorteil ist jetzt auf unserer Seite. Zögert jetzt nicht!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>"Es kann nicht mehr viel machen! Wem gebührt die Ehre des finalen Schlags?"</DefaultText>
-      <FemaleText>"Es kann nicht mehr viel machen! Wem gebührt die Ehre des finalen Schlags?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -82,22 +82,22 @@
     <Entry>
       <ID>16</ID>
       <DefaultText>"Hey, ich glaube, wir *verletzen* es tatsächlich!"</DefaultText>
-      <FemaleText>"Hey, ich glaube, wir *verletzen* es tatsächlich!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"Ah. Ich glaube, es blutet *Rauch*."</DefaultText>
-      <FemaleText>"Ah. Ich glaube, es blutet *Rauch*."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>"Es ist jetzt schwächer. Schlagt es weiter!"</DefaultText>
-      <FemaleText>"Es ist jetzt schwächer. Schlagt es weiter!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>"Jetzt haben wir es!"</DefaultText>
-      <FemaleText>"Jetzt haben wir es!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
@@ -132,82 +132,82 @@
     <Entry>
       <ID>27</ID>
       <DefaultText>"Kamose ist gefallen! Rächt sie, Freunde!"</DefaultText>
-      <FemaleText>"Kamose ist gefallen! Rächt sie, Freunde!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>"Oh, Kamose. Dies ist ein schlechtes Ende deines Lebens. Wir werden dich nicht vergessen."</DefaultText>
-      <FemaleText>"Oh, Kamose. Dies ist ein schlechtes Ende deines Lebens. Wir werden dich nicht vergessen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>"Villon, nein!"</DefaultText>
-      <FemaleText>"Villon, nein!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>"Ich werde unsere Streitgespräche vermissen, mein Freund."</DefaultText>
-      <FemaleText>"Ich werde unsere Streitgespräche vermissen, mein Freund."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>"Diviaticu!"</DefaultText>
-      <FemaleText>"Diviaticu!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>"Wie es scheint, müssen wir diese Kreatur selbst besiegen. Für Diviaticu!"</DefaultText>
-      <FemaleText>"Wie es scheint, müssen wir diese Kreatur selbst besiegen. Für Diviaticu!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>"Diviaticu!"</DefaultText>
-      <FemaleText>"Diviaticu!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>"Wir werden dich rächen, alter Freund!"</DefaultText>
-      <FemaleText>"Wir werden dich rächen, alter Freund!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>"Oh, Villon, nein ..."</DefaultText>
-      <FemaleText>"Oh, Villon, nein ..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>"Es tut mir leid, Freund. Wir werden für dich weiterkämpfen."</DefaultText>
-      <FemaleText>"Es tut mir leid, Freund. Wir werden für dich weiterkämpfen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>"Div? Div!"</DefaultText>
-      <FemaleText>"Div? Div!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>"So viel zu seinem Ritual. Wir müssen dieses Ding auf eigene Faust töten."</DefaultText>
-      <FemaleText>"So viel zu seinem Ritual. Wir müssen dieses Ding auf eigene Faust töten."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>"Div? Div!"</DefaultText>
-      <FemaleText>"Div? Div!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>"Verdammt seist du, Bastard-Bestie. Ich habe ihn *gemocht*!"</DefaultText>
-      <FemaleText>"Verdammt seist du, Bastard-Bestie. Ich habe ihn *gemocht*!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>"Nein! Nicht Kamose ..."</DefaultText>
-      <FemaleText>"Nein! Nicht Kamose ..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>"Du warst immer die Beste von uns. Das meine ich."</DefaultText>
-      <FemaleText>"Du warst immer die Beste von uns. Das meine ich."</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
