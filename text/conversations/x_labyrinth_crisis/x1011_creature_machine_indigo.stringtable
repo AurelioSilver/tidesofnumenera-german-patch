@@ -52,46 +52,44 @@
     <Entry>
       <ID>10</ID>
       <DefaultText>Ein würgendes Geräusch kommt aus dieser Maschine. In dem Gehäuse befinden sich nebeneinander zwei entleerte Fischblasen und ein verklebtes Nest aus Kabeln und Leitungen. Es ist nicht gleich offensichtlich, wo sich die Kummerscherbe befindet, oder wie sie die Luftzufuhr zum beistehenden Tank der Kreatur unterbricht.</DefaultText>
-      <FemaleText>Ein würgendes Geräusch kommt aus dieser Maschine. In dem Gehäuse befinden sich nebeneinander zwei entleerte Fischblasen und ein verklebtes Nest aus Kabeln und Leitungen. Es ist nicht gleich offensichtlich, wo sich die Kummerscherbe befindet, oder wie sie die Luftzufuhr zum beistehenden Tank der Kreatur unterbricht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Follow-up PQ. 19</DefaultText>
-      <FemaleText>Follow-up PQ. 19</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Die Schläuche führen aus den Fischblasen nach unten durch ein verwirrtes Nest aus Kabeln. Ein schwaches Klicken ist aus dem Nest zu vernehmen.
 
 Hinter den Kabeln klemmt ein sechseckiger Zylinder. Er ist mit winzigen Platten schwebender Wolken gefüllt ... in Netzen aus schwarzen Blitzen gewickelt – in der gleichen Farbe wie die Kummerscherben. Mit einer einfachen Geste dreht sich der Zylinder, die Maschine keucht, und Luft fließt ungehindert in den Tank der Kreatur. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</DefaultText>
-      <FemaleText>Die Schläuche führen aus den Fischblasen nach unten durch ein verwirrtes Nest aus Kabeln. Ein schwaches Klicken ist aus dem Nest zu vernehmen.
-
-Hinter den Kabeln klemmt ein sechseckiger Zylinder. Er ist mit winzigen Platten schwebender Wolken gefüllt ... in Netzen aus schwarzen Blitzen gewickelt – in der gleichen Farbe wie die Kummerscherben. Mit einer einfachen Geste dreht sich der Zylinder, die Maschine keucht, und Luft fließt ungehindert in den Tank der Kreatur. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Im Inneren der Maschine herrscht reines Chaos. Schläuche kreuzen – und vereinen sich gelegentlich – mit Kabeln, die in jede Richtung führen. Noch bevor du sie vollständig studieren kannst, verfestigt sich die befallende Kreatur und stürmt auf dich zu. Ihre Tentakeln schlagen auf deinen Geist ein.</DefaultText>
-      <FemaleText>Im Inneren der Maschine herrscht reines Chaos. Schläuche kreuzen – und vereinen sich gelegentlich – mit Kabeln, die in jede Richtung führen. Noch bevor du sie vollständig studieren kannst, verfestigt sich die befallende Kreatur und stürmt auf dich zu. Ihre Tentakeln schlagen auf deinen Geist ein.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Ein schwaches Klicken ist aus dem Nest aus Kabeln zu hören. Hinter den Kabeln klemmt ein sechseckiger Zylinder. Jede seiner sechs Kammern enthält ein Glasrohr, gefüllt mit winzigen Platten schwebender Wolken ... in Netzen aus schwarzen Blitzen gewickelt – in der gleichen Farbe wie die Kummerscherben. Mit einer einfachen Geste dreht sich der Zylinder, die Maschine keucht, und Luft fließt ungehindert in den Tank der Kreatur. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</DefaultText>
-      <FemaleText>Ein schwaches Klicken ist aus dem Nest aus Kabeln zu hören. Hinter den Kabeln klemmt ein sechseckiger Zylinder. Jede seiner sechs Kammern enthält ein Glasrohr, gefüllt mit winzigen Platten schwebender Wolken ... in Netzen aus schwarzen Blitzen gewickelt – in der gleichen Farbe wie die Kummerscherben. Mit einer einfachen Geste dreht sich der Zylinder, die Maschine keucht, und Luft fließt ungehindert in den Tank der Kreatur. Die Kreatur dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Das Durcheinander aus Leitungen und Schläuchen im Inneren der Maschine ist viel zu groß. Es ist unmöglich, herauszufinden, wohin sie führen und was für einen Zweck sie erfüllen.</DefaultText>
-      <FemaleText>Das Durcheinander aus Leitungen und Schläuchen im Inneren der Maschine ist viel zu groß. Es ist unmöglich, herauszufinden, wohin sie führen und was für einen Zweck sie erfüllen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Finde heraus, wie die Kummerscherbe den Sauerstofffluss unterbricht.</DefaultText>
-      <FemaleText>Finde heraus, wie die Kummerscherbe den Sauerstofffluss unterbricht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Sieh erneut nach der Kummerscherbe in der Maschine.</DefaultText>
-      <FemaleText>Sieh erneut nach der Kummerscherbe in der Maschine.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
@@ -166,32 +164,32 @@ Hinter den Kabeln klemmt ein sechseckiger Zylinder. Er ist mit winzigen Platten 
     <Entry>
       <ID>32</ID>
       <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>Verlassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Die Fischblasen in dieser Maschine sind noch immer regungslos und der Kampf der Kreatur in der Nähe lässt immer weiter nach, da die Luftzufuhr abgeschnitten ist.</DefaultText>
-      <FemaleText>Die Fischblasen in dieser Maschine sind noch immer regungslos und der Kampf der Kreatur in der Nähe lässt immer weiter nach, da die Luftzufuhr abgeschnitten ist.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Luft fließt ungehindert in den beistehenden Tank der Kreatur. Sie dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</DefaultText>
-      <FemaleText>Luft fließt ungehindert in den beistehenden Tank der Kreatur. Sie dürfte nun ausreichend beruhigt sein, um sich mit ihr verbinden zu können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>Ketten aus Blasen reinen Sauerstoffs strömen aus dieser Maschine in den beistehenden Tank der Kreatur.</DefaultText>
-      <FemaleText>Ketten aus Blasen reinen Sauerstoffs strömen aus dieser Maschine in den beistehenden Tank der Kreatur.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Die Kummerscherbe, welche dieses Gerät würgte, ist aufgetaucht. Sauerstoff fließt durch die Leitung, welche zum beistehenden Tank der Kreatur führt.</DefaultText>
-      <FemaleText>Die Kummerscherbe, welche dieses Gerät würgte, ist aufgetaucht. Sauerstoff fließt durch die Leitung, welche zum beistehenden Tank der Kreatur führt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>Die ölige Bestie prescht mit einem knisternden Knurren und hungrigen Augen aus dieser Maschine.</DefaultText>
-      <FemaleText>Die ölige Bestie prescht mit einem knisternden Knurren und hungrigen Augen aus dieser Maschine.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
@@ -201,17 +199,17 @@ Hinter den Kabeln klemmt ein sechseckiger Zylinder. Er ist mit winzigen Platten 
     <Entry>
       <ID>41</ID>
       <DefaultText>Cascade 49</DefaultText>
-      <FemaleText>Cascade 49</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>Durch das Wirbeln des Gebrülls wird eine gebogene Metallstange gelöst, die zu Boden fällt. Die Maschine scheint sie nicht mehr zu benötigen. Irgendeine Art von Daten-Trichter, der hier nicht sehr nützlich ist. Er könnte jedoch als praktischer Einweg-Teleporter dienen, wenn man die beiden offen liegenden Drähte an einem Ende kreuzt.</DefaultText>
-      <FemaleText>Durch das Wirbeln des Gebrülls wird eine gebogene Metallstange gelöst, die zu Boden fällt. Die Maschine scheint sie nicht mehr zu benötigen. Irgendeine Art von Daten-Trichter, der hier nicht sehr nützlich ist. Er könnte jedoch als praktischer Einweg-Teleporter dienen, wenn man die beiden offen liegenden Drähte an einem Ende kreuzt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>Durch das Wirbeln des Gebrülls wird eine schimmernde Hartglaskuppel aus einem kleinen Sockel gelöst. Im Inneren der Kuppel wirbeln leuchtende Energien. Dies ist möglicherweise eine nützliche Waffe gegen die Kummerscherben.</DefaultText>
-      <FemaleText>Durch das Wirbeln des Gebrülls wird eine schimmernde Hartglaskuppel aus einem kleinen Sockel gelöst. Im Inneren der Kuppel wirbeln leuchtende Energien. Dies ist möglicherweise eine nützliche Waffe gegen die Kummerscherben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
