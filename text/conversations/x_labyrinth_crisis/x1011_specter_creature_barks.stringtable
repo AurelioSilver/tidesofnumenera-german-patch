@@ -12,17 +12,17 @@
     <Entry>
       <ID>8</ID>
       <DefaultText>["Ich kann das nicht für dich tun, mein Freund. Nur du kannst dich auf die Gezeiten einstimmen!"]</DefaultText>
-      <FemaleText>["Ich kann das nicht für dich tun, mein Freund. Nur du kannst dich auf die Gezeiten einstimmen!"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>["Meine Kraft ist hier beschränkt. Du musst die Einstimmung selbst abschließen!"]</DefaultText>
-      <FemaleText>["Meine Kraft ist hier beschränkt. Du musst die Einstimmung selbst abschließen!"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>["Es tut mir leid, aber alles, was ich tun kann, ist die Kummerscherben in Schach zu halten. Die Einstimmung musst ganz allein du erledigen!"</DefaultText>
-      <FemaleText>["Es tut mir leid, aber alles, was ich tun kann, ist die Kummerscherben in Schach zu halten. Die Einstimmung musst ganz allein du erledigen!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
