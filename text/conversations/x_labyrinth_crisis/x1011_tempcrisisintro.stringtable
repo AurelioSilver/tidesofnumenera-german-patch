@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Was du wahrscheinlich in dieser Kammer sehen wirst, ist eine Art Lagerhaus des Wissens und der Weisheit. Der Kummer wird versuchen, es zu zerstören. Du solltest so viel davon retten, wie möglich, und denke daran, dass du nicht alles retten können wirst. Tu, was du kannst, und es sollte dir Einblicke geben, wie man die Überbleibsel des Kummers aus deinem Geist treiben kann."</DefaultText>
-      <FemaleText>"Was du wahrscheinlich in dieser Kammer sehen wirst, ist eine Art Lagerhaus des Wissens und der Weisheit. Der Kummer wird versuchen, es zu zerstören. Du solltest so viel davon retten, wie möglich, und denke daran, dass du nicht alles retten können wirst. Tu, was du kannst, und es sollte dir Einblicke geben, wie man die Überbleibsel des Kummers aus deinem Geist treiben kann."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Also gut. Ich denke, ich bin bereit."</DefaultText>
-      <FemaleText>"Also gut. Ich denke, ich bin bereit."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Viel Glück, mein Kind. Du glaubst gar nicht, was von deinem Erfolg alles abhängt."</DefaultText>
-      <FemaleText>"Viel Glück, mein Kind. Du glaubst gar nicht, was von deinem Erfolg alles abhängt."</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

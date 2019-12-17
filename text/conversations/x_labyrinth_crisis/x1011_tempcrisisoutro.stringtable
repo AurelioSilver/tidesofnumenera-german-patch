@@ -7,57 +7,57 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Die Krise ist vorbei!</DefaultText>
-      <FemaleText>Die Krise ist vorbei!</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Du hast alle Objekte gerettet! Du bist großartig! (Es sei denn, du hast geschummelt. In dem Fall: bäh).</DefaultText>
-      <FemaleText>Du hast alle Objekte gerettet! Du bist großartig! (Es sei denn, du hast geschummelt. In dem Fall: bäh).</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Du hast die Kugel gerettet!</DefaultText>
-      <FemaleText>Du hast die Kugel gerettet!</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Die Kugel wurde zerstört.</DefaultText>
-      <FemaleText>Die Kugel wurde zerstört.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Du hast das Buch gerettet!</DefaultText>
-      <FemaleText>Du hast das Buch gerettet!</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Du hast die Koralle gerettet!</DefaultText>
-      <FemaleText>Du hast die Koralle gerettet!</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Du hast den Kelch gerettet!</DefaultText>
-      <FemaleText>Du hast den Kelch gerettet!</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>Nun gönne dir einen Keks oder so etwas.</DefaultText>
-      <FemaleText>Nun gönne dir einen Keks oder so etwas.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>Das Buch wurde zerstört.</DefaultText>
-      <FemaleText>Das Buch wurde zerstört.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Die Koralle wurde zerstört.</DefaultText>
-      <FemaleText>Die Koralle wurde zerstört.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Der Kelch wurde zerstört.</DefaultText>
-      <FemaleText>Der Kelch wurde zerstört.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
