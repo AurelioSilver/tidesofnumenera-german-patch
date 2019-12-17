@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Impulse aus purpurfarbenem Licht blinken innerhalb des fehlfunktionierenden Geräts. Du musst es reparieren, bevor du dich auf die Kreatur im beistehenden Tank einstimmen kannst.</DefaultText>
-      <FemaleText>Impulse aus purpurfarbenem Licht blinken innerhalb des fehlfunktionierenden Geräts. Du musst es reparieren, bevor du dich auf die Kreatur im beistehenden Tank einstimmen kannst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Du hast die Kummerscherbe aus dieser Maschine gezwungen. Es dürfte dir nun möglich sein, eine Verbindung zum Geist der Kreatur in der Nähe herzustellen.</DefaultText>
-      <FemaleText>Du hast die Kummerscherbe aus dieser Maschine gezwungen. Es dürfte dir nun möglich sein, eine Verbindung zum Geist der Kreatur in der Nähe herzustellen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Die Kummerscherbe hat damit aufgehört, dieses Gerät zu manipulieren, um dich und deinen Verbündeten zu verfolgen. Du musst es nicht reparieren.</DefaultText>
-      <FemaleText>Die Kummerscherbe hat damit aufgehört, dieses Gerät zu manipulieren, um dich und deinen Verbündeten zu verfolgen. Du musst es nicht reparieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Ein beruhigendes Glühen pulsiert wie ein Herzschlag hinter der rotierenden Silberscheibe an der Vorderseite dieser Maschine.</DefaultText>
-      <FemaleText>Ein beruhigendes Glühen pulsiert wie ein Herzschlag hinter der rotierenden Silberscheibe an der Vorderseite dieser Maschine.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
