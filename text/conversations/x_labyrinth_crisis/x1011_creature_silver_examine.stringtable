@@ -7,27 +7,27 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Eine riesige Kreatur treibt in der glänzenden Flüssigkeit in diesem Tank.</DefaultText>
-      <FemaleText>Eine riesige Kreatur treibt in der glänzenden Flüssigkeit in diesem Tank.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Die riesige Kreatur treibt ruhig in dem Tank und ist sich der raubtierhaften Kummerscherben nicht bewusst. Du solltest dich jetzt mit ihrem Geist verbinden können.</DefaultText>
-      <FemaleText>Die riesige Kreatur treibt ruhig in dem Tank und ist sich der raubtierhaften Kummerscherben nicht bewusst. Du solltest dich jetzt mit ihrem Geist verbinden können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Ein Wirbel erfüllt diesen Tank und bedeckt die Kreatur darin. Etwas an der Maschine, die an ihm angebracht ist, ist jedoch nicht in Ordnung.</DefaultText>
-      <FemaleText>Ein Wirbel erfüllt diesen Tank und bedeckt die Kreatur darin. Etwas an der Maschine, die an ihm angebracht ist, ist jedoch nicht in Ordnung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Der Wirbel, der diese Kreatur verdeckt hat, ist abgeklungen. Du solltest nun eine Verbindung zu ihrem Geist herstellen können.</DefaultText>
-      <FemaleText>Der Wirbel, der diese Kreatur verdeckt hat, ist abgeklungen. Du solltest nun eine Verbindung zu ihrem Geist herstellen können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Der Geist dieser Kreatur ist dir verschlossen.</DefaultText>
-      <FemaleText>Der Geist dieser Kreatur ist dir verschlossen.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

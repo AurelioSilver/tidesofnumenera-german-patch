@@ -7,21 +7,19 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Die Schnittstelle dieser Maschine ist offener als die anderen Konsolen im Raum. Ein hell geschliffener Zylinder steht nach oben zeigend an der Spitze einer Spindel in der Mitte. Dünne Schlitze sind in regelmäßigen Abständen in das Karussell geschnitten.</DefaultText>
-      <FemaleText>Die Schnittstelle dieser Maschine ist offener als die anderen Konsolen im Raum. Ein hell geschliffener Zylinder steht nach oben zeigend an der Spitze einer Spindel in der Mitte. Dünne Schlitze sind in regelmäßigen Abständen in das Karussell geschnitten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Drehe den Zylinder.</DefaultText>
-      <FemaleText>Drehe den Zylinder.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Ein aus Licht geschaffenes Bild verschmilzt auf der Rückseite des drehenden Zylinders. 
 
 Es nimmt die Gestalt einer großen, bestialischen Kreatur mit riesigen Stoßzähnen an – identisch zu der Kreatur im Tank hinter dir. Sobald sie gebildet wurde, wird die Kreatur animiert und erhebt sich. Lichtpartikel wirbeln um ihre Vorderpranken und strömen heraus, um schließlich blendend zu bersten.</DefaultText>
-      <FemaleText>Ein aus Licht geschaffenes Bild verschmilzt auf der Rückseite des drehenden Zylinders. 
-
-Es nimmt die Gestalt einer großen, bestialischen Kreatur mit riesigen Stoßzähnen an – identisch zu der Kreatur im Tank hinter dir. Sobald sie gebildet wurde, wird die Kreatur animiert und erhebt sich. Lichtpartikel wirbeln um ihre Vorderpranken und strömen heraus, um schließlich blendend zu bersten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -30,31 +28,27 @@ Es nimmt die Gestalt einer großen, bestialischen Kreatur mit riesigen Stoßzäh
 "Der Anführer eines Stammes von Stoßzahn-Grorthas kann geladene Partikel projizieren. Auch wenn sie gefährlich sind, so werden sie öfter zur Darstellung verwendet als im Kampf." 
 
 Die Kreatur auf dem Bild wirft ihre Stoßzähne nach oben. Eine weitere Kreatur erscheint. Sie liegt auf dem Boden und schimmerndes Blut trieft aus einer Wunde.</DefaultText>
-      <FemaleText>Leuchtender Text erscheint über dem Bild.
-
-"Der Anführer eines Stammes von Stoßzahn-Grorthas kann geladene Partikel projizieren. Auch wenn sie gefährlich sind, so werden sie öfter zur Darstellung verwendet als im Kampf." 
-
-Die Kreatur auf dem Bild wirft ihre Stoßzähne nach oben. Eine weitere Kreatur erscheint. Sie liegt auf dem Boden und schimmerndes Blut trieft aus einer Wunde.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Die verbleibenden Ringe beginnen zu leuchten und erweitern sich nach außen. Es wird groß genug, um die gesamte Statue zu bedecken, dann stabilisiert es sich zu einem festen, runden Tor. In purpurnem Stein graviert siehst du das Bild des dünnen Mannes. Zu seiner Linken befindet sich ein Leichenberg. Zu seiner Rechten weint eine Menge.</DefaultText>
-      <FemaleText>Die verbleibenden Ringe beginnen zu leuchten und erweitern sich nach außen. Es wird groß genug, um die gesamte Statue zu bedecken, dann stabilisiert es sich zu einem festen, runden Tor. In purpurnem Stein graviert siehst du das Bild des dünnen Mannes. Zu seiner Linken befindet sich ein Leichenberg. Zu seiner Rechten weint eine Menge.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>Verlassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Der Zylinder ruht weiter perfekt balancierend auf seiner Spindel.</DefaultText>
-      <FemaleText>Der Zylinder ruht weiter perfekt balancierend auf seiner Spindel.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>Die Spindel ist verriegelt und der Zylinder dreht sich nicht mehr.</DefaultText>
-      <FemaleText>Die Spindel ist verriegelt und der Zylinder dreht sich nicht mehr.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
