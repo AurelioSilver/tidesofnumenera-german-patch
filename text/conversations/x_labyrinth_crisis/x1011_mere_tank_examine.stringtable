@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Energie fließt durch verschiedene Kabel in diesen und den angrenzenden Tank. Die Kristallanlage leuchtet und wartet darauf, dass du sie betrittst.</DefaultText>
-      <FemaleText>Energie fließt durch verschiedene Kabel in diesen und den angrenzenden Tank. Die Kristallanlage leuchtet und wartet darauf, dass du sie betrittst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Dieser Tank ist dunkel und leer. Kabel verlaufen aus dem Labor in den Tank.</DefaultText>
-      <FemaleText>Dieser Tank ist dunkel und leer. Kabel verlaufen aus dem Labor in den Tank.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
