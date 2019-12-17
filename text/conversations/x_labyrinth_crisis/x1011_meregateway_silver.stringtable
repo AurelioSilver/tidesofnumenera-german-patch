@@ -7,42 +7,42 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Diese Statue, aus blendendem Chrom geformt, stellt eine monströse Frau dar, die mit Schuppen bedeckt ist. Jedes Teil ihrer Rüstung blitzt auf und leuchtet und zwingt dich, es zu beachten. Von dem Spektakel erstarrt, siehst du, wie ihr augenloses Gesicht triumphal schreit. In einer Hand hält sie einen großartigen Hammer hoch über ihren Kopf. Du fühlst dich von dem Wunsch überwältigt, ihr in den Sieg zu folgen.</DefaultText>
-      <FemaleText>Diese Statue, aus blendendem Chrom geformt, stellt eine monströse Frau dar, die mit Schuppen bedeckt ist. Jedes Teil ihrer Rüstung blitzt auf und leuchtet und zwingt dich, es zu beachten. Von dem Spektakel erstarrt, siehst du, wie ihr augenloses Gesicht triumphal schreit. In einer Hand hält sie einen großartigen Hammer hoch über ihren Kopf. Du fühlst dich von dem Wunsch überwältigt, ihr in den Sieg zu folgen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Der Hammer selbst ist beinahe transparent, bis auf einen Schimmer, wo ihre Hand die Waffe umschließt. Innerhalb des Griffs flackern tausende – Millionen? – winziger Lichtpartikel, von deiner Ankunft offenbar erweckt. Sie warten darauf, von dir geführt, geleitet zu werden. Sie wollen dich bewundern, schätzen, anbeten, deine Geschichte singen.</DefaultText>
-      <FemaleText>Der Hammer selbst ist beinahe transparent, bis auf einen Schimmer, wo ihre Hand die Waffe umschließt. Innerhalb des Griffs flackern tausende – Millionen? – winziger Lichtpartikel, von deiner Ankunft offenbar erweckt. Sie warten darauf, von dir geführt, geleitet zu werden. Sie wollen dich bewundern, schätzen, anbeten, deine Geschichte singen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Verlange, dass die Lichtpartikel auf den Hammerkopf steigen, oder deinen Zorn spüren.</DefaultText>
-      <FemaleText>Verlange, dass die Lichtpartikel auf den Hammerkopf steigen, oder deinen Zorn spüren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Die Lichtpartikel weichen augenblicklich von deiner befehlshaberischen Präsenz zurück, ehe sie langsam, zögerlich, nach oben gleiten. Sie scheinen zu verstehen, dass du sie zerstören wirst, ehe du ihnen erlaubst, dich zu ignorieren. Als die glitzernden Funken sich an der Spitze der Waffe versammeln, bilden sie eine einzige, feste Lichtquelle, und scheinen dem Hammer unwiderstehliches Gewicht zu verleihen.</DefaultText>
-      <FemaleText>Die Lichtpartikel weichen augenblicklich von deiner befehlshaberischen Präsenz zurück, ehe sie langsam, zögerlich, nach oben gleiten. Sie scheinen zu verstehen, dass du sie zerstören wirst, ehe du ihnen erlaubst, dich zu ignorieren. Als die glitzernden Funken sich an der Spitze der Waffe versammeln, bilden sie eine einzige, feste Lichtquelle, und scheinen dem Hammer unwiderstehliches Gewicht zu verleihen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Verwende honigsüße Worte, um sie der Länge des Hammers nach nach oben zu führen.</DefaultText>
-      <FemaleText>Verwende honigsüße Worte, um sie der Länge des Hammers nach nach oben zu führen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Die Lichtpartikel tanzen hinauf, während sie zum Klang deiner Stimme wirbeln und herumtollen. Als die glitzernden Funken sich an der Spitze der Waffe versammeln, bilden sie eine einzige, feste Lichtquelle, und scheinen dem Hammer unwiderstehliches Gewicht zu verleihen.</DefaultText>
-      <FemaleText>Die Lichtpartikel tanzen hinauf, während sie zum Klang deiner Stimme wirbeln und herumtollen. Als die glitzernden Funken sich an der Spitze der Waffe versammeln, bilden sie eine einzige, feste Lichtquelle, und scheinen dem Hammer unwiderstehliches Gewicht zu verleihen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Biete den Lichtpartikeln Freiheit, Macht, Reichtum – alles, was sie überzeugen wird, zu dir zu kommen.</DefaultText>
-      <FemaleText>Biete den Lichtpartikeln Freiheit, Macht, Reichtum – alles, was sie überzeugen wird, zu dir zu kommen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>Die Lichtpartikel eilen den Kristall der Länge nach hinauf. Ihre Bewegung ist hungrig, gierig. Sie glauben deinen Versprechungen. Als die glitzernden Funken sich an der Spitze der Waffe versammeln, bilden sie eine einzige, feste Lichtquelle, und scheinen dem Hammer unwiderstehliches Gewicht zu verleihen.</DefaultText>
-      <FemaleText>Die Lichtpartikel eilen den Kristall der Länge nach hinauf. Ihre Bewegung ist hungrig, gierig. Sie glauben deinen Versprechungen. Als die glitzernden Funken sich an der Spitze der Waffe versammeln, bilden sie eine einzige, feste Lichtquelle, und scheinen dem Hammer unwiderstehliches Gewicht zu verleihen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -57,61 +57,59 @@
     <Entry>
       <ID>11</ID>
       <DefaultText>Verlassen.</DefaultText>
-      <FemaleText>Verlassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Du entfernst dich von der Statue.</DefaultText>
-      <FemaleText>Du entfernst dich von der Statue.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Jetzt befindet sich an der Stelle der Statue ein Tor, doch es bleibt verschlossen. Du musst die anderen vier Tore ausrichten, ehe du es betreten kannst.</DefaultText>
-      <FemaleText>Jetzt befindet sich an der Stelle der Statue ein Tor, doch es bleibt verschlossen. Du musst die anderen vier Tore ausrichten, ehe du es betreten kannst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Ein Tor steht offen vor dir.</DefaultText>
-      <FemaleText>Ein Tor steht offen vor dir.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Konzentriere deinen Geist darauf, die Gestalt, die in der Statue abgebildet ist, zu erkennen.</DefaultText>
-      <FemaleText>Konzentriere deinen Geist darauf, die Gestalt, die in der Statue abgebildet ist, zu erkennen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Auch wenn du weißt, dass dies nicht dein Wissen ist, so findest du doch den Namen der abgebildeten Frau. Vor dir steht die Große Chila, die Befreierin, die die Sklaven der Flor befreite und sie in die Revolution gegen die grausamen Herren in Sagus Klippen führte. Ihre Revolte stürzte die korrupte Regierung jener Zeit und führte in eine neue Ära der Freiheit.
 
 {JEREMY: You might want to add flags to these, like "Knows_Chila_History" or something like that}</DefaultText>
-      <FemaleText>Auch wenn du weißt, dass dies nicht dein Wissen ist, so findest du doch den Namen der abgebildeten Frau. Vor dir steht die Große Chila, die Befreierin, die die Sklaven der Flor befreite und sie in die Revolution gegen die grausamen Herren in Sagus Klippen führte. Ihre Revolte stürzte die korrupte Regierung jener Zeit und führte in eine neue Ära der Freiheit.
-
-{JEREMY: You might want to add flags to these, like "Knows_Chila_History" or something like that}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Worte und Bilder flackern durch deinen Geist, doch du kannst sie nicht zu einer klaren Erinnerung zusammenfassen.</DefaultText>
-      <FemaleText>Worte und Bilder flackern durch deinen Geist, doch du kannst sie nicht zu einer klaren Erinnerung zusammenfassen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Der Arm der Statue schwingt herab. Der Hammer schlägt mit einem widerhallenden Klingen und einem blendenden Blitz in den Boden. Als deine Augen sich wieder fokussieren, siehst du, dass die Statue durch ein rundes, silbernes Tor ersetzt wurde. Auf seinen verspiegelten Platten siehst du das eingravierte Bild der Frau. Sie steht auf einem Hügel und schreit zu einer Menge kauernder Gestalten.</DefaultText>
-      <FemaleText>Der Arm der Statue schwingt herab. Der Hammer schlägt mit einem widerhallenden Klingen und einem blendenden Blitz in den Boden. Als deine Augen sich wieder fokussieren, siehst du, dass die Statue durch ein rundes, silbernes Tor ersetzt wurde. Auf seinen verspiegelten Platten siehst du das eingravierte Bild der Frau. Sie steht auf einem Hügel und schreit zu einer Menge kauernder Gestalten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Der Arm der Statue schwingt herab. Der Hammer schlägt mit einem widerhallenden Klingen und einem blendenden Blitz in den Boden. Als deine Augen sich wieder fokussieren, siehst du, dass die Statue durch ein rundes, silbernes Tor ersetzt wurde. Auf seinen verspiegelten Platten siehst du das eingravierte Bild der Frau. Sie steht auf einem Hügel und ruft zu einer Menge jubelnder Gestalten.</DefaultText>
-      <FemaleText>Der Arm der Statue schwingt herab. Der Hammer schlägt mit einem widerhallenden Klingen und einem blendenden Blitz in den Boden. Als deine Augen sich wieder fokussieren, siehst du, dass die Statue durch ein rundes, silbernes Tor ersetzt wurde. Auf seinen verspiegelten Platten siehst du das eingravierte Bild der Frau. Sie steht auf einem Hügel und ruft zu einer Menge jubelnder Gestalten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Der Arm der Statue schwingt herab. Der Hammer schlägt mit einem widerhallenden Klingen und einem blendenden Blitz in den Boden. Als deine Augen sich wieder fokussieren, siehst du, dass die Statue durch ein rundes, silbernes Tor ersetzt wurde. Auf seinen verspiegelten Platten siehst du das eingravierte Bild der Frau. Sie steht auf einem Hügel und wirft Shin und Edelsteine vor eine Menge danach greifender Gestalten unter ihr.</DefaultText>
-      <FemaleText>Der Arm der Statue schwingt herab. Der Hammer schlägt mit einem widerhallenden Klingen und einem blendenden Blitz in den Boden. Als deine Augen sich wieder fokussieren, siehst du, dass die Statue durch ein rundes, silbernes Tor ersetzt wurde. Auf seinen verspiegelten Platten siehst du das eingravierte Bild der Frau. Sie steht auf einem Hügel und wirft Shin und Edelsteine vor eine Menge danach greifender Gestalten unter ihr.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Die Statue dieser furchterregenden Bestienfrau bleibt unverändert.</DefaultText>
-      <FemaleText>Die Statue dieser furchterregenden Bestienfrau bleibt unverändert.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
