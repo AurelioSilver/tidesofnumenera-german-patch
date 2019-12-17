@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Die Kummerscherbe greift die Innenseite dieses Geräts an. Du musst sie herauslocken, bevor du dich auf die Kreatur im beistehenden Tank einstellen kannst.</DefaultText>
-      <FemaleText>Die Kummerscherbe greift die Innenseite dieses Geräts an. Du musst sie herauslocken, bevor du dich auf die Kreatur im beistehenden Tank einstellen kannst.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Du hast die Kummerscherbe aus dieser Maschine getrieben. Du solltest nun eine Verbindung zu dem Wesen im Tank herstellen können.</DefaultText>
-      <FemaleText>Du hast die Kummerscherbe aus dieser Maschine getrieben. Du solltest nun eine Verbindung zu dem Wesen im Tank herstellen können.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Ein angenehmes Summen vibriert durch die Leitungen, welche aus dieser Maschine verlaufen.</DefaultText>
-      <FemaleText>Ein angenehmes Summen vibriert durch die Leitungen, welche aus dieser Maschine verlaufen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Ein stetiges, beruhigendes Summen strömt aus dieser Maschine in den beistehenden Tank.</DefaultText>
-      <FemaleText>Ein stetiges, beruhigendes Summen strömt aus dieser Maschine in den beistehenden Tank.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
