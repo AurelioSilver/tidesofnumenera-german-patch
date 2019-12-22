@@ -1266,7 +1266,7 @@
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>Du bist immer auf der Hut vor gegnerischen Angriffen. Schwierigkeit -3 auf alle Verteidigungsaufgaben wenn aktiv.</DefaultText>
+      <DefaultText>Du bist immer auf der Hut vor gegnerischen Angriffen. Schwierigkeit -3 auf alle Verteidigungsaufgaben, wenn aktiv.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2556,7 +2556,7 @@
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>Alle Verteidigungsaufgaben Schwierigkeit -3 wenn aktiv.</DefaultText>
+      <DefaultText>Alle Verteidigungsaufgaben Schwierigkeit -3, wenn aktiv.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3131,7 +3131,7 @@
     </Entry>
     <Entry>
       <ID>626</ID>
-      <DefaultText>Wappne dich vor Angriffen. Verringert deine Fähigkeit, auszuweichen, dafür absorbiert deine Rüstung viel mehr Schaden. Physische Rüstung +3, Schwierigkeit Schnelle Verteidigung +3 wenn aktiv.</DefaultText>
+      <DefaultText>Wappne dich vor Angriffen. Verringert deine Fähigkeit, auszuweichen, dafür absorbiert deine Rüstung viel mehr Schaden. Physische Rüstung +3, Schwierigkeit Schnelle Verteidigung +3, wenn aktiv.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3151,7 +3151,7 @@
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>Wähle eine Entdecker-, Kunde- oder Konversations-Fertigkeit. [Color: PositiveModifier]+1 Ausbildungsstufe[/Color] in dieser Fertigkeit wenn aktiv.</DefaultText>
+      <DefaultText>Wähle eine Entdecker-, Kunde- oder Konversations-Fertigkeit. [Color: PositiveModifier]+1 Ausbildungsstufe[/Color] in dieser Fertigkeit, wenn aktiv.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4021,7 +4021,7 @@
     </Entry>
     <Entry>
       <ID>804</ID>
-      <DefaultText>Wenn aktiv bietet es einmal pro Runde Widerstand gegen 'Abgelenkt', 'Furcht' oder 'Niedergeschlagen' bzw. entfernt die Effekte eines solchen Zustands.</DefaultText>
+      <DefaultText>Wenn aktiv, bietet es einmal pro Runde Widerstand gegen 'Abgelenkt', 'Furcht' oder 'Niedergeschlagen' bzw. entfernt die Effekte eines solchen Zustands.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4616,7 +4616,7 @@
     </Entry>
     <Entry>
       <ID>923</ID>
-      <DefaultText>Nutze die Kraft der eintätowierten Zeichen. Reduziert wenn aktiv, die Schwierigkeit des nächsten Angriffs um 3, verleiht +3 auf nächste Heilung und der nächste von dir verursachte negative Zustand hält eine zusätzliche Runde an.</DefaultText>
+      <DefaultText>Nutze die Kraft der eintätowierten Zeichen. Reduziert, wenn aktiv, die Schwierigkeit des nächsten Angriffs um 3, verleiht +3 auf nächste Heilung und der nächste von dir verursachte negative Zustand hält eine zusätzliche Runde an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
