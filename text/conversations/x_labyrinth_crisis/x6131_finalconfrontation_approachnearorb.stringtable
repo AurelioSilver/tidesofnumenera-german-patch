@@ -12,7 +12,7 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>[Senke den Boden ab, um zu verhindern, dass dich jemand erreicht. Du musst in diesen kritischen, finalen Momenten ungestört sein.]</DefaultText>
-      <FemaleText>[Senke den Boden ab, um zu verhindern, dass dich jemand erreicht. Du musst in diesen kritischen, finalen Momenten ungestört sein.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -22,12 +22,12 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>[Schüttle diese Erinnerung ab und verlasse die Ebeneunverändert.]</DefaultText>
-      <FemaleText>[Schüttle diese Erinnerung ab und verlasse die Ebeneunverändert.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>[Eine Erinnerung zieht dich an und du betrittst sie ohne Unbehagen.  Als sie deine Wahrnehmung erfüllt, bist du sicher, dass sie mit dem veränderlichen Boden unter deinen Füßen verbunden ist.]</DefaultText>
-      <FemaleText>[Eine Erinnerung zieht dich an und du betrittst sie ohne Unbehagen.  Als sie deine Wahrnehmung erfüllt, bist du sicher, dass sie mit dem veränderlichen Boden unter deinen Füßen verbunden ist.]</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
