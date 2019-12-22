@@ -1022,7 +1022,7 @@
     <Entry>
       <ID>203</ID>
       <DefaultText>{1}</DefaultText>
-      <FemaleText>{1}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
@@ -1422,12 +1422,12 @@
     <Entry>
       <ID>283</ID>
       <DefaultText>Kriegsaxt</DefaultText>
-      <FemaleText>Kriegsaxt</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
       <DefaultText>Kriegsaxt</DefaultText>
-      <FemaleText>Kriegsaxt</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
@@ -1482,7 +1482,7 @@
     <Entry>
       <ID>295</ID>
       <DefaultText>Sprühfleisch</DefaultText>
-      <FemaleText>Sprühfleisch</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
@@ -1557,7 +1557,7 @@
     <Entry>
       <ID>310</ID>
       <DefaultText>Kristalline Scherbe</DefaultText>
-      <FemaleText>Kristalline Scherbe</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>311</ID>
@@ -2017,7 +2017,7 @@
     <Entry>
       <ID>402</ID>
       <DefaultText>Ruf des Unvermeidlichen</DefaultText>
-      <FemaleText>Ruf des Unvermeidlichen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>403</ID>
@@ -2032,7 +2032,7 @@
     <Entry>
       <ID>405</ID>
       <DefaultText>Achtfingriger Streitkolben</DefaultText>
-      <FemaleText>Achtfingriger Streitkolben</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
@@ -2247,7 +2247,7 @@
     <Entry>
       <ID>448</ID>
       <DefaultText>Gedanken scannen</DefaultText>
-      <FemaleText>Gedanken scannen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>449</ID>
@@ -2367,7 +2367,7 @@
     <Entry>
       <ID>472</ID>
       <DefaultText>Bildblocker</DefaultText>
-      <FemaleText>Bildblocker</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>473</ID>
@@ -2547,12 +2547,12 @@
     <Entry>
       <ID>508</ID>
       <DefaultText>Dickluftfalle</DefaultText>
-      <FemaleText>Dickluftfalle</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>509</ID>
       <DefaultText>Bündel Sticha-Eier</DefaultText>
-      <FemaleText>Bündel Sticha-Eier</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>510</ID>
@@ -2597,12 +2597,12 @@
     <Entry>
       <ID>518</ID>
       <DefaultText>Schurke</DefaultText>
-      <FemaleText>Schurke</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>519</ID>
       <DefaultText>Schurke</DefaultText>
-      <FemaleText>Schurke</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>520</ID>
@@ -2827,7 +2827,7 @@
     <Entry>
       <ID>565</ID>
       <DefaultText>Panorama-Bildball</DefaultText>
-      <FemaleText>Panorama-Bildball</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>566</ID>
@@ -2887,12 +2887,12 @@
     <Entry>
       <ID>577</ID>
       <DefaultText>Antagonist</DefaultText>
-      <FemaleText>Antagonist</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>578</ID>
       <DefaultText>Stichus-Fruchtwasser</DefaultText>
-      <FemaleText>Stichus-Fruchtwasser</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>579</ID>
@@ -2902,12 +2902,12 @@
     <Entry>
       <ID>580</ID>
       <DefaultText>Mykometallisches Rebenfragment</DefaultText>
-      <FemaleText>Mykometallisches Rebenfragment</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>581</ID>
       <DefaultText>Psychischer Wächter</DefaultText>
-      <FemaleText>Psychischer Wächter</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>582</ID>
@@ -3237,7 +3237,7 @@
     <Entry>
       <ID>647</ID>
       <DefaultText>Ruf des Unvermeidlichen</DefaultText>
-      <FemaleText>Ruf des Unvermeidlichen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>648</ID>
@@ -3567,7 +3567,7 @@
     <Entry>
       <ID>713</ID>
       <DefaultText>Wissen der lange Verstorbenen</DefaultText>
-      <FemaleText>Wissen der lange Verstorbenen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>714</ID>
@@ -4027,7 +4027,7 @@
     <Entry>
       <ID>805</ID>
       <DefaultText>Wissen der lange Verstorbenen</DefaultText>
-      <FemaleText>Wissen der lange Verstorbenen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>806</ID>
@@ -4117,7 +4117,7 @@
     <Entry>
       <ID>823</ID>
       <DefaultText>Leitungsringe</DefaultText>
-      <FemaleText>Leitungsringe</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>824</ID>
@@ -4262,7 +4262,7 @@
     <Entry>
       <ID>852</ID>
       <DefaultText>Zerklüftete Erinnerung</DefaultText>
-      <FemaleText>Zerklüftete Erinnerung</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>853</ID>
@@ -4272,7 +4272,7 @@
     <Entry>
       <ID>854</ID>
       <DefaultText>Gezeitenwelle</DefaultText>
-      <FemaleText>[Gezeitenwelle]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>855</ID>
