@@ -20,12 +20,12 @@ Das Zucken eines mentalen Reflexes, eine unterbewusste Reaktion auf die wahrgeno
     <Entry>
       <ID>3</ID>
       <DefaultText>Rufe die Spiegelbilder zur Hilfe.</DefaultText>
-      <FemaleText>Rufe die Spiegelbilder zur Hilfe.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Unterdrücke die Spiegelbilder und stelle dich alleine den Kreaturen.</DefaultText>
-      <FemaleText>Unterdrücke die Spiegelbilder und stelle dich alleine den Kreaturen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -59,34 +59,26 @@ Das Zucken eines mentalen Reflexes, eine unterbewusste Reaktion auf die wahrgeno
 In der Mitte jeder Plattform steht ein Hartglastank, der wie die Kugeln durch die dunklen Fäden glühen, in denen du geboren wurdest. Du hast das Gefühl, dass diese Tanks, wie auch die Kugeln, deine Erinnerungen enthalten.
 
 Jeder Tank ist mit einer Maschine auf der gleichen Plattform verbunden.</DefaultText>
-      <FemaleText>Als sich dein Körper aus dem Portal ergießt, wird ein provisorisches Labor sichtbar. Unregelmäßige Stege verbinden mehrere Plattformen miteinander, die allesamt mit staubigen Maschinen, Werkzeugen und Anzeigen übersät sind.
-
-In der Mitte jeder Plattform steht ein Hartglastank, der wie die Kugeln durch die dunklen Fäden glühen, in denen du geboren wurdest. Du hast das Gefühl, dass diese Tanks, wie auch die Kugeln, deine Erinnerungen enthalten.
-
-Jeder Tank ist mit einer Maschine auf der gleichen Plattform verbunden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>Ätzendes schwarzes Wundsekret spritzt aus allen glühenden Tanks, mit Ausnahme des nächststehenden, wodurch du nicht sehen – oder gar spüren – kannst, was sich darin befindet.
 
 Der ölige Film auf der nächsten Maschine hält inne, als ob er deine Anwesenheit bemerkt hätte. Er beginnt, aus dem Gerät zu laufen.</DefaultText>
-      <FemaleText>Ätzendes schwarzes Wundsekret spritzt aus allen glühenden Tanks, mit Ausnahme des nächststehenden, wodurch du nicht sehen – oder gar spüren – kannst, was sich darin befindet.
-
-Der ölige Film auf der nächsten Maschine hält inne, als ob er deine Anwesenheit bemerkt hätte. Er beginnt, aus dem Gerät zu laufen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Ätzendes schwarzes Wundsekret spritzt aus allen glühenden Tanks, mit Ausnahme des nächststehenden, wodurch du nicht sehen – oder gar spüren – kannst, was sich darin befindet.
 
 Der ölige Film auf einer entfernten Maschine hält inne, als ob er deine Anwesenheit bemerkt hätte. Er beginnt, aus dem Gerät zu laufen.</DefaultText>
-      <FemaleText>Ätzendes schwarzes Wundsekret spritzt aus allen glühenden Tanks, mit Ausnahme des nächststehenden, wodurch du nicht sehen – oder gar spüren – kannst, was sich darin befindet.
-
-Der ölige Film auf einer entfernten Maschine hält inne, als ob er deine Anwesenheit bemerkt hätte. Er beginnt, aus dem Gerät zu laufen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Du rutschst aus dem Portal und wirst von der gleichen Gefahr wie zuvor begrüßt. Der Impuls, Spiegelbilder deiner derzeitigen Begleiter heraufzubeschwören, verfestigt sich in deinen Eingeweiden.</DefaultText>
-      <FemaleText>Du rutschst aus dem Portal und wirst von der gleichen Gefahr wie zuvor begrüßt. Der Impuls, Spiegelbilder deiner derzeitigen Begleiter heraufzubeschwören, verfestigt sich in deinen Eingeweiden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -96,21 +88,19 @@ Der ölige Film auf einer entfernten Maschine hält inne, als ob er deine Anwese
     <Entry>
       <ID>18</ID>
       <DefaultText>Unterdrücke die Spiegelbilder und stelle dich alleine den Kreaturen.</DefaultText>
-      <FemaleText>Unterdrücke die Spiegelbilder und stelle dich alleine den Kreaturen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Als der schwarze Schlick zusammenfließt, erkennst du darin eine Kummerscherbe – die sich die ganze Zeit an deinem Unterbewusstsein gelabt hat und entsprechend stärker geworden ist.
 
 Da die Scherben deine Gezeitenenergie abgesaugt haben, spürst du, dass sie mit dir verbunden sind, zumindest für den Moment. Vielleicht kannst du die Maschine hier benutzen, um sie zu manipulieren.</DefaultText>
-      <FemaleText>Als der schwarze Schlick zusammenfließt, erkennst du darin eine Kummerscherbe – die sich die ganze Zeit an deinem Unterbewusstsein gelabt hat und entsprechend stärker geworden ist.
-
-Da die Scherben deine Gezeitenenergie abgesaugt haben, spürst du, dass sie mit dir verbunden sind, zumindest für den Moment. Vielleicht kannst du die Maschine hier benutzen, um sie zu manipulieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Du rutschst aus dem Portal und wirst von der gleichen Gefahr wie zuvor begrüßt.</DefaultText>
-      <FemaleText>Du rutschst aus dem Portal und wirst von der gleichen Gefahr wie zuvor begrüßt.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
