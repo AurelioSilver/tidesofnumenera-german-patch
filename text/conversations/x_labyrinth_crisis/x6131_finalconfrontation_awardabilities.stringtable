@@ -21,11 +21,7 @@
 Dieser Faden gehört nicht nur zu dem Geist. Du hast diese Ebenen einst wieder aufgebaut.
 
 Du kannst es wieder tun.</DefaultText>
-      <FemaleText>Als du soweit bist, erkennst du, dass dies mehr als nur eine Erinnerung war. Die Stimme der geisterhaften Frau hallt die Worte der Vision in deinem Geist: "Sieh die Dinge so, wie sie sein sollen."
-
-Dieser Faden gehört nicht nur zu dem Geist. Du hast diese Ebenen einst wieder aufgebaut.
-
-Du kannst es wieder tun.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -59,20 +55,14 @@ Du kannst es wieder tun.</FemaleText>
 "Was ist passiert, Miika?" Die Worte aus deinem Mund sind sanft und freundlich.
 
 Das Mädchen zeigt auf einen Jungen, der mehrere Schritte entfernt ist und dir den Rücken zudreht. Du bemerkst nun einige Fußabdrücke – zu groß, um von Miika zu stammen – wo die Burg einst stand.</DefaultText>
-      <FemaleText>Dein Schlag auf den Boden lässt den Raum drehen. Ein helles Licht blendet dich ... Sonnenlicht? Es ist eine Vision. Ein kleines Kind kniet vor dir, vor den zerstörten Resten einer Sandburg in Tränen aufgelöst.
-
-"Was ist passiert, Miika?" Die Worte aus deinem Mund sind sanft und freundlich.
-
-Das Mädchen zeigt auf einen Jungen, der mehrere Schritte entfernt ist und dir den Rücken zudreht. Du bemerkst nun einige Fußabdrücke – zu groß, um von Miika zu stammen – wo die Burg einst stand.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Mit einem weichen Finger wischst du eine Träne von der Wange deiner Tochter. "Das ist der Lauf der Dinge. Nichts hält ewig. Wir können aber alles wieder aufbauen." Du nimmst ihre Hände in deine und häufst neuen Sand auf, wo die alte Burg stand. "Schließe die Augen. Sieh die Dinge so, wie sie sein sollen, und schon bald wird es so sein."
 
 Ihre Schulter zittert mit ihrem Schluchzen, doch ihre Mundwinkel ziehen sich leicht nach oben, als ihr die Mauern gemeinsam wieder hochzieht.</DefaultText>
-      <FemaleText>Mit einem weichen Finger wischst du eine Träne von der Wange deiner Tochter. "Das ist der Lauf der Dinge. Nichts hält ewig. Wir können aber alles wieder aufbauen." Du nimmst ihre Hände in deine und häufst neuen Sand auf, wo die alte Burg stand. "Schließe die Augen. Sieh die Dinge so, wie sie sein sollen, und schon bald wird es so sein."
-
-Ihre Schulter zittert mit ihrem Schluchzen, doch ihre Mundwinkel ziehen sich leicht nach oben, als ihr die Mauern gemeinsam wieder hochzieht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -99,29 +89,27 @@ Ihre Schulter zittert mit ihrem Schluchzen, doch ihre Mundwinkel ziehen sich lei
       <DefaultText>Als du kurz davor bist, wieder aufzuwachen, schwimmt Callisteges Echo in deiner Vision. "Wir werden dich auch helfen." Ihre Stimme klingt, als ob sie aus großer Entfernung käme. "Wir leiten einen Teil unserer Macht in deine Gedanken um. Das Flimmern wird nicht lange anhalten, es dürfte jedoch hilfreich sein."
 
 Du glaubst, ein Lächeln in ihrer Stimme wahrzunehmen. "Ich habe die gesagt, dass das die richtige Entscheidung war."</DefaultText>
-      <FemaleText>Als du kurz davor bist, wieder aufzuwachen, schwimmt Callisteges Echo in deiner Vision. "Wir werden dich auch helfen." Ihre Stimme klingt, als ob sie aus großer Entfernung käme. "Wir leiten einen Teil unserer Macht in deine Gedanken um. Das Flimmern wird nicht lange anhalten, es dürfte jedoch hilfreich sein."
-
-Du glaubst, ein Lächeln in ihrer Stimme wahrzunehmen. "Ich habe die gesagt, dass das die richtige Entscheidung war."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Als du kurz davor bist, aufzuwachen, erscheinen zwei Spiegelbilder – Konstrukte aus den Erinnerungen an deine Begleiter, die du aus diesem Ort befreit hast.</DefaultText>
-      <FemaleText>Als du kurz davor bist, aufzuwachen, erscheinen zwei Spiegelbilder – Konstrukte aus den Erinnerungen an deine Begleiter, die du aus diesem Ort befreit hast.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Als du kurz davor bist, aufzuwachen, erscheint ein Spiegelbild – ein Konstrukt aus der Erinnerung an Erritis, den du aus diesem Ort befreit hast.</DefaultText>
-      <FemaleText>Als du kurz davor bist, aufzuwachen, erscheint ein Spiegelbild – ein Konstrukt aus der Erinnerung an Erritis, den du aus diesem Ort befreit hast.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Als du kurz davor bist, aufzuwachen, erscheint ein Spiegelbild – ein Konstrukt aus der Erinnerung an Callistege, die du aus diesem Ort befreit hast.</DefaultText>
-      <FemaleText>Als du kurz davor bist, aufzuwachen, erscheint ein Spiegelbild – ein Konstrukt aus der Erinnerung an Callistege, die du aus diesem Ort befreit hast.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Als du kurz davor bist, aufzuwachen, erscheint das Spiegelbild von Callisteges Gesicht, welches durch die latente Verbindung der Datensphäre rinnt. Es scheint fast wie eine Aufzeichnung, eine Wiedergabe ihrer Existenz – nicht von ihr persönlich, sondern von ihren *Kräften*, die durch irgendein Artefakt der Verbindung zwischen deinem und ihrem Geist wiederhergestellt wurden.</DefaultText>
-      <FemaleText>Als du kurz davor bist, aufzuwachen, erscheint das Spiegelbild von Callisteges Gesicht, welches durch die latente Verbindung der Datensphäre rinnt. Es scheint fast wie eine Aufzeichnung, eine Wiedergabe ihrer Existenz – nicht von ihr persönlich, sondern von ihren *Kräften*, die durch irgendein Artefakt der Verbindung zwischen deinem und ihrem Geist wiederhergestellt wurden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
