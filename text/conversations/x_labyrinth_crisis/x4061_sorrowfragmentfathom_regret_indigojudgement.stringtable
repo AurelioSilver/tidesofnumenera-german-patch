@@ -57,7 +57,7 @@
     <Entry>
       <ID>14</ID>
       <DefaultText>Die Maschine projiziert eine sich wiederholende, holografische Szene. Als du diese studierst, spürst du kurzzeitig, wie sie deine Gedanken scannt, woraufhin du eine rauschende Welle künstlicher Nostalgie verspürst, als sie Erinnerungen hervorruft.</DefaultText>
-      <FemaleText>Die Maschine projiziert eine sich wiederholende, holografische Szene. Als du diese studierst, spürst du kurzzeitig, wie sie deine Gedanken scannt, woraufhin du eine rauschende Welle künstlicher Nostalgie verspürst, als sie Erinnerungen hervorruft.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -66,11 +66,7 @@
 Und dann erkennst du Formen, die am Horizont flimmern. Du lässt einen Sichtfänger frei – er wird dir sagen, ob es sich um ein Trugbild oder um ein Ziel handelt.
 
 Er schießt in den Himmel und verschwindet außer Sichtweite. Er kehrt mit guten Neuigkeiten zurück – du hast ... irgendeine Art von Oase entdeckt.</DefaultText>
-      <FemaleText>Du läufst gefühlt seit Tagen unter der aufgezehrten Sonne – diese bewegt sich nicht am Horizont und ihre unablässige Hitze entzog der Ebene jegliches Leben. Dir geht das Wasser aus und du überlegst dir ernsthaft, diesen Körper zu verlassen.
-
-Und dann erkennst du Formen, die am Horizont flimmern. Du lässt einen Sichtfänger frei – er wird dir sagen, ob es sich um ein Trugbild oder um ein Ziel handelt.
-
-Er schießt in den Himmel und verschwindet außer Sichtweite. Er kehrt mit guten Neuigkeiten zurück – du hast ... irgendeine Art von Oase entdeckt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -105,17 +101,17 @@ Er schießt in den Himmel und verschwindet außer Sichtweite. Er kehrt mit guten
     <Entry>
       <ID>22</ID>
       <DefaultText>Lass die Erinnerung zu.</DefaultText>
-      <FemaleText>Lass die Erinnerung zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Widerstehe der Erinnerung.</DefaultText>
-      <FemaleText>Widerstehe der Erinnerung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Du wendest den Blick von der Szene ab und die psychische Verbindung wird unterbrochen.</DefaultText>
-      <FemaleText>Du wendest den Blick von der Szene ab und die psychische Verbindung wird unterbrochen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -145,39 +141,33 @@ Er schießt in den Himmel und verschwindet außer Sichtweite. Er kehrt mit guten
     <Entry>
       <ID>35</ID>
       <DefaultText>Die holografische Schleife der Maschine zerrt weiterhin an deinem Verstand und versucht, alte Erinnerungen auszugraben, wie ein Wort auf der Spitze deiner Zunge.</DefaultText>
-      <FemaleText>Die holografische Schleife der Maschine zerrt weiterhin an deinem Verstand und versucht, alte Erinnerungen auszugraben, wie ein Wort auf der Spitze deiner Zunge.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Du konzentrierst dich, beherrschst deine Kräfte und die Gezeiten, die du erforschst hast. Du stellst sie dir als Klinge vor und schleuderst sie gegen den Schaltkreis des Konstrukts. Die Maschine kämpft und setzt ihre Verteidigungsmechanismen gegen dich ein. Jedoch kein Vergleich mit dieser neuen Energie. Sie zischt und stirbt, und du verspürst einen Stoß, als die Zeit zurückspringt.
 
 Du schaust auf deine Hände. Das Fleisch hängt lose an deinem plötzlich nackten Skelett – ein hoher Preis für den Schutz dieser Dorfbewohner.</DefaultText>
-      <FemaleText>Du konzentrierst dich, beherrschst deine Kräfte und die Gezeiten, die du erforschst hast. Du stellst sie dir als Klinge vor und schleuderst sie gegen den Schaltkreis des Konstrukts. Die Maschine kämpft und setzt ihre Verteidigungsmechanismen gegen dich ein. Jedoch kein Vergleich mit dieser neuen Energie. Sie zischt und stirbt, und du verspürst einen Stoß, als die Zeit zurückspringt.
-
-Du schaust auf deine Hände. Das Fleisch hängt lose an deinem plötzlich nackten Skelett – ein hoher Preis für den Schutz dieser Dorfbewohner.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>Die holografische Schleife wird fortgesetzt, doch das Verlangen, sich in einer Erinnerung zu vergraben, ist verschwunden.</DefaultText>
-      <FemaleText>Die holografische Schleife wird fortgesetzt, doch das Verlangen, sich in einer Erinnerung zu vergraben, ist verschwunden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>Du gehst schweren Schrittes weiter, wobei du dir sehnlichst bessere Stiefel wünschst. Als du schließlich die grobe Ansammlung von Akazien und Lehmhütten erreichst, versammeln sich primitive Menschen um dich herum und flehen dich in einer seltsamen Sprache an.
 
 Sie bieten dir etwas von ihrem wertvollen, restlichen Wasser an und du lässt dich nieder, um die Grundlagen ihrer Sprache zu erlernen. Nach einem Tag weißt du genug, um den Sinn ihrer Bitte zu verstehen: der Schleicher in der Höhle habe das Momentum der Sonne gestohlen. Sie flehen dich um Hilfe an.</DefaultText>
-      <FemaleText>Du gehst schweren Schrittes weiter, wobei du dir sehnlichst bessere Stiefel wünschst. Als du schließlich die grobe Ansammlung von Akazien und Lehmhütten erreichst, versammeln sich primitive Menschen um dich herum und flehen dich in einer seltsamen Sprache an.
-
-Sie bieten dir etwas von ihrem wertvollen, restlichen Wasser an und du lässt dich nieder, um die Grundlagen ihrer Sprache zu erlernen. Nach einem Tag weißt du genug, um den Sinn ihrer Bitte zu verstehen: der Schleicher in der Höhle habe das Momentum der Sonne gestohlen. Sie flehen dich um Hilfe an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>Nach einem unruhigen Nickerchen beginnst du mit dem gefährlichen Aufstieg zur Höhle. Im Inneren findest du ein Konstrukt vor, das in einer längst vergessenen Anlage gefangen ist. Es spricht durch den Schutt einer eingestürzten Decke und erzählt dir, dass es die Autochthons darum gebeten hatte, den Schotter beiseite zu räumen. Als sie sich weigerten, es auszugraben, damit es wieder an die Arbeit gehen könne, sperrte es die Ebene in eine Zeitblase. "Sie werden wieder zur Vernunft kommen", schließt es seine Aussage.
 
 Du hast keine Zeit dafür. Die Anforderungen des Konstrukts sind armselig im Vergleich zum Bedürfnis nach Wasser.</DefaultText>
-      <FemaleText>Nach einem unruhigen Nickerchen beginnst du mit dem gefährlichen Aufstieg zur Höhle. Im Inneren findest du ein Konstrukt vor, das in einer längst vergessenen Anlage gefangen ist. Es spricht durch den Schutt einer eingestürzten Decke und erzählt dir, dass es die Autochthons darum gebeten hatte, den Schotter beiseite zu räumen. Als sie sich weigerten, es auszugraben, damit es wieder an die Arbeit gehen könne, sperrte es die Ebene in eine Zeitblase. "Sie werden wieder zur Vernunft kommen", schließt es seine Aussage.
-
-Du hast keine Zeit dafür. Die Anforderungen des Konstrukts sind armselig im Vergleich zum Bedürfnis nach Wasser.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

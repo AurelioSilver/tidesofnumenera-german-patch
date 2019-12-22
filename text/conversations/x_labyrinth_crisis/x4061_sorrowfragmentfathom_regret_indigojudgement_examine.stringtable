@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Die Kummerscherbe unterbricht die Bilder, die aus diesem holografischen Projektor scheinen. Du kannst seine Funktionen nicht verstehen.</DefaultText>
-      <FemaleText>Die Kummerscherbe unterbricht die Bilder, die aus diesem holografischen Projektor scheinen. Du kannst seine Funktionen nicht verstehen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Die von der Kummerscherbe verursachten Verzerrungen und Unterbrechungen verhindern jegliche Interaktion mit der Maschine.</DefaultText>
-      <FemaleText>Die von der Kummerscherbe verursachten Verzerrungen und Unterbrechungen verhindern jegliche Interaktion mit der Maschine.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

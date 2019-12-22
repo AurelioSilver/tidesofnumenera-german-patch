@@ -57,7 +57,7 @@
     <Entry>
       <ID>22</ID>
       <DefaultText>Als du dieses Gerät untersuchst, spürst du, wie es deinen Geist scannt und einen Schwall unerwünschter Bilder hervorbringt. Eines dieser Bilder erregt deine Aufmerksamkeit ganz besonders und zerrt beharrlich an einer vergrabenen Erinnerung.</DefaultText>
-      <FemaleText>Als du dieses Gerät untersuchst, spürst du, wie es deinen Geist scannt und einen Schwall unerwünschter Bilder hervorbringt. Eines dieser Bilder erregt deine Aufmerksamkeit ganz besonders und zerrt beharrlich an einer vergrabenen Erinnerung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -66,11 +66,7 @@
 Du hörst ein scharfes Flüstern: "Abgestoßenen-Abschaum!"
 
 Du gönnst ihnen nicht die Befriedigung, indem du hinschaust.</DefaultText>
-      <FemaleText>Du betrittst die Taverne und jedes Gesicht wendet sich dir zu. Das herzliche Geflüster der Unterhaltung verstummt. Sie kennen dich und sie wissen, wieso du hier bist. Die Aldeia von Thaul unterstützt das rhythmische Flüstern in der Nähe und die Einheimischen behalten die Aeon-Priester im Auge. Sie kennen die Gefahren, die von den Numenera ausgehen, die die Wissenschaftler ausgraben, und – aufgrund der Nähe zur Endlosen Schlacht – wissen sie, was deine Tätowierung bedeutet.
-
-Du hörst ein scharfes Flüstern: "Abgestoßenen-Abschaum!"
-
-Du gönnst ihnen nicht die Befriedigung, indem du hinschaust.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
@@ -117,17 +113,17 @@ Du spreizt die Hände weit auseinander und die Gezeiten strömen aus dir heraus.
     <Entry>
       <ID>30</ID>
       <DefaultText>Lass die Erinnerungen zu.</DefaultText>
-      <FemaleText>Lass die Erinnerungen zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>Widerstehe der Untersuchung.</DefaultText>
-      <FemaleText>Widerstehe der Untersuchung.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Du konzentrierst dich geringfügig und unterbrichst die Verbindung zum Gerät.</DefaultText>
-      <FemaleText>Du konzentrierst dich geringfügig und unterbrichst die Verbindung zum Gerät.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
@@ -162,12 +158,12 @@ Du spreizt die Hände weit auseinander und die Gezeiten strömen aus dir heraus.
     <Entry>
       <ID>39</ID>
       <DefaultText>Die Maschine beschwört erneut die Bilder in deinem Geist herauf, ein Kaleidoskop aufgerufener Erinnerungen, das Verlangen, sie zu erkunden, ist jedoch verschwunden.</DefaultText>
-      <FemaleText>Die Maschine beschwört erneut die Bilder in deinem Geist herauf, ein Kaleidoskop aufgerufener Erinnerungen, das Verlangen, sie zu erkunden, ist jedoch verschwunden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Die Erinnerungen flackern weiterhin in deiner Psyche und wetteifern um deine Aufmerksamkeit.</DefaultText>
-      <FemaleText>Die Erinnerungen flackern weiterhin in deiner Psyche und wetteifern um deine Aufmerksamkeit.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
