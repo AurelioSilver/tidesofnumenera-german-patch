@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Den Bildern und den Informationen nach zu urteilen, die über die Anzeige flimmern, scheint es sich um irgendeine Art von Steuerungsmechanismus für den Tank auf dieser Plattform zu handeln.</DefaultText>
-      <FemaleText>Den Bildern und den Informationen nach zu urteilen, die über die Anzeige flimmern, scheint es sich um irgendeine Art von Steuerungsmechanismus für den Tank auf dieser Plattform zu handeln.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -21,17 +21,17 @@ Dies bezieht sich wohl auf die Kummerscherbe, welche sich von dem Tank ernährt.
     <Entry>
       <ID>3</ID>
       <DefaultText>Spüle das System gerade so durch, dass die Kummerscherbe beseitigt wird.</DefaultText>
-      <FemaleText>Spüle das System gerade so durch, dass die Kummerscherbe beseitigt wird.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Die Maschine wird kräftig geflutet. Die umgebende Luft knistert, als sich eine unheimliche Energie in den Tank ergießt. Die Kummerscherbe wird aus dem Gerät gespült und nimmt mit einem kopfspaltenden Schrei Gestalt an.</DefaultText>
-      <FemaleText>Die Maschine wird kräftig geflutet. Die umgebende Luft knistert, als sich eine unheimliche Energie in den Tank ergießt. Die Kummerscherbe wird aus dem Gerät gespült und nimmt mit einem kopfspaltenden Schrei Gestalt an.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Tritt von der Maschine zurück.</DefaultText>
-      <FemaleText>Tritt von der Maschine zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -86,7 +86,7 @@ Dies bezieht sich wohl auf die Kummerscherbe, welche sich von dem Tank ernährt.
     <Entry>
       <ID>16</ID>
       <DefaultText>Piktogramme flimmern über die glatte Oberfläche des Geräts und die Informationen und Optionen verändern sich vor deinen Augen. Es reagiert auf deine Gedanken, als du nach einer Möglichkeit suchst, die Kummerscherben zu erledigen.</DefaultText>
-      <FemaleText>Piktogramme flimmern über die glatte Oberfläche des Geräts und die Informationen und Optionen verändern sich vor deinen Augen. Es reagiert auf deine Gedanken, als du nach einer Möglichkeit suchst, die Kummerscherben zu erledigen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -106,42 +106,42 @@ Dies bezieht sich wohl auf die Kummerscherbe, welche sich von dem Tank ernährt.
     <Entry>
       <ID>20</ID>
       <DefaultText>Beginnen, einen Gezeitenimpuls aufzuladen, um nahe Scherben zu lähmen.</DefaultText>
-      <FemaleText>Beginnen, einen Gezeitenimpuls aufzuladen, um nahe Scherben zu lähmen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Die aufgewühlten Energien in dem Tank beginnen, sich zu verlangsamen und im Einklang zu bewegen. Sie fließen in einem sichtbar geordneten Muster zusammen, als die Maschine den Energieaufbau anzeigt. Es weist darauf hin, dass vor deiner nächsten Aktion ein lähmenden Impuls explodieren wird.</DefaultText>
-      <FemaleText>Die aufgewühlten Energien in dem Tank beginnen, sich zu verlangsamen und im Einklang zu bewegen. Sie fließen in einem sichtbar geordneten Muster zusammen, als die Maschine den Energieaufbau anzeigt. Es weist darauf hin, dass vor deiner nächsten Aktion ein lähmenden Impuls explodieren wird.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Sorge dafür, dass Energie aus dem Tank fließt und die Kummerscherben anzieht.</DefaultText>
-      <FemaleText>Sorge dafür, dass Energie aus dem Tank fließt und die Kummerscherben anzieht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Gezeitendämpfe steigen aus dem Projektor auf und zischen und verdampfen wie Wasser in einer heißen Pfanne, als sie sich über dem Boden ausbreiten. Die Kummerscherben wenden sich der Plattform zu.</DefaultText>
-      <FemaleText>Gezeitendämpfe steigen aus dem Projektor auf und zischen und verdampfen wie Wasser in einer heißen Pfanne, als sie sich über dem Boden ausbreiten. Die Kummerscherben wenden sich der Plattform zu.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Kehre die Ladung der Energie im Tank um, um die Kummerscherben abzustoßen.</DefaultText>
-      <FemaleText>Kehre die Ladung der Energie im Tank um, um die Kummerscherben abzustoßen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Die Lufttemperatur verändert sich, als die leckende Energie manipuliert wird. Die schmerzerfüllten Schreie der Kummerscherben zeigen eindeutig, dass es funktioniert.</DefaultText>
-      <FemaleText>Die Lufttemperatur verändert sich, als die leckende Energie manipuliert wird. Die schmerzerfüllten Schreie der Kummerscherben zeigen eindeutig, dass es funktioniert.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Stelle den Normalzustand des Tanks wieder her.</DefaultText>
-      <FemaleText>Stelle den Normalzustand des Tanks wieder her.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Die Maschine summt und wechselt in ihren Ursprungszustand zurück.</DefaultText>
-      <FemaleText>Die Maschine summt und wechselt in ihren Ursprungszustand zurück.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -156,7 +156,7 @@ Dies bezieht sich wohl auf die Kummerscherbe, welche sich von dem Tank ernährt.
     <Entry>
       <ID>37</ID>
       <DefaultText>Die Maschine ist mit der Kraft überfordert – zu viel Kraft. Eine Welle eisiger Kraft stößt die Kummerscherbe aus und befördert dich gleichzeitig zu Boden.</DefaultText>
-      <FemaleText>Die Maschine ist mit der Kraft überfordert – zu viel Kraft. Eine Welle eisiger Kraft stößt die Kummerscherbe aus und befördert dich gleichzeitig zu Boden.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -166,12 +166,12 @@ Dies bezieht sich wohl auf die Kummerscherbe, welche sich von dem Tank ernährt.
     <Entry>
       <ID>39</ID>
       <DefaultText>Ohne drohende Gefahr summt die Maschine untätig vor sich hin. Sie bietet dir keine Möglichkeit, mit ihr zu interagieren.</DefaultText>
-      <FemaleText>Ohne drohende Gefahr summt die Maschine untätig vor sich hin. Sie bietet dir keine Möglichkeit, mit ihr zu interagieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Die Maschine funktioniert nicht mehr. Jegliche Energie scheint für den Impuls aufgebraucht worden zu sein, der auf diese Plattform gewirkt wurde.</DefaultText>
-      <FemaleText>Die Maschine funktioniert nicht mehr. Jegliche Energie scheint für den Impuls aufgebraucht worden zu sein, der auf diese Plattform gewirkt wurde.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
