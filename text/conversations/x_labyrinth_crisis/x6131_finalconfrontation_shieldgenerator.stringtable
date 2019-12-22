@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>[Licht strömt aus dieser Numenera und umgibt den Geist und den Käfig.]</DefaultText>
-      <FemaleText>[Licht strömt aus dieser Numenera und umgibt den Geist und den Käfig.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>[Deaktiviere den undurchdringbaren Schild]</DefaultText>
-      <FemaleText>[Deaktiviere den undurchdringbaren Schild]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>[Lass das Gerät in Ruhe]</DefaultText>
-      <FemaleText>[Lass das Gerät in Ruhe]</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>[Eine Erinnerung an freundliche Gesichter]</DefaultText>
-      <FemaleText>[Eine Erinnerung an freundliche Gesichter]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>[Bring den Boden zum Einsturz]</DefaultText>
-      <FemaleText>[Bring den Boden zum Einsturz]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>[Ebne den Boden ein]</DefaultText>
-      <FemaleText>[Ebne den Boden ein]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>[Lass die Kugel in Ruhe]</DefaultText>
-      <FemaleText>[Lass die Kugel in Ruhe]</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
