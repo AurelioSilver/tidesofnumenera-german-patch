@@ -4002,7 +4002,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>800</ID>
-      <DefaultText>[Color: TooltipFormatting]+15 % Bonus pro Stufe auf den Einsatz der Fähigkeit "Verstecken". Nur in der Krise nutzbar.[/Color]\n\nDas Schleichen in den Schatten bietet so manche Möglichkeiten, Feinden auszuweichen oder sie zu überraschen.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]+15 % Bonus pro Stufe auf den Einsatz der Fähigkeit „Verstecken“. Nur in der Krise nutzbar.[/Color]\n\nDas Schleichen in den Schatten bietet so manche Möglichkeiten, Feinden auszuweichen oder sie zu überraschen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4087,7 +4087,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>817</ID>
-      <DefaultText>Negative Effekte (können mit der Fertigkeit "Konzentration" verringert werden):</DefaultText>
+      <DefaultText>Negative Effekte (können mit der Fertigkeit „Konzentration“ verringert werden):</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4312,17 +4312,17 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>862</ID>
-      <DefaultText>Glaive sind die Elitekrieger der Neunten Welt. Sie verwenden Waffen und Rüstungen im Kampf gegen ihre Gegner. Jäger, Wächter und Soldaten können Glaive sein. Manchmal sind auch Aufklärer, Kriegsherren, Banditen und sogar Athleten Glaive. "Glaive" ist ein üblicher Jargon, der fast überall auf Personen angewendet wird, die geschickt mit Waffen oder Kriegskünsten sind, doch in Wirklichkeit trifft er nur auf die Besten der Besten zu. Glaive sind Krieger, die über Fähigkeiten verfügen, die weit über die eines typischen Schwertkämpfers hinausgehen.\n\nDie meisten Glaive sind entweder stark – und nutzen die schwersten Rüstungen und Waffen, die verfügbar sind, wobei sie über eine hohe Kraft verfügen – oder schnell. In diesem Fall bevorzugen sie leichte Waffen und Rüstungen und verfügen sie über eine hohe Geschwindigkeit. Wenige versuchen, sowohl Kraft als auch Geschwindigkeit zu nutzen und befinden sich irgendwo in der Mitte. Glaive verwenden auch Fernkampfwaffen wie Armbrüste oder Summer. Manche verlassen sich überhaupt nicht auf Waffen und ziehen es vor, ihren eigenen Körper im waffenlosen Kampf einzusetzen.</DefaultText>
+      <DefaultText>Glaive sind die Elitekrieger der Neunten Welt. Sie verwenden Waffen und Rüstungen im Kampf gegen ihre Gegner. Jäger, Wächter und Soldaten können Glaive sein. Manchmal sind auch Aufklärer, Kriegsherren, Banditen und sogar Athleten Glaive. „Glaive“ ist ein üblicher Jargon, der fast überall auf Personen angewendet wird, die geschickt mit Waffen oder Kriegskünsten sind, doch in Wirklichkeit trifft er nur auf die Besten der Besten zu. Glaive sind Krieger, die über Fähigkeiten verfügen, die weit über die eines typischen Schwertkämpfers hinausgehen.\n\nDie meisten Glaive sind entweder stark – und nutzen die schwersten Rüstungen und Waffen, die verfügbar sind, wobei sie über eine hohe Kraft verfügen – oder schnell. In diesem Fall bevorzugen sie leichte Waffen und Rüstungen und verfügen sie über eine hohe Geschwindigkeit. Wenige versuchen, sowohl Kraft als auch Geschwindigkeit zu nutzen und befinden sich irgendwo in der Mitte. Glaive verwenden auch Fernkampfwaffen wie Armbrüste oder Summer. Manche verlassen sich überhaupt nicht auf Waffen und ziehen es vor, ihren eigenen Körper im waffenlosen Kampf einzusetzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>Jacks sind furchtlose Erkunder und Abenteurer. Sie sind Alleskönner, und das Wort geht zurück auf Fabeln über einen gerissenen, einfallsreichen Helden, der anscheinend immer Jack heißt. Als Verb genutzt, bedeutet "jacken" stehlen, täuschen oder durch Einfallsreichtum oder Glück aus einer Klemme zu entkommen.\n\nJacks nutzen nicht ausschließlich eine Fertigkeit oder Taktik; sie verwenden jede Waffe, Rüstung, Esoterie oder alles andere, das ihnen weiterhelfen kann. Jacks glänzen dann, wenn sie all ihre Werkzeuge kombinieren. Sie sind Jäger (vor allem Schatzjäger), Schwindler, Skalden, Halunken, Aufklärer und Experten auf zahlreichen Gebieten.</DefaultText>
+      <DefaultText>Jacks sind furchtlose Erkunder und Abenteurer. Sie sind Alleskönner, und das Wort geht zurück auf Fabeln über einen gerissenen, einfallsreichen Helden, der anscheinend immer Jack heißt. Als Verb genutzt, bedeutet „jacken“ stehlen, täuschen oder durch Einfallsreichtum oder Glück aus einer Klemme zu entkommen.\n\nJacks nutzen nicht ausschließlich eine Fertigkeit oder Taktik; sie verwenden jede Waffe, Rüstung, Esoterie oder alles andere, das ihnen weiterhelfen kann. Jacks glänzen dann, wenn sie all ihre Werkzeuge kombinieren. Sie sind Jäger (vor allem Schatzjäger), Schwindler, Skalden, Halunken, Aufklärer und Experten auf zahlreichen Gebieten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>864</ID>
-      <DefaultText>Nanos werden von den Bewohnern der Neunten Welt manchmal als Magier, Zauberer oder Hexer bezeichnet. Nanohexer ist auch ein gebräuchlicher Begriff, wobei ihre Fähigkeiten als Nano-Hexerei bezeichnet werden. Manche behaupten, Repräsentanten von Göttern oder anderen übernatürlichen Wesenheiten zu sein. Wie auch immer sie genannt werden, Nanos meistern die Mysterien der Vergangenheit in solchem Maße, dass sie scheinbar Wunder vollbringen. Sie zapfen Numenera an, um die Realität zu verändern oder Dinge zu erfahren, die sie andernfalls nicht wissen könnten.\n\nDer Begriff "Nano" leitet sich aus der Nanotechnologie ab, die in der Neunten Welt allgegenwärtig ist (unabhängig davon, ob das jemand erkennt oder nicht). Manchmal nennen die Leute diese unsichtbaren, schaudervollen Partikel, die die Landschaft durchziehen, Nano-Geister.</DefaultText>
+      <DefaultText>Nanos werden von den Bewohnern der Neunten Welt manchmal als Magier, Zauberer oder Hexer bezeichnet. Nanohexer ist auch ein gebräuchlicher Begriff, wobei ihre Fähigkeiten als Nano-Hexerei bezeichnet werden. Manche behaupten, Repräsentanten von Göttern oder anderen übernatürlichen Wesenheiten zu sein. Wie auch immer sie genannt werden, Nanos meistern die Mysterien der Vergangenheit in solchem Maße, dass sie scheinbar Wunder vollbringen. Sie zapfen Numenera an, um die Realität zu verändern oder Dinge zu erfahren, die sie andernfalls nicht wissen könnten.\n\nDer Begriff „Nano“ leitet sich aus der Nanotechnologie ab, die in der Neunten Welt allgegenwärtig ist (unabhängig davon, ob das jemand erkennt oder nicht). Manchmal nennen die Leute diese unsichtbaren, schaudervollen Partikel, die die Landschaft durchziehen, Nano-Geister.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4452,7 +4452,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>890</ID>
-      <DefaultText>[Color: TooltipFormatting]Negative Statuseffekte (können durch die Fertigkeit "Konzentration" verringert werden):[/Color]</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Negative Statuseffekte (können durch die Fertigkeit „Konzentration“ verringert werden):[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6292,7 +6292,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>1258</ID>
-      <DefaultText>Du kannst deine Erfahrungspunkte ausgeben, indem du den "+"-Knopf neben deinem Erfahrungsbalken auf der linken Seite des Bildschirmes verwendest.\n\n Du kannst zwischen 4 Fortschrittsstufen wählen. Wenn du alle 4 Stufen erreichst, wird dein Rang erhöht, was eine neue Auswahl an Fähigkeiten und anderen Boni freischaltet.</DefaultText>
+      <DefaultText>Du kannst deine Erfahrungspunkte ausgeben, indem du den „+“-Knopf neben deinem Erfahrungsbalken auf der linken Seite des Bildschirmes verwendest.\n\n Du kannst zwischen 4 Fortschrittsstufen wählen. Wenn du alle 4 Stufen erreichst, wird dein Rang erhöht, was eine neue Auswahl an Fähigkeiten und anderen Boni freischaltet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7022,7 +7022,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>1404</ID>
-      <DefaultText>Du hast deine&lt;quad class="action"&gt; Aktion in dieser Runde bereits verbraucht und musst auf die nächste Runde warten, um dich um das nächste Spiegelbild zu kümmern. Du könntest dich noch&lt;quad class="move"&gt; bewegen, kannst jedoch deine Runde auch vorzeitig beenden, indem du links unten auf "Runde beenden" klickst.</DefaultText>
+      <DefaultText>Du hast deine&lt;quad class="action"&gt; Aktion in dieser Runde bereits verbraucht und musst auf die nächste Runde warten, um dich um das nächste Spiegelbild zu kümmern. Du könntest dich noch&lt;quad class="move"&gt; bewegen, kannst jedoch deine Runde auch vorzeitig beenden, indem du links unten auf „Runde beenden“ klickst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7067,7 +7067,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>1413</ID>
-      <DefaultText>In einer Krise sind die Charaktere in der oben an Bildschirm angezeigten Reihenfolge am Zug. Diese Reihenfolge wird vom Initiative-Wert jedes Charakters bestimmt. (Du kannst diesen Wert verbessern, indem du die Fertigkeit "Initiative" trainierst.)</DefaultText>
+      <DefaultText>In einer Krise sind die Charaktere in der oben an Bildschirm angezeigten Reihenfolge am Zug. Diese Reihenfolge wird vom Initiative-Wert jedes Charakters bestimmt. (Du kannst diesen Wert verbessern, indem du die Fertigkeit „Initiative“ trainierst.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7142,7 +7142,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>1428</ID>
-      <DefaultText>Du kannst bis zu 2 Gebundene Gegenstände gleichzeitig ausrüsten. Wenn deine Konzentrationsstufe "Anfänger" ist, erleidest du die negativen Effekte beider Gegenstände. Auf der Stufe "Trainiert" werden die negativen Effekte des ersten Gegenstands ignoriert. Auf der Stufe "Spezialisiert" erleidest du keine negativen Effekte durch Gebundene Gegenstände. Auf der Fertigkeitsstufe "Unfähigkeit" steht nur ein Slot für Gebundene Gegenstände zur Verfügung, bis du deine Konzentrationsfertigkeit verbessert hast.</DefaultText>
+      <DefaultText>Du kannst bis zu 2 Gebundene Gegenstände gleichzeitig ausrüsten. Wenn deine Konzentrationsstufe „Anfänger“ ist, erleidest du die negativen Effekte beider Gegenstände. Auf der Stufe „Trainiert“ werden die negativen Effekte des ersten Gegenstands ignoriert. Auf der Stufe „Spezialisiert“ erleidest du keine negativen Effekte durch Gebundene Gegenstände. Auf der Fertigkeitsstufe „Unfähigkeit“ steht nur ein Slot für Gebundene Gegenstände zur Verfügung, bis du deine Konzentrationsfertigkeit verbessert hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7167,7 +7167,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>1433</ID>
-      <DefaultText>Die meisten Fertigkeiten erhöhen deine Erfolgschancen bei bestimmten Aktionen und Aufgaben. Einige verleihen jedoch auch sonstige passive Boni. Du beginnst jede Fertigkeit auf der Stufe [Skill: Untrained]Ungeübt und kannst sie auf [Skill: Trained]Trainiert und [Skill: Specialized]Spezialisiert steigern. Jede Stufe gibt dir bessere Boni.\n\nOft sind bestimmte Fertigkeiten bei Beschreibungen auf der Stufe [Skill: Inability]Unfähigkeit, was bedeutet, dass es Abzüge gibt. Eine Verbesserung bringt diese Fertigkeiten auf die Stufe "Ungeübt".</DefaultText>
+      <DefaultText>Die meisten Fertigkeiten erhöhen deine Erfolgschancen bei bestimmten Aktionen und Aufgaben. Einige verleihen jedoch auch sonstige passive Boni. Du beginnst jede Fertigkeit auf der Stufe [Skill: Untrained]Ungeübt und kannst sie auf [Skill: Trained]Trainiert und [Skill: Specialized]Spezialisiert steigern. Jede Stufe gibt dir bessere Boni.\n\nOft sind bestimmte Fertigkeiten bei Beschreibungen auf der Stufe [Skill: Inability]Unfähigkeit, was bedeutet, dass es Abzüge gibt. Eine Verbesserung bringt diese Fertigkeiten auf die Stufe „Ungeübt“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7187,12 +7187,12 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     </Entry>
     <Entry>
       <ID>1437</ID>
-      <DefaultText>Callistege ist eine dimensionale Hülle, die in zahlreichen Dimensionen gleichzeitig existiert. Sie kann diese Transdimensionalität nutzen, um mit der Fähigkeit "Dimensionale Überlagerung" zwischen verschiedenen Orten zu teleportieren.\n\nTeleportieren gilt bei Callistege als&lt;quad class="move"&gt; Bewegung, nicht als &lt;quad class="action"&gt; Aktion. Sie kann diese Fähigkeit also aktivieren und dann noch eine Aktion ausführen.</DefaultText>
+      <DefaultText>Callistege ist eine dimensionale Hülle, die in zahlreichen Dimensionen gleichzeitig existiert. Sie kann diese Transdimensionalität nutzen, um mit der Fähigkeit „Dimensionale Überlagerung“ zwischen verschiedenen Orten zu teleportieren.\n\nTeleportieren gilt bei Callistege als&lt;quad class="move"&gt; Bewegung, nicht als &lt;quad class="action"&gt; Aktion. Sie kann diese Fähigkeit also aktivieren und dann noch eine Aktion ausführen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1438</ID>
-      <DefaultText>Aligerns Körper ist von seltsamen lebendigen Tätowierungen übersät. Er kann seine Fähigkeit "Lebende Tätowierungen" einsetzen, um eine Tätowierung von seiner Haut zu zupfen, was ihm den Zustand [FettleIcon: Status]Lebende Tätowierungen verleiht. Während dieser aktiv ist, erhält er zunehmende Boni, indem er Aktionen derselben Art (Angriffe, Heilen, andere Zustände anwenden) nacheinander ausführt. Wenn er eine andere Art von Aktion ausführt, reißt die Kette und er verliert den Zustand.\n\nDiese Fähigkeit zählt als &lt;quad class="move"&gt; Bewegung, nicht als &lt;quad class="action"&gt; Aktion. Er kann sie also aktivieren und dann noch eine Aktion ausführen.</DefaultText>
+      <DefaultText>Aligerns Körper ist von seltsamen lebendigen Tätowierungen übersät. Er kann seine Fähigkeit „Lebende Tätowierungen“ einsetzen, um eine Tätowierung von seiner Haut zu zupfen, was ihm den Zustand [FettleIcon: Status]Lebende Tätowierungen verleiht. Während dieser aktiv ist, erhält er zunehmende Boni, indem er Aktionen derselben Art (Angriffe, Heilen, andere Zustände anwenden) nacheinander ausführt. Wenn er eine andere Art von Aktion ausführt, reißt die Kette und er verliert den Zustand.\n\nDiese Fähigkeit zählt als &lt;quad class="move"&gt; Bewegung, nicht als &lt;quad class="action"&gt; Aktion. Er kann sie also aktivieren und dann noch eine Aktion ausführen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
