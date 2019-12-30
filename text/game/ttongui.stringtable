@@ -952,7 +952,7 @@
     <Entry>
       <ID>189</ID>
       <DefaultText>{0} {1}-Pool wiederhergestellt.</DefaultText>
-      <FemaleText />
+      <FemaleText /> 
     </Entry>
     <Entry>
       <ID>190</ID>
@@ -962,12 +962,12 @@
     <Entry>
       <ID>191</ID>
       <DefaultText>{0} hat permanent {1} {2}-Pool erhalten.</DefaultText>
-      <FemaleText>Dauerhaft {0} {1}{2}-Pool erhalten.</FemaleText>
+      <FemaleText /> 
     </Entry>
     <Entry>
       <ID>192</ID>
       <DefaultText>{0} hat permanent {1} {2}-Pool verloren.</DefaultText>
-      <FemaleText>Dauerhaft {0} {1} {2}-Pool verloren.</FemaleText>
+      <FemaleText /> 
     </Entry>
     <Entry>
       <ID>193</ID>
