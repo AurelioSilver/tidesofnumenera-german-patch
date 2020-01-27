@@ -18,7 +18,7 @@ Dunkle Männer und Frauen in bunten Roben drängen sich an dir vorbei und wirbel
       <ID>2</ID>
       <DefaultText>Die Bettlerin ist eine ausgemergelte Frau mit rotbrauner Haut, die aussieht, als hätte sie einen permanenten Sonnenbrand. Ihr Haar ist so ausgebleicht, dass es beinahe weiß erscheint, und ihre Augen sind grün mit leichten Blautönen. Ihr Halsband aus glattem, polierten Metall glitzert in der Sonne. {The spoken text is said like a chant, almost sing-song}„Eine Gabe für mein Wissen“, singt sie rhythmisch in einer angenehmen Stimme, während sie sanft vor und zurück schaukelt. „Eine Gabe aus Mitgefühl. Eine Gabe für mein Lied.“​
 
-Sie bemerkt, wie du sie anstarrst. „Dich kenne ich“, sagt sie. Ihre normale Stimme ist beinahe so melodiös wie ihre Singstimme. Sie deutet auf die Seite deines Kopfes. „Ich kenne diese Tätowierung und diese Uniform. Du bist eines der hohen Tiere aus der Endlosen Schlacht, nicht wahr? Ein Abgeworfener? Was hast *du* in der Oase zu suchen?“
+Sie bemerkt, wie du sie anstarrst. „Dich kenne ich“, sagt sie. Ihre normale Stimme ist beinahe so melodiös wie ihre Singstimme. Sie deutet auf die Seite deines Kopfes. „Ich kenne diese Tätowierung und diese Uniform. Du bist eines der hohen Tiere aus der Endlosen Schlacht, nicht wahr? Ein Verstoßener? Was hast *du* in der Oase zu suchen?“
 
 {SOUND: Stop woman singing.}</DefaultText>
       <FemaleText />
@@ -30,7 +30,7 @@ Sie bemerkt, wie du sie anstarrst. „Dich kenne ich“, sagt sie. Ihre normale 
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Beim Anblick deiner Adjustierung fällt es dir wieder ein. Sein Name ist Hreese Fulc und er ist Offizier der Miliz der Ersten. Ein abgerissener Aufnäher an seiner Uniform deutet darauf hin, dass er ein *ehemaliger* Offizier ist. Er wurde aus der Miliz verbannt, nachdem er sich geweigert hatte, auf Pajs Befehl hin unschuldige Abgeworfene zu ermorden. Es war grausam und nicht das, wofür er in Erinnerung bleiben wollte. Er war schockiert gewesen, dass Paj so etwas überhaupt In Erwägung gezogen hatte. Er hat nie eine zufriedenstellende Erklärung über ihre Beweggründe von ihr bekommen.
+      <DefaultText>Beim Anblick deiner Adjustierung fällt es dir wieder ein. Sein Name ist Hreese Fulc und er ist Offizier der Miliz der Ersten. Ein abgerissener Aufnäher an seiner Uniform deutet darauf hin, dass er ein *ehemaliger* Offizier ist. Er wurde aus der Miliz verbannt, nachdem er sich geweigert hatte, auf Pajs Befehl hin unschuldige Verstoßene zu ermorden. Es war grausam und nicht das, wofür er in Erinnerung bleiben wollte. Er war schockiert gewesen, dass Paj so etwas überhaupt In Erwägung gezogen hatte. Er hat nie eine zufriedenstellende Erklärung über ihre Beweggründe von ihr bekommen.
 
 Von deinem Gürtel hängen verschiedene Ornamente – eine Metallhand, ein elektronisches Auge, eine ausgebrannte Energiezelle. Es sind Trophäen von Kämpfen gegen Konstrukte und Automatons – die Spezialität von Hreese. Diese Ornamente trägt er mit Stolz.</DefaultText>
       <FemaleText />
@@ -335,7 +335,7 @@ Natürlich macht er nur dasselbe wie du – aber was ist *sein* Motiv dafür?</D
       <ID>56</ID>
       <DefaultText>Leuchtende Runen scheinen den Kopf dieses großen, schlanken Mannes zu umkreisen. Er trägt dunkle, fein bestickte Roben und einen kurzen Umhang, hauptsächlich in Blau und Lila gehalten. Er wirkt konzentriert, aber du kannst nicht sagen worauf. Als er dich bemerkt, hast du beinahe das Gefühl, als würde er jedes Detail deiner Erscheinung mental festhalten.
 
-Er wirft einen Blick auf Neme hinter dir. „Die Bettelnde und der Abgeworfene. Was wollt ihr von diesem hier wissen?“</DefaultText>
+Er wirft einen Blick auf Neme hinter dir. „Die Bettelnde und der Verstoßene. Was wollt ihr von diesem hier wissen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -802,7 +802,7 @@ Neme reißt das Armband herunter und saugt das Wasser auf. „Danke“, sagt sie
       <ID>140</ID>
       <DefaultText>Sie zuckt verlegen mit den Schultern. „Das ist alles, was ich dir geben kann. Tut mir leid. Vielleicht kann es dir irgendwie nützlich sein.“ Sie gibt dir einen schnellen Kuss auf die Wange. Dann schwimmt sie in die Dunkelheit davon.
 
-Du schwimmst alleine zurück an die Oberfläche. Dabei bemerkst du zwei dunkle Gestalten im Wasser über dir. Für einen Moment scheint der Mond auf sie und du siehst flüchtig zwei Tätowierungen von Abgeworfenen und ein künstliches Auge. Mazzof? Die Gestalten verschwinden in der Menagerie.
+Du schwimmst alleine zurück an die Oberfläche. Dabei bemerkst du zwei dunkle Gestalten im Wasser über dir. Für einen Moment scheint der Mond auf sie und du siehst flüchtig zwei Tätowierungen von Verstoßenen und ein künstliches Auge. Mazzof? Die Gestalten verschwinden in der Menagerie.
 
 Du überlegst kurz, ihnen zu folgen, doch da spürst du bereits ein schmerzhaftes Ziehen in deinen Gedärmen. Innerhalb von Sekunden ist M'ra Jolios vor deinen Augen verschwunden.</DefaultText>
       <FemaleText />
@@ -842,7 +842,7 @@ Leider war Neme dieser Anblick nicht vergönnt.</DefaultText>
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Als du zurück an die Oberfläche schwimmst, bemerkst du zwei dunkle Gestalten im Wasser über dir. Für einen Moment scheint der Mond auf sie und du siehst flüchtig zwei Tätowierungen von Abgeworfenen und ein künstliches Auge. Mazzof? Die Gestalten verschwinden in der Menagerie.
+      <DefaultText>Als du zurück an die Oberfläche schwimmst, bemerkst du zwei dunkle Gestalten im Wasser über dir. Für einen Moment scheint der Mond auf sie und du siehst flüchtig zwei Tätowierungen von Verstoßenen und ein künstliches Auge. Mazzof? Die Gestalten verschwinden in der Menagerie.
 
 Du überlegst kurz, ihnen zu folgen, doch da spürst du bereits ein schmerzhaftes Ziehen in deinen Gedärmen. Innerhalb von Sekunden ist M'ra Jolios vor deinen Augen verschwunden.</DefaultText>
       <FemaleText />
@@ -968,7 +968,7 @@ Du schwimmst sofort los, doch bevor du weit kommst, taucht der Dämon wieder vor
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>„Wo ist die Erste Abgeworfene?“</DefaultText>
+      <DefaultText>„Wo ist die Erste Verstoßene?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
