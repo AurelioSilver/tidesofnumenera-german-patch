@@ -178,7 +178,7 @@ Die Dunkelheit schließt und wickelt sich um dich, sie zerdrückt die Luft aus d
       <ID>34</ID>
       <DefaultText>Du erwachst um Zentimeter, jedes Gelenk schmerzt. Irgendetwas liegt schwer und kalt in deiner and.
 
-Zunächst hälst du das Juwel, das daliegt, für eine der Augen der Statue. Doch dann bemerkst du, dass die Schlange noch ganz unberührt dasteht.
+Zunächst hältst du das Juwel, das daliegt, für eine der Augen der Statue. Doch dann bemerkst du, dass die Schlange noch ganz unberührt dasteht.
 {SCRIPT: Fade in at the beginning of this node.}
 {SCRIPT: Fallen PC gets up.}
 {SCRIPT: Bestows I_item_cypher_PsychicFocus}
