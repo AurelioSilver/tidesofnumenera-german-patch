@@ -365,16 +365,12 @@ Er schnalzt mit der Zunge. „Untersucht ihn nach Belieben. Es ist der mit der v
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Und trotzdem erkennst du, dass du das möglicherweise nicht weiter verfolgen musst. Das ist der Mann – der Verstoßene – von dem das Spiegelbild des Mädchens sprach. Du kannst zu Zaofi dem Bildhauer zurückkehren, wenn du dazu bereit bist.
-
-{SCRIPT: JESSE: Knotenpunkt nur sichtbar, wenn der SC den Leichnam des Mädchens gegessen und mit ihrem Spiegelbild gesprochen hat und dabei die wahre Geschichte des Ausgestoßenen erfährt.}</DefaultText>
+      <DefaultText>Und trotzdem erkennst du, dass du das möglicherweise nicht weiter verfolgen musst. Das ist der Mann – der Verstoßene – von dem das Spiegelbild des Mädchens sprach. Du kannst zu Zaofi dem Bildhauer zurückkehren, wenn du dazu bereit bist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Du schaust an Imbitu vorbei auf den Leichnam auf der Totenbahre und eine Welle der Trauer umgibt dich. Für einen kurzen Augenblick siehst du das Spiegelbild der Frau, deren Leichnam du in den Ruinen eines Hauses entdecktest. Sie und dieser Mann sind irgendwie miteinander verbunden.
-
-{SCRIPT: JESSE: Knotenpunkt nur sichtbar, wenn der Spieler die tote Frau schon im eingestürzten Haus gesehen hat. Sie existiert aber nur als teilweises Spiegelbild. Die Quest wird mit Schritt 4 fortgesetzt.}</DefaultText>
+      <DefaultText>Du schaust an Imbitu vorbei auf den Leichnam auf der Totenbahre und eine Welle der Trauer umgibt dich. Für einen kurzen Augenblick siehst du das Spiegelbild der Frau, deren Leichnam du in den Ruinen eines Hauses entdecktest. Sie und dieser Mann sind irgendwie miteinander verbunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
