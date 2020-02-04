@@ -167,7 +167,7 @@ Er legt einen Finger auf das Kinn. „Lasst mich nachdenken. Der Ratsturm ist gl
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>„Die feinste Stadtbekleidung und Rüstungen für alle, die es sich leisten können. Unsere Qualität ist in der Tat so hoch, dass wir die zertifizierten Lieferanten des offiziellen Abzeichens von Sagus Klippen sind.“</DefaultText>
+      <DefaultText>„Die feinste Stadtbekleidung und Rüstungen für alle, die es sich leisten können. Unsere Qualität ist in der Tat so hoch, dass wir die zertifizierten Lieferanten des offiziellen Abzeichens von Sagusklippen sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,7 +207,7 @@ Er legt einen Finger auf das Kinn. „Lasst mich nachdenken. Der Ratsturm ist gl
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Abzeichen der Stadt werden nicht an jeden verkauft. Sie werden ordentlich gewählten oder ernannten öffentlichen Staatsdienern von Sagus Klippen *überreicht*. Und es wäre illegal, wenn ich sie jemandem geben würde, der nicht für die Stadt arbeitet. Das würde gegen das Gesetz verstoßen.“
+      <DefaultText>„Abzeichen der Stadt werden nicht an jeden verkauft. Sie werden ordentlich gewählten oder ernannten öffentlichen Staatsdienern von Sagusklippen *überreicht*. Und es wäre illegal, wenn ich sie jemandem geben würde, der nicht für die Stadt arbeitet. Das würde gegen das Gesetz verstoßen.“
 
 Er überlegt. „Natürlich bieten mir die meisten Staatsdiener eine Vergütung für die Materialien. Aber nein. Nein, ich werde weder das Risiko eingehen, noch das Vertrauen in mich missbrauchen.“</DefaultText>
       <FemaleText />
@@ -239,12 +239,12 @@ Er überlegt. „Natürlich bieten mir die meisten Staatsdiener eine Vergütung 
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>„Wie wird man ein Staatsdiener von Sagus Klippen?“</DefaultText>
+      <DefaultText>„Wie wird man ein Staatsdiener von Sagusklippen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„Sagt mir nochmal, wie man ein Staatsdiener von Sagus Klippen wird.“</DefaultText>
+      <DefaultText>„Sagt mir nochmal, wie man ein Staatsdiener von Sagusklippen wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -643,8 +643,8 @@ Er hat nichts gesehen, doch Tybir verdreht die Augen.</DefaultText>
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Sangolin runzelt die Stirn. „Es schmerzt mich, dies zu sagen, mein Herr, vor allem, nachdem ich gehört habe, was Ihr alles getan habt, um Sagus Klippen zu helfen, doch ich fürchte, ich glaube Euch nicht, dass Ihr ein Bediensteter der Stadt seid. Bitte versucht nicht nochmal, mich zu überlisten.“</DefaultText>
-      <FemaleText>Sangolin runzelt die Stirn. „Es schmerzt mich, dies zu sagen, meine Dame, vor allem, nachdem ich gehört habe, was Ihr alles getan habt, um Sagus Klippen zu helfen, doch ich fürchte, ich glaube Euch nicht, dass Ihr eine Bedienstete der Stadt seid. Bitte versucht nicht nochmal, mich zu überlisten.“</FemaleText>
+      <DefaultText>Sangolin runzelt die Stirn. „Es schmerzt mich, dies zu sagen, mein Herr, vor allem, nachdem ich gehört habe, was Ihr alles getan habt, um Sagusklippen zu helfen, doch ich fürchte, ich glaube Euch nicht, dass Ihr ein Bediensteter der Stadt seid. Bitte versucht nicht nochmal, mich zu überlisten.“</DefaultText>
+      <FemaleText>Sangolin runzelt die Stirn. „Es schmerzt mich, dies zu sagen, meine Dame, vor allem, nachdem ich gehört habe, was Ihr alles getan habt, um Sagusklippen zu helfen, doch ich fürchte, ich glaube Euch nicht, dass Ihr eine Bedienstete der Stadt seid. Bitte versucht nicht nochmal, mich zu überlisten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>137</ID>
@@ -658,10 +658,10 @@ Er hat nichts gesehen, doch Tybir verdreht die Augen.</DefaultText>
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>„Natürlich nicht, der Herr. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt. „Und als Dank für das, was Ihr bereits für Sagus Klippen getan habt, nehmt bitte diese feinen Handschuhe an, mit Kompliment des Hauses.“
+      <DefaultText>„Natürlich nicht, der Herr. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt. „Und als Dank für das, was Ihr bereits für Sagusklippen getan habt, nehmt bitte diese feinen Handschuhe an, mit Kompliment des Hauses.“
 
 {LOOT: Give player red gloves.}</DefaultText>
-      <FemaleText>„Natürlich nicht, meine Dame. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt. „Und als Dank für das, was Ihr bereits für Sagus Klippen getan habt, nehmt bitte diese feinen Handschuhe an, mit Kompliment des Hauses.“
+      <FemaleText>„Natürlich nicht, meine Dame. Ich kenne die Langsamkeit der Bürokratie in der Stadt nur zu gut. Ich packe Euch das Abzeichen sofort ein.“ Er lächelt. „Und als Dank für das, was Ihr bereits für Sagusklippen getan habt, nehmt bitte diese feinen Handschuhe an, mit Kompliment des Hauses.“
 
 {LOOT: Give player red gloves.}</FemaleText>
     </Entry>
@@ -868,7 +868,7 @@ Er schüttelt den Kopf. „Ihr könntet ihnen einen Monat lang zuhören und nie 
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>„Er ist uralt, jenseits aller Berechnung. Das Fundament des Turms reicht bis hinab zu den Schmieden in Schattenseite. Und darin sitzt der Rat von Sagus Klippen – das feinste, gerechteste legislative Organ in der Neunten Welt. Und das sage ich nicht einfach nur, weil sie meine meist geschätzten Schirmherren sind. Sie führen diese Stadt seit Jahrhunderten gut. Und dank mir sehen sie dabei alle großartig aus.“</DefaultText>
+      <DefaultText>„Er ist uralt, jenseits aller Berechnung. Das Fundament des Turms reicht bis hinab zu den Schmieden in Schattenseite. Und darin sitzt der Rat von Sagusklippen – das feinste, gerechteste legislative Organ in der Neunten Welt. Und das sage ich nicht einfach nur, weil sie meine meist geschätzten Schirmherren sind. Sie führen diese Stadt seit Jahrhunderten gut. Und dank mir sehen sie dabei alle großartig aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -888,7 +888,7 @@ Er schüttelt den Kopf. „Ihr könntet ihnen einen Monat lang zuhören und nie 
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>„Das intellektuelle Zentrum von Sagus Klippen. Ihr unnachgiebiges Streben nach Wissen ist eine Inspiration für uns alle.“</DefaultText>
+      <DefaultText>„Das intellektuelle Zentrum von Sagusklippen. Ihr unnachgiebiges Streben nach Wissen ist eine Inspiration für uns alle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

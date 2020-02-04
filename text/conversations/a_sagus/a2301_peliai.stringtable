@@ -477,7 +477,7 @@ Sie seufzt. „Also gut. Gebt mir, was Ihr habt, und ich werde eine Vereinbarung
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Ich habe keinen Schimmer. Sie graben unentwegt. Sie bestehen darauf, Tunnel unter der Stadt zu graben, wodurch der Stein, auf dem Sagus Klippen erbaut ist, destabilisiert wird. Zahllose Häuser sind eingestürzt oder ins Meer gestürzt – mehr als angesichts der minderwertigen Bauweise, die viele unserer Bewohner an den Tag legen, zu erwarten wäre. Das Problem betrifft vor allem Klippenrand. Viele treue Bürger sind gestorben.“</DefaultText>
+      <DefaultText>„Ich habe keinen Schimmer. Sie graben unentwegt. Sie bestehen darauf, Tunnel unter der Stadt zu graben, wodurch der Stein, auf dem Sagusklippen erbaut ist, destabilisiert wird. Zahllose Häuser sind eingestürzt oder ins Meer gestürzt – mehr als angesichts der minderwertigen Bauweise, die viele unserer Bewohner an den Tag legen, zu erwarten wäre. Das Problem betrifft vor allem Klippenrand. Viele treue Bürger sind gestorben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1026,7 +1026,7 @@ Sie seufzt und glättet die Vorderseite ihres Mantels. „Wir werden sehen. Ihr 
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>Ihre Augen verengen sich zu Schlitzen. „Ich werde die volle Stärke und Autorität des Gesetzes einsetzen, um diese Eier in meinen Besitz zu bringen. Sie sind der Besitz der Stadt Sagus Klippen und des umgebenden Protektorats. Ihr werdet illegale Numenera bei Euch tragen und ich werde Euch *rigoros* strafrechtlich verfolgen.“
+      <DefaultText>Ihre Augen verengen sich zu Schlitzen. „Ich werde die volle Stärke und Autorität des Gesetzes einsetzen, um diese Eier in meinen Besitz zu bringen. Sie sind der Besitz der Stadt Sagusklippen und des umgebenden Protektorats. Ihr werdet illegale Numenera bei Euch tragen und ich werde Euch *rigoros* strafrechtlich verfolgen.“
 
 Sie lehnt sich vor: „Und damit meine ich, dass meine Levis Euch zu Schmiere verarbeiten werden. Gebt Ihr mir nun also bitte diese Eier?“</DefaultText>
       <FemaleText />
@@ -1100,7 +1100,7 @@ Sie nimmt die Eier und überreicht dir im Gegenzug [Global: a2301_StichusEggsPel
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>„Ich werde die volle Stärke und Autorität des Gesetzes einsetzen, um diese Eier in meinen Besitz zu bringen. Sie sind der Besitz der Stadt Sagus Klippen und des umgebenden Protektorats. Ihr werdet illegale Numenera bei Euch tragen und ich werde Euch *rigoros* strafrechtlich verfolgen.“
+      <DefaultText>„Ich werde die volle Stärke und Autorität des Gesetzes einsetzen, um diese Eier in meinen Besitz zu bringen. Sie sind der Besitz der Stadt Sagusklippen und des umgebenden Protektorats. Ihr werdet illegale Numenera bei Euch tragen und ich werde Euch *rigoros* strafrechtlich verfolgen.“
 
 Sie lehnt sich vor: „Und damit meine ich, dass meine Levis Euch zu Schmiere verarbeiten werden. Gebt Ihr mir nun also bitte diese Eier?“</DefaultText>
       <FemaleText />
@@ -1183,7 +1183,7 @@ Sie nimmt die Eier und überreicht dir im Gegenzug [Global: a2301_StichusEggsPel
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>Sie lacht spöttisch und zeigt auf das Siegel auf ihrer Brust. „Die Sklavenfamilien sind die Nachfahren der mutigen Seelen, die sich gegen das Unrecht der vorherigen Herrscher von Sagus Klippen auflehnten. Angeführt von Chila dem Großen stürzten sie die Tyrannen und rissen sie ihre Familien auseinander. Die Getreuen, die zu Chila hielten, wurden mit der Verwaltung der Stadt belohnt. Ihre Nachfahren setzen diese große Tradition fort.“
+      <DefaultText>Sie lacht spöttisch und zeigt auf das Siegel auf ihrer Brust. „Die Sklavenfamilien sind die Nachfahren der mutigen Seelen, die sich gegen das Unrecht der vorherigen Herrscher von Sagusklippen auflehnten. Angeführt von Chila dem Großen stürzten sie die Tyrannen und rissen sie ihre Familien auseinander. Die Getreuen, die zu Chila hielten, wurden mit der Verwaltung der Stadt belohnt. Ihre Nachfahren setzen diese große Tradition fort.“
 
 Sie verneigt sich. „Sie haben mich zu ihrer Agentin gemacht.“</DefaultText>
       <FemaleText />
@@ -1523,7 +1523,7 @@ Sie nimmt dir die Eier ab. „Im Namen der Sklavenfamilien und von ganz Saguskli
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>„Ich werde die volle Stärke und Autorität des Gesetzes einsetzen, um diese Eier in meinen Besitz zu bringen. Sie sind der Besitz der Stadt Sagus Klippen und des umgebenden Protektorats. Ihr werdet illegale Numenera bei Euch tragen und ich werde Euch *rigoros* strafrechtlich verfolgen.“
+      <DefaultText>„Ich werde die volle Stärke und Autorität des Gesetzes einsetzen, um diese Eier in meinen Besitz zu bringen. Sie sind der Besitz der Stadt Sagusklippen und des umgebenden Protektorats. Ihr werdet illegale Numenera bei Euch tragen und ich werde Euch *rigoros* strafrechtlich verfolgen.“
 
 Sie lehnt sich vor: „Und damit meine ich, dass meine Levis Euch zu Schmiere verarbeiten werden. Gebt Ihr mir nun also bitte diese Eier?“</DefaultText>
       <FemaleText />
@@ -1593,7 +1593,7 @@ Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfami
       <ID>323</ID>
       <DefaultText>„Ich bin dankbar, dass wir uns einigen konnten.“
 
-Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagus Klippen danke ich Euch.“
+Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“
 
 {BEUTE: VOLLE QUEST-BELOHNUNG}
 {QUEST ENDE KNOTENPUNKT 13}</DefaultText>
@@ -1616,7 +1616,7 @@ Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfami
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>„Ich werde die volle Stärke und Autorität des Gesetzes einsetzen, um diese Eier in meinen Besitz zu bringen. Sie sind der Besitz der Stadt Sagus Klippen und des umgebenden Protektorats. Ihr werdet illegale Numenera bei Euch tragen und ich werde Euch *rigoros* strafrechtlich verfolgen.“
+      <DefaultText>„Ich werde die volle Stärke und Autorität des Gesetzes einsetzen, um diese Eier in meinen Besitz zu bringen. Sie sind der Besitz der Stadt Sagusklippen und des umgebenden Protektorats. Ihr werdet illegale Numenera bei Euch tragen und ich werde Euch *rigoros* strafrechtlich verfolgen.“
 
 Sie lehnt sich vor: „Und damit meine ich, dass meine Levis Euch zu Schmiere verarbeiten werden. Gebt Ihr mir nun also bitte diese Eier?“</DefaultText>
       <FemaleText />
@@ -1827,7 +1827,7 @@ Sie versammelt ihre Levis und wippt den Kopf in deine Richtung. „Gute Arbeit.�
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>„Ich werde die volle Stärke und Autorität des Gesetzes einsetzen, um diese Eier in meinen Besitz zu bringen. Sie sind der Besitz der Stadt Sagus Klippen und des umgebenden Protektorats. Ihr werdet illegale Numenera bei Euch tragen und ich werde Euch *rigoros* strafrechtlich verfolgen.“
+      <DefaultText>„Ich werde die volle Stärke und Autorität des Gesetzes einsetzen, um diese Eier in meinen Besitz zu bringen. Sie sind der Besitz der Stadt Sagusklippen und des umgebenden Protektorats. Ihr werdet illegale Numenera bei Euch tragen und ich werde Euch *rigoros* strafrechtlich verfolgen.“
 
 Sie lehnt sich vor: „Und damit meine ich, dass meine Levis Euch zu Schmiere verarbeiten werden. Gebt Ihr mir nun also bitte diese Eier?“</DefaultText>
       <FemaleText />
@@ -2156,7 +2156,7 @@ Die Varjellen nickt. „Wenn Ihr wirklich glaubt, dass Ihr helfen könnt, machen
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText>Sie schaut dich ungläubig an. „Der herrschende Rat der Stadt, natürlich. Die Oberhäupter der Sklavenfamilien. Ihr müsst neu in Sagus Klippen sein. Ziemlich neu.“</DefaultText>
+      <DefaultText>Sie schaut dich ungläubig an. „Der herrschende Rat der Stadt, natürlich. Die Oberhäupter der Sklavenfamilien. Ihr müsst neu in Sagusklippen sein. Ziemlich neu.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
