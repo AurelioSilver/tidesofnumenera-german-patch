@@ -2,16 +2,16 @@
 Aadiriis
 Abykos
 Achilli/S
-Adahn
 Adahn/S
 Aen-tozon/S
 Aeon-Priester
+Aidan Sitabo
 Aidan/S
 Aitasii
 Ajiva
 Alara
 Alcen/S
-Aldeia
+Aldeia/S
 ALIGERN
 Aligern/S
 Almas
@@ -21,7 +21,7 @@ Aneen
 Angulische/N
 Anshe
 Anvor/S
-Arechi
+Arechi/S
 Artaglio/S
 Arthour
 Arxalin/S
@@ -50,6 +50,7 @@ Carker
 Casca/S
 Casmeen/S
 Ceredig/S
+Cettria
 Ceturl/E
 Chila/S
 Ch'kekt
@@ -116,7 +117,10 @@ Irathor
 Isatrina
 Ishen/S
 Ishtrinu
+Iyene
 Jalippa
+Janur
+Jebedee/S
 Jemadar/S
 Jenkins
 Jerboa
@@ -166,6 +170,7 @@ Matkina/S
 Matty
 Mazzof/S
 Mechela/S
+Mellidrym
 Melmoth/S
 Memovira/S
 Meregalli
@@ -210,6 +215,7 @@ Qianne/S
 Qorro/S
 Qra
 Quijano
+Quijano del Toboso
 Quishami/S
 Raima/S
 Ranard/S
@@ -251,7 +257,7 @@ Synthgitter
 Synthrohren
 Synthscherben
 Tabaht/S
-Talira
+Talira/S
 Tan-Liang
 Tarnish
 Tash/S
@@ -270,6 +276,7 @@ Ushrov/S
 Vallon
 Vander/S
 Varjellen
+Varlin
 Varrenoth
 Veresterios
 Verschlinger
@@ -278,7 +285,7 @@ Villon
 Vonetian
 Vostiel/S
 Vrung/S
-Vuntgen
+Vuntgen/S
 Wheedle
 Yeen/S
 Yollen
@@ -310,6 +317,7 @@ Windschlitzer
 Avest
 Cheirurgen-Fälle
 Cheirurgen-Fällen
+Circus Minor
 Flüsterschloss
 Garravia-Sund
 Groß-Gavaria
@@ -326,7 +334,7 @@ Nekropolis
 Nihliesh
 Sada
 Sagus
-Sagus-Klippen
+Sagusklippen
 # Diverses
 Aether-Funk
 Arpeggio
@@ -345,8 +353,12 @@ Memorialist
 Memorialisten
 Mendikant
 Mendikanten
+Nahkampfangriffe
+nibovianischen
+nibovianisches
 Pestschiff/S
 Phobit/S
+Teleportationsknolle
 transdimensionale/N
 transdimensionaler
 transdimensionales
@@ -366,13 +378,16 @@ Color
 CRIT
 CritDuration
 CritFettleDescriptions
+CritFettles
 CritRangeBonus
 DakoreSleepFee
 DAMAGE
 Damage
 DamageFromEffort
+Debuff
 DEBUG
 DemerayObervichEyeCost
+FettleDescriptions
 FettleEffectsBasic
 FettleIcon
 Fettles
