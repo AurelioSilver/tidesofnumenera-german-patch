@@ -24,7 +24,7 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>„Weitergehen, Freund. Mein Partner und ich haben keine Geduld mit Schurken und Verrätern.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Weitergehen, Liebchen. Mein Partner und ich haben keine Geduld mit Schurken und Verrätern.“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -185,7 +185,7 @@ Er lächelt. „Canadu stürmte vorwärts, in der Hand den Vorschlaghammer seine
     <Entry>
       <ID>35</ID>
       <DefaultText>„Passt auf Euch auf, mein Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Passt auf Euch auf, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -245,7 +245,7 @@ El-Jinto zuckt mit den Schultern. „Ich habe – ein wenig hektisch, wie ich zu
     <Entry>
       <ID>48</ID>
       <DefaultText>„Ich kann Euch nicht helfen, etwas zu reparieren, das ich noch nie gesehen habe“, sagt er. „Verzeiht, mein Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich kann Euch nicht helfen, etwas zu reparieren, das ich noch nie gesehen habe“, sagt er. „Verzeiht, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
@@ -387,7 +387,7 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</FemaleText>
     <Entry>
       <ID>72</ID>
       <DefaultText>„Hallo, mein Freund“, sagt er. „Seid Ihr hier, um das Nychthemeron zu sehen – meinen Freund im Käfig dort drüben – oder seid Ihr nur hier, um zu plaudern?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Hallo, mein Freundin“, sagt er. „Seid Ihr hier, um das Nychthemeron zu sehen – meinen Freund im Käfig dort drüben – oder seid Ihr nur hier, um zu plaudern?“</FemaleText>
     </Entry>
     <Entry>
       <ID>73</ID>
@@ -460,7 +460,7 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</FemaleText>
     <Entry>
       <ID>89</ID>
       <DefaultText>„Wir müssen unsere Ausgaben kompensieren, mein Freund“, sagt er und schüttelt den Kopf in beinahe ehrlichem Bedauern. „Vorräte für unterwegs, Hammerreparaturen, Artefakt-Wiederherstellung, Käfiginstandhaltung und so weiter. Ich kann den Verkaufspreis nicht um einen einzigen Shin senken.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wir müssen unsere Ausgaben kompensieren, meine Freundin“, sagt er und schüttelt den Kopf in beinahe ehrlichem Bedauern. „Vorräte für unterwegs, Hammerreparaturen, Artefakt-Wiederherstellung, Käfiginstandhaltung und so weiter. Ich kann den Verkaufspreis nicht um einen einzigen Shin senken.“</FemaleText>
     </Entry>
     <Entry>
       <ID>90</ID>
@@ -494,14 +494,18 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</FemaleText>
       <DefaultText>„Tu ich das?“ Er streicht sich sichtlich geschmeichelt über das Kinn. „Nun, ich gestehe eine gewisse Leichtigkeit mit gesprochenen Worten, doch ich habe kein Talent für das Ausdenken von Fiktion, mein Freund. Für mich heißt es Wahrheit oder Stille.“
 
 Der Ansatz eines Lächelns ist auf seinem gut verlebten Gesicht zu erkennen. „Glücklicherweise hatte ich ein seltsameres Leben als die meisten.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Tu ich das?“ Er streicht sich sichtlich geschmeichelt über das Kinn. „Nun, ich gestehe eine gewisse Leichtigkeit mit gesprochenen Worten, doch ich habe kein Talent für das Ausdenken von Fiktion, meine Freundin. Für mich heißt es Wahrheit oder Stille.“
+
+Der Ansatz eines Lächelns ist auf seinem gut verlebten Gesicht zu erkennen. „Glücklicherweise hatte ich ein seltsameres Leben als die meisten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>96</ID>
       <DefaultText>„Guten Abend, mein Freund“, sagt er. „Und auch ein merkwürdiger Abend. Die Dunkelheit bricht normalerweise nicht so schnell herein.“
 
 Er reibt sich mit einer Hand über das Kinn. „Seid Ihr hier, um das Nychthemeron zu sehen – meinen Freund im Käfig dort drüben – oder seid Ihr nur hier, um zu plaudern?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Guten Abend, meine Freundin“, sagt er. „Und auch ein merkwürdiger Abend. Die Dunkelheit bricht normalerweise nicht so schnell herein.“
+
+Er reibt sich mit einer Hand über das Kinn. „Seid Ihr hier, um das Nychthemeron zu sehen – meinen Freund im Käfig dort drüben – oder seid Ihr nur hier, um zu plaudern?“</FemaleText>
     </Entry>
     <Entry>
       <ID>97</ID>
@@ -528,7 +532,9 @@ Er reibt sich mit einer Hand über das Kinn. „Seid Ihr hier, um das Nychthemer
       <DefaultText>„Er ist alles andere als 'meiner', mein Freund“, sagt El-Jinto mit einem rauen Glucksen. „Wie Ihr wahrscheinlich sehen werdet, wenn Ihr Euch seinem Käfig nähert.“
 
 Er tippt sich an den Hut. „Fahrt fort. Stellt Eure Fragen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Er ist alles andere als 'meiner', meine Freundin“, sagt El-Jinto mit einem rauen Glucksen. „Wie Ihr wahrscheinlich sehen werdet, wenn Ihr Euch seinem Käfig nähert.“
+
+Er tippt sich an den Hut. „Fahrt fort. Stellt Eure Fragen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>102</ID>
@@ -538,12 +544,12 @@ Er tippt sich an den Hut. „Fahrt fort. Stellt Eure Fragen.“</DefaultText>
     <Entry>
       <ID>103</ID>
       <DefaultText>„Interessant? Nun, das überlasse ich Euch, mein Freund. Was möchtet Ihr hören?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Interessant? Nun, das überlasse ich Euch, meine Freundin. Was möchtet Ihr hören?“</FemaleText>
     </Entry>
     <Entry>
       <ID>104</ID>
       <DefaultText>„Schön, Euch wiederzusehen, mein Freund. Seid Ihr hier, um unseren Tentakel-Gast zu besuchen?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Schön, Euch wiederzusehen, meine Freundin. Seid Ihr hier, um unseren Tentakel-Gast zu besuchen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>105</ID>
@@ -572,7 +578,11 @@ Er tippt sich an den Hut. „Fahrt fort. Stellt Eure Fragen.“</DefaultText>
 „Lebender Kristall“, murmelt er schließlich. „Auf der Suche nach einem größeren Ganzen. Immer noch warm … vielleicht am Leben, vielleicht denkend.“
 
 Er gibt dir die Scherbe mit einem Anflug von Bedauern zurück. „Interessantes Stück Technologie, doch keine, über die ich viel weiß. Verzeiht, mein Freund. Versucht, jemand anderes zu fragen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er nimmt die Kristallscherbe sehr vorsichtig in die Hand und wendet sie in seinen aufgesprungenen Händen hin und her. In der Stille nimmst du einen Hauch von Holzrauch wahr und bemerkst, dass seine Augen schiefergrau geworden sind.
+
+„Lebender Kristall“, murmelt er schließlich. „Auf der Suche nach einem größeren Ganzen. Immer noch warm … vielleicht am Leben, vielleicht denkend.“
+
+Er gibt dir die Scherbe mit einem Anflug von Bedauern zurück. „Interessantes Stück Technologie, doch keine, über die ich viel weiß. Verzeiht, meine Freundin. Versucht, jemand anderes zu fragen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>110</ID>
@@ -670,7 +680,7 @@ Er gibt Canadu ein kompliziertes Pfeifsignal. Der große Mann hebt seine Brauen,
     <Entry>
       <ID>127</ID>
       <DefaultText>„Passt auf Euch auf, mein Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Passt auf Euch auf, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>128</ID>
@@ -680,7 +690,7 @@ Er gibt Canadu ein kompliziertes Pfeifsignal. Der große Mann hebt seine Brauen,
     <Entry>
       <ID>129</ID>
       <DefaultText>„Passt auf Euch auf, mein Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Passt auf Euch auf, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>130</ID>
