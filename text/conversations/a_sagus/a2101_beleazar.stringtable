@@ -446,9 +446,7 @@ Beleazar wischt sich mit der Hand über den Mund. „Sagt den Wachen, Ihr wollt 
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>„Ich hab's gesehen!“ Beleazar klatscht freudestrahlend in die Hände. „Das bedeutet, die Kreatur *sollte* jetzt irgendwo im Riff sein. Findet sie, tötet sie und bringt mir ihr Erinnerungsorgan.“
-
-{ADAM: There used to be a player choice following this. Now, the PC will always get the warning, so the NPC thoughts may no longer fit here.}</DefaultText>
+      <DefaultText>„Ich hab's gesehen!“ Beleazar klatscht freudestrahlend in die Hände. „Das bedeutet, die Kreatur *sollte* jetzt irgendwo im Riff sein. Findet sie, tötet sie und bringt mir ihr Erinnerungsorgan.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -892,9 +890,7 @@ Seine Hand zuckt, als könne er sich nur mit Mühe beherrschen, dich durchzusch�
       <ID>172</ID>
       <DefaultText>„Oh“, sagt er. Er blinzelt, langsam, wie eine mechanische Puppe. Tränen schwimmen in seinen Augen.
 
-„Alle sabotieren mich!“, kreischt er. „Ihr habt meine Arbeit ruiniert! Mein Leben zerstört!“ Er zeigt mit dem Finger auf dich. „Ich werde das nicht vergessen! Niemals!“
-
-{JESSE: Should this mention the device being taken back?}</DefaultText>
+„Alle sabotieren mich!“, kreischt er. „Ihr habt meine Arbeit ruiniert! Mein Leben zerstört!“ Er zeigt mit dem Finger auf dich. „Ich werde das nicht vergessen! Niemals!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
