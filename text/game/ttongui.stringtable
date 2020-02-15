@@ -3328,7 +3328,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     <Entry>
       <ID>665</ID>
       <DefaultText>Nur dem letzten Verstoßenen vorbehalten.</DefaultText>
-      <FemaleText />
+      <FemaleText>Nur der letzten Verstoßenen vorbehalten.</FemaleText>
     </Entry>
     <Entry>
       <ID>666</ID>
@@ -3968,7 +3968,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     <Entry>
       <ID>793</ID>
       <DefaultText>[Color: TooltipFormatting]Schaltet schwierigere Gezeitenwellen-Optionen frei.[/Color]\n\nErmöglicht dem letzten Verstoßenen bessere Kontrolle und Finesse mit den Gezeiten und gewährt Zugang zu zunehmend komplexen Möglichkeiten, Leute und Objekte mit diesen Kräften mit Gezeitenwellen zu manipulieren.</DefaultText>
-      <FemaleText />
+      <FemaleText>[Color: TooltipFormatting]Schaltet schwierigere Gezeitenwellen-Optionen frei.[/Color]\n\nErmöglicht der letzten Verstoßenen bessere Kontrolle und Finesse mit den Gezeiten und gewährt Zugang zu zunehmend komplexen Möglichkeiten, Leute und Objekte mit diesen Kräften mit Gezeitenwellen zu manipulieren.</FemaleText>
     </Entry>
     <Entry>
       <ID>794</ID>
@@ -4349,7 +4349,7 @@ Der Begriff „Nano“ leitet sich aus der Nanotechnologie ab, die in der Neunte
     <Entry>
       <ID>868</ID>
       <DefaultText>Bist du dir sicher, dass du fortfahren möchtest? Dies ist deine letzte Chance, den Charaktertyp oder den Deskriptor des letzten Verstoßenen zu ändern.</DefaultText>
-      <FemaleText />
+      <FemaleText>Bist du dir sicher, dass du fortfahren möchtest? Dies ist deine letzte Chance, den Charaktertyp oder den Deskriptor der letzten Verstoßenen zu ändern.</FemaleText>
     </Entry>
     <Entry>
       <ID>869</ID>
@@ -6514,7 +6514,7 @@ Der Begriff „Nano“ leitet sich aus der Nanotechnologie ab, die in der Neunte
     <Entry>
       <ID>1301</ID>
       <DefaultText>[Color: Health]Gesundheit[/Color] bestimmt wie viel Schaden ein Charakter erleiden kann.\n\nWenn die Gesundheit des Letzten Verstoßenen auf 0 gesenkt wird, dann wirst du gewöhnlicherweise in der Stille wieder aufwachen.\n\nWenn ein Gefährte besiegt wird, fällt er in Ohnmacht. Er wird wiederbelebt, wenn er geheilt wird, eine Notlage endet, oder du ein neues Gebiet betrittst. Wenn er nicht geheilt wird, erleidet er einen [FettleIcon: Debuff][Color: NegativeModifier]Anhaltender Schaden[/Color]- Zustand.</DefaultText>
-      <FemaleText />
+      <FemaleText>[Color: Health]Gesundheit[/Color] bestimmt wie viel Schaden ein Charakter erleiden kann.\n\nWenn die Gesundheit der Letzten Verstoßenen auf 0 gesenkt wird, dann wirst du gewöhnlicherweise in der Stille wieder aufwachen.\n\nWenn ein Gefährte besiegt wird, fällt er in Ohnmacht. Er wird wiederbelebt, wenn er geheilt wird, eine Notlage endet, oder du ein neues Gebiet betrittst. Wenn er nicht geheilt wird, erleidet er einen [FettleIcon: Debuff][Color: NegativeModifier]Anhaltender Schaden[/Color]- Zustand.</FemaleText>
     </Entry>
     <Entry>
       <ID>1302</ID>
@@ -7470,27 +7470,27 @@ Der Begriff „Nano“ leitet sich aus der Nanotechnologie ab, die in der Neunte
     <Entry>
       <ID>1493</ID>
       <DefaultText>{0} verabscheut den Letzten Verstoßenen.</DefaultText>
-      <FemaleText />
+      <FemaleText>{0} verabscheut die Letzte Verstoßene.</FemaleText>
     </Entry>
     <Entry>
       <ID>1494</ID>
       <DefaultText>{0} mag den Letzten Verstoßenen nicht.</DefaultText>
-      <FemaleText />
+      <FemaleText>{0} mag die Letzte Verstoßene nicht.</FemaleText>
     </Entry>
     <Entry>
       <ID>1495</ID>
-      <DefaultText>{0} steht dem Letzten Verstoßenen neutral gegenüber.</DefaultText>
-      <FemaleText />
+      <DefaultText>{0} mag den Letzten Verstoßenen nicht.</DefaultText>
+      <FemaleText>{0} mag die Letzte Verstoßene nicht.</FemaleText>
     </Entry>
     <Entry>
       <ID>1496</ID>
       <DefaultText>{0} mag den Letzten Verstoßenen.</DefaultText>
-      <FemaleText />
+      <FemaleText>{0} mag die Letzte Verstoßene.</FemaleText>
     </Entry>
     <Entry>
       <ID>1497</ID>
       <DefaultText>{0} verehrt den Letzten Verstoßenen.</DefaultText>
-      <FemaleText />
+      <FemaleText>{0} verehrt die Letzte Verstoßene.</FemaleText>
     </Entry>
     <Entry>
       <ID>1498</ID>
