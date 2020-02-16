@@ -98,18 +98,14 @@
       <ID>23</ID>
       <DefaultText>Qorro betrachtet dich und deine Gefährten mit neuen Augen. Man kann beinahe zusehen, wie die Kampfeslust aus ihm entweicht. „Aye, da könntest du recht haben, Cal.“
 
-Er ruft zu seinen Kollegen. „Wir wurden nicht bezahlt, um bis in den Tod zu kämpfen. Lassen wir diese Forscher in Ruhe.“
-
-{SCRIPT: Crisis ends. Qorro and friends walk off.}</DefaultText>
+Er ruft zu seinen Kollegen. „Wir wurden nicht bezahlt, um bis in den Tod zu kämpfen. Lassen wir diese Forscher in Ruhe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Qorro senkt für einen Moment seine Armbrust. „Du hast recht, Cal. Wir kennen uns schon zu lange, um uns gegenseitig zu töten.“
 
-Er wendet sich seinen Kollegen zu. „Lasst Cal in Ruhe, aber schnappt euch diesen Gefallenen Stern!“
-
-{SCRIPT: Qorro and friends no longer attack Callistege.}</DefaultText>
+Er wendet sich seinen Kollegen zu. „Lasst Cal in Ruhe, aber schnappt euch diesen Gefallenen Stern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
