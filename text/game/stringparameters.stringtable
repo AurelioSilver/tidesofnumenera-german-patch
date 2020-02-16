@@ -4532,7 +4532,7 @@
     <Entry>
       <ID>906</ID>
       <DefaultText>*höre auf ihn. ich bin keine krankheit. ich bin du.*</DefaultText>
-      <FemaleText />
+      <FemaleText>*höre auf sie. ich bin keine krankheit. ich bin du.*</FemaleText>
     </Entry>
     <Entry>
       <ID>907</ID>
@@ -4551,8 +4551,8 @@
     </Entry>
     <Entry>
       <ID>910</ID>
-      <DefaultText>Ein Verstoßener! Einer, den ich nie gesehen habe!</DefaultText>
-      <FemaleText />
+      <DefaultText>Ein Verstoßener! Einer, den ich noch nie gesehen habe!</DefaultText>
+      <FemaleText>Eine Verstoßene! Eine, die ich noch nie gesehen habe!</FemaleText>
     </Entry>
     <Entry>
       <ID>911</ID>
