@@ -331,12 +331,12 @@ Als die Figur anfängt, mit dir zu sprechen, kannst du förmlich spüren, wie si
     <Entry>
       <ID>70</ID>
       <DefaultText>„Wir sind die Diener Eures Schöpfers, verehrter Herr. Er war es, der Euch zu Eurer Inkarnation verholfen hat. Er vermag den Verlauf der Geschichte zu verändern, und nicht einmal der Tod kann ihn aufhalten. Er ist der Retter der Menschheit, und wir streben danach, auf seinen Wegen zu wandeln.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wir sind die Diener Eures Schöpfers, verehrte Dame. Er war es, der Euch zu Eurer Inkarnation verholfen hat. Er vermag den Verlauf der Geschichte zu verändern, und nicht einmal der Tod kann ihn aufhalten. Er ist der Retter der Menschheit, und wir streben danach, auf seinen Wegen zu wandeln.“</FemaleText>
     </Entry>
     <Entry>
       <ID>71</ID>
       <DefaultText>„Wir sind die Diener Eures Schöpfers, verehrter Herr.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wir sind die Diener Eures Schöpfers, verehrte Dame.“</FemaleText>
     </Entry>
     <Entry>
       <ID>72</ID>
@@ -361,7 +361,7 @@ Als die Figur anfängt, mit dir zu sprechen, kannst du förmlich spüren, wie si
     <Entry>
       <ID>78</ID>
       <DefaultText>„Möge das Licht des Wandelnden Gottes Euch leuchten, Verräter.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Möge das Licht des Wandelnden Gottes Euch leuchten, Verräterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>79</ID>
