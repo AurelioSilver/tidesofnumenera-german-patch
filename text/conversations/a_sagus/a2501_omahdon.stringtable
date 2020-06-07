@@ -12,7 +12,7 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>Omahdon wird heiter, als er dich sieht. „Hallo, mein Freund. Hast du Neuigkeiten über Perseia? Hast du sie gesehen?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Omahdon wird heiter, als er dich sieht. „Hallo, meine Freundin. Hast du Neuigkeiten über Perseia? Hast du sie gesehen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -71,7 +71,9 @@ Er nimmt ihn sehr vorsichtig von dir. „Ich wusste, die Hexe hat mich angelogen
       <DefaultText>Er runzelt die Stirn. „Sie kehrt ins Grab zurück? Das ist beunruhigend, aber vielleicht schaffe ich es noch rechtzeitig. Danke, mein Freund – du hast mir Hoffnung gegeben, Nimm bitte das hier als Dank. Jetzt muss ich mich beeilen. Lebe wohl.“
 
 {LOOT}</DefaultText>
-      <FemaleText />
+      <FemaleText>Er runzelt die Stirn. „Sie kehrt ins Grab zurück? Das ist beunruhigend, aber vielleicht schaffe ich es noch rechtzeitig. Danke, meine Freundin – du hast mir Hoffnung gegeben, Nimm bitte das hier als Dank. Jetzt muss ich mich beeilen. Lebe wohl.“
+
+{LOOT}</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
@@ -83,21 +85,27 @@ Er nimmt ihn sehr vorsichtig von dir. „Ich wusste, die Hexe hat mich angelogen
       <DefaultText>Er schlägt sich mit der Faust in die Handinnenfläche. „Ha! Ich wusste, die Hexe lügt! Ich …“
 
 Er verstummt allmählich und schaut dich verschmitzt an. „Aber vielleicht lügst du ja auch. Ich werde wohl mit Ruhe reden und überprüfen, ob eure Geschichten übereinstimmen. Schönen Tag, mein Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er schlägt sich mit der Faust in die Handinnenfläche. „Ha! Ich wusste, die Hexe lügt! Ich …“
+
+Er verstummt allmählich und schaut dich verschmitzt an. „Aber vielleicht lügst du ja auch. Ich werde wohl mit Ruhe reden und überprüfen, ob eure Geschichten übereinstimmen. Schönen Tag, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Er schüttelt den Kopf. „Ruhe versucht also, mich von der Spur abzubringen, indem sie dir mit ihrer List Worte in den Mund legt.“
 
 Er klopft dir auf die Schulter. „Ich gebe dir keine Schuld, mein Freund. Sie hat schon viel klügere hinters Licht geführt. Aber auf dich werde ich auch nicht hören, jedenfalls nicht, solange sie deine Lippen bewegt. Jetzt weiß ich, wo Perseia *nicht* hin ging.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er schüttelt den Kopf. „Ruhe versucht also, mich von der Spur abzubringen, indem sie dir mit ihrer List Worte in den Mund legt.“
+
+Er klopft dir auf die Schulter. „Ich gebe dir keine Schuld, meine Freundin. Sie hat schon viel klügere hinters Licht geführt. Aber auf dich werde ich auch nicht hören, jedenfalls nicht, solange sie deine Lippen bewegt. Jetzt weiß ich, wo Perseia *nicht* hin ging.“</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Er schlägt sich mit der Faust in die Handinnenfläche. „Ha! Ich wusste, die Hexe lügt! Sada Imidu, also? Dann muss ich mich beeilen – das nächste Schiff fährt, sobald der Wind dreht.“
 
 Er verbeugt sich vor dir, während er zu den Docks zurückgeht. „Danke, mein Freund. Du hast mir heute einen großen Dienst erwiesen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er schlägt sich mit der Faust in die Handinnenfläche. „Ha! Ich wusste, die Hexe lügt! Sada Imidu, also? Dann muss ich mich beeilen – das nächste Schiff fährt, sobald der Wind dreht.“
+
+Er verbeugt sich vor dir, während er zu den Docks zurückgeht. „Danke, meine Freundin. Du hast mir heute einen großen Dienst erwiesen.</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
@@ -121,21 +129,27 @@ Er schmunzelt. „Wenigstens hast du mir gesagt, wo Perseia *nicht* einging.“<
       <DefaultText>Er schlägt sich mit der Faust in die Handinnenfläche. „Ha! Ich wusste, die Hexe lügt! Ich …“
 
 Er verstummt allmählich und schaut dich verschmitzt an. „Aber vielleicht lügst du ja auch. Ich werde wohl mit Ruhe reden und überprüfen, ob eure Geschichten übereinstimmen. Schönen Tag, mein Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er schlägt sich mit der Faust in die Handinnenfläche. „Ha! Ich wusste, die Hexe lügt! Ich …“
+
+Er verstummt allmählich und schaut dich verschmitzt an. „Aber vielleicht lügst du ja auch. Ich werde wohl mit Ruhe reden und überprüfen, ob eure Geschichten übereinstimmen. Schönen Tag, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Er schüttelt den Kopf. „Ruhe versucht also, mich von der Spur abzubringen, indem sie dir mit ihrer List Worte in den Mund legt.“
 
 Er klopft dir auf die Schulter. „Ich gebe dir keine Schuld, mein Freund. Sie hat schon viel klügere hinters Licht geführt. Aber auf dich werde ich auch nicht hören, jedenfalls nicht, solange sie deine Lippen bewegt. Jetzt weiß ich, wo Perseia *nicht* hin ging.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er schüttelt den Kopf. „Ruhe versucht also, mich von der Spur abzubringen, indem sie dir mit ihrer List Worte in den Mund legt.“
+
+Er klopft dir auf die Schulter. „Ich gebe dir keine Schuld, meine Freundin. Sie hat schon viel klügere hinters Licht geführt. Aber auf dich werde ich auch nicht hören, jedenfalls nicht, solange sie deine Lippen bewegt. Jetzt weiß ich, wo Perseia *nicht* hin ging.“</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Er schlägt sich mit der Faust in die Handinnenfläche. „Ha! Ich wusste, die Hexe lügt! Haref, also? Dann muss ich mich beeilen – das nächste Schiff fährt, sobald der Wind dreht.“
 
 Er verbeugt sich vor dir, während er zu den Docks zurückgeht. „Danke, mein Freund. Du hast mir heute einen großen Dienst erwiesen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er schlägt sich mit der Faust in die Handinnenfläche. „Ha! Ich wusste, die Hexe lügt! Haref, also? Dann muss ich mich beeilen – das nächste Schiff fährt, sobald der Wind dreht.“
+
+Er verbeugt sich vor dir, während er zu den Docks zurückgeht. „Danke, meine Freundin. Du hast mir heute einen großen Dienst erwiesen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
@@ -152,7 +166,7 @@ Er schmunzelt. „Wenigstens hast du mir gesagt, wo Perseia *nicht* einging.“<
     <Entry>
       <ID>26</ID>
       <DefaultText>„Gute Reise, mein Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Gute Reise, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -164,7 +178,9 @@ Er schmunzelt. „Wenigstens hast du mir gesagt, wo Perseia *nicht* einging.“<
       <DefaultText>Omahdon grinst, als er sich dir nähert. „Deine Lügen haben dich eingeholt, mein Freund. Ruhe sagte mir, dass Perseia nach Haref ging, wohingegen du sagtest, sie sei nach Sada Imidu.“
 
 Er schmunzelt. „Und da ich jetzt weiß, dass sie zu keinem der beiden Orte ging und dass von Sagusklippen aus nur ein anderes Schiff seit meiner Ankunft mit dem Ziel Tal der toten Helden abflog, habt ihr zwei mich auf die richtige Spur gebracht. Ich werde Perseia dort wiederfinden, wo ich sie ganz am Anfang fand und wir werden noch einmal neu starten.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Omahdon grinst, als er sich dir nähert. „Deine Lügen haben dich eingeholt, meine Freundin. Ruhe sagte mir, dass Perseia nach Haref ging, wohingegen du sagtest, sie sei nach Sada Imidu.“
+
+Er schmunzelt. „Und da ich jetzt weiß, dass sie zu keinem der beiden Orte ging und dass von Sagusklippen aus nur ein anderes Schiff seit meiner Ankunft mit dem Ziel Tal der toten Helden abflog, habt ihr zwei mich auf die richtige Spur gebracht. Ich werde Perseia dort wiederfinden, wo ich sie ganz am Anfang fand und wir werden noch einmal neu starten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
@@ -194,7 +210,7 @@ Er schmunzelt. „Und da ich jetzt weiß, dass sie zu keinem der beiden Orte gin
     <Entry>
       <ID>34</ID>
       <DefaultText>„Ich *wusste*, dass sie gelogen hat! Danke, mein Freund! Ich gehe jetzt zu ihr. Und wenn sie denkt, sie kommt mit einer einfachen Entschuldigung davon, dann ist sie noch dümmer, als sie aussieht!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich *wusste*, dass sie gelogen hat! Danke, meine Freundin! Ich gehe jetzt zu ihr. Und wenn sie denkt, sie kommt mit einer einfachen Entschuldigung davon, dann ist sie noch dümmer, als sie aussieht!“</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
@@ -209,7 +225,7 @@ Er schmunzelt. „Und da ich jetzt weiß, dass sie zu keinem der beiden Orte gin
     <Entry>
       <ID>37</ID>
       <DefaultText>Omahdon schenkt dir ein freundliches Lächeln, als er zurückkehrt. „Es tut mir leid, dass ich an dir gezweifelt habe, mein Freund. Ich sprach mit Ruhe und eure Geschichten decken sich. Perseia ging nach Haref, dort werde ich sie suchen. Ich kann es kaum erwarten, meine Liebste wiederzusehen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Omahdon schenkt dir ein freundliches Lächeln, als er zurückkehrt. „Es tut mir leid, dass ich an dir gezweifelt habe, meine Freundin. Ich sprach mit Ruhe und eure Geschichten decken sich. Perseia ging nach Haref, dort werde ich sie suchen. Ich kann es kaum erwarten, meine Liebste wiederzusehen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -519,7 +535,7 @@ Seine Stimme wird ganz sanft. „Es tut mehr weh, als die Wahrheit sagen kann.�
     <Entry>
       <ID>102</ID>
       <DefaultText>„Vielen Dank für deine ‚Hilfe‘, mein Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Vielen Dank für deine ‚Hilfe‘, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>103</ID>
