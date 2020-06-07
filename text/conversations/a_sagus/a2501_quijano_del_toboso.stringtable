@@ -384,12 +384,14 @@ Er zeigt dir die Rückseite seiner Rüstung. Sie ist verformt durch eine enorme 
       <DefaultText>„Dann werden wir ihm etwas Neues beibringen!“, ruft Quijano und seine Augen sind voller Glückstränen. „Dieses Untier klingt in der Tat eines großen Abenteuers würdig! Ich eile jetzt zum Riff und beobachte unseren Gegner aus der Ferne. Wir sehen uns dort, mein Freund.“
 
 Er summt vor sich hin und wackelt fort.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Dann werden wir ihm etwas Neues beibringen!“, ruft Quijano und seine Augen sind voller Glückstränen. „Dieses Untier klingt in der Tat eines großen Abenteuers würdig! Ich eile jetzt zum Riff und beobachte unseren Gegner aus der Ferne. Wir sehen uns dort, meine Freundin.“
+
+Er summt vor sich hin und wackelt fort.</FemaleText>
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>„Ich habe von diesen Schurken gehört!“, sagt er. „Sie hinterlassen nichts als Blutlachen und zerrissenes Fleisch! Ihr habt recht, mein Freund. Diese Welt kann die Pest dieser Schurken nicht mehr länger auf ihrer Haut ertragen! Sagt nur Bescheid und ich werde sie jagen bis zu meinem letzten Atemzug.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich habe von diesen Schurken gehört!“, sagt er. „Sie hinterlassen nichts als Blutlachen und zerrissenes Fleisch! Ihr habt recht, meine Freundin. Diese Welt kann die Pest dieser Schurken nicht mehr länger auf ihrer Haut ertragen! Sagt nur Bescheid und ich werde sie jagen bis zu meinem letzten Atemzug.“</FemaleText>
     </Entry>
     <Entry>
       <ID>73</ID>
@@ -426,7 +428,9 @@ Er summt vor sich hin und wackelt fort.</DefaultText>
       <DefaultText>„Dieser Teufel!“, ruft er aus. Sein Bart zittert vor Empörung. „Aber leider kann ich Euch nicht helfen. Ein Ritter muss nicht nur seine Stärken kennen, sondern auch seine Schwächen, und … ähm … Ermittlungen waren noch nie meine starke Seite.“
 
 Er schlägt dir erneut auf die Schulter. „Gute Jagd, mein Freund. Gute Jagd!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Dieser Teufel!“, ruft er aus. Sein Bart zittert vor Empörung. „Aber leider kann ich Euch nicht helfen. Ein Ritter muss nicht nur seine Stärken kennen, sondern auch seine Schwächen, und … ähm … Ermittlungen waren noch nie meine starke Seite.“
+
+Er schlägt dir erneut auf die Schulter. „Gute Jagd, meine Freundin. Gute Jagd!“</FemaleText>
     </Entry>
     <Entry>
       <ID>80</ID>
