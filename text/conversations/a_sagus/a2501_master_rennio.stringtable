@@ -393,12 +393,14 @@ Er zeigt auf sein einziges Schiff. „Jetzt fliege ich nur noch zum Tal der tote
       <DefaultText>„Geschichtsträchtig, mein Freund, und du hast dir den richtigen für deine Fragen ausgesucht. Ähem.“
 
 Er streicht seine Kleidung glatt und stellt sich auf. „Das war einmal ein Sammelplatz gegen unsere Feinde, die Tabaht. Unsere Vorfahren konnten von hier aus den herannahenden Feind beobachten und ihre Einheiten dirigieren. Sie sagen, dass von hier oben die Verteidigung kommandiert wurde.“ Er zeigt auf eine Felsnase auf der anderen Seite der Hochebene.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Geschichtsträchtig, meine Freundin, und du hast dir den richtigen für deine Fragen ausgesucht. Ähem.“
+
+Er streicht seine Kleidung glatt und stellt sich auf. „Das war einmal ein Sammelplatz gegen unsere Feinde, die Tabaht. Unsere Vorfahren konnten von hier aus den herannahenden Feind beobachten und ihre Einheiten dirigieren. Sie sagen, dass von hier oben die Verteidigung kommandiert wurde.“ Er zeigt auf eine Felsnase auf der anderen Seite der Hochebene.</FemaleText>
     </Entry>
     <Entry>
       <ID>80</ID>
       <DefaultText>„Mein Freund, für einen Händler ist das der beste Ort in der Stadt. Man kann über den Garravia-Sund blicken und die Schiffe herankommen sehen. Da drüben, der Flor. Man kann Ebbe und Flut des Handels beobachten, das Klimpern der Shin und man weiß, dass die Welt so funktioniert, wie sie soll – zum Wohle aller.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Meine Freundin, für einen Händler ist das der beste Ort in der Stadt. Man kann über den Garravia-Sund blicken und die Schiffe herankommen sehen. Da drüben, der Flor. Man kann Ebbe und Flut des Handels beobachten, das Klimpern der Shin und man weiß, dass die Welt so funktioniert, wie sie soll – zum Wohle aller.“</FemaleText>
     </Entry>
     <Entry>
       <ID>81</ID>
@@ -523,12 +525,12 @@ Er streicht seine Kleidung glatt und stellt sich auf. „Das war einmal ein Samm
     <Entry>
       <ID>105</ID>
       <DefaultText>„Bestens, mein Freund. Die Luft wird frischer und wir können heute auf dem Rücken der Wolken segeln!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Bestens, meine Freundin. Die Luft wird frischer und wir können heute auf dem Rücken der Wolken segeln!“</FemaleText>
     </Entry>
     <Entry>
       <ID>106</ID>
       <DefaultText>„Sehr wohl, mein Freund, wir werden gleich abreisen!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sehr wohl, meine Freundin, wir werden gleich abreisen!“</FemaleText>
     </Entry>
     <Entry>
       <ID>107</ID>
@@ -543,7 +545,7 @@ Er streicht seine Kleidung glatt und stellt sich auf. „Das war einmal ein Samm
     <Entry>
       <ID>109</ID>
       <DefaultText>„Wie du willst, mein Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Wie du willst, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>110</ID>
