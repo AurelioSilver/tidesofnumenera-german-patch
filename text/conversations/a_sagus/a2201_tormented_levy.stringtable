@@ -14,7 +14,7 @@ Er starrt durch dich hindurch, wobei er einen kleinen, verkohlten Gegenstand imm
     <Entry>
       <ID>2</ID>
       <DefaultText>„Sch-schön, Euch zu wiederzusehen, mein Herr“, sagt der Levy, während er noch immer über den Platz blickt. Tränen kullern ihm langsam über die Wangen.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sch-schön, Euch zu wiederzusehen, meine Dame“, sagt der Levy, während er noch immer über den Platz blickt. Tränen kullern ihm langsam über die Wangen.</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -245,7 +245,11 @@ Er taumelt davon, das verkohlte Spielzeug wiegend, und hinterlässt dabei einen 
 „Passt auf, wo Ihr hingeht, mein Herr!“, sagt der Levy mit breitem, ungetrübtem Lächeln. „Ihr wärt beinahe böse gestürzt!“
 
 Pfeifend entfernt er sich und hinterlässt den verkohlten Holzvogel im Dreck.</DefaultText>
-      <FemaleText />
+      <FemaleText>Du taumelst, von Übelkeit befallen. Starke, kalte Hände halten dich fest.
+
+„Passt auf, wo Ihr hingeht, meine Dame!“, sagt der Levy mit breitem, ungetrübtem Lächeln. „Ihr wärt beinahe böse gestürzt!“
+
+Pfeifend entfernt er sich und hinterlässt den verkohlten Holzvogel im Dreck.</FemaleText>
     </Entry>
     <Entry>
       <ID>43</ID>
