@@ -606,7 +606,9 @@ Es folgt eine lange Pause. Sie starrt dich einen Augenblick lang direkt an. Ihr 
       <DefaultText>Ihr Lächeln lässt nach, dann verschwindet es völlig. „Richtig. Das tut es.“
 
 Sie wendet sich ab und greift in ihre Tasche. Sie murmelt zu sich selbst und sagt: „Nein, nein. Ich habe es zuerst gesagt. Woher sollte *er* es wissen?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Ihr Lächeln lässt nach, dann verschwindet es völlig. „Richtig. Das tut es.“
+
+Sie wendet sich ab und greift in ihre Tasche. Sie murmelt zu sich selbst und sagt: „Nein, nein. Ich habe es zuerst gesagt. Woher sollte *sie* es wissen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>130</ID>
