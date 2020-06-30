@@ -9,7 +9,9 @@
       <DefaultText>Zur Menge spricht ein gut gekleideter, aber kränklich aussehender Mann – klein, pummelig und mit ungesunder gelblicher Hautfarbe. Dennoch hat er das stolze Benehmen und die Stentorstimme eines viel größeren Mannes.
 
 Er dröhnt dich förmlich an, als du näher kommst. „Ah! Noch ein möglicher Kandidat. Vorzüglich! Das Volk wünschte die Befreiung von diesem tobenden Stichus und ein Held antwortete. Äußerst mutig von Euch!“</DefaultText>
-      <FemaleText />
+      <FemaleText>ur Menge spricht ein gut gekleideter, aber kränklich aussehender Mann – klein, pummelig und mit ungesunder gelblicher Hautfarbe. Dennoch hat er das stolze Benehmen und die Stentorstimme eines viel größeren Mannes.
+
+Er dröhnt dich förmlich an, als du näher kommst. „Ah! Noch eine mögliche Kandidatin. Vorzüglich! Das Volk wünschte die Befreiung von diesem tobenden Stichus und eine Heldin antwortete. Äußerst mutig von Euch!“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -21,7 +23,7 @@ Er blickt voller Unbehagen auf die Menge. „Wenn diese Menschen hier ihn zu fas
     <Entry>
       <ID>3</ID>
       <DefaultText>Er lächelt, als er dich näherkommen sieht. „Der Kandidat ist zurück. Habt Ihr schon den Stichus gefunden?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er lächelt, als er dich näherkommen sieht. „Die Kandidatin ist zurück. Habt Ihr schon den Stichus gefunden?“</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -459,7 +461,9 @@ Er schluckt. „Ihr wisst, dass sie mich töten, wenn sie das erfahren. Wollt Ih
       <DefaultText>„Danke. Jetzt werden wir ja sehen.“
 
 Er wendet sich der Menge zu. „Bürger! Dieser Mann behauptet, dass er den Stichus versteckt auf einer Müllhalde hinter dem Fünften Auge fand. Er behauptet, dass er harmlos sei. Geht selbst hin und findet heraus, ob er freiwillig mitkommt!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Danke. Jetzt werden wir ja sehen.“
+
+Er wendet sich der Menge zu. „Bürger! Diese Frau behauptet, dass er den Stichus versteckt auf einer Müllhalde hinter dem Fünften Auge fand. Sie behauptet, dass er harmlos sei. Geht selbst hin und findet heraus, ob er freiwillig mitkommt!“</FemaleText>
     </Entry>
     <Entry>
       <ID>92</ID>
