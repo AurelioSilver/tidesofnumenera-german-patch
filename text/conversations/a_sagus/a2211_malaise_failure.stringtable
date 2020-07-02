@@ -32,7 +32,13 @@ Sie klopft dir auf die Schulter und übergibt dir ein kleines Gerät. „Lebt wo
 
 
 {LOOT}</DefaultText>
-      <FemaleText />
+      <FemaleText>Für einen Moment lang ist sie ganz still. „Er hätte gewollt, dass Ihr für Euren Einsatz belohnt werdet. Meine Dankbarkeit ist Euch gewiss. Unser aller Dankbarkeit. Selbst wenn es außer uns nie jemand hören wird, habt Ihr heute Großes vollbracht. Tragt dieses Wissen stets bei Euch.“
+
+Sie klopft dir auf die Schulter und übergibt dir ein kleines Gerät. „Lebt wohl, Freundin.“
+
+
+
+{LOOT}</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
