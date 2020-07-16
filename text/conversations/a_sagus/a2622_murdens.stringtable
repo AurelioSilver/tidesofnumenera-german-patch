@@ -26,7 +26,8 @@ Das sind Murden – grausame und hinterlistige Aasfresser. Und ein Fünfter von 
       <ID>4</ID>
       <DefaultText>„Meine Güte“, sagt Callistege. „Dulsen. Ich frage mich, was sie in Salimeris kleiner Gruft machen. Sei vorsichtig, Liebling. Sie sind unberechenbar und brutal.“
 {CALLISTEGE}</DefaultText>
-      <FemaleText />
+      <FemaleText>„Meine Güte“, sagt Callistege. „Dulsen. Ich frage mich, was sie in Salimeris kleiner Gruft machen. Sei vorsichtig, Liebes. Sie sind unberechenbar und brutal.“
+{CALLISTEGE}</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
