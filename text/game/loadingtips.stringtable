@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Wenn du Anstrengung verwendest, in Gesprächen oder in Notlagen, brauchst du Punkte von deinen &lt;quad class="mightpool"&gt;[Color: Might]Kraft-[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]Geschwindigkeits-[/Color] oder &lt;quad class="intellectpool"&gt;[Color: Intellect]Intellekt-[/Color]Pools auf.</DefaultText>
+      <DefaultText>Wenn du Anstrengung verwendest, in Gesprächen oder in Krisen, brauchst du Punkte von deinen &lt;quad class="mightpool"&gt;[Color: Might]Kraft-[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]Geschwindigkeits-[/Color] oder &lt;quad class="intellectpool"&gt;[Color: Intellect]Intellekt-[/Color]Pools auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Wenn du in einer Notlage bist, versetze Gruppenmitglieder an die anderen Seiten des Gegners, um ihn den Flankierten Zustand zu erteilen.</DefaultText>
+      <DefaultText>Wenn du dich in einer Krise befindest, versetze Gruppenmitglieder an die anderen Seiten des Gegners, um ihn den Flankierten Zustand zu erteilen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Anstrengung zu deinen Angriffen zuzufügen ist kritisch, für den Erfolg in Notlagen – aber gib Acht, deine Pools nicht zu schnell aufzubrauchen.</DefaultText>
+      <DefaultText>Anstrengung zu deinen Angriffen zuzufügen ist kritisch, für den Erfolg in Krisen – aber gib Acht, deine Pools nicht zu schnell aufzubrauchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Ein Angriff ist selten die einzige Lösung einer Notlage. Versuche es, mit Objekten zu interagieren oder mit deinen Gegnern zu reden.</DefaultText>
+      <DefaultText>Ein Angriff ist selten die einzige Lösung einer Krise. Versuche es, mit Objekten zu interagieren oder mit deinen Gegnern zu reden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

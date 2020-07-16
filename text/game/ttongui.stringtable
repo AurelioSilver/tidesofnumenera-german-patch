@@ -6228,12 +6228,12 @@ Der Begriff „Nano“ leitet sich aus der Nanotechnologie ab, die in der Neunte
     </Entry>
     <Entry>
       <ID>1244</ID>
-      <DefaultText>Tutorial: Notlage</DefaultText>
+      <DefaultText>Tutorial: Krise</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1245</ID>
-      <DefaultText>Eine Notlage beginnt, wenn eine gefährliche Situation auftaucht. Notlagen sind rundenbasierte Begegnungen, wo du kämpfen, schleichen, die Umgebung beeinflussen oder dich herausreden kannst.</DefaultText>
+      <DefaultText>Eine Krise beginnt, wenn eine gefährliche Situation auftaucht. Krisen sind rundenbasierte Begegnungen, wo du kämpfen, schleichen, die Umgebung beeinflussen oder dich herausreden kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6243,7 +6243,7 @@ Der Begriff „Nano“ leitet sich aus der Nanotechnologie ab, die in der Neunte
     </Entry>
     <Entry>
       <ID>1247</ID>
-      <DefaultText>In dieser Notlage musst du dem Kummer entkommen, indem du seine Verbindungen zu deinem Verstand trennst. Um das zu tun, kannst du die Reflexionen töten, die er sich angebunden hat, indem du sie angreifst.</DefaultText>
+      <DefaultText>In dieser Krise musst du dem Kummer entkommen, indem du seine Verbindungen zu deinem Verstand trennst. Um das zu tun, kannst du die Reflexionen töten, die er sich angebunden hat, indem du sie angreifst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6513,8 +6513,8 @@ Der Begriff „Nano“ leitet sich aus der Nanotechnologie ab, die in der Neunte
     </Entry>
     <Entry>
       <ID>1301</ID>
-      <DefaultText>[Color: Health]Gesundheit[/Color] bestimmt wie viel Schaden ein Charakter erleiden kann.\n\nWenn die Gesundheit des Letzten Verstoßenen auf 0 gesenkt wird, dann wirst du gewöhnlicherweise in der Stille wieder aufwachen.\n\nWenn ein Gefährte besiegt wird, fällt er in Ohnmacht. Er wird wiederbelebt, wenn er geheilt wird, eine Notlage endet, oder du ein neues Gebiet betrittst. Wenn er nicht geheilt wird, erleidet er einen [FettleIcon: Debuff][Color: NegativeModifier]Anhaltender Schaden[/Color]- Zustand.</DefaultText>
-      <FemaleText>[Color: Health]Gesundheit[/Color] bestimmt wie viel Schaden ein Charakter erleiden kann.\n\nWenn die Gesundheit der Letzten Verstoßenen auf 0 gesenkt wird, dann wirst du gewöhnlicherweise in der Stille wieder aufwachen.\n\nWenn ein Gefährte besiegt wird, fällt er in Ohnmacht. Er wird wiederbelebt, wenn er geheilt wird, eine Notlage endet, oder du ein neues Gebiet betrittst. Wenn er nicht geheilt wird, erleidet er einen [FettleIcon: Debuff][Color: NegativeModifier]Anhaltender Schaden[/Color]- Zustand.</FemaleText>
+      <DefaultText>[Color: Health]Gesundheit[/Color] bestimmt wie viel Schaden ein Charakter erleiden kann.\n\nWenn die Gesundheit des Letzten Verstoßenen auf 0 gesenkt wird, dann wirst du gewöhnlicherweise in der Stille wieder aufwachen.\n\nWenn ein Gefährte besiegt wird, fällt er in Ohnmacht. Er wird wiederbelebt, wenn er geheilt wird, eine Krise endet, oder du ein neues Gebiet betrittst. Wenn er nicht geheilt wird, erleidet er einen [FettleIcon: Debuff][Color: NegativeModifier]Anhaltender Schaden[/Color]- Zustand.</DefaultText>
+      <FemaleText>[Color: Health]Gesundheit[/Color] bestimmt wie viel Schaden ein Charakter erleiden kann.\n\nWenn die Gesundheit der Letzten Verstoßenen auf 0 gesenkt wird, dann wirst du gewöhnlicherweise in der Stille wieder aufwachen.\n\nWenn ein Gefährte besiegt wird, fällt er in Ohnmacht. Er wird wiederbelebt, wenn er geheilt wird, eine Krise endet, oder du ein neues Gebiet betrittst. Wenn er nicht geheilt wird, erleidet er einen [FettleIcon: Debuff][Color: NegativeModifier]Anhaltender Schaden[/Color]- Zustand.</FemaleText>
     </Entry>
     <Entry>
       <ID>1302</ID>
