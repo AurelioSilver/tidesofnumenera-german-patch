@@ -140,7 +140,9 @@ Sie zerzaust ihr Haar, bringt es noch mehr durcheinander, und singt: „Gekommen
       <DefaultText>Als du dich dieser Gruppe näherst, beäugt dich die Frau mit den wilden Haaren abschätzend und flüstert ihren Gefährten etwas zu. Sie brechen in Gelächter aus. Ein leichtes Grinsen umspielt ihre Lippen. Um ihren Hals hängt eine Atemmaske an einer Schnur. Du kannst erkennen, wo sie permanente Furchen in ihrem Gesicht hinterlassen hat.
 
 Sie erblickt Rhin und ihr Gesicht wird vorsichtig ausdruckslos. „Ich sehe, dass Ihr mir mein kleines Vögelchen wieder zurückgebracht habt. Schickt sie hier rüber und ich sorge dafür, dass Ihr gut entschädigt werdet. Ich habe Informationen, die Ihr wollt, Verstoßener.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Als du dich dieser Gruppe näherst, beäugt dich die Frau mit den wilden Haaren abschätzend und flüstert ihren Gefährten etwas zu. Sie brechen in Gelächter aus. Ein leichtes Grinsen umspielt ihre Lippen. Um ihren Hals hängt eine Atemmaske an einer Schnur. Du kannst erkennen, wo sie permanente Furchen in ihrem Gesicht hinterlassen hat.
+
+Sie erblickt Rhin und ihr Gesicht wird vorsichtig ausdruckslos. „Ich sehe, dass Ihr mir mein kleines Vögelchen wieder zurückgebracht habt. Schickt sie hier rüber und ich sorge dafür, dass Ihr gut entschädigt werdet. Ich habe Informationen, die Ihr wollt, Verstoßene.“</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -2092,7 +2094,11 @@ Sie konzentriert sich einen Moment lang und das Miasma, das Euren Geist füllte,
 Sie schaut zu Rhin und Ihr spürt eine unbestimmbare Emotion, die sich um Tols Kopf bildet – Verlangen, Verzweiflung, ratlose Wut und noch mehr – dann seufzt sie schwer. „Also gut, Rhin. Das hier ist dein neuer Besitzer. Hat den Preis ordentlich bezahlt. Sei ein … sei ein …“
 
 Sie reibt sich die Augen und wendet sich ab. „Vergiss es. Geh.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Sie nimmt das Geld und zählt jeden Shin. Missmutig steckt sie den Beutel ein. „Also gut. Aber wenn sie Euch entläuft und ich sie wiederfinde, werde ich sie nie wieder von meiner Seite lassen.“
+
+Sie schaut zu Rhin und Ihr spürt eine unbestimmbare Emotion, die sich um Tols Kopf bildet – Verlangen, Verzweiflung, ratlose Wut und noch mehr – dann seufzt sie schwer. „Also gut, Rhin. Das hier ist deine neue Besitzerin. Hat den Preis ordentlich bezahlt. Sei ein … sei ein …“
+
+Sie reibt sich die Augen und wendet sich ab. „Vergiss es. Geh.“</FemaleText>
     </Entry>
     <Entry>
       <ID>479</ID>
