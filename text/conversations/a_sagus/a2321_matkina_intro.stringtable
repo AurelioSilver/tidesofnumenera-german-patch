@@ -864,7 +864,9 @@ Sie stößt einen tiefen Seufzer aus. „Er hat mir diese Erinnerung gestohlen, 
       <DefaultText>„Glaubst du etwa, ich habe das nicht versucht?“ Sie knurrt dich wütend an und hält dir plötzlich das Messer eine Handbreit entfernt an den Hals. „Glaubst du wirklich, ich verschwende meine Zeit mit einem Neugeborenen, einem Dieb, der sich in mein Heim schleicht, wenn ich auch nur den Hauch einer Chance hätte, das selbst zu tun?“ Ihre Schultern heben und senken sich mit jedem wuterfüllten Atemzug.
 
 „Ich versuche es, doch in meinen Gedanken ist nur ein Rauschen. Als würde ich mit einer Murde reden. Nur, dass sie mich dabei aufschlitzt, aufspießt und verbrennt und …“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Glaubst du etwa, ich habe das nicht versucht?“ Sie knurrt dich wütend an und hält dir plötzlich das Messer eine Handbreit entfernt an den Hals. „Glaubst du wirklich, ich verschwende meine Zeit mit einer Neugeborenen, einer Diebin, die sich in mein Heim schleicht, wenn ich auch nur den Hauch einer Chance hätte, das selbst zu tun?“ Ihre Schultern heben und senken sich mit jedem wuterfüllten Atemzug.
+
+„Ich versuche es, doch in meinen Gedanken ist nur ein Rauschen. Als würde ich mit einer Murde reden. Nur, dass sie mich dabei aufschlitzt, aufspießt und verbrennt und …“</FemaleText>
     </Entry>
     <Entry>
       <ID>183</ID>
@@ -1020,7 +1022,7 @@ Sie verstummt. Sie greift nach dem Tisch und er scheint sie zu stützen. Ihre Au
     <Entry>
       <ID>213</ID>
       <DefaultText>„*Was* hast du gesagt? Das ist Hausfriedensbruch, das ist dir klar, oder? Mit einem Verstoßenen herzukommen macht dich verdächtiger, und nicht das Gegenteil.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„*Was* hast du gesagt? Das ist Hausfriedensbruch, das ist dir klar, oder? Mit einer Verstoßenen herzukommen macht dich verdächtiger, und nicht das Gegenteil.“</FemaleText>
     </Entry>
     <Entry>
       <ID>214</ID>
