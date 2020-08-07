@@ -6,15 +6,15 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Das Gesicht dieses gerüsteten Mannes ist auf seltsame Weise gewöhnlich, fast als ob es entworfen wurde, um vergessen zu werden. Seine Tracht weist ihn als Soldaten im Dienste von Sagusklippen aus … ein 'Levy'. Das Wort kommt euch einfach in den Kopf.
+      <DefaultText>Das Gesicht dieses gerüsteten Mannes ist auf seltsame Weise gewöhnlich, fast als ob es entworfen wurde, um vergessen zu werden. Seine Tracht weist ihn als Soldaten im Dienste von Sagusklippen aus … ein 'Levi'. Das Wort kommt euch einfach in den Kopf.
 
 Er starrt durch dich hindurch, wobei er einen kleinen, verkohlten Gegenstand immer wieder in seinen Händen wendet und zu sich selbst flüstert. Seine übergroßen Augen sind gerötet, feucht und angsterfüllt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Sch-schön, Euch zu wiederzusehen, mein Herr“, sagt der Levy, während er noch immer über den Platz blickt. Tränen kullern ihm langsam über die Wangen.</DefaultText>
-      <FemaleText>„Sch-schön, Euch zu wiederzusehen, meine Dame“, sagt der Levy, während er noch immer über den Platz blickt. Tränen kullern ihm langsam über die Wangen.</FemaleText>
+      <DefaultText>„Sch-schön, Euch zu wiederzusehen, mein Herr“, sagt der Levi, während er noch immer über den Platz blickt. Tränen kullern ihm langsam über die Wangen.</DefaultText>
+      <FemaleText>„Sch-schön, Euch zu wiederzusehen, meine Dame“, sagt der Levi, während er noch immer über den Platz blickt. Tränen kullern ihm langsam über die Wangen.</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -50,7 +50,7 @@ Er kneift die Augen zu, als ob er versuchen würde, Visionen zu zerschmettern, d
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Ja?“, sagt er und schüttelt dann den Kopf. „Nein. Das kann ich nicht. Sucht nach einem anderen Levy. Bitte.“</DefaultText>
+      <DefaultText>„Ja?“, sagt er und schüttelt dann den Kopf. „Nein. Das kann ich nicht. Sucht nach einem anderen Levi. Bitte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,7 +124,7 @@ Er umarmt sich selbst. „Ich sehe sie kommen. Es kann nicht verändert werden!�
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>„Sagt ihm Folgendes – für mich *ist* der Gillem-Manor-Auftrag passiert. Ein Bediensteter schnappte ihn und rief die Levys. Sie jagten ihn und er l-legte ein F-feuer.“
+      <DefaultText>„Sagt ihm Folgendes – für mich *ist* der Gillem-Manor-Auftrag passiert. Ein Bediensteter schnappte ihn und rief die Levis. Sie jagten ihn und er l-legte ein F-feuer.“
 
 Er kneift die Augen zusammen. „Das Feuer breitete sich auf die Nachbarschaft aus. Menschen waren gefangen. Menschen *schrien*.“ Seine Hand zerquetscht den verkohlten Spielzeugvogel mit einem weichen *Krach*.
 
@@ -159,9 +159,9 @@ Er kneift die Augen zusammen. „Das Feuer breitete sich auf die Nachbarschaft a
     <Entry>
       <ID>29</ID>
       <DefaultText>„Finzin gab Euch bereits ein Jahr seines Lebens. Ihr habt kein Anrecht auf mehr.“
-{GAVIN: Das hier vorerst mit leerer Variable versehen. Vielleicht wieder als Alternative zum Zweig Hauptmann der Levys hinzufügen.}
+{GAVIN: Das hier vorerst mit leerer Variable versehen. Vielleicht wieder als Alternative zum Zweig Hauptmann der Levis hinzufügen.}
 
-{Hinweis von AH: Das der Levy Oblivious ist, bin ich mir nicht sicher, warum ein dominanter Indigo eine Wirkung hätte. (Diesen Hinweis hinzugefügt, sollte sich jemand dazu entscheiden, diesen Zweig zu prüfen und das leere Global zu entfernen).}</DefaultText>
+{Hinweis von AH: Das der Levi Oblivious ist, bin ich mir nicht sicher, warum ein dominanter Indigo eine Wirkung hätte. (Diesen Hinweis hinzugefügt, sollte sich jemand dazu entscheiden, diesen Zweig zu prüfen und das leere Global zu entfernen).}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -182,7 +182,7 @@ Einen Vogel.
     <Entry>
       <ID>32</ID>
       <DefaultText>„Finzin gab Euch bereits ein Jahr seines Lebens. Ihr habt kein Anrecht auf mehr.“
-{GAVIN: Das hier vorerst mit leerer Variable versehen. Vielleicht wieder als Alternative zum Zweig Hauptmann der Levys hinzufügen.}</DefaultText>
+{GAVIN: Das hier vorerst mit leerer Variable versehen. Vielleicht wieder als Alternative zum Zweig Hauptmann der Levis hinzufügen.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -225,7 +225,7 @@ Er taumelt davon, das verkohlte Spielzeug wiegend, und hinterlässt dabei einen 
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Bereinige den Geist des Levy von den Visionen von Finzins verlorenem Jahr.</DefaultText>
+      <DefaultText>Bereinige den Geist des Levis von den Visionen von Finzins verlorenem Jahr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -242,18 +242,18 @@ Er taumelt davon, das verkohlte Spielzeug wiegend, und hinterlässt dabei einen 
       <ID>42</ID>
       <DefaultText>Du taumelst, von Übelkeit befallen. Starke, kalte Hände halten dich fest.
 
-„Passt auf, wo Ihr hingeht, mein Herr!“, sagt der Levy mit breitem, ungetrübtem Lächeln. „Ihr wärt beinahe böse gestürzt!“
+„Passt auf, wo Ihr hingeht, mein Herr!“, sagt der Levi mit breitem, ungetrübtem Lächeln. „Ihr wärt beinahe böse gestürzt!“
 
 Pfeifend entfernt er sich und hinterlässt den verkohlten Holzvogel im Dreck.</DefaultText>
       <FemaleText>Du taumelst, von Übelkeit befallen. Starke, kalte Hände halten dich fest.
 
-„Passt auf, wo Ihr hingeht, meine Dame!“, sagt der Levy mit breitem, ungetrübtem Lächeln. „Ihr wärt beinahe böse gestürzt!“
+„Passt auf, wo Ihr hingeht, meine Dame!“, sagt der Levi mit breitem, ungetrübtem Lächeln. „Ihr wärt beinahe böse gestürzt!“
 
 Pfeifend entfernt er sich und hinterlässt den verkohlten Holzvogel im Dreck.</FemaleText>
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Dieser Levy ist nicht wie die anderen, die du bisher gesehen hast. Das breite Lächeln ist nicht vorhanden, und seine seltsam geformten Augen sind gerötet, feucht und angsterfüllt. Er starrt durch dich hindurch, zu sich selbst flüsternd, wobei er einen kleinen, verkohlten Gegenstand immer wieder in seinen Händen wendet.</DefaultText>
+      <DefaultText>Dieser Levi ist nicht wie die anderen, die du bisher gesehen hast. Das breite Lächeln ist nicht vorhanden, und seine seltsam geformten Augen sind gerötet, feucht und angsterfüllt. Er starrt durch dich hindurch, zu sich selbst flüsternd, wobei er einen kleinen, verkohlten Gegenstand immer wieder in seinen Händen wendet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,7 +263,7 @@ Pfeifend entfernt er sich und hinterlässt den verkohlten Holzvogel im Dreck.</F
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Ich bin falsch“, bestätigt der Levy mit bebenden Lippen. „Verdorben. Aus den falschen Teilen gemacht und mit geschwärztem Draht zusammengebunden.“
+      <DefaultText>„Ich bin falsch“, bestätigt der Levi mit bebenden Lippen. „Verdorben. Aus den falschen Teilen gemacht und mit geschwärztem Draht zusammengebunden.“
 
 Er bedeckt sein Gesicht mit seinen Handgelenken. „Bitte geht.“</DefaultText>
       <FemaleText />
