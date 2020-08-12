@@ -9,7 +9,9 @@
       <DefaultText>Nachdem die Levis abgezogen sind und die Menge sich aufgelöst hat, sucht Ris festen Halt, da er von seiner Qual noch nicht wirklich genesen ist. Schließlich hebt er den Kopf und richtet seine Aufmerksamkeit auf dich. „Wenn Ihr derjenige seid, der mich aus diesem Albtraum rausgeholt hat, dann danke ich Euch, doch wo ist dieser …?“
 
 Er erblickt Tybir. „Da bist du ja, du windiger Bastard! Wo ist das Geld? Wenn ich für nichts durch diese Hölle gehen musste, dann werde ich …“</DefaultText>
-      <FemaleText />
+      <FemaleText>Nachdem die Levis abgezogen sind und die Menge sich aufgelöst hat, sucht Ris festen Halt, da er von seiner Qual noch nicht wirklich genesen ist. Schließlich hebt er den Kopf und richtet seine Aufmerksamkeit auf dich. „Wenn Ihr diejenige seid, die mich aus diesem Albtraum rausgeholt hat, dann danke ich Euch, doch wo ist dieser …?“
+
+Er erblickt Tybir. „Da bist du ja, du windiger Bastard! Wo ist das Geld? Wenn ich für nichts durch diese Hölle gehen musste, dann werde ich …“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -222,7 +224,9 @@ Er lehnt sich vor und flüstert dir zu: „Äh, ich werde in Karawanserei sein, 
       <DefaultText>„Was? Nach allem, was wir zusammen durchgestanden haben? Als feiner Freund hast du dich erwiesen!“
 
 Er macht eine krude Geste in deine Richtung. Darauf wendet er sich ab und flüchtet in den Schatten. Ris jagt sofort hinterher.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Was? Nach allem, was wir zusammen durchgestanden haben? Als feine Freundin hast du dich erwiesen!“
+
+Er macht eine krude Geste in deine Richtung. Darauf wendet er sich ab und flüchtet in den Schatten. Ris jagt sofort hinterher.</FemaleText>
     </Entry>
     <Entry>
       <ID>41</ID>
