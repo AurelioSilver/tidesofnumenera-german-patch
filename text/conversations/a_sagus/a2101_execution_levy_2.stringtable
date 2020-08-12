@@ -17,7 +17,7 @@
     <Entry>
       <ID>51</ID>
       <DefaultText>Der Soldat beäugt dich, wobei er niemals das Lächeln in seinem Gesicht verliert. „Ihr müsst ein Fremder in dieser Stadt sein … vielleicht aus einem der eingeborenen Stämmen entlang der Grenze?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Soldat beäugt dich, wobei er niemals das Lächeln in seinem Gesicht verliert. „Ihr müsst eine Fremde in dieser Stadt sein … vielleicht aus einem der eingeborenen Stämmen entlang der Grenze?“</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
@@ -34,7 +34,7 @@ Er macht eine Geste zu der erbärmlichen Gestalt auf dem Podium, die anscheinend
     <Entry>
       <ID>54</ID>
       <DefaultText>„Erlaubt mir, Euch in Sagusklippen willkommen zu heißen, Besucher.“ Das letzte Wort spricht er wie einen Titel aus, beinahe wie einen Ehrentitel. „Ich bin ein Wehrpflichtiger. Ihr könnt Euch auf Schutz und Hilfe durch mich und andere wie mich verlassen … im Ermessen des Rates und der Sklavenfamilien.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Erlaubt mir, Euch in Sagusklippen willkommen zu heißen, Besucherin.“ Das letzte Wort spricht er wie einen Titel aus, beinahe wie einen Ehrentitel. „Ich bin ein Wehrpflichtiger. Ihr könnt Euch auf Schutz und Hilfe durch mich und andere wie mich verlassen … im Ermessen des Rates und der Sklavenfamilien.“</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -68,12 +68,14 @@ Nicht nur das … seine Augen sind ein wenig zu groß, sein Lächeln zu stark a
       <DefaultText>Dieser bewaffnete Wehrpflichtige ist beinahe ein Spiegelbild seines Kameraden auf der anderen Seite der Hinrichtungsplattform. Du spürst, dass etwas an ihnen fast unmerklich anders ist, doch auf den ersten Blick kannst du nicht ganz ausmachen, was es ist.
 
 Er nickt und grüßt dich mit einer bemerkenswert ähnlichen Stimme. „Hallo, Besucher.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Dieser bewaffnete Wehrpflichtige ist beinahe ein Spiegelbild seines Kameraden auf der anderen Seite der Hinrichtungsplattform. Du spürst, dass etwas an ihnen fast unmerklich anders ist, doch auf den ersten Blick kannst du nicht ganz ausmachen, was es ist.
+
+Er nickt und grüßt dich mit einer bemerkenswert ähnlichen Stimme. „Hallo, Besucherin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>61</ID>
       <DefaultText>Wie immer lächelt der Wehrpflichtige breit. Er nickt dir zu. „Hallo mal wieder, Besucher. Wie kann ich behilflich sein?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Wie immer lächelt der Wehrpflichtige breit. Er nickt dir zu. „Hallo mal wieder, Besucher. Wie kann ich behilflich sein?“</FemaleText>
     </Entry>
     <Entry>
       <ID>62</ID>
@@ -260,7 +262,7 @@ Im selben Moment bemerkst du – wie auch der Levi – dass sein Lächeln versch
     <Entry>
       <ID>96</ID>
       <DefaultText>„Lebt wohl, Besucher.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Lebt wohl, Besucherin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>145</ID>
