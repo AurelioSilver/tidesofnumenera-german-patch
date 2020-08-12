@@ -89,7 +89,9 @@
       <DefaultText>Der Mann scheint im Boden zu versinken. „Mein Freund, ich bin ein Feigling. Das war ich schon immer, aber … Ihr habt recht. Wenn ein Mann nicht an seinen Überzeugungen festhält, was ist er dann?“
 
 Er schluckt, dann nickt er. „Ich werde es tun. Für die Gerechtigkeit.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Mann scheint im Boden zu versinken. „Meine Gute, ich bin ein Feigling. Das war ich schon immer, aber … Ihr habt recht. Wenn ein Mann nicht an seinen Überzeugungen festhält, was ist er dann?“
+
+Er schluckt, dann nickt er. „Ich werde es tun. Für die Gerechtigkeit.“</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -116,7 +118,9 @@ Er schluckt, dann nickt er. „Ich werde es tun. Für die Gerechtigkeit.“</Def
       <DefaultText>Der Mann scheint im Boden zu versinken. „Mein Freund, ich bin ein Feigling. Das war ich schon immer, aber … Ihr habt recht. Wenn ein Mann nicht an seinen Überzeugungen festhält, was ist er dann?“
 
 Er schluckt, dann nickt er. „Ich werde es tun.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Mann scheint im Boden zu versinken. „Meine Gute, ich bin ein Feigling. Das war ich schon immer, aber … Ihr habt recht. Wenn ein Mann nicht an seinen Überzeugungen festhält, was ist er dann?“
+
+Er schluckt, dann nickt er. „Ich werde es tun.“</FemaleText>
     </Entry>
     <Entry>
       <ID>30</ID>
@@ -130,12 +134,14 @@ Er schluckt, dann nickt er. „Ich werde es tun.“</DefaultText>
       <DefaultText>Der Mann scheint im Boden zu versinken. „Mein Freund, ich bin ein Feigling. Das war ich schon immer, aber … Ihr habt recht. Wenn ein Mann nicht an seinen Überzeugungen festhält, was ist er dann?“
 
 Er schluckt, dann nickt er. „Ich werde es tun.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Mann scheint im Boden zu versinken. „Meine Gute, ich bin ein Feigling. Das war ich schon immer, aber … Ihr habt recht. Wenn ein Mann nicht an seinen Überzeugungen festhält, was ist er dann?“
+
+Er schluckt, dann nickt er. „Ich werde es tun.“</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Der Mann scheint im Boden zu versinken. „Mein Freund, ich bin ein Feigling. Das war ich schon immer. Ich wünschte, ich wäre mutig genug, um das zu tun, aber … Ich kann nicht. Es tut mir leid.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Mann scheint im Boden zu versinken. „Meine Gute, ich bin ein Feigling. Das war ich schon immer. Ich wünschte, ich wäre mutig genug, um das zu tun, aber … Ich kann nicht. Es tut mir leid.“</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
@@ -216,7 +222,7 @@ Er seufzt. „Wenn ich nur den Mut hätte …“</DefaultText>
     <Entry>
       <ID>47</ID>
       <DefaultText>„Bitte, mein Freund. Unternehmt etwas, ehe meine Nerven versagen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Bitte, meine Freundin. Unternehmt etwas, ehe meine Nerven versagen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>48</ID>
