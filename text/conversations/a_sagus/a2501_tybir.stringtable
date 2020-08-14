@@ -9,7 +9,9 @@
       <DefaultText>Als du an einem Haufen Fracht vorbeigehst, tritt eine dir bekannte Figur aus ihrem Schatten vor dich, stümperhaft als Aeon-Priester verkleidet. „Ähm, hallo mein Freund“, sagt Tybir. „Ich … Ich nehme an, dass Ihr …“
 
 Er hört plötzlich auf zu reden, nachdem er einen gründlichen Blick auf dich erhaschen konnte. „Oh. Ihr seid es. Ich habe nach einem Weg aus der Stadt gesucht, aber ich habe ja geschworen, nie wieder ein Wort mit Euch zu wechseln, richtig?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Als du an einem Haufen Fracht vorbeigehst, tritt eine dir bekannte Figur aus ihrem Schatten vor dich, stümperhaft als Aeon-Priester verkleidet. „Ähm, hallo meine Freundin“, sagt Tybir. „Ich … Ich nehme an, dass Ihr …“
+
+Er hört plötzlich auf zu reden, nachdem er einen gründlichen Blick auf dich erhaschen konnte. „Oh. Ihr seid es. Ich habe nach einem Weg aus der Stadt gesucht, aber ich habe ja geschworen, nie wieder ein Wort mit Euch zu wechseln, richtig?“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -80,7 +82,7 @@ Er sieht über seine Schulter. „Ähm, aber in Anbetracht der Tatsache, dass so
     <Entry>
       <ID>14</ID>
       <DefaultText>„Lebt wohl, mein Freund. Ihr werdet mich nicht wiedersehen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Lebt wohl, meine Freundin. Ihr werdet mich nicht wiedersehen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -110,12 +112,12 @@ Er sieht über seine Schulter. „Ähm, aber in Anbetracht der Tatsache, dass so
     <Entry>
       <ID>20</ID>
       <DefaultText>„Ich warte immer noch, Kumpel. Sobald Ihr bereit seid.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ich warte immer noch, Mädchen. Sobald Ihr bereit seid.“</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Als du an einem Haufen Fracht vorbeigehst, tritt eine dir bekannte Figur aus ihrem Schatten vor dich, stümperhaft als Aeon-Priester verkleidet. „Ähm, noch einmal hallo mein Freund“, sagt Tybir. „Ich … Ich nehme nicht an, dass Ihr Eure Meinung noch einmal ändern wollt?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Als du an einem Haufen Fracht vorbeigehst, tritt eine dir bekannte Figur aus ihrem Schatten vor dich, stümperhaft als Aeon-Priester verkleidet. „Ähm, noch einmal hallo meine Freundin“, sagt Tybir. „Ich … Ich nehme nicht an, dass Ihr Eure Meinung noch einmal ändern wollt?“</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -137,7 +139,7 @@ Er atmet tief ein – endlich. „Deshalb hatte ich gehofft, dass Ihr mich event
     <Entry>
       <ID>25</ID>
       <DefaultText>„Danke, Kumpel. Ich danke Euch. Ich schulde Euch etwas.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Danke, Mädchen. Ich danke Euch. Ich schulde Euch etwas.“</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -167,12 +169,12 @@ Er atmet tief ein – endlich. „Deshalb hatte ich gehofft, dass Ihr mich event
     <Entry>
       <ID>31</ID>
       <DefaultText>Du kommst wieder an der Fracht vorbei, und Tybir lugt aus ihrem Schatten hervor. „Und noch einmal hallo, mein Freund. Ich nehme nicht an, dass Ihr Eure Meinung geändert habt? Ich bin ein wenig verzweifelt.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Du kommst wieder an der Fracht vorbei, und Tybir lugt aus ihrem Schatten hervor. „Und noch einmal hallo, meine Freundin. Ich nehme nicht an, dass Ihr Eure Meinung geändert habt? Ich bin ein wenig verzweifelt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Als du an einem großen Haufen Fracht vorbeigehst, lugt ein dickbäuchiger alter Soldat, stümperhaft als Aeon-Priester verkleidet, aus ihrem Schatten hervor. Er scheint darum bemüht zu sein, unerkannt zu bleiben. „Ähm, hallo mein Freund. Seid … Seid Ihr zufällig dabei, die Stadt zu verlassen?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Als du an einem großen Haufen Fracht vorbeigehst, lugt ein dickbäuchiger alter Soldat, stümperhaft als Aeon-Priester verkleidet, aus ihrem Schatten hervor. Er scheint darum bemüht zu sein, unerkannt zu bleiben. „Ähm, hallo meine Freundin. Seid … Seid Ihr zufällig dabei, die Stadt zu verlassen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
@@ -194,12 +196,12 @@ Er wirft dir einen hoffnungsvollen Blick zu. „Also, Ihr, ähm, benötigt nicht
     <Entry>
       <ID>36</ID>
       <DefaultText>„Danke, Kumpel. Ich danke Euch. Ich schulde Euch etwas. Ähm, aber in Anbetracht der Tatsache, dass die Hälfte aller Leute in den Sagusklippen im Moment nach mir sucht, sollte ich Euch wohl erst beitreten, wenn Ihr die Stadt auch tatsächlich verlasst.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Danke, Mädchen. Ich danke Euch. Ich schulde Euch etwas. Ähm, aber in Anbetracht der Tatsache, dass die Hälfte aller Leute in den Sagusklippen im Moment nach mir sucht, sollte ich Euch wohl erst beitreten, wenn Ihr die Stadt auch tatsächlich verlasst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>„Gute Reise, mein Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Gute Reise, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
