@@ -6,28 +6,31 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>[Der verärgerte Heuerling bereitet sich auf deinen Angriff vor und stolpert beinahe, als du versuchst, mit ihm zu sprechen]</DefaultText>
+      <DefaultText>Sie bleckt ihre Zähne unsicher, die Waffe in der Hand.
+
+„Kämpfen wir oder was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[Du hast seinen Freund getötet und der Charakter wird sich nicht von dir kaufen lassen. Er sinnt nur nach Rache]</DefaultText>
+      <DefaultText>„Du habst meinen Partner getötet! Ich will deine verdammten Shins nicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Bezahle]</DefaultText>
+      <DefaultText>Bezahle sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[gehen]</DefaultText>
+      <DefaultText>Setze den Kampf fort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[„Die einfachste Mahlzeit, die wir seit Monaten verdient haben!“
-Er nimmt das Geld, gestikuliert zu seinem Freund und sie gehen]</DefaultText>
+      <DefaultText>„Die einfachste Mahlzeit, die wir seit Monaten verdient haben!“
+
+Sie schnappt sich die Shin aus deiner Hand, pfeift ihrem Partner zu und die beiden schlendern kichernd davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -37,22 +40,24 @@ Er nimmt das Geld, gestikuliert zu seinem Freund und sie gehen]</DefaultText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[„Tut mir leid, es ist nur Geschäft“]</DefaultText>
+      <DefaultText>[„Tut mir leid, es ist nur Geschäft.“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[Ich verdopple Ris' Angebot!]</DefaultText>
+      <DefaultText>Biete an, was auch immer Ris zahlt zu verdoppeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Wirklich? Du zahlst [Global:a2501_PayOffRisGoons] Shin, nur um das Leben deiner Kumpel zu retten?]</DefaultText>
+      <DefaultText>Ihre Augen weiten sich über das Angebot.
+
+„[Global: a2501_PayOffRisGoons] shins? Für *ihn*?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Vergiss es.]</DefaultText>
+      <DefaultText>Sage, dass du es dir anders überlegt hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -62,7 +67,7 @@ Er nimmt das Geld, gestikuliert zu seinem Freund und sie gehen]</DefaultText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[Nun, unsere Arbeit hier ist erledigt. Ich wünsche einen schönen Tag!]</DefaultText>
+      <DefaultText>„Ris ist erledigt. Renn!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,21 +82,21 @@ Er nimmt das Geld, gestikuliert zu seinem Freund und sie gehen]</DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Sie schaut auf ihre Partnerin, und beide rollen synchron ihre Augen.</DefaultText>
+      <DefaultText>Sie schaut auf ihren Partner, und beide rollen synchron ihre Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Sie hebt beide Augenbrauen, und schaut auf ihre Gefährtin.
+      <DefaultText>Sie hebt beide Augenbrauen, und schaut auf ihren Gefährten.
 
-„Ich denke nicht, dass wir bezahlt wurden, um Berserker zu bekämpfen, oder?“ Ihre Partnerin zögert, dann schüttelt sie den Kopf.
+„Ich denke nicht, dass wir bezahlt wurden, um Berserker zu bekämpfen, oder?“ Ihr Partner zögert, dann schüttelt er den Kopf.
 
-„Viel Glück mit der Rache, Ris“, ruft sie, und steckt ihre Waffe weg. „Wir entschädigen deine Shin, falls du es überlebst.“ Sie sagt es mit einem bedeutungsvollen Blick in deine Richtung, dann spaziert sie mit ihrer Gefährtin weg.</DefaultText>
+„Viel Glück mit der Rache, Ris“, ruft sie, und steckt ihre Waffe weg. „Wir entschädigen deine Shin, falls du es überlebst.“ Sie sagt es mit einem bedeutungsvollen Blick in deine Richtung, dann spaziert sie mit ihrem Gefährten weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>„Ha. Dachte ich nicht.“</DefaultText>
+      <DefaultText>„Ha. Dachte ich mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +106,7 @@ Er nimmt das Geld, gestikuliert zu seinem Freund und sie gehen]</DefaultText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Ihnen [Global: a2501_PayOffRisGoons] Shin geben, damit sie vom Kampf weglaufen.</DefaultText>
+      <DefaultText>Ihnen [Global: a2501_PayOffRisGoons] Shin geben, damit sie vom Kampf ablassen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
