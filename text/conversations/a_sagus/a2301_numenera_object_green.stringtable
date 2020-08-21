@@ -110,7 +110,9 @@ Sie nickt grinsend, als würde sie sich deine Verwunderung ob ihrer Kühnheit vo
       <DefaultText>„Fühlt Ihr Euch besser, mein Lieber?“
 
 {CALLISTEGE}</DefaultText>
-      <FemaleText />
+      <FemaleText>„Fühlt Ihr Euch besser, meine Liebe?“
+
+{CALLISTEGE}</FemaleText>
     </Entry>
     <Entry>
       <ID>20</ID>
