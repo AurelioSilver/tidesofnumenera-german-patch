@@ -14,7 +14,7 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>„Ja, Heiliger?“, sagt sie.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ja, Heilige?“, sagt sie.</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -29,12 +29,12 @@
     <Entry>
       <ID>5</ID>
       <DefaultText>„Auch Euch, Heiliger.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Auch Euch, Heilige.“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>„Es wird getan, Heiliger“, sagt sie, sich verneigend. „Wir werden bald zurückkehren.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Es wird getan, Heilige“, sagt sie, sich verneigend. „Wir werden bald zurückkehren.“</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -141,7 +141,7 @@
     <Entry>
       <ID>27</ID>
       <DefaultText>„Sehr gerne, Heiliger. Wir werden uns um sie kümmern, als ob sie unsere eigenen Kinder wären.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Sehr gerne, Heilige. Wir werden uns um sie kümmern, als ob sie unsere eigenen Kinder wären.“</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -406,7 +406,7 @@ Sie räuspert sich. „Nun, abgemacht ist abgemacht.“</DefaultText>
     <Entry>
       <ID>78</ID>
       <DefaultText>„Ja, Heiliger. Dreckige Kinder – möglicherweise Waisen – gruben sich durch die Ruinen. Ich glaube, sie haben ein paar Lebensmittel und Wertsachen gefunden, wir haben aber versucht, nicht hinzusehen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ja, Heilige. Dreckige Kinder – möglicherweise Waisen – gruben sich durch die Ruinen. Ich glaube, sie haben ein paar Lebensmittel und Wertsachen gefunden, wir haben aber versucht, nicht hinzusehen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>79</ID>
