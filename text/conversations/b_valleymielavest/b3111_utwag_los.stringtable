@@ -13,18 +13,22 @@ Seine Arme sind gefesselt und er sieht aus, als wäre er brutal geschlagen worde
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>„Nochmals hallo, mein Freund“, sagt er. Sein Lächeln ist nur noch ein Schatten dessen, was es einmal war. „Haben Ihr einen Weg gefunden, uns aus diesem Schlamassel herauszuholen?“</DefaultText>
+      <FemaleText>„Nochmals hallo, meine Freundin“, sagt er. Sein Lächeln ist nur noch ein Schatten dessen, was es einmal war. „Haben Ihr einen Weg gefunden, uns aus diesem Schlamassel herauszuholen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>Dieser kleine, rothaarige Mann ist gegen die Wand gelehnt, geschunden und geschlagen, und seine Arme sind hinter dem Rücken gefesselt. Seine leuchtend grünen Augen strahlen eine Mischung aus Traurigkeit, verlorenen Träumen und Hoffnung aus. Einige Augenblicke lang mustert er dich von seiner Position auf dem Boden aus, aber dann schaut er gedankenverloren weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>Einer seiner Begleiter tritt ihn aus seiner Träumerei und gestikuliert mit dem Kopf zu dir. Der rothaarige Mann schaut wieder zu dir auf und lächelt. Dieses Lächeln ist wie seine Augen, voller Splitter von Emotionen: Vorsicht, Zynismus, Angst und Freundlichkeit.
+
+„Hallo, mein Freund“, sagt er.</DefaultText>
+      <FemaleText>Einer seiner Begleiter tritt ihn aus seiner Träumerei und gestikuliert mit dem Kopf zu dir. Der rothaarige Mann schaut wieder zu dir auf und lächelt. Dieses Lächeln ist wie seine Augen, voller Splitter von Emotionen: Vorsicht, Zynismus, Angst und Freundlichkeit.
+
+„Hallo, meine Freundin“, sagt er.</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -93,22 +97,28 @@ Seine Arme sind gefesselt und er sieht aus, als wäre er brutal geschlagen worde
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText />
+      <DefaultText>Utwags Gesicht ist blass, was seinen roten Haarschopf noch heller erscheinen lässt. Er starrt Jenkins an, der bewegungslos an der Wand zusammengesunken ist.
+
+„Sie haben ihn getötet“, sagt Utwag, sein Blick wie versteinert auf Jenkins' Gesicht gerichtet. „Sie stachen auf ihn ein, er gab keinen Laut von sich, und dann war er tot.“ Ein Schauder durchläuft ihn, und er beginnt, nutzlos an seinen Fesseln zu zerren.
+
+„Wir müssen hier fort“, murmelt er, am Rande der Panik.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>Utwag starrt immer noch auf Jenkins' Körper und scheint deine Annäherung nicht zu bemerken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText />
+      <DefaultText>„Utwag.“ Er hat Schwierigkeiten, dich direkt anzusehen. „Utwag Los. Ich bin mit Jenkins und Narve hierher gekommen. Wir sind aus Jerboa. Waren.“ Sein Blick fällt zurück auf die nahegelegene Leiche.
+
+„Wir stammten aus Jerboa“, sagt er leise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText />
+      <DefaultText>Er schaut langsam zu dir auf. „Utwag Los“, sagt er, das kleine Zittern in seiner Stimme lässt es eher wie eine Frage klingen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -125,12 +135,14 @@ Seine Arme sind gefesselt und er sieht aus, als wäre er brutal geschlagen worde
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>„Wir stießen auf die Ödlande. Ich dachte, es wäre eine gute Abkürzung, die uns einen Vorsprung vor allen anderen verschafft, die auf dem gleichen Weg unterwegs waren.“ Seine Stimme ist entrückt, sein Blick noch immer auf die nahe Leiche gerichtet. „Ich dachte, wir würden mit allem fertig. Und Jenkins, er sagte…“
+
+Er verstummt und schaut zu dir auf, seine Augen sind voller Schmerz und Angst. „Helft uns. Bitte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>„Wir durchquerten die Ödlande und kamen hierher, um Schutz zu suchen. Wir fanden *sie* stattdessen.“ Er spuckt das Wort aus und verwandelt es in einen Fluch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,12 +159,16 @@ Seine Arme sind gefesselt und er sieht aus, als wäre er brutal geschlagen worde
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText />
+      <DefaultText>Einen Moment lang fragst dich, ob er dich gehört hat. Dann spricht er.
+
+„Da sind Narve, der Gesegnetge, und Talira, die wir erst hier kennen gelernt haben.“ Er schließt die Augen und verschafft sich eine Atempause von dem Toten neben ihm. "Und Jenkins. Der aggressivste, hilfsbereiteste Idiot, den das Jenseits je gesehen hat." Hinter seinen geschlossenen Augenlidern treten Tränen aus, und er beugt sich nach vorne, um sie von seinem Knie wegzuwischen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText />
+      <DefaultText>„Wir haben noch Narve und Talira. Jenkins…“ Er schaut zu dir auf, Schmerz und Verwirrung überwältigen ihn.
+
+„Wir kennen das Passwort nicht. Sagt es ihnen! Selbst wenn wir es wollten, können wir keine Informationen preisgeben, die wir nicht besitzen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
