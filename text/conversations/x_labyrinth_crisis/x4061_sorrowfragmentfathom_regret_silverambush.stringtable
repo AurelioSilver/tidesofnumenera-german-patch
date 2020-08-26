@@ -73,9 +73,7 @@ Du gönnst ihnen nicht die Befriedigung, indem du hinschaust.</DefaultText>
       <DefaultText>Du kannst jedoch die Spannung in dem Raum spüren, als du dich an die Bar begibst. Der Wirt würdigt dich keines Blickes. Du weißt, was als Nächstes kommt. Du seufzt und drehst dich in den Raum.
 
 Eine große, stämmige Frau steht vor dir. „Du bist hier nicht willkommen, Verstoßener. Euer verdammter Krieg ist ein Fluch. Wir werden keine Verstoßenen hier dulden, nicht mehr. Raus hier, oder bei den Göttern, du wirst dir wünschen, dass du gegangen wärst.“</DefaultText>
-      <FemaleText>Du kannst jedoch die Spannung in dem Raum spüren, als du dich an die Bar begibst. Der Wirt würdigt dich keines Blickes. Du weißt, was als Nächstes kommt. Du seufzt und drehst dich in den Raum.
-
-Eine große, stämmige Frau steht vor dir. „Du bist hier nicht willkommen, Verstoßene. Euer verdammter Krieg ist ein Fluch. Wir werden keine Verstoßenen hier dulden, nicht mehr. Raus hier, oder bei den Göttern, du wirst dir wünschen, dass du gegangen wärst.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -84,11 +82,7 @@ Eine große, stämmige Frau steht vor dir. „Du bist hier nicht willkommen, Ver
 „Du hast keine Ahnung, mit wem du hier sprichst. Ich bin kein Verstoßener. Ich bin ihr Erzeuger. Ich bin der Urheber der Endlosen Schlacht. Ich bin der Wandelnde Gott, und ihr *werdet* mich verehren.“
 
 Du spreizt die Hände weit auseinander und die Gezeiten strömen aus dir heraus.</DefaultText>
-      <FemaleText>Du spürst, wie sich Energien in dir aufbauen und herumwirbeln. Dein Lächeln ist wild, als du ein Netz von Gezeiten webst.
-
-„Du hast keine Ahnung, mit wem du hier sprichst. Ich bin keine Verstoßene. Ich bin ihr Erzeuger. Ich bin der Urheber der Endlosen Schlacht. Ich bin der Wandelnde Gott, und ihr *werdet* mich verehren.“
-
-Du spreizt die Hände weit auseinander und die Gezeiten strömen aus dir heraus.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
