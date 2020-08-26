@@ -9,7 +9,9 @@
       <DefaultText>Ein alter, mitgenommen aussehender Schwertkämpfer in glanzloser grauer Rüstung steht hier und pfeift unmelodisch. Seine Hände schweben in der Nähe des Griffs seines rege benutzten Schwertes. Narben winden sich auf seinem Gesicht, und was du für einen Helm hieltest, entpuppt sich als metallische Haube, die in seinen Schädel eingelassen ist.
 
 Er lächelt, als du dich ihm näherst. „Grüße, Fremder. Ich bin Tantalum.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Ein alter, mitgenommen aussehender Schwertkämpfer in glanzloser grauer Rüstung steht hier und pfeift unmelodisch. Seine Hände schweben in der Nähe des Griffs seines rege benutzten Schwertes. Narben winden sich auf seinem Gesicht, und was du für einen Helm hieltest, entpuppt sich als metallische Haube, die in seinen Schädel eingelassen ist.
+
+Er lächelt, als du dich ihm näherst. „Grüße, Fremde. Ich bin Tantalum.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -186,7 +188,7 @@ Er lächelt, als du dich ihm näherst. „Grüße, Fremder. Ich bin Tantalum.“
     <Entry>
       <ID>36</ID>
       <DefaultText>„He da, mein Freund! Wart Ihr auf der Suche nach den Geheimnissen des Tals?“</DefaultText>
-      <FemaleText />
+      <FemaleText>„He da, meine Gute! Wart Ihr auf der Suche nach den Geheimnissen des Tals?“</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -325,7 +327,9 @@ Er kratzt sich. „Wie auch immer. Ich musste mich an mich erinnern. Man sagt, d
       <DefaultText>„Ihr … habt es getan? Ihr habt es wirklich getan?“ Plötzlich bricht er in Gelächter aus. Das Echo seines Lachens lässt die Haube auf seinem Kopf in Harmonie erklingen und erzittern. „Ihr seid stur, mein Freund. Die meisten Leute geben an diesem Punkt auf, von der schieren Monotonie der Aufgabe zermürbt. Ich habe beinahe ein schlechtes Gewissen, dass ich Euch da runter geschickt habe!“
 
 Er hält inne und tippt sich ans Kinn. „Ich hätte mir vielleicht überlegen sollen, was ich Euch sage, aber ich dachte ehrlich gesagt nicht daran, dass Ihr es so weit schafft. Vielleicht sollte ich Euch die Wahrheit sagen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ihr … habt es getan? Ihr habt es wirklich getan?“ Plötzlich bricht er in Gelächter aus. Das Echo seines Lachens lässt die Haube auf seinem Kopf in Harmonie erklingen und erzittern. „Ihr seid stur, meine Gute. Die meisten Leute geben an diesem Punkt auf, von der schieren Monotonie der Aufgabe zermürbt. Ich habe beinahe ein schlechtes Gewissen, dass ich Euch da runter geschickt habe!“
+
+Er hält inne und tippt sich ans Kinn. „Ich hätte mir vielleicht überlegen sollen, was ich Euch sage, aber ich dachte ehrlich gesagt nicht daran, dass Ihr es so weit schafft. Vielleicht sollte ich Euch die Wahrheit sagen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>69</ID>
@@ -447,7 +451,7 @@ Er schmunzelt ein wenig. „Wenn Ihr diese Dinge mögt und beginnt, Euch umzusch
     <Entry>
       <ID>90</ID>
       <DefaultText>Er seufzt und kichert. „Nein, habt Ihr sicher nicht. Seid nicht wie die anderen – die Leute neigen immer so zu Übertreibungen. Verrichtet die Arbeit, mein Freund. Verrichtet die Arbeit.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er seufzt und kichert. „Nein, habt Ihr sicher nicht. Seid nicht wie die anderen – die Leute neigen immer so zu Übertreibungen. Verrichtet die Arbeit, meine Gute. Verrichtet die Arbeit.“</FemaleText>
     </Entry>
     <Entry>
       <ID>91</ID>
@@ -457,12 +461,12 @@ Er schmunzelt ein wenig. „Wenn Ihr diese Dinge mögt und beginnt, Euch umzusch
     <Entry>
       <ID>92</ID>
       <DefaultText>„Ha! Als würde ich das glauben. Versucht es nochmal, mein Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ha! Als würde ich das glauben. Versucht es nochmal, meine Gute.“</FemaleText>
     </Entry>
     <Entry>
       <ID>93</ID>
       <DefaultText>„Nicht sehr wahrscheinlich, mein Freund. Ihr habt mir da ein paar schöne Geschichten erzählt, aber ich durchschaue Euch. Sucht weiter. Die Geheimnisse des Tals sind nicht für die Müßigen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Nicht sehr wahrscheinlich, meine Gute. Ihr habt mir da ein paar schöne Geschichten erzählt, aber ich durchschaue Euch. Sucht weiter. Die Geheimnisse des Tals sind nicht für die Müßigen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>95</ID>
@@ -655,7 +659,11 @@ Er hebt eine Braue. „Ihr *wisst* aber schon, dass er in diesem Körper gefange
 Plötzlich bricht er in Gelächter aus und die Haube auf seinem Kopf erklingt und erzittert harmonisch. „Ihr seid stur, mein Freund. Die meisten Leute geben schon früher auf, von der schieren Monotonie der Aufgabe zermürbt.“
 
 Er hält inne. „Ich hätte vielleicht eine Rede über das Zeitverschwenden vorbereiten sollen, aber die Leute … geben einfach auf, ehe sie so viele absuchen. Vielleicht sollte ich Euch die Wahrheit sagen.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er schaut dir kurz in die Augen. „Ich glaube Euch. Ihr habt es getan, nicht wahr?“
+
+Plötzlich bricht er in Gelächter aus und die Haube auf seinem Kopf erklingt und erzittert harmonisch. „Ihr seid stur, meine Gute. Die meisten Leute geben schon früher auf, von der schieren Monotonie der Aufgabe zermürbt.“
+
+Er hält inne. „Ich hätte vielleicht eine Rede über das Zeitverschwenden vorbereiten sollen, aber die Leute … geben einfach auf, ehe sie so viele absuchen. Vielleicht sollte ich Euch die Wahrheit sagen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>136</ID>
@@ -767,7 +775,7 @@ Er streichelt sich das Kinn. „Nun, gut für Euch. Vielleicht *habt* Ihr ja doc
     <Entry>
       <ID>157</ID>
       <DefaultText>„Mein Freund, ich merke mir die *wenigsten* Gräber, und wie ich schon zuvor sagte, ist mein Gedächtnis nicht mehr so wie früher. Aber lasst mich Euch eines zusichern – wenn Ihr diese Gräber erkundet, dann werdet Ihr finden, was Ihr braucht.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Meine Gute, ich merke mir die *wenigsten* Gräber, und wie ich schon zuvor sagte, ist mein Gedächtnis nicht mehr so wie früher. Aber lasst mich Euch eines zusichern – wenn Ihr diese Gräber erkundet, dann werdet Ihr finden, was Ihr braucht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>158</ID>
@@ -844,7 +852,7 @@ Er wendet sich Euch wieder zu. „Also. Was kann ich sonst noch für Euch tun?�
     <Entry>
       <ID>171</ID>
       <DefaultText>„He da, mein Freund! Kommt her!“</DefaultText>
-      <FemaleText />
+      <FemaleText>„He da, meine Gute! Kommt her!“</FemaleText>
     </Entry>
     <Entry>
       <ID>172</ID>
@@ -869,7 +877,7 @@ Er wendet sich Euch wieder zu. „Also. Was kann ich sonst noch für Euch tun?�
     <Entry>
       <ID>176</ID>
       <DefaultText>Er lächelt sanft. „Ich verspreche Aufklärung, Freund.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er lächelt sanft. „Ich verspreche Aufklärung, meine Gute.“</FemaleText>
     </Entry>
     <Entry>
       <ID>177</ID>
