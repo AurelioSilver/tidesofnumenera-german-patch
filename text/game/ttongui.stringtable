@@ -3953,7 +3953,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</Default
     <Entry>
       <ID>790</ID>
       <DefaultText>[Color: TooltipFormatting]+15 % Bonus pro Stufe auf schwierige Aufgaben, die mit dieser Fertigkeit markiert sind.[/Color] \n\nDer letzte Verstoßene hat Zugang zu den Erinnerungen eines vorherigen Bewusstseins. Diese Fertigkeit stellt deinen Fokus und Scharfsinn dar, wenn du versuchst, dich an jene Erfahrungen zu erinnern.</DefaultText>
-      <FemaleText />
+      <FemaleText>[Color: TooltipFormatting]+15 % Bonus pro Stufe auf schwierige Aufgaben, die mit dieser Fertigkeit markiert sind.[/Color] \n\nDie letzte Verstoßene hat Zugang zu den Erinnerungen eines vorherigen Bewusstseins. Diese Fertigkeit stellt deinen Fokus und Scharfsinn dar, wenn du versuchst, dich an jene Erfahrungen zu erinnern.</FemaleText>
     </Entry>
     <Entry>
       <ID>791</ID>
