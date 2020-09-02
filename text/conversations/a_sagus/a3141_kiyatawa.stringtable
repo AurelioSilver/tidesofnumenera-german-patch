@@ -196,14 +196,14 @@ Sie leckt lauernd einen scharfen Zahn. „Sie scheint – schien – mir eher de
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Nur die Teile, von der ich dachte, sie würden mich belasten“, sagt sie und zuckt unbekümmert mit den Schultern. „Aber werde jetzt nicht nervös. Dich konnte ich nicht reinlegen. Du hast es *verdient*, mich zu fangen.“
+      <DefaultText>„Nur die Teile, von denen ich dachte, sie würden mich belasten“, sagt sie und zuckt unbekümmert mit den Schultern. „Aber werde jetzt nicht nervös. Dich konnte ich nicht reinlegen. Du hättest es *verdient*, mich zu schnappen.“
 
 Sie grinst erneut. „Aber das hast du nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>„Hmm“, sagt sie, und schüttelt den Kopf voll Staunen. „Also sah mich jemand in den Sekunden, nachdem ich die Leiche gegessen hatte, die mich änderte, und die mich hierher führte. Und du hast diese Person gefunden. Du *verdienst* es, mich zu fangen.“
+      <DefaultText>„Oh“, sagt sie und schüttelt verblüfft den Kopf. „Also sah mich jemand in den Sekunden, nachdem ich die Leiche gegessen hatte, die mich änderte, und die mich hierher führte. Und du hast diese Person gefunden. Du hättest es *verdient*, mich zu erwischen.“
 
 Sie grinst erneut. „Aber das hast du nicht.“</DefaultText>
       <FemaleText />
@@ -229,7 +229,7 @@ Sie schaut dir in die Augen. „Was hättest du dann gemacht?“</DefaultText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Ich hätte dich gleich am Ort getötet.“</DefaultText>
+      <DefaultText>„Ich hätte dich gleich an Ort und Stelle getötet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,12 +241,12 @@ Aber sie grinst nicht mehr.</DefaultText>
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>„Helfen?“, fragt sie. „So einer bist du also. Lass mich dein Gewissen erleichtern.“ Sie grinst.
+      <DefaultText>„Mir helfen?“, sagt sie. „So einer bist du also. Dann lass mich dein Gewissen erleichtern.“ Sie lächelt spöttisch.
 
-„Der Schaden wurde schon vor Jahren angerichtet. Als ich mich der Dendra O'hur anschloss, hatte ich schon drei Leute getötet, die mich töten wollten. Ich hatte eine Stimme im Kopf, die mich dauernd anschrie, meine Existenz wäre *falsch*. Die Endlose Pforte rettete mich. Sie gab mir Frieden. Einen Sinn.“</DefaultText>
+„Mir war schon längst nicht mehr zu helfen. Als ich mich der Dendra O'hur anschloss, hatte ich bereits drei Menschen getötet, die versuchen würden, mich umzubringen. Ich hatte eine Stimme im meinem Kopf, die mich dauernd anschrie, meine Existenz wäre *falsch*. Die Endlose Pforte hat mich gerettet. Sie hat mir Frieden gebracht. Einen Sinn.“</DefaultText>
       <FemaleText>„Mir helfen?“, sagt sie. „So eine bist du also. Dann lass mich dein Gewissen erleichtern.“ Sie lächelt spöttisch.
 
-„Mir war schon längst nicht mehr zu helfen. Als ich mich den Dendra O'hur anschloss, hatte ich bereits drei Menschen getötet. In Notwehr, aber dennoch. Und diese Stimme in meinem Kopf schrie die ganze Zeit, dass meine Existenz *falsch* war. Die Endlose Pforte hat mich gerettet. Hat mir Frieden gebracht. Und einen Sinn.“</FemaleText>
+„Mir war schon längst nicht mehr zu helfen. Als ich mich den Dendra O'hur anschloss, hatte ich bereits drei Menschen getötet, die versuchen würden, mich umzubringen. Ich hatte eine Stimme im meinem Kopf, die mich dauernd anschrie, meine Existenz wäre *falsch*. Die Endlose Pforte hat mich gerettet. Sie hat mir Frieden gebracht. Einen Sinn.“</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
@@ -265,7 +265,7 @@ Aber sie grinst nicht mehr.</DefaultText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>„Hältst du es für lustig, dass eine unschuldige Person für das leiden musste, was du getan hast?“</DefaultText>
+      <DefaultText>„Findest du es lustig, dass eine unschuldige Person für das leiden musste, was du getan hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,9 +287,9 @@ Sie spielt mit einer Strähne in ihrem Haar. „Nein, Ich bereue es nicht, dich 
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>„Ich kenne dich doch“, sagt sie, und spannt den Kopf. „Du bist der Ermittler, den Gourmandus angeheuert hat, als ich seinen Günstling getötet habe.“ Sie grinst. „Ich habe mich schon gefragt, wann du mich finden würdest… Ich hatte schon *Sorgen.*“
+      <DefaultText>„Ich erinnere mich an dich“, sagt sie und hebt den Kopf. „Du bist der Ermittler, den Gourmandus angeheuert hat, nachdem ich seinen Günstling getötet habe.“ Sie lächelt. „Ich habe mich schon gefragt, wann du mich finden würdest… Ich habe mir schon *Sorgen* gemacht.“
 
-Sie schüttelt den Kopf. „Es muss dich doch etwas quälen, zu wissen, dass du mich davonkommen ließest. Dass all diese Leute starben.“</DefaultText>
+Sie schüttelt den Kopf. „Muss wehtun, zu wissen, dass du versagt hast. Dass Menschen gestorben sind, weil du mich hast entkommen lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
