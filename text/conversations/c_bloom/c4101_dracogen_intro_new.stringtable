@@ -670,12 +670,12 @@ Er wendet sich wieder zu dir. „Aber lasst uns fortfahren.“</DefaultText>
     <Entry>
       <ID>343</ID>
       <DefaultText>„Ich spürte, wie andere mit mir in den Reliquienschrein gezogen wurden. Wo sind sie?“</DefaultText>
-      <FemaleText>„Ich spürte, wie andere mit mir in den Reliquienschrein gezogen wurden. Wo sind sie?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>344</ID>
       <DefaultText>„Wer weiß das schon? Die Wege der Flor sind unergründlich und ihre Ranken ragen durch unzählige Welten und Dimensionen. Wenn du von der Flor selbst hierher gebracht wurdest, dann könnten die anderen, von denen du sprichst, sprichwörtlich überall sein.“</DefaultText>
-      <FemaleText>„Wer weiß das schon? Die Wege der Flor sind unergründlich und ihre Ranken ragen durch unzählige Welten und Dimensionen. Wenn du von der Flor selbst hierher gebracht wurdest, dann könnten die anderen, von denen du sprichst, sprichwörtlich überall sein.“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
