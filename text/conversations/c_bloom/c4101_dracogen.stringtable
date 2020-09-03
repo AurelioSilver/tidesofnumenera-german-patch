@@ -913,7 +913,7 @@ Dracogen dreht sich zu dir um, als Tybir einen Schweißausbruch bekommt. „Und,
     <Entry>
       <ID>192</ID>
       <DefaultText>„Was tust du nochmal hier?“</DefaultText>
-      <FemaleText>„Was tust du nochmal hier?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
@@ -1121,7 +1121,7 @@ Seine Augen suchen deine in stummer Weise, weil seine verwirrten Fragen ihm den 
     <Entry>
       <ID>236</ID>
       <DefaultText>Sag nichts.</DefaultText>
-      <FemaleText>Sagt nichts.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
@@ -1170,8 +1170,8 @@ Er verschränkt die Arme. „Tybir war ein Söldner, der immer dem Höchstbieten
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>Lasst ihn weitermachen.</DefaultText>
-      <FemaleText>Lass ihn weitermachen.</FemaleText>
+      <DefaultText>Lass ihn weitermachen.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>245</ID>
