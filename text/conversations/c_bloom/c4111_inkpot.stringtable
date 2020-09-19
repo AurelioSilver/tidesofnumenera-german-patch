@@ -655,9 +655,7 @@ Als sie verschwinden, hörst du das erzürnte Geflüster der Flor um dich herum.
       <DefaultText>„Eure Gottheit bedeutet gar nichts. Ich bin der Wandelnde Gott. Wenn ich euch befehle, werdet ihr mir *gehorchen*.“
 
 {TIDAL SURGE}</DefaultText>
-      <FemaleText>„Eure Gottheit bedeutet gar nichts. Ich bin die Wandelnde Göttin. Wenn ich euch befehle, werdet ihr mir *gehorchen*.“
-
-{TIDAL SURGE}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
