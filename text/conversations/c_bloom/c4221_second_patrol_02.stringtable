@@ -113,14 +113,18 @@ Er legt seine Hand auf seine Seite. „Habe mit meiner Faust einen ihrer Schnäb
       <DefaultText>„Ja“, murmelt er, und zieht seine Blutverkrustete Rüstung aus. Er blickt dich mit einer Mischung aus Hoffnung und Grauen an, und vermutet wahrscheinlich, dass du ein Heiler bist.
 
 Unglücklicherweise bist du das nicht. Du erkennst eindeutig, dass er einige Male gestochen wurde, und Blut rinnt immer noch aus seinen Wunden, aber du hast keine Ahnung, ob er noch eine Chance zum Überleben hat.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ja“, murmelt er, und zieht seine Blutverkrustete Rüstung aus. Er blickt dich mit einer Mischung aus Hoffnung und Grauen an, und vermutet wahrscheinlich, dass du eine Heilerin bist.
+
+Unglücklicherweise bist du das nicht. Du erkennst eindeutig, dass er einige Male gestochen wurde, und Blut rinnt immer noch aus seinen Wunden, aber du hast keine Ahnung, ob er noch eine Chance zum Überleben hat.</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>„Ja“, murmelt er, und zieht seine Blutverkrustete Rüstung aus. Er blickt dich mit einer Mischung aus Hoffnung und Grauen an, und vermutet wahrscheinlich, dass du ein Heiler bist.
 
 Glücklicherweise kennst du etwas Heilkunst – oder du erinnerst dich womöglich an das Wissen deines Erzeugers. Die Wunden des Soldaten riechen nicht nach Verderben, und du bist dir sicher, dass er überleben wird, aber nur, wenn er behandelt wird… und das geschieht nur, wenn er aus dieser Zelle entkommt.</DefaultText>
-      <FemaleText />
+      <FemaleText>„Ja“, murmelt er, und zieht seine Blutverkrustete Rüstung aus. Er blickt dich mit einer Mischung aus Hoffnung und Grauen an, und vermutet wahrscheinlich, dass du eine Heilerin bist.
+
+Glücklicherweise kennst du etwas Heilkunst – oder du erinnerst dich womöglich an das Wissen deines Erzeugers. Die Wunden des Soldaten riechen nicht nach Verderben, und du bist dir sicher, dass er überleben wird, aber nur, wenn er behandelt wird… und das geschieht nur, wenn er aus dieser Zelle entkommt.</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
