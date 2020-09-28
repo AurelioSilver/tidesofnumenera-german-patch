@@ -664,7 +664,7 @@ Er zuckt mit den Schultern. „Unser Streben hat uns schon an unangenehmere Orte
     <Entry>
       <ID>119</ID>
       <DefaultText>Er wirft dir einen flachen, ungläubigen Blick zu. Plötzlich bricht er in Gelächter aus. „Du machst mir Spaß! Ich verstehe. Nein, mein Freund. Wir haben die ganze Gegend hier erkundet. *Wir* sind die einzigen Empfindsamen an diesem Ort.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er wirft dir einen flachen, ungläubigen Blick zu. Plötzlich bricht er in Gelächter aus. „Du machst mir Spaß! Ich verstehe. Nein, meine Freundin. Wir haben die ganze Gegend hier erkundet. *Wir* sind die einzigen Empfindsamen an diesem Ort.“</FemaleText>
     </Entry>
     <Entry>
       <ID>120</ID>
@@ -752,7 +752,7 @@ Ein Anflug von Kummer kommt in seinen Augen auf. „Es ist Zeit, in den Besitz d
     <Entry>
       <ID>141</ID>
       <DefaultText>Er lacht. „Ich verstehe. Was würde sonst jemanden an diesen armseligen Ort führen? Können wir dir irgendwie helfen, mein Freund?“</DefaultText>
-      <FemaleText />
+      <FemaleText>Er lacht. „Ich verstehe. Was würde sonst jemanden an diesen armseligen Ort führen? Können wir dir irgendwie helfen, meine Freundin?“</FemaleText>
     </Entry>
     <Entry>
       <ID>142</ID>
