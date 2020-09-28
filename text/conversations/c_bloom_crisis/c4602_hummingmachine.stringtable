@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Faint, dying lights flicker in the machine's crystalline depths.</DefaultText>
+      <DefaultText>Schwache, verlöschende Lichter flackern in den kristallinen Tiefen der Maschine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[See what you can do with the device.]</DefaultText>
+      <DefaultText>[Schau, was du mit dem Gerät anstellen kannst.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,27 +21,27 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[You step away from the device.]</DefaultText>
+      <DefaultText>[Du trittst vom Gerät weg.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Behind a sealed panel, you find a small emitter linked to a powerful signal-routing device. You should be able to use it to surround yourself with the energy this machine produces.</DefaultText>
+      <DefaultText>Hinter einer versiegelten Tafel befindet sich ein kleiner Emitter, der mit einer leistungsstarken Signalweiterleitungsvorrichtung verbunden ist. Damit solltest du in der Lage sein, dich mit der von diesem Gerät erzeugten Energie zu umgeben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>You dig through the guts of the machine, but find nothing worth taking.</DefaultText>
+      <DefaultText>Du wühlst dich durch die Eingeweide der Maschine, findest aber nichts, was sich zu nehmen lohnt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>You've already scavenged what you can from this machine.</DefaultText>
+      <DefaultText>Du hast bereits alles aus dieser Maschine geborgen, was du kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Even though this enormous machine is silent now, you see faint lights deep within, pulsing like slow heartbeats or distant stars.</DefaultText>
+      <DefaultText>Auch wenn diese riesige Maschine jetzt schweigt, sieht man tief im Inneren schwache Lichter, die wie langsame Herzschläge oder ferne Sterne pulsieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,17 +51,17 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Dig through the machine's innards for useful parts.</DefaultText>
+      <DefaultText>Durchsuche das Innere der Maschine nach nützlichen Teilen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Dig through the machine innards again, looking for useful parts.</DefaultText>
+      <DefaultText>Wühle dich noch einmal durch das Innere der Maschine und suche nach nützlichen Teilen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>From a brief glance at the infrastructure inside the machine, you deduce that it was designed to keep the crystalvores docile.</DefaultText>
+      <DefaultText>Aus einem kurzen Blick auf die Infrastruktur im Inneren der Maschine schließt du, dass sie entworfen wurde, um die Kristallvoren gefügig zu halten.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
