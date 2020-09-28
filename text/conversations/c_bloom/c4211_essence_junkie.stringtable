@@ -81,7 +81,7 @@ Er hält einen Augenblick inne. „Warte aber, bis ich meine gekauft habe, okay?
     <Entry>
       <ID>15</ID>
       <DefaultText>„Sagtest … Sagtest du etwas von 'gratis'?“ Seine Augen leuchten mit kindlicher Begeisterung. „Mein Freund, ich wünschte, ich könnte bleiben, um noch mehr mit dir zu reden, aber ich habe Wichtiges zu erledigen. Ich muss mir unbedingt einige dieser Proben b-b-beschaffen, bevor andere es tun, die sie nicht so sehr s-s-schätzen wie ich!“</DefaultText>
-      <FemaleText>„Sagtest… Sagtest du etwas von ‚gratis'?“ Seine Augen leuchten mit kindlicher Begeisterung. „Meine Gute, ich wünschte, ich könnte bleiben, um noch mehr mit dir zu reden, aber ich habe Wichtiges zu erledigen. Ich muss mir unbedingt einige dieser Proben b-b-beschaffen, bevor andere es tun, die sie nicht so sehr s-s-schätzen wie ich!“
+      <FemaleText>„Sagtest… Sagtest du etwas von 'gratis'?“ Seine Augen leuchten mit kindlicher Begeisterung. „Meine Gute, ich wünschte, ich könnte bleiben, um noch mehr mit dir zu reden, aber ich habe Wichtiges zu erledigen. Ich muss mir unbedingt einige dieser Proben b-b-beschaffen, bevor andere es tun, die sie nicht so sehr s-s-schätzen wie ich!“
 
 {SCRIPT: Removed a SetBusy() call here. This should probably be replaced by a fade cutscene. -JF}</FemaleText>
     </Entry>
