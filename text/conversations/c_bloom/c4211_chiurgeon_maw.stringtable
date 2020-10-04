@@ -55,7 +55,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>In einer dunklen Ecke der Grube, umgeben von winkenden Ranken befindet sich eine knorrige Masse von Flor-Fleisch. Das Fleisch sieht dick und alt aus und du kannst eine schartige Naht entlang der Oberfläche erkennen, durch die ein schwaches Licht nach außen dringt.</DefaultText>
+      <DefaultText>In einer dunklen Ecke der Fälle, umgeben von winkenden Ranken befindet sich eine knorrige Masse von Flor-Fleisch. Das Fleisch sieht dick und alt aus und du kannst eine schartige Naht entlang der Oberfläche erkennen, durch die ein schwaches Licht nach außen dringt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Als du näherkommst, scheinen alle Geräusche der Grube zu ersticken. Das Geschwätz der Einheimischen und das raue Lachen der Soldaten entfernen sich und werden durch die zwitschernden und zischenden Stimmen der Flor ersetzt. 
+      <DefaultText>Als du näherkommst, scheinen alle Geräusche der Fälle zu ersticken. Das Geschwätz der Einheimischen und das raue Lachen der Soldaten entfernen sich und werden durch die zwitschernden und zischenden Stimmen der Flor ersetzt. 
 
 {SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
       <FemaleText />
@@ -303,12 +303,12 @@ Aber der Schlund ist genährt … und ist jetzt offen.</DefaultText>
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Das Trinken des Wassers in der Flor hat deine Sinne getrübt … aber in deinem benebelten Zustand scheint das Zischen und Zwitschern in der Flor fast verständlich zu sein. Sie rufen Eindrücke von *Hunger* und *Verlangen* hervor, und alles dreht sich um den Mann, der nahe der Grubenmitte steht – der Söldner-Hauptmann Artaglio.</DefaultText>
+      <DefaultText>Das Trinken des Wassers in der Flor hat deine Sinne getrübt … aber in deinem benebelten Zustand scheint das Zischen und Zwitschern in der Flor fast verständlich zu sein. Sie rufen Eindrücke von *Hunger* und *Verlangen* hervor, und alles dreht sich um den Mann, der nahe der Mitte der Fälle steht – der Söldner-Hauptmann Artaglio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Das Trinken des Wassers in der Flor hat deine Sinne getrübt … aber in deinem benebelten Zustand scheint das Zischen und Zwitschern in der Flor fast verständlich zu sein. Sie rufen Eindrücke von *Hunger* und *Verlangen* hervor, und alles dreht sich um den Mann, der nahe der Grubenmitte steht.</DefaultText>
+      <DefaultText>Das Trinken des Wassers in der Flor hat deine Sinne getrübt … aber in deinem benebelten Zustand scheint das Zischen und Zwitschern in der Flor fast verständlich zu sein. Sie rufen Eindrücke von *Hunger* und *Verlangen* hervor, und alles dreht sich um den Mann, der nahe der Mitte der Fälle steht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
