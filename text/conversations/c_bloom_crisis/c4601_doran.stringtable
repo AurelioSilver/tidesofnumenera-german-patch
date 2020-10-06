@@ -374,7 +374,9 @@ Er taumelt zurück und zerrt an seinen Anhängern. Verwirrt folgen sie ihm und w
       <DefaultText>„Das ist freundlich von dir“, räumt er ein und hebt eine Braue. „Aber ich bin nicht überzeugt, Verstoßener. Ich kenne deinen Vater länger, als du am Leben bist.“
 
 Er atmet seufzend aus. „Ergib dich, Verstoßener. Ergib dich *jetzt*.“</DefaultText>
-      <FemaleText />
+      <FemaleText>„Das ist freundlich von dir“, räumt er ein und hebt eine Braue. „Aber ich bin nicht überzeugt, Verstoßene. Ich kenne deinen Vater länger, als du am Leben bist.“
+
+Er atmet seufzend aus. „Ergib dich, Verstoßene. Ergib dich *jetzt*.“</FemaleText>
     </Entry>
     <Entry>
       <ID>66</ID>
