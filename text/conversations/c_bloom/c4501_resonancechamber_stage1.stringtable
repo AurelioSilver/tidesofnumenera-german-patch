@@ -98,12 +98,12 @@ Warmes, belebendes Licht fällt aus der Kammer auf dich und hüllt dich in strah
     <Entry>
       <ID>23</ID>
       <DefaultText>Die Resonanzenergien auf den Letzten Verstoßenen umlenken.</DefaultText>
-      <FemaleText />
+      <FemaleText>Die Resonanzenergien auf die Letzte Verstoßene umlenken.</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Erneut versuchen, die Resonanzenergien auf den Letzten Verstoßenen umzulenken.</DefaultText>
-      <FemaleText />
+      <FemaleText>Erneut versuchen, die Resonanzenergien auf die Letzte Verstoßene umzulenken.</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -112,7 +112,11 @@ Warmes, belebendes Licht fällt aus der Kammer auf dich und hüllt dich in strah
 Unter deiner Handfläche erscheint eine Karte des Raumes. Einer der Punkte darauf ist viel heller als die anderen. 
 
 Ohne darüber nachzudenken, drückst du ihn und die Macht der Kammer trifft den Letzten Verstoßenen wie ein Blitzschlag.</DefaultText>
-      <FemaleText />
+      <FemaleText>Du beißt die Zähne zusammen und strengst dich an, um die Geräusche der Schlacht unter dir auszublenden. Du greifst noch auf das letzte Fitzelchen Wissen zurück. Durch Herumprobieren entdeckst du schließlich die korrekte Befehlsfolge, um die Energien der Kammer umzuleiten, aber wie …
+
+Unter deiner Handfläche erscheint eine Karte des Raumes. Einer der Punkte darauf ist viel heller als die anderen. 
+
+Ohne darüber nachzudenken, drückst du ihn und die Macht der Kammer trifft die Letzte Verstoßene wie ein Blitzschlag.</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
