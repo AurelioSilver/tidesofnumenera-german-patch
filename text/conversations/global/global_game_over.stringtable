@@ -141,8 +141,8 @@ Der Kummer hielt Wort und holte sie einen nach dem anderen, riss sie aus dem Kon
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Die Tochter des Wandelnden Gottes brach auf in die Welt, die er, ohne ihr Wissen, für sie erschaffen hatte. Sie reiste in dem Körper, der einst dem letzten Verstoßenen gehört hatte – und einem Verstand, der durch Entbehrung geformt wurde.</DefaultText>
-      <FemaleText />
+      <DefaultText>Die Tochter des Wandelnden Gottes brach auf in die Welt, die er, ohne ihr Wissen, für sie erschaffen hatte. Sie reiste in dem Körper, der einst dem Letzten Verstoßenen gehört hatte – und einem Verstand, der durch Entbehrung geformt wurde.</DefaultText>
+      <FemaleText>Die Tochter des Wandelnden Gottes brach auf in die Welt, die er, ohne ihr Wissen, für sie erschaffen hatte. Sie reiste in dem Körper, der einst der Letzten Verstoßenen gehört hatte – und einem Verstand, der durch Entbehrung geformt wurde.</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -340,22 +340,22 @@ Er war ein ruheloser Mann. Er erfuhr nie, was aus seiner Familie geworden war, u
     <Entry>
       <ID>72</ID>
       <DefaultText>Callistege blieb viele Jahre lang bei dem Letzten Verstoßenen, verfasste Bücher und unterrichtete in kurzen Augenblicken der Zivilisation. Wohin sie gingen, sagte sie nie, und auch nicht, wohin sie als Nächstes gehen würden. Schließlich verschwand sie, auch wenn niemand wirklich sicher ist, dass sie nicht mehr da ist. In ihrer Heimatstadt Sagusklippen wartet ein leerer Sessel in der großen Bibliothek darauf, dass sie zurückkehrt und ihr Wissen einmal mehr weitergibt.</DefaultText>
-      <FemaleText />
+      <FemaleText>Callistege blieb viele Jahre lang bei der Letzten Verstoßenen, verfasste Bücher und unterrichtete in kurzen Augenblicken der Zivilisation. Wohin sie gingen, sagte sie nie, und auch nicht, wohin sie als Nächstes gehen würden. Schließlich verschwand sie, auch wenn niemand wirklich sicher ist, dass sie nicht mehr da ist. In ihrer Heimatstadt Sagusklippen wartet ein leerer Sessel in der großen Bibliothek darauf, dass sie zurückkehrt und ihr Wissen einmal mehr weitergibt.</FemaleText>
     </Entry>
     <Entry>
       <ID>73</ID>
       <DefaultText>Callistege wurde eine angesehene Gelehrte und füllte die große Bibliothek von Sagus und alle Bibliotheken der Neunten Welt mit ihren Abhandlungen zu mehrfachen Realitäten und dem Vergleich von Möglichkeit und Wahrscheinlichkeit. Sie spricht als eine Frau, die viele Leben länger gelebt hat, als ihr zustand – abgesehen von ihrem Leben an der Seite des Letzten Verstoßenen. Dieses Thema gehört ihr und nur ihr allein, bleibt verborgen hinter einem Lächeln oder einer Grimasse, doch für immer und unumkehrbar geheim.</DefaultText>
-      <FemaleText />
+      <FemaleText>Callistege wurde eine angesehene Gelehrte und füllte die große Bibliothek von Sagus und alle Bibliotheken der Neunten Welt mit ihren Abhandlungen zu mehrfachen Realitäten und dem Vergleich von Möglichkeit und Wahrscheinlichkeit. Sie spricht als eine Frau, die viele Leben länger gelebt hat, als ihr zustand – abgesehen von ihrem Leben an der Seite der Letzten Verstoßenen. Dieses Thema gehört ihr und nur ihr allein, bleibt verborgen hinter einem Lächeln oder einer Grimasse, doch für immer und unumkehrbar geheim.</FemaleText>
     </Entry>
     <Entry>
       <ID>74</ID>
       <DefaultText>Callistege entfernte schließlich den Attraktor und gab ihre vielfachen Realitäten für eine einzige feste Realität auf. Die Lehren des Letzten Verstoßenen gaben ihr die nötige Hoffnung, um dieses Leben über alle anderen zu wählen, und. Durch Beharrlichkeit und die Erinnerungen an die gemeinsame Zeit lernte sie dieses Leben zu schätzen und starb glücklich in hohem Alter.</DefaultText>
-      <FemaleText />
+      <FemaleText>Callistege entfernte schließlich den Attraktor und gab ihre vielfachen Realitäten für eine einzige feste Realität auf. Die Lehren der Letzten Verstoßenen gaben ihr die nötige Hoffnung, um dieses Leben über alle anderen zu wählen, und. Durch Beharrlichkeit und die Erinnerungen an die gemeinsame Zeit lernte sie dieses Leben zu schätzen und starb glücklich in hohem Alter.</FemaleText>
     </Entry>
     <Entry>
       <ID>75</ID>
       <DefaultText>Callistege entfernte schließlich den Attraktor und gab ihre vielfachen Realitäten für eine einzige feste Realität auf. Auch wenn sie oft an den Letzten Verstoßenen dachte, spendeten ihr die Lehren ihrer gemeinsamen Reisen keinen Trost. Schließlich verschwand sie in den Wüsten hinter Sagus und wurde nie wieder gesehen.</DefaultText>
-      <FemaleText />
+      <FemaleText>Callistege entfernte schließlich den Attraktor und gab ihre vielfachen Realitäten für eine einzige feste Realität auf. Auch wenn sie oft an die Letzte Verstoßene dachte, spendeten ihr die Lehren ihrer gemeinsamen Reisen keinen Trost. Schließlich verschwand sie in den Wüsten hinter Sagus und wurde nie wieder gesehen.</FemaleText>
     </Entry>
     <Entry>
       <ID>76</ID>
@@ -547,7 +547,13 @@ Aber es kam darauf an, dass er es versuchte. In einigen seltenen Fällen fand er
 Schließlich forderten die Strapazen ihren Tribut. Er wurde unterwegs krank, brach dann zusammen. Erritis starb Meilen von jedem Ort entfernt, allein, aber mit einem zufriedenen Lächeln auf den Lippen.
 
 Die Stimmen in ihm verfielen in einen Schlaf. Stille. Wartend auf den nächsten Helden, der des Weges kommen möge.</DefaultText>
-      <FemaleText />
+      <FemaleText>Erritis brach allein auf, er war getrieben von dem widersprüchlichen Drängen der Nano-Dämonen aber auch den Lektionen der Letzten Verstoßenen. Er verbrachte das Wenige, das von seinem Leben noch übrig war, damit, anderen so gut wie möglich zu helfen, ob sie es wollten oder nicht.
+
+Aber es kam darauf an, dass er es versuchte. In einigen seltenen Fällen fand er jemanden, der *wirklich* Hilfe brauchte und rettete ihn wie ein echter Held: gerade noch rechtzeitig.
+
+Schließlich forderten die Strapazen ihren Tribut. Er wurde unterwegs krank, brach dann zusammen. Erritis starb Meilen von jedem Ort entfernt, allein, aber mit einem zufriedenen Lächeln auf den Lippen.
+
+Die Stimmen in ihm verfielen in einen Schlaf. Stille. Wartend auf den nächsten Helden, der des Weges kommen möge.</FemaleText>
     </Entry>
     <Entry>
       <ID>97</ID>
@@ -578,7 +584,13 @@ Rhin verbrachte die Nacht mit anderen Flüchtlingen vor der Festung der Memovira
 Eines Tages … verschwand Aen-Tozon. Manche sagte, er sei vom Flor verschlungen worden. Andere sagten, er hätte sich selbst irgendwie verschlungen. Die meisten waren sich einig, dass er ein schlimmes Ende genommen hatte, wie es die meisten im Flor ereilt.
 
 Rhin fand nie die Wahrheit heraus und kehrte nie nach Hause zurück.</DefaultText>
-      <FemaleText />
+      <FemaleText>Nachdem sie die Letzte Verstoßene im Flor zurückgelassen hatte, kehrte Rhin zu Aen-Tozon zurück. Sie flehte ihn an, seinen Schlund für sie zu öffnen, aber er wiederholte, was er zuvor gesagt hatte: Der Schlund würde sich nicht nach seinen Launen öffnen.
+
+Rhin verbrachte die Nacht mit anderen Flüchtlingen vor der Festung der Memovira und kehrte am nächsten Tag zurück. Sie kam jeden Tag wieder. Sie suchte Menschen auf, von denen sich der Schlund nähren könnte. Sie dachte sogar einmal an Parsims Sklaven, aber dazu konnte sie sich nicht überwinden.
+
+Eines Tages … verschwand Aen-Tozon. Manche sagte, er sei vom Flor verschlungen worden. Andere sagten, er hätte sich selbst irgendwie verschlungen. Die meisten waren sich einig, dass er ein schlimmes Ende genommen hatte, wie es die meisten im Flor ereilt.
+
+Rhin fand nie die Wahrheit heraus und kehrte nie nach Hause zurück.</FemaleText>
     </Entry>
     <Entry>
       <ID>100</ID>
@@ -588,7 +600,7 @@ Rhin fand nie die Wahrheit heraus und kehrte nie nach Hause zurück.</DefaultTex
     <Entry>
       <ID>101</ID>
       <DefaultText>Rhin blieb bei dem Letzten Verstoßenen.</DefaultText>
-      <FemaleText />
+      <FemaleText>Rhin blieb bei der Letzten Verstoßenen.</FemaleText>
     </Entry>
     <Entry>
       <ID>102</ID>
@@ -650,12 +662,12 @@ Sie gab jeden Shin, den sie verdiente, dem Hospiz, einem Ort für heimatlose Kin
     <Entry>
       <ID>109</ID>
       <DefaultText>und der Letzte Verstoßene</DefaultText>
-      <FemaleText />
+      <FemaleText>und die Letzte Verstoßene</FemaleText>
     </Entry>
     <Entry>
       <ID>110</ID>
       <DefaultText>und der Letzte Verstoßene – oder eher die leibliche Tochter des Wandelnden Gotts, auch wenn sie häufig vergaß, dass dies ein Unterschied war –</DefaultText>
-      <FemaleText />
+      <FemaleText>und die Letzte Verstoßene – oder eher die leibliche Tochter des Wandelnden Gotts, auch wenn sie häufig vergaß, dass dies ein Unterschied war –</FemaleText>
     </Entry>
     <Entry>
       <ID>111</ID>
@@ -797,7 +809,9 @@ Schließlich heirateten sie und verließen das Sagus-Protektorat auf der Suche n
       <DefaultText>Piquo wartete mehrere Tage lang auf die Rückkehr des Letzten Verstoßenen, bis ihm klar wurde, dass er betrogen worden war. Desillusioniert und mit gebrochenem Herzen begann er wieder, mit jeder Arbeit, die er bekommen konnte, ein paar Shin zusammenzukratzen.
 
 Eines Tages wollte er zu dem Cheirurgen zurückkehren. Er würde seine *eigene* Entscheidung treffen und sich nicht von jemand anderem sagen lassen, was er mit seinem Leben anfangen soll.</DefaultText>
-      <FemaleText />
+      <FemaleText>Piquo wartete mehrere Tage lang auf die Rückkehr der Letzten Verstoßenen, bis ihm klar wurde, dass er betrogen worden war. Desillusioniert und mit gebrochenem Herzen begann er wieder, mit jeder Arbeit, die er bekommen konnte, ein paar Shin zusammenzukratzen.
+
+Eines Tages wollte er zu dem Cheirurgen zurückkehren. Er würde seine *eigene* Entscheidung treffen und sich nicht von jemand anderem sagen lassen, was er mit seinem Leben anfangen soll.</FemaleText>
     </Entry>
     <Entry>
       <ID>132</ID>
@@ -1332,7 +1346,11 @@ Er wurde in Ormen begraben und sein Name wurde in die Wand im Tal der Toten Held
 Etwas war während der Konfrontation mit dem Kummer in dem Spielzeug kaputtgegangen, das war offensichtlich. Es fühlte sich nicht länger gebunden durch die Tragödien seiner langen, langen Vergangenheit. Die Beschränkungen seiner Schöpfer, für immer zu lehren und zu trauern, hatten keine Bedeutung mehr.
 
 Oom war frei.</DefaultText>
-      <FemaleText />
+      <FemaleText>Als Oom in die Welt zurückkehrte, verschwand es. Keiner der Begleiter der Letzten Verstoßenen sah es je wieder.
+
+Etwas war während der Konfrontation mit dem Kummer in dem Spielzeug kaputtgegangen, das war offensichtlich. Es fühlte sich nicht länger gebunden durch die Tragödien seiner langen, langen Vergangenheit. Die Beschränkungen seiner Schöpfer, für immer zu lehren und zu trauern, hatten keine Bedeutung mehr.
+
+Oom war frei.</FemaleText>
     </Entry>
     <Entry>
       <ID>219</ID>
