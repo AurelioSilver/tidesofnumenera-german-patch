@@ -6842,7 +6842,7 @@
     <Entry>
       <ID>1368</ID>
       <DefaultText>Erhöht die Trainingsstufe des Letzten Verstoßenen in einer von Ooms Gezeitenausrichtung abhängigen Fertigkeit.\n\nGegenwärtige Ausrichtung:\n[CurrentBonus]\n\nMögliche Ausrichtungen:\n-[Color: TideIdealist]Idealist[/Color]: [SkillIdealist]\n-[Color: TideBlue]Blau[/Color]: [SkillBlue]\n-[Color: TideRed]Rot[/Color]: [SkillRed]\n-[Color: TideIndigo]Indigo[/Color]: [SkillIndigo]\n-[Color: TideGold]Golden[/Color]: [SkillGold]\n-[Color: TideSilver]Silbern[/Color]: [SkillSilver]</DefaultText>
-      <FemaleText />
+      <FemaleText>Erhöht die Trainingsstufe der Letzten Verstoßenen in einer von Ooms Gezeitenausrichtung abhängigen Fertigkeit.\n\nGegenwärtige Ausrichtung:\n[CurrentBonus]\n\nMögliche Ausrichtungen:\n-[Color: TideIdealist]Idealist[/Color]: [SkillIdealist]\n-[Color: TideBlue]Blau[/Color]: [SkillBlue]\n-[Color: TideRed]Rot[/Color]: [SkillRed]\n-[Color: TideIndigo]Indigo[/Color]: [SkillIndigo]\n-[Color: TideGold]Golden[/Color]: [SkillGold]\n-[Color: TideSilver]Silbern[/Color]: [SkillSilver]</FemaleText>
     </Entry>
     <Entry>
       <ID>1369</ID>
@@ -6857,7 +6857,7 @@
     <Entry>
       <ID>1371</ID>
       <DefaultText>Ermöglicht es Oom, sich auf 2 Gezeiten gleichzeitig auszurichten und alle zugehörigen Boni von beiden zu nutzen. Wenn der Letzte Verstoßene nur 1 vorherrschende Gezeit besitzt oder Oom nur auf 1 ausrichtet, werden deren Effekte verstärkt.</DefaultText>
-      <FemaleText />
+      <FemaleText>Ermöglicht es Oom, sich auf 2 Gezeiten gleichzeitig auszurichten und alle zugehörigen Boni von beiden zu nutzen. Wenn die Letzte Verstoßene nur 1 vorherrschende Gezeit besitzt oder Oom nur auf 1 ausrichtet, werden deren Effekte verstärkt.</FemaleText>
     </Entry>
     <Entry>
       <ID>1372</ID>
@@ -6867,7 +6867,7 @@
     <Entry>
       <ID>1373</ID>
       <DefaultText>Du kannst dich entscheiden, Oom auf 1 der vorherrschenden Gezeiten des Letzten Verstoßenen auszurichten. Das verändert Ooms Aussehen und beeinflusst die Boni, die viele von Ooms Fähigkeiten einbringen.\n\nOoms Ausrichtung kann jederzeit durch ein Gespräch mit ihm geändert werden.</DefaultText>
-      <FemaleText />
+      <FemaleText>Du kannst dich entscheiden, Oom auf 1 der vorherrschenden Gezeiten der Letzten Verstoßenen auszurichten. Das verändert Ooms Aussehen und beeinflusst die Boni, die viele von Ooms Fähigkeiten einbringen.\n\nOoms Ausrichtung kann jederzeit durch ein Gespräch mit ihm geändert werden.</FemaleText>
     </Entry>
     <Entry>
       <ID>1374</ID>
@@ -6917,12 +6917,12 @@
     <Entry>
       <ID>1383</ID>
       <DefaultText>Wenn Oom einen [FettleIcon: Buff]positiven Zustand erhält, weil es eine Fähigkeit oder einen Gegenstand auf sich selbst anwendet, erhält der Letzte Verstoßene denselben Zustand für dieselbe Dauer.</DefaultText>
-      <FemaleText />
+      <FemaleText>Wenn Oom einen [FettleIcon: Buff]positiven Zustand erhält, weil es eine Fähigkeit oder einen Gegenstand auf sich selbst anwendet, erhält die Letzte Verstoßene denselben Zustand für dieselbe Dauer.</FemaleText>
     </Entry>
     <Entry>
       <ID>1384</ID>
       <DefaultText>Wenn dieser Effekt ausgelöst wird, erhält der Letzte Verstoßene abhängig von Ooms Gezeitenausrichtung zusätzliche Effekte. Gegenwärtige Ausrichtungsboni:</DefaultText>
-      <FemaleText />
+      <FemaleText>Wenn dieser Effekt ausgelöst wird, erhält die Letzte Verstoßene abhängig von Ooms Gezeitenausrichtung zusätzliche Effekte. Gegenwärtige Ausrichtungsboni:</FemaleText>
     </Entry>
     <Entry>
       <ID>1385</ID>
