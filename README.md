@@ -4,7 +4,8 @@ Verbesserung der deutschen Übersetzung von Tides of Numenera.
 Details for the Patch:
 
 **Installation:**
-Aktuell wird noch viel an den Texten überarbeitet, daher haben wir noch keine "Releases". Ladet euch bitte den neusten Stand unserer Übersetzung über den Button "Clone or Download" rechts oben herunter. Wählt dort "Download ZIP". Bitte entpackt dieses Archiv im folgenden Verzeichnis:
+Aktuell wird noch viel an den Texten überarbeitet, daher haben wir noch keine "Releases". Ladet euch bitte den neusten Stand unserer Übersetzung über den Button "Clone or Download" rechts oben herunter. Wählt dort "Download ZIP".
+Bitte entpackt den Ordner "de_patch" dieses Archivs im folgenden Verzeichnis:
 
 > (...)\Torment Tides of Numenera\WIN\TidesOfNumenera_Data\StreamingAssets\data\localized\
 
@@ -22,7 +23,6 @@ Here are a few easy to use clients:
 	* http://www.sourcetreeapp.com/
 	* http://www.syntevo.com/smartgit/
 * Linux
-	* You really don't know how to use git?
 	* https://wiki.gnome.org/Apps/giggle/
 	* https://wiki.gnome.org/Apps/Gitg/
 	* http://www.syntevo.com/smartgit/
