@@ -1,11 +1,11 @@
 # tidesofnumenera-german-patch
 Verbesserung der deutschen Übersetzung von Tides of Numenera.
 
-Details for the Patch:
+Hinweise für den Patch:
 
 **Installation:**
-Aktuell wird noch viel an den Texten überarbeitet, daher haben wir noch keine "Releases". Ladet euch bitte den neusten Stand unserer Übersetzung über den Button "Clone or Download" rechts oben herunter. Wählt dort "Download ZIP".
-Bitte entpackt den Ordner "de_patch" dieses Archivs im folgenden Verzeichnis:
+Ladet euch bitte das aktuellste Release unserer Übersetzung herunter.
+Entpackt den Ordner "de_patch" dieses Releases in folgendes Verzeichnis:
 
 > (...)\Torment Tides of Numenera\WIN\TidesOfNumenera_Data\StreamingAssets\data\localized\
 
