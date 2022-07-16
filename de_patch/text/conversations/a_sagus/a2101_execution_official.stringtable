@@ -493,12 +493,10 @@ Er dreht sich um und ruft den Wehrpflichtigen zu. „Macht den Tod des Verurteil
       <ID>105</ID>
       <DefaultText>Er wendet sich wieder dir zu und verneigt sich. „Bitte sehr, der Herr. Alles erledigt. Oh! Wartet.“
 
-Er greift in seine Robe und holt ein kleines Bündel hervor. „Und hier sind seine persönlichen Habseligkeiten, die wir, äh… den Armen gegeben hätten.“
-{BEUTE}</DefaultText>
+Er greift in seine Robe und holt ein kleines Bündel hervor. „Und hier sind seine persönlichen Habseligkeiten, die wir, äh… den Armen gegeben hätten.“</DefaultText>
       <FemaleText>Er wendet sich wieder dir zu und verneigt sich. „Bitte sehr, die Dame. Alles erledigt. Oh! Wartet.“
 
-Er greift in seine Robe und holt ein kleines Bündel hervor. „Und hier sind seine persönlichen Habseligkeiten, die wir, äh… den Armen gegeben hätten.“
-{BEUTE}</FemaleText>
+Er greift in seine Robe und holt ein kleines Bündel hervor. „Und hier sind seine persönlichen Habseligkeiten, die wir, äh… den Armen gegeben hätten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>106</ID>
@@ -687,9 +685,7 @@ Er greift in seine Robe und holt ein kleines Bündel hervor. „Und hier sind se
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Er reißt dir die Shin aus der Hand. „Also gut, also gut, geht nur. Obwohl Ihr wissen solltet, dass es sinnlos ist, mit ihm zu reden. Er wird Euch weder hören noch antworten. Außerdem könnte die Berührung seines 'Zwillings' Euch töten. Haltet Euch von ihm fern.“
-
-{GELD}</DefaultText>
+      <DefaultText>Er reißt dir die Shin aus der Hand. „Also gut, also gut, geht nur. Obwohl Ihr wissen solltet, dass es sinnlos ist, mit ihm zu reden. Er wird Euch weder hören noch antworten. Außerdem könnte die Berührung seines 'Zwillings' Euch töten. Haltet Euch von ihm fern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -734,9 +730,7 @@ Er greift in seine Robe und holt ein kleines Bündel hervor. „Und hier sind se
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Er nimmt die Shin und winkt dich weiter. „Überaus freundlich. Nun geht, obwohl Ihr wissen solltet, dass es sinnlos ist. Er wird Euch weder hören noch antworten. Außerdem wird die Berührung seines Zwillings Euch töten. Haltet Euch von ihm fern.“
-
-{GELD}</DefaultText>
+      <DefaultText>Er nimmt die Shin und winkt dich weiter. „Überaus freundlich. Nun geht, obwohl Ihr wissen solltet, dass es sinnlos ist. Er wird Euch weder hören noch antworten. Außerdem wird die Berührung seines Zwillings Euch töten. Haltet Euch von ihm fern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

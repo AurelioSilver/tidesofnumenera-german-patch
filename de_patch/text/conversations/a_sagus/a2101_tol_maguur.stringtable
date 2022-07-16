@@ -6,9 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Verliert Euch selbst in einem Felsenwurm, Idiot. So, wie Ihr meine Rhin verloren habt.“
-
-{GEORGE: Wollen wir Tol entfernen, wenn Rhin weg ist?}</DefaultText>
+      <DefaultText>„Verliert Euch selbst in einem Felsenwurm, Idiot. So, wie Ihr meine Rhin verloren habt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,9 +92,7 @@ Sie zerzaust ihr Haar, bringt es noch mehr durcheinander, und singt: „Gekommen
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Sie starrt dich an und du spürst einen plötzlich Wirbel in deiner Psyche, eine Kakofonie sich duellierender Emotionen. Sie macht etwas mit den Gezeiten, das dich mit Übelkeit und Verzweiflung erfüllt – der überwältigende Zwang, sich hinzulegen und zu schluchzen. Sie hält inne, ein grimmiges Lächeln auf ihrem Gesicht. „Wollt Ihr ein Beispiel davon, was Verstoßene zu tun in der Lage sind? Wollt Ihr wissen, warum ich das Mädchen haben will? Sie hält mich davon ab, *das* zu tun. Also gebt sie mir jetzt oder leidet unter meinem Fluch, bis ich entscheide, ihn aufzuheben.“
-
-{JEREMY: Permanenter Debuff – sprich mit George darüber, welcher es ist}</DefaultText>
+      <DefaultText>Sie starrt dich an und du spürst einen plötzlich Wirbel in deiner Psyche, eine Kakofonie sich duellierender Emotionen. Sie macht etwas mit den Gezeiten, das dich mit Übelkeit und Verzweiflung erfüllt – der überwältigende Zwang, sich hinzulegen und zu schluchzen. Sie hält inne, ein grimmiges Lächeln auf ihrem Gesicht. „Wollt Ihr ein Beispiel davon, was Verstoßene zu tun in der Lage sind? Wollt Ihr wissen, warum ich das Mädchen haben will? Sie hält mich davon ab, *das* zu tun. Also gebt sie mir jetzt oder leidet unter meinem Fluch, bis ich entscheide, ihn aufzuheben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,18 +117,12 @@ Sie zerzaust ihr Haar, bringt es noch mehr durcheinander, und singt: „Gekommen
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Wenn er es trotzdem tut und gewinnt, wird dies ein großer Missbrauch für Rhin sein (und der Spieler wird erst sehr viel später im Spiel lernen, Gezeitenwellen auszuführen).
-
-{SCRIPT: Müssen eine Variable einrichten, wenn SC den Kampf gewinnt: a2101_TolKilledByPC=1 für spätere Bezugnahme}
-{SCRIPT: Wenn SC von Tol verflucht wird, Debuff entfernen}
-{ADAM: Übernimm bitte diese Variable als Referenz in Rhins Dialog!}</DefaultText>
+      <DefaultText>Wenn er es trotzdem tut und gewinnt, wird dies ein großer Missbrauch für Rhin sein (und der Spieler wird erst sehr viel später im Spiel lernen, Gezeitenwellen auszuführen).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Wenn der Spieler den Kampf verliert, wird Rhin aus der Gruppe entfernt und der Spieler erhält in der Dendra-Kapelle den Dialog „Spieler getötet von Tol Maguur“.
-
-{SCRIPT: Wenn SC von Tol verflucht worden ist, Debuff hier entfernen}</DefaultText>
+      <DefaultText>Wenn der Spieler den Kampf verliert, wird Rhin aus der Gruppe entfernt und der Spieler erhält in der Dendra-Kapelle den Dialog „Spieler getötet von Tol Maguur“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1415,9 +1405,7 @@ Sie legt eine Hand auf ihr Gesicht. „Also gut. Also gut.“</DefaultText>
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>„Gut.“ Sie wirft dir einen finsteren Blick zu und du spürst, wie sich ihr Fluch auflöst. „Also, ich bin einen Handel mit Euch eingegangen, Euch über die Gezeiten zu lehren. Ich möchte nicht, dass von mir behauptet wird, ich halte mein Wort nicht … auch wenn wir unsere Meinungsverschiedenheiten hatten. Vielleicht gerade deswegen. Also werde ich Euch unterrichten. Seid Ihr bereit?“
-
-{SCRIPT: Zustand vom SC entfernen}</DefaultText>
+      <DefaultText>„Gut.“ Sie wirft dir einen finsteren Blick zu und du spürst, wie sich ihr Fluch auflöst. „Also, ich bin einen Handel mit Euch eingegangen, Euch über die Gezeiten zu lehren. Ich möchte nicht, dass von mir behauptet wird, ich halte mein Wort nicht … auch wenn wir unsere Meinungsverschiedenheiten hatten. Vielleicht gerade deswegen. Also werde ich Euch unterrichten. Seid Ihr bereit?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2206,9 +2194,7 @@ Sie grinst. „Ja, ich weiß, was Ihr seid … und ich habe kein Interesse dara
     </Entry>
     <Entry>
       <ID>502</ID>
-      <DefaultText>„Rhin sagt, sie hatte einen Tornister, als sie bei Euch war. Wisst Ihr, wo sie ist?“
-
-{SCRIPT: Läuft zurzeit nicht. Wieder besuchen, falls und wenn Rhins Tornister implementiert wurde. -AH}</DefaultText>
+      <DefaultText>„Rhin sagt, sie hatte einen Tornister, als sie bei Euch war. Wisst Ihr, wo sie ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2228,14 +2214,8 @@ Sie grinst. „Ja, ich weiß, was Ihr seid … und ich habe kein Interesse dara
     </Entry>
     <Entry>
       <ID>506</ID>
-      <DefaultText>„Dafür werde ich dich töten.“
-
-{SCRIPT: I'd delete this node. - cmm}
-{SCRIPT: Start Tussle, UNLESS that Tussle would complicate the logic of having had the Tussle before. In that case, delete this node.}</DefaultText>
-      <FemaleText>„Dafür werde ich dich töten.“
-
-{SCRIPT: I'd delete this node. - cmm}
-{SCRIPT: Start Tussle, UNLESS that Tussle would complicate the logic of having had the Tussle before. In that case, delete this node.}</FemaleText>
+      <DefaultText>„Dafür werde ich dich töten.“</DefaultText>
+      <FemaleText>„Dafür werde ich dich töten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>507</ID>
@@ -2254,10 +2234,7 @@ Sie grinst. „Ja, ich weiß, was Ihr seid … und ich habe kein Interesse dara
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>Sie betrachtet Euch von oben bis unten und erkennt die implizite Drohung in Euren Augen. „Also gut.“ Sie wirft Euch den Tornister zu. „Ist sowieso nichts wert.“
-
-{BEUTE}
-{SCRIPT: Spieler erhält den Gegenstand Tornister für Rhins Quest.}</DefaultText>
+      <DefaultText>Sie betrachtet Euch von oben bis unten und erkennt die implizite Drohung in Euren Augen. „Also gut.“ Sie wirft Euch den Tornister zu. „Ist sowieso nichts wert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2269,10 +2246,7 @@ Sie grinst. „Ja, ich weiß, was Ihr seid … und ich habe kein Interesse dara
       <ID>512</ID>
       <DefaultText>Ihr rückt näher an sie heran und schubst sie leicht mit einer Hand. Sie ergreift Euer Handgelenk und drückt es an Eure Schulter. „Rührt mich nicht an“, knurrt sie, „sonst schiebe ich Euch Euren Arm beim nächsten Mal direkt in den Arsch.“
 
-Sie bemerkt nicht, wie Eure andere Hand in ihren Beutel gleitet. Ihr versteckt den Tornister ehe Tol Euch wegschiebt.
-
-{BEUTE}
-{SCRIPT: Spieler erhält Gegenstand Tornister für Rhins Quest.}</DefaultText>
+Sie bemerkt nicht, wie Eure andere Hand in ihren Beutel gleitet. Ihr versteckt den Tornister ehe Tol Euch wegschiebt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2284,10 +2258,7 @@ Sie fängt auch Eure andere Hand ab, als sie sich in ihren Beutel stehlen will. 
     </Entry>
     <Entry>
       <ID>514</ID>
-      <DefaultText>„Das war schmerzlos, nicht wahr? Ich liebe das Geräusch von Geld, das den Besitzer wechselt. Hier.“
-
-{BEUTE}
-{SCRIPT: Spieler erhält Gegenstand Tornister für Rhins Quest.}</DefaultText>
+      <DefaultText>„Das war schmerzlos, nicht wahr? Ich liebe das Geräusch von Geld, das den Besitzer wechselt. Hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
