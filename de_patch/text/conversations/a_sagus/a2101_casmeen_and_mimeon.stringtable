@@ -1130,9 +1130,7 @@ Er verbeugt sich vor dir. „Wir werden mit ihr sprechen, wie es unsere Lehre be
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>„Eure Geschwister waren viele Dinge: Königinnen und Anführer, Generäle, Diebe, Meuchelmörder, Schöpfer und Künstler, Retter ihrer Gemeinden … es war das Vorbild Eures Erzeugers, das sie zu solchen Leistungen antrieb. Euer heiliger Erzeuger wird auch Euch den Weg weisen. Mithilfe seiner göttlichen Gabe könnt Ihr die Welt erhellen. Daher eifern wir Euch allen ebenfalls nach.“
-
-{COLIN: Come back after 1E to add more stories about castoffs, which can provide the PC some advantage in Miel Avest}</DefaultText>
+      <DefaultText>„Eure Geschwister waren viele Dinge: Königinnen und Anführer, Generäle, Diebe, Meuchelmörder, Schöpfer und Künstler, Retter ihrer Gemeinden … es war das Vorbild Eures Erzeugers, das sie zu solchen Leistungen antrieb. Euer heiliger Erzeuger wird auch Euch den Weg weisen. Mithilfe seiner göttlichen Gabe könnt Ihr die Welt erhellen. Daher eifern wir Euch allen ebenfalls nach.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1186,9 +1184,7 @@ Sie lächelt. „Wir haben vom Schwarzmoor gehört, der im Schwarzen Kubus einge
       <ID>239</ID>
       <DefaultText>Die beiden taumeln unter der Kraft deines Willens, ein Schlag psychischer Energie, der sie in die Knie zwingt. Mimeons Finger umklammern seinen Kopf, Licht blitzt über seinem Schädel, während er die neue Information zu verarbeiten versucht, die die Wahrheit in seinem Bewusstsein verdrängt.
 
-„… ja … Ihr seid es …“, krächzt er heiser.
-
-{VFX: Light a blue-tinged halo around Mimeon's head for a moment, general Tidal Surge VFX}</DefaultText>
+„… ja … Ihr seid es …“, krächzt er heiser.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1861,16 +1857,12 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>„Geben? Gute Güte. Wir sind nur eine kleine Gruppe und alles andere als wohlhabend. Wir leben von Spenden, Kuriositäten und der gelegentlichen großzügigen Gabe eines Eurer Geschwister. Zum Beispiel hatten wir eine Waffe, die einst Kalkedon geschwungen hat. Der Kalkedon! Der Kommandant von –“ Sie nimmt sich zusammen. „Ich will damit sagen, dass wir Euch unsere Waren nicht einfach geben können.“
-
-{STORE}</DefaultText>
+      <DefaultText>„Geben? Gute Güte. Wir sind nur eine kleine Gruppe und alles andere als wohlhabend. Wir leben von Spenden, Kuriositäten und der gelegentlichen großzügigen Gabe eines Eurer Geschwister. Zum Beispiel hatten wir eine Waffe, die einst Kalkedon geschwungen hat. Der Kalkedon! Der Kommandant von –“ Sie nimmt sich zusammen. „Ich will damit sagen, dass wir Euch unsere Waren nicht einfach geben können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>„Gegen eine kleine Gebühr natürlich.“
-
-{STORE}</DefaultText>
+      <DefaultText>„Gegen eine kleine Gebühr natürlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1895,18 +1887,12 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>„Wir teilen natürlich gerne mit einem unserer Geschwister. Aber wir haben selbst nicht viel. Wir leben von kleinen Spenden, Kuriositäten und der gelegentlichen großzügigen Gabe eines Eurer Geschwister. Zum Beispiel hatten wir eine Waffe, die einst Kalkedon geschwungen hat. Der Kalkedon! Der Kommandant von –“ Sie nimmt sich zusammen. „Ich will damit sagen, dass wir Euch unsere Waren nicht einfach geben können.“ „Natürlich machen wir Euch einen guten Preis!“, fügt sie hastig hinzu.
-
-
-
-{STORE}</DefaultText>
+      <DefaultText>„Wir teilen natürlich gerne mit einem unserer Geschwister. Aber wir haben selbst nicht viel. Wir leben von kleinen Spenden, Kuriositäten und der gelegentlichen großzügigen Gabe eines Eurer Geschwister. Zum Beispiel hatten wir eine Waffe, die einst Kalkedon geschwungen hat. Der Kalkedon! Der Kommandant von –“ Sie nimmt sich zusammen. „Ich will damit sagen, dass wir Euch unsere Waren nicht einfach geben können.“ „Natürlich machen wir Euch einen guten Preis!“, fügt sie hastig hinzu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>„Natürlich machen wir unseren geliebten Geschwistern einen besonders guten Preis.“
-
-{STORE}</DefaultText>
+      <DefaultText>„Natürlich machen wir unseren geliebten Geschwistern einen besonders guten Preis.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1931,17 +1917,12 @@ Er hält inne, nickt. Eine dünne Falte bildet sich auf seiner Stirn.</DefaultTe
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>„Es ist uns eine Ehre, Euch unsere Waren anzubieten, Eure Heiligkeit. Doch wir sind nur eine kleine Gruppe und alles andere als wohlhabend. Wir leben von kleinen Spenden, Kuriositäten und der gelegentlichen großzügigen Gabe eines Eurer Kinder, wie etwa die Waffe des Kalkedon. So gerne wir Euch diese auch schenken würden, wir können es uns einfach nicht leisten … doch da Ihr es seid, verlangen wir nur einen kleinen Betrag dafür.“
-
-
-{STORE}</DefaultText>
+      <DefaultText>„Es ist uns eine Ehre, Euch unsere Waren anzubieten, Eure Heiligkeit. Doch wir sind nur eine kleine Gruppe und alles andere als wohlhabend. Wir leben von kleinen Spenden, Kuriositäten und der gelegentlichen großzügigen Gabe eines Eurer Kinder, wie etwa die Waffe des Kalkedon. So gerne wir Euch diese auch schenken würden, wir können es uns einfach nicht leisten … doch da Ihr es seid, verlangen wir nur einen kleinen Betrag dafür.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>„Natürlich, Eure Heiligkeit.“
-
-{STORE}</DefaultText>
+      <DefaultText>„Natürlich, Eure Heiligkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
