@@ -313,16 +313,12 @@ Er fährt sich vorsichtig durchs schüttere Haar und starrt dich an. „Das will
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Seine Tochter kam ums Leben, als sein Haus einstürzte. Die Trauer trieb ihn dazu, den Tod zu suchen.“
-
-{JOURNAL: Journal entry here, hinting that the player should „come back later“ to see how he's progressed.}</DefaultText>
+      <DefaultText>„Seine Tochter kam ums Leben, als sein Haus einstürzte. Die Trauer trieb ihn dazu, den Tod zu suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>(Lüge) „Er empfand Liebe für seine Mörderin. Deshalb sehnte er sich nach ihrer Umarmung.“
-
-{JOURNAL: Journal entry here, hinting that the player should „come back much later“ to see how he's progressed. This will be after the player returns to Sagus Cliffs.}</DefaultText>
+      <DefaultText>(Lüge) „Er empfand Liebe für seine Mörderin. Deshalb sehnte er sich nach ihrer Umarmung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -390,9 +386,7 @@ Er macht sich wieder an seine Arbeit.</DefaultText>
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>„Ja! Perfekt! Das ist es!“
-
-{ANIM: Zaofi should be working on a sculpture here}</DefaultText>
+      <DefaultText>„Ja! Perfekt! Das ist es!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -452,9 +446,7 @@ Zaofi leckt sich die Lippen. „Sie sieht aus wie der fleischgewordene Tod. Und 
       <ID>80</ID>
       <DefaultText>Wenn überhaupt, sieht Zaofi noch kränker aus, als das letzte Mal, und seine Skulpturen erscheinen noch unfertiger als zuvor. In einigen Fällen hat er den Verstoßenen in Armen des Kummers förmlich entstellt.
 
-„Oh, du bist es“, sagt Zaofi und blinzelt nervös. Er stinkt wie das Abwasser einer Brennerei.
-
-{SCRIPT: Zaofi is sitting, but not working.}</DefaultText>
+„Oh, du bist es“, sagt Zaofi und blinzelt nervös. Er stinkt wie das Abwasser einer Brennerei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -498,9 +490,7 @@ E spuckt voller Selbstverachtung auf den Boden. „Ich mache keine Kunst mehr. K
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>„Genug geredet über Kunst. Ich bin erledigt.“
-
-{SCRIPT: Zaofi is sitting, but not working.}</DefaultText>
+      <DefaultText>„Genug geredet über Kunst. Ich bin erledigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -574,23 +564,17 @@ Zaofi wischt sich den Schweiß von der Stirn. „Einen Augenblick später waren 
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>(Lüge) „Er war nur ein gewöhnlicher Mensch … Nicht im Geringsten bemerkenswert.“
-
-{JOURNAL: Journal entry here, hinting that the player should „come back much later“ to see how he's progressed. This will be after the player returns to Sagus Cliffs.}</DefaultText>
+      <DefaultText>(Lüge) „Er war nur ein gewöhnlicher Mensch … Nicht im Geringsten bemerkenswert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>::niest::
-
-{SCRIPT: Zaofi is sitting, but not working.}</DefaultText>
+      <DefaultText>::niest::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Der einst wütende Bildhauer sitzt bei seinen Statuen, die so gesichtslos und unfertig sind wie eh und je. Er schaut dich an, niest und streicht sich durch den Bart. Es hat den Anschein, dass er wochenlang im Freien schlief.
-
-{SCRIPT: Zaofi is sitting, but not working.}</DefaultText>
+      <DefaultText>Der einst wütende Bildhauer sitzt bei seinen Statuen, die so gesichtslos und unfertig sind wie eh und je. Er schaut dich an, niest und streicht sich durch den Bart. Es hat den Anschein, dass er wochenlang im Freien schlief.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
