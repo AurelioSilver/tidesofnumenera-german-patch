@@ -23,8 +23,7 @@ Du siehst für einen Moment ein mit Schmutz bedecktes Objekt in der übel rieche
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Das Objekt aus dem Schlamm herausziehen versuchen.
-{CRIT}</DefaultText>
+      <DefaultText>Das Objekt aus dem Schlamm herausziehen versuchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -34,32 +33,22 @@ Du siehst für einen Moment ein mit Schmutz bedecktes Objekt in der übel rieche
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Als die Sonne das nächste Mal auf die schmutzige Oberfläche des Objekts scheint, bist du bereit. Du ziehst das Objekt aus der öligen Masse und reinigst es, so gut es geht.
-
-{LOOT}</DefaultText>
+      <DefaultText>Als die Sonne das nächste Mal auf die schmutzige Oberfläche des Objekts scheint, bist du bereit. Du ziehst das Objekt aus der öligen Masse und reinigst es, so gut es geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Du greifst nach dem Objekt, verschätzt dich jedoch, verlierst das Gleichgewicht und stürzt in die glitzernde, schlammige Masse.
-
-{SCRIPT: Apply a fettle that has a -1 penalty to the player's Speed Edge but also gives a small bonus to Armor.}
-{SOUND: Player falls into the big blob of black, tarry sludge. (If you're not sure where it is in game, let us know.)}</DefaultText>
+      <DefaultText>Du greifst nach dem Objekt, verschätzt dich jedoch, verlierst das Gleichgewicht und stürzt in die glitzernde, schlammige Masse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Beinahe beiläufig fischst du das glitzernde Objekt aus dem Schlamm und reinigst es, so gut es geht.
-
-{LOOT}</DefaultText>
+      <DefaultText>Beinahe beiläufig fischst du das glitzernde Objekt aus dem Schlamm und reinigst es, so gut es geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Du greifst ungeschickt nach dem Objekt, rutschst aus und landest mit dem Kopf voraus in der glitzernden, schlammigen Masse.
-
-{SCRIPT: Apply a fettle that has a -1 penalty to the player's Speed Edge but also gives a small bonus to Armor.}
-{SOUND: Player falls into the big blob of black, tarry sludge. (If you're not sure where it is in game, let us know.)}</DefaultText>
+      <DefaultText>Du greifst ungeschickt nach dem Objekt, rutschst aus und landest mit dem Kopf voraus in der glitzernden, schlammigen Masse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,9 +145,7 @@ Deine Gliedmaßen sind nun von einem steifen, grauen Schlammfilm überzogen und 
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Endlich wird deine Geduld belohnt: Ein ungewöhnliches Objekt wird gurgelnd an die Oberfläche gespült. Du schnappst es dir, bevor es wieder versinken kann.
-
-{LOOT}</DefaultText>
+      <DefaultText>Endlich wird deine Geduld belohnt: Ein ungewöhnliches Objekt wird gurgelnd an die Oberfläche gespült. Du schnappst es dir, bevor es wieder versinken kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

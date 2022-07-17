@@ -41,44 +41,29 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Ein Lichtstrahl zuckt von der Spitze des Obelisken in Richtung deiner Hand, doch du bist schneller. Das Licht verfehlt dich um Haaresbreite. Deine Fingerspitzen kribbeln.
-
-{SOUND: Laser sound effect.}</DefaultText>
+      <DefaultText>Ein Lichtstrahl zuckt von der Spitze des Obelisken in Richtung deiner Hand, doch du bist schneller. Das Licht verfehlt dich um Haaresbreite. Deine Fingerspitzen kribbeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Ein Lichtstrahl schießt von der Spitze des Monuments und durchbohrt deine Hand. Du schreist vor Schmerz und taumelst zurück.
-
-{DAMAGE}
-{SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
-{SOUND: Laser sound effect.}</DefaultText>
+      <DefaultText>Ein Lichtstrahl schießt von der Spitze des Monuments und durchbohrt deine Hand. Du schreist vor Schmerz und taumelst zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Smaragdgrünes Licht sammelt sich an der Spitze des Gebäudes zu einem gleißenden Lichtstrahl, der direkt auf deine ausgestreckte Hand zielt.
 
-Du ziehst die Hand zurück und der Lichtstrahl fährt dampfend in das Wasser unter dir ein, ohne Schaden anzurichten. Das düstere Licht vom Obelisken her verblasst langsam.
-
-{SCRIPT: This needs to call LaunchProxyAbility(oei_user, LaserSourceNode, 0)}
-{SOUND: Laser sound effect.}</DefaultText>
+Du ziehst die Hand zurück und der Lichtstrahl fährt dampfend in das Wasser unter dir ein, ohne Schaden anzurichten. Das düstere Licht vom Obelisken her verblasst langsam.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Ein Lichtstrahl schießt von der Spitze des Monuments, durchbohrt deine Hand und reißt dir das Handgelenk auf. Du schreist vor Schmerz und taumelst zurück.
-
-{DAMAGE}
-{SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
-{SOUND: Laser sound effect.}</DefaultText>
+      <DefaultText>Ein Lichtstrahl schießt von der Spitze des Monuments, durchbohrt deine Hand und reißt dir das Handgelenk auf. Du schreist vor Schmerz und taumelst zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Du hebst die Hand und erneut erscheint das smaragdgrüne Licht aus dem Inneren des Monuments. Deine Instinkte übernehmen die Kontrolle und du ziehst die Hand weg. Du kannst dem Lichtstrahl in letzter Sekunde ausweichen.
-
-{SOUND: Laser sound effect.}</DefaultText>
+      <DefaultText>Du hebst die Hand und erneut erscheint das smaragdgrüne Licht aus dem Inneren des Monuments. Deine Instinkte übernehmen die Kontrolle und du ziehst die Hand weg. Du kannst dem Lichtstrahl in letzter Sekunde ausweichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,11 +109,7 @@ Ihre Augen glänzen bei der Erinnerung. „Ich kannte mal einen hübschen jungen
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Vorsichtig zielst du mit der Scherbe auf den Obelisken. Ein superheißer Lichtstrahl schießt von seiner Spitze in den Kristall, der in deiner Hand vibriert und warm und grün leuchtet.
-
-{ANIM: Green laser shoots player... or just in front of player. As [B] or [C] priority, the player could stretch out his hand, wielding the crystal shard, and the beam hits the shard.}
-{SOUND: Laser sound effect.}
-{DP}</DefaultText>
+      <DefaultText>Vorsichtig zielst du mit der Scherbe auf den Obelisken. Ein superheißer Lichtstrahl schießt von seiner Spitze in den Kristall, der in deiner Hand vibriert und warm und grün leuchtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,11 +129,7 @@ Ihre Augen glänzen bei der Erinnerung. „Ich kannte mal einen hübschen jungen
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Ein Lichtstrahl schießt von der Spitze des Monuments und durchbohrt deine Hand. Du schreist vor Schmerz und taumelst zurück.
-
-{SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
-{SOUND: Laser sound effect.}
-{DAMAGE}</DefaultText>
+      <DefaultText>Ein Lichtstrahl schießt von der Spitze des Monuments und durchbohrt deine Hand. Du schreist vor Schmerz und taumelst zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -614,9 +614,7 @@ Ein unterdrücktes Schluchzen lässt Madelia erzittern, als sie sich vorbeugt un
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>„Hier ist es nicht sicher. Ihr solltet Euer Haus verlassen, bis die Sticha zu graben aufhören.“
-
-{SCRIPT: This DT and the retry below should be easier if Skoura's house has already fallen (a2201_FallingHouses_Skoura = 1).}</DefaultText>
+      <DefaultText>„Hier ist es nicht sicher. Ihr solltet Euer Haus verlassen, bis die Sticha zu graben aufhören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

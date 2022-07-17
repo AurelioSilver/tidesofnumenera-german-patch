@@ -11,9 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Dem Jungen [Global: a2201_ZebbPocketChange] Shin geben.
-
-{MONEY}</DefaultText>
+      <DefaultText>Dem Jungen [Global: a2201_ZebbPocketChange] Shin geben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,9 +238,7 @@
       <ID>50</ID>
       <DefaultText>„Er heißt auch Zebb, wie ich – Zebbak Uralau. Er ist bestimmt schon ein Jahr weg, wenn nicht sogar länger … Für die Memovira wollte er arbeiten, glaube ich. Ein Weilchen lang hat er uns Shin zugeschickt, aber das hat irgendwann aufgehört. Habe nicht wieder von ihm gehört.“
 
-Er windet sich und sieht besorgt aus. „So ist das mit dem Flor. Manchmal lässt er einfach nichts mehr heraus. Vater wartet vermutlich darauf, dass er sich wieder öffnet.“
-
-{JOURNAL: Add a journal note about Zebb's father.}</DefaultText>
+Er windet sich und sieht besorgt aus. „So ist das mit dem Flor. Manchmal lässt er einfach nichts mehr heraus. Vater wartet vermutlich darauf, dass er sich wieder öffnet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,18 +427,14 @@ Er sieht zu Avina herüber. „Um ehrlich zu sein bin ich froh, dass sie da ist.
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Er ist im Flor umgekommen. Sein Kommandant hat es mir erzählt.“
-
-{GEORGE: This node feels odd. It feels strange that you're trying to persuade him when you're just telling him the truth. -JF}</DefaultText>
+      <DefaultText>Er ist im Flor umgekommen. Sein Kommandant hat es mir erzählt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
       <DefaultText>Er fällt in sich zusammen. „Ich schätze, das war irgendwie klar. Ich wollte es mir nur nie eingestehen … oder Nym erzählen.“
 
-Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber zu seiner Familie. „Dann soll es wohl so sein. Wir müssen uns an den Gedanken gewöhnen, wohl oder übel.“
-
-{SCRIPT: Makes the House of Empty Time Difficult Task one difficulty easier.}</DefaultText>
+Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber zu seiner Familie. „Dann soll es wohl so sein. Wir müssen uns an den Gedanken gewöhnen, wohl oder übel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -454,16 +446,12 @@ Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber 
       <ID>91</ID>
       <DefaultText>Er fällt in sich zusammen. „Ich schätze, das war irgendwie klar. Ich wollte es mir nur nie eingestehen … oder Nym erzählen.“
 
-Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber zu seiner Familie. „Vielleicht sollten wir darüber nachdenken, einen neuen Ort zum Leben zu finden … jetzt wo wir wissen, dass Vater nicht mehr zurückkommen wird.“
-
-{SCRIPT: Makes the attempt to get Zebb to go to the House of Empty Time automatically succeed.}</DefaultText>
+Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber zu seiner Familie. „Vielleicht sollten wir darüber nachdenken, einen neuen Ort zum Leben zu finden … jetzt wo wir wissen, dass Vater nicht mehr zurückkommen wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>„Ihr lügt! Er ist noch am Leben! Ich weiß es genau!“
-
-{ADAM: what affect could this CF have?}</DefaultText>
+      <DefaultText>„Ihr lügt! Er ist noch am Leben! Ich weiß es genau!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -558,14 +546,12 @@ Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber 
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>„Und wir sind dankbar dafür.“ Er holt etwas aus seinem Hemd hervor. Es scheint sich um eine Art kleines Gerät zu handeln. „Hier, nehmt das. Hab ich vor einer Weile stibitzt, wusste aber nie so wirklich, was ich damit anfangen soll. Ihr wisst bestimmt alles über diese Dinger.“
-{LOOT}</DefaultText>
+      <DefaultText>„Und wir sind dankbar dafür.“ Er holt etwas aus seinem Hemd hervor. Es scheint sich um eine Art kleines Gerät zu handeln. „Hier, nehmt das. Hab ich vor einer Weile stibitzt, wusste aber nie so wirklich, was ich damit anfangen soll. Ihr wisst bestimmt alles über diese Dinger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Er nickt, auf seinem Gesicht zeichnet sich ein ernster Ausdruck ab. „Das werde ich nicht vergessen. Hier, nehmt das. Habe ich in einem verlassenen Haus gefunden. Es begleicht unsere Schuld nicht, aber es ist zumindest ein Anfang.“ Er holt ein kleines Gerät aus seinem Hemd hervor und übergibt es dir.
-{LOOT}</DefaultText>
+      <DefaultText>Er nickt, auf seinem Gesicht zeichnet sich ein ernster Ausdruck ab. „Das werde ich nicht vergessen. Hier, nehmt das. Habe ich in einem verlassenen Haus gefunden. Es begleicht unsere Schuld nicht, aber es ist zumindest ein Anfang.“ Er holt ein kleines Gerät aus seinem Hemd hervor und übergibt es dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1094,9 +1080,7 @@ Zebb beginnt unkontrolliert zu schluchzen. Er lässt das Messer fallen. „Ich h
 
 Er fällt in sich zusammen. „Schätze, das war mir eigentlich schon länger klar. Ich wollte es mir nur nie eingestehen … oder Nym erzählen.“
 
-Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber zu seiner Familie. „Vielleicht ist es jetzt Zeit, einen besseren Ort zu suchen.“
-
-{SCRIPT: Makes the attempt to get Zebb to go to the House of Empty Time automatically succeed.}</DefaultText>
+Sein Blick schweift über die bröckligen Fassaden des Hauses und dann hinüber zu seiner Familie. „Vielleicht ist es jetzt Zeit, einen besseren Ort zu suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1419,9 +1403,7 @@ Einen Moment lang blickt sie traurig auf die Ruinen des Hauses und wendet ihren 
       <ID>305</ID>
       <DefaultText>Zebb knurrt dich an. „Wollt IHR mir meine Schwester auch noch wegnehmen?! Nein! Ich werde sie bestimmt nicht noch einmal sterben lassen!“
 
-Er wendet sich von dir ab. „Ihr solltet von hier verschwinden. Ich möchte nicht mehr mit Euch reden.“
-
-{SCRIPT: Zebb won't talk to PC again.}</DefaultText>
+Er wendet sich von dir ab. „Ihr solltet von hier verschwinden. Ich möchte nicht mehr mit Euch reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1431,8 +1413,7 @@ Er wendet sich von dir ab. „Ihr solltet von hier verschwinden. Ich möchte nic
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText>Er nickt und sieht dich an. „Dann bin ich soweit. Vermutlich brauche ich meine Ausrüstung für die Straße dann nicht mehr. Ihr könnt sie haben. Und danke für alles.“
-{LOOT}</DefaultText>
+      <DefaultText>Er nickt und sieht dich an. „Dann bin ich soweit. Vermutlich brauche ich meine Ausrüstung für die Straße dann nicht mehr. Ihr könnt sie haben. Und danke für alles.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1754,9 +1735,7 @@ Der Junge hat ein beschämtes Lächeln im Gesicht. „Hätte nie gedacht, dass j
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>Das Mitgefühl breitet sich in dir aus, und du formst diese Emotionen zu einem heilsamen Balsam. Als du eine Hand auf Zebbs Stirn legst, spürst du, wie eine warme Energie durch sie in seinen Geist fließt. Sie erzeugt und verändert seine Erinnerungen, schwächt einige davon ab und lässt manche vollständig in der Vergessenheit verschwinden. Deine Berührung bringt seinen ganzen Körper zum Zittern, bevor der Schmerz aus seinem Blick zu verschwinden scheint. Während Zebb sichtlich gestärkt wurde, fühlst du dich gleichermaßen schwächer und verbraucht.
-
-{SCRIPT: Apply appropriate negative fettle to PC.}</DefaultText>
+      <DefaultText>Das Mitgefühl breitet sich in dir aus, und du formst diese Emotionen zu einem heilsamen Balsam. Als du eine Hand auf Zebbs Stirn legst, spürst du, wie eine warme Energie durch sie in seinen Geist fließt. Sie erzeugt und verändert seine Erinnerungen, schwächt einige davon ab und lässt manche vollständig in der Vergessenheit verschwinden. Deine Berührung bringt seinen ganzen Körper zum Zittern, bevor der Schmerz aus seinem Blick zu verschwinden scheint. Während Zebb sichtlich gestärkt wurde, fühlst du dich gleichermaßen schwächer und verbraucht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1840,8 +1819,7 @@ Er bemerkt, dass du dich näherst. „Ich weiß immer noch nicht, wo ich hingehe
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>„Ist nicht so, als hätte ich eine große Wahl, oder? Vermutlich brauche ich meine Ausrüstung für die Straße dann nicht mehr. Ihr könnt sie haben. Danke für alles.“
-{LOOT}</DefaultText>
+      <DefaultText>„Ist nicht so, als hätte ich eine große Wahl, oder? Vermutlich brauche ich meine Ausrüstung für die Straße dann nicht mehr. Ihr könnt sie haben. Danke für alles.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

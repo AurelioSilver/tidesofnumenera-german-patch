@@ -23,38 +23,28 @@
       <ID>4</ID>
       <DefaultText>Du greifst dir die nächste Hand und reißt sie von ihrer Wurzel ab.
 
-Du trittst zurück und schwingst die Hand probeweise. Sie liegt gut in der Hand und könnte eine ganz ordentliche Waffe abgeben.
-
-{LOOT}
-{SOUND: One of the metal hands is snapped off the steel "vine." The hand is about the size of a mace.}</DefaultText>
+Du trittst zurück und schwingst die Hand probeweise. Sie liegt gut in der Hand und könnte eine ganz ordentliche Waffe abgeben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Du greifst eines der Handgelenke und ziehst mit aller Kraft daran, doch der Stamm ist stärker, als er aussieht. Verborgene dünne, aber unglaublich scharfe Dornen – eine Art Verteidigungsmechanismus – treten aus Metalloberfläche und bohren sich in deine Haut und das darunterliegende Fleisch.
 
-Der Schmerz vergeht rasch und eine seltsam angenehme Taubheit breitet sich in deinem Arm aus. Du spürst eine eisige Flüssigkeit über die Knochen und Sehnen in deinem Arm fließen und sie härten. Wenn du die Faust ballst, siehst du stählerne Adern durch die blutige Haut schimmern.
-
-{DAMAGE}</DefaultText>
+Der Schmerz vergeht rasch und eine seltsam angenehme Taubheit breitet sich in deinem Arm aus. Du spürst eine eisige Flüssigkeit über die Knochen und Sehnen in deinem Arm fließen und sie härten. Wenn du die Faust ballst, siehst du stählerne Adern durch die blutige Haut schimmern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Du greifst dir die nächste Hand und ziehst an ihr. Du löst sie leicht von ihren Wurzeln.
 
-Du schwingst die Hand probeweise. Sie liegt gut in der Hand und könnte eine ganz ordentliche Waffe abgeben.
-
-{LOOT}
-{SOUND: One of the metal hands is snapped off the steel "vine." The hand is about the size of a mace.}</DefaultText>
+Du schwingst die Hand probeweise. Sie liegt gut in der Hand und könnte eine ganz ordentliche Waffe abgeben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Du greifst eines der Handgelenke und ziehst mit aller Kraft daran, doch der Stamm ist stärker, als er aussieht. Verborgene dünne, aber unglaublich scharfe Dornen – eine Art Verteidigungsmechanismus – treten aus Metalloberfläche, reißen deine Haut auf und bohren sich in dein Fleisch.
 
-Der pochende Schmerz vergeht langsam und eine seltsam angenehme Taubheit breitet sich in deinem Arm aus. Du spürst eine eisige Flüssigkeit über die Knochen und Sehnen in deinem Arm fließen und sie härten. Wenn du die Faust ballst, siehst du stählerne Adern durch die blutige Haut schimmern.
-
-{DAMAGE - More?}</DefaultText>
+Der pochende Schmerz vergeht langsam und eine seltsam angenehme Taubheit breitet sich in deinem Arm aus. Du spürst eine eisige Flüssigkeit über die Knochen und Sehnen in deinem Arm fließen und sie härten. Wenn du die Faust ballst, siehst du stählerne Adern durch die blutige Haut schimmern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -135,9 +125,7 @@ Schließlich geht dir die Kraft aus und du musst aufgeben. Die Ranken wirken nun
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Du wartest auf den richtigen Moment und schnappst dir die Hülse, als sie gerade von einer Hand an die nächste weitergegeben wird. Sofort schwappt eine Welle der Empörung aus der Richtung der Hände.
-
-{LOOT}</DefaultText>
+      <DefaultText>Du wartest auf den richtigen Moment und schnappst dir die Hülse, als sie gerade von einer Hand an die nächste weitergegeben wird. Sofort schwappt eine Welle der Empörung aus der Richtung der Hände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

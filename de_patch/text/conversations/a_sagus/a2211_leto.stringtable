@@ -222,16 +222,12 @@ Ihr Blick fixiert sich auf ihre Hände. „Was, wenn ich Euch meine Gabe des Vor
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Ihr habt geholfen, einen Wunsch in die Realität umzusetzen.“
-
-{SCRIPT: Leto walks to the door, despawns}</DefaultText>
+      <DefaultText>„Ihr habt geholfen, einen Wunsch in die Realität umzusetzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Könnt Ihr mir sagen, welche Handlungen zu meinem Untergang führen werden? Was muss ich tun, um das zu vermeiden?“
-
-{LEANNE: Please update text and questions – are there any variables you'd like to set here in order to make Calli's global neater?}</DefaultText>
+      <DefaultText>„Könnt Ihr mir sagen, welche Handlungen zu meinem Untergang führen werden? Was muss ich tun, um das zu vermeiden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -549,14 +545,10 @@ Sie nickt dem Wirt zu, der ihr mit einer Flasche, die von der Theke zu ihr hinü
       <ID>113</ID>
       <DefaultText>„Wartet“, sagt sie. Sie lehnt sich nach vorne und flüstert dir ein Wort zu, das du nicht verstehen und an das du dich im nächsten Augenblick bereits nicht mehr erinnern kannst, aber du bist dir sicher, dass es sich fest mit deinem Bewusstsein verbunden hat.
 
-„Verrat lauert in Eurer Zukunft, Verstoßener. Ihr werdet gegen Euch selbst kämpfen müssen, und wenn Ihr an der Schwelle zum Wahnsinn steht, werdet Ihr Euch an dieses Wort erinnern.“ Sie fällt zusammen und ihr Körper verliert alle Anspannung. „Das war alles.“
-
-{ADAM: This word is for the PC's use in the Battle For Your Mind – the flag will be Quest_CallToWar_RecruitedLeto = 2}</DefaultText>
+„Verrat lauert in Eurer Zukunft, Verstoßener. Ihr werdet gegen Euch selbst kämpfen müssen, und wenn Ihr an der Schwelle zum Wahnsinn steht, werdet Ihr Euch an dieses Wort erinnern.“ Sie fällt zusammen und ihr Körper verliert alle Anspannung. „Das war alles.“</DefaultText>
       <FemaleText>„Wartet“, sagt sie. Sie lehnt sich nach vorne und flüstert dir ein Wort zu, das du nicht verstehen und an das du dich im nächsten Augenblick bereits nicht mehr erinnern kannst, aber du bist dir sicher, dass es sich fest mit deinem Bewusstsein verbunden hat.
 
-„Verrat lauert in Eurer Zukunft, Verstoßene. Ihr werdet gegen Euch selbst kämpfen müssen, und wenn Ihr an der Schwelle zum Wahnsinn steht, werdet Ihr Euch an dieses Wort erinnern.“ Sie fällt zusammen und ihr Körper verliert alle Anspannung. „Das war alles.“
-
-{ADAM: This word is for the PC's use in the Battle For Your Mind – the flag will be Quest_CallToWar_RecruitedLeto = 2}</FemaleText>
+„Verrat lauert in Eurer Zukunft, Verstoßene. Ihr werdet gegen Euch selbst kämpfen müssen, und wenn Ihr an der Schwelle zum Wahnsinn steht, werdet Ihr Euch an dieses Wort erinnern.“ Sie fällt zusammen und ihr Körper verliert alle Anspannung. „Das war alles.“</FemaleText>
     </Entry>
     <Entry>
       <ID>114</ID>

@@ -87,9 +87,7 @@ Er schüttelt den Kopf, wirklich außer sich. „Bis dieser Dieb gefangen wurde 
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Dieb? Ich habe noch in meinem Leben etwas gestohlen! Ich habe mir das eine oder andere ausgeliehen, aber ich hatte immer die Absicht, es dem rechtmäßigen Besitzer wieder zurückzugeben … allerdings muss ich zugeben, dass ich nicht immer Erfolg damit hatte.“
-
-{CHRIS: Update for voice}</DefaultText>
+      <DefaultText>„Dieb? Ich habe noch in meinem Leben etwas gestohlen! Ich habe mir das eine oder andere ausgeliehen, aber ich hatte immer die Absicht, es dem rechtmäßigen Besitzer wieder zurückzugeben … allerdings muss ich zugeben, dass ich nicht immer Erfolg damit hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -653,9 +651,7 @@ Er sieht sich aufmerksam um. „Vielleicht wenn sie Freunde werden, rettet der e
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Er schaut sich deine versammelten Begleiter an. „Du hast da eine ganz schöne Armee beisammen.“ Er zwingt sich zu einem Lächeln. „Ich weiß nicht, ob da noch ein Platz für mich ist.“
-
-{GEORGE/COLIN: Every Companion has their own reactions to being asked to leave. I think the player should have to back out of this conversation first, ask someone to leave, then ask Tybir to join. - AH}</DefaultText>
+      <DefaultText>Er schaut sich deine versammelten Begleiter an. „Du hast da eine ganz schöne Armee beisammen.“ Er zwingt sich zu einem Lächeln. „Ich weiß nicht, ob da noch ein Platz für mich ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -954,8 +950,7 @@ Er schüttelt langsam den Kopf und Kummer macht sich auf seinem Gesicht breit. �
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>„Glücklich und dankbar!“
-{ERRITIS}</DefaultText>
+      <DefaultText>„Glücklich und dankbar!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -986,20 +981,17 @@ Er guckt deinen Begleiter mürrisch an. „Halte ihn einfach von mir und meiner 
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>„Sicher, allerdings bist du für die Kosten des aktuellen Werts des Luftschiffs verantwortlich, die Vertragskosten und sonstige Betriebskosten.“ Er hebt seine Brust. „[Global: a2501_Rennio_ErritisDebt] Shin. Und nicht einen weniger.“
-{MONEY}</DefaultText>
+      <DefaultText>„Sicher, allerdings bist du für die Kosten des aktuellen Werts des Luftschiffs verantwortlich, die Vertragskosten und sonstige Betriebskosten.“ Er hebt seine Brust. „[Global: a2501_Rennio_ErritisDebt] Shin. Und nicht einen weniger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>„[Global: a2501_Rennio_ErritisDebt] Shin. Wirst du sie bezahlen?“
-{MONEY}</DefaultText>
+      <DefaultText>„[Global: a2501_Rennio_ErritisDebt] Shin. Wirst du sie bezahlen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>„Hier, nimm.“
-{MONEY}</DefaultText>
+      <DefaultText>„Hier, nimm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1058,9 +1050,7 @@ Er macht einen sichtlichen Versuch, seine Wut herunterzuschlucken. „Dieser Tei
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>„Arbeit?“, sagt Erritis, du siehst zweifelnd aus. „Ich habe gearbeitet. Mir hat es nie gefallen. Zu viel Arbeit.“
-
-{ERRITIS}</DefaultText>
+      <DefaultText>„Arbeit?“, sagt Erritis, du siehst zweifelnd aus. „Ich habe gearbeitet. Mir hat es nie gefallen. Zu viel Arbeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1075,9 +1065,7 @@ Er macht einen sichtlichen Versuch, seine Wut herunterzuschlucken. „Dieser Tei
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>„Doch, natürlich“, sagt er, und ist offensichtlich allein von dem Gedanken beleidigt. Er dreht sich um, ist wild entschlossen und reicht dem plötzlich argwöhnischen Rennio die Hand. „Ich nehme dein Angebot an. Wir ziehen gemeinsam ins Abenteuer!“
-
-{ERRITIS}</DefaultText>
+      <DefaultText>„Doch, natürlich“, sagt er, und ist offensichtlich allein von dem Gedanken beleidigt. Er dreht sich um, ist wild entschlossen und reicht dem plötzlich argwöhnischen Rennio die Hand. „Ich nehme dein Angebot an. Wir ziehen gemeinsam ins Abenteuer!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1089,9 +1077,7 @@ Er macht einen sichtlichen Versuch, seine Wut herunterzuschlucken. „Dieser Tei
       <ID>219</ID>
       <DefaultText>„Werde ich das? Na ja, ich mag es, wenn ich bei einer Sache ein gutes Gefühl habe.“
 
-Er dreht sich um und reicht Rennio die Hand. „Ich nehme dein Angebot an. Wir *arbeiten* zusammen! Tauschen Ideen aus! Kooperieren!“
-
-{ERRITIS}</DefaultText>
+Er dreht sich um und reicht Rennio die Hand. „Ich nehme dein Angebot an. Wir *arbeiten* zusammen! Tauschen Ideen aus! Kooperieren!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

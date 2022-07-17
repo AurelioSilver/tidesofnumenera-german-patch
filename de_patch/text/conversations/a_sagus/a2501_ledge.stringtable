@@ -40,11 +40,7 @@ Der Ozean liegt fast 1.000 Meter unter dir, dunkel und bedrohlich. Aas fressend 
       <ID>7</ID>
       <DefaultText>Du springst hinaus. Der Fall ist beglückend. Der Wind rauscht an dir vorbei, immer schneller, und dehnt dein Gesicht, als wäre es aus Knete. Die Boote im Meer wachsen mit alarmierender Schnelle. Die Rufe der Fischerleute und Aasfresser erreichen deine Ohren, gestört vom hohen Tempo.
 
-Schließlich knallst du ins Wasser, der Aufprall ist so hart, als wäre der Ozean aus Felsen. Dann ist da nur noch Dunkelheit.
-
-{SCRIPT: Need a cutscene here.}
-{SOUND: PC leaping off a cliff, then wind rushing past him for the fall.}
-{SOUND: (On exit) PC slamming into the water (and wind stopping abruptly).}</DefaultText>
+Schließlich knallst du ins Wasser, der Aufprall ist so hart, als wäre der Ozean aus Felsen. Dann ist da nur noch Dunkelheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -46,8 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Entschuldigung. Ich kann jetzt nicht reden. Meister Rennio braucht mich!“
-{SCRIPT: Script node 17 should only play this barks once Rennio is ready to release Erritis from service.}</DefaultText>
+      <DefaultText>„Entschuldigung. Ich kann jetzt nicht reden. Meister Rennio braucht mich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,11 +144,7 @@ Er richtet sich gerade auf, die Fäuste in die Hüfte gestützt. „Du bist eine
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>„Du musst ein Schreiben für mich umschreiben, ah, Erritis. Du … du *kannst* doch schreiben, oder?“
-{SCRIPT: Nodes 25, 29, and 33 should play on day 1 (when player enters trigger area). Nodes 37, 41, and 45 should play on day 2. Node 49 should play on day 3. After that, we should only see Rennio's anguished barks that he wants to be rid of Erritis (54, 55, 56).}
-{SCRIPT: Text from ZDD: „3)Erritis will leave the party and be stationed here for a while, annoying the heck out of Rennio. (Players should see this as bark interactions between them, noted as a separate dialogue.) After a certain number of days, Rennio will have had enough, and if the player talks to him again, he will beg the player to take Erritis off his hands. (The latter condition should be another branch of this dialogue.)“
-
-„We need a series of bark exchanges between Erritis and Master Rennio that will appear if Erritis has been convinced to work off his debt for stealing and crashing the airship. The player will see one or two of these exchanges whenever he walks past the two characters. Erritis is standing near Rennio, probably serving as a bodyguard or manservant, but he is annoying the heck out of the straight-laced Rennio with his ridiculous comments and behavior. If possible, Rennio should be getting more and more frustrated and angry with him as the exchanges continue.“}</DefaultText>
+      <DefaultText>„Du musst ein Schreiben für mich umschreiben, ah, Erritis. Du … du *kannst* doch schreiben, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -269,8 +264,7 @@ Er richtet sich gerade auf, die Fäuste in die Hüfte gestützt. „Du bist eine
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Genug! Du sabotierst mein Geschäft! Ruinierst meinen Ruf! Verschreckst meine Freunde!“
-{SCRIPT: This should play when Rennio is fed up (possibly day 3)}</DefaultText>
+      <DefaultText>„Genug! Du sabotierst mein Geschäft! Ruinierst meinen Ruf! Verschreckst meine Freunde!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,8 +289,7 @@ Er richtet sich gerade auf, die Fäuste in die Hüfte gestützt. „Du bist eine
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>„Nimm ihn mit. Ich flehe dich an.“
-{SCRIPT: These three nodes play intermittently once all of the nodes above have played once, signalling that the PC can now recruit Erritis again. See Node 1.}</DefaultText>
+      <DefaultText>„Nimm ihn mit. Ich flehe dich an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

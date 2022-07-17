@@ -53,12 +53,8 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Er atmet erleichtert auf. „Danke, Junge. Ich schulde dir was.“
-
-{SCRIPT: This needs to play after Ris and his men run away after successfully intimidating them.}</DefaultText>
-      <FemaleText>Er atmet erleichtert auf. „Danke, Kleine. Ich schulde dir was.“
-
-{SCRIPT: This needs to play after Ris and his men run away after successfully intimidating them.}</FemaleText>
+      <DefaultText>Er atmet erleichtert auf. „Danke, Junge. Ich schulde dir was.“</DefaultText>
+      <FemaleText>Er atmet erleichtert auf. „Danke, Kleine. Ich schulde dir was.“</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>

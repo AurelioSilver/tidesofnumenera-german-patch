@@ -93,7 +93,7 @@ Als sie dich sieht, begrüßt sie dich lebhaft.</DefaultText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>{COLIN: NOT FOR 1E: If the player previously talked to Clarion about her views and expressed agreement with them, she'll recommend that the player speak to Jernaugh at the chiurgical parlor. If the player hasn't spoken to Clarion about her views, she'll briefly test the waters to see if the player agrees with the ideas of the Jagged Dream. If he does, she'll recommend that he speak to Jernaugh.}</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,23 +228,17 @@ Ihre Augen leuchten vor Zuversicht.</DefaultText>
       <ID>49</ID>
       <DefaultText>„Ihr habt wirklich die großen Drei für die Sache gewinnen können? Ich hätte das nie für möglich gehalten. Vielleicht sollten wir über eine etwas langfristigere Anstellung für Euch nachdenken. Die Endlose Schlacht erwartet ihr kommen, und sollten diese Veteranen hier sie überleben, werden sie zu den meist gefürchtetsten Kriegern zählen, die diese Welt je gesehen hat. Dank Eurer Hilfe ist die Welt heute ein Stückchen besser geworden. Nehmt das hier als Eure Belohnung.“
 
-Sie überreicht dir ein seltsames Gerät.
-
-{LOOT}</DefaultText>
+Sie überreicht dir ein seltsames Gerät.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Zwei von ihnen sind einverstanden? Ihr wirkt wahrlich Wunder. Sie werden die Schärfe der Existenz und die Wahrheit der Realität schon bald mit eigenen Augen erkennen. Sie werden stärker und besser sein, als sie je waren. Ihr habt ihnen – und der gesamten Welt – einen großen Gefallen getan. Hier. Nehmt das hier als Eure Belohnung.“
-
-{LOOT}</DefaultText>
+      <DefaultText>„Zwei von ihnen sind einverstanden? Ihr wirkt wahrlich Wunder. Sie werden die Schärfe der Existenz und die Wahrheit der Realität schon bald mit eigenen Augen erkennen. Sie werden stärker und besser sein, als sie je waren. Ihr habt ihnen – und der gesamten Welt – einen großen Gefallen getan. Hier. Nehmt das hier als Eure Belohnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>„Nur einer…? Was für eine Schande. Und trotzdem ist es mehr, als ich zu erreichen vermochte. Wenn wir zurückkehren, gestählter und geschickter als vorher, werdet Ihr den Nutzen erkennen. Ihr habt mir – und der gesamten Welt – einen großen Gefallen getan. Nehmt das als ein Zeichen meiner Dankbarkeit.“
-
-{LOOT}</DefaultText>
+      <DefaultText>„Nur einer…? Was für eine Schande. Und trotzdem ist es mehr, als ich zu erreichen vermochte. Wenn wir zurückkehren, gestählter und geschickter als vorher, werdet Ihr den Nutzen erkennen. Ihr habt mir – und der gesamten Welt – einen großen Gefallen getan. Nehmt das als ein Zeichen meiner Dankbarkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -87,9 +87,7 @@ Er senkt die Hand und ballt sie beiläufig zur Faust. „Wie auch immer. Habt Ih
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Ich bin auch wegen der 'Sternschnuppe' hier. Und im Gegensatz zu euch will ich sie – und alle ihre Geheimnisse – für mich selbst.“
-
-{SCRIPT: This check maxes out at Very Hard, but the following modifiers can apply: 1. PC being Dominant Silver OR Blue (but not both) makes the DT slightly easier. 2. PC being Dominant Silver AND Blue makes the DT moderately easier. 3. a1201_QorroPreCrisis=1 makes the DT slightly easier. 4. a1201_QorroPreCrisis=2 negates the above Tidal bonuses, making the DT Very Hard again. 5.Each increment of the a1201_PCirritatedQorro variable makes the DT slightly harder.}</DefaultText>
+      <DefaultText>„Ich bin auch wegen der 'Sternschnuppe' hier. Und im Gegensatz zu euch will ich sie – und alle ihre Geheimnisse – für mich selbst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -450,9 +448,7 @@ Er zwinkert dir zu. „Glücklicherweise hatten die keine Zeit. Wir waren ebenfa
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Qorro reagiert überrascht und das Lächeln fällt ihm aus dem Gesicht.
-
-{SCRIPT: Perhaps give the PC initiative in the coming fight.}</DefaultText>
+      <DefaultText>Qorro reagiert überrascht und das Lächeln fällt ihm aus dem Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,9 +522,7 @@ Qorro ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein S
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>„Ich sage es euch ehrlich: Ich habe die Sternschnuppe gesehen, aber ich weiß nicht, wo sie gelandet ist.“
-
-{SCRIPT: This check maxes out at Very Hard, but the following modifiers can apply: 1. a1201_QorroPreCrisis=1 makes the DT slightly easier. 2. a1201_QorroPreCrisis=2 negates the above bonus, making the DT Very Hard again. 3. Each increment of the a1201_PCirritatedQorro variable makes the DT slightly harder.}</DefaultText>
+      <DefaultText>„Ich sage es euch ehrlich: Ich habe die Sternschnuppe gesehen, aber ich weiß nicht, wo sie gelandet ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -752,9 +746,7 @@ Qorro ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein S
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>[Die Distanz, die das Gruppenmitglied hinter sich bringen kann, wird durch die gepunktete Linie angezeigt, die dem Mauszeiger folgt. Wenn die Linie grün ist, kann sich der Charakter mit Leichtigkeit zu diesem Punkt bewegen. Wenn die Linie gelb ist, muss er seine okkulte Aktion opfern, um das Ziel zu erreichen.]
-
-{JEREMY: I feel like this is self-explanatory (or if it isn't, then it really should be). I'm inclined to skip this node, but I left it in here in case you feel strongly about keeping it.}</DefaultText>
+      <DefaultText>[Die Distanz, die das Gruppenmitglied hinter sich bringen kann, wird durch die gepunktete Linie angezeigt, die dem Mauszeiger folgt. Wenn die Linie grün ist, kann sich der Charakter mit Leichtigkeit zu diesem Punkt bewegen. Wenn die Linie gelb ist, muss er seine okkulte Aktion opfern, um das Ziel zu erreichen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -780,9 +772,7 @@ Qorro ballt die behandschuhten Hände zu Fäusten und gibt seinen Kumpanen ein S
       <ID>178</ID>
       <DefaultText>Qorro reagiert überrascht und das Lächeln fällt ihm aus dem Gesicht.
 
-[Alpha Systems Test note: For C0 only, we have included optional basic tutorial information on Crises.]
-
-{SCRIPT: Perhaps give the PC initiative in the coming fight.}</DefaultText>
+[Alpha Systems Test note: For C0 only, we have included optional basic tutorial information on Crises.]</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

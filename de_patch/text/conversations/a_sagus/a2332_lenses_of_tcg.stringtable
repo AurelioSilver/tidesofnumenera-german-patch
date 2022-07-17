@@ -38,8 +38,7 @@
       <ID>7</ID>
       <DefaultText>Du bist von einer atemberaubenden Anordnung von Spiegeln und Linsen umgeben. Kabel führen von den Rückseiten aus zu verschiedenen im Raum verstreuten Maschinen.
 
-Hinter dem Bildschirm hörst du ein quietschendes Scharnier.
-{SOUND: Mechanical Squeak/Creak.}</DefaultText>
+Hinter dem Bildschirm hörst du ein quietschendes Scharnier.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,8 +72,7 @@ Die winzigen Linsen darüber strecken sich, um *dich* genau sehen zu können.</D
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Die größeren reagieren auf die kleinste Berührung durch deinen Verstand. Die kleineren Spiegel verrenken sich, um dich genau zu sehen.
-{SOUND: Creaking.}</DefaultText>
+      <DefaultText>Die größeren reagieren auf die kleinste Berührung durch deinen Verstand. Die kleineren Spiegel verrenken sich, um dich genau zu sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,15 +157,12 @@ Einer von ihnen fährt herum und fokussiert dich mit einem hungrigen Auge. Er st
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Füttere sie mit einem Stichus-Ei.
-{GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
+      <DefaultText>Füttere sie mit einem Stichus-Ei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„Bleib zurück. Ich habe hier kein Futter für dich.“
-
-{GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
+      <DefaultText>„Bleib zurück. Ich habe hier kein Futter für dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,8 +201,7 @@ Sie sind Abykos – gesamtdimensionale Einheiten, die sich von Energiequellen un
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Füttere sie mit einem der Unter-Foreman-Kinder.
-{GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
+      <DefaultText>Füttere sie mit einem der Unter-Foreman-Kinder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -359,8 +353,7 @@ Eine nach der anderen lösen sich die Linsen in einen trüben Nebel auf, bis nur
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Bewege den gesplitterten Spiegel, der das rote Seil um deinen Hals zeigt.
-{GAVIN: NB: [B] This could unlock a Fathom, or a hidden part of a Fathom (e.g., the player starts in a part of the Fathom that is otherwise inaccessible). The player should also be sent to this Fathom if he is physically killed in the Buried Crossroads - e.g., by the abykos.}</DefaultText>
+      <DefaultText>Bewege den gesplitterten Spiegel, der das rote Seil um deinen Hals zeigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -389,8 +382,7 @@ Würgend brichst du zusammen, fällst auf den Rücken und stirbst.</DefaultText>
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Matkina, diese Maschine könnte auch bei dir funktionieren. Willst du es mal versuchen?“
-{SCRIPT: Only visible if PC doesn't have a good relationship with Matkina and she's active in the party.}</DefaultText>
+      <DefaultText>„Matkina, diese Maschine könnte auch bei dir funktionieren. Willst du es mal versuchen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -400,14 +392,12 @@ Würgend brichst du zusammen, fällst auf den Rücken und stirbst.</DefaultText>
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Sie starrt dich wütend an. Dann ihr eigenes Spiegelbild. Schließlich stöhnt sie und schiebt dich zur Seite.
-{MATKINA}</DefaultText>
+      <DefaultText>Sie starrt dich wütend an. Dann ihr eigenes Spiegelbild. Schließlich stöhnt sie und schiebt dich zur Seite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>„Ich verzichte“, sagt sie. „Die Geschenke, die man für solche kleinen Erfindungen erhält, rechtfertigen fast nie den Preis.“
-{MATKINA}</DefaultText>
+      <DefaultText>„Ich verzichte“, sagt sie. „Die Geschenke, die man für solche kleinen Erfindungen erhält, rechtfertigen fast nie den Preis.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -418,23 +408,19 @@ Würgend brichst du zusammen, fällst auf den Rücken und stirbst.</DefaultText>
 
 Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau wie allen anderen zuvor.
 
-„Au“, sagt sie und winkt dich gleichzeitig weg. „Ich bin okay. Es zeigte mir mein *Ich*, aber mit einem neuen Trick. Ich glaube, ich weiß jetzt, wie es funktioniert.“
-{SCRIPT: NODE 74,68 SHOULD NOT PLAY - Matkina gets a more powerful Blinding ability}
-{GEORGE: Jeremy was not aware this was a thing. Is it?}</DefaultText>
+„Au“, sagt sie und winkt dich gleichzeitig weg. „Ich bin okay. Es zeigte mir mein *Ich*, aber mit einem neuen Trick. Ich glaube, ich weiß jetzt, wie es funktioniert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>„Matkina, diese Maschine könnte auch bei dir funktionieren. Willst du es mal versuchen?“
-{SCRIPT: Only visible if PC has a good relationship with Matkina.}</DefaultText>
+      <DefaultText>„Matkina, diese Maschine könnte auch bei dir funktionieren. Willst du es mal versuchen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
       <DefaultText>Sie schaut dich zweifelnd an.
 
-„Sicher“, sagt sie schließlich. „Sei aber nicht überrascht, wenn mich das Ding in einen Haufen Knochen verwandelt.“
-{MATKINA}</DefaultText>
+„Sicher“, sagt sie schließlich. „Sei aber nicht überrascht, wenn mich das Ding in einen Haufen Knochen verwandelt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -474,9 +460,7 @@ Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau 
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Du keuchst unfreiwillig. Das Licht heilte oder nahm dir die Wunden, die Kummer dir zugefügt hatte.
-{SCRIPT: SHOULD NOT PLAY - this isn't a thing thats possible at this time, nor are we tracking something like this.}
-{GAVIN: Add some sort of reactivity about the place (or person) who is getting all these wounds shipped to them.}</DefaultText>
+      <DefaultText>Du keuchst unfreiwillig. Das Licht heilte oder nahm dir die Wunden, die Kummer dir zugefügt hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -624,8 +608,7 @@ Langsam, aber unerbittlich beugt sich die Linse zu dir hinunter.</DefaultText>
       <ID>112</ID>
       <DefaultText>Gedanken rinnen durch das geneigte Glas in deinen Geist. Deine Gabe ist sogleich überfordert: Das sind keine Worte oder Symbole, keine Sprache, die du erkennst. Sie haben … sie haben … ein Bewusstsein. Ihnen ist bewusst, dass sie Gedanken sind und dass sie in deinem Kopf sind.
 
-Im Augenblick dieser Erkenntnis erwachen sie in deinem Geist und organisieren *deine* Gedanken zu Bildern um, die dir mitteilen, was das Wesen im Glas denkt.
-{GAVIN: Add thoughts.}</DefaultText>
+Im Augenblick dieser Erkenntnis erwachen sie in deinem Geist und organisieren *deine* Gedanken zu Bildern um, die dir mitteilen, was das Wesen im Glas denkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

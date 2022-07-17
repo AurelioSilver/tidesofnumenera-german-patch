@@ -466,9 +466,7 @@ Ihre Stimme wird hart. „Am Ende waren wir siegreich. Solange ich lebe, werde i
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Lasst uns handeln.“
-
-{SCRIPT: Remove Flower Eye from PC, give Ziobe Eye}</DefaultText>
+      <DefaultText>„Lasst uns handeln.“1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -497,9 +495,7 @@ Ihre Stimme wird hart. „Am Ende waren wir siegreich. Solange ich lebe, werde i
 
 Sie setzt den neuen Augenstiel in das Loch. Er rastet ein und ein interner Mechanismus bringt das Auge in Position. Sie blickt einen Moment lang durch ihr neues Auge, schließt ihre menschlichen Augen und nickt. Die Iris schließt sich.
 
-„Danke“, murmelt sie.
-
-{SCRIPT: This should up Ziobe's power in the Adversary Tussle}</DefaultText>
+„Danke“, murmelt sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

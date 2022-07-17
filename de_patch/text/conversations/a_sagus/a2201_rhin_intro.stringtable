@@ -256,9 +256,7 @@ Er spricht die Worte freundlich aus, die Hände seiner Kameraden liegen jedoch a
       <ID>55</ID>
       <DefaultText>Das Mädchen schreit und zehrt erfolglos an deinem Arm, als die beiden Schläger sie davonzerren. Beide müssen anpacken, um sie ruhig zu halten. Sie reicht nach dir, während ihr Tränen das Gesicht hinablaufen und sie davongezerrt wird.
 
-Ihr Schluchzen erklingt in deinen Ohren, noch lange nachdem sie außer Sichtweite verschwunden ist.
-
-{TON: Rhin weint und schreit.}</DefaultText>
+Ihr Schluchzen erklingt in deinen Ohren, noch lange nachdem sie außer Sichtweite verschwunden ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -310,9 +308,7 @@ Ihr Schluchzen erklingt in deinen Ohren, noch lange nachdem sie außer Sichtweit
       <ID>69</ID>
       <DefaultText>„Es gibt nichts, das ihr sagen könnt, das unsere Meinung ändern wird.“ Er reibt sich nachdenklich das Kinn. „Vielleicht können wir aber eine Abmachung treffen. Dieses Mädchen geht uns allen schon lange auf die Nerven, es ist aber vermutlich noch nerviger, sie quer durch die Stadt zu zerren.“
 
-Er schnippt mit den Fingern. „Ich sag Euch was. Gebt mir [Global: a2201_ThugPriceForRhin] Shin und wir haben Euch niemals gesehen. Abgemacht?“
-
-{GELD}</DefaultText>
+Er schnippt mit den Fingern. „Ich sag Euch was. Gebt mir [Global: a2201_ThugPriceForRhin] Shin und wir haben Euch niemals gesehen. Abgemacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -327,9 +323,7 @@ Er schnippt mit den Fingern. „Ich sag Euch was. Gebt mir [Global: a2201_ThugPr
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>„Abgemacht.“ Gib ihm das Geld.
-
-{GELD}</DefaultText>
+      <DefaultText>„Abgemacht.“ Gib ihm das Geld.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -360,19 +354,12 @@ Er schüttelt den Kopf. „Verdammt, Ihr habt recht. Dann nehmt das Mädchen und
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Zieht Eure Waffe und greift an. „Keine Abmachung.“
-
-{SCRIPT: Wenn das Gerangel hinzugefügt wird, löscht Knotenpunkt 71. Der Spieler sollte nur die Angriffsoption haben.}</DefaultText>
+      <DefaultText>Zieht Eure Waffe und greift an. „Keine Abmachung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>„Verdammt. Schnappt ihn euch, Jungs!“
-
-{SCRIPT: Anmerkungen zu Gerangel:
- - Rhin ist eine Verbündete (kein Gruppenmitglied).
- - Rhin versteckt sich sofort und bleibt im Hintergrund.
- - KI der Schläger ignoriert Rhin vollkommen und konzentriert sich nur auf den Spieler.}</DefaultText>
+      <DefaultText>„Verdammt. Schnappt ihn euch, Jungs!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -492,7 +479,7 @@ Aus den Tiefen der Trümmer vernimmst du eine winzige Stimme: „Sind sie weg?�
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>{Flehend} „Lasst nicht zu, dass sie mich mitnehmen. Bitte!“</DefaultText>
+      <DefaultText>„Lasst nicht zu, dass sie mich mitnehmen. Bitte!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -533,9 +520,7 @@ Damit macht er einen Satz und versucht, dich aufzuspießen.</DefaultText>
 
 Mit aufgerissenen Augen hält der Schurke die Hände hoch und weicht zurück. „Also gut. Behalte das Mädchen, verdammt noch mal. Wir wollen keinen weiteren Ärger.“
 
-Die anderen starren dich mit neuem Respekt an und lassen von ihren Waffen ab. Alle drei machen kehrt und gehen ohne ein weiteres Wort.
-
-{LOOT: Player should get the thug's blade on this node. It could just be an ordinary shortsword, or it could be something else - but it does need to be some kind of short bladed weapon that fits the text and could impale the player on other nodes.}</DefaultText>
+Die anderen starren dich mit neuem Respekt an und lassen von ihren Waffen ab. Alle drei machen kehrt und gehen ohne ein weiteres Wort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

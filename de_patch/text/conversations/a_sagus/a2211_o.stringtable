@@ -92,33 +92,24 @@ Die Welt um dich herum scheint langsamer zu werden.</DefaultText>
       <ID>20</ID>
       <DefaultText>„Wieder kommt Ihr zu O, auf der Suche nach Weisheit und Erfahrung. Die Erleuchtung, die ich Euch anbieten kann, hilft Euch im Kampf gegen Euren Erzfeind, doch sie kann Euer Schicksal nicht im Ganzen wenden. Sprecht diese Worte vor dem Kummer aus, und er wird meine Stimme anerkennen.“
 
-O lehnt sich zu dir und flüstert dir glühende Worte zu, die sich in dein Gedächtnis einbrennen.
-
-{SCRIPT: If PC has played the game 4 times}
-{SCRIPT: Give PC special power against Sorrow}</DefaultText>
+O lehnt sich zu dir und flüstert dir glühende Worte zu, die sich in dein Gedächtnis einbrennen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>„Ihr seid beharrlich. Ihr durchlebt viele Leben, und mit jedem einzelnen davon nähert Ihr Euch der Wahrheit so wie sie sich Euch. Ihr tanzt in einer andauernden Flugbahn des Wissens und der Anziehung. Alles wird sich Euch zu seiner Zeit offenbaren. Offenbarung und Macht wird Euch zuteilwerden. Nehmt mein Geschenk an.“
 
-Os Gesicht funkelt und schimmert, während sein Körper langsam verschwindet, als würde er in einen Tunnel gesogen.
-
-{SCRIPT: If PC has played the game 2-3 times}{SC {SCRIPT: Give PC bonus from O}</DefaultText>
+Os Gesicht funkelt und schimmert, während sein Körper langsam verschwindet, als würde er in einen Tunnel gesogen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>„Wenn die Sterne richtig stehen und Ihr Euer Leben erneut aus der großen Leere beschwört, werde ich auf Euch warten.“
-
-{SCRIPT: Despawn O on exit}</DefaultText>
+      <DefaultText>„Wenn die Sterne richtig stehen und Ihr Euer Leben erneut aus der großen Leere beschwört, werde ich auf Euch warten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>„Das ist das einzige Geschenk, das ich Euch geben kann. Wenn Ihr zurückkehrt, werde ich so sein, wie ich war.“
-
-{SCRIPT: Despawn O on exit}</DefaultText>
+      <DefaultText>„Das ist das einzige Geschenk, das ich Euch geben kann. Wenn Ihr zurückkehrt, werde ich so sein, wie ich war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,9 +261,7 @@ Seine Augen weiten sich, bis sie den ganzen Raum ausfüllen, deine ganze Sicht, 
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Licht umhüllt dich, und als du die Augen öffnest, ist O verschwunden.
-
-{SCRIPT: Give permanent useful Fettle, or stat boost, or something.}</DefaultText>
+      <DefaultText>Licht umhüllt dich, und als du die Augen öffnest, ist O verschwunden.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

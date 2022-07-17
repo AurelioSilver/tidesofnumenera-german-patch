@@ -18,7 +18,7 @@ Er sieht dich und richtet sich auf.</DefaultText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Ich weiß, was du denkst. 'Wie um alles in der Welt hast du diesen Absturz überlebt, Erritis?' Die Antwort lautet wie immer: 'Kehrtwendungen'. Aber warte mal. {slightly confused} Woher kennst du meinen Namen? {urgent}Nein, vergiss es. Ist nicht wichtig. Natürlich kennst du meinen Namen. Ich bin Erritis!“
+      <DefaultText>„Ich weiß, was du denkst. 'Wie um alles in der Welt hast du diesen Absturz überlebt, Erritis?' Die Antwort lautet wie immer: 'Kehrtwendungen'. Aber warte mal. Woher kennst du meinen Namen? Nein, vergiss es. Ist nicht wichtig. Natürlich kennst du meinen Namen. Ich bin Erritis!“
 
 Er stützt seine Hände auf seine schmalen Hüften und strahlt dich an.</DefaultText>
       <FemaleText />
@@ -40,8 +40,7 @@ Er stützt seine Hände auf seine schmalen Hüften und strahlt dich an.</Default
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„Du hättest uns alle töten können!“
-{SCRIPT: Node 4 should only play the first day that the player encounters Erritis. These are triggered by the player's proximity, and will play in order.}</DefaultText>
+      <DefaultText>„Du hättest uns alle töten können!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -202,8 +201,7 @@ Er zieht in Richtung Karawanserei los, fröhlich pfeifend.</DefaultText>
       <ID>39</ID>
       <DefaultText>„Ich soll mich entschuldigen? Warum, um alles in der Welt? Entschuldigungen sind für die, denen es *leidtut* und die immer unglücklich sind, immer mit traurigem Blick und gesenktem Kopf. Sei stolz auf deine Entschuldigungen, sage ich immer!“ Er holt kurz Luft. „Wenn *jemand* Entschuldigungen austeilen muss, dann dieses verdammte Luftschiff! Nicht auszudenken, was in nicht so disziplinierten Händen damit hätte passieren können!“
 
-Ein gedämpftes *Bumm* ertönt aus dem zertrümmerten Luftschiff in der Nähe.
-{SOUND: Muffle boom.}</DefaultText>
+Ein gedämpftes *Bumm* ertönt aus dem zertrümmerten Luftschiff in der Nähe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -307,8 +305,7 @@ Er schüttelt den Kopf. „Ich respektiere ihn viel zu sehr, als dass ich seine 
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Natürlich können wir das! Wir waren da, du Schwachkopf. Du hast das verfluchte Schiff auf mein Gemüse stürzen lassen!“
-{SCRIPT: All the empties here are lines for a generic male Cliff's Edge townsperson.}</DefaultText>
+      <DefaultText>„Natürlich können wir das! Wir waren da, du Schwachkopf. Du hast das verfluchte Schiff auf mein Gemüse stürzen lassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -497,8 +494,7 @@ Er nimmt euch beide an den Schultern. „Das *ist* Schicksal. Es ist eure Bestim
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>„Ich schaue mir das nachher im Labor genauer an“, verspricht Tybir. Ohne dich anzusehen, fingert er ein paar Shin aus dem Beutel und gibt sie dir.
-{MONEY}</DefaultText>
+      <DefaultText>„Ich schaue mir das nachher im Labor genauer an“, verspricht Tybir. Ohne dich anzusehen, fingert er ein paar Shin aus dem Beutel und gibt sie dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -542,8 +538,7 @@ Sein Gesicht wird eisern. „Ich weiß nicht, was dann passierte. Trotz meiner F
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>„Das ist schon ok“, sagt er, und wechselt ungeduldig von einem Fuß auf den anderen. „Ich kann warten.“
-{GAVIN: Add more Tybir scamming here, once ever.}</DefaultText>
+      <DefaultText>„Das ist schon ok“, sagt er, und wechselt ungeduldig von einem Fuß auf den anderen. „Ich kann warten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

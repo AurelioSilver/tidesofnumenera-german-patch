@@ -53,9 +53,7 @@ Ein dünner Bändel wurde in die offenen Seiten platziert. Ein zweiter Bändel m
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Dein unbeholfener Versuch ruiniert das Schloss. Niemand wird es jemals wieder öffnen können. Allerdings hat deine Hammermethode die Schublade etwas gelöst, du solltest sie jetzt leichter aufstemmen können.
-
-{SOUND: This should provide an asset on the Smashing task (node 13).}</DefaultText>
+      <DefaultText>Dein unbeholfener Versuch ruiniert das Schloss. Niemand wird es jemals wieder öffnen können. Allerdings hat deine Hammermethode die Schublade etwas gelöst, du solltest sie jetzt leichter aufstemmen können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,9 +92,7 @@ Mehrere Haare hängen noch zwischen den Zähnen des Kamms. Sie sind kräftig pur
       <ID>17</ID>
       <DefaultText>Du ziehst an der Schublade und da fliegt sie schon auf. Ein kleines funkelndes Objekt flattert heraus. Bevor du es dir genau ansehen kannst, rutscht es über die Kante der Plattform und stürzt in die Tiefe in den Ozean darunter.
 
-Du kannst zwar nicht genau sagen, wo genau das Objekt gelandet ist, aber du erkennst, dass das Wasser sich zu einem kleinen Eingang in eine Höhle hin verengt.
-
-{SOUND: I like the reactivity here – let's set a variable and implement this. I've made a note in the dialogue description for the fishing lines, but you'll need to modify the existing a2301_fishing_lines dialogue to include the hair comb. It'll be another option that follows node 19. Please coordinate with Gavin so that he can update the text once you add this,}</DefaultText>
+Du kannst zwar nicht genau sagen, wo genau das Objekt gelandet ist, aber du erkennst, dass das Wasser sich zu einem kleinen Eingang in eine Höhle hin verengt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,9 +222,7 @@ Nach einigen Augenblicken blätterst du zurück zur Karte der Region um Saguskli
       <ID>43</ID>
       <DefaultText>Außer Sagusklippen siehst du nur ein paar andere Städte. In der Mitte der kreisrunden Wüste befinden sich ein großer blauer Punkt mit der Aufschrift ‚Oase von M'ra Jolios' und direkt daneben ein kleinerer Punkt mit ‚Jerboa'. Auf der anderen Seite der Wüste ist eine weitere Stadt namens ‚Haref'.
 
-Am einen Ende vom Tal der toten Helden ist ein Punkt mit der Aufschrift ‚Die Nekropolis'. Das muss die Stätte sein, die du im Tal besucht hast.
-
-{SCRIPT: Spieler hat bereits das Tal der toten Helden besucht.}</DefaultText>
+Am einen Ende vom Tal der toten Helden ist ein Punkt mit der Aufschrift ‚Die Nekropolis'. Das muss die Stätte sein, die du im Tal besucht hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -192,9 +192,7 @@ Es ist kein körperlicher Widerstand. Etwas in deinem Kopf blockiert den Abschlu
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Es erfordert eine unglaubliche Willensstärke, als würde ein anderer *Geist* um die Kontrolle über deinen Körper kämpfen. Schließlich kannst du es überwinden und die Sequenz ein zweites Mal eingeben. Das Interface verschwindet und die Maschine wird still. Es ist erledigt.
-
-{SCRIPT: Need to make the VFX here shut off.}</DefaultText>
+      <DefaultText>Es erfordert eine unglaubliche Willensstärke, als würde ein anderer *Geist* um die Kontrolle über deinen Körper kämpfen. Schließlich kannst du es überwinden und die Sequenz ein zweites Mal eingeben. Das Interface verschwindet und die Maschine wird still. Es ist erledigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

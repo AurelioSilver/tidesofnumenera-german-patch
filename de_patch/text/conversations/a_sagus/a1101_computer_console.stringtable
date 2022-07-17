@@ -6,9 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Vor dir siehst du einen schwarzen, unscheinbaren Apparat. Als du danach greifst, beginnt das Lichterdreieck auf seiner Hülle plötzlich hell zu leuchten und ein Bild erscheint vor deinem geistigen Auge.
-
-{SOUND: Optional – we could hear some machine sounds coming to life here, and they could remain in the background throughout the dialogue (until the machine powers down on node 68).}</DefaultText>
+      <DefaultText>Vor dir siehst du einen schwarzen, unscheinbaren Apparat. Als du danach greifst, beginnt das Lichterdreieck auf seiner Hülle plötzlich hell zu leuchten und ein Bild erscheint vor deinem geistigen Auge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -142,9 +140,7 @@ An ihrer Seite steht die Ziffer "0".</DefaultText>
 
 „Zellensperre beschädigt“, stöhnt die Intelligenz. Das Lichterdreieck scheint dich mit blendender Intensität an. „Alle Gefangenen verloren. Schließe Lugum Vo.“
 
-Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lichter erlöschen, als du ein Teil aus dem rauchenden Inneren des Apparats fischst.
-{LOOT}
-{SOUND: Optional – Crunching sound as player kicks and breaks the console.}</DefaultText>
+Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lichter erlöschen, als du ein Teil aus dem rauchenden Inneren des Apparats fischst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,9 +156,7 @@ Diesmal war sie auf den Tritt vorbereitet.</DefaultText>
 
 „Zellensperre beschädigt“, stöhnt die Intelligenz. Das Lichterdreieck scheint dich mit blendender Intensität an. „Alle Gefangenen verloren. Schließe Lugum Vo.“
 
-Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lichter erlöschen, als du ein interessantes Teil aus dem rauchenden Inneren des Apparats fischst.
-{LOOT}
-{SOUND: Optional – Crunching sound as player kicks and breaks the console.}</DefaultText>
+Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lichter erlöschen, als du ein interessantes Teil aus dem rauchenden Inneren des Apparats fischst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -220,9 +214,7 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>::knistern::
-
-{SOUND: Optional – Faint machine crackle, but other than this noise, the usual machine sound is not present.}</DefaultText>
+      <DefaultText>::knistern::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,10 +238,7 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
 
 „Zelle 0 wird freigegeben“, faucht die Intelligenz. „Beachtet bitte, dass das Objekt, das Ihr erhalten werdet, vollkommen sicher ist. Keinerlei Grund zur Vorsicht geboten.“ Der seltsame Inhalt von Zelle 0 nimmt vor dir Form an.
 
-„Warnung. Alle Zellen sind nun leer. Schließe Lugum Vo.“ Die Lichter der Intelligenz erlöschen eines nach dem anderen.
-{LOOT}
-{DP}
-{SOUND: Machine noise fades out on this node (if it's been present throughout). Ideally, this would happen as the player exits this node or at the start of the next one.}</DefaultText>
+„Warnung. Alle Zellen sind nun leer. Schließe Lugum Vo.“ Die Lichter der Intelligenz erlöschen eines nach dem anderen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,9 +284,7 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
 
 Eine lange Liste von Befehlen rattert durch dein Bewusstsein – viel zu schnell, um sie zu lesen. Du stöhnst, reibst dir die Augen. Die Intelligenz gluckst.
 
-„Befehlt mir“, sagt sie selbstzufrieden.
-
-{SOUND: Optional – Air being emitted from the vents of the machine, almost like a sigh.}</DefaultText>
+„Befehlt mir“, sagt sie selbstzufrieden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,9 +301,7 @@ Eine lange Liste von Befehlen rattert durch dein Bewusstsein – viel zu schnell
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Die Motoren der Intelligenz brummen aufgebracht, als du dir ihr uraltes Gehäuse genauer ansiehst.
-
-{SOUND: Optional – Machine noise becomes slightly indignant for this node.}</DefaultText>
+      <DefaultText>Die Motoren der Intelligenz brummen aufgebracht, als du dir ihr uraltes Gehäuse genauer ansiehst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

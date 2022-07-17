@@ -185,12 +185,12 @@ Seine Worte sind nun eindeutig an seine ehemalige Kollegin gerichtet. „Ich hab
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Sollte dir dagegen der Sinn nach *gebildeter* Gesellschaft stehen, findest du mich im Orden der Wahrheit. Ich helfe dir gerne. {pause, stern voice}Aber komm ohne Aligern. Mit ihm bin ich endgültig fertig.“</DefaultText>
+      <DefaultText>„Sollte dir dagegen der Sinn nach *gebildeter* Gesellschaft stehen, findest du mich im Orden der Wahrheit. Ich helfe dir gerne. Aber komm ohne Aligern. Mit ihm bin ich endgültig fertig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>{tight, controlled}„Gut. Wenn du es dir anders überlegst – und sie dich nicht in Einzelteilen an die Meistbietenden verkauft hat – findest du mich in der Schattenseite. Aber komm ohne *sie*, klar?“</DefaultText>
+      <DefaultText>„Gut. Wenn du es dir anders überlegst – und sie dich nicht in Einzelteilen an die Meistbietenden verkauft hat – findest du mich in der Schattenseite. Aber komm ohne *sie*, klar?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,7 +302,7 @@ Sie wendet sich an dich. „Ich begleite dich gerne, Kind. Aber ich tue keinen *
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>{affronted}„Wie bitte? Willst du etwa andeuten, dass *ich* etwas mit Qorros Plänen zu tun hätte?“</DefaultText>
+      <DefaultText>„Wie bitte? Willst du etwa andeuten, dass *ich* etwas mit Qorros Plänen zu tun hätte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -364,8 +364,8 @@ Er wendet sich an dich. „Kommst du mit, Kid?“</DefaultText>
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>„{sarcastic}Na *klar*. Und zufälligerweise schlugen sie genau dann zu, als wir losgingen. {serious}Nein, mein Guter. Callistege hat uns verkauft.“</DefaultText>
-      <FemaleText>„{sarcastic}Na *klar*. Und zufälligerweise schlugen sie genau dann zu, als wir losgingen. {serious}Nein, meine Gute. Callistege hat uns verkauft.“</FemaleText>
+      <DefaultText>„Na *klar*. Und zufälligerweise schlugen sie genau dann zu, als wir losgingen. Nein, mein Guter. Callistege hat uns verkauft.“</DefaultText>
+      <FemaleText>„Na *klar*. Und zufälligerweise schlugen sie genau dann zu, als wir losgingen. Nein, meine Gute. Callistege hat uns verkauft.“</FemaleText>
     </Entry>
     <Entry>
       <ID>76</ID>
@@ -374,7 +374,7 @@ Er wendet sich an dich. „Kommst du mit, Kid?“</DefaultText>
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>„{chiding}Na klar, Kid. Haben sie etwa sonst noch jemanden überfallen? Die waren hinter uns her und hinter sonst niemandem. *Irgendjemand* hat uns verraten.“ Er zeigt diskret auf Callistege.</DefaultText>
+      <DefaultText>„Na klar, Kid. Haben sie etwa sonst noch jemanden überfallen? Die waren hinter uns her und hinter sonst niemandem. *Irgendjemand* hat uns verraten.“ Er zeigt diskret auf Callistege.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

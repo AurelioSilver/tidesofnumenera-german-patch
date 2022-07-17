@@ -117,8 +117,7 @@ Der gesamte Bewegungsablauf dauerte nicht einmal vier Sekunden. Er sieht, dass d
       <ID>26</ID>
       <DefaultText>Deine Abwehrbewegung kommt zu spät und du kriegst seinen Faustschlag voll auf die Brust. Du spürst ihn bis ins *Gebiss*.
 
-„Du bist noch nicht für mich bereit“, sagt er, nicht unfreundlich.
-{DAMAGE}</DefaultText>
+„Du bist noch nicht für mich bereit“, sagt er, nicht unfreundlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,8 +140,7 @@ Er taumelt nach hinten, blinzelnd. Lächelnd. „Du bist bereit.“</DefaultText
 
 Das Nächste was du hörst, ist ein lautes Pfeifen. Es dauert einige Sekunden bis dir klar wird, dass das Pfeifen von dir kommt. Aidan beugt sich gelassen über dich.
 
-„Komm wieder, wenn du bereit bist“, sagt er.
-{DAMAGE}</DefaultText>
+„Komm wieder, wenn du bereit bist“, sagt er.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,8 +158,7 @@ Er lächelt dich an. „Du bist bereit.“</DefaultText>
 
 Du fällst auf den Rücken und krümmst dich vor Schmerzen im Unterleib. Aidan kniet neben dir nieder.
 
-„Komm wieder, wenn du bereit bist“, sagt er.
-{DAMAGE}</DefaultText>
+„Komm wieder, wenn du bereit bist“, sagt er.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -250,14 +247,12 @@ Dann stirbst du.</DefaultText>
       <ID>47</ID>
       <DefaultText>Aidan denkt schweigend über deine Worte nach. Licht wird von seinen Muskeln reflektiert, während er von der Verteidigung zum Angriff übergeht.
 
-„Es ist Selbstmord“, sagt er schließlich und schüttelt seinen Kopf. „Selbst wenn ich seinen Tentakeln entkomme und sein Fleisch mit meinen Fäusten bearbeite, es würde mich in Sekunden in Stücke reißen. Natürlich nehme ich an. Bezahle mir [Global: a2101_HiringAidanSitabo] Shin und meine Kraft gehört dir.“
-{Money}</DefaultText>
+„Es ist Selbstmord“, sagt er schließlich und schüttelt seinen Kopf. „Selbst wenn ich seinen Tentakeln entkomme und sein Fleisch mit meinen Fäusten bearbeite, es würde mich in Sekunden in Stücke reißen. Natürlich nehme ich an. Bezahle mir [Global: a2101_HiringAidanSitabo] Shin und meine Kraft gehört dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>„Gut. [Global: a2101_HiringAidanSitabo] Shin und ich kämpfe mit dir gegen die Bestie.“
-{Money}</DefaultText>
+      <DefaultText>„Gut. [Global: a2101_HiringAidanSitabo] Shin und ich kämpfe mit dir gegen die Bestie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -382,9 +377,7 @@ Er geht leicht in Kauerstellung, Fäuste erhoben. „Bist du bereit?“</Default
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Hier, nimm.“
-
-{Money}</DefaultText>
+      <DefaultText>„Hier, nimm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -394,9 +387,7 @@ Er geht leicht in Kauerstellung, Fäuste erhoben. „Bist du bereit?“</Default
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>„Geh voran.“
-
-{SCRIPT: If it's possible to dismiss Aidan before the nychthemeron is defeated, the player should be able to ask Aidan to rejoin the party without paying again. This node should only play in that case, and have Aidan join the party.}</DefaultText>
+      <DefaultText>„Geh voran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,9 +397,7 @@ Er geht leicht in Kauerstellung, Fäuste erhoben. „Bist du bereit?“</Default
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>„Ich treffe dich im Riff der gefallenen Welten.“
-
-{JOURNAL: Reminding player that they've hired Aidan to help them fight the nychthemeron, and that he will meet them in the Reef.}</DefaultText>
+      <DefaultText>„Ich treffe dich im Riff der gefallenen Welten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -688,8 +677,7 @@ Er springt wieder auf die Beine und setzt sein Training fort.</DefaultText>
       <ID>132</ID>
       <DefaultText>„Nimm dafür das, als Geschenk eines Meisters an einen anderen.“ Er legt dir etwas in die Hand, das wie zwei verbundene Zahnräder aussieht.
 
-„Das ist aus meinem Unterschlupf, es fiel bei einem Erdbeben von der Decke. Dadurch wirst du zwar nicht so schnell wie ich, aber vielleicht verschafft es dir den entscheidenden Vorteil, wenn du ihn einmal nötig hast.“
-{LOOT}</DefaultText>
+„Das ist aus meinem Unterschlupf, es fiel bei einem Erdbeben von der Decke. Dadurch wirst du zwar nicht so schnell wie ich, aber vielleicht verschafft es dir den entscheidenden Vorteil, wenn du ihn einmal nötig hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

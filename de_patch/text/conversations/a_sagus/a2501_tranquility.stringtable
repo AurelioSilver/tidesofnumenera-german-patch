@@ -97,9 +97,7 @@ Sie streckt ihre Hände nach dir aus. „Jetzt nehmt meine Hände und schließt 
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Ein kurzes Aufflackern von Wut durchbricht ihre Ruhe, verschwindet aber sofort wieder und hinterlässt einen ernsten Blick. „Ich habe zu viel Zeit damit verbracht, meine Herberge als einen Ort der Ruhe und Sicherheit bekannt zu machen. Das werde ich nicht für die Allüren eines Fremden aufs Spiel setzen. Reden wir über etwas anderes.“
-
-{SCRIPT: Player can't try the DT on node 234 again.}</DefaultText>
+      <DefaultText>Ein kurzes Aufflackern von Wut durchbricht ihre Ruhe, verschwindet aber sofort wieder und hinterlässt einen ernsten Blick. „Ich habe zu viel Zeit damit verbracht, meine Herberge als einen Ort der Ruhe und Sicherheit bekannt zu machen. Das werde ich nicht für die Allüren eines Fremden aufs Spiel setzen. Reden wir über etwas anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,9 +222,7 @@ Sie hebt ihren Blick und trifft damit den deinen. „Sie ist wieder zurück im T
       <ID>41</ID>
       <DefaultText>„Und was, wenn sie nicht noch einmal leben wollte? Alles, was er getan hat, ist sie vor eine scheußliche Wahl zu stellen: Entweder muss sie in einer Welt und Zeit leben, die ihr völlig fremd sind, oder ihrem Leben selbst ein Ende setzen.“
 
-Sie schüttelt den Kopf. „Nein. Für diese Tat sollte er bestraft, nicht belohnt werden. Ich werde Euch nicht sagen, wo sie sich aufhält. Niemals.“
-
-{SCRIPT: Cannot try this argument again.}</DefaultText>
+Sie schüttelt den Kopf. „Nein. Für diese Tat sollte er bestraft, nicht belohnt werden. Ich werde Euch nicht sagen, wo sie sich aufhält. Niemals.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,9 +247,7 @@ Sie schüttelt den Kopf. „Nein. Für diese Tat sollte er bestraft, nicht beloh
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Ihr das Geld geben.
-
-{MONEY}</DefaultText>
+      <DefaultText>Ihr das Geld geben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,9 +359,7 @@ Sie nickt. „Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Sie wirft dir einen kühlen Blick zu. „Ihr wollt ihn ohne seine Zustimmung in einen Tiefschlaf versetzen? So, wie er Perseia gegen ihren Willen erweckt hat? Nein. Ich werde mich nicht auf sein Niveau begeben. Ihr werdet einen anderen Weg finden müssen.“
-
-{SCRIPT: Cannot try this argument again.}</DefaultText>
+      <DefaultText>Sie wirft dir einen kühlen Blick zu. „Ihr wollt ihn ohne seine Zustimmung in einen Tiefschlaf versetzen? So, wie er Perseia gegen ihren Willen erweckt hat? Nein. Ich werde mich nicht auf sein Niveau begeben. Ihr werdet einen anderen Weg finden müssen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -612,16 +604,12 @@ Sie nickt. „Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Ruhe nickt. „Wie Ihr wünscht. Das macht [Global: a2501_TranquilityPissedHostelPrice] Shin pro Person.“
-
-{MONEY}</DefaultText>
+      <DefaultText>Ruhe nickt. „Wie Ihr wünscht. Das macht [Global: a2501_TranquilityPissedHostelPrice] Shin pro Person.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Ihr das Geld geben.
-
-{MONEY}</DefaultText>
+      <DefaultText>Ihr das Geld geben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -706,9 +694,7 @@ Sie nickt. „Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Sie wirft dir einen prüfenden Blick zu. „Wenn Ihr den Lügen von Omahdon Glauben schenkt, dann seid Ihr töricht. Solltet Ihr wissen, dass es Lügen sind, dann seid Ihr böse. In beiden Fällen werde ich Euch nicht verraten, wo sie steckt. Niemals.“
-
-{SCRIPT: Cannot try this argument again.}</DefaultText>
+      <DefaultText>Sie wirft dir einen prüfenden Blick zu. „Wenn Ihr den Lügen von Omahdon Glauben schenkt, dann seid Ihr töricht. Solltet Ihr wissen, dass es Lügen sind, dann seid Ihr böse. In beiden Fällen werde ich Euch nicht verraten, wo sie steckt. Niemals.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -883,9 +869,7 @@ Sie nickt. „Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>Ihr Blick wird kühler. „Ich vertraue Euch nicht im Geringsten. Bitte fragt nicht noch einmal nach.“
-
-{SCRIPT: Cannot try this argument again.}</DefaultText>
+      <DefaultText>Ihr Blick wird kühler. „Ich vertraue Euch nicht im Geringsten. Bitte fragt nicht noch einmal nach.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -900,9 +884,7 @@ Sie nickt. „Gut. Schickt ihn zu mir und ich werde es tun. Ich kann ihn als ‚
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Sie hebt eine Augenbraue an. „Nur wenige Menschen nehmen davon Notiz. Gut gemacht. Ich manipuliere in der Tat meine Stimme. Als ich dieses Geschäft hier eröffnet habe, wollte ich es zum entspanntesten Ort in der ganzen Neunten Welt machen. Alles an ihm sollte beruhigend wirken, sogar meine Stimme. Wie sich herausgestellt hat, habe ich ein Händchen dafür.“
-
-{DP}</DefaultText>
+      <DefaultText>Sie hebt eine Augenbraue an. „Nur wenige Menschen nehmen davon Notiz. Gut gemacht. Ich manipuliere in der Tat meine Stimme. Als ich dieses Geschäft hier eröffnet habe, wollte ich es zum entspanntesten Ort in der ganzen Neunten Welt machen. Alles an ihm sollte beruhigend wirken, sogar meine Stimme. Wie sich herausgestellt hat, habe ich ein Händchen dafür.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1295,16 +1277,12 @@ Sie schüttelt den Kopf. „Nein. Er hat sich nichts damit verdient. Ich werde E
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>Ruhe lächelt. „Es freut mich sehr, und ich bin der festen Überzeugung, dass Ihr Euch hier hervorragend ausruhen werdet. Das macht [Global: a2501_TranquilityHostelPrice] Shin pro Person.“
-
-{MONEY}</DefaultText>
+      <DefaultText>Ruhe lächelt. „Es freut mich sehr, und ich bin der festen Überzeugung, dass Ihr Euch hier hervorragend ausruhen werdet. Das macht [Global: a2501_TranquilityHostelPrice] Shin pro Person.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>Ruhe lächelt. „Natürlich! Das macht [Global: a2501_TranquilityHostelPrice] Shin pro Person, wie immer.“
-
-{MONEY}</DefaultText>
+      <DefaultText>Ruhe lächelt. „Natürlich! Das macht [Global: a2501_TranquilityHostelPrice] Shin pro Person, wie immer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

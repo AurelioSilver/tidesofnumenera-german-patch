@@ -65,9 +65,7 @@ Ihre knolligen Augen suchen schnell ihre Umgebung ab, ehe sie sich direkt auf di
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Sie nimmt dir die Eier ab. Ein hartes, triumphierendes Lächeln verzieht den Winkel ihres lippenlosen Mundes. „Jetzt werden wir sehen, wie sie verhandeln.“
-
-{QUEST ENDE KNOTENPUNKT 5}</DefaultText>
+      <DefaultText>Sie nimmt dir die Eier ab. Ein hartes, triumphierendes Lächeln verzieht den Winkel ihres lippenlosen Mundes. „Jetzt werden wir sehen, wie sie verhandeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -84,9 +82,7 @@ Ihre knolligen Augen suchen schnell ihre Umgebung ab, ehe sie sich direkt auf di
       <ID>17</ID>
       <DefaultText>„Ihr habt *was* getan?“ Sie überlegt. „Das würde erklären, warum sie vorerst verschwunden sind. Trotzdem bin ich überrascht, dass sie Euch am Leben gelassen haben. Normalerweise hätten sie Euch in Stücke gerissen.“
 
-Sie tippt sich auf den Mund. „Kann mir nicht vorstellen, dass das eine ideale Lösung ist.“
-
-{QUEST ENDE KNOTENPUNKT 7}</DefaultText>
+Sie tippt sich auf den Mund. „Kann mir nicht vorstellen, dass das eine ideale Lösung ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,16 +97,12 @@ Sie tippt sich auf den Mund. „Kann mir nicht vorstellen, dass das eine ideale 
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Ihr habt ihnen die Eier gelassen? Wie sollen wir ohne Druckmittel ihr Exil erzwingen?“ Sie glättet sich den Kamm und zwinkert langsam. „Also gut. Damit können wir vorerst arbeiten. Wir haben Zeit, um eine andere Lösung auszuarbeiten.“
-
-{QUEST ENDE KNOTENPUNKT 6}</DefaultText>
+      <DefaultText>„Ihr habt ihnen die Eier gelassen? Wie sollen wir ohne Druckmittel ihr Exil erzwingen?“ Sie glättet sich den Kamm und zwinkert langsam. „Also gut. Damit können wir vorerst arbeiten. Wir haben Zeit, um eine andere Lösung auszuarbeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Ihr habt ihnen die Eier gelassen? Wie sollen wir ohne Druckmittel ihr Exil erzwingen?“ Sie glättet sich den Kamm und zwinkert langsam. „Also gut. Damit können wir vorerst arbeiten. Wir haben Zeit, um eine andere Lösung auszuarbeiten.“
-
-{QUEST ENDE KNOTENPUNKT 12}</DefaultText>
+      <DefaultText>„Ihr habt ihnen die Eier gelassen? Wie sollen wir ohne Druckmittel ihr Exil erzwingen?“ Sie glättet sich den Kamm und zwinkert langsam. „Also gut. Damit können wir vorerst arbeiten. Wir haben Zeit, um eine andere Lösung auszuarbeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,9 +139,7 @@ Sie tippt sich auf den Mund. „Kann mir nicht vorstellen, dass das eine ideale 
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Ich hätte bessere Bedingungen erzwingen können, wenn Ihr mir die Verhandlungen überlassen hättet, aber gegen die Wirksamkeit Eurer Ergebnisse kann ich nichts einwenden.“
-
-{QUEST ENDE KNOTENPUNKT 8}</DefaultText>
+      <DefaultText>„Ich hätte bessere Bedingungen erzwingen können, wenn Ihr mir die Verhandlungen überlassen hättet, aber gegen die Wirksamkeit Eurer Ergebnisse kann ich nichts einwenden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -184,16 +174,12 @@ Sie tippt sich auf den Mund. „Kann mir nicht vorstellen, dass das eine ideale 
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>„Ihr habt *was* getan?“ Ihr Kamm trillert und flattert vor Empörung. „Was habt Ihr getan? Begreift Ihr, dass wir keine Möglichkeit mehr haben, Eure Vereinbarung *durchzusetzen*? Sie könnten jederzeit zurückkehren! Jederzeit!“ Sie wirft frustriert die Fäuste zur Decke der Schattenseite.
-
-{QUEST ENDE KNOTENPUNKT 16}</DefaultText>
+      <DefaultText>„Ihr habt *was* getan?“ Ihr Kamm trillert und flattert vor Empörung. „Was habt Ihr getan? Begreift Ihr, dass wir keine Möglichkeit mehr haben, Eure Vereinbarung *durchzusetzen*? Sie könnten jederzeit zurückkehren! Jederzeit!“ Sie wirft frustriert die Fäuste zur Decke der Schattenseite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Ihr habt *was* getan?“ Ihr Kamm trillert und flattert vor Empörung. „Was habt Ihr getan? Begreift Ihr, dass wir keine Möglichkeit mehr haben, Eure Vereinbarung *durchzusetzen*? Sie könnten jederzeit zurückkehren! Jederzeit!“ Sie wirft frustriert die Fäuste zur Decke der Schattenseite.
-
-{QUEST ENDE KNOTENPUNKT 17}</DefaultText>
+      <DefaultText>„Ihr habt *was* getan?“ Ihr Kamm trillert und flattert vor Empörung. „Was habt Ihr getan? Begreift Ihr, dass wir keine Möglichkeit mehr haben, Eure Vereinbarung *durchzusetzen*? Sie könnten jederzeit zurückkehren! Jederzeit!“ Sie wirft frustriert die Fäuste zur Decke der Schattenseite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1093,9 +1079,7 @@ Sie nimmt die Eier und überreicht dir im Gegenzug [Global: a2301_StichusEggsPel
     <Entry>
       <ID>231</ID>
       <DefaultText>„Ich bin dankbar, dass wir uns einigen konnten. Hier ist auch Eure *offizielle* Belohnung.“ Sie nimmt die Eier und überreicht dir einen Beutel.
-„Denkt daran: Mechela wird Euch dabei helfen, die Eier in eine nützliche Form umzuwandeln. Sollte sie nicht verfügbar sei, könnt Ihr vielleicht beim Orden der Wahrheit nachfragen.“
-
-{BEUTE: VOLLE QUEST-BELOHNUNG}</DefaultText>
+„Denkt daran: Mechela wird Euch dabei helfen, die Eier in eine nützliche Form umzuwandeln. Sollte sie nicht verfügbar sei, könnt Ihr vielleicht beim Orden der Wahrheit nachfragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1119,9 +1103,7 @@ Sie lehnt sich vor: „Und damit meine ich, dass meine Levis Euch zu Schmiere ve
       <ID>235</ID>
       <DefaultText>„Ich bin dankbar, dass wir uns einigen konnten.“
 
-Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“
-
-{BEUTE: VOLLE QUEST-BELOHNUNG}</DefaultText>
+Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1133,18 +1115,14 @@ Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfami
       <ID>240</ID>
       <DefaultText>„Ich bin dankbar, dass wir uns einigen konnten.“
 
-Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“
-
-{BEUTE: VOLLE QUEST-BELOHNUNG}</DefaultText>
+Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
       <DefaultText>„Ich bin dankbar, dass wir uns einigen konnten.“
 
-Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“
-
-{BEUTE: VOLLE QUEST-BELOHNUNG}</DefaultText>
+Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1166,9 +1144,7 @@ Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfami
       <ID>245</ID>
       <DefaultText>„Ich bin dankbar, dass wir uns einigen konnten.“
 
-Sie nimmt die Eier und überreicht dir im Gegenzug [Global: a2301_StichusEggsPeliai] Shin.
-
-{BEUTE: TEILBELOHNUNG}</DefaultText>
+Sie nimmt die Eier und überreicht dir im Gegenzug [Global: a2301_StichusEggsPeliai] Shin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1276,9 +1252,7 @@ Sie schwenkt die Hand, um auf die umgebende Höhle zu deuten. „Sie machten mic
       <ID>265</ID>
       <DefaultText>Sie hält eine leicht zitternde Hand an den Kopf. „Ich habe Euch bevollmächtigt, im Namen der Stadt zu verhandeln, das ist wahr. Ich wünschte, Ihr hättet das nicht getan, doch vielleicht war es der einzige Weg, um optimale Ergebnisse zu erzielen.“
 
-Sie überlegt. „Also gut. Ihr habt Euren Auftrag erfüllt. Hier ist Eure Bezahlung.“
-
-{BEUTE: QUEST-TEILBELOHNUNG}</DefaultText>
+Sie überlegt. „Also gut. Ihr habt Euren Auftrag erfüllt. Hier ist Eure Bezahlung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1295,9 +1269,7 @@ Sie hält erwartend ihre Hand auf.</DefaultText>
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>Sie überreicht dir einen Beutel. „Die Stadt Sagusklippen ist Euch zu Dank verpflichtet.“
-
-{BEUTE: VOLLE QUEST-BELOHNUNG}</DefaultText>
+      <DefaultText>Sie überreicht dir einen Beutel. „Die Stadt Sagusklippen ist Euch zu Dank verpflichtet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1309,9 +1281,7 @@ Sie hält erwartend ihre Hand auf.</DefaultText>
       <ID>270</ID>
       <DefaultText>Sie bleibt sehr regungslos. Sie atmet einmal, zweimal, dreimal aus und sagt mit einer sorgfältig kontrollierten Stimme: „Das würde den Weggang der Sticha erklären. Ich hoffe, Ihr begreift das Ausmaß dessen, was Ihr getan habt.“
 
-Sie entspannt sich. „Doch das liegt in der Vergangenheit. Die Sticha sind weg – vorerst – und daher steht Euch zumindest eine Belohnung zu.“
-
-{QUEST ENDE KNOTENPUNKT 7}</DefaultText>
+Sie entspannt sich. „Doch das liegt in der Vergangenheit. Die Sticha sind weg – vorerst – und daher steht Euch zumindest eine Belohnung zu.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1426,37 +1396,27 @@ Sie entspannt sich. „Doch das liegt in der Vergangenheit. Die Sticha sind weg 
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Sie nimmt dir die Eier ab. Ein hartes, triumphierendes Lächeln verzieht den Winkel ihres lippenlosen Mundes. „Jetzt werden wir sehen, wie sie verhandeln.“
-
-{QUEST ENDE KNOTENPUNKT 5}</DefaultText>
+      <DefaultText>Sie nimmt dir die Eier ab. Ein hartes, triumphierendes Lächeln verzieht den Winkel ihres lippenlosen Mundes. „Jetzt werden wir sehen, wie sie verhandeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Sie nimmt das Ei an sich. Ein hartes, triumphierendes Lächeln verzieht den Winkel ihres lippenlosen Mundes. „Jetzt werden wir sehen, wie sie verhandeln.“
-
-{QUEST ENDE KNOTENPUNKT 5}</DefaultText>
+      <DefaultText>Sie nimmt das Ei an sich. Ein hartes, triumphierendes Lächeln verzieht den Winkel ihres lippenlosen Mundes. „Jetzt werden wir sehen, wie sie verhandeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>„Ich bin froh, dass unsere Beziehung von gegenseitigem Vorteil gewesen ist.“
-
-{BEUTE: VOLLE QUEST-BELOHNUNG}</DefaultText>
+      <DefaultText>„Ich bin froh, dass unsere Beziehung von gegenseitigem Vorteil gewesen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>„Ich bin froh, dass unsere Beziehung von gegenseitigem Vorteil gewesen ist.“
-
-{BEUTE: VOLLE QUEST-BELOHNUNG}</DefaultText>
+      <DefaultText>„Ich bin froh, dass unsere Beziehung von gegenseitigem Vorteil gewesen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>„Ich bin froh, dass unsere Beziehung von gegenseitigem Vorteil gewesen ist.“
-
-{BEUTE: QUEST-TEILBELOHNUNG}</DefaultText>
+      <DefaultText>„Ich bin froh, dass unsere Beziehung von gegenseitigem Vorteil gewesen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1475,9 +1435,7 @@ Sie versammelt ihre Levis und wippt den Kopf in deine Richtung. „Gute Arbeit.�
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>Sie runzelt die Stirn, zählt [Global: a2301_StichusEggsPeliai] Shin ab und lässt sie in Eure Hand fallen. „Und so bin ich Euch die Bezahlung für Eure Zeit schuldig.“
-
-{BEUTE: QUEST-TEILBELOHNUNG}</DefaultText>
+      <DefaultText>Sie runzelt die Stirn, zählt [Global: a2301_StichusEggsPeliai] Shin ab und lässt sie in Eure Hand fallen. „Und so bin ich Euch die Bezahlung für Eure Zeit schuldig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1557,9 +1515,7 @@ Sie lehnt sich vor: „Und damit meine ich, dass meine Levis Euch zu Schmiere ve
       <ID>318</ID>
       <DefaultText>„Ich bin dankbar, dass wir uns einigen konnten.“
 
-Sie nimmt die Eier und überreicht dir im Gegenzug [Global: a2301_StichusEggsPeliai] Shin.
-
-{BEUTE: TEILBELOHNUNG}</DefaultText>
+Sie nimmt die Eier und überreicht dir im Gegenzug [Global: a2301_StichusEggsPeliai] Shin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1578,10 +1534,7 @@ Sie hält erwartend ihre Hand auf.</DefaultText>
       <ID>321</ID>
       <DefaultText>„Ich bin dankbar, dass wir uns einigen konnten.“
 
-Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“
-
-{BEUTE: VOLLE QUEST-BELOHNUNG}
-{QUEST ENDE KNOTENPUNKT 13}</DefaultText>
+Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1593,20 +1546,14 @@ Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfami
       <ID>323</ID>
       <DefaultText>„Ich bin dankbar, dass wir uns einigen konnten.“
 
-Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“
-
-{BEUTE: VOLLE QUEST-BELOHNUNG}
-{QUEST ENDE KNOTENPUNKT 13}</DefaultText>
+Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>324</ID>
       <DefaultText>„Ich bin dankbar, dass wir uns einigen konnten.“
 
-Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“
-
-{BEUTE: VOLLE QUEST-BELOHNUNG}
-{QUEST ENDE KNOTENPUNKT 13}</DefaultText>
+Sie nimmt die Eier und überreicht dir einen Beutel. „Im Namen der Sklavenfamilien und von ganz Sagusklippen danke ich Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1972,9 +1919,7 @@ Ihre knolligen Augen suchen schnell ihre Umgebung ab, ehe sie sich direkt auf di
       <ID>401</ID>
       <DefaultText>Sie übergibt dir einen kleinen Geldbeutel. „Bitte nehmt dies als Dank an. Wenn Ihr eine länger andauernde Stabilität hättet garantieren können, oder dass die Sticha nicht mehr wiederkehren, dann wäre meine Belohnung für Euch höher ausgefallen.“
 
-Sie winkt entlassend mit einer Hand. „Nun muss ich die Folgen dessen erörtern.“
-
-{GELD}</DefaultText>
+Sie winkt entlassend mit einer Hand. „Nun muss ich die Folgen dessen erörtern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -31,10 +31,8 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Viel zu tun heute. Nicht viel Zeit für Klatsch und Tratsch.“
-{SCRIPT: The above lines should play when she's near the parlor. This line (6) can play anywhere.}</DefaultText>
-      <FemaleText>"Viel zu tun heute. Nicht viel Zeit für Klatsch und Tratsch."
-{SCRIPT: The above lines should play when she's near the parlor. This line (6) can play anywhere.}</FemaleText>
+      <DefaultText>„Viel zu tun heute. Nicht viel Zeit für Klatsch und Tratsch.“</DefaultText>
+      <FemaleText>"Viel zu tun heute. Nicht viel Zeit für Klatsch und Tratsch."</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>

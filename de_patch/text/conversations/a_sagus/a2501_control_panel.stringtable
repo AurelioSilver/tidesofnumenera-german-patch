@@ -85,9 +85,7 @@ Der Tesserakt ist eine Art Schalter, der die Steuerung von einem Zustand in den 
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Die ganze Plattform brummt, während sie zum Leben erwacht, und eine Sphäre aus Elektrizität schimmert knapp fünf Meter über deinem Kopf.
-
-{SOUND: Energy humming, appearance of a teleporting sphere.}</DefaultText>
+      <DefaultText>Die ganze Plattform brummt, während sie zum Leben erwacht, und eine Sphäre aus Elektrizität schimmert knapp fünf Meter über deinem Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,9 +100,7 @@ Der Tesserakt ist eine Art Schalter, der die Steuerung von einem Zustand in den 
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Die Plattform brummt. Die Luft knallt und knistert. Einige Sekunden lang *verwandelt* sich die Aktivität außerhalb der Plattform. Menschen flattern rein und raus. Karawanserei verändert sich, erst die Schiffe und dann die Gebäude. Du siehst sie zuerst als alt und heruntergekommen, dann als neu, dann als im Bau befindlich auf nacktem Felsen, und alles innerhalb von Sekunden. Deine Plattform bleibt unverändert, aber *außerhalb* ist es, als würde sich die Zeit so schnell ändern wie das Meer.
-
-{SOUND: Maschine brummt. In der Luft knackt und knistert es leise.}</DefaultText>
+      <DefaultText>Die Plattform brummt. Die Luft knallt und knistert. Einige Sekunden lang *verwandelt* sich die Aktivität außerhalb der Plattform. Menschen flattern rein und raus. Karawanserei verändert sich, erst die Schiffe und dann die Gebäude. Du siehst sie zuerst als alt und heruntergekommen, dann als neu, dann als im Bau befindlich auf nacktem Felsen, und alles innerhalb von Sekunden. Deine Plattform bleibt unverändert, aber *außerhalb* ist es, als würde sich die Zeit so schnell ändern wie das Meer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,9 +112,7 @@ Der Tesserakt ist eine Art Schalter, der die Steuerung von einem Zustand in den 
       <ID>19</ID>
       <DefaultText>Ein Vogel mit vier Flügeln flattert verzweifelt, um der Sphäre auszuweichen, aber er hat zu viel Schwung. Er knallt auf die Kugel und verschwindet mit einem abgebrochenen Schrei.
 
-Weit unten in Karawanserei siehst du denselben Vogel, wie er auf den Boden torkelt. Er steht wieder auf, orientierungslos, flattert dann mit den Flügeln und hebt wieder ab.
-
-{SOUND: Ein Vogel, der versucht, schnell zu stoppen und dann ein abgebrochener Schrei.}</DefaultText>
+Weit unten in Karawanserei siehst du denselben Vogel, wie er auf den Boden torkelt. Er steht wieder auf, orientierungslos, flattert dann mit den Flügeln und hebt wieder ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,9 +171,7 @@ Weit unten in Karawanserei siehst du denselben Vogel, wie er auf den Boden torke
 
 Einige der auf der Karte markierten Orte verändern sich. Neben anderen Orten erscheinen in Karawanserei zwei neue Lichter, eins markiert die Plattform, auf der du stehst.
 
-Der äußere Kubus bewegt sich im Raum und flackert nicht mehr wie zuvor. Vermutlich ist die Steuerung nun auf die räumliche Dimension eingestellt.
-
-{SOUND: A kind of thick 'schlurp' sound, but with the finality of flipping a circuit breaker.}</DefaultText>
+Der äußere Kubus bewegt sich im Raum und flackert nicht mehr wie zuvor. Vermutlich ist die Steuerung nun auf die räumliche Dimension eingestellt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,18 +180,14 @@ Der äußere Kubus bewegt sich im Raum und flackert nicht mehr wie zuvor. Vermut
 
 Einige der auf der Karte markierten Orte verändern sich. Die zwei Lichter in Karawanserei und einige andere verschwinden.
 
-Der äußere Kubus flackert rein und raus und bewegt sich nicht mehr durch den Raum. Vermutlich ist die Steuerung nun auf die temporale Dimension eingestellt.
-
-{SOUND: A kind of thick 'schlurp' sound, but with the finality of flipping a circuit breaker.}</DefaultText>
+Der äußere Kubus flackert rein und raus und bewegt sich nicht mehr durch den Raum. Vermutlich ist die Steuerung nun auf die temporale Dimension eingestellt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Die Karte leuchtet erneut auf und eine Stimme spricht in deinem Kopf zu dir: „Räumliches Übersetzungsnetzwerk verbunden. Nenne deinen Zielort.“
 
-Du erkennst nicht den Standort aller Punkte und weißt nicht, was die Maschine genau erwartet, aber wenigstens kennst du einige davon.
-
-{SOUND: Energie-Netzwerk schaltet sich ein.}</DefaultText>
+Du erkennst nicht den Standort aller Punkte und weißt nicht, was die Maschine genau erwartet, aber wenigstens kennst du einige davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,18 +196,14 @@ Du erkennst nicht den Standort aller Punkte und weißt nicht, was die Maschine g
 
 Dünne Energiestreifen, die im Sonnenlicht kaum sichtbar sind, ziehen durch die Stadt zwischen jedem Standort auf der Karte. Gleichzeitig tauchen abgefärbte Linien auf der Karte auf und verbinden jeden Punkt. Ein Netzwerk von Generatoren, die von dieser Konsole aus kontrolliert werden.
 
-Dann ein lauter Knall, die Energie ebbt ab, das Brummen stoppt und alles ist wieder so, wie es vorher war.
-
-{SOUND: Energie-Netzwerk versucht online zu gehen, als das nicht klappt, gibt es einen lauten Knall.}</DefaultText>
+Dann ein lauter Knall, die Energie ebbt ab, das Brummen stoppt und alles ist wieder so, wie es vorher war.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Die hellen Punkte auf der Karte werden noch heller und die Plattform unter deinen Füßen summt mit einer zunehmenden Wärme. Abgefärbte Linien tauchen auf der Karte auf und verbinden jeden Punkt. Es ist ein Netzwerk von Maschinen, die von dieser Konsole aus kontrolliert werden, darunter zwei Standorte in Karawanserei.
 
-Dann ein lauter Knall, das Brummen stoppt und die Karte ist wieder so, wie sie zuvor war.
-
-{SOUND: Energie-Netzwerk versucht online zu gehen, als das nicht klappt, gibt es einen lauten Knall.}</DefaultText>
+Dann ein lauter Knall, das Brummen stoppt und die Karte ist wieder so, wie sie zuvor war.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,9 +233,7 @@ Dann ein lauter Knall, das Brummen stoppt und die Karte ist wieder so, wie sie z
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Karawanserei.“
-
-{ADAM/GEORGE: Put a ShouldNotPlay() on this for now so we can evaluate if there's a way to add this option here while maintaining consistency with the other shield generators. If we keep this, it'd be nice to add something visual to the level at the spot where the party teleports. -JF}</DefaultText>
+      <DefaultText>„Karawanserei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -392,9 +374,7 @@ Das Wichtige ist, dass niemand die Kuppel betreten oder verlassen kann, während
 
 Einige der auf der Karte markierten Orte verändern sich. Die zwei Lichter in Karawanserei und einige andere verschwinden.
 
-Der äußere Kubus flackert ein und aus, als wäre er nicht immer da. Er bewegt sich nicht mehr durch den Raum wie vorher.
-
-{SOUND: A kind of thick 'schlurp' sound, but with the finality of flipping a circuit breaker.}</DefaultText>
+Der äußere Kubus flackert ein und aus, als wäre er nicht immer da. Er bewegt sich nicht mehr durch den Raum wie vorher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -403,9 +383,7 @@ Der äußere Kubus flackert ein und aus, als wäre er nicht immer da. Er bewegt 
 
 Einige der auf der Karte markierten Orte verändern sich. Neben anderen Orten erscheinen in Karawanserei zwei neue Lichter, eins markiert die Plattform, auf der du stehst.
 
-Der äußere Kubus bewegt sich im Raum und flackert nicht mehr wie zuvor.
-
-{SOUND: A kind of thick 'schlurp' sound, but with the finality of flipping a circuit breaker.}</DefaultText>
+Der äußere Kubus bewegt sich im Raum und flackert nicht mehr wie zuvor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,9 +409,7 @@ Nachdem die Energiekuppel so lange aktiv war – Jahrhunderte oder länger – s
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Nach einigen Momenten lässt das Brummen nach und die Sphäre verblasst und alles ist wieder still.
-
-{SOUND: (On Exit) Humming powers down.}</DefaultText>
+      <DefaultText>Nach einigen Momenten lässt das Brummen nach und die Sphäre verblasst und alles ist wieder still.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -570,9 +546,7 @@ Das räumliche Netzwerk auf der Karte leuchtet, ist verbunden und einsatzbereit.
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Die gesamte Plattform erwacht zum Leben. Die Luft um dich herum knistert und knackt und mit einem Schlag bist du plötzlich an einem anderen Ort.
-
-{SOUND: Energy humming. Sparks and crackles in the air, then a teleport sound.}</DefaultText>
+      <DefaultText>Die gesamte Plattform erwacht zum Leben. Die Luft um dich herum knistert und knackt und mit einem Schlag bist du plötzlich an einem anderen Ort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

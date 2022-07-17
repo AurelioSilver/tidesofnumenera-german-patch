@@ -26,20 +26,14 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Das Aussehen der Klippe täuscht. Haltegriffe, die aussehen, als würden sie in deinen Händen zerbröckeln, stellen sich als fest heraus, während stabil aussehende Vorsprünge wie Sand zerbröseln. Dank sorgfältiger Planung schaffst du es jedoch bis ganz nach oben.
-
-{SOUND: PC climbing, maybe a little extra wind whipping by him.}</DefaultText>
+      <DefaultText>Das Aussehen der Klippe täuscht. Haltegriffe, die aussehen, als würden sie in deinen Händen zerbröckeln, stellen sich als fest heraus, während stabil aussehende Vorsprünge wie Sand zerbröseln. Dank sorgfältiger Planung schaffst du es jedoch bis ganz nach oben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Das Klettern fällt dir leicht. Du bist schon halb oben, als plötzlich der Halt für deine beiden Füße gleichzeitig zerbröckelt. Du greifst in Panik nach einem vorstehenden Stein, aber der bricht sofort ab. Du landest mit einem abscheulichen *Schlag* auf dem darunter liegenden Vorsprung.
 
-Es hätte schlimmer kommen können. Positiv ist, dass du jetzt die Klippe besser einschätzen kannst und besseren Halt für deine Füße findest.
-
-{SOUND: PC climbing, then rocks crumbling and the impact of hitting the ledge a few meters below.}
-
-{DAMAGE}</DefaultText>
+Es hätte schlimmer kommen können. Positiv ist, dass du jetzt die Klippe besser einschätzen kannst und besseren Halt für deine Füße findest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -54,18 +48,12 @@ Es hätte schlimmer kommen können. Positiv ist, dass du jetzt die Klippe besser
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Ein Windhauch begrüßt dein Gesicht oben auf der Klippe.
-
-{SOUND: If there was wind SFX from node 5, then they should change here to be more open since the PC has reached the top.}</DefaultText>
+      <DefaultText>Ein Windhauch begrüßt dein Gesicht oben auf der Klippe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Erneut fällt dir das Klettern leicht, bis ein Halt nachgibt und dich aus dem Gleichgewicht bringt. Du schlägst erneut mit deinem Kopf auf dem Vorsprung auf. Wenigstens war es nicht so schlimm wie beim ersten Mal.
-
-{SOUND: PC climbing, then rocks crumbling and the impact of hitting the ledge a few meters below. Same sound as node 6.}
-
-{DAMAGE}</DefaultText>
+      <DefaultText>Erneut fällt dir das Klettern leicht, bis ein Halt nachgibt und dich aus dem Gleichgewicht bringt. Du schlägst erneut mit deinem Kopf auf dem Vorsprung auf. Wenigstens war es nicht so schlimm wie beim ersten Mal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,9 +90,7 @@ Es hätte schlimmer kommen können. Positiv ist, dass du jetzt die Klippe besser
       <ID>18</ID>
       <DefaultText>Du senkst dich vom Vorsprung ab und beginnst mit dem steilen Abstieg. Als du nachsehen willst, wie weit es noch ist, überkommt dich plötzlich ein Schwindelgefühl. Der Ozean und der Vorsprung unter dir schwingen vor und zurück. Ehe du dich versiehst, rutscht deine Hand am Halt ab.
 
-Nach einem kurzen Fall knallst du mit dem Schädel auf dem Vorsprung auf. Wenigstens bist du unten angekommen.
-
-{DAMAGE}</DefaultText>
+Nach einem kurzen Fall knallst du mit dem Schädel auf dem Vorsprung auf. Wenigstens bist du unten angekommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,9 +120,7 @@ Nach einem kurzen Fall knallst du mit dem Schädel auf dem Vorsprung auf. Wenigs
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Du schlägst schmerzhaft auf dem Vorsprung auf. Wenigstens hast du es nach unten geschafft.
-
-{DAMAGE}</DefaultText>
+      <DefaultText>Du schlägst schmerzhaft auf dem Vorsprung auf. Wenigstens hast du es nach unten geschafft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

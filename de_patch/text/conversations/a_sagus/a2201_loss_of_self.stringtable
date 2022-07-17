@@ -266,9 +266,7 @@ Ihr Fuß rutscht über den Klippenrand und sie stürzt in die Tiefe.</DefaultTex
 
 „Besser Schluss machen, solange ich noch ich selbst bin“, sagt sie und lehnt sich vor, als wolle sie die Tiefe unter ihr umarmen.
 
-Dann ist sie verschwunden.
-
-{ANIM: LoS jumps off the cliff.}</DefaultText>
+Dann ist sie verschwunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,9 +288,7 @@ Bevor sie noch einen Laut von sich geben kann, stürzt sie in die Tiefe.</Defaul
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>„Lasst mich helfen, Euch wieder zu erinnern.“
-
-{SCRIPT / GAVIN: I have set this to Do Not Play. I didn't like the fact that the player could resolve the whole quest with an immediate DT.}</DefaultText>
+      <DefaultText>„Lasst mich helfen, Euch wieder zu erinnern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,8 +469,7 @@ Sie umarmt dich erneut. Dann tritt sie zurück und errötet.</DefaultText>
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>„Gibt es noch andere Wege ins Haus?“
-{DO NOT PLAY}</DefaultText>
+      <DefaultText>„Gibt es noch andere Wege ins Haus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -620,8 +615,7 @@ Sie schüttelt die Phiole und hält die andere Hand hoch. Undeutliche Schatten s
       <ID>115</ID>
       <DefaultText>Für einen Moment hält sie die Phiole fest umklammert… dann lässt sie los.
 
-„Na gut“, sagt sie. Sie sieht furchtbar unglücklich aus. Dennoch wirkt sie auch erleichtert, als sie dir die Phiole übergibt.
-{LOOT}</DefaultText>
+„Na gut“, sagt sie. Sie sieht furchtbar unglücklich aus. Dennoch wirkt sie auch erleichtert, als sie dir die Phiole übergibt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

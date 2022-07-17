@@ -6,9 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Zwei schwebende Kegel wirbeln und drehen sich wie verrückt umeinander, kichern wie Kinder, die man kitzelt. Die Luft um sie herum riecht nach süßem, verbrannten Laub.
-
-{SOUND: We should hear the giggling sounds throughout this dialogue, though we should also hear them outside the dialogue when we approach the cones. Alex, I'm not sure how you want to handle this.}</DefaultText>
+      <DefaultText>Zwei schwebende Kegel wirbeln und drehen sich wie verrückt umeinander, kichern wie Kinder, die man kitzelt. Die Luft um sie herum riecht nach süßem, verbrannten Laub.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -75,9 +73,7 @@
       <ID>17</ID>
       <DefaultText>Es gelingt dir, einen der Kegel mit der Fingerspitze zu berühren. „Rorn“, sagt eine Stimme und deine Augen sind nicht mehr deine.
 
-Über dir hängt ein unbekannter Mond, pechschwarz in einem blendend weißen Himmel. Dicke, flache Asteroiden umkreisen ihn wie Blüten im Wind. Tentakel betasten neugierig deinen Knöchel und der heiße Wind riecht nach verbranntem Haar und Kummer.
-
-{DP}</DefaultText>
+Über dir hängt ein unbekannter Mond, pechschwarz in einem blendend weißen Himmel. Dicke, flache Asteroiden umkreisen ihn wie Blüten im Wind. Tentakel betasten neugierig deinen Knöchel und der heiße Wind riecht nach verbranntem Haar und Kummer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,9 +98,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Die Kegel reagieren auf deine Frage mit einer Millisekunde Stille, gefolgt von unkontrolliertem Gekicher.
-
-{SOUND: As noted in the text, the giggling should stop of a second, then resume (maybe a little more hysterical at first).}</DefaultText>
+      <DefaultText>Die Kegel reagieren auf deine Frage mit einer Millisekunde Stille, gefolgt von unkontrolliertem Gekicher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

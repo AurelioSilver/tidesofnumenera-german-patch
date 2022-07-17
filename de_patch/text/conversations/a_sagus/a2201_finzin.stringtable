@@ -272,16 +272,12 @@ Er sinkt in sich zusammen, verschränkt die Arme, als wäre ihm kalt. „Na gut.
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Wird es ihm wehtun? Ich will nicht, dass-“
-{SOUND: On exit, energy flows from Finzin into the Tormented Levy.}
-{SCRIPT: We'll probably want VFX here as well. Something bright and painful-looking.}</DefaultText>
+      <DefaultText>„Wird es ihm wehtun? Ich will nicht, dass-“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„AAAAAAAH!“
-
-{SOUND: On exit, energy flows from Finzin into the Tormented Levy.}</DefaultText>
+      <DefaultText>„AAAAAAAH!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -338,24 +334,19 @@ Er reibt sich am Kopf. „Aber der Levi ist jetzt weg. Das ist schon mal was.“
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Du hast ihn dazu gebracht, zu gehen!“, sagt er. „Ich weiß nicht, wie du es gemacht hast und vielleicht sollte ich das auch nie erfahren.“ Er sucht etwas in seinen Taschen. „Aber gute Arbeit hat auch eine Belohnung verdient.“
-{LOOT}</DefaultText>
+      <DefaultText>„Du hast ihn dazu gebracht, zu gehen!“, sagt er. „Ich weiß nicht, wie du es gemacht hast und vielleicht sollte ich das auch nie erfahren.“ Er sucht etwas in seinen Taschen. „Aber gute Arbeit hat auch eine Belohnung verdient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Du hast ihn dazu gebracht, zu gehen!“, sagt er und *lächelt*. „Ich weiß nicht, wie du es gemacht hast und vielleicht sollte ich das auch nie erfahren.“ Er sucht etwas in seinen Taschen. „Aber gute Arbeit hat auch eine Belohnung verdient.“
-
-{LOOT}</DefaultText>
+      <DefaultText>„Du hast ihn dazu gebracht, zu gehen!“, sagt er und *lächelt*. „Ich weiß nicht, wie du es gemacht hast und vielleicht sollte ich das auch nie erfahren.“ Er sucht etwas in seinen Taschen. „Aber gute Arbeit hat auch eine Belohnung verdient.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>„Ha!“, sagt er, und wirft dir ein klimperndes Säckchen in die Hand. „Das hast du dir verdient. Oh, du hättest es *sehen* sollen. Levis kamen vor nicht einmal zehn Minuten zu unserem Freund. Sie kloppten und fesselten ihn und zerrten ihn davon.“
 
-Er schüttelt mit dem Kopf und grinst. „Levis verhaften Levis. Früher hätte ich einen Eimer voll Shin gezahlt, um das zu sehen.“
-
-{LOOT}</DefaultText>
+Er schüttelt mit dem Kopf und grinst. „Levis verhaften Levis. Früher hätte ich einen Eimer voll Shin gezahlt, um das zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -437,9 +428,7 @@ Er winkt. „Oder vielleicht gehe ich auch spazieren, nachdem jetzt die Straßen
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>„Man sieht sich.“
-
-{SCRIPT: Finzin exits and despawns.}</DefaultText>
+      <DefaultText>„Man sieht sich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -685,8 +674,7 @@ Er grinst, aber er ist nicht mit seinem Herzen dabei. „Viel Glück.“</Defaul
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>„Ich … Mir geht es jetzt gut. Und Euch?“
-{SCRIPT: Finzin is swaying.}</DefaultText>
+      <DefaultText>„Ich … Mir geht es jetzt gut. Und Euch?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -925,8 +913,7 @@ Er grinst, aber er ist nicht mit seinem Herzen dabei. „Viel Glück.“</Defaul
       <ID>203</ID>
       <DefaultText>„Hey, bevor ich es vergesse. Ich will dir doch etwas für deine Mühen geben.“
 
-Er wirft dir ein kleines Säckchen in die Hand und stolpert davon und sich an die Seite haltend flucht er leise vor sich hin.
-{LOOT}</DefaultText>
+Er wirft dir ein kleines Säckchen in die Hand und stolpert davon und sich an die Seite haltend flucht er leise vor sich hin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
