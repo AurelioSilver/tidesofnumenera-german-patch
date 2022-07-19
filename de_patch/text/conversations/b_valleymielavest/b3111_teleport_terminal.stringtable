@@ -216,9 +216,7 @@ Der Kultist macht mit dem nächsten Gefangenen weiter und hört erst auf, als al
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Ich bin mächtiger als euer Lord Inifere. Ich befehle euch, diese Nekropolis zu verlassen, oder ich werde *eure* Geister 'befreien'.“
-
-{SCRIPT: One step easier for Dominant Indigo tide.}</DefaultText>
+      <DefaultText>„Ich bin mächtiger als euer Lord Inifere. Ich befehle euch, diese Nekropolis zu verlassen, oder ich werde *eure* Geister 'befreien'.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -232,9 +230,7 @@ Der Kultist macht mit dem nächsten Gefangenen weiter und hört erst auf, als al
 
 Er läuft durch den Gang davon. Bei seinem hastigen Abgang fällt ihm ein Zettel aus der Tasche, ohne dass er es bemerkt.
 
-Er landet vor deinen Füßen. Du hebst ihn auf, während seine Schritte draußen im Tal verklingen.
-
-{SOUND: footsteps running}</DefaultText>
+Er landet vor deinen Füßen. Du hebst ihn auf, während seine Schritte draußen im Tal verklingen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

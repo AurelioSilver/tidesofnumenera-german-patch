@@ -31,9 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Fokus wählen: Spricht mit Silberzunge (Überzeugen, Einschüchtern und Führungsfähigkeiten).
-
-{SCRIPT: SC erhält den Fokus geschickte Zunge.}</DefaultText>
+      <DefaultText>Fokus wählen: Spricht mit Silberzunge (Überzeugen, Einschüchtern und Führungsfähigkeiten).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -303,16 +301,12 @@ Ihre Augen erblicken deine Tätowierung und ihr Atem stockt hörbar.</DefaultTex
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Fokus wählen: Meistert Verteidigung (defensive Kampffähigkeiten).
-
-{SCRIPT: SC erhält den Fokus Meistert Verteidigung.}</DefaultText>
+      <DefaultText>Fokus wählen: Meistert Verteidigung (defensive Kampffähigkeiten).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Fokus wählen: Atmet Schatten (Schleichen, Meucheln, Verwundbarkeiten finden und diesen Vorteil nutzen).
-
-{SCRIPT: SC erhält den Fokus Atmet Schatten.}</DefaultText>
+      <DefaultText>Fokus wählen: Atmet Schatten (Schleichen, Meucheln, Verwundbarkeiten finden und diesen Vorteil nutzen).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

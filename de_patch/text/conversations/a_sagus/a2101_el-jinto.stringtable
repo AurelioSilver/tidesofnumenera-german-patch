@@ -421,16 +421,12 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</FemaleText>
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>„Eure Neugier spricht für Euch, mein Freund. Das kostet Euch lediglich [Global: a2101_NychthemeronPrice] Shin.“
-
-{GELD: Der Betrag sollte moderat sein: früh im Spiel erschwinglich, doch später ein Batzen Geld.}</DefaultText>
+      <DefaultText>„Eure Neugier spricht für Euch, mein Freund. Das kostet Euch lediglich [Global: a2101_NychthemeronPrice] Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>„Das dachte ich mir“, sagt El-Jinto und verschränkt seine Arme mit einem schiefen Grinsen. „Das wären [Global: a2101_NychthemeronPrice] Shin, wie ich schon sagte.“
-
-{GELD: Gleicher Betrag wie in Knotenpunkt 80.}</DefaultText>
+      <DefaultText>„Das dachte ich mir“, sagt El-Jinto und verschränkt seine Arme mit einem schiefen Grinsen. „Das wären [Global: a2101_NychthemeronPrice] Shin, wie ich schon sagte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -445,9 +441,7 @@ Beleazar stampft auf euch zu und sieht *wütend* aus.</FemaleText>
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>„Das ist zu viel. Ich bin der Einzige in der Warteschlange! Wie wäre es mit [Global: a2101_NychthemeronPriceDiscount] Shin?“
-
-{GELD: Ein wesentlich attraktiverer Betrag als in Knotenpunkt 80.}</DefaultText>
+      <DefaultText>„Das ist zu viel. Ich bin der Einzige in der Warteschlange! Wie wäre es mit [Global: a2101_NychthemeronPriceDiscount] Shin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

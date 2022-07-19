@@ -41,8 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Deaktiviere die beschädigte Drohne.
-{SCRIPT: This task is one step easier if Node 36 has played.}</DefaultText>
+      <DefaultText>Deaktiviere die beschädigte Drohne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,8 +70,7 @@
       <ID>13</ID>
       <DefaultText>„Nein!“, ruft die Intelligenz, als du ein Kabel greifst. „Nimm d-“
 
-Du ziehst das Kabel heraus und die Lichter, die auf der Oberfläche des Konstrukts glänzten, gehen aus. Das Lazarett um dich herum wird still.
-{SOUND: Power down}</DefaultText>
+Du ziehst das Kabel heraus und die Lichter, die auf der Oberfläche des Konstrukts glänzten, gehen aus. Das Lazarett um dich herum wird still.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -77,14 +77,12 @@ Sein Stimmgewebe klickt. „Helft mir, mich zu diesem Transfer zu zwingen, da ic
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Das klingt aber kompliziert“, murmelt sie, wobei sie sich auf das Kinn tippt. „Kompliziert, aber nicht unmöglich. Der Orden der Wahrheit kann uns vielleicht dabei helfen, das zu erreichen, was er will.“
-{CALLISTEGE}</DefaultText>
+      <DefaultText>„Das klingt aber kompliziert“, murmelt sie, wobei sie sich auf das Kinn tippt. „Kompliziert, aber nicht unmöglich. Der Orden der Wahrheit kann uns vielleicht dabei helfen, das zu erreichen, was er will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Ich weiß nichts über Euch“, sagt sie, „doch das Herumpfuschen mit antiken Konstrukten ist nicht *mein* Fachgebiet. Versucht, mit dem Orden der Wahrheit darüber zu sprechen. Sie wissen dort möglicherweise, wie man diesem Ding helfen kann.“
-{MATKINA}</DefaultText>
+      <DefaultText>„Ich weiß nichts über Euch“, sagt sie, „doch das Herumpfuschen mit antiken Konstrukten ist nicht *mein* Fachgebiet. Versucht, mit dem Orden der Wahrheit darüber zu sprechen. Sie wissen dort möglicherweise, wie man diesem Ding helfen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,16 +139,14 @@ Sein Stimmgewebe klickt. „Helft mir, mich zu diesem Transfer zu zwingen, da ic
       <ID>24</ID>
       <DefaultText>„Ja“, sagt er. „Tarnish, öffnet bitte meine Konservierungsklappen und meine Viaduktschilde.“
 
-Der bejahrte Arbeiter schleppt sich herüber und tut, wie ihm geheißen.
-{TON: Eine Klappe wird geöffnet.}</DefaultText>
+Der bejahrte Arbeiter schleppt sich herüber und tut, wie ihm geheißen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>„Sicherlich“, sagt er. „Tarnish? Öffnet bitte nochmal die Klappen und Schilde.“
 
-Tarnish öffnet die Wartungsklappen seines Meisters und tritt beiseite.
-{TON: Eine Klappe wird geöffnet.}</DefaultText>
+Tarnish öffnet die Wartungsklappen seines Meisters und tritt beiseite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -198,9 +194,7 @@ Die Vision schwindet und du stehst wieder vor den Trümmern dieses einst fröhli
       <ID>33</ID>
       <DefaultText>Blind rammst du deine Hände in den Körper des Vorarbeiters, reißt, richtest neu aus, und verursachst unsäglichen Schaden bei deinem Versuch, dem Wunsch des Konstrukts nachzukommen.
 
-Schließlich hast du Erfolg. Kalte Energie ergießt sich in die Luft wie Blut aus einer Wunde und strömt in die bewegungslosen Kinder. Nacheinander flackern ihre winzigen Augen vor Leben auf. Nacheinander erlöschen die Augen des Vorarbeiters. Sein Stimmgewebe klappert, als würde er sprechen wollen …
-{VFX: Wenn wir VFX für die Baby-Konstrukte haben, wenn diese zum Leben erwecken, spielt es hier ab.}
-{TON: Mechanisches Reißen, Quietschen}</DefaultText>
+Schließlich hast du Erfolg. Kalte Energie ergießt sich in die Luft wie Blut aus einer Wunde und strömt in die bewegungslosen Kinder. Nacheinander flackern ihre winzigen Augen vor Leben auf. Nacheinander erlöschen die Augen des Vorarbeiters. Sein Stimmgewebe klappert, als würde er sprechen wollen …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,17 +206,14 @@ Schließlich hast du Erfolg. Kalte Energie ergießt sich in die Luft wie Blut au
       <ID>35</ID>
       <DefaultText>„Du meine Güte“, sagt Callistege neben dir. „Ich will nicht behaupten, alles zu verstehen, was ich hier sehe, du wirst aber noch ein paar Hände brauchen, wenn du das tun willst, was diese arme Kreatur möchte.“
 
-Sie lächelt. „Natürlich habe ich einige Hände übrig.“
-
-{CALLISTEGE}</DefaultText>
+Sie lächelt. „Natürlich habe ich einige Hände übrig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Aligern tritt neben dich und pfeift leise.
 
-„Ich bin mir nicht sicher, ob ich alles verstehe, was ich hier sehe, ich kann dir aber sagen – dieses Konstrukt zu töten, ist keine Aufgabe für eine Person. Wenn du dich dazu entschließt, seinem Wunsch nachzukommen, dann werde ich dir zur Hand gehen.“
-{ALIGERN}</DefaultText>
+„Ich bin mir nicht sicher, ob ich alles verstehe, was ich hier sehe, ich kann dir aber sagen – dieses Konstrukt zu töten, ist keine Aufgabe für eine Person. Wenn du dich dazu entschließt, seinem Wunsch nachzukommen, dann werde ich dir zur Hand gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,9 +251,7 @@ Ein Seufzen rattert aus dem Gewebe, das seine Augen umgibt. „Vielleicht … W
 
 In dir treffen sich das Konstrukt und seine Kinder für den Bruchteil einer Sekunde, doch ihre Gedanken und die Worte, die zwischen ihnen ausgetauscht werden, entziehen sich dir.
 
-Du taumelst zurück und hebst deinen schmerzenden Kopf. Der Vorarbeiter raucht und ist defekt.
-{TON: Rauschender Wind mit Anzeichen von Statik. Mechanisches Flüstern undeutlicher Worte.}
-{VFX: Wenn wir VFX für die Baby-Konstrukte haben, wenn diese zum Leben erwecken, spielt es hier ab.}</DefaultText>
+Du taumelst zurück und hebst deinen schmerzenden Kopf. Der Vorarbeiter raucht und ist defekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -282,8 +271,7 @@ Du taumelst zurück und hebst deinen schmerzenden Kopf. Der Vorarbeiter raucht u
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Vorsichtig nimmst du das totgeborene Konstrukt hoch und wiegst es in den Armen. Die restlichen Kinder des Vorarbeiters jagen sich noch einige Augenblicke gegenseitig, bevor sie demjenigen folgen, der sich dem Ausgang nähert.
-{BEUTE}</DefaultText>
+      <DefaultText>Vorsichtig nimmst du das totgeborene Konstrukt hoch und wiegst es in den Armen. Die restlichen Kinder des Vorarbeiters jagen sich noch einige Augenblicke gegenseitig, bevor sie demjenigen folgen, der sich dem Ausgang nähert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,8 +281,7 @@ Du taumelst zurück und hebst deinen schmerzenden Kopf. Der Vorarbeiter raucht u
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Nacheinander nimmst du die Kinder des Vorarbeiters auf und verstaust sie, wobei du ihr Quäken und Klagen ignorierst.
-{BEUTE}</DefaultText>
+      <DefaultText>Nacheinander nimmst du die Kinder des Vorarbeiters auf und verstaust sie, wobei du ihr Quäken und Klagen ignorierst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,8 +415,7 @@ Seine Pupillen richten sich wieder auf dich. „Ich habe schließlich erkannt, d
 
 Die Augen des Vorarbeiters verdunkeln sich. „Wisst, dass diese kleinen Körper nur Körper sind. 27 Versionen meiner Kinder haben darin gelebt und sind darin gestorben. Wisst, dass sie lange genug lebten, damit ich ihre Persönlichkeiten verstehen und ihnen Namen geben konnte, bevor sie beseitigt wurden. Starben.“
 
-Ein leises Schwirren kommt aus dem Gewebe, dass die flackernden Augen des Vorarbeiters umgibt.
-{TON: Ein leises Schwirren mit SEHR leichtem, traurigem Unterton.}</DefaultText>
+Ein leises Schwirren kommt aus dem Gewebe, dass die flackernden Augen des Vorarbeiters umgibt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -467,14 +453,12 @@ Ohne einen Blick auf die Kinder seines Meisters zu werfen, entfernt sich Tarnish
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>„Eine schöne Idee“, sagt sie. „Ich freue mich darauf, sie aufzubrechen.“
-{CALLISTEGE}</DefaultText>
+      <DefaultText>„Eine schöne Idee“, sagt sie. „Ich freue mich darauf, sie aufzubrechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Ich habe mich schon gefragt, wieso du dir all diese Probleme vornimmst. Ich nehme an, dass mich das nicht überraschen sollte.“
-{ALIGERN}</DefaultText>
+      <DefaultText>„Ich habe mich schon gefragt, wieso du dir all diese Probleme vornimmst. Ich nehme an, dass mich das nicht überraschen sollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -484,18 +468,17 @@ Ohne einen Blick auf die Kinder seines Meisters zu werfen, entfernt sich Tarnish
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>„Ah, wie schön. Hoffentlich tritt niemand auf sie drauf.“
-{CALLISTEGE}</DefaultText>
+      <DefaultText>„Ah, wie schön. Hoffentlich tritt niemand auf sie drauf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
       <DefaultText>Er knurrt.
 
-„Das war eine gute Tat, Junge.“ {ALIGERN}</DefaultText>
+„Das war eine gute Tat, Junge.“</DefaultText>
       <FemaleText>Er knurrt.
 
-„Das war eine gute Tat, meine Gute.“ {ALIGERN}</FemaleText>
+„Das war eine gute Tat, meine Gute.“</FemaleText>
     </Entry>
     <Entry>
       <ID>85</ID>
@@ -554,9 +537,7 @@ Ohne einen Blick auf die Kinder seines Meisters zu werfen, entfernt sich Tarnish
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Die Turbine erwacht brummend zum Leben. Die verbauten Lüfter drehen sich und singen einen hohen, bebenden Ton, während sich kalte Energie wie Blut aus einer Wunde in die Luft ergießt und in die bewegungslosen Kinder strömt. Nacheinander flackern ihre winzigen Augen vor Leben auf. Nacheinander erlöschen die Augen des Vorarbeiters. Sein Stimmgewebe klappert, als würde er sprechen wollen …
-{VFX: Wenn wir VFX für die Baby-Konstrukte haben, wenn diese zum Leben erwecken, spielt es hier ab.}
-{TON: Siehe oben. Rotierender, bebender Ton.}</DefaultText>
+      <DefaultText>Die Turbine erwacht brummend zum Leben. Die verbauten Lüfter drehen sich und singen einen hohen, bebenden Ton, während sich kalte Energie wie Blut aus einer Wunde in die Luft ergießt und in die bewegungslosen Kinder strömt. Nacheinander flackern ihre winzigen Augen vor Leben auf. Nacheinander erlöschen die Augen des Vorarbeiters. Sein Stimmgewebe klappert, als würde er sprechen wollen …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,8 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Die Mimik dieser Frau lässt sich nur schlecht in Worte fassen. Distanziert, professionell und zielgerichtet. Interessiert. Sie nickt dir zu und verschließt ihre Hände ineinander.
-{GAVIN: Add more secrets to this conversation, given time.}</DefaultText>
+      <DefaultText>Die Mimik dieser Frau lässt sich nur schlecht in Worte fassen. Distanziert, professionell und zielgerichtet. Interessiert. Sie nickt dir zu und verschließt ihre Hände ineinander.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,8 +115,7 @@ Ein leichtes Lächeln ist in ihrem Gesicht zu erkennen. „Anders ausgedrückt, 
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„“
-{GAVIN: Marking this B branch as Should Not Play for now.}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -635,8 +633,7 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>„“
-{GAVIN: Match conditionals to the similar branches.}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -726,14 +723,12 @@ Sie zieht eine Seite ihres Mundes hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>„“
-{GAVIN: Marking this as Should Not Play for now. „Not for 1E“}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>„“
-{GAVIN: Match conditionals to the similar branches.}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1004,8 +999,7 @@ Sie zuckt mit den Schultern. „Es sei denn, etwas ändert sich. Üblicherweise 
       <ID>229</ID>
       <DefaultText>„Nein“, sagt sie, und hebt dabei ihre bleiche Hand. „Ich denke, wir haben fürs Erste genug Geheimnisse ausgetauscht. Euer Hunger nach Informationen steht meinem in nichts nach.“
 
-Sie zieht ein kristallines Objekt aus ihren Roben und drückt es dir in die Hände. „Ein Geschenk“, sagt sie. „Von einem Geheimnisjäger an den anderen.“
-{LOOT}</DefaultText>
+Sie zieht ein kristallines Objekt aus ihren Roben und drückt es dir in die Hände. „Ein Geschenk“, sagt sie. „Von einem Geheimnisjäger an den anderen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

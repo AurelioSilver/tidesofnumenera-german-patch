@@ -176,9 +176,7 @@ Die Wände des Käfigs verdunkeln sich sofort, und als sie sich wieder erhellen,
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Es hält für einen Moment inne. Seine sich windenden Tentakel kräuseln sich unter seinem Körper. Dann schleudert es sich heftig gegen sein Gehege und greift es mit brutaler Wildheit an.
-
-{SCRIPT: Der Nychthemeron sollte hier angreifen. -JF}</DefaultText>
+      <DefaultText>Es hält für einen Moment inne. Seine sich windenden Tentakel kräuseln sich unter seinem Körper. Dann schleudert es sich heftig gegen sein Gehege und greift es mit brutaler Wildheit an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,9 +231,7 @@ Canadus Kopf wirbelt bei dem Geräusch herum und er sieht, wie du versuchst, das
       <ID>45</ID>
       <DefaultText>Ihr bringt Beleazars modifiziertes Gerät neben der abgenutzten Platte am Käfig an. Beine treten hervor, ersetzen die Platte und zwingen die Maschinerie aus der Energieeindämmungsstruktur heraus. Ihr hebt das ausgestoßene Teil vom Boden auf. Es könnte später nützlich sein.
 
-Lichter flimmern auf dem neu angebrachten Steuerungsgerät der Länge nach hoch und runter, während es sich in den Käfig integriert.
-
-{BEUTE: Zufällige Zahl}</DefaultText>
+Lichter flimmern auf dem neu angebrachten Steuerungsgerät der Länge nach hoch und runter, während es sich in den Käfig integriert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -328,9 +324,7 @@ Er wendet sich von dir ab und weigert sich, dich weiter anzusprechen.</DefaultTe
       <ID>62</ID>
       <DefaultText>Ihr bringt Beleazars Gerät neben der abgenutzten Platte am Käfig an. Beine treten hervor, ersetzen die Platte und zwingen die Maschinerie aus der Energieeindämmungsstruktur heraus. Ihr hebt das ausgestoßene Teil vom Boden auf. Es könnte später nützlich sein.
 
-Lichter flimmern auf dem neu angebrachten Steuerungsgerät der Länge nach hoch und runter, während es sich in den Käfig integriert.
-
-{BEUTE: Zufällige Zahl}</DefaultText>
+Lichter flimmern auf dem neu angebrachten Steuerungsgerät der Länge nach hoch und runter, während es sich in den Käfig integriert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -437,9 +431,7 @@ Lichter flimmern auf dem neu angebrachten Steuerungsgerät der Länge nach hoch 
       <ID>84</ID>
       <DefaultText>Du streckst die Hand nach dem Käfig aus, deine Finger schweben über einige der raffiniert verarbeiteten Materialien, dann legst du die Hand auf den Käfig. Irgendwo schließt ihr einen Energiekreis, oder du wirst Teil von ihr, und merkwürdige Energien jagen durch deinen Körper.
 
-Der Schlag wirft dich vom Käfig zurück.
-
-{SCHADEN}</DefaultText>
+Der Schlag wirft dich vom Käfig zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -707,14 +699,10 @@ Als die beiden an dir vorbeigehen, sieht Canadu aus, als wolle er etwas hinzufü
       <ID>143</ID>
       <DefaultText>„Jahrzehnte der Arbeit. Jahrhunderte. Für *nichts*.“
 
-Er drückt dir den Finger auf die Brust. „Ihr seid ein Narr. Ein wertloser Haufen Dreck, der am besten in der Sonne zum Austrocknen liegengelassen werden sollte.“ Er lehnt sich vor und schnarrt: „Und wenn nicht die Levis hier wären, würdet Ihr Euer Hirn vom Gras aufsammeln können. Eines Tages wird Euer Glück ein Ende nehmen und Ihr werdet gegen Eure eigene Dummheit keine Verteidigung mehr haben. Ich hoffe, ich werde da sein, um das zu sehen. Aber jetzt … nun, Ihr habt unsere Einkünfte hier ruiniert, und zahllose Leben in der Heimat. Zeit für uns, zu gehen.“
-
-{GEORGE: Wir können diese Version für ein potenzielles Gerangel öffnen, sobald wir herausgefunden haben, wie wir das in einer bewohnten Gegend machen können, obwohl es zum vorübergehenden Tod des SC führen wird.}</DefaultText>
+Er drückt dir den Finger auf die Brust. „Ihr seid ein Narr. Ein wertloser Haufen Dreck, der am besten in der Sonne zum Austrocknen liegengelassen werden sollte.“ Er lehnt sich vor und schnarrt: „Und wenn nicht die Levis hier wären, würdet Ihr Euer Hirn vom Gras aufsammeln können. Eines Tages wird Euer Glück ein Ende nehmen und Ihr werdet gegen Eure eigene Dummheit keine Verteidigung mehr haben. Ich hoffe, ich werde da sein, um das zu sehen. Aber jetzt … nun, Ihr habt unsere Einkünfte hier ruiniert, und zahllose Leben in der Heimat. Zeit für uns, zu gehen.“</DefaultText>
       <FemaleText>„Jahrzehnte der Arbeit. Jahrhunderte. Für *nichts*.“
 
-Er drückt dir den Finger auf die Brust. „Ihr seid eine Närrin. Ein wertloser Haufen Dreck, der am besten in der Sonne zum Austrocknen liegengelassen werden sollte.“ Er lehnt sich vor und schnarrt: „Und wenn nicht die Levis hier wären, würdet Ihr Euer Hirn vom Gras aufsammeln können. Eines Tages wird Euer Glück ein Ende nehmen und Ihr werdet gegen Eure eigene Dummheit keine Verteidigung mehr haben. Ich hoffe, ich werde da sein, um das zu sehen. Aber jetzt … nun, Ihr habt unsere Einkünfte hier ruiniert, und zahllose Leben in der Heimat. Zeit für uns, zu gehen.“
-
-{GEORGE: Wir können diese Version für ein potenzielles Gerangel öffnen, sobald wir herausgefunden haben, wie wir das in einer bewohnten Gegend machen können, obwohl es zum vorübergehenden Tod des SC führen wird.}</FemaleText>
+Er drückt dir den Finger auf die Brust. „Ihr seid eine Närrin. Ein wertloser Haufen Dreck, der am besten in der Sonne zum Austrocknen liegengelassen werden sollte.“ Er lehnt sich vor und schnarrt: „Und wenn nicht die Levis hier wären, würdet Ihr Euer Hirn vom Gras aufsammeln können. Eines Tages wird Euer Glück ein Ende nehmen und Ihr werdet gegen Eure eigene Dummheit keine Verteidigung mehr haben. Ich hoffe, ich werde da sein, um das zu sehen. Aber jetzt … nun, Ihr habt unsere Einkünfte hier ruiniert, und zahllose Leben in der Heimat. Zeit für uns, zu gehen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>144</ID>
@@ -732,14 +720,10 @@ Er wirft seinem Partner einen verzweifelten Blick zu. „Wenn der Käfig keinen 
       <ID>146</ID>
       <DefaultText>„Jahrzehnte der Arbeit. Jahrhunderte. Für *nichts*.“
 
-Er sieht dich lediglich an und schüttelt vor Abscheu den Kopf. „Ihr seid kein Erforscher. Ihr seid ein *Abenteurer*. Zu dumm, um zu verstehen, wann etwas in Ruhe gelassen werden sollte. Also stupst und drückt Ihr so lange weiter, bis es zu Eurer Überraschung in Eurem Gesicht explodiert. Eure Art hält sich nicht lange … vor allem dann nicht, wenn Ihr *nichts seht*.“ Seine Stimme verspottet dich, als er dich nachahmt.
-
-{GEORGE: Wir können diese Version für ein potenzielles Gerangel öffnen, sobald wir herausgefunden haben, wie wir das in einer bewohnten Gegend machen können, obwohl es zum vorübergehenden Tod des SC führen wird.}</DefaultText>
+Er sieht dich lediglich an und schüttelt vor Abscheu den Kopf. „Ihr seid kein Erforscher. Ihr seid ein *Abenteurer*. Zu dumm, um zu verstehen, wann etwas in Ruhe gelassen werden sollte. Also stupst und drückt Ihr so lange weiter, bis es zu Eurer Überraschung in Eurem Gesicht explodiert. Eure Art hält sich nicht lange … vor allem dann nicht, wenn Ihr *nichts seht*.“ Seine Stimme verspottet dich, als er dich nachahmt.</DefaultText>
       <FemaleText>„Jahrzehnte der Arbeit. Jahrhunderte. Für *nichts*.“
 
-Er sieht dich lediglich an und schüttelt vor Abscheu den Kopf. „Ihr seid keine Erforscherin. Ihr seid eine *Abenteurerin*. Zu dumm, um zu verstehen, wann etwas in Ruhe gelassen werden sollte. Also stupst und drückt Ihr so lange weiter, bis es zu Eurer Überraschung in Eurem Gesicht explodiert. Eure Art hält sich nicht lange … vor allem dann nicht, wenn Ihr *nichts seht*.“ Seine Stimme verspottet dich, als er dich nachahmt.
-
-{GEORGE: Wir können diese Version für ein potenzielles Gerangel öffnen, sobald wir herausgefunden haben, wie wir das in einer bewohnten Gegend machen können, obwohl es zum vorübergehenden Tod des SC führen wird.}</FemaleText>
+Er sieht dich lediglich an und schüttelt vor Abscheu den Kopf. „Ihr seid keine Erforscherin. Ihr seid eine *Abenteurerin*. Zu dumm, um zu verstehen, wann etwas in Ruhe gelassen werden sollte. Also stupst und drückt Ihr so lange weiter, bis es zu Eurer Überraschung in Eurem Gesicht explodiert. Eure Art hält sich nicht lange … vor allem dann nicht, wenn Ihr *nichts seht*.“ Seine Stimme verspottet dich, als er dich nachahmt.</FemaleText>
     </Entry>
     <Entry>
       <ID>147</ID>

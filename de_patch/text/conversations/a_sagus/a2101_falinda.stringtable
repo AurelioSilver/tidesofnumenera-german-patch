@@ -8,8 +8,7 @@
       <ID>1</ID>
       <DefaultText>Beinahe jeder Zoll des Körpers dieses Kaufmanns ist mit stramm gewickelten Roben und Fellen bedeckt. Eine Haube verdeckt seinen Kopf und eine Maske verbirgt sein Gesicht.
 
-Dies hält dich nicht davon ab, zu bemerken, dass er offensichtlich *wütend* auf dich ist. Bebend schlägt er auf seinen ähnlich gekleideten Begleiter ein. Beide wenden dir wieder ihre regungslosen Masken zu.
-{GEORGE: Ich denke, das Volk dieser Charaktere könnte für die Worte von Qra verantwortlich sein. Du wirst sehen, was ich meine. Entweder das, oder (wie Colin vorgeschlagen hat) sie können irgendwie auf diese Inhalte reagieren. Colin hat eine [B]-Prioriät-Verbindung.}</DefaultText>
+Dies hält dich nicht davon ab, zu bemerken, dass er offensichtlich *wütend* auf dich ist. Bebend schlägt er auf seinen ähnlich gekleideten Begleiter ein. Beide wenden dir wieder ihre regungslosen Masken zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -254,25 +253,22 @@ Der Kaufmann rammt ein letztes Buch an seinen Platz. „Und daher sagte Falinda 
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>„Die Überraschung verbergend übergab Falinda das Buch. Geschichten lustvoller Hingabe schienen kaum dem Geschmack des Kunden zu entsprechen.“{BEUTE}</DefaultText>
-      <FemaleText>„Die Überraschung verbergend übergab Falinda das Buch. Geschichten lustvoller Hingabe schienen kaum dem Geschmack der Kundin zu entsprechen.“{BEUTE}</FemaleText>
+      <DefaultText>„Die Überraschung verbergend übergab Falinda das Buch. Geschichten lustvoller Hingabe schienen kaum dem Geschmack des Kunden zu entsprechen.“</DefaultText>
+      <FemaleText>„Die Überraschung verbergend übergab Falinda das Buch. Geschichten lustvoller Hingabe schienen kaum dem Geschmack der Kundin zu entsprechen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Falinda übergab das Buch. Der Kaufmann selbst hielt es für Müll, doch alles war es wert, gelesen zu werden, zumindest einmal.“
-{BEUTE}</DefaultText>
+      <DefaultText>„Falinda übergab das Buch. Der Kaufmann selbst hielt es für Müll, doch alles war es wert, gelesen zu werden, zumindest einmal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Falinda übergab freudig das Buch. Das Labyrinth des Klangs war in der Tat ein faszinierendes Thema.“
-{BEUTE}</DefaultText>
+      <DefaultText>„Falinda übergab freudig das Buch. Das Labyrinth des Klangs war in der Tat ein faszinierendes Thema.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„Falinda übergab das Buch und fügte hinzu, dass die Kapitel über die Vermächtnisse der einzelnen Herrscher besonders faszinierend waren.“
-{BEUTE}</DefaultText>
+      <DefaultText>„Falinda übergab das Buch und fügte hinzu, dass die Kapitel über die Vermächtnisse der einzelnen Herrscher besonders faszinierend waren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

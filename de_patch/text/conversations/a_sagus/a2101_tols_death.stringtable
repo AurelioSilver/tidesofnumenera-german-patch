@@ -500,27 +500,17 @@ Sollte sie dich nun verfolgen, so kann sie nur sich selbst dafür verantwortlich
       <ID>107</ID>
       <DefaultText>Rhin zeigt auf Tols Leichnam und schnappt sich einen kleinen Tornister, der unter ihrem Mantel versteckt ist. Sie öffnet ihn und drückt ihn sich anschließend mit einem Seufzer der Erleichterung an die Brust.
 
-Sie sieht, wie du sie dabei beobachtest, und ein Hauch von Schuldigkeit macht sich in ihrem Gesicht breit. „Was?“, fragt sie und stellt sich dabei gerade hin. „Das ist meiner.“
-
-{SCRIPT: Mit „Nicht zu spielen“ markiert, bis wir feststellen, ob wir Zeit für diese Ergänzung haben.}
-
-{BEUTE}
-{SCRIPT: Rhin erhält den Quest-Gegenstand Tornister.}</DefaultText>
+Sie sieht, wie du sie dabei beobachtest, und ein Hauch von Schuldigkeit macht sich in ihrem Gesicht breit. „Was?“, fragt sie und stellt sich dabei gerade hin. „Das ist meiner.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Plündere zuerst den Leichnam.
-
-{SCRIPT: Mit „Nicht zu spielen“ markiert, bis wir feststellen, ob wir Zeit für diese Ergänzung haben.}</DefaultText>
+      <DefaultText>Plündere zuerst den Leichnam.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Du findest einen kleinen, gewöhnlichen Tornister im Inneren ihres Mantels. Du nimmst ihn mit.
-
-{BEUTE}
-{SCRIPT: Der Spieler erhält den Gegenstand Tornister für Rhins Quest.}</DefaultText>
+      <DefaultText>Du findest einen kleinen, gewöhnlichen Tornister im Inneren ihres Mantels. Du nimmst ihn mit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

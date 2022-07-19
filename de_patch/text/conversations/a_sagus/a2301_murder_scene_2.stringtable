@@ -127,17 +127,14 @@ An die nahe gelegene Wand hat jemand einen blutigen Kreis gezeichnet, der mit ge
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Du machst einen Schritt auf den Kreis zu. Irgendetwas daran scheint vertraut zu sein …
-
-{GAVIN: Bonus-Aufgabe, abhängig von der Zeit: Verzweige das in einen separaten Baum mit PQs für jeden Gefährten.}</DefaultText>
+      <DefaultText>Du machst einen Schritt auf den Kreis zu. Irgendetwas daran scheint vertraut zu sein …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>„Das habe ich eine Weile nicht mehr gesehen“, sagt sie sanft, als sie an deine Seite tritt. „Das ist kein einfacher Kreis. Das ist das Symbol der Kinder der Endlosen Pforte.“
 
-Sie schnaubt. „Das ist eine Sekte der Dendra O'hur, die Menschen tötet, statt sie zu essen. Sie nennen es 'die Käfige öffnen'. Die Dendra jagten sie vor langer Zeit aus der Stadt, doch wie es scheint, haben sie den Wink mit dem Zaunpfahl nicht verstanden. Oder …“ Sie hält inne und denkt nach. „Einer der Dendra O'hur war es leid, darauf zu warten, dass Menschen von sich aus sterben.“
-{MATKINA}</DefaultText>
+Sie schnaubt. „Das ist eine Sekte der Dendra O'hur, die Menschen tötet, statt sie zu essen. Sie nennen es 'die Käfige öffnen'. Die Dendra jagten sie vor langer Zeit aus der Stadt, doch wie es scheint, haben sie den Wink mit dem Zaunpfahl nicht verstanden. Oder …“ Sie hält inne und denkt nach. „Einer der Dendra O'hur war es leid, darauf zu warten, dass Menschen von sich aus sterben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,8 +153,7 @@ Sie schnaubt. „Das ist eine Sekte der Dendra O'hur, die Menschen tötet, stat
 
 Ein blasiger Landstrich ringelt sich durch eine Leere, die so schwarz wie ein aufgerissener Schlund ist. Die Luft ist schwer, faul und weist die Glätte einer Made auf. Übelkeit überkommt Euch und füllt Euren Kopf. Infiziert Eure Gedanken.
 
-Und durch all das spürt Ihr einen Geist in dieser unergründlichen Dunkelheit, der auf Euren zukommt, suchend, probierend. Freudig. Hungrig.
-{TON: Wind mit weichem, ekelhaftem Gesabber im Hintergrund. Könnte der gleiche sein, den der Spieler in der Szene der Endlosen Pforte hört.}</DefaultText>
+Und durch all das spürt Ihr einen Geist in dieser unergründlichen Dunkelheit, der auf Euren zukommt, suchend, probierend. Freudig. Hungrig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,8 +167,7 @@ Nachdem du diese Welt gesehen hast, erscheint die Blutlache zu deinen Füßen fa
       <ID>55</ID>
       <DefaultText>Frisches Blut läuft über den Kreis und zieht dich durch den Hohlraum in seiner Mitte in die Welt auf der anderen Seite.
 
-Ein blasiger Landstrich ringelt sich durch eine Leere, die so schwarz wie ein aufgerissener Schlund ist. Die Luft ist schwer, faul und weist die Glätte einer Made auf. Übelkeit überkommt dich und füllt deinen Kopf. Infiziert deine Gedanken …
-{TON: Wind mit weichem, ekelhaftem Gesabber im Hintergrund. Könnte der gleiche sein, den der Spieler in der Szene der Endlosen Pforte hört.}</DefaultText>
+Ein blasiger Landstrich ringelt sich durch eine Leere, die so schwarz wie ein aufgerissener Schlund ist. Die Luft ist schwer, faul und weist die Glätte einer Made auf. Übelkeit überkommt dich und füllt deinen Kopf. Infiziert deine Gedanken …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

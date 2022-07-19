@@ -20,8 +20,7 @@ Das Gerät wird warm in deiner Hand und die Kreatur öffnet übergroße Augen un
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Du nimmst noch einmal den Spender zurück. Der vertrocknete Kopf der Kreatur hängt schlaff auf eine Seite und verdeckt fast eine Hand, die seitlich aus dem Gerät heraussteht.
-{GAVIN: Is item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
+      <DefaultText>Du nimmst noch einmal den Spender zurück. Der vertrocknete Kopf der Kreatur hängt schlaff auf eine Seite und verdeckt fast eine Hand, die seitlich aus dem Gerät heraussteht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,14 +30,12 @@ Das Gerät wird warm in deiner Hand und die Kreatur öffnet übergroße Augen un
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Drücke die herausstehenden Hände.
-{GAVIN: Is item_c4411_candydispenser_HeadIsDead=0}</DefaultText>
+      <DefaultText>Drücke die herausstehenden Hände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Drücke die herausstehenden Hände.
-{GAVIN: Set item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
+      <DefaultText>Drücke die herausstehenden Hände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -47,11 +44,7 @@ Das Gerät wird warm in deiner Hand und die Kreatur öffnet übergroße Augen un
 
 „Eee“, sagt die Kreatur, seine Augen weiten sich. Eine winzige Wölbung geht in seinem noch winzigeren Hals hoch. „Eee! Eee! BLARF.“
 
-Es spuckt eine rechteckige Tablette mit einem winzigen *Pfut* aus.
-
-{SOUND: High-pitched, cute versions of the barfing above.}
-{SCRIPT: Player gets tablet.}
-{LOOT}</DefaultText>
+Es spuckt eine rechteckige Tablette mit einem winzigen *Pfut* aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,22 +53,17 @@ Es spuckt eine rechteckige Tablette mit einem winzigen *Pfut* aus.
 
 „Eee“, murmelt die Kreatur und sieht bang aus. „Eee! Eeerg. Eeeragh.“ Ganze Fellstücke fallen ihr aus, aber sie macht unbeirrt weiter. „MrrraaaaaBLARF.“
 
-Sie spuckt eine zweite Tablette mit einem *Pfut* aus, starrt dich großäugig mit blankem Entsetzen an und stirbt in deinen Händen.
-{SOUND: High-pitched, cute versions of the barfing above.}
-{SCRIPT: Player gets tablet.}
-{LOOT}</DefaultText>
+Sie spuckt eine zweite Tablette mit einem *Pfut* aus, starrt dich großäugig mit blankem Entsetzen an und stirbt in deinen Händen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Der Schädel dieser toten Kreatur auf dem Spender löst sich auf und eine der herausstehenden Hände sieht aus, als würde sie gleich abfallen.
-{GAVIN: Is item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
+      <DefaultText>Der Schädel dieser toten Kreatur auf dem Spender löst sich auf und eine der herausstehenden Hände sieht aus, als würde sie gleich abfallen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Bau das Gerät auseinander und suche im Inneren nach wertvollen Sachen.
-{SCRIPT: One step easier if the player has examined the device (Node 14)}</DefaultText>
+      <DefaultText>Bau das Gerät auseinander und suche im Inneren nach wertvollen Sachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,9 +126,7 @@ Unten, gegenüber vom Kopf, findest du die Gravur einer Sonne mit einem Loch in 
       <ID>27</ID>
       <DefaultText>Du stöberst an den Seiten des Geräts rum, fährst mit deinen Fingernägeln über die fleischigen Nähte unter den jetzt nutzlosen Händen und ziehst daran so vorsichtig wie möglich.
 
-Ohne Warnung *bricht* das Gerät auseinander und heraus strömt eine rosa Flüssigkeit und winzige Organe.
-{SCRIPT: Small, gory explosion.}
-{SOUND: Small, gory explosion.}</DefaultText>
+Ohne Warnung *bricht* das Gerät auseinander und heraus strömt eine rosa Flüssigkeit und winzige Organe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -149,11 +135,7 @@ Ohne Warnung *bricht* das Gerät auseinander und heraus strömt eine rosa Flüss
 
 „Ak“, sagt die tote Kreatur. Ihr kleiner Mund bewegt sich nicht. „Ak“, sagt sie lauter.
 
-Dann schreit sie. „Ak! Ak! Ak! Ak!“ Du hast gerade noch Zeit, darüber nachzudenken, was das Wort bedeutet, als das Gerät in deiner Hand explodiert. Es war offensichtlich ein Alarmsignal.
-{SOUND: „Ak“ rising in volume and tempo}
-{SCRIPT: Increases character Might pool by one}
-{SCRIPT: Removes dispenser from inventory.}
-{SCRIPT: Flash of light centered on PC.}</DefaultText>
+Dann schreit sie. „Ak! Ak! Ak! Ak!“ Du hast gerade noch Zeit, darüber nachzudenken, was das Wort bedeutet, als das Gerät in deiner Hand explodiert. Es war offensichtlich ein Alarmsignal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,8 +145,7 @@ Dann schreit sie. „Ak! Ak! Ak! Ak!“ Du hast gerade noch Zeit, darüber nachz
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Wie heißt du?“
-{GAVIN: Is item_c4411_candydispenser_HeadIsDead=0}</DefaultText>
+      <DefaultText>„Wie heißt du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -184,16 +165,14 @@ Dann schreit sie. „Ak! Ak! Ak! Ak!“ Du hast gerade noch Zeit, darüber nachz
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Du drehst das Gerät auf den Kopf, um dir die eingravierte Sonne auf der Unterseite anzusehen. Du kannst immer noch nichts damit anfangen.
-{GAVIN: Is item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
+      <DefaultText>Du drehst das Gerät auf den Kopf, um dir die eingravierte Sonne auf der Unterseite anzusehen. Du kannst immer noch nichts damit anfangen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Du drehst das Gerät, um dir das Gehäuse anzusehen. Der Kopf der toten Kreatur baumelt knochenlos, wie ein Pendel aus Fleisch.
 
-Unten, gegenüber vom Kopf, findest du die Gravur einer Sonne mit einem Loch in der Mitte. Dir ist das Symbol gänzlich unbekannt, und du weißt auch nicht, ob es eine Herstellermarke oder etwas ganz anderes ist.
-{GAVIN: Is item_c4411_candydispenser_HeadIsDead=1}</DefaultText>
+Unten, gegenüber vom Kopf, findest du die Gravur einer Sonne mit einem Loch in der Mitte. Dir ist das Symbol gänzlich unbekannt, und du weißt auch nicht, ob es eine Herstellermarke oder etwas ganz anderes ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -214,23 +193,18 @@ Allem Anschein nach bekommst du von diesem Gerät keine Tabletten mehr.</Default
       <ID>39</ID>
       <DefaultText>Als die Blendung nachlässt, fühlst du dich stärker, als hätte die Kreatur dir ein Stück ihres Lebens übergeben.
 
-Du hast keine Ahnung, warum. Und jetzt wirst du es nie erfahren.
-{SCRIPT: Increases character Might pool by one}
-{SCRIPT: Conversation disabled after this node.}</DefaultText>
+Du hast keine Ahnung, warum. Und jetzt wirst du es nie erfahren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Als du das geronnene Blut durchsuchst, entdeckst du ein winziges blinkendes Knötchen. Vielleicht hielt das die Kreatur die ganze Zeit am Leben.
-{SCRIPT: Conversation disabled after this node.}</DefaultText>
+      <DefaultText>Als du das geronnene Blut durchsuchst, entdeckst du ein winziges blinkendes Knötchen. Vielleicht hielt das die Kreatur die ganze Zeit am Leben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>Als die Blendung nachlässt, fühlst du dich kräftiger. Stärker. Scheinbar wurde die Kreatur in diesem Gerät von einer Art organischer Batterie am Leben gehalten, die du bei deinem Experiment beschädigt hast.
-Warum sie dich bei der Explosion stärker machte, statt dich zu töten, ist allen ein Rätsel.
-{SCRIPT: Increases character Might pool by one}
-{SCRIPT: Conversation disabled after this node.}</DefaultText>
+Warum sie dich bei der Explosion stärker machte, statt dich zu töten, ist allen ein Rätsel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

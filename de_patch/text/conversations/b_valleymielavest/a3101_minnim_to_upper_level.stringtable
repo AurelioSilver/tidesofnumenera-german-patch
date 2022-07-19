@@ -42,23 +42,17 @@ Trotzdem, irgendetwas daran, das Pulsieren ihres Randes, das Gefühl, dass sie d
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Du trittst von der Lichtstelle weg und läufst weiter.
-
-{SCRIPT: End conversation.}</DefaultText>
+      <DefaultText>Du trittst von der Lichtstelle weg und läufst weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Die Lichtstelle lockt dich an.
-
-{RETURN NODE}</DefaultText>
+      <DefaultText>Die Lichtstelle lockt dich an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Du trittst in das Grelle und stellst fest, dass du jetzt irgendwo anders bist.
-
-{SCRIPT: Teleport players to paired minnim. End conversation.}</DefaultText>
+      <DefaultText>Du trittst in das Grelle und stellst fest, dass du jetzt irgendwo anders bist.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

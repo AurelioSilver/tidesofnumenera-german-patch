@@ -35,9 +35,7 @@ Du bemerkst trotz seiner fieberhaften Freude, dass er darüber enttäuscht zu se
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Ich möchte mich den Dendra O'hur anschließen.“
-
-{GAVIN: Diesen Teil nach 1E schreiben.}</DefaultText>
+      <DefaultText>„Ich möchte mich den Dendra O'hur anschließen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,15 +111,12 @@ Er wischt sich geistesabwesend den Schweiß von seiner wettergegerbten Stirn. �
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Seid vorsichtig, mein Lieber“, murmelt Callistege. „Imbitu ist freundlich, aber auch intelligent. Auf furchterregende Weise. Versucht nicht, ihn anzulügen.“
-
-{CALLISTEGE}</DefaultText>
+      <DefaultText>„Seid vorsichtig, mein Lieber“, murmelt Callistege. „Imbitu ist freundlich, aber auch intelligent. Auf furchterregende Weise. Versucht nicht, ihn anzulügen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Sei bei dem hier vorsichtig“, murmelt Aligern an deiner Seite. „Imbitu ist scharfsinnig. Sehr scharfsinnig. Er hat schon viele sehr schlaue Leute verspeist.“
-{ALIGERN}</DefaultText>
+      <DefaultText>„Sei bei dem hier vorsichtig“, murmelt Aligern an deiner Seite. „Imbitu ist scharfsinnig. Sehr scharfsinnig. Er hat schon viele sehr schlaue Leute verspeist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -702,9 +697,7 @@ Er schluckt. „Ich hätte es wissen müssen. Ich wünschte, ich hätte es gewus
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>„Oh, da gibt es nicht viel zu erzählen. Ich habe die meiste Zeit in dieser kleinen Kapelle verbracht“, sagt er und blickt sich umfassend um. „Die Dendra O'hur haben mein Leben aufgebraucht.“
-
-{GAVIN: Alternative Einstiegsknotenpunkte schaffen und alle neuen, fraktionsspezifischen Informationen nach 1E hinzufügen}</DefaultText>
+      <DefaultText>„Oh, da gibt es nicht viel zu erzählen. Ich habe die meiste Zeit in dieser kleinen Kapelle verbracht“, sagt er und blickt sich umfassend um. „Die Dendra O'hur haben mein Leben aufgebraucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1022,9 +1015,7 @@ Seine Augen flattern einen Augenblick. „Ich fürchte, dass die Visionen ab hie
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>„“
-
-{GAVIN: Write this after 1E. Hidden with blank global for now.}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1048,11 +1039,7 @@ Seine Augen flattern einen Augenblick. „Ich fürchte, dass die Visionen ab hie
 
 Einen Augenblick lang geschieht nichts. Doch dann hört Ihr ein schwaches Schwirren, als sich drehende Klingen Eure Organe anschleifen und das Mark nach oben durch die Schläuche saugen.
 
-Irgendjemand schreit, und Ihr könnt Euch gut vorstellen, wer das war. Schließlich sterbt Ihr gnadenvoll.
-
-{TON: Ekelhaftes Geräusch von saugendem/schlürfendem Schlauch und zermahlendes Geräusch.}
-{TON: SC schreit.}
-{SCRIPT: Ausblenden und einblenden}</DefaultText>
+Irgendjemand schreit, und Ihr könnt Euch gut vorstellen, wer das war. Schließlich sterbt Ihr gnadenvoll.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1082,10 +1069,7 @@ Er schmatzt glücklich mit den Lippen.</DefaultText>
 
 Einen Augenblick lang geschieht nichts. Doch dann hörst du ein schwaches Schwirren, als sich drehende Klingen deine Organe anschleifen und das Mark nach oben durch die Schläuche saugen.
 
-Irgendjemand schreit, und du kannst dir gut vorstellen, wer das war. Schließlich holt dich gnadenvoll der Tod.
-
-{TON: Ekelhaftes Geräusch von saugendem/schlürfendem Schlauch und zermahlendes Geräusch.}
-{TON: SC schreit.}</DefaultText>
+Irgendjemand schreit, und du kannst dir gut vorstellen, wer das war. Schließlich holt dich gnadenvoll der Tod.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1094,9 +1078,7 @@ Irgendjemand schreit, und du kannst dir gut vorstellen, wer das war. Schließlic
 
 „Ah!“, sagt er und legt es ab. „Willkommen zurück! Welch *exquisite* Erfahrung … obwohl ich sicher bin, dass Ihr nichts davon hören wollt, während Ihr wach werdet!“
 
-Er strahlt. „Nun! Ich habe mir erlaubt, ein kleines Dankeschön zu Euren Habseligkeiten zu legen. Sprecht mit mir, wann immer Ihr wissen wollt, was wir aus unserem kleinen Mahl erfahren haben.“
-{BEUTE}
-{GAVIN und GEORGE: Fügt folgende Informationen zu gegebener Zeit im späteren Verlauf hinzu: Die Dendra könnten sich auch auf die Erfahrungen beziehen, die der Spieler bisher im Spiel hatte (da sie einige der Erinnerungen des Spielers erlangt haben werden) und könnten Vorschläge zu (zum Beispiel) Dingen machen, die der Spieler verpasste. Darüber hinaus lädt Imbitu den Spieler ein, die Geheimnisse des Kults zu erfahren – wenn der Spieler Interesse hat, sollte er persönlich mit Imbitu sprechen.}</DefaultText>
+Er strahlt. „Nun! Ich habe mir erlaubt, ein kleines Dankeschön zu Euren Habseligkeiten zu legen. Sprecht mit mir, wann immer Ihr wissen wollt, was wir aus unserem kleinen Mahl erfahren haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

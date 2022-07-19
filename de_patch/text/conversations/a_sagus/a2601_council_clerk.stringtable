@@ -293,9 +293,7 @@ Als er sie aufrollt, entweicht ihm ein unfreiwilliger Schrei. „Unmöglich!“ 
       <ID>55</ID>
       <DefaultText>Der Sachbearbeiter sieht sich den Vertrag an und schüttelt den Kopf. „Nun, jeder muss sein eigenes Handwerk ausüben, und die Arbeit des Verstands ist nicht für jeden geeignet.“
 
-Er schnippt einmal mit den Fingern, archiviert den Vertrag, dann schnippt er wieder und beschwört einen Beutel Shin. Er schüttelt ihn einmal – vielleicht im Spott, vielleicht, um irgendwie den Inhalt zu zählen – dann übergibt er ihn dir.
-
-{MONEY}</DefaultText>
+Er schnippt einmal mit den Fingern, archiviert den Vertrag, dann schnippt er wieder und beschwört einen Beutel Shin. Er schüttelt ihn einmal – vielleicht im Spott, vielleicht, um irgendwie den Inhalt zu zählen – dann übergibt er ihn dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -329,9 +327,7 @@ Er liest mit einem Auge auf dem Folianten, den er von irgendwo ergriffen hat, w�
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Ich versuche, einen Rechtsstreit zwischen zwei Männern namens Erritis und Rennio beizulegen. Erritis hat ein Luftschiff von Rennio zum Absturz gebracht. Könnt Ihr mir helfen?“
-
-{SCRIPT: After 1E, hook this up properly when Erritis is handled. -JF}</DefaultText>
+      <DefaultText>„Ich versuche, einen Rechtsstreit zwischen zwei Männern namens Erritis und Rennio beizulegen. Erritis hat ein Luftschiff von Rennio zum Absturz gebracht. Könnt Ihr mir helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

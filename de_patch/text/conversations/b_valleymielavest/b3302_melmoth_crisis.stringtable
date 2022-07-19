@@ -35,9 +35,7 @@ Er winkt dich ab, ohne dich anzusehen. „Renn, wenn du es willst. Ich akzeptier
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Ihn um ein Stück Fleisch bitten, das du zu den Dendra O'hur zurückbringen kannst.
-
-{SCRIPT: If we implement this (remove the Should Not Play) please assign the appropriate Task as well.}</DefaultText>
+      <DefaultText>Ihn um ein Stück Fleisch bitten, das du zu den Dendra O'hur zurückbringen kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -47,9 +45,7 @@ Er winkt dich ab, ohne dich anzusehen. „Renn, wenn du es willst. Ich akzeptier
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Ein Messer erscheint aus einer Falte in Melmoths Gewand, als ob es beschworen wäre. Mit einem Handgriff sprüht Blut aus seiner rechten Hand. Er übergibt dir einen Finger, feucht und warm. „Gib das meinen Brüdern, auf dass ich weiterleben mag.“
-
-{SCRIPT: add some body part of melmoth to inventory, turns to dust on the arrival at the Bloom}</DefaultText>
+      <DefaultText>Ein Messer erscheint aus einer Falte in Melmoths Gewand, als ob es beschworen wäre. Mit einem Handgriff sprüht Blut aus seiner rechten Hand. Er übergibt dir einen Finger, feucht und warm. „Gib das meinen Brüdern, auf dass ich weiterleben mag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -152,18 +152,14 @@ Nach einer endlos langen Zeit schaut er wieder zu dir zurück. „Du magst Frage
       <ID>39</ID>
       <DefaultText>Ohne zu zögern durchwühlt Urmpfh? deine Sachen. Seltsamerweise scheint sie sich nur für das nicht funktionierende Numenera zu interessieren.
 
-Es blickt nach oben mit einem deprimierten, fast beleidigten Blick. „Nicht genug. Man darf nur so viele kaufen, wie Sterne da sind.“ Als sie das sagt, erscheinen zehn Sterne über dem Kopf.
-
-{SCRIPT: plays if player has less than ten oddities}</DefaultText>
+Es blickt nach oben mit einem deprimierten, fast beleidigten Blick. „Nicht genug. Man darf nur so viele kaufen, wie Sterne da sind.“ Als sie das sagt, erscheinen zehn Sterne über dem Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Ohne zu zögern durchwühlt Urmpfh? deine Sachen. Seltsamerweise scheint sie sich nur für das nicht funktionierende Numenera zu interessieren.
 
-Sie nickt zufrieden. „Kaufe so viele, wie Sterne da sind.“ Als sie das sagt, erscheinen zehn Sterne über dem Kopf.
-
-{SCRIPT: plays if player has ten or more oddities}</DefaultText>
+Sie nickt zufrieden. „Kaufe so viele, wie Sterne da sind.“ Als sie das sagt, erscheinen zehn Sterne über dem Kopf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -185,10 +181,7 @@ Sie nickt zufrieden. „Kaufe so viele, wie Sterne da sind.“ Als sie das sagt,
       <ID>46</ID>
       <DefaultText>Schnell wählt Urmpfh? zehn Kuriositäten aus deinem Rucksack und tanzt aufgeregt auf der Stelle und wirft die Numenera in die Luft, wo sie sofort verschwinden.
 
-„Das taugt gut.“ Ein großer Haufen Shin wächst in Urmpfh?s Händen heran, den er dann in deinen Rucksack steckt, bevor er ihn dir wieder zurückgibt. „Geschäft erfolgreich abgeschlossen.“
-
-{SCRIPT: removes ten most valuable oddities from inventory, adds 150% of full value in shins to inventory}
-{SCRIPT: I'm open to different ways to do this, perhaps it can open up a barter interface but limit what the player can sell or how much shins Urmpfh has? Maybe it'd be easier to do with cyphers. Whichever way it's easiest to do, design can be flexible}</DefaultText>
+„Das taugt gut.“ Ein großer Haufen Shin wächst in Urmpfh?s Händen heran, den er dann in deinen Rucksack steckt, bevor er ihn dir wieder zurückgibt. „Geschäft erfolgreich abgeschlossen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

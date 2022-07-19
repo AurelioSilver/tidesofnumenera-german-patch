@@ -671,9 +671,7 @@ Er schüttelt den Kopf. „Egal. Meine Leute werden ihn verhören und seine Moti
       <ID>128</ID>
       <DefaultText>„Freut mich zu hören“, sagt er und neigt den Kopf zur Seite. „Nur wenige verstehen, dass man der Gerechtigkeit in der Schattenseite immer ein wenig auf die Sprünge helfen muss. Die einzige Ordnung, die es hier gibt, ist die, die wir durchsetzen – mit Geld, Gewalt… und dem Galgen.“
 
-Er verstummt und gibt einer Leibwächterin ein Zeichen. Sie übergibt dir hastig deine Belohnung, während Gourmandus sich umdreht und den Blick über sein Reich schweifen lässt.
-
-{LOOT}</DefaultText>
+Er verstummt und gibt einer Leibwächterin ein Zeichen. Sie übergibt dir hastig deine Belohnung, während Gourmandus sich umdreht und den Blick über sein Reich schweifen lässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -707,17 +705,14 @@ Er beugt sich zu dir runter. Von Angesicht zu Angesicht stehen die Muskeln in se
       <ID>135</ID>
       <DefaultText>„Den gab es auch“, sagt er. Etwas wie ein Hauch von Humor funkelt tief in seinen Augen, als er sich zurück zu seiner vollen Größe aufrichtet. „Nur nicht die Art Prozess, die Ihr gewohnt seid. Oder gutheißen würdet.“
 
-Er gibt einer Leibwächterin ein Zeichen und sie übergibt dir hastig deine Belohnung. Gourmandus wendet sich ab.
-
-{LOOT}</DefaultText>
+Er gibt einer Leibwächterin ein Zeichen und sie übergibt dir hastig deine Belohnung. Gourmandus wendet sich ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
       <DefaultText>„Da bin ich erleichtert“, sagt er, während er sich wieder zur vollen Höhe aufrichtet und einer Leibwächterin ein Zeichen gibt. Sie übergibt dir hastig deine Belohnung.
 
-Gourmandus wendet sich von dir ab und lässt den Blick über sein unterirdisches Reich schweifen.
-{LOOT}</DefaultText>
+Gourmandus wendet sich von dir ab und lässt den Blick über sein unterirdisches Reich schweifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -989,8 +984,7 @@ Er streckt eine mit Ringen bestückte Hand aus. „Es kostet [Global: a2301_Brib
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>„Hier, Eure Shin.“
-{MONEY}</DefaultText>
+      <DefaultText>„Hier, Eure Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1150,9 +1144,7 @@ Er zieht die Augenbraue hoch. „Wie geht es Euch, Tybir?“</DefaultText>
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>„Oh, gut gut“, sagt Tybir, und leckt sich über die Lippen. „Lange nicht gesehen, Gourmandus. Wegen des… äh, Geschäfts. Ihr habt das doch hoffentlich nicht persönlich genommen.“
-
-{TYBIR}</DefaultText>
+      <DefaultText>„Oh, gut gut“, sagt Tybir, und leckt sich über die Lippen. „Lange nicht gesehen, Gourmandus. Wegen des… äh, Geschäfts. Ihr habt das doch hoffentlich nicht persönlich genommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1456,9 +1448,7 @@ Er sieht über deinen Kopf hinweg. „In der Zwischenzeit suchen wir einen Mörd
 
 „Kiyatawa war bereits verschwunden“, sagt er. „Sie ahnte wohl, dass Ihr nahe dran wart, sie zu überführen. Also ist sie geflohen und wird wohl nicht zurückkommen.“ Er knurrt tief. „Falls Ihr ihr je über den Weg läuft, *bitte* macht mit ihr dasselbe, was sie mit meinen Leuten gemacht hat.“
 
-Er gibt einer Leibwächterin ein Zeichen und sie übergibt dir hastig deine Belohnung. Gourmandus wendet sich ab.
-
-{LOOT}</DefaultText>
+Er gibt einer Leibwächterin ein Zeichen und sie übergibt dir hastig deine Belohnung. Gourmandus wendet sich ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

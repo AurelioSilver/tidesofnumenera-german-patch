@@ -36,39 +36,32 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„Ist das dein Ernst, Junge?“
-{ALIGERN}</DefaultText>
-      <FemaleText>„Ist das dein Ernst, Mädchen?“
-{ALIGERN}</FemaleText>
+      <DefaultText>„Ist das dein Ernst, Junge?“</DefaultText>
+      <FemaleText>„Ist das dein Ernst, Mädchen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Verbeuge dich nie vor einem Konstrukt. Das bringt sie auf Ideen.“
-{CALLISTEGE}</DefaultText>
+      <DefaultText>„Verbeuge dich nie vor einem Konstrukt. Das bringt sie auf Ideen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Was tust du?“, zischt er. „Wir sollten zum Angriff eilen. Eilen!“
-{ERRITIS}</DefaultText>
+      <DefaultText>„Was tust du?“, zischt er. „Wir sollten zum Angriff eilen. Eilen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Ähm. Soll ich mich auch verbeugen?“
-{RHIN}</DefaultText>
+      <DefaultText>„Ähm. Soll ich mich auch verbeugen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Matkina verschränkt die Arme und beobachtet euch beide mit Interesse.
-{MATKINA}</DefaultText>
+      <DefaultText>Matkina verschränkt die Arme und beobachtet euch beide mit Interesse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Tybir macht es dir sofort nach, doch als er sich wieder aufrichtet, wirft er dir einen verwunderten Blick zu.
-{TYBIR}</DefaultText>
+      <DefaultText>Tybir macht es dir sofort nach, doch als er sich wieder aufrichtet, wirft er dir einen verwunderten Blick zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,9 +215,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„Verziere meinen Körper mit deinen widerlichen Flüssigkeiten, Fleischläufer!“
-{SCRIPT: Combat begins}
-{SCRIPT: Plays if the PC trespasses.}</DefaultText>
+      <DefaultText>„Verziere meinen Körper mit deinen widerlichen Flüssigkeiten, Fleischläufer!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

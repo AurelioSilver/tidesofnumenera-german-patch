@@ -528,8 +528,7 @@ Ihre Mimik verhärtet sich. „Ich teile mein Wissen gerne mit Euch, wenn Ihr mi
       <ID>94</ID>
       <DefaultText>„Ah, dieser Mechanismus“, sagt sie. „Ich würde Euch zu gerne helfen – wie ich es schon einmal getan habe – aber erst müsst Ihr mir mit meinem Problem entgegenkommen.“
 
-Ihr Stimme wird leiser. „Falls Ihr darüber nachdenkt, die anderen Mitglieder des Ordens einzubeziehen, seid vorsichtig – ich glaube, dass einer von ihnen ein Informant der Memovira ist. Zu viele unserer Funde wurden in letzter Zeit von ihren Schlägertrupps abgegriffen.“
-{JOURNAL: Should add a journal note about Salimeri mentioning there is a spy in the OoT, but not knowing who it is.}</DefaultText>
+Ihr Stimme wird leiser. „Falls Ihr darüber nachdenkt, die anderen Mitglieder des Ordens einzubeziehen, seid vorsichtig – ich glaube, dass einer von ihnen ein Informant der Memovira ist. Zu viele unserer Funde wurden in letzter Zeit von ihren Schlägertrupps abgegriffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -842,8 +841,7 @@ Du übergibst es, und sie bringt es sofort wieder an ihrem Arbeitsplatz unter.</
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>„Und jetzt, wo wir das erledigt hätten“, sagt sie, „bekommt Ihr eine Belohnung für Eure Mühen. Ich danke Euch.“
-{LOOT}</DefaultText>
+      <DefaultText>„Und jetzt, wo wir das erledigt hätten“, sagt sie, „bekommt Ihr eine Belohnung für Eure Mühen. Ich danke Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -858,8 +856,7 @@ Du übergibst es, und sie bringt es sofort wieder an ihrem Arbeitsplatz unter.</
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>„“
-{GAVIN: Implement later once Order of Truth is in. Blank globaled for now}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -898,8 +895,7 @@ Du übergibst es, und sie bringt es sofort wieder an ihrem Arbeitsplatz unter.</
 
 „Leiser“, flüstert sie. „Beeindruckend. Euer Vorgänger hätte es nicht besser machen können.“
 
-Sie übergibt dir eine schwere Tasche aus ihrer Arbeitsecke. „Ein kleiner Bonus. Bitte behaltet alles, was Ihr darin gelernt habt, für Euch, bis ich mein Buch veröffentlicht habe.“
-{LOOT}</DefaultText>
+Sie übergibt dir eine schwere Tasche aus ihrer Arbeitsecke. „Ein kleiner Bonus. Bitte behaltet alles, was Ihr darin gelernt habt, für Euch, bis ich mein Buch veröffentlicht habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -908,8 +904,7 @@ Sie übergibt dir eine schwere Tasche aus ihrer Arbeitsecke. „Ein kleiner Bonu
 
 „Leiser“, zischt sie. „Ich hätte nie gedacht, dass … ihr seid wirklich *bemerkenswert*. Ich würde Euch küssen, wenn ich nicht immer noch so sauer wäre.“
 
-Sie lächelt. „Nehmt das hier stattdessen. Und dann verschwindet.“
-{LOOT}</DefaultText>
+Sie lächelt. „Nehmt das hier stattdessen. Und dann verschwindet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1018,9 +1013,7 @@ Sie wendet sich halb von dir ab. „Oh, und Adahn war rücksichtslos. Vollkommen
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>„Ich danke Euch“, murmelt Qorro mit einem merkwürdigen Schulterklopfen. Im Vorübergehen überreicht er dir einen kleinen, klimpernden Beutel. „Könnte nicht behaupten, dass ich dasselbe für Euch getan hätte.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Ich danke Euch“, murmelt Qorro mit einem merkwürdigen Schulterklopfen. Im Vorübergehen überreicht er dir einen kleinen, klimpernden Beutel. „Könnte nicht behaupten, dass ich dasselbe für Euch getan hätte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

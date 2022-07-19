@@ -276,9 +276,7 @@ Sie streicht durch Zebbs Haare und beruhigt ihn. Er hat seine Arme fest um sich 
       <ID>59</ID>
       <DefaultText>„Also dann.“ Sie tritt in Zebbs Sichtlinie und hebt sein Kinn sanft mit einem Finger an, bis er sie schließlich ansieht.
 
-„Möchtest du uns irgendetwas sagen?“ Er schüttelt den Kopf und ballt seine Hände zu Fäusten. Er sieht aus, als würde er gleich anfangen zu weinen.
-
-{SOUND: Time gate activates and is buzzing in the background for subsequent nodes.}</DefaultText>
+„Möchtest du uns irgendetwas sagen?“ Er schüttelt den Kopf und ballt seine Hände zu Fäusten. Er sieht aus, als würde er gleich anfangen zu weinen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -390,9 +388,7 @@ Sie streicht durch Zebbs Haare und beruhigt ihn. Er hat seine Arme fest um sich 
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>„Könnt Ihr mir erzählen, was mit Rhin geschehen ist?“
-
-{SCRIPT: These nodes (81 and 82) should only appear if the player hasn't already found out what happened to Rhin from the Council Clerk.}</DefaultText>
+      <DefaultText>„Könnt Ihr mir erzählen, was mit Rhin geschehen ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -595,16 +591,12 @@ Sie dreht sich wieder zu Alcen und sagt, diesmal deutlich, „Vielleicht ist das
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>„Na gut“, sagt Alcen und steht langsam auf. „Wenn ihr mir beide folgen würdet, können wir beginnen.“
-
-{SCRIPT: On exit, we should pop the party and Alcen over the House of Empty Time. After this, Alcen will remain here permanently.}</DefaultText>
+      <DefaultText>„Na gut“, sagt Alcen und steht langsam auf. „Wenn ihr mir beide folgen würdet, können wir beginnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Das Tor erwacht unter Flackern zum Leben, und dieser Prozess wird von einem eindringlichen Summen begleitet. Rhin steht neben der Konstruktion, klein und blass. Sie sieht dir in die Augen und lächelt ein wenig.
-
-{SOUND: Time gate activates and is buzzing in the background for subsequent nodes.}</DefaultText>
+      <DefaultText>Das Tor erwacht unter Flackern zum Leben, und dieser Prozess wird von einem eindringlichen Summen begleitet. Rhin steht neben der Konstruktion, klein und blass. Sie sieht dir in die Augen und lächelt ein wenig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -644,14 +636,11 @@ Sie dreht sich wieder zu Alcen und sagt, diesmal deutlich, „Vielleicht ist das
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>„{Slightly uncertain; she's not sure this is what's best for her.}Danke. {As if realizing it for the first time}Ich … Ich glaube, jetzt heißt es Lebewohl.“
+      <DefaultText>„Ich … Ich glaube, jetzt heißt es Lebewohl.“
 
 Sie wirft ihre Haare zurück und schreitet ohne ein weiteres Wort nach vorne, in das Tor, und verschwindet schließlich in einem gleißenden Strahl aus hellem Licht.
 
-Für einige Augenblicke ist alles, was du hören kannst, das Klackern von abkühlendem Metall, während das Tor sich wieder in seinen Schlummer begibt. Nach einiger Zeit verschwindet Rhins Anblick vor deinem geistigen Auge.
-
-{SCRIPT: Rhin disappears through the gate and gate shuts down.}
-{SOUND: Sound of time gate subsides, „tick of cooling metal“ as described in text.}</DefaultText>
+Für einige Augenblicke ist alles, was du hören kannst, das Klackern von abkühlendem Metall, während das Tor sich wieder in seinen Schlummer begibt. Nach einiger Zeit verschwindet Rhins Anblick vor deinem geistigen Auge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -836,9 +825,7 @@ Sie sieht dir jetzt in die Augen, und du kannst erkennen, dass die Traurigkeit i
       <ID>166</ID>
       <DefaultText>Das Tor erwacht unter Flackern zum Leben, und dieser Prozess wird von einem eindringlichen Summen begleitet. Zebb steht neben dem Tor und starrt in das flackernde Licht. Alcen stellt sich zwischen ihn und das Tor und wirft dadurch einen Schatten auf ihn.
 
-„Möchtest du uns irgendetwas sagen?“ Er schüttelt den Kopf und ballt seine Hände zu Fäusten. Er sieht aus, als würde er gleich anfangen zu weinen.
-
-{SOUND: Time gate activates and is buzzing in the background for subsequent nodes.}</DefaultText>
+„Möchtest du uns irgendetwas sagen?“ Er schüttelt den Kopf und ballt seine Hände zu Fäusten. Er sieht aus, als würde er gleich anfangen zu weinen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

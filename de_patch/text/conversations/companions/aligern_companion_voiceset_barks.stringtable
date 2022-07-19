@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>{angry} „Du bist als Nächstes dran!“</DefaultText>
+      <DefaultText>„Du bist als Nächstes dran!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>{urgent} „Siehst du diese Ventile? Rein mit dir – wir bringen dich hin!“</DefaultText>
+      <DefaultText>„Siehst du diese Ventile? Rein mit dir – wir bringen dich hin!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>{grim, determined}„Ja!“</DefaultText>
+      <DefaultText>„Ja!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>{pained}„Das war nicht Teil des Plans.“</DefaultText>
+      <DefaultText>„Das war nicht Teil des Plans.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,12 +271,12 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>{gasping}„Noch nicht fertig … nicht tot …“</DefaultText>
+      <DefaultText>„Noch nicht fertig … nicht tot …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>{gasping} „Du hast mich … hintergangen.“</DefaultText>
+      <DefaultText>„Du hast mich … hintergangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>{grim} „Du wolltest es so.“</DefaultText>
+      <DefaultText>„Du wolltest es so.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>{pissed off} „*Das* ist es, was du willst?“</DefaultText>
+      <DefaultText>„*Das* ist es, was du willst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,7 +381,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>{through gritted teeth} „Mir geht's gut.“</DefaultText>
+      <DefaultText>„Mir geht's gut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -461,7 +461,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>{short, sharp} „Ha!“</DefaultText>
+      <DefaultText>„Ha!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,7 +541,7 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>{frown} „Werde diesen alten Geier bestimmt nicht vermissen.“</DefaultText>
+      <DefaultText>„Werde diesen alten Geier bestimmt nicht vermissen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -641,8 +641,8 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>{urgent} „Lass mich nicht sterben, Verstoßener.“</DefaultText>
-      <FemaleText>{urgent} „Lass mich nicht sterben, Verstoßene.“</FemaleText>
+      <DefaultText>„Lass mich nicht sterben, Verstoßener.“</DefaultText>
+      <FemaleText>„Lass mich nicht sterben, Verstoßene.“</FemaleText>
     </Entry>
     <Entry>
       <ID>129</ID>

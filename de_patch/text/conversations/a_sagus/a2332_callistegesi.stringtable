@@ -86,11 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Du spürst ein Kribbeln im Schädel. Plötzlich beginnt sich deine rechte Hand wie von selbst zu bewegen und geht in einer hektischen, aber zielgerichteten Art nach unten auf den Boden. Neben deinen Füßen öffnet sich ein Fach im Steinboden. Darin befindet sich ein in Leder gebundenes Tagebuch.
-
-{SFX: sliding stone}
-
-{LOOT}</DefaultText>
+      <DefaultText>Du spürst ein Kribbeln im Schädel. Plötzlich beginnt sich deine rechte Hand wie von selbst zu bewegen und geht in einer hektischen, aber zielgerichteten Art nach unten auf den Boden. Neben deinen Füßen öffnet sich ein Fach im Steinboden. Darin befindet sich ein in Leder gebundenes Tagebuch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -254,11 +250,7 @@ Während sie die Seiten durchblättert, erst langsam, dann zügiger, kannst du D
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Du spürst ein Jucken an der Basis deines Schädels. Plötzlich bewegt sich deine rechte Hand eigenständig, wobei sie in einer wahnsinnigen, jedoch zweckdienlichen Reihe von Bewegungen nach unten schlägt, um den Boden zu berühren. Neben deinem Fuß öffnet sich ein Steinfach. Darin befindet sich ein ledergebundenes Tagebuch.
-
-{SFX: sliding stone}
-
-{LOOT}</DefaultText>
+      <DefaultText>Du spürst ein Jucken an der Basis deines Schädels. Plötzlich bewegt sich deine rechte Hand eigenständig, wobei sie in einer wahnsinnigen, jedoch zweckdienlichen Reihe von Bewegungen nach unten schlägt, um den Boden zu berühren. Neben deinem Fuß öffnet sich ein Steinfach. Darin befindet sich ein ledergebundenes Tagebuch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

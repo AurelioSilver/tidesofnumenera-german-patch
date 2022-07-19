@@ -139,9 +139,7 @@ Sie verstummt wieder.</DefaultText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>„Das haben wir im Labor deines Erzeugers gesehen“, sagt sie langsam und sieht dich an. „Wenn du richtig liegst, hilft dieses Numenera mir nicht weiter.“ Sie ist einige Momente lang still.
-
-{SCRIPT: Conditional – PC took Callistege to the Buried Crossroads.}</DefaultText>
+      <DefaultText>„Das haben wir im Labor deines Erzeugers gesehen“, sagt sie langsam und sieht dich an. „Wenn du richtig liegst, hilft dieses Numenera mir nicht weiter.“ Sie ist einige Momente lang still.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -584,9 +582,7 @@ Du hörst erneut zu spielen auf, als die Kopfschmerzen zu stark werden.</Default
 
 Sie legt die Finger auf die Saiten und konzentriert sich. Einige ihrer solideren Echos beugen sich zu ihr und flüstern ihr etwas ins Ohr. Sie lächelt und murmelt etwas zurück. Sie beginnt, die Saiten anzuschlagen.
 
-Die Töne sind kristallisch, wie aus einer anderen Welt. Sie fahren dir in Mark und Bein. Nach einigen zögerlichen Tönen ist Callistege vertraut genug mit dem Instrument, um eine eindringliche Melodie in Moll zu spielen.
-
-{AUDIO: Something like a harp, only pitchshifted and modulated so that it sounds almost like windchimes}</DefaultText>
+Die Töne sind kristallisch, wie aus einer anderen Welt. Sie fahren dir in Mark und Bein. Nach einigen zögerlichen Tönen ist Callistege vertraut genug mit dem Instrument, um eine eindringliche Melodie in Moll zu spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -313,9 +313,7 @@ Solange du die Kugel innerhalb dieses Radius behältst – wie jetzt gerade – 
       <ID>60</ID>
       <DefaultText>Nachdem sie wieder in den Rahmen gesetzt wurde, bebt die Kugel leicht und beginnt, immer wieder und immer schneller durch die verschiedenen Farben zu wechseln. Als deine Augen kaum noch mit den wechselnden Farben mithalten können, leuchtet ein Blitz auf, der dich vorübergehend blendet.
 
-Als du deine Sicht wiedererlangst, ist die Kugel verschwunden und an ihrer Stelle befindet sich ein Gegenstand unbekannter Form.
-
-{LOOT}</DefaultText>
+Als du deine Sicht wiedererlangst, ist die Kugel verschwunden und an ihrer Stelle befindet sich ein Gegenstand unbekannter Form.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -415,9 +413,7 @@ Als du deine Sicht wiedererlangst, ist die Kugel verschwunden und an ihrer Stell
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Plötzlich blitzt die Kugel mit einem blendenden Licht auf. Als du wieder sehen kannst, befindet sich die Kugel wieder im Rahmen und in deiner Hand befindet sich ein merkwürdiges Objekt.
-
-{LOOT}</DefaultText>
+      <DefaultText>Plötzlich blitzt die Kugel mit einem blendenden Licht auf. Als du wieder sehen kannst, befindet sich die Kugel wieder im Rahmen und in deiner Hand befindet sich ein merkwürdiges Objekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

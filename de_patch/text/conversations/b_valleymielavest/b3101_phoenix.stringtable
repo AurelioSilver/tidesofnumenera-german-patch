@@ -115,9 +115,7 @@ Die Tatsache, dass er mitten im Tal steht – alleine und sicher – unterstütz
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>„Wollt Ihr gegen mich kämpfen?“
-
-{SCRIPT: If we don't have the Tussle for Phoenix, eliminate this branch}</DefaultText>
+      <DefaultText>„Wollt Ihr gegen mich kämpfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,8 +179,7 @@ Etwas an ihm *pulsiert*, beinahe ein Unterschallschlag, und Ihr taumelt leicht. 
       <ID>34</ID>
       <DefaultText>„Ihr habt den Verstand eines Suchenden. Nicht nur den eines Forschers. Ja. Ihr dürft die Notiz haben.“
 
-Er übergibt Euch ein Stück graviertes Synth. „Gebt sie zurück, wenn Ihr in der Lage seid, meine Antwort zu finden.“
-{LOOT}</DefaultText>
+Er übergibt Euch ein Stück graviertes Synth. „Gebt sie zurück, wenn Ihr in der Lage seid, meine Antwort zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -373,9 +370,7 @@ Er führt eine interne Inventur durch. „Nein. Ich bin … ein bestimmter Scha
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>„Ihr … Ihr habt Euch ein Geschenk verdient, ehe ich gehe. Ihr habt Euch als Schüler erwiesen. Im Falle von Fragen, auf die Ihr keine Antwort hattet, habt Ihr weitere Fragen gestellt. Viele sagen mir, was ich tun soll. Sie wünschen sich, mir eine Meinung aufzuzwingen. Aber Ihr habt Fragen erzwungen. Also bitte sehr. Nehmt dies.“
-
-{LOOT: Artifact}</DefaultText>
+      <DefaultText>„Ihr … Ihr habt Euch ein Geschenk verdient, ehe ich gehe. Ihr habt Euch als Schüler erwiesen. Im Falle von Fragen, auf die Ihr keine Antwort hattet, habt Ihr weitere Fragen gestellt. Viele sagen mir, was ich tun soll. Sie wünschen sich, mir eine Meinung aufzuzwingen. Aber Ihr habt Fragen erzwungen. Also bitte sehr. Nehmt dies.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -414,10 +409,7 @@ Er winkt abfällig ab.</DefaultText>
       <ID>79</ID>
       <DefaultText>Er atmet ein und Ihr habt das Gefühl, als würde sich die Welt um ihn herum zusammenziehen. „Fangen wir an.“
 
-Und dann springt er in einer verschwommenen Geste zum Angriff!
-
-{SCRIPT: Start Tussle with Phoenix}
-{TUSSLE: }</DefaultText>
+Und dann springt er in einer verschwommenen Geste zum Angriff!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -487,9 +479,7 @@ Ein fernes Zischen ist der einzige Hinweis auf seine Reise.</DefaultText>
 
 „Doch Ihr seid gewillt zu *wissen*, und wenn Ihr Eure und meine geistige Gesundheit riskieren würdet, um diese Antworten zu enthüllen, dann glaube ich Eurer Entschlossenheit.“
 
-Er übergibt dir ein Stück graviertes Synth. „Gebt sie zurück, wenn Ihr in der Lage seid, meine Antwort zu finden.“
-
-{LOOT}</DefaultText>
+Er übergibt dir ein Stück graviertes Synth. „Gebt sie zurück, wenn Ihr in der Lage seid, meine Antwort zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

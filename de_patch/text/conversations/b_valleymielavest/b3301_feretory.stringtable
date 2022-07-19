@@ -8,9 +8,7 @@
       <ID>1</ID>
       <DefaultText>Der Wind um diese Struktur ist seltsam feucht. Die Struktur gibt einen Geruch ab, den du nicht bestimmen kannst … ein unbekanntes Fleisch vielleicht, das im Sonnenlicht verfault.
 
-Und da ist etwas Anderes. Ein beißendes, stilles Kribbeln, das in der Luft hängt. Das Gefühl von Stärke, in Reserve gehalten.
-
-{COLIN (and possibly others): Setting global here so the PC can ask other people about this weird thing, as described in the ZDD. May not end up being necessary, but seems like it'd be a good thing to have.}</DefaultText>
+Und da ist etwas Anderes. Ein beißendes, stilles Kribbeln, das in der Luft hängt. Das Gefühl von Stärke, in Reserve gehalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,10 +83,7 @@ Sie schnupft. „Fühlt sich unangenehm genug an, oder?“</DefaultText>
 
 Dein Augenlicht schwindet und du fällst, stürzt in eine bodenlose Finsternis durch Wolken aus schleimigen, bohrenden Körpern. Sie stöbern an deinen Lippen, saugen an der Feuchtigkeit um deinen Lippen und kratzen eindringlich an deinen Augenlidern…
 
-Irgendetwas umklammert dein Herz und *zerdrückt* es. Das ist das Letzte, was du spürst.
-
-{SOUND: PC screaming.}
-{SOUND: Slimy movement noises, matching the icky description above.}</DefaultText>
+Irgendetwas umklammert dein Herz und *zerdrückt* es. Das ist das Letzte, was du spürst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,10 +110,7 @@ Irgendetwas umklammert dein Herz und *zerdrückt* es. Das ist das Letzte, was du
       <ID>20</ID>
       <DefaultText>Nochmals zwingst du deine Hand durch die abstoßenden Wellen und auf die Struktur. Du wirst sofort blind und spürst, wie du in eine bodenlose Finsternis durch schleimige, bohrende Körper fällst.
 
-Irgendetwas *kraftvolles* zerdrückt dein Herz in deiner Brust und dann spürst du nichts.
-
-{SOUND: PC screaming.}
-{SOUND: Slimy movement noises, matching the icky description above.}</DefaultText>
+Irgendetwas *kraftvolles* zerdrückt dein Herz in deiner Brust und dann spürst du nichts.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

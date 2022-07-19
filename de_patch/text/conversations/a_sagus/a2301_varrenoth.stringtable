@@ -67,11 +67,7 @@ Die Finger an der rechten Hand der Frau wackeln, als ob sie ein Instrument spiel
       <ID>12</ID>
       <DefaultText>„Hallo! Kann irgendjemand hören, was ich sage? Ah, ich bring das einfach nicht zum Laufen!“ Ohne Vorwarnung fährt sie umher und schlägt einen Krater in die Wand.
 
-„Oh. Oh nein. Ich hoffe, das hat niemand gesehen.“
-
-{ANIM: NPC schlägt in die Wand.}
-{VFX: B-Priorität – Wenn möglich fliegen Steinstücke aus der Wand, wenn sie darauf einschlägt.}
-{TON: BUMM und KRACH}</DefaultText>
+„Oh. Oh nein. Ich hoffe, das hat niemand gesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

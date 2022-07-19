@@ -11,16 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Diese Dunkelheit ist … ermüdend. Es ist Zeit, zu schlafen …“
-
-{SCRIPT: Wenn der Spieler zum ersten Mal mit ihm in der Nacht redet, sollte er diesen Knotenpunkt spielen und dann ohnmächtig werden (bis der Tag hereinbricht). Wenn danach die Nacht hereinbricht, sollte er immer einfach automatisch ohnmächtig werden, sobald der Übergang passiert.}</DefaultText>
+      <DefaultText>„Diese Dunkelheit ist … ermüdend. Es ist Zeit, zu schlafen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>::zzz::
-
-{SCRIPT: Dieser Knotenpunkt sollte sich abspielen, wenn der grüne Mann nicht bei Bewusstsein ist und schläft. Sobald die Bedingung eingestellt ist, muss dieser Knotenpunkt über Knotenpunkt 1 gesetzt werden.}</DefaultText>
+      <DefaultText>::zzz::</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

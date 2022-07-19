@@ -77,9 +77,7 @@ Silver tritt vor, mustert den Mann und berührt dann die Stirn dieses neuen Kör
 
 Er reißt einige Teile heraus und übergibt dir ein kompliziertes Gebilde aus Scheiben mit einer Spitze. „Das sollte dir gute Dienste erweisen“, murmelt er. „Lasse den Apparat nun zu Staub zerfallen!“
 
-Er betätigt einen Schalter im Inneren und die Hülle beginnt sich aufzulösen.
-
- {LOOT: Give cool artifact}</DefaultText>
+Er betätigt einen Schalter im Inneren und die Hülle beginnt sich aufzulösen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -585,9 +583,7 @@ Bald darauf beginnt der Körper zu seinen Füßen zu Staub zu zerfallen.</Defaul
 
 „Das sollte dir gute Dienste erweisen“, sagt er. „Leider wird der Körper jetzt jeden Moment zu Staub zerfallen.“
 
-Beinahe unmittelbar darauf passiert genau das.
-
-{LOOT: Give deadly cypher}</DefaultText>
+Beinahe unmittelbar darauf passiert genau das.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -145,9 +145,7 @@ Er lächelt, als du dich ihm näherst. „Grüße, Fremde. Ich bin Tantalum.“<
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Ihr seht aus, als würdet Ihr auch nach Antworten suchen. Es gibt hunderte, *tausende* Gräber in der Nekropolis. Die Legende besagt, wenn man sie erkundet, die Grabinschriften liest und von ihnen lernt, dann findet man die Antworten, nach denen man sucht.“ Er lächelt Euch warm an. „Ich verspreche, es wird sich für Euch lohnen.“
-
-{SCRIPT: Journal entry: „A man named Tantalum asked me to search the tombs and epitaphs of tombs in the Valley and Necropolis. He promised it would be 'worth my while'.“}</DefaultText>
+      <DefaultText>„Ihr seht aus, als würdet Ihr auch nach Antworten suchen. Es gibt hunderte, *tausende* Gräber in der Nekropolis. Die Legende besagt, wenn man sie erkundet, die Grabinschriften liest und von ihnen lernt, dann findet man die Antworten, nach denen man sucht.“ Er lächelt Euch warm an. „Ich verspreche, es wird sich für Euch lohnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -335,9 +333,7 @@ Er hält inne und tippt sich ans Kinn. „Ich hätte mir vielleicht überlegen s
       <ID>69</ID>
       <DefaultText>„Die Wahrheit ist: Ich habe nur ein Spiel gespielt. Das tue ich mit jedem, der in das Tal kommt und auf der Suche nach Geheimnissen oder tiefergehender Wahrheit ist. Sie sagen: 'Oh Tantalum, sagt mir, was Ihr hier entdeckt habt!' Doch hier sind keine tiefgehenden Geheimnisse zu finden. Nur Erinnerungen an die Toten. Das große Geheimnis? Die Memorialisten sind Carker und der Tod ist unvermeidlich. Und vielleicht solltet Ihr nicht jedem trauen, der Euch sagt, er könne Euch bei Eurer Suche helfen.“
 
-Er lächelt ein wenig traurig. „Kein wirkliches Geheimnis, aber das ist, was ich weiß.“
-
- {SCRIPT: Add note to Journal: „Tantalum has admitted that he was lying to me about the secrets of the tombs.“}</DefaultText>
+Er lächelt ein wenig traurig. „Kein wirkliches Geheimnis, aber das ist, was ich weiß.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -814,9 +810,7 @@ Er wendet sich Euch wieder zu. „Also. Sobald Ihr diesen Ort durchsucht, sollte
 
 Er starrt in die Ferne. „Versucht den Grabcode 3-5-4-3. Das könnte der Richtige sein.“
 
-Er wendet sich Euch wieder zu. „Also. Was kann ich sonst noch für Euch tun?“
-
-{ADAM: Tomb code is in here}</DefaultText>
+Er wendet sich Euch wieder zu. „Also. Was kann ich sonst noch für Euch tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

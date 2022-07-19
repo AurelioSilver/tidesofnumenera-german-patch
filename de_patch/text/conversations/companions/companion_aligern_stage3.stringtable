@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>{diffident}„Ich freue mich, dass wir bei dem Denkmal für Ormen Halt machen können. Mein letzter Besuch ist bereits zu lange her.“</DefaultText>
+      <DefaultText>„Ich freue mich, dass wir bei dem Denkmal für Ormen Halt machen können. Mein letzter Besuch ist bereits zu lange her.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -397,9 +397,7 @@ Sein Ton wird härter. „Und ich meine.“</DefaultText>
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>„Während wir im Tal sind … Es gibt einen Ort, den ich gern besuchen würde. Das Monument meines Dorfes. Ich war da schon lange nicht mehr, ich muss meinen Respekt zollen. Es ist nicht weit von hier, es liegt also nicht weit weg vom Weg.“
-
-{SCRIPT: After the encounter with Ronos and Beltrax, please set Aligern Wants to Talk = True}</DefaultText>
+      <DefaultText>„Während wir im Tal sind … Es gibt einen Ort, den ich gern besuchen würde. Das Monument meines Dorfes. Ich war da schon lange nicht mehr, ich muss meinen Respekt zollen. Es ist nicht weit von hier, es liegt also nicht weit weg vom Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

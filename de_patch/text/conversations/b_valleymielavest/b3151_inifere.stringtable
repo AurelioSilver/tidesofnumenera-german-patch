@@ -15,9 +15,7 @@
 
 Er sieht dich mit blutunterlaufenen Augen und fiebrig-irrem Blick an. Innerhalb seines Wahns spürst du jedoch einen harten, klaren Kern, so wie die reinen schwarzen Pupillen inmitten der blutunterlaufenen Augen.
 
-Sein Ton ist heiser und gefährlich. „Du bist zu weit gekommen. Viel zu weit. Es gibt kein Entkommen. *Niemand* entkommt der Pforte.“
-
-{WORD PLAY: Note, Inifere's dialogue has extensive wordplay throughout. Happy to document each instance if needed.}</DefaultText>
+Sein Ton ist heiser und gefährlich. „Du bist zu weit gekommen. Viel zu weit. Es gibt kein Entkommen. *Niemand* entkommt der Pforte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -32,9 +30,7 @@ Sein Ton ist heiser und gefährlich. „Du bist zu weit gekommen. Viel zu weit. 
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Inifere weicht mit ungeahnter Flinkheit aus und der Kampf beginnt.
-
-{CRISIS: Resume Crisis}</DefaultText>
+      <DefaultText>Inifere weicht mit ungeahnter Flinkheit aus und der Kampf beginnt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -283,15 +279,9 @@ Er bleckt seine kaputten Zähne in einem freudlosen Lächeln. „Aber ich bin sc
       <ID>60</ID>
       <DefaultText>Doch bevor du dich noch an deine Rückkehr gewöhnen kannst, schreit dich Inifere an und sein Speichel fliegt dir ins Gesicht: „Frevler! Eindringling! Lügner!“
 
-Er greift dich sofort an.
-
-{CRISIS: Resume Crisis}
-{NOTE: This conditional can be adjusted to make it harder to trigger this outcome.}</DefaultText>
+Er greift dich sofort an.</DefaultText>
       <FemaleText>Doch bevor du dich noch an deine Rückkehr gewöhnen kannst, schreit dich Inifere an und sein Speichel fliegt dir ins Gesicht: „Schänderin! Frevlerin! Lügnerin!“
-Er greift dich sofort an.
-
-{CRISIS: Resume Crisis}
-{NOTE: This conditional can be adjusted to make it harder to trigger this outcome.}</FemaleText>
+Er greift dich sofort an.</FemaleText>
     </Entry>
     <Entry>
       <ID>61</ID>
@@ -645,9 +635,7 @@ Inifere wurde geschaffen, um diese Qualen zu erdulden, aber du nicht. Mit der Ze
 
 Aber dein Bruder hört dich. Er verzieht das Gesicht, das einzige äußere Zeichen seiner Anstrengung. Die Gezeiten beruhigen sich langsam wieder und das *Ding* am Rande deines Bewusstseins zieht sich zurück. Oder vielleicht ist es dein Geist, der sich zurückzieht. In jedem Fall ist die Gefahr vorüber.
 
-„Und wieder werde ich mit Pein für die fruchtlose Tändelei meiner saumseligen Sippschaft bezahlen müssen.“
-
-{Alternatively, we could have this start the Crisis again, or perhaps have it be a DT:Int thing where if you fail it starts the Crisis again.}</DefaultText>
+„Und wieder werde ich mit Pein für die fruchtlose Tändelei meiner saumseligen Sippschaft bezahlen müssen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -877,14 +865,10 @@ Er sieht dir in die Augen. „Sprich *nie* mehr von ihr oder ich ziehe dir die H
       <ID>169</ID>
       <DefaultText>Inifere schließt die Augen. Als er sie wieder öffnet, ist kein Wahnsinn mehr in seinem Blick. Nur funkelnder Hass.
 
-„Ich habe dich gewarnt, Brüderchen. Du hast gewählt.“
-
-{CRISIS: Resume Crisis}</DefaultText>
+„Ich habe dich gewarnt, Brüderchen. Du hast gewählt.“</DefaultText>
       <FemaleText>Inifere schließt die Augen. Als er sie wieder öffnet, ist kein Wahnsinn mehr in seinem Blick. Nur funkelnder Hass.
 
-„Ich habe dich gewarnt, Schwesterchen. Du hast gewählt.“
-
-{CRISIS: Resume Crisis}</FemaleText>
+„Ich habe dich gewarnt, Schwesterchen. Du hast gewählt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>170</ID>
@@ -1113,9 +1097,7 @@ Er bleckt die Zähne. „Mir macht das nichts, Schwesterchen. Ich habe schon sch
       <ID>206</ID>
       <DefaultText>Dann verstummen die Stimmen und deine Sinne kommen zurück: Du hörst das Scharren deiner Füße auf Stein, das Pochen deines Herzens in deinem Ohr.
 
-Du bist zurück wo du warst, bevor du die Endlose Pforte betreten hast. Die Pforte ist verschwunden. Und Inifere ebenso.
-
-{NOTE: Ends the conversation, ends the Crisis, Inifere leaves the VoDH, TEH quest is completed, TSC quest is failed if active. Move party back to Marcysa's tomb / entry to The Endless Gate. Gate is now closed, Inifere is now gone.}</DefaultText>
+Du bist zurück wo du warst, bevor du die Endlose Pforte betreten hast. Die Pforte ist verschwunden. Und Inifere ebenso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1125,12 +1107,8 @@ Du bist zurück wo du warst, bevor du die Endlose Pforte betreten hast. Die Pfor
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>„Nun wirst du sehen, wohin deine Lügen dich gebracht haben, Brüderchen.“
-
-{CRISIS: Resume Crisis.}</DefaultText>
-      <FemaleText>„Nun wirst du sehen, wohin deine Lügen dich gebracht haben, Schwesterchen.“
-
-{CRISIS: Resume Crisis.}</FemaleText>
+      <DefaultText>„Nun wirst du sehen, wohin deine Lügen dich gebracht haben, Brüderchen.“</DefaultText>
+      <FemaleText>„Nun wirst du sehen, wohin deine Lügen dich gebracht haben, Schwesterchen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>212</ID>
@@ -1145,18 +1123,14 @@ Du spürst, wie sich etwas in der Luft um dich herum und im Boden unter deinen F
 
 „Die Ebene durchschreitet man nicht umsonst auf diesem Weg. Der Preis wird in Pein bezahlt, ein Wegzoll, für den die Seele leiden soll.“
 
-Er seufzt und macht sich bereit. „Und ich muss ihn eintreiben.“
-
-{CRISIS: Resume Crisis}</DefaultText>
+Er seufzt und macht sich bereit. „Und ich muss ihn eintreiben.“</DefaultText>
       <FemaleText>Inifere schüttelt den Kopf. „Wohl leben? Ich denke nicht, Schwesterchen. Ich fürchte, wir werden sehr unwohl leben.“
 
 Du spürst, wie sich etwas in der Luft um dich herum und im Boden unter deinen Füßen verschiebt. Ein Poltern, das du gerade nicht hören kannst, Worte, die du nur fast verstehst.
 
 „Die Ebene durchschreitet man nicht umsonst auf diesem Weg. Der Preis wird in Pein bezahlt, ein Wegzoll, für den die Seele leiden soll.“
 
-Er seufzt und macht sich bereit. „Und ich muss ihn eintreiben.“
-
-{CRISIS: Resume Crisis}</FemaleText>
+Er seufzt und macht sich bereit. „Und ich muss ihn eintreiben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>215</ID>
@@ -1468,9 +1442,7 @@ Er öffnet die Augen. „Und dann wache ich auf.“</DefaultText>
       <ID>257</ID>
       <DefaultText>Wieder scheint Inifere deine Antwort kaum wahrzunehmen. Er blinzelt einige Male und schüttelt den Kopf, wie um den Geist freizubekommen.
 
-„Du willst, dass ich die Pforte schließe? Überzeug mich – ist das tatsächlich die Bedeutung meines Traums?“
-
-{ADAM/COLIN/GEORGE: Do you think we should have a Tidal Surge option here? I kind of think yes?}</DefaultText>
+„Du willst, dass ich die Pforte schließe? Überzeug mich – ist das tatsächlich die Bedeutung meines Traums?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1538,16 +1510,12 @@ Er schüttelt den Kopf. „Ich halte nichts von deinem Diktat, Schwester. Es ste
 
 „Aber dies ist meine Zuflucht, frei von dem Räuber, der meine Ruhe mir zu rauben sucht. Also lass uns sehen, ob das Geschick, das du aus meinem Traum gedeutet hast, mich ereilen wird oder nicht.“
 
-Inifere tritt einen Schritt zurück und macht sich zum Kampf bereit.
-
-{ADAM: Here and elsewhere (i.e., the first node) it mentions others being present. I have no idea how the crisis works well enough to know whether it's possible to get to Inifere with all the cultists dead. Let me know if this needs adjusting.}</DefaultText>
+Inifere tritt einen Schritt zurück und macht sich zum Kampf bereit.</DefaultText>
       <FemaleText>„Harte Worte, Schwesterchen, halb gehört. Hätte ich Angst, dann nicht hier, wo die dunkle Liebe dunkler Wesen erfüllt wie kräftige lange Finger den Handschuh.“ Er wirft den Kopf zurück und seine Halswirbel krachen wie Fingerknöchel.
 
 „Aber dies ist meine Zuflucht, frei von dem Räuber, der meine Ruhe mir zu rauben sucht. Also lass uns sehen, ob das Geschick, das du aus meinem Traum gedeutet hast, mich ereilen wird oder nicht.“
 
-Inifere tritt einen Schritt zurück und macht sich zum Kampf bereit.
-
-{ADAM: Here and elsewhere (i.e., the first node) it mentions others being present. I have no idea how the crisis works well enough to know whether it's possible to get to Inifere with all the cultists dead. Let me know if this needs adjusting.}</FemaleText>
+Inifere tritt einen Schritt zurück und macht sich zum Kampf bereit.</FemaleText>
     </Entry>
     <Entry>
       <ID>273</ID>
@@ -1589,9 +1557,7 @@ Er zuckt mit den Schultern. „Also bleibt dir mein Geist verschlossen, Schweste
       <ID>277</ID>
       <DefaultText>Schließlich öffnet Inifere die Augen. „Ja“, sagt er. „Die Pforte wird geschlossen. Du hast mir meine eigenen Gedanken ins Ohr geflüstert und sie sagen, ich muss diesen verfluchten Kreis durchbrechen, in dem mein Geist durchdreht.“
 
-„Ja“, wiederholt er, mehr zu sich selbst als zu dir.
-
-{NOTE: This conditional can be adjusted to make it easier or harder to properly interpret his dream.}</DefaultText>
+„Ja“, wiederholt er, mehr zu sich selbst als zu dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1613,9 +1579,7 @@ Er zuckt mit den Schultern. „Lass uns über andere Dinge sprechen.“</Default
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>„Lass uns Pein austauschen, Bruder.“
-
-{CRISIS: Resume Crisis.}</DefaultText>
+      <DefaultText>„Lass uns Pein austauschen, Bruder.“</DefaultText>
       <FemaleText>„Lass uns Pein austauschen, Schwesterchen.“</FemaleText>
     </Entry>
     <Entry>
@@ -1625,9 +1589,7 @@ Er zuckt mit den Schultern. „Lass uns über andere Dinge sprechen.“</Default
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Es ist jedoch noch etwas mit dir aus dem Lebensbild mitgekommen: Chois Bewusstsein, oder Geist, oder was auch immer du aus Inifere Geist befreit hast. Du spürst, wie sie sich zitternd irgendwo in dir versteckt. Dann scheint sie zu verschwinden.
-
-{MARK: What global is supposed to trigger this addendum?}</DefaultText>
+      <DefaultText>Es ist jedoch noch etwas mit dir aus dem Lebensbild mitgekommen: Chois Bewusstsein, oder Geist, oder was auch immer du aus Inifere Geist befreit hast. Du spürst, wie sie sich zitternd irgendwo in dir versteckt. Dann scheint sie zu verschwinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,16 +1618,12 @@ Er zuckt mit den Schultern. „Lass uns über andere Dinge sprechen.“</Default
 
 „Stets greifend, klammernd, reibend, mit List und Tücke meine Gedanken in eine Form zu hämmern, die dir dienlich ist. Nein.“ Er schüttelt den Kopf. „Nein, Bruder. Jetzt werden wir sehen, wie es dir gefällt, aufgeschlitzt zu werden.“
 
-Und damit bereitet er sich auf den Kampf vor.
-
-{CRISIS: Resume Crisis.}</DefaultText>
+Und damit bereitet er sich auf den Kampf vor.</DefaultText>
       <FemaleText>Einen Moment lang scheint Inifere nachzugeben. Dann grinst er breit und wölfisch und sein Blick wird irr. Er lacht.
 
 „Stets greifend, klammernd, reibend, mit List und Tücke meine Gedanken in eine Form zu hämmern, die dir dienlich ist. Nein.“ Er schüttelt den Kopf. „Nein, Schwester. Jetzt werden wir sehen, wie es dir gefällt, aufgeschlitzt zu werden.“
 
-Und damit bereitet er sich auf den Kampf vor.
-
-{CRISIS: Resume crisis.}</FemaleText>
+Und damit bereitet er sich auf den Kampf vor.</FemaleText>
     </Entry>
     <Entry>
       <ID>289</ID>
@@ -1673,16 +1631,12 @@ Und damit bereitet er sich auf den Kampf vor.
 
 Dann bricht er in ein breites Grinsen aus und fletscht seine kaputten Zähne. „Jene, die dich hierbehalten wollen, sind es, die entscheiden.“
 
-Und damit bereitet er sich auf den Kampf vor.
-
-{CRISIS: Resume crisis.}</DefaultText>
+Und damit bereitet er sich auf den Kampf vor.</DefaultText>
       <FemaleText>Inifere nickt und bedeutet dir zu gehen. Doch mitten in der Geste hält er inne und ballt die offene Hand zur Faust. „Tut mir leid, Schwester“, flüstert er.
 
 Dann bricht er in ein breites Grinsen aus und fletscht seine kaputten Zähne. „Jene, die dich hierbehalten wollen, sind es, die entscheiden.“
 
-Und damit bereitet er sich auf den Kampf vor.
-
-{CRISIS: Resume crisis.}</FemaleText>
+Und damit bereitet er sich auf den Kampf vor.</FemaleText>
     </Entry>
     <Entry>
       <ID>290</ID>
@@ -1693,14 +1647,10 @@ Und damit bereitet er sich auf den Kampf vor.
       <ID>291</ID>
       <DefaultText>Inifere macht ein finsteres Gesicht. „Im Tod endet nur der, der stirbt, Bruder. Lass uns sehen, wessen Sanduhr abgelaufen ist.“
 
-Und damit bereitet er sich auf den Kampf vor.
-
-{CRISIS: Resume Crisis.}</DefaultText>
+Und damit bereitet er sich auf den Kampf vor.</DefaultText>
       <FemaleText>Inifere macht ein finsteres Gesicht. „Im Tod endet nur der, der stirbt, Schwester. Lass uns sehen, wessen Sanduhr abgelaufen ist.“
 
-Und damit bereitet er sich auf den Kampf vor.
-
-{CRISIS: Resume Crisis.}</FemaleText>
+Und damit bereitet er sich auf den Kampf vor.</FemaleText>
     </Entry>
     <Entry>
       <ID>292</ID>

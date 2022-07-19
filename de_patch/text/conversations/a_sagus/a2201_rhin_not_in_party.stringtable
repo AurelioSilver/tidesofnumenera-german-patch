@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{Aufgeregt; der Spieler hat sie gerade vor den Sklavenhändlern gerettet} „Oh, Ihr Götter, ich *danke* Euch! Sie wollten mich zu dieser *Frau* zurückbringen. Ich habe noch nie jemanden getroffen, der so grausam ist. Als sie mich zum ersten Mal gefunden hatte, war sie sogar … {Räuspert sich und erinnert sich plötzlich an ihre Manieren} Entschuldigt. Ich bin noch immer … nicht ganz auf der Höhe. Ihr habt meinen Dank und meine Gunst, mein Herr.“</DefaultText>
-      <FemaleText>{Aufgeregt; der Spieler hat sie gerade vor den Sklavenhändlern gerettet} „Oh, Ihr Götter, ich *danke* Euch! Sie wollten mich zu dieser *Frau* zurückbringen. Ich habe noch nie jemanden getroffen, der so grausam ist. Als sie mich zum ersten Mal gefunden hatte, war sie sogar … {Räuspert sich und erinnert sich plötzlich an ihre Manieren} Entschuldigt. Ich bin noch immer … nicht ganz auf der Höhe. Ihr habt meinen Dank und meine Gunst, meine Dame.“</FemaleText>
+      <DefaultText>„Oh, Ihr Götter, ich *danke* Euch! Sie wollten mich zu dieser *Frau* zurückbringen. Ich habe noch nie jemanden getroffen, der so grausam ist. Als sie mich zum ersten Mal gefunden hatte, war sie sogar … Entschuldigt. Ich bin noch immer … nicht ganz auf der Höhe. Ihr habt meinen Dank und meine Gunst, mein Herr.“</DefaultText>
+      <FemaleText>„Oh, Ihr Götter, ich *danke* Euch! Sie wollten mich zu dieser *Frau* zurückbringen. Ich habe noch nie jemanden getroffen, der so grausam ist. Als sie mich zum ersten Mal gefunden hatte, war sie sogar … Entschuldigt. Ich bin noch immer … nicht ganz auf der Höhe. Ihr habt meinen Dank und meine Gunst, meine Dame.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -191,8 +191,8 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>{Schnell und aufgeregt, aber auch bewundernd, dass der SC am Leben ist} „Ich dachte, Ihr seid tot! Nachdem sie … Euch verletzt hatten, habe ich mich wieder versteckt, ich konnte Euch aber dort liegen sehen. Was Ihr getan habt, ich … {Holt tief Luft; wird langsamer} Ihr habt meinen Dank und meine Gunst, mein Herr. Wirklich.“ Sie lächelt schüchtern.</DefaultText>
-      <FemaleText>{Schnell und aufgeregt, aber auch bewundernd, dass der SC am Leben ist} „Ich dachte, Ihr seid tot! Nachdem sie … Euch verletzt hatten, habe ich mich wieder versteckt, ich konnte Euch aber dort liegen sehen. Was Ihr getan habt, ich … {Holt tief Luft; wird langsamer} Ihr habt meinen Dank und meine Gunst, meine Dame. Wirklich.“ Sie lächelt schüchtern.</FemaleText>
+      <DefaultText>„Ich dachte, Ihr seid tot! Nachdem sie … Euch verletzt hatten, habe ich mich wieder versteckt, ich konnte Euch aber dort liegen sehen. Was Ihr getan habt, ich … Ihr habt meinen Dank und meine Gunst, mein Herr. Wirklich.“ Sie lächelt schüchtern.</DefaultText>
+      <FemaleText>„Ich dachte, Ihr seid tot! Nachdem sie … Euch verletzt hatten, habe ich mich wieder versteckt, ich konnte Euch aber dort liegen sehen. Was Ihr getan habt, ich … Ihr habt meinen Dank und meine Gunst, meine Dame. Wirklich.“ Sie lächelt schüchtern.</FemaleText>
     </Entry>
     <Entry>
       <ID>43</ID>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„{Angemessen, ein höfliches Kind gegenüber einem Erwachsenen}Mein Name ist Rhin. Ihr dürft mein Haus und Herd und Brot nutzen. {Peinlich berührt}Nur, dass ich solche Dinge nicht habe.“ Sie errötet daraufhin und blickt verlegen um sich.</DefaultText>
+      <DefaultText>„Mein Name ist Rhin. Ihr dürft mein Haus und Herd und Brot nutzen. Nur, dass ich solche Dinge nicht habe.“ Sie errötet daraufhin und blickt verlegen um sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -695,9 +695,7 @@ Dann lacht sie hilflos, mit einem Hauch von bebender Panik, die sich in ihre Sti
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Gib ihr ein paar Shin.
-
-{GELD}</DefaultText>
+      <DefaultText>Gib ihr ein paar Shin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -31,8 +31,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„“
-{GAVIN: Gating with blank global for now. This is another Order of Truth faction quest branch. Disable this node when a conclusion is reached in one of the branches.}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,8 +207,7 @@ Er zwinkert dir erneut zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„“
-{GAVIN: Add new CharacterWitness variable to account for him changing his mind.}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -18,16 +18,13 @@ Das sind Murden – grausame und hinterlistige Aasfresser. Und ein Fünfter von 
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Pass auf, wo du hingehst“, murrt Aligern. „Ich weiß nicht, was sie hier wollen, aber ich habe noch keinen Schlammvogel gesehen, der nicht auf leichte Beute aus war.“
-{ALIGERN}</DefaultText>
+      <DefaultText>„Pass auf, wo du hingehst“, murrt Aligern. „Ich weiß nicht, was sie hier wollen, aber ich habe noch keinen Schlammvogel gesehen, der nicht auf leichte Beute aus war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Meine Güte“, sagt Callistege. „Dulsen. Ich frage mich, was sie in Salimeris kleiner Gruft machen. Sei vorsichtig, Liebling. Sie sind unberechenbar und brutal.“
-{CALLISTEGE}</DefaultText>
-      <FemaleText>„Meine Güte“, sagt Callistege. „Dulsen. Ich frage mich, was sie in Salimeris kleiner Gruft machen. Sei vorsichtig, Liebes. Sie sind unberechenbar und brutal.“
-{CALLISTEGE}</FemaleText>
+      <DefaultText>„Meine Güte“, sagt Callistege. „Dulsen. Ich frage mich, was sie in Salimeris kleiner Gruft machen. Sei vorsichtig, Liebling. Sie sind unberechenbar und brutal.“</DefaultText>
+      <FemaleText>„Meine Güte“, sagt Callistege. „Dulsen. Ich frage mich, was sie in Salimeris kleiner Gruft machen. Sei vorsichtig, Liebes. Sie sind unberechenbar und brutal.“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -36,8 +33,7 @@ Das sind Murden – grausame und hinterlistige Aasfresser. Und ein Fünfter von 
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Murden“, sagt Matkina und lässt ihre Hand langsam absinken. „Fantastisch. Bereite dich auf einen Kampf vor und dass du noch Tage danach nach verrotteten Federn stinkst.“
-{MATKINA}</DefaultText>
+      <DefaultText>„Murden“, sagt Matkina und lässt ihre Hand langsam absinken. „Fantastisch. Bereite dich auf einen Kampf vor und dass du noch Tage danach nach verrotteten Federn stinkst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,8 +102,7 @@ Das sind Murden – grausame und hinterlistige Aasfresser. Und ein Fünfter von 
       <ID>20</ID>
       <DefaultText>„Sicher. Sie haben viele Namen. Zum Beispiel ‚Rabenmänner‘. Cal …“ Er verzieht das Gesicht, als er sich erinnert, macht aber dennoch weiter. „Callistege nannte sie aus irgendeinem Grund ‚Dulsen‘.“
 
-Er senkt die Stimme. „Die Sache ist die, du darfst ihnen keinen Anlass zum Angreifen geben. Dazu gehört auch, sie zu bedrohen … oder sie zu wenig zu bedrohen.“
-{ALIGERN}</DefaultText>
+Er senkt die Stimme. „Die Sache ist die, du darfst ihnen keinen Anlass zum Angreifen geben. Dazu gehört auch, sie zu bedrohen … oder sie zu wenig zu bedrohen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,16 +140,14 @@ Du fährst ihm mit deinen Fingern ins Haar und reißt seinen Kopf nach hinten. �
       <ID>27</ID>
       <DefaultText>Callistege blinzelt. Ein Grinsen macht sich in ihrem Gesicht breit.
 
-„Auf die direkte Art“, sagt sie und zieht ihre Waffe. „Hervorragend.“
-{CALLISTEGE}</DefaultText>
+„Auf die direkte Art“, sagt sie und zieht ihre Waffe. „Hervorragend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>„Es ist die Abwandlung eines längeren Begriffs aus einer verdorbenen Sprache“, sagt sie und studiert dabei träge die Murden. „Es bedeutet ‚krankmachende Vögel‘, wie ich hörte.“
 
-Sie senkt ihre Stimme. „Sie werden bei uns nach Schwächen suchen, verlass dich drauf. Wenn wir einen Kampf vermeiden wollen, müssen wir ihnen unsere Stärke zeigen, ohne sie mit dem Rücken an die Wand zu stellen.“
-{CALLISTEGE}</DefaultText>
+Sie senkt ihre Stimme. „Sie werden bei uns nach Schwächen suchen, verlass dich drauf. Wenn wir einen Kampf vermeiden wollen, müssen wir ihnen unsere Stärke zeigen, ohne sie mit dem Rücken an die Wand zu stellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,14 +164,12 @@ Sie senkt ihre Stimme. „Sie werden bei uns nach Schwächen suchen, verlass dic
       <ID>31</ID>
       <DefaultText>„Kannst du sie nicht *riechen*? Oh. Du meinst, was ich übers Kämpfen sagte.“
 
-Sie lehnt sich weiter zu dir und senkt die Stimme. „Sie sollten nicht hier drin sein. Und die Tatsache, dass sie uns nicht sofort angreifen, hat etwas zu bedeuten, da bin ich mir sicher. *Man kann also sagen*, sobald du Schwäche zeigst, werden sie versuchen, dich zu töten. Oder bei Stärke. Oder wenn du ihnen nur eine Sekunde den Rücken zukehrst. Ich bin, ehrlich gesagt, überrascht, dass wir sie nicht schon längst bekämpfen.“
-{MATKINA}</DefaultText>
+Sie lehnt sich weiter zu dir und senkt die Stimme. „Sie sollten nicht hier drin sein. Und die Tatsache, dass sie uns nicht sofort angreifen, hat etwas zu bedeuten, da bin ich mir sicher. *Man kann also sagen*, sobald du Schwäche zeigst, werden sie versuchen, dich zu töten. Oder bei Stärke. Oder wenn du ihnen nur eine Sekunde den Rücken zukehrst. Ich bin, ehrlich gesagt, überrascht, dass wir sie nicht schon längst bekämpfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Klug“, sagt Matkina und zieht ihre Waffe. „Sehr klug.“
-{MATKINA}</DefaultText>
+      <DefaultText>„Klug“, sagt Matkina und zieht ihre Waffe. „Sehr klug.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,8 +186,7 @@ Sie lehnt sich weiter zu dir und senkt die Stimme. „Sie sollten nicht hier dri
       <ID>35</ID>
       <DefaultText>„Natürlich! Die Dinger verbreiten Krankheiten. Zumindest habe ich das gehört.“ Er schaut dich mit einem Silberblick an. „Wenn dir jetzt noch nicht nach einem Kampf auf Leben und Tod ist, könnten wir versuchen, zu verhandeln. Du musst wissen, dass sie dich angreifen, wenn du sie in eine Ecke drängst.“
 
-Er grinst. „Oder wenn du auch nur den Hauch einer Schwäche zeigst. Viel Glück!“
-{TYBIR}</DefaultText>
+Er grinst. „Oder wenn du auch nur den Hauch einer Schwäche zeigst. Viel Glück!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -503,8 +493,7 @@ Kreischend stürzt er sich auf dich und seine Begleiter tun es ihm gleich.</Defa
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>„Viel Glück. Gib ihnen einfach keinen Anlass zum Angreifen. Dazu gehört auch, sie zu bedrohen … oder sie zu wenig zu bedrohen.“
-{ALIGERN}</DefaultText>
+      <DefaultText>„Viel Glück. Gib ihnen einfach keinen Anlass zum Angreifen. Dazu gehört auch, sie zu bedrohen … oder sie zu wenig zu bedrohen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -514,8 +503,7 @@ Kreischend stürzt er sich auf dich und seine Begleiter tun es ihm gleich.</Defa
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>„Bewundernswert“, sagt sie kurz und knapp. „Aber sie werden bei uns Schwächen suchen, verlass dich drauf. Wenn wir einen Kampf vermeiden wollen, müssen wir ihnen unsere Stärke zeigen, ohne sie mit dem Rücken an die Wand zu drängen.“
-{CALLISTEGE}</DefaultText>
+      <DefaultText>„Bewundernswert“, sagt sie kurz und knapp. „Aber sie werden bei uns Schwächen suchen, verlass dich drauf. Wenn wir einen Kampf vermeiden wollen, müssen wir ihnen unsere Stärke zeigen, ohne sie mit dem Rücken an die Wand zu drängen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -527,8 +515,7 @@ Kreischend stürzt er sich auf dich und seine Begleiter tun es ihm gleich.</Defa
       <ID>102</ID>
       <DefaultText>„Oh, gut. Ihr Atem ist sogar noch schlimmer.“
 
-Sie lehnt sich weiter zu dir und senkt die Stimme. „Sie sollten nicht hier drin sein. Und die Tatsache, dass sie uns nicht sofort angreifen, hat etwas zu bedeuten, da bin ich mir sicher. *Man kann also sagen*, sobald du Schwäche zeigst, werden sie versuchen, dich zu töten. Oder bei Stärke. Oder wenn du ihnen nur eine Sekunde den Rücken zukehrst. Ich bin, ehrlich gesagt, überrascht, dass wir sie nicht schon längst bekämpfen.“
-{MATKINA}</DefaultText>
+Sie lehnt sich weiter zu dir und senkt die Stimme. „Sie sollten nicht hier drin sein. Und die Tatsache, dass sie uns nicht sofort angreifen, hat etwas zu bedeuten, da bin ich mir sicher. *Man kann also sagen*, sobald du Schwäche zeigst, werden sie versuchen, dich zu töten. Oder bei Stärke. Oder wenn du ihnen nur eine Sekunde den Rücken zukehrst. Ich bin, ehrlich gesagt, überrascht, dass wir sie nicht schon längst bekämpfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -540,8 +527,7 @@ Sie lehnt sich weiter zu dir und senkt die Stimme. „Sie sollten nicht hier dri
       <ID>104</ID>
       <DefaultText>„Warum nicht!“, sagt Tybir. „Mir ist im Augenblick nicht nach einem Kampf auf Leben und Tod. Du musst wissen, dass sie dich angreifen, wenn du sie in eine Ecke drängst.“
 
-Er grinst. „Oder wenn du auch nur den Hauch einer Schwäche zeigst. Viel Glück!“
-{TYBIR}</DefaultText>
+Er grinst. „Oder wenn du auch nur den Hauch einer Schwäche zeigst. Viel Glück!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

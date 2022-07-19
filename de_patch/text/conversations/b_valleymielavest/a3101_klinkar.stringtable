@@ -261,8 +261,7 @@ Er flüstert zu den anderen beiden: „Sie trägt die Tätowierung unseres Herre
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>„Ich ziehe dir das Fell über die Ohren und das Fleisch von den Knochen und befreie dein Licht für die Endlose Pforte!“
-{TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan – if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5 and despawn Klinkar and his two goons. Spawn in Memorialists}</DefaultText>
+      <DefaultText>„Ich ziehe dir das Fell über die Ohren und das Fleisch von den Knochen und befreie dein Licht für die Endlose Pforte!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -439,8 +438,7 @@ Er hebt die Arme und tritt zurück. „Ich erkenne deine Verbindung mit unserem 
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Ich ziehe dir das Fell über die Ohren und das Fleisch von den Knochen und befreie dein Licht für die Endlose Pforte!“
- {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan – if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
+      <DefaultText>„Ich ziehe dir das Fell über die Ohren und das Fleisch von den Knochen und befreie dein Licht für die Endlose Pforte!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -524,8 +522,7 @@ Die drei schleichen davon.</DefaultText>
       <ID>112</ID>
       <DefaultText>„Wie schade. Dann muss eben dein Blut vergossen werden. Mir ist das gleich.“
 
-Sie ziehen ihre Waffen, bereit zum Angriff.
- {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan – if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
+Sie ziehen ihre Waffen, bereit zum Angriff.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

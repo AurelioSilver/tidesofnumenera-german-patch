@@ -210,9 +210,7 @@ Er starrt dich aus seinem Versteck an und zwitschert unverständlich.</DefaultTe
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Ihr schüttelt Euch frei, zitternd, mit dem Wissen, dass es keine echte Erinnerung war. Ein vernunftloser Zorn baut sich in Euch auf, eine tiefe und beständige Frustration über die Einschränkungen Eures menschlichen Verstands.
-
-{SCRIPT: Schaden am Werte-Pool? Negative Verfassung?}</DefaultText>
+      <DefaultText>Ihr schüttelt Euch frei, zitternd, mit dem Wissen, dass es keine echte Erinnerung war. Ein vernunftloser Zorn baut sich in Euch auf, eine tiefe und beständige Frustration über die Einschränkungen Eures menschlichen Verstands.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -384,9 +382,7 @@ Er starrt dich aus seinem Versteck an und zwitschert unverständlich.</DefaultTe
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>„Du hast vor, ihn zu *töten*?“ Rhin starrt dich schockiert an. „Er kann sich nicht verteidigen. Können wir diesem Lord nicht einfach sagen, dass er harmlos ist?“
-
-{COLIN: Bitte überprüfen oder umschreiben für Rhins Stimme.}</DefaultText>
+      <DefaultText>„Du hast vor, ihn zu *töten*?“ Rhin starrt dich schockiert an. „Er kann sich nicht verteidigen. Können wir diesem Lord nicht einfach sagen, dass er harmlos ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -433,9 +429,7 @@ Trotz seiner Masse ist es eine leere Drohung. Du schlägst seine Klauen zur Seit
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Rhin versucht, ihre Tränen zu unterdrücken. „Ich verstehe dich nicht. Ich hoffe, ich werde es auch nie.“
-
-{COLIN: Bitte überprüfen oder umschreiben für Rhins Stimme.}</DefaultText>
+      <DefaultText>Rhin versucht, ihre Tränen zu unterdrücken. „Ich verstehe dich nicht. Ich hoffe, ich werde es auch nie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -497,9 +491,7 @@ Mit der Erinnerung strömen Informationen in deinen Geist, als wäre ein Stopfen
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Hol das verborgene Wissen der Sticha-Sprache in deinem Geist hervor.
-
-{GEORGE/ADAM: Dies ist eine Ausnahme der Gezeitenwellen-Regel – der SC wendet eine Gezeitenwelle auf sich selbst an, um sein eigenes Wissen freizuschalten.}</DefaultText>
+      <DefaultText>Hol das verborgene Wissen der Sticha-Sprache in deinem Geist hervor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

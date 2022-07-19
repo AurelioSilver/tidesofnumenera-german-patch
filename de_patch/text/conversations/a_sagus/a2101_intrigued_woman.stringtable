@@ -116,9 +116,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>„Ihr könnt mich mit Eurer kleingeistigen Moral nicht vom Pfad des Wissens abbringen. Die Schuld, die ich erleiden werde, weil ich diesen Mann sterben habe lassen, ist ein kleiner Preis für das, was ich von ihm lernen werde.“
-
-{SCRIPT: Ich brauche Hilfe, auf einen interessanten kritischen Fehlschlagszustand zu kommen.}</DefaultText>
+      <DefaultText>„Ihr könnt mich mit Eurer kleingeistigen Moral nicht vom Pfad des Wissens abbringen. Die Schuld, die ich erleiden werde, weil ich diesen Mann sterben habe lassen, ist ein kleiner Preis für das, was ich von ihm lernen werde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -180,9 +178,7 @@ Die Frau vor dir verwandelt sich ebenfalls. Sie zuckt vor fiebriger Emotion. „
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Sie holt eine kleine Tasche aus ihrem Rucksack. „Hier. Nehmt diese bescheidene Gabe dafür, dass Ihr mir meinen Denkfehler aufgezeigt habt.“
-
-{SCRIPT: SC erhält eine kleine Beute.}</DefaultText>
+      <DefaultText>Sie holt eine kleine Tasche aus ihrem Rucksack. „Hier. Nehmt diese bescheidene Gabe dafür, dass Ihr mir meinen Denkfehler aufgezeigt habt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -20,9 +20,7 @@ Er erblickt Tybir. „Da bist du ja, du windiger Bastard! Wo ist das Geld? Wenn 
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Er schaut an Euch vorbei, auf der Suche nach einem anderen Gesicht. „Doch wo ist dieser windige Bastard Tybir?“
-
-{GEORGE: Besteht die Möglichkeit, dass Tybir bei diesem Dialog nicht anwesend ist?}</DefaultText>
+      <DefaultText>Er schaut an Euch vorbei, auf der Suche nach einem anderen Gesicht. „Doch wo ist dieser windige Bastard Tybir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,9 +254,7 @@ Er macht eine krude Geste in Eure Richtung. Darauf wendet er sich ab und flücht
       <ID>45</ID>
       <DefaultText>Als Ihr Euch der Einstiegsrampe von Rennios Schiff nähert, taucht hinter Euch eine Gruppe hartgesotten aussehender Männer und Frauen auf. Angeführt wird sie von Ris, der höhnisch vor Tybir salutiert.
 
-„Hallo Tybir. Verlassen wir etwa die Stadt? Meine Freunde und ich hätten gerne zuerst das Geld, dass Ihr uns schuldet.“
-
-{SCRIPT: Das beginnt als Zwischensequenz. Ris und seine Handlanger nähern sich von hinten.}</DefaultText>
+„Hallo Tybir. Verlassen wir etwa die Stadt? Meine Freunde und ich hätten gerne zuerst das Geld, dass Ihr uns schuldet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -303,9 +299,7 @@ Er macht eine krude Geste in Eure Richtung. Darauf wendet er sich ab und flücht
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>[Angriff] „Wenn Ihr meine Freunde bedroht, so bedroht Ihr mich. Versucht doch, ihn zu holen.“
-
-{SCRIPT: Kampf eröffnen.}</DefaultText>
+      <DefaultText>[Angriff] „Wenn Ihr meine Freunde bedroht, so bedroht Ihr mich. Versucht doch, ihn zu holen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,9 +313,7 @@ Er macht eine krude Geste in Eure Richtung. Darauf wendet er sich ab und flücht
 
 Einer der Schläger rennt auf die Shin zu. Dann ein weiterer. Ris wirbelt herum. „He! Hört auf! Das ist nicht annähernd genug! Wir-“
 
-Der Rest stürmt darauf zu und alle kämpfen um die verteilt herumliegenden Münzen. Ris stöhnt frustriert, dann taucht auch er ins Getümmel.
-
-{SCRIPT: Ris und die Schläger rangeln sich in der Mitte und schenken dem SC oder Tybir keine Aufmerksamkeit mehr. Die Gruppe sollte nun das Luftschiff betreten und Sagus verlassen.}</DefaultText>
+Der Rest stürmt darauf zu und alle kämpfen um die verteilt herumliegenden Münzen. Ris stöhnt frustriert, dann taucht auch er ins Getümmel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,27 +414,17 @@ Er prustet sich auf. „Dinge laufen immer reibungsloser, wenn Tybir dabei ist.�
 
 Er hält inne, als er sieht, wie die anderen zurückweichen und sich entfernen. „He! Wo geht Ihr hin?! Ich sage euch doch: Er ist nicht der Wandelnde Gott!“
 
-Sie hören nicht zu. Er jagt ihnen hinterher.
-
-{SCRIPT: Ris und die Schläger verlassen den Ort und schenken dem SC oder Tybir keine Aufmerksamkeit mehr.}</DefaultText>
+Sie hören nicht zu. Er jagt ihnen hinterher.</DefaultText>
       <FemaleText>Ris grinst spöttisch und blickt zu seinen Gefährten zurück. „Sie ist nicht der Wandelnde Gott. Der Wandelnde Gott ist drei Meter groß und …“
 
 Er hält inne, als er sieht, wie die anderen zurückweichen und sich entfernen. „He! Wo geht Ihr hin?! Ich sage euch doch: Sie ist nicht der Wandelnde Gott!“
 
-Sie hören nicht zu. Er jagt ihnen hinterher.
-
-{SCRIPT: Ris und die Schläger verlassen den Ort und schenken dem SC oder Tybir keine Aufmerksamkeit mehr.}</FemaleText>
+Sie hören nicht zu. Er jagt ihnen hinterher.</FemaleText>
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Ris und seine Gefährten lachen. „Er ist nicht der Wandelnde Gott. Er ist einfach nur ein weiterer Tölpel, den Ihr dazu gebracht hat, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verdreschen. Euch wegen Schurkerei, und ihn wegen Leichtgläubigkeit.“
-
-
-{SCRIPT: Kampf eröffnen.}</DefaultText>
-      <FemaleText>Ris und seine Gefährten lachen. „Sie ist nicht der Wandelnde Gott. Sie ist einfach nur ein weiterer Tölpel, die Ihr dazu gebracht hat, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verdreschen. Euch wegen Schurkerei, und sie wegen Leichtgläubigkeit.“
-
-
-{SCRIPT: Kampf eröffnen.}</FemaleText>
+      <DefaultText>Ris und seine Gefährten lachen. „Er ist nicht der Wandelnde Gott. Er ist einfach nur ein weiterer Tölpel, den Ihr dazu gebracht hat, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verdreschen. Euch wegen Schurkerei, und ihn wegen Leichtgläubigkeit.“</DefaultText>
+      <FemaleText>Ris und seine Gefährten lachen. „Sie ist nicht der Wandelnde Gott. Sie ist einfach nur ein weiterer Tölpel, die Ihr dazu gebracht hat, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verdreschen. Euch wegen Schurkerei, und sie wegen Leichtgläubigkeit.“</FemaleText>
     </Entry>
     <Entry>
       <ID>78</ID>
@@ -450,21 +432,13 @@ Sie hören nicht zu. Er jagt ihnen hinterher.
 
 Er hält inne, als er sieht, wie die anderen zurückweichen und sich entfernen. „He! Wo geht Ihr hin?! Ich sage Euch doch: Er ist nicht der Wandelnde Gott!“
 
-Sie hören nicht zu. Er jagt ihnen hinterher.
-
-{SCRIPT: Ris und die Schläger verlassen den Ort und schenken dem SC oder Tybir keine Aufmerksamkeit mehr.}</DefaultText>
+Sie hören nicht zu. Er jagt ihnen hinterher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Ris und seine Gefährten lachen. „Er ist nicht der Wandelnde Gott. Er ist einfach nur ein weiterer Tölpel, den Ihr dazu gebracht hat, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verdreschen. Euch wegen Schurkerei, und ihn wegen Leichtgläubigkeit.“
-
-
-{SCRIPT: Kampf eröffnen. SC startet mit irgendeinem Nachteil. Geringe Initiative?}</DefaultText>
-      <FemaleText>Ris und seine Gefährten lachen. „Sie ist nicht der Wandelnde Gott. Sie ist einfach nur ein weiterer Tölpel, die Ihr dazu gebracht hat, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verdreschen. Euch wegen Schurkerei, und sie wegen Leichtgläubigkeit.“
-
-
-{SCRIPT: Kampf eröffnen. SC startet mit irgendeinem Nachteil. Geringe Initiative?}</FemaleText>
+      <DefaultText>Ris und seine Gefährten lachen. „Er ist nicht der Wandelnde Gott. Er ist einfach nur ein weiterer Tölpel, den Ihr dazu gebracht hat, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verdreschen. Euch wegen Schurkerei, und ihn wegen Leichtgläubigkeit.“</DefaultText>
+      <FemaleText>Ris und seine Gefährten lachen. „Sie ist nicht der Wandelnde Gott. Sie ist einfach nur ein weiterer Tölpel, die Ihr dazu gebracht hat, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verdreschen. Euch wegen Schurkerei, und sie wegen Leichtgläubigkeit.“</FemaleText>
     </Entry>
     <Entry>
       <ID>80</ID>

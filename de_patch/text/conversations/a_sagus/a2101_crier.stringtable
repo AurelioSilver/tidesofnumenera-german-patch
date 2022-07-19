@@ -61,9 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Sticha graben weiter! Klippenrand lebt in Angst, dass weitere Häuser einstürzen!“
-
-{GEORGE: Sollte global eingestellt werden, dass verfolgt wird, ob der SC weiß, dass die Sticha für die Beben, einstürzenden Häuser usw. verantwortlich sind? Dies wird von G_ZoneA_KnowStichaUndermineCity verfolgt. Ich bin mir nicht über die Auswirkungen sicher, die das hier hätte, daher belasse ich es zunächst dabei. -JF}</DefaultText>
+      <DefaultText>„Sticha graben weiter! Klippenrand lebt in Angst, dass weitere Häuser einstürzen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -696,16 +696,12 @@ Sie lächelt sanft. „In ihren Augen bin ich wie eine ältere Schwester, oder v
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>„Es gibt da einen Mann in Klippenrand, der behauptet, von einem Levi verfolgt zu werden. Er glaubt, dass er ihm etwas antun wolle.“
-
-{JESSE: Review scripting. (I tested a couple times, so it's probably fine, but I might have missed an outlier case.)}</DefaultText>
+      <DefaultText>„Es gibt da einen Mann in Klippenrand, der behauptet, von einem Levi verfolgt zu werden. Er glaubt, dass er ihm etwas antun wolle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>„Erinnerst du dich an den Levi, von dem ich dir erzählt habe? Er lauert einem Mann namens Finzin auf. Er sagt, dass er ein weiteres Jahr seines Lebens haben wolle.“
-
-{JESSE: Review scripting. (I tested a couple times, so it's probably fine, but I might have missed an outlier case.)}</DefaultText>
+      <DefaultText>„Erinnerst du dich an den Levi, von dem ich dir erzählt habe? Er lauert einem Mann namens Finzin auf. Er sagt, dass er ein weiteres Jahr seines Lebens haben wolle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

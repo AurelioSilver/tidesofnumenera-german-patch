@@ -85,9 +85,7 @@ Unvertraute Erinnerungen flüstern dir zu. Dieser Apparat wurde genutzt – obwo
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Du schließt die Augen, um dich besser zu konzentrieren und versinkst in der Strömung einer Erinnerung, die nicht zu dir gehört – oder zumindest nicht zu dem Körper, in dem du gerade bist … und du hörst den donnernden Herzschlag des laufenden Generators, der dich aus vergangenen Jahrhunderten ruft.
-
-{SOUND: Slow, deep, bassy THUMMING}</DefaultText>
+      <DefaultText>Du schließt die Augen, um dich besser zu konzentrieren und versinkst in der Strömung einer Erinnerung, die nicht zu dir gehört – oder zumindest nicht zu dem Körper, in dem du gerade bist … und du hörst den donnernden Herzschlag des laufenden Generators, der dich aus vergangenen Jahrhunderten ruft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,9 +206,7 @@ Ein Seil versucht euch in Richtung der unteren Klippen von Sagus zu ziehen. Ein
       <ID>39</ID>
       <DefaultText>Ein zischender Strahl schießt aus dem Loch und trifft dich direkt im Auge. Er schmerzt nicht im geringsten.
 
-Stattdessen wird dein Geist kurzzeitig mit dem köstlichen Bild einer Scheibe gegrillten *Etwas* erfüllt, und mit den geselligen Lauten eines Werbers in einer Sprache, die du nicht erkennst.
-
-{SOUND: Meat sizzling.}</DefaultText>
+Stattdessen wird dein Geist kurzzeitig mit dem köstlichen Bild einer Scheibe gegrillten *Etwas* erfüllt, und mit den geselligen Lauten eines Werbers in einer Sprache, die du nicht erkennst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,8 +225,7 @@ Meistens jedoch befindet sich in hinter dem Loch in der Luft nichts, nur geschw�
       <ID>42</ID>
       <DefaultText>Du trittst ein wenig zu nahe heran und eine der Anomalien zischt wie eine Scheibe aus Rasierklingen an deiner Hüfte vorbei.
 
-Einer deiner Beutel fühlt sich schwerer an. Wie es scheint, hat die Anomalie dir ein Geschenk hinterlassen.
-{LOOT}</DefaultText>
+Einer deiner Beutel fühlt sich schwerer an. Wie es scheint, hat die Anomalie dir ein Geschenk hinterlassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

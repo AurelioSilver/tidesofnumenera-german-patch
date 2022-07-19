@@ -254,38 +254,32 @@ Sn'erf schüttelt den Kopf. „Wenn dem so ist, dann habe ich meine Strafe wirkl
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Der Orden der Wahrheit gibt heutzutage einfach jedem einen Platz zum Arbeiten“, murmelt Aligern.
-{ALIGERN}</DefaultText>
+      <DefaultText>„Der Orden der Wahrheit gibt heutzutage einfach jedem einen Platz zum Arbeiten“, murmelt Aligern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„Ich war noch nicht alt genug, um irgendetwas davon zu hören“, stöhnt Rhin und hält sich die Ohren zu. „Und ich will auch nie alt genug sein.“
-{RHIN}</DefaultText>
+      <DefaultText>„Ich war noch nicht alt genug, um irgendetwas davon zu hören“, stöhnt Rhin und hält sich die Ohren zu. „Und ich will auch nie alt genug sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>„Nun ja. Das werde ich wohl nicht mehr aus dem Kopf kriegen. Nicht einmal mit einer Schaufel.“
-{MATKINA}</DefaultText>
+      <DefaultText>„Nun ja. Das werde ich wohl nicht mehr aus dem Kopf kriegen. Nicht einmal mit einer Schaufel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>„Wir sollten uns zurückziehen!“ Erritis faucht dir ins Ohr. „Der Irrgast überschwemmt meinen Kopf mit nicht willkommenen Bildern!“
-{ERRITIS}</DefaultText>
+      <DefaultText>„Wir sollten uns zurückziehen!“ Erritis faucht dir ins Ohr. „Der Irrgast überschwemmt meinen Kopf mit nicht willkommenen Bildern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Werden wir hier noch viel länger bleiben? Der Tag bricht schließlich bald an.“
-{CALLISTEGE}</DefaultText>
+      <DefaultText>„Werden wir hier noch viel länger bleiben? Der Tag bricht schließlich bald an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Hast du es je mit einem Nevajin getrieben?“, fragt Tybir.
-{TYBIR}</DefaultText>
+      <DefaultText>„Hast du es je mit einem Nevajin getrieben?“, fragt Tybir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,8 +289,7 @@ Sn'erf schüttelt den Kopf. „Wenn dem so ist, dann habe ich meine Strafe wirkl
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„Ich schon, einmal“, fährt Tybir fort, als ob Sn'erf nicht geantwortet hätte. „Zumindest glaubte ich das. Wir waren beide *sehr* betrunken.“
-{TYBIR}</DefaultText>
+      <DefaultText>„Ich schon, einmal“, fährt Tybir fort, als ob Sn'erf nicht geantwortet hätte. „Zumindest glaubte ich das. Wir waren beide *sehr* betrunken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,20 +314,17 @@ Sn'erf schüttelt den Kopf. „Wenn dem so ist, dann habe ich meine Strafe wirkl
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>„Aber gern“, sagt der Irrgast, und hält dann inne. „Ich muss aber leider um einen Kostenersatz von [Global: a2621_PayingSnerfForPST] Shin bitten. Ich bin hier ein Gast und kein Aeon-Priester. Die Stadt gibt mir keine Forschungsgelder.“
-{MONEY}</DefaultText>
+      <DefaultText>„Aber gern“, sagt der Irrgast, und hält dann inne. „Ich muss aber leider um einen Kostenersatz von [Global: a2621_PayingSnerfForPST] Shin bitten. Ich bin hier ein Gast und kein Aeon-Priester. Die Stadt gibt mir keine Forschungsgelder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>„Kein Problem!“, sagt Sn'erf sichtlich erfreut. „Ich hoffte, dass du fragen wirst. Bist du bereit, meine Gebühr zu bezahlen? [Global: a2621_PayingSnerfForPST] Shin sind durchaus angemessen.“
-{MONEY}</DefaultText>
+      <DefaultText>„Kein Problem!“, sagt Sn'erf sichtlich erfreut. „Ich hoffte, dass du fragen wirst. Bist du bereit, meine Gebühr zu bezahlen? [Global: a2621_PayingSnerfForPST] Shin sind durchaus angemessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>„Hier ist das Geld.“
-{MONEY}</DefaultText>
+      <DefaultText>„Hier ist das Geld.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -491,8 +481,7 @@ Er überlegt und fährt sich übers längliche Kinn. „Ich schreibe einfach ‚
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>„Bitte wandle einen Haufen um.“
-{MONEY}</DefaultText>
+      <DefaultText>„Bitte wandle einen Haufen um.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -528,8 +517,7 @@ Er überlegt und fährt sich übers längliche Kinn. „Ich schreibe einfach ‚
 
 „Kurz und knapp, mit dem 'Körper' des Vorarbeiters ist alles in Ordnung und er will Kinder haben. Daher muss irgendetwas im beherrschenden Geist der Intelligenz – die Unterintelligenz, wenn man so will – die Energieübertragung zu blockieren.“
 
-Der Irrgast tätschelt den Zylinder. „Wenn man dieses Gerät am Vorarbeiter installiert, müsste es die Abwehr der Unterintelligenz deaktivieren. Viel Glück.“
-{LOOT}</DefaultText>
+Der Irrgast tätschelt den Zylinder. „Wenn man dieses Gerät am Vorarbeiter installiert, müsste es die Abwehr der Unterintelligenz deaktivieren. Viel Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -573,13 +561,7 @@ Das Bild blendet aus. „Ah“, sagt Sn'erf ruhig. „Ich glaube, ich sehe, was 
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>„“
-{GAVIN: Gated by blank global for now. Review this entire conversation for CNPC responses to nodes like this. See Colin's notes: „This whole conversation seems like something that Rhin should be horrified by.“
-Erritis embarrassed.
-Tybir totally into.
-Aligern and Matkina disgusted.
-Callistege bored.
-Aligern's and Matkina's disgust should be different flavors, though – Aligern's is along the lines of „why the hell would you even choose this line of work“, while Matkina's is more along the lines of general disgust with the entire process.}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -695,14 +677,12 @@ Sn'erf lehnt sich zu dir. „Unter uns gesagt, ich glaube, die meisten Informati
       <ID>136</ID>
       <DefaultText>Schließlich richtet sich Sn'erf auf. Er hält ein frisch verwandeltes, summendes Stichus-Ei in der Hand.
 
-„Die anderen waren entweder unbefruchtet oder zu fragil“, sagt er. „Es tut mir leid.“
-{LOOT}</DefaultText>
+„Die anderen waren entweder unbefruchtet oder zu fragil“, sagt er. „Es tut mir leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>„Hier hast du deine Energiezelle“, sagt der Irrgast.
-{LOOT}</DefaultText>
+      <DefaultText>„Hier hast du deine Energiezelle“, sagt der Irrgast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,14 +756,12 @@ Er macht sich eine letzte Notiz. „Ich werde dennoch mein Bestes geben.“</Def
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>„Ich möchte zwei Haufen umwandeln lassen.“
-{MONEY}</DefaultText>
+      <DefaultText>„Ich möchte zwei Haufen umwandeln lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>„Wandle alle Haufen um, die ich habe.“
-{MONEY}</DefaultText>
+      <DefaultText>„Wandle alle Haufen um, die ich habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -797,16 +775,14 @@ Er macht sich eine letzte Notiz. „Ich werde dennoch mein Bestes geben.“</Def
       <ID>155</ID>
       <DefaultText>Schließlich reicht dir Sn'erf zwei stark modifizierte Eier.
 
-„Die anderen waren entweder unbefruchtet oder zu fragil“, sagt er. „Tut mir leid.“
-{LOOT}</DefaultText>
+„Die anderen waren entweder unbefruchtet oder zu fragil“, sagt er. „Tut mir leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
       <DefaultText>Mit einem leichten Seufzer gibt dir Sn'erf drei Eier, die von vibrierenden Drähten umgeben sind.
 
-„Die anderen waren entweder unbefruchtet oder zu fragil“, sagt er. „Es tut mir leid.“
-{LOOT: PC gets three Stichus Egg power source and loses three egg clusters.}</DefaultText>
+„Die anderen waren entweder unbefruchtet oder zu fragil“, sagt er. „Es tut mir leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

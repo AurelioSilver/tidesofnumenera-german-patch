@@ -131,9 +131,7 @@ Ihr bleibt eine Weile ganz ruhig stehen und hört auf Euren Körper. Doch nichts
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Als Ihr versucht, es abzuschütteln, spürt Ihr einen Gegenstand in seiner Hand. Ihr löst ihn und das Skelett fällt von Euch ab. Dann hebt der Wind Euch zu einem hellen Fleck in der Dunkelheit an und Ihr stolpert zurück durch die Öffnung, die Ihr betreten habt, den gestohlenen Gegenstand fest in Eurer Hand.
-
-{LOOT: Make sure this loot drop is a single object. Thanks.}</DefaultText>
+      <DefaultText>Als Ihr versucht, es abzuschütteln, spürt Ihr einen Gegenstand in seiner Hand. Ihr löst ihn und das Skelett fällt von Euch ab. Dann hebt der Wind Euch zu einem hellen Fleck in der Dunkelheit an und Ihr stolpert zurück durch die Öffnung, die Ihr betreten habt, den gestohlenen Gegenstand fest in Eurer Hand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

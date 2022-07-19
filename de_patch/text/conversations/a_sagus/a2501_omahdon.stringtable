@@ -68,12 +68,8 @@ Er nimmt ihn sehr vorsichtig von dir. „Ich wusste, die Hexe hat mich angelogen
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Er runzelt die Stirn. „Sie kehrt ins Grab zurück? Das ist beunruhigend, aber vielleicht schaffe ich es noch rechtzeitig. Danke, mein Freund – du hast mir Hoffnung gegeben, Nimm bitte das hier als Dank. Jetzt muss ich mich beeilen. Lebe wohl.“
-
-{LOOT}</DefaultText>
-      <FemaleText>Er runzelt die Stirn. „Sie kehrt ins Grab zurück? Das ist beunruhigend, aber vielleicht schaffe ich es noch rechtzeitig. Danke, meine Freundin – du hast mir Hoffnung gegeben, Nimm bitte das hier als Dank. Jetzt muss ich mich beeilen. Lebe wohl.“
-
-{LOOT}</FemaleText>
+      <DefaultText>Er runzelt die Stirn. „Sie kehrt ins Grab zurück? Das ist beunruhigend, aber vielleicht schaffe ich es noch rechtzeitig. Danke, mein Freund – du hast mir Hoffnung gegeben, Nimm bitte das hier als Dank. Jetzt muss ich mich beeilen. Lebe wohl.“</DefaultText>
+      <FemaleText>Er runzelt die Stirn. „Sie kehrt ins Grab zurück? Das ist beunruhigend, aber vielleicht schaffe ich es noch rechtzeitig. Danke, meine Freundin – du hast mir Hoffnung gegeben, Nimm bitte das hier als Dank. Jetzt muss ich mich beeilen. Lebe wohl.“</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>

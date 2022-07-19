@@ -556,8 +556,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>„Ich dachte nicht, du könntest so schlimm sein, wie dein Vater. Offenbar hatte ich Unrecht.“
-{SCRIPT: PC has sold Rhin to Tol Maguur.}{SCRIPT: Force this conversation after Tol Maguur conversation ends}</DefaultText>
+      <DefaultText>„Ich dachte nicht, du könntest so schlimm sein, wie dein Vater. Offenbar hatte ich Unrecht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1501,9 +1500,7 @@ Er zuckt mit den Schultern. „Wir suchen weiter.“</DefaultText>
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>„Mein Freund Orth Faung beim Orden der Wahrheit hat etwas für mich geprüft. Ich möchte da mal vorbeischauen. Problem ist, ich vertrage mich nicht mit den meisten der Priestern dort. Sie wollen womöglich nicht mit mir sprechen.“
-
-{SCRIPT: Force conversation when player enters Government Square or OoT for first time with Aligern}</DefaultText>
+      <DefaultText>„Mein Freund Orth Faung beim Orden der Wahrheit hat etwas für mich geprüft. Ich möchte da mal vorbeischauen. Problem ist, ich vertrage mich nicht mit den meisten der Priestern dort. Sie wollen womöglich nicht mit mir sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

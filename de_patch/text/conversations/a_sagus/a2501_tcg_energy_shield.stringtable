@@ -6,9 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Der Großteil der Klippenspitze ist von einer Energiekuppel verdeckt. Als du dich ihr näherst, scheint die Luft mit Energie aufgeladen zu sein und deine Haare stehen auf.
-
-{SOUND: Humming energy for the duration of this conversation.}</DefaultText>
+      <DefaultText>Der Großteil der Klippenspitze ist von einer Energiekuppel verdeckt. Als du dich ihr näherst, scheint die Luft mit Energie aufgeladen zu sein und deine Haare stehen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -74,11 +72,7 @@ Bei einem Schritt zurück verschwindet das Interface wieder.</DefaultText>
       <ID>13</ID>
       <DefaultText>Die Luft heizt sich auf und tanzt über deine Haut wie Feuer. Du ignorierst diese geringfügigen Schmerzen und legst zwei Finger auf die Oberfläche der Kuppel.
 
-Schlagartig sind deine Finger fest mit der Energie der Kuppel verbunden. Die ansteigende Hitze führt schließlich dazu, dass Rauch von deinen Fingerspitzen aufsteigt. Unter schmerzverzerrtem Geschrei gelingt es dir, deine Finger von der Kuppel wegzuziehen. Du stolperst nach hinten und fällst zu Boden.
-
-{SOUND: Electrical zapping (think electrical fence, but bigger and deeper), followed by the sound of PC falling on his ass.}
-
-{DAMAGE}</DefaultText>
+Schlagartig sind deine Finger fest mit der Energie der Kuppel verbunden. Die ansteigende Hitze führt schließlich dazu, dass Rauch von deinen Fingerspitzen aufsteigt. Unter schmerzverzerrtem Geschrei gelingt es dir, deine Finger von der Kuppel wegzuziehen. Du stolperst nach hinten und fällst zu Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,9 +126,7 @@ Du platzierst noch einmal deine Hand in der Mitte des Kreises, doch diesmal fäh
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Die Luft kühlt sich sofort ab, und die Kuppel verblasst nach und nach, bis sie vollständig verschwunden ist …
-
-{SOUND: Need effect of the energy dome deactivating.}</DefaultText>
+      <DefaultText>Die Luft kühlt sich sofort ab, und die Kuppel verblasst nach und nach, bis sie vollständig verschwunden ist …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

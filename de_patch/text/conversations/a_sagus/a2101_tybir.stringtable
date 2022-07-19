@@ -373,12 +373,8 @@ Er spreizt die Hände. „Bitte schön. Ein idiotensicherer Plan ohne Risiko.“
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Ich wünsche Euch alles Glück der Welt, mein Freund. Ihr werdet mich nie wieder sehen.“
-
-{SCRIPT: Entfernt sich und verschwindet, das ist aber eine Lüge. Er wartet in der Karawanserei.}</DefaultText>
-      <FemaleText>„Ich wünsche Euch alles Glück der Welt, meine Freundin. Ihr werdet mich nie wieder sehen.“
-
-{SCRIPT: Entfernt sich und verschwindet, das ist aber eine Lüge. Er wartet in der Karawanserei.}</FemaleText>
+      <DefaultText>„Ich wünsche Euch alles Glück der Welt, mein Freund. Ihr werdet mich nie wieder sehen.“</DefaultText>
+      <FemaleText>„Ich wünsche Euch alles Glück der Welt, meine Freundin. Ihr werdet mich nie wieder sehen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>70</ID>
@@ -582,81 +578,57 @@ Er spreizt die Hände. „Bitte schön. Ein idiotensicherer Plan ohne Risiko.“
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>„Halte durch, Ris.“
-
-{SCRIPT: Knotenpunkte 113, 114, 115 und 116 spielen nacheinander, mit kurzen Abständen dazwischen, bevor der SC seine erste Unterhaltung mit Tybir führt.}</DefaultText>
+      <DefaultText>„Halte durch, Ris.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>„Hilfe ist unterwegs.“
-
-{SCRIPT: Knotenpunkte 113, 114, 115 und 116 spielen nacheinander, mit kurzen Abständen dazwischen, bevor der SC seine erste Unterhaltung mit Tybir führt.}</DefaultText>
+      <DefaultText>„Hilfe ist unterwegs.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>„Hoffe ich.“
-
-{SCRIPT: Knotenpunkte 113, 114, 115 und 116 spielen nacheinander, mit kurzen Abständen dazwischen, bevor der SC seine erste Unterhaltung mit Tybir führt.}</DefaultText>
+      <DefaultText>„Hoffe ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>„Was für eine Situation.“
-
-{SCRIPT: Knotenpunkte 113, 114, 115 und 116 spielen nacheinander, mit kurzen Abständen dazwischen, bevor der SC seine erste Unterhaltung mit Tybir führt.}</DefaultText>
+      <DefaultText>„Was für eine Situation.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>„Es tut mir leid, Ris.“
-
-{SCRIPT: Knotenpunkte 117 und 118 spielen nacheinander, mit kurzen Abständen dazwischen, nachdem der SC seine erste Unterhaltung mit Tybir führt, aber nur, wenn der SC keine Hilfe angeboten hat.}</DefaultText>
+      <DefaultText>„Es tut mir leid, Ris.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>„Uns läuft die Zeit davon.“
-
-{SCRIPT: Knotenpunkte 117 und 118 spielen nacheinander, mit kurzen Abständen dazwischen, nachdem der SC seine erste Unterhaltung mit Tybir führt, aber nur, wenn der SC keine Hilfe angeboten hat.}</DefaultText>
+      <DefaultText>„Uns läuft die Zeit davon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>„Ist es plötzlich dunkel geworden? Oder hab ich getrunken?“
-
-{SCRIPT: Knotenpunkte 119, 120 und 121 spielen nacheinander, mit kurzen Abständen dazwischen, wenn sich der Spieler zum ersten Mal Tybir nähert, nachdem die Nacht hereingebrochen ist.}</DefaultText>
+      <DefaultText>„Ist es plötzlich dunkel geworden? Oder hab ich getrunken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>„Na ja, ich *weiß*, dass ich getrunken hab.“
-
-{SCRIPT: Knotenpunkte 119, 120 und 121 spielen nacheinander, mit kurzen Abständen dazwischen, wenn sich der Spieler zum ersten Mal Tybir nähert, nachdem die Nacht hereingebrochen ist.}</DefaultText>
+      <DefaultText>„Na ja, ich *weiß*, dass ich getrunken hab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>„Das wird es vermutlich sein.“
-
-{SCRIPT: Knotenpunkte 119, 120 und 121 spielen nacheinander, mit kurzen Abständen dazwischen, wenn sich der Spieler zum ersten Mal Tybir nähert, nachdem die Nacht hereingebrochen ist.}</DefaultText>
+      <DefaultText>„Das wird es vermutlich sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>„Wo ist dieser Kerl?“
-
-{SCRIPT: Knotenpunkte 122 und 123 spielen, nachdem der Spieler eingewilligt hat, Tybir zu helfen, und bevor er mit dem Dokument zurückgekehrt ist.}</DefaultText>
-      <FemaleText>„Wo ist dieses Mädchen?“
-
-{SCRIPT: Knotenpunkte 122 und 123 spielen, nachdem der Spieler eingewilligt hat, Tybir zu helfen, und bevor er mit dem Dokument zurückgekehrt ist.}</FemaleText>
+      <DefaultText>„Wo ist dieser Kerl?“</DefaultText>
+      <FemaleText>„Wo ist dieses Mädchen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>„Die Zeit läuft uns davon.“
-
-{SCRIPT: Knotenpunkte 122 und 123 spielen, nachdem der Spieler eingewilligt hat, Tybir zu helfen, und bevor er mit dem Dokument zurückgekehrt ist.}</DefaultText>
+      <DefaultText>„Die Zeit läuft uns davon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

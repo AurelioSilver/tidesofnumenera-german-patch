@@ -46,9 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Du beißt in das wenige Fleisch, das in einer der Armbeugen übrig geblieben ist. Als das Blut über deine Zunge rinnt und die Kehle hinabläuft und du die gummiartigen Bänder und Sehnen genüsslich zwischen deinen Zähnen zerreißt, watest du durch das einstige Leben. Als du tausende Stunden nach den gesuchten Informationen durchkämmst, gelangst du zur Erinnerung an einen einzelnen Satz: „Der Name des Ceturl-Prinzen.“
-
-{COLIN: I don't know if this is how Dendra O'Hur segments are usually written.}</DefaultText>
+      <DefaultText>Du beißt in das wenige Fleisch, das in einer der Armbeugen übrig geblieben ist. Als das Blut über deine Zunge rinnt und die Kehle hinabläuft und du die gummiartigen Bänder und Sehnen genüsslich zwischen deinen Zähnen zerreißt, watest du durch das einstige Leben. Als du tausende Stunden nach den gesuchten Informationen durchkämmst, gelangst du zur Erinnerung an einen einzelnen Satz: „Der Name des Ceturl-Prinzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,12 +121,8 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>„Erledigt ihn!“
-
-{TUSSLE: KlinKar and goons may be here if Klinkar_resolution=2, otherwise not. PCKilledCultists var needs to be set if killed cultists in combat.}</DefaultText>
-      <FemaleText>„Erledigt sie!“
-
-{TUSSLE: KlinKar and goons may be here if Klinkar_resolution=2, otherwise not. PCKilledCultists var needs to be set if killed cultists in combat.}</FemaleText>
+      <DefaultText>„Erledigt ihn!“</DefaultText>
+      <FemaleText>„Erledigt sie!“</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>

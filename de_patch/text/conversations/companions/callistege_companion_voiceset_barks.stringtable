@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>{intent, focused, not letting fear take over} „Sieh dich doch nur um. Dein Erzeuger hat gute Arbeit geleistet, aber wenn wir die Schildgeneratoren aktivieren können, könnten wir das überleben.“</DefaultText>
+      <DefaultText>„Sieh dich doch nur um. Dein Erzeuger hat gute Arbeit geleistet, aber wenn wir die Schildgeneratoren aktivieren können, könnten wir das überleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,17 +266,17 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>{scream, fading out across the spectrum}</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>{whispering} „Du … enttäuschst mich, Verstoßener …“</DefaultText>
-      <FemaleText>{whispering} „Du … enttäuschst mich, Verstoßene …“</FemaleText>
+      <DefaultText>„Du … enttäuschst mich, Verstoßener …“</DefaultText>
+      <FemaleText>„Du … enttäuschst mich, Verstoßene …“</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>{weakly} „Meine Schwestern … werden mich rächen.“</DefaultText>
+      <DefaultText>„Meine Schwestern … werden mich rächen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>{satisfied} „Man kann die Energie der Metropole förmlich *spüren*.“</DefaultText>
+      <DefaultText>„Man kann die Energie der Metropole förmlich *spüren*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,7 +511,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>{matter of fact, unafraid} „Du kannst nicht sterben.“</DefaultText>
+      <DefaultText>„Du kannst nicht sterben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,7 +541,7 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>{droll} „Wie schade, dass Tybir von uns gegangen ist. Was sollen wir nur tun.“</DefaultText>
+      <DefaultText>„Wie schade, dass Tybir von uns gegangen ist. Was sollen wir nur tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>{spritely} „Nun, ich *fühle* mich besser.“</DefaultText>
+      <DefaultText>„Nun, ich *fühle* mich besser.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -781,7 +781,7 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>„Sie denken, dass sie mich umzingelt hätten.“ {laughs}</DefaultText>
+      <DefaultText>„Sie denken, dass sie mich umzingelt hätten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,8 +941,8 @@
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>{urgent} „Komm, Verstoßener. Der Kummer steht vor den Toren. Wir müssen fliehen, schnell!“</DefaultText>
-      <FemaleText>{urgent} „Komm, Verstoßene. Der Kummer steht vor den Toren. Wir müssen fliehen, schnell!“</FemaleText>
+      <DefaultText>„Komm, Verstoßener. Der Kummer steht vor den Toren. Wir müssen fliehen, schnell!“</DefaultText>
+      <FemaleText>„Komm, Verstoßene. Der Kummer steht vor den Toren. Wir müssen fliehen, schnell!“</FemaleText>
     </Entry>
     <Entry>
       <ID>189</ID>

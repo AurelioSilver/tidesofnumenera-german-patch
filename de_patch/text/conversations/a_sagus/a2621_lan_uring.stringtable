@@ -362,16 +362,12 @@ Er beißt die Zähne zusammen. „Ich war eben das einfachste Ziel.“</DefaultT
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>„“
-{GAVIN: Faction path. Set to blank global for now.}
-{SCRIPT: Only available if Lan is a full Aeon Priest.}
-{SCRIPT: Disables Node 73.}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„“
-{GAVIN: Enable this info in Beleaza's conversation.}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,16 +392,12 @@ Er beißt die Zähne zusammen. „Ich war eben das einfachste Ziel.“</DefaultT
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>„“
-{GAVIN: Faction path. Set to blank global for now.}
-{SCRIPT: Only available if player know Lan is a spy.}
-{SCRIPT: Disables Node 65.}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>„“
-{GAVIN: Enable this info in Beleaza's conversation.}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -457,9 +449,7 @@ Er sieht wieder zu dir. „Aber ich erzähle es Euch. Ähm. Wenn Ihr es wirklich
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>„Ich sollte Euch töten.“
-
-{GAVIN: Can the player actually follow up on this? If not, it could be misleading.}</DefaultText>
+      <DefaultText>„Ich sollte Euch töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -688,16 +678,14 @@ Plötzlich steht ihm ein dickes Grinsen im Gesicht. „Das wollt Ihr doch damit 
 
 Wie in blindem Wahn wühlt er durch seinen Tisch, noch völlig von seinem Glück überwältigt. Nach kurzer Zeit kramt er das Objekt der Begierde hervor – eine seiner KI-Prototypen.
 
-„Nehmt das“, sagt er und übergibt ihn dir.
-{LOOT}</DefaultText>
+„Nehmt das“, sagt er und übergibt ihn dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
       <DefaultText>„Sieh einer an“, murmelt sie. „Ihr habt da eine kleine Gottheit erschaffen, Lan. Er ist wunderschön.“
 
-Sie sieht dich an. „Kann ich für Euch auf ihn aufpassen? Bitte?“
-{RHIN}</DefaultText>
+Sie sieht dich an. „Kann ich für Euch auf ihn aufpassen? Bitte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -712,14 +700,12 @@ Sie sieht dich an. „Kann ich für Euch auf ihn aufpassen? Bitte?“
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>„Oh“, sagt sie enttäuscht. „Na gut. Ich schätze, es war seltsam, dass ich Euch das aus heiterem Himmel gefragt habe.“
-{RHIN}</DefaultText>
+      <DefaultText>„Oh“, sagt sie enttäuscht. „Na gut. Ich schätze, es war seltsam, dass ich Euch das aus heiterem Himmel gefragt habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Sie akzeptiert es in stiller Anerkennung. Ihre Augen leuchten.
-{RHIN}</DefaultText>
+      <DefaultText>Sie akzeptiert es in stiller Anerkennung. Ihre Augen leuchten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -20,8 +20,7 @@ Doch ihre Stimme – ihre Stimme ist eine warme, taumelnde Flut aus ausgesproche
       <ID>3</ID>
       <DefaultText>„Ich wünsche Euch einen schönen Nachmittag! Nun, ich sage 'Nachmittag', doch die Nacht ist früh hereingebrochen. Ich frage mich, was …“
 
-Ihre brillanten, facettenreichen Augen flimmern vor dir. Etwas in einer ihrer zahlreichen Taschen beginnt zu summen. „Wieder einer mit dieser Tätowierung. Klebrige Rückstände an den Fingerspitzen. Nicht überrascht ob der plötzlich hereingebrochenen Nacht.“ Ihre Unterkiefer klicken auf und entblößen ein erfreutes Lächeln. „*Ihr* seid verantwortlich für den unerwarteten Nachteinbruch. Sagt mir, wie Ihr das getan habt!“
-{TON: Merkwürdiges (aber angenehmes) Summen}</DefaultText>
+Ihre brillanten, facettenreichen Augen flimmern vor dir. Etwas in einer ihrer zahlreichen Taschen beginnt zu summen. „Wieder einer mit dieser Tätowierung. Klebrige Rückstände an den Fingerspitzen. Nicht überrascht ob der plötzlich hereingebrochenen Nacht.“ Ihre Unterkiefer klicken auf und entblößen ein erfreutes Lächeln. „*Ihr* seid verantwortlich für den unerwarteten Nachteinbruch. Sagt mir, wie Ihr das getan habt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,16 +69,12 @@ Sie verstummt, doch das Summen bleibt. „Oh, Ihr habt auch so eine Tätowierung
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Zeigt mir, was Ihr zu verkaufen habt.“
-
-{LADEN}</DefaultText>
+      <DefaultText>„Zeigt mir, was Ihr zu verkaufen habt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Lasst mich einen weiteren Blick auf Euer Angebot werfen.“
-
-{LADEN}</DefaultText>
+      <DefaultText>„Lasst mich einen weiteren Blick auf Euer Angebot werfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,14 +212,12 @@ Prata seufzt. „Sie tat mir leid, um ehrlich zu sein. Sie wirkte traurig, als h
       <ID>39</ID>
       <DefaultText>„Habt Ihr das?“, sagt sie mit vor Verwunderung gerundeten Augen. Eine periodische Melodie ergänzt das Summen, das die Luft erfüllt. „Was genau? Das Ziffernblatt? Das Uhrwerk? Die eingeschlossene Metapher? Oh! Und habt Ihr Werkzeug verwendet? Die mentale Schnittstelle? Wartet. Habt Ihr die Konsolen verwendet?“
 
-Sie verstummt und schwingt eine Klaue nach dir. „Nein! Sagt es mir nicht. Antworten nehmen dem Leben all sein Mysterium. Wie auch immer! Habt Ihr vielleicht Interesse an einigen erstklassigen Artefakten? Verstaubten Relikten? Numenera von unbekannter Herkunft?“
-{TON: Gleiches Summen wie bei Knotenpunkt 3, zusammen mit einer periodischen Melodie}</DefaultText>
+Sie verstummt und schwingt eine Klaue nach dir. „Nein! Sagt es mir nicht. Antworten nehmen dem Leben all sein Mysterium. Wie auch immer! Habt Ihr vielleicht Interesse an einigen erstklassigen Artefakten? Verstaubten Relikten? Numenera von unbekannter Herkunft?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Handelsgeheimnisse!“, sagt sie und klatscht in ihre Chitin-Hände, wodurch ein ohrenbetäubendes Klappern entsteht. „Herrlich! Ich werde nicht versuchen, zu raten. Ich liege immer richtig, wenn ich das tue, und das nimmt dem Leben all sein Mysterium. Wie auch immer! Habt Ihr vielleicht Interesse an einigen erstklassigen Artefakten? Verstaubten Relikten? Numenera von unbekannter Herkunft?“
-{TON: Klappernde Chitin-Hände}</DefaultText>
+      <DefaultText>„Handelsgeheimnisse!“, sagt sie und klatscht in ihre Chitin-Hände, wodurch ein ohrenbetäubendes Klappern entsteht. „Herrlich! Ich werde nicht versuchen, zu raten. Ich liege immer richtig, wenn ich das tue, und das nimmt dem Leben all sein Mysterium. Wie auch immer! Habt Ihr vielleicht Interesse an einigen erstklassigen Artefakten? Verstaubten Relikten? Numenera von unbekannter Herkunft?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -234,16 +227,12 @@ Sie verstummt und schwingt eine Klaue nach dir. „Nein! Sagt es mir nicht. Antw
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>„Ich möchte den Rabatt in Anspruch nehmen, über den wir gesprochen haben.“
-
-{LADEN}</DefaultText>
+      <DefaultText>„Ich möchte den Rabatt in Anspruch nehmen, über den wir gesprochen haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>„Lasst mich einen weiteren Blick auf Eure reduzierten Waren werfen.“
-
-{LADEN}</DefaultText>
+      <DefaultText>„Lasst mich einen weiteren Blick auf Eure reduzierten Waren werfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -253,16 +242,12 @@ Sie verstummt und schwingt eine Klaue nach dir. „Nein! Sagt es mir nicht. Antw
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Seht Ihr? Es wird schon besser!“
-
-{SCRIPT: Ladenpreise wurden auf dem Standard belassen. Stellt sie einfach auf einen fairen Rabatt ein.}</DefaultText>
+      <DefaultText>„Seht Ihr? Es wird schon besser!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„Sofort!“
-
-{SCRIPT: Ladenpreise wurden auf dem Standard belassen. Stellt sie einfach auf einen fairen Rabatt ein.}</DefaultText>
+      <DefaultText>„Sofort!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -417,8 +402,7 @@ Prata lehnt sich verschwörerisch vor. „Ich versuche, sie nicht so oft zu benu
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>„Hmm“, sagt sie. Ihre Unterkiefer klicken. „Nein! In der Nähe des Marktes, ja. Ich wollte gerade den Laden schließen und bemerkte sie, weil sie ein wenig taumelte und mit sich selbst sprach.“
-{TON: Klickende Unterkiefer.}</DefaultText>
+      <DefaultText>„Hmm“, sagt sie. Ihre Unterkiefer klicken. „Nein! In der Nähe des Marktes, ja. Ich wollte gerade den Laden schließen und bemerkte sie, weil sie ein wenig taumelte und mit sich selbst sprach.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -442,9 +426,7 @@ Prata lehnt sich verschwörerisch vor. „Ich versuche, sie nicht so oft zu benu
 
 *Klick-klick*. „Das ist es“, sagt sie. „Sie sprach von einem leeren Kreis. Einem roten, leeren Kreis.“
 
-Sie kichert. „Ich wusste ja gar nicht, dass die Dendra O'hur sich betrinken!“
-
-{TON: Unterkiefer klicken zweimal.}</DefaultText>
+Sie kichert. „Ich wusste ja gar nicht, dass die Dendra O'hur sich betrinken!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

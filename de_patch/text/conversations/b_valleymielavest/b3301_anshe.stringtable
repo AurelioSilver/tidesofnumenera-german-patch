@@ -82,8 +82,7 @@ Sie verdreht die Augen. „Unsere Brüder und Schwester machen sich zu viele Sor
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Also gut“, sagt sie. „Es wird dich [Global: b3301_AnsheRestCost] Shin kosten. Du bekommst hier die beste Rast deines Lebens, versprochen. Der Kummer kann dich nicht verfolgen, wenn du hier unten bettest.“
-{MONEY}</DefaultText>
+      <DefaultText>„Also gut“, sagt sie. „Es wird dich [Global: b3301_AnsheRestCost] Shin kosten. Du bekommst hier die beste Rast deines Lebens, versprochen. Der Kummer kann dich nicht verfolgen, wenn du hier unten bettest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,8 +264,7 @@ Sie kratzt sich am Kinn. „Deinen Freunden, andererseits, kann ich helfen. Wer 
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„Willst du mir etwa damit etwas sagen?“
-{ALIGERN}</DefaultText>
+      <DefaultText>„Willst du mir etwa damit etwas sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -360,12 +358,10 @@ Sie strahlt ihre Hände an. „Ich habe sie schon fast so lange wie ich am Leben
       <ID>72</ID>
       <DefaultText>Er beäugt sie misstrauisch, wie sie über seine Brust flitzen und seine Ausrüstung verändern, aber er nickt dir zu.
 
-„Nett von dir, Kleiner“, sagt er. „Die Reparatur war dringend nötig.“
-{ALIGERN}</DefaultText>
+„Nett von dir, Kleiner“, sagt er. „Die Reparatur war dringend nötig.“</DefaultText>
       <FemaleText>Er beäugt sie misstrauisch, wie sie über seine Brust flitzen und seine Ausrüstung verändern, aber er nickt dir zu.
 
-„Nett von dir, Kleine“, sagt er. „Die Reparatur war dringend nötig.“
-{ALIGERN}</FemaleText>
+„Nett von dir, Kleine“, sagt er. „Die Reparatur war dringend nötig.“</FemaleText>
     </Entry>
     <Entry>
       <ID>73</ID>
@@ -386,8 +382,7 @@ Sie strahlt ihre Hände an. „Ich habe sie schon fast so lange wie ich am Leben
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>„Meine 'Ausrüstung' gut so, wie sie ist“, sagt sie und wölbt eine Augenbraue.
-{CALLISTEGE}</DefaultText>
+      <DefaultText>„Meine 'Ausrüstung' gut so, wie sie ist“, sagt sie und wölbt eine Augenbraue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,12 +421,10 @@ Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin
       <ID>83</ID>
       <DefaultText>„Muss ich das?“, sagt er, aber er bietet dir ein Lächeln als die Fäden seiner Kleider sich von allein bewegen.
 
-„Danke dir, mein Freund.“
-{ERRITIS}</DefaultText>
+„Danke dir, mein Freund.“</DefaultText>
       <FemaleText>„Muss ich das?“, sagt er, aber er bietet dir ein Lächeln als die Fäden seiner Kleider sich von allein bewegen.
 
-„Danke dir, meine Freundin.“
-{ERRITIS}</FemaleText>
+„Danke dir, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>84</ID>
@@ -462,8 +455,7 @@ Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>„Warum?“, sagt sie und gibt dir einen argwöhnischen Blick. „Ich bin in Ordnung. Alles, was ich besitze, ist in Ordnung.“
-{MATKINA}</DefaultText>
+      <DefaultText>„Warum?“, sagt sie und gibt dir einen argwöhnischen Blick. „Ich bin in Ordnung. Alles, was ich besitze, ist in Ordnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -490,8 +482,7 @@ Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin
       <ID>94</ID>
       <DefaultText>Die Assassine zuckt und sieht dich finster an, während sich ihre Rüstung von selbst verbessert.
 
-„Sollte mich dieser Zauber irgendwie umbringen, nehme ich dich mit ins Grab.“ Sie beißt sich auf die Lippe. „Und danke.“
-{MATKINA}</DefaultText>
+„Sollte mich dieser Zauber irgendwie umbringen, nehme ich dich mit ins Grab.“ Sie beißt sich auf die Lippe. „Und danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -553,8 +544,7 @@ Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>„Wie?“, sagt sie aufspringend. „Was stimmt nicht mit meiner Kleidung?“
-{RHIN}</DefaultText>
+      <DefaultText>„Wie?“, sagt sie aufspringend. „Was stimmt nicht mit meiner Kleidung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -640,8 +630,7 @@ Sie schaut zu dir hinauf. „[Global: b3301_AnsheRhinUpgradeCloakCost] Shin. Nie
       <ID>128</ID>
       <DefaultText>Tybir sieht dich mit hochgezogener Augenbraue an, während seine Rüstung sich von selbst repariert.
 
-„Falls ich am Ende von diesem Hokuspokus nackt vor dir stehe, bist du selbst daran schuld. Und falls nicht… Danke.“
-{TYBIR}</DefaultText>
+„Falls ich am Ende von diesem Hokuspokus nackt vor dir stehe, bist du selbst daran schuld. Und falls nicht… Danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -708,10 +697,8 @@ Sie schaut zu dir hinauf. „[Global: b3301_AnsheRhinUpgradeCloakCost] Shin. Nie
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>„Sieh einer an“, verkündet die Frau. „Unser eigensinniger Bruder höchstpersönlich.“
-{GAVIN: Test this sucker when the previewer's working again.}</DefaultText>
-      <FemaleText>„Sieh einer an“, verkündet die Frau. „Unsere eigensinnige Schwester höchstpersönlich.“
-{GAVIN: Test this sucker when the previewer's working again.}</FemaleText>
+      <DefaultText>„Sieh einer an“, verkündet die Frau. „Unser eigensinniger Bruder höchstpersönlich.“</DefaultText>
+      <FemaleText>„Sieh einer an“, verkündet die Frau. „Unsere eigensinnige Schwester höchstpersönlich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>142</ID>

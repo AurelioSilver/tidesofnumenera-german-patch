@@ -324,14 +324,12 @@ Er lehnt sich zu dir. „Geht nicht zu ihm, wenn Ihr nicht dazu bereit seid, mit
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>„Ich habe bereits alles gesagt, was ich sagen musste“, sagt Aligern mit verschränkten Armen. „Alles weitere wäre eine Verschwendung meines Atems.“
-{ALIGERN}</DefaultText>
+      <DefaultText>„Ich habe bereits alles gesagt, was ich sagen musste“, sagt Aligern mit verschränkten Armen. „Alles weitere wäre eine Verschwendung meines Atems.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Ich bin nur auf der Durchreise, mein lieber Min“, sagt Callistege. „Ihr müsst für mich nicht extra Platz am Esstisch machen.“
-{CALLISTEGE}</DefaultText>
+      <DefaultText>„Ich bin nur auf der Durchreise, mein lieber Min“, sagt Callistege. „Ihr müsst für mich nicht extra Platz am Esstisch machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -409,8 +407,7 @@ Dann atmet er ein, schluckt den Konter mit wohlgeübter Zurückhaltung und konze
       <ID>79</ID>
       <DefaultText>„Vielleicht nicht“, sagt er und verschränkt seine Arme. „Aber soweit ich weiß, ist ‚Gerechtigkeit‘ keine Bedingung für die Wahrheit. Vielleicht liege ich da ja falsch.“
 
-Min seufzt und widmet sich wieder voll und ganz dir.
-{ALIGERN}</DefaultText>
+Min seufzt und widmet sich wieder voll und ganz dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,9 +548,7 @@ Er blickt in die Luft. „Und sehr, sehr faszinierend. Ich *könnte* etwas auf d
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>„Ich möchte, dass Ihr das Gerät für mich baut.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Ich möchte, dass Ihr das Gerät für mich baut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -761,8 +756,7 @@ Er reibt seinen Kopf mit seinem schwieligen Handrücken. „Bitte. Fragt mich et
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>„“
-{GAVIN: This is the gateway to joining the Order of Truth. Add if time. Gated with blank global for now.}</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
