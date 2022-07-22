@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>{satisfied}„Man kann die Energie der Metropole förmlich *spüren*.“</DefaultText>
+      <DefaultText>„Man kann die Energie der Metropole förmlich *spüren*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,12 +211,12 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>{cheerful}„Ich erinnere mich an diese Stadt. Ich bin in sie hineingekracht!“</DefaultText>
+      <DefaultText>„Ich erinnere mich an diese Stadt. Ich bin in sie hineingekracht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>„Sieh doch nur. Wie wir durch die Stadt laufen. Und nichts kaputtmachen.{beat, bored groan.}“</DefaultText>
+      <DefaultText>„Sieh doch nur. Wie wir durch die Stadt laufen. Und nichts kaputtmachen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Das ist ein interessanter Geruch. Wo wir gerade bei Gerüchen sind, habe ich dir je erzählt … {happy gasp}Hey, ich habe Sommersprossen!“</DefaultText>
+      <DefaultText>„Das ist ein interessanter Geruch. Wo wir gerade bei Gerüchen sind, habe ich dir je erzählt … Hey, ich habe Sommersprossen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,17 +266,17 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Warum ist dieser Ort so voller Trauer?{suspicious} Sollten wir auch trauern?“</DefaultText>
+      <DefaultText>„Warum ist dieser Ort so voller Trauer? Sollten wir auch trauern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>„Wir sind hier schon eine Ewigkeit! {Grumbles, mutters}Abzüglich einiger Ewigkeiten, aber trotzdem.“</DefaultText>
+      <DefaultText>„Wir sind hier schon eine Ewigkeit! Abzüglich einiger Ewigkeiten, aber trotzdem.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>{ants in pants}„Überall, wo ich hinsehe, wartet das Abenteuer. Warum jagen wir ihm nicht nach?“</DefaultText>
+      <DefaultText>„Überall, wo ich hinsehe, wartet das Abenteuer. Warum jagen wir ihm nicht nach?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,7 +286,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>{Phew}„Jetzt bin ich etwas angeschlagen.“</DefaultText>
+      <DefaultText>„Jetzt bin ich etwas angeschlagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -576,42 +576,42 @@
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>{Improvised sound}</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>{Improvised sound}</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>{Improvised sound}</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>{Improvised sound}</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>{Improvised sound}</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>{Improvised sound}</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>{Improvised sound}</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>{Improvised sound}</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

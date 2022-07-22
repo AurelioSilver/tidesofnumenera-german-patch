@@ -28,9 +28,7 @@ Er blickt auf. „Hey, du bist zurückgekehrt.“</DefaultText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Hey.“ Coty winkt dich heran. „Ich hörte Fräulein Fleck sagen, der Schlund wolle eine Art Jäger. Das ist dieser … Kerl, ich vermute drüben auf dem Hof. Ich habe die anderen Sklaven über ihn reden gehört. Sie nennen ihn Beutespäher.“
-
-{SKRIPT: Should this conditional be KnowWhatSecretMawWants == 0? And then does this node need to set it to 1?}</DefaultText>
+      <DefaultText>„Hey.“ Coty winkt dich heran. „Ich hörte Fräulein Fleck sagen, der Schlund wolle eine Art Jäger. Das ist dieser … Kerl, ich vermute drüben auf dem Hof. Ich habe die anderen Sklaven über ihn reden gehört. Sie nennen ihn Beutespäher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,9 +85,7 @@ Er beugt sich vor. „Aber diese Leute sind seltsam, und Fräulein Fleck beobach
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Ach, na gut. Warte.“ Er wendet sich der alten Frau zu. „Fräulein Fleck?“
-
-{SKRIPT: Fleck ist abgelenkt durch das Gespräch mit Coty. Eventuell in dieser Szene zeigen.}</DefaultText>
+      <DefaultText>„Ach, na gut. Warte.“ Er wendet sich der alten Frau zu. „Fräulein Fleck?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

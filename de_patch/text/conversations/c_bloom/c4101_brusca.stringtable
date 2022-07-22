@@ -68,9 +68,7 @@ Sie fährt sich mit der Hand durch ihre leicht ergrauten kurzen Haare. „Oh Man
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Wenn du ihn annimmst, gebe ich dir [Global: c4101_BruscaCotyEquipmentPrice] Shin für seine Ausrüstung.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Wenn du ihn annimmst, gebe ich dir [Global: c4101_BruscaCotyEquipmentPrice] Shin für seine Ausrüstung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,9 +168,7 @@ Sie fährt sich mit der Hand durch ihre leicht ergrauten kurzen Haare. „Oh Man
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Was? Alle beide? Aber …“ Sie greift sich an den Kopf und dreht sich weg. „Der Blitz soll diesen Ort hier treffen.“ Ihre mächtigen Schultern erbeben einmal, dann richtet sie sich wieder auf und wendet sich wieder dir zu. „Danke dennoch für die Information. Hier ist eine kleine Belohnung für deine Mühen.“
-
-{SCRIPT: Give small reward.}</DefaultText>
+      <DefaultText>„Was? Alle beide? Aber …“ Sie greift sich an den Kopf und dreht sich weg. „Der Blitz soll diesen Ort hier treffen.“ Ihre mächtigen Schultern erbeben einmal, dann richtet sie sich wieder auf und wendet sich wieder dir zu. „Danke dennoch für die Information. Hier ist eine kleine Belohnung für deine Mühen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,14 +187,12 @@ Plötzlich mustert sie dich von Kopf bis Fuß. „Du… Meine Patrouillen haben 
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>(Lüge) „Nein, das muss jemand anders gewesen sein.“</DefaultText>
+      <DefaultText>„Nein, das muss jemand anders gewesen sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Verdammte Axt.“ Ihr Gesichtsausdruck hellt sich ein wenig auf, auch wenn er immer noch steinern ist. „Ich stehe in deiner Schuld, schätze ich. Ich kann dir nicht viel anbieten, aber bitte nimm dies hier. Meine Männer haben es den Murden abgenommen.“
-
-{SCRIPT: Give the player some cool cypher or (worst case) money.}</DefaultText>
+      <DefaultText>„Verdammte Axt.“ Ihr Gesichtsausdruck hellt sich ein wenig auf, auch wenn er immer noch steinern ist. „Ich stehe in deiner Schuld, schätze ich. Ich kann dir nicht viel anbieten, aber bitte nimm dies hier. Meine Männer haben es den Murden abgenommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -355,9 +349,7 @@ Sie unterbricht ihr Gemurre und sieht dich von Kopf bis Fuß an. Sie runzelt die
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>„Du meinst die Mutanten …? Diese *verdammten* Wilden. Die nehmen sich langsam zu viel heraus.“ Sie blickt wieder auf den Tunnel, als könnte sie ihre Männer mit purer Willenskraft heil zurückbringen. „Nun, du hast zwei Männer gerettet und mir Gewissheit über den Rest verschafft. Mein Dank ist dir gewiss. Hier, nimm das bitte. Es ist nicht viel, aber mehr kann ich nicht entbehren.“
-
-{SCRIPT: Give reward.}</DefaultText>
+      <DefaultText>„Du meinst die Mutanten …? Diese *verdammten* Wilden. Die nehmen sich langsam zu viel heraus.“ Sie blickt wieder auf den Tunnel, als könnte sie ihre Männer mit purer Willenskraft heil zurückbringen. „Nun, du hast zwei Männer gerettet und mir Gewissheit über den Rest verschafft. Mein Dank ist dir gewiss. Hier, nimm das bitte. Es ist nicht viel, aber mehr kann ich nicht entbehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,9 +458,7 @@ Sie tritt von einem Fuß auf den anderen und wirft einen verstohlenen Blick zur 
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Sie sieht sich den Jungen noch mal an und mustert dich dann von oben bis unten, während sie überlegt. „[Global: c4101_BruscaCotyEquipmentPrice] Shin.“
-
-{MONEY}</DefaultText>
+      <DefaultText>Sie sieht sich den Jungen noch mal an und mustert dich dann von oben bis unten, während sie überlegt. „[Global: c4101_BruscaCotyEquipmentPrice] Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

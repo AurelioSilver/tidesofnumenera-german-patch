@@ -16,9 +16,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Zeigt mir, was du verkaufst.“
-
-{LADEN}</DefaultText>
+      <DefaultText>„Zeigt mir, was du verkaufst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,9 +400,7 @@ Sie zuckt mit den Schultern. „Aber man kann gutes Geld verdienen. Die Flor-Bev
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Versuche, ihren Schal wegzuziehen.
-
-{KRIT}</DefaultText>
+      <DefaultText>Versuche, ihren Schal wegzuziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -508,9 +504,7 @@ Sie rückt ihr Halstuch über den Bissspuren an ihrem Hals zurecht.</DefaultText
       <ID>122</ID>
       <DefaultText>Die Händlerin dreht sich mit klarerem Blick zu dir um. „Vielen Dank. Ich weiß nicht, was mit mir los war. Die Flor ist in meinen Verstand eingedrungen … und hat auch mein Aneen *verändert*. Aber ich glaube, sie ist jetzt wieder ganz die Alte.“ 
 
-Sie zögert, dann nickt sie. „Du kannst jederzeit wiederkommen. Ich gewähre dir einen Preisnachlass. Das ist das Mindeste, was ich tun kann.“
-
-{DP}</DefaultText>
+Sie zögert, dann nickt sie. „Du kannst jederzeit wiederkommen. Ich gewähre dir einen Preisnachlass. Das ist das Mindeste, was ich tun kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -535,9 +529,7 @@ Sie zögert, dann nickt sie. „Du kannst jederzeit wiederkommen. Ich gewähre d
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Versuche, unter das Tuch zu blicken. „Ähm, das ist etwas auf deinem Tuch. Genau dort unterm Kinn.“
-
-{KRIT}</DefaultText>
+      <DefaultText>Versuche, unter das Tuch zu blicken. „Ähm, das ist etwas auf deinem Tuch. Genau dort unterm Kinn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -922,9 +914,7 @@ Du bist dir sicher, wenn man den Florstimmen sagen würde, sie sollen Skaydi in 
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>Sie wühlt in ihren Taschen, zieht einen klimpernden Geldbeutel hervor und gibt ihn dir. „Das ist alles, was ich auf dieser Reise verdient habe. Es gehört dir. Und wenn du etwas von mir kaufen willst, bekommst du es zu dem Preis, den ich selbst dafür bezahlt habe.“ Dann neigt sie ihren Kopf. „Memovira“, flüstert sie. „Ich weiß, dass Ihr es seid.“
-
-{BEUTE: Spieler erhält eine große Menge Shins.}</DefaultText>
+      <DefaultText>Sie wühlt in ihren Taschen, zieht einen klimpernden Geldbeutel hervor und gibt ihn dir. „Das ist alles, was ich auf dieser Reise verdient habe. Es gehört dir. Und wenn du etwas von mir kaufen willst, bekommst du es zu dem Preis, den ich selbst dafür bezahlt habe.“ Dann neigt sie ihren Kopf. „Memovira“, flüstert sie. „Ich weiß, dass Ihr es seid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

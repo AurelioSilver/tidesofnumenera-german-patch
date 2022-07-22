@@ -373,9 +373,7 @@ Als er dich bemerkt, scheucht er die Händler weg und dreht sich zu dir um. Dir 
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>„Ich warte noch auf die Nachricht von einer alten Freundin, die vielleicht meine Hilfe braucht. Hoffentlich tut sie's nicht.“
-
-{SCRIPT: The conditional script needs to check for the same number of Bloom favor points that would give the player a „free ride“ through Crisis 4-1 and trigger the Grisseler encounter in the depths. Please tweak the value accordingly (currently it's a placeholder value).}</DefaultText>
+      <DefaultText>„Ich warte noch auf die Nachricht von einer alten Freundin, die vielleicht meine Hilfe braucht. Hoffentlich tut sie's nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -390,9 +388,7 @@ Als er dich bemerkt, scheucht er die Händler weg und dreht sich zu dir um. Dir 
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Du bemerkst, dass er recht hat. Das leise Flüstern der Flor, das du schon eine Weile lang vernommen hast, scheint immer aufgeregter zu werden, wenn du das Skalpell hervorholst.
-
-{SCRIPT: This assumes that the player will hear the voice of the Bloom as their favor increases. If we don't end up doing that, remove this node. If we do, be sure the conditional checks the right threshold level of Bloom favor.}</DefaultText>
+      <DefaultText>Du bemerkst, dass er recht hat. Das leise Flüstern der Flor, das du schon eine Weile lang vernommen hast, scheint immer aufgeregter zu werden, wenn du das Skalpell hervorholst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -64,16 +64,12 @@ Sein Anführer sieht dich an und schüttelt den Kopf. „Lass dich von Alcar nic
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Schnell gehst du in die Knie und greifst mit deinem Arm in die Furche. Deine Finger umschließen das Gerät und ziehen es aus der Wunde, noch bevor das Flor-Fleisch die Öffnung wieder verschließen kann.
-
-{LOOT}</DefaultText>
+      <DefaultText>Schnell gehst du in die Knie und greifst mit deinem Arm in die Furche. Deine Finger umschließen das Gerät und ziehen es aus der Wunde, noch bevor das Flor-Fleisch die Öffnung wieder verschließen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Hineingreifen und es herausholen.
-
-{CRIT}</DefaultText>
+      <DefaultText>Hineingreifen und es herausholen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

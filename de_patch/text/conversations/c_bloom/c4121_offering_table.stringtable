@@ -16,9 +16,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Versuchen, den Lebensbildbetrachter zu stehlen.
-
-{CRIT}</DefaultText>
+      <DefaultText>Versuchen, den Lebensbildbetrachter zu stehlen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -30,9 +28,7 @@
       <ID>4</ID>
       <DefaultText>Du wartest, bis die Fleck einen Augenblick lang unaufmerksam ist, nutzt die Gelegenheit und entfernst das Gerät von der Platte. Dabei achtest du penibel darauf, keine der Opfergaben umzustoßen. 
 
-Die Fleck dreht sich mit funkelnden Augen zu dir um, und du glaubst, ein leichtes Zischen und Grummeln im Geflüster der Flor ausmachen zu können. Auch, wenn sie kein Wort von sich gegeben hat, gehst du davon aus, dass sie – und die Flor – wissen, was du getan hast.
-
-{SOUND: Angry hissing of Bloom - should be standard sound effect when player loses Bloom favor.}</DefaultText>
+Die Fleck dreht sich mit funkelnden Augen zu dir um, und du glaubst, ein leichtes Zischen und Grummeln im Geflüster der Flor ausmachen zu können. Auch, wenn sie kein Wort von sich gegeben hat, gehst du davon aus, dass sie – und die Flor – wissen, was du getan hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,9 +83,7 @@ Du hast den Lebensbildbetrachter, den der Wandelnde Gott zurückgelassen hat, be
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Nach der Opfergabe suchen, die vom Wandelnden Gott hinterlassen wurde.
-
-{CRIT}</DefaultText>
+      <DefaultText>Nach der Opfergabe suchen, die vom Wandelnden Gott hinterlassen wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

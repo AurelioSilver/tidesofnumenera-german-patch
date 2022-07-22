@@ -261,9 +261,7 @@ Er reibt sich die Augen. „Seine Aufgabe ist es nun, mich gegen die zu schütze
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Er blickt auf seinen überfüllten Schreibtisch. „Ich gehe nicht davon aus, dass ich diese Geräte noch länger benötige. Vielleicht sind sie dir von Nutzen.“
-
-{LADEN}</DefaultText>
+      <DefaultText>Er blickt auf seinen überfüllten Schreibtisch. „Ich gehe nicht davon aus, dass ich diese Geräte noch länger benötige. Vielleicht sind sie dir von Nutzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,9 +291,7 @@ Er reibt sich die Augen. „Seine Aufgabe ist es nun, mich gegen die zu schütze
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Er mustert dich kritisch. „Die Technologie ist jedoch alt. An diesem Punkt sind Verbesserungen möglich. Zum Preis von [Global: c4131_IoxuScalpelUpgradePrice] Shin – der die Kosten für importierte Materialien deckt – kann das Skalpell effektiver und gefährlicher werden.“
-
-{GELD}</DefaultText>
+      <DefaultText>Er mustert dich kritisch. „Die Technologie ist jedoch alt. An diesem Punkt sind Verbesserungen möglich. Zum Preis von [Global: c4131_IoxuScalpelUpgradePrice] Shin – der die Kosten für importierte Materialien deckt – kann das Skalpell effektiver und gefährlicher werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -305,16 +301,12 @@ Er reibt sich die Augen. „Seine Aufgabe ist es nun, mich gegen die zu schütze
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>„[Global: c4131_IoxuScalpelUpgradePrice]? In Ordnung.“ Ihn bezahlen.
-
-{GELD}</DefaultText>
+      <DefaultText>„[Global: c4131_IoxuScalpelUpgradePrice]? In Ordnung.“ Ihn bezahlen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Ich habe nicht genug Shin.
-
-{GELD}</DefaultText>
+      <DefaultText>Ich habe nicht genug Shin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -329,9 +321,7 @@ Er reibt sich die Augen. „Seine Aufgabe ist es nun, mich gegen die zu schütze
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Er nimmt dir das Geld und das Skalpell aus den Händen und geht zu seiner Werkbank. Er murmelt vor sich hin und macht sich an der Klinge und ihrem Gehäuse zu schaffen. Als er dir das Skalpell zurückgibt, sagt er: „Folgende Modifikationen … stärkerer Energiefluss durch die Klinge, Energieverbrauch und -effizienz bleiben aber gleich, sind vielleicht etwas besser; schärfere Klinge; ergonomische Optimierung für Menschenfinger.“
-
-{GELD}</DefaultText>
+      <DefaultText>Er nimmt dir das Geld und das Skalpell aus den Händen und geht zu seiner Werkbank. Er murmelt vor sich hin und macht sich an der Klinge und ihrem Gehäuse zu schaffen. Als er dir das Skalpell zurückgibt, sagt er: „Folgende Modifikationen … stärkerer Energiefluss durch die Klinge, Energieverbrauch und -effizienz bleiben aber gleich, sind vielleicht etwas besser; schärfere Klinge; ergonomische Optimierung für Menschenfinger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,9 +416,7 @@ Er reibt sich die Augen. „Seine Aufgabe ist es nun, mich gegen die zu schütze
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>„Ich benötige deine Waren.“
-
-{LADEN}</DefaultText>
+      <DefaultText>„Ich benötige deine Waren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -490,16 +478,12 @@ Seine Verdrießlichkeit ist beinahe ansteckend.</DefaultText>
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>„Nimm dies an.“ Er drückt dir etwas Kleines in die Hände.
-
-{BEUTE}</DefaultText>
+      <DefaultText>„Nimm dies an.“ Er drückt dir etwas Kleines in die Hände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>„Nimm dies an. Lasst die Schuld nicht unbeglichen.“ Er drückt dir etwas Kleines in die Hände.
-
-{BEUTE}</DefaultText>
+      <DefaultText>„Nimm dies an. Lasst die Schuld nicht unbeglichen.“ Er drückt dir etwas Kleines in die Hände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -531,9 +515,7 @@ Seine Verdrießlichkeit ist beinahe ansteckend.</DefaultText>
       <ID>122</ID>
       <DefaultText>Der Varjellen geht im Raum umher. „Einige Maschinen bleiben aktiv, aber die Experimente werden eingestellt.“
 
-Er schaltet die Apparaturen ab und schließt die Augen für einen kurzen Moment. „Möge mich das Glück nicht verlassen“, flüstert er.
-
-{SKRIPT: I'm not noticing much of a difference in the room when we fade out - fade in. What is getting switched off here?}</DefaultText>
+Er schaltet die Apparaturen ab und schließt die Augen für einen kurzen Moment. „Möge mich das Glück nicht verlassen“, flüstert er.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -560,9 +542,7 @@ Er schaltet die Apparaturen ab und schließt die Augen für einen kurzen Moment.
       <ID>127</ID>
       <DefaultText>Er unterbricht seine Arbeit, als du zu sprechen beginnst und nickt dabei. „Die gesprochenen Worte sind vernünftig. Das wäre nicht klar gewesen. Viele Jahre gearbeitet habe ich bisher, doch könnten meine gesammelten Informationen bereits ausreichend sein.“
 
-Er sieht dich mit einem Auge an. „Es kommt die Zeit, da Daten in *nützliches* Wissen umgewandelt werden. Die Experimente werden eingestellt. Nehmt dies als Zeichen meiner Dankbarkeit.“
-
-{BEUTE}</DefaultText>
+Er sieht dich mit einem Auge an. „Es kommt die Zeit, da Daten in *nützliches* Wissen umgewandelt werden. Die Experimente werden eingestellt. Nehmt dies als Zeichen meiner Dankbarkeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -599,9 +579,7 @@ Er verstummt, sobald er deine Rückkehr bemerkt. Sein Blick füllt sich mit Schr
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>„Ein alter Entwurf, wie ich schon sagte. Für [Global: c4131_IoxuScalpelUpgradePrice] Shin kann das Skalpell wirkungsvoller gemacht werden.“
-
-{GELD}</DefaultText>
+      <DefaultText>„Ein alter Entwurf, wie ich schon sagte. Für [Global: c4131_IoxuScalpelUpgradePrice] Shin kann das Skalpell wirkungsvoller gemacht werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

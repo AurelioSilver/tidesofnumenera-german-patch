@@ -96,9 +96,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Dann bist du also auch nicht anders.“ Sie schaut dich finster an und wirft dir einen kleinen Beutel Shin zu. „Ich hasse diesen Ort, Ich schwöre, hier werden Räuber *gezüchtet*. Hau jetzt ab! Du hast gekriegt, was du wolltest, also verschwinde!“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Dann bist du also auch nicht anders.“ Sie schaut dich finster an und wirft dir einen kleinen Beutel Shin zu. „Ich hasse diesen Ort, Ich schwöre, hier werden Räuber *gezüchtet*. Hau jetzt ab! Du hast gekriegt, was du wolltest, also verschwinde!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,9 +106,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Sie geht einen Schritt zurück. „Na schön“, sagt sie und wirft dir zwei Beutel Shin zu. Sie hält das Kinn noch nach oben, aber in ihren Augen ist die Angst zu sehen.
-
-{MONEY}</DefaultText>
+      <DefaultText>Sie geht einen Schritt zurück. „Na schön“, sagt sie und wirft dir zwei Beutel Shin zu. Sie hält das Kinn noch nach oben, aber in ihren Augen ist die Angst zu sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -277,16 +273,12 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Natürlich! Das wären dann [Global: c4101_QianneRestingPrice] Shin pro Kopf.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Natürlich! Das wären dann [Global: c4101_QianneRestingPrice] Shin pro Kopf.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Ihr das Geld geben.
-
-{MONEY}</DefaultText>
+      <DefaultText>Ihr das Geld geben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,23 +368,17 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>„Na gut“, sagt sie mit kalter Stimme. „Ich brauche dann [Global: c4101_QianneRestingPrice] Shin für jeden.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Na gut“, sagt sie mit kalter Stimme. „Ich brauche dann [Global: c4101_QianneRestingPrice] Shin für jeden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Ihr das Geld geben.
-
-{MONEY}</DefaultText>
+      <DefaultText>Ihr das Geld geben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>„Ich werde dir nichts *zahlen*. Ich werde hier schlafen, ob es dir nun gefällt oder nicht.“
-
-{CRIT}</DefaultText>
+      <DefaultText>„Ich werde dir nichts *zahlen*. Ich werde hier schlafen, ob es dir nun gefällt oder nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -454,9 +440,7 @@
       <ID>101</ID>
       <DefaultText>„Ich verstehe“, sagt sie. Ihrer Stimme hört man die Skepsis an. „Ich denke, sie reagieren auf Geld, ohnehin ist es schon mehr, als ich selbst hätte tun können. Danke!“
 
-Sie holt etwas aus ihrer Tasche hervor. „Hier. Es ist nicht viel, aber ich habe ja auch nicht viel. Betrachte es als Dankeschön. Und du kannst hier jederzeit gratis übernachten.“
-
-{LOOT}</DefaultText>
+Sie holt etwas aus ihrer Tasche hervor. „Hier. Es ist nicht viel, aber ich habe ja auch nicht viel. Betrachte es als Dankeschön. Und du kannst hier jederzeit gratis übernachten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -468,9 +452,7 @@ Sie holt etwas aus ihrer Tasche hervor. „Hier. Es ist nicht viel, aber ich hab
       <ID>103</ID>
       <DefaultText>„Ich verstehe“, sagt sie. Ihrer Stimme hört man die Skepsis an. „Ich habe das natürlich selbst versucht. Aber du bist viel eher in der Lage, deinen Worten den nötigen Nachdruck zu verleihen als ich …“
 
-Sie greift in ihre Tasche. „Ich danke dir für deine Bemühungen. Nimm das. Es ist nicht viel, aber ich habe ja auch nicht viel. Und wenn du magst, kannst du hier jederzeit gratis übernachten.“
-
-{LOOT}</DefaultText>
+Sie greift in ihre Tasche. „Ich danke dir für deine Bemühungen. Nimm das. Es ist nicht viel, aber ich habe ja auch nicht viel. Und wenn du magst, kannst du hier jederzeit gratis übernachten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -482,9 +464,7 @@ Sie greift in ihre Tasche. „Ich danke dir für deine Bemühungen. Nimm das. Es
       <ID>105</ID>
       <DefaultText>Ihre Augen klimpern mit Verständnis. Ein kleines Grinsen erscheint in ihrem Gesicht, das aber sofort wieder verschwindet. Sie scheint deshalb fast Schuldgefühle zu haben. „Wie seltsam“, sagt sie.
 
-„Wie auch immer, bitte nimm das als meinen Dank. Wenn Vrung wirklich verschwunden ist, kann ich mir einen kleinen Exzess erlauben.“ Sie reicht dir einen kleinen Beutel aus ihrer Tasche. „Und übernachte hier kostenlos, so oft du willst.“
-
-{LOOT}</DefaultText>
+„Wie auch immer, bitte nimm das als meinen Dank. Wenn Vrung wirklich verschwunden ist, kann ich mir einen kleinen Exzess erlauben.“ Sie reicht dir einen kleinen Beutel aus ihrer Tasche. „Und übernachte hier kostenlos, so oft du willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,9 +476,7 @@ Sie greift in ihre Tasche. „Ich danke dir für deine Bemühungen. Nimm das. Es
       <ID>107</ID>
       <DefaultText>Ihre Augen werden ganz groß. „Faszinierend. Ja, das erklärt eine Menge. In dem Fall hast du mich gerettet *und* sie. Dafür gebührt dir mein unendlicher Dank.“
 
-Sie zieht einen kleinen Beutel hervor: „Bitte, nimm das als meinen Dank. Wenn Vrung wirklich verschwunden ist, kann ich mir einen kleinen Exzess erlauben. Und übernachte hier kostenlos, so oft du willst.“
-
-{LOOT}</DefaultText>
+Sie zieht einen kleinen Beutel hervor: „Bitte, nimm das als meinen Dank. Wenn Vrung wirklich verschwunden ist, kann ich mir einen kleinen Exzess erlauben. Und übernachte hier kostenlos, so oft du willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -510,9 +488,7 @@ Sie zieht einen kleinen Beutel hervor: „Bitte, nimm das als meinen Dank. Wenn 
       <ID>109</ID>
       <DefaultText>„Nun ja“, sagt sie, ihr Zweifeln ist eindeutig zu hören. „Ich hoffe wirklich, du hast recht. Wie dem auch sei, du hast mehr getan, als ich es jemals hätte tun können und dafür bin ich dir sehr dankbar.“
 
-Sie zieht einen kleinen Beutel hervor: „Bitte, nimm das als meinen Dank. Wenn Vrung wirklich verschwunden ist, kann ich mir einen kleinen Exzess erlauben. Und du darfst hier übernachten, so oft du willst und gratis.“
-
-{LOOT}</DefaultText>
+Sie zieht einen kleinen Beutel hervor: „Bitte, nimm das als meinen Dank. Wenn Vrung wirklich verschwunden ist, kann ich mir einen kleinen Exzess erlauben. Und du darfst hier übernachten, so oft du willst und gratis.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -564,12 +540,8 @@ Sie schlägt sich die Hände vors Gesicht und seufzt. „Leider war das die letz
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>„Wenn ich überlebe, was ich vermute …“ Sie denkt etwas länger darüber nach. „Ja, das mache ich in der Tat. Vielen Dank, guter Mann. Ich hätte fast vergessen, weshalb ich eigentlich an Bord des Katenas ging.“
-
-{DP}</DefaultText>
-      <FemaleText>„Wenn ich überlebe, was ich vermute …“ Sie denkt etwas länger darüber nach. „Ja, das mache ich in der Tat. Vielen Dank, gute Frau. Ich hätte fast vergessen, weshalb ich eigentlich an Bord des Katenas ging.“
-
-{DP}</FemaleText>
+      <DefaultText>„Wenn ich überlebe, was ich vermute …“ Sie denkt etwas länger darüber nach. „Ja, das mache ich in der Tat. Vielen Dank, guter Mann. Ich hätte fast vergessen, weshalb ich eigentlich an Bord des Katenas ging.“</DefaultText>
+      <FemaleText>„Wenn ich überlebe, was ich vermute …“ Sie denkt etwas länger darüber nach. „Ja, das mache ich in der Tat. Vielen Dank, gute Frau. Ich hätte fast vergessen, weshalb ich eigentlich an Bord des Katenas ging.“</FemaleText>
     </Entry>
     <Entry>
       <ID>120</ID>

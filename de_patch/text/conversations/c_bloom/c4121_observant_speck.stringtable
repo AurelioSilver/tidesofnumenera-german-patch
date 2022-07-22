@@ -380,9 +380,7 @@ Sie wirft den Kopf zurück und spricht zu den Flüsterstimmen, die nur sie höre
       <ID>75</ID>
       <DefaultText>Rhins Augen weiten sich und sie schüttelt hektisch den Kopf. „NEIN!“, zischt sie. 
 
-Als die Fleck sie hört, ist sie höflich genug, das Mädchen zu ignorieren.
-
-{ROTHFUSS: Rhins Stimme.}</DefaultText>
+Als die Fleck sie hört, ist sie höflich genug, das Mädchen zu ignorieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -584,9 +582,7 @@ Als die Fleck sie hört, ist sie höflich genug, das Mädchen zu ignorieren.
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Die Fleck dreht sich im Kreis. „Es ist ein Zyklus, der sich ständig wiederholt. Einen Memovira verspeisen, einen anderen an seiner Stelle aufziehen, den Hunger wachsen lassen.“ Sie macht eine Pause. „Und wieder speisen.“ 
-
-{DP}</DefaultText>
+      <DefaultText>Die Fleck dreht sich im Kreis. „Es ist ein Zyklus, der sich ständig wiederholt. Einen Memovira verspeisen, einen anderen an seiner Stelle aufziehen, den Hunger wachsen lassen.“ Sie macht eine Pause. „Und wieder speisen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,9 +632,7 @@ Als die Fleck sie hört, ist sie höflich genug, das Mädchen zu ignorieren.
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Die Fleck dreht sich mit einem Ruck zu dir um, ihre Augen funkeln. „Was willst du damit sagen?“
-
-{DP}</DefaultText>
+      <DefaultText>Die Fleck dreht sich mit einem Ruck zu dir um, ihre Augen funkeln. „Was willst du damit sagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1186,9 +1180,7 @@ Die alte Frau schnalzt mit der Zunge. „Aber in der Flor ist nichts von Dauer.�
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>Ihre Augen weiten sich. „Ja, das ist er! Aber sie hätte ihn nie zurückgelassen.“ Sie greift nach deiner Hand. „Hast du Chila gesehen? War sie da?“
-
-{DP}</DefaultText>
+      <DefaultText>Ihre Augen weiten sich. „Ja, das ist er! Aber sie hätte ihn nie zurückgelassen.“ Sie greift nach deiner Hand. „Hast du Chila gesehen? War sie da?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1665,10 +1657,7 @@ Sie zieht es aus dem Haufen mit den Opfergaben und gibt es dir.</DefaultText>
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>Das Gerät hat eine zylindrische Form, geschmiedet wurde es aus Azurstahl, mit gebogenen, geschärften Vorsprüngen an allen Seiten, wodurch es schwer zu halten ist. Es fühlt sich *vertraut* an, wie ein Familienerbstück, von dem du nur in Geschichten gehört hast, es aber immer vor Augen hattest. Irgendwie weißt du, dass es ein Lebensbildbetrachter ist.
-
-{LOOT}
-{DP}</DefaultText>
+      <DefaultText>Das Gerät hat eine zylindrische Form, geschmiedet wurde es aus Azurstahl, mit gebogenen, geschärften Vorsprüngen an allen Seiten, wodurch es schwer zu halten ist. Es fühlt sich *vertraut* an, wie ein Familienerbstück, von dem du nur in Geschichten gehört hast, es aber immer vor Augen hattest. Irgendwie weißt du, dass es ein Lebensbildbetrachter ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1775,9 +1764,7 @@ Sie wird schmallippig. „Aber für jede Verbindung fordert die Flor *immer* ein
     </Entry>
     <Entry>
       <ID>361</ID>
-      <DefaultText>Sie streckt die Hand aus. „[Global: c4121_SpeckRestingPrice] Shin für jede Person, die ein Bett will.“
-
-{MONEY}</DefaultText>
+      <DefaultText>Sie streckt die Hand aus. „[Global: c4121_SpeckRestingPrice] Shin für jede Person, die ein Bett will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

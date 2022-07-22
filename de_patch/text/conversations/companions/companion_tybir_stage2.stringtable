@@ -2543,8 +2543,7 @@ Er beißt sich auf die Lippe. „Das hätte ich.“</DefaultText>
     </Entry>
     <Entry>
       <ID>539</ID>
-      <DefaultText>„Danke für dein Eingreifen vorhin. Ris und seine Freunde haben mich überrascht. Mich, ausgerechnet.“
-{COLIN/NATHAN: Feels like this should be an interjection that plays immediatley after the incident in question. -AH}</DefaultText>
+      <DefaultText>„Danke für dein Eingreifen vorhin. Ris und seine Freunde haben mich überrascht. Mich, ausgerechnet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2971,9 +2970,7 @@ Er verschränkt die Arme vor dem Körper. „Und … ich habe kein Problem damit
     <Entry>
       <ID>624</ID>
       <DefaultText>„Vergiss nicht, Junge“, sagt Tybir und packt dich am Ärmel. „Wenn wir nichts unternehmen, ist Ris übermorgen mausetot.“</DefaultText>
-      <FemaleText>„Vergiss nicht, Mädel“, sagt Tybir und packt dich am Ärmel. „Wenn wir nichts unternehmen, ist Ris übermorgen mausetot.“
-
-{SCRIPT: Tybir reminds PC that Ris will die soon as PC walks away from sleep site.}</FemaleText>
+      <FemaleText>„Vergiss nicht, Mädel“, sagt Tybir und packt dich am Ärmel. „Wenn wir nichts unternehmen, ist Ris übermorgen mausetot.“</FemaleText>
     </Entry>
     <Entry>
       <ID>625</ID>
@@ -2986,9 +2983,7 @@ Er zieht die Augenbraue hoch. „Das kannst du doch nicht verantworten, oder?“
 
 „Vergiss nicht, Mädel. Wenn wir heute nichts unternehmen, ist Ris morgen früh mausetot.“
 
-Er zieht die Augenbraue hoch. „Das kannst du doch nicht verantworten, oder?“
-
-{SCRIPT: Tybir reminds PC that Ris will die soon as PC walks away from sleep site.}</FemaleText>
+Er zieht die Augenbraue hoch. „Das kannst du doch nicht verantworten, oder?“</FemaleText>
     </Entry>
     <Entry>
       <ID>626</ID>

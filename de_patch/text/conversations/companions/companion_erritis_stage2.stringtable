@@ -1235,8 +1235,7 @@ Er verstummt verwirrt. „Ich habe vergessen, worüber ich geredet habe.“</Def
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>„Warte. Ich denke, wir werden verfolgt. Bei solche Sachen irre ich mich nie!“
-{SCRIPT: General note: all Matkina/Erritis bark conversations need to be gated with g_erritis_meets_matkina=1. He needs to spot her 'for the first time' before they can have their miscellaneous banters.}</DefaultText>
+      <DefaultText>„Warte. Ich denke, wir werden verfolgt. Bei solche Sachen irre ich mich nie!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,34 +6,29 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{fearful, but controlled}„Wir sind noch nicht in Sicherheit. Bei Weitem nicht. {pause}Ich weiß nicht, ob ich dir das schon erzählt habe, aber … ich wurde hier geboren.“
+      <DefaultText>„Wir sind noch nicht in Sicherheit. Bei Weitem nicht. Ich weiß nicht, ob ich dir das schon erzählt habe, aber … ich wurde hier geboren.“
 
 Sie kämpft damit, die Angst zu verbergen, die ihren Körper durchzuckt. Du kannst die feste Kontrolle *spüren*, die sie über ihre Gefühle, ihre Gezeiten behält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>{angry, controlled}„Ich wusste, es gab einen Grund, warum ich mich nie mit der Memovira vertragen konnte. Warum es immer so schien, als ob sie mich verspottet. Es ist, weil sie wusste, wer ich war. Sie wusste, und sie plante ihren Verrat die ganze Zeit über, und sie *war genau neben mir*. Ich hätte ihr die Kehle durchschneiden können. Ich hätte sie an einen Schlund verfüttern sollen.“</DefaultText>
+      <DefaultText>„Ich wusste, es gab einen Grund, warum ich mich nie mit der Memovira vertragen konnte. Warum es immer so schien, als ob sie mich verspottet. Es ist, weil sie wusste, wer ich war. Sie wusste, und sie plante ihren Verrat die ganze Zeit über, und sie *war genau neben mir*. Ich hätte ihr die Kehle durchschneiden können. Ich hätte sie an einen Schlund verfüttern sollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>{shocked, quiet, dismayed}„Aber du musst mir glauben, dass ich nie grundlos grausam war. Alles, was ich tat, tat ich aus gutem Grund … Aber … Aber … ich bin kein Monster.“</DefaultText>
+      <DefaultText>„Aber du musst mir glauben, dass ich nie grundlos grausam war. Alles, was ich tat, tat ich aus gutem Grund … Aber … Aber … ich bin kein Monster.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Poor old Aligern. Could have shined that the tats had something to do with his family, but… {shrug}time's past for that. Hope he can do something about it.“
-
-{COLIN: How is Matkina's voice actor supposed to shrug?}</DefaultText>
+      <DefaultText>„Armer alter Aligern. Ich hätte vermuten können, dass die Tätowierungen etwas mit seiner Familie zu tun haben, aber… die Zeit dafür ist vorbei. Hoffentlich kann er etwas dagegen tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Es ist ein großes Gefühl, mich mit der Flor zu binden. Es ist … genau, wie ich es mir vorgestellt habe. Ich *kenne* die Flor. Ich kenne ihre Wege. Ich kenne ihre Ranken. Ich kenne die Orte, die sie berührt und … herziges Geschwisterteil, du hast *keine Ahnung*, wie sich diese Macht anfühlt.“
-
-
-{GEORGE: Do we want to have Matkina as a fast-travel if she's bonded?}</DefaultText>
+      <DefaultText>„Es ist ein großes Gefühl, mich mit der Flor zu binden. Es ist … genau, wie ich es mir vorgestellt habe. Ich *kenne* die Flor. Ich kenne ihre Wege. Ich kenne ihre Ranken. Ich kenne die Orte, die sie berührt und … herziges Geschwisterteil, du hast *keine Ahnung*, wie sich diese Macht anfühlt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +38,7 @@ Sie kämpft damit, die Angst zu verbergen, die ihren Körper durchzuckt. Du kann
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„By the Black Three.“ Her voice is quiet, reverent. „I never dreamed… the power in this place.“</DefaultText>
+      <DefaultText>„Bei den Schwarzen Drei.“ Ihre Stimme ist ruhig, ehrfürchtig. „Ich hätte mir nie träumen lassen… welche Macht dieser Ort hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

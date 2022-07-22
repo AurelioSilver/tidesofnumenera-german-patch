@@ -16,11 +16,9 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„{Less cheery than normal}Was? Ach, du bist es, kann ich dich was fragen?“
+      <DefaultText>„Was? Ach, du bist es, kann ich dich was fragen?“
 
-Wenn man es nicht besser wüsste, würde man behaupten, er sieht *nachdenklich* aus. Er reibt die Seite seines Gesichtes, dann die Ränder seiner schläfrigen Augen.
-
-{SCRIPT: Should play IMMEDIATELY after he is summoned or enters the Bloom, and before any of the below nodes.}</DefaultText>
+Wenn man es nicht besser wüsste, würde man behaupten, er sieht *nachdenklich* aus. Er reibt die Seite seines Gesichtes, dann die Ränder seiner schläfrigen Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

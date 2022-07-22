@@ -95,12 +95,8 @@ Er legt es in einen flachen Beutel an seiner Hüfte – und keine Form stört de
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Willst du es mir jetzt zurückgeben? Der Cortex war nicht genug, mein Freund. Aber den Ring nehme ich gerne an. Mein Angebot steht: [Global: c4101_DracogenAnnuletReward] Shin. Oder vielleicht könnte ich mit dir ein anderes Gerät tauschen? Ich erhielt es von einer anderen Verstoßenen namens Vicariane. Sie nannte es einen Lebensbildbetrachter.“
-
-{MONEY}</DefaultText>
-      <FemaleText>„Willst du es mir jetzt zurückgeben? Der Cortex war nicht genug, meine Gute. Aber den Ring nehme ich gern an. Mein Angebot steht: [Global: c4101_DracogenAnnuletReward] Shin. Oder vielleicht könnte ich mit dir ein anderes Gerät tauschen? Ich erhielt es von einer anderen Verstoßenen namens Vicariane. Sie nannte es einen Lebensbildbetrachter.“
-
-{MONEY}</FemaleText>
+      <DefaultText>„Willst du es mir jetzt zurückgeben? Der Cortex war nicht genug, mein Freund. Aber den Ring nehme ich gerne an. Mein Angebot steht: [Global: c4101_DracogenAnnuletReward] Shin. Oder vielleicht könnte ich mit dir ein anderes Gerät tauschen? Ich erhielt es von einer anderen Verstoßenen namens Vicariane. Sie nannte es einen Lebensbildbetrachter.“</DefaultText>
+      <FemaleText>„Willst du es mir jetzt zurückgeben? Der Cortex war nicht genug, meine Gute. Aber den Ring nehme ich gern an. Mein Angebot steht: [Global: c4101_DracogenAnnuletReward] Shin. Oder vielleicht könnte ich mit dir ein anderes Gerät tauschen? Ich erhielt es von einer anderen Verstoßenen namens Vicariane. Sie nannte es einen Lebensbildbetrachter.“</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -266,9 +262,7 @@ Er schlägt mit der Hand in die Luft und beendet damit die Unterhaltung. „Rede
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Was war dieser kleine silberne … Goblin?“
-
-{SCRIPT: Need to conditionalize this to only display once the Silver Orphan shows up.}</DefaultText>
+      <DefaultText>„Was war dieser kleine silberne … Goblin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -278,9 +272,7 @@ Er schlägt mit der Hand in die Luft und beendet damit die Unterhaltung. „Rede
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>„Was war das? Dieser … fleischige Ball?“
-
-{SCRIPT: Need to conditionalize this to only display once the Bloom Ball shows up.}</DefaultText>
+      <DefaultText>„Was war das? Dieser … fleischige Ball?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,9 +282,7 @@ Er schlägt mit der Hand in die Luft und beendet damit die Unterhaltung. „Rede
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>„Wer war der merkwürdige aussehende Kerl, der da aus dem Schlund kam?“
-
-{SCRIPT: Need to conditionalize this to only display once Sir Arthour shows up.}</DefaultText>
+      <DefaultText>„Wer war der merkwürdige aussehende Kerl, der da aus dem Schlund kam?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,9 +292,7 @@ Er schlägt mit der Hand in die Luft und beendet damit die Unterhaltung. „Rede
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>„Was war das für eine wie ein Stock aussehende Kreatur?“
-
-{SCRIPT: Need to conditionalize this to only display once the jurulisk shows up.}</DefaultText>
+      <DefaultText>„Was war das für eine wie ein Stock aussehende Kreatur?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -349,16 +337,12 @@ Er hält inne. „Viel Glück, meine Freundin. Sollten dir noch andere interessa
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Er stockt und ist plötzlich unwillig. „Das ist einfach kein lohnenswerter Handel. Nicht für den Ring. Ich wäre bereit, es von dir zu nehmen, um sicher zu gehen. Noch einmal, mein verbindliches Angebot: [Global: c4101_DracogenCortexReward] Shin oder den Bildbetrachter der Verstoßenen Vicariane.“
-
-{MONEY}</DefaultText>
+      <DefaultText>Er stockt und ist plötzlich unwillig. „Das ist einfach kein lohnenswerter Handel. Nicht für den Ring. Ich wäre bereit, es von dir zu nehmen, um sicher zu gehen. Noch einmal, mein verbindliches Angebot: [Global: c4101_DracogenCortexReward] Shin oder den Bildbetrachter der Verstoßenen Vicariane.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>„[Global: c4101_DracogenCortexReward] Shin? Ich akzeptiere.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„[Global: c4101_DracogenCortexReward] Shin? Ich akzeptiere.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -423,12 +407,8 @@ Er hält inne. „Viel Glück, meine Freundin. Sollten dir noch andere interessa
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Er nimmt dir das Gerät ab und lässt es in seinen Hüft-Beutel fallen. Dann holt er mit einer Handbewegung einen Sack voller Shin hervor. „Deine Belohnung, mein Freund. Aber lass uns nichts überstürzen. Glaube ja nicht, dass dich das davon freispricht, mir den Ring zu geben.“
-
-{MONEY}</DefaultText>
-      <FemaleText>Er nimmt dir das Gerät ab und lässt es in seinen Hüft-Beutel fallen. Dann holt er mit einer Handbewegung einen Sack voller Shin hervor. „Deine Belohnung, meine Freundin. Aber lass uns nichts überstürzen. Glaube ja nicht, dass dich das davon freispricht, mir den Ring zu geben.“
-
-{MONEY}</FemaleText>
+      <DefaultText>Er nimmt dir das Gerät ab und lässt es in seinen Hüft-Beutel fallen. Dann holt er mit einer Handbewegung einen Sack voller Shin hervor. „Deine Belohnung, mein Freund. Aber lass uns nichts überstürzen. Glaube ja nicht, dass dich das davon freispricht, mir den Ring zu geben.“</DefaultText>
+      <FemaleText>Er nimmt dir das Gerät ab und lässt es in seinen Hüft-Beutel fallen. Dann holt er mit einer Handbewegung einen Sack voller Shin hervor. „Deine Belohnung, meine Freundin. Aber lass uns nichts überstürzen. Glaube ja nicht, dass dich das davon freispricht, mir den Ring zu geben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>93</ID>
@@ -467,12 +447,8 @@ Er hält inne. „Viel Glück, meine Freundin. Sollten dir noch andere interessa
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Er seufzt und dreht sich ab. Einen Augenblick später brennen sich höllische Schmerzen wie nie zuvor durch deinen Körper, abwechselnd heiß, kalt, ätzend, pochend, stechend, beißend. Als sich Dracogen wieder zu dir umdreht, hat sich sein sonst so gelassener Gesichtsausdruck in eine hässliche Fratze eines Raubtieres verwandelt. „Du warst mit meinen Bedingungen einverstanden, Verstoßener. Gib mir den Ring oder du wirst dir den Tod wünschen. Und dann *wirst* du sterben. Gib es zurück. Jetzt sofort.“
-
-{SCRIPT: Maybe make a non-modal cutscene for this? And non-lethally injure the PC? -JF}</DefaultText>
-      <FemaleText>Er seufzt und dreht sich ab. Einen Augenblick später brennen sich höllische Schmerzen wie nie zuvor durch deinen Körper, abwechselnd heiß, kalt, ätzend, pochend, stechend, beißend. Als sich Dracogen wieder zu dir umdreht, hat sich sein sonst gelassener Gesichtsausdruck in eine hässliche Fratze eines Raubtieres verwandelt. „Du warst mit meinen Bedingungen einverstanden, Verstoßene. Gib mir den Ring oder du wirst dir den Tod wünschen. Und dann *wirst* du sterben. Gib es zurück. Jetzt sofort.“
-
-{SCRIPT: Maybe make a non-modal cutscene for this? And non-lethally injure the PC? -JF}</FemaleText>
+      <DefaultText>Er seufzt und dreht sich ab. Einen Augenblick später brennen sich höllische Schmerzen wie nie zuvor durch deinen Körper, abwechselnd heiß, kalt, ätzend, pochend, stechend, beißend. Als sich Dracogen wieder zu dir umdreht, hat sich sein sonst so gelassener Gesichtsausdruck in eine hässliche Fratze eines Raubtieres verwandelt. „Du warst mit meinen Bedingungen einverstanden, Verstoßener. Gib mir den Ring oder du wirst dir den Tod wünschen. Und dann *wirst* du sterben. Gib es zurück. Jetzt sofort.“</DefaultText>
+      <FemaleText>Er seufzt und dreht sich ab. Einen Augenblick später brennen sich höllische Schmerzen wie nie zuvor durch deinen Körper, abwechselnd heiß, kalt, ätzend, pochend, stechend, beißend. Als sich Dracogen wieder zu dir umdreht, hat sich sein sonst gelassener Gesichtsausdruck in eine hässliche Fratze eines Raubtieres verwandelt. „Du warst mit meinen Bedingungen einverstanden, Verstoßene. Gib mir den Ring oder du wirst dir den Tod wünschen. Und dann *wirst* du sterben. Gib es zurück. Jetzt sofort.“</FemaleText>
     </Entry>
     <Entry>
       <ID>101</ID>
@@ -486,9 +462,7 @@ Er hält inne. „Viel Glück, meine Freundin. Sollten dir noch andere interessa
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Sein linker Finger fährt durch die Luft und eine durchsichtige Hülle wickelt dich ein. Sie ist undurchdringlich, geräuschlos, luftlos und zieht sich mit jeder Sekunde enger zusammen. Du hast gerade noch genug Zeit, um über die Dummheit deiner Aktionen nachzudenken, bevor sie deinen Körper zerquetscht und deine Knochen in einer Flamme röstet, die so heiß ist, wie die Sonne.
-
-{SCRIPT: Do we want to animate this somehow, like Skoura's Iron Wind death? -JF}</DefaultText>
+      <DefaultText>Sein linker Finger fährt durch die Luft und eine durchsichtige Hülle wickelt dich ein. Sie ist undurchdringlich, geräuschlos, luftlos und zieht sich mit jeder Sekunde enger zusammen. Du hast gerade noch genug Zeit, um über die Dummheit deiner Aktionen nachzudenken, bevor sie deinen Körper zerquetscht und deine Knochen in einer Flamme röstet, die so heiß ist, wie die Sonne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -652,9 +626,7 @@ Er legt ihn in einen flachen Beutel an seiner Hüfte – und keine Form stört d
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>„Das war ein silberner Waise, mein Freund. Ihr lebenden Metallkörper sind vergleichbar mit der Rüstung deines Begleiters. Vielleicht kann er dir nützlich sein. Du sollst wissen: sie schätzen künstliche Intelligenz. Solltest du einer begegnen, könnte es sich für dich schicken, ihnen dein Wissen anzubieten.“
-
-{SCRIPT Is Riastrad Nearby?}</DefaultText>
+      <DefaultText>„Das war ein silberner Waise, mein Freund. Ihr lebenden Metallkörper sind vergleichbar mit der Rüstung deines Begleiters. Vielleicht kann er dir nützlich sein. Du sollst wissen: sie schätzen künstliche Intelligenz. Solltest du einer begegnen, könnte es sich für dich schicken, ihnen dein Wissen anzubieten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -684,9 +656,7 @@ Er legt ihn in einen flachen Beutel an seiner Hüfte – und keine Form stört d
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>[Dracogen erzählt dir von dieser total abgefahrenen Sache, die du machen kannst.]
-
-{JESSE: I can write up this awesome thing. - Colin}</DefaultText>
+      <DefaultText>[Dracogen erzählt dir von dieser total abgefahrenen Sache, die du machen kannst.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -706,9 +676,7 @@ Er legt ihn in einen flachen Beutel an seiner Hüfte – und keine Form stört d
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>„Bist du der einzige Dracogen? Ich hörte deinen Namen sogar in den weit entfernten Standhaften Königreichen.“
-
-{COLIN: Remember to make sure this flag gets set in Monte's Mere dialogues. love, Colin}</DefaultText>
+      <DefaultText>„Bist du der einzige Dracogen? Ich hörte deinen Namen sogar in den weit entfernten Standhaften Königreichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1540,9 +1508,7 @@ Er lächelt. „Wenn wir unser Geschäft mit dem Ring erfüllt haben, habe ich d
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>„Entweder [Global: c4101_DracogenAnnuletReward] Shin oder den Lebensbildbetrachter der Verstoßenen Vicariane. Für mich macht das keinen Unterschied.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Entweder [Global: c4101_DracogenAnnuletReward] Shin oder den Lebensbildbetrachter der Verstoßenen Vicariane. Für mich macht das keinen Unterschied.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1567,16 +1533,12 @@ Er lächelt. „Wenn wir unser Geschäft mit dem Ring erfüllt haben, habe ich d
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>„Mein Angebot steht: [Global: c4101_DracogenAnnuletReward] Shin. Oder vielleicht könnte ich mit dir ein anderes Gerät tauschen? Ich erhielt es von einer anderen Verstoßenen namens Vicariane. Sie nannte es einen Lebensbildbetrachter.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Mein Angebot steht: [Global: c4101_DracogenAnnuletReward] Shin. Oder vielleicht könnte ich mit dir ein anderes Gerät tauschen? Ich erhielt es von einer anderen Verstoßenen namens Vicariane. Sie nannte es einen Lebensbildbetrachter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>„Entweder [Global: c4101_DracogenAnnuletReward] Shin oder den Lebensbildbetrachter der Verstoßenen Vicariane. Du hast die Wahl.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Entweder [Global: c4101_DracogenAnnuletReward] Shin oder den Lebensbildbetrachter der Verstoßenen Vicariane. Du hast die Wahl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

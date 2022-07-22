@@ -31,16 +31,12 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Du greifst in das Fach und versuchst, einen Halt auf der glatten Oberfläche des Kanisters zu bekommen und ihn herauszuziehen. Ein winziger Wirbel bildet sich neben deinem Arm, doch du ziehst ihn gerade noch rechtzeitig weg und der Wirbel verfehlt dich um Haaresbreite. Mit einem letzten Ruck ziehst du den Kanister heraus.
-
-{AUDIO: Sound of metal canister – appx. 2 feet long – popping free from the machinery.}</DefaultText>
+      <DefaultText>Du greifst in das Fach und versuchst, einen Halt auf der glatten Oberfläche des Kanisters zu bekommen und ihn herauszuziehen. Ein winziger Wirbel bildet sich neben deinem Arm, doch du ziehst ihn gerade noch rechtzeitig weg und der Wirbel verfehlt dich um Haaresbreite. Mit einem letzten Ruck ziehst du den Kanister heraus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Du steckst die Hand in das Fach und versuchst, den Kanister herauszuziehen, doch du bist nicht schnell genug. Ein Wirbel bildet sich neben deinem Arm und sengt ihn an. Du lässt den Kanister los und er fällt zurück in sein Gehäuse.
-
-{DAMAGE}</DefaultText>
+      <DefaultText>Du steckst die Hand in das Fach und versuchst, den Kanister herauszuziehen, doch du bist nicht schnell genug. Ein Wirbel bildet sich neben deinem Arm und sengt ihn an. Du lässt den Kanister los und er fällt zurück in sein Gehäuse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,20 +140,14 @@ Du vermutest, dass man diesen Kanister einmalig einsetzen könnte, um alles Mög
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Der Kanister fühlt sich eiskalt an. Am einen Ende siehst du ein Ventil – wenn du es ganz öffnest, kannst du das Kühlmittel versprühen und es wird alles einfrieren, womit es in Berührung kommt.
-
-{DP}
-
-{LOOT}</DefaultText>
+      <DefaultText>Der Kanister fühlt sich eiskalt an. Am einen Ende siehst du ein Ventil – wenn du es ganz öffnest, kannst du das Kühlmittel versprühen und es wird alles einfrieren, womit es in Berührung kommt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>Du greifst in das Fach und bekommst den schlüpfrigen Kanister tatsächlich zu fassen. Du rüttelst ein wenig daran, um ihn freizubekommen. Plötzlich bildet sich ein winziger Wirbel … direkt neben deinem Arm! Er braucht nur einen Augenblick, um eine Halbkugel aus Nichts in deinen Arm zu schneiden. Du schreist vor Schmerzen auf.
 
-Blut spritzt aus der Wunde. Du sackst zu Boden und um dich herum wird es dunkel …
-
-{DAMAGE}</DefaultText>
+Blut spritzt aus der Wunde. Du sackst zu Boden und um dich herum wird es dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -45,9 +45,7 @@
 
 Das Konstrukt öffnet ein verstecktes Seitenfach und zeigt dir einen Haufen Shin.
 
-„Bereite den Jungen so bald wie möglich für den Transport vor. Können kaum erwarten, von hier wegzukommen.“
-
-{MONEY}</DefaultText>
+„Bereite den Jungen so bald wie möglich für den Transport vor. Können kaum erwarten, von hier wegzukommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,11 +64,7 @@ Das Konstrukt öffnet ein verstecktes Seitenfach und zeigt dir einen Haufen Shin
 
 Das Konstrukt übergibt dir ein Bündel zusammengerollter Shin.
 
-„Transaktion abgeschlossen.“
-
-{MONEY}
-
-{GEORGE: I modified the final line to be about this particular transaction, rather than business altogether}</DefaultText>
+„Transaktion abgeschlossen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,18 +164,14 @@ Es macht eine Pause. „Wir haben einiges zu bieten. Wir suchen drei Exemplare m
       <ID>41</ID>
       <DefaultText>„Du hast vorhin von der Dolmetscherin der Unmenschen gesprochen. Wir haben sie uns angesehen und für geeignet befunden. Deine Informationen waren der Schlüssel zu dieser Akquisition und erfolgreichen Rekrutierung. Wir freuen uns, dir diesen Lohn dafür auszuhändigen.“
 
-Es übergibt dir ein Päckchen Shin. „Wir freuen uns auch, berichten zu können, dass wir nach dem Verlassen des Murdennests erfolgreich dekontaminiert worden sind.“
-
-{MONEY}</DefaultText>
+Es übergibt dir ein Päckchen Shin. „Wir freuen uns auch, berichten zu können, dass wir nach dem Verlassen des Murdennests erfolgreich dekontaminiert worden sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>„Deine Hilfe in dieser Sache war unbezahlbar. Wir haben unsere Norm viel schneller erreicht, als wir je gedacht hätten. Nun brauchen wir dieses Gerät hier nicht mehr.“
 
-Es übergibt dir eine Waffe und ein weiteres Bündel Shin. „Das hält uns nur auf. Es gehört jetzt dir.“
-
-{LOOT}</DefaultText>
+Es übergibt dir eine Waffe und ein weiteres Bündel Shin. „Das hält uns nur auf. Es gehört jetzt dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,9 +258,7 @@ Als du wieder etwas sehen kannst, ist keine Spur von dem Konstrukt mehr zu sehen
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Das mechanische Krächzen aus dem Lautsprechergitter ist dir mittlerweile schon beinahe vertraut. „Das weibliche Exemplar in Jargolamis wurde gefunden und erfolgreich rekrutiert. Das Exemplar ist tauglich. Wir danken für die erfolgreiche Vermittlung.“ Es übergibt dir ein Bündel Shin.
-
-{MONEY}</DefaultText>
+      <DefaultText>Das mechanische Krächzen aus dem Lautsprechergitter ist dir mittlerweile schon beinahe vertraut. „Das weibliche Exemplar in Jargolamis wurde gefunden und erfolgreich rekrutiert. Das Exemplar ist tauglich. Wir danken für die erfolgreiche Vermittlung.“ Es übergibt dir ein Bündel Shin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -310,9 +298,7 @@ Als du wieder etwas sehen kannst, ist keine Spur von dem Konstrukt mehr zu sehen
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>„Oh nein, das wirst du nicht tun! Ich will nicht mit dieser dummen Maschine mitgehen. Warum kann ich nicht bei dir bleiben?“
-
-{ADAM: Voice check!}</DefaultText>
+      <DefaultText>„Oh nein, das wirst du nicht tun! Ich will nicht mit dieser dummen Maschine mitgehen. Warum kann ich nicht bei dir bleiben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -322,9 +308,7 @@ Als du wieder etwas sehen kannst, ist keine Spur von dem Konstrukt mehr zu sehen
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Sie gräbt den Fuß in den Boden und spielt mit ihrem Gottstein. Sie ignoriert den Dekantierten völlig und sieht dich böse an. „Ich sagte doch, ich gehe nicht mit der Maschine mit. Wenn du mich dazu zwingst, laufe ich davon.“
-
-{ROTHFUSS: Voice check!}</DefaultText>
+      <DefaultText>Sie gräbt den Fuß in den Boden und spielt mit ihrem Gottstein. Sie ignoriert den Dekantierten völlig und sieht dich böse an. „Ich sagte doch, ich gehe nicht mit der Maschine mit. Wenn du mich dazu zwingst, laufe ich davon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -344,9 +328,7 @@ Als du wieder etwas sehen kannst, ist keine Spur von dem Konstrukt mehr zu sehen
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Sie schlägt die Arme eng um den Körper. „Das dachte ich mir. Was für ein geschmackloser Scherz. Du *weißt* doch, dass ich schon mal verkauft wurde. Das weißt du *genau*.“
-
-{ROTHFUSS: Rhin voice}</DefaultText>
+      <DefaultText>Sie schlägt die Arme eng um den Körper. „Das dachte ich mir. Was für ein geschmackloser Scherz. Du *weißt* doch, dass ich schon mal verkauft wurde. Das weißt du *genau*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -373,9 +355,7 @@ Als du wieder etwas sehen kannst, ist keine Spur von dem Konstrukt mehr zu sehen
       <ID>83</ID>
       <DefaultText>„Unser Dank. Das … Mädchen … wird gut behandelt werden. Es wird ihr an nichts fehlen. Sie wird ein gesundes Leben haben. Wir werden ihre Schönheit pflegen.“
 
-Er überreicht dir ein Bündel Shin. „Besten Dank.“
-
-{MONEY}</DefaultText>
+Er überreicht dir ein Bündel Shin. „Besten Dank.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -399,9 +379,7 @@ Als du wieder etwas sehen kannst, ist das Konstrukt verschwunden.</DefaultText>
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>„Danke, Erritis. Ich bin froh, dass ich wenigstens *irgendjemandem* nicht egal bin.“ Sie wirft dir einen Blick voller Verachtung und Misstrauen zu.
-
-{ROTHFUSS: Voice check}</DefaultText>
+      <DefaultText>„Danke, Erritis. Ich bin froh, dass ich wenigstens *irgendjemandem* nicht egal bin.“ Sie wirft dir einen Blick voller Verachtung und Misstrauen zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,18 +399,14 @@ Als du wieder etwas sehen kannst, ist das Konstrukt verschwunden.</DefaultText>
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Die Angaben zum Standort des jüngsten Exemplars – Bourras – waren hinreichend. Exemplar war akzeptabel, auch wenn sein … Wesen … verwässert war und umfangreiche Dekontaminierung erfordert. Doch mit ein wenig Restaurationsaufwand wird er unseren Kunden vermutlich genügen.“ Es überreicht dir ein Bündel Shin. „Deine Belohnung.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Die Angaben zum Standort des jüngsten Exemplars – Bourras – waren hinreichend. Exemplar war akzeptabel, auch wenn sein … Wesen … verwässert war und umfangreiche Dekontaminierung erfordert. Doch mit ein wenig Restaurationsaufwand wird er unseren Kunden vermutlich genügen.“ Es überreicht dir ein Bündel Shin. „Deine Belohnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
       <DefaultText>„Das jüngste uns geschickte Exemplar – Bourras – war zufriedenstellend. Sogar mehr als das, allerdings müssen gewisse Aspekte seiner Physis und Psyche gründlich entgiftet werden. Unsere Kunden haben dafür einen effizienten, wenn auch unangenehmen Prozess entwickelt.“
 
-Es überreicht dir ein Bündel Shin. „Unser Dank.“
-
-{MONEY}</DefaultText>
+Es überreicht dir ein Bündel Shin. „Unser Dank.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

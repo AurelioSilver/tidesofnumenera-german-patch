@@ -277,7 +277,7 @@ Einen Moment wirkt sie völlig in Gedanken versunken. Dann fährt sie fort: „E
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Sie lächelt. „Er bringt mich zum Lachen. Aber ich weiß nie, wann er es ernst meint … {Pause}Meint er es überhaupt jemals ernst?“</DefaultText>
+      <DefaultText>Sie lächelt. „Er bringt mich zum Lachen. Aber ich weiß nie, wann er es ernst meint … Meint er es überhaupt jemals ernst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -317,12 +317,12 @@ Einen Moment wirkt sie völlig in Gedanken versunken. Dann fährt sie fort: „E
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>„{Offended and afraid}Das 'Beste'? *Du* hast *mich* gefragt, ob ich dich begleiten will, schon vergessen? Warum willst du mich jetzt loswerden?“ Sie verschränkt die Arme vor der Brust.</DefaultText>
+      <DefaultText>„Das 'Beste'? *Du* hast *mich* gefragt, ob ich dich begleiten will, schon vergessen? Warum willst du mich jetzt loswerden?“ Sie verschränkt die Arme vor der Brust.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>„{Shocked and afraid}Was? Warum? Du hast gesagt, du würdest mir helfen. Habe ich etwas falsch gemacht?“</DefaultText>
+      <DefaultText>„Was? Warum? Du hast gesagt, du würdest mir helfen. Habe ich etwas falsch gemacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -432,9 +432,7 @@ Einen Moment wirkt sie völlig in Gedanken versunken. Dann fährt sie fort: „E
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Sie wendet sich ab und rennt fort und hinterlässt dabei eine nasse Spur auf den Boden hinter sich. Du kannst hören, wie sie versucht ein Schluchzen zu unterdrücken. Dann dreht sie sich um und verschwindet.
-
-{VO/SOUND: Rhin sobs, plays on exit. (This is the same sound as in her Stage 4 runaway node).}</DefaultText>
+      <DefaultText>Sie wendet sich ab und rennt fort und hinterlässt dabei eine nasse Spur auf den Boden hinter sich. Du kannst hören, wie sie versucht ein Schluchzen zu unterdrücken. Dann dreht sie sich um und verschwindet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -464,7 +462,7 @@ Einen Moment wirkt sie völlig in Gedanken versunken. Dann fährt sie fort: „E
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>„{Worried, but not yet scared}Ich … Ich muss mit jemandem reden. Ich muss mit dir reden.“ Sie nimmt deine Hand, sieht dir aber nicht in die Augen.</DefaultText>
+      <DefaultText>„Ich … Ich muss mit jemandem reden. Ich muss mit dir reden.“ Sie nimmt deine Hand, sieht dir aber nicht in die Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1093,12 +1091,12 @@ So geht es lange weiter. Sie murmelt vor sich hin und sieht besorgt aus. Du begr
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>{Awkward and apologetic}„Tut mir leid … wegen neulich. Ich weiß, wir haben unser Gespräch nicht beendet. Es ist nur … {Formally polite}Bitte vergib mir mein schlechtes Benehmen.“ Sie faltet die Hände vor der Brust und verbeugt sich leicht.</DefaultText>
+      <DefaultText>„Tut mir leid … wegen neulich. Ich weiß, wir haben unser Gespräch nicht beendet. Es ist nur … Bitte vergib mir mein schlechtes Benehmen.“ Sie faltet die Hände vor der Brust und verbeugt sich leicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>{Formally polite}„Ich muss erneut um Vergebung meines schlechten Benehmens bitten. Worüber möchtest du mit mir reden?“</DefaultText>
+      <DefaultText>„Ich muss erneut um Vergebung meines schlechten Benehmens bitten. Worüber möchtest du mit mir reden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1700,12 +1698,12 @@ Sie holt aus und wirft den Stein weg, so weit sie kann. Dann sinkt sie auf die K
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>„{Softly, afraid to admit it}Das ist Ahl. Er beschützt mich. Er weiß alles übers Verstecken.“</DefaultText>
+      <DefaultText>„Das ist Ahl. Er beschützt mich. Er weiß alles übers Verstecken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>„Können … wir anhalten und ein wenig rasten? {stage whisper}Ich muss mit dir reden.“</DefaultText>
+      <DefaultText>„Können … wir anhalten und ein wenig rasten? Ich muss mit dir reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

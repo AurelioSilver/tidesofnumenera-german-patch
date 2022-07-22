@@ -23,9 +23,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Ich habe etwas für dich hergestellt.“ Er strahlt, als er dir einen Gegenstand übergibt. „Ich weiß, dass es nichts Besonderes ist … vor allem wenn man bedenkt, was du alles für mich getan hast, aber … Ich musste einfach *irgendwas* tun.“
-
-{LOOT}</DefaultText>
+      <DefaultText>„Ich habe etwas für dich hergestellt.“ Er strahlt, als er dir einen Gegenstand übergibt. „Ich weiß, dass es nichts Besonderes ist … vor allem wenn man bedenkt, was du alles für mich getan hast, aber … Ich musste einfach *irgendwas* tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,9 +83,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Ich hätte das nicht erwartet, aber du hast recht. Herr Sundermun denkt sogar, dass ich einmal meinen eigenen Stand eröffnen könnte, wenn ich alt genug bin – ein Stückchen weiter weg natürlich.“ Vorsichtig schielt er zum alten Sundermun herüber.
-
-{GEORGE/COLIN: The follow-up Node 19 feels like it should only play after a few rests.}</DefaultText>
+      <DefaultText>„Ich hätte das nicht erwartet, aber du hast recht. Herr Sundermun denkt sogar, dass ich einmal meinen eigenen Stand eröffnen könnte, wenn ich alt genug bin – ein Stückchen weiter weg natürlich.“ Vorsichtig schielt er zum alten Sundermun herüber.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,9 +120,7 @@ Plötzlich hört er auf und legt seinen Kopf in seine Hände. „Ich weiß nicht
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Gerade als du dich herumdrehst, greift Rhin nach deiner Hand. „Ich bin wirklich froh, dass du das für ihn gefunden hast. Danke.“
-
-{ROTHFUSS: voice}</DefaultText>
+      <DefaultText>Gerade als du dich herumdrehst, greift Rhin nach deiner Hand. „Ich bin wirklich froh, dass du das für ihn gefunden hast. Danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,30 +157,22 @@ Plötzlich hört er auf und legt seinen Kopf in seine Hände. „Ich weiß nicht
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Rhin läuft rot an und wendet sich von dir ab, aber nicht, ohne vorher deine Hand zu drücken.
-
-{ROTHFUSS: voice}</DefaultText>
+      <DefaultText>Rhin läuft rot an und wendet sich von dir ab, aber nicht, ohne vorher deine Hand zu drücken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Pfff!“ Rhin entreißt dir ihre Hand und läuft davon.
-
-{ROTHFUSS: voice}</DefaultText>
+      <DefaultText>„Pfff!“ Rhin entreißt dir ihre Hand und läuft davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>„Das sehe ich auch so.“ Sie drückt deine Hand leicht und geht dann einen Schritt zur Seite.
-
-{ROTHFUSS: voice}</DefaultText>
+      <DefaultText>„Das sehe ich auch so.“ Sie drückt deine Hand leicht und geht dann einen Schritt zur Seite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„Sie ihn dir nur mal an. Jeder kann etwas gut, solange man ihm nur die Chance dazu gibt, es herauszufinden.“
-
-{ROTHFUSS: voice}</DefaultText>
+      <DefaultText>„Sie ihn dir nur mal an. Jeder kann etwas gut, solange man ihm nur die Chance dazu gibt, es herauszufinden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

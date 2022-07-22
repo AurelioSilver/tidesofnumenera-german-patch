@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>{Scared}„Woll… Wolltest du etwas?“ Sie sieht bleicher aus als sonst.</DefaultText>
+      <DefaultText>„Woll… Wolltest du etwas?“ Sie sieht bleicher aus als sonst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,12 +176,12 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>{Anxious, almost panicked}„Warte! Wir können da nicht rein. Du musst mich zuerst nach Hause schicken!“ Sie nimmt deinen Arm und bringt dich zum Stillstand.“</DefaultText>
+      <DefaultText>„Warte! Wir können da nicht rein. Du musst mich zuerst nach Hause schicken!“ Sie nimmt deinen Arm und bringt dich zum Stillstand.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>{Panicked}„Hör auf! {Confused, almost angry}Wohin gehst du? Du sagtest, du würdest mich zuerst nach Hause bringen.“ Sie nimmt erneut deinen Arm. Ihr Gesicht ist eine Kombination aus Verwirrung und Wut.</DefaultText>
+      <DefaultText>„Hör auf! Wohin gehst du? Du sagtest, du würdest mich zuerst nach Hause bringen.“ Sie nimmt erneut deinen Arm. Ihr Gesicht ist eine Kombination aus Verwirrung und Wut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,10 +191,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Dann dreht sie sich auf den Zehenspitzen und verschwindet in die dunklen Gänge der Flor, du verlierst sie fast sofort aus den Augen. Ein gewürgtes Schluchzen trägt sich durch die Luft.
-
-{VO/SOUND: Rhin sobs, plays on exit. (This is the same sound as in her multistage farewell node).}
-{SCRIPT: Rhin runs off-screen, or at least fade to black and make Rhin disappear.}</DefaultText>
+      <DefaultText>Dann dreht sie sich auf den Zehenspitzen und verschwindet in die dunklen Gänge der Flor, du verlierst sie fast sofort aus den Augen. Ein gewürgtes Schluchzen trägt sich durch die Luft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,7 +260,7 @@ Sie dreht sich weg und ihre Stimme zittert. „Was, wenn ich nie wieder diese Ch
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>{Angry, betrayed}„Vergiss es! Du sagst immer, dass du mich nach Hause schickst, aber tust es nicht! Ich glaube dir nicht mehr. Ich werde … {Suddenly uncertain, but determined to go through with it}ich werde alleine nach Hause gehen.“</DefaultText>
+      <DefaultText>„Vergiss es! Du sagst immer, dass du mich nach Hause schickst, aber tust es nicht! Ich glaube dir nicht mehr. Ich werde … ich werde alleine nach Hause gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

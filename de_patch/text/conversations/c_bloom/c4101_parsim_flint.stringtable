@@ -280,9 +280,7 @@ Dann fügt er flüsternd hinzu: „Du wärst überrascht, wie viele Leute *diese
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>„Da ich ihn auf rechtmäßigem Wege nicht verkaufen kann, muss ich es sprichwörtlich unter der Hand tun. Ihr bekommt ihn für läppische … oh … [Global: c4101_CotyPriceOriginal] Shin. Rückgabe, Erstattung und Umtausch ausgeschlossen.“ Flint zeigt dir ein verstörend breites Grinsen mit verstörend vielen Zähnen.
-
-{GELD}</DefaultText>
+      <DefaultText>„Da ich ihn auf rechtmäßigem Wege nicht verkaufen kann, muss ich es sprichwörtlich unter der Hand tun. Ihr bekommt ihn für läppische … oh … [Global: c4101_CotyPriceOriginal] Shin. Rückgabe, Erstattung und Umtausch ausgeschlossen.“ Flint zeigt dir ein verstörend breites Grinsen mit verstörend vielen Zähnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,9 +329,7 @@ Der kleine Mann zuckt mit den Schultern und stopft die Unterlagen wieder in sein
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Also gut, ich nehme ihn.“
-
-{GELD}</DefaultText>
+      <DefaultText>„Also gut, ich nehme ihn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -343,9 +339,7 @@ Der kleine Mann zuckt mit den Schultern und stopft die Unterlagen wieder in sein
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>„Ich habe nicht genug Shin.“
-
-{GELD}</DefaultText>
+      <DefaultText>„Ich habe nicht genug Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -427,26 +421,18 @@ Flint wirft einen Blick auf die Wachen, sein Grinsen verschwindet. „Solche Din
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>„Da du *rechtlich* gesehen kein Händler bist, habe ich nur einen Sklaven im Angebot … den jungen Burschen, über den wir schon gesprochen haben. Der Preis ist [Global: c4101_CotyPriceOriginal] Shin. Rückgabe, Erstattung und Umtausch ausgeschlossen.“
-
-{GELD}</DefaultText>
+      <DefaultText>„Da du *rechtlich* gesehen kein Händler bist, habe ich nur einen Sklaven im Angebot … den jungen Burschen, über den wir schon gesprochen haben. Der Preis ist [Global: c4101_CotyPriceOriginal] Shin. Rückgabe, Erstattung und Umtausch ausgeschlossen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>„Ich gebe dir [Global: c4101_CotyPriceSuperCheap]. Der Sklave ist kein abgebrühter Verbrecher – niemand wird dir ein besseres Angebot machen.“
-
-{GELD}</DefaultText>
+      <DefaultText>„Ich gebe dir [Global: c4101_CotyPriceSuperCheap]. Der Sklave ist kein abgebrühter Verbrecher – niemand wird dir ein besseres Angebot machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>„Hmm. Du hast eine professionelle Herangehensweise, mein Freund, und *das* gefällt mir. Ich bin mit *[Global: c4101_CotyPriceCheap]* Shin einverstanden und keinen Shin weniger. Außerdem“, Flint richtet sich auf, „gilt dieses Angebot nur, wenn wir sofort ins Geschäft kommen. Wenn du jetzt gehst, verfällt es für immer.“
-
-{GELD}</DefaultText>
-      <FemaleText>„Hmm. Du hast eine professionelle Herangehensweise, meine Gute, und *das* gefällt mir. Ich bin mit *[Global: c4101_CotyPriceCheap]* Shin einverstanden und keinem Shin weniger. Außerdem“, Flint richtet sich auf, „gilt dieses Angebot nur, wenn wir sofort ins Geschäft kommen. Wenn du jetzt gehst, verfällt es für immer.“
-
-{GELD}</FemaleText>
+      <DefaultText>„Hmm. Du hast eine professionelle Herangehensweise, mein Freund, und *das* gefällt mir. Ich bin mit *[Global: c4101_CotyPriceCheap]* Shin einverstanden und keinen Shin weniger. Außerdem“, Flint richtet sich auf, „gilt dieses Angebot nur, wenn wir sofort ins Geschäft kommen. Wenn du jetzt gehst, verfällt es für immer.“</DefaultText>
+      <FemaleText>„Hmm. Du hast eine professionelle Herangehensweise, meine Gute, und *das* gefällt mir. Ich bin mit *[Global: c4101_CotyPriceCheap]* Shin einverstanden und keinem Shin weniger. Außerdem“, Flint richtet sich auf, „gilt dieses Angebot nur, wenn wir sofort ins Geschäft kommen. Wenn du jetzt gehst, verfällt es für immer.“</FemaleText>
     </Entry>
     <Entry>
       <ID>105</ID>
@@ -457,9 +443,7 @@ Flint wirft einen Blick auf die Wachen, sein Grinsen verschwindet. „Solche Din
       <ID>106</ID>
       <DefaultText>So etwas wie Überraschung, oder vielleicht sogar Stolz, huscht über das Gesicht des kleinen Mannes. Flint richtet sich auf und seine Gesichtszüge wirken sanfter und freundlicher. Zum ersten Mal scheint sein Lächeln echt zu sein.
 
-„Na gut“, sagt er leise. „[Global: c4101_CotyPriceSuperCheap] Shin. Aber dieses Angebot gilt nur, wenn wir *sofort* ins Geschäft kommen. Wenn du jetzt gehst, verfällt es für immer.“
-
-{GELD}</DefaultText>
+„Na gut“, sagt er leise. „[Global: c4101_CotyPriceSuperCheap] Shin. Aber dieses Angebot gilt nur, wenn wir *sofort* ins Geschäft kommen. Wenn du jetzt gehst, verfällt es für immer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -469,23 +453,17 @@ Flint wirft einen Blick auf die Wachen, sein Grinsen verschwindet. „Solche Din
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>„Na gut. Ich bezahle [Global: c4101_CotyPriceOriginal].“
-
-{GELD}</DefaultText>
+      <DefaultText>„Na gut. Ich bezahle [Global: c4101_CotyPriceOriginal].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>„Abgemacht. Ich bezahle [Global: c4101_CotyPriceSuperCheap].“
-
-{GELD}</DefaultText>
+      <DefaultText>„Abgemacht. Ich bezahle [Global: c4101_CotyPriceSuperCheap].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>„Abgemacht. Ich bezahle [Global: c4101_CotyPriceCheap].“
-
-{GELD}</DefaultText>
+      <DefaultText>„Abgemacht. Ich bezahle [Global: c4101_CotyPriceCheap].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -642,16 +620,12 @@ Flints Grinsen wird noch etwas breiter. „In der Tat, ich werde hier nicht weit
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>„Ich habe nicht genug Shin.“
-
-{GELD}</DefaultText>
+      <DefaultText>„Ich habe nicht genug Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>„Ich habe nicht genug Shin.“
-
-{GELD}</DefaultText>
+      <DefaultText>„Ich habe nicht genug Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -673,12 +647,8 @@ Flint erschaudert. „Das ist nicht die Art von Geschäften, die wir *hier* mach
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Sein enormer Mund kräuselt sich. „Du, mein Freund, bist viel zu aufmerksam für mich. Also gut, ich akzeptiere [Global: c4101_CotyPriceCheap] Shin für den Jungen. Außerdem“, Flint richtet sich auf, „gilt dieses Angebot nur, wenn wir sofort ins Geschäft kommen. Wenn du jetzt gehst, verfällt es für immer.“
-
-{GELD}</DefaultText>
-      <FemaleText>Sein enormer Mund kräuselt sich. „Du, meine Gute, bist viel zu aufmerksam für mich. Also gut, ich akzeptiere [Global: c4101_CotyPriceCheap] Shin für den Jungen. Außerdem“, Flint richtet sich auf, „gilt dieses Angebot nur, wenn wir sofort ins Geschäft kommen. Wenn du jetzt gehst, verfällt es für immer.“
-
-{GELD}</FemaleText>
+      <DefaultText>Sein enormer Mund kräuselt sich. „Du, mein Freund, bist viel zu aufmerksam für mich. Also gut, ich akzeptiere [Global: c4101_CotyPriceCheap] Shin für den Jungen. Außerdem“, Flint richtet sich auf, „gilt dieses Angebot nur, wenn wir sofort ins Geschäft kommen. Wenn du jetzt gehst, verfällt es für immer.“</DefaultText>
+      <FemaleText>Sein enormer Mund kräuselt sich. „Du, meine Gute, bist viel zu aufmerksam für mich. Also gut, ich akzeptiere [Global: c4101_CotyPriceCheap] Shin für den Jungen. Außerdem“, Flint richtet sich auf, „gilt dieses Angebot nur, wenn wir sofort ins Geschäft kommen. Wenn du jetzt gehst, verfällt es für immer.“</FemaleText>
     </Entry>
     <Entry>
       <ID>154</ID>

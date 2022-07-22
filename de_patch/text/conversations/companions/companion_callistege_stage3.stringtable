@@ -286,16 +286,12 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>„Du solltest Aadiriis Aufgabe erfüllen. Sie hat eine wahrlich faszinierende Sicht auf die Dinge und ich würde ein paar ihrer Gedanken für mich entdecken.“
-
-{SCRIPT: The PC is on Aadiriis' quest.}</DefaultText>
+      <DefaultText>„Du solltest Aadiriis Aufgabe erfüllen. Sie hat eine wahrlich faszinierende Sicht auf die Dinge und ich würde ein paar ihrer Gedanken für mich entdecken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>„Wir müssen Miel Avest erreichen. Dort warten sicherlich einige Antworten auf uns.“
-
-{SCRIPT: PC is looking for Miel Avest and has either not encountered Motley, or has resolved that quest line and has yet to enter Miel Avest.}</DefaultText>
+      <DefaultText>„Wir müssen Miel Avest erreichen. Dort warten sicherlich einige Antworten auf uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -395,9 +391,7 @@
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>„Wir müssen uns wieder Zugang zur Nekropole verschaffen, wenn wir den Weg nach Miel Avest finden wollen.“
-
-{SCRIPT: PC has encountered Motley but not resolved that quest line (the teleport terminal remains locked).}</DefaultText>
+      <DefaultText>„Wir müssen uns wieder Zugang zur Nekropole verschaffen, wenn wir den Weg nach Miel Avest finden wollen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

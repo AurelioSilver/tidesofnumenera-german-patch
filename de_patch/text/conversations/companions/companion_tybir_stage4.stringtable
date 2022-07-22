@@ -6,9 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Götter, Ich hasse diesen Ort. Ein Mann sieht gerne einen blauen Himmel über den Kopf, möglicherweise mit ein paar nackten Kerlen und Weibern im Weg, die einen fragen, ob man denn ein gutes Nickerchen hatte und einen ein Getränk anbieten. Nicht … Gedärme und so Zeugs. Hoffe, du planst es nicht, lange hier zu bleiben.“
-
-{SCRIPT - Plays the first time the player talks to Tybir after they've entered the Bloom, and then not again.}</DefaultText>
+      <DefaultText>„Götter, Ich hasse diesen Ort. Ein Mann sieht gerne einen blauen Himmel über den Kopf, möglicherweise mit ein paar nackten Kerlen und Weibern im Weg, die einen fragen, ob man denn ein gutes Nickerchen hatte und einen ein Getränk anbieten. Nicht … Gedärme und so Zeugs. Hoffe, du planst es nicht, lange hier zu bleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -20,9 +18,7 @@
       <ID>3</ID>
       <DefaultText>„Kann nicht aufhören, über dein Miel Avest nachzudenken. Weißt du, du entwirfst einen Eindruck, wie eine Stadt voller Unsterblicher aussehen könnte. Büchereien und so. Vielleicht ein paar Teeläden.“
 
-„Das war keine Stadt. Das war ein Gefängnis, gebaut von deinem Wandelnden Gott, und deine Geschwister *leben freiwillig dort*, streiten sich darüber, wem denn das Besteck gehört, während der Henker an der Tür wartet. Warum lässt ihr ihn alle damit ungestraft davonkommen?“
-
-{SCRIPT: Tybir wants to talk. Currently marked as SHOULD NOT PLAY, but should trigger after the player gets to the Bloom and if Tybir was in the party and if Tybir was in the party during the Miel Avest crisis.}</DefaultText>
+„Das war keine Stadt. Das war ein Gefängnis, gebaut von deinem Wandelnden Gott, und deine Geschwister *leben freiwillig dort*, streiten sich darüber, wem denn das Besteck gehört, während der Henker an der Tür wartet. Warum lässt ihr ihn alle damit ungestraft davonkommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,12 +353,7 @@ Er fährt sich mit den Händen durch die Haare und seufzt schwer. „Es tut mir 
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>„Ich hoffe, du hast das bekommen, was du vom Herz wolltest, das ist nämlich das letzte, was du von mir bekommst.“
-
-{GAVIN: Write this after Heart is written.}
-{SCRIPT - Plays if the player forced him to give up his memories.}
-{SCRIPT - Doesn't play until they're out of the Heart area.}
-{SCRIPT: Tybir wants to talk.}</DefaultText>
+      <DefaultText>„Ich hoffe, du hast das bekommen, was du vom Herz wolltest, das ist nämlich das letzte, was du von mir bekommst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1002,9 +993,7 @@ Er runzelt die Stirn. „Er war immer ein bisschen griesgrämig und anfällig f�
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>„Die Schlunde der Flor zu öffnen klingt nicht so schwer. Wetten, ich kann das.“
-{SCRIPT: Should not play after this event is complete.}
-{SCRIPT: Tybir should have seen a maw.}</DefaultText>
+      <DefaultText>„Die Schlunde der Flor zu öffnen klingt nicht so schwer. Wetten, ich kann das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2300,9 +2289,7 @@ Er schüttelt wütend den Kopf. „Ich hätte niemals … niemals …“ Seine A
     </Entry>
     <Entry>
       <ID>621</ID>
-      <DefaultText>„Danke, das du mich nicht dazu gezwungen hast, diesem Ding eine meiner Erinnerungen zu geben. Ich habe viele schmerzhafte, aber ich will sie nicht weggeben. Von einem leeren Blatt kann man nichts lernen.“
-
-{SCRIPT - Plays if the player did not force him to give up his memories.}</DefaultText>
+      <DefaultText>„Danke, das du mich nicht dazu gezwungen hast, diesem Ding eine meiner Erinnerungen zu geben. Ich habe viele schmerzhafte, aber ich will sie nicht weggeben. Von einem leeren Blatt kann man nichts lernen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2582,8 +2569,7 @@ Er nickt dir zu. „Stelle deine Fragen und ich gebe mein Bestes.“</DefaultTex
     </Entry>
     <Entry>
       <ID>675</ID>
-      <DefaultText>„Ich wusste es.“
-{SCRIPT: Once Ever: Only plays during the Lost Loves quest, and before Tybir learns what happened to Auvigne.}</DefaultText>
+      <DefaultText>„Ich wusste es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2840,8 +2826,7 @@ Er reißt seine Hand weg, als ob er sich verbrannt hätte. „Irgendwas stimmt n
     </Entry>
     <Entry>
       <ID>724</ID>
-      <DefaultText>„Ich habe ihn ruiniert. Ich bin der, der Auvvie umgebracht hat, nicht dieser Narr beim Schrein.“
-{SCRIPT: Ideally, this force-plays RIGHT after Lost Loves is complete, and isn't JUST „wants to talk“. This must play before any other Tybir global information, and should be triggered in the Bloom only.}</DefaultText>
+      <DefaultText>„Ich habe ihn ruiniert. Ich bin der, der Auvvie umgebracht hat, nicht dieser Narr beim Schrein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

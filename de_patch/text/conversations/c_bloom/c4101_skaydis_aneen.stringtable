@@ -100,9 +100,7 @@ Als du zu diesem Schluss kommst, wirfst du einen Blick auf Skaydi. Wieder erhasc
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Das Aneen beißt in deine Hand, die trotz seiner stumpfen Zähne blutet. Es schüttelt deine Hand hin und her, dann lässt es los und du taumelst zurück.
-
-{SCHADEN}</DefaultText>
+      <DefaultText>Das Aneen beißt in deine Hand, die trotz seiner stumpfen Zähne blutet. Es schüttelt deine Hand hin und her, dann lässt es los und du taumelst zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,9 +154,7 @@ Als du zu diesem Schluss kommst, wirfst du einen Blick auf Skaydi. Wieder erhasc
 
 Nach einem kurzen Moment sieht sie dich mit nun klarem Blick an. „Vielen Dank. Ich weiß nicht, was mit mir los war. Die Flor muss in meinen Verstand eingedrungen sein … und hat auch mein Aneen *verändert*.“
 
-Sie blickt auf das tote Tier und berührt sanft seinen Kopf. „Ich wünschte, ich hätte gerettet werden können, ohne dass sie stirbt. Aber ich bin frei … das ist es, was zählt.“
-
-{DP}</DefaultText>
+Sie blickt auf das tote Tier und berührt sanft seinen Kopf. „Ich wünschte, ich hätte gerettet werden können, ohne dass sie stirbt. Aber ich bin frei … das ist es, was zählt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,9 +169,7 @@ Sie blickt auf das tote Tier und berührt sanft seinen Kopf. „Ich wünschte, i
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Mit einem einzigen Schlag schaltet Erritis das Aneen aus. „Bitte sehr! Problem gelöst!“
-
-{DP}</DefaultText>
+      <DefaultText>Mit einem einzigen Schlag schaltet Erritis das Aneen aus. „Bitte sehr! Problem gelöst!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

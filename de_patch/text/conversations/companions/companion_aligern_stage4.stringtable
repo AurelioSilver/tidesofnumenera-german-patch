@@ -6,9 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{shaken, terrified, trying to hold it together}„Ich hasse diesen Ort.“
-
-{SCRIPT: This should be a triggered conversation that Aligern initiates as soon as he is out of the Bloom Heart.}</DefaultText>
+      <DefaultText>„Ich hasse diesen Ort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -140,11 +138,9 @@ Er dreht sich von dir weg. „Ich hoffe, dass es den Preis wert war.“</Default
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Es ist eine endlose Parade aus Verstößen und du hast mich in jede hineingezwungen. Das war eine zu viel. {shivers}Du machst, dass Callistege harmlos aussieht.“
+      <DefaultText>„Es ist eine endlose Parade aus Verstößen und du hast mich in jede hineingezwungen. Das war eine zu viel. Du machst, dass Callistege harmlos aussieht.“
 
-„Ich habe genug. {pause}Ich hoffe, du verrottest hier drin.“
-
-{SCRIPT: Only plays if this is the third time the player has forced him into a violation of his self. (Maw and Doctors are the other two.)}</DefaultText>
+„Ich habe genug. Ich hoffe, du verrottest hier drin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -694,20 +690,16 @@ Er dreht sich von dir weg. „Ich hoffe, dass es den Preis wert war.“</Default
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>{Furious, shaking with rage}„Du bist wahrlich das Kind deines Vaters. Du behandelst deine Kumpanen wie höllische Experimente, setzt Wissenschaft vor Barmherzigkeit, vor Ehre!“
+      <DefaultText>„Du bist wahrlich das Kind deines Vaters. Du behandelst deine Kumpanen wie höllische Experimente, setzt Wissenschaft vor Barmherzigkeit, vor Ehre!“
 
-„Gib mir einen guten Grund, warum ich nicht jetzt sofort gehen soll.“
-
-{SCRIPT: This should be a triggered conversation that Aligern initiates as soon as he is out of D and O's clutches.}</DefaultText>
+„Gib mir einen guten Grund, warum ich nicht jetzt sofort gehen soll.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>{Sick, furious}„Der Schlund hat zu viel genommen. Viel zu viel. Und du hast mich einfach dagelassen!“
+      <DefaultText>„Der Schlund hat zu viel genommen. Viel zu viel. Und du hast mich einfach dagelassen!“
 
-„Versuche das nie nochmal. Auch nicht etwas Ähnliches. Das ist eine Warnung.“
-
-{SCRIPT: This should be a triggered conversation that Aligern initiates as soon as he is out of the maw.}</DefaultText>
+„Versuche das nie nochmal. Auch nicht etwas Ähnliches. Das ist eine Warnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1264,34 +1256,23 @@ Er hält sich eine Hand vor die Augen. „… vergiss es. Vergiss es. Ich bin m�
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>{sick, furious}„Du hast es mir versprochen. Du hast mir versprochen, dass du mich nie wieder gegen meinen Willen benutzen würdest.“
+      <DefaultText>„Du hast es mir versprochen. Du hast mir versprochen, dass du mich nie wieder gegen meinen Willen benutzen würdest.“
 
-„Na ja, Ich sagte dir, das letzte Mal sollte auch das letzte Mal sein. Und ich lüge nicht, so, wie andere hier. Wir sind fertig.{turns away} Ich hoffe du, verrottest hier drin.“
-
-{SCRIPT: This should be a triggered conversation that Aligern initiates as soon as he is out of the maw.}
-{SCRIPT: Make sure to set PCPromisedNoMoreAbuse to two in the Maw conversation if PCPromisedNoMoreAbuse was already set to 1.}</DefaultText>
+„Na ja, Ich sagte dir, das letzte Mal sollte auch das letzte Mal sein. Und ich lüge nicht, so, wie andere hier. Wir sind fertig. Ich hoffe du, verrottest hier drin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>{sick and furious}„Und ich hasse dich. Du hast mir versprochen, du würdest mich die wieder gegen meinen Willen benutzen.“
+      <DefaultText>„Und ich hasse dich. Du hast mir versprochen, du würdest mich die wieder gegen meinen Willen benutzen.“
 
-„Na ja, Ich sagte dir, das letzte Mal sollte auch das letzte Mal sein. Und ich lüge nicht, so, wie andere hier. Wir sind fertig.{pause} Ich hoffe, du verrottest hier drin.“
-
-{SCRIPT: leaves party.}
-{SCRIPT: This should be a triggered conversation that Aligern initiates as soon as hehas given a memory.}
-{SCRIPT: Make sure to set PCPromisedNoMoreAbuse to two in the Bloom Heart conversation if PCPromisedNoMoreAbuse was already set to 1.}</DefaultText>
+„Na ja, Ich sagte dir, das letzte Mal sollte auch das letzte Mal sein. Und ich lüge nicht, so, wie andere hier. Wir sind fertig. Ich hoffe, du verrottest hier drin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>{sick, furious}„Du hast versprochen, du würdest mich rausziehen. Und du hast mich einfach verlassen!“
+      <DefaultText>„Du hast versprochen, du würdest mich rausziehen. Und du hast mich einfach verlassen!“
 
-„Ein Mann kann nur so viel Missbrauch vertragen. Ich bin fertig.{turns away} Ich hoffe, du verrottest hier drin.“
-
-{SCRIPT: Aligen leaves the party.}
-{SCRIPT: This should be a triggered conversation that Aligern initiates as soon as he is out of the maw.}
-{SCRIPT: In Maw conversation, make a conditional for if PC promised Aligern he would pull him out.}</DefaultText>
+„Ein Mann kann nur so viel Missbrauch vertragen. Ich bin fertig. Ich hoffe, du verrottest hier drin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1346,14 +1327,14 @@ Er hält sich eine Hand vor die Augen. „… vergiss es. Vergiss es. Ich bin m�
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>{hesitant, ashamed}„Ich … ich weiß nicht, wie ich für die Hilfe mit dem Rahmen danken kann, mit den Tätowierungen … mit meiner *Familie*. Ich weiß, ich war nicht der einfachste Kumpane, oder der vertrauensvollste.“
+      <DefaultText>„Ich … ich weiß nicht, wie ich für die Hilfe mit dem Rahmen danken kann, mit den Tätowierungen … mit meiner *Familie*. Ich weiß, ich war nicht der einfachste Kumpane, oder der vertrauensvollste.“
 
 „Ich hoffe, du weißt jetzt, warum ich mich so benommen habe, wie ich es tat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>{Focused, determined}„Finden wir jetzt diesen Rahmen.“
+      <DefaultText>„Finden wir jetzt diesen Rahmen.“
 
 „Ich habe lang genug gewartet.“</DefaultText>
       <FemaleText />
@@ -1414,7 +1395,7 @@ Er zuckt mit den Schultern. „Aber die Vergangenheit kann ich nicht ändern, sc
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>„Und? Lasst und Orth Faung finden!“{Stops to collect himself}
+      <DefaultText>„Und? Lasst und Orth Faung finden!“
 
 „Tut mir leid. Du hast wahrscheinlich etwas, worüber du reden willst.“</DefaultText>
       <FemaleText />

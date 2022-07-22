@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>{exultant} „Ja.“</DefaultText>
+      <DefaultText>„Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>{terrified, urgent} „Wach auf! Wach auf! Der Kummer ist hier! Zu den Schildgeneratoren, schnell!“</DefaultText>
+      <DefaultText>„Wach auf! Wach auf! Der Kummer ist hier! Zu den Schildgeneratoren, schnell!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,17 +246,17 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>{annoyed, sick} „Ich habe doch gesagt, dass die Cypher mich vergiften.“</DefaultText>
+      <DefaultText>„Ich habe doch gesagt, dass die Cypher mich vergiften.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>{gasping} „Nimm diese Cypher von mir weg.“</DefaultText>
+      <DefaultText>„Nimm diese Cypher von mir weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>{sharp whisper} „Hol mich hier raus!“</DefaultText>
+      <DefaultText>„Hol mich hier raus!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>{low-key happy, smile in voice} „Tödlich.“</DefaultText>
+      <DefaultText>„Tödlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,7 +551,7 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>{impatient} „Endlich!“</DefaultText>
+      <DefaultText>„Endlich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,7 +636,7 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>{determined} „Nein. NEIN: Ich sterbe nicht.“</DefaultText>
+      <DefaultText>„Nein. NEIN: Ich sterbe nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -651,7 +651,7 @@
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>{grudging} „Danke.“</DefaultText>
+      <DefaultText>„Danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

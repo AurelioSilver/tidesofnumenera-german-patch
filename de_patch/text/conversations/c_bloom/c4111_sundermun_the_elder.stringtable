@@ -16,9 +16,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Lass mich deine Waren sehen.“
-
-{STORE}</DefaultText>
+      <DefaultText>„Lass mich deine Waren sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,9 +143,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Eines Tages wird mein jüngeres Ich einen Spaziergang machen und dabei wird sich ein Schlund unter ihm öffnen. Er wird in eine andere Welt stolpern, mehrere Jahre in der Vergangenheit. Die Reise in die Vergangenheit könnte aber auch sein Versuch sein, in seine Welt zurückzukehren. Wie dem auch sei, es braucht etliche Jahrzehnte und viele verschiedene Welten, bis er seinen Weg hierher zurückfindet.“ Er lächelt wehmütig. „Ich beneide ihn um die Erfahrungen, die er machen wird, aber bin ihm auch dankbar für die Erinnerungen.“
-
-{DP}</DefaultText>
+      <DefaultText>„Eines Tages wird mein jüngeres Ich einen Spaziergang machen und dabei wird sich ein Schlund unter ihm öffnen. Er wird in eine andere Welt stolpern, mehrere Jahre in der Vergangenheit. Die Reise in die Vergangenheit könnte aber auch sein Versuch sein, in seine Welt zurückzukehren. Wie dem auch sei, es braucht etliche Jahrzehnte und viele verschiedene Welten, bis er seinen Weg hierher zurückfindet.“ Er lächelt wehmütig. „Ich beneide ihn um die Erfahrungen, die er machen wird, aber bin ihm auch dankbar für die Erinnerungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,14 +315,10 @@
       <ID>126</ID>
       <DefaultText>„Flor-Fleisch, mein Freund, Flor-Fleisch! Wir stellen alles Mögliche daraus her – Kleidung, Rüstungen, Baumaterialien, Trockenfleisch, was auch immer dir in den Sinn kommt! Unsere besten Kunden sind die Flor-Kultisten, dieser Haufen liebt es einfach, sich komplett in Flor-Fleisch einzuwickeln. Aber im Prinzip kauft jeder bei uns ein, sogar die Murden!“
 
-„Man könnte sagen, unser Geschäft steht … in voller Flor!“ Er sieht dich mit einem erwartungsvollen Blick an.
-
-{WORDPLAY}</DefaultText>
+„Man könnte sagen, unser Geschäft steht … in voller Flor!“ Er sieht dich mit einem erwartungsvollen Blick an.</DefaultText>
       <FemaleText>„Flor-Fleisch, meine Gute, Flor-Fleisch! Wir stellen alles Mögliche daraus her – Kleidung, Rüstungen, Baumaterialien, Trockenfleisch, was auch immer dir in den Sinn kommt! Unsere besten Kunden sind die Flor-Kultisten, dieser Haufen liebt es einfach, sich komplett in Flor-Fleisch einzuwickeln. Aber im Prinzip kauft jeder bei uns ein, sogar die Murden!“
 
-„Man könnte sagen, unser Geschäft steht … in voller Flor!“ Er sieht dich mit einem erwartungsvollen Blick an.
-
-{WORDPLAY}</FemaleText>
+„Man könnte sagen, unser Geschäft steht … in voller Flor!“ Er sieht dich mit einem erwartungsvollen Blick an.</FemaleText>
     </Entry>
     <Entry>
       <ID>127</ID>
@@ -710,9 +702,7 @@ Er sieht sein jüngeres Ich an. „Du musst dich vor Izzgilwlridil hüten.“</D
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>„Einverstanden. Hier ist das Geld.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Einverstanden. Hier ist das Geld.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -742,9 +732,7 @@ Er sieht sein jüngeres Ich an. „Du musst dich vor Izzgilwlridil hüten.“</D
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>„Ich habe [Global: c4111_SundermunCotyRoomAndBoard] Shin. Das sollte für Kost und Logis des Jungen genügen.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Ich habe [Global: c4111_SundermunCotyRoomAndBoard] Shin. Das sollte für Kost und Logis des Jungen genügen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -789,9 +777,7 @@ Er sieht sein jüngeres Ich an. „Du musst dich vor Izzgilwlridil hüten.“</D
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>„Coty könnte hier ein gutes Leben führen“, flüstert Rhin dir zu. „Wir sollten ihm gleich davon erzählen!“
-
-{ADAM: Please review Rhin voice.}</DefaultText>
+      <DefaultText>„Coty könnte hier ein gutes Leben führen“, flüstert Rhin dir zu. „Wir sollten ihm gleich davon erzählen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

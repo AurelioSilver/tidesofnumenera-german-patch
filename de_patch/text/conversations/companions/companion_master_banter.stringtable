@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{snappish} „Versuch bitte, deinen Enthusiasmus zu zügeln, ja? Das hier ist kein Spiel.“</DefaultText>
+      <DefaultText>„Versuch bitte, deinen Enthusiasmus zu zügeln, ja? Das hier ist kein Spiel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>{a little guilty} „Ich … ein Spiel? Ähm … nein. *Ich* spiele überhaupt nicht.“</DefaultText>
+      <DefaultText>„Ich … ein Spiel? Ähm … nein. *Ich* spiele überhaupt nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>{disgusted} „Muss denn jede soziale Interaktion für dich eine Gelegenheit sein, deine Hosen auszuziehen?“</DefaultText>
+      <DefaultText>„Muss denn jede soziale Interaktion für dich eine Gelegenheit sein, deine Hosen auszuziehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>{grudgingly}„Obwohl ich es besser wissen müsste, könnten wir das durchaus sein.“</DefaultText>
+      <DefaultText>„Obwohl ich es besser wissen müsste, könnten wir das durchaus sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,12 +161,12 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>{watery sound}::slrp::</DefaultText>
+      <DefaultText>::slrp::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>{disgusted} „Ich hoffe, dass dieses Geräusch nur ein Zufall war.“</DefaultText>
+      <DefaultText>„Ich hoffe, dass dieses Geräusch nur ein Zufall war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,12 +211,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>{Pouts} „Ich verstehe nicht, wie dir das in dieser Menge aus … Callisteges auffallen konnte.“</DefaultText>
+      <DefaultText>„Ich verstehe nicht, wie dir das in dieser Menge aus … Callisteges auffallen konnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>{trying to be lighthearted}„Es … tut mir leid. Könnte ich Lumpen spenden? Als Wiedergutmachung?“</DefaultText>
+      <DefaultText>„Es … tut mir leid. Könnte ich Lumpen spenden? Als Wiedergutmachung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>{unhappy} „Das sagt mehr von der Welt, als von den Leuten, mit denen du reist.“</DefaultText>
+      <DefaultText>„Das sagt mehr von der Welt, als von den Leuten, mit denen du reist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>{slightly disgusted} „So langsam erscheint mir der unausweichliche Tod am Ende dieser Reise als etwas Positives.“</DefaultText>
+      <DefaultText>„So langsam erscheint mir der unausweichliche Tod am Ende dieser Reise als etwas Positives.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>{confused, slightly threatening} „… was hast du da gerade gesagt?“</DefaultText>
+      <DefaultText>„… was hast du da gerade gesagt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,17 +311,17 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>{hostile}::sssrrrrsss::</DefaultText>
+      <DefaultText>::sssrrrrsss::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>„Oom, komm her. KOMM. HER. {sigh} Warum gehorcht er nur dir, Verstoßener?“</DefaultText>
-      <FemaleText>„Oom, komm her. KOMM. HER. {sigh} Warum gehorcht er nur dir, Verstoßene?“</FemaleText>
+      <DefaultText>„Oom, komm her. KOMM. HER. Warum gehorcht er nur dir, Verstoßener?“</DefaultText>
+      <FemaleText>„Oom, komm her. KOMM. HER. Warum gehorcht er nur dir, Verstoßene?“</FemaleText>
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>{indignant}::srrrk::</DefaultText>
+      <DefaultText>::srrrk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Sind wir das? {dismissive} Keine Sorge. Es war erfrischend, zur Abwechslung mal offen mit dir zu reden.“</DefaultText>
+      <DefaultText>„Sind wir das? Keine Sorge. Es war erfrischend, zur Abwechslung mal offen mit dir zu reden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,7 +541,7 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>„Alli, wer hat dich so vollgemalt? Sieht aus, als wäre derjenige nicht fertig geworden. {Trying to take them in} Oder … deine Linien können sich einfach nicht einig werden.“</DefaultText>
+      <DefaultText>„Alli, wer hat dich so vollgemalt? Sieht aus, als wäre derjenige nicht fertig geworden. Oder … deine Linien können sich einfach nicht einig werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,7 +551,7 @@
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>„Du siehst aus, wie die Schatzkarte eines armen Mannes! {Wistful} Oooooh … Schätze.“</DefaultText>
+      <DefaultText>„Du siehst aus, wie die Schatzkarte eines armen Mannes! Oooooh … Schätze.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -596,7 +596,7 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>„Hör auf zu schreien, wenn du das tust … {frowns}können wir dich alle hören. Das macht dich … nur noch lästiger als sonst.“</DefaultText>
+      <DefaultText>„Hör auf zu schreien, wenn du das tust … können wir dich alle hören. Das macht dich … nur noch lästiger als sonst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -791,7 +791,7 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>„Du weißt doch, dass ich dich vor diesen Dingern gewarnt habe. {Chiding}Wirklich, Erritis.“</DefaultText>
+      <DefaultText>„Du weißt doch, dass ich dich vor diesen Dingern gewarnt habe. Wirklich, Erritis.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -801,7 +801,7 @@
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>„Oh, sehr gut! {Sighs, genuinely grateful}Weißt du, es ist so schön, jemanden zu haben, mit dem man reden kann.“</DefaultText>
+      <DefaultText>„Oh, sehr gut! Weißt du, es ist so schön, jemanden zu haben, mit dem man reden kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,7 +846,7 @@
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>„-kiiiiina. Nicht Matti. Nein. Matkina. {Beat}War das gut so?“</DefaultText>
+      <DefaultText>„-kiiiiina. Nicht Matti. Nein. Matkina. War das gut so?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -861,7 +861,7 @@
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>„Was? Wo sind sie jetzt hin? {Beat, weary}Sie hauen ständig vor mir ab.“</DefaultText>
+      <DefaultText>„Was? Wo sind sie jetzt hin? Sie hauen ständig vor mir ab.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,7 +871,7 @@
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>„Meine Haut … {realizes what happened, shakes head}Du siehst mich durch dein Leuchten an, Erritis …“</DefaultText>
+      <DefaultText>„Meine Haut … Du siehst mich durch dein Leuchten an, Erritis …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -891,7 +891,7 @@
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>„Erritis … {sighs}Weißt du was? Vergiss es.“</DefaultText>
+      <DefaultText>„Erritis … Weißt du was? Vergiss es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -916,7 +916,7 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>{hairball}::ssssssrk::</DefaultText>
+      <DefaultText>::ssssssrk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -946,7 +946,7 @@
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>{building}::mmmmmMM::</DefaultText>
+      <DefaultText>::mmmmmMM::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -956,7 +956,7 @@
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>„Ich erinnere mich noch an die Zeit, in der Oom nur ein Spielzeug war. Ruhig. Freundlich. {Sad}Wollte mehr mit mir spielen.“</DefaultText>
+      <DefaultText>„Ich erinnere mich noch an die Zeit, in der Oom nur ein Spielzeug war. Ruhig. Freundlich. Wollte mehr mit mir spielen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -996,7 +996,7 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>„Gleichfalls! {Pauses, thinking}Na gut, du darfst weiterstarren.“</DefaultText>
+      <DefaultText>„Gleichfalls! Na gut, du darfst weiterstarren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1006,7 +1006,7 @@
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>„Es war ein mal vor langer Zeit … KRIEG! KONFLIKTE! UND MEHR KRIEG! Ein Duell! {Casually thrown out}Und hier endet die Geschichte vorerst.“</DefaultText>
+      <DefaultText>„Es war ein mal vor langer Zeit … KRIEG! KONFLIKTE! UND MEHR KRIEG! Ein Duell! Und hier endet die Geschichte vorerst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1021,7 +1021,7 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>„War es nur eins? {To himself}Und ich dachte, die Schlange der Tausend Küsse würde dich zuerst töten.“</DefaultText>
+      <DefaultText>„War es nur eins? Und ich dachte, die Schlange der Tausend Küsse würde dich zuerst töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1176,7 +1176,7 @@
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>„Also … Langeweile, ja? {mocking, light laugh}Falls es dir noch nicht aufgefallen ist, du hast hier nicht das Monopol auf Tragödien.“</DefaultText>
+      <DefaultText>„Also … Langeweile, ja? Falls es dir noch nicht aufgefallen ist, du hast hier nicht das Monopol auf Tragödien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1196,7 +1196,7 @@
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>{indignant} „Was jetzt, sollen sie etwa Kunststückchen für dich aufführen?“</DefaultText>
+      <DefaultText>„Was jetzt, sollen sie etwa Kunststückchen für dich aufführen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,7 +1211,7 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>{disbelieving pause} „ich bin zweihundert Jahre älter als du.“</DefaultText>
+      <DefaultText>„ich bin zweihundert Jahre älter als du.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1251,7 +1251,7 @@
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>„Nein, nein. Es ist dein Enthusiasmus. {hard}Übertreib es nicht damit.“</DefaultText>
+      <DefaultText>„Nein, nein. Es ist dein Enthusiasmus. Übertreib es nicht damit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1261,7 +1261,7 @@
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>„Ich denke jetzt an eine brutale Sache. {pause}Oha. Es funktioniert wirklich.“</DefaultText>
+      <DefaultText>„Ich denke jetzt an eine brutale Sache. Oha. Es funktioniert wirklich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1306,7 +1306,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>{extended}::rrrsrsrsrsrsrsrsrk::</DefaultText>
+      <DefaultText>::rrrsrsrsrsrsrsrsrk::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1336,17 +1336,17 @@
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>{Hushed voice} „Wie ich höre, hilft dir eine Gottheit dabei, dich zu verstecken.“</DefaultText>
+      <DefaultText>„Wie ich höre, hilft dir eine Gottheit dabei, dich zu verstecken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>{Frightened} „Ich … du kannst sie nicht haben. Ich brauche sie.“</DefaultText>
+      <DefaultText>„Ich … du kannst sie nicht haben. Ich brauche sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>{Laughs heartily} „Der Tag, an dem ich eine Gottheit brauche, um *mich* zu verstecken, ist der Tag an dem wir … {suddenly ashamed; trying to change the subject}Nein, ist schon in Ordnung. Ich will sie ja gar nicht.“</DefaultText>
+      <DefaultText>„Der Tag, an dem ich eine Gottheit brauche, um *mich* zu verstecken, ist der Tag an dem wir … Nein, ist schon in Ordnung. Ich will sie ja gar nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1361,7 +1361,7 @@
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText>{embarrassed} „Darauf würde ich mich nicht verlassen.“</DefaultText>
+      <DefaultText>„Darauf würde ich mich nicht verlassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1386,7 +1386,7 @@
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>{incredulous} „Trägst du Parfum?“</DefaultText>
+      <DefaultText>„Trägst du Parfum?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1431,12 +1431,12 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>„Und warum solltest du das wollen? {laughs}Das war ein Scherz. Steck deine Dolche weg, Assassine.“</DefaultText>
+      <DefaultText>„Und warum solltest du das wollen? Das war ein Scherz. Steck deine Dolche weg, Assassine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>{muttering} „Und den Anblick werde ich auch ein bisschen verbessern.“</DefaultText>
+      <DefaultText>„Und den Anblick werde ich auch ein bisschen verbessern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1486,17 +1486,17 @@
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>{A little meek and sad}„Erritis? {Beat}Tut mir leid, dass ich dich vorhin klein genannt habe.“</DefaultText>
+      <DefaultText>„Erritis? Tut mir leid, dass ich dich vorhin klein genannt habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>„Erritis? {Puzzled}Bist du wirklich vom Himmel gefallen?“</DefaultText>
+      <DefaultText>„Erritis? Bist du wirklich vom Himmel gefallen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>„Erritis? {Curious}Hast du wirklich ein Luftschiff in den Klippen versenkt?“</DefaultText>
+      <DefaultText>„Erritis? Hast du wirklich ein Luftschiff in den Klippen versenkt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1516,7 +1516,7 @@
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>{grouchy}„Ich bin müde, ich will nicht mehr laufen.“</DefaultText>
+      <DefaultText>„Ich bin müde, ich will nicht mehr laufen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1536,7 +1536,7 @@
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>{Quietly}„Ahl würde gerne von dir etwas in Sachen Verstecken lernen.“</DefaultText>
+      <DefaultText>„Ahl würde gerne von dir etwas in Sachen Verstecken lernen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1581,7 +1581,7 @@
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>{whistles a happy tune}</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -1591,7 +1591,7 @@
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>{Pained, not slow}„Könntest du ein bisschen weniger leuchten, Kumpel? Mir dröhnt der Schädel.“</DefaultText>
+      <DefaultText>„Könntest du ein bisschen weniger leuchten, Kumpel? Mir dröhnt der Schädel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1666,7 +1666,7 @@
     </Entry>
     <Entry>
       <ID>369</ID>
-      <DefaultText>{sizzling sound} ::sssss::</DefaultText>
+      <DefaultText>::sssss::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1711,7 +1711,7 @@
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>„Was willst du denn hören? Dass sie … {teasing}etwas angefangen haben?“</DefaultText>
+      <DefaultText>„Was willst du denn hören? Dass sie … etwas angefangen haben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1726,17 +1726,17 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>{Thinking, doubtful}„Viele? Einige viele. Möglicherweise viele viele. 'Viele' ist eine Zahl, oder?“</DefaultText>
+      <DefaultText>„Viele? Einige viele. Möglicherweise viele viele. 'Viele' ist eine Zahl, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>„Leuchten? Welches Leuchten? {Genuinely confused}Ich dachte, die ganze Welt wäre golden.“</DefaultText>
+      <DefaultText>„Leuchten? Welches Leuchten? Ich dachte, die ganze Welt wäre golden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>{Confused} „Nur diese Zwei?“</DefaultText>
+      <DefaultText>„Nur diese Zwei?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1746,7 +1746,7 @@
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>{snorts}„Alles, was ich bisher gesehen habe, hat sich auf große Worte und schnelle Flucht beschränkt.“</DefaultText>
+      <DefaultText>„Alles, was ich bisher gesehen habe, hat sich auf große Worte und schnelle Flucht beschränkt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1786,17 +1786,17 @@
     </Entry>
     <Entry>
       <ID>393</ID>
-      <DefaultText>{Slightly hurt}„Wie kannst du so etwas sagen? Glaubst du, ich bin voller Worte und Enden?“</DefaultText>
+      <DefaultText>„Wie kannst du so etwas sagen? Glaubst du, ich bin voller Worte und Enden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>{Slightly hurt}„Klein? Leuchtend? {beat, pleased}Prinz? Hmm!“</DefaultText>
+      <DefaultText>„Klein? Leuchtend? Prinz? Hmm!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>{Slightly hurt}„Nun, es tut mir leid, dass es dir leid tut. {Suddenly concerned}Bist du jetzt traurig? Das müssen wir dir ganz schnell austreiben!“</DefaultText>
+      <DefaultText>„Nun, es tut mir leid, dass es dir leid tut. Bist du jetzt traurig? Das müssen wir dir ganz schnell austreiben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1806,12 +1806,12 @@
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>{As though teaching a pupil}„Niemals. Nachdenken lässt einen langsamer werden. Man muss immer zuerst handeln und dann nachdenken. Und dann wieder handeln! Wenn man es richtig macht, muss man eigentlich überhaupt nicht nachdenken!“</DefaultText>
+      <DefaultText>„Niemals. Nachdenken lässt einen langsamer werden. Man muss immer zuerst handeln und dann nachdenken. Und dann wieder handeln! Wenn man es richtig macht, muss man eigentlich überhaupt nicht nachdenken!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>{Defensive} „Nein! Weißt du, ich habe das Luftschiff geschickt in Richtung Boden … {double take}Warum *erkläre* ich dir das eigentlich?“</DefaultText>
+      <DefaultText>„Nein! Weißt du, ich habe das Luftschiff geschickt in Richtung Boden … Warum *erkläre* ich dir das eigentlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1821,12 +1821,12 @@
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>{crescendo and fall}::ruprupruprup::</DefaultText>
+      <DefaultText>::ruprupruprup::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>401</ID>
-      <DefaultText>{lively}::fffipipip::</DefaultText>
+      <DefaultText>::fffipipip::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1836,7 +1836,7 @@
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>{smiling}„Ich glaube nie, dass niemand mich beobachtet. Das ist mein gutaussehendes, nachdenkliches Gesicht.“</DefaultText>
+      <DefaultText>„Ich glaube nie, dass niemand mich beobachtet. Das ist mein gutaussehendes, nachdenkliches Gesicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1851,7 +1851,7 @@
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>{chokes back a sob}„Okay. Entschuldige.“</DefaultText>
+      <DefaultText>„Okay. Entschuldige.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1886,7 +1886,7 @@
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>{Giggles} ::kichert::</DefaultText>
+      <DefaultText>::kichert::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1896,7 +1896,7 @@
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>{Quiet, a bit taken aback}„… weil ich nachgefragt habe?“</DefaultText>
+      <DefaultText>„… weil ich nachgefragt habe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1906,17 +1906,17 @@
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>{slowly}„Na ja, es sollte aber ein Kompliment sein.“</DefaultText>
+      <DefaultText>„Na ja, es sollte aber ein Kompliment sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>{claps in delight}„Dankeschön!“</DefaultText>
+      <DefaultText>„Dankeschön!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>419</ID>
-      <DefaultText>{happier}„Du weißt einfach, wie du mich aufmuntern kannst, Oom.“</DefaultText>
+      <DefaultText>„Du weißt einfach, wie du mich aufmuntern kannst, Oom.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1941,7 +1941,7 @@
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>{muttering to self}„Gut gemacht, Aligern. *Gut* gemacht.“</DefaultText>
+      <DefaultText>„Gut gemacht, Aligern. *Gut* gemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1951,12 +1951,12 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>{sweetly}„Sie hat gelernt, aufzuhören. Das haben wir ihr beigebracht.“</DefaultText>
+      <DefaultText>„Sie hat gelernt, aufzuhören. Das haben wir ihr beigebracht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>428</ID>
-      <DefaultText>{Smiles}„Oh. Hier, siehst du? Alles heil!“</DefaultText>
+      <DefaultText>„Oh. Hier, siehst du? Alles heil!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1966,12 +1966,12 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>{Taken aback, flustered}„Ich … gut, dann … Weißt du, für ein Mädchen mit so viele Fragen hast du aber ganz schön viele Antworten.“</DefaultText>
+      <DefaultText>„Ich … gut, dann … Weißt du, für ein Mädchen mit so viele Fragen hast du aber ganz schön viele Antworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>{Surprised}„Wirklich? {Pause, thinking}Hier ist ein Tipp. Du musst keine Angst vor dem Dunkel haben, wenn *du* das Monster darin bist.“</DefaultText>
+      <DefaultText>„Wirklich? Hier ist ein Tipp. Du musst keine Angst vor dem Dunkel haben, wenn *du* das Monster darin bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1986,17 +1986,17 @@
     </Entry>
     <Entry>
       <ID>434</ID>
-      <DefaultText>{Quickly, as though frightened}„Er will nichts mehr lernen.“</DefaultText>
+      <DefaultText>„Er will nichts mehr lernen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>437</ID>
-      <DefaultText>{sadly}„Das tut mir so leid. Die Welt kann für jeden schrecklich sein, nehme ich an. Du tust mir leid.“</DefaultText>
+      <DefaultText>„Das tut mir so leid. Die Welt kann für jeden schrecklich sein, nehme ich an. Du tust mir leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>438</ID>
-      <DefaultText>{touched}„Danke, Rhin. {harder}Wenn die Welt doch nur genau so fühlen würde.“</DefaultText>
+      <DefaultText>„Danke, Rhin. Wenn die Welt doch nur genau so fühlen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2041,7 +2041,7 @@
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>{Excited}„Ja! Genau!“</DefaultText>
+      <DefaultText>„Ja! Genau!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2061,12 +2061,12 @@
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>{Fond}„Das heißt vermutlich 'beide'.“</DefaultText>
+      <DefaultText>„Das heißt vermutlich 'beide'.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>{Pained, not slow}„Nein, heute nicht. Heute trägt die Welt die Farben des Schmerzes.“</DefaultText>
+      <DefaultText>„Nein, heute nicht. Heute trägt die Welt die Farben des Schmerzes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2086,7 +2086,7 @@
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>„Tybir, {suddenly cold}das geht dich nichts an.“</DefaultText>
+      <DefaultText>„Tybir, das geht dich nichts an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

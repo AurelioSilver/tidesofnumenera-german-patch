@@ -271,8 +271,7 @@ Er runzelt die Stirn. „Es *sollte* eigentlich ‚schnell' oder ‚unglaublich 
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„Zuhörerin“, sagt Rhin. „Irgendwie witzig, wie sich die Dinge entwickeln.“
-{RHIN}</DefaultText>
+      <DefaultText>„Zuhörerin“, sagt Rhin. „Irgendwie witzig, wie sich die Dinge entwickeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -558,8 +557,7 @@ Er räuspert sich und trottet davon, sein Leuchten flackert dabei wie ein Glühw
       <ID>117</ID>
       <DefaultText>„Andere Leute reisen mit uns?“, fragt er schockiert. Er dreht sich misstrauisch um und sieht Matkina offenbar zum ersten Mal. Seine Kinnlade klappt herunter.
 
-„Ähm.“
-{SCRIPT: General note: all Matkina/Erritis bark conversations need to be gated with g_erritis_meets_matkina=1. He needs to spot her 'for the first time' before they can have their miscellaneous banters.}</DefaultText>
+„Ähm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -665,8 +663,7 @@ Er sieht zu dir auf und nickt. „Ich war schon immer ein Held.“</DefaultText>
       <ID>145</ID>
       <DefaultText>Das Leuchten verlässt Erritis abrupt. Er sieht älter aus. Einfacher. Über alle Maßen hinaus erschöpft.
 
-„W-Was?“
-{SCRIPT: Glow fades.}</DefaultText>
+„W-Was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -680,8 +677,7 @@ Er sieht zu dir auf und nickt. „Ich war schon immer ein Held.“</DefaultText>
 
 Erritis sieht dich seelenruhig aus dem Innern der Nova an. Er ist so schön, dass es dir schwerfällt, ihn anzusehen.
 
-„Ich habe keine Ahnung, wovon du redest.“
-{SCRIPT: Glow returns}</DefaultText>
+„Ich habe keine Ahnung, wovon du redest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -690,8 +686,7 @@ Erritis sieht dich seelenruhig aus dem Innern der Nova an. Er ist so schön, das
 
 Erritis sieht dich seelenruhig aus dem Inneren der Nova an. Er ist beinahe unerträglich gutaussehend.
 
-„Ich habe keine Ahnung, wovon du redest.“
-{SCRIPT: Glow returns}</DefaultText>
+„Ich habe keine Ahnung, wovon du redest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

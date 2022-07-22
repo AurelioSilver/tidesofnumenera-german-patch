@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„{Pause}Oh. Ja?“ Sie sieht sich ehrfürchtig um und es dauert ein wenig, bis sie dich bemerkt.</DefaultText>
+      <DefaultText>„Oh. Ja?“ Sie sieht sich ehrfürchtig um und es dauert ein wenig, bis sie dich bemerkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>{Curious, confused}„Wovon hat Aadiriis da gesprochen? Die Gezeiten, mein ich. Meere haben Gezeiten, aber Menschen doch nicht. Was hat sie damit gemeint?“</DefaultText>
+      <DefaultText>„Wovon hat Aadiriis da gesprochen? Die Gezeiten, mein ich. Meere haben Gezeiten, aber Menschen doch nicht. Was hat sie damit gemeint?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,14 +166,14 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„{Her voice is flat, relating the tale of her abuser}Tol hat das mit mir gemacht. Hat gesagt, es hilft ihr. Dass sie einen Erwachsenen töten würde, wenn sie mich nicht benutzen kann.“
+      <DefaultText>„Tol hat das mit mir gemacht. Hat gesagt, es hilft ihr. Dass sie einen Erwachsenen töten würde, wenn sie mich nicht benutzen kann.“
 
 Sie hält sich die Hand vor den Mund. „Sie hat mir weh getan. Ich habe mich krank, traurig und halb tot gefühlt. Ich habe mir oft gewünscht, ich wäre *ganz* tot. Deshalb bin ich davongelaufen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Ich weiß, es geht mich nichts an und ich würde es wahrscheinlich auch gar nicht mitbekommen, aber … {Pleading}Versprich mir, dass du niemals jemanden auf diese Weise verletzen wirst. Nie. Ich kann nicht … {At a loss for words}Ich kann nicht …“
+      <DefaultText>„Ich weiß, es geht mich nichts an und ich würde es wahrscheinlich auch gar nicht mitbekommen, aber … Versprich mir, dass du niemals jemanden auf diese Weise verletzen wirst. Nie. Ich kann nicht … Ich kann nicht …“
 
 Sie schüttelt den Kopf, kann nicht weiterreden.</DefaultText>
       <FemaleText />
