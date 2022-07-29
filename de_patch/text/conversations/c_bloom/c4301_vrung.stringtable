@@ -62,18 +62,14 @@ Du spürst eine starke Verbindung zwischen ihm und Delny, wie ein Schraubstock, 
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Was, wenn ich dir [Global: c4301_VrungQiannePayment] Shin gäbe, damit du Qianne in Ruhe lässt?“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Was, wenn ich dir [Global: c4301_VrungQiannePayment] Shin gäbe, damit du Qianne in Ruhe lässt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Er lacht und seine Missachtung wird mit jedem harschen Ton deutlich. „Ich werde dein Geld nehmen. Ich werde sie in Ruhe lassen. Zumindest vorerst.“
 
-Er wendet sich ab und lässt dich stehen.
-
-{MONEY}</DefaultText>
+Er wendet sich ab und lässt dich stehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,9 +332,7 @@ Er konzentriert sich … oder konzentriert sich eher *nicht*, und die Schatten 
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>„Mir gefällt dein Ton nicht.“ Erdrossle ihn.
-
-{CRIT}</DefaultText>
+      <DefaultText>„Mir gefällt dein Ton nicht.“ Erdrossle ihn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

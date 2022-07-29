@@ -77,9 +77,7 @@ Ein verstecktes Bedienfeld öffnet sich. In ihm liegt eine Masse aus Metalldräh
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Die Projektionen sprechen gleichzeitig. „Meine externen Sensoren wurden zerstört. Einige Passagiere wurden hinausgeschleudert. Berechnungen legen nahe, dass niemand einen solchen Unfall überlebt haben könnte.“
-
-{SCRIPT: Apply an asset that makes it easier to convince the AI to upload itself into your Labyrinth.}</DefaultText>
+      <DefaultText>Die Projektionen sprechen gleichzeitig. „Meine externen Sensoren wurden zerstört. Einige Passagiere wurden hinausgeschleudert. Berechnungen legen nahe, dass niemand einen solchen Unfall überlebt haben könnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,9 +106,7 @@ Du entfernst sachte die Klammern, die den aktiven Zylinder an seinem Platz halte
       <ID>21</ID>
       <DefaultText>Die Lichter gehen aus. Ein tiefes Stöhnen, beinahe schon Ultraschall, kräuselt sich an den Wänden des Katena hinab, als die Energie innerhalb der Röhren und Drähten erstirbt. Eine fremde Stimme brabbelt etwas über einen kleinen Lautsprecher in der Nähe des Bedienfeldes.
 
-Du stehst alleine in der Dunkelheit. Alles um dich herum ist still und regungslos.
-
-{SOUND: We're currently shutting down the lights here, but might want some SFX to go with it.}</DefaultText>
+Du stehst alleine in der Dunkelheit. Alles um dich herum ist still und regungslos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -187,9 +183,7 @@ Es scheint, dass der Katena gegen dich arbeitet, um dich aufzuhalten.</DefaultTe
       <ID>34</ID>
       <DefaultText>Es ist, als ob du hinunterblickst auf eine Milliarde Sterne, die um Löcher reiner *Leere* wirbeln, eine Dunkelheit, die tiefer ist, als alles was du bisher gesehen hast. Du siehst rote Linien, die sich in Infrarot und dann in Schwärze verwandeln und dann brechen die Löcher auf in einen brilliantweißen Brunnen. Das Fundament gibt Sterne frei, die um neue Löcher kreisen, schwarz werden und der Kreislauf beginnt von vorne.
 
-Der Katena scheint von kollabierenden Singularitäten betrieben zu werden.
-
-{DP}</DefaultText>
+Der Katena scheint von kollabierenden Singularitäten betrieben zu werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -315,9 +309,7 @@ Du stellst fest, dass die Geister die ganze Zeit still waren. Sie starren fest a
       <ID>63</ID>
       <DefaultText>Telemetrie, Ziel, Zugang zu alten Aufzeichnungen, Umgebungstemperaturen … es ist beinahe zu viel, um es zu verarbeiten, aber du schaffst es, den überwältigenden Strom zu bündeln und in den Hintergrund zu drängen.
 
-Einer nach dem anderen beginnen die Geister um dich herum zu verschwinden. Du kannst fühlen, wie sie in dir erwachen.
-
-{DP}</DefaultText>
+Einer nach dem anderen beginnen die Geister um dich herum zu verschwinden. Du kannst fühlen, wie sie in dir erwachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,9 +348,7 @@ Du fängst das Flackern seltsamer stellarer Formationen ein, ein Wurmloch, das e
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Die Lichter in dem Katena flackern und verdunkeln sich, erlöschen langsam, als die verbleibende Energie in ihnen zur Neige geht. Die weiter entfernten Lichter erlöschen zuerst, Dunkelheit breitet sich dem Katena entlang in Richtung der Energiequelle aus.
-
-{SOUND: This could use a powering down sound played here.}</DefaultText>
+      <DefaultText>Die Lichter in dem Katena flackern und verdunkeln sich, erlöschen langsam, als die verbleibende Energie in ihnen zur Neige geht. Die weiter entfernten Lichter erlöschen zuerst, Dunkelheit breitet sich dem Katena entlang in Richtung der Energiequelle aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -495,9 +485,7 @@ Einer nach dem anderen beginnen die Geister um dich herum zu verschwinden. Du ka
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Die Lichter in dem Katena flackern und verdunkeln sich, erlöschen langsam, als die verbleibende Energie in ihnen zur Neige geht. Die weiter entfernten Lichter erlöschen zuerst, Dunkelheit breitet sich dem Katena entlang in Richtung der Energiequelle aus. Als die langsame Welle von Dunkelheit wächst, reißt sie auch die Geister in die Vergessenheit.
-
-{SOUND: This could use a powering down sound played here.}</DefaultText>
+      <DefaultText>Die Lichter in dem Katena flackern und verdunkeln sich, erlöschen langsam, als die verbleibende Energie in ihnen zur Neige geht. Die weiter entfernten Lichter erlöschen zuerst, Dunkelheit breitet sich dem Katena entlang in Richtung der Energiequelle aus. Als die langsame Welle von Dunkelheit wächst, reißt sie auch die Geister in die Vergessenheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

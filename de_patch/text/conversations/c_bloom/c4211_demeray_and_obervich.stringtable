@@ -68,11 +68,7 @@
       <ID>15</ID>
       <DefaultText>Das Erste am Verfahren ist eine Spritze. Deine Wahrnehmung schwimmt zu einem traumähnlichen Halbnebel. Gegenstände färben sich zu einer leuchtend bunten Pracht. Eine große Zufriedenheit füllt dich, ein Rausch an Freude durch deine Venen. Selbst als Obervich sich mit einem Seziermesser über dich lehnt und zu schneiden anfängt, spürst du nur ein leichtes Zupfen … und beim Antlitz der Blutperle, die am Rand des Seziermesser haftet, willst du um seine flüchtige Pracht weinen.
 
-Schließlich versinkst du in die Dunkelheit.
-
-{JEREMY: I'd prefer the player to lose 2 permanent points of Health or 1 point of Int here, but leaving it at 1 Health for now, pending your balance pass.}
-
-{DAMAGE}</DefaultText>
+Schließlich versinkst du in die Dunkelheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,9 +222,7 @@ Schließlich versinkst du in die Dunkelheit.
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Er greift ein, um seinem Partner für seine schwankende Erklärung Deckung zu geben. „Welch eine spannende Untersuchung, wenn ich das so sagen darf. Welch eine Ehre, es zu erforschen. Durchaus eine Ehre!“
-
-{SCRIPT: Reset Oom to neutral state, blobby state – the PC will have to rebuild Oom into a new shape}</DefaultText>
+      <DefaultText>Er greift ein, um seinem Partner für seine schwankende Erklärung Deckung zu geben. „Welch eine spannende Untersuchung, wenn ich das so sagen darf. Welch eine Ehre, es zu erforschen. Durchaus eine Ehre!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -651,9 +645,7 @@ Er pausiert. „Für sein Gedächtnis konnten wir nichts tun.“</DefaultText>
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Nach etwa fünfzehn Minuten gemurmelten Redens, nach dem Geräusch vom Hinlegen von metallenen Werkzeugen in metallenen Ablagen, hörst du ein Eid von Obervich. Dann hörst du ein Schrei von Demeray. Selbst, als du dich zum Tisch bewegst, eskalieren ihre Schreie in Tonhöhe und Lautstärke und verschwinden plötzlich wieder.
-
-{JESSE: George is cool with this path (though we'll need some reactivity). Do you see any implementation problems here?}</DefaultText>
+      <DefaultText>Nach etwa fünfzehn Minuten gemurmelten Redens, nach dem Geräusch vom Hinlegen von metallenen Werkzeugen in metallenen Ablagen, hörst du ein Eid von Obervich. Dann hörst du ein Schrei von Demeray. Selbst, als du dich zum Tisch bewegst, eskalieren ihre Schreie in Tonhöhe und Lautstärke und verschwinden plötzlich wieder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -751,9 +743,7 @@ Von den Augen auf dem Helm verbleibt nur Eines. Du befreist es und lässt die ga
       <ID>161</ID>
       <DefaultText>„Also! Dein Freund hier ist nicht das, wonach er aussieht. Oder zumindest nicht ganz. Der Schimmer, der ihn umwölbt, ist eine kollektive Maschinenintelligenz, und die Wolke bezieht von ihm ihre Kraft, sogar, wenn es ihn auch stärker und geschickter macht. Bei diesem Energiewandel wird er nicht mehr lange überleben… aber seine verbleibende Zeit wird *erstaunlich*. Weitere Untersuchungen an unserer Probe werden selbstverständlich gewährleistet sein.“
 
-Er richtet seinen Kopf zum Ausgang, eindeutig als Hinweis.
-
-{GAVIN: Does this reveal work for you here?}</DefaultText>
+Er richtet seinen Kopf zum Ausgang, eindeutig als Hinweis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1010,9 +1000,7 @@ Etwas viel Längeres als 'Kürzeste Zeit' vergeht.</DefaultText>
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>„Durchaus, du solltest dir keine Sorgen machen. Obwohl die Funktionsfähigkeit des Gerätes, das du mir gegeben hast, nicht beeinträchtigt wurde, wie es sonst der Modus Operandi in diesen Fällen ist.“ Und hier wirft er seinem Kollegen einen dunklen Blick zu. „Ich war in der Lage, es zu analysieren und seine Lebens- und Wachstumsphasen rückzuentwickeln. Trotz des fehlenden 'Schlagens' würde ich dieses Projekt als schlagenden *Erfolg* bezeichnen.“ Er strahlt.
-
-{WORDPLAY}</DefaultText>
+      <DefaultText>„Durchaus, du solltest dir keine Sorgen machen. Obwohl die Funktionsfähigkeit des Gerätes, das du mir gegeben hast, nicht beeinträchtigt wurde, wie es sonst der Modus Operandi in diesen Fällen ist.“ Und hier wirft er seinem Kollegen einen dunklen Blick zu. „Ich war in der Lage, es zu analysieren und seine Lebens- und Wachstumsphasen rückzuentwickeln. Trotz des fehlenden 'Schlagens' würde ich dieses Projekt als schlagenden *Erfolg* bezeichnen.“ Er strahlt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1121,18 +1109,12 @@ Schließlich öffnen sie den Vorhang zu ihrem Arbeitsbereich.</DefaultText>
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>„Also schön, also schön. Du hast uns ertappt, wie wir etwas verschönern, wie man es auch von einer Person mit deinem mentale Kaliber erwarten würde.“ Er blickt zu seinem Kollegen. „Sagte ich nicht, dass der Intellekt unseres Freundes etwas Bewundernswertes wäre?“ Er beugt sich zu dir. „Wir brauchen nicht unbedingt eine Versuchsperson, gebe ich zu. Aber ganz gelogen habe ich auch nicht – das *ist* ein teures Stück. Es zu ersetzen wird uns [Global: c4211_DemerayObervichEyeCost] Shin kosten.“
-
-{MONEY}</DefaultText>
-      <FemaleText>„Also schön, also schön. Du hast uns ertappt, wie wir etwas verschönern, wie man es auch von einer Person mit deinem mentale Kaliber erwarten würde.“ Er blickt zu seinem Kollegen. „Sagte ich nicht, dass der Intellekt unserer Freundin etwas Bewundernswertes wäre?“ Er beugt sich zu dir. „Wir brauchen nicht unbedingt eine Versuchsperson, gebe ich zu. Aber ganz gelogen habe ich auch nicht – das *ist* ein teures Stück. Es zu ersetzen wird uns [Global: c4211_DemerayObervichEyeCost] Shin kosten.“
-
-{MONEY}</FemaleText>
+      <DefaultText>„Also schön, also schön. Du hast uns ertappt, wie wir etwas verschönern, wie man es auch von einer Person mit deinem mentale Kaliber erwarten würde.“ Er blickt zu seinem Kollegen. „Sagte ich nicht, dass der Intellekt unseres Freundes etwas Bewundernswertes wäre?“ Er beugt sich zu dir. „Wir brauchen nicht unbedingt eine Versuchsperson, gebe ich zu. Aber ganz gelogen habe ich auch nicht – das *ist* ein teures Stück. Es zu ersetzen wird uns [Global: c4211_DemerayObervichEyeCost] Shin kosten.“</DefaultText>
+      <FemaleText>„Also schön, also schön. Du hast uns ertappt, wie wir etwas verschönern, wie man es auch von einer Person mit deinem mentale Kaliber erwarten würde.“ Er blickt zu seinem Kollegen. „Sagte ich nicht, dass der Intellekt unserer Freundin etwas Bewundernswertes wäre?“ Er beugt sich zu dir. „Wir brauchen nicht unbedingt eine Versuchsperson, gebe ich zu. Aber ganz gelogen habe ich auch nicht – das *ist* ein teures Stück. Es zu ersetzen wird uns [Global: c4211_DemerayObervichEyeCost] Shin kosten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>„Du sagtest, um meiner Bekannten die Sicht wiederherzustellen, muss ich eine Versuchsperson stellen oder [Global: c4211_DemerayObervichEyeCost] Shin bezahlen?“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Du sagtest, um meiner Bekannten die Sicht wiederherzustellen, muss ich eine Versuchsperson stellen oder [Global: c4211_DemerayObervichEyeCost] Shin bezahlen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1142,9 +1124,7 @@ Schließlich öffnen sie den Vorhang zu ihrem Arbeitsbereich.</DefaultText>
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>„Ich zahle die [Global: c4211_DemerayObervichEyeCost] Shin.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Ich zahle die [Global: c4211_DemerayObervichEyeCost] Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1286,7 +1266,7 @@ Er stupst Obervich mit dem Ellenbogen „Ich glaube, unser Gast wartet auf etwas
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>{Storage container for moved nodes}</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>

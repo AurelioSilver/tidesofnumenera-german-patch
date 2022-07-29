@@ -93,16 +93,12 @@ Eine beharrliche Stimme in deinem Kopf sagt dir, dass du ihn betreten musst, um 
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Vicarianes und Endiras Lebensbildbetrachter verbinden.
-
-{COLIN/GEORGE: The option to fuse the two Merecasters together and then put them in later feels strange to me. What if the player walks away? Won't he still have two separate Merecasters in his inventory?}</DefaultText>
+      <DefaultText>Vicarianes und Endiras Lebensbildbetrachter verbinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Vicarianes Lebensbildbetrachter in dieselbe Öffnung schieben.
-
-{SCRIPT: Remove 2nd Bloom Merecaster from inventory}</DefaultText>
+      <DefaultText>Vicarianes Lebensbildbetrachter in dieselbe Öffnung schieben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,9 +143,7 @@ Eine beharrliche Stimme in deinem Kopf sagt dir, dass du ihn betreten musst, um 
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Du hörst ein Klicken, als er in die beiden Löcher von Endiras Lebensbildbetrachter einrastet. Die beiden verschmelzen miteinander – du fühlst ihre Vibration durch deine Hand. Ein leises Brummen ertönt aus dieser Öffnung und du hörst, wie der Sarkophag denselben Ton von sich gibt.
-
-{SOUND: Play a low hum}</DefaultText>
+      <DefaultText>Du hörst ein Klicken, als er in die beiden Löcher von Endiras Lebensbildbetrachter einrastet. Die beiden verschmelzen miteinander – du fühlst ihre Vibration durch deine Hand. Ein leises Brummen ertönt aus dieser Öffnung und du hörst, wie der Sarkophag denselben Ton von sich gibt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,9 +153,7 @@ Eine beharrliche Stimme in deinem Kopf sagt dir, dass du ihn betreten musst, um 
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Er gleitet in die Öffnung, als wäre sie speziell für diesen Lebensbildbetrachter gemacht. Du hörst ihn einrasten. Du versuchst, ihn wieder herauszuziehen, doch er steckt fest und ist für immer ein Teil dieses Sarkophags geworden.
-
-{SCRIPT: Remove Merecaster from inventory}</DefaultText>
+      <DefaultText>Er gleitet in die Öffnung, als wäre sie speziell für diesen Lebensbildbetrachter gemacht. Du hörst ihn einrasten. Du versuchst, ihn wieder herauszuziehen, doch er steckt fest und ist für immer ein Teil dieses Sarkophags geworden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

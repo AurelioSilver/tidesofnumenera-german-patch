@@ -57,9 +57,7 @@ Sie nimmt dir die Haare aus den Händen und beginnt unmelodisch und tonlos zu su
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Zeig mir, was du verkaufst.“
-
-{LADEN}</DefaultText>
+      <DefaultText>„Zeig mir, was du verkaufst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,9 +69,7 @@ Sie nimmt dir die Haare aus den Händen und beginnt unmelodisch und tonlos zu su
       <ID>14</ID>
       <DefaultText>Ihr hageres Gesicht verwandelt sich einen Augenblick lang und du kannst die Schönheit ihrer Freude sehen. „Die Essenz der Hontri! Eine ganz neue Kreation. Eine Feder und ein Schnabel kamen zu meiner Tür, die kleinen Maschinen darin windeten sich immer noch und versuchten, alles wieder zu richten.“
 
-Sie greift in ihren höhlenartigen Raum und zieht ein milchiges Fläschchen raus und setzt es neben die anderen Essenzen auf ihre Ablage. „Suche unter den Fläschchen nach dem, was du brauchst.“
-
-{SCRIPT: Still need to actually create the HontriEssence item.}</DefaultText>
+Sie greift in ihren höhlenartigen Raum und zieht ein milchiges Fläschchen raus und setzt es neben die anderen Essenzen auf ihre Ablage. „Suche unter den Fläschchen nach dem, was du brauchst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,16 +94,12 @@ Sie greift in ihren höhlenartigen Raum und zieht ein milchiges Fläschchen raus
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Ich habe viele einzigartige Erfahrungen. Ich kann das Gefühl vermitteln, den Geist eines anderen mit einer Welle mentaler Energie überwältigt zu haben.“
-
-{TIDES}</DefaultText>
+      <DefaultText>„Ich habe viele einzigartige Erfahrungen. Ich kann das Gefühl vermitteln, den Geist eines anderen mit einer Welle mentaler Energie überwältigt zu haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Zeig mir, was du verkaufst.“
-
-{LADEN}</DefaultText>
+      <DefaultText>„Zeig mir, was du verkaufst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -433,9 +425,7 @@ Sheen schaut dir lange in die Augen. „Du bringst mir eine Vertrautheit. Geiste
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Zeigt mir, was du verkaufst.“
-
-{LADEN}</DefaultText>
+      <DefaultText>„Zeigt mir, was du verkaufst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

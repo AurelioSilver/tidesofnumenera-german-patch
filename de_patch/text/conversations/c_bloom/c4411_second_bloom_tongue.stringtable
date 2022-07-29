@@ -715,9 +715,7 @@ Die Flor scheint diesmal ohne die Hilfe des Rings zu versuchen, eine Verbindung 
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>Du beschwörst die Gezeitenenergien in dir herauf und *drängst* deinen Schmerz in die Zungen hinein. Sie schlagen um sich und erfüllen deinen Verstand mit wuterfüllten Schreien. Die ganze Kammer bebt …
-
-{SOUND: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <DefaultText>Du beschwörst die Gezeitenenergien in dir herauf und *drängst* deinen Schmerz in die Zungen hinein. Sie schlagen um sich und erfüllen deinen Verstand mit wuterfüllten Schreien. Die ganze Kammer bebt …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -732,9 +730,7 @@ Die Flor scheint diesmal ohne die Hilfe des Rings zu versuchen, eine Verbindung 
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Versuchen, die Florzungen zu kontrollieren.
-
-{CRIT}</DefaultText>
+      <DefaultText>Versuchen, die Florzungen zu kontrollieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -876,9 +872,7 @@ Nun winden sich die Zungen mit frischer Kraft, aber dir fällt auf, dass sie nic
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Die Zungen kreischen, als dein Schmerz sie überwältigt. Sie schlagen um sich und die Flor bebt und zittert.
-
-{SOUND: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <DefaultText>Die Zungen kreischen, als dein Schmerz sie überwältigt. Sie schlagen um sich und die Flor bebt und zittert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -916,9 +910,7 @@ Diese Station gehört so gut wie dir. Sie ist deine Bibliothek, dein Rückzugsor
       <ID>183</ID>
       <DefaultText>Durch die Erinnerung gesättigt, hängen die Florzungen fast bis zum Boden.
 
-In deinem geschwächten Zustand war diese Anstrengung zu viel für dich. Du brichst neben den Zungen zusammen und um dich herum wird alles dunkel …
-
-{DAMAGE}</DefaultText>
+In deinem geschwächten Zustand war diese Anstrengung zu viel für dich. Du brichst neben den Zungen zusammen und um dich herum wird alles dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1006,10 +998,7 @@ Und dann ein leiseres „Danke.“</DefaultText>
 
 Sogar noch als die Florzungen erschlafft gegeneinander baumeln, von ihrem Festmahl gesättigt, spürst du, wie deine Beine nachgeben. In deinem geschwächten Zustand war diese Anstrengung zu viel für dich.
 
-Um dich herum wird es dunkel …
-
-{DAMAGE}
-{SCRIPT: The damage here should kill the player, but he should respawn in this same room (Trade Post).}</DefaultText>
+Um dich herum wird es dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

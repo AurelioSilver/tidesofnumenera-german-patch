@@ -11,9 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Das ist eindeutig ein weiterer Schlund … allerdings scheint er älter zu sein als andere seiner Art. Die flüsternden Stimmen der Flor zwitschern in deinen Ohren und alle anderen Geräusche verschwinden in der Ferne.
-
-{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <DefaultText>Das ist eindeutig ein weiterer Schlund … allerdings scheint er älter zu sein als andere seiner Art. Die flüsternden Stimmen der Flor zwitschern in deinen Ohren und alle anderen Geräusche verschwinden in der Ferne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,9 +21,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Du treibst das Skalpell in das knorrige Fleisch des Schlunds und es gibt nach wie zitternder Speck. Ermutigt schneidest du dich durch Fleisch und Knorpel. Die Flor stößt einen fauchenden, brodelnden Schrei aus und eine Welle spürbaren Hasses fegt über dich hinweg. Der Boden wackelt … 
-
-{SOUND: Play infuriated Bloom voices "screaming" in pain, along with a rumble sound effect.}</DefaultText>
+      <DefaultText>Du treibst das Skalpell in das knorrige Fleisch des Schlunds und es gibt nach wie zitternder Speck. Ermutigt schneidest du dich durch Fleisch und Knorpel. Die Flor stößt einen fauchenden, brodelnden Schrei aus und eine Welle spürbaren Hasses fegt über dich hinweg. Der Boden wackelt …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,16 +56,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Der Schlund bleibt fest verschlossen. Als du näherkommst, beginnen die Stimmen der Flor zu zwitschern und in deinen Ohren zu zischen.
-
-{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <DefaultText>Der Schlund bleibt fest verschlossen. Als du näherkommst, beginnen die Stimmen der Flor zu zwitschern und in deinen Ohren zu zischen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Als du näherkommst, scheinen alle Geräusche der Fälle zu ersticken. Das Geschwätz der Einheimischen und das raue Lachen der Soldaten entfernen sich und werden durch die zwitschernden und zischenden Stimmen der Flor ersetzt. 
-
-{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <DefaultText>Als du näherkommst, scheinen alle Geräusche der Fälle zu ersticken. Das Geschwätz der Einheimischen und das raue Lachen der Soldaten entfernen sich und werden durch die zwitschernden und zischenden Stimmen der Flor ersetzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,9 +86,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Versuche, die Erinnerung des Wandelnden Gottes an diesen Schlund wieder abzurufen.
-
-{CRIT}</DefaultText>
+      <DefaultText>Versuche, die Erinnerung des Wandelnden Gottes an diesen Schlund wieder abzurufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,9 +113,7 @@ Du notierst dir sorgfältig die Details des Artefaktes, damit du es später, fal
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Dein Erzeuger streckt einen Arm aus und der Schlund öffnet sich bei dessen Berührung, hervorgerufen durch eine Verpflichtung, die er in den Tiefen der Flor schmiedete. Er tritt durch das Portal und verschwindet. Die Erinnerung verblasst … 
-
-{DP}</DefaultText>
+      <DefaultText>Dein Erzeuger streckt einen Arm aus und der Schlund öffnet sich bei dessen Berührung, hervorgerufen durch eine Verpflichtung, die er in den Tiefen der Flor schmiedete. Er tritt durch das Portal und verschwindet. Die Erinnerung verblasst …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -378,9 +366,7 @@ Aber der Schlund ist genährt … und ist jetzt offen.</DefaultText>
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Du schneidest in das knorrige Fleisch des Schlunds, hackend und zerreißend. Es gibt mit Leichtigkeit nach und teilt sich bei Berührung mit deiner transdimensionalen Klinge. Die Stimmen der Flor krächzen und zischen, der Boden unter deinen Füßen bebt … 
-
-{SOUND: Play infuriated Bloom voices "screaming" in pain, along with a rumble sound effect.}</DefaultText>
+      <DefaultText>Du schneidest in das knorrige Fleisch des Schlunds, hackend und zerreißend. Es gibt mit Leichtigkeit nach und teilt sich bei Berührung mit deiner transdimensionalen Klinge. Die Stimmen der Flor krächzen und zischen, der Boden unter deinen Füßen bebt …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -538,9 +524,7 @@ Die Florzungen, die dich bislang ignoriert haben, orientieren sich plötzlich in
       <ID>135</ID>
       <DefaultText>Die flüsternden Stimmen der Flor zwitschern in deinen Ohren und alle anderen Geräusche verschwinden in der Ferne. Das ist eindeutig ein weiterer Schlund … allerdings scheint er älter zu sein als andere seiner Art. 
 
-Nicht nur das … dieser Schlund ist dir *vertraut*. Du hattest ihn schon einmal vor dir …
-
-{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+Nicht nur das … dieser Schlund ist dir *vertraut*. Du hattest ihn schon einmal vor dir …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -18,9 +18,7 @@
       <ID>3</ID>
       <DefaultText>Das Schloss ist kompliziert, aber nicht allzu schwer zu öffnen. Gerade, als du den letzten Stift verschiebst, setzt du versehentlich eine Luftblase in Bewegung, die wiederum eine kleine Düse aktiviert. Säure besprüht dich von Kopf bis Fuß. Der Schmerz ist unerträglich.
 
-Wenigstens ist die Tür offen.
-
-{DAMAGE}</DefaultText>
+Wenigstens ist die Tür offen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,9 +75,7 @@ Zum Glück beschädigt die Säure auch das Schloss und die Tür schwingt auf.</D
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Du wuchtest dich gegen die Tür und irgendwie triffst du sie genau richtig. Das Schloss bricht … und du löst die Falle aus, die fachmännisch darin verborgen war. Molekulare Säure sprüht auf deine Bekleidung und dein Fleisch. Der Schmerz ist unerträglich … doch wenigstens ist die Tür offen.
-
-{DAMAGE}</DefaultText>
+      <DefaultText>Du wuchtest dich gegen die Tür und irgendwie triffst du sie genau richtig. Das Schloss bricht … und du löst die Falle aus, die fachmännisch darin verborgen war. Molekulare Säure sprüht auf deine Bekleidung und dein Fleisch. Der Schmerz ist unerträglich … doch wenigstens ist die Tür offen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,9 +101,7 @@ Doch das ist nicht der Fall. Deine Anstrengungen werden lediglich mit einer gepr
 
 Der nachfolgende Schmerz ist unerträglich. Du hast eine Falle ausgelöst, die dich von Kopf bis Fuß mit Säure besprüht.
 
-Wenigstens ist die Tür offen.
-
-{DAMAGE}</DefaultText>
+Wenigstens ist die Tür offen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,9 +168,7 @@ Wenigstens ist die Tür offen.
       <ID>37</ID>
       <DefaultText>Du bewegst dich langsam und methodisch und verfolgst den Auslösemechanismus zu einer kleinen Düse auf der Vorderseite der Tür, die zu einem kleinen Behälter führt. Dieser beinhaltet eine gefährliche Substanz, die auf ein ahnungsloses Opfer gesprüht würde. Nachdem du die Auslöser deaktiviert hast, entfernst du den Behälter von der Tür.
 
-Du bist nun stolzer Besitzer eines kleinen Beutels mit molekularer Säure.
-
-{LOOT - ESSENTIAL}</DefaultText>
+Du bist nun stolzer Besitzer eines kleinen Beutels mit molekularer Säure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

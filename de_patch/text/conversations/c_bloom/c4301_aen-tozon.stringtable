@@ -8,14 +8,10 @@
       <ID>1</ID>
       <DefaultText>Ein atemberaubender Mann in eindrucksvoller Tracht begrüßt dich mit weit ausgebreiteten Armen. Seine goldenen Augen lösen merkwürdige, unerwünschte Gefühle in dir aus.
 
-„Mein Freund“, sagt er und breitet die Arme aus. „Willkommen. Ich bin Aen-tozon.“ Der Ton seiner tiefen, brummenden Stimme ruft in dir das Bild eines Wasserfalls bei aufgehender Sonne auf, glückselig und tiefgründig. Du fühlst dich *trunken*.
-
-{SOUND: "Voices" of the Bloom should be audible during this dialogue, similar to what we'd hear at a Maw but lower.}</DefaultText>
+„Mein Freund“, sagt er und breitet die Arme aus. „Willkommen. Ich bin Aen-tozon.“ Der Ton seiner tiefen, brummenden Stimme ruft in dir das Bild eines Wasserfalls bei aufgehender Sonne auf, glückselig und tiefgründig. Du fühlst dich *trunken*.</DefaultText>
       <FemaleText>Ein atemberaubender Mann in eindrucksvoller Tracht begrüßt dich mit weit ausgebreiteten Armen. Seine goldenen Augen lösen merkwürdige, unerwünschte Gefühle in dir aus.
 
-„Meine Freundin“, sagt er und breitet die Arme aus. „Willkommen. Ich bin Aen-tozon.“ Der Ton seiner tiefen, brummenden Stimme ruft in dir das Bild eines Wasserfalls bei aufgehender Sonne auf, glückselig und tiefgründig. Du fühlst dich *trunken*.
-
-{SOUND: "Voices" of the Bloom should be audible during this dialogue, similar to what we'd hear at a Maw but lower.}</FemaleText>
+„Meine Freundin“, sagt er und breitet die Arme aus. „Willkommen. Ich bin Aen-tozon.“ Der Ton seiner tiefen, brummenden Stimme ruft in dir das Bild eines Wasserfalls bei aufgehender Sonne auf, glückselig und tiefgründig. Du fühlst dich *trunken*.</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -234,9 +230,7 @@ Zwei Dinge geschehen. Eine blasse Gestalt tritt aus dem Schlund heraus, bemerkt 
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Mein Schlund öffnet sich nicht immer, wenn ich es will“, sagt er und klopft sich stolz auf die Brust. „Er benötigt Nahrung. Das Band aus Liebe und Hass, das uns bindet. Bring mir jemanden, der starke Gefühle dir gegenüber empfindet, und … wir werden für die Kleine einen Pfad nach Hause öffnen.“
-
-{GAVIN: Are there other states that need to be considered here? Like if he already told the player about Wondor or if the player has already fed him? - AH}</DefaultText>
+      <DefaultText>„Mein Schlund öffnet sich nicht immer, wenn ich es will“, sagt er und klopft sich stolz auf die Brust. „Er benötigt Nahrung. Das Band aus Liebe und Hass, das uns bindet. Bring mir jemanden, der starke Gefühle dir gegenüber empfindet, und … wir werden für die Kleine einen Pfad nach Hause öffnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,9 +242,7 @@ Zwei Dinge geschehen. Eine blasse Gestalt tritt aus dem Schlund heraus, bemerkt 
       <ID>47</ID>
       <DefaultText>Ehe er agieren kann, machst du einen Satz nach vorne, reißt die Kleider des verblüfften Mannes auf und schneidest neue, blutigere Lippen in den verzerrten Mund auf seiner Brust, wodurch du ihn öffnest.
 
-Die Flor *brüllt* vor Qual und der Boden unter deinen Füßen erbebt in spürbarem Zorn.
-
-{SOUND: Bloom roars, same as other maws that get cut open.}</DefaultText>
+Die Flor *brüllt* vor Qual und der Boden unter deinen Füßen erbebt in spürbarem Zorn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,9 +290,7 @@ Zitternd und benommen schließt Aen-tozon seine nun blutige Kleidung über den v
 
 Die Flor heult vor Wut auf und die roten Wände um dich herum ballen sich und erbeben.
 
-Rhin schreit auf. Doch Aen-tozons Augen starren ins Nichts. Er scheint sich merkwürdigerweise nicht bewusst zu sein, was du mit ihm machst.
-
-{AUDIO: Play infuriated Bloom voices "screaming" in pain, along with a rumble sound effect.}</DefaultText>
+Rhin schreit auf. Doch Aen-tozons Augen starren ins Nichts. Er scheint sich merkwürdigerweise nicht bewusst zu sein, was du mit ihm machst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,9 +310,7 @@ Rhin schreit auf. Doch Aen-tozons Augen starren ins Nichts. Er scheint sich merk
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Ich habe einen Verbündeten gebracht, um dich zu füttern, wie du gewünscht hast. Wirst du mit einem von ihnen zufrieden sein?“
-
-{GAVIN: Does this still work as written for feeding companions to him? -JF}</DefaultText>
+      <DefaultText>„Ich habe einen Verbündeten gebracht, um dich zu füttern, wie du gewünscht hast. Wirst du mit einem von ihnen zufrieden sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -574,12 +562,12 @@ Sie wendet sich Aen-tozon zu und sagt: „Was muss ich tun, um nach Hause zu kom
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>„{Not on great terms with the PC but grateful}Danke, dass… dass du mich hierher gebracht hast. Ich hoffe, du findest auch, was du suchst.“ Sie starrt, Tränen laufen über ihr Gesicht.</DefaultText>
+      <DefaultText>„Danke, dass… dass du mich hierher gebracht hast. Ich hoffe, du findest auch, was du suchst.“ Sie starrt, Tränen laufen über ihr Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>„{Finally happy}Komm schon, Ahl. Ich will dir… na ja, alles zeigen.“
+      <DefaultText>„Komm schon, Ahl. Ich will dir… na ja, alles zeigen.“
 
 Sie tritt nach vorne, unwissent oder achtlos der Tatsache, dass sie *in* eine Person läuft. Sie schert sich nicht darum. Sie ist endlich zu Hause.</DefaultText>
       <FemaleText />
@@ -601,7 +589,7 @@ Sie tritt nach vorne, unwissent oder achtlos der Tatsache, dass sie *in* eine Pe
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>„{She's crying and speaking between sobs}Danke. Danke, danke, danke.“ Sie holt nach vorne aus und wirft ihre Arme um dich.
+      <DefaultText>„Danke. Danke, danke, danke.“ Sie holt nach vorne aus und wirft ihre Arme um dich.
 
 Die presst dich fest zusammen, und weint einige Momente lang in deine Brust. Schließlich zieht sie sich zurück und legt dir etwas in die Hand.</DefaultText>
       <FemaleText />
@@ -708,9 +696,7 @@ Er schüttelt erneut den Kopf, anscheinend nicht in der Lage, mehr zu sagen.</De
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>„{Her tears are winding down; she's grateful} Ich habe dir einen Gott gemacht – ein Gott der Freunde und des Findens. Ich weiß nicht, wie stark er ist, aber… vielleicht hilft er uns, uns irgendwann wieder zu sehen.“
-
-{LOOT}</DefaultText>
+      <DefaultText>„Ich habe dir einen Gott gemacht – ein Gott der Freunde und des Findens. Ich weiß nicht, wie stark er ist, aber… vielleicht hilft er uns, uns irgendwann wieder zu sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

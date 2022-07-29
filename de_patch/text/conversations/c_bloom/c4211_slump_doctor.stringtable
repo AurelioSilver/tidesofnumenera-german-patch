@@ -21,9 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Ich hätte gern, dass du mich wieder zusammenflickst.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Ich hätte gern, dass du mich wieder zusammenflickst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,9 +58,7 @@
       <ID>11</ID>
       <DefaultText>Sie schaut dir direkt in die Augen und beginnt dann zu lachen, aber als ihr Mund sich öffnet, stoppt sie plötzlich. Sie hält ihren kranken Arm kurz an ihr Ohr und nimmt ihn langsam wieder runter. 
 
-Sie schaut von dir weg auf den Boden. „Aye. Ich vermute, du kennst die Sehnsüchte des Flors besser als ich.“
-
-{JESSE: You said: „The cutscene that fires when you trigger her healing will need to detect both her state and who is being treated, then restart the dialog at the appropriate node based on that information. I might have to create an extra global to track who's currently being healed, but it shouldn't require any extra text.“}</DefaultText>
+Sie schaut von dir weg auf den Boden. „Aye. Ich vermute, du kennst die Sehnsüchte des Flors besser als ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -74,9 +70,7 @@ Sie schaut von dir weg auf den Boden. „Aye. Ich vermute, du kennst die Sehnsü
       <ID>13</ID>
       <DefaultText>Sie kratzt mit einem ihrer Skalpelle an einer nässenden Wunde. „Aye, das ist fair. Hier bitte, nimm.“
 
-Sie reicht ihm ein klimperndes Säckchen.
-
-{MONEY}</DefaultText>
+Sie reicht ihm ein klimperndes Säckchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,9 +80,7 @@ Sie reicht ihm ein klimperndes Säckchen.
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Etwas in deinem Gesichtsausdruck und deiner Stimme verrät ihr, dass es dir todernst ist. Ohne Worte greift sie in den Sack an ihrer Seite und gibt dir eine enorme Menge Shin.
-
-{MONEY}</DefaultText>
+      <DefaultText>Etwas in deinem Gesichtsausdruck und deiner Stimme verrät ihr, dass es dir todernst ist. Ohne Worte greift sie in den Sack an ihrer Seite und gibt dir eine enorme Menge Shin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,13 +104,7 @@ Sie reicht ihm ein klimperndes Säckchen.
 
 Sie drückt einen Knopf auf dem Tisch und er faltet sich in eine kleine Kiste. Mit einem wachen Auge auf dich greift sie nach vorne und nimmt sie am Griff und dreht sich dann um und stürzt davon.
 
-Du blickst auf den Boden und siehst, dass sie in der Eile eine ihrer Spritzen fallen ließ.
-
-{SCRIPT: Need to make her run away and despawn.}
-
-{SCRIPT: Need to give out an injector cypher.}
-
-{LOOT - Laarna's Injector}</DefaultText>
+Du blickst auf den Boden und siehst, dass sie in der Eile eine ihrer Spritzen fallen ließ.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,10 +113,7 @@ Du blickst auf den Boden und siehst, dass sie in der Eile eine ihrer Spritzen fa
 
 „Wolltest du das machen? Etwas in der Art? Soll ich das vielleicht für dich zusammenflicken?“
 
-Sie lacht gackernd und dreht sich ab.
-
-
-{DAMAGE}</DefaultText>
+Sie lacht gackernd und dreht sich ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,29 +122,19 @@ Sie lacht gackernd und dreht sich ab.
 
 Sie drückt einen Knopf auf dem Tisch und er faltet sich in eine kleine Kiste. Mit einem wachen Auge auf dich greift sie nach vorne und nimmt sie am Griff und dreht sich dann um und stürzt davon.
 
-Du blickst auf den Boden und siehst, dass sie in der Eile eine ihrer Spritzen und ein schmutziges Messer fallen ließ.
-
-{SCRIPT: Need to make her run away and despawn.}
-
-{SCRIPT: Need to hand out an injector cypher, maybe a knife that applies the diseased fettle when it strikes an enemy}
-
-{LOOT - ESSENTIAL - Laarna's Injector}</DefaultText>
+Du blickst auf den Boden und siehst, dass sie in der Eile eine ihrer Spritzen und ein schmutziges Messer fallen ließ.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Sie weicht nicht nur deinem Schlag geschickt wie ein Straßenkämpfer aus, sie landet auch mehrere harte Treffer in deiner Magengrube und krönt das Ganze mit einem Aufwärtshaken an dein Kinn, der dich zu Boden gehen lässt. Sie spuckt dir ins Gesicht, als du verwirrt hoch auf den Flor schaust.
 
-„Sobald du wieder gehen kannst, will ich, dass du von hier verschwindest. Du wirst von mir keinen Beistand mehr erhalten.“
-
-{DAMAGE}</DefaultText>
+„Sobald du wieder gehen kannst, will ich, dass du von hier verschwindest. Du wirst von mir keinen Beistand mehr erhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Zwinge sie dazu, ihren Irrtum einzusehen.
-
-{SCRIPT: I'm not sure what all is involved in performing a tidal surge, but I'm guessing it'll need a little scripting.}</DefaultText>
+      <DefaultText>Zwinge sie dazu, ihren Irrtum einzusehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,20 +145,12 @@ Sie dreht sich um und übergibt sich.
 
 „Oh nein. Nein, nein, nein. Der Flor flüsterte zu mir und ich hörte zu. Was habe ich getan?“ Sie rennt davon, ihre Werkzeuge lässt sie zurück.
 
-Der Boden rumpelt unter deinen Füßen, und du spürst eine Welle der Boshaftigkeit aus dem Flor-Fleisch kommen.
-
-{SCRIPT: Need to remove her from the scene in some way.}
-
-{SCRIPT: Need to hand out an injector cypher, maybe a knife that applies the diseased fettle when it strikes an enemy}
-
-{LOOT - ESSENTIAL - Laarna's Injector}</DefaultText>
+Der Boden rumpelt unter deinen Füßen, und du spürst eine Welle der Boshaftigkeit aus dem Flor-Fleisch kommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Sie grinst, ihre verfaulten Zähne zeigend. „Klettere auf den Tisch, dann versorge ich dich.“
-
-{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <DefaultText>Sie grinst, ihre verfaulten Zähne zeigend. „Klettere auf den Tisch, dann versorge ich dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,65 +180,47 @@ Der Boden rumpelt unter deinen Füßen, und du spürst eine Welle der Boshaftigk
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Klettere rauf, alter Mann. Wir bringen dich in Windeseile in Ordnung.“
-
-{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <DefaultText>„Klettere rauf, alter Mann. Wir bringen dich in Windeseile in Ordnung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Ich hätte gern, dass du Callistege heilst.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Ich hätte gern, dass du Callistege heilst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Laarna grinst und zeigt dabei ihre grässlichen Zähne. „Wer von euch kommt nun rauf, ha? Egal – ich kümmere mich um, die ich berühren kann.“
-
-{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <DefaultText>Laarna grinst und zeigt dabei ihre grässlichen Zähne. „Wer von euch kommt nun rauf, ha? Egal – ich kümmere mich um, die ich berühren kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„Ich hätte gern, dass du Matkina heilst.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Ich hätte gern, dass du Matkina heilst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Laarnas Mund krümmt sich ein wenig, aber sie sagt nichts, als sie dein Geld nimmt und Matkina auf den Tisch hilft.
-
-{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <DefaultText>Laarnas Mund krümmt sich ein wenig, aber sie sagt nichts, als sie dein Geld nimmt und Matkina auf den Tisch hilft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Ich hätte gern, dass du Riastrad heilst.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Ich hätte gern, dass du Riastrad heilst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Sie schaut ihn genau an. „Ich habe ihn schon mal gesehen, ich schwöre. Egal.“ Sie nimmt dein Geld und hilft Riastrad auf den Tisch.
-
-{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <DefaultText>Sie schaut ihn genau an. „Ich habe ihn schon mal gesehen, ich schwöre. Egal.“ Sie nimmt dein Geld und hilft Riastrad auf den Tisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Ich hätte gern, dass du Rhin heilst.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Ich hätte gern, dass du Rhin heilst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Komm hier hoch, meine Kleine. Wir flicken dich in Windeseile.“
-
-{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <DefaultText>„Komm hier hoch, meine Kleine. Wir flicken dich in Windeseile.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,32 +235,24 @@ Der Boden rumpelt unter deinen Füßen, und du spürst eine Welle der Boshaftigk
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>„Ich hätte gern, dass du Tybir heilst.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Ich hätte gern, dass du Tybir heilst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>„Das geht dich nichts an, du hübscher Schelm. Wir bringen dich in Windeseile in Ordnung.“
 
-Sie nimmt deine Shin und führt ihn auf den verschmutzten Tisch.
-
-{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+Sie nimmt deine Shin und führt ihn auf den verschmutzten Tisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Ich hätte gern, dass du Erritis heilst.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Ich hätte gern, dass du Erritis heilst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Sie grinst den jungen Krieger anzüglich an. „Klettere hier rauf, Söhnchen. Laren wird sich um dich kümmern.“
-
-{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <DefaultText>Sie grinst den jungen Krieger anzüglich an. „Klettere hier rauf, Söhnchen. Laren wird sich um dich kümmern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -415,53 +354,39 @@ Sie nimmt deine Shin und führt ihn auf den verschmutzten Tisch.
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Sie schneidet und näht an Aligerns Wunden, bringt Pflaster auf und gibt ihm Spritzen. Als sie fertig ist, klettert er wieder vom Tisch runter und dehnt sich die Finger.
-
-{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <DefaultText>Sie schneidet und näht an Aligerns Wunden, bringt Pflaster auf und gibt ihm Spritzen. Als sie fertig ist, klettert er wieder vom Tisch runter und dehnt sich die Finger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Laarna stochert und fummelt an Callisteges Wunden herum und arbeitet übertrieben lange mit dem Skalpell und Faden. Als sie fertig ist, springt Callistege vom Tisch herunter.
-
-{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <DefaultText>Laarna stochert und fummelt an Callisteges Wunden herum und arbeitet übertrieben lange mit dem Skalpell und Faden. Als sie fertig ist, springt Callistege vom Tisch herunter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Sie kitzelt und stupst den jungen Mann und etwas, das sie macht, scheint ihre Hand in seiner goldenen Aura verschwinden zu lassen. Er windet sich ein wenig, erträgt es aber gut dank ihrer Fürsorge. Schließlich springt er von ihrem OP-Tisch herunter.
-
-{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <DefaultText>Sie kitzelt und stupst den jungen Mann und etwas, das sie macht, scheint ihre Hand in seiner goldenen Aura verschwinden zu lassen. Er windet sich ein wenig, erträgt es aber gut dank ihrer Fürsorge. Schließlich springt er von ihrem OP-Tisch herunter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Laarna näht schließlich Matkinas Wunden zu, wobei ihr Matkina genau zusieht. Die Ärztin scheint sich besonders um die Assassine zu kümmern und Matkina klettert anmutig vom Tisch herunter.
-
-{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <DefaultText>Laarna näht schließlich Matkinas Wunden zu, wobei ihr Matkina genau zusieht. Die Ärztin scheint sich besonders um die Assassine zu kümmern und Matkina klettert anmutig vom Tisch herunter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Laarna scheint sich besonders um Rhin zu kümmern und sie streichelt liebevoll den Kopf des Mädchens, als Rhin vom Tisch hüpft.
-
-{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <DefaultText>Laarna scheint sich besonders um Rhin zu kümmern und sie streichelt liebevoll den Kopf des Mädchens, als Rhin vom Tisch hüpft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
       <DefaultText>Die Ärztin muss vorsichtig sein, dass Riastrads Rüstung nicht ihre Instrumente beschädigt – sie scheint sich auf und ab zu bewegen, als wolle sie ihn verteidigen. Schließlich gelingt es ihr, seine schlimmsten Wunden zu versorgen und er geht wieder vom Tisch runter.
 
-Er wankt ein wenig als er zu dir geht und seine Haut scheint leicht grünlich geworden zu sein.
-
-{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+Er wankt ein wenig als er zu dir geht und seine Haut scheint leicht grünlich geworden zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Tybir klettert vom Tisch herunter und Laarna wischt sich die Hände an ihrem schmutzigen Arztkittel ab.
-
-{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <DefaultText>Tybir klettert vom Tisch herunter und Laarna wischt sich die Hände an ihrem schmutzigen Arztkittel ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,16 +396,12 @@ Er wankt ein wenig als er zu dir geht und seine Haut scheint leicht grünlich ge
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>„Ha. Ich werde niemals auf diesen Tisch klettern. Hast du gesehen, wie ihre Werkzeuge aussehen? Allein der Anblick verursacht ein Jucken. Ich werde eine andere Möglichkeit finden, mich zu heilen.“
-
-{ALIGERN}</DefaultText>
+      <DefaultText>„Ha. Ich werde niemals auf diesen Tisch klettern. Hast du gesehen, wie ihre Werkzeuge aussehen? Allein der Anblick verursacht ein Jucken. Ich werde eine andere Möglichkeit finden, mich zu heilen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>„Komm rauf, Aligern. Du brauchst Heilung.“
-
-{SCRIPT: Minor Aligern Abuse.}</DefaultText>
+      <DefaultText>„Komm rauf, Aligern. Du brauchst Heilung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -490,16 +411,12 @@ Er wankt ein wenig als er zu dir geht und seine Haut scheint leicht grünlich ge
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Ihr Ekel krümmt alle Gesichter, die du sehen kannst. „Nie in dieser Realität würde ich diese *Frau* an mich ranlassen.“
-
-{CALLISTEGE}</DefaultText>
+      <DefaultText>Ihr Ekel krümmt alle Gesichter, die du sehen kannst. „Nie in dieser Realität würde ich diese *Frau* an mich ranlassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>„Niemals, außer in dieser Realität, vielleicht. Rauf mit dir, auf den Tisch.“
-
-{SCRIPT: Minor Callistege Abuse.}</DefaultText>
+      <DefaultText>„Niemals, außer in dieser Realität, vielleicht. Rauf mit dir, auf den Tisch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -509,16 +426,12 @@ Er wankt ein wenig als er zu dir geht und seine Haut scheint leicht grünlich ge
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Er schaut nervös den Tisch an und schaut dann zu Laarna. Ist das ein Heldentest? Denn wenn es eine Quest oder so etwas ist, dann sollte ich mutig sein.“ Er schluckt. „Na gut. Zeit, mutig zu sein.“
-
-{ERRITIS}</DefaultText>
+      <DefaultText>Er schaut nervös den Tisch an und schaut dann zu Laarna. Ist das ein Heldentest? Denn wenn es eine Quest oder so etwas ist, dann sollte ich mutig sein.“ Er schluckt. „Na gut. Zeit, mutig zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>„Wenn du darauf bestehst. Ich vermute, ich kann alles gelassen hinnehmen, was sie mir weitergeben könnte.“
-
-{MATKINA}</DefaultText>
+      <DefaultText>„Wenn du darauf bestehst. Ich vermute, ich kann alles gelassen hinnehmen, was sie mir weitergeben könnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -528,16 +441,12 @@ Er wankt ein wenig als er zu dir geht und seine Haut scheint leicht grünlich ge
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Sie schaut dich abschätzend an. „Muss ich?“ Sie senkt die Stimme. „Diese Frau ist ekelhaft.“
-
-{RHIN}</DefaultText>
+      <DefaultText>Sie schaut dich abschätzend an. „Muss ich?“ Sie senkt die Stimme. „Diese Frau ist ekelhaft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>„Ja, Rhin. Du bist verletzt und brauchst Heilung.“
-
-{SCRIPT: Minor abuse of Rhin}</DefaultText>
+      <DefaultText>„Ja, Rhin. Du bist verletzt und brauchst Heilung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -587,9 +496,7 @@ Er wankt ein wenig als er zu dir geht und seine Haut scheint leicht grünlich ge
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>„Diese Aufgabe war viel leichter als erwartet. *Viel* leichter.“ Er drückt sich die Hände und dehnt die Finger „Aber da ist auch ein schmerzhafter Teil. Soll einem nach der Heilung zum Kotzen schlecht sein?“
-
-{ERRITIS}</DefaultText>
+      <DefaultText>„Diese Aufgabe war viel leichter als erwartet. *Viel* leichter.“ Er drückt sich die Hände und dehnt die Finger „Aber da ist auch ein schmerzhafter Teil. Soll einem nach der Heilung zum Kotzen schlecht sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -624,9 +531,7 @@ Er wankt ein wenig als er zu dir geht und seine Haut scheint leicht grünlich ge
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>„Das hat ja kaum wehgetan!“, verkündet sie stolz.
-
-{RHIN}</DefaultText>
+      <DefaultText>„Das hat ja kaum wehgetan!“, verkündet sie stolz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -690,11 +595,7 @@ Aber als er dann steht, wankt er ein wenig und wird bleich. „Allerdings habe i
       <ID>119</ID>
       <DefaultText>„Und ich sagte *dir* …“ Sie stoppt mitten im Satz und hält ihren kranken Arm kurz an ihr Ohr. Dann nimm sie ihn langsam wieder runter. 
 
-Sie schaut von dir weg auf den Boden. „Aye. Ich vermute, du kennst die Sehnsüchte des Flors besser als ich. Vergib mir.“
-
-
-
-{JESSE: See note in node 11.}</DefaultText>
+Sie schaut von dir weg auf den Boden. „Aye. Ich vermute, du kennst die Sehnsüchte des Flors besser als ich. Vergib mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -704,9 +605,7 @@ Sie schaut von dir weg auf den Boden. „Aye. Ich vermute, du kennst die Sehnsü
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>„Ein mentaler Angriff zerstört langsam meinen Körper. Kannst du helfen?“
-{SCRIPT: Node 120 should only be visible so long as the PC has the Specter's Decay fettle. After it's cured, Node 120, 121, and 122 should be hidden.}
-{SCRIPT: Please note that the Specter fettle may not be in game anymore.}</DefaultText>
+      <DefaultText>„Ein mentaler Angriff zerstört langsam meinen Körper. Kannst du helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,8 +615,7 @@ Sie schaut von dir weg auf den Boden. „Aye. Ich vermute, du kennst die Sehnsü
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>„Natürlich“, sagt sie und rollt die Augen. „Laarma ist kein Arzt für süße Tierchen. Du musst [Global: c4211_SlumpDoctorSpecterDecayFettleCost] Shin im Voraus bezahlen.“
-{MONEY}</DefaultText>
+      <DefaultText>„Natürlich“, sagt sie und rollt die Augen. „Laarma ist kein Arzt für süße Tierchen. Du musst [Global: c4211_SlumpDoctorSpecterDecayFettleCost] Shin im Voraus bezahlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -732,8 +630,7 @@ Sie schaut von dir weg auf den Boden. „Aye. Ich vermute, du kennst die Sehnsü
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Bezahle sie. 
-{MONEY}</DefaultText>
+      <DefaultText>Bezahle sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -764,8 +661,7 @@ Sie blickt zu dir hoch.</DefaultText>
 
 Sie fummelt etwas aus einem der Hängebeutel an ihren Hüften raus und gibt dir einen violetten Klumpen. „Hier. Iss das. Keine Fragen.“
 
-Du machst es. Er schmeckt nach warmem Brot mit in der Kruste eingebackenem Zinn. Der Druck in deinem Kopf schwindet auf der Stelle.
-{SCRIPT: Remove decay fettle.}</DefaultText>
+Du machst es. Er schmeckt nach warmem Brot mit in der Kruste eingebackenem Zinn. Der Druck in deinem Kopf schwindet auf der Stelle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -807,29 +703,24 @@ Du machst es. Er schmeckt nach warmem Brot mit in der Kruste eingebackenem Zinn.
       <ID>143</ID>
       <DefaultText>Sie öffnet ihren Mund, um zu rufen. Schließt ihn wieder. Presst die Lippen zusammen.
 
-„Ja“, sagt sie. „Aber nur, weil du stirbst und es zu viel kosten würde, dich wegschaffen zu lassen. [Global: c4211_SlumpDoctorSpecterDecayFettleCost] Shin. Kein Verhandlungsspielraum.“
-{MONEY}</DefaultText>
+„Ja“, sagt sie. „Aber nur, weil du stirbst und es zu viel kosten würde, dich wegschaffen zu lassen. [Global: c4211_SlumpDoctorSpecterDecayFettleCost] Shin. Kein Verhandlungsspielraum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>„Ja, ja“, sagt sie und seufzt. „[Global: c4211_SlumpDoctorSpecterDecayFettleCost] Shin. Bezahlen oder gehen.“
-{MONEY}</DefaultText>
+      <DefaultText>„Ja, ja“, sagt sie und seufzt. „[Global: c4211_SlumpDoctorSpecterDecayFettleCost] Shin. Bezahlen oder gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Bezahle sie. 
-{MONEY}</DefaultText>
+      <DefaultText>Bezahle sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
       <DefaultText>Sie reißt dir das Geld aus deiner Hand und hält dir ein Säckchen mit violettem Staub hin. „Iss das. Keine Fragen.“
 
-Du machst es. Er schmeckt nach warmem Brot mit in der Kruste eingebackenem Zinn. Der Druck in deinem Kopf schwindet auf der Stelle.
-
-{SCRIPT: Remove decay fettle.}</DefaultText>
+Du machst es. Er schmeckt nach warmem Brot mit in der Kruste eingebackenem Zinn. Der Druck in deinem Kopf schwindet auf der Stelle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -869,9 +760,7 @@ Du machst es. Er schmeckt nach warmem Brot mit in der Kruste eingebackenem Zinn.
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>„Ein mentaler Angriff zerstört langsam meinen Körper. Wirst du mir helfen?“
-{SCRIPT: Node 142 should only be visible so long as the PC has the Specter's Decay fettle.}
-{SCRIPT: Please note that the Specter fettle may not be in game anymore.}</DefaultText>
+      <DefaultText>„Ein mentaler Angriff zerstört langsam meinen Körper. Wirst du mir helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

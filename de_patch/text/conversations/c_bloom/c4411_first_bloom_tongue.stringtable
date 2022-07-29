@@ -355,9 +355,7 @@ Du spürst, dass die Florzungen noch immer von der Intensität deiner Gezeitenwe
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Du beschwörst die Gezeitenenergien in dir heraus und *drängst* den qualvollen Schmerz in die Zungen hinein. Ihre Stimmen werden augenblicklich zu Schreien und Zischen der Wut. Die Zungen winden sich … der Boden wackelt …
-
-{SOUND: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <DefaultText>Du beschwörst die Gezeitenenergien in dir heraus und *drängst* den qualvollen Schmerz in die Zungen hinein. Ihre Stimmen werden augenblicklich zu Schreien und Zischen der Wut. Die Zungen winden sich … der Boden wackelt …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -372,9 +370,7 @@ Du spürst, dass die Florzungen noch immer von der Intensität deiner Gezeitenwe
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Versuchen, die Florzungen zu kontrollieren.
-
-{CRIT}</DefaultText>
+      <DefaultText>Versuchen, die Florzungen zu kontrollieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,9 +492,7 @@ In Reaktion auf deinen mentalen Übergriff erlangen die Zungen einen Teil ihrer 
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Die Zungen schreien auf, als dein Schmerz wie eine Welle aus roter und brennender Pein in sie fährt. Sie zischen und winden sich, und die Flor selbst zittert vor Wut.
-
-{SOUND: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <DefaultText>Die Zungen schreien auf, als dein Schmerz wie eine Welle aus roter und brennender Pein in sie fährt. Sie zischen und winden sich, und die Flor selbst zittert vor Wut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -822,10 +816,7 @@ Du kannst spüren, dass die Florzungen noch immer ermüdet und faul sind, nachde
 
 Sogar noch als die Florzungen erschlafft gegeneinander baumeln, von ihrem Festmahl gesättigt, spürst du, wie deine Beine nachgeben. In deinem geschwächten Zustand war diese Anstrengung zu viel für dich.
 
-Um dich herum wird es dunkel …
-
-{DAMAGE}
-{SCRIPT: The damage here should kill the player, but he should respawn in this same room (Trade Post).}</DefaultText>
+Um dich herum wird es dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -896,9 +887,7 @@ Der Schlund ist geschlossen – oder hat sich selbst versteckt – sodass du den
       <ID>230</ID>
       <DefaultText>Durch die Erinnerung gesättigt, hängen die Florzungen fast bis zum Boden.
 
-In deinem geschwächten Zustand war diese Anstrengung zu viel für dich. Du brichst neben den Zungen zusammen und um dich herum wird alles dunkel …
-
-{DAMAGE}</DefaultText>
+In deinem geschwächten Zustand war diese Anstrengung zu viel für dich. Du brichst neben den Zungen zusammen und um dich herum wird alles dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -11,9 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Eine wabernde Masse aus Tentakeln steigt aus dem Boden empor. Sie erinnern dich an die 'Zungen', die einen Schlund umgeben. Sie wirbeln und schlängeln sich umeinander und machen dabei ein feuchtes, unangenehmes Geräusch.
-
-{SOUND: We should hear the soft, disgusting sounds of the tongues as described here. We should also hear the whispering voices of the Bloom while in this dialogue. Note that they should get louder after the player touches the Magmatic Annulet (as noted in child nodes of 113).}</DefaultText>
+      <DefaultText>Eine wabernde Masse aus Tentakeln steigt aus dem Boden empor. Sie erinnern dich an die 'Zungen', die einen Schlund umgeben. Sie wirbeln und schlängeln sich umeinander und machen dabei ein feuchtes, unangenehmes Geräusch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,9 +26,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Die Florzungen machen feuchte, unangenehme Geräusche, als sie sich winden und umeinander schlängeln.
-
-{SOUND: We should hear the soft, disgusting sounds of the tongues as described here. We should also hear the whispering voices of the Bloom while in this dialogue. Note that they should get louder after the player touches the Magmatic Annulet (as noted in child nodes of 113).}</DefaultText>
+      <DefaultText>Die Florzungen machen feuchte, unangenehme Geräusche, als sie sich winden und umeinander schlängeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,9 +113,7 @@
       <ID>21</ID>
       <DefaultText>Du greifst nach dem kristallinen Artefakt. Auf ein Mal werden die Stimmen der Flor lauter … und lauter. Sie füllen dein Bewusstsein aus, ertränken deine Gedanken, und flüstern, schnattern, summen … Sie kommen aus allen Richtungen, von oben, unten, von nah und fern.
 
-Du torkelst und fällst fast zu Boden. 
-
-{SOUND: Player has made closer mental contact with the Bloom. SFX of Bloom-voices gets louder until the end of the dialogue.}</DefaultText>
+Du torkelst und fällst fast zu Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,9 +162,7 @@ Dir wird klar, dass der Magmatische Ring als eine Art Übersetzer dient, auch we
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Versuchen, die Florzungen zu kontrollieren.
-
-{CRIT}</DefaultText>
+      <DefaultText>Versuchen, die Florzungen zu kontrollieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -259,9 +251,7 @@ Die Florzungen hängen herunter und stoßen gegeneinander, als hätte sie ihr Fe
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>In einem siedend heißen Strom fließt der Schmerz aus deinem Kopf in die Zungen. Sie kreischen und zischen, ihr Zorn überkommt dich in Wellen, doch vergeblich. 
-
-{AUDIO: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <DefaultText>In einem siedend heißen Strom fließt der Schmerz aus deinem Kopf in die Zungen. Sie kreischen und zischen, ihr Zorn überkommt dich in Wellen, doch vergeblich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,18 +278,14 @@ Plötzlich schlägst du nach oben aus. Du willst nicht, dass diese Frau noch meh
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Wie zuvor werden die Stimmen der Flor lauter und deutlicher, bis aus ihnen vage Empfindungen erwachsen. Du kannst zwischen jenen, die innerhalb des Handelpostens entstehen, und jenen außerhalb unterscheiden.
-
-{SOUND: Player has made closer mental contact with the Bloom. SFX of Bloom-voices gets louder until the end of the dialogue.}</DefaultText>
+      <DefaultText>Wie zuvor werden die Stimmen der Flor lauter und deutlicher, bis aus ihnen vage Empfindungen erwachsen. Du kannst zwischen jenen, die innerhalb des Handelpostens entstehen, und jenen außerhalb unterscheiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
       <DefaultText>Das Gezwitscher wird lauter …
 
-Du kannst spüren, dass die Florzungen noch immer ermüdet und faul sind, nachdem sie eine der Erinnerungen deines alten Herrn aufgezehrt haben. Mithilfe des Ringes kannst du die Kontrolle über sie erlangen.
-
-{SOUND: Player has made closer mental contact with the Bloom. SFX of Bloom-voices gets louder until the end of the dialogue.}</DefaultText>
+Du kannst spüren, dass die Florzungen noch immer ermüdet und faul sind, nachdem sie eine der Erinnerungen deines alten Herrn aufgezehrt haben. Mithilfe des Ringes kannst du die Kontrolle über sie erlangen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -425,20 +411,14 @@ Die Florzungen wühlen sich durch deine Erinnerungen … etwas suchend …</Defa
       <ID>86</ID>
       <DefaultText>Du konzentrierst dich auf den Schmerz und lässt ihn auf den Gezeiten davonfließen. Ein geschmolzener Fluss aus Pein, der deine Nerven aufgerieben zurücklässt. Er verbreitet sich über die *Brücke*, die der Ring zwischen dir und den Zungen erzeugt hat. 
 
-Um dich herum kreischen die Stimmen der Flor vor Hass und Schmerz. Die Zungen winden sich … der Boden wackelt … 
-
-{SOUND: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+Um dich herum kreischen die Stimmen der Flor vor Hass und Schmerz. Die Zungen winden sich … der Boden wackelt …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>Du bist dir mehr oder weniger darüber im Klaren, dass die Flor sich in deinem Verstand befindet und versucht, eine Erinnerung aus ihm herauszuziehen, die tief vergraben liegt … wie ein Zahn, der nicht gezogen werden will.
 
-Mit einem letzten, schmerzhaften Schwall der Pein wird diese Erinnerung in dein Bewusstsein befördert …
-
-{SCRIPT: Health damage currently set to 3 - should be same as other cases when the player allows Bloom-tongues to take a memory.}
-
-{DAMAGE}</DefaultText>
+Mit einem letzten, schmerzhaften Schwall der Pein wird diese Erinnerung in dein Bewusstsein befördert …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -497,18 +477,12 @@ Du versuchst, die Bewegungen der Zungen zu steuern. Es ist ein seltsames Gefühl
       <ID>98</ID>
       <DefaultText>Du konzentrierst dich und erlangst die Kontrolle aller Tentakel gleichzeitig, zwingst sie diesen Pfad hinauf bis an die Oberfläche, und reißt so den Handelsposten mit ihnen. 
 
-Der Boden vibriert und bewegt sich unter deinen Füßen, und die gesamte Kammer beginnt, sich zu bewegen …
-
-{SOUND: Play loud rumbling and groaning effects as the whole room gets moved to another part of the Bloom.}</DefaultText>
+Der Boden vibriert und bewegt sich unter deinen Füßen, und die gesamte Kammer beginnt, sich zu bewegen …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Du beißt die Zähne zusammen, während die Zungen die Erinnerung aus den Tiefen deines Verstandes reißen. Endlich tritt sie hervor und spielt sich vor deinem geistigen Auge ab.
-
-{SCRIPT: Health damage currently set to 3 - should be same as other cases when the player allows Bloom-tongues to take a memory.}
-
-{DAMAGE}</DefaultText>
+      <DefaultText>Du beißt die Zähne zusammen, während die Zungen die Erinnerung aus den Tiefen deines Verstandes reißen. Endlich tritt sie hervor und spielt sich vor deinem geistigen Auge ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -525,25 +499,19 @@ Der Boden vibriert und bewegt sich unter deinen Füßen, und die gesamte Kammer 
       <ID>102</ID>
       <DefaultText>Das Gezwitscher wird lauter …
 
-Du spürst, dass die Florzungen desorientiert sind. Mithilfe des Ringes kannst du die Kontrolle über sie erlangen.
-
-{SOUND: Player has made closer mental contact with the Bloom. SFX of Bloom-voices gets louder until the end of the dialogue.}</DefaultText>
+Du spürst, dass die Florzungen desorientiert sind. Mithilfe des Ringes kannst du die Kontrolle über sie erlangen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
       <DefaultText>Das Gezwitscher wird lauter …
 
-Du spürst, dass die Florzungen alarmiert sind und sich nach deinem Verstand verzehren … Sie haben *Hunger* auf die Erinnerungen, die sich dort verstecken könnten. Aber sie sind geschwächt, es könnte also ein Leichtes sein, die Kontrolle über sie zu erlangen.
-
-{SOUND: Player has made closer mental contact with the Bloom. SFX of Bloom-voices gets louder until the end of the dialogue.}</DefaultText>
+Du spürst, dass die Florzungen alarmiert sind und sich nach deinem Verstand verzehren … Sie haben *Hunger* auf die Erinnerungen, die sich dort verstecken könnten. Aber sie sind geschwächt, es könnte also ein Leichtes sein, die Kontrolle über sie zu erlangen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Du stellst deine Verbindung zu den Zungen wieder her und spürst, dass sie sich dir *unterwerfen*. Sie werden deinem Willen folgen.
-
-{SOUND: Player has made closer mental contact with the Bloom. SFX of Bloom-voices gets louder until the end of the dialogue.}</DefaultText>
+      <DefaultText>Du stellst deine Verbindung zu den Zungen wieder her und spürst, dass sie sich dir *unterwerfen*. Sie werden deinem Willen folgen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -620,9 +588,7 @@ Die Erinnerung deines alten Herrn verfliegt, so wie deine Erinnerung an sie.</De
       <ID>118</ID>
       <DefaultText>Du bist dir mehr oder weniger darüber im Klaren, dass die Flor sich in deinem Verstand befindet und versucht, eine Erinnerung aus ihm herauszuziehen, die tief vergraben liegt … wie ein Zahn, der nicht gezogen werden will.
 
-Mit einem letzten, schmerzhaften Schwall der Pein wird diese Erinnerung in dein Bewusstsein befördert …
-
-{SCRIPT: Health damage currently set to 3 - should be same as other cases when the player allows Bloom-tongues to take a memory.}</DefaultText>
+Mit einem letzten, schmerzhaften Schwall der Pein wird diese Erinnerung in dein Bewusstsein befördert …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -643,10 +609,7 @@ Mit einem letzten, schmerzhaften Schwall der Pein wird diese Erinnerung in dein 
 
 Sogar noch als die Florzungen erschlafft gegeneinander baumeln, von ihrem Festmahl gesättigt, spürst du, wie deine Beine nachgeben. In deinem geschwächten Zustand war diese Anstrengung zu viel für dich.
 
-Um dich herum wird es dunkel …
-
-{DAMAGE}
-{SCRIPT: The damage here should kill the player, but he should respawn in this same room (Trade Post).}</DefaultText>
+Um dich herum wird es dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -678,16 +641,12 @@ Die Erinnerung deines alten Herrn verfliegt, so wie deine Erinnerung an sie.</De
 
 Noch als dein Verstand diesen Umstand realisiert, beginn dein Körper, abzuschalten. In deinem geschwächten Zustand war diese Anstrengung zu viel für dich.
 
-Um dich herum wird es dunkel …
-
-{DAMAGE}</DefaultText>
+Um dich herum wird es dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Die Florzungen haben sich in den Boden zurückgezogen. Du kannst nicht länger mit ihnen kommunizieren.
-
-{SOUND: On this node, we shouldn't hear any sounds because the tongues have receded into the ground.}</DefaultText>
+      <DefaultText>Die Florzungen haben sich in den Boden zurückgezogen. Du kannst nicht länger mit ihnen kommunizieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

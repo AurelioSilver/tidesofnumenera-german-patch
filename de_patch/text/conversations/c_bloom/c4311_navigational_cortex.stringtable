@@ -75,9 +75,7 @@ Du kannst es nicht begründen, aber der Anblick des Globus erfüllt dich mit ein
       <ID>17</ID>
       <DefaultText>Du schlägst die Kugel einmal, zweimal, dreimal und schließlich schaffst du es, das Bedienfeld der Kugel mit Gewalt zu öffnen. Als du hineingreifst, vervollständigst du eine Art Stromkreis und bekommst einen heftigen Schlag einer seltsamen Energie ab. Das Summen der Kugel wird kurzzeitig unterbrochen, dann flackert sie. Du greifst hinein und entfernst eine kleine Metall-und-Synth-Sphäre.
 
-Wenn du sie genauer betrachtest, kannst du unendlich kleine Muster entlang ihrer Oberfläche sehen, mit winzigen Lichtern, die hier und da entlang und durch diese Muster rasen.
-
-{DAMAGE}</DefaultText>
+Wenn du sie genauer betrachtest, kannst du unendlich kleine Muster entlang ihrer Oberfläche sehen, mit winzigen Lichtern, die hier und da entlang und durch diese Muster rasen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -92,9 +90,7 @@ Wenn du sie genauer betrachtest, kannst du unendlich kleine Muster entlang ihrer
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Eine gewaltige Kugel dreht sich langsam in der Mitte des Raumes, ihre Oberfläche durchzogen von glühenden Linien. Sie gibt ein tiefes Summen ab, ein subtiles Pochen einer Energie und du kannst fühlen, wie deine Knochen anfangen zu schmerzen, da du in der Nähe der Kugel stehst. Lichtspiralen strömen von ihr aus und bewegen sich auf dich zu – aber als eine von ihnen sich dir nähert, *weißt* du aus irgendwelchen Gründen, dass sie keine böse Absicht hat. 
-
-{SOUND: We should have a low, pulsing throb here, a slow cycle that sounds a little like this, but slowed and possibly deeper: https://www.youtube.com/watch?v=-2p58DOlzLc }</DefaultText>
+      <DefaultText>Eine gewaltige Kugel dreht sich langsam in der Mitte des Raumes, ihre Oberfläche durchzogen von glühenden Linien. Sie gibt ein tiefes Summen ab, ein subtiles Pochen einer Energie und du kannst fühlen, wie deine Knochen anfangen zu schmerzen, da du in der Nähe der Kugel stehst. Lichtspiralen strömen von ihr aus und bewegen sich auf dich zu – aber als eine von ihnen sich dir nähert, *weißt* du aus irgendwelchen Gründen, dass sie keine böse Absicht hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,32 +129,24 @@ Deine Skepsis spürend, sagt die Stimme: „Ja. Ich habe die lokale Zeit in dein
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Den Cortex denken lassen, dass er das Schiff sieht.
-
-{COLIN: The only conventions necessary here are (1) a downside for the recipient (IIRC, there is already one basically) and (2) maybe something in the text of 29 that hints at how the PC is using the Tides for this, and why he can do it *now* and not other times. For example: „For a moment, you can feel the push and pull of the Tides strongly. Tapping into that force, you pull forth an image of a vast, metallic vessel into the Cortex's sensors…“} {TIDAL SURGE}</DefaultText>
+      <DefaultText>Den Cortex denken lassen, dass er das Schiff sieht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>Das Bild eines riesigen, metallischen Transportmittels, wie du es noch niemals zuvor gesehen hast, erscheint in den Projektionen, die in dem Raum präsent sind, und ein jubelndes Hupgeräusch ertönt durch die Station.
 
-„Anmerkung: Ein Transportmittel wurde gesichtet. Ein Transportmittel wurde gesichtet. Bitte auf Docking-Prozess vorbereiten. Ein Transportmittel wurde gesichtet.“
-
-{SCRIPT: We may want to switch the image to that of the Ship here.}</DefaultText>
+„Anmerkung: Ein Transportmittel wurde gesichtet. Ein Transportmittel wurde gesichtet. Bitte auf Docking-Prozess vorbereiten. Ein Transportmittel wurde gesichtet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Für einen Moment erstarrt er, offensichtlich in einem Schock, der seinen ganzen Körper einnimmt. Er stößt einen heulenden Freudenschrei aus und stürzt aus dem Raum.
-
-{SCRIPT: May need to cut to a cutscene of Genjes leaving.}</DefaultText>
+      <DefaultText>Für einen Moment erstarrt er, offensichtlich in einem Schock, der seinen ganzen Körper einnimmt. Er stößt einen heulenden Freudenschrei aus und stürzt aus dem Raum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Eine Energiewelle mysteriösen Ursprungs hat vor Kurzem meine Abschirmung überwunden und zeitweise meine Sensoren gestört, sodass ich fälschlicherweise das Sichten eines Transportmittels gemeldet habe. Meine Systeme haben sich angepasst, um solche Energiewellen abzufangen und sollten für den Rest meines Lebenszyklus fehlerfrei bleiben.“
-
-{SCRIPT: Need to add a trigger or something to update the global to 2 on leaving after faking the Ship arriving.}</DefaultText>
+      <DefaultText>„Eine Energiewelle mysteriösen Ursprungs hat vor Kurzem meine Abschirmung überwunden und zeitweise meine Sensoren gestört, sodass ich fälschlicherweise das Sichten eines Transportmittels gemeldet habe. Meine Systeme haben sich angepasst, um solche Energiewellen abzufangen und sollten für den Rest meines Lebenszyklus fehlerfrei bleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -389,9 +377,7 @@ Ein kleines Bedienfeld öffnet sich an der Außenseite der Sphäre. Die blauen S
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>„Was tust du mit unserem Cortex?“ Er starrt dich an und brüllt laut aus der Richtung der Türe. „Dieb! Hilfe! Dieb!“ 
-
-{SCRIPT: Start the crisis!}</DefaultText>
+      <DefaultText>„Was tust du mit unserem Cortex?“ Er starrt dich an und brüllt laut aus der Richtung der Türe. „Dieb! Hilfe! Dieb!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,10 +397,7 @@ Ein kleines Bedienfeld öffnet sich an der Außenseite der Sphäre. Die blauen S
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Die Symbole verschwinden aus deinem Geist und die Lichter kehren in ihre normale Ausgangslage zurück.
-
-{SCRIPT: Restore lighting}
-{SOUND: Restore thrumming sound}</DefaultText>
+      <DefaultText>Die Symbole verschwinden aus deinem Geist und die Lichter kehren in ihre normale Ausgangslage zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,9 +409,7 @@ Ein kleines Bedienfeld öffnet sich an der Außenseite der Sphäre. Die blauen S
       <ID>88</ID>
       <DefaultText>Du schaust dir den Behälter zügig an, aber du kannst nicht erkennen, wie der Alarm ausgelöst wird. Als die Sekunden vor deinen Augen heruntergezählt werden, fängst du an panisch zu werden … eine absolut nutzlose Reaktion, die dich davon abhält eine praktikable Lösung zu finden.
 
-Die Schaltuhr erreicht die 1 … 0. Und dann ertönt die Hupe.
-
-{SCRIPT: Start the crisis!}</DefaultText>
+Die Schaltuhr erreicht die 1 … 0. Und dann ertönt die Hupe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -459,10 +440,7 @@ Sein Ton ist freundlich, aber seine Augen sind hart. „Dieser Fehler passiert w
       <ID>93</ID>
       <DefaultText>Seine scharfen Augen sehen, wie sich das Bedienfeld wieder öffnet und dieses Mal beeilt er sich nicht damit, es zu schließen. Stattdessen brüllt er: „Dieb! Der Fremde ist gekommen, um unseren Cortex zu stehlen!“
 
-Eine Hupe beginnt zu ertönen.
-
-{SOUND: Alarm klaxon}
-{SCRIPT: Start crisis!}</DefaultText>
+Eine Hupe beginnt zu ertönen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -472,17 +450,12 @@ Eine Hupe beginnt zu ertönen.
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Mit dem Entfernen des Cortex werden die holografischen Abbildungen in dem Raum dunkel. Eine Stille breitet sich in dem Raum aus.
-
-{SCRIPT: Make the holographic displays go out.}
-{SOUND: Make the deep humming stop}</DefaultText>
+      <DefaultText>Mit dem Entfernen des Cortex werden die holografischen Abbildungen in dem Raum dunkel. Eine Stille breitet sich in dem Raum aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Auf die Konsequenzen vorbereiten.
-
-{SCRIPT: It might be interesting to have this option give the party a free round to set up for the crisis (enemies don't start taking turns until the second round).}</DefaultText>
+      <DefaultText>Auf die Konsequenzen vorbereiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -490,17 +463,12 @@ Eine Hupe beginnt zu ertönen.
       <DefaultText>Du lockerst deine Waffen, schüttelst deine Hände aus und machst dich bereit, um in deine Position zu gehen. Die Zahlen werden weiter heruntergezählt …
 … 5 … 4 … 3 … 2 … 1.
 
-Eine Hupe ertönt.
-
-{SCRIPT: Start the crisis!}</DefaultText>
+Eine Hupe ertönt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Als du den Cortex aus seinem Gehäuse entfernst, verdunkeln sich die Lichter, das Pochen stoppt … und eine Hupe beginnt zu ertönen. Offenbar hast du es nicht geschafft, den Alarm, der an der Maschine angebracht ist, zu deaktivieren.
-
-
-{SCRIPT: Start the crisis!}</DefaultText>
+      <DefaultText>Als du den Cortex aus seinem Gehäuse entfernst, verdunkeln sich die Lichter, das Pochen stoppt … und eine Hupe beginnt zu ertönen. Offenbar hast du es nicht geschafft, den Alarm, der an der Maschine angebracht ist, zu deaktivieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -547,9 +515,7 @@ Kleine Symbole aus blassem, blauen Licht erscheinen vor dir – fast transparent
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Dieses Gerät ist von unschätzbarem Wert. Falls du einen Weg findest, es herauszuholen, würde Dracogen eine hübsche Summe dafür zahlen.
-
-{GEORGE: I removed the companion nodes, because if the Cortex is speaking directly to the player, then the companions wouldn't have heard any of this. I can go back to adjust the text to have the Cortex speak out loud, but then we'd need to have Genjes be aware of everything the orb says too.}</DefaultText>
+      <DefaultText>Dieses Gerät ist von unschätzbarem Wert. Falls du einen Weg findest, es herauszuholen, würde Dracogen eine hübsche Summe dafür zahlen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -599,9 +565,7 @@ Kleine Symbole aus blassem, blauen Licht erscheinen vor dir – fast transparent
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>[Rhin beschreibt ihre Angaben und nennt einige Konstellationen.]
-
-{ADAM: RHIN STUFF}</DefaultText>
+      <DefaultText>[Rhin beschreibt ihre Angaben und nennt einige Konstellationen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,9 +575,7 @@ Kleine Symbole aus blassem, blauen Licht erscheinen vor dir – fast transparent
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>[Rhin beschreibt, wohin sich die Sterne im Himmel bewegen]
-
-{ADAM: RHIN STUFF}</DefaultText>
+      <DefaultText>[Rhin beschreibt, wohin sich die Sterne im Himmel bewegen]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -742,11 +704,7 @@ In den nächsten paar Minuten diskutieren Rhin und der Cortex die Konstellatione
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>„Erzähl mir mehr über die drei vermissten Lascar.“
-
-{COLIN/GEORGE: Adding this option because it might feel odd to be able to look into the 15 year old disappearance and not this one. It might also be fun to have a little reactivity to turning on the signal in the helmets of the living lascars.}
-
-{GEORGE: I agree it could be fun to add a „did you signal us?“ node to the lascar leader. Let me know if you want that. - cmm}</DefaultText>
+      <DefaultText>„Erzähl mir mehr über die drei vermissten Lascar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

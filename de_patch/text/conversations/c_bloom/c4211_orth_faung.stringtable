@@ -446,9 +446,7 @@ Er klappt den Rahmen zusammen. „Ich werde nach ihm sehen. Wenn ich ihn finde, 
       <ID>94</ID>
       <DefaultText>Faung winkt verlegen. „Du hast mich vor ein Rätsel gestellt, Aligern. Es war mir ein Vergnügen.“ Er runzelt die Stirn ein wenig. „Wenn du allerdings Min erklären könntest, wie hilfreich ich war und ihm sagst, dass ich das Geheimnis lüftete, das sie nicht lüften konnten, dann wäre dadurch ein Großteil der von dir erwähnten Schuld getilgt.“
 
-Er hustet künstlich, als wäre er nicht gewohnt, Gefühle zu zeigen. „Nun! Meine Arbeit ist beendet. Ich muss jetzt zu meiner Position im Orden zurückkehren. Lebe wohl!“
-
-{SCRIPT: Should quest end here?}</DefaultText>
+Er hustet künstlich, als wäre er nicht gewohnt, Gefühle zu zeigen. „Nun! Meine Arbeit ist beendet. Ich muss jetzt zu meiner Position im Orden zurückkehren. Lebe wohl!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,16 +471,12 @@ Er hustet künstlich, als wäre er nicht gewohnt, Gefühle zu zeigen. „Nun! Me
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>„Lebe wohl!“
-
-{SCRIPT: Path to exit and despawn}</DefaultText>
+      <DefaultText>„Lebe wohl!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>„Ähm. Auf jeden Fall. Ich hoffe, es erwartet mich nicht zu viel Arbeit.“
-
-{SCRIPT: Path Faung to exit, despawn}</DefaultText>
+      <DefaultText>„Ähm. Auf jeden Fall. Ich hoffe, es erwartet mich nicht zu viel Arbeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

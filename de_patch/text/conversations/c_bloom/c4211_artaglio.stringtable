@@ -823,18 +823,12 @@ Er wühlt in einem Rucksack herum, der neben ihm liegt. „Warte mal kurz. Ich h
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Er gräbt in seinem dreckigen Wams und zieht einen klirrenden Geldbeutel heraus. Er wirft ihn dir lachend zu. „Mach was Gutes damit, Verstoßener.“
-
-{MONEY}</DefaultText>
-      <FemaleText>Er gräbt in seinem dreckigen Wams und zieht einen klirrenden Geldbeutel heraus. Er wirft ihn dir lachend zu. „Mach was Gutes damit, Verstoßene.“
-
-{MONEY}</FemaleText>
+      <DefaultText>Er gräbt in seinem dreckigen Wams und zieht einen klirrenden Geldbeutel heraus. Er wirft ihn dir lachend zu. „Mach was Gutes damit, Verstoßener.“</DefaultText>
+      <FemaleText>Er gräbt in seinem dreckigen Wams und zieht einen klirrenden Geldbeutel heraus. Er wirft ihn dir lachend zu. „Mach was Gutes damit, Verstoßene.“</FemaleText>
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>„Warte einen Moment.“ Er wühlt in seiner Truhe und zieht ein Stück bearbeiteten Metalls heraus. „Ich hab gehört, dass dieses Ding nützlich sein soll. Aber ich bin nie dazu gekommen, es auszuprobieren.“
-
-{LOOT - ESSENTIAL}</DefaultText>
+      <DefaultText>„Warte einen Moment.“ Er wühlt in seiner Truhe und zieht ein Stück bearbeiteten Metalls heraus. „Ich hab gehört, dass dieses Ding nützlich sein soll. Aber ich bin nie dazu gekommen, es auszuprobieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

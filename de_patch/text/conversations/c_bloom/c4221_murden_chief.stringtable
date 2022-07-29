@@ -23,9 +23,7 @@ Ihre Stimme ändert sich, in einer höheren Tonhöhe als die beiden geflohenen M
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[Angriff] „Ihr wollt mich töten? *Versucht* es.“
-
-{COLIN: This node didn't lead anywhere so I linked it to 95, which seemed like a decent fit.}</DefaultText>
+      <DefaultText>[Angriff] „Ihr wollt mich töten? *Versucht* es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,9 +209,7 @@ Die anderen Murden greifen nach ihren Waffen und schauen sich gegenseitig an, si
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Wir bezahlen [Global: c4221_MurdenChiefShinwisePriceCheap] Shin. Du bezahlen [Global: c4221_MurdenChiefShinwisePrice].“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Wir bezahlen [Global: c4221_MurdenChiefShinwisePriceCheap] Shin. Du bezahlen [Global: c4221_MurdenChiefShinwisePrice].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,9 +286,7 @@ Der Murdenhäuptling zieht seine Waffe. Die anderen Murden tun dasselbe und rüc
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Dein Kopf schwimmt im Stoß, aber du hörst, wie die Dolmetscherin in ihrer matten Stimme spricht, „Töten. Hassen. Töten, fresse, zerstören.“
-
-{SCRIPT: Add Stunned Fettle for 1 turn}</DefaultText>
+      <DefaultText>Dein Kopf schwimmt im Stoß, aber du hörst, wie die Dolmetscherin in ihrer matten Stimme spricht, „Töten. Hassen. Töten, fresse, zerstören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,25 +375,17 @@ Der Murdenhäuptling zieht seine Waffe. Die anderen Murden tun dasselbe und rüc
 
 Sie pausiert, und der Murdenhäuptling richtet seine Klinge auf dich.
 
-„Du nehmen ihr Platz. Du jetzt unser Spaß.“
-
-{COLIN: I have added the following nodes. Middle Epoch: Come back and design solution around this. CM}</DefaultText>
+„Du nehmen ihr Platz. Du jetzt unser Spaß.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>„Wenn ihr [Global: c4221_MurdenChiefShinwisePriceCheap] bezahlt habt, dann sollte ich [Global: c4221_MurdenChiefShinwisePriceCheap] zurückzahlen. Das ist fair.“
-
-{CRIT}
-
-{MONEY}</DefaultText>
+      <DefaultText>„Wenn ihr [Global: c4221_MurdenChiefShinwisePriceCheap] bezahlt habt, dann sollte ich [Global: c4221_MurdenChiefShinwisePriceCheap] zurückzahlen. Das ist fair.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Also schön. Hier habt ihr es.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Also schön. Hier habt ihr es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -409,9 +395,7 @@ Sie pausiert, und der Murdenhäuptling richtet seine Klinge auf dich.
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Der Murdenhäuptling überlegt eine Zeit lang, danach nickt er einmal, wenn auch nur widerwillig, und nimmt den Haufen Shin, den du ihm händigst.
-
-{MONEY}</DefaultText>
+      <DefaultText>Der Murdenhäuptling überlegt eine Zeit lang, danach nickt er einmal, wenn auch nur widerwillig, und nimmt den Haufen Shin, den du ihm händigst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,9 +410,7 @@ Sie pausiert, und der Murdenhäuptling richtet seine Klinge auf dich.
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Der Murdenhäuptling, sonst immer zu Gewalt bereit, ist völlig verblüfft von deiner Großzügigkeit, und schweigt, während er den Sack von Shin in wiegt, der gerade in seinen flaumigen Händen gelandet ist.
-
-{MONEY}</DefaultText>
+      <DefaultText>Der Murdenhäuptling, sonst immer zu Gewalt bereit, ist völlig verblüfft von deiner Großzügigkeit, und schweigt, während er den Sack von Shin in wiegt, der gerade in seinen flaumigen Händen gelandet ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -498,9 +480,7 @@ Sie pausiert, und der Murdenhäuptling richtet seine Klinge auf dich.
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>„Menschen trügerisch. Menschen nicht respektieren Murden. Sagen uns, was du wollen, Mensch. Vielleicht wir geben. Vielleicht wir tauschen. Vielleicht wir töten.“
-
-{SCRIPT: Asset -1 to intimidation and persuasion tasks with the murden.}</DefaultText>
+      <DefaultText>„Menschen trügerisch. Menschen nicht respektieren Murden. Sagen uns, was du wollen, Mensch. Vielleicht wir geben. Vielleicht wir tauschen. Vielleicht wir töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -525,9 +505,7 @@ Sie pausiert, und der Murdenhäuptling richtet seine Klinge auf dich.
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>„Wenn ihr [Global: c4221_MurdenChiefShinwisePriceCheap] bezahlt habt, dann sollte ich [Global: c4221_MurdenChiefShinwisePriceCheap] zurückzahlen. Das ist fair.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Wenn ihr [Global: c4221_MurdenChiefShinwisePriceCheap] bezahlt habt, dann sollte ich [Global: c4221_MurdenChiefShinwisePriceCheap] zurückzahlen. Das ist fair.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -619,16 +597,12 @@ Sie pausiert, und der Murdenhäuptling richtet seine Klinge auf dich.
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>„Moment. Ich bin sicher, wir können einen Handel abschließen, für uns beide gut ist.“
-
-{SCRIPT: Provide minor penalty to PC for not being ready to attack.}</DefaultText>
+      <DefaultText>„Moment. Ich bin sicher, wir können einen Handel abschließen, für uns beide gut ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>„Lasst es uns wie vernünftige Wesen noch einmal besprechen.“
-
-{SCRIPT: Provide minor penalty to PC for not being ready to attack.}</DefaultText>
+      <DefaultText>„Lasst es uns wie vernünftige Wesen noch einmal besprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -700,16 +674,12 @@ Offensichtlich ist das Lesen von Murden-Gedanken eine schlechte Idee.</DefaultTe
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>„Also schön. Hier habt ihr sie.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Also schön. Hier habt ihr sie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Der Murdenhäuptling, sonst immer zu Gewalt bereit, ist völlig verblüfft, dass du sein Angebot annimmst, und schweigt, während er den Sack von Shin in wiegt, der gerade in seinen flaumigen Händen gelandet ist.
-
-{MONEY}</DefaultText>
+      <DefaultText>Der Murdenhäuptling, sonst immer zu Gewalt bereit, ist völlig verblüfft, dass du sein Angebot annimmst, und schweigt, während er den Sack von Shin in wiegt, der gerade in seinen flaumigen Händen gelandet ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

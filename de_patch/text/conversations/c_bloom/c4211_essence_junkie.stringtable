@@ -15,20 +15,14 @@ Bei genauerem Hinsehen erkennst du, dass seine Kleidung aus edlen Stoffen und sa
       <ID>2</ID>
       <DefaultText>Er grüßt dich mit einer leichten Vertrautheit, als wäre er ein alter Kumpel. Seine Stimme ist sanft und gebildet, wohlklingend und leise.
 
-„Hallo, mein Freund. Mein Name ist Bourras! Hast du vielleicht [Global: c4211_BourrasDonation] Shin übrig?“
-
-{MONEY}</DefaultText>
+„Hallo, mein Freund. Mein Name ist Bourras! Hast du vielleicht [Global: c4211_BourrasDonation] Shin übrig?“</DefaultText>
       <FemaleText>Er grüßt dich mit einer leichten Vertrautheit, als wäre er ein alter Kumpel. Seine Stimme ist sanft und gebildet, wohlklingend und leise.
 
-„Hallo, meine Gute. Mein Name ist Bourras! Hast du vielleicht [Global: c4211_BourrasDonation] Shin übrig?“
-
-{MONEY}</FemaleText>
+„Hallo, meine Gute. Mein Name ist Bourras! Hast du vielleicht [Global: c4211_BourrasDonation] Shin übrig?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Gib ihm [Global: c4211_BourrasDonation] Shin.
-
-{MONEY}</DefaultText>
+      <DefaultText>Gib ihm [Global: c4211_BourrasDonation] Shin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,9 +75,7 @@ Er hält einen Augenblick inne. „Warte aber, bis ich meine gekauft habe, okay?
     <Entry>
       <ID>15</ID>
       <DefaultText>„Sagtest … Sagtest du etwas von 'gratis'?“ Seine Augen leuchten mit kindlicher Begeisterung. „Mein Freund, ich wünschte, ich könnte bleiben, um noch mehr mit dir zu reden, aber ich habe Wichtiges zu erledigen. Ich muss mir unbedingt einige dieser Proben b-b-beschaffen, bevor andere es tun, die sie nicht so sehr s-s-schätzen wie ich!“</DefaultText>
-      <FemaleText>„Sagtest… Sagtest du etwas von 'gratis'?“ Seine Augen leuchten mit kindlicher Begeisterung. „Meine Gute, ich wünschte, ich könnte bleiben, um noch mehr mit dir zu reden, aber ich habe Wichtiges zu erledigen. Ich muss mir unbedingt einige dieser Proben b-b-beschaffen, bevor andere es tun, die sie nicht so sehr s-s-schätzen wie ich!“
-
-{SCRIPT: Removed a SetBusy() call here. This should probably be replaced by a fade cutscene. -JF}</FemaleText>
+      <FemaleText>„Sagtest… Sagtest du etwas von 'gratis'?“ Seine Augen leuchten mit kindlicher Begeisterung. „Meine Gute, ich wünschte, ich könnte bleiben, um noch mehr mit dir zu reden, aber ich habe Wichtiges zu erledigen. Ich muss mir unbedingt einige dieser Proben b-b-beschaffen, bevor andere es tun, die sie nicht so sehr s-s-schätzen wie ich!“</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -167,11 +159,7 @@ Er hält einen Augenblick inne. „Warte aber, bis ich meine gekauft habe, okay?
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Du findest kaum eine Handvoll Shin und einige klebrige grüne Kügelchen, die sich ekelhaft lebendig und warm anfühlen. Vielleicht sind sie noch für etwas zu gebrauchen.
-
-{LOOT - ESSENTIAL - drops Pulsing Mass}
-
-{MONEY}</DefaultText>
+      <DefaultText>Du findest kaum eine Handvoll Shin und einige klebrige grüne Kügelchen, die sich ekelhaft lebendig und warm anfühlen. Vielleicht sind sie noch für etwas zu gebrauchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,9 +200,7 @@ Er geht in sich. „Ich brauche einen Arzt. Glaubst du, Demeray und Obervich kö
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Zumindest kannst du sie leben, bis dir das Geld ausgeht W-W-Was bei mir der Fall ist. Habe … ich dich schon um Shin gebeten? Ich könnte schwören, dass ich das habe. Ich brauche nur [Global: c4211_BourrasDonation].“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Zumindest kannst du sie leben, bis dir das Geld ausgeht W-W-Was bei mir der Fall ist. Habe … ich dich schon um Shin gebeten? Ich könnte schwören, dass ich das habe. Ich brauche nur [Global: c4211_BourrasDonation].“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,9 +215,7 @@ Er geht in sich. „Ich brauche einen Arzt. Glaubst du, Demeray und Obervich kö
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>(Lüge) „Ich habe nicht viel Geld, das ich entbehren kann.“
-
-{GEORGE/COLIN: Adding another version of this line when you are lying and actually have the money. It doesn't make any difference at the moment, but if we ever track lies for any reason, it's here.}</DefaultText>
+      <DefaultText>(Lüge) „Ich habe nicht viel Geld, das ich entbehren kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

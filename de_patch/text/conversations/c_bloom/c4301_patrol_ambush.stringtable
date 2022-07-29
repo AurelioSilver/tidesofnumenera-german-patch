@@ -18,9 +18,7 @@ Bevor du sie auch nur ein Wort sagen hörst, weißt du bereits, dass die Stimmun
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Mutanten, ich muss euch bitten, diese Menschen gehen zu lassen. Ich brauche sie lebend.“
-
-{CRIT}</DefaultText>
+      <DefaultText>„Mutanten, ich muss euch bitten, diese Menschen gehen zu lassen. Ich brauche sie lebend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -79,9 +77,7 @@ Bevor du sie auch nur ein Wort sagen hörst, weißt du bereits, dass die Stimmun
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Er kratzt sich den Kopf und vergräbt den Zeh im Boden. „Nuuuun … der Prinz hat uns aufgetragen, es für uns zu behalten, mit gesenktem Kopf. Gar-koto wäre möglicherweise nicht erfreut, wenn diese Handlanger sterben würden.“
-
-{SCRIPT:  Add an asset that makes it easier to succeed at the task to convince the mutants to let the goons go. This should probably be a pretty good asset (two steps or more) if it takes multiple questions to reach it.}</DefaultText>
+      <DefaultText>Er kratzt sich den Kopf und vergräbt den Zeh im Boden. „Nuuuun … der Prinz hat uns aufgetragen, es für uns zu behalten, mit gesenktem Kopf. Gar-koto wäre möglicherweise nicht erfreut, wenn diese Handlanger sterben würden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,9 +218,7 @@ Die Situation verschlimmert sich und wird immer finsterer.</DefaultText>
       <ID>41</ID>
       <DefaultText>„Ich … ich weiß es nicht. Die Dienstpläne der Patrouille waren in letzter Zeit unregelmäßig und eine andere ist erst letztens wieder verloren gegangen –“ Er hält sich den Mund zu. Die Mutanten grinsen anzüglich ob dieses neuen Alibis und der Vollstrecker fügt hastig hinzu: „– die Memovira hat jedoch keine Kosten gescheut, um sie zu finden.“
 
-Niemand glaubt ihm das.
-
-{SCRIPT:  Add a negative asset to the tasks to convince the mutants to stop. The player just inadvertently gave them an alibi to attack these guys.}</DefaultText>
+Niemand glaubt ihm das.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -234,9 +228,7 @@ Niemand glaubt ihm das.
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Was willst du von uns?“
-
-{COLIN:  These are just some sample questions, feel free to change these or add some new ones. The idea is to have questions that lead nowhere, a few whose answers make it easier to convince the mutants to back down, and possible a couple that make it harder.}</DefaultText>
+      <DefaultText>„Was willst du von uns?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,9 +243,7 @@ Niemand glaubt ihm das.
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Sein Blick bleibt auf die Vollstrecker der Memovira gerichtet, während sein Mund immer dünner wird.
-
-{COLIN:  These are just some sample questions, feel free to change these or add some new ones. The idea is to have questions that lead nowhere, a few whose answers make it easier to convince the mutants to back down, and possible a couple that make it harder.}</DefaultText>
+      <DefaultText>Sein Blick bleibt auf die Vollstrecker der Memovira gerichtet, während sein Mund immer dünner wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -280,9 +270,7 @@ Um dich herum scheint die Luft der Flor zu *pulsieren*.</DefaultText>
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Sie bezahlt uns, größtenteils. Und die Söldner, die durch den Schlund reisen, und die Bestechungsgelder für die Beamten in Sagusklippen … in letzter Zeit ist sie jedoch in Verzug geraten. Ich habe gehört, dass sie alte Waffen repariere, mächtige Numenera. Ich habe Gerüchte darüber gehört, wozu diese in der Lage sind, und ich will nicht auf der Gegenseite stehen.“ Er schluckt und blickt zu den Mutanten, die ihn umzingeln. „Sie würde Rache wollen, sollten wir versagen.“
-
-{SCRIPT:  Add an asset here that makes convincing the mutants to back down a little easier, as they've just learned the Memovira potentially has access to some crazy superweapons.}</DefaultText>
+      <DefaultText>„Sie bezahlt uns, größtenteils. Und die Söldner, die durch den Schlund reisen, und die Bestechungsgelder für die Beamten in Sagusklippen … in letzter Zeit ist sie jedoch in Verzug geraten. Ich habe gehört, dass sie alte Waffen repariere, mächtige Numenera. Ich habe Gerüchte darüber gehört, wozu diese in der Lage sind, und ich will nicht auf der Gegenseite stehen.“ Er schluckt und blickt zu den Mutanten, die ihn umzingeln. „Sie würde Rache wollen, sollten wir versagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -297,30 +285,22 @@ Um dich herum scheint die Luft der Flor zu *pulsieren*.</DefaultText>
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Der wütende Blick in den Augen des Mutantenanführers schwindet und wird durch Habgier ersetzt. „Zum richtigen Preis, vielleicht.“
-
-{SCRIPT: Unknown whether global tokens will work in Thoughts. I'm hoping they will, because that would be a useful clue for the player. - Adam}</DefaultText>
+      <DefaultText>Der wütende Blick in den Augen des Mutantenanführers schwindet und wird durch Habgier ersetzt. „Zum richtigen Preis, vielleicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>„Würden dich [Global: c4301_AmbushBribeLowball] Shin überzeugen?“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Würden dich [Global: c4301_AmbushBribeLowball] Shin überzeugen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>„Würden dich [Global: c4301_AmbushBribeStandard] Shin überzeugen?“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Würden dich [Global: c4301_AmbushBribeStandard] Shin überzeugen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>„Ich zahle dir [Global: c4301_AmbushBribeHighball] Shin, damit du diese Patrouille gehen lässt.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Ich zahle dir [Global: c4301_AmbushBribeHighball] Shin, damit du diese Patrouille gehen lässt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -335,9 +315,7 @@ Um dich herum scheint die Luft der Flor zu *pulsieren*.</DefaultText>
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Er macht sich nicht einmal die Mühe, sich mit seinen Begleitern zu beraten. „Abgemacht. Gib mir die Shin.“
-
-{MONEY}</DefaultText>
+      <DefaultText>Er macht sich nicht einmal die Mühe, sich mit seinen Begleitern zu beraten. „Abgemacht. Gib mir die Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -347,17 +325,12 @@ Um dich herum scheint die Luft der Flor zu *pulsieren*.</DefaultText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„[Global: c4301_AmbushBribeStandard] Shin ist viel Geld. Selbst zwischen dir und deinen Freunden hier aufgeteilt sollte es ausreichen, um dich durch viele durstige Nächte zu bringen.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„[Global: c4301_AmbushBribeStandard] Shin ist viel Geld. Selbst zwischen dir und deinen Freunden hier aufgeteilt sollte es ausreichen, um dich durch viele durstige Nächte zu bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Er schüttelt den Kopf. „Oder ich könnte Gar-koto meinen Tribut zollen und etwas Nahrung kaufen. Du hast recht: Warum sollten wir unseren Hals riskieren, wenn du uns dieses Angebot machst? Gib es mir.“
-
-
-{MONEY}</DefaultText>
+      <DefaultText>Er schüttelt den Kopf. „Oder ich könnte Gar-koto meinen Tribut zollen und etwas Nahrung kaufen. Du hast recht: Warum sollten wir unseren Hals riskieren, wenn du uns dieses Angebot machst? Gib es mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -382,9 +355,7 @@ Um dich herum scheint die Luft der Flor zu *pulsieren*.</DefaultText>
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Er schluckt und öffnet einen offiziell anmutenden Tornister, um einige Handvoll Shin herauszuholen.
-
-{MONEY}</DefaultText>
+      <DefaultText>Er schluckt und öffnet einen offiziell anmutenden Tornister, um einige Handvoll Shin herauszuholen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -399,23 +370,17 @@ Um dich herum scheint die Luft der Flor zu *pulsieren*.</DefaultText>
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>„Die Memovira wird früher oder später hiervon erfahren. Ich glaube wirklich, dass ihr dieses Angebot annehmen solltet.“
-
-{CRIT}</DefaultText>
+      <DefaultText>„Die Memovira wird früher oder später hiervon erfahren. Ich glaube wirklich, dass ihr dieses Angebot annehmen solltet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Er überdenkt deine Worte gründlich, studiert dein Verhalten und nickt dir dann kurz zu. „Also gut. [Global: c4301_AmbushBribeLowball] Shin.“
-
-{MONEY}</DefaultText>
+      <DefaultText>Er überdenkt deine Worte gründlich, studiert dein Verhalten und nickt dir dann kurz zu. „Also gut. [Global: c4301_AmbushBribeLowball] Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>„Warum? Ich kann hier und jetzt mit ein wenig Blutvergießen viel reicher werden. [Global: c4301_AmbushBribeLowball] … das reicht nicht.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„Warum? Ich kann hier und jetzt mit ein wenig Blutvergießen viel reicher werden. [Global: c4301_AmbushBribeLowball] … das reicht nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -425,9 +390,7 @@ Um dich herum scheint die Luft der Flor zu *pulsieren*.</DefaultText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Vielleicht liegt es an deinem Tonfall, der Mutant nimmt die Hände aber besänftigend und schnell hoch. „Einverstanden. Wir nehmen es. Ein ziemlich guter Handel.“ Er blickt zu seinen Begleitern und irgendetwas in seinem Gesicht überzeugt auch sie. Als du ihnen das Geld aushändigst, beginnen sie, umherzulaufen.
-
-{MONEY}</DefaultText>
+      <DefaultText>Vielleicht liegt es an deinem Tonfall, der Mutant nimmt die Hände aber besänftigend und schnell hoch. „Einverstanden. Wir nehmen es. Ein ziemlich guter Handel.“ Er blickt zu seinen Begleitern und irgendetwas in seinem Gesicht überzeugt auch sie. Als du ihnen das Geld aushändigst, beginnen sie, umherzulaufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -437,9 +400,7 @@ Um dich herum scheint die Luft der Flor zu *pulsieren*.</DefaultText>
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>„[Global: c4301_AmbushBribeStandard] Shin sind mehr als genug, um deine Börse zu füllen. Weigere dich und du wirst es bereuen.“
-
-{MONEY}</DefaultText>
+      <DefaultText>„[Global: c4301_AmbushBribeStandard] Shin sind mehr als genug, um deine Börse zu füllen. Weigere dich und du wirst es bereuen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

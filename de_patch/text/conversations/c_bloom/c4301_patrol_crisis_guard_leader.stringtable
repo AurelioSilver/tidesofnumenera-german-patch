@@ -33,9 +33,7 @@
       <ID>7</ID>
       <DefaultText>„Ich … ich weiß es nicht. Die Dienstpläne der Patrouille waren in letzter Zeit unregelmäßig und eine andere ist erst letztens wieder verloren gegangen –“ Er hält sich den Mund zu. Er fügt hastig hinzu: „– die Memovira hat jedoch keine Kosten gescheut, um sie zu finden.“
 
-Niemand glaubt ihm dies.
-
-{SCRIPT:  Add a negative asset to the tasks to convince the mutants to stop. The player just inadvertently gave them an alibi to attack these guys.}</DefaultText>
+Niemand glaubt ihm dies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -47,9 +45,7 @@ Niemand glaubt ihm dies.
       <ID>9</ID>
       <DefaultText>Er öffnet den Mund, um zu widersprechen, erkennt jedoch dann, was du gesagt hast. „Ah … ja, natürlich. Die Memovira behält ihre Patrouillen im Auge. Dieses Geld ist wichtig für ihre Operation und sie sendet Verstärkung aus, um sicherzustellen, dass nichts davon verloren geht. Das sind auch blutrünstige Bastarde.“
 
-Die Muskeln der Mutanten spannen sich an, als sie sich zurückbeugen. Sie tauschen unruhige Blicke untereinander aus.
-
-{SCRIPT: Makes easier to convince mutants to back down}</DefaultText>
+Die Muskeln der Mutanten spannen sich an, als sie sich zurückbeugen. Sie tauschen unruhige Blicke untereinander aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,9 +59,7 @@ Die Muskeln der Mutanten spannen sich an, als sie sich zurückbeugen. Sie tausch
 
 Er schluckt und blickt zu den Mutanten, die ihn umgeben. „Sie würde Rache wollen, sollten wir versagen. Sie *braucht* dieses Geld und sie wird ihre schmutzigsten Tricks anwenden, um es zurückzubekommen.“
 
-Der Anführer der Mutanten verlagert sein Gewicht, während der Feldwebel spricht, zieht sich jedoch nicht zurück.
-
-{SCRIPT:  Add an asset here that makes convincing the mutants to back down a little easier, as they've just learned the Memovira potentially has access to some crazy superweapons.}</DefaultText>
+Der Anführer der Mutanten verlagert sein Gewicht, während der Feldwebel spricht, zieht sich jedoch nicht zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

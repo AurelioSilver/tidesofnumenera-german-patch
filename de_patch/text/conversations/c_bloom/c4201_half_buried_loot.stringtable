@@ -26,11 +26,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[Es gelingt dir, das Gerät herauszuziehen, und du verstaust es in deinen Taschen.]
-
-{SCRIPT:  Give out an item here.}
-
-{LOOT}</DefaultText>
+      <DefaultText>[Es gelingt dir, das Gerät herauszuziehen, und du verstaust es in deinen Taschen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,11 +36,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Als du das Gerät aus dem Boden befreist, bemerkst du, das ein weiteres Gerät an seinem Ende befestigt ist. Sorgfältig entnimmst du beide Geräte dem Boden.]
-
-{SCRIPT: Give out two items here.}
-
-{LOOT}</DefaultText>
+      <DefaultText>[Als du das Gerät aus dem Boden befreist, bemerkst du, das ein weiteres Gerät an seinem Ende befestigt ist. Sorgfältig entnimmst du beide Geräte dem Boden.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

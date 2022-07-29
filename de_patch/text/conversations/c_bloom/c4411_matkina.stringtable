@@ -215,9 +215,7 @@ Ihr Lächeln lässt sie beinahe glückselig erscheinen. Während dein Blut von i
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Jetzt, wo sich ihre Aufmerksamkeit auf dich richtet, machst du dich bereit. Sie jagt dich nach einigen Augenblicken bereits gnadenlos durch die Flor. Du wirfst einen kurzen Blick über deine Schulter. Sie hält ihre Klinge tief und ist bereit, zuzustechen. Ein schreckliches Lächeln liegt auf ihrem Gesicht.
-
-{COLIN: description feels to me like it requires a cutscene. I'm not sure having her chase you works as a solution to this.}</DefaultText>
+      <DefaultText>Jetzt, wo sich ihre Aufmerksamkeit auf dich richtet, machst du dich bereit. Sie jagt dich nach einigen Augenblicken bereits gnadenlos durch die Flor. Du wirfst einen kurzen Blick über deine Schulter. Sie hält ihre Klinge tief und ist bereit, zuzustechen. Ein schreckliches Lächeln liegt auf ihrem Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,9 +261,7 @@ Sie wartet nicht auf deine Antwort. Sie wendet sich von dir ab.</DefaultText>
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Verwirrung und Verlust strahlen von ihrer Erscheinung aus. Sie hebt ihre Hand, sieht sie sorgfältig an und kniet dann nieder, um ihre Klinge abzulegen. Dann steht sie auf, lässt ihre Hände nicht aus den Augen, und geht fort. Du siehst zu, wie sie ihre Hände auf die Wände der Flor legt, und diese sie gierig in sich aufnehmen.
-
-{SCRIPT: Path Matkina to a nearby wall, despawn her}</DefaultText>
+      <DefaultText>Verwirrung und Verlust strahlen von ihrer Erscheinung aus. Sie hebt ihre Hand, sieht sie sorgfältig an und kniet dann nieder, um ihre Klinge abzulegen. Dann steht sie auf, lässt ihre Hände nicht aus den Augen, und geht fort. Du siehst zu, wie sie ihre Hände auf die Wände der Flor legt, und diese sie gierig in sich aufnehmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -280,9 +276,7 @@ Sie wartet nicht auf deine Antwort. Sie wendet sich von dir ab.</DefaultText>
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Matkina, du bist keine so schlechte Person. Sieh über den Hass hinweg, den die Flor dir in den Kopf gepflanzt hat.“
-
-{COLIN/GEORGE: It seems strange that the player could retry this persuasion and each time she just "raises her blade" but doesn't attack. Maybe not allow a retry? Or have a follow-up failure that is attack?}</DefaultText>
+      <DefaultText>„Matkina, du bist keine so schlechte Person. Sieh über den Hass hinweg, den die Flor dir in den Kopf gepflanzt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

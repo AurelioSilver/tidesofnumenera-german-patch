@@ -170,9 +170,7 @@ Glücklicherweise kennst du etwas Heilkunst – oder du erinnerst dich womöglic
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Deine Tochter ist tot. Dein Sohn lief durch eine Pforte zu einer anderen Zeit.“
-
-{SCRIPT: Confirm that a2601_AlcenPassedZebbThroughHoET is being set when Zebb passes through the House of Empty Time.}</DefaultText>
+      <DefaultText>„Deine Tochter ist tot. Dein Sohn lief durch eine Pforte zu einer anderen Zeit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

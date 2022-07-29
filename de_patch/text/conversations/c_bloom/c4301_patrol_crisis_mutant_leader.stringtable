@@ -208,9 +208,7 @@
       <ID>48</ID>
       <DefaultText>„Nuuuun … der Prinz hat uns aufgetragen, es für uns zu behalten, mit gesenktem Kopf. Gar-koto wäre möglicherweise nicht erfreut, wenn diese Handlanger sterben würden.“
 
-Die Augen des Mutanten werden weicher, doch seine dornigen Fäuste bleiben geballt.
-
-{SCRIPT:  Add a +2 asset that makes it easier to succeed at the task to convince the mutants to let the goons go.}</DefaultText>
+Die Augen des Mutanten werden weicher, doch seine dornigen Fäuste bleiben geballt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -307,9 +305,7 @@ Auch sie blicken zu dir und ihr Blick wird von einem unausgesprochenen Einverst�
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Er macht sich nicht einmal die Mühe, sich mit seinen Begleitern zu beraten. „Abgemacht. Gib mir die Shin.“
-
-{MONEY}</DefaultText>
+      <DefaultText>Er macht sich nicht einmal die Mühe, sich mit seinen Begleitern zu beraten. „Abgemacht. Gib mir die Shin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,9 +315,7 @@ Auch sie blicken zu dir und ihr Blick wird von einem unausgesprochenen Einverst�
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Er schüttelt den Kopf. „Du hast recht. Warum sollten wir unseren Hals riskieren, wenn du uns dieses Angebot machst? Gib es mir.“
-
-{MONEY}</DefaultText>
+      <DefaultText>Er schüttelt den Kopf. „Du hast recht. Warum sollten wir unseren Hals riskieren, wenn du uns dieses Angebot machst? Gib es mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
