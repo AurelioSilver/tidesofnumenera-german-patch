@@ -40,9 +40,7 @@ Auf der Oberfläche des Eies erscheint erneut ein Bild.</DefaultText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„Ja ich! Ich höre einen heroischen Marsch, der mich dazu antreibt, heroische Dinge zu tun! Aber den höre ich *die ganze Zeit*. Weil ich der Held bin.“ Erritis klopft dir auf die Schulter. „Vielleicht hörst du ja das Lied des treuen Begleiters des Helden.“
-
-{AVELLONE: Check voice.}</DefaultText>
+      <DefaultText>„Ja ich! Ich höre einen heroischen Marsch, der mich dazu antreibt, heroische Dinge zu tun! Aber den höre ich *die ganze Zeit*. Weil ich der Held bin.“ Erritis klopft dir auf die Schulter. „Vielleicht hörst du ja das Lied des treuen Begleiters des Helden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -79,23 +77,17 @@ Auf der Oberfläche des Eies erscheint erneut ein Bild.</DefaultText>
       <ID>17</ID>
       <DefaultText>Du bückst dich und lässt das Ei los – es löst sich von deiner Haut, als könne es deine Absicht verstehen. Anstatt umzufallen, wie du es erwartet hättest, steht es jedoch im perfekten Gleichgewicht auf dem Boden.
 
-In dem Moment, als du das Ei loslässt, hört auch die fröhliche Musik auf.
-
-{SOUND: No music on this node.}</DefaultText>
+In dem Moment, als du das Ei loslässt, hört auch die fröhliche Musik auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Anstatt umzufallen, wie du es erwartet hättest, steht es jedoch im perfekten Gleichgewicht auf dem Boden. Als du das Ei loslässt, hört auch die fröhliche Musik auf.
-
-{SOUND: No music on this node.}</DefaultText>
+      <DefaultText>Anstatt umzufallen, wie du es erwartet hättest, steht es jedoch im perfekten Gleichgewicht auf dem Boden. Als du das Ei loslässt, hört auch die fröhliche Musik auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Du stellst das Ei wie zuvor auf den Boden. Es steht im perfekten Gleichgewicht da. Die fröhliche Musik hört auf.
-
-{SOUND: No music on this node.}</DefaultText>
+      <DefaultText>Du stellst das Ei wie zuvor auf den Boden. Es steht im perfekten Gleichgewicht da. Die fröhliche Musik hört auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,9 +107,7 @@ In dem Moment, als du das Ei loslässt, hört auch die fröhliche Musik auf.
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Du nimmst dir eine Waffe und schlägst mit voller Wucht auf das Ei ein, doch anstatt zu zerbrechen, fällt es nur kurz um und stellt sich dann wieder auf.
-
-{SOUND: No music on this node.}</DefaultText>
+      <DefaultText>Du nimmst dir eine Waffe und schlägst mit voller Wucht auf das Ei ein, doch anstatt zu zerbrechen, fällt es nur kurz um und stellt sich dann wieder auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,9 +137,7 @@ In dem Moment, als du das Ei loslässt, hört auch die fröhliche Musik auf.
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Du steckst das Ei zurück zu deinen restlichen Sachen.
-
-{SOUND: No music on this node.}</DefaultText>
+      <DefaultText>Du steckst das Ei zurück zu deinen restlichen Sachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -360,16 +348,12 @@ Du versinkst in Dunkelheit …</DefaultText>
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Ein unzerstörbares Spielzeug, gebaut, um auch die größten Wutanfälle eines Kindes auszuhalten“, sagt Callistege lächelnd. Dann zuckt sie mit den Schultern. „Oder vielleicht war es auch etwas völlig anderes.“
-
-{SOUND: No music on this node.}</DefaultText>
+      <DefaultText>„Ein unzerstörbares Spielzeug, gebaut, um auch die größten Wutanfälle eines Kindes auszuhalten“, sagt Callistege lächelnd. Dann zuckt sie mit den Schultern. „Oder vielleicht war es auch etwas völlig anderes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>„Also wirklich, Liebes. Bloß weil es dich getötet hat, musstest du es doch nicht *kaputt machen*.“
-
-{SOUND: No music on this node.}</DefaultText>
+      <DefaultText>„Also wirklich, Liebes. Bloß weil es dich getötet hat, musstest du es doch nicht *kaputt machen*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -18,25 +18,17 @@ Wieder überkommt dich das Gefühl, dass jemand nach dir verlangt, deinen Namen 
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Der Kummer. Der Kummer sucht nach dir. Ein einzelner Faden seiner Aufmerksamkeit hat sich an dich gehaftet und zieht nun die Essenz seines Bewusstseins zu dir.
-
-{SOUND: Start Sorrow sound effect, getting louder.}</DefaultText>
+      <DefaultText>Der Kummer. Der Kummer sucht nach dir. Ein einzelner Faden seiner Aufmerksamkeit hat sich an dich gehaftet und zieht nun die Essenz seines Bewusstseins zu dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Obwohl dir dieses Gefühl nicht bekannt vorkommt, erkennst du die Stimme jetzt: es ist der Kummer, und er sucht nach dir.
-
-{SOUND: Start Sorrow sound effect, getting louder.}</DefaultText>
+      <DefaultText>Obwohl dir dieses Gefühl nicht bekannt vorkommt, erkennst du die Stimme jetzt: es ist der Kummer, und er sucht nach dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Du spürst, wie der Kummer zu dir gezogen wird, wie er sich durch Raum und Zeit hindurch materialisiert, und seine geballte Macht überwältigt dich.
-
-{SOUND: Sorrow sound effect, getting louder.}
-
-{SCRIPTER: The Sorrow begins to materialize, half transparent}</DefaultText>
+      <DefaultText>Du spürst, wie der Kummer zu dir gezogen wird, wie er sich durch Raum und Zeit hindurch materialisiert, und seine geballte Macht überwältigt dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,51 +68,31 @@ Wieder überkommt dich das Gefühl, dass jemand nach dir verlangt, deinen Namen 
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Du kannst spüren, wie die Stimme in deinem Verstand herumwühlt, bis du von einem lärmenden Käfig aus psychischer Wut umgeben wirst, der dich summend und vibrierend mit einer defensiven Barriere umgibt. Der Wille des Kummers kann das Gitter nicht zerstören, und du spürst, wie sich seine Präsenz wieder zurückzieht.
-
-{SOUND: Start Bloom voice sound effect.}
-
-{SCRIPTER: The Sorrow fades out}</DefaultText>
+      <DefaultText>Du kannst spüren, wie die Stimme in deinem Verstand herumwühlt, bis du von einem lärmenden Käfig aus psychischer Wut umgeben wirst, der dich summend und vibrierend mit einer defensiven Barriere umgibt. Der Wille des Kummers kann das Gitter nicht zerstören, und du spürst, wie sich seine Präsenz wieder zurückzieht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Du fürchtest, dass das Eindringen des Kummers eine Wut mit sich bringt … eine Wut, die den summenden, schwärmenden Stimmen gleicht, die plötzlich in deinen Verstand eindringen. Diese greifbare, psychische Wut zwingt dich fast in die Knie.
 
-Für einen Moment lang verweilt die Präsenz des Kummers, nur um sich schließlich doch zurückzuziehen.
-
-{SOUND: Start Bloom voice sound effect.}
-
-{SCRIPTER: The Sorrow fades out}</DefaultText>
+Für einen Moment lang verweilt die Präsenz des Kummers, nur um sich schließlich doch zurückzuziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Als ob sie eine Antwort auf deine steigende Alarmiertheit wären, füllt ein Schwarm von summenden Stimmen deinen Kopf, das kollektive Bewusstsein eines unglaublich mächtigen Wesens. Dieser Chor des Wahnsinns verdrängt die Präsenz des Kummers, und du kannst spüren, wie seine Umklammerung sich löst. Für einen Moment lang verweilt seine Präsenz, nur um sich schließlich doch zurückzuziehen.
-
-{SOUND: Start Bloom voice sound effect.}
-
-{SCRIPTER: The Sorrow fades out}</DefaultText>
+      <DefaultText>Als ob sie eine Antwort auf deine steigende Alarmiertheit wären, füllt ein Schwarm von summenden Stimmen deinen Kopf, das kollektive Bewusstsein eines unglaublich mächtigen Wesens. Dieser Chor des Wahnsinns verdrängt die Präsenz des Kummers, und du kannst spüren, wie seine Umklammerung sich löst. Für einen Moment lang verweilt seine Präsenz, nur um sich schließlich doch zurückzuziehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Die kalte Wut von summenden, schwärmenden Stimmen baut sich plötzlich um dich herum auf, und erfüllt deinen Verstand wie ein Insektenschwarm. Du kannst spüren, wie sie über deinen Verstand krabbeln, so als ob sie deinen Schädel erklimmen wollten, und dann …
 
-Die Präsenz des Kummers verschwindet und mit ihr die wütenden Stimmen.
-
-{SOUND: Start Bloom voice sound effect.}
-
-{SCRIPTER: The Sorrow fades out}</DefaultText>
+Die Präsenz des Kummers verschwindet und mit ihr die wütenden Stimmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Der summende Chor aus Stimmen, wütend über den Versuch des Kummers, in deinen Verstand einzudringen, zwingt dich beinahe in die Knie. Die Wut, die von ihm ausgeht, ist beinahe greifbah, und die Präsenz des Kummers hält nur einige Momente stand, bevor sie sich zurückzieht.
-
-{SOUND: Start Bloom voice sound effect.}
-
-{SCRIPTER: The Sorrow fades out}</DefaultText>
+      <DefaultText>Der summende Chor aus Stimmen, wütend über den Versuch des Kummers, in deinen Verstand einzudringen, zwingt dich beinahe in die Knie. Die Wut, die von ihm ausgeht, ist beinahe greifbah, und die Präsenz des Kummers hält nur einige Momente stand, bevor sie sich zurückzieht.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

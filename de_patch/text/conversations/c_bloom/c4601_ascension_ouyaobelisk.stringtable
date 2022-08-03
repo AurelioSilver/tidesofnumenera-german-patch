@@ -23,9 +23,7 @@ Der Stein blutet Bedürfnis, gar Hunger aus und ein telepathisches Flüstern ras
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Biete ihm das alchemistische Pulver an.
-
-{LOOT}</DefaultText>
+      <DefaultText>Biete ihm das alchemistische Pulver an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,9 +55,7 @@ Der Stein blutet Bedürfnis, gar Hunger aus und ein telepathisches Flüstern ras
       <ID>12</ID>
       <DefaultText>&lt;Produkt. Ich allein.&gt; Es folgt eine Pause und plötzlich siehst du ein klares Bild des alchemistischen Pulvers, das du von den beiden Kaufleuten in der Flor erhalten hattest. 
 
-Wie es scheint, ist das hier … ihr Handelspartner.
-
-{LOOT}</DefaultText>
+Wie es scheint, ist das hier … ihr Handelspartner.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -99,9 +95,7 @@ Wie es scheint, ist das hier … ihr Handelspartner.
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Gib ihm das Pulver.
-
-{LOOT/SCRIPT: Remove powder from inventory.}</DefaultText>
+      <DefaultText>Gib ihm das Pulver.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,16 +127,12 @@ Was auch immer die Vereinbarung ist, es ist unklar, wie dieses Ding sie durchset
 
 &lt;Guter Ausgebrüteter. Viele glückliche Blasen zu teilen. Genieße die Soße.&gt;
 
-Eine weitere Schuppe gleitet zurück und mehrere Objekte fallen heraus. Du kannst sie gerade so auffangen, ehe sie zu Boden fallen.
-
-{LOOT: Zero Sum Engine + Collection of Crystals.}</DefaultText>
+Eine weitere Schuppe gleitet zurück und mehrere Objekte fallen heraus. Du kannst sie gerade so auffangen, ehe sie zu Boden fallen.</DefaultText>
       <FemaleText>Eine der Schuppen schiebt sich zur Seite und der Megalith schlürft das Pulver mit einem schnellen Sog ein. Einen Moment lang brechen seine telepathischen Sendungen ab und dann strahlt sein Vergnügen durch dich.
 
 &lt;Gute Ausgebrütete. Viele glückliche Blasen zu teilen. Genieße die Soße.&gt;
 
-Eine weitere Schuppe gleitet zurück und mehrere Objekte fallen heraus. Du kannst sie gerade so auffangen, ehe sie zu Boden fallen.
-
-{LOOT: Zero Sum Engine + Collection of Crystals.}</FemaleText>
+Eine weitere Schuppe gleitet zurück und mehrere Objekte fallen heraus. Du kannst sie gerade so auffangen, ehe sie zu Boden fallen.</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -185,14 +175,10 @@ Es ist unklar, ob es sich um ein mechanisches Konstrukt, ein Lebewesen oder etwa
       <ID>34</ID>
       <DefaultText>Du gräbst deine Finger tief unter die Schuppe und reißt und ziehst mit all deiner Kraft. Schließlich bricht die Schuppe ab und legt eine schlauchartige Fistel frei, die in das Innere des Megaliths führt.
 
-Während ein kleines Objekt aus dem Schlauch herausrollt, explodiert dein Geist vor dem Zorn des Megaliths. &lt;Nein, nein. Böser Ausgebrüteter. Keine Blasen.&gt; Dann verstummen seine Gedanken.
-
-{LOOT: An item inferior to the Zero Sum Engine.}</DefaultText>
+Während ein kleines Objekt aus dem Schlauch herausrollt, explodiert dein Geist vor dem Zorn des Megaliths. &lt;Nein, nein. Böser Ausgebrüteter. Keine Blasen.&gt; Dann verstummen seine Gedanken.</DefaultText>
       <FemaleText>Du gräbst deine Finger tief unter die Schuppe und reißt und ziehst mit all deiner Kraft. Schließlich bricht die Schuppe ab und legt eine schlauchartige Fistel frei, die in das Innere des Megaliths führt.
 
-Während ein kleines Objekt aus dem Schlauch herausrollt, explodiert dein Geist vor dem Zorn des Megaliths. &lt;Nein, nein. Böse Ausgebrütete. Keine Blasen.&gt; Dann verstummen seine Gedanken.
-
-{LOOT: An item inferior to the Zero Sum Engine.}</FemaleText>
+Während ein kleines Objekt aus dem Schlauch herausrollt, explodiert dein Geist vor dem Zorn des Megaliths. &lt;Nein, nein. Böse Ausgebrütete. Keine Blasen.&gt; Dann verstummen seine Gedanken.</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>

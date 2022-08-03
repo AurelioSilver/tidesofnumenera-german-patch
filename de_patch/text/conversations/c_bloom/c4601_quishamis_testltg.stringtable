@@ -263,9 +263,7 @@ Als du einige Minuten später endlich wieder zu Sinnen kommst, verspürst du ein
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Du gehst mit gezogenen Waffen auf den Quishami zu.
-
-{SCRIPT: This would start a Tussle with the Quishami.}</DefaultText>
+      <DefaultText>Du gehst mit gezogenen Waffen auf den Quishami zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -412,9 +410,7 @@ Der Quishami zeichnet ein Portal, um sich nach Hause zu befördern. Du weißt ni
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Der Quishami wird kleiner, während er fällt, und ist schließlich nichts weiter als ein glänzender, taumelnder Staubfleck. Du siehst, wie er weit unten auf dem Boden aufschlägt, doch kein Ton begleitet den Einschlag. Von hier aus ist schwer auszumachen, ob der Quishami sich bewegt oder ob der Einschlag auf dem Boden eine Reihe kleiner funkelnder Beben ausgelöst hat.
-
-{SCRIPT: Quest complete!}</DefaultText>
+      <DefaultText>Der Quishami wird kleiner, während er fällt, und ist schließlich nichts weiter als ein glänzender, taumelnder Staubfleck. Du siehst, wie er weit unten auf dem Boden aufschlägt, doch kein Ton begleitet den Einschlag. Von hier aus ist schwer auszumachen, ob der Quishami sich bewegt oder ob der Einschlag auf dem Boden eine Reihe kleiner funkelnder Beben ausgelöst hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -488,9 +484,7 @@ Nichts passiert. Der Quishami bleibt erstarrt, so still wie die Kristallspate, d
       <ID>108</ID>
       <DefaultText>Zuhause? 
 
-Der Gedanke rammt sich in deinen Geist, im gleichen Moment, als der Quishami verschwindet. Die Risse im Boden beben und reißen sich in einem unmöglichen, Übelkeit erregenden Muster gegenseitig durch. Nach ein paar unerträglichen Momenten hält die Bewegung inne und die Zeichnung – sowie der Quishami – sind fort.
-
-{SCRIPT: Quest complete!}</DefaultText>
+Der Gedanke rammt sich in deinen Geist, im gleichen Moment, als der Quishami verschwindet. Die Risse im Boden beben und reißen sich in einem unmöglichen, Übelkeit erregenden Muster gegenseitig durch. Nach ein paar unerträglichen Momenten hält die Bewegung inne und die Zeichnung – sowie der Quishami – sind fort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -500,9 +494,7 @@ Der Gedanke rammt sich in deinen Geist, im gleichen Moment, als der Quishami ver
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Du lässt den Quishami in der Nische und kehrst zu Sarissas Lager zurück.
-
-{SCRIPT: Quest complete!}</DefaultText>
+      <DefaultText>Du lässt den Quishami in der Nische und kehrst zu Sarissas Lager zurück.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -732,9 +724,7 @@ Doch du weißt aus deiner eigenen Erfahrung über die Flor, dass die Reise des Q
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Der Quishami rast an dir vorbei, die Kristallstufen hinab. Du hörst Sarissas Angstschrei, als der Quishami durch das Lager zieht, darauf das dumpfe Brummen, als das Portal aktiviert wird. Der Quishami ist weg, auf dem Weg zur Flor.
-
-{SCRIPT: Quest complete!}</DefaultText>
+      <DefaultText>Der Quishami rast an dir vorbei, die Kristallstufen hinab. Du hörst Sarissas Angstschrei, als der Quishami durch das Lager zieht, darauf das dumpfe Brummen, als das Portal aktiviert wird. Der Quishami ist weg, auf dem Weg zur Flor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -750,9 +740,7 @@ Der Quishami scheint Zweifel zu haben. Er bewegt sich nicht auf die Nische zu.</
 
 Der Quishami scheint von deinem Beharren nicht sonderlich inspiriert zu sein, doch er bewegt sich in die Nische. Er verharrt dort und sucht wie ein Hund nach einem Zeichen seines abwesenden Herrchens – und wartet. Nichts, was du sagst oder tust, scheint ihn zu erreichen, doch er sieht auch nicht aus als würde er bald wieder zum Plateau zurückkehren.
 
-Sarissa sollte zumindest erfreut sein.
-
-{SCRIPT: Quest complete!}</DefaultText>
+Sarissa sollte zumindest erfreut sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -769,9 +757,7 @@ Der Quishami wird durch deinen Vorschlag in Aufregung versetzt und bewegt sich s
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Mit einem hohen Wehklagen, wie das Kreischen eines Mahlwerks, eilt der Quishami in die Nische und versucht, die Überreste seines Entwurfs zu retten. Die neuen Linien sind jedoch tief und wahr und die Höhe des Klagelauts des Quishami steigt mit jedem neuen Zeichen, das er entdeckt, bis dich deine schmerzenden Ohren zum Rückzug zwingen.
-
-{SCRIPT: Quest complete!}</DefaultText>
+      <DefaultText>Mit einem hohen Wehklagen, wie das Kreischen eines Mahlwerks, eilt der Quishami in die Nische und versucht, die Überreste seines Entwurfs zu retten. Die neuen Linien sind jedoch tief und wahr und die Höhe des Klagelauts des Quishami steigt mit jedem neuen Zeichen, das er entdeckt, bis dich deine schmerzenden Ohren zum Rückzug zwingen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -806,9 +792,7 @@ Der Quishami wird durch deinen Vorschlag in Aufregung versetzt und bewegt sich s
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Wieder wartest du im Weg des Quishami. Wieder erträgst du das stechende Beißen von Kristallen. Du kannst den Quishami nach Belieben bewegen.
-
-{SCRIPT: The Player would take minor damage here.}</DefaultText>
+      <DefaultText>Wieder wartest du im Weg des Quishami. Wieder erträgst du das stechende Beißen von Kristallen. Du kannst den Quishami nach Belieben bewegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -833,16 +817,12 @@ Der Quishami wird durch deinen Vorschlag in Aufregung versetzt und bewegt sich s
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>Als sich der Quishami nähert, spürst du das Stechen tausender kleiner Kristalle, die in dein Fleisch beißen. Du hältst die Stellung, knirscht vor Schmerz mit den Zähnen, bis der Quishami vor dir stehenbleibt. Aus solcher Nähe betrachtet, ist seine Erhabenheit erschreckend.
-
-{SCRIPT: The Player would take minor damage here.}</DefaultText>
+      <DefaultText>Als sich der Quishami nähert, spürst du das Stechen tausender kleiner Kristalle, die in dein Fleisch beißen. Du hältst die Stellung, knirscht vor Schmerz mit den Zähnen, bis der Quishami vor dir stehenbleibt. Aus solcher Nähe betrachtet, ist seine Erhabenheit erschreckend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Du stehst so lange vor dem Quishami, wie du es aushältst, und hörst und fühlst, wie die kleinen Kristallscherben in dein Fleisch schneiden. Der Schmerz wird schließlich zu viel und du musst zur Seite treten. Der Quishami setzt seinen Weg fort, ohne zu zögern.
-
-{SCRIPT: The Player would take minor damage here.}</DefaultText>
+      <DefaultText>Du stehst so lange vor dem Quishami, wie du es aushältst, und hörst und fühlst, wie die kleinen Kristallscherben in dein Fleisch schneiden. Der Schmerz wird schließlich zu viel und du musst zur Seite treten. Der Quishami setzt seinen Weg fort, ohne zu zögern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -852,9 +832,7 @@ Der Quishami wird durch deinen Vorschlag in Aufregung versetzt und bewegt sich s
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>Plötzlich sticht ein heftiger Schmerz in deinem rechten Auge. Du taumelst zur Seite und der Quishami geht an dir vorbei und setzt seinen Gang fort. Als du zögerlich das Auge öffnest, um den Schaden zu beurteilen, siehst du die Landschaft in hunderten Schwindel erregenden Blickwinkeln gebrochen.
-
-{SCRIPT: Player takes moderate damage here.}</DefaultText>
+      <DefaultText>Plötzlich sticht ein heftiger Schmerz in deinem rechten Auge. Du taumelst zur Seite und der Quishami geht an dir vorbei und setzt seinen Gang fort. Als du zögerlich das Auge öffnest, um den Schaden zu beurteilen, siehst du die Landschaft in hunderten Schwindel erregenden Blickwinkeln gebrochen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -863,9 +841,7 @@ Der Quishami wird durch deinen Vorschlag in Aufregung versetzt und bewegt sich s
 
 Der Quishami bewegt sich eifrig in die Nische und verharrt in der Mitte wie ein Hund, der auf ein Leckerbissen wartet. Nichts, was du sagst oder tust, scheint ihn zu erreichen, doch er sieht auch nicht aus als würde er bald wieder zum Plateau zurückkehren.
 
-Sarissa sollte zumindest erfreut sein.
-
-{SCRIPT: Quest complete!}</DefaultText>
+Sarissa sollte zumindest erfreut sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -881,9 +857,7 @@ Der Quishami bewegt sich von dir weg. Er verweigert weitere Kommunikationsversuc
       <ID>182</ID>
       <DefaultText>Du stehst im Weg des Quishami und studierst ihn. Aus der Nähe betrachtet kannst du sehen, dass seine Bewegung tatsächlich eine Art ständige Rekonstruktion ist: Der Quishami bewegt sich nicht wirklich, stattdessen wächst und löst er sich durch den linearen Raum auf.
 
-Bei diesem Anblick bist du so gebannt, dass du kaum bemerkst, wie die Kristallscherben in dein Fleisch schneiden, zumindest solange, bis der Quishami vor dir zum Stehen kommt, schweigend und plötzlich erschreckend.
-
-{SCRIPT: The Player would take minor damage here.}</DefaultText>
+Bei diesem Anblick bist du so gebannt, dass du kaum bemerkst, wie die Kristallscherben in dein Fleisch schneiden, zumindest solange, bis der Quishami vor dir zum Stehen kommt, schweigend und plötzlich erschreckend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

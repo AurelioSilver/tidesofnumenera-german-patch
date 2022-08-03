@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„Tun? Jetzt? Das jetzt fühlte sich noch nie so viel wie ein Ende an als … na ja, jetzt. Ich schätze … ich könnte einen neuen Anfang finden? Das ist, was ich gerne tue. Die Welt für jemand anderen retten. Das ist, was ich gerne tue. Die Welt für dich nochmal von vorne retten, Mattie. {clears throat}Matkina.“</DefaultText>
+      <DefaultText>„Tun? Jetzt? Das jetzt fühlte sich noch nie so viel wie ein Ende an als … na ja, jetzt. Ich schätze … ich könnte einen neuen Anfang finden? Das ist, was ich gerne tue. Die Welt für jemand anderen retten. Das ist, was ich gerne tue. Die Welt für dich nochmal von vorne retten, Mattie. Matkina.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>{sad}„Mir … mir gefällt dieses Ende gar nicht. Und mir scheint, wir haben in keiner Weise, die ich verstehen kann, gesiegt, um mal nichts von unserem standhaften Freund zu sagen. {uncertain}Es sei denn … es war da eine tiefere Hingabe und eine Stärke, die … {new hope} ach, schau doch – genau die Tür, durch die wir reingekommen sind! Und du weißt ja, was man über Türen und Neuanfänge sagt.“</DefaultText>
-      <FemaleText>{sad}„Mir … Mir gefällt dieses Ende gar nicht. Und mir scheint, wir haben in keiner Weise, die ich verstehen kann, gesiegt, um mal nichts von unserer standhaften Freundin zu sagen. {uncertain}Es sei denn… es war da eine tiefere Hingabe und eine Stärke, die… {new hope} ach, schau doch – genau die Tür, durch die wir reingekommen sind! Und du weißt ja, was man über Türen und Neuanfänge sagt.“</FemaleText>
+      <DefaultText>„Mir … mir gefällt dieses Ende gar nicht. Und mir scheint, wir haben in keiner Weise, die ich verstehen kann, gesiegt, um mal nichts von unserem standhaften Freund zu sagen. Es sei denn … es war da eine tiefere Hingabe und eine Stärke, die … ach, schau doch – genau die Tür, durch die wir reingekommen sind! Und du weißt ja, was man über Türen und Neuanfänge sagt.“</DefaultText>
+      <FemaleText>„Mir … Mir gefällt dieses Ende gar nicht. Und mir scheint, wir haben in keiner Weise, die ich verstehen kann, gesiegt, um mal nichts von unserer standhaften Freundin zu sagen. Es sei denn… es war da eine tiefere Hingabe und eine Stärke, die… ach, schau doch – genau die Tür, durch die wir reingekommen sind! Und du weißt ja, was man über Türen und Neuanfänge sagt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>{unhappy}„Die Welt ist wahnsinnig geworden. Ich kann es so laut hören … was ist zu tun, wenn sich die Welt um dich rum wild kippt?{new hope} Nun, man richtet sie auf, damit man sie ein zweites Mal drehen kann!“</DefaultText>
+      <DefaultText>„Die Welt ist wahnsinnig geworden. Ich kann es so laut hören … was ist zu tun, wenn sich die Welt um dich rum wild kippt? Nun, man richtet sie auf, damit man sie ein zweites Mal drehen kann!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

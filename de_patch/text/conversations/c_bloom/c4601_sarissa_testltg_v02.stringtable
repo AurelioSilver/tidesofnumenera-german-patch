@@ -75,9 +75,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Alles was ich weiß ist, dass er dort seit langer Zeit steht. Das, und er nicht besonders mag, wenn man an ihm herumspielt.“ Sie lächelt kurz. „Das erklärt jedenfalls, warum Achor ihn mag. Beide sind gleichermaßen starrköpfig.“
-
-{SCRIPT: Starts Sarissa's Quest.}</DefaultText>
+      <DefaultText>„Alles was ich weiß ist, dass er dort seit langer Zeit steht. Das, und er nicht besonders mag, wenn man an ihm herumspielt.“ Sie lächelt kurz. „Das erklärt jedenfalls, warum Achor ihn mag. Beide sind gleichermaßen starrköpfig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,9 +129,7 @@
 
 „Ich dachte, ich hätte alle.“ Sie reißt die Splitter schnell heraus und lässt sie fallen, während Blut aus den Stichwunden fließt. Mit einer schnellen Bewegung ihrer rechten Hand erscheint ein Stoffstreifen zwischen ihren Fingern, der sich aus der Rüstung abspult. Sie verbindet ihre linke Hand und betrachtet ihre Arbeit kurz, ehe sie ihre Aufmerksamkeit wieder dir widmet.
 
-„Danke. Morgen hätte ich sicher gewusst, dass sie da sind.“ Sie verzieht das Gesicht. „Hör zu –“
-
-{SCRIPT: Raise Sarissa's state to Hale/remove a Bleeding fettle. This will make the Tussle later more difficult if the player chooses not to hand over the Quishami heart.}</DefaultText>
+„Danke. Morgen hätte ich sicher gewusst, dass sie da sind.“ Sie verzieht das Gesicht. „Hör zu –“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -679,9 +675,7 @@
       <ID>188</ID>
       <DefaultText>Sie schaut etwas aufgeschreckt wieder zu dir und dieses Mal kann ihr Lächeln den Schmerz nicht ganz verbergen.
 
-„Wir sind seit ein paar Jahren hier“, sagt sie leichtfertig, als wäre es die natürlichste Sache der Welt. „Man gewöhnt sich daran, von der Zivilisation abgeschnitten zu sein. Ich hoffe nur, dass die Welt mich nicht vergessen hat.“ Wenn ihr Lachen ertönt, ist es brüchig. Sie fährt sich mit der rechten Hand schnell über die Augen, ehe sie deinem Blick wieder begegnet.
-
-{SCRIPT: Increment a global value here raising Sarissa's friendliness toward the player - a bonus on the task to convince her later on?}</DefaultText>
+„Wir sind seit ein paar Jahren hier“, sagt sie leichtfertig, als wäre es die natürlichste Sache der Welt. „Man gewöhnt sich daran, von der Zivilisation abgeschnitten zu sein. Ich hoffe nur, dass die Welt mich nicht vergessen hat.“ Wenn ihr Lachen ertönt, ist es brüchig. Sie fährt sich mit der rechten Hand schnell über die Augen, ehe sie deinem Blick wieder begegnet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -799,18 +793,14 @@
       <ID>210</ID>
       <DefaultText>Sarissa schließt die Augen, als sei sie plötzlich krank. Schließlich sieht sie dich wieder an und lächelt.
 
-„Du hast uns einen Dienst erwiesen und wir bezahlen unsere Schulden.“ Ihr Lächeln wird ein wenig matt. „Danke.“
-
-{LOOT: Something interesting, but not unique.}</DefaultText>
+„Du hast uns einen Dienst erwiesen und wir bezahlen unsere Schulden.“ Ihr Lächeln wird ein wenig matt. „Danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
       <DefaultText>Sie prüft dein Gesicht, als versuche sie, deine Motive einzuschätzen. Schließlich neigt sie mit einem winzigen Schulterzucken und einem Lächeln den Kopf.
 
-„Danke. Wir kommen jetzt selbst zurecht. Bitte, nimm dies als Zahlung für die Freundlichkeit, die du uns erwiesen hast.“
-
-{LOOT: Something interesting, but not unique.}</DefaultText>
+„Danke. Wir kommen jetzt selbst zurecht. Bitte, nimm dies als Zahlung für die Freundlichkeit, die du uns erwiesen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -822,9 +812,7 @@
       <ID>213</ID>
       <DefaultText>„Du hast ihn nach Hause geschickt?“ Ehe sie den Blick abwenden kann, siehst du, wie sich in ihren Augenwinkeln Tränen sammeln. Sie blinzelt einige Male und lächelt dich dann mit überraschender Wärme an.
 
-„Danke. Und ich bin sicher, wo auch immer der Quishami ist, er dankt dir auch. Bitte, nimm das.“
-
-{LOOT: Something interesting, but not unique.}</DefaultText>
+„Danke. Und ich bin sicher, wo auch immer der Quishami ist, er dankt dir auch. Bitte, nimm das.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,9 +834,7 @@
       <ID>222</ID>
       <DefaultText>Die Männer aus dem Lager nähern sich und machen subtil Numenera und Waffen bereit. Sarissa hebt ihren Speer.
 
-„Ich würde an deiner Stelle nicht gegen uns kämpfen“, sagt sie im Plauderton. „Wir konnten den Quishami nicht besiegen, aber wir haben mehr Erfahrung mit Menschen.“
-
-{SCRIPT: For the purposes of this conversation, I'm assuming the player hasn't yet crafted the Quishami heart into any other item, but would provide a different branch if they had.}</DefaultText>
+„Ich würde an deiner Stelle nicht gegen uns kämpfen“, sagt sie im Plauderton. „Wir konnten den Quishami nicht besiegen, aber wir haben mehr Erfahrung mit Menschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -868,18 +854,14 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>Greife an.
-
-{SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
+      <DefaultText>Greife an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
       <DefaultText>Es scheint, als ob die Spannung aus Sarissa entweiche, als du einem ihrer Gefährten das Herz übergibst. Alle drei treten zurück und haben den gleichen Ausdruck von Habgier auf dem Gesicht.
 
-„Danke“, sagt sie einfach. „Ich wollte nicht, dass das böse für dich endet.“ Sie lächelt wie nach einem Witz, den ihr beide gemacht habt. „Nimm das als Entschädigung.“
-
-{LOOT: Something interesting, but not unique.}</DefaultText>
+„Danke“, sagt sie einfach. „Ich wollte nicht, dass das böse für dich endet.“ Sie lächelt wie nach einem Witz, den ihr beide gemacht habt. „Nimm das als Entschädigung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -891,9 +873,7 @@
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>„Ein Jammer“, sagt sie, ihren Speer hochhievend. Sie betrachtet dich mit ehrlichem Mitgefühl. „Du hättest eine große Bereicherung für die Konvergenz sein können, lebendig jedenfalls.“
-
-{SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
+      <DefaultText>„Ein Jammer“, sagt sie, ihren Speer hochhievend. Sie betrachtet dich mit ehrlichem Mitgefühl. „Du hättest eine große Bereicherung für die Konvergenz sein können, lebendig jedenfalls.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -905,9 +885,7 @@
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>„Dann finden wir es heraus.“ Ihre Stimme ist flach und hässlich, und der Ausdruck der Verachtung, den sie dir zeigt, macht ihr Gesicht unerkennbar. Ihre Gefährten heben ihre Waffen und treten vor.
-
-{SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
+      <DefaultText>„Dann finden wir es heraus.“ Ihre Stimme ist flach und hässlich, und der Ausdruck der Verachtung, den sie dir zeigt, macht ihr Gesicht unerkennbar. Ihre Gefährten heben ihre Waffen und treten vor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -922,16 +900,12 @@
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>„Das ist süß“, sagt sie lächelnd. „Ich hoffe, du kämpfst, wie du redest.“
-
-{SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
+      <DefaultText>„Das ist süß“, sagt sie lächelnd. „Ich hoffe, du kämpfst, wie du redest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>„Ich weiß nicht, wie du überlebt hast, doch ich werde sicherstellen, dass das nicht wieder passiert!“
-
-{SCRIPT: Start a Tussle with Sarissa and her companions.}</DefaultText>
+      <DefaultText>„Ich weiß nicht, wie du überlebt hast, doch ich werde sicherstellen, dass das nicht wieder passiert!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -961,9 +935,7 @@
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>„Ich nehme an, wir haben dich nicht gebeten, einen vollständigen Bericht abzuliefern, wenn ich darüber nachdenke. Hier. Für die erbrachten Leistungen.“
-
-{LOOT: Something interesting, but not unique.}</DefaultText>
+      <DefaultText>„Ich nehme an, wir haben dich nicht gebeten, einen vollständigen Bericht abzuliefern, wenn ich darüber nachdenke. Hier. Für die erbrachten Leistungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
