@@ -8,9 +8,7 @@
       <ID>1</ID>
       <DefaultText>Du befindest dich auf der Wirbelsäule eines großen, toten Monsters, begraben in der Lava. Rippenähnliche Türme ragen überall um dich herum aus dem Boden. Ein Transporter schwebt neben einer der Turmspitzen.
 
-Zwei Orientierungspunkte sind in der Ferne sichtbar: gewaltige Obsidian-Formationen und ein rauer Gebirgspass, der über ein Feld von glühenden Lichtern führt.
-
-{ART: The Spine}</DefaultText>
+Zwei Orientierungspunkte sind in der Ferne sichtbar: gewaltige Obsidian-Formationen und ein rauer Gebirgspass, der über ein Feld von glühenden Lichtern führt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -49,9 +47,7 @@ Zwei Orientierungspunkte sind in der Ferne sichtbar: gewaltige Obsidian-Formatio
 
 Zerian trägt einen schwarzen, eng anliegenden Anzug, der ihn größtenteils vor der Hitze schützt. Er trägt eine Peitsche und verschiedene nekromantische Ornamente.
 
-Zerian war dabei, einen Auftrag für jemanden zu erfüllen, der sich „die Chimäre“ nennt. Er wurde hergeschickt, um eine Art Sphäre aufzuspüren.
-
-{SOUND: "Had a memory" stinger}</DefaultText>
+Zerian war dabei, einen Auftrag für jemanden zu erfüllen, der sich „die Chimäre“ nennt. Er wurde hergeschickt, um eine Art Sphäre aufzuspüren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -125,9 +121,7 @@ Plünderer der Sagusklippen sind in den letzten Jahrhunderten hier durchgereist,
 
 Und wiederum vor ihnen die Menschen aus Ossiphagan selbst.
 
-Du siehst einen Schimmer eines machtvollen Artefaktes. Vor Hunderten von Jahren gab es hier einen Kampf. Viele starben. Zwei Figuren – eine Frau mittleren Alters und ein jugendliches Mädchen – kämpften auf der Spitze des leuchtenden Knochenturms um eine Kupfersphäre.
-
-{SOUND: Had a memory stinger or else some other "ability use" sound}</DefaultText>
+Du siehst einen Schimmer eines machtvollen Artefaktes. Vor Hunderten von Jahren gab es hier einen Kampf. Viele starben. Zwei Figuren – eine Frau mittleren Alters und ein jugendliches Mädchen – kämpften auf der Spitze des leuchtenden Knochenturms um eine Kupfersphäre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,9 +130,7 @@ Du siehst einen Schimmer eines machtvollen Artefaktes. Vor Hunderten von Jahren 
 
 Von hier aus kannst du die Felder von Ossiphagan noch besser sehen: die Wirbelsäule unter dir, die Obsidian-Formationen auf der einen Seite und die glühenden Felder vor dem Gebirgspass auf der anderen.
 
-Direkt neben dem Turm schwebt eine Kapsel aus Azurstahl. Eine Rampe führt von der Brüstung in den Transporter.
-
-{ART: Atop the Bone Tower}</DefaultText>
+Direkt neben dem Turm schwebt eine Kapsel aus Azurstahl. Eine Rampe führt von der Brüstung in den Transporter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,16 +152,12 @@ Direkt neben dem Turm schwebt eine Kapsel aus Azurstahl. Eine Rampe führt von d
       <ID>25</ID>
       <DefaultText>Es ist hier wenig geschehen, bis auf ein Ereignis, das sofort offenkundig wird. Du siehst eine Frau mittleren Alters – du weißt, dass ihr Name Ama ist – die sich einem jungen Mädchen namens Thiya gegenüberstellt. Ama schwebt in der Luft, wie auch das Transportmittel. Sie hält eine Kupfersphäre, die in einem goldenen Licht schimmert.
 
-Wütende Worte werden ausgetauscht und plötzlich springt Thiya von dem Turm und greift Ama an. Die beiden schnellen empor in die Luft und bewegen sich auf die Obsidian-Formationen in der Ferne zu.
-
-{SOUND: "Had a memory" stinger or else some other "ability use" sound}</DefaultText>
+Wütende Worte werden ausgetauscht und plötzlich springt Thiya von dem Turm und greift Ama an. Die beiden schnellen empor in die Luft und bewegen sich auf die Obsidian-Formationen in der Ferne zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Als du dich dem Transporter näherst, spürst du ein Kribbeln deinen Rücken hinaufwandern. Du hast das tiefgreifende Gefühl, dass eine Aufgabe nicht beendet wurde und dass dich Schwierigkeiten erwarten – oder zumindest den Körper, in dem du dich befindest – wenn du jetzt gehst. Ist es das, was Aadiriis meinte, als sie gesagt hat, dass man mit Zerians Leben vorsichtig sein soll?
-
-{SOUND: "Had a memory" stinger}</DefaultText>
+      <DefaultText>Als du dich dem Transporter näherst, spürst du ein Kribbeln deinen Rücken hinaufwandern. Du hast das tiefgreifende Gefühl, dass eine Aufgabe nicht beendet wurde und dass dich Schwierigkeiten erwarten – oder zumindest den Körper, in dem du dich befindest – wenn du jetzt gehst. Ist es das, was Aadiriis meinte, als sie gesagt hat, dass man mit Zerians Leben vorsichtig sein soll?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,9 +166,7 @@ Wütende Worte werden ausgetauscht und plötzlich springt Thiya von dem Turm und
 
 Anfangs versuchst du aus den kleinen Bullaugen zu spähen, aber alles was du siehst, ist stockfinster – vermutlich die schwarzen Wolken des Vulkans. Schließlich werden sie durch das Schwarz eines Sternenhimmels ersetzt. Du versuchst das Land unter dir zu sehen, aber es ist auf diesem engsten Raum unmöglich.
 
-Stunden vergehen. Endlich verlangsamt sich der Transporter. Sein Brummen verstummt und die Türe erscheint wieder.
-
-{SOUND: Stop volcanic ambient sound. Optionally add a transport/flier sound.}</DefaultText>
+Stunden vergehen. Endlich verlangsamt sich der Transporter. Sein Brummen verstummt und die Türe erscheint wieder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -189,12 +175,7 @@ Stunden vergehen. Endlich verlangsamt sich der Transporter. Sein Brummen verstum
 
 Im Zentrum des Raumes befindet sich ein gewaltiger Käfig aus Stahlranken, die sich an der Spitze miteinander verflechten. Der Käfig glüht für einen Moment und eine Gestalt tritt hervor. Sie trägt einen dicken Umhang, aber ihr Gesicht ist zutiefst seltsam. Es verschiebt sich und verschwimmt, seine Züge stetig verändernd. Du bekommst den Eindruck, dass du eine Person siehst, kannst aber nicht im geringsten definieren, wie diese Person aussieht.
 
-Ihr Name schießt dir plötzlich in den Sinn: die Chimäre.
-
-{SOUND: End transport/flier sound.}
-{SOUND: Open flier door.}
-
-{ART: Chimaera's HQ}</DefaultText>
+Ihr Name schießt dir plötzlich in den Sinn: die Chimäre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,10 +189,7 @@ Ihr Name schießt dir plötzlich in den Sinn: die Chimäre.
 
 Die Obsidian-Formationen sind dunkel, still und verlassen. Ein heißer Wind weht fernab, bei den Magmaströmen – doch hier weht und lebt nichts.
 
-In der Ferne kannst du die Wirbelsäule und die Knochentürme sehen, und in der anderen Richtung enden die Ebenen an einer steilen Felswand, die von einem Gebirgspass durchzogen wird.
-
-{ART: The Arches}
-{SOUND: Ambient volcanic noises softer here}</DefaultText>
+In der Ferne kannst du die Wirbelsäule und die Knochentürme sehen, und in der anderen Richtung enden die Ebenen an einer steilen Felswand, die von einem Gebirgspass durchzogen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,9 +206,7 @@ In der Ferne kannst du die Wirbelsäule und die Knochentürme sehen, und in der 
       <ID>36</ID>
       <DefaultText>Die Obsidian-Formationen sind nicht natürlich entstanden. Geschöpfe aus reinem Licht, genannt Feuerwichte, formten diese Strukturen aus heißem, fließenden Magma und schockkühlten sie in die Formen, die sie jetzt haben.
 
-Die Wichte versuchten an etwas oder jemanden heranzukommen. Du siehst einige Gestalten auf einer kleinen, fliegenden Plattform. Einer von ihnen hält eine Kupfersphäre, die in einem goldenen Licht schimmert. Die Wichte hatten versucht sie hier mithilfe der Wand gefangenzuhalten, aber sie entkamen und flohen über den Gebirgspass.
-
-{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+Die Wichte versuchten an etwas oder jemanden heranzukommen. Du siehst einige Gestalten auf einer kleinen, fliegenden Plattform. Einer von ihnen hält eine Kupfersphäre, die in einem goldenen Licht schimmert. Die Wichte hatten versucht sie hier mithilfe der Wand gefangenzuhalten, aber sie entkamen und flohen über den Gebirgspass.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,10 +236,7 @@ Die Wichte versuchten an etwas oder jemanden heranzukommen. Du siehst einige Ges
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Jetzt, da du weißt, was du suchst, ist der Gemorrn leicht zu finden. Unglücklicherweise ist er auch auf der Suche nach dir. Er heult auf in unendlichem Schmerz und Frustration und bewegt sich auf dich zu.
-
-{ART: Gemorrn}
-{SOUND: Gemorrn roar}</DefaultText>
+      <DefaultText>Jetzt, da du weißt, was du suchst, ist der Gemorrn leicht zu finden. Unglücklicherweise ist er auch auf der Suche nach dir. Er heult auf in unendlichem Schmerz und Frustration und bewegt sich auf dich zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,10 +268,7 @@ Die Wichte versuchten an etwas oder jemanden heranzukommen. Du siehst einige Ges
       <ID>48</ID>
       <DefaultText>Die Peitsche knallt an der Stelle, wo der Gemorrn sich befindet. Wie zuvor hat sie keinerlei Effekt.
 
-Bevor du entscheiden kannst, was du als Nächstes tun wirst, macht der Gemorrn einen Satz und drückt dich mit überraschend kräftigen Klauen zu Boden. Feuer und Zähne bohren sich in deine Haut während ein Ansturm psychischer Qual deine Sinne ergreift.
-
-{SOUND: Whip}
-{SOUND: Enraged Gemorrn roar}</DefaultText>
+Bevor du entscheiden kannst, was du als Nächstes tun wirst, macht der Gemorrn einen Satz und drückt dich mit überraschend kräftigen Klauen zu Boden. Feuer und Zähne bohren sich in deine Haut während ein Ansturm psychischer Qual deine Sinne ergreift.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -307,20 +277,14 @@ Bevor du entscheiden kannst, was du als Nächstes tun wirst, macht der Gemorrn e
 
 Der Gemorrn heult auf vor Schmerz. Sein Zorn war vorher nicht auf dich gerichtet, jetzt ist er es allerdings. Er greift dich an.
 
-Du versuchst den Stab nochmals abzufeuern, aber nichts passiert. Der Stab ist nutzlos.
-
-{SOUND: Lightning Lance}
-{SOUND: Enraged Gemorrn roar}</DefaultText>
+Du versuchst den Stab nochmals abzufeuern, aber nichts passiert. Der Stab ist nutzlos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>Seine Geschwindigkeit und Kraft abmessend, knallst du aus sicherer Entfernung mit deiner Peitsche. Er brüllt. Du spürst das Gewicht hunderter Menschen, die deinen Kopf zermalmen, aber du hörst nicht auf. Du wirfst Steine auf ihn, beleidigst ihn in mehreren Sprachen.
 
-Nichts was du tust, fügt ihm Schmerzen zu, und er versteht vermutlich deine Worte nichts, aber dein Vorhaben umso besser. Er rast mit großer Geschwindigkeit und der Absicht zu töten auf dich zu.
-
-{SOUND: Whip}
-{SOUND: Enraged Gemorrn roar}</DefaultText>
+Nichts was du tust, fügt ihm Schmerzen zu, und er versteht vermutlich deine Worte nichts, aber dein Vorhaben umso besser. Er rast mit großer Geschwindigkeit und der Absicht zu töten auf dich zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -329,28 +293,19 @@ Nichts was du tust, fügt ihm Schmerzen zu, und er versteht vermutlich deine Wor
 
 Der Gemorrn macht einen Satz nach vorn und schlägt mit einer seiner gewaltigen Klauen nach dir. Du musst dich mit der Entfernung verschätzt haben, denn er trifft dich genau an der Brust und schleudert dich zur Seite.
 
-Du stehst auf, wankend und verletzt, aber ansonsten okay. Wenigstens ist die Kreatur jetzt wütend. Er scharrt den Boden, sich auf einen weiteren Angriff vorbereitend.
-
-{SOUND: Whip}
-{SOUND: Enraged Gemorrn roar}</DefaultText>
+Du stehst auf, wankend und verletzt, aber ansonsten okay. Wenigstens ist die Kreatur jetzt wütend. Er scharrt den Boden, sich auf einen weiteren Angriff vorbereitend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Seine Geschwindigkeit und Kraft abmessend, knallst du aus sicherer Entfernung mit deiner Peitsche. Obwohl die Peitsche ihr nichts tut, brüllt die Kreatur auf. Du spürst das Gewicht hunderter Menschen, die deinen Kopf zermalmen. Reflexartig drängst du ihn mit deinen Gedanken zurück, sprichst mit ihm, verspottest und beleidigst ihn in einer psychischen Sprache, die er klar versteht. Er rast mit großer Geschwindigkeit und der Absicht zu töten auf dich zu.
-
-{SOUND: Whip}
-{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <DefaultText>Seine Geschwindigkeit und Kraft abmessend, knallst du aus sicherer Entfernung mit deiner Peitsche. Obwohl die Peitsche ihr nichts tut, brüllt die Kreatur auf. Du spürst das Gewicht hunderter Menschen, die deinen Kopf zermalmen. Reflexartig drängst du ihn mit deinen Gedanken zurück, sprichst mit ihm, verspottest und beleidigst ihn in einer psychischen Sprache, die er klar versteht. Er rast mit großer Geschwindigkeit und der Absicht zu töten auf dich zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>Du schlägst den Gemorrn mit deiner Peitsche. Du könntest damit genauso gut auf ein Lagerfeuer eindreschen, und dennoch schreit die Kreatur auf. Du spürst das Gewicht hunderter Menschen, die deinen Kopf zermalmen.
 
-Bevor du etwas tun kannst, macht der Gemorrn einen Satz und drückt dich mit überraschend kräftigen Tatzen zu Boden. Feuer und Zähne bohren sich in deine Haut während ein Ansturm von mentaler Angst deine Sinne ergreift.
-
-{SOUND: Whip}
-{SOUND: Enraged Gemorrn roar}</DefaultText>
+Bevor du etwas tun kannst, macht der Gemorrn einen Satz und drückt dich mit überraschend kräftigen Tatzen zu Boden. Feuer und Zähne bohren sich in deine Haut während ein Ansturm von mentaler Angst deine Sinne ergreift.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,16 +346,12 @@ Du siehst nichts außerhalb der Kapsel bis auf die Dunkelheit und es gibt keine 
       <ID>60</ID>
       <DefaultText>Du rennst. Der Gemorrn kreischt, genau hinter dir. Deine Brust strafft sich und das Atmen wird schwierig, als du die Brücke erreichst, die zu der Wirbelsäule führt.
 
-Sobald du die Knochen des großen Biestes betrittst, wird der Gemorrn still und hält inne. Er beobachtet dich einige Zeit lang, dann dreht er sich um und kehrt zurück zu den Obsidian-Formationen.
-
-{SOUND: Gemorrn chasing, like a charging bull}</DefaultText>
+Sobald du die Knochen des großen Biestes betrittst, wird der Gemorrn still und hält inne. Er beobachtet dich einige Zeit lang, dann dreht er sich um und kehrt zurück zu den Obsidian-Formationen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Du rennst. Der Gemorrn brüllt hinter dir, aber er scheint nicht im Besonderen an dir interessiert zu sein. Nach einiger Zeit verliert sich sein Gebrüll in der Ferne.
-
-{SOUND: Gemorrn roar fading}</DefaultText>
+      <DefaultText>Du rennst. Der Gemorrn brüllt hinter dir, aber er scheint nicht im Besonderen an dir interessiert zu sein. Nach einiger Zeit verliert sich sein Gebrüll in der Ferne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,18 +362,12 @@ Du kannst den Zorn des Gemorrn spüren, wie eine Hand, die sich gegen deinen Rü
 
 Plötzlich lässt der Druck nach und die Luft wird eisig kalt. Du riskierst einen Blick nach hinten und dir wird klar, dass du dich mitten in den Ebenen befindest, die zu dem Gebirgspass führen, umzingelt von Feuerwichten. Der Gemorrn packt einen Wicht nach dem anderen, zerfetzt sie in zwei Teile und schleudert sie dann zur Seite. Die Wichte stürmen gemeinsam vor, um sich gegen dieses grausame Biest zu verteidigen.
 
-In ihrer Wut wirst du vergessen und ignoriert.
-
-{ART: The Wights and Gemorrn Attack Each Other}
-{SOUND: Gemorrn chasing, like a charging bull}
-{SOUND: Wights and Gemorrn fighting}</DefaultText>
+In ihrer Wut wirst du vergessen und ignoriert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Du rennst. Der Gemorrn brüllt hinter dir, aber er scheint nicht im Besonderen an dir interessiert zu sein. Nach einiger Zeit verliert sich sein Gebrüll in der Ferne.
-
-{SOUND: Gemorrn roar fading}</DefaultText>
+      <DefaultText>Du rennst. Der Gemorrn brüllt hinter dir, aber er scheint nicht im Besonderen an dir interessiert zu sein. Nach einiger Zeit verliert sich sein Gebrüll in der Ferne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,9 +376,7 @@ In ihrer Wut wirst du vergessen und ignoriert.
 
 Vor den Klippen erstreckt sich eine gewaltige Vulkanebene. Über die ganze Ebene hinweg sieht man hunderte und hunderte von Kreaturen, die von einem schwachen Glühen, das nichts mit der Magma zu tun hat, beleuchtet werden.
 
-Du weißt, dass diese Kreaturen Feuerwichte genannt werden. In diesem Moment scheinen sie dich noch zu ignorieren.
-
-{ART: The Charred Pass}</DefaultText>
+Du weißt, dass diese Kreaturen Feuerwichte genannt werden. In diesem Moment scheinen sie dich noch zu ignorieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -461,9 +404,7 @@ Du siehst zwei Gestalten, die auf einer kleinen, fliegenden Plattform fahren, ä
 
 Du kannst den Punkt sehen, an dem die Plattform abgestürzt ist und obwohl die Körper nicht mehr da sind, kannst du ihre Präsenz sehr deutlich *spüren*.
 
-Und da, in kurzer Distanz, kannst du an der Stelle, an der eine der Gestalten in die Tiefe gestürzt ist, eine Art Kupfersphäre sehen.
-
-{SOUND: "had a memory" stinger or use ability sound}</DefaultText>
+Und da, in kurzer Distanz, kannst du an der Stelle, an der eine der Gestalten in die Tiefe gestürzt ist, eine Art Kupfersphäre sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -524,9 +465,7 @@ Du kannst nicht einmal ein Hundertstel dessen verstehen, was sie zueinander sage
       <ID>83</ID>
       <DefaultText>Die Peitsche hat nicht mehr Wirkung, als sie auf die Luft selbst hat. Mehrere Wichte wenden sich dir durch das plötzliche Eindringen zu. Die Luft um dich herum schwankt so schnell zwischen heiß und kalt, dass dir schwindelig wird.
 
-Drei der Wichte drehen sich in deine Richtung und kommen langsam näher.
-
-{SOUND: Whip attack}</DefaultText>
+Drei der Wichte drehen sich in deine Richtung und kommen langsam näher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -548,24 +487,17 @@ Drei der Wichte drehen sich in deine Richtung und kommen langsam näher.
       <ID>87</ID>
       <DefaultText>Als die Peitsche den Wicht durchdringt, wird sie eisig in deiner Hand. Eis kristallisiert am anderen Ende, das mit einem lauten Schlag auf den Boden fällt.
 
-Dann stürzt sich der Wicht mit überraschender Geschwindigkeit auf dich. Drei ihrer Hände drücken sich *in* dich und ein furchtbarer Schmerz zieht von deiner Brust durch deinen ganzen Körper. Innerhalb von Sekunden bist du zu schwach um auch nur zu rennen.
-
-{SOUND: Whip}
-{SOUND: Zerian screaming}</DefaultText>
+Dann stürzt sich der Wicht mit überraschender Geschwindigkeit auf dich. Drei ihrer Hände drücken sich *in* dich und ein furchtbarer Schmerz zieht von deiner Brust durch deinen ganzen Körper. Innerhalb von Sekunden bist du zu schwach um auch nur zu rennen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Die Luft wird kälter als die Wichte näher kommen. Du flüchtest in die entgegengesetzte Richtung. Als du die Brücke überquerst, kannst du fühlen wie sich die Luft wieder auf ihre normale Temperatur erwärmt. Die Wichte scheinen sich zu langweilen und lassen dich in Ruhe.
-
-{SOUND: Zerian running}</DefaultText>
+      <DefaultText>Die Luft wird kälter als die Wichte näher kommen. Du flüchtest in die entgegengesetzte Richtung. Als du die Brücke überquerst, kannst du fühlen wie sich die Luft wieder auf ihre normale Temperatur erwärmt. Die Wichte scheinen sich zu langweilen und lassen dich in Ruhe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Die Luft wird kälter als die Wichte näher kommen. Du flüchtest in die entgegengesetzte Richtung. Als du dich den gewaltigen obsidianen Strukturen näherst, erhitzt sich die Luft wieder auf ihre vorige vulkanische Temperatur. Die Wichte sind plötzlich verschwunden und du bist alleine.
-
-{SOUND: Zerian running}</DefaultText>
+      <DefaultText>Die Luft wird kälter als die Wichte näher kommen. Du flüchtest in die entgegengesetzte Richtung. Als du dich den gewaltigen obsidianen Strukturen näherst, erhitzt sich die Luft wieder auf ihre vorige vulkanische Temperatur. Die Wichte sind plötzlich verschwunden und du bist alleine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -577,9 +509,7 @@ Dann stürzt sich der Wicht mit überraschender Geschwindigkeit auf dich. Drei i
       <ID>91</ID>
       <DefaultText>Du zielst mit dem verkohlten Ende des Stabes auf einen der Wichte und drückst den Knopf auf der Seite. Die Luft scheint zu zerreißen, als ein glühender Lichtstrahl den Wicht in die Brust trifft. Die Kreatur verschwindet in einem Lichtblitz aus Feuer und Hitze.
 
-Die Luft wird eisig kalt, durchbrochen von unregelmäßigen Wellen intensiver Hitze. Die anderen Wichte weichen langsam zurück, aber sie warten eindeutig auf eine Chance, erneut zuzuschlagen.
-
-{SOUND: Lightning Lance thunderclap}</DefaultText>
+Die Luft wird eisig kalt, durchbrochen von unregelmäßigen Wellen intensiver Hitze. Die anderen Wichte weichen langsam zurück, aber sie warten eindeutig auf eine Chance, erneut zuzuschlagen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,9 +521,7 @@ Die Luft wird eisig kalt, durchbrochen von unregelmäßigen Wellen intensiver Hi
       <ID>93</ID>
       <DefaultText>Obwohl es keine Körper auf der Oberfläche gibt, kannst du die Toten unterhalb des Felsens spüren, konserviert durch das Magma, das über die Jahrhunderte über diesen Ort geflossen ist. Einer davon ist eine Frau mittleren Alters namens Ama. Das andere ist ein Mädchen, aber sie ist eigenartig still. Selbst mit deinen seltsamen Kräften gibt es hier nichts, womit man sprechen könnte.
 
-„Frieden“, sagt Ama. „Ist es besser? Ja, besser. Besser vergessen.“
-
-{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+„Frieden“, sagt Ama. „Ist es besser? Ja, besser. Besser vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -634,19 +562,14 @@ Seltsamerweise scheinen die Wichte schnell das Interesse an dir zu verlieren, we
       <ID>101</ID>
       <DefaultText>Als du in die Erde greifst, findest du den Körper namens Ama und beschwörst sie. Mit unheimlicher Kraft kriecht sie aus dem erkalteten Fels. Obwohl ihre Haut verkohlt und verfault ist, ist auf ihrem Kopf ein Tattoo der Verstoßenen deutlich sichtbar.
 
-Du befiehlst ihr, die Sphäre zu holen, aber Amas Körper kommt nicht weit, bevor die Wichte sie angreifen. Ihre Hände greifen in sie hinein und verzehren das bisschen Lebenskraft, dass du ihr eingeflößt hast. Während sie das tun, wird die Luft zunehmend kälter.
-
-{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+Du befiehlst ihr, die Sphäre zu holen, aber Amas Körper kommt nicht weit, bevor die Wichte sie angreifen. Ihre Hände greifen in sie hinein und verzehren das bisschen Lebenskraft, dass du ihr eingeflößt hast. Während sie das tun, wird die Luft zunehmend kälter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
       <DefaultText>Jetzt da du weißt, dass die Wichte durch Temperaturschwankungen kommunizieren, könntest du es schaffen ihre Aufmerksamkeit durch dein Gefühl anstatt durch dein Sehen zu umgehen, vorausgesetzt du kannst herausfinden, was die verschiedenen Temperaturen bedeuten.
 
-Die Sphäre ist ungefähr dreihundert Meter entfernt und die Wichte bewegen sich konstant um sie herum. Es wird knifflig werden, näher heranzukommen.
-
-{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
-WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+Die Sphäre ist ungefähr dreihundert Meter entfernt und die Wichte bewegen sich konstant um sie herum. Es wird knifflig werden, näher heranzukommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -834,10 +757,7 @@ Er scheint dich vergessen zu haben. Du schaust dich in der Höhle um, aber es gi
       <ID>139</ID>
       <DefaultText>Du schlägst mit der Peitsche aus, während die Chimäre dir den Rücken zukehrt. Sie schreit auf vor Schmerz, dann greift sie dich mit einer leuchtenden Klinge in der Hand an.
 
-Die Chimäre stürzt nach vorne, um dich anzugreifen, aber du schlägst nochmal mit deiner Peitsche zu. Plötzlich wirst du von einem gleißenden Lichtstrahl geblendet. Du schützt deine Augen, dich auf einen Gegenangriff vorbereitend, aber nichts kommt. Als du wieder sehen kannst, ist die Chimäre verschwunden.
-
-{SOUND: Whip attack}
-{SOUND: Flashbang as Chimaera disappears.}</DefaultText>
+Die Chimäre stürzt nach vorne, um dich anzugreifen, aber du schlägst nochmal mit deiner Peitsche zu. Plötzlich wirst du von einem gleißenden Lichtstrahl geblendet. Du schützt deine Augen, dich auf einen Gegenangriff vorbereitend, aber nichts kommt. Als du wieder sehen kannst, ist die Chimäre verschwunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,9 +766,7 @@ Die Chimäre stürzt nach vorne, um dich anzugreifen, aber du schlägst nochmal 
 
 Die Chimäre dreht sich um und bewegt eine Hand über eine der Metallranken. Obwohl keine erkennbare Oberfläche erscheint, drückt er seinen Finger zweimal gegen das Metall und der Käfig beginnt zu glühen.
 
-Die Chimäre wendet ihre Aufmerksamkeit wieder der Sphäre zu, dir mit einem abschätzigen Winken andeutend, dass du den Käfig betreten sollst.
-
-{SOUND: Open portal sound}</DefaultText>
+Die Chimäre wendet ihre Aufmerksamkeit wieder der Sphäre zu, dir mit einem abschätzigen Winken andeutend, dass du den Käfig betreten sollst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -892,10 +810,7 @@ Die Chimäre wendet ihre Aufmerksamkeit wieder der Sphäre zu, dir mit einem abs
 
 Eines seiner Augen ist künstlich. Es projiziert abwechselnd das Abbild eines menschlichen Auges, eines Schlangenauges und eines noch fremdartigeres, während er dich mustert. Er sieht aus wie der Überlebende eines Schiffbruchs: mit nacktem Oberkörper, zerfetzten Hosen, zotteligem Bart. Falls es so ist, ist er wohlgenährter als du erwarten würdest.
 
-„Zerian?“, sagt er, wobei sein menschliches Auge im Licht aufblitzt. „Was zur Hölle willst denn *du*?“ Er tritt nach vorne, als wollte er versuchen, in die Höhle zu schauen.
-
-{ART: Talking with Mazzof}
-{SOUND: Small waves lapping on a beach. Possibly an ambient sound.}</DefaultText>
+„Zerian?“, sagt er, wobei sein menschliches Auge im Licht aufblitzt. „Was zur Hölle willst denn *du*?“ Er tritt nach vorne, als wollte er versuchen, in die Höhle zu schauen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1127,10 +1042,7 @@ Dann verschwinden Mazzof, die Höhle und alles andere.</DefaultText>
 
 Während sich deine Augen an die Lichtverhältnisse anpassen, wird dir klar, dass du dich draußen befindest, aber der Himmel ist verdunkelt von pechschwarzen Wolken. Das rötliche Leuchten kommt von Lavaströmen, die von entfernten Bergen bis zu den Feldern um dich herum fließen.
 
-Scharfe Türme durchspießen den Himmel, zugespitzt wie die Knochen eines Brustkorbes. Tatsächlich, sie sehen in jeder Hinsicht aus wie Knochen, ebenso wie der Boden unter dir. Du scheinst auf der Wirbelsäule eines gewaltigen Ungeheuers zu stehen – der Unterteil seines Kiefers kann man weit in der Ferne sehen, halb begraben unter einer Schicht von erkalteter Lava.
-
-{ART: The Spine}
-{SOUND: Volcanic rumblings (should this be a constant ambient sound?)}</DefaultText>
+Scharfe Türme durchspießen den Himmel, zugespitzt wie die Knochen eines Brustkorbes. Tatsächlich, sie sehen in jeder Hinsicht aus wie Knochen, ebenso wie der Boden unter dir. Du scheinst auf der Wirbelsäule eines gewaltigen Ungeheuers zu stehen – der Unterteil seines Kiefers kann man weit in der Ferne sehen, halb begraben unter einer Schicht von erkalteter Lava.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1158,10 +1070,7 @@ Mit großer Wahrscheinlichkeit wurde er als Waffe benutzt. Es könnte wieder fun
       <ID>200</ID>
       <DefaultText>Du zielst mit dem verkohlten Ende des Stabes auf den Rücken der Chimäre und drückst den Knopf auf der Seite. Ein Donnerschlag dröhnt in der Höhle und ein gleißender Lichtstrahl trifft die Chimäre zwischen ihren Schultern. Sie schreit und fällt auf den Tisch.
 
-Plötzlich wirst du von einem gleißenden Lichtstrahl geblendet. Du schützt deine Augen, dich auf einen Gegenangriff vorbereitend, aber nichts kommt. Als du wieder sehen kannst, ist die Chimäre verschwunden.
-
-{SOUND: Lightning Lance thunderclap}
-{SOUND: Flashbang as Chimaera disappears.}</DefaultText>
+Plötzlich wirst du von einem gleißenden Lichtstrahl geblendet. Du schützt deine Augen, dich auf einen Gegenangriff vorbereitend, aber nichts kommt. Als du wieder sehen kannst, ist die Chimäre verschwunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1170,9 +1079,7 @@ Plötzlich wirst du von einem gleißenden Lichtstrahl geblendet. Du schützt dei
 
 Bei jedem Kreis, den du anschaust, erscheint ein anderes Bild einer Person oder eines Ortes in deinem Kopf. Du schaust nochmal jeden einzelnen Kreis an, wieder und wieder, bis sich eine Erinnerung rührt und du weißt, welcher Mazzof ist.
 
-Als du den Kreis drückst, wird der Käfig aktiviert und du trittst hinein.
-
-{SOUND: Open portal sound}</DefaultText>
+Als du den Kreis drückst, wird der Käfig aktiviert und du trittst hinein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1199,9 +1106,7 @@ Als du den Kreis drückst, wird der Käfig aktiviert und du trittst hinein.
       <ID>206</ID>
       <DefaultText>Als du in die Erde greifst, findest du den Körper namens Ama und beschwörst sie. Mit unheimlicher Kraft kriecht sie aus dem erkalteten Fels. Obwohl ihre Haut verkohlt und verfault ist, ist auf ihrem Kopf ein Tattoo der Verstoßenen deutlich sichtbar.
 
-Du befiehlst ihr, die Sphäre zu holen. Die Wichte sind mit dem Gemorrn beschäftigt und so erreicht Amas Körper mit Leichtigkeit die Sphäre und bringt sie zu dir. Dann bricht die Leiche zusammen.
-
-{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+Du befiehlst ihr, die Sphäre zu holen. Die Wichte sind mit dem Gemorrn beschäftigt und so erreicht Amas Körper mit Leichtigkeit die Sphäre und bringt sie zu dir. Dann bricht die Leiche zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1213,9 +1118,7 @@ Als du weitersuchst, findest du eine Kupfersphäre auf dem Boden.</DefaultText>
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>Du bist auf den Vulkanebenen vor dem Gebirgspass. Der Gemorrn und die Feuerwichte kämpfen nach wie vor eine furchtbare Schlacht. Die Wichte haben nun den Gemorrn umzingelt. Sie scheinen ihn zerstören zu wollen. Aber die Kreatur ist sehr stark und in die Enge getrieben. Das könnte ein langer Kampf werden.
-
-{SOUND: Gemorrn and wights fighting}</DefaultText>
+      <DefaultText>Du bist auf den Vulkanebenen vor dem Gebirgspass. Der Gemorrn und die Feuerwichte kämpfen nach wie vor eine furchtbare Schlacht. Die Wichte haben nun den Gemorrn umzingelt. Sie scheinen ihn zerstören zu wollen. Aber die Kreatur ist sehr stark und in die Enge getrieben. Das könnte ein langer Kampf werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1289,9 +1192,7 @@ Sie sind offensichtlich daran interessiert, die Kugel aus irgendeinem Grund zu b
       <ID>222</ID>
       <DefaultText>Sie schrecken zurück als du den Stab erneut erhebst. Du drückst den Knopf auf der Seite… nichts passiert.
 
-Zum Glück scheinen die Wichte nicht bemerkt zu haben, dass deine Waffe nur einen Schuss hatte – zumindest noch nicht.
-
-{SOUND: Ineffective weapon click}</DefaultText>
+Zum Glück scheinen die Wichte nicht bemerkt zu haben, dass deine Waffe nur einen Schuss hatte – zumindest noch nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1349,9 +1250,7 @@ Du spürst, wie Amas Präsenz auf die entfernten Obsidian-Formationen blickt. Do
       <ID>232</ID>
       <DefaultText>Die Luft wird kälter als die Wichte näher kommen. Du flüchtest in die entgegengesetzte Richtung. Sie bleiben dir auf den Fersen, selbst als du die Brücke überquerst und die Wirbelsäule erreichst.
 
-Also ziehst du dich in den leuchtenden Turm zurück, der zurück zum Transporter führt. Sobald du den Turm betrittst, fällt dir auf, wie die Temperatur der Umgebung wieder ansteigt. Die Wichte werden den Turm nicht betreten. Nach einer Weile geben sie auf und kehren dahin zurück, wo sie hergekommen sind.
-
-{SOUND: Zerian running}</DefaultText>
+Also ziehst du dich in den leuchtenden Turm zurück, der zurück zum Transporter führt. Sobald du den Turm betrittst, fällt dir auf, wie die Temperatur der Umgebung wieder ansteigt. Die Wichte werden den Turm nicht betreten. Nach einer Weile geben sie auf und kehren dahin zurück, wo sie hergekommen sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1360,9 +1259,7 @@ Also ziehst du dich in den leuchtenden Turm zurück, der zurück zum Transporter
 
 Der Körper vor dir gehört einer Frau mittleren Alters namens Ama. Die Tote unter der Erde ist ein Mädchen, aber sie ist eigenartig still. Selbst mit deinen seltsamen Kräften gibt es hier nichts, womit man sprechen könnte.
 
-„Frieden“, sagt Ama. „Ist es besser? Ja, besser. Besser vergessen.“
-
-{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+„Frieden“, sagt Ama. „Ist es besser? Ja, besser. Besser vergessen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1391,10 +1288,7 @@ Auch wenn Amas Leiche sich nicht bewegt, spürst du, wie ihre Präsenz dich durc
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>Einige seiner Gesichter wenden sich dir zu. Sie öffnen gleichzeitig ihre Münder, und ihr Schreien gleicht dem von hunderten von Menschen, die von wilden Hunden zerrissen werden. Der gebündelte Zorn dieses Schreiens trifft dich wie ein fegender Wind.
-
-{ART: Gemorrn}
-{SOUND: Gemorrn roar}</DefaultText>
+      <DefaultText>Einige seiner Gesichter wenden sich dir zu. Sie öffnen gleichzeitig ihre Münder, und ihr Schreien gleicht dem von hunderten von Menschen, die von wilden Hunden zerrissen werden. Der gebündelte Zorn dieses Schreiens trifft dich wie ein fegender Wind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1455,9 +1349,7 @@ TimerVariableLimit = [Global: MB1_TimerVariable_TooLong]</DefaultText>
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>Du schlägst den Gemorrn mit deiner Peitsche. Du könntest damit genauso gut auf ein Lagerfeuer eindreschen.
-
-{SOUND: Whip}</DefaultText>
+      <DefaultText>Du schlägst den Gemorrn mit deiner Peitsche. Du könntest damit genauso gut auf ein Lagerfeuer eindreschen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

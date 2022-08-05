@@ -31,12 +31,8 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Du rutschst geschickt durch den Schacht und stößt dich dabei akrobatisch von den Ecken ab. Du erreichst das andere Ende schneller, als es auf zwei Beinen möglich gewesen wäre.]
-
-{SCRIPT: No action consumed}</DefaultText>
-      <FemaleText>[Du rutschst geschickt durch den Schacht und stößt dich dabei akrobatisch von den Ecken ab. Du erreichst das andere Ende schneller, als es auf zwei Beinen möglich gewesen wäre.]
-
-{SCRIPT: No action consumed}</FemaleText>
+      <DefaultText>[Du rutschst geschickt durch den Schacht und stößt dich dabei akrobatisch von den Ecken ab. Du erreichst das andere Ende schneller, als es auf zwei Beinen möglich gewesen wäre.]</DefaultText>
+      <FemaleText>[Du rutschst geschickt durch den Schacht und stößt dich dabei akrobatisch von den Ecken ab. Du erreichst das andere Ende schneller, als es auf zwei Beinen möglich gewesen wäre.]</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>

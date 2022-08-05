@@ -8,19 +8,14 @@
       <ID>1</ID>
       <DefaultText>Das Erste, was dir auffällt, ist die drückende Hitze. Es fühlt sich an, als würde die trockene Luft dir regelrecht die Lebensenergie aussaugen. Du stehst in der Mitte einer belebten Straße. Eine riesige blaue Kuppel ragt in der Ferne über dicht aneinander Gebäude aus Ton und Synthstahl und glänzt im Sonnenlicht.
 
-Dunkle Männer und Frauen in bunten Roben drängen sich an dir vorbei und wirbeln Staub mit ihren Schritten auf. Auch wenn der Staub golden und silbern glänzt, kratzt er dennoch im Hals. Zu deinen Füßen sitzt eine Bettlerin in Roben, die deutlich schmutziger sind als jene der Menge um dich herum.
-
-{SOUND: [A] Crowd walla. [B] Include beggars calling out for shins. These should be ambient and continue until otherwise stated.}
-{SOUND: [A] On top of the crowd walla is a woman singing in perfect pitch - almost unnaturally perfect, like the Fifth Element Diva Song. Ambient for this node only.}</DefaultText>
+Dunkle Männer und Frauen in bunten Roben drängen sich an dir vorbei und wirbeln Staub mit ihren Schritten auf. Auch wenn der Staub golden und silbern glänzt, kratzt er dennoch im Hals. Zu deinen Füßen sitzt eine Bettlerin in Roben, die deutlich schmutziger sind als jene der Menge um dich herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Die Bettlerin ist eine ausgemergelte Frau mit rotbrauner Haut, die aussieht, als hätte sie einen permanenten Sonnenbrand. Ihr Haar ist so ausgebleicht, dass es beinahe weiß erscheint, und ihre Augen sind grün mit leichten Blautönen. Ihr Halsband aus glattem, polierten Metall glitzert in der Sonne. {The spoken text is said like a chant, almost sing-song}„Eine Gabe für mein Wissen“, singt sie rhythmisch in einer angenehmen Stimme, während sie sanft vor und zurück schaukelt. „Eine Gabe aus Mitgefühl. Eine Gabe für mein Lied.“​
+      <DefaultText>Die Bettlerin ist eine ausgemergelte Frau mit rotbrauner Haut, die aussieht, als hätte sie einen permanenten Sonnenbrand. Ihr Haar ist so ausgebleicht, dass es beinahe weiß erscheint, und ihre Augen sind grün mit leichten Blautönen. Ihr Halsband aus glattem, polierten Metall glitzert in der Sonne. „Eine Gabe für mein Wissen“, singt sie rhythmisch in einer angenehmen Stimme, während sie sanft vor und zurück schaukelt. „Eine Gabe aus Mitgefühl. Eine Gabe für mein Lied.“​
 
-Sie bemerkt, wie du sie anstarrst. „Dich kenne ich“, sagt sie. Ihre normale Stimme ist beinahe so melodiös wie ihre Singstimme. Sie deutet auf die Seite deines Kopfes. „Ich kenne diese Tätowierung und diese Uniform. Du bist eines der hohen Tiere aus der Endlosen Schlacht, nicht wahr? Ein Verstoßener? Was hast *du* in der Oase zu suchen?“
-
-{SOUND: Stop woman singing.}</DefaultText>
+Sie bemerkt, wie du sie anstarrst. „Dich kenne ich“, sagt sie. Ihre normale Stimme ist beinahe so melodiös wie ihre Singstimme. Sie deutet auf die Seite deines Kopfes. „Ich kenne diese Tätowierung und diese Uniform. Du bist eines der hohen Tiere aus der Endlosen Schlacht, nicht wahr? Ein Verstoßener? Was hast *du* in der Oase zu suchen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -95,16 +90,12 @@ Sie deutet dir, näherzukommen und flüstert dir ins Ohr: „Ich habe einen Job 
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Ihr Lachen klingt wie ein Arpeggio auf einer perfekt gestimmten Harfe. „Das ist keine besonders überzeugende Lüge, mein Hübscher.“ Sie winkt mit der Hand. „Entschuldige. Deine Vergangenheit geht mich nichts an.“
-
-{SOUND: [B] Neme's laughter in unnatural discrete tones (again, like the Fifth Element Diva).}</DefaultText>
+      <DefaultText>Ihr Lachen klingt wie ein Arpeggio auf einer perfekt gestimmten Harfe. „Das ist keine besonders überzeugende Lüge, mein Hübscher.“ Sie winkt mit der Hand. „Entschuldige. Deine Vergangenheit geht mich nichts an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Ihr Lachen klingt wie ein Arpeggio auf einer perfekt gestimmten Harfe.„Natürlich nicht. Und ich vermute, du bist bestimmt unschuldig, egal, was man dir vorwirft.“ Sie winkt mit der Hand. „Entschuldige. Die Details deiner Vergangenheit gehen mich nichts an.“
-
-{SOUND: [B] Neme's laughter in unnatural discrete tones (again, like the Fifth Element Diva).}</DefaultText>
+      <DefaultText>Ihr Lachen klingt wie ein Arpeggio auf einer perfekt gestimmten Harfe.„Natürlich nicht. Und ich vermute, du bist bestimmt unschuldig, egal, was man dir vorwirft.“ Sie winkt mit der Hand. „Entschuldige. Die Details deiner Vergangenheit gehen mich nichts an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,9 +237,7 @@ Sie lächelt. „Du wirst es nicht bereuen. Besorge dir, was du brauchst. Wir tr
 
 Im Wasser schimmert ein Energienetz mit einer einzigen Öffnung, an der mehrere mit gezackten leuchtenden Speeren bewaffnete Ghibra alle Luftatmer, die die Oase betreten wollen, genau kontrollieren. Nur jene mit Armbändern und Fremdenführern dürfen passieren. Der Rest wird wieder weggeschickt.
 
-Plötzlich bindet dir Neme ein Lufthaut-Armband um das Handgelenk. Du spürst ein leichtes Kribbeln, sonst nichts. Sie deutet auf eine Gruppe Jerboaner neben einer lächelnden Ghibra. „Bereit? Gehen wir.“
-
-{SOUND: [B] Increase the ambient crowd noise, but cut the beggars from it (if they were implemented).}</DefaultText>
+Plötzlich bindet dir Neme ein Lufthaut-Armband um das Handgelenk. Du spürst ein leichtes Kribbeln, sonst nichts. Sie deutet auf eine Gruppe Jerboaner neben einer lächelnden Ghibra. „Bereit? Gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -259,10 +248,7 @@ In der Oase führt die Fremdenführerin euch durch die gesamte weitläufige Stad
 
 Endlich kommt ihr zur Menagerie. Sie ist genauso überfüllt wie Neme gesagt hat, und vollgestopft mit Lebewesen und Kurios, als könnte sie sich nicht entscheiden, ob sie ein Museum oder ein Zoo sein will. Die Menagerie überwältigt beinahe die Sinne und du weißt nicht, wo du zuerst hinschauen sollst.
 
-„Denk dran“, sagt Neme, während sie deinen Arm hält, „warum wir hier sind.“
-
-{SOUND: [B] The crowd noise should still be ambient here (but without the beggars, if they were implemented). If possible, some effect should be played over it to show that it's underwater (not necessarily muffled, but some feeling that the sound is getting refracted through the water somehow).}
-{SOUND: [B] Add other ambient underwater noises.}</DefaultText>
+„Denk dran“, sagt Neme, während sie deinen Arm hält, „warum wir hier sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -468,9 +454,7 @@ Er nickt. „Das ist nicht die Antwort, die du gesucht hast, aber es ist jene, d
 
 Zwischen dir und ihnen muss eine Art unsichtbare Barriere sein, denn die Lorub bleiben den Besuchern fern. Etwa zwei Meter über deinem Kopf ist eine Luftblase. Einige Touristen schwimmen dort und werfen Futter hinein, das die Lorub gierig verschlingen.
 
-Das Habitat er Lorub erinnert an felsige Untiefen mit zahlreichen Löchern und Höhlen, in denen sie sich verstecken können.
-
-{SOUND: [A] The lorubs are singing an odd, dissonant tune, something like whalesong, but dissonant and alien. This is an ambient sound for this node.}</DefaultText>
+Das Habitat er Lorub erinnert an felsige Untiefen mit zahlreichen Löchern und Höhlen, in denen sie sich verstecken können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -514,10 +498,7 @@ Das Habitat er Lorub erinnert an felsige Untiefen mit zahlreichen Löchern und H
 
 Die Lorub reagieren sofort auf euch. Mehrere von ihnen schwimmen mit gefletschten Zähnen auf euch zu. Neme beginnt sofort, ihr seltsames Brummen nachzuahmen. Die Tiere kommen näher, um euch genauer anzusehen, streichen mit ihren Flossen über euch und schwimmen wieder davon.
 
-Ihr bleibt in den Schatten und versteckt euch schließlich tief im Inneren eines hohlen Felsen. Nach ein oder zwei Stunden ist Iarmid plötzlich neben euch, ohne dass du ihn je kommen gesehen hättest.
-
-{SOUND: [A] Lorub song continues for this node.}
-{SOUND: [B] Neme sings along with the Lorubs as ambient sound for this node.}</DefaultText>
+Ihr bleibt in den Schatten und versteckt euch schließlich tief im Inneren eines hohlen Felsen. Nach ein oder zwei Stunden ist Iarmid plötzlich neben euch, ohne dass du ihn je kommen gesehen hättest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -544,9 +525,7 @@ An deinem Unterarm trägst du eine Schiene, die eine Strahlenlanze verschießt, 
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Dieses Schloss ist komplexer als alles, was Menschen je gebaut haben, doch nach einigen Minuten Anstrengung hörst du endlich das befriedigende Klicken im Inneren der Tür. Der Riegel geht auf und du stößt die Tür auf. Neme und du tauchen in die überraschend warme Luft in der Zelle ein und du schließt die Luke hinter euch wieder.
-
-{SOUND: [A] Metallic bang, as of a metal hatch being forced open.}</DefaultText>
+      <DefaultText>Dieses Schloss ist komplexer als alles, was Menschen je gebaut haben, doch nach einigen Minuten Anstrengung hörst du endlich das befriedigende Klicken im Inneren der Tür. Der Riegel geht auf und du stößt die Tür auf. Neme und du tauchen in die überraschend warme Luft in der Zelle ein und du schließt die Luke hinter euch wieder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -572,9 +551,7 @@ Die Zelle ist mit Luft gefüllt, leer und dunkel. Sie wäre das perfekte Verstec
 
 Sie schwimmt in einen der hinteren Gänge. Du kannst sie nicht mehr sehen, aber kurz darauf erfüllt langsamer, engelsgleicher Gesang die Menagerie. Die Touristen spitzen die Ohren und bald sind alle entweder in die Richtung davongeschwommen, aus der die Klänge kamen, oder haben sich zumindest dorthin umgedreht. Du nutzt die Gelegenheit, um hochzuschwimmen und dich in der Spalte zu verstecken.
 
-Neme beendet ihr Lied und bedankt sich bei ihrem Publikum. Sie schlendert noch zwei oder drei Stunden durch die Menagerie, bevor sich die Gelegenheit ergibt, dass sie unbemerkt zu dir raufschwimmen kann. 
-
-{SOUND: [A] Neme singing her song (the same song she sings in the opening of the Mere.)}</DefaultText>
+Neme beendet ihr Lied und bedankt sich bei ihrem Publikum. Sie schlendert noch zwei oder drei Stunden durch die Menagerie, bevor sich die Gelegenheit ergibt, dass sie unbemerkt zu dir raufschwimmen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -672,10 +649,7 @@ Als du es ansiehst, steigt starke Abscheu in dir hoch. Dabei handelt es sich nic
       <ID>122</ID>
       <DefaultText>Auch wenn du selbst nie gelernt hast, wie man einen Automaton im Kampf besiegt, weiß dieser Körper genau, was er tut. Du gehst näher an den Dämon ran und täuscht einen Schlag gegen seinen Kopf an. Als er blockt, um diese kritische Stelle zu schützen, rammst du ihm stattdessen deine Klinge in die Seite und durchtrennst systemkritische Kabel und Aktoren.
 
-Der Dämon macht ein gurgelndes Geräusch – möglicherweise verflucht er dich. Sein Körper zuckt und zittert unkontrolliert. Er ist nicht tot, aber er wird kaum mehr zurückschlagen können.
-
-{SOUND: [A] Blade slicing.}
-{SOUND: [A] Metal demon making wounded grunt.}</DefaultText>
+Der Dämon macht ein gurgelndes Geräusch – möglicherweise verflucht er dich. Sein Körper zuckt und zittert unkontrolliert. Er ist nicht tot, aber er wird kaum mehr zurückschlagen können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -694,10 +668,7 @@ Der Dämon macht ein gurgelndes Geräusch – möglicherweise verflucht er dich.
 
 Er trifft den Dämon mitten im Gesicht. Sein Kopf wird zurückgeworfen. Als er den Kopf wieder aufrichtet, ist sein Gesicht verschmort und das Licht in seinen Augen geht aus.
 
-„Denkst du etwa, ich muss dich *sehen*, um dich zu töten? Komm her!“
-
-{SOUND: [A] Beam weapon firing.}
-{SOUND: [A] Metal demon making wounded grunt.}</DefaultText>
+„Denkst du etwa, ich muss dich *sehen*, um dich zu töten? Komm her!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -717,26 +688,17 @@ Er trifft den Dämon mitten im Gesicht. Sein Kopf wird zurückgeworfen. Als er d
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Du zielst und schießt dem Dämon in die Schulter. Er taumelt zurück. Funken und Teile fliegen in alle Richtungen und treiben dann im Wasser um das Konstrukt. Du hast ihn verwundet – aber nicht genug, um ihn aufzuhalten.
-
-{SOUND: [A] Beam weapon firing.}
-{SOUND: [A] Metal construct getting hit, making wounded grunt.}</DefaultText>
+      <DefaultText>Du zielst und schießt dem Dämon in die Schulter. Er taumelt zurück. Funken und Teile fliegen in alle Richtungen und treiben dann im Wasser um das Konstrukt. Du hast ihn verwundet – aber nicht genug, um ihn aufzuhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Du schießt ihm in die Hüfte. Er kippt vornüber und noch mehr glänzende Metallteile treiben im dunklen Wasser davon. Als er sich wieder aufrichtet, siehst du ein klaffendes Loch in seiner Rüstung. Wenn du Glück hast, kannst du ihn mit einem weiteren Schuss erledigen.
-
-{SOUND: [A] Beam weapon firing.}
-{SOUND: [A] Metal construct getting hit, making wounded grunt.}</DefaultText>
+      <DefaultText>Du schießt ihm in die Hüfte. Er kippt vornüber und noch mehr glänzende Metallteile treiben im dunklen Wasser davon. Als er sich wieder aufrichtet, siehst du ein klaffendes Loch in seiner Rüstung. Wenn du Glück hast, kannst du ihn mit einem weiteren Schuss erledigen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Du zielst sorgfältig und gibst einen weiteren Schuss ab, diesmal in den Bauch des Konstrukts. Der Strahl explodiert in einer Welle aus Licht und Hitze und schneidet in den Körper des Dämons – und dann durch ihn hindurch. Der Dämon wird durch das Wasser nach hinten geworfen und kracht in die Wand hinter ihm. Das Licht in seinen Augen erlischt und er verstummt.
-
-{SOUND: [A] Beam weapon firing.}
-{SOUND: [A] Metal construct getting hit, making dying shriek.}</DefaultText>
+      <DefaultText>Du zielst sorgfältig und gibst einen weiteren Schuss ab, diesmal in den Bauch des Konstrukts. Der Strahl explodiert in einer Welle aus Licht und Hitze und schneidet in den Körper des Dämons – und dann durch ihn hindurch. Der Dämon wird durch das Wasser nach hinten geworfen und kracht in die Wand hinter ihm. Das Licht in seinen Augen erlischt und er verstummt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,39 +708,26 @@ Er trifft den Dämon mitten im Gesicht. Sein Kopf wird zurückgeworfen. Als er d
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Bevor du reagieren kannst, feuert der Dämon einen Energiestrahl ab und das Wasser um dich herum brennt plötzlich wie Feuer. Du schreist vor Schmerzen und dir wird schwarz vor Augen. Als sich der Schleier vor deinen Augen lichtet, siehst du Neme immer noch neben dir. Sie atmet heftig durch ihr Lufthaut-Armband. Noch so einen Treffer überlebt sie wohl kaum. Selbst du würdest das nur mehr kurze Zeit überleben.
-
-{SOUND: [A] Beam weapon firing.}
-{SOUND: [A] Man screaming.}
-{SOUND: [A] Woman screaming.}</DefaultText>
+      <DefaultText>Bevor du reagieren kannst, feuert der Dämon einen Energiestrahl ab und das Wasser um dich herum brennt plötzlich wie Feuer. Du schreist vor Schmerzen und dir wird schwarz vor Augen. Als sich der Schleier vor deinen Augen lichtet, siehst du Neme immer noch neben dir. Sie atmet heftig durch ihr Lufthaut-Armband. Noch so einen Treffer überlebt sie wohl kaum. Selbst du würdest das nur mehr kurze Zeit überleben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
       <DefaultText>Der Dämon schießt durch das Wasser auf euch zu. Seine Klingen glänzen bedrohlich. Ihr versucht, ihm auszuweichen, aber er ist zu schnell. Sein Klingenwirbel zerschneidet deinen Rücken und schlitzt Nemes Kehle durch ihr Metallhalsband hindurch auf. Zwei rote Blutwolken steigen neben euren Körpern im Wasser hoch.
 
-Neme ist tot und dein Leben hängt am seidenen Faden.
-
-{SOUND: [A] Blade slicing.}
-{SOUND: [A] Man screaming.}
-{SOUND: [A] Woman screaming.}</DefaultText>
+Neme ist tot und dein Leben hängt am seidenen Faden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
       <DefaultText>Der Dämon feuert einen weiteren Schuss ab. Du stößt dich von einer Wand los, deren Stein sich bei dem Treffer in Schlacke verwandelt. Plötzlich ist der Dämon direkt vor dir. Du versuchst, seinem Klingenwirbel auszuweichen, aber du bist zu schwach dafür. Als die Klinge durch deinen Schädel schneidet, wird dir klar, dass der Dämon erwartet hat, dass du seinem ersten Schuss ausweichen würdest.
 
-Die Menagerie wird schwarz. Der Schmerz hält an, viel zu lange. Schließlich kommt ein neuer Schmerz hinzu – ein Ziehen in deinen Gedärmen, das dich unsanft in deinen eigenen Körper zurückholt.
-
-{SOUND: [A] Beam weapon firing.}
-{SOUND: [A] Man screaming.}</DefaultText>
+Die Menagerie wird schwarz. Der Schmerz hält an, viel zu lange. Schließlich kommt ein neuer Schmerz hinzu – ein Ziehen in deinen Gedärmen, das dich unsanft in deinen eigenen Körper zurückholt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Nachdem der Dämon zerstört ist, ist der Weg zum Ausgang frei. Du schwimmst hinaus in die kühle, feuchte Nacht.
-
-{SOUND: Any ambient underwater noises that sounded like they were inside should stop here. The player is going outside. (The noises might become much quieter instead of outright stopping).}</DefaultText>
+      <DefaultText>Nachdem der Dämon zerstört ist, ist der Weg zum Ausgang frei. Du schwimmst hinaus in die kühle, feuchte Nacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -809,18 +758,14 @@ Du überlegst kurz, ihnen zu folgen, doch da spürst du bereits ein schmerzhafte
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Du schlägst brüllend deine Klinge gegen die Steinmauer. Der Dämon schluckt den Köder und schwimmt in die Richtung, aus der der Lärm kommt, aber als er dort ankommt, bist du bereits an ihm vorbei und hinaus in die Nacht entkommen. Der Dämon hat das entweder nicht bemerkt oder beschlossen, dir nicht zu folgen. In jedem Fall bist du frei.
-
-{SOUND: [B] Shout. Blade striking stone.}</DefaultText>
+      <DefaultText>Du schlägst brüllend deine Klinge gegen die Steinmauer. Der Dämon schluckt den Köder und schwimmt in die Richtung, aus der der Lärm kommt, aber als er dort ankommt, bist du bereits an ihm vorbei und hinaus in die Nacht entkommen. Der Dämon hat das entweder nicht bemerkt oder beschlossen, dir nicht zu folgen. In jedem Fall bist du frei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
       <DefaultText>Du zielst auf eine Seite des Dämons. Es klappt! Der Dämon weicht dem Schuss aus und öffnet damit eine Lücke zwischen dir und dem Ausgang.
 
-Du schwimmst sofort los. Der Dämon versucht, dir den Weg abzuschneiden, aber sein Körper reagiert nicht mehr so schnell wie zuvor. Du schwimmst an ihm vorbei in die Nacht hinaus. Er flucht, doch er verfolgt dich nicht. Vielleicht kann er es nicht.
-
-{SOUND: [A] Beam weapon firing.}</DefaultText>
+Du schwimmst sofort los. Der Dämon versucht, dir den Weg abzuschneiden, aber sein Körper reagiert nicht mehr so schnell wie zuvor. Du schwimmst an ihm vorbei in die Nacht hinaus. Er flucht, doch er verfolgt dich nicht. Vielleicht kann er es nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -879,26 +824,19 @@ Du überlegst kurz, ihnen zu folgen, doch da spürst du bereits ein schmerzhafte
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Der Dämon schießt, mit ausgestreckten Klingen auf dich zu, doch ohne seine optischen Sensoren kannst du ihm leicht ausweichen.
-
-{SOUND: [A] Blade slicing.}</DefaultText>
+      <DefaultText>Der Dämon schießt, mit ausgestreckten Klingen auf dich zu, doch ohne seine optischen Sensoren kannst du ihm leicht ausweichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Der Dämon zielt und feuert seine Waffe ab, doch in letzter Sekunde zittert sein Arm und der Schuss verfehlt sein Ziel.
-
-{SOUND: [A] Beam weapon firing.}</DefaultText>
+      <DefaultText>Der Dämon zielt und feuert seine Waffe ab, doch in letzter Sekunde zittert sein Arm und der Schuss verfehlt sein Ziel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
       <DefaultText>Du zielst mit deiner Lanze zur Linken des Dämons. Es klappt! Der Dämon weicht dem Schuss aus und öffnet so eine Lücke zwischen dir und dem Ausgang.
 
-Du schwimmst sofort los, doch bevor du weit kommst, taucht der Dämon wieder vor dir auf und lacht metallisch.
-
-{SOUND: [A] Beam weapon firing.}
-{SOUND: [B] Metal demon laughing cruelly.}</DefaultText>
+Du schwimmst sofort los, doch bevor du weit kommst, taucht der Dämon wieder vor dir auf und lacht metallisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1022,17 +960,12 @@ Er hält sich die Hand ans Gesicht und macht eine seltsame Geste mit seinen Fing
       <ID>178</ID>
       <DefaultText>Du zielst mit der Lanze auf seinen Kopf und schießt. Der Strahl streift das Gesicht des Dämons und richtet einigen Schaden an, blendet ihn jedoch nicht.
 
-Er dreht den Kopf wieder zu dir und grinst grausam. „Ich wurde für das hier *gemacht*. Konstruiert, um dich zu töten. Du hast keine Chance, das zu überleben.“
-
-{SOUND: [A] Beam weapon firing.}</DefaultText>
+Er dreht den Kopf wieder zu dir und grinst grausam. „Ich wurde für das hier *gemacht*. Konstruiert, um dich zu töten. Du hast keine Chance, das zu überleben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>Du zielst und schießt erneut. Diesmal triffst du ihn mitten in der Brust, richtest gegen die starke Panzerung aber keinen wirklichen Schaden an.
-
-{SOUND: [A] Beam weapon firing.}
-{SOUND: [A] Metal demon making wounded grunt.}</DefaultText>
+      <DefaultText>Du zielst und schießt erneut. Diesmal triffst du ihn mitten in der Brust, richtest gegen die starke Panzerung aber keinen wirklichen Schaden an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1044,17 +977,12 @@ Er dreht den Kopf wieder zu dir und grinst grausam. „Ich wurde für das hier *
       <ID>181</ID>
       <DefaultText>Du schwimmst näher ran und durchtrennst kritische Systemkomponenten an der Seite des Dämons. Gerade als du denkst, du hast es geschafft, lenkt einer seiner klingenbewehrten Arme deinen Schlag jedoch ab. Er ist beschädigt, aber nicht besiegt.
 
-„Ich habe den Tabaht zu ihren Glanzzeiten gedient. Ich habe Völker gejagt, von denen ihr noch nie gehört hat. Denkst du wirklich, ich würde mich so einfach von jemandem wie *dir* besiegen lassen?“
-
-{SOUND: [A] Blade slicing.}</DefaultText>
+„Ich habe den Tabaht zu ihren Glanzzeiten gedient. Ich habe Völker gejagt, von denen ihr noch nie gehört hat. Denkst du wirklich, ich würde mich so einfach von jemandem wie *dir* besiegen lassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>Er schlägt deine Klinge weg und aus seinem metallischen Inneren kommt ein kaltes, kehliges Lachen.
-
-{SOUND: [A] Blade slicing.}
-{SOUND: [B] Metal demon laughing cruelly.}</DefaultText>
+      <DefaultText>Er schlägt deine Klinge weg und aus seinem metallischen Inneren kommt ein kaltes, kehliges Lachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1063,11 +991,7 @@ Er dreht den Kopf wieder zu dir und grinst grausam. „Ich wurde für das hier *
 
 Als sich der Schleier vor deinen Augen verzieht, siehst du Neme immer noch neben dir. Sie atmet heftig durch ihr Luthaut-Armband. Noch so einen Treffer überlebt sie wohl nicht. Selbst du würdest das nur mehr kurze Zeit überleben.
 
-An deinem Unterarm hast du eine Schiene, die eine Strahlenlanze verschießt, aber nun kommen dir Zweifel, ob das ausreichen wird.
-
-{SOUND: [A] Beam weapon firing.}
-{SOUND: [A] Man screaming.}
-{SOUND: [A] Woman screaming.}</DefaultText>
+An deinem Unterarm hast du eine Schiene, die eine Strahlenlanze verschießt, aber nun kommen dir Zweifel, ob das ausreichen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1157,9 +1081,7 @@ Der Mann sieht auf sie herab. Sein eindringlicher Blick wird nur geringfügig mi
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>Das Feld, das die Lorub von den Besuchern trennt, muss unter der Luftblase da oben aufhören, denn die Besucher greifen durch, um das Futter hineinzuwerfen. Es wäre ein Leichtes, dort in die Zelle zu schlüpfen, wenn gerade niemand hinschaut. Allerdings würden dich die Lorub vermutlich in Stücke reißen.
-
-{SOUND: [A] Continue Lorub song for this node.}</DefaultText>
+      <DefaultText>Das Feld, das die Lorub von den Besuchern trennt, muss unter der Luftblase da oben aufhören, denn die Besucher greifen durch, um das Futter hineinzuwerfen. Es wäre ein Leichtes, dort in die Zelle zu schlüpfen, wenn gerade niemand hinschaut. Allerdings würden dich die Lorub vermutlich in Stücke reißen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1169,24 +1091,17 @@ Der Mann sieht auf sie herab. Sein eindringlicher Blick wird nur geringfügig mi
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>Neme hört ihrem Gesang aufmerksam zu und summt ihn dann versuchsweise nach. Die Lorub reagieren sofort darauf, schwimmen auf sie zu und dann friedlich wieder weg. Sie lacht. „Iarmid hatte recht!“, sagt sie. „Ich denke, das wird funktionieren. Wollen wir es tun?“
-
-{SOUND: [A] Continue Lorub song for this node.}
-{SOUND: [B] Neme experimentally trying to match the Lorub's song.}</DefaultText>
+      <DefaultText>Neme hört ihrem Gesang aufmerksam zu und summt ihn dann versuchsweise nach. Die Lorub reagieren sofort darauf, schwimmen auf sie zu und dann friedlich wieder weg. Sie lacht. „Iarmid hatte recht!“, sagt sie. „Ich denke, das wird funktionieren. Wollen wir es tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>„Hast du es dir anders überlegt? Sollen wir es machen?“
-
-{SOUND: [A] Continue Lorub song for this node.}</DefaultText>
+      <DefaultText>„Hast du es dir anders überlegt? Sollen wir es machen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Ein fester Tritt an der rechten Stelle und die Verriegelung geht auf. Neme und du tauchen in die überraschend warme Luft in der Zelle ein und du schließt die Luke hinter euch wieder.
-
-{SOUND: [A] Metallic bang, as of a metal hatch being forced open.}</DefaultText>
+      <DefaultText>Ein fester Tritt an der rechten Stelle und die Verriegelung geht auf. Neme und du tauchen in die überraschend warme Luft in der Zelle ein und du schließt die Luke hinter euch wieder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1205,9 +1120,7 @@ Der Mann sieht auf sie herab. Sein eindringlicher Blick wird nur geringfügig mi
 
 Die Menagerie ist leer und dunkel. Durch die durchsichtigen Steine in der Decke fällt kein Sonnenlicht mehr herein. Nur einige Fische und Steine leuchten noch in der Dunkelheit.
 
-Ihr kommt so leise wie möglich aus eurem Versteck hervor. Doch kaum seid ihr im Hauptgang, ertönt eine metallische Stimme aus der Richtung des Vordereingangs. „Habt ihr gedacht, ich würde nicht sehen? Nicht wissen? Ihr werdet heute Nacht hier sterben.“
-
-{SOUND: The Menagerie is empty and eerir. End ambient crowd noise. Any ambient underwater noises can continue.}</DefaultText>
+Ihr kommt so leise wie möglich aus eurem Versteck hervor. Doch kaum seid ihr im Hauptgang, ertönt eine metallische Stimme aus der Richtung des Vordereingangs. „Habt ihr gedacht, ich würde nicht sehen? Nicht wissen? Ihr werdet heute Nacht hier sterben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

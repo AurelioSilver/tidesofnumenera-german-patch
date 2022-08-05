@@ -10,11 +10,7 @@
 
 Einen Moment lang genießt du diese Stille, ein rein physisches Glücksgefühl, dass diesem Körper, aber nicht dir gehört.
  
-Dann ist es vorbei, und an seine Stelle treten Wut und Angst. „Geh weg!“, schreit dich dein Verstand an. Ohne dein Zutun, *gegen* deinen Willen windet sich dein Körper. Du schwebst nicht mehr ohne Mühe. Du tobst verzweifelt und versuchst, zu ertrinken und gleichzeitig nicht zu ertrinken.
-
-{ART: Just an empty gray screen. It can be marbled or something, but there's no sense burning a real illustration here unless we have resources down the line.}
-
-{SOUND: A looping whispering, maybe something along the line of the sound in LOTR where someone contemplated putting on the One Ring, but quieter – plausibly wind rather than a whisper. Loop continues till Node 10.}</DefaultText>
+Dann ist es vorbei, und an seine Stelle treten Wut und Angst. „Geh weg!“, schreit dich dein Verstand an. Ohne dein Zutun, *gegen* deinen Willen windet sich dein Körper. Du schwebst nicht mehr ohne Mühe. Du tobst verzweifelt und versuchst, zu ertrinken und gleichzeitig nicht zu ertrinken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -84,11 +80,7 @@ Warum ist sein Verstand noch immer hier? Das ist zuvor noch nie passiert.</Defau
 
 Es ist nicht länger ruhig. Was dir zuvor wie das Flüstern des Windes vorkam, stellt sich nun als das Murmeln der Toten heraus. Jetzt, verstärkt durch das Wasser, kannst du es deutlich ausmachen. „Abschaum!“ „Nutzloses Flittchen!“ „Verräterin!“ „Niemand!“ „Monster!“, spotten manche. „Schande, Schande“, stöhnt ein anderer. „Betrügerin!“, schreit eine laute, deutliche Stimme. Choi weint nur.
 
-Iniferes Bewusstsein scheint vom Durcheinander überwältigt zu sein: dein Körper wehrt sich nun nicht mehr, sondern sinkt einfach weiter ab. Aber seine Entkräftung wirkt auch auf dich. Deine Glieder fühlen sich schlaff und leblos an.
-
-{ART: Underwater.}
-
-{SOUND: The whispering should now be louder, and more clearly whispering – perhaps very much like in LOTR.  This loop continues until node 40.}</DefaultText>
+Iniferes Bewusstsein scheint vom Durcheinander überwältigt zu sein: dein Körper wehrt sich nun nicht mehr, sondern sinkt einfach weiter ab. Aber seine Entkräftung wirkt auch auf dich. Deine Glieder fühlen sich schlaff und leblos an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,11 +136,7 @@ Ein einziges, massives Auge öffnet sich und erfasst mit einem einzigen Blick de
 
 Deine Augen sind geöffnet und du siehst besser als je zuvor. Es ist nicht mehr oder weniger, aber bestimmte Details erhalten eine völlig neue Klarheit: der Schimmel, der auf den Kerben an der Wand wuchert, die Flecken im müden, verwelkten Gesicht der Frau neben dir, die Wunden auf dem Arm der Person neben dir. Du bist nicht nur in Iniferes Körper eingedrungen, sondern in seine Qual.
  
-„Der Meister hat gesprochen! Der Meister ist erwacht!“, schreit die Frau. 
-
-{ART: Bedroom}
-
-{SOUND: A gasp, heavy, masculine, not a gasp of surprise but more of a choking gasp, a bit wet, if that makes sense – like someone coming out of a nightmare or even a coma.}</DefaultText>
+„Der Meister hat gesprochen! Der Meister ist erwacht!“, schreit die Frau.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -262,9 +250,7 @@ Am Ende nimmst du nur das Folgende mit: Abscheu, Bedürfnisse und das Gefühl, d
       <ID>38</ID>
       <DefaultText>Du versuchst, deinen Körper dazu zu zwingen, aufzuwachen, aber Inifere hält an der Dunkelheit, an ihrem Trost und ihrer Einsamkeit fest, und zwingt dein Fleisch in den Schlaf zurück.
 
-Darauf wird es also hinauslaufen: ein mentales Ringen. Aber du kennst dich auf diesem Gebiet aus, und Inifere ist kein Kalaghat Anvor. Letztenendes konnte sich dir nicht einmal der Tabaht-General widersetzen. Inifere wimmert in den Schatten deines Verstandes – auch er wird dir nicht trotzen können.
-
-{SCRIPT: If this node plays, ALL of the non-persuasion mental DTs in this Mere should be slightly easier.}</DefaultText>
+Darauf wird es also hinauslaufen: ein mentales Ringen. Aber du kennst dich auf diesem Gebiet aus, und Inifere ist kein Kalaghat Anvor. Letztenendes konnte sich dir nicht einmal der Tabaht-General widersetzen. Inifere wimmert in den Schatten deines Verstandes – auch er wird dir nicht trotzen können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -274,9 +260,7 @@ Darauf wird es also hinauslaufen: ein mentales Ringen. Aber du kennst dich auf d
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Und dann ist plötzlich alles weg, und es bleibt nichts außer der Dunkelheit zwischen Traum und Realität, Leben und Tod, Wahnsinn und Vernunft.
-
-{ART: Just remove any image here. A black screen is fine.}</DefaultText>
+      <DefaultText>Und dann ist plötzlich alles weg, und es bleibt nichts außer der Dunkelheit zwischen Traum und Realität, Leben und Tod, Wahnsinn und Vernunft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -334,9 +318,7 @@ Trotz all der hektischen Fragen ist dein Bruder noch nicht der Wahnsinnige, den 
       <ID>54</ID>
       <DefaultText>Du versuchst, deinen Körper dazu zu zwingen, aufzuwachen, aber Inifere hält an der Dunkelheit, an ihrem Trost und ihrer Einsamkeit fest, und zwingt dein Fleisch in den Schlaf zurück.
 
-Darauf wird es also hinauslaufen: ein mentales Ringen. Du kennst dich auf diesem Gebiet aus, und Inifere ist weder ein Kalaghat Anvor, noch ist er so scharfsinnig oder rücksichtslos wie ein Tabaht. Diesen Kampf kannst du gewinnen.
-
-{SCRIPT: If this node plays, all Intellect checks in the Mere are slightly harder.}</DefaultText>
+Darauf wird es also hinauslaufen: ein mentales Ringen. Du kennst dich auf diesem Gebiet aus, und Inifere ist weder ein Kalaghat Anvor, noch ist er so scharfsinnig oder rücksichtslos wie ein Tabaht. Diesen Kampf kannst du gewinnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -446,9 +428,7 @@ Ein Kultist peitscht sich daraufhin selbst auf den Rücken und schreit, mehr vor
 
 Die Kultisten starren dich mit leidenschaftlichen und gleichsam uninteressierten Blicken an. Dass ihr Meister von solchen Zuckungen geplagt wird, erscheint ihnen heilig … und gleichzeitig nicht weiter bemerkenswert. Einer versucht kurz, deine merkwürdigen Bewegungen nachzuahmen. Als sich die Scharade als unbefriedigend herausstellt, kehrt er schnell wieder dazu zurück, seinen Arm mit seinen dreckigen Nägeln zu kratzen.
 
-Marcysa legt ihre Hand auf deine zuckende Schulter. „Das Fleisch leidet und das Tor rückt näher.“
-
-{SOUND [B]: A thud of falling back into a hard bed.}</DefaultText>
+Marcysa legt ihre Hand auf deine zuckende Schulter. „Das Fleisch leidet und das Tor rückt näher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,9 +453,7 @@ Und doch ist da noch etwas mehr. Nicht die Toten. Nicht Inifere. Nicht du. Etwas
 
 „Meine Kinder, wir stehen vor einer Prüfung.“ Seine Stimme ist von ungeschickter Unehrlichkeit gespickt, die anderen aber schreien vor Freude auf. „Es kommt jemand, der die Schlüssel zum Tor stehlen und den aufsteigenden Pfad des Leidens zugrunde richten will.“
 
-Du durchquerst den Raum mit großen, schnellen Schritten. „Aber wir sind nicht unvorbereitet. Treten wir ihm im Korridor entgegen.“
-
-{SOUND: Inifere jumping out of bed.}</DefaultText>
+Du durchquerst den Raum mit großen, schnellen Schritten. „Aber wir sind nicht unvorbereitet. Treten wir ihm im Korridor entgegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -523,11 +501,7 @@ Durch die Bresche dringt, umgeben von Rauch, der Kummer. Noch scheint er sich ni
 
 Marcysa handelt zuerst, richtet sich auf und schreit Befehle heraus. „Nehmt den Schrecken an, heißt ihn willkommen! Steht auf! Beschützt den Meister! Gehorcht dem Meister!“
 
-Die anderen richten sich unsicher auf, während der Kummer weiter auf der Stelle steht. Inifere steht weiterhin wie betäubt da.
-
-{ART: The Sorrow in the Gallery}
-
-{SOUND: Explosion of a wooden gate, followed by whatever noise the Sorrow makes in game, I assume it has some kind of floating sound or something. If it has such a sound, it could probably loop if that works, until node 114 or 139.}</DefaultText>
+Die anderen richten sich unsicher auf, während der Kummer weiter auf der Stelle steht. Inifere steht weiterhin wie betäubt da.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -688,18 +662,14 @@ Du spürst, wie dich die Gezeiten überkommen, aufgewühlt von der Ankunft des K
       <ID>112</ID>
       <DefaultText>Der Rauch um den Kummer herum verzieht, und sein außerweltlicher Blick durchschweift den Raum mit der Verachtung eines Jägers, aber ohne seinen Hunger. Seine Geduld, so wie seine Entschlossenheit, ist unerschöpflich und beinahe gleichgültig.
 
-Die Kinder kauern sich nieder, als der Blick des Kummers sie trifft, und einige schreien: „Meister, rettet uns!“ Aber Inifere ist fort, versteckt irgendwo in den hintersten Ecken deines Verstandes. Ihr Schrecken kümmert ihn ebenso wenig wie ihn ihre Anbetung gekümmert hat.
-
-{SOUND [B]: Whimpering from the Children (who are adults, not kids).}</DefaultText>
+Die Kinder kauern sich nieder, als der Blick des Kummers sie trifft, und einige schreien: „Meister, rettet uns!“ Aber Inifere ist fort, versteckt irgendwo in den hintersten Ecken deines Verstandes. Ihr Schrecken kümmert ihn ebenso wenig wie ihn ihre Anbetung gekümmert hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
       <DefaultText>Der Kummer fegt in den Gang vor, so schnell, dass du seine Bewegungen kaum nachverfolgen kannst. Er packt sich eines der Kinder mit seinen umherwirbelnden Gliedern, und als er es wieder loslässt, verpufft es einfach. Nicht tot, einfach weg.
 
-Der Kummer hält danach kurz inne, blickt erneut durch den Raum. Suchend, aber nicht findend. Trotzdem unerbittlich.
-
-{SOUND: Sorrow moving and then snuffing someone out. I have no idea what noises it makes in game but obv. these should be drawn from the same aural palette.}</DefaultText>
+Der Kummer hält danach kurz inne, blickt erneut durch den Raum. Suchend, aber nicht findend. Trotzdem unerbittlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -708,9 +678,7 @@ Der Kummer hält danach kurz inne, blickt erneut durch den Raum. Suchend, aber n
 
 Während du dich zurückziehst, schreit Marcysa: „Bleibt standhaft! Stellt euch dem Schmerz!“ Das Abschlachten, das hinter dir stattfindet, ist ungewöhnlich still. Einige Schritte, halbherzige Kampfrufe, unterdrückte Todesschreie.
 
-Marcysa drängt dich durch eine Reihe an Tunneln, bis ihr durch ein weiteres Tor schreitet, das nicht aus Eisen und Holz, sondern aus solidem Azurstahl gefertigt ist. Ihr schreitet hindurch und hinter euch verschließt sich das Tor.
-
-{SOUND: Sorrow moving, racing footsteps, after a pause, a sound of a heavy metal vault door closing and locking.}</DefaultText>
+Marcysa drängt dich durch eine Reihe an Tunneln, bis ihr durch ein weiteres Tor schreitet, das nicht aus Eisen und Holz, sondern aus solidem Azurstahl gefertigt ist. Ihr schreitet hindurch und hinter euch verschließt sich das Tor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -769,9 +737,7 @@ Eine Art Fortschritt, im Angesicht der Vernichtung.</DefaultText>
 
 Die Waffe ist erstaunlich leicht, ein Meisterstück des Tötens. Sie fliegt auf deinen Feind zu, wie von einem Steuermechanismus getrieben. Die Glyphen leuchten auf.
 
-Der Speer fliegt bis auf einen Meter an den Kummer heran, als eine Rauchschwade ihn berührt und ihn in ein Häufchen Drit verwandelt. Einen Augenblick später fallen die kleinen Scherben zu Boden. Der Kummer ist nicht nur unverletzt, sondern auch unbeeindruckt.
-
-{SOUND: A spear being thrown, then the sound of sand falling.}</DefaultText>
+Der Speer fliegt bis auf einen Meter an den Kummer heran, als eine Rauchschwade ihn berührt und ihn in ein Häufchen Drit verwandelt. Einen Augenblick später fallen die kleinen Scherben zu Boden. Der Kummer ist nicht nur unverletzt, sondern auch unbeeindruckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -784,9 +750,7 @@ Die Gezeiten. Du kannst sie spüren.
 
 Dann ist die Frau nicht mehr. Übrig sind nur noch vereinzelte Gliedmaßen und Eingeweide. „Transzendenz durch Leid!“, schreit Marcysa, sie greift aber nicht selbst ein. Die anderen Angreifer geben jämmerliche Schreie von sich und stolpern in Richtung des Kummers. 
 
-Dann sind auch sie Geschichte.
-
-{SOUND: Slow, shuffling footsteps, a howl, running sound, then the a fleshbursting sound, followed by multiple bursting sounds.}</DefaultText>
+Dann sind auch sie Geschichte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -799,7 +763,7 @@ Der Raum explodiert mit Licht und Geräuschen. Pristmatische Strahlen fliegen au
 
 Auf dieses Feuerwerk folgt Stille. Der Kummer ist unverletzt. Wenn überhaupt ist er nun stärker. Flügel schlagen auf, Arme breiten sich aus. Felder werden durchbrochen, Netze zerreißen und unzählige Projektile fallen von seinem Körper, als hätten sie ihn nie berührt.
 
-„Zwecklos“, flüstert eine tote Stimme. „Nutzloser Idiot.“{Traps springing: these include projectiles firing (perhaps with a blow-gun type sound), nets falling, lasers blasting, energy fields opening, etc. Then a shattering sound. Then dead voices whispering.}</DefaultText>
+„Zwecklos“, flüstert eine tote Stimme. „Nutzloser Idiot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -832,9 +796,7 @@ Der Raum explodiert mit Licht und Geräuschen. Pristmatische Strahlen fliegen au
 
 Auf dieses Feuerwerk folgt Stille. Der Kummer ist unverletzt. Wenn überhaupt ist er nun stärker. Flügel schlagen auf, Arme breiten sich aus. Felder werden durchbrochen, Netze zerreißen und unzählige Projektile fallen von seinem Körper, als hätten sie ihn nie berührt.
 
-„Zwecklos“, flüstert eine tote Stimme. „Nutzloser Idiot.“ Inifere wird von deinem Griff befreit, hört diese Worte und schleicht sich davon.
-
-{SOUND: Traps springing: these include projectiles firing (perhaps with a blow-gun type sound), nets falling, lasers blasting, energy fields opening, etc. Then a shattering sound. Then dead voices whispering.}</DefaultText>
+„Zwecklos“, flüstert eine tote Stimme. „Nutzloser Idiot.“ Inifere wird von deinem Griff befreit, hört diese Worte und schleicht sich davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -866,9 +828,7 @@ Schließlich wendest du deinen Blick ab, weil du ihn einfach nicht länger aufre
 
 Während du dich zurückziehst, schreit Marcysa: „Bleibt standhaft! Stellt euch dem Schmerz!“ Das Abschlachten, das hinter dir stattfindet, ist ungewöhnlich still. Einige Schritte, halbherzige Kampfrufe, unterdrückte Todesschreie.
 
-Marcysa drängt dich durch eine Reihe an Tunneln, bis ihr durch ein weiteres Tor schreitet, das nicht aus Eisen und Holz, sondern aus solidem Azurstahl gefertigt ist. Ihr schreitet hindurch und hinter euch verschließt sich das Tor.
-
-{SOUND: Sorrow moving, racing footsteps, after a pause, a sound of a heavy metal vault door closing and locking.}</DefaultText>
+Marcysa drängt dich durch eine Reihe an Tunneln, bis ihr durch ein weiteres Tor schreitet, das nicht aus Eisen und Holz, sondern aus solidem Azurstahl gefertigt ist. Ihr schreitet hindurch und hinter euch verschließt sich das Tor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -877,11 +837,7 @@ Marcysa drängt dich durch eine Reihe an Tunneln, bis ihr durch ein weiteres Tor
 
 In der Mitte des Raums steht ein silberner Thron auf einem Podium. Im Gegensatz zum Boden glänzt der Thron, als wäre er erst vor Kurzem geputzt worden. Kleine, schimmernde Nadeln zieren die Lehnen und ein Ring an der Rückseite erinnert an einen Heiligenschein.
 
-Marcysa krümmt sich, ringt um Luft, würgt. Dein eigener Körper, so schwach er auch sein mag, blieb unbeeinflusst. Inifere ist wieder fort, und dennoch lauert etwas in dir, als hätten seine Sporen deinen Verstand infiziert.
-
-{ART: The Throneroom.}
-
-{SOUND [B]: Annoying fluorescent hum.}</DefaultText>
+Marcysa krümmt sich, ringt um Luft, würgt. Dein eigener Körper, so schwach er auch sein mag, blieb unbeeinflusst. Inifere ist wieder fort, und dennoch lauert etwas in dir, als hätten seine Sporen deinen Verstand infiziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -900,9 +856,7 @@ Marcysa krümmt sich, ringt um Luft, würgt. Dein eigener Körper, so schwach er
       <ID>143</ID>
       <DefaultText>Da ist ein weiteres Geräusch – fast vollständig vom Summen der uralten Lichter übertönt. Es kommt von der Tür der Kammer.
 
-Es scheint, als hätte der Kummer sich durch die Kinder vorgearbeitet. „Feigling“, zischt eine geisterhafte Stimme. „Schande!“ Aber sie sind nicht es nicht, die sich jetzt an Inifere richten; es ist die Verlockung des Tors, das Versprechen, dass er einen weiteren Tag leben wird.
-
-{SOUND: A deep vibration sound.}</DefaultText>
+Es scheint, als hätte der Kummer sich durch die Kinder vorgearbeitet. „Feigling“, zischt eine geisterhafte Stimme. „Schande!“ Aber sie sind nicht es nicht, die sich jetzt an Inifere richten; es ist die Verlockung des Tors, das Versprechen, dass er einen weiteren Tag leben wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -970,9 +924,7 @@ Und jetzt weißt du, wie du das herbeiführen kannst.</DefaultText>
       <ID>153</ID>
       <DefaultText>Auf der Tür haben sich jetzt Flecken gebildet. Die uralten Elemente, die es zusammenhielten, geben nach. Ein Gitter aus dünnen Rissen formt sich auf seiner Oberfläche, und du hörst ein tiefes Stöhnen, wie das einer Kreatur, die zu lange einer Bestrafung standhalten musste.
 
-Die toten Stimmen gackern, sprechen von Prunk und Wertlosigkeit, und davon, dass alles, was du berührst, zu Skist wird. Die anderen haben ihre ganz eigene Nachricht, den Trost einer vertrauten Peitsche und das Versprechen, dass du überleben wirst.
-
-{SOUND: A groaning sound of fatiguing metal, like as the Titanic was breaking apart or whatever. Overlay the dead whispering sounds.}</DefaultText>
+Die toten Stimmen gackern, sprechen von Prunk und Wertlosigkeit, und davon, dass alles, was du berührst, zu Skist wird. Die anderen haben ihre ganz eigene Nachricht, den Trost einer vertrauten Peitsche und das Versprechen, dass du überleben wirst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1052,9 +1004,7 @@ Die Männer und Frauen, deren Wehklagen in sein Fleisch eingebrannt ist, verspot
 
 Er benötigt deine Hilfe, um die letzten paar Schritte zu gehen. Seine Stärke, sein Wille, gibt nach. Aber er öffnet die Schließmechanismen selbst.
 
-Die Tür öffnet sich. Hinter ihr wartet Iniferes Ende.
-
-{SOUND: Vault door opening.}</DefaultText>
+Die Tür öffnet sich. Hinter ihr wartet Iniferes Ende.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1072,9 +1022,7 @@ In deinem Verstand wimmert Inifere wortlos vor sich hin. Sein Mut, falls er je w
 
 Die Haare auf deinen Armen stellen sich auf und der Druck in deinen Ohren steigt. Deine Eingeweide öffnen sich. Die Stimmen der Toten kreischen wie noch nie zuvor, doch sie gehen im Tosen der Gezeiten unter.
 
-Der Kummer neigt seinen Kopf. Bewegt eine Hand. Marcysa schreit – nur ein Flüstern im Wind. Du spürst keinen Schmerz. Dir ist weder kalt noch heiß. Du bist weder hier noch da. Du bist einfach … weg.
-
-{SOUND: Sorrow snuffing Inifere out.}</DefaultText>
+Der Kummer neigt seinen Kopf. Bewegt eine Hand. Marcysa schreit – nur ein Flüstern im Wind. Du spürst keinen Schmerz. Dir ist weder kalt noch heiß. Du bist weder hier noch da. Du bist einfach … weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1146,9 +1094,7 @@ Der Kummer kann diesen Angriff spüren. Seine Form verändert sich, so als würd
 
 Ein außerweltlicher Schrei erfüllt den Raum, dann deinen Verstand, oder beides gleichzeitig.
 
-Und dann ist der Kummer verschwunden.
-
-{SOUND: I'm not sure exactly what it should be, but basically an unpleasant sound rising in volume and intensity, then an „alien shriek“ and silence.}</DefaultText>
+Und dann ist der Kummer verschwunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1170,9 +1116,7 @@ Es ist Inifere der durch das Tor schreitet, nicht du. Marcysa folgt ihm, aber si
 
 Außerhalb des Tores schwebt der machtlose Kummer. Er kann – oder will – die Grenze nicht überschreiten. Er geht fort.
 
-Und dann kommt der Schmerz, wie eine große Welle, die alles andere hinwegwäscht. Du ertrinkst in ihr, bis dein Verstand nicht mehr ertragen kann …
-
-{SOUND: The Gate opening.}</DefaultText>
+Und dann kommt der Schmerz, wie eine große Welle, die alles andere hinwegwäscht. Du ertrinkst in ihr, bis dein Verstand nicht mehr ertragen kann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1185,9 +1129,7 @@ Während der Kummer sich dieser Störung bewusst wird, rennt Inifere in Richtung
 
 Hinter dir schwebt der Kummer, machtlos. Er kann – oder will – die Grenze nicht überschreiten. Er geht fort.
 
-Und dann kommt der Schmerz, wie eine große Welle, die alles andere hinwegwäscht. Du ertrinkst in ihr, bis dein Verstand nicht mehr ertragen kann …
-
-{SOUND: Door shattering, gate opening.}</DefaultText>
+Und dann kommt der Schmerz, wie eine große Welle, die alles andere hinwegwäscht. Du ertrinkst in ihr, bis dein Verstand nicht mehr ertragen kann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1296,9 +1238,7 @@ An den Thron gefesselt kannst du nichts gegen sie oder den Kummer ausrichten.
 
 Er erwacht aus seiner Starre und wirbelt dann mit einem Kreischen und eine Wolke aus Rauch durch den Raum. Du spürst, wie die Gezeiten um es herum aufgewirbelt werden, und wie sie schließlich dich umgeben. Dann kommt der Schmerz – nicht in deinem Körper, sondern in deinem Wesen. Ein Schmerz, der weit über Inifere und den Lebensbildbetrachter hinausgeht.
 
-Du kannst geradeso aus Iniferes Bewusstsein ausbrechen und ihm seinem Schicksal überlassen.
-
-{SOUND: Sorrow moving, then snuffing out Inifere.}</DefaultText>
+Du kannst geradeso aus Iniferes Bewusstsein ausbrechen und ihm seinem Schicksal überlassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1311,9 +1251,7 @@ Dann fällst du und der Schmerz folgt – schreckliche Schmerzen in deinem Bein.
 
 Inifere bewegt sich kriechend fort, aber mittlerweile hat der Kummer seine Fährte aufgenommen. Er wirbelt mit einem Schrei durch den Raum. Die Gezeiten werden um den Kummer herum aufgewirbelt und umgeben schließlich dich. Dann kommt der Schmerz – nicht in Iniferes Körper, sondern in deinem Wesen.
 
-Du musst deine gesamte Willenskraft aufwenden, um Iniferes Bewusstsein zu verlassen. Als du das tust, wird alles dunkel.
-
-{SOUND: Metal shattering, the Gate opening, a then the sound of an arrow piercing flesh. Then the Sorrow moving, and Inifere being snuffed out.}</DefaultText>
+Du musst deine gesamte Willenskraft aufwenden, um Iniferes Bewusstsein zu verlassen. Als du das tust, wird alles dunkel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

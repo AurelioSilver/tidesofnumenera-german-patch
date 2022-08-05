@@ -10,9 +10,7 @@
 
 In der Mitte der Kuppel befindet sich eine Stasiskammer, die dir unheimlich bekannt vorkommt. Direkt daneben befindet sich eine Truhe aus Synth und hellem Eisen. Hinter der Kapsel schwebt ein Diamant in der Luft und bricht das Licht wie ein Prisma. Neben deiner Hand glüht ein tiefblauer Sockel. 
 
-Nichts hier scheint einen Grund für das Aufheulen der Sirene zu liefern, und doch weißt du, dass es einen geben muss.
-
-{SOUND: Blaring klaxons, with an interval of maybe 2 seconds (something slightly annoying but not super annoying). This is an ambient sound that continues throughout this Mere until (and unless) the player turns them off in node 139.}</DefaultText>
+Nichts hier scheint einen Grund für das Aufheulen der Sirene zu liefern, und doch weißt du, dass es einen geben muss.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -183,9 +181,7 @@ Hastig gibst du sie ein, bevor sie deiner Erinnerung wieder entgleitet. Die Truh
       <ID>35</ID>
       <DefaultText>Du kannst die Armatur ausmachen, die in den Archiven beschrieben wurde. Jetzt, wo du weißt, wo sie sich befindet, lässt sie sich mit Leichtigkeit öffnen. Du legst deine Hand auf das schwarze Glas im Innern. Durch deine Berührung scheint es warm zu werden, und der Geruch von Regen steigt dir in die Nase.
 
-In der Entfernung kannst du ein leichtes Summen vernehmen, und außerhalb der Kuppel beginnt die Luft zu glitzern. Das Schild erscheint als Kugel. Du kannst nur hoffen, dass es dich eine Weile vor dem schützen kann, was auf dich zukommt.
-
-{SOUND: A hum as of a machine powering up (creating an energy barrier around the laboratory).}</DefaultText>
+In der Entfernung kannst du ein leichtes Summen vernehmen, und außerhalb der Kuppel beginnt die Luft zu glitzern. Das Schild erscheint als Kugel. Du kannst nur hoffen, dass es dich eine Weile vor dem schützen kann, was auf dich zukommt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -626,10 +622,7 @@ Sein Verhalten erinnert dich an das Phantom aus dem Labyrinth, auch wenn sein Ge
       <ID>139</ID>
       <DefaultText>„Sicher, ähm … vergiss aber bitte nicht, dass es einen *Grund* für den Alarm gibt. Und der befindet sich auf dem Weg hierher.“
 
-Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpeln und ab und an das Krachen von Metall.
-
-{SOUND: Turn off ambient blaring alarms for the rest of the Mere.}
-{SOUND: Replace the klaxons with a new ambient sound: a low, occasional thump or rumble, as of a large creature trying to pound its way into a metal door. This should be a much lower interval than the alarms, maybe pounding every 5-6 seconds.}</DefaultText>
+Der schallende Alarm versiegt sofort, und an seine Stelle tritt ein tiefes Rumpeln und ab und an das Krachen von Metall.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -926,9 +919,7 @@ Last Barrier at [Global: MBG2_SorrowTimerExpire03].</DefaultText>
       <ID>200</ID>
       <DefaultText>Du hörst einen donnernden Knall. Der Boden unter dir wird geschüttelt, wodurch du den Halt verlierst. Außerhalb der Kuppel siehst du den Horizont vor- und zurückschnellen, dir wird schwindelig.
 
-Der spektrale Mann erscheint plötzlich vor dir, sein Gesicht vor Schrecken verzerrt. „Er ist in den Turm eingedrungen! Jetzt ist es nur noch eine Frage der Zeit, bis er hier ankommt. Wir müssen etwas unternehmen, schnell!“
-
-{SOUND: Thunderous distant crash. The Sorrow has smashed through a heavy door at the bottom of a very tall tower. The crash reverberates all the way to the top.}</DefaultText>
+Der spektrale Mann erscheint plötzlich vor dir, sein Gesicht vor Schrecken verzerrt. „Er ist in den Turm eingedrungen! Jetzt ist es nur noch eine Frage der Zeit, bis er hier ankommt. Wir müssen etwas unternehmen, schnell!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -937,9 +928,7 @@ Der spektrale Mann erscheint plötzlich vor dir, sein Gesicht vor Schrecken verz
 
 Der spektrale Mann erscheint wieder vor dir. Er legt seine Hände auf deine Schultern, aber du spürst nichts. „Er hat die elektrostatische Barriere *zerbrochen*! Wenn er dasselbe mit dem Plasma-Fenster macht, sind wir verloren.“
 
-Er sieht durch die Klappe am Boden, als könnte er durch sie hindurchsehen. „Wie sieht der Plan aus? Du hast doch einen, oder?“
-
-{SOUND: Sharp sizzle and loud pop. The Sorrow has broken through a powerful electrostatic barrier.}</DefaultText>
+Er sieht durch die Klappe am Boden, als könnte er durch sie hindurchsehen. „Wie sieht der Plan aus? Du hast doch einen, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -948,10 +937,7 @@ Er sieht durch die Klappe am Boden, als könnte er durch sie hindurchsehen. „W
 
 Das Abbild des spektralen Mannes verschwindet. Eine faulige, dunkle Wolke dringt aus der Klappe hervor und füllt die Umgebung mit abstoßendem Heulen und dem Geruch von verwesendem Fleisch. Tentakel dringen hervor und reißen alles in Stücke, was mit ihnen in Berührung kommt – ob Metall oder Synth.
 
-Aus dem Wolkengewulst dringt ein Gesicht hervor. Es untersucht dich und wendet sich dann der Kammer zu.
-
-{SOUND: A plasma hiss and a metal screech. The Sorrow smashes a steel hatch off its hinges.}
-{SOUND: An unearthly wail accompanies the Sorrow (should match any Sorrow sounds made for Sorrow crises). This can be an ambient noise from here to the end.}</DefaultText>
+Aus dem Wolkengewulst dringt ein Gesicht hervor. Es untersucht dich und wendet sich dann der Kammer zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -963,9 +949,7 @@ Aus dem Wolkengewulst dringt ein Gesicht hervor. Es untersucht dich und wendet s
       <ID>204</ID>
       <DefaultText>Du drückst den Kristall tief in das Innere des Kummers und rufst dann laut das Befehlswort. Strahlen aus Licht dringen in alle Richtungen aus dem Kummer heraus. Er schreit vor Schmerz und Wut auf. Eines seiner Tentakel schlägt nach dir und teilt dabei sowohl die Wand als auch den Stahlboden entzwei. Es erreicht dein Gesicht und …
 
-Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird klar, dass die Kuppel – nein, dein Körper selbst sich auflöst, von einem Gerät an einen anderen Ort transportiert.
-
-{SOUND: The Sorrow's wail increases in intensity, becoming a terrible shriek.}</DefaultText>
+Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird klar, dass die Kuppel – nein, dein Körper selbst sich auflöst, von einem Gerät an einen anderen Ort transportiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -977,10 +961,7 @@ Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird kl
       <ID>206</ID>
       <DefaultText>Der Kummer richtet seine furchterregende Aufmerksamkeit auf dich. Eines seiner Tentakel schlägt nach dir und teilt dabei sowohl die Wand als auch den Stahlboden entzwei. Es erreicht dein Gesicht und …
 
-Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird klar, dass die Kuppel – nein, dein Körper selbst sich auflöst, von einem Gerät an einen anderen Ort transportiert.
-
-{SOUND: Sorrow tendril swiping towards the player.}
-{SOUND: Teleportation sound (NOT Star Trek – something uniquely Ninth World).}</DefaultText>
+Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird klar, dass die Kuppel – nein, dein Körper selbst sich auflöst, von einem Gerät an einen anderen Ort transportiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1014,10 +995,7 @@ Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird kl
 
 Obwohl der spektrale Berater nicht da ist, hörst du seine Stimme in deinem Kopf. „Ich widersetze mich deinem Befehl. Wir haben immer gesagt, dass wir uns nicht von Emotionen übermannen lassen würden. Wenn sie stirbt, stirbt sie. Aber wenn du stirbst, sind wir beide verloren, sowie unser gesamtes Vermächtnis.“
 
-Vor Wut wirbelt der Kummer mit seinen Tentakeln durch das Labor. Dabei zerfetzt sie die Truhe und den Diamanten. Die Kammer geht in einem purpurnen Flammenball auf, und das letzte, was du sehen kannst, bevor dein Verstand diesen Körper verlässt, ist das Gesicht des jungen Mädchens, das dahinschmilzt und in Asche verglüht.
-
-{SOUND: The Sorrow's wail increases in intensity, becoming a terrible shriek.}
-{SOUND: Tendrils whipping. Smashes and explosions as the Sorrow destroys the laboratory.}</DefaultText>
+Vor Wut wirbelt der Kummer mit seinen Tentakeln durch das Labor. Dabei zerfetzt sie die Truhe und den Diamanten. Die Kammer geht in einem purpurnen Flammenball auf, und das letzte, was du sehen kannst, bevor dein Verstand diesen Körper verlässt, ist das Gesicht des jungen Mädchens, das dahinschmilzt und in Asche verglüht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1026,10 +1004,7 @@ Vor Wut wirbelt der Kummer mit seinen Tentakeln durch das Labor. Dabei zerfetzt 
 
 Obwohl der spektrale Berater nicht da ist, hörst du seine Stimme in deinem Kopf. „Gut, dass der Sicherheitsmechanismus funktioniert. Du bist in Sicherheit – im Gegensatz zu mir und dem Mädchen. Ich werde mich sicher erholen können, aber sie … Ich bin mir sicher, dass–“
 
-Er wird durch die herumwirbelnden Tentakeln des Kummers unterbrochen. Die Truhe und der Diamanten werden von ihnen zerfetzt. Die Kammer geht in einem purpurnen Flammenball auf, und das letzte, was du sehen kannst, bevor dein Verstand diesen Körper verlässt, ist das Gesicht des jungen Mädchens, das dahinschmilzt und in Asche verglüht.
-
-{SOUND: The Sorrow's wail increases in intensity, becoming a terrible shriek.}
-{SOUND: Tendrils whipping. Smashes and explosions as the Sorrow destroys the laboratory.}</DefaultText>
+Er wird durch die herumwirbelnden Tentakeln des Kummers unterbrochen. Die Truhe und der Diamanten werden von ihnen zerfetzt. Die Kammer geht in einem purpurnen Flammenball auf, und das letzte, was du sehen kannst, bevor dein Verstand diesen Körper verlässt, ist das Gesicht des jungen Mädchens, das dahinschmilzt und in Asche verglüht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1182,19 +1157,14 @@ Last Barrier at [Global: MBG2_SorrowTimerExpire03].</DefaultText>
 
 Plötzlich erscheint ein Mann vor dir. Er ist nicht vollständig da – du kannst die Wolken und die Szenerie des Ortes, an dem er sich tatsächlich befindet, hinter ihm erkennen. Sein Gesicht ist von schrecklicher Angst gezeichnet. „Er ist in den Turm eingedrungen! Jetzt ist es nur noch eine Frage der Zeit, bis er hier ankommt. Wir müssen etwas unternehmen, schnell!“
 
-Sein Verhalten erinnert dich an das Phantom aus dem Labyrinth, auch wenn sein Gesicht, seine Kleidung und seine Stimme völlig anders sind.
-
-{SOUND: Thunderous distant crash. The Sorrow has smashed through a heavy door at the bottom of a very tall tower. The crash reverberates all the way to the top.}</DefaultText>
+Sein Verhalten erinnert dich an das Phantom aus dem Labyrinth, auch wenn sein Gesicht, seine Kleidung und seine Stimme völlig anders sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
       <DefaultText>Du hast nur zwei Schritte gemacht, bevor der Kummer dir seine furchterregende Aufmerksamkeit widmet. Eines seiner Tentakel schlägt nach dir und teilt dabei sowohl die Wand als auch den Stahlboden entzwei. Es erreicht dein Gesicht und …
 
-Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird klar, dass die Kuppel – nein, dein Körper selbst sich auflöst, von einem Gerät an einen anderen Ort transportiert.
-
-{SOUND: Sorrow tendril swiping towards the player.}
-{SOUND: Teleportation sound (NOT Star Trek – something uniquely Ninth World).}</DefaultText>
+Du fühlst nichts. Das Tentakel durchdringt deinen Körper mühelos. Dir wird klar, dass die Kuppel – nein, dein Körper selbst sich auflöst, von einem Gerät an einen anderen Ort transportiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

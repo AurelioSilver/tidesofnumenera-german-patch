@@ -12,10 +12,7 @@ Ganz oben auf dem Rücken des Riesen lehnt sich ein Ausgucker herunter. „Plage
 
 Als der Ausgucker direkt in dein Dhau blickt, schüttelt er fragend seinen Kopf und reibt sich verwundert die Augen, weil er niemanden in dem Boot entdeckt. Der Lichtbeuger an deinem Gürtel leistet gute Dienste … solange die Ladung reicht.
 
-Nach einem kurzen Moment geht der Mann weiter.
-
-{ART: The Whale.}
-{[A] SOUND: Waves lapping against the dhow.}</DefaultText>
+Nach einem kurzen Moment geht der Mann weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,9 +67,7 @@ Obwohl du ihnen zum Greifen nahe bist, verbirgt dich dein Lichtbeuger vor ihren 
       <ID>11</ID>
       <DefaultText>Du gehst die Wege entlang, die sich am Walkopf hinaufwinden, bis du fast auf gleicher Höhe mit dem Kraftfeld bist. Du kannst nicht richtig sehen, was jenseits davon ist: wechselnde Regenbogenfärbungen lassen eine humanoide Form vermuten, aber das bedeutet nicht viel; Wolken am Himmel können auch menschlich erscheinen.
 
-Der Schild strahlt genug Hitze ab, um vor Berührung zu warnen, und die Blitze verschlingen jegliche Trümmer, die damit in Berührung kommen. Das Einzige, was es unbeschadet berührt, ist ein Energieband, das vom Kraftfeld bis zum Heckkastell in der Ferne verläuft. Kein Zweifel, von dort wird der Schild generiert.
-
-{[B] SOUND: Maybe an energy buzzing sound with occasional small "zapping" sounds, like a bug being fried by one fo those bug lights.}</DefaultText>
+Der Schild strahlt genug Hitze ab, um vor Berührung zu warnen, und die Blitze verschlingen jegliche Trümmer, die damit in Berührung kommen. Das Einzige, was es unbeschadet berührt, ist ein Energieband, das vom Kraftfeld bis zum Heckkastell in der Ferne verläuft. Kein Zweifel, von dort wird der Schild generiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,9 +76,7 @@ Der Schild strahlt genug Hitze ab, um vor Berührung zu warnen, und die Blitze v
 
 Von hier oben siehst du im Grunde das Gleiche: ein Gewirr aus leeren, sich windenden Straßen, die flankiert werden von heruntergekommenen Hütten, alles ist ruhig und leblos. Aber dann erfasst dein Auge eine Bewegung: versteckt hinter einem Müllberg scheint eine kleine Menge eine Frau zu umstellen.
 
-Du kannst nicht genau erkennen, was da passiert, aber du kannst dir einen Weg durch das Dorf planen, um zur Menge zu gelangen – oder um ihr auf dem Weg zum Heckkastell aus dem Weg zu gehen.
-
-{[B] SOUND: Maybe clambering up a rickety roof.}</DefaultText>
+Du kannst nicht genau erkennen, was da passiert, aber du kannst dir einen Weg durch das Dorf planen, um zur Menge zu gelangen – oder um ihr auf dem Weg zum Heckkastell aus dem Weg zu gehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,16 +105,14 @@ Du kannst nicht genau erkennen, was da passiert, aber du kannst dir einen Weg du
 
 Eine große Meute hat sich an den Treppen zum Heckkastell versammelt und viele der Männer und Frauen poltern stumm an die Tore. Ihr Schweigen und die Eintönigkeit ihrer Emotionen ist auffällig. Während du ihre wirkungslose Belagerung betrachtest, reihen sich neue Menschen hinter dir ein und schieben dich blind vor sich her und schneiden dir jegliche Rückzugsmöglichkeiten ab.
 
-Bislang haben sie dich dank deines Lichtbeugers noch nicht gesehen. {[A] SOUND: Pounding of fists/clubs on gate.}</DefaultText>
+Bislang haben sie dich dank deines Lichtbeugers noch nicht gesehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Die Explosion blendet, betäubt, zerstört. Als deine Sinne zurückkehren, ist von den schweigenden Männern und Frauen nichts mehr übrig außer den überall verstreuten Fleischstücken und Blutlachen. Ihr Opfer ist auch weg, sie konnte in der Verwirrung fliehen. Eine der Hütten ist jetzt nur noch Schutt.
 
-Die Explosion öffnete einen Weg direkt zum Heckkastell, wo sich eine viel größere Meute versammelt hat. Sie sind unberührt von der Gewalt, die du ausgeübt hast und poltern schweigend mit primitiven Werkzeugen oder bloßen Fäusten an die Tore. Noch mehr reihen sich hinter dir ein und schieben dich vor sich her und versperren dir den Rückzug.
-
-{[A] SOUND: Crystal exploding.}</DefaultText>
+Die Explosion öffnete einen Weg direkt zum Heckkastell, wo sich eine viel größere Meute versammelt hat. Sie sind unberührt von der Gewalt, die du ausgeübt hast und poltern schweigend mit primitiven Werkzeugen oder bloßen Fäusten an die Tore. Noch mehr reihen sich hinter dir ein und schieben dich vor sich her und versperren dir den Rückzug.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,9 +123,7 @@ Zwei brechen aus und laufen davon und du nimmst schnell die Verfolgung auf durch
 
 Die meisten dieser stummen Männer und Frauen hämmern gegen die Tore mit primitiven Werkzeugen oder bloßen Fäusten. Ein paar schauen zu dir und ein oder zwei beginnen, sich dir zu nähern. Neuankömmlinge sammeln sich hinter dir und schneiden dir den Rückzug ab.
 
-Du bist in keiner unmittelbaren Gefahr, aber gegen so viele zu kämpfen, wäre eine beachtliche Leistung.
-
-{[C] SOUND: Small Cyprer powering down, sword being drawn, sword attacks on flesh. Could use power down sound if we get to it.}</DefaultText>
+Du bist in keiner unmittelbaren Gefahr, aber gegen so viele zu kämpfen, wäre eine beachtliche Leistung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,9 +132,7 @@ Du bist in keiner unmittelbaren Gefahr, aber gegen so viele zu kämpfen, wäre e
 
 Die Frau ergreift die Gelegenheit und rennt davon; um ihr Schutz zu geben, musst du sie zunächst verfolgen. Bevor du sie einholen kannst, biegt sie an einer Ecke ab und verschwindet in einer weitaus größeren Meute, die sich vor den Toren des Heckkastells versammelt hat.
 
-Die meisten dieser stummen Männer und Frauen hämmern gegen die Tore mit primitiven Werkzeugen oder bloßen Fäusten. Während du sie anstarrst, sammeln sich hinter dir Neuankömmlinge und schneiden dir blindwegs den Rückzug ab.
-
-{[C] SOUND: Cans being kicked.}</DefaultText>
+Die meisten dieser stummen Männer und Frauen hämmern gegen die Tore mit primitiven Werkzeugen oder bloßen Fäusten. Während du sie anstarrst, sammeln sich hinter dir Neuankömmlinge und schneiden dir blindwegs den Rückzug ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -189,9 +176,7 @@ Die meisten dieser stummen Männer und Frauen hämmern gegen die Tore mit primit
 
 Dieses Klettern ist einfach als beim letzten Mal: selbst ohne Krallen, denn du findest viele Haltemöglichkeiten im verwitterten Mörtel und dem rauen Gestein. Über dir schimmert der Energiestrahl, der das Kraftfeld der weit entfernten Sänfte nährt.
 
-Bald hast du ein offenes Fenster erreicht und, ohne zu zögern, schwingst du dich nach drinnen und landest geschickt in einer großen Halle.
-
-{[B] SOUND: Climbing claws on stone.}</DefaultText>
+Bald hast du ein offenes Fenster erreicht und, ohne zu zögern, schwingst du dich nach drinnen und landest geschickt in einer großen Halle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,9 +185,7 @@ Bald hast du ein offenes Fenster erreicht und, ohne zu zögern, schwingst du dic
 
 Aber deine Kletterklauen haben einen guten Griff und deine Arme und Beine sind stark – stärker als die meisten und um ein Vielfaches stärker als die von diesen kranken Leuten. Schließlich kannst dich außerhalb ihrer Reichweite bringen, du bist sicher aber nicht unversehrt. Über dir schimmert der Energiestrahl, der das Kraftfeld der weit entfernten Sänfte nährt; unter dir verkrümmen sich Gesichter in stummer Wut.
 
-Du schenkst beiden Dingen nur einen kurzen Blick, bevor du dich durch ein offenes Fenster schwingst. Du landest geschickt in einer großen Halle.
-
-{[B] SOUND: Climbing claws on stone.}</DefaultText>
+Du schenkst beiden Dingen nur einen kurzen Blick, bevor du dich durch ein offenes Fenster schwingst. Du landest geschickt in einer großen Halle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,9 +196,7 @@ Bald prasseln Schläge auf dich ein. Der Schlüssel ist, auf den Beinen zu bleib
 
 Dann fällt von oben ein Seil herab. Du ergreifst es und schlägst noch einmal wild um dich. Den kleinen Freiraum, den du durch diese letzte Aufregung erhalten hast, nutzt du, um am Seil hochzuklettern und durch ein offenes Fenster zu entkommen.
 
-Du landest drinnen mit einem lauten Schlag.
-
-{[A] SOUND: Brawl with sword attacks.}</DefaultText>
+Du landest drinnen mit einem lauten Schlag.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,15 +207,12 @@ Die meisten Stummen laufen davon, aber einige kämpfen sich durch die Öffnung. 
 
 Aber bis du drinnen bist, ist der Kampf bereits zu Ende. Die Stummen sind tot, und auch einige der Verteidiger. Ein Heiler behandelt die Verwundeten mit Cyphern. Aus einer Ecke jagt ein Numenera Energie aus einem Fenster.
 
-Eine Frau kommt näher. „Willkommen in der Zuflucht des Volkes, Abgesandter“, sagt sie. „Ich bin die Sprecherin. Wir müssen in deiner Stadt andocken – wir brauchen dringend Heilung wie diese Stummen zeigen.“ {[A] SOUND: Crystal explosion.}</DefaultText>
+Eine Frau kommt näher. „Willkommen in der Zuflucht des Volkes, Abgesandter“, sagt sie. „Ich bin die Sprecherin. Wir müssen in deiner Stadt andocken – wir brauchen dringend Heilung wie diese Stummen zeigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Als du rufst und gestikulierst, geht der Glanz des Lichtbeugers verloren und du bist plötzlich sichtbar.
-
-
-{[B] SOUND: Small cypher powering down.}</DefaultText>
+      <DefaultText>Als du rufst und gestikulierst, geht der Glanz des Lichtbeugers verloren und du bist plötzlich sichtbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -292,9 +270,7 @@ Die Anführerin der Verteidiger spricht dich mit einem seltsamen Akzent an. „W
 
 Als deine Sinne zurückkehren, erkennst du das Gemetzel, das du angerichtet hast. Fast alle vom Volk sind tot: darunter auch die Sprecherin und das Kind. Einige wenige sind stark verwundet. Ohne Arme robbt der Arzt über den Boden, einem ungewissen Ende entgegen. Die meisten liegen im Sterben; alle sind hilflos.
 
-Das Energieband, das vorher von der Maschine durch das Fenster zur entfernten Sänfte floss, ist verschwunden. Die Halle ist dunkel und die Dunkelheit ist erfüllt vom Geruch und Klang des Todes.
-
-{[A] SOUND: Crystal exploding.}</DefaultText>
+Das Energieband, das vorher von der Maschine durch das Fenster zur entfernten Sänfte floss, ist verschwunden. Die Halle ist dunkel und die Dunkelheit ist erfüllt vom Geruch und Klang des Todes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,9 +289,7 @@ Das Energieband, das vorher von der Maschine durch das Fenster zur entfernten S�
 
 Sie waren ohnehin schon dem Tod geweiht: durch die Plage, die Kanonen auf der Klippe, vielleicht schon todgeweiht seit dem Tag, als sie sich dazu entschlossen, ihre Häuser auf dem Rücken eines Wals zu errichten. Schlimmstenfalls hast du das Ganze etwas beschleunigt.
 
-Nachdem deine Arbeit getan ist, verlässt du das Heckkastell und machst dich auf den Weg zur Sänfte.
-
-{[B] SOUND: A sword being drawn.}</DefaultText>
+Nachdem deine Arbeit getan ist, verlässt du das Heckkastell und machst dich auf den Weg zur Sänfte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -333,9 +307,7 @@ Der Anderen vom Volk sind zunächst so geschockt, dass sie nichts tun. Du zöger
 
 Es ist vergeblich. Sie können durchaus den Jungen getötet haben, aber dich können sie niemals töten. Einige Streifhiebe und dürftige Stiche musst du einstecken, aber das Blut, das am Ende den Boden des Heckkastells bedeckt, stammt nicht von dir.
 
-Die ganze Zeit sitzt der Geschenkte da, sanftmütig. Es gibt keinen Grund, ihn zu töten. Er schaut zu, wie du die wichtigen Teile des Numeneras zertrümmerst. Die Halle wird dunkel als die Energie ausgeht, aber der Junge schaut dir immer noch zu.
-
-{[B] SOUND: Sword drawn, sword slice, then a brawl with sword attacks. See 108 note.}</DefaultText>
+Die ganze Zeit sitzt der Geschenkte da, sanftmütig. Es gibt keinen Grund, ihn zu töten. Er schaut zu, wie du die wichtigen Teile des Numeneras zertrümmerst. Die Halle wird dunkel als die Energie ausgeht, aber der Junge schaut dir immer noch zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -393,9 +365,7 @@ Sie deutet auf die Verteidiger, die in der Halle kauern. „Jetzt sind wir nur n
       <ID>58</ID>
       <DefaultText>Der Cheirurg nickt und winkt dich zu sich. „Nimm Platz“, sagt er und deutet auf einen einfachen Holzstuhl.
 
-Während du dich etwas ausruhst, beginnt er seine Arbeit mit Cyphern, die viel einfacher sind; vielleicht Relikte aus einer besseren Zeit. Die Behandlung, die dir zuteil wird, ist schnell, aber wirkungsvoll und zumindest einige deiner Wunden sind verschwunden.
-
-{[B] SOUND: A healing cypher being used. Perhaps there is a generic sound from the game we can use here?}</DefaultText>
+Während du dich etwas ausruhst, beginnt er seine Arbeit mit Cyphern, die viel einfacher sind; vielleicht Relikte aus einer besseren Zeit. Die Behandlung, die dir zuteil wird, ist schnell, aber wirkungsvoll und zumindest einige deiner Wunden sind verschwunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -415,9 +385,7 @@ Der Heiler reicht dir ein Fläschchen, zusammen mit einer Cypher, die es in den 
 
 Dann spricht das Volk ein Segenswort und du wirst zu einem Tunnel geführt – gegraben durch das Walfleisch – dadurch hast du einen einfachen Start. Dein Weg wird nicht einfach; das Dorf ist überlaufen. Aber das ist der einzige Weg.
 
-Und so gehst du los.
-
-{[A] SOUND: A thud (the boy laid on a bench), a drilling sound – through flesh! – and then a sucking sound.}</DefaultText>
+Und so gehst du los.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -495,16 +463,12 @@ Ihre Stimme ist leise, aber kräftig als sie fortsetzt. „Die Plage breitete si
 
 Die Stummen sind keine Kämpfer und die Verzweiflung kann genauso gut schwächen als auch stärken. Einen nach dem anderen legst du sie um. Ihr wortloses Verlangen ist vorbei und dein Weg ist frei.
 
-Bevor noch mehr Stumme sich einfinden, gehst du schnell weiter.
-
-{[A] SOUND: Brawl, with sword attacks.}</DefaultText>
+Bevor noch mehr Stumme sich einfinden, gehst du schnell weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Die Cypher, die so lange bewahrt wurde, hat endlich ihren Moment. Die Explosion des Kristalls ist blendend, betäubend und zerstörerisch. Die überlebenden Stummen rennen in wilder Aufregung davon und dein Weg ist frei.
-
-{[A] SOUND: Crystal explosion.}</DefaultText>
+      <DefaultText>Die Cypher, die so lange bewahrt wurde, hat endlich ihren Moment. Die Explosion des Kristalls ist blendend, betäubend und zerstörerisch. Die überlebenden Stummen rennen in wilder Aufregung davon und dein Weg ist frei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -515,9 +479,7 @@ Du tauchst unter einem Schlag durch und als du dich wieder aufrichtest, trifft d
 
 Es ist kein schmerzloser Tod, aber alles ist erträglich, wenn ein Ende in Sicht ist. Und als du über die Bucht zu den unzähligen Kanonen auf den Klippen blickst, siehst du auch das Ende der Stummen, das Ende des Stillen Todes und das Ende des Volkes und seines Zufluchtsortes.
 
-Du bist ihnen beim Sterben nur einen kleinen Schritt voraus.
-
-{[A] SOUND: Brawl, with sword attacks.}</DefaultText>
+Du bist ihnen beim Sterben nur einen kleinen Schritt voraus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -537,9 +499,7 @@ In dem Pavillon steht ein untersetzter Mann, breitbrüstig und rötlich. Der Wal
 
 Hinter ihm ragen Tuben mit großen Öffnungen aus der Walhaut und dahinter ist eine große ebene Fläche, die Walstirn. Und nicht so weit entfernt siehst du die Klippen, die Kanonen und die Stadt.
 
-Die Stimme des Walsängers dröhnt, wenn er spricht, seine Worte sind aber akzentuiert wie die der Sprecherin. „Ich kenne dich nicht, Fremder, aber du hast dich gegen die Stummen durchgesetzt und kommst mit dem Segen der Sprecherin. Ich höre.“
-
-{ART: Howdah.}</DefaultText>
+Die Stimme des Walsängers dröhnt, wenn er spricht, seine Worte sind aber akzentuiert wie die der Sprecherin. „Ich kenne dich nicht, Fremder, aber du hast dich gegen die Stummen durchgesetzt und kommst mit dem Segen der Sprecherin. Ich höre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -589,9 +549,7 @@ Der Wind trägt dich nach Hause zurück. Du hast keine Lust, dich nach dem versc
       <ID>91</ID>
       <DefaultText>Wortlos und ohne Widerstand zu leisten, lässt sich der Junge von dir über den Bootsrand werfen. Sicher kann er schwimmen, aber er denkt gar nicht daran und versinkt schnell im indigoblauen Meer.
 
-Du hisst das Lateinersegel und es füllt sich mit dem Wind. Wenige Augenblicke später verschwindet der Wal bereits in der Ferne. Du hast keine Lust, ihn oder das sterbende Dorf auf seinem Rücken zu beobachten, denn vor dir siehst du die wunderbare Stadt Sagusklippen, ihre Gebäude und die wimmelnden Menschen, die langsam in Sichtnähe kommen.
-
-{[A] SOUND: A splash of a person being thrown into water. No attempt to swim or anything; might as well be a corpse thrown in.}</DefaultText>
+Du hisst das Lateinersegel und es füllt sich mit dem Wind. Wenige Augenblicke später verschwindet der Wal bereits in der Ferne. Du hast keine Lust, ihn oder das sterbende Dorf auf seinem Rücken zu beobachten, denn vor dir siehst du die wunderbare Stadt Sagusklippen, ihre Gebäude und die wimmelnden Menschen, die langsam in Sichtnähe kommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -600,9 +558,7 @@ Du hisst das Lateinersegel und es füllt sich mit dem Wind. Wenige Augenblicke s
 
 Als du aus seinem Schatten kommst, verwandeln sich die indigoblauen Wellen in azurblau. Die große Stadt Sagusklippen kommt langsam in Sicht: ihre Gebäude und die wimmelnden Menschen.
 
-Und dann gibt es einen hellen Blitz und nichts mehr, nicht außer die kurzlebige Feststellung, dass du dich geirrt hast und dass die Stimme die Wahrheit sagte, und dass deine eigenen Leute dich vernichteten, um die Sicherheit der Stadt zu bewahren.
-
-{[A] SOUND: Energy cannons being fired.}</DefaultText>
+Und dann gibt es einen hellen Blitz und nichts mehr, nicht außer die kurzlebige Feststellung, dass du dich geirrt hast und dass die Stimme die Wahrheit sagte, und dass deine eigenen Leute dich vernichteten, um die Sicherheit der Stadt zu bewahren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,9 +567,7 @@ Und dann gibt es einen hellen Blitz und nichts mehr, nicht außer die kurzlebige
 
 Es gibt keine Worte mehr, die du noch hören musst. Nicht von deinem Meister, der in seiner Stadt verweilt. Nicht von dem Jungen, der keine Stimme hat. Und nicht von deinen Lippen, die durch deine eigene Tat sprachlos wurden.
 
-Du hisst das Lateinersegel und fährst von der Stadt weg, zu deren Rettung du los gesandt wurdest. Die Welt ist riesig und umgeben von Wellen. Ihre Küsten sind prächtig mit anderen Häusern. Du nickst dem Jungen zu und segelst los, um sie zu finden.
-
-{[B] SOUND: The "chunk" sound of a metal collar being opened, followed by a splash.}</DefaultText>
+Du hisst das Lateinersegel und fährst von der Stadt weg, zu deren Rettung du los gesandt wurdest. Die Welt ist riesig und umgeben von Wellen. Ihre Küsten sind prächtig mit anderen Häusern. Du nickst dem Jungen zu und segelst los, um sie zu finden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -664,27 +618,21 @@ Er kniet hin und legt eine Hand auf den riesigen Kopf unter ihm. „Es ist eine 
       <ID>107</ID>
       <DefaultText>Du erklärst eilig, was dir der Heiler mitgab und gibst dem Walsänger den Impfstoff. Er sticht mit der Nadel in seine Haut und vermengt das Serum mit seinem Blut.
 
-Durch die Injektion tritt keine Veränderung oder Verwunderung ein: hinter dieser Behandlung steckt keine Esoterie, sondern nur das Leben eines Kindes. Immerhin nickt der Walsänger und bedankt sich. „Du hast mein Lied abgesichert und somit die Zuflucht.“
-
-{[B] SOUND: High-tech auto-injector sound sound, maybe more of a hiss sound than anything, like the injectors on Babylon 5.}</DefaultText>
+Durch die Injektion tritt keine Veränderung oder Verwunderung ein: hinter dieser Behandlung steckt keine Esoterie, sondern nur das Leben eines Kindes. Immerhin nickt der Walsänger und bedankt sich. „Du hast mein Lied abgesichert und somit die Zuflucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
       <DefaultText>Als du deinen Windschlitzer zückst, zieht der Walsänger sein eigenes Schwert aus dem Schaft auf seinem Rücken. Es ist eine bescheidene, altersschwache Waffe, aber ihr Träger ist kräftig und hat einen starken Überlebenswillen.
 
-Aber eigentlich ist er ein Sänger und du ein kampferprobter Killer; kampferprobt, aber auch kampfmüde und von vielen Wunden gezeichnet, die du heute erlitten hast. Dass deine Wachsamkeit nachlassen könnte, ist verzeihlich, aber dennoch fatal.
-
-{[B] SOUND: Two swords being drawn and clanging together. If we don't get to this sound, we could use ths sword brawl sound here.}</DefaultText>
+Aber eigentlich ist er ein Sänger und du ein kampferprobter Killer; kampferprobt, aber auch kampfmüde und von vielen Wunden gezeichnet, die du heute erlitten hast. Dass deine Wachsamkeit nachlassen könnte, ist verzeihlich, aber dennoch fatal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
       <DefaultText>Als du deinen Windschlitzer zückst, zieht der Walsänger sein eigenes Schwert aus dem Schaft auf seinem Rücken. Es ist eine bescheidene, altersschwache Waffe, aber ihr Träger ist kräftig und hat einen starken Überlebenswillen.
 
-Er liefert dir einen harten Kampf, aber letzten Endes ist dieser Mann ein Sänger, wohingegen du ein Killer bist. Du erledigst es so schnell und schmerzlos du kannst. Der bemerkt den Tod nicht und gleitet einfach auf seinem neuen Kurs dahin, endlich ungebunden und frei, zu wandern, wohin er will.
-
-{[B] SOUND: Two swords being drawn, and clanging together. See 108 note.}</DefaultText>
+Er liefert dir einen harten Kampf, aber letzten Endes ist dieser Mann ein Sänger, wohingegen du ein Killer bist. Du erledigst es so schnell und schmerzlos du kannst. Der bemerkt den Tod nicht und gleitet einfach auf seinem neuen Kurs dahin, endlich ungebunden und frei, zu wandern, wohin er will.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -863,9 +811,7 @@ Ihre Not sieht man deutlich in ihren Gesichtern und die drohende Gewalt ist eind
 
 Du ziehst deinen Windschlitzer, aber bevor du ihn damit niederstrecken kannst, wirft der Walsänger dich um. Glück, Verzweiflung, brutale Kraft … was auch immer es war, seine Klinge dringt tief in dich ein und dein Blut spritzt heraus. Während es sich auf die Walhaut ergießt, blickst du ein letztes Mal auf das Meer, auf die aufsteigenden Klippen und auf die Kanonen, die in der Sonne funkeln.
 
-Du stirbst in dem Wissen, dass selbst wenn du versagt hast, der Wal – und damit die Plage, die er auf seinem Rücken trägt – wird niemals Sagusklippen erreichen.
-
-{[B] SOUND: A dagger being drawn, a sword being drawn, then a stabbing sound. See note on 108.}</DefaultText>
+Du stirbst in dem Wissen, dass selbst wenn du versagt hast, der Wal – und damit die Plage, die er auf seinem Rücken trägt – wird niemals Sagusklippen erreichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -874,9 +820,7 @@ Du stirbst in dem Wissen, dass selbst wenn du versagt hast, der Wal – und dami
 
 Du ziehst deinen Windschlitzer, aber bevor du ihn damit niederstrecken kannst, wirft der Walsänger dich um. Glück, Verzweiflung, brutale Kraft … was auch immer es war, seine Klinge dringt tief in dich ein und dein Blut spritzt heraus.
 
-Es ist eine gute Wunde, die beste, die sich ein Sänger bei einem kampferprobten Killer wünschen kann. Aber das ist die einzige, die ihm gelingt. Du wirfst ihn von dir herunter, springst auf und schlägst ihm den Kopf ab. Der Mann stirbt mit einem staunenden Blick in den Augen.
-
-{[B] SOUND: A dagger being drawn, a sword being drawn, then a stabbing sound. See note on 108.}</DefaultText>
+Es ist eine gute Wunde, die beste, die sich ein Sänger bei einem kampferprobten Killer wünschen kann. Aber das ist die einzige, die ihm gelingt. Du wirfst ihn von dir herunter, springst auf und schlägst ihm den Kopf ab. Der Mann stirbt mit einem staunenden Blick in den Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -895,9 +839,7 @@ Du hast vielleicht versagt, aber die Plage der Zuflucht wird niemals die Stadt e
       <ID>149</ID>
       <DefaultText>Plötzlich summt deine Halskette und eine Stimme warnt: „Du hast zu lang gebraucht. Viel zu lang.“
 
-Kaum sind die Worte ausgesprochen, eröffnen auch schon die Kanonen auf den Klippen das Feuer. Du spürst keinen Schmerz, nur einen Augenblick der Feststellung und dann Vernichtung. Weder von dir noch vom Wal wird es eine Spur geben, die der Stadt noch einmal Ärger machen könnte.
-
-{[A] SOUND: Cannons firing. We're talking about scifi energy cannons, not age of sail cannons.}</DefaultText>
+Kaum sind die Worte ausgesprochen, eröffnen auch schon die Kanonen auf den Klippen das Feuer. Du spürst keinen Schmerz, nur einen Augenblick der Feststellung und dann Vernichtung. Weder von dir noch vom Wal wird es eine Spur geben, die der Stadt noch einmal Ärger machen könnte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -917,9 +859,7 @@ Kaum sind die Worte ausgesprochen, eröffnen auch schon die Kanonen auf den Klip
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Plötzlich wirst du vom Licht der Klippen geblendet. Die Kanonen haben geschossen. Der Wal ist verschwunden. Die Stadt ist gerettet, auch wenn nicht durch dein Tun.
-
-{[A] SOUND: Energy cannons being fired.}</DefaultText>
+      <DefaultText>Plötzlich wirst du vom Licht der Klippen geblendet. Die Kanonen haben geschossen. Der Wal ist verschwunden. Die Stadt ist gerettet, auch wenn nicht durch dein Tun.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -929,9 +869,7 @@ Kaum sind die Worte ausgesprochen, eröffnen auch schon die Kanonen auf den Klip
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Einige Momente später ist der Himmel hell erleuchtet. Die Kanonen haben geschossen, der Wal ist verschwunden und sein Heim ist auch weg. Er hält deine Hand fest und vergießt keine Träne.
-
-{[A] SOUND: Energy cannon being fired.}</DefaultText>
+      <DefaultText>Einige Momente später ist der Himmel hell erleuchtet. Die Kanonen haben geschossen, der Wal ist verschwunden und sein Heim ist auch weg. Er hält deine Hand fest und vergießt keine Träne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -986,9 +924,7 @@ Sie sind in Sicherheit.</DefaultText>
       <ID>167</ID>
       <DefaultText>Als die Cypher auf das Kraftfeld trifft, gibt es einen Blitz gefolgt von einem Donnerschlag – einer der lauter erscheint nach all der bedrückenden Stille, die voran ging.
 
-Deine Sinne kehren zurück und es zeigt sich, dass deine Bemühungen nichts gebracht haben. Das Kraftfeld schimmert unverändert weiter, die Nabelschnur für die Energiezufuhr vom Heckkastell ist nicht durchtrennt und dein Kristall ist nichts weiter als Staub, der von der Meeresbrise davongetragen wird.
-
-{[A] SOUND: Crystal explosion.}</DefaultText>
+Deine Sinne kehren zurück und es zeigt sich, dass deine Bemühungen nichts gebracht haben. Das Kraftfeld schimmert unverändert weiter, die Nabelschnur für die Energiezufuhr vom Heckkastell ist nicht durchtrennt und dein Kristall ist nichts weiter als Staub, der von der Meeresbrise davongetragen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1017,9 +953,7 @@ Deine Sinne kehren zurück und es zeigt sich, dass deine Bemühungen nichts gebr
 
 Als du weiterblätterst, ändern sich immer nur die Daten und die Anzahl.
 
-Jegliches Nachdenken wird vom Summen deiner Halskette und einer scharfen Stimme in deinem Kopf jäh unterbrochen: „Zögere nicht.“
-
-{[C] SOUND: Opening a book.}</DefaultText>
+Jegliches Nachdenken wird vom Summen deiner Halskette und einer scharfen Stimme in deinem Kopf jäh unterbrochen: „Zögere nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1043,7 +977,7 @@ Während du kämpfst, scheint Sagusklippen immer größer zu werden und näher z
       <ID>176</ID>
       <DefaultText>Die Stahlhalskette, die um deinen Hals liegt, summt und eine Stimme flüstert in deinem Kopf: „Beeilung. Unsere seewärts gerichteten Batterien können den Wal zu Staub werden lassen, wenn es sein muss, aber wir möchten uns die Munition für dunklere Tage aufheben.“
 
-Kurz danach summt die Halskette erneut und die Stimme fügt hinzu: „Die Ansteckungsgefahr zu eliminieren ist Sache von Ärzten und kein Arzt würde eine Säge nehmen, wenn auch ein Skalpell ausreicht. Geh los und schneide durch, was sein muss und sorge dafür, dass die Krankheit nicht unsere Stadt erreicht.“ Schließlich sagt die Stimme: „Und mach dir keine Gedanken, deinem Körper kann die Krankheit nichts anhaben.“ {VOICE: I'd add a sneer on "contagion."}
+Kurz danach summt die Halskette erneut und die Stimme fügt hinzu: „Die Ansteckungsgefahr zu eliminieren ist Sache von Ärzten und kein Arzt würde eine Säge nehmen, wenn auch ein Skalpell ausreicht. Geh los und schneide durch, was sein muss und sorge dafür, dass die Krankheit nicht unsere Stadt erreicht.“ Schließlich sagt die Stimme: „Und mach dir keine Gedanken, deinem Körper kann die Krankheit nichts anhaben.“
 
 Die Halskette verstummt. Die ledrige Walseite ragt über dir auf wie eine lebendige Klippe. Irgendwo da oben sind die Männer und Frauen, die den Tod in deine Heimat tragen.</DefaultText>
       <FemaleText />
@@ -1124,9 +1058,7 @@ Er scheint sich gegen deinen Angriff, mit dem er fest rechnet, zu wappnen. „Da
 
 Aber deine Kletterklauen haben einen guten Griff und deine Arme und Beine sind stark – stärker als die meisten und um ein Vielfaches stärker als die von diesen kranken Leuten. Schließlich kannst dich außerhalb ihrer Reichweite bringen, du bist sicher aber nicht unversehrt. Über dir schimmert der Energiestrahl, der das Kraftfeld der weit entfernten Sänfte nährt; unter dir verkrümmen sich Gesichter in stummer Wut.
 
-Du schenkst beiden Dingen nur einen kurzen Blick, bevor du dich durch ein offenes Fenster schwingst. Du landest geschickt in einer großen Halle.
-
-{[B] SOUND: Climbing claws on stone.}</DefaultText>
+Du schenkst beiden Dingen nur einen kurzen Blick, bevor du dich durch ein offenes Fenster schwingst. Du landest geschickt in einer großen Halle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1137,9 +1069,7 @@ Der Anderen vom Volk sind so geschockt, dass sie nichts tun. Du verschwendest ke
 
 Es ist vergeblich. Sie können durchaus den stummen Jungen getötet haben, aber – bereits geschwächt durch den Kampf- können sie dich niemals töten. Einige Streifhiebe und dürftige Stiche musst du einstecken, aber das Blut, das den Boden des Heckkastells bedeckt, stammt nicht von dir.
 
-Die ganze Zeit sitzt der Geschenkte da, sanftmütig. Es gibt keinen Grund, ihn zu töten. Er schaut zu, wie du die wichtigen Teile des Numeneras zertrümmerst. Die Halle wird dunkel als die Energie ausgeht, aber der Junge schaut dir immer noch zu.
-
-{[B] SOUND: Sword drawn, sword slice, then a brawl with sword attacks. See 108 note.}</DefaultText>
+Die ganze Zeit sitzt der Geschenkte da, sanftmütig. Es gibt keinen Grund, ihn zu töten. Er schaut zu, wie du die wichtigen Teile des Numeneras zertrümmerst. Die Halle wird dunkel als die Energie ausgeht, aber der Junge schaut dir immer noch zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1148,9 +1078,7 @@ Die ganze Zeit sitzt der Geschenkte da, sanftmütig. Es gibt keinen Grund, ihn z
 
 Die Stummen sind keine Kämpfer und die Verzweiflung kann genauso gut schwächen als auch stärken. Einen nach dem anderen legst du sie um. Ihr wortloses Verlangen ist vorbei und dein Weg ist frei.
 
-Bevor noch mehr Stumme sich einfinden, gehst du schnell weiter.
-
-{[A] SOUND: Brawl, with sword attacks.}</DefaultText>
+Bevor noch mehr Stumme sich einfinden, gehst du schnell weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1168,9 +1096,7 @@ Bevor noch mehr Stumme sich einfinden, gehst du schnell weiter.</DefaultText>
 
 Die Stummen sind keine Kämpfer und die Verzweiflung kann genauso gut schwächen als auch stärken. Einen nach dem anderen legst du sie um. Ihr wortloses Verlangen ist vorbei und dein Weg ist frei.
 
-Bevor noch mehr Stumme sich einfinden, gehst du schnell weiter.
-
-{[A] SOUND: Brawl, with sword attacks.}</DefaultText>
+Bevor noch mehr Stumme sich einfinden, gehst du schnell weiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1239,16 +1165,12 @@ Schließlich hast du die Flanke des Wals erklommen und ziehst dich nach oben.</D
 
 Im Ankerkasten lässt du ein kleines, wasserdichtes Bestandsbuch, das dort bleiben sollte.
 
-Du siehst eine Harpune aus Azurstahl, die sich tief ins Walfleisch gebohrt hat und mit einem kräftigen Seil mit der Dhau verbunden ist. Sie rauszuziehen wäre sehr schwer, und außerdem ist es besser, wenn dein Boot mit der Bestie verbunden bleibt.
-
-{[C] SOUND: Sheathing a sword.}</DefaultText>
+Du siehst eine Harpune aus Azurstahl, die sich tief ins Walfleisch gebohrt hat und mit einem kräftigen Seil mit der Dhau verbunden ist. Sie rauszuziehen wäre sehr schwer, und außerdem ist es besser, wenn dein Boot mit der Bestie verbunden bleibt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>Da ist nichts mehr und deine Halskette summt ununterbrochen, aber ohne Worte.
-
-{[C] SOUND: Buzzing.}</DefaultText>
+      <DefaultText>Da ist nichts mehr und deine Halskette summt ununterbrochen, aber ohne Worte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1257,7 +1179,7 @@ Du siehst eine Harpune aus Azurstahl, die sich tief ins Walfleisch gebohrt hat u
 
 Eine große Meute hat sich an den Treppen zum Heckkastell versammelt und viele der Männer und Frauen poltern stumm an die Tore. Ihr Schweigen und die Eintönigkeit ihrer Emotionen ist auffällig. Während du ihre wirkungslose Belagerung betrachtest, reihen sich neue Menschen hinter dir ein und schieben dich blind vor sich her und schneiden dir jegliche Rückzugsmöglichkeiten ab.
 
-Die Energie das Lichtbeugers geht zu Ende und als du sichtbar wirst, schauen einige in der Meute zu dir. Du bist in keiner unmittelbaren Gefahr, aber gegen so viele zu kämpfen, wäre eine beachtliche Leistung. {[B] SOUND: Pounding of fists/clubs on gate.}</DefaultText>
+Die Energie das Lichtbeugers geht zu Ende und als du sichtbar wirst, schauen einige in der Meute zu dir. Du bist in keiner unmittelbaren Gefahr, aber gegen so viele zu kämpfen, wäre eine beachtliche Leistung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

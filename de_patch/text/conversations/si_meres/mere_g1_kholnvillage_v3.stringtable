@@ -10,26 +10,22 @@
 
 Tashs Körper – der nun dir gehört – klebt an dir wie ein nasses Tuch. Die Welt ist zu hell, als dass es Nacht sein könnte. Alles um dich herum ist zu deutlich, die Ferne zu nah, Kanten zu scharf. Die Erinnerungen schwirren wie Blutfliegen durch deinen Kopf und surren davon, bevor du eine von ihnen greifen kannst.
 
-Abgeplagte Aneen heben hinter dir unter Schnauben ihre Glieder. Sie haben schon zu lange keine Pause mehr eingelegt, so wie du. Und dann ist da noch Matkina. Eine viel *neuere* Matkina, so als hätte sie ein eifriger Maler erschaffen. Zu weich, zu lebhaft, zu … schön. Einfach nicht richtig. {VOICE: To be clear, „And there's Matkina“ is meant to be „there is also Matkina“ not „And over there is Matkina.“ I would put a slight pause before, and a slight emphasis on, „pretty.“}
+Abgeplagte Aneen heben hinter dir unter Schnauben ihre Glieder. Sie haben schon zu lange keine Pause mehr eingelegt, so wie du. Und dann ist da noch Matkina. Eine viel *neuere* Matkina, so als hätte sie ein eifriger Maler erschaffen. Zu weich, zu lebhaft, zu … schön. Einfach nicht richtig.
 
-In der Einöde erkennst du das Licht von Lagerfeuern. Aber ein noch größeres Feuer brennt in dem kleinen Dorf, das vor dir liegt. {VOICE: This could end slightly ominously in tone.}
-
-{SOUND [A]: Crackling fire. This can probably carry over into node 2, if possible.}</DefaultText>
+In der Einöde erkennst du das Licht von Lagerfeuern. Aber ein noch größeres Feuer brennt in dem kleinen Dorf, das vor dir liegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Es ist ein Scheiterhaufen. Auf ihm brennt langsam ein übergroßer Körper. Dunkle Rauchschwaden erheben sich von ihm ausgehend in den Nachthimmel. Einige Dorfbewohner umkreisen zitternd und klagend den Scheiterhaufen.
 
-Die raue Stimme ihres Oberhauptes fährt mit dem Ritual fort: „Sei befreit vom Exil.“ Unter den Trauernden sind einige, die einstimmen. „Sei befreit.“ {VOICE: Probably obvious, the headman should have a deeper, more sonorous voice than the others.}
+Die raue Stimme ihres Oberhauptes fährt mit dem Ritual fort: „Sei befreit vom Exil.“ Unter den Trauernden sind einige, die einstimmen. „Sei befreit.“
 
 Er wirft eine Handvoll Pulver in das Feuer – vielleicht metallische Salze – und ein Geysir aus leuchtender Glut steigt in den Nachthimmel. Manche Funken leuchten golden, manche grün, einige violett.
 
-„Sei befreit vom Zorn.“ Sie wiederholen die Worte des Oberhaupts. {VOICE: This is the headman speaking this quoted line.}
+„Sei befreit vom Zorn.“ Sie wiederholen die Worte des Oberhaupts.
 
-Während die Funken hinaus in die Weite der Einöde schweben und zwischen den Lichtern der Sterne und der Lagerfeuer erlöschen, hörst du Matkina andachtsvoll flüstern: „Sei befreit.“
-
-{SOUND [A]: Continued crackling of a pyre, followed by a kind of „whoosh“ for when the metal salts are flung onto it.}</DefaultText>
+Während die Funken hinaus in die Weite der Einöde schweben und zwischen den Lichtern der Sterne und der Lagerfeuer erlöschen, hörst du Matkina andachtsvoll flüstern: „Sei befreit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,9 +286,7 @@ Nach einer kurzen Pause lehnt er sich zu Matkina und flüstert ihr etwas ins Ohr
 
 Als ihr an der Höhle ankommt und vor dem riesigen, uralten Tor steht, schüttelt Matkina den Kopf. „Ich frage mich sich Jahren, was das sein soll“, sagt sie. „Eine Sage der Hügelmenschen erzählt davon, dass die ersten Männer und Frauen aus dieser Höhle gekommen sind. Sie besagt, dass das Tor sich erst dann öffnen würde, wenn es Zeit für die Menschen ist, zu verschwinden.“ Sie zuckt mit den Schultern. „Eignet sich wohl gut dazu, Kinder von diesem Ort fernzuhalten, damit sie nicht zu viel herumschnüffeln und das Jahk stören, schätze ich.“
 
-Etwas, dass Matkina gesagt hat, lässt deinen Verstand aufhorchen, und deine Erinnerungen klingeln wie ein Windspiel.
-
-{SOUND [A]: Climbing a hillside, maybe some scrambling and rocks or just trudging footsteps.}</DefaultText>
+Etwas, dass Matkina gesagt hat, lässt deinen Verstand aufhorchen, und deine Erinnerungen klingeln wie ein Windspiel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,9 +405,7 @@ Ohne auf deine Antwort zu warten, schließt sie die Schlösser auf, öffnet das 
 
 Im Inneren befindet sich kein Höhlengang. Stattdessen findet ihr einen glatten Gang vor, der aus grünlicher, phosphoreszierender Keramik gefertigt ist. Im grünen Schimmer begutachten du und Matkina die hier aufgereihten Toten, die offensichtlich nicht beerdigt wurden.
 
-Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, der sich immer weiter nach Innen schlängelt, als befändet ihr euch in einem gigantischen Schneckenhaus. Hier und da sind die Wände mit leblosen Cyphern verziert, mysteriöse Zeichnungen, manchmal sogar verkohlte Stellen, die von einem Kampf stammen können. Allesamt unverständlich.
-
-{SOUND [A]: A series of „clunks“ for each lock turning, followed by a gasp of air as the gate opens, then a groaning of metal as it swings wider.}</DefaultText>
+Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, der sich immer weiter nach Innen schlängelt, als befändet ihr euch in einem gigantischen Schneckenhaus. Hier und da sind die Wände mit leblosen Cyphern verziert, mysteriöse Zeichnungen, manchmal sogar verkohlte Stellen, die von einem Kampf stammen können. Allesamt unverständlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,16 +414,7 @@ Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, de
 
 Das Keramik-Podest darunter – als einziges Gerät in dieser 'Höhle' – pulsiert noch vor Lebensenergie. Diese Energie lässt das Jahk wenige Zentimeter in der Luft schweben. Es liegt nicht auf dem Podest, sondern hängt darüber.
 
-„Also“, sagt Matikina, „hier ist es.“
-
-{ART: The Jahk}
-
-{SOUND [A]: The haunting sound of a wind organ. Here are a couple references, though it must be much softer.
-
-https://www.youtube.com/watch?v=4wnVNOc8CCc
-https://www.youtube.com/watch?v=4B0hGyKV9qs
-
-I wonder whether this sound might persist until the jakh is destroyed, at either node 218 or 119.}</DefaultText>
+„Also“, sagt Matikina, „hier ist es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -440,9 +423,7 @@ I wonder whether this sound might persist until the jakh is destroyed, at either
 
 Im Inneren befindet sich kein Höhlengang. Tatsächlich kannst du überhaupt keinen Stein erkennen. Stattdessen findet ihr einen glatten Gang vor, der aus grünlicher, phosphoreszierender Keramik gefertigt ist. Im grünen Schimmer begutachten du und Matkina die hier aufgereihten Toten, die offensichtlich nicht beerdigt wurden.
 
-Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, der sich immer weiter nach Innen schlängelt, als befändet ihr euch in einem gigantischen Schneckenhaus. Hier und da sind die Wände mit leblosen Cyphern verziert, mysteriöse Zeichnungen, manchmal sogar verkohlte Stellen, die von einem Kampf stammen können. Für deine Ohren sind sie stumm.
-
-{SOUND [A]: A series of „clunks“ for each lock turning, followed by a gasp of air as the gate opens, then a groaning of metal as it swings wider.}</DefaultText>
+Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, der sich immer weiter nach Innen schlängelt, als befändet ihr euch in einem gigantischen Schneckenhaus. Hier und da sind die Wände mit leblosen Cyphern verziert, mysteriöse Zeichnungen, manchmal sogar verkohlte Stellen, die von einem Kampf stammen können. Für deine Ohren sind sie stumm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,9 +432,7 @@ Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, de
 
 Im Innern befindet sich kein Höhlengang. Tatsächlich kannst du überhaupt keinen Stein erkennen. Stattdessen findet ihr einen glatten Gang vor, der aus grünlicher, phosphoreszierender Keramik gefertigt ist. Im grünen Schimmer begutachten du und Matkina die hier aufgereihten Toten, die offensichtlich nicht beerdigt wurden.
 
-Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, der sich immer weiter nach Innen schlängelt, als befändet ihr euch in einem gigantischen Schneckenhaus. Hier und da sind die Wände mit leblosen Cyphern verziert, mysteriöse Zeichnungen, manchmal sogar verkohlte Stellen, die von einem Kampf stammen können. Für deine Ohren sind sie stumm.
-
-{SOUND [A]: A series of „clunks“ for each lock turning, followed by a gasp of air as the gate opens, then a groaning of metal as it swings wider.}</DefaultText>
+Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, der sich immer weiter nach Innen schlängelt, als befändet ihr euch in einem gigantischen Schneckenhaus. Hier und da sind die Wände mit leblosen Cyphern verziert, mysteriöse Zeichnungen, manchmal sogar verkohlte Stellen, die von einem Kampf stammen können. Für deine Ohren sind sie stumm.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -462,9 +441,7 @@ Es scheint keine Seitengänge zu geben, keine Kammern, nur ein einziger Pfad, de
 
 Trotz des Überraschungsmoments gelingt es Matkina, ihre Klinge zu zücken und sie zwischen den Rüstungsplatten einer der Glaiven zu stoßen, noch bevor sie am Boden ankommen. Sie holt zu einem weiteren Schwung aus, als ein Strahl aus Licht so umgibt und in einem Energiefeld einsperrt.
 
-Solange Matkina tobt, ist alle Aufmerksamkeit offensichtlich auf sie gerichtet, was dir etwas Handlungsspielraum verschafft, auch wenn es wenig sein mag.
-
-{SOUND [A]: A knife being thrown and piercing armor/flesh, possibly a grunt in response, then a zapping sound followed by a humming sound from the energy field used against Matkina.}</DefaultText>
+Solange Matkina tobt, ist alle Aufmerksamkeit offensichtlich auf sie gerichtet, was dir etwas Handlungsspielraum verschafft, auch wenn es wenig sein mag.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -547,9 +524,7 @@ Er zuckt mit den Schultern. „Aber du hast sicher recht; keiner davon ist schle
 
 Mit geübtem Auge und gewandten Fingern machst du dir die Funktionen des Geräts zu eigen und entschärfst die Falle. Die Schwerelosigkeit des Jahks hat ein Ende, und zwei Schläge ertönen: als das Jahk auf das Podest fällt, und als es auf dem Keramikboden aufschlägt. Matkina verleiht ihrer Abneigung durch ein Kopfschütteln Ausdruck und hebt es dann auf.
 
-„Wir haben, was wir wollten“, sagt sie und zeigt in die Richtung, aus der ihr gekommen seid. „Gehen wir.“
-
-{SOUND [A]: Tinkering with machinery, followed by two clank/bang noises as the jahk falls.}</DefaultText>
+„Wir haben, was wir wollten“, sagt sie und zeigt in die Richtung, aus der ihr gekommen seid. „Gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -560,9 +535,7 @@ Plötzlich fährt dir ein Schaudern durch den Körper – der physische Vorbote 
 
 „Tash!“ Matkina ruft nach dir. Sie reagiert im Bruchteil einer Sekunde, der dir dennoch vorkommt wie eine Ewigkeit – die fast von dir Besitz ergriffen hätte, wären Matkinas Reflexe nicht so gut. Sie schubst dich weg und unterbricht damit den Stromkreis. Dabei durchfließt der Strom auch ihren Körper.
 
-Schließlich liegt ihr beiden zitternd und qualmend auf dem Keramikboden. Matkina richtet sich zuerst auf, zieht dich hoch und nimmt das Jahk. „Gehen wir.“
-
-{SOUND [A]: Electrocution followed by a thud as Matkina knocks MPC aside.}</DefaultText>
+Schließlich liegt ihr beiden zitternd und qualmend auf dem Keramikboden. Matkina richtet sich zuerst auf, zieht dich hoch und nimmt das Jahk. „Gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -590,18 +563,14 @@ Du kannst das Jahk weder loslassen noch vom Podest nehmen. Tatsächlich kannst d
 
 „Tash!“ Matkina ruft nach dir. Sie reagiert im Bruchteil einer Sekunde, der dir dennoch vorkommt wie eine Ewigkeit – die fast von dir Besitz ergriffen hätte, wären Matkinas Reflexe nicht so gut. Sie schubst dich weg und unterbricht damit den Stromkreis. Dabei durchfließt der Strom auch ihren Körper.
 
-Schließlich liegt ihr beiden zitternd und qualmend auf dem Keramikboden. Matkina richtet sich zuerst auf, zieht dich hoch und nimmt das Jahk. „Gehen wir“, grummelt sie.
-
-{SOUND [A]: Electrocution followed by a thud as Matkina knocks MPC aside.}</DefaultText>
+Schließlich liegt ihr beiden zitternd und qualmend auf dem Keramikboden. Matkina richtet sich zuerst auf, zieht dich hoch und nimmt das Jahk. „Gehen wir“, grummelt sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
       <DefaultText>Es ist nur eine Frage von Timing und Konzentration: blitzschnell bewegst du deine Hand zum Jahk und reißt es vom Podest. Kurz darauf schießt ein Energieblitz hervor.
 
-Matkina sieht dich an und zieht eine Augenbraue hoch. „Wir leben heute gerne gefährlich, was, Tash?“ Sie nimmt das Jahk und zeigt in Richtung des Weges, aus dem ihr gekommen seid. „Wir sind hier fertig. Gehen wir.“
-
-{SOUND [B]: Some kind of swiping sound.}</DefaultText>
+Matkina sieht dich an und zieht eine Augenbraue hoch. „Wir leben heute gerne gefährlich, was, Tash?“ Sie nimmt das Jahk und zeigt in Richtung des Weges, aus dem ihr gekommen seid. „Wir sind hier fertig. Gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -615,9 +584,7 @@ Matkina sieht dich an und zieht eine Augenbraue hoch. „Wir leben heute gerne g
 
 Im selben Moment, in dem ihre Hand über dem Podest steht, zuckt ein Energieblitz nach oben und fährt durch ihren Körper. Einen Augenblick lang ist sie gelähmt – so wie du, bei diesem Anblick – doch dann gelingt es ihr, sich zu befreien. Der Schmerz steht ihr ins Gesicht geschrieben. Sie geht zu Boden, qualmend und stöhnend, aber am Leben. Das Jahk hält sie in ihren verbrannten Händen.
 
-Nachdem sie sich von alleine aufrichtet, murmelt sie: „Danke für die Hilfe, Tash.“ Dann zeigt sie in die Richtung, aus der ihr gekommen seid. „Gehen wir.“
-
-{SOUND [A]: Electrocution followed by a thud as Matkina breaks free; can be the same as the other electrocution sound.}</DefaultText>
+Nachdem sie sich von alleine aufrichtet, murmelt sie: „Danke für die Hilfe, Tash.“ Dann zeigt sie in die Richtung, aus der ihr gekommen seid. „Gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -628,9 +595,7 @@ Hinter ihnen, in der Ferne, kannst du das Dorf Kholn erkennen. Die Sandritter ha
 
 Ohne Vorwarnung richtet einer der Leibwächter seine Waffe auf Matkina und feuert. Aber sie ist bereits in Bewegung und wird nur gestreift. Mit der Klinge in der Hand nähert sie sich einem weiteren Glaive, der ein anderes Gerät einsatzbereit macht. Noch bevor Matkina zum Schwung ausholen kann, ist sie wie eingefroren. Gefangen in einer Zelle aus schimmernder Energie.
 
-Paj zielt mit einem kleinen Cypher auf das Jahk. Die anderen sehen zu und beachten dich so gut wie gar nicht.
-
-{SOUND [A]: A techno-blast, a knife being drawn from a sheath, a zapping sound followed by a humming sound from the energy field used against Matkina.}</DefaultText>
+Paj zielt mit einem kleinen Cypher auf das Jahk. Die anderen sehen zu und beachten dich so gut wie gar nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -644,9 +609,7 @@ Paj zielt mit einem kleinen Cypher auf das Jahk. Die anderen sehen zu und beacht
 
 Ohne dich umzudrehen, sprintest du den Hügel hinauf und auf der flacheren Seite wieder herunter, um zwischen zwei riesigen Felsen Schutz zu suchen. Kurz darauf schwebt ein getarntes Luftschiff durch den Himmel über dir – die transparenten Wellenbewegungen erinnern an eine Fata Morgana. Das muss Pajs Transportschiff sein, kein Zweifel. Dir bleibt solch ein Luxus verwehrt: nicht einmal dein Aneen dürfte dir nach der Ankunft der Sandritter in Kholn noch zur Verfügung stehen. Du wirst dich zu Fuß fortbewegen müssen.
 
-Aber eine plötzliche Verwirrung macht sich in einem Verstand breit und erspart dir die Sorge über die Reise. Du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel …
-
-{SOUND [A]: Scrambling sound of running up a hillside, can recycle the other climbing sound if there's not time for a new one.}</DefaultText>
+Aber eine plötzliche Verwirrung macht sich in einem Verstand breit und erspart dir die Sorge über die Reise. Du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -657,9 +620,7 @@ Aber es scheint, als wäre Paj noch nicht dazu bereit, dich töten zu lassen –
 
 „Ich weiß nicht, was für ein Spiel du spielst, Tash“, warnt sie dich. „Und es interessiert mich auch nicht besonders. Ich will nur das Jahk. Erzähl mir, wie man die Höhle öffnet, dann sehen wir weiter.“
 
-Sie macht sich nicht einmal die Mühe, dich zu bedrohen oder zu bestechen. Trotz ihrer weichen, fast schon mütterlichen Merkmale hat sie es nicht nötig, aufbrausend zu werden. Ihr Blick genügt.
-
-{SOUND [A]: Zapping sound.}</DefaultText>
+Sie macht sich nicht einmal die Mühe, dich zu bedrohen oder zu bestechen. Trotz ihrer weichen, fast schon mütterlichen Merkmale hat sie es nicht nötig, aufbrausend zu werden. Ihr Blick genügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -706,9 +667,7 @@ Matkinas Augen flackern vor lodernder Wut, während sie aus dem Energiefeld hera
 
 Paj seufzt. „Es ist natürlich unfair, seine Freunde so zu behandeln“, sagt Paj. „Aber das Wichtigste kommt zuerst, und das ist der Sieg. Streitereien können später beigelegt werden.“
 
-Sie zeigt auf das Schlachten am Fuß des Hügels. „Diese Sandritter dort sind unersetzlich. Mit einem einzigen Schlag haben wir das Gleichgewicht der Macht in der Vexulianischen Einöde verändert und den eisernen Griff unserer Feinde von zwei Dutzend Dörfern gelöst. Du hast der Miliz heute einen guten Dienst erwiesen.“
-
-{SOUND [A] A distant but terrifying shriek – I'm thinking like the fell beasts in LOTR. Then the sound of gunfire, distant, like pops. Perhaps some very faint and indistinct shouts.}</DefaultText>
+Sie zeigt auf das Schlachten am Fuß des Hügels. „Diese Sandritter dort sind unersetzlich. Mit einem einzigen Schlag haben wir das Gleichgewicht der Macht in der Vexulianischen Einöde verändert und den eisernen Griff unserer Feinde von zwei Dutzend Dörfern gelöst. Du hast der Miliz heute einen guten Dienst erwiesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -737,9 +696,7 @@ Sie zeigt auf das Schlachten am Fuß des Hügels. „Diese Sandritter dort sind 
 
 Du versteckst dich zwischen Felsen und beobachtet aus der Deckung heraus, wie Paj das Rahk zerstört und daraufhin das Dorf am Fuß des Hügels in Chaos versinkt. Wo einst Neng und seine Hügelmenschen waren, windet sich jetzt eine wütende Masse aus *Tentakelwesen*, die über die Sandritter herfallen. Der überraschende Angriff tötet viele von ihnen. Andere eröffnen das Feuer.
 
-Matkina schaut zitternd und hilflos aus ihrem Energiegefängnis heraus zu. Paj nickt, woraufhin zwei ihrer Leibwächter sie von der Klippe in das Chaos weiter unten werfen. Nach getaner Arbeit eilen Paj und ihre Truppe davon.
-
-{SOUND [A]: Scramblign sound, followed by… Some kind of techno-shot firing, followed by something shattering. A moment later, a distant but terrifying shriek – I'm thinking like the fell beasts in LOTR. Then the sound of gunfire, distant, like pops. Perhaps some very faint and indistinct shouts. Maybe fainter in this version than elsewhere when this sound is used, since the MPC is farther off.}</DefaultText>
+Matkina schaut zitternd und hilflos aus ihrem Energiegefängnis heraus zu. Paj nickt, woraufhin zwei ihrer Leibwächter sie von der Klippe in das Chaos weiter unten werfen. Nach getaner Arbeit eilen Paj und ihre Truppe davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -753,9 +710,7 @@ Matkina schaut zitternd und hilflos aus ihrem Energiegefängnis heraus zu. Paj n
 
 Ohne einen weiteren Blick zurück sprintest du auf der flacheren Seite des Hügels wieder herunter. Hinter dir zerschellen die Geräusche des tosenden Kampfes an den Steinen. Kurz darauf schwebt ein getarntes Luftschiff durch den Himmel über dir – die transparenten Wellenbewegungen erinnern an eine Fata Morgana. Das muss Pajs Transportschiff sein, kein Zweifel. Dir bleibt solch ein Luxus verwehrt: nicht einmal dein Aneen dürfte dir nach dem Gemetzel im Dorf Kholn zur Verfügung stehen. Du wirst dich zu Fuß fortbewegen müssen.
 
-Aber eine plötzliche Verwirrung macht sich in einem Verstand breit und erspart dir die Sorge über die Reise. Du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel …
-
-{SOUND [A]: Scrambling sound followed by shriek of airship.}</DefaultText>
+Aber eine plötzliche Verwirrung macht sich in einem Verstand breit und erspart dir die Sorge über die Reise. Du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -764,18 +719,14 @@ Aber eine plötzliche Verwirrung macht sich in einem Verstand breit und erspart 
 
 Diese Augenblicke sind kürzer als du erwartet hattest, und das Letzte, was du erfährst. Schmerzen hüllen dich ein. Dein Körper wird rückwärts an das Tor geworfen, ein qualmendes Überbleibsel, das gerade einmal noch über genügend Bewusstsein verfügt, um zu erkennen, dass dies das Ende ist.
 
-Dann ist es vorbei, und du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel …
-
-{SOUND: Zapping sound.}</DefaultText>
+Dann ist es vorbei, und du spürst, wie du langsam Tashs Haut, Tashs Verstand ablegst, und dann wird alles dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
       <DefaultText>Paj wirft dir ein leichtes, wissendes Lächeln zu. Dann aktiviert sie die Cypher, die sie in ihrer Hand hält, und ein dünner Strahl schießt aus ihr heraus.
 
-Das Jahk löst sich einfach in Luft auf.
-
-{SOUND [A]: Some kind of techno-shot firing, followed by something shattering. (This effect is used elsewhere in the Mere as part of a longer sfx.)}</DefaultText>
+Das Jahk löst sich einfach in Luft auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -867,16 +818,12 @@ Ganz gleich, ob deine Darbietung tatsächlich überzeugend ist oder Paj einen so
 
 Wie dem auch sei, sie hebt lediglich einen Finger und noch bevor du überhaupt reagieren kannst, zerschlitzt dich einer ihrer Leibwächter. Während du zerfetzt und unbeweglich zu Boden gehst, siehst du dabei zu, wie sie Matkina von der Klippe schleudern. In ihrem Energiefeld gefangen hört man sie nicht einmal schreien.
 
-Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …
-
-{SOUND [A]: Sound of flesh being sliced open by a very sharp sword.}</DefaultText>
+Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>„Wirf sie doch einfach von den Klippen. Glaube mir, diese Sache solltest du sie nicht überleben lassen.“ Matkina könnte den Sturz im Innern des Schilds überleben – es ist ihre beste Option.
-
-{ADAM: I'm torn as to whether Matkina should perceive this as a betrayal. I think so.}</DefaultText>
+      <DefaultText>„Wirf sie doch einfach von den Klippen. Glaube mir, diese Sache solltest du sie nicht überleben lassen.“ Matkina könnte den Sturz im Innern des Schilds überleben – es ist ihre beste Option.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -915,9 +862,7 @@ Während du zerfetzt und unbeweglich zu Boden gehst, siehst du dabei zu, wie sie
 
 Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen.
 
-Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …
-
-{SOUND [A]: Sound of flesh being sliced open by a very sharp sword.}</DefaultText>
+Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -950,9 +895,7 @@ In der Schlacht, die im Dorf zwischen den monströsen "Hügelmenschen" und den e
 
 Nur ein paar der monströsen "Hügelmenschen" leben noch, durch die Rauchschwaden und Trümmer wandernd – du kannst sie von oben aus sehen. Vielleicht töten sie noch ein paar Sandritter, bevor die Schlacht geschlagen ist. Aber wie auch immer der Kampf ausgehen mag, das Dorf Kholn ist Geschichte.
 
-So wie Matkina, die zertrümmert irgendwo zwischen den Ruinen liegt.
-
-{SOUND [A]: Wind blowing, occasional crack of gunfire in a volley.}</DefaultText>
+So wie Matkina, die zertrümmert irgendwo zwischen den Ruinen liegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -980,9 +923,7 @@ Sie selbst führt euren Trupp den Hang des Hügels hinunter, umgeben von ihren L
 
 Weder Paj noch ihr Gefolge lassen sich davon beeindrucken. Paj befiehlt dir, den Pfad hoch zum Hügel zu bewachen, zieht sich eine Maske über das Gesicht und verschwindet mit den anderen in den Rauchschwaden. Einen Augenblick später taucht sie wieder auf, zusammen mit einer Handvoll erschrockener Überlebender.
 
-Zusammen sprintet ihr den Hügel hinauf zum Luftschiff, während das Dorf hinter euch stirbt.
-
-{SOUND [A]: Cracks of gunfire, unearthly shrieks, weeping and cries of terror and pain, sound of fire burning.}</DefaultText>
+Zusammen sprintet ihr den Hügel hinauf zum Luftschiff, während das Dorf hinter euch stirbt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1010,9 +951,7 @@ Sie dreht sich um, um zu gehen, da sie das Gespräch für beendet hält.</Defaul
 
 Während du zerfetzt und unbeweglich zu Boden gehst, siehst du dabei zu, wie sie Matkina von der Klippe schleudern. Noch immer im Energiefeld gefangen hört man sie nicht einmal schreien, als sie auf den Felsen weiter unten aufschlägt. Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen.
 
-Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …
-
-{SOUND [A]: Sound of flesh being sliced open by a very sharp sword.}</DefaultText>
+Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1032,9 +971,7 @@ Sie wendet sich der Szenerie am Fuß des Hügels zu. In der Schlacht, die im Dor
 
 Nur ein paar der monströsen "Hügelmenschen" leben noch, durch die Rauchschwaden und Trümmer wandernd – du kannst sie von oben aus sehen. Vielleicht töten sie noch ein paar Sandritter, bevor die Schlacht geschlagen ist. Aber wie auch immer der Kampf ausgehen mag, das Dorf Kholn ist Geschichte.
 
-Auf dem Hügel steht Matkina, fürs Erste noch gefangen im Energiefeld. Ihr Verstand und ihr Körper sind unversehrt und sie ist versessen auf Rache.
-
-{SOUND [A]: Wind blowing, occasional crack of gunfire in a volley.}</DefaultText>
+Auf dem Hügel steht Matkina, fürs Erste noch gefangen im Energiefeld. Ihr Verstand und ihr Körper sind unversehrt und sie ist versessen auf Rache.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1062,9 +999,7 @@ Es ist nicht eindeutig, ob sie damit dich oder Matkina meint, und offenbar hat s
 
 Wie dem auch sei, sie hebt lediglich einen Finger und noch bevor du überhaupt reagieren kannst, zerschlitzt dich einer ihrer Leibwächter. Während du zerfetzt und unbeweglich zu Boden gehst, siehst du zwischen Paj und ihren Leibwächtern und Matkina hin- und her. Matkina erwidert den Blick. Doch sie kann nichts tun. Selbst wenn sie sich bewegen könnte, würde sie nur mit dir in den Tod gehen, wenn sie die Scharade jetzt durchbrechen würde.
 
-Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …
-
-{SOUND [A]: Sound of flesh being sliced open by a very sharp sword.}</DefaultText>
+Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1077,9 +1012,7 @@ Neng.
 
 Vielleicht kann er deinen Geruch nicht erkennen. Oder jegliche Vernunft und Sorge fehlen ihm bereits. Wie dem auch sei, seine Tentakel greifen nach dir, halten dich fest und zerreißen dich im nächsten Moment.
 
-Die Dunkelheit legt sich über dich, und mit ihr kommt die Erleichterung, aus Tashs Verstand zu entgleiten.
-
-{SOUND [A]: Cracks of gunfire, unearthly shrieks, weeping and cries of terror and pain, sound of fire burning. Then a loud roar, and the sound of ripping flesh.}</DefaultText>
+Die Dunkelheit legt sich über dich, und mit ihr kommt die Erleichterung, aus Tashs Verstand zu entgleiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1092,9 +1025,7 @@ Neng.
 
 Er scheint in der Luft herumzuschnüffeln, wirbelt dann mit seinen sich windenden Tentakeln in eine andere Richtung und verschwindet im Rauch.
 
-Du dringst weiter durch das Dorf vor, mit brennenden Augen und Lungen, bis du sie unerwarteterweise findest.
-
-{SOUND [A]: Cracks of gunfire, unearthly shrieks, weeping and cries of terror and pain, sound of fire burning.}</DefaultText>
+Du dringst weiter durch das Dorf vor, mit brennenden Augen und Lungen, bis du sie unerwarteterweise findest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1107,9 +1038,7 @@ Neng.
 
 Vielleicht kann er deinen Geruch nicht erkennen. Oder jegliche Vernunft und Sorge fehlen ihm bereits. Wie dem auch sei, seine Tentakel greifen nach dir, halten dich fest und zerreißen dich im nächsten Moment.
 
-Die Dunkelheit legt sich über dich, und mit ihr kommt die Erleichterung, aus Tashs Verstand zu entgleiten.
-
-{SOUND [A]: Cracks of gunfire, unearthly shrieks, weeping and cries of terror and pain, sound of fire burning. Then a loud roar, and the sound of ripping flesh.}</DefaultText>
+Die Dunkelheit legt sich über dich, und mit ihr kommt die Erleichterung, aus Tashs Verstand zu entgleiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1122,9 +1051,7 @@ Neng.
 
 Er scheint in der Luft herumzuschnüffeln, wirbelt dann mit seinen sich windenden Tentakeln in eine andere Richtung und verschwindet im Rauch.
 
-Du dringst weiter durch das Dorf vor, mit brennenden Augen und Lugen, bis du eine Gruppe von Dorfbewohnern findest, die sich in einer zusammengefallenen Hütte verstecken.
-
-{SOUND [A]: Cracks of gunfire, unearthly shrieks, weeping and cries of terror and pain, sound of fire burning.}</DefaultText>
+Du dringst weiter durch das Dorf vor, mit brennenden Augen und Lugen, bis du eine Gruppe von Dorfbewohnern findest, die sich in einer zusammengefallenen Hütte verstecken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1143,9 +1070,7 @@ Du dringst weiter durch das Dorf vor, mit brennenden Augen und Lugen, bis du ein
 
 Obwohl beide von euch wehrlos vor ihr stehen, scheint Paj weniger glücklich zu sein. „Ich weiß nicht, was für ein Spiel du spielst, Tash“, warnt sie dich. „Und es interessiert mich auch nicht besonders. Ich will nur das Jahk. Erzähl mir, wie man die Höhle öffnet, dann sehen wir weiter.“
 
-Sie macht sich nicht einmal die Mühe, dich zu bedrohen oder zu bestechen. Trotz ihrer weichen, fast schon mütterlichen Merkmale hat sie es nicht nötig, aufbrausend zu werden. Ihr Blick genügt.
-
-{SOUND [A]: A punch, followed by MPC falling.}</DefaultText>
+Sie macht sich nicht einmal die Mühe, dich zu bedrohen oder zu bestechen. Trotz ihrer weichen, fast schon mütterlichen Merkmale hat sie es nicht nötig, aufbrausend zu werden. Ihr Blick genügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1204,9 +1129,7 @@ Sie zeigt mit dem Finger in die Ferne, und als du ihm mit deinem Blick folgst, s
 
 Paj seufzt und hebt einen Finger in die Luft. Noch bevor du überhaupt reagieren kannst, zerschlitzt dich einer von Pajs Leibwächtern. Während du zu Boden gehst, siehst du dabei zu, wie sie Matkina von der Klippe schleudern. In ihrem Energiefeld gefangen hört man sie nicht einmal schreien.
 
-Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …
-
-{SOUND [A]: Sound of flesh being sliced open by a very sharp sword.}</DefaultText>
+Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1342,9 +1265,7 @@ Aber dann verhärtet sich ihr Gesichtsausdruck. „Etwas in dir hat sich veränd
       <ID>218</ID>
       <DefaultText>Als du versuchst, dich zu erklären, hebt Paj ihre leere Hand in die Luft, und ihre schiere Willenskraft bringt dich zum Schweigen. Ohne Unterbrechung aktiviert sie die Cypher, die sie in ihrer Hand hält, und ein dünner Strahl schießt aus ihr heraus.
 
-Das Jahk löst sich einfach in Luft auf.
-
-{SOUND [A]: Some kind of techno-shot firing, followed by something shattering.}</DefaultText>
+Das Jahk löst sich einfach in Luft auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1369,9 +1290,7 @@ Sie zeigt auf Matkina. „Wie viele Dutzend Feinde habt ihr beiden getötet? Gla
 
 Im Prinzip spricht sie von dem Schwur, die Dörfer und Städte in der Verxulianischen Einöde von der 'Bedrohung' durch das Dorf Kholn zu beschützen. Die Ritter versprechen, dass sie Maßnahmen ergreifen werden, um sicherzustellen, dass die Mörder von Dorf Kholn nie wieder jemanden verletzen können. Ihre Auslöschung wird nie direkt erwähnt, sondern nur angedeutet.
 
-Unter dem Siegel des Rittermarschalls finden sich Unterschriften von Bürgermeistern, Stadtvorstehern und Ältesten unterschiedlicher Dörfer und Städte der Einöde. Die Ritter erwarten keine Gegenleistung, die Unterschriften versprechen nichts. Sie *unterstützen*, rechtfertigen lediglich das Handeln der Ritter.
-
-{SOUND [A]: Uncrumpling a piece of paper.}</DefaultText>
+Unter dem Siegel des Rittermarschalls finden sich Unterschriften von Bürgermeistern, Stadtvorstehern und Ältesten unterschiedlicher Dörfer und Städte der Einöde. Die Ritter erwarten keine Gegenleistung, die Unterschriften versprechen nichts. Sie *unterstützen*, rechtfertigen lediglich das Handeln der Ritter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1382,9 +1301,7 @@ Sie presst den Knochen zurück an seine Stelle und verbindest die Wunde, so gut 
 
 Der Hut und Mantel des Sandritters, zu dem es gehört, sind verschwunden. Er sieht mehr nach einem verschrockenen jungen Mann aus, als nach einem Mörder. Aber seine Waffe ist scharf, und das Blut an seiner Kleidung gehört nicht ihm.
 
-Er feuert ohne ein Wort. Der gezielte Schuss durchbohrt dein Herz. Nein. Tashs Herz. Denn du spürst bereits, wie dir Tashs Körper und Verstand langsam entgleitet und du durch die Dunkelheit hindurch zurückfällst …
-
-{SOUND [A]: Single gunshot.}</DefaultText>
+Er feuert ohne ein Wort. Der gezielte Schuss durchbohrt dein Herz. Nein. Tashs Herz. Denn du spürst bereits, wie dir Tashs Körper und Verstand langsam entgleitet und du durch die Dunkelheit hindurch zurückfällst …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1395,9 +1312,7 @@ Ohne eine Warnung kehrst du zum Dorf zurück. Die Rauchschwaden werden immer dic
 
 Sein Hut und Mantel fehlen, und er sieht mehr nach einem verschrockenen jungen Mann aus, als nach einem Mörder. Aber seine Waffe ist scharf, und das Blut an seiner Kleidung gehört nicht ihm.
 
-Er feuert ohne ein Wort. Der gezielte Schuss durchbohrt dein Herz. Nein. *Tashs* Herz. Denn *du* spürst bereits, wie dir Tashs Körper und Verstand langsam entgleitet und du durch die Dunkelheit hindurch zurückfällst …
-
-{SOUND [A]: Single gunshot.}</DefaultText>
+Er feuert ohne ein Wort. Der gezielte Schuss durchbohrt dein Herz. Nein. *Tashs* Herz. Denn *du* spürst bereits, wie dir Tashs Körper und Verstand langsam entgleitet und du durch die Dunkelheit hindurch zurückfällst …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1413,9 +1328,7 @@ Mit ihren Worten spürst du, wie dir Tashs Körper entgleitet und dein Verstand 
       <ID>225</ID>
       <DefaultText>Sie hebt lediglich einen Finger und noch bevor du überhaupt reagieren kannst, zerschlitzt dich einer ihrer Leibwächter. Während du zerfetzt und unbeweglich zu Boden gehst, siehst du dabei zu, wie sie Matkina von der Klippe schleudern. In ihrem Energiefeld gefangen hört man sie nicht einmal schreien.
 
-Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …
-
-{SOUND [A]: Sound of flesh being sliced open by a very sharp sword.}</DefaultText>
+Paj lässt dir noch einen kurzen, gelangweilten Blick zukommen und führt ihre Truppen Blick zukommen und führt ihre Truppe dann in die andere Richtung. Du kannst nicht sehen, wohin sie gehen. Dunkelheit legt sich über deine Augen und das Geräusch von rauschenden Wellen erfüllt deine Ohren. Dann spürst du, wie du langsam Tashs Haut, Tashs Verstand ablegst, und alles dunkel …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1436,9 +1349,7 @@ Im Dorf bricht das Chaos aus. Wo einst Neng und seine Hügelmenschen waren, wind
 
 Matkina schaut wütend zitternd und hilflos aus ihrem Energiegefängnis heraus zu. „Ich verstehe dich“, sagt Paj. „Aber diese Sandritter dort sind unersetzlich.“ Sie sieht sich das Gemetzel am Fuß des Hügels an. „Mit einem einzigen Schlag haben wir das Gleichgewicht der Macht in der Einöde verändert und den eisernen Griff unserer Feinde von zwei Dutzend Dörfern gelöst.“
 
-Sie dreht sich um und fügt hinzu: „Und ich verspreche, dass du nicht lange leiden musst.“
-
-{SOUND [A]: Some kind of techno-shot firing, followed by something shattering. A moment later, a distant but terrifying shriek – I'm thinking like the fell beasts in LOTR. Then the sound of gunfire, distant, like pops. Perhaps some very faint and indistinct shouts.}</DefaultText>
+Sie dreht sich um und fügt hinzu: „Und ich verspreche, dass du nicht lange leiden musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

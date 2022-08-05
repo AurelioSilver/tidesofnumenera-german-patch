@@ -41,9 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[Du hast es geschafft! Er schenkt dir das Auge von Ny'kul.]
-
-{SCRIPT: Give player Eye of Ny'kul.}</DefaultText>
+      <DefaultText>[Du hast es geschafft! Er schenkt dir das Auge von Ny'kul.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

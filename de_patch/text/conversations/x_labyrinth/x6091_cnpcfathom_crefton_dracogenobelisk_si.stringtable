@@ -128,17 +128,14 @@ Etwas sagt dir, dass du diese Statue besser nicht berühren solltest.</DefaultTe
       <ID>21</ID>
       <DefaultText>Deine Fingerspitzen berühren fast eine der glühenden Schuppen. Du hörst ein langsames, wütendes Fauchen, bevor sich klauenartige Hände von hinten über deinen Kopf legen. Und drücken. 
 
-Die Finsternis bricht über dich ein und drückt dir die Luft aus der Lunge. Laute Worte der Bestie dringen in deinen Verstand ein wie missgebildete brennende Meteoriten. Du versuchst zu schreien, aber nichts kommt raus. Nichts. 
-
-{SOUND: Loud, alien hissing}</DefaultText>
+Die Finsternis bricht über dich ein und drückt dir die Luft aus der Lunge. Laute Worte der Bestie dringen in deinen Verstand ein wie missgebildete brennende Meteoriten. Du versuchst zu schreien, aber nichts kommt raus. Nichts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Du erwachst kurz danach, jeder Knochen tut dir weh. Etwas liegt schwer und kalt in deiner Hand.
 
-Zuerst hältst du das Juwel in deiner Hand für eines der Augen der Statue. Und dann bemerkst du, dass die Schlange noch so unversehrt du unberührt ist wie zuvor. 
-{LOOT: Bestows ITM_RINGA_RecalescentStone}</DefaultText>
+Zuerst hältst du das Juwel in deiner Hand für eines der Augen der Statue. Und dann bemerkst du, dass die Schlange noch so unversehrt du unberührt ist wie zuvor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
