@@ -73,9 +73,7 @@ Selbst in diesem schwachen Licht *leuchtet* das Rad unten an der Tür geradezu. 
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Nach einigem Abrutschen presst du das Ohr gegen die gebogene Tür, schließt die Augen und lauscht angestrengt. Über dem Surren des Mechanismus hörst du leise ein Geräusch wie ein Wasserrauschen oder das Flüstern einer Menschenmenge am anderen Ende eines dunklen Feldes.
-
-{DP}</DefaultText>
+      <DefaultText>Nach einigem Abrutschen presst du das Ohr gegen die gebogene Tür, schließt die Augen und lauscht angestrengt. Über dem Surren des Mechanismus hörst du leise ein Geräusch wie ein Wasserrauschen oder das Flüstern einer Menschenmenge am anderen Ende eines dunklen Feldes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -89,7 +87,7 @@ Selbst in diesem schwachen Licht *leuchtet* das Rad unten an der Tür geradezu. 
 
 Nein. Es klingt wie das Flüstern einer Menschenmenge am anderen Ende eines dunklen Feldes.
 
-{DP}So sehr du dich auch anstrengst, du kannst nichts hören außer dem Surren der Mechanismen im Inneren.</DefaultText>
+So sehr du dich auch anstrengst, du kannst nichts hören außer dem Surren der Mechanismen im Inneren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

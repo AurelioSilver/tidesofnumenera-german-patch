@@ -8,9 +8,7 @@
       <ID>1</ID>
       <DefaultText>Vor dir steht eine geisterhafte Erscheinung, aber es ist nicht der Geist. Sie sieht irgendwie bekannt aus, aber du weißt nicht … doch! Es ist die geisterhafte Frau aus dem fünften Auge! Sie sieht sich mit einem verwirrten Gesichtsausdruck um.
 
-Plötzlich kommt ihr eine Erkenntnis und sie hebt die Augenbrauen. „Es hat begonnen.“
-
-{SCRIPT: Has not started "Right to Exist" Quest}</DefaultText>
+Plötzlich kommt ihr eine Erkenntnis und sie hebt die Augenbrauen. „Es hat begonnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -24,9 +22,7 @@ Plötzlich kommt ihr eine Erkenntnis und sie hebt die Augenbrauen. „Es hat beg
       <ID>3</ID>
       <DefaultText>Vor dir steht eine geisterhafte Erscheinung, aber es ist nicht der Geist. Sie sieht sich mit einem verwirrten Gesichtsausdruck um.
 
-Plötzlich kommt ihr eine Erkenntnis und sie hebt die Augenbrauen. „Es hat begonnen.“
-
-{SCRIPT: Has not started "Right to Exist" Quest}</DefaultText>
+Plötzlich kommt ihr eine Erkenntnis und sie hebt die Augenbrauen. „Es hat begonnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,23 +101,17 @@ Sie sieht auf und sich um, als könnte sie im Dunkel über euch etwas sehen, das
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Nein. Du hast die Kammer aktiviert und daher hast du hier mehr Macht als die anderen – mehr Klarheit und Kontrolle.“
-
-{SCRIPT: PC activated the chamber in the Sorrow Crisis.}</DefaultText>
+      <DefaultText>„Nein. Du hast die Kammer aktiviert und daher hast du hier mehr Macht als die anderen – mehr Klarheit und Kontrolle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Nein. Als die Erste die Kammer aktiviert hat, gab es ihr hier größere Macht als den anderen – nicht mehr als dir, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass ihr das nichts helfen wird, wenn du sie nicht finden kannst.“
-
-{SCRIPT: The First activated the chamber in the Sorrow Crisis.}</DefaultText>
+      <DefaultText>„Nein. Als die Erste die Kammer aktiviert hat, gab es ihr hier größere Macht als den anderen – nicht mehr als dir, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass ihr das nichts helfen wird, wenn du sie nicht finden kannst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Nein. Als deine Freundin die Kammer aktiviert hat, gab es ihr hier größere Macht als den anderen – nicht mehr als dir, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass ihr das nichts helfen wird, wenn du sie nicht finden kannst.“
-
-{SCRIPT: Matkina activated the chamber in the Sorrow Crisis.}</DefaultText>
+      <DefaultText>„Nein. Als deine Freundin die Kammer aktiviert hat, gab es ihr hier größere Macht als den anderen – nicht mehr als dir, aber doch eine gewisse Klarheit und Kontrolle. Ich fürchte jedoch, dass ihr das nichts helfen wird, wenn du sie nicht finden kannst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

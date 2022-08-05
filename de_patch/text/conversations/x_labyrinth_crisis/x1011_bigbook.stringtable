@@ -346,9 +346,7 @@
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Nach vorsichtigem Falten und weiterer Manipulation bist du in der Lage, die geschuppte Kette zu einer real anmutenden Viper zu wickeln. Als du einen Schritt zurück machst, erwacht sie zum Leben und zischt dich wütend an. Ein massiver Klumpen bildet sich in ihrer Kehle und tritt aus ihrem Maul aus. Dann fällt sie wieder in ihre ursprüngliche Form zusammen.
-
-{SCRIPT: Gain some small egg-like cypher.}</DefaultText>
+      <DefaultText>Nach vorsichtigem Falten und weiterer Manipulation bist du in der Lage, die geschuppte Kette zu einer real anmutenden Viper zu wickeln. Als du einen Schritt zurück machst, erwacht sie zum Leben und zischt dich wütend an. Ein massiver Klumpen bildet sich in ihrer Kehle und tritt aus ihrem Maul aus. Dann fällt sie wieder in ihre ursprüngliche Form zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -363,9 +361,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Durch pure Anstrengung und Kraft kannst aus dieser geschuppten Kette eine lange, dünne Röhre bilden. Es fühlt sich an, als hättest du ein paar Verbindungen verbogen … doch du hörst ein merkwürdiges Knacken, und eines der Bindeglieder fällt ab. Der Rest der Kette schüttelt sich zurück in einen unorganisierten aufgewickelten Haufen.
-
-{SCRIPT: Gain some small cypher that could represent a chain link.}</DefaultText>
+      <DefaultText>Durch pure Anstrengung und Kraft kannst aus dieser geschuppten Kette eine lange, dünne Röhre bilden. Es fühlt sich an, als hättest du ein paar Verbindungen verbogen … doch du hörst ein merkwürdiges Knacken, und eines der Bindeglieder fällt ab. Der Rest der Kette schüttelt sich zurück in einen unorganisierten aufgewickelten Haufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -440,9 +436,7 @@
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>Du stellst außerdem fest, dass du mehr als nur die Überbleibsel der Worte erhalten hast.
-
-{SCRIPT: Recover small # of Intellect Pool, or some other cool, minor reward like a healing cypher.}</DefaultText>
+      <DefaultText>Du stellst außerdem fest, dass du mehr als nur die Überbleibsel der Worte erhalten hast.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

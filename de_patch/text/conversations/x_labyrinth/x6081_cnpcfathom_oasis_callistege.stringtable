@@ -75,9 +75,7 @@ Ein düsteres Flüstern schlängelt sich in deinen Verstand.
       <ID>10</ID>
       <DefaultText>Ein flackerndes Feuer wirft ruckartig Schatten durch den Raum, was fünf mechanische Arme beleuchtet, und unter ihnen, etwas Massiges und fassettiert. Callistege wärmt ihre Hände am Feuer, und wirft ängstliche Blicke gegen die Finsternis.
 
-Von weit weg erreicht ein hohles Klingeln die Kammer. Sofort steht Callistege auf ihre Füße, und flieht in die krümmende Dunkelheit, die schwache Sicherheit des Feuers schon vergessen.
-
-{SFX: Terrifying hollow pinging, i.e. the first sound we hear from the Balrog in the FotR?}</DefaultText>
+Von weit weg erreicht ein hohles Klingeln die Kammer. Sofort steht Callistege auf ihre Füße, und flieht in die krümmende Dunkelheit, die schwache Sicherheit des Feuers schon vergessen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,9 +714,7 @@ Im selben Moment werden sie sich gegenseitig bewusst.</DefaultText>
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>„Nachdem ich schon so oft sterben sehen habe, weiß ich nicht, ob ich es aushalte, weniger zu sein, als ich es jetzt bin.“
-
-{LEANNE/COLIN: we don't track this. Either we can fake it by using this variable in a smaller amount assuming if they died a couple times they probably died a bunch, or check some other variables that get set from respawning or dying.}</DefaultText>
+      <DefaultText>„Nachdem ich schon so oft sterben sehen habe, weiß ich nicht, ob ich es aushalte, weniger zu sein, als ich es jetzt bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -891,9 +887,7 @@ Im selben Moment werden sie sich gegenseitig bewusst.</DefaultText>
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Mit einem plötzlichen Ausatmen schlägt sie die Klammer auf. Der Attraktor fällt zu ihren Füßen, während all ihre Schwestern verschwinden, bis nur eine Callistege vor dir steht. Sie hebt ihr Gesicht, schließt ihre Augen, und lächelt.
-
-{SCRIPT: Despawn Calli's echoes.}</DefaultText>
+      <DefaultText>Mit einem plötzlichen Ausatmen schlägt sie die Klammer auf. Der Attraktor fällt zu ihren Füßen, während all ihre Schwestern verschwinden, bis nur eine Callistege vor dir steht. Sie hebt ihr Gesicht, schließt ihre Augen, und lächelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1005,16 +999,12 @@ Im selben Moment werden sie sich gegenseitig bewusst.</DefaultText>
 
 Plötzlich und gleichzeitig erlöschen ihre Echos, was sie allein mitten in einem Raum stehen lässt, der zu groß für sie erscheint.
 
-„Ich kann mich immer noch an all unsere Tricks erinnern, Verstoßener. Also sei nicht besorgt, dass ich meine Stärke verloren hätte.“
-
-{SCRIPT: Despawn Calli's echoes.}</DefaultText>
+„Ich kann mich immer noch an all unsere Tricks erinnern, Verstoßener. Also sei nicht besorgt, dass ich meine Stärke verloren hätte.“</DefaultText>
       <FemaleText>In einer schnellen Bewegung schlägt sie die Klammer auf und lässt den Attraktor abfallen. Sie reicht in ihre Umhängetasche und holt die Spritze hervor, die ihr Demeray und Obervich gegeben haben. Ihre entsetzten Schwestern schauen zu, wie sie sie in ihren Arm versenkt und den Kolben eindrückt.
 
 Plötzlich und gleichzeitig erlöschen ihre Echos, was sie allein mitten in einem Raum stehen lässt, der zu groß für sie erscheint.
 
-„Ich kann mich immer noch an all unsere Tricks erinnern, Verstoßene. Also sei nicht besorgt, dass ich meine Stärke verloren hätte.“
-
-{SCRIPT: Despawn Calli's echoes.}</FemaleText>
+„Ich kann mich immer noch an all unsere Tricks erinnern, Verstoßene. Also sei nicht besorgt, dass ich meine Stärke verloren hätte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>182</ID>

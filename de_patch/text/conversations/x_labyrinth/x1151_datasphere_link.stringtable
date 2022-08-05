@@ -139,9 +139,7 @@ Sie sind nicht bösartig, aber sie werden nicht zögern, deine Identität auszul
       <ID>26</ID>
       <DefaultText>Sobald du ihn berührst, formen sich Worte und Bilder in der Luft über ihm. Es ist eine Art Informationswürfel, der deine Erinnerungen aufzeichnet.
 
-Du kannst die Informationen, die er enthält, ganz leicht durchsehen. Sie beschreiben deinen Sturz und deine Erfahrungen mit dem Geist und dem Kummer wie eine Art Tagebuch.
-
-{SCRIPT: Add a journal entry about finding the journal.}</DefaultText>
+Du kannst die Informationen, die er enthält, ganz leicht durchsehen. Sie beschreiben deinen Sturz und deine Erfahrungen mit dem Geist und dem Kummer wie eine Art Tagebuch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -218,12 +216,8 @@ Du begreifst, dass dies mögliche Aspekte deines Selbst sind, wie die Doppelgän
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Die Kleider anlassen. Ein Glaive werden.
-
-{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</DefaultText>
-      <FemaleText>Die Kleider anlassen. Eine Glaive werden.
-
-{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</FemaleText>
+      <DefaultText>Die Kleider anlassen. Ein Glaive werden.</DefaultText>
+      <FemaleText>Die Kleider anlassen. Eine Glaive werden.</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
@@ -247,12 +241,8 @@ Du begreifst, dass dies mögliche Aspekte deines Selbst sind, wie die Doppelgän
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Die Kleider anlassen. Ein Nano werden.
-
-{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</DefaultText>
-      <FemaleText>Die Kleider anlassen. Eine Nano werden.
-
-{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</FemaleText>
+      <DefaultText>Die Kleider anlassen. Ein Nano werden.</DefaultText>
+      <FemaleText>Die Kleider anlassen. Eine Nano werden.</FemaleText>
     </Entry>
     <Entry>
       <ID>47</ID>
@@ -271,12 +261,8 @@ Du begreifst, dass dies mögliche Aspekte deines Selbst sind, wie die Doppelgän
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Die Kleider anlassen. Ein Jack werden.
-
-{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</DefaultText>
-      <FemaleText>Die Kleider anlassen. Eine Jack werden.
-
-{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</FemaleText>
+      <DefaultText>Die Kleider anlassen. Ein Jack werden.</DefaultText>
+      <FemaleText>Die Kleider anlassen. Eine Jack werden.</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>

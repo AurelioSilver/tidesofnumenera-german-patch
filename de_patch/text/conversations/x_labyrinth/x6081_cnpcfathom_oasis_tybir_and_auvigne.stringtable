@@ -43,9 +43,7 @@
       <ID>8</ID>
       <DefaultText>Prasselnde Hitze fegt über dich hinweg und du schützt instinktiv deine Augen. Als du die Hand wegnimmst, befindest du dich nicht mehr auf einem Markt unter Wasser. 
 
-Du stehst in der Mitte eines brennenden Dorfes. Tybir, der eine Prellung auf der geschwollenen Backe hat, versucht, den Rücken eines Mannes zu berühren, der sich von ihm abgewendet hat. Seine Hände gleiten durch den Mann hindurch, als wäre dieser nicht da. 
-
-{SOUND: Village burning. Possible lots of crackling, some frightened moaning, no screams.}</DefaultText>
+Du stehst in der Mitte eines brennenden Dorfes. Tybir, der eine Prellung auf der geschwollenen Backe hat, versucht, den Rücken eines Mannes zu berühren, der sich von ihm abgewendet hat. Seine Hände gleiten durch den Mann hindurch, als wäre dieser nicht da.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,10 +166,7 @@ Seine Hände greifen nichts als Luft.</DefaultText>
       <ID>38</ID>
       <DefaultText>Kummer formt Auvignes Gesicht. „Wir waren gleich, Ty und ich. Wir wollten beide eine freundlichere Welt. Aber er hörte auf, daran zu glauben und du hast es ihm erlaubt. Das haben wir beide.“
 
-Und dann ist er weg.
-
-{VFX: On exit, the fire effect fades.}
-{SOUND: On exit, the fire effect fades.}</DefaultText>
+Und dann ist er weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,9 +236,7 @@ Er blickt weg. „Gehen wir jetzt oder nicht?“</DefaultText>
 
 „Wir waren gleich, Ty und ich. Wir wollten beide eine freundlichere Welt. Aber er hörte auf, daran zu glauben und ich habe ihn reingelassen!“ Auvigne lächelt dich an. „Du hast es nicht.“
 
-Du blinzelst. Es scheint sehr lang anzuhalten. Worte werden gewechselt, Worte, die nicht für deine Ohren bestimmt sind. Ein letzter Kuss verbindet sie, ein Kuss, der ganze Lebzeiten schwer wiegt. 
-{VFX: Fire effect fades.}
-{SOUND: Fire effect fades.}</DefaultText>
+Du blinzelst. Es scheint sehr lang anzuhalten. Worte werden gewechselt, Worte, die nicht für deine Ohren bestimmt sind. Ein letzter Kuss verbindet sie, ein Kuss, der ganze Lebzeiten schwer wiegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,10 +253,7 @@ Du blinzelst. Es scheint sehr lang anzuhalten. Worte werden gewechselt, Worte, d
       <ID>61</ID>
       <DefaultText>Kummer formt Auvignes Gesicht. „Wir waren immer gleich, Ty. Wir wollten beide eine freundlichere Welt. Aber du hast aufgehört, daran zu glauben und ich habe nichts dagegen unternommen. Wir haben gegenseitig versagt und das lässt sich nicht mehr kitten.“
 
-Und dann ist er weg.
-
-{VFX: On exit, the fire effect fades.}
-{SOUND: On exit, the fire effect fades.}</DefaultText>
+Und dann ist er weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

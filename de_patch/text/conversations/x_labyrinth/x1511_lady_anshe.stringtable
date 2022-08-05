@@ -21,12 +21,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Schau an“, ruft die Frau, so laut als würde sie mitten auf einem überfüllten Markt stehen. „Unser Herumtreiber von einem Bruder, wie er leibt und lebt. Hätte nicht erwartet, hier einen anderen Verstoßenen zu treffen, und *dich* schon gar nicht.“
-
-{GAVIN: Test this sucker when the previewer's working again.}</DefaultText>
-      <FemaleText>„Schau an“, ruft die Frau, so laut als würde sie mitten auf einem überfüllten Markt stehen. „Unser verschollenes Schwesterchen, wie sie leibt und lebt. Hätte nicht erwartet, hier einen anderen Verstoßenen zu treffen, und *dich* schon gar nicht.“
-
-{GAVIN: Test this sucker when the previewer's working again.}</FemaleText>
+      <DefaultText>„Schau an“, ruft die Frau, so laut als würde sie mitten auf einem überfüllten Markt stehen. „Unser Herumtreiber von einem Bruder, wie er leibt und lebt. Hätte nicht erwartet, hier einen anderen Verstoßenen zu treffen, und *dich* schon gar nicht.“</DefaultText>
+      <FemaleText>„Schau an“, ruft die Frau, so laut als würde sie mitten auf einem überfüllten Markt stehen. „Unser verschollenes Schwesterchen, wie sie leibt und lebt. Hätte nicht erwartet, hier einen anderen Verstoßenen zu treffen, und *dich* schon gar nicht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -94,8 +90,7 @@ Sie sieht dich abwägend an.</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Natürlich“, sagt sie. „Das kostet [Global: b3301_AnsheRestCost] Shin.“ Sie deutet auf den kahlen Boden hinter ihr. „Such dir ein Bett aus.“
-{MONEY}</DefaultText>
+      <DefaultText>„Natürlich“, sagt sie. „Das kostet [Global: b3301_AnsheRestCost] Shin.“ Sie deutet auf den kahlen Boden hinter ihr. „Such dir ein Bett aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -218,8 +213,7 @@ Sie strahlt ihre Hände an. „Ich habe sie schon fast so lange wie ich am Leben
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Muss das wirklich sein?“, grummelt Aligern mit einem Blick auf seine abgewetzten Kleider. „Sieht doch noch gut aus.“
-{ALIGERN}</DefaultText>
+      <DefaultText>„Muss das wirklich sein?“, grummelt Aligern mit einem Blick auf seine abgewetzten Kleider. „Sieht doch noch gut aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,12 +240,10 @@ Sie strahlt ihre Hände an. „Ich habe sie schon fast so lange wie ich am Leben
       <ID>49</ID>
       <DefaultText>Er beäugt sie misstrauisch, wie sie über seine Brust flitzen und seine Ausrüstung verändern, aber er nickt dir zu.
 
-„Nett von dir, Junge“, sagt er. „Die Reparatur war dringend nötig.“ 
-{ALIGERN}</DefaultText>
+„Nett von dir, Junge“, sagt er. „Die Reparatur war dringend nötig.“</DefaultText>
       <FemaleText>Er beäugt sie misstrauisch, wie sie über seine Brust flitzen und seine Ausrüstung verändern, aber er nickt dir zu.
 
-„Nett von dir, Kleine“, sagt er. „Die Reparatur war dringend nötig.“ 
-{ALIGERN}</FemaleText>
+„Nett von dir, Kleine“, sagt er. „Die Reparatur war dringend nötig.“</FemaleText>
     </Entry>
     <Entry>
       <ID>50</ID>
@@ -345,8 +337,7 @@ Es ist eine unbeholfene Zeichnung eines Mannes, der eine strahlende Rüstung tr�
       <ID>66</ID>
       <DefaultText>„Schätze, das ist auch gut“, seufzt er enttäuscht, doch als die Fäden seiner Kleider sich wie von Zauberhand von selbst bewegen, lächelt er dich an.
 
-„Danke, mein Freund.“
-{ERRITIS}</DefaultText>
+„Danke, mein Freund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -368,8 +359,7 @@ Es ist eine unbeholfene Zeichnung eines Mannes, der eine strahlende Rüstung tr�
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>„Mit gefallen meine Kleider, wie sie sind.“
-{MATKINA}</DefaultText>
+      <DefaultText>„Mit gefallen meine Kleider, wie sie sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,8 +381,7 @@ Es ist eine unbeholfene Zeichnung eines Mannes, der eine strahlende Rüstung tr�
       <ID>74</ID>
       <DefaultText>Die Assassine zuckt und sieht dich finster an, während ihre Rüstung sich von selbst verbessert.
 
-„Sollte mich dieser Zauber irgendwie umbringen, nehme ich dich mit ins Grab.“ Sie beißt sich auf die Lippe. „Und danke.“
-{MATKINA}</DefaultText>
+„Sollte mich dieser Zauber irgendwie umbringen, nehme ich dich mit ins Grab.“ Sie beißt sich auf die Lippe. „Und danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -414,8 +403,7 @@ Es ist eine unbeholfene Zeichnung eines Mannes, der eine strahlende Rüstung tr�
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>„Ich? Ich habe keine Rüstung. Ich will nicht mal kämpfen.“
-{RHIN}</DefaultText>
+      <DefaultText>„Ich? Ich habe keine Rüstung. Ich will nicht mal kämpfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -501,8 +489,7 @@ Sie sieht zu dir auf. „[Global: b3301_AnsheRhinUpgradeCloakCost] Shin und ich 
       <ID>94</ID>
       <DefaultText>Tybir sieht dich mit hochgezogener Augenbraue an, während seine Rüstung sich von selbst repariert.
 
-„Falls ich am Ende von diesem Hokuspokus nackt vor dir stehe, bist du selbst daran schuld. Und falls nicht… Danke.“
-{TYBIR}</DefaultText>
+„Falls ich am Ende von diesem Hokuspokus nackt vor dir stehe, bist du selbst daran schuld. Und falls nicht… Danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -641,8 +628,7 @@ Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was br
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>„An mir muss nichts verbessert werden“, sagt sie und verschränkt die Arme.
-{CALLISTEGE}</DefaultText>
+      <DefaultText>„An mir muss nichts verbessert werden“, sagt sie und verschränkt die Arme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

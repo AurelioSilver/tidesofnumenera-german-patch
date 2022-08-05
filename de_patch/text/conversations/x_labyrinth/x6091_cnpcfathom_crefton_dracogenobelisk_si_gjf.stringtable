@@ -157,11 +157,7 @@ Etwas sagt dir, dass es keine gute Idee ist, diese Statue zu verunstalten.</Defa
       <ID>31</ID>
       <DefaultText>Deine Fingerspitzen kratzen über eines der glänzenden Augen. Du hörst ein langsames, zorniges Zischen und dann umschließen von hinten Klauenhände deinen Kopf. Und drücken.
 
-Die Dunkelheit umhüllt dich, schlängelt sich um dich, drückt dir die Luft aus den Lungen. Geschriene Worte der Bestie schlagen in deinem Geist ein wie unförmige brennende Meteore. Du willst schreien, doch kein Laut entkommt dir. Nichts.
-
-{SOUND: Loud, alien hissing}
-{SCRIPT: Screen goes black at the beginning of this node.}
-{SCRIPT: Significant damage to player Might.}</DefaultText>
+Die Dunkelheit umhüllt dich, schlängelt sich um dich, drückt dir die Luft aus den Lungen. Geschriene Worte der Bestie schlagen in deinem Geist ein wie unförmige brennende Meteore. Du willst schreien, doch kein Laut entkommt dir. Nichts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,11 +174,7 @@ Die Dunkelheit umhüllt dich, schlängelt sich um dich, drückt dir die Luft aus
       <ID>34</ID>
       <DefaultText>Du erwachst langsam. Alle Gelenke schmerzen. Etwas Schweres und Kaltes liegt in deiner Hand.
 
-Zunächst hältst du das Juwel in deiner Hand für eines der Augen der Statue. Dann siehst du, dass der Schlange keines fehlt. Sie sieht immer noch aus wie zuvor.
-{SCRIPT: Fade in at the beginning of this node.}
-{SCRIPT: Fallen PC gets up.}
-{SCRIPT: Bestows I_item_cypher_PsychicFocus}
-{LOOT}</DefaultText>
+Zunächst hältst du das Juwel in deiner Hand für eines der Augen der Statue. Dann siehst du, dass der Schlange keines fehlt. Sie sieht immer noch aus wie zuvor.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

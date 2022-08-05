@@ -8,15 +8,12 @@
       <ID>1</ID>
       <DefaultText>Wirre Gedanken schwirren dir durch den Kopf, als du die leere Schale vor dir betrachtest. Tropfen fallen von der Decke auf den Boden neben der Schüssel. Das Licht der Tropfen wird von der runden Schale reflektiert, als *hungerte* sie danach und *müsse* gefüllt werden. Doch die Schale bleibt trocken.
 
-Ein weiterer Tropfen fällt von der Decke und spritzt verschwendet über die Pylonen.
-{SOUND: Dripping – continues until bowl is filled.}</DefaultText>
+Ein weiterer Tropfen fällt von der Decke und spritzt verschwendet über die Pylonen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Die Schale vorsichtig unter die tropfende Flüssigkeit stellen.
-
-{SOUND: Dripping – continues until bowl is filled.}</DefaultText>
+      <DefaultText>Die Schale vorsichtig unter die tropfende Flüssigkeit stellen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,15 +23,12 @@ Ein weiterer Tropfen fällt von der Decke und spritzt verschwendet über die Pyl
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Du ergreifst die Schale vorsichtig, um dich nicht an ihrem gezackten Rand zu schneiden. Du atmest tief durch und stellst die Schale über die leuchtende Lichtpfütze.
-{SOUND: Scraping}
-{SOUND: Drips stop.}</DefaultText>
+      <DefaultText>Du ergreifst die Schale vorsichtig, um dich nicht an ihrem gezackten Rand zu schneiden. Du atmest tief durch und stellst die Schale über die leuchtende Lichtpfütze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Als du nach der Schale greifst, reißen dir die Zacken an ihrem Rand die Haut auf. Du beißt die Zähne zusammen und schleppst die Schale über die leuchtende Lichtpfütze.
-{SOUND: Scraping}</DefaultText>
+      <DefaultText>Als du nach der Schale greifst, reißen dir die Zacken an ihrem Rand die Haut auf. Du beißt die Zähne zusammen und schleppst die Schale über die leuchtende Lichtpfütze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,16 +223,12 @@ Die Oberfläche der Schale leuchtet in reflektiertem Licht auf, als ein weiteres
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Du ergreifst die Schale vorsichtig, um dich nicht an den scharfen Zacken an ihrem Rand zu schneiden. Du atmest tief durch und stellst die Schale über die Lichtpfütze.
-{SOUND: Scraping}
-{SOUND: Drips stop.}</DefaultText>
+      <DefaultText>Du ergreifst die Schale vorsichtig, um dich nicht an den scharfen Zacken an ihrem Rand zu schneiden. Du atmest tief durch und stellst die Schale über die Lichtpfütze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Du greifst den Rand der Schale und spürst kaum, wie ihr gezackter Rand deine Haut aufschneidet. Mit großer Mühe schleppst du die Schale über die Lichtpfütze.
-{SOUND: Scraping}
-{SOUND: Drips stop.}</DefaultText>
+      <DefaultText>Du greifst den Rand der Schale und spürst kaum, wie ihr gezackter Rand deine Haut aufschneidet. Mit großer Mühe schleppst du die Schale über die Lichtpfütze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -289,8 +279,8 @@ Ein weiterer Tropfen beruhigendes Licht fällt von der Decke und verteilt sich i
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Hallo? Oh Skist. Du bist tot, nicht wahr? {murmelt zu sich selber} Nein, das kann nicht sein. Wenn er tot wäre, wäre ich es ja auch. {beat}Kannst du mich hören?“</DefaultText>
-      <FemaleText>„Hallo? Oh Skist. Du bist tot, nicht wahr? {murmelt zu sich selber} Nein, das kann nicht sein. Wenn sie tot wäre, wäre ich es ja auch. {beat}Kannst du mich hören?“</FemaleText>
+      <DefaultText>„Hallo? Oh Skist. Du bist tot, nicht wahr? Nein, das kann nicht sein. Wenn er tot wäre, wäre ich es ja auch. Kannst du mich hören?“</DefaultText>
+      <FemaleText>„Hallo? Oh Skist. Du bist tot, nicht wahr? Nein, das kann nicht sein. Wenn sie tot wäre, wäre ich es ja auch. Kannst du mich hören?“</FemaleText>
     </Entry>
     <Entry>
       <ID>65</ID>
@@ -304,7 +294,7 @@ Ein weiterer Tropfen beruhigendes Licht fällt von der Decke und verteilt sich i
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Ich höre überhaupt nichts. Bist du überhaupt da? Na, wenn du mich hören kannst, musst du ja noch am Leben sein. {spricht leise zu sich selbst}Aber das weißt du bereits, nicht wahr? {lauter, zum PC gerichtet}Ich werde einfach mal annehmen, dass wir beide am Leben sind und es auch gerne bleiben würden, okay?“</DefaultText>
+      <DefaultText>„Ich höre überhaupt nichts. Bist du überhaupt da? Na, wenn du mich hören kannst, musst du ja noch am Leben sein. Aber das weißt du bereits, nicht wahr? Ich werde einfach mal annehmen, dass wir beide am Leben sind und es auch gerne bleiben würden, okay?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -334,8 +324,7 @@ Ein weiterer Tropfen beruhigendes Licht fällt von der Decke und verteilt sich i
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>„Wir stecken hier fest. Dieses Ding wird uns im Nu gefunden haben.“
-{ruhiger, zu sich selbst, niedergeschlagen}</DefaultText>
+      <DefaultText>„Wir stecken hier fest. Dieses Ding wird uns im Nu gefunden haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,9 +346,7 @@ Dein Begleiter ist leiser als zuvor und in seiner Stimme liegt eine merkwürdige
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Die Stimme wird leiser und schließlich unhörbar. Beklemmende Stille erfüllt den Raum, unterbrochen nur vom leisen Summen neuer Pylonen, die sich aus der Tiefe erheben.
-
-{SOUND: Voice fades (maybe done with SOUND fx?)}</DefaultText>
+      <DefaultText>Die Stimme wird leiser und schließlich unhörbar. Beklemmende Stille erfüllt den Raum, unterbrochen nur vom leisen Summen neuer Pylonen, die sich aus der Tiefe erheben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -458,7 +445,7 @@ Dies scheint weder wie der Tod noch wie irgendeine Form von Leben, die du kennst
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>{Chiding} „Es gibt keinen Grund, sich vor mir zu verstecken, Kind. Ich *weiß*, dass die Kreatur uns nicht so stark verletzt hat, dass du nicht mehr sprechen kannst. Die Tatsache, dass wir noch existieren, ist ein Beweis dafür.“</DefaultText>
+      <DefaultText>„Es gibt keinen Grund, sich vor mir zu verstecken, Kind. Ich *weiß*, dass die Kreatur uns nicht so stark verletzt hat, dass du nicht mehr sprechen kannst. Die Tatsache, dass wir noch existieren, ist ein Beweis dafür.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -517,7 +504,7 @@ Von hoch oben, jenseits des sich ausbreitenden Lichts, ruft eine Stimme zu dir.<
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>{Long pause} „Gut! Wir sind nicht so leicht zu trennen, du und ich. Diese Kreatur hat uns unterschätzt!“</DefaultText>
+      <DefaultText>„Gut! Wir sind nicht so leicht zu trennen, du und ich. Diese Kreatur hat uns unterschätzt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -537,7 +524,7 @@ Von hoch oben, jenseits des sich ausbreitenden Lichts, ruft eine Stimme zu dir.<
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>„Ah! Das ist *dein* Geist! Ich wette, deine Erinnerungen sind da unten. Finde sie und repariere den Weg zu mir.{beat} Bist… du überhaupt da? Puh, ich rede mit mir selbst.“</DefaultText>
+      <DefaultText>„Ah! Das ist *dein* Geist! Ich wette, deine Erinnerungen sind da unten. Finde sie und repariere den Weg zu mir. Bist… du überhaupt da? Puh, ich rede mit mir selbst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

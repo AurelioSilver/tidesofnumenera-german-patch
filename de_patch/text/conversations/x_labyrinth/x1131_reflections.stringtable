@@ -50,14 +50,10 @@ Im Spiegel siehst du eine riesige Menge – Doppelgänger von *dir* –, die sic
       <ID>100</ID>
       <DefaultText>Dein Doppelgänger kommt weiter auf dich zu, tritt *in* dich hinein – füllt dich aus, macht dich ganz.
 
-Deine Entscheidung erschallt in dem riesigen Raum und setzt gewaltige Mechanismen hinter den Wänden in Bewegung. Plötzlich werden eure geteilten Welten von einem grotesken Geräusch erfüllt, wie von einer verrotteten Glocke. Etwas kommt auf dich zu… 
-
-{ANIM: Reflections steps into PC and vanishes.}</DefaultText>
+Deine Entscheidung erschallt in dem riesigen Raum und setzt gewaltige Mechanismen hinter den Wänden in Bewegung. Plötzlich werden eure geteilten Welten von einem grotesken Geräusch erfüllt, wie von einer verrotteten Glocke. Etwas kommt auf dich zu…</DefaultText>
       <FemaleText>Deine Doppelgängerin kommt weiter auf dich zu, tritt *in* dich hinein – füllt dich aus, macht dich ganz.
 
-Deine Entscheidung erschallt in dem riesigen Raum und setzt gewaltige Mechanismen hinter den Wänden in Bewegung. Plötzlich werden eure geteilten Welten von einem grotesken Geräusch erfüllt, wie von einer verrotteten Glocke. Etwas kommt auf dich zu… 
-
-{ANIM: Reflections steps into PC and vanishes.}</FemaleText>
+Deine Entscheidung erschallt in dem riesigen Raum und setzt gewaltige Mechanismen hinter den Wänden in Bewegung. Plötzlich werden eure geteilten Welten von einem grotesken Geräusch erfüllt, wie von einer verrotteten Glocke. Etwas kommt auf dich zu…</FemaleText>
     </Entry>
     <Entry>
       <ID>101</ID>
@@ -304,14 +300,10 @@ Die Doppelgängerin entschuldigt sich so wortgewandt für den kleinen Streich, d
       <ID>142</ID>
       <DefaultText>Du blinzelst und der Doppelgänger ist verschwunden.
 
- Oder doch nicht? Für einen Moment hörst du ein leises Lachen irgendwo hinter dir…
-
-{SCRIPT: Reflection turns invisible.}</DefaultText>
+ Oder doch nicht? Für einen Moment hörst du ein leises Lachen irgendwo hinter dir…</DefaultText>
       <FemaleText>Du blinzelst und die Doppelgängerin ist verschwunden.
 
- Oder doch nicht? Für einen Moment hörst du ein leises Lachen irgendwo hinter dir…
-
-{SCRIPT: Reflection turns invisible.}</FemaleText>
+ Oder doch nicht? Für einen Moment hörst du ein leises Lachen irgendwo hinter dir…</FemaleText>
     </Entry>
     <Entry>
       <ID>143</ID>
@@ -413,21 +405,13 @@ Kaum dass du das gedacht hast, nickt dir die Doppelgängerin mit zusammengekniff
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>So hart zuschlagen, wie du kannst.
-
-{ANIM: PC punches Reflection}</DefaultText>
-      <FemaleText>So hart zuschlagen, wie du kannst.
-
-{ANIM: PC punches Reflection}</FemaleText>
+      <DefaultText>So hart zuschlagen, wie du kannst.</DefaultText>
+      <FemaleText>So hart zuschlagen, wie du kannst.</FemaleText>
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Du ballst die Faust und schlägst dem Doppelgänger durch das Glas, so hart du kannst auf das Kinn. Sein Kopf wird zur Seite gerissen, aber als er dich aus dem Augenwinkel ansieht, grinst er.
-
-{SOUND: Fist hitting face.}</DefaultText>
-      <FemaleText>Du ballst die Faust und schlägst der Doppelgängerin durch das Glas, so hart du kannst auf das Kinn. Ihr Kopf wird zur Seite gerissen, aber als sie dich aus dem Augenwinkel ansieht, grinst sie.
-
-{SOUND: Fist hitting face.}</FemaleText>
+      <DefaultText>Du ballst die Faust und schlägst dem Doppelgänger durch das Glas, so hart du kannst auf das Kinn. Sein Kopf wird zur Seite gerissen, aber als er dich aus dem Augenwinkel ansieht, grinst er.</DefaultText>
+      <FemaleText>Du ballst die Faust und schlägst der Doppelgängerin durch das Glas, so hart du kannst auf das Kinn. Ihr Kopf wird zur Seite gerissen, aber als sie dich aus dem Augenwinkel ansieht, grinst sie.</FemaleText>
     </Entry>
     <Entry>
       <ID>163</ID>
@@ -441,36 +425,25 @@ Kaum dass du das gedacht hast, nickt dir die Doppelgängerin mit zusammengekniff
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Trete das Spiegelbild in die Grube.
-
-{ANIM: PC kicks Reflection, Reflection falls into pit.}</DefaultText>
+      <DefaultText>Trete das Spiegelbild in die Grube.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
       <DefaultText>Du holst mit dem Fuß aus und trittst dem Spiegelbild ordentlich in die Brust. Mit einem erschrockenen Schrei kippt es nach hinten in die Grube. Irgendwann hörst du ein böses *Aufschlagen* und Fluchen.
 
-Nach ein paar Sekunden rematerialisiert sich das Spiegelbild am Rand der Grube und sieht dich sauer an. Seine einzigen Souvenirs vom langen Sturz sind ein paar leuchtende blaue Flecken und eine fiese Schramme. {SCRIPT: Reflection rematerializes}
-</DefaultText>
+Nach ein paar Sekunden rematerialisiert sich das Spiegelbild am Rand der Grube und sieht dich sauer an. Seine einzigen Souvenirs vom langen Sturz sind ein paar leuchtende blaue Flecken und eine fiese Schramme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>„Ich will dich nicht schlagen.“
-
-{ANIM: Reflection reacts to invisible hit.}</DefaultText>
-      <FemaleText>„Ich will dich nicht schlagen.“
-
-{ANIM: Reflection reacts to invisible hit.}</FemaleText>
+      <DefaultText>„Ich will dich nicht schlagen.“</DefaultText>
+      <FemaleText>„Ich will dich nicht schlagen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>Der Doppelgänger nickt verständnisvoll. Dann schlägt er *sich selbst*, so hart er kann, auf das Kinn. Er spuckt einen Zahn aus und grinst dich an.
-
-{SOUND: Fist hitting face.}</DefaultText>
-      <FemaleText>Die Doppelgängerin nickt verständnisvoll. Dann schlägt sie *sich selbst*, so hart sie kann, auf das Kinn. Sie spuckt einen Zahn aus und grinst dich an.
-
-{SOUND: Fist hitting face.}</FemaleText>
+      <DefaultText>Der Doppelgänger nickt verständnisvoll. Dann schlägt er *sich selbst*, so hart er kann, auf das Kinn. Er spuckt einen Zahn aus und grinst dich an.</DefaultText>
+      <FemaleText>Die Doppelgängerin nickt verständnisvoll. Dann schlägt sie *sich selbst*, so hart sie kann, auf das Kinn. Sie spuckt einen Zahn aus und grinst dich an.</FemaleText>
     </Entry>
     <Entry>
       <ID>169</ID>
@@ -737,9 +710,7 @@ Ein Beben erschüttert den Raum und langsam breitet sich eine Erschütterung von
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>Die unzähligen Doppelgänger halten inne und beobachten dich aus dem Augenwinkel. Dann laufen sie unter wildem Geschrei in alle Richtungen davon und verschwinden hinter dem kunstvoll verzierten Rahmen des Spiegels.
-
-{SCRIPT: Open Character Generator for player's review/changes.}</DefaultText>
+      <DefaultText>Die unzähligen Doppelgänger halten inne und beobachten dich aus dem Augenwinkel. Dann laufen sie unter wildem Geschrei in alle Richtungen davon und verschwinden hinter dem kunstvoll verzierten Rahmen des Spiegels.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

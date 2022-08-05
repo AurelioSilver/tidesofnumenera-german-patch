@@ -6,9 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Dein Gegenüber sieht aus wie eine ältere Version von Erritis. Kein Leuchten umgibt ihn. Er sieht unauffällig aus. Verbraucht. Sein goldenes Haar ist von grauen und weißen Strähnen durchzogen.
-
-{SCRIPT: Erritis's reflection vanishes once the player enters Stage 6 OR the Lost Shepherd quest is completed.}</DefaultText>
+      <DefaultText>Dein Gegenüber sieht aus wie eine ältere Version von Erritis. Kein Leuchten umgibt ihn. Er sieht unauffällig aus. Verbraucht. Sein goldenes Haar ist von grauen und weißen Strähnen durchzogen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -572,8 +570,7 @@ Das rote Auge leuchtet auf. „NIMMST DU UNSER ANGEBOT AN ODER NICHT?“</Defaul
 
 Dann verdunkeln sich seine Augen vollständig, als wäre bei einem Licht der Glühdraht ausgegangen.
 
-„NUN“, sagen die Paragone, „WAS WILLST DU NOCH VON UNS?“
-{SCRIPT: Erritis gets stronger or a new ability.}</DefaultText>
+„NUN“, sagen die Paragone, „WAS WILLST DU NOCH VON UNS?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

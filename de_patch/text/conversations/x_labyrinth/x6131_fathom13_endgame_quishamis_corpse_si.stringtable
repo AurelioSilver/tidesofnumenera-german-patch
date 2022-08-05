@@ -16,8 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Das Magmatische Annulet näher an die Leiche bringen.
-{SCRIPT: Is this related to Node 239 of c4211_demeray_and_obervich? If so, we should probably talk about some changes to one of these conversations.}</DefaultText>
+      <DefaultText>Das Magmatische Annulet näher an die Leiche bringen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -44,10 +43,7 @@
       <ID>8</ID>
       <DefaultText>Als du deine Augen wieder öffnest, ist der Quishamis in einem Haufen neben dir, erneut regungslos. Du erhebst dich und krümmst dich in Erwartung auf Schmerzen.
 
-Da ist keiner. Die Kreatur hat dich nicht verletzt. Stattdessen scheint das Blut ihrer Wunden in deine Haut gesickert zu sein und zäher zu machen.
-{SCRIPT: Quishamis is dead again. Player gets back up.}
-{SCRIPT: This path disables the SI.}
-{SCRIPT: Player gets "crystalline armor fettle"}</DefaultText>
+Da ist keiner. Die Kreatur hat dich nicht verletzt. Stattdessen scheint das Blut ihrer Wunden in deine Haut gesickert zu sein und zäher zu machen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,10 +73,7 @@ Da ist keiner. Die Kreatur hat dich nicht verletzt. Stattdessen scheint das Blut
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Du greifst in die feuchten, gefrorenen Eingeweiden des Quishamis und findest die rauen Ränder eines fremden Objektes. Mit einem Grunzen reißt du es los und etwas *schnappt* in der Leiche der Kreatur.
-{LOOT}
-{SCRIPT: Player gets item from corpse.}
-{SCRIPT: This path disables the SI.}</DefaultText>
+      <DefaultText>Du greifst in die feuchten, gefrorenen Eingeweiden des Quishamis und findest die rauen Ränder eines fremden Objektes. Mit einem Grunzen reißt du es los und etwas *schnappt* in der Leiche der Kreatur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,9 +87,7 @@ Da ist keiner. Die Kreatur hat dich nicht verletzt. Stattdessen scheint das Blut
 
 Der Quishami springt vom Boden auf und wirft dich um, während helles Blut aus seinen Wunden spritzt. Du starrst den pulsierenden Körper der Kreatur an. Sphären aus verwirrenden kreisrunden Mustern huschen unter seiner kristallinen Haut hin und her, kollidieren, verschmelzen miteinander, explodieren …
 
-Alles um dich wird dunkel.
-{SCRIPT: Quishamis gets up, player gets knocked down, quishamis stands over supine player.}
-{SCRIPT: Fade out, fade in}</DefaultText>
+Alles um dich wird dunkel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

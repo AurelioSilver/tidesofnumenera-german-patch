@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Silberner Regen ergießt sich über die zerklüftete Einöde, du hörst die dicken Tropfen ohne Unterhalt auf deinen Kopfschutz tropfen. Die Straße vor dir ist zu rotem Matsch geworden, der sich an deinen Schuhen und Hosen festsetzt. Dir folgt eine Gruppe von dreißig Soldaten – die meisten davon Glaives – in elendem Zustand, allesamt genauso durchnässt und mit Waffen und Ausrüstung beladen wie du. Sechs von ihnen sind noch schwerer beladen. Sie tragen eine Kiste, durch deren Gewicht sie bei jedem Schritt knietief in den roten Schlamm einsinken.
 
-Die einzige Person ohne Gepäck läuft direkt hinter dir, umgeben von abgehärteten Veteranen – einem schlanken Aeon-Priester, dessen Gewand weder nass noch schmutzig geworden ist. Dennoch scheint ihm der Regen mehr zuzusetzen als den anderen. {VOICE: I think "Aeon Priest" should be sneered a bit.} {SOUND: Heavy rain, troops marching through mud, Rain can be constant throughout the whole mere.}</DefaultText>
+Die einzige Person ohne Gepäck läuft direkt hinter dir, umgeben von abgehärteten Veteranen – einem schlanken Aeon-Priester, dessen Gewand weder nass noch schmutzig geworden ist. Dennoch scheint ihm der Regen mehr zuzusetzen als den anderen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,9 +51,7 @@ Die einzige Person ohne Gepäck läuft direkt hinter dir, umgeben von abgehärte
 
 Eine Stimme unterbricht die beiden. Sie wird durch die kratzigen Klänge eines simplen Artefakts verstärkt. „Bringt UNS dEN PRIesteR unD seiN NumENERa, unD EUReN MänNErn wIRd nICHts GeSCHehEN. WiDERSetzT EUch, unD IhR ALLe STerbT!“
 
-Der Aeon-Priester, der sich mittlerweile auf der Straße zusammengerollt hat, quietscht laut: „Wag es nicht, mich ihnen zu übergeben, Abschaum! Ich bin mehr wert als das Leben eurer ganzen Truppe!“
-
-{SOUND: Rain and energy weapon fire.}</DefaultText>
+Der Aeon-Priester, der sich mittlerweile auf der Straße zusammengerollt hat, quietscht laut: „Wag es nicht, mich ihnen zu übergeben, Abschaum! Ich bin mehr wert als das Leben eurer ganzen Truppe!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,17 +89,12 @@ Obwohl Vostiel dir versichert hat, dass der Monolith nur ein paar Kilometer weit
       <ID>14</ID>
       <DefaultText>Vostiel seufzt. „Dachte, Sie hätten ein bisschen mehr Kampfgeist, Captain, aber was soll's. Befehl ist Befehl.“
 
-Er reiht sich wieder ein und die Truppe setzt ihren Marsch fort. Landi muss sich zusammenreißen, nicht hämisch zu grinsen, und der kleine Aeon-Priester grummelt etwas von unnötigen Zwischenstopps und einem mangelnden Gefühl für seine Sicherheit vor sich hin.
-
-{SOUND: More rain, more marching}</DefaultText>
+Er reiht sich wieder ein und die Truppe setzt ihren Marsch fort. Landi muss sich zusammenreißen, nicht hämisch zu grinsen, und der kleine Aeon-Priester grummelt etwas von unnötigen Zwischenstopps und einem mangelnden Gefühl für seine Sicherheit vor sich hin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Auch wenn du Vostiel die Enttäuschung ansehen kannst, gibt er den Befehl ohne Zögern an seine Einheit weiter, so wie auch Landi. Auf den Befehl der beiden hin zieht sich der ganze Trupp diszipliniert und zügig in die Schützengräben zurück. Sie sind sogar so schnell, dass die Angreifer gerade einmal Zeit für ein paar eilige Schüsse in Richtung deiner Truppen haben, während diese bereits ihre Verteidigungsstellung einnehmen. Nur zwei von ihnen wurden getroffen, und es sind keine schweren Verletzungen.
-
-{SOUND: Energy weapon fire.}
-{SCRIPT: Illustration - Diving for Cover}</DefaultText>
+      <DefaultText>Auch wenn du Vostiel die Enttäuschung ansehen kannst, gibt er den Befehl ohne Zögern an seine Einheit weiter, so wie auch Landi. Auf den Befehl der beiden hin zieht sich der ganze Trupp diszipliniert und zügig in die Schützengräben zurück. Sie sind sogar so schnell, dass die Angreifer gerade einmal Zeit für ein paar eilige Schüsse in Richtung deiner Truppen haben, während diese bereits ihre Verteidigungsstellung einnehmen. Nur zwei von ihnen wurden getroffen, und es sind keine schweren Verletzungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,7 +115,7 @@ Er reiht sich wieder ein und die Truppe setzt ihren Marsch fort. Landi muss sich
 
 Sogar du machst unbewusst einen Schritt zur Seite, als er das Geschütz einstellt und auf die Stellungen der Angreifer ausrichtet.
 
-Eine lange Zeit lang geschieht nichts, was Vostiel mit einem höhnischen Lachen kommentiert. Dann explodieren die Waffen deiner Widersacher mit dem Tosen von hundert Stürmen eine nach der anderen. Erhitzer, Strahlenkanonen und Geschütze feuern in einem einzigen Augenblick all ihre Munition in den Nachthimmel. Flammen tanzen. Elektrizität liegt in der Luft. Wolken aus Gift und Halluzinogenen verteilen sich wie ein bunter Nebel über dem Schlachtfeld. {SOUND: Sonic occilator weapon, followed by Huge Multi Explosion.}</DefaultText>
+Eine lange Zeit lang geschieht nichts, was Vostiel mit einem höhnischen Lachen kommentiert. Dann explodieren die Waffen deiner Widersacher mit dem Tosen von hundert Stürmen eine nach der anderen. Erhitzer, Strahlenkanonen und Geschütze feuern in einem einzigen Augenblick all ihre Munition in den Nachthimmel. Flammen tanzen. Elektrizität liegt in der Luft. Wolken aus Gift und Halluzinogenen verteilen sich wie ein bunter Nebel über dem Schlachtfeld.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,9 +129,7 @@ Eine lange Zeit lang geschieht nichts, was Vostiel mit einem höhnischen Lachen 
 
 „Jetzt zeigen wir's ihnen!“, schreit er. 
 
-Hinter euch ziehen sich Landi und der Rest der Truppe gemeinsam mit dem unzufriedenen Priester in die Gräben auf der rechten Seite zurück. Sie gehen in Deckung und feuern Salven und surrende Strahlen in Richtung der Angreifer, um sie abzulenken. Das erlaubt deiner kleinen Truppe, linkerhand an den Schützengräben vorbei zum zerfallenen Konstrukt vorzupreschen.
-
-{SOUND: Battle sounds.}</DefaultText>
+Hinter euch ziehen sich Landi und der Rest der Truppe gemeinsam mit dem unzufriedenen Priester in die Gräben auf der rechten Seite zurück. Sie gehen in Deckung und feuern Salven und surrende Strahlen in Richtung der Angreifer, um sie abzulenken. Das erlaubt deiner kleinen Truppe, linkerhand an den Schützengräben vorbei zum zerfallenen Konstrukt vorzupreschen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -219,7 +210,7 @@ Du kannst zehn feindliche Soldaten ausmachen, die den Monolithen beschützen. Vi
 
 Als alle Soldaten in Position sind, gibst du das Signal zum Angriff. Die gesamte Truppe feuert ohne Unterlass auf eine Stelle an den Vorderbeinen des Konstrukts, an der die Synth-Panzerung am stärksten beschädigt ist, um es zu Fall zu bringen. Die Beine des Konstrukts knicken um und es beginnt, zu stürzen.
 
-Unglücklicherweise genügt die Sekunde, die es bis zum Erdboden fällt, drei Strahlen in verschiedene Richtungen abzufeuern, die die Hälfte deiner Truppe lichterloh in Flammen aufgehen lassen. {SOUND: Robot's Powerful Beam Weapon}</DefaultText>
+Unglücklicherweise genügt die Sekunde, die es bis zum Erdboden fällt, drei Strahlen in verschiedene Richtungen abzufeuern, die die Hälfte deiner Truppe lichterloh in Flammen aufgehen lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,10 +219,7 @@ Unglücklicherweise genügt die Sekunde, die es bis zum Erdboden fällt, drei St
 
 Und so vergeht die nächste halbe Stunde. Ihr bewegt euch nur, wenn der Monolith euch vor den Bewegungssensoren des Konstrukts versteckt. Ansonsten duckt und versteckt ihr euch so lange, bis das Konstrukt wieder verschwunden ist. 
 
-Nach einer Weile habt ihr euch der gigantischen Mantis auf Wurfreichweite genähert. In diesem Moment gibst du deiner Truppe das Signal über den Aether-Funk. Auf dein Zeichen beginnen sie, aus ihrer Stellung heraus auf das Konstrukt und die Truppen zu feuern, um damit ihre Aufmerksamkeit auf sich zu ziehen. Das ist deine Chance!
-
-{SOUND: Energy weapon fire.}
-{SCRIPT: Illustration - Sniping the Construct}</DefaultText>
+Nach einer Weile habt ihr euch der gigantischen Mantis auf Wurfreichweite genähert. In diesem Moment gibst du deiner Truppe das Signal über den Aether-Funk. Auf dein Zeichen beginnen sie, aus ihrer Stellung heraus auf das Konstrukt und die Truppen zu feuern, um damit ihre Aufmerksamkeit auf sich zu ziehen. Das ist deine Chance!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +234,7 @@ Nach einer Weile habt ihr euch der gigantischen Mantis auf Wurfreichweite genäh
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Warum wurde ich nicht in einem Fahrzeug abgeholt?“, fragt er. „Und warum werde ich von schlecht ausgerüsteten Amateuren eskortiert? Wenn es das ist, was das Oberkommando von mir hält, sollte ich meine Arbeit vielleicht besser an seine Feinde verkaufen!“ {VOICE: The priest should be shrill, obviojusly. Extra sneer on „trench fodder.“}
+      <DefaultText>„Warum wurde ich nicht in einem Fahrzeug abgeholt?“, fragt er. „Und warum werde ich von schlecht ausgerüsteten Amateuren eskortiert? Wenn es das ist, was das Oberkommando von mir hält, sollte ich meine Arbeit vielleicht besser an seine Feinde verkaufen!“
 
 Die Frau, die neben dir marschiert, seufzt. An ihrem Uniformrock ist das Abzeichen eines Leutnants angebracht. In ihrem Gesicht prangt eine große Narbe, die sich von der Schläfe bis zum Kiefer durchzieht. „Keine Fahrzeuge übrig“, sagt sie. „Und auch keine andere Truppe. Wegen des Angriffs des Kalkedons ist jede andere kampffähige Truppe auf dem direkten Weg nach Ansau.“
 
@@ -293,9 +281,7 @@ Sie starrt auf den Mantel aus Regen hinter dir. „Vostiel sollte bald mit neuen
 
 Vostiel schwebt auf einem kleinen Fahrzeug vor. Er hält direkt vor dir an, zieht seine Schutzbrille ab und salutiert.
 
-„Das Glück ist auf unserer Seite, Captain“, sagt er. „Erst kommen wir früh weg und jetzt das: Ich habe einen Kurier mit einer interessanten Nachricht abgefangen. Sieht aus, als wäre die Einheit, die an Barhads Monolith stationiert ist, durch den Angriff eines abtrünnigen Konstrukts auf 10 Mann reduziert worden. Sie haben das Mistvieh zwar besiegt, aber es hätte sie fast komplett ausradiert.“
-
-{SOUND: Marching}</DefaultText>
+„Das Glück ist auf unserer Seite, Captain“, sagt er. „Erst kommen wir früh weg und jetzt das: Ich habe einen Kurier mit einer interessanten Nachricht abgefangen. Sieht aus, als wäre die Einheit, die an Barhads Monolith stationiert ist, durch den Angriff eines abtrünnigen Konstrukts auf 10 Mann reduziert worden. Sie haben das Mistvieh zwar besiegt, aber es hätte sie fast komplett ausradiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,7 +343,7 @@ Er zögert einen Augenblick lang und spricht dann leise weiter. „Es scheint, a
       <ID>56</ID>
       <DefaultText>„Welche Einheit sollen wir zuerst in Angriff nehmen?“, fragt Vostiel.
 
-Ihr haltet an einer Kreuzung zweier Schützengräben an. Der Feind ist in drei Einheiten aufgeteilt. Die Einheit auf der linken Seite feuert explosive Geschosse über die Straße auf deine Truppen. Die Einheit auf der linken Seite bewegt sich durch die Schützengräben fort und wird deine Truppen auf dem Weg zu ihnen mit Sperrfeuer belegen. Die Einheit, die euch von den Schultern des gefallenen Konstrukts aus unter Beschuss nehmen wird, ist mit einem leistungsfähigen Erhitzer ausgerüstet, der die Erde und Steine in den umliegenden Schützengräben mit jeder Welle in brodelnde Schlacke verwandelt. {SOUND: Battle sounds}</DefaultText>
+Ihr haltet an einer Kreuzung zweier Schützengräben an. Der Feind ist in drei Einheiten aufgeteilt. Die Einheit auf der linken Seite feuert explosive Geschosse über die Straße auf deine Truppen. Die Einheit auf der linken Seite bewegt sich durch die Schützengräben fort und wird deine Truppen auf dem Weg zu ihnen mit Sperrfeuer belegen. Die Einheit, die euch von den Schultern des gefallenen Konstrukts aus unter Beschuss nehmen wird, ist mit einem leistungsfähigen Erhitzer ausgerüstet, der die Erde und Steine in den umliegenden Schützengräben mit jeder Welle in brodelnde Schlacke verwandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -377,9 +363,7 @@ Ihr haltet an einer Kreuzung zweier Schützengräben an. Der Feind ist in drei E
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Du und deine Truppe bahnen sich ihren Weg durch den Irrgarten aus Schützengräben, bis ihr schließlich einen Bogen um die Granatwerfer-Einheit gelaufen seid und sie von der linken Seite aus flankiert. Durch das Licht ihrer Leuchtkugel kannst du erkennen, dass sie zu viert sind: ein Späher, ein Schütze, ein Lader und ein Unteroffizier, der schreiend Befehle von sich gibt. Keiner von ihnen sieht in deine Richtung.
-
-{SCRIPT: Illustration - The Mortar Team}</DefaultText>
+      <DefaultText>Du und deine Truppe bahnen sich ihren Weg durch den Irrgarten aus Schützengräben, bis ihr schließlich einen Bogen um die Granatwerfer-Einheit gelaufen seid und sie von der linken Seite aus flankiert. Durch das Licht ihrer Leuchtkugel kannst du erkennen, dass sie zu viert sind: ein Späher, ein Schütze, ein Lader und ein Unteroffizier, der schreiend Befehle von sich gibt. Keiner von ihnen sieht in deine Richtung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -393,9 +377,7 @@ Ihr haltet an einer Kreuzung zweier Schützengräben an. Der Feind ist in drei E
 
 Nur wenige Augenblicke später tauchen die Späher deiner Feinde auf, schleichen sich zur Kreuzung vor und schauen sich um. Der Erste und der Zweite gehen nicht in Alvooshs Falle, aber der Dritte hat nicht so viel Glück. Eine knisternde Ladung Strom schießt durch seinen Körper und breitet sich dann über die anderen zwei bis hin zu den Truppen hinter ihnen aus.
 
-Ein Viertel deiner Gegner erleidet einen Herzstillstand und ist sofort tot. Etliche andere liegen zitternd im Dreck. Der Rest stürmt nach vorne und löst damit eine zweite Mine aus, die noch mehr von ihnen umbringt.
-
-{SOUND: Electrical explosion.}</DefaultText>
+Ein Viertel deiner Gegner erleidet einen Herzstillstand und ist sofort tot. Etliche andere liegen zitternd im Dreck. Der Rest stürmt nach vorne und löst damit eine zweite Mine aus, die noch mehr von ihnen umbringt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -410,9 +392,7 @@ Ein Viertel deiner Gegner erleidet einen Herzstillstand und ist sofort tot. Etli
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Du lädst die Cypher auf und wirst sie über deinen Kopf hinweg auf die gegnerische Einheit. Mit Schrecken beobachten sie, wie der ovale Gegenstand in ihrer Mitte landet. Dann implodiert er und saugt dabei alle Luft und Materie in einem Radius von zehn Metern um ihn herum in sich auf. Die Einheit und der Granatwerfer verschwinden mit einem ohrenbetäubenden Donnern, als die umliegende Luft blitzartig das entstandene Vakuum füllt.
-
-{SOUND: Sonic boom.}</DefaultText>
+      <DefaultText>Du lädst die Cypher auf und wirst sie über deinen Kopf hinweg auf die gegnerische Einheit. Mit Schrecken beobachten sie, wie der ovale Gegenstand in ihrer Mitte landet. Dann implodiert er und saugt dabei alle Luft und Materie in einem Radius von zehn Metern um ihn herum in sich auf. Die Einheit und der Granatwerfer verschwinden mit einem ohrenbetäubenden Donnern, als die umliegende Luft blitzartig das entstandene Vakuum füllt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,16 +401,12 @@ Ein Viertel deiner Gegner erleidet einen Herzstillstand und ist sofort tot. Etli
 
 Ihr wartet einen Augenblick lang die Reaktion der anderen gegnerischen Einheiten ab, aber keiner scheint der Ausfall der Granatwerfer-Einheit aufgefallen zu sein. Also schleicht ihr euch zu ihrer Position vor und plündert ihre Waffen, inklusive des Granatwerfers.
 
-Vostiel grinst dich an. „Für das Schätzchen hier ist noch eine ganze Menge Munition übrig. Sollen wir diese Mistkerle von ihrer eigenen Medizin kosten lassen?“
-
-{SOUND: Energy weapon fire.}</DefaultText>
+Vostiel grinst dich an. „Für das Schätzchen hier ist noch eine ganze Menge Munition übrig. Sollen wir diese Mistkerle von ihrer eigenen Medizin kosten lassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Kurz legt sich das Feuer des Vorstoßtrupps und des Konstrukts, dann richten beide ihr Augenmerk auf euch. Der Erhitzer feuert in eure Richtung und lässt die Erde auf dem Weg zu eurer Position schmelzen, während der Vorstoßtrupp euch ebenfalls aufs Korn nimmt. In den Schützengräben erkennst du plötzlich die Bewegung schattenhafter Figuren, die du zuvor nicht wahrgenommen hast.
-
-{SOUND: Battle sounds.}</DefaultText>
+      <DefaultText>Kurz legt sich das Feuer des Vorstoßtrupps und des Konstrukts, dann richten beide ihr Augenmerk auf euch. Der Erhitzer feuert in eure Richtung und lässt die Erde auf dem Weg zu eurer Position schmelzen, während der Vorstoßtrupp euch ebenfalls aufs Korn nimmt. In den Schützengräben erkennst du plötzlich die Bewegung schattenhafter Figuren, die du zuvor nicht wahrgenommen hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -447,10 +423,7 @@ Vostiel grinst dich an. „Für das Schätzchen hier ist noch eine ganze Menge M
       <ID>70</ID>
       <DefaultText>Deine Truppe und du weichen den Strahlen des Erhitzers aus und schlängeln sich durch die Schützengräben in Richtung des zerstörten Konstrukts. Unglücklicherweise kennt der Vorstoßtrupp nun eure Position und macht sich daran, euch abzufangen. Noch bevor ihr die Hälfte des Weges zurückgelegt habt, stürzen sich zwei riesige, vierbeinige Gestalten von oben herab in den Schützengraben vor euch. Es sind Kragenbaule!
 
-Zusammen mit Vostiel kannst du einen von ihnen mithilfe deiner Strahlenkanone ausschalten, der zweite aber erwischt eine Soldatin deiner Truppe, zerfleischt sie mit seinen Klauen und spießt sie mit seinen Stacheln auf. 
-
-{SOUND: Roaring lions.}
-{SCRIPT: Illustration - Frilled Bauls}</DefaultText>
+Zusammen mit Vostiel kannst du einen von ihnen mithilfe deiner Strahlenkanone ausschalten, der zweite aber erwischt eine Soldatin deiner Truppe, zerfleischt sie mit seinen Klauen und spießt sie mit seinen Stacheln auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -459,27 +432,19 @@ Zusammen mit Vostiel kannst du einen von ihnen mithilfe deiner Strahlenkanone au
 
 Allerdings folgt der feindliche Vorstoßtrupp ihnen auf dem Fuße und eröffnet ein wildes Sperrfeuer, noch bevor deine Truppe sich vom vorigen Angriff sammeln konnte. Du hast Glück, denn nur einer deiner Soldaten wird getroffen, da deine Gegner ohne Sicht auf euch schießen.
 
-Sie rücken immer näher, bis das Feuergefecht schließlich zum Handgemenge wird. Hier hat deine Truppe einen entscheidenden Vorteil. Sie hat jahrelang in der Endlosen Schlacht gekämpft, wodurch jeder einzelne von ihnen zu einem talentierten Nahkämpfer herangewachsen ist. Nach weniger als eine Minute ist es vorbei, und ihr habt lediglich zwei Soldaten verloren.
-
-{SOUND: Roaring lions/dinosaurs.}
-{SCRIPT: Illustration - Frilled Bauls}</DefaultText>
+Sie rücken immer näher, bis das Feuergefecht schließlich zum Handgemenge wird. Hier hat deine Truppe einen entscheidenden Vorteil. Sie hat jahrelang in der Endlosen Schlacht gekämpft, wodurch jeder einzelne von ihnen zu einem talentierten Nahkämpfer herangewachsen ist. Nach weniger als eine Minute ist es vorbei, und ihr habt lediglich zwei Soldaten verloren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>Der Rest deiner Truppe attackiert die zweite Bestie und verwandelt sie mit ihren Strahlenwaffen in ein qualmendes Häufchen. Mit ihrem Tod aber strömt der feindliche Vorstoßtrupp von allen Seiten in eure Position. 
 
-Ihr kämpft tapfer, doch es sind zu viele. Es gelingt euch nicht, die Position zu verteidigen. Blitze und Strahlen zerfetzen dich und deiner Kameraden. Der wallende Strahl des Erhitzers wendet sich schließlich wieder der Truppe auf der anderen Seite der Straße zu.
-
-{SOUND: Battle sounds.}</DefaultText>
+Ihr kämpft tapfer, doch es sind zu viele. Es gelingt euch nicht, die Position zu verteidigen. Blitze und Strahlen zerfetzen dich und deiner Kameraden. Der wallende Strahl des Erhitzers wendet sich schließlich wieder der Truppe auf der anderen Seite der Straße zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Das Letzte, was du siehst, ist der endlose Regen am Himmel. Während dein Bewusstsein langsam schwindet hat er ein rotes Glitzern angenommen, verfärbt durch das Licht der brennenden Überreste deiner Truppen, die du zurückgelassen hast. Auch wenn dein Ende nun gekommen ist, so war es doch immerhin glorreich.
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+      <DefaultText>Das Letzte, was du siehst, ist der endlose Regen am Himmel. Während dein Bewusstsein langsam schwindet hat er ein rotes Glitzern angenommen, verfärbt durch das Licht der brennenden Überreste deiner Truppen, die du zurückgelassen hast. Auch wenn dein Ende nun gekommen ist, so war es doch immerhin glorreich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -510,7 +475,7 @@ Auf der anderen Seite könntet ihr auch versuchen, zur Truppe zurückzukehren un
       <ID>78</ID>
       <DefaultText>Vom Kommandoposten aus schlängelt sich deine Einheit zum Konstrukt vor, immer darauf bedacht, an den verdeckten Seiten der Schützengräben entlang zu gehen, um nicht entdeckt zu werden. Aber es gelingt euch nicht. Plasmaexplosionen und Erhitzerstrahlen folgen euch auf Schritt und Tritt.
 
-Irgendwie gelingt es euch dennoch, unversehrt zur Position eurer Feinde zu gelangen. Du wirfst den letzten Singularitätsdetonator über eure Köpfe hinweg in Richtung des massiven Kopfes des Konstrukts, wo sie sich verschanzt haben. Gerade, als du den Detonator werfen willst, blendet dich eines der unzähligen Geschosse, die über euch hinwegfliegen. Du verfehlst dein Ziel, der Detonator prallt von der Seite des Konstrukts ab und landet im Dreck. Die Implosion des Detonators erzeugt eine alles aufsaugende Sphäre mit zehn Metern Durchmesser. Sie rüttelt am Konstrukts und bringt es weiter zu Fall, während sich die Erhitzer-Einheit nur mit Mühe auf den Beinen halten kann. {SOUND: Sonic boom.}</DefaultText>
+Irgendwie gelingt es euch dennoch, unversehrt zur Position eurer Feinde zu gelangen. Du wirfst den letzten Singularitätsdetonator über eure Köpfe hinweg in Richtung des massiven Kopfes des Konstrukts, wo sie sich verschanzt haben. Gerade, als du den Detonator werfen willst, blendet dich eines der unzähligen Geschosse, die über euch hinwegfliegen. Du verfehlst dein Ziel, der Detonator prallt von der Seite des Konstrukts ab und landet im Dreck. Die Implosion des Detonators erzeugt eine alles aufsaugende Sphäre mit zehn Metern Durchmesser. Sie rüttelt am Konstrukts und bringt es weiter zu Fall, während sich die Erhitzer-Einheit nur mit Mühe auf den Beinen halten kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -519,9 +484,7 @@ Irgendwie gelingt es euch dennoch, unversehrt zur Position eurer Feinde zu gelan
 
 Vostiel geht kreischend zu Boden, in seinem Knie ein gänzlich kauterisiertes Loch. Du und der Rest der Truppe eilen ihm instinktiv zur Hilfe.
 
-In diesem Moment erfasst dich der Erhitzer und verwandelt den Boden unter dir in brennende Lava. Du versinkst darin, als deine Füße unter der Hitze bis zu den Knöcheln dahinschmelzen. Du brennst, und nichts und niemand ist da, um das Feuer zu löschen.
-
-{SOUND: Battle sounds.}</DefaultText>
+In diesem Moment erfasst dich der Erhitzer und verwandelt den Boden unter dir in brennende Lava. Du versinkst darin, als deine Füße unter der Hitze bis zu den Knöcheln dahinschmelzen. Du brennst, und nichts und niemand ist da, um das Feuer zu löschen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -540,35 +503,24 @@ In diesem Moment erfasst dich der Erhitzer und verwandelt den Boden unter dir in
 
 Vostiel wird von den Strahlen erfasst und schlagartig in eine Wolke aus fleischigem Dunst verwandelt. Die anderen beiden Soldaten gehen schnell in Deckung, werden aber an Ort und Stelle erfasst. Nur du bist noch übrig, und der Strahl bewegt sich in deine Richtung.
 
-In einem letzten verzweifelten Akt springst du aus deiner Deckung und hast nun endlich Sicht auf den Feind. Einige gezielte Schüsse auf sein Herz schalten ihn aus, aber der Erhitzer dreht sich noch immer unaufhaltsam in deine Richtung. Als seine Strahlen dich schließlich treffen, vaporisieren sie deine Beine und deinen unteren Torso, und du fällst zu Boden.
-
-{SOUND: Battle sounds.}</DefaultText>
+In einem letzten verzweifelten Akt springst du aus deiner Deckung und hast nun endlich Sicht auf den Feind. Einige gezielte Schüsse auf sein Herz schalten ihn aus, aber der Erhitzer dreht sich noch immer unaufhaltsam in deine Richtung. Als seine Strahlen dich schließlich treffen, vaporisieren sie deine Beine und deinen unteren Torso, und du fällst zu Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist das Jubeln und das Klagen deiner Truppe, die gleichsam ihren Sieg feiern und deinen Tod betrauern. Der silberfarbene Regen trommelt auf dein Gesicht. Auch wenn dein Ende nun gekommen ist, so war es doch immerhin glorreich.
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist das Jubeln und das Klagen deiner Truppe, die gleichsam ihren Sieg feiern und deinen Tod betrauern. Der silberfarbene Regen trommelt auf dein Gesicht. Auch wenn dein Ende nun gekommen ist, so war es doch immerhin glorreich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist der Ansturm von Vostiel und dem Rest der Einheit über die Schützengräben. Sie wollen dich rächen, eilen damit aber nur in den sicheren Tod. Der nachtschwarze Regen trommelt auf dein Gesicht.
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist der Ansturm von Vostiel und dem Rest der Einheit über die Schützengräben. Sie wollen dich rächen, eilen damit aber nur in den sicheren Tod. Der nachtschwarze Regen trommelt auf dein Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
       <DefaultText>Vostiel dreht das Geschütz, berechnet Distanz und Flugbahn, lädt ein sphärisches Geschoss und betätigt dann die Abschussvorrichtiung. Mit einem Geräusch, das sich wie knallende Korken anhört, wird der Plasmadetonator in Richtung der Schulter des gefallenen Konstrukts geschleudert. Ein Volltreffer. In einem Moment duckt sich die Einheit hinter ihrem Erhitzer, im nächsten schon werden sie von einer wirbelnden orangen Flammenmasse eingehüllt und ihre Glieder fliegen in alle Richtungen davon.
 
-Einen Augenblick später explodiert auch der Erhitzer und sinkt schließlich in den massiven Kopf des Konstrukts ein, der dabei nach unten fällt, so als würde der Riese einschlafen.
-
-{SOUND: Fiery explosion.}
-{SCRIPT: Illustration - Blowing up the Heater}</DefaultText>
+Einen Augenblick später explodiert auch der Erhitzer und sinkt schließlich in den massiven Kopf des Konstrukts ein, der dabei nach unten fällt, so als würde der Riese einschlafen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -595,9 +547,7 @@ Einen Augenblick später explodiert auch der Erhitzer und sinkt schließlich in 
       <ID>90</ID>
       <DefaultText>Vostiel dreht das Geschütz und berechnet Distanz und Flugbahn. Ein schwieriger Schuss, aber Vostiel weiß, was er tut. Er schätzt die Position des Feindes ab, lädt eine sphärische Cypher in das Geschütz und feuert sie ab. Mit einem Geräusch wie knallende Korken fliegt ein Plasmadetonator durch die Luft. Ein Volltreffer. Die Schützengräben, durch die sich der Vorstoßtrupp einen Weg gebahnt hat, gehen in lodernden Flammen auf. Glieder fetzen durch die Luft.
 
-Unglücklicherweise zieht ihr damit die Aufmerksamkeit der Erhitzer-Einheit auf euch, die den Boden unter euch in brodelnde Lava verwandelt, noch bevor ihr euch in Deckung bringen könnt. Du sinkst in den Boden ein, als deine Füße bis zu den Knöcheln hin von der Hitze geschmolzen werden. Du brennst, und nichts und niemand ist da, um das Feuer zu löschen.
-
-{SOUND: Fiery explosion.}</DefaultText>
+Unglücklicherweise zieht ihr damit die Aufmerksamkeit der Erhitzer-Einheit auf euch, die den Boden unter euch in brodelnde Lava verwandelt, noch bevor ihr euch in Deckung bringen könnt. Du sinkst in den Boden ein, als deine Füße bis zu den Knöcheln hin von der Hitze geschmolzen werden. Du brennst, und nichts und niemand ist da, um das Feuer zu löschen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -626,10 +576,7 @@ Unglücklicherweise zieht ihr damit die Aufmerksamkeit der Erhitzer-Einheit auf 
 
 Dir und Vostiel gelingt es, eine der Bestien mit euren Strahlenkanonen zu pulverisieren, aber die zweite springt auf deine Soldaten zu und reißt einem von ihnen die Kehle aus dem Leib. Schließlich verarbeitet deine Truppe auch den letzten Kragenbaul zu Hackfleisch. In diesem Moment aber strömt der Rest des Vorstoßtrupps in eure Position. Ihr kämpft tapfer, aber es sind zu viele und eure Position erweist sich als unhaltbar. Blitze und Kugeln reißen euch alle in Stücke.
 
-Während du verblutend am Boden liegst, kniet sich ein feindlicher Unteroffizier zu dir herunter und stiehlt deine Singularitätsdetonatoren. Er lacht. „Damit werden wir den Rest von ihnen im Handumdrehen erledigen.“
-
-{SOUND: Roaring lions.}
-{SCRIPT: Illustration - The Frilled Bauls}</DefaultText>
+Während du verblutend am Boden liegst, kniet sich ein feindlicher Unteroffizier zu dir herunter und stiehlt deine Singularitätsdetonatoren. Er lacht. „Damit werden wir den Rest von ihnen im Handumdrehen erledigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -638,19 +585,14 @@ Während du verblutend am Boden liegst, kniet sich ein feindlicher Unteroffizier
 
 Allerdings folgt der feindliche Vorstoßtrupp ihnen auf dem Fuße und eröffnet ein wildes Sperrfeuer, noch bevor deine Truppe sich vom vorigen Angriff sammeln konnte. Du hast Glück, denn nur einer deiner Soldaten wird getroffen, da deine Gegner ohne Sicht auf euch schießen.
 
-Sie rücken immer näher, bis das Feuergefecht schließlich zum Handgemenge wird. Hier hat deine Truppe einen entscheidenden Vorteil. Sie hat jahrelang in der Endlosen Schlacht gekämpft, wodurch jeder einzelne von ihnen zu einem talentierten Nahkämpfer herangewachsen ist. Nach weniger als eine Minute ist es vorbei, und ihr habt lediglich zwei Soldaten verloren.
-
-{SOUND: Roaring lions.}
-{SCRIPT: Illustration - The Frilled Bauls}</DefaultText>
+Sie rücken immer näher, bis das Feuergefecht schließlich zum Handgemenge wird. Hier hat deine Truppe einen entscheidenden Vorteil. Sie hat jahrelang in der Endlosen Schlacht gekämpft, wodurch jeder einzelne von ihnen zu einem talentierten Nahkämpfer herangewachsen ist. Nach weniger als eine Minute ist es vorbei, und ihr habt lediglich zwei Soldaten verloren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
       <DefaultText>Unglücklicherweise macht die Explosion den Vorstoßtrupp auf euch aufmerksam. Sie preschen nun unter Dauerfeuer auf eure Position vor, und dunkle Gestalten, die du vorher nicht bemerkt hattest, rasen durch die Schützengräben in eure Richtung. Ihr könntet niemals eine weitere Cypher abfeuern, bevor der Vorstoßtrupp zu euch gelangt.
 
-Vostiel dreht sich zu dir. „Wenn wir die genauso fertigmachen wie die anderen, ist das unser Glückstag. Was sollen wir tun?“
-
-{SOUND: Energy weapon fire.}</DefaultText>
+Vostiel dreht sich zu dir. „Wenn wir die genauso fertigmachen wie die anderen, ist das unser Glückstag. Was sollen wir tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -660,10 +602,7 @@ Vostiel dreht sich zu dir. „Wenn wir die genauso fertigmachen wie die anderen,
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist der Ansturm von Vostiel und dem Rest der Einheit über die Schützengräben. Sie wollen deinen ruhmreichen und tapferen Tod rächen, eilen damit aber nur in den sicheren Tod. Der nachtschwarze Regen trommelt auf dein Gesicht.
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist der Ansturm von Vostiel und dem Rest der Einheit über die Schützengräben. Sie wollen deinen ruhmreichen und tapferen Tod rächen, eilen damit aber nur in den sicheren Tod. Der nachtschwarze Regen trommelt auf dein Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -677,17 +616,12 @@ Vostiel dreht sich zu dir. „Wenn wir die genauso fertigmachen wie die anderen,
 
 Du siehst nach unten. An deinem Gurt fehlt ein Detonator. Du rufst den anderen zu, dass sie verschwinden sollen und rennst zum Ausgang des Kommandopostens.
 
-Hinter dir hörst du plötzlich ein ohrenbetäubendes Donnern. Alle Dinge im Implosionsradius des Detonators fallen in einem einzigen Punkt zusammen. Du fällst auf den nassen Schlamm des Schützengrabens und wähnst dich einen Augenblick lang sicher. Doch dann bemerkst du, dass du durch die Implosion deine Beine und deinen unteren Torso verloren hast, und dass deine Gedärme nun eine rote Pfütze um deinen zerfetzten Körper bilden.
-
-{SOUND: Sonic boom.}</DefaultText>
+Hinter dir hörst du plötzlich ein ohrenbetäubendes Donnern. Alle Dinge im Implosionsradius des Detonators fallen in einem einzigen Punkt zusammen. Du fällst auf den nassen Schlamm des Schützengrabens und wähnst dich einen Augenblick lang sicher. Doch dann bemerkst du, dass du durch die Implosion deine Beine und deinen unteren Torso verloren hast, und dass deine Gedärme nun eine rote Pfütze um deinen zerfetzten Körper bilden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist das Jubeln und das Klagen deiner Truppe, die gleichsam ihren Sieg feiern und deinen Tod betrauern. Der silberfarbene Regen trommelt auf die Seite deines Gesichts. Auch wenn dein Ende nun gekommen ist, so war es doch immerhin glorreich.
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist das Jubeln und das Klagen deiner Truppe, die gleichsam ihren Sieg feiern und deinen Tod betrauern. Der silberfarbene Regen trommelt auf die Seite deines Gesichts. Auch wenn dein Ende nun gekommen ist, so war es doch immerhin glorreich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -697,9 +631,7 @@ Hinter dir hörst du plötzlich ein ohrenbetäubendes Donnern. Alle Dinge im Imp
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist der Ansturm von Vostiel und dem Rest der Einheit über die Schützengräben. Sie wollen deinen ruhmreichen und tapferen Tod rächen, eilen damit aber nur in den sicheren Tod. Der nachtschwarze Regen trommelt auf dein Gesicht.
-
-{SOUND: All sounds fade except the rain.}</DefaultText>
+      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist der Ansturm von Vostiel und dem Rest der Einheit über die Schützengräben. Sie wollen deinen ruhmreichen und tapferen Tod rächen, eilen damit aber nur in den sicheren Tod. Der nachtschwarze Regen trommelt auf dein Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -721,10 +653,7 @@ Hinter dir hörst du plötzlich ein ohrenbetäubendes Donnern. Alle Dinge im Imp
       <ID>108</ID>
       <DefaultText>Deine Truppe und du schlängeln sich durch die Schützengräben in Richtung des zerstörten Konstrukts. Unglücklicherweise kann der Vorstoßtrupp euch auf der Hälfte der Strecke abfangen, und zwei bullige Vierbeiner springen über die Erdhaufen der Gräben auf euch zu. Es sind Kragenbaule!
 
-Zusammen mit Vostiel kannst du einen von ihnen mithilfe deiner Strahlenkanone ausschalten, der zweite aber erwischt eine Soldatin deiner Truppe, zerfleischt sie mit seinen Klauen und spießt sie mit seinen Stacheln auf. 
-
-{SOUND: Roaring lions.}
-{SCRIPT: Illustration - Frilled Bauls}</DefaultText>
+Zusammen mit Vostiel kannst du einen von ihnen mithilfe deiner Strahlenkanone ausschalten, der zweite aber erwischt eine Soldatin deiner Truppe, zerfleischt sie mit seinen Klauen und spießt sie mit seinen Stacheln auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -741,18 +670,14 @@ Zusammen mit Vostiel kannst du einen von ihnen mithilfe deiner Strahlenkanone au
       <ID>111</ID>
       <DefaultText>Du lädst die Cypher auf und wirst sie über deinen Kopf hinweg auf die Erhitzer-Einheit. Ein gelungener Wurf. Mit Schrecken beobachten sie, wie der ovale Gegenstand in ihrer Mitte landet. Dann implodiert er und saugt dabei alle Luft und Materie in einem Radius von zehn Metern um ihn herum in sich auf. Die Einheit und der Erhitzer verschwinden mit einem ohrenbetäubenden Donnern, als die umliegende Luft blitzartig das entstandene Vakuum füllt. Unglücklicherweise befand sich einer der Scharfschützen außerhalb des Implosionsradius. Er feuert kreischend in eure Richtung.
 
-Hastig duckst du dich und schaltest ihn aus, als er für eine weitere Salve aus seiner Deckung hervorlugt. Der Scharfschütze ist tot, aber seine Schreie haben die anderen alarmiert. Du hörst die Rufe des Vorstoßtrupps und der Granatwerfer-Einheit. 
-
-{SOUND: Sonic boom.}</DefaultText>
+Hastig duckst du dich und schaltest ihn aus, als er für eine weitere Salve aus seiner Deckung hervorlugt. Der Scharfschütze ist tot, aber seine Schreie haben die anderen alarmiert. Du hörst die Rufe des Vorstoßtrupps und der Granatwerfer-Einheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
       <DefaultText>Du bist gerade dabei, zu entscheiden, in welche Richtung ihr fliehen sollt, als die Granatwerfer-Einheit eine Brand-Cypher in einem leuchtenden Bogen auf eure Position abfeuert. 
 
-Du rufst deine Truppe zu, dass sie sich verteilen soll, aber es ist zu spät. Die Cypher detoniert zehn Meter über euren Köpfen und übergießt alles im Umkreis von zwanzig Metern mit flüssigem Feuer. Streifen der Flüssigkeit bedecken deinen Körper und verbrennen dich bis auf die Knochen. Neben dir taumelt Vostiel, sein Kopf nur noch ein verbrannter Klumpen. Du streckst deine Hände nach ihm aus. Sie stehen in Flammen. 
-
-{SOUND: Fiery explosion.}</DefaultText>
+Du rufst deine Truppe zu, dass sie sich verteilen soll, aber es ist zu spät. Die Cypher detoniert zehn Meter über euren Köpfen und übergießt alles im Umkreis von zwanzig Metern mit flüssigem Feuer. Streifen der Flüssigkeit bedecken deinen Körper und verbrennen dich bis auf die Knochen. Neben dir taumelt Vostiel, sein Kopf nur noch ein verbrannter Klumpen. Du streckst deine Hände nach ihm aus. Sie stehen in Flammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -762,7 +687,7 @@ Du rufst deine Truppe zu, dass sie sich verteilen soll, aber es ist zu spät. Di
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Das Letzte, was du hörst, während die Flammen dich Stück für Stück verschlingt, ist der Ansturm von Vostiel und dem Rest der Einheit über die Schützengräben. Sie wollen deinen ruhmreichen und tapferen Tod rächen, eilen damit aber nur in den sicheren Tod. Der feuerrote Regen prasselt auf die Seite deines Gesichts. {SOUND: All sounds fade except the rain.} {SCRIPT: Illustration - Dead Captain}</DefaultText>
+      <DefaultText>Das Letzte, was du hörst, während die Flammen dich Stück für Stück verschlingt, ist der Ansturm von Vostiel und dem Rest der Einheit über die Schützengräben. Sie wollen deinen ruhmreichen und tapferen Tod rächen, eilen damit aber nur in den sicheren Tod. Der feuerrote Regen prasselt auf die Seite deines Gesichts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -771,9 +696,7 @@ Du rufst deine Truppe zu, dass sie sich verteilen soll, aber es ist zu spät. Di
 
 Unglücklicherweise erwischt den letzten von ihnen nur ein Streifschuss, und in der Zeit, die du brauchst, um einen weiteren Schuss anzubringen, schreit er auf und versteckt sich hinter dem Erhitzer. Er beginnt, kreischend in deine Richtung zu schießen.
 
-Hastig duckst du dich und schaltest ihn aus, als er für eine weitere Salve aus seiner Deckung hervorlugt. Der Schütze ist tot, aber seine Schreie haben die anderen alarmiert. Du hörst die Rufe des Vorstoßtrupps und der Granatwerfer-Einheit. 
-
-{SOUND: Energy weapon fire.}</DefaultText>
+Hastig duckst du dich und schaltest ihn aus, als er für eine weitere Salve aus seiner Deckung hervorlugt. Der Schütze ist tot, aber seine Schreie haben die anderen alarmiert. Du hörst die Rufe des Vorstoßtrupps und der Granatwerfer-Einheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -787,10 +710,7 @@ Hastig duckst du dich und schaltest ihn aus, als er für eine weitere Salve aus 
 
 Dir und Vostiel gelingt es, eine der Bestien mit euren Strahlenkanonen zu pulverisieren, aber die zweite springt auf deine Soldaten zu und reißt einer von ihnen die Kehle aus dem Leib. Noch schlimmer ist, dass der Kampf gegen sie euch wertvolle Zeit raubt. Der Rest der gegnerischen Truppen könnte jederzeit eintreffen. Die Strahlen des Erhitzers nähern sich eurer Position. Eine Brand-Cypher fliegt in einem leuchtenden Bogen auf euch zu. 
 
-Du rufst deine Truppe zu, dass sie sich verteilen soll, aber es ist zu spät. Das Geschoss detoniert über euren Köpfen und übergießt euch mit einem Regen aus Feuer. Vostiel taumelt an dir vorbei, sein Kopf nur noch ein verkohlter Klumpen. Du streckst deine Hände nach ihm aus. Sie stehen in Flammen.
-
-{SOUND:Roaring lions.}
-{SCRIPT: Illustration - Frilled Bauls}</DefaultText>
+Du rufst deine Truppe zu, dass sie sich verteilen soll, aber es ist zu spät. Das Geschoss detoniert über euren Köpfen und übergießt euch mit einem Regen aus Feuer. Vostiel taumelt an dir vorbei, sein Kopf nur noch ein verkohlter Klumpen. Du streckst deine Hände nach ihm aus. Sie stehen in Flammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -832,9 +752,7 @@ Landi nickt zustimmend, der Schreck steht ihm noch im Gesicht. „Er hat recht, 
 
 Das Seufzen des Priesters begleitet den Weg deiner Truppen, die ihn und die Kiste entlang der Schützengräben zur Position deiner Feinde begleiten. Der Rest der Truppe sieht stillschweigend zu. Endlich, nach unerträglichen Momente der Stille, steigt der Unteroffizier der Erhitzer-Einheit herab und greift nach dem Priester. Sechs Soldaten des Vorstoßtrupps nehmen deinen Männern die Kiste ab.
 
-„VIElen DaNK“, krächzt die modifizierte Stimme, als der Priester und die Kiste hinter dem Konstrukt verschwinden. „OHne FEigLinGE wiE eUCh WärE UNSerE ArbEIt sO viEL ansTRENGendER. IHr köNNt GehEN.“
-
-{SCRIPT: Illustration - Surrendering the Priest}</DefaultText>
+„VIElen DaNK“, krächzt die modifizierte Stimme, als der Priester und die Kiste hinter dem Konstrukt verschwinden. „OHne FEigLinGE wiE eUCh WärE UNSerE ArbEIt sO viEL ansTRENGendER. IHr köNNt GehEN.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -844,9 +762,7 @@ Das Seufzen des Priesters begleitet den Weg deiner Truppen, die ihn und die Kist
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>Sobald deine sechs Soldaten zurückgekehrt sind, gibst du den Marschbefehl, und deine Truppe setzt ihren Weg in gewohnter Formation fort. Du kannst ihre Blicke auf deinem Rücken förmlich spüren. 
-
-{SOUND: All sounds fade except the rain.}</DefaultText>
+      <DefaultText>Sobald deine sechs Soldaten zurückgekehrt sind, gibst du den Marschbefehl, und deine Truppe setzt ihren Weg in gewohnter Formation fort. Du kannst ihre Blicke auf deinem Rücken förmlich spüren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -884,20 +800,14 @@ Der Priester versucht, dich für seine Sache zu gewinnen. „Hören Sie nicht au
       <ID>131</ID>
       <DefaultText>Einen Augenblick später lichten sich die Gaswolken und enthüllen eine stille, tote Szenerie. Nicht ein einziger deiner Feinde hat überlebt. Das Gefecht ist, so wie es der Aeon-Priester versprochen hat, vorbei noch bevor es begonnen hat.
 
-Deine Soldaten jubeln und tragen den Aeon-Priester auf ihren Schultern. Vermutlich wird er der Einzige sein, der für diesen Sieg belohnt wird, aber immerhin war es ein Sieg.
-
-{SOUND: Rain and distant cheers.}
-{SCRIPT: Illustration - Blowing up the Ambushers}</DefaultText>
+Deine Soldaten jubeln und tragen den Aeon-Priester auf ihren Schultern. Vermutlich wird er der Einzige sein, der für diesen Sieg belohnt wird, aber immerhin war es ein Sieg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
       <DefaultText>Eine lange, grausame Schlacht mit Verlusten auf beiden Seiten wird ausgefochten. Nach einiger Zeit gelingt es deinen Spähern, die Granatwerfer-Einheit deiner Angreifer auszuschalten. Nachdem deine Scharfschützen ihren Erhitzer unschädlich gemacht haben, leitet ihr Captain den Rückzug ein und die Schlacht ist gewonnen. Ein entschiedener, wenn nicht sogar glorreicher Sieg, aber noch viel wichtiger ist, dass der Priester am Leben und das Artefakt sicher ist.
 
-Als deine Truppe sich erneut auf den Weg auf den langen Marsch durch den endlosen, silbernen Regen macht, salutiert Landi vor dir und Vostiel nickt dir respektvoll zu. Sogar der kleine Priester dankt dir, auch wenn er noch immer darauf besteht, dass er die Schlacht schneller hätte beenden können. Commander Rekken wird heute sicherlich keine Beschwerden haben.
-
-{SOUND: Battle sounds.}
-{SCRIPT: Illustration - Victorious Captain}</DefaultText>
+Als deine Truppe sich erneut auf den Weg auf den langen Marsch durch den endlosen, silbernen Regen macht, salutiert Landi vor dir und Vostiel nickt dir respektvoll zu. Sogar der kleine Priester dankt dir, auch wenn er noch immer darauf besteht, dass er die Schlacht schneller hätte beenden können. Commander Rekken wird heute sicherlich keine Beschwerden haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,7 +851,7 @@ Nach einem halbstündigen Marsch erreichen du und deine Truppe den Monolithen. I
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Zunächst glaubst du, dass sich dir nur ein paar Fußsoldaten entgegenstellen würden, aber dann wird dir klar, dass die rostigen Teile, die sich neben ihnen aufstellen, nicht etwa nur Schrott, sondern Teile einer alten Kriegsmantis aus Metall sind. Vostiel flucht. „Clever, diese Mistkerle. Die haben das Konstrukt, das sie angegriffen hat, nicht einfach zerstört. Sie haben es repariert und ihm eine Leine um den Hals gelegt!“ Während es seine Kreise um den Monolithen zieht, fällt dir auf, dass sich das Konstrukt glücklicherweise nur stark humpelnd fortbewegen kann und dass ihm ein Arm und etwas Panzerung am Bein fehlen. Weniger Glück hast du mit seiner Strahlenwaffe – ihre rot leuchtenden Augen sagen dir, dass sie immer noch einsatzfähig ist. Vostiel spricht leiser. „Das sieht übel aus. Diese Augen können uns mühelos selbst aus großer Distanz erledigen, und sie verfehlen nie. Wenn wir das Ding nicht sofort ausschalten können, sind wir erledigt.“ {SOUND: Robot movement.}</DefaultText>
+      <DefaultText>Zunächst glaubst du, dass sich dir nur ein paar Fußsoldaten entgegenstellen würden, aber dann wird dir klar, dass die rostigen Teile, die sich neben ihnen aufstellen, nicht etwa nur Schrott, sondern Teile einer alten Kriegsmantis aus Metall sind. Vostiel flucht. „Clever, diese Mistkerle. Die haben das Konstrukt, das sie angegriffen hat, nicht einfach zerstört. Sie haben es repariert und ihm eine Leine um den Hals gelegt!“ Während es seine Kreise um den Monolithen zieht, fällt dir auf, dass sich das Konstrukt glücklicherweise nur stark humpelnd fortbewegen kann und dass ihm ein Arm und etwas Panzerung am Bein fehlen. Weniger Glück hast du mit seiner Strahlenwaffe – ihre rot leuchtenden Augen sagen dir, dass sie immer noch einsatzfähig ist. Vostiel spricht leiser. „Das sieht übel aus. Diese Augen können uns mühelos selbst aus großer Distanz erledigen, und sie verfehlen nie. Wenn wir das Ding nicht sofort ausschalten können, sind wir erledigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -953,9 +863,7 @@ Nach einem halbstündigen Marsch erreichen du und deine Truppe den Monolithen. I
       <ID>142</ID>
       <DefaultText>Deine Truppe schwärmt aus und versteckt sich im Geröll entlang des gegnerischen Patrouillenpfads. Einen nach dem anderen setzen sie ihre Feinde mithilfe von schallgedämpften Silberpistolen außer Gefecht. Eine rätselhafte Chemikalie sorgt dafür, dass die getroffenen Gegner in Sekundenschnelle paralysiert werden und keinen Alarm auslösen können.
 
-Der Plan geht auf, bis auf ein einziges Mal. Ein Fehlschuss erlaubt dem allerletzten Späher, vor seinem Tod einen Schrei von sich zu geben.
-
-{SOUND: Energy weapon fire.}</DefaultText>
+Der Plan geht auf, bis auf ein einziges Mal. Ein Fehlschuss erlaubt dem allerletzten Späher, vor seinem Tod einen Schrei von sich zu geben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -974,9 +882,7 @@ Der Plan geht auf, bis auf ein einziges Mal. Ein Fehlschuss erlaubt dem allerlet
 
 „Die Infanteristen können wir erledigen, kein Problem“, flüstert Vostiel. „Aber die Große da … Wir sind sofort tot, wenn wir so angreifen.“
 
-Er klopft auf das Zielfernrohr seiner Strahlenwaffe. „Wenn wir ihr Auge treffen können, ist der Rest ein Kinderspiel. Aber sie wird bei der kleinsten Bewegung schießen. Also, wer auch immer dem Abzug steht, ist danach auf jeden Fall Geschichte.“ Er sieht dich an. „Wenn Sie wollen, dass ich es versuche, Captain … ein Wort genügt.“
-
-{SOUND: Fiery explosions.}</DefaultText>
+Er klopft auf das Zielfernrohr seiner Strahlenwaffe. „Wenn wir ihr Auge treffen können, ist der Rest ein Kinderspiel. Aber sie wird bei der kleinsten Bewegung schießen. Also, wer auch immer dem Abzug steht, ist danach auf jeden Fall Geschichte.“ Er sieht dich an. „Wenn Sie wollen, dass ich es versuche, Captain … ein Wort genügt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -985,7 +891,7 @@ Er klopft auf das Zielfernrohr seiner Strahlenwaffe. „Wenn wir ihr Auge treffe
 
 Er dreht sich um und legt sich so an die Anhöhe, dass sein Kopf auf gleicher Höhe mit ihrem höchsten Punkt ist. Dann schiebt er den Lauf seiner Strahlenkanone durch die Gräser, die die Anhöhe bedecken. Du und dein letzter Soldat, Alvoosh, bleiben bei ihm. Gemeinsam wartet ihr darauf, dass das Konstrukt seinen Blick abwendet. Schließlich atmet er aus und feuert einen Schuss ab. In der gleichen Sekunde explodiert sein Schädel. Es ist fast so, als hätte er sich selbst erschossen.
 
-Du neigst dich nach oben und siehst zum Konstrukt herüber. Es liegt flach auf dem Boden, und aus seinem zerstörten Kopf fliegen Rauch und Funken. Die Soldaten um es herum schießen wild in alle Richtungen, nur nicht in die Richtige. {SOUND: Robot's powerful beam weapon}</DefaultText>
+Du neigst dich nach oben und siehst zum Konstrukt herüber. Es liegt flach auf dem Boden, und aus seinem zerstörten Kopf fliegen Rauch und Funken. Die Soldaten um es herum schießen wild in alle Richtungen, nur nicht in die Richtige.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1010,7 +916,7 @@ Du neigst dich nach oben und siehst zum Konstrukt herüber. Es liegt flach auf d
 Du winkst ab und legst dich an die Spitze der Anhöhe. Während du den Lauf der Strahlenwaffe durch die Gräser schiebst, beobachtest du die Bewegungen des Konstrukts. Es ist eine Maschine. Ihre Bewegungen sind vorhersehbar. Sein Kopf dreht sich alle sieben Herzschläge zu dir. Alles, was du tun musst, ist zu zielen, zu zählen, und zu feuern. Das Schwierigste daran ist, zu wissen, dass es das Letzte sein wird, was du tust.
 
 Als es seinen Kopf wieder in deine Richtung dreht, atmest du aus und drückst den Abzug. Deine Schulter und dein Torso beginnen auf der Stelle, höllisch zu brennen, als ein Strahl dich vom Schulterknochen bis zur Hüfte durchbohrt. 
-„Captain!“, schreit Vostiel. Er dreht dich um. „Beim Glücksmond, er ist am Leben! Sie haben es erwischt, Captain! Das große Mistvieh ist tot! Sie haben es erwischt!“ {SOUND: Robot's powerful beam weapon}</DefaultText>
+„Captain!“, schreit Vostiel. Er dreht dich um. „Beim Glücksmond, er ist am Leben! Sie haben es erwischt, Captain! Das große Mistvieh ist tot! Sie haben es erwischt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1027,10 +933,7 @@ Als es seinen Kopf wieder in deine Richtung dreht, atmest du aus und drückst de
       <ID>153</ID>
       <DefaultText>Der silberfarbene Regen spült Vostiels kochendes Blut den Abhang der Anhöhe hinunter. Du hebst seine Distanz-Strahlenkanone auf und machst dich mit Alvoosh an die langwierige aber sichere Aufgabe, die vier Verteidiger einen nach dem anderen auszuschalten.
 
-Am heutigen Tag wird die Ehre für die Eroberung des Monolithen dir zuteilwerden, so wie vermutlich auch eine Beförderung. Aber nur du kannst wissen, ob du das auch verdienst.
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Victorious Captain}</DefaultText>
+Am heutigen Tag wird die Ehre für die Eroberung des Monolithen dir zuteilwerden, so wie vermutlich auch eine Beförderung. Aber nur du kannst wissen, ob du das auch verdienst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1047,10 +950,7 @@ Am heutigen Tag wird die Ehre für die Eroberung des Monolithen dir zuteilwerden
       <ID>156</ID>
       <DefaultText>Du kannst nicht antworten. Die Welt schrumpft zu einem winzigen Loch zusammen, aber du kannst noch spüren, wie Vostiel dir die Strahlenkanone abnimmt und deinen Arm drückt.
 
-Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist Vostiels Stimme. Der silberfarbene Regen trommelt auf dein Gesicht. „Wir übernehmen jetzt, Captain. Müssen nur noch den Rest aufräumen. Bleiben Sie bei uns. Sie haben den Tag gerettet! Und die Ehre gebührt ganz Ihnen.“
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist Vostiels Stimme. Der silberfarbene Regen trommelt auf dein Gesicht. „Wir übernehmen jetzt, Captain. Müssen nur noch den Rest aufräumen. Bleiben Sie bei uns. Sie haben den Tag gerettet! Und die Ehre gebührt ganz Ihnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1064,10 +964,7 @@ Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist Vostiel
 
 Unglücklicherweise *ist* es schnell genug, um noch einen letzten Schuss abzufeuern, bevor die Implosion es und alles um es herum in einem einzigen Punkt zusammenfällt. Ein tödlicher Strahl durchstößt dich von Schulterknochen bis zur Hüfte und verbrennt alles dazwischen.
 
-„Captain!“, schreit Vostiel. Er dreht dich um. „Beim Glücksmond, Sie sind am Leben! Sie haben sie erwischt, Captain! Das große Mistvieh ist tot! Und der Rest unserer Feinde auch!“
-
-{SOUND: Two sonic booms.}
-{SCRIPT: Illustration - Blowing up the Construct}</DefaultText>
+„Captain!“, schreit Vostiel. Er dreht dich um. „Beim Glücksmond, Sie sind am Leben! Sie haben sie erwischt, Captain! Das große Mistvieh ist tot! Und der Rest unserer Feinde auch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1079,20 +976,14 @@ Unglücklicherweise *ist* es schnell genug, um noch einen letzten Schuss abzufeu
       <ID>160</ID>
       <DefaultText>Du kannst nicht antworten. Deine Welt schrumpft zu einem winzigen Loch zusammen.
 
-Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist Vostiels Stimme. Der silberfarbene Regen trommelt auf dein Gesicht. „Bleiben Sie bei uns, Captain. Wir übernehmen jetzt, Captain. Nur noch die Patrouillen sind übrig. Sie haben den Tag gerettet! Und die Ehre gebührt ganz Ihnen.“
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist Vostiels Stimme. Der silberfarbene Regen trommelt auf dein Gesicht. „Bleiben Sie bei uns, Captain. Wir übernehmen jetzt, Captain. Nur noch die Patrouillen sind übrig. Sie haben den Tag gerettet! Und die Ehre gebührt ganz Ihnen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
       <DefaultText>Du hörst Schreie aus der Anlage beim Monolithen, die deine Feinde alarmieren. Plötzlich zittert der Boden unter den wuchtigen Schritten der Kriegsmantis. Den anderen kannst du gerade noch rechtzeitig befehlen, sich in Deckung zu bringen, bevor das Konstrukt auf der Spitze der Anhöhe landet. Du siehst die Umrisse der riesigen Gestalt, vom Licht hinter ihr beschienen. Regen tropft von ihrer Panzerung.
 
-Er macht auf der Anhöhe Halt, untersucht die leblosen Körper der Patrouille und hinkt dann weiter nach vorne. Sein Kopf wackelt vor und zurück und scannt die Umgebung nach Bewegungen. Es ist nur eine Frage der Zeit, bevor sie euch alle findet. Hier zu bleiben ist keine Option. Du musst handeln.
-
-{SOUND: Robot movement.}
-{SCRIPT: Illustration - The Construct Scanning}</DefaultText>
+Er macht auf der Anhöhe Halt, untersucht die leblosen Körper der Patrouille und hinkt dann weiter nach vorne. Sein Kopf wackelt vor und zurück und scannt die Umgebung nach Bewegungen. Es ist nur eine Frage der Zeit, bevor sie euch alle findet. Hier zu bleiben ist keine Option. Du musst handeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1116,19 +1007,17 @@ Er macht auf der Anhöhe Halt, untersucht die leblosen Körper der Patrouille un
 
 Unglücklicherweise genügt die Sekunde, in der das Konstrukt zu Boden geht, drei Strahlen in verschiedene Richtungen abzufeuern, die die Hälfte deiner Truppe – inklusive Vostiel – lichterloh in Flammen aufgehen lassen. Eine Sekunde später richtet es sich mit einem Arm von selbst wieder auf.
 
-Du feuerst noch einmal und versuchst, sein tödliches Auge auszuschalten – aber das Konstrukt ist schneller, viel schneller, und so durchbohrt dich ein tödlicher Lichtstrahl von der Schulter bis zur Hüfte und verbrennt alles dazwischen. {SOUND: Robot's powerful beam weapon.}</DefaultText>
+Du feuerst noch einmal und versuchst, sein tödliches Auge auszuschalten – aber das Konstrukt ist schneller, viel schneller, und so durchbohrt dich ein tödlicher Lichtstrahl von der Schulter bis zur Hüfte und verbrennt alles dazwischen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>Du ziehst den Detonator aus deinem Gürtel, machst ihn scharf und wirst ihn auf die Mantis. Unglücklicherweise feuert sie, kurz nachdem die Cypher deine Hand verlässt, einen tödlichen Lichtstrahl auf dich ab, der durch deinen Körper schneidet und dich vollständig verbrennt. In der nächsten Sekunde wehrt sie die Cypher ab, und sie landet genau dort, wo deine Truppen sich in Deckung begeben haben.
-
-{SOUND: Sonic boom.}</DefaultText>
+      <DefaultText>Du ziehst den Detonator aus deinem Gürtel, machst ihn scharf und wirst ihn auf die Mantis. Unglücklicherweise feuert sie, kurz nachdem die Cypher deine Hand verlässt, einen tödlichen Lichtstrahl auf dich ab, der durch deinen Körper schneidet und dich vollständig verbrennt. In der nächsten Sekunde wehrt sie die Cypher ab, und sie landet genau dort, wo deine Truppen sich in Deckung begeben haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>Gemeinsam mit den anderen gibst du deine Deckung auf und fliehst ins Dunkel der Nacht. Unglücklicherweise dauert es nur drei Sekunden, bis die Mantis alle sechs von euch in einem Hagel von tödlichen Lichtstrahlen in Flammen aufgehen lässt. Du fällst schreiend auf den Boden, bis aufs Innerste deines Körpers verbrannt. {SOUND: Robot's powerful beam weapon.}</DefaultText>
+      <DefaultText>Gemeinsam mit den anderen gibst du deine Deckung auf und fliehst ins Dunkel der Nacht. Unglücklicherweise dauert es nur drei Sekunden, bis die Mantis alle sechs von euch in einem Hagel von tödlichen Lichtstrahlen in Flammen aufgehen lässt. Du fällst schreiend auf den Boden, bis aufs Innerste deines Körpers verbrannt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1138,26 +1027,17 @@ Du feuerst noch einmal und versuchst, sein tödliches Auge auszuschalten – abe
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist der Ansturm der beiden letzten Soldaten deiner Einheit auf das Konstrukt. Sie wollen deinen ruhmreichen und tapferen Tod rächen, eilen damit aber nur in den sicheren Tod. Der nachtschwarze Regen trommelt auf die Seite deines Gesichts.
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist der Ansturm der beiden letzten Soldaten deiner Einheit auf das Konstrukt. Sie wollen deinen ruhmreichen und tapferen Tod rächen, eilen damit aber nur in den sicheren Tod. Der nachtschwarze Regen trommelt auf die Seite deines Gesichts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die donnernde Implosion des Singularitätsdetonators, der die eine Hälfte deiner Einheit auslöscht, und das Surren des tödlichen Lichtstrahls, mit dem das Konstrukt die zweite Hälfte auf der Flucht erledigt. Der nachtschwarze Regen trommelt auf die Seite deines Gesichts. Auch wenn dein Ende nun gekommen ist, so war es doch immerhin glorreich.
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die donnernde Implosion des Singularitätsdetonators, der die eine Hälfte deiner Einheit auslöscht, und das Surren des tödlichen Lichtstrahls, mit dem das Konstrukt die zweite Hälfte auf der Flucht erledigt. Der nachtschwarze Regen trommelt auf die Seite deines Gesichts. Auch wenn dein Ende nun gekommen ist, so war es doch immerhin glorreich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins siehst, ist der vorwurfsvolle Blick von Vostiel, der neben dir im Schlamm liegt. Der nachtschwarze Regen trommelt auf die Seite deines Gesichts.
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins siehst, ist der vorwurfsvolle Blick von Vostiel, der neben dir im Schlamm liegt. Der nachtschwarze Regen trommelt auf die Seite deines Gesichts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1174,9 +1054,7 @@ Du feuerst noch einmal und versuchst, sein tödliches Auge auszuschalten – abe
       <ID>174</ID>
       <DefaultText>Zehn feindliche Soldaten bewachen den Monolithen. Vier haben es sich in einem provisorischen Zelt aus Lumpen und Synth-Platten gemütlich gemacht, während die restlichen sechs in Paaren durch den Regen patrouillieren. Zunächst glaubst du, dass du es nur mit ihnen zu tun hättest, aber dann wird dir klar, dass die rostigen Teile, die sich neben ihnen aufstellen, nicht etwa nur Schrott, sondern Teile einer alten Kriegsmantis sind. Sie kann kaum gerade laufen und humpelt stark. Außerdem fehlt ein Teil ihrer Panzerung an den Beinen. Die leuchtend roten Augen aber verraten dir, dass ihre Strahlenwaffe noch funktionstüchtig ist.
 
-Vostiel flucht. „Clever, diese Mistkerle. Sie haben das Wächterkonstrukt nicht nur ausgeschaltet, sondern es wieder repariert und ihm eine Leine um den Hals gelegt. Das sieht übel aus. Diese Augen können uns mühelos selbst aus großer Distanz erledigen, und sie verfehlen nie. Wenn wir das Ding nicht sofort töten können, sind wir erledigt.“
-
-{SOUND: Robot movement.}</DefaultText>
+Vostiel flucht. „Clever, diese Mistkerle. Sie haben das Wächterkonstrukt nicht nur ausgeschaltet, sondern es wieder repariert und ihm eine Leine um den Hals gelegt. Das sieht übel aus. Diese Augen können uns mühelos selbst aus großer Distanz erledigen, und sie verfehlen nie. Wenn wir das Ding nicht sofort töten können, sind wir erledigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1217,10 +1095,7 @@ Sogar du machst unbewusst einen Schritt zur Seite, als er das Geschütz einstell
 
 Binnen Sekunden erreichen euch zwei der patrouillieren Einheiten, die den Explosionen auf den Grund gehen wollen. Aber es sind nur zwei. Anscheinend hat die Waffe des Priesters die restlichen Wachen ausgeschaltet.
 
-Deiner Truppe gelingt es mit Leichtigkeit, die ankommenden Soldaten auszuschalten und den Monolith für sich zu beanspruchen. Das Gefecht ist, so wie es der Aeon-Priester versprochen hat, vorbei noch bevor es begonnen hat.
-
-{SOUND: Sonic Occilator Weapon firing followed by Huge Multi Explosion}
-{SCRIPT: Illustration - Blowing up Monolith Squad}</DefaultText>
+Deiner Truppe gelingt es mit Leichtigkeit, die ankommenden Soldaten auszuschalten und den Monolith für sich zu beanspruchen. Das Gefecht ist, so wie es der Aeon-Priester versprochen hat, vorbei noch bevor es begonnen hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1239,9 +1114,7 @@ Deiner Truppe gelingt es mit Leichtigkeit, die ankommenden Soldaten auszuschalte
 
 „Die Infanteristen können wir erledigen, kein Problem“, flüstert Vostiel. „Aber die Große da … Wir sind sofort tot, wenn wir so angreifen.“
 
-Er klopft auf das Zielfernrohr seiner Strahlenwaffe. „Wenn wir ihr Auge treffen können, ist der Rest ein Kinderspiel. Aber sie wird bei der kleinsten Bewegung schießen. Also, wer auch immer dem Abzug steht, ist danach auf jeden Fall Geschichte.“ Er sieht dich an. „Wenn Sie wollen, dass ich es versuche, Captain … ein Wort genügt.“
-
-{SOUND: Fiery explosions.}</DefaultText>
+Er klopft auf das Zielfernrohr seiner Strahlenwaffe. „Wenn wir ihr Auge treffen können, ist der Rest ein Kinderspiel. Aber sie wird bei der kleinsten Bewegung schießen. Also, wer auch immer dem Abzug steht, ist danach auf jeden Fall Geschichte.“ Er sieht dich an. „Wenn Sie wollen, dass ich es versuche, Captain … ein Wort genügt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1255,7 +1128,7 @@ Er klopft auf das Zielfernrohr seiner Strahlenwaffe. „Wenn wir ihr Auge treffe
 
 Er dreht sich um und legt sich so an die Anhöhe, dass sein Kopf auf gleicher Höhe mit ihrem höchsten Punkt ist. Dann schiebt er den Lauf seiner Strahlenkanone durch die Gräser, die die Anhöhe bedecken. Du und dein letzter Soldat, Alvoosh, bleiben bei ihm. Gemeinsam wartet ihr darauf, dass das Konstrukt seinen Blick abwendet. Schließlich atmet er aus und feuert einen Schuss ab. In der gleichen Sekunde explodiert sein Schädel. Es ist fast so, als hätte er sich selbst erschossen.
 
-Du neigst dich nach oben und siehst zum Konstrukt herüber. Es liegt flach auf dem Boden, und aus seinem zerstörten Kopf fliegen Rauch und Funken. Die Soldaten um es herum schießen wild in alle Richtungen, nur nicht in die Richtige. {SOUND: Robot's powerful beam weapon.}</DefaultText>
+Du neigst dich nach oben und siehst zum Konstrukt herüber. Es liegt flach auf dem Boden, und aus seinem zerstörten Kopf fliegen Rauch und Funken. Die Soldaten um es herum schießen wild in alle Richtungen, nur nicht in die Richtige.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1267,10 +1140,7 @@ Du neigst dich nach oben und siehst zum Konstrukt herüber. Es liegt flach auf d
       <ID>188</ID>
       <DefaultText>Der silberfarbene Regen spült Vostiels kochendes Blut den Abhang der Anhöhe hinunter. Du hebst seine Distanz-Strahlenkanone auf und machst dich mit Alvoosh an die langwierige aber sichere Aufgabe, die vier Verteidiger einen nach dem anderen auszuschalten. Der Sieg ist dein.
 
-Hinter dir kriecht der Aeon-Priester aus seinem Versteck und starrt auf Vostiels Leiche. „War es das wirklich wert, Captain? Ich bezweifle nicht, dass Sie Ruhm und wahrscheinlich auch eine Beförderung auf Sie warten. Aber war es das wirklich wert?“
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Victorious Captain}</DefaultText>
+Hinter dir kriecht der Aeon-Priester aus seinem Versteck und starrt auf Vostiels Leiche. „War es das wirklich wert, Captain? Ich bezweifle nicht, dass Sie Ruhm und wahrscheinlich auch eine Beförderung auf Sie warten. Aber war es das wirklich wert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1286,7 +1156,7 @@ Du winkst ab und legst dich an die Spitze der Anhöhe. Während du den Lauf der 
 
 Als es seinen Kopf wieder in deine Richtung dreht, atmest du aus und drückst den Abzug. Deine Schulter und dein Torso beginnen auf der Stelle, höllisch zu brennen, als ein Strahl dich vom Schulterknochen bis zur Hüfte durchbohrt.
 
-„Captain!“, schreit Vostiel. Er dreht dich um. „Beim Glücksmond, er ist am Leben! Sie haben es erwischt, Captain! Das große Mistvieh ist tot! Sie haben es erwischt!“ {SOUND: Robot's powerful beam weapon.}</DefaultText>
+„Captain!“, schreit Vostiel. Er dreht dich um. „Beim Glücksmond, er ist am Leben! Sie haben es erwischt, Captain! Das große Mistvieh ist tot! Sie haben es erwischt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1303,10 +1173,7 @@ Als es seinen Kopf wieder in deine Richtung dreht, atmest du aus und drückst de
       <ID>193</ID>
       <DefaultText>Du kannst nicht antworten. Die Welt schrumpft zu einem winzigen Loch zusammen, aber du kannst noch spüren, wie Vostiel dir die Strahlenkanone abnimmt und deinen Arm drückt. „Wir übernehmen jetzt, Captain. Müssen nur noch den Rest aufräumen. Bleiben Sie bei uns. Sie haben den Tag gerettet! Und die Ehre gebührt ganz Ihnen. Kümmer dich um ihn, Priester, ich flehe dich an!“
 
-Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die Stimme des Priesters. Der silberfarbene Regen trommelt auf dein Gesicht. „Sie wären noch am Leben, wenn ich meine Waffe hätte benutzen dürfen. Aber ich schätze, Sie sind lieber ein tragischer Held. Verdammter Narr.“
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die Stimme des Priesters. Der silberfarbene Regen trommelt auf dein Gesicht. „Sie wären noch am Leben, wenn ich meine Waffe hätte benutzen dürfen. Aber ich schätze, Sie sind lieber ein tragischer Held. Verdammter Narr.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1325,10 +1192,7 @@ Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die Sti
 
 Unglücklicherweise *ist* es schnell genug, um noch einen letzten Schuss abzufeuern, bevor die Implosion es und alles um es herum in einem einzigen Punkt zusammenfällt. Ein tödlicher Strahl durchstößt dich von Schulterknochen bis zur Hüfte und verbrennt alles dazwischen.
 
-„Captain!“, schreit Vostiel. Er dreht dich um. „Beim Glücksmond, Sie sind am Leben! Sie haben sie erwischt, Captain! Das große Mistvieh ist tot! Und der Rest unserer Feinde auch!“
-
-{SOUND: Two sonic booms.}
-{SCRIPT: Illustration - Blowing Up the Construct}</DefaultText>
+„Captain!“, schreit Vostiel. Er dreht dich um. „Beim Glücksmond, Sie sind am Leben! Sie haben sie erwischt, Captain! Das große Mistvieh ist tot! Und der Rest unserer Feinde auch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1350,10 +1214,7 @@ Unglücklicherweise *ist* es schnell genug, um noch einen letzten Schuss abzufeu
       <ID>200</ID>
       <DefaultText>Du kannst nicht antworten. Die Welt schrumpft zu einem winzigen Loch zusammen, aber du kannst noch spüren, wie Vostiel deinen Arm drückt. „Wir übernehmen jetzt, Captain. Nur noch die Patrouillen sind übrig. Bleiben Sie bei uns. Sie haben den Tag gerettet! Und die Ehre gebührt ganz Ihnen. Kümmer dich um ihn, Priester, ich flehe dich an!“
 
-Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die nahende Stimme des Priesters. „Sie hätten überlegt, wenn Sie mich meine Waffe hätten einsetzen lassen. Aber ich schätze, Sie sind lieber ein tragischer Held. Verdammter Narr.“ Der silberfarbene Regen trommelt auf dein Gesicht.
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die nahende Stimme des Priesters. „Sie hätten überlegt, wenn Sie mich meine Waffe hätten einsetzen lassen. Aber ich schätze, Sie sind lieber ein tragischer Held. Verdammter Narr.“ Der silberfarbene Regen trommelt auf dein Gesicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1365,10 +1226,7 @@ Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist die nah
       <ID>202</ID>
       <DefaultText>Du hörst Schreie aus der Anlage beim Monolithen, die deine Feinde alarmieren. Plötzlich zittert der Boden unter den wuchtigen Schritten der Kriegsmantis. Den anderen kannst du gerade noch rechtzeitig befehlen, sich in Deckung zu bringen, bevor das Konstrukt auf der Spitze der Anhöhe landet. Du siehst die Umrisse der riesigen Gestalt, vom Licht hinter ihr beschienen. Regen tropft von ihrer Panzerung.
 
-Er macht auf der Anhöhe Halt, untersucht die leblosen Körper der Patrouille und hinkt dann weiter nach vorne. Sein Kopf wackelt vor und zurück und scannt die Umgebung nach Bewegungen. Es ist nur eine Frage der Zeit, bevor sie euch alle findet. Hier zu bleiben ist keine Option. Du musst handeln.
-
-{SOUND: Robot Movement.}
-{SCRIPT: Illustration - The Construct Scanning}</DefaultText>
+Er macht auf der Anhöhe Halt, untersucht die leblosen Körper der Patrouille und hinkt dann weiter nach vorne. Sein Kopf wackelt vor und zurück und scannt die Umgebung nach Bewegungen. Es ist nur eine Frage der Zeit, bevor sie euch alle findet. Hier zu bleiben ist keine Option. Du musst handeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1382,7 +1240,7 @@ Er macht auf der Anhöhe Halt, untersucht die leblosen Körper der Patrouille un
 
 Unglücklicherweise genügt die Sekunde, in der das Konstrukt zu Boden geht, drei Strahlen in verschiedene Richtungen abzufeuern, die die Hälfte deiner Truppe – inklusive Vostiel – lichterloh in Flammen aufgehen lassen. Eine Sekunde später richtet es sich mit einem Arm von selbst wieder auf.
 
-Du feuerst noch einmal und versuchst, sein tödliches Auge auszuschalten – aber das Konstrukt ist schneller, viel schneller, und so durchbohrt dich ein tödlicher Lichtstrahl von der Schulter bis zur Hüfte und verbrennt alles dazwischen. {SOUND: Robot's powerful beam weapon .}</DefaultText>
+Du feuerst noch einmal und versuchst, sein tödliches Auge auszuschalten – aber das Konstrukt ist schneller, viel schneller, und so durchbohrt dich ein tödlicher Lichtstrahl von der Schulter bis zur Hüfte und verbrennt alles dazwischen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1392,11 +1250,7 @@ Du feuerst noch einmal und versuchst, sein tödliches Auge auszuschalten – abe
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist der Ansturm der beiden letzten Soldaten deiner Einheit auf das Konstrukt. Sie wollen deinen ruhmreichen und tapferen Tod rächen, eilen damit aber nur in den sicheren Tod. Aus seinem Versteck heraus hörst du das angsterfüllte Winseln des Aeon-Priesters. Der nachtschwarze Regen trommelt auf die Seite deines Gesichts.
-
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+      <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins hörst, ist der Ansturm der beiden letzten Soldaten deiner Einheit auf das Konstrukt. Sie wollen deinen ruhmreichen und tapferen Tod rächen, eilen damit aber nur in den sicheren Tod. Aus seinem Versteck heraus hörst du das angsterfüllte Winseln des Aeon-Priesters. Der nachtschwarze Regen trommelt auf die Seite deines Gesichts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1406,20 +1260,14 @@ Du feuerst noch einmal und versuchst, sein tödliches Auge auszuschalten – abe
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>Du ziehst den Detonator aus deinem Gürtel, machst ihn scharf und wirst ihn auf die Mantis. Unglücklicherweise feuert sie, kurz nachdem die Cypher deine Hand verlässt, einen tödlichen Lichtstrahl auf dich ab, der durch deinen Körper schneidet und dich vollständig verbrennt. In der nächsten Sekunde wehrt sie die Cypher ab, und sie landet genau dort, wo deine Truppen sich in Deckung begeben haben.
-
-{SOUND: Sonic boom.}
-{SCRIPT: Illustration - Blowing up the Construct}</DefaultText>
+      <DefaultText>Du ziehst den Detonator aus deinem Gürtel, machst ihn scharf und wirst ihn auf die Mantis. Unglücklicherweise feuert sie, kurz nachdem die Cypher deine Hand verlässt, einen tödlichen Lichtstrahl auf dich ab, der durch deinen Körper schneidet und dich vollständig verbrennt. In der nächsten Sekunde wehrt sie die Cypher ab, und sie landet genau dort, wo deine Truppen sich in Deckung begeben haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
       <DefaultText>Im langsamen Vergehen deines Bewusstseins hörst du die donnernde Implosion des Singularitätsdetonators, der die eine Hälfte deiner Einheit auslöscht, und das Surren des tödlichen Lichtstrahls, mit dem das Konstrukt die zweite Hälfte auf der Flucht erledigt. Der nachtschwarze Regen trommelt auf die Seite deines Gesichts.
 
-Das Letzte, was du hören kannst, ist das hoffnungslose Winseln des Aeon-Priesters in seinem Versteck. „Sie sind ein Narr“, sagt er. „Ich habe es Ihnen gesagt. Ich habe es Ihnen doch gesagt!“
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+Das Letzte, was du hören kannst, ist das hoffnungslose Winseln des Aeon-Priesters in seinem Versteck. „Sie sind ein Narr“, sagt er. „Ich habe es Ihnen gesagt. Ich habe es Ihnen doch gesagt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1429,20 +1277,14 @@ Das Letzte, was du hören kannst, ist das hoffnungslose Winseln des Aeon-Prieste
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>Gemeinsam mit den anderen gibst du deine Deckung auf und fliehst ins Dunkel der Nacht. Unglücklicherweise dauert es nur drei Sekunden, bis die Mantis alle sechs von euch in einem Hagel von tödlichen Lichtstrahlen in Flammen aufgehen lässt. Du fällst schreiend auf den Boden, bis aufs Innerste deines Körpers verbrannt.
-
-{SOUND: Robot's powerful beam weapon.}
-{SCRIPT: Illustration - Run Away}</DefaultText>
+      <DefaultText>Gemeinsam mit den anderen gibst du deine Deckung auf und fliehst ins Dunkel der Nacht. Unglücklicherweise dauert es nur drei Sekunden, bis die Mantis alle sechs von euch in einem Hagel von tödlichen Lichtstrahlen in Flammen aufgehen lässt. Du fällst schreiend auf den Boden, bis aufs Innerste deines Körpers verbrannt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
       <DefaultText>Das Letzte, was du im langsamen Vergehen deines Bewusstseins siehst, ist der Priester, der neben dir im Schlamm liegt. Er zeigt auf dich und formt mit seinen Lippen ein Wort:
 
-„Narr.“ Der nachtschwarze Regen trommelt auf die Seite deines Gesichts.
-
-{SOUND: All sounds fade except the rain.}
-{SCRIPT: Illustration - Dead Captain}</DefaultText>
+„Narr.“ Der nachtschwarze Regen trommelt auf die Seite deines Gesichts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1453,7 +1295,7 @@ Sie verteilen sich hinter einer kleinen Anhöhe, damit das Konstrukt sie nicht a
 
 Sobald sie sich in Stellung begeben haben, gibst du das Signal zum Angriff und deine Truppe lässt einen Kugelhagel auf die beschädigten Vorderbeine des Konstrukts herabregnen, in der Hoffnung, es damit umzuwerfen.
 
-Es funktioniert! Die Beine des Konstrukts knicken um und es beginnt, zu stürzen. Unglücklicherweise genügt die Sekunde, die es bis zum Erdboden fällt, drei Strahlen in verschiedene Richtungen abzufeuern, die die Hälfte deiner Truppe lichterloh in Flammen aufgehen lassen. {SOUND: Robot's powerful beam weapon}</DefaultText>
+Es funktioniert! Die Beine des Konstrukts knicken um und es beginnt, zu stürzen. Unglücklicherweise genügt die Sekunde, die es bis zum Erdboden fällt, drei Strahlen in verschiedene Richtungen abzufeuern, die die Hälfte deiner Truppe lichterloh in Flammen aufgehen lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1462,10 +1304,7 @@ Es funktioniert! Die Beine des Konstrukts knicken um und es beginnt, zu stürzen
 
 Ihr schleicht euch an den Patrouillen vorbei zum Gipfel der Anhöhe und wartet, bis das Konstrukt hinter dem Monolithen verschwunden ist. Dann kriecht ihr vor. Und so vergeht die nächste halbe Stunde. Ihr bewegt euch nur, wenn der Monolith euch vor den Bewegungssensoren des Konstrukts versteckt. Ansonsten duckt und versteckt ihr euch so lange, bis das Konstrukt wieder verschwunden ist.
 
-Nach einer Weile habt ihr euch dem Konstrukt auf Wurfreichweite genähert. In diesem Moment gibst du deiner Truppe das Signal über den Aether-Funk. Auf dein Zeichen beginnen sie, aus ihrer Stellung heraus auf das Konstrukt und die Truppen zu feuern, um damit ihre Aufmerksamkeit auf sich zu ziehen. Das ist deine Chance!
-
-{SOUND: Energy weapon fire.}
-{SCRIPT: Illustration - Sniping the Construct}</DefaultText>
+Nach einer Weile habt ihr euch dem Konstrukt auf Wurfreichweite genähert. In diesem Moment gibst du deiner Truppe das Signal über den Aether-Funk. Auf dein Zeichen beginnen sie, aus ihrer Stellung heraus auf das Konstrukt und die Truppen zu feuern, um damit ihre Aufmerksamkeit auf sich zu ziehen. Das ist deine Chance!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1476,9 +1315,7 @@ Nach einer Weile habt ihr euch dem Konstrukt auf Wurfreichweite genähert. In di
 
 In dem Moment, in dem die Wachen an ihnen vorbeigehen, schalten deine Truppen sie mit schallgedämpften Silberpistolen aus. Sie sind mit einer Chemikalie versehen, die ihre Opfer sofort paralysiert und so verhindert, dass sie Alarm schlagen können.
 
-Der Plan geht auf, bis auf ein einziges Mal. Ein Fehlschuss erlaubt dem allerletzten Späher, vor seinem Tod einen Schrei von sich zu geben.
-
-{SOUND: Energy weapon fire.}</DefaultText>
+Der Plan geht auf, bis auf ein einziges Mal. Ein Fehlschuss erlaubt dem allerletzten Späher, vor seinem Tod einen Schrei von sich zu geben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1508,9 +1345,7 @@ Vostiel schwebt auf einem kleinen Fahrzeug vor. Er hält direkt vor dir an, zieh
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Deine Soldaten jubeln und tragen den Aeon-Priester auf ihren Schultern. Vermutlich wird er der Einzige sein, der für diesen Sieg belohnt wird, aber immerhin war es ein Sieg.
-
-{SOUND: All sounds fade except the rain.}</DefaultText>
+      <DefaultText>Deine Soldaten jubeln und tragen den Aeon-Priester auf ihren Schultern. Vermutlich wird er der Einzige sein, der für diesen Sieg belohnt wird, aber immerhin war es ein Sieg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Hallo? Oh Skist. Du bist tot, nicht wahr? {muttering to himself}Nein, das kann nicht sein. Wenn er tot wäre, wäre ich es ja auch. {beat}Kannst du mich hören?“</DefaultText>
-      <FemaleText>„Hallo? Oh Skist. Du bist tot, nicht wahr? {muttering to himself}Nein, das kann nicht sein. Wenn sie tot wäre, wäre ich es ja auch. {beat}Kannst du mich hören?“</FemaleText>
+      <DefaultText>„Hallo? Oh Skist. Du bist tot, nicht wahr? Nein, das kann nicht sein. Wenn er tot wäre, wäre ich es ja auch. Kannst du mich hören?“</DefaultText>
+      <FemaleText>„Hallo? Oh Skist. Du bist tot, nicht wahr? Nein, das kann nicht sein. Wenn sie tot wäre, wäre ich es ja auch. Kannst du mich hören?“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Ich höre überhaupt nichts. Bist du überhaupt da? Na, wenn du mich hören kannst, musst du ja noch am Leben sein. {muttering to himself}Aber das weißt du bereits, nicht wahr? {louder, to the PC}Ich werde einfach mal annehmen, dass wir beide am Leben sind und es auch gerne bleiben würden, okay?“</DefaultText>
+      <DefaultText>„Ich höre überhaupt nichts. Bist du überhaupt da? Na, wenn du mich hören kannst, musst du ja noch am Leben sein. Aber das weißt du bereits, nicht wahr? Ich werde einfach mal annehmen, dass wir beide am Leben sind und es auch gerne bleiben würden, okay?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Ah! Das ist *dein* Geist! Ich wette, deine Erinnerungen sind da unten. Finde sie und repariere den Weg zu mir. {beat} Bist… du überhaupt da? Puh, ich rede mit mir selbst.“</DefaultText>
+      <DefaultText>„Ah! Das ist *dein* Geist! Ich wette, deine Erinnerungen sind da unten. Finde sie und repariere den Weg zu mir. Bist… du überhaupt da? Puh, ich rede mit mir selbst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

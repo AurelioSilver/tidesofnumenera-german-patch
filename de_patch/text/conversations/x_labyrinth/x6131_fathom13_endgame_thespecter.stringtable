@@ -8,9 +8,7 @@
       <ID>1</ID>
       <DefaultText>„Ich hatte gehofft, dass du mir das öffnen würdest. Und jetzt sind wir alle hier“, sagt der Geist. Seine Stimme ist nicht an seinen Körper gebunden. Sie kommt aus den Wänden um dich herum, aus dem sich wandelnden Boden unter deinen Füßen.
 
-„Es ist Zeit für die harte Wahrheit, Kind.“
-
-{SCRIPT: After finishing both Meres, the main door glows and opens. The cage remains, however, and the Specter arrives, walking to the player.}</DefaultText>
+„Es ist Zeit für die harte Wahrheit, Kind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -44,10 +42,7 @@ Seine Stimme drückt dich nieder wie eine Hand, die versucht, dich in die Knie z
       <ID>7</ID>
       <DefaultText>Irritation spiegelt sich auf seinem transparenten Gesicht wider.
 
-„Ich bin nicht hier um zu erörtern, wer ich bin oder was ich getan habe. Ich bin hier um einzufordern, was mir gehört!“ Der Boden unter deinen Füßen rumort bedrohlich.
-
-
-{SOUND: Metallic rumble.}</DefaultText>
+„Ich bin nicht hier um zu erörtern, wer ich bin oder was ich getan habe. Ich bin hier um einzufordern, was mir gehört!“ Der Boden unter deinen Füßen rumort bedrohlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -285,9 +280,7 @@ Er sieht zur Tür hinter dem Käfig. „Was dann? Was nun?“</DefaultText>
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>„Folge mir.“
-
-{SCRIPT: End of conversation. Specter opens cage to Resonance.}</DefaultText>
+      <DefaultText>„Folge mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -604,9 +597,7 @@ Er starrt auf seine Hand – oder durch sie hindurch. „Aber das alles ergibt S
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Er senkt seine Hand. Stück für Stück löst er sich auf.
-{SCRIPT: If the player ends this conversation in a way that skips the Crisis, then the floors of Fathom 13 should rise such that the player can walk to the main door.}
-{SCRIPT: Specter is fading away.}</DefaultText>
+      <DefaultText>Er senkt seine Hand. Stück für Stück löst er sich auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -793,9 +784,7 @@ Sein Seufzen klingt wie entferntes Donnern. „Gut. Das spielt jetzt nicht mehr 
       <ID>156</ID>
       <DefaultText>„Wie ergreifend“, sagt er naserümpfend. „Wenn es keine *anderen* Beschwerden gibt, bringen wir das hier zu Ende.“
 
-Der Geist geht auf die Resonanz zu. Du gehst ihm schweigend nach.
-
-{SCRIPT: Specter opens cage to Resonance.}</DefaultText>
+Der Geist geht auf die Resonanz zu. Du gehst ihm schweigend nach.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -907,10 +896,7 @@ Du erinnerst dich daran, wie du deine Tochter in eine Stasis versetzt hast, die 
 
 Und dir ist klar geworden, wie tragisch es wäre, wenn all dies zerstört werden würde. Du weißt jetzt, warum der Geist so verzweifelt versucht hat, dieses Erbe – *dein* Erbe zu bewahren.
 
-Als du deine Augen wieder öffnest, ist der Geist verschwunden. Aber er wird für immer ein Teil von dir sein.
-
-{SCRIPT: If the player ends this conversation in a way that skips the Crisis, then the floors of Fathom 13 should rise such that the player can walk to the main door.}
-{SCRIPT: Specter is fading away.}</DefaultText>
+Als du deine Augen wieder öffnest, ist der Geist verschwunden. Aber er wird für immer ein Teil von dir sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

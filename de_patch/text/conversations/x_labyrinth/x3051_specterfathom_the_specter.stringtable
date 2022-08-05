@@ -8,9 +8,7 @@
       <ID>1</ID>
       <DefaultText>Du setzt deine Hände auf den eisigen Boden und stemmst dich auf die Füße. Jeder Teil deines Körpers schmerzt, als würdest du von einer massiven Hand zerdrückt.
 
-Der Geist steht vor dir, teilnahmslos. Es könnte nur Einbildung sein, aber er scheint solider als zuvor.
-
-{GAVIN: Polish task: Consider adding options to the battle that the Specter can turn against you, strengthening him.}</DefaultText>
+Der Geist steht vor dir, teilnahmslos. Es könnte nur Einbildung sein, aber er scheint solider als zuvor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,18 +208,17 @@ Er breitet seine Hände aus. „Und das wär's schon. Nun. Gib mir meinen Körpe
       <ID>37</ID>
       <DefaultText>Er hat gelogen. Der Schmerz ist furchtbar. Welt zerbrechend. Jede Erinnerung, die du in deinem kurzen Leben dir angeeignet hast, wird untersucht, auseinandergerissen und weggeschmissen. Du schwindest, während er expandiert, und die Ecken deines Körpers füllt, die einst dein war.
 
-Und ja, er hat gelogen. Du bist nicht mit ihm verschmolzen. Du hast nicht Vergessenheit gefunden. Du lebst weiter, mundlos, verstandlos, ein hilfloser Zeuge der Verbrechen, die er mit deinen Händen begeht.
-{SOUND: Spell effects. See above.}</DefaultText>
+Und ja, er hat gelogen. Du bist nicht mit ihm verschmolzen. Du hast nicht Vergessenheit gefunden. Du lebst weiter, mundlos, verstandlos, ein hilfloser Zeuge der Verbrechen, die er mit deinen Händen begeht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>{good-natured}„Ich wusste, dass du das sagen würdest! {Good humor begins to slip away, gradually getting angry}Aber kommen wir zur Sache. Ich wohnte in diesem Körper. Ich habe ihn zu einem Zweck *erschaffen*. Und nun sagt du, dein Hauch eines Lebens überwiegt meine jahrhundertelange Erfahrung?“</DefaultText>
+      <DefaultText>„Ich wusste, dass du das sagen würdest! Aber kommen wir zur Sache. Ich wohnte in diesem Körper. Ich habe ihn zu einem Zweck *erschaffen*. Und nun sagt du, dein Hauch eines Lebens überwiegt meine jahrhundertelange Erfahrung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Ohne mich würdest du gar nicht existieren. Du existierst *gar nicht* außerhalb von mir. Alles, was du bist, ist ein Nebenprodukt meiner Fähigkeiten, meines Intellektes, meiner Erfahrungen. {angriest}Und nun, da ich die Chance habe, den Kummer aufzuhalten, uns alle zu retten, lehnst *du* *mich* ab? Wer um alle Höllen bist *du*?“</DefaultText>
+      <DefaultText>„Ohne mich würdest du gar nicht existieren. Du existierst *gar nicht* außerhalb von mir. Alles, was du bist, ist ein Nebenprodukt meiner Fähigkeiten, meines Intellektes, meiner Erfahrungen. Und nun, da ich die Chance habe, den Kummer aufzuhalten, uns alle zu retten, lehnst *du* *mich* ab? Wer um alle Höllen bist *du*?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +253,7 @@ Und ja, er hat gelogen. Du bist nicht mit ihm verschmolzen. Du hast nicht Verges
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„Du bist ein Unfall des Schicksals, ein Parasit in dem Verstand, den *ich* erschaffen habe. {calmer, but intense} Du bist ein Kind. Ich will dich nicht vernichten, aber ich werde es tun, wenn ich es muss. {Biting his words}Gib. Mir. Die. Kontrolle.“</DefaultText>
+      <DefaultText>„Du bist ein Unfall des Schicksals, ein Parasit in dem Verstand, den *ich* erschaffen habe. Du bist ein Kind. Ich will dich nicht vernichten, aber ich werde es tun, wenn ich es muss. Gib. Mir. Die. Kontrolle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -278,9 +275,7 @@ Und ja, er hat gelogen. Du bist nicht mit ihm verschmolzen. Du hast nicht Verges
       <ID>50</ID>
       <DefaultText>Gezeitenenergie gießt aus der Luft um dich herum, und fließt in den Geist. Der Boden selbst rutscht um deine Füße, und hält dich fest. Du spürst, wie dein Griff auf deinem Körper – deinem Verstand – um Fingerlängen nachlässt.
 
-Du schwindest. Er gewinnt. Du suchst in deinem Verstand – deine hart verdienten Erinnerungen – nach etwas, das seinen Griff auf dich lockert.
-{SCRIPT/FX: Waves of gathering energy pour towards TCG. We might also use the Anamnesis effect with a different color, if we're low on time}
-{SOUND: A building, wavelike, powerful sound. TCG is gathering his formidible mental strength}</DefaultText>
+Du schwindest. Er gewinnt. Du suchst in deinem Verstand – deine hart verdienten Erinnerungen – nach etwas, das seinen Griff auf dich lockert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -380,8 +375,7 @@ Die Augen des Geistes verengen sich.</DefaultText>
       <ID>68</ID>
       <DefaultText>Mit einem schaudernden Keuchen schreckt er zurück. Abwechselnd verblasst er und wird wieder sichtbarer. Der Druck auf deinem Verstand schwindet und endet.
 
-„Na schön“, sagt er und blickt dich mit kühler Verachtung an. „Wenn du so entschlossen bist, den Kummer selber aufzuhalten, versuch es doch. Lasst uns sehen, wie du mit dem, was bevorsteht, klarkommst, und das ohne meine Hilfe. Ohne meine Führung.“
-{SCRIPT/FX: Psychic Battle effects fade and end.}</DefaultText>
+„Na schön“, sagt er und blickt dich mit kühler Verachtung an. „Wenn du so entschlossen bist, den Kummer selber aufzuhalten, versuch es doch. Lasst uns sehen, wie du mit dem, was bevorsteht, klarkommst, und das ohne meine Hilfe. Ohne meine Führung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

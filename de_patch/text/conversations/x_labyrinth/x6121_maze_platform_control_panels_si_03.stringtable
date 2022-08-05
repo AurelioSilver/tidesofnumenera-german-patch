@@ -71,9 +71,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Die Explosion zerreißt deinen Geist wie eine Callerale. Dein Kopf brennt vor Schmerz, als versengende Bilder deine Sicht durchkreuzen.
-
-{DAMAGE}</DefaultText>
+      <DefaultText>Die Explosion zerreißt deinen Geist wie eine Callerale. Dein Kopf brennt vor Schmerz, als versengende Bilder deine Sicht durchkreuzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -194,9 +192,7 @@ Du hörst ein wuchtiges Brüllen aus den Tiefen, und plötzlich ist dein Verstan
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Als du deine Hand darauf legst, wird etwas im Bedienfeld aktiviert – und nicht nur in diesem, sondern in den Bedienfeldern im ganzen Raum. Die runden Stationen auf allen Plattformen leuchten, und das menschliche Abbild beginnt zu pulsieren, so als ob es auf deine Eingabe warten würde.
-
-{SOUND: Multiple sounds of super high-tech machinery starting up simultaneously.}</DefaultText>
+      <DefaultText>Als du deine Hand darauf legst, wird etwas im Bedienfeld aktiviert – und nicht nur in diesem, sondern in den Bedienfeldern im ganzen Raum. Die runden Stationen auf allen Plattformen leuchten, und das menschliche Abbild beginnt zu pulsieren, so als ob es auf deine Eingabe warten würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

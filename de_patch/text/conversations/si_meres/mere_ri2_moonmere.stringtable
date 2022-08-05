@@ -365,7 +365,7 @@
 
 Eine holografische Karte des Mondes schwebt an der hinteren Wand neben einer kleinen, leuchtenden Kapsel.
 
-Eine Stimme spricht wie aus der Luft. {This is the Specter's voice, but more formal than the friendly version the player meets in the Calm.}„Bist du sicher, dass diese Prozedur dir die endgültige Kontrolle über die Verstoßenen geben wird? Wenn du dich irrst, könnte die Kammer versagen – oder schlimmer noch, mit dir in ihr explodieren.“
+Eine Stimme spricht wie aus der Luft. „Bist du sicher, dass diese Prozedur dir die endgültige Kontrolle über die Verstoßenen geben wird? Wenn du dich irrst, könnte die Kammer versagen – oder schlimmer noch, mit dir in ihr explodieren.“
 
 Die Stimme kommt dir bekannt vor, auch wenn dir das Gesicht dazu nicht einfällt.</DefaultText>
       <FemaleText />
@@ -427,9 +427,7 @@ Nein… dieser Berater sieht anders aus. Augmentiert. Er hat die geisterhafte, b
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>„Ich kenne dich!“
-
-{ADAM: I included the "I'm not TCG" branch here. We can delete it if necessary, but it does feel like a thing players would want to say}</DefaultText>
+      <DefaultText>„Ich kenne dich!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -718,9 +716,7 @@ Er lacht laut auf. „Wer das hört, könnte uns noch für einen Solipisten halt
 
 Du lächelst. „Wir wurden schon schlimmeres genannt.“
 
-… die Erinnerung verblasst.
-
-{ADAM: Do you want a flag for this somewhere?}</DefaultText>
+… die Erinnerung verblasst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

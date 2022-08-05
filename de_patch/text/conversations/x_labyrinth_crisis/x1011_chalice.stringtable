@@ -253,9 +253,7 @@ Der Kelch ist jedoch zu filigran, um ihn aufnehmen zu können. Wie wirst du dara
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Du erkennst auch, dass du etwas mehr als Weisheit erlangt hast.
-
-{SCRIPT: Recover small # of Intellect points, or some other cool, minor reward like a healing cypher.}</DefaultText>
+      <DefaultText>Du erkennst auch, dass du etwas mehr als Weisheit erlangt hast.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

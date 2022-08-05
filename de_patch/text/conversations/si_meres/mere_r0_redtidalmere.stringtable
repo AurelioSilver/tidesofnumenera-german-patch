@@ -14,7 +14,7 @@ Rot ist die Farbe ihres Bluts, das aus der klaffenden Wunde auf ihrer Stirn läu
 
 Du kannst es riechen, das Blut *und* ihren Abscheu. Der ist übler als Sucyas Angst.
 
-„Bitte!“, fleht dich Sucya an. „Mach, dass sie aufhören! Hilf mir!“ {SOUND: Two men beating up a woman. Woman crying for help.}</DefaultText>
+„Bitte!“, fleht dich Sucya an. „Mach, dass sie aufhören! Hilf mir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,9 +61,7 @@ Du stehst wieder auf, schlägst ihm in den Bauch und landest eine Faust an seine
 
 Der andere greift dich wiederum von hinten an und schlägt dir auf die Nieren. Mit einem schnellen Drehkick holst du ihn von den Beinen. Er landet flach auf seinem Rücken. Du springst auf ihn drauf, hämmerst auf ihn ein, bis er nur noch kauert und sich nicht mehr wehrt. Als er aufzustehen versucht, verpasst du ihm einen letzten Tritt in die Rippen.
 
-„Verfluchte Mutanten!“, sagt einer. „Ihr habt hier nichts zu suchen. Wir werden wiederkommen, mit den anderen. *Dann* erteilen wir dir eine Lektion!“ Sie hasten davon.
-
-{SOUND: A brief scuffle}</DefaultText>
+„Verfluchte Mutanten!“, sagt einer. „Ihr habt hier nichts zu suchen. Wir werden wiederkommen, mit den anderen. *Dann* erteilen wir dir eine Lektion!“ Sie hasten davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -74,9 +72,7 @@ Du schmeckst dein Blut und riechst deine eigene Angst. Sie hauen dich um und du 
 
 Schließlich lassen sie von dir ab. Einer spuckt dir ins Gesicht. „Verfluchte Mutanten!“, sagt er. „Ihr habt hier nichts zu suchen. Wir werden wiederkommen, mit den anderen. Dann erteilen wir dir eine *richtige* Lektion!“
 
-Sie stolzieren die Straße runter zurück in die Stadt.
-
-{SOUND: A brief scuffle Grunts of pain from the PC (ideally, it should be unclear whether the PC is male or female).}</DefaultText>
+Sie stolzieren die Straße runter zurück in die Stadt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,9 +81,7 @@ Sie stolzieren die Straße runter zurück in die Stadt.
 
 Der erste greift dich wiederum von hinten an. Dein Gesicht knallt auf den Boden. Du wirst ihn von dir runter. Er landet flach auf dem Rücken und du springst auf ihn drauf, hämmerst auf ihn ein, bis er nur noch kauert und sich nicht mehr wehrt. Als er aufzustehen versucht, verpasst du ihm einen letzten Tritt in die Rippen.
 
-„Verfluchte Mutanten!“, sagt einer. „Ihr habt hier nichts zu suchen. Wir werden wiederkommen, mit den anderen. *Dann* erteilen wir dir eine Lektion!“ Sie hasten davon.
-
-{SOUND: A brief scuffle}</DefaultText>
+„Verfluchte Mutanten!“, sagt einer. „Ihr habt hier nichts zu suchen. Wir werden wiederkommen, mit den anderen. *Dann* erteilen wir dir eine Lektion!“ Sie hasten davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -155,9 +149,7 @@ Nach ewiger Zeit spucken die zwei Männer auf sie und gehen. Beim Rausgehen blic
 
 Einer von ihnen legt dir eine Hand auf die Schulter. „Wir kommen wieder, Mutie. Schließlich muss jemand den ganzen Unrat hier wegräumen, oder?“
 
-Er schiebt dich aus dem Weg und dann sind sie weg.
-
-{SOUND: Initial beating continues. Sucya's cries for help become just cries.}</DefaultText>
+Er schiebt dich aus dem Weg und dann sind sie weg.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -257,9 +249,7 @@ Er schaut dich direkt an. „Zel verlangt Blut zum Regieren.“</DefaultText>
 
 Die Anderen schauen sich mit Unbehagen an. Sucya verzieht zwar das Gesicht, nickt aber. „Er hat recht. Sie lassen uns keine andere Wahl.“
 
-Misha, die Cheirurgin stellt eine ganze Reihe von Geräten her, die auch als Waffen dienen können. Errötend lehrt Lali die anderen ein paar Dinge, die ihr Mann vor dessen Tod ihr beigebracht hatte. Ashe verbringt die Nacht umherlaufend und imaginäre böse Kerle schlitzend.
-
-{SOUND: A crowd preparing to fight}</DefaultText>
+Misha, die Cheirurgin stellt eine ganze Reihe von Geräten her, die auch als Waffen dienen können. Errötend lehrt Lali die anderen ein paar Dinge, die ihr Mann vor dessen Tod ihr beigebracht hatte. Ashe verbringt die Nacht umherlaufend und imaginäre böse Kerle schlitzend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -279,10 +269,7 @@ Beim dritten Refrain singen alle in der Grotto mit erhobenen Fäusten mit. Ander
 
 Misha holt Instrumente aus ihrer Cheirurgen-Tasche. „Diese kann man auch als Waffen verwenden“, sagt sie, „auch wenn ich es nur ungern sehen würde, dass sie dazu missbraucht werden.“
 
-Sogar Lali führt einige Kampfmanöver vor, die ihr Mann vor dessen Tod ihr beigebracht hatte, und Ashe verbringt die Nacht umherlaufend und imaginäre böse Kerle schlitzend.
-
-{SOUND: [C] Someone singing a ballad of non-English words (I don't expect this sound to actually make it in)}
-{SOUND: Instead of the sound above, maybe a stinger or musical build here, if we have it}</DefaultText>
+Sogar Lali führt einige Kampfmanöver vor, die ihr Mann vor dessen Tod ihr beigebracht hatte, und Ashe verbringt die Nacht umherlaufend und imaginäre böse Kerle schlitzend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,17 +308,12 @@ Sogar Lali führt einige Kampfmanöver vor, die ihr Mann vor dessen Tod ihr beig
 
 Beim dritten Refrain singen alle in der Grotto Arm in Arm mit. Andere fangen an zu malen, fantastische Wandgemälde, die leuchten und im fahlen Licht lebendig werden zu scheinen.
 
-Die Arie gipfelt in einem Crescendo der Freude, bis selbst der junge Ashe in der Grotto tanzt und nach Leibeskräften singt. Das Leuchten in seinen Augen ist ansteckend. Seine Mutter lacht und bald lachen oder lächeln alle in der Grotto vor Freude, für die sie eigentlich keinen Anlass haben … aber jeden Grund, sie zu wollen.
-
-{SOUND: [C] Someone singing an aria of non-English words (I don't expect this sound to actually make it in)}
-{SOUND: Instead of the sound above, maybe a stinger or musical build here, if we have it}</DefaultText>
+Die Arie gipfelt in einem Crescendo der Freude, bis selbst der junge Ashe in der Grotto tanzt und nach Leibeskräften singt. Das Leuchten in seinen Augen ist ansteckend. Seine Mutter lacht und bald lachen oder lächeln alle in der Grotto vor Freude, für die sie eigentlich keinen Anlass haben … aber jeden Grund, sie zu wollen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Wirklich, wirklich stark?“ Das Leuchten in Ashes Augen ist ansteckend. Seine Mutter lacht über ihren Jungen und bald lachen oder lächeln alle in der Grotto vor Freude, für die sie eigentlich keinen Anlass haben … aber jeden Grund, sie zu wollen.
-
-{SOUND: A crowd laughing with joy}</DefaultText>
+      <DefaultText>„Wirklich, wirklich stark?“ Das Leuchten in Ashes Augen ist ansteckend. Seine Mutter lacht über ihren Jungen und bald lachen oder lächeln alle in der Grotto vor Freude, für die sie eigentlich keinen Anlass haben … aber jeden Grund, sie zu wollen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -360,9 +342,7 @@ Aber der junge Ashe ist nicht überzeugt. „Sie wollen, dass wir nichts tun! Wi
       <ID>64</ID>
       <DefaultText>„Finde ich auch“, sagt er, größtenteils überzeugt. „Aber wenn wir erst stärker als sie sind, können wir ihnen dann in den Hintern treten?“
 
-Kurz ist Ashes Mutter schockiert, doch Misha und Sucya lachen schallend. Seine Mutter lacht und bald lachen oder lächeln alle in der Grotto vor Freude, für die sie eigentlich keinen Anlass haben … aber jeden Grund, sie zu wollen.
-
-{SOUND: A crowd laughing with joy}</DefaultText>
+Kurz ist Ashes Mutter schockiert, doch Misha und Sucya lachen schallend. Seine Mutter lacht und bald lachen oder lächeln alle in der Grotto vor Freude, für die sie eigentlich keinen Anlass haben … aber jeden Grund, sie zu wollen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -373,9 +353,7 @@ Seine Mutter legt ihre Hand auf Ashes Schulter. „Mein tapferer Junge“, sagt 
 
 Ashe verschränkt die Arme und schmollt. „Wir können ihnen den Arsch versohlen.“
 
-Kurz ist Ashes Mutter schockiert, doch Misha und Sucya lachen schallend. Seine Mutter lacht und bald lachen oder lächeln alle in der Grotto vor Freude, für die sie eigentlich keinen Anlass haben … aber jeden Grund, sie zu wollen.
-
-{SOUND: A crowd laughing with joy}</DefaultText>
+Kurz ist Ashes Mutter schockiert, doch Misha und Sucya lachen schallend. Seine Mutter lacht und bald lachen oder lächeln alle in der Grotto vor Freude, für die sie eigentlich keinen Anlass haben … aber jeden Grund, sie zu wollen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -390,7 +368,7 @@ Kurz ist Ashes Mutter schockiert, doch Misha und Sucya lachen schallend. Seine M
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Viele Stunden später, nachdem sich Ruhe und Dunkelheit über die Grotte gelegt haben, wird die Stille der Nacht durch wuterfülltes Gemurmel, unzählige Schritte und das Knistern von Fackeln durchbrochen. Die Schläger sind zurückgekehrt, doch diesmal sind es noch viel mehr von ihnen. {SOUND: Weapon being drawn or handled.}</DefaultText>
+      <DefaultText>Viele Stunden später, nachdem sich Ruhe und Dunkelheit über die Grotte gelegt haben, wird die Stille der Nacht durch wuterfülltes Gemurmel, unzählige Schritte und das Knistern von Fackeln durchbrochen. Die Schläger sind zurückgekehrt, doch diesmal sind es noch viel mehr von ihnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,7 +444,7 @@ Je näher du der großen Stadt kommst, desto mehr Menschen kreuzen deinen Weg. J
 
 Auf dem großen Platz in der Stadt wirst du willkürlich umhergestoßen und geschubst. Jeder, der dir nichts Böses will, scheint sich bewusst von dir fernzuhalten.
 
-Schließlich erreichst du den Turm des Burggrafen. {SOUND: Busy city street. Ideally the occasional jeer from the crowd.}</DefaultText>
+Schließlich erreichst du den Turm des Burggrafen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -538,7 +516,7 @@ Schließlich erreichst du den Turm des Burggrafen. {SOUND: Busy city street. Ide
       <ID>96</ID>
       <DefaultText>Zu dieser Zeit sind nur wenige Leute auf den Straßen außerhalb der Grotte unterwegs. Wie aus dem Nichts erscheinen plötzlich einige Gestalten vor dir. Die zwei Menschen von eben sind unter ihnen. „Schau einer an“, sagt einer von ihnen mit einem dreckigen Grinsen, „was machst du denn hier draußen?“
 
-Ein Funkeln in seinen Händen lässt dich darauf schließen, dass sie diesmal mehr mit sich bringen als nur ihre Fäuste. {SOUND: Empty night street.} {SOUND: Weapon being drawn or handled.}</DefaultText>
+Ein Funkeln in seinen Händen lässt dich darauf schließen, dass sie diesmal mehr mit sich bringen als nur ihre Fäuste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -563,9 +541,7 @@ Ein Funkeln in seinen Händen lässt dich darauf schließen, dass sie diesmal me
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Schreiend reißt du den Erstbesten von ihnen direkt vor dir auf den Boden. Er ist so überrascht, dass du genügend Zeit hast, ihm den Dolch zu entreißen und ihm selbst in den Bauch zu rammen. Der Geruch von warmem Blut breitet sich auf der Straße aus.
-
-{SOUND: Fighting}</DefaultText>
+      <DefaultText>Schreiend reißt du den Erstbesten von ihnen direkt vor dir auf den Boden. Er ist so überrascht, dass du genügend Zeit hast, ihm den Dolch zu entreißen und ihm selbst in den Bauch zu rammen. Der Geruch von warmem Blut breitet sich auf der Straße aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,18 +567,14 @@ Misha ist die Erste, die dich sieht. Sie ruft nach den anderen, und sie bereiten
 
 Erst jetzt fällt dir auf, dass die Lage sich verschlimmert hat. Du siehst nicht nur die zwei Schläger, die Sucya vorhin übel zugerichtet haben, sondern eine ganze *Bande* an Menschen, die gekommen sind, um ihren Frust an den Mutanten der Grotte auszulassen.
 
-Der Kampf beginnt schneller, als du erwartet hättest. Schnell füllt sich die Straße mit wütenden und schmerzerfüllten Schreien. Mit einem wuchtigen Schlag mähst du den Mann vor dir nieder. Du siehst dich um und stellst fest, dass deine Kameraden um dich herum in Gefahr sind.
-
-{SOUND: A mob fighting}</DefaultText>
+Der Kampf beginnt schneller, als du erwartet hättest. Schnell füllt sich die Straße mit wütenden und schmerzerfüllten Schreien. Mit einem wuchtigen Schlag mähst du den Mann vor dir nieder. Du siehst dich um und stellst fest, dass deine Kameraden um dich herum in Gefahr sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
       <DefaultText>Ohne Vorwarnung trifft dich ein Schlag von hinten. Rote Flecken verdecken deine Sicht, aber du hast nicht das Glück, ohnmächtig zu werden. Weitere Schläge hageln auf dich ein. Der Schmerz wandert durch deine Rippen in deinen Brustkorb und in deine Beine.
 
-Er wird nur durch das grelle Schlitzen eines Messers in deinen Nacken beendet. Du hörst, wie ihre Schritte auf dem Untergrund der Straße ruhiger zu werden scheinen. Es beruhigt dich, zu wissen, dass du ihren Ärger auf *dich* ziehen und die Grotte somit vor einem ähnlichen Schicksal bewahren konntest.
-
-{SOUND: Powerful punch. Someone falling to the ground.}</DefaultText>
+Er wird nur durch das grelle Schlitzen eines Messers in deinen Nacken beendet. Du hörst, wie ihre Schritte auf dem Untergrund der Straße ruhiger zu werden scheinen. Es beruhigt dich, zu wissen, dass du ihren Ärger auf *dich* ziehen und die Grotte somit vor einem ähnlichen Schicksal bewahren konntest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,27 +583,21 @@ Er wird nur durch das grelle Schlitzen eines Messers in deinen Nacken beendet. D
 
 Erst jetzt fällt dir auf, dass die Lage sich verschlimmert hat. Du siehst nicht nur die zwei Schläger, die Sucya vorhin übel zugerichtet haben, sondern eine ganze *Bande* an Menschen, die gekommen sind, um ihren Frust an den Mutanten der Grotte auszulassen.
 
-Der Kampf beginnt schneller, als du erwartet hättest. Schnell füllt sich die Straße mit wütenden und schmerzerfüllten Schreien. Mit einem wuchtigen Schlag mähst du den Mann vor dir nieder. Du siehst dich um und stellst fest, dass deine Kameraden um dich herum in Gefahr sind.
-
-{SOUND: Battle}</DefaultText>
+Der Kampf beginnt schneller, als du erwartet hättest. Schnell füllt sich die Straße mit wütenden und schmerzerfüllten Schreien. Mit einem wuchtigen Schlag mähst du den Mann vor dir nieder. Du siehst dich um und stellst fest, dass deine Kameraden um dich herum in Gefahr sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
       <DefaultText>Viele der Mutanten flüchten in ihre Häuser, aber mehr als ein Dutzend Aufsässiger versperrt die Straßen. Sucya tritt aus der Menge nach vorne. „Wir werden uns nicht bedrängen lassen. Auch wir sind menschlich, und das werdet ihr uns niemals nehmen können.“
 
-Als Reaktion darauf prügelt einer der Schläger sie nieder – das Knacken ist durch die gesamte Grotte zu hören. Mit Sucya fällt die Moral der anderen Mutanten. Sie sehen dich abwartend an, während die Menschen wütend auf sie losstürmen.
-
-{SOUND: Someone gets knocked down}</DefaultText>
+Als Reaktion darauf prügelt einer der Schläger sie nieder – das Knacken ist durch die gesamte Grotte zu hören. Mit Sucya fällt die Moral der anderen Mutanten. Sie sehen dich abwartend an, während die Menschen wütend auf sie losstürmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
       <DefaultText>Die Mutanten der Grotte geraten in Panik. Mit Schreien des Entsetzens fliehen sie von den Straßen, doch die Menschenbande lässt sie nicht entkommen. Sie jagen sie bis zu ihren Häusern, treten die Türen ein und brennen alles nieder.
 
-Schon bald greifen die Mutanten willkürlich alles und jeden um sie herum an, ohne Rücksicht auf andere versuchen sie, die Grotte zu verlassen oder ein sicheres Versteck zu finden. Egal wohin du siehst, überall ist jemand in Gefahr.
-
-{SOUND: Battle and panic}</DefaultText>
+Schon bald greifen die Mutanten willkürlich alles und jeden um sie herum an, ohne Rücksicht auf andere versuchen sie, die Grotte zu verlassen oder ein sicheres Versteck zu finden. Egal wohin du siehst, überall ist jemand in Gefahr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -662,9 +628,7 @@ Er kommt aus deinen Rippen, deiner Seite, deinem Nacken. „Gut“ war vielleich
 
 Es ist schneller vorbei, als du erwartet hattest. Du spürst Speichel an deinem Kinn und öffnest deine Augen. Die Schläger nehmen Abstand. Der Ausdruck auf ihren Gesichtern verrät dir, dass sie beinahe von sich selbst angewidert sind. Beinahe.
 
-„Hey.“ Es ist Ashe, der seine Hand auf deine Schulter gelegt hat. Er ist am Leben, trotz einiger scheußlicher Verletzungen. „Du hattest recht“, sagt er. „Wir *sind* stärker.“
-
-{SOUND: Beating winding down and stopping}</DefaultText>
+„Hey.“ Es ist Ashe, der seine Hand auf deine Schulter gelegt hat. Er ist am Leben, trotz einiger scheußlicher Verletzungen. „Du hattest recht“, sagt er. „Wir *sind* stärker.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -673,10 +637,7 @@ Es ist schneller vorbei, als du erwartet hattest. Du spürst Speichel an deinem 
 
 Bald schon singt die gesamte Grotte von der Frau, die den Verlust ihrer Familie ertragen hat – selbst aus den Türen und Fenstern aller Winkel erklingt es. Sie singen für sich, für die anderen. Sie singen sogar für die Schläger.
 
-Es ist schneller vorbei, als du erwartet hattest. Du spürst Speichel an deinem Kinn, öffnest die Augen und sieht, wie die Schläger auf Abstand gehen. Sie scheinen angewidert zu sein. Ob sie wiederkommen? Möglicherweise. Aber dann werden die Mutanten der Grotte stark genug sein, um sich ihnen entgegenzustellen.
-
-{SOUND: [C] the aria from before}
-{SOUND: Beating winding down and stopping}</DefaultText>
+Es ist schneller vorbei, als du erwartet hattest. Du spürst Speichel an deinem Kinn, öffnest die Augen und sieht, wie die Schläger auf Abstand gehen. Sie scheinen angewidert zu sein. Ob sie wiederkommen? Möglicherweise. Aber dann werden die Mutanten der Grotte stark genug sein, um sich ihnen entgegenzustellen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -687,9 +648,7 @@ Aber du hast jetzt keine Zeit, um dich um andere zu sorgen. Einer der Menschen M
 
 Er kommt aus deinen Rippen, deiner Seite, deinem Nacken. Es ist schneller vorbei, als du erwartet hattest. Du spürst Speichel an deinem Kinn und öffnest deine Augen. Die Schläger nehmen Abstand. Der Ausdruck auf ihren Gesichtern verrät dir, dass sie beinahe von sich selbst angewidert sind. Beinahe.
 
-„Hey.“ Es ist Ashe, der seine Hand auf deine Schulter gelegt hat. Er ist am Leben, trotz einiger scheußlicher Verletzungen. „Du hattest recht“, sagt er. „Wir *sind* stärker.“
-
-{SOUND: Beating winding down and stopping}</DefaultText>
+„Hey.“ Es ist Ashe, der seine Hand auf deine Schulter gelegt hat. Er ist am Leben, trotz einiger scheußlicher Verletzungen. „Du hattest recht“, sagt er. „Wir *sind* stärker.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -700,9 +659,7 @@ Misha verliert die Kontrolle. Sie ergreift den Arm des Schlägers über ihr und 
 
 Schon bald ist die Luft von wütenden und schmerzerfüllten Schreien erfüllt. Du kannst dich zwar nicht daran erinnern, die Planke aufgehoben zu haben, aber mit einem gewaltigen Schlag streckst du mit ihr einen der Schläger nieder.
 
-Als du dich umsiehst, bemerkst du, dass jeder um dich herum in Gefahr ist.
-
-{SOUND: Beating building up into a full-on battle}</DefaultText>
+Als du dich umsiehst, bemerkst du, dass jeder um dich herum in Gefahr ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -738,27 +695,21 @@ Gerade rechtzeitig kannst du eingreifen und dem Verred-Träger einen markerschü
 
 Er richtet sich zu voller Größe auf und greift nach deinem Unterarm. „Blut“, sagt er mit eindrucksvoller Stimme. „Eins für dich. Eins für Zel.“
 
-Dann springt er zurück in den Kampf.
-
-{SOUND: Battle (cont)}</DefaultText>
+Dann springt er zurück in den Kampf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
       <DefaultText>Du preschst vor, um Misha zu helfen, aber die drei Hände der Cheirurgin umgreifen verschiedene Relikte, die dich überflüssig erscheinen lassen. Die Schläger fliehen vor ihr, um nicht in Asche, Schleim oder das Hinterteil eines Aneen verwandelt zu werden, so wie ihre Freunde.
 
-Sie benötigt deine Hilfe offensichtlich nicht – im Gegensatz zu den anderen.
-
-{SOUND: Battle (cont)}</DefaultText>
+Sie benötigt deine Hilfe offensichtlich nicht – im Gegensatz zu den anderen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
       <DefaultText>Du kämpfst erbarmungslos und kannst zwei, drei, vier, sieben Mann niederringen, ohne einen einzigen Schlag zu kassieren.
 
-Die anderen haben nicht so viel Glück. Misha und Zel konnten sich selbst verteidigen, aber Sucya, Ashe und seine Mutter sind tot. In der ganzen Grotte verteilt sterben Mutanten einen grausamen Tod.
-
-{SOUND: Battle (cont)}</DefaultText>
+Die anderen haben nicht so viel Glück. Misha und Zel konnten sich selbst verteidigen, aber Sucya, Ashe und seine Mutter sind tot. In der ganzen Grotte verteilt sterben Mutanten einen grausamen Tod.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -767,9 +718,7 @@ Die anderen haben nicht so viel Glück. Misha und Zel konnten sich selbst vertei
 
 Du eilst ihr zur Hilfe und schlägst einem der Männer in letzter Sekunde einen Dolch aus der Hand, der Sucya ansonsten aufgespießt hätte. Die anderen beiden kannst du ohne Mühe erledigen, und Sucya ist gerettet.
 
-Anderen ist es nicht so gut ergangen. Misha konnte sich selbst verteidigen, aber Ashe und seine Mutter liegen tot vor ihrem Heim, so wie viele andere Mutanten in der Grotte.
-
-{SOUND: Battle (cont)}</DefaultText>
+Anderen ist es nicht so gut ergangen. Misha konnte sich selbst verteidigen, aber Ashe und seine Mutter liegen tot vor ihrem Heim, so wie viele andere Mutanten in der Grotte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -778,9 +727,7 @@ Anderen ist es nicht so gut ergangen. Misha konnte sich selbst verteidigen, aber
 
 Aber als die Schläger die Gefahr erkennen, die von ihr ausgeht, gelingt es ihnen, sie und ihren Sohn mit einem koordinierten Angriff zu überwältigen. Du eilst ihr zur Hilfe und schlägst einem der Männer in letzter Sekunde einen Dolch aus der Hand, der Ashe ansonsten im Gesicht getroffen hätte. Ashe springt nach vorne und schlägt dem Mann mit seinem Knüppel den Schädel ein.
 
-Seine Mutter hat nicht so viel Glück. Als du dich umdrehst, siehst du sie bereits tot am Boden liegen – wie auch Sucya und viele andere der Mutanten. Misha und Zel kämpfen noch immer, aber jeder um dich herum steckt in großen Schwierigkeiten.
-
-{SOUND: Battle (cont)}</DefaultText>
+Seine Mutter hat nicht so viel Glück. Als du dich umdrehst, siehst du sie bereits tot am Boden liegen – wie auch Sucya und viele andere der Mutanten. Misha und Zel kämpfen noch immer, aber jeder um dich herum steckt in großen Schwierigkeiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -791,7 +738,7 @@ Plötzlich trifft dich etwas hart am Rücken. Noch bevor du dich zu deinem Angre
 
 Dunkelheit legt sich über dich. Du hörst, wie der Kampf sich ausbreitet – ein Aufstand. Jeder Jerboaner kämpft jetzt, sei es auf der Seite der Mutanten oder der Menschen.
 
-Die Grotte wird niemals wieder ignoriert werden. {SOUND: Someone getting punched down, grunt of pain} {SOUND: citywide riots}</DefaultText>
+Die Grotte wird niemals wieder ignoriert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -800,9 +747,7 @@ Die Grotte wird niemals wieder ignoriert werden. {SOUND: Someone getting punched
 
 Du eilst ihr zur Hilfe und schlägst einem der Männer in letzter Sekunde einen Dolch aus der Hand, der Sucya ansonsten aufgespießt hätte. Die anderen beiden kannst du ohne Mühe erledigen, und Sucya ist gerettet.
 
-Anderen ist es nicht so gut ergangen. Misha konnte sich selbst verteidigen, und Zel ist es gelungen, Ashe vor dem Tod zu bewahren. Leider gilt das nicht für Ashes Mutter. Ihr ist es ergangen wie vielen anderen Bewohnern der Grotto heute. Ihr geschundener Körper liegt reglos vor ihrem Heim.
-
-{SOUND: Battle (cont)}</DefaultText>
+Anderen ist es nicht so gut ergangen. Misha konnte sich selbst verteidigen, und Zel ist es gelungen, Ashe vor dem Tod zu bewahren. Leider gilt das nicht für Ashes Mutter. Ihr ist es ergangen wie vielen anderen Bewohnern der Grotto heute. Ihr geschundener Körper liegt reglos vor ihrem Heim.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -813,9 +758,7 @@ Aber als die Schläger die Gefahr erkennen, die von ihr ausgeht, gelingt es ihne
 
 Seine Mutter hat nicht so viel Glück. Als du dich umdrehst, siehst du sie bereits tot am Boden liegen – so wie viele andere Mutanten.
 
-Zel konnte Sucya retten und Misha sich selbst verteidigen, aber die anderen sind in ernsthaften Schwierigkeiten.
-
-{SOUND: Battle (cont)}</DefaultText>
+Zel konnte Sucya retten und Misha sich selbst verteidigen, aber die anderen sind in ernsthaften Schwierigkeiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -826,18 +769,14 @@ Zel greift ebenfalls ein, bricht einem der Schläger den Arm und reißt ihm dann
 
 Du kämpfst, als wärst du besessen … reißend, stechend, beißend. Du bist verletzt, aber nimmst es kaum wahr. Einige von ihnen sind bereits gefallen, aber es sind noch etliche übrig.
 
-Plötzlich wird Zel von den Angreifern überwältigt. Brüllend geht er zu Boden, als du ihn aus den Augen verlierst.
-
-{SOUND: Fighting}</DefaultText>
+Plötzlich wird Zel von den Angreifern überwältigt. Brüllend geht er zu Boden, als du ihn aus den Augen verlierst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
       <DefaultText>Über deine Schulter hinweg sehen sie Zel an. Einer von ihnen tritt einen Schritt zurück. Sein Kamerad hält ihn am Arm fest. „Du lässt dir von so ein paar Mutanten Angst einjagen, Luds?“ Er zückt eine Klinge und hält sie drohend vor Luds' Gesicht. „Diese Freaks kennen ihren Platz nicht. Zeigen wir ihnen, wo sie hingehören!“
 
-Zel greift zuerst an und bricht dem Messerträger den Arm. Luds aber fängt sich und rammt dem riesigen Mutanten eine Klinge in den Rücken. Brüllend geht Zel zu Boden. Du stürzt dich auf Luds und schlägst seinen Schädel gegen den Untergrund der Straße.
-
-{SOUND: Fighting}</DefaultText>
+Zel greift zuerst an und bricht dem Messerträger den Arm. Luds aber fängt sich und rammt dem riesigen Mutanten eine Klinge in den Rücken. Brüllend geht Zel zu Boden. Du stürzt dich auf Luds und schlägst seinen Schädel gegen den Untergrund der Straße.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -850,9 +789,7 @@ Wie in einer Trance gehst du den Weg ab, den du gerade gekommen bist. Diesmal ab
 
 „Du hättest niemals gehen sollen“, sagt Misha. „Vielleicht wäre Zel dann noch am Leben.“
 
-Dein einziger Trost ist, dass Zels Opfer die Schläger von den anderen Mutanten der Grotte ferngehalten hat.
-
-{SOUND: Running}</DefaultText>
+Dein einziger Trost ist, dass Zels Opfer die Schläger von den anderen Mutanten der Grotte ferngehalten hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -863,18 +800,14 @@ Zunächst ignorieren sie Ashe, aber als Lali zu Boden geht, rammt Ashe einem der
 
 Bald schon haben sich alle Mutanten der Grotte dem Gegenangriff angeschlossen. Schnell füllt sich die Straße mit wütenden und schmerzerfüllten Schreien. Du kannst dich zwar nicht daran erinnern, die Planke aufgehoben zu haben, dir bleibt aber sehr wohl im Gedächtnis, mit welcher Wucht du einen der Schläger mit ihr zu Boden geschlagen hast.
 
-Als du dich umsiehst, bemerkst du, dass jeder um dich herum in Gefahr ist.
-
-{SOUND: Beating building up into a full-on battle}</DefaultText>
+Als du dich umsiehst, bemerkst du, dass jeder um dich herum in Gefahr ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
       <DefaultText>„Das hat ein Mal funktioniert, Mutant. Aber diesmal sind deine Freunde nicht hier, um dich zu beschützen, hab ich recht?“ Sie lachen sich gegenseitig an.
 
-Plötzlich zücken sie ihre Waffen und stürzen sich auf dich. Du versuchst, dich zu verteidigen, aber kämpfst mit bloßen Fäusten gegen Waffen an. Eine Klinge schlitzt deinen Arm auf und erfüllt deine Glieder mit einem scharfen Brennen.
-
-{SOUND: Fighting}</DefaultText>
+Plötzlich zücken sie ihre Waffen und stürzen sich auf dich. Du versuchst, dich zu verteidigen, aber kämpfst mit bloßen Fäusten gegen Waffen an. Eine Klinge schlitzt deinen Arm auf und erfüllt deine Glieder mit einem scharfen Brennen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -886,9 +819,7 @@ Plötzlich zücken sie ihre Waffen und stürzen sich auf dich. Du versuchst, dic
       <ID>139</ID>
       <DefaultText>„Ach, wirklich?“ Sie lachen sich gegenseitig an. „Wir haben dir schonmal eine Abreibung verpasst, Mutant. Und das machen wir jederzeit wieder.“
 
-Sie greifen dich an. Du versuchst, dich zu verteidigen, aber kämpfst mit bloßen Fäusten gegen Waffen an. Eine Klinge schlitzt deinen Arm auf und erfüllt deine Glieder mit einem scharfen Brennen.
-
-{SOUND: Fighting}</DefaultText>
+Sie greifen dich an. Du versuchst, dich zu verteidigen, aber kämpfst mit bloßen Fäusten gegen Waffen an. Eine Klinge schlitzt deinen Arm auf und erfüllt deine Glieder mit einem scharfen Brennen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -917,9 +848,7 @@ Sie greifen dich an. Du versuchst, dich zu verteidigen, aber kämpfst mit bloße
 
 Zel greift ebenfalls ein, bricht einem der Schläger den Arm und reißt einem anderen dann in Sekundenschnelle dem Kopf vom Leib. Es ist vorbei.
 
-„Hey, Mutant! Was zur Hölle?“ Mehrere Menschen kommen angerannt, um sich den Tumult näher anzusehen. Mit Entsetzen sehen sie die geschundenen Leichen der Schläger an, und dann dich.
-
-{SOUND: Fighting}</DefaultText>
+„Hey, Mutant! Was zur Hölle?“ Mehrere Menschen kommen angerannt, um sich den Tumult näher anzusehen. Mit Entsetzen sehen sie die geschundenen Leichen der Schläger an, und dann dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -930,9 +859,7 @@ Aber als die Schläger die Gefahr erkennen, die von ihr ausgeht, gelingt es ihne
 
 Seine Mutter hat nicht so viel Glück. Als du dich umdrehst, siehst du sie bereits tot am Boden liegen – so wie viele andere Mutanten.
 
-Sucya und Misha können sich selbst verteidigen, aber die anderen sind in ernsthaften Schwierigkeiten.
-
-{SOUND: Battle (cont)}</DefaultText>
+Sucya und Misha können sich selbst verteidigen, aber die anderen sind in ernsthaften Schwierigkeiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,9 +868,7 @@ Sucya und Misha können sich selbst verteidigen, aber die anderen sind in ernsth
 
 Du eilst ihr zur Hilfe und schlägst einem der Männer in letzter Sekunde einen Dolch aus der Hand, der Sucya ansonsten aufgespießt hätte. Die anderen beiden kannst du ohne Mühe erledigen, und Sucya ist gerettet.
 
-Anderen ist es nicht so gut ergangen. Misha kann sich selbst verteidigen, Ashe kämpft immer noch um sein Leben. Für seine Mutter ist es zu spät. Ihr ist es ergangen wie vielen anderen Bewohnern der Grotto heute. Ihr geschundener Körper liegt reglos vor ihrem Heim.
-
-{SOUND: Battle (cont)}</DefaultText>
+Anderen ist es nicht so gut ergangen. Misha kann sich selbst verteidigen, Ashe kämpft immer noch um sein Leben. Für seine Mutter ist es zu spät. Ihr ist es ergangen wie vielen anderen Bewohnern der Grotto heute. Ihr geschundener Körper liegt reglos vor ihrem Heim.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -952,9 +877,7 @@ Anderen ist es nicht so gut ergangen. Misha kann sich selbst verteidigen, Ashe k
 
 Die anderen haben nicht so viel Glück. Misha und Zel konnten sich selbst verteidigen, aber Sucya und Ashes Mutter sind tot. Ashe muss irgendwie entkommen sein.
 
-In der ganzen Grotte verteilt sterben Mutanten einen grausamen Tod.
-
-{SOUND: Battle (cont)}</DefaultText>
+In der ganzen Grotte verteilt sterben Mutanten einen grausamen Tod.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1033,9 +956,7 @@ In der ganzen Grotte verteilt sterben Mutanten einen grausamen Tod.
 
 Nach wenigen Schritten nur spürst du einen heftigen Schlag gegen deinen Rücken. Noch bevor du herausfinden kannst, ob es ein Mensch oder einer der Mutanten war, trifft dich ein weiterer Schlag am Kopf und wirft dich zu Boden.
 
-Du spürst, wie das Leben aus deinem Schädel zu fließen scheint. Um dich herum kauern Mutanten auf dem Boden, sie werden von Menschen bewusstlos geprügelt. Der Boden ist von ihrem Blut rot gefärbt, und um dich herum liegen zwei, drei andere, denen es ergangen ist wie dir. Ihre toten Augen starren dich in alle Ewigkeit an.
-
-{SOUND: Battle and panic (cont)}</DefaultText>
+Du spürst, wie das Leben aus deinem Schädel zu fließen scheint. Um dich herum kauern Mutanten auf dem Boden, sie werden von Menschen bewusstlos geprügelt. Der Boden ist von ihrem Blut rot gefärbt, und um dich herum liegen zwei, drei andere, denen es ergangen ist wie dir. Ihre toten Augen starren dich in alle Ewigkeit an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1049,10 +970,7 @@ Du spürst, wie das Leben aus deinem Schädel zu fließen scheint. Um dich herum
 
 Du rufst ihnen erneut Mut zu, um ihnen dabei zu helfen, ihre Angst. Doch plötzlich trifft dich etwas am Kopf. Noch bevor du herausfinden kannst, ob es ein Mensch oder einer der Mutanten war, trifft dich ein weiterer Schlag am Kopf und wirft dich zu Boden.
 
-Du spürst, wie das Leben aus deinem Schädel zu fließen scheint. Um dich herum kauern Mutanten auf dem Boden, sie werden von Menschen bewusstlos geprügelt. Zwei, drei andere liegen reglos auf dem Boden, so wie du. Ihre toten Augen starren dich in alle Ewigkeit an.
-
-{SOUND: Battle (cont)}
-{SOUND: Someone getting punched down, grunt of pain}</DefaultText>
+Du spürst, wie das Leben aus deinem Schädel zu fließen scheint. Um dich herum kauern Mutanten auf dem Boden, sie werden von Menschen bewusstlos geprügelt. Zwei, drei andere liegen reglos auf dem Boden, so wie du. Ihre toten Augen starren dich in alle Ewigkeit an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1068,9 +986,7 @@ Aber die Grotte ist von Schrecken erfüllt. Mutanten fliehen panisch in alle Ric
 
 Du wendest dich einem weiteren Angreifer zu, als dich etwas im Rücken trifft. Noch bevor du herausfinden kannst, ob es ein Mensch oder einer der Mutanten war, trifft dich ein weiterer Schlag am Kopf und wirft dich zu Boden.
 
-Du spürst, wie das Leben aus deinem Schädel zu fließen scheint. Um dich herum kauern Mutanten auf dem Boden, sie werden von Menschen bewusstlos geprügelt. Zwei, drei andere liegen reglos auf dem Boden, so wie du. Ihre toten Augen starren dich in alle Ewigkeit an.
-
-{SOUND: Battle (cont)}</DefaultText>
+Du spürst, wie das Leben aus deinem Schädel zu fließen scheint. Um dich herum kauern Mutanten auf dem Boden, sie werden von Menschen bewusstlos geprügelt. Zwei, drei andere liegen reglos auf dem Boden, so wie du. Ihre toten Augen starren dich in alle Ewigkeit an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1101,9 +1017,7 @@ Die Cheirurgin injiziert etwas in ihren Nacken. Schließlich öffnen sich ihre A
 
 Der Burggraf ist leicht zu finden. Er steht direkt vor dem Turm, eine Figur in farbenfrohem Gewand – viel mehr Farben, als die meisten Jerboaner zu tragen pflegen. Seine Kleidung ist mit vielfältigen glänzenden Perlen versehen, und mit Scheiben, die auf seine Position schließen lassen.
 
-Gerade unterhält er sich mit einem Mann und einer Frau, die ihrer Kleidung nach zu urteilen gut betucht sein dürften. Auch wenn der Burggraf deine Anwesenheit nicht bemerkt, so tut es das Paar, mit dem er sich unterhält. Sie sind sichtlich angewidert von deinem Anblick.
-
-{SOUND: Same busy city street as node 82, but softer.}</DefaultText>
+Gerade unterhält er sich mit einem Mann und einer Frau, die ihrer Kleidung nach zu urteilen gut betucht sein dürften. Auch wenn der Burggraf deine Anwesenheit nicht bemerkt, so tut es das Paar, mit dem er sich unterhält. Sie sind sichtlich angewidert von deinem Anblick.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

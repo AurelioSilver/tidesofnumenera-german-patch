@@ -48,9 +48,7 @@ Sie haut auf den Tisch. „Und dann sind *wir* die Einzigen, die die Geschichte 
 
 Lovac schüttelt seinen in Synthstahl gefassten Kopf und wendet sich dir zu. „Mach dir keine Gedanken wegen der Nachricht, Bericael. Das hat sich mittlerweile erledigt. Wir müssen froh sein, dass Kommandantin Rekken es heil aus Miel Avest geschafft hat. Sie ist der Zerstörung des Heiligtums im letzten Moment entkommen.“
 
-Eine donnernde Explosion erschüttert den Bunker und bringt euch alle ins Taumeln.
-
-{ART: Mere_RI1_01_Lovac}</DefaultText>
+Eine donnernde Explosion erschüttert den Bunker und bringt euch alle ins Taumeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,9 +109,7 @@ Der Verstoßene mit den zwei Mündern zuckt mit den Schultern. „Wenn sie mutig
 
 Er rollt eine handgezeichnete Karte aus. „Jede Kreuzung in diesen Tunnels ist vermint, manchmal mit Spreng-Cyphern, manchmal mit guten alten Minen. Meine Hunde hier fressen Energiestöße zum Frühstück, aber gewöhnliche Minen töten sie genauso wie uns. Daher sollten wir aufpassen, wo wir hintreten. Leider können wir uns auch nicht zu lange Zeit lassen – je länger wir da drin sind, desto eher werden uns die Falter erwischen. Wir sollten also nicht zu viele falsche Abzweigungen nehmen, denn wir wollen nicht gegen stratharianische Kriegsfalter kämpfen müssen. Glaub mir.“
 
-Er übergibt dir die Karte. „Gut. Gehen wir.“
-
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+Er übergibt dir die Karte. „Gut. Gehen wir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -383,9 +379,7 @@ Er übergibt dir die Karte. „Gut. Gehen wir.“
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Vier Motten tauchen aus verschiedenen Richtungen auf und umzingeln euch. Sie flattern mit glühenden Flügeln, bereit zum Angriff. Wenn ihr überleben wollt, müsst ihr kämpfen.
-
-{ART: Mere_RI1_03_Moths}</DefaultText>
+      <DefaultText>Vier Motten tauchen aus verschiedenen Richtungen auf und umzingeln euch. Sie flattern mit glühenden Flügeln, bereit zum Angriff. Wenn ihr überleben wollt, müsst ihr kämpfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,9 +740,7 @@ Ein Trupp bewaffneter Polizisten marschiert an dir vorbei. Die Leute zucken bei 
 
 Du gehst um die Blase herum und siehst am anderen Ende einen drahtigen Mann in dunkler Rüstung hocken. Er ist voll darauf konzentriert, ein Loch in die Metallhaut des Apparats zu schneiden. Du erkennst den Mann. Es ist Zerronth, einer der gerissensten Agenten des Kalkedon, mit dem Bericael bereits mehr als einmal die Klingen gekreuzt hat.
 
-Als du dich an ihn heranschleichst, wirbelt er erschrocken herum und streckt flehend die Hände aus. „Brunna!“, keucht er. „Warte. Hör mir zu! Ich habe dir etwas zu sagen, das du unbedingt hören musst.“
-
-{ART: Mere_RI1_05_Verronth}</DefaultText>
+Als du dich an ihn heranschleichst, wirbelt er erschrocken herum und streckt flehend die Hände aus. „Brunna!“, keucht er. „Warte. Hör mir zu! Ich habe dir etwas zu sagen, das du unbedingt hören musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -818,9 +810,7 @@ Du wendest dich den Splittern zu, um es der Maschine gleichzutun.</DefaultText>
 
 Er begrüßt dich mit offenen Armen und einem breiten Lächeln. „Ein durchschlagender Erfolg, meine Liebe. Was auch immer du getan hast, unser Versöhner ist wieder funktionsfähig und wir konnten unsere jüngsten Verluste bereits ungeschehen machen.“
 
-„Ich habe Paj Rekken von deiner Heldentat berichtet und sie möchte dir persönlich dafür danken. Geh gleich zu ihr. Sie ist in der Flor, bei einer Besprechung mit der Memovira. Ich denke, sie hat dort noch mehr weitere Aufträge für dich.“
-
-{ART: Mere_RI1_01_Lovac}</DefaultText>
+„Ich habe Paj Rekken von deiner Heldentat berichtet und sie möchte dir persönlich dafür danken. Geh gleich zu ihr. Sie ist in der Flor, bei einer Besprechung mit der Memovira. Ich denke, sie hat dort noch mehr weitere Aufträge für dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -864,9 +854,7 @@ Er begrüßt dich mit offenen Armen und einem breiten Lächeln. „Ein durchschl
 
 Er begrüßt dich mit offenen Armen und einem breiten Lächeln. „Ein durchschlagender Erfolg, meine Liebe. Was auch immer du getan hast, unser Versöhner ist wieder funktionsfähig und wir konnten unsere jüngsten Verluste bereits ungeschehen machen.“
 
-„Ich habe Paj Rekken von deiner Heldentat berichtet und sie möchte dir persönlich dafür danken. Geh gleich zu ihr. Sie ist in der Flor, bei einer Besprechung mit der Memovira. Ich denke, sie hat dort noch mehr weitere Aufträge für dich.“
-
-{ART: Mere_RI1_01_Lovac}</DefaultText>
+„Ich habe Paj Rekken von deiner Heldentat berichtet und sie möchte dir persönlich dafür danken. Geh gleich zu ihr. Sie ist in der Flor, bei einer Besprechung mit der Memovira. Ich denke, sie hat dort noch mehr weitere Aufträge für dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1024,9 +1012,7 @@ Der Mann ist dünn und klein und hat dunkelbraune Augen und einen freundlichen B
       <ID>186</ID>
       <DefaultText>Schwer bewacht und mit Kraftschilden und Temporalrandomisierern ausgerüstet, begleitet dich Lovac bis zum Rand des Niemandslandes. Schützengräben ziehen sich wie Narben durch den Boden und die Luft ist dick mit aufgewühltem Rauch, doch der noch nervenaufreibendere Anblick sind die Zeit- und Realitätssplitter, die wie Sommergewitter über das Land ziehen. In einem marschieren große Armeen. In einem anderen brennen Konstrukte mit leuchtenden Augen die Häuser fliehender Dorfbewohner nieder. Und so geht es immer weiter.
 
-Lovac deutet geradeaus. „Dort – irgendwo – ist dein Ziel. Benutze deine Instinkte, um den Schurken zu erwischen, aber sei vorsichtig. Zu viele Sprünge und du könntest in Realitäten landen, in denen der Sturm abklingt und die Splitter sich schließen. Pass auf, dass du nicht in einer entfernten Realität festsitzt, ohne Weg zurück.“
-
-{ART: Mere_RI1_04_ShardStorm}</DefaultText>
+Lovac deutet geradeaus. „Dort – irgendwo – ist dein Ziel. Benutze deine Instinkte, um den Schurken zu erwischen, aber sei vorsichtig. Zu viele Sprünge und du könntest in Realitäten landen, in denen der Sturm abklingt und die Splitter sich schließen. Pass auf, dass du nicht in einer entfernten Realität festsitzt, ohne Weg zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1206,9 +1192,7 @@ Du kennst die Stimme, die ihr antwortet: Es ist die Memovira. „Anders herum wi
 
 Paj stöhnt. „Soll ich das etwa unseren Überlebenden sagen? Dass sie das Monster, das dieses Massaker unter uns angerichtet hat, gewähren lassen sollen, in der Hoffnung, dass es unseren Feind zuerst vernichtet? Warum gibst du dich nicht endlich zu erkennen?“
 
-Die Tür geht auf und die Memovira tritt ein. „Die Zeit dafür ist noch nicht–“ Sie verstummt, als sie dich sieht. „Wer ist das?“
-
-{ART: Paj and the First}</DefaultText>
+Die Tür geht auf und die Memovira tritt ein. „Die Zeit dafür ist noch nicht–“ Sie verstummt, als sie dich sieht. „Wer ist das?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1503,9 +1487,7 @@ Er zuckt mit den Schultern. „Weißt du, was ich glaube? Dein Durchkommen zwang
 
 Dein Führer zeigt dir auf der Karte, dass ihr euch im Südosten der Tunnel befindet. Wege führen nach Westen und Norden.
 
-„Wohin jetzt, Schwester?“, fragt Igratch.
-
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+„Wohin jetzt, Schwester?“, fragt Igratch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1517,9 +1499,7 @@ Dein Führer zeigt dir auf der Karte, dass ihr euch im Südosten der Tunnel befi
       <ID>272</ID>
       <DefaultText>Dieser Raum wimmelt vor Falterlarven, groß wie ein menschliches Baby. Sie schnüffeln durch ein Bett aus Seide, blind und hilflos, aber alles andere als harmlos. In einer Ecke siehst du ein frisches Skelett – die Knochen sind noch saftig, aber völlig abgenagt. Die Babys waren hungrig.
 
-Du kannst nicht sagen, welche Fallen der Feind in diesem Raum installiert hat, aber du siehst drei Ausgänge – nach Norden, Westen und Osten.
-
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+Du kannst nicht sagen, welche Fallen der Feind in diesem Raum installiert hat, aber du siehst drei Ausgänge – nach Norden, Westen und Osten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1641,100 +1621,69 @@ Du kannst nicht sagen, welche Fallen der Feind in diesem Raum installiert hat, a
       <ID>298</ID>
       <DefaultText>Ein weiterer L-förmiger Tunnelabschnitt, doch dieser ist überschwemmt und in ihm steht hüfthoch trübes Wasser, in dem Fetzen abgeworfener Kokons schwimmen. Gelegentlich steigen Blasen an die Oberfläche.
 
-Es gibt zwei Ausgänge nach Norden und Osten und ohne es zu testen, kannst du nicht sagen, welche Art Falle der Feind im Wasser gelegt hat.
-
-{Room 4. Bomb. Exits are North, East. Untested.}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+Es gibt zwei Ausgänge nach Norden und Osten und ohne es zu testen, kannst du nicht sagen, welche Art Falle der Feind im Wasser gelegt hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Dies ist bloß eine leere Kreuzung mit Wegen, die nach Norden, Westen, Osten und Süden führen. Du kannst jedoch fühlen, dass hier irgendwo eine Falle lauert. Leider kannst du nicht sagen, welcher Art sie ist, ohne sie zu testen.
-
-{Room 7. Cypher. Exits are North, West, East, South. Untested.}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+      <DefaultText>Dies ist bloß eine leere Kreuzung mit Wegen, die nach Norden, Westen, Osten und Süden führen. Du kannst jedoch fühlen, dass hier irgendwo eine Falle lauert. Leider kannst du nicht sagen, welcher Art sie ist, ohne sie zu testen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
       <DefaultText>Der Korridor führt hinab in eine niedere Höhle voller Stalaktiten und Stalagmiten, die dir das Gefühl gibt, als würdest du das Maul einer riesigen Bestie betreten, die dich in einem Stück verschlingen könnte.
 
-Im von den Tropfsteinen gebrochenen Zwielicht siehst du Ausgänge nach Norden, Osten und Süden. Du siehst jedoch nicht, wo der Feind hier seine Falle gelegt hat. Du wirst sie testen müssen, um herauszufinden, welcher Art sie ist.
-
-{Room 8. Bomb. Exits are North, East, South. Untested.}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+Im von den Tropfsteinen gebrochenen Zwielicht siehst du Ausgänge nach Norden, Osten und Süden. Du siehst jedoch nicht, wo der Feind hier seine Falle gelegt hat. Du wirst sie testen müssen, um herauszufinden, welcher Art sie ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>Der Korridor endet an einem bodenlosen Schacht, in dessen Mitte sich vier enge Brücken ohne Geländer treffen. Offene Torbögen in den Wänden des Schachts führen nach Norden, Westen, Osten und Süden. Du bist sicher, dass der Punkt, an dem die vier Brücken sich treffen, mit einer Falle gesichert ist. Leider wirst du sie testen müssen, um herauszufinden, welcher Art sie ist.
-
-{Room 10. Bomb. Exits are North, West, East, South. Untested.}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+      <DefaultText>Der Korridor endet an einem bodenlosen Schacht, in dessen Mitte sich vier enge Brücken ohne Geländer treffen. Offene Torbögen in den Wänden des Schachts führen nach Norden, Westen, Osten und Süden. Du bist sicher, dass der Punkt, an dem die vier Brücken sich treffen, mit einer Falle gesichert ist. Leider wirst du sie testen müssen, um herauszufinden, welcher Art sie ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>Das Dach dieses Raums ist eingestürzt und wird nur noch durch einige steinerne Sarkophage hochgehalten. Du hockst dich hin und siehst, dass Ausgänge nach Norden, Westen, Osten und Süden führen. Du wirst auf allen Vieren kriechen müssen, um zu ihnen zu gelangen. Du weißt auch nicht, welche Art Falle dein Feind hier installiert hat. Du wirst sie testen müssen.
-
-{Room 11. Cypher. Exits are North, West, East, South. Untested.}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+      <DefaultText>Das Dach dieses Raums ist eingestürzt und wird nur noch durch einige steinerne Sarkophage hochgehalten. Du hockst dich hin und siehst, dass Ausgänge nach Norden, Westen, Osten und Süden führen. Du wirst auf allen Vieren kriechen müssen, um zu ihnen zu gelangen. Du weißt auch nicht, welche Art Falle dein Feind hier installiert hat. Du wirst sie testen müssen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>303</ID>
       <DefaultText>Dieser Raum ist von einem hüfthohen Sumpf aus Raupenseide bedeckt, in dem du es rascheln hörst und aus dem menschliche Knochen – Arme und Hände – hervorstehen wie die Zweige einer skelettartigen Hecke.
 
-Hinter dem Sumpf siehst du drei Ausgänge, die nach Norden, Osten und Süden führen. Du kannst jedoch, ohne es zu testen, nicht sagen, welche Falle sich in den Seidennetzen verbirgt.
-{Room 12. Bomb. Exits are North, East, South. Untested.}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+Hinter dem Sumpf siehst du drei Ausgänge, die nach Norden, Osten und Süden führen. Du kannst jedoch, ohne es zu testen, nicht sagen, welche Falle sich in den Seidennetzen verbirgt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>304</ID>
       <DefaultText>Ein weiterer L-förmiger Korridor, der nach Westen und Süden führt. Sein steinerner Boden so zertrümmert, als wäre hier bereits einmal etwas explodiert – abgebrochene spitze Scherben und schiefe Platten warten hier auf dich. Schwieriges Terrain.
 
-Du bist sicher, dass sich hier auch eine Falle verbirgt, doch du wirst sie testen müssen, um zu wissen, worum genau es sich handelt.
-
-{Room 13. Bomb. Exits are West, South. Untested.}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+Du bist sicher, dass sich hier auch eine Falle verbirgt, doch du wirst sie testen müssen, um zu wissen, worum genau es sich handelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>305</ID>
       <DefaultText>Dies ist ein Gebeinhaus. Überall sind verrottende menschliche Leichen wie Stapel Feuerholz aufgeschichtet. Der Geruch alleine reicht aus, dass du dich am liebsten auf der Stelle übergeben möchtest.
 
-Ausgänge führen nach Osten, Westen und Süden, aber um zu ihnen zu gelangen, musst du dich zwischen den Leichenstapeln durchzwängen. Außerdem bist du sicher, dass irgendwo in den engen Durchgängen eine Falle lauert. Du wirst sie testen müssen, um zu wissen, welcher Art sie ist.
-
-{Room 14. Cypher. Exits are West, East, South. Untested.}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+Ausgänge führen nach Osten, Westen und Süden, aber um zu ihnen zu gelangen, musst du dich zwischen den Leichenstapeln durchzwängen. Außerdem bist du sicher, dass irgendwo in den engen Durchgängen eine Falle lauert. Du wirst sie testen müssen, um zu wissen, welcher Art sie ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>306</ID>
       <DefaultText>Abgesehen von dem schwachen Licht, das von den nach Westen, Osten und Süden führenden Ausgängen hereinkommt, ist dieser Raum unnatürlich dunkel. Allerdings ist die Dunkelheit voller flüsternder Stimmen – ein ständiges Zischen und Hissen. Mal glaubst du, deinen Namen zu hören, dann die Stimme eines längst verstorbenen alten Freundes, der dich anfleht, ihn von seinen Schmerzen zu erlösen, dann gemurmelte Vorwürfe von Verrat.
 
-Irgendwo in der Dunkelheit hat der Feind eine Falle für dich gelegt, aber du wirst sie testen müssen, um zu wissen, welcher Art sie ist.
-
-{Room 15. Cypher. Exits are West, East, South. Untested.}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+Irgendwo in der Dunkelheit hat der Feind eine Falle für dich gelegt, aber du wirst sie testen müssen, um zu wissen, welcher Art sie ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>307</ID>
       <DefaultText>Ein scheinbar leerer Raum mit Ausgängen, die nach Osten und Süden führen, und einer Treppe an der nördlichen Wand, die hinauf ans Tageslicht führt. Du hast den Ausgang gefunden!
 
-Aber nur jetzt nichts überstürzen. Dieser Raum könnte ebenfalls mit einer Falle versehen sein. Vielleicht solltest du das erst mal testen.
-
-{Room 16. Cypher. Exits are East, South and North. Untested.}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+Aber nur jetzt nichts überstürzen. Dieser Raum könnte ebenfalls mit einer Falle versehen sein. Vielleicht solltest du das erst mal testen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText>Dieser Raum hat eine niedere Decke und unzählige von Seidenfäden umhüllte Steinsäulen. Es ist nicht leicht, in zur Gänze zu überblicken, doch du kannst gerade noch drei Ausgänge erkennen, die nach Norden, Westen und Osten führen. Ohne es zu testen, kannst du auch nicht sagen, welche Art Falle der Feind hier installiert hat.
-
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+      <DefaultText>Dieser Raum hat eine niedere Decke und unzählige von Seidenfäden umhüllte Steinsäulen. Es ist nicht leicht, in zur Gänze zu überblicken, doch du kannst gerade noch drei Ausgänge erkennen, die nach Norden, Westen und Osten führen. Ohne es zu testen, kannst du auch nicht sagen, welche Art Falle der Feind hier installiert hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1826,20 +1775,14 @@ Aber nur jetzt nichts überstürzen. Dieser Raum könnte ebenfalls mit einer Fal
       <ID>328</ID>
       <DefaultText>Deine Schritte hallen in diesem turmhohen Raum, dessen Decke du gerade noch in der Dunkelheit über dir ausmachen kannst. In Seidenfäden gehüllte Grabsteine stehen wie Schachfiguren auf einem schachbrettartigen Boden. Es gibt Ausgänge an allen vier Wänden – nach Norden, Westen, Osten und Süden.
 
-Du weißt, dass zwischen diesen Gräbern eine Falle versteckt ist, doch ohne sie zu testen, kannst du nicht sagen, welcher Art sie ist.
-
-{Room 6. Bomb. Exits are North, West, East, South. Untested.}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+Du weißt, dass zwischen diesen Gräbern eine Falle versteckt ist, doch ohne sie zu testen, kannst du nicht sagen, welcher Art sie ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>329</ID>
       <DefaultText>Glitzernde Kokons hängen von der niederen Decke dieses Raums und wogen wie im Wind leicht hin und her, obwohl du keinen Luftzug verspürst.
 
-Hinter den Kokons siehst du Ausgänge nach Norden, Westen und Süden. Was du jedoch nicht siehst, ist die Falle, die hier bestimmt gelegt wurde. Du wirst sie testen müssen, um herauszufinden, welcher Art sie ist.
-
-{Room 9. Untested. Cypher. Exits are North, West, South}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+Hinter den Kokons siehst du Ausgänge nach Norden, Westen und Süden. Was du jedoch nicht siehst, ist die Falle, die hier bestimmt gelegt wurde. Du wirst sie testen müssen, um herauszufinden, welcher Art sie ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1856,10 +1799,7 @@ Hinter den Kokons siehst du Ausgänge nach Norden, Westen und Süden. Was du jed
       <ID>332</ID>
       <DefaultText>Dieser Raum ist in das grüne Licht phosphoreszierender Pilze getaucht, die auf allem hier wachsen – auf dem Boden, auf den von der Decke gefallenen Steinen und auf den Leichen von Soldaten, die hier an der Wand liegen als wären sie dorthin geworfen worden. Selbst die offenen Durchgänge, die von dem Raum nach Norden, Westen und Süden führen, sind voller Pilze.
 
-Irgendwo zwischen den Pilzen ist eine Falle versteckt, doch ohne sie zu testen kannst du nicht sagen, welcher Art sie ist.
-
-{Room 5. Bomb. Exits are North, West, South. Untested.}
-{ART: Mere_RI1_02_Map – showing current room location if possible}</DefaultText>
+Irgendwo zwischen den Pilzen ist eine Falle versteckt, doch ohne sie zu testen kannst du nicht sagen, welcher Art sie ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
